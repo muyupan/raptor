@@ -1,0 +1,101 @@
+This document describes the M-1978 Koksan North Korean 170mm Self-Propelled Gun (SPG).
+
+M-1978 Koksan North Korean 170mm Self-Propelled Gun (SPG) of North Korean design and manufacture, is probably mounted on a T-54 chassis, a Chinese Type 59 hull, or a T62 Chassis [most sources tend towards the Type 59 tank chassis, the CHICOM derivative of the T-54]. The 170mm gun has no superstructure, and it has 2 large spades at the rear. The 170mm (~6.69") gun itself is a previously unknown type, possibly Russian coastal-defense or ex-naval weapon. The M-1978 Koksan gun was first noted publicly in a parade in 1985. The Koksan is named after the city in North Korea where it was first seen by the West in 1978. The M-1978 version carried no onboard ammunition supply.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of), North Korea (Democratic People's Republic of Korea).
+
+Here is Variants information for the M-1978 Koksan North Korean 170mm Self-Propelled Gun (SPG):
+The M-1978 is The M-1978 Koksan is a 170 mm self-propelled gun of North Korean design and manufacture. Very little information is available due to the secretive nature of the North Korean government. The designations M-1978 and Koksan were given to the type by American military analysts, as they first became aware of it in that year in Koksan, North Korea..
+
+Here is System information for the M-1978 Koksan North Korean 170mm Self-Propelled Gun (SPG):
+The Alternative Designation is M-1978 / M1989 (KOKSAN).
+The In Service is 1989-Present.
+The Manufacturer is Second Machine Industry Bureau, North Korea.
+The Type is 170mm Self-Propelled Gun (SPG).
+The Family is Koksan, “Juche-Po” self-propelled guns family.
+The Crew is 4 (Driver, commander, gunner, loader).
+The Chassis is Modified Chinese Type 59 medium tank chassis (copy of the Soviet T-54A) with an added cab at the front.
+The Displacement Time is less than 10.
+The Emplacement Time is less than 20.
+The Note is Ammunition resupply vehicles are required to be assigned in the location of the M1978.
+
+Here is Dimensions information for the M-1978 Koksan North Korean 170mm Self-Propelled Gun (SPG):
+The Length is 14.9.
+The Width is 3.27.
+The Height is 3.1.
+The Weight, Combat is 40.
+The Ground Pressure is INA.
+
+Here is Automotive information for the M-1978 Koksan North Korean 170mm Self-Propelled Gun (SPG):
+The Engine Name is V-59.
+The Engine Type is V-12 multi fuel.
+The Engine Power is 520.
+The Cruising Range is 300.
+The Speed, Maximum Road is 40.
+The Speed, Average Cross is 10.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 40.
+The Side Slope is 20.
+The Vertical Step is 1.
+The Trench is 2.5.
+The Fording Depth is 1.2.
+
+Here is Communications information for the M-1978 Koksan North Korean 170mm Self-Propelled Gun (SPG):
+The Radio is R-123M.
+
+Here is System information for the M-1978 Koksan North Korean 170mm Self-Propelled Gun (SPG) of the Main Gun:
+The Name is 170mm Soviet Coastal Gun.
+The Type is 170.
+The Breech Type is Screw-type breech mechanism.
+The Length, Barrel is INA.
+The Loader Type is Manual.
+The Max Rate of Fire is 1-2.
+The Rate of Fire, Burst is 1.
+The Muzzle Brake Type is Multi slotted muzzle brake.
+The Fume Extractor is No.
+The Max Elevation is INA.
+The Min Elevation is INA.
+The Traverse Range is 20.
+The Traverse Left is 10.
+The Traverse Right is 10.
+The Maximum Firing Range is 40-60.
+The Power Rammer is Most likely.
+
+Here is Ammunition (Option 1) information for the M-1978 Koksan North Korean 170mm Self-Propelled Gun (SPG) of the Main Gun:
+The Type is HE FRAG.
+The Caliber is 170.
+The Muzzle Velocity is INA.
+The Basic Load is 12 total of 170mm Projectiles.
+The Maximum Effective Range is 40.
+
+Here is Ammunition (Option 2) information for the M-1978 Koksan North Korean 170mm Self-Propelled Gun (SPG) of the Main Gun:
+The Type is Rocket Assisted HE FRAG.
+The Caliber is 170.
+The Muzzle Velocity is INA.
+The Basic Load is 12 total of 170mm Projectiles.
+The Maximum Effective Range is 60.
+
+Here is Fire Control information for the M-1978 Koksan North Korean 170mm Self-Propelled Gun (SPG):
+The Name is INA.
+The Computerized FCS is Yes, There is a upgraded FCS compared to the M-1978, but there is very little information on North Korea Equipment.
+The Thermal Sight Vehicle Commander is Yes, infra-red night vision equipment.
+The Thermal Sight Gunner is Yes, infra-red night vision equipment.
+The Main Gun Stabilization is Yes, Two large spades that are lowered to the ground manually before firing.
+The Indirect Fire is Range drum.
+The Direct Fire is INA.
+The Collimator is K-1.
+The Fire Control Computer is No.
+The Fun Display Unit is No.
+
+Here is Protection information for the M-1978 Koksan North Korean 170mm Self-Propelled Gun (SPG):
+The Hull Armor is Open-mounted, providing no armored protection for its assumed 4-6 crew members..
+The Turret Armor is Open-mounted, providing no armored protection for its assumed 4-6 crew members..
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, smoke screen by injecting diesel fuel into the exhaust outlet.
+The IR Signature is INA.
+

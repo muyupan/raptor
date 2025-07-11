@@ -1,0 +1,77 @@
+This document describes the MT-55A Russian Armored Vehicle-Launched Bridge (AVLB).
+
+The MT-55A (Slovak: Mostný tank) is an armored vehicle-launched bridge (AVLB) tank, manufactured by ZTS Martin in Slovakia. The AVLB is based on a T-55A medium tank chassis, with the turret detached and replaced by special bridge launching equipment.
+
+The MT-55A was produced for the armies of the Warsaw Pact (including the Soviet Army), as well as for export clients.
+
+The MT-55, Base T-55, was designed and produced by ZTS Martin in 1962 (former Czechoslovakia was one of the countries that build the T-54/55 series under license). The development phase ended in 1967 after which five pre-series vehicles were built. The MT-55A, Base T-55A, series production started in 1969.
+
+The transformed T-55A chassis differs by the arrangement of the compartments in the hull. The bridge tank is proposed for an easy and swift crossing of antitank barriers (trenches) and other obstacles with the purpose of facilitating the passage of mechanized and tank units.
+
+The bridge initiating equipment is controlled by a system of hydraulic cylinders; the allocation of hydraulic oil can be controlled both manually by mechanical levers and automatically. The pressure of the liquid is provided by high-pressure piston pumps motorized by the tank engine. All mechanisms of the MT-55A used for laying and recovering the bridge can be controlled by the crew from inside the tank with the hatch covers closed.
+
+To begin the launching process, the vehicle stops short of the gap; then, the bridge swings ahead and down while its two sections open like scissors. The MT-55A span is 20 meters long and can support loads of up to 50 tons. Later, the MT-55A was modified with a gap measuring mechanism and infrared equipment for bridge laying in darkness.
+
+Total production of the MT-55A between 1969 and 1983 amounted to 1,762 vehicles, including 183 export versions MT-55KS (from 1971) and 301 hulls for East Germany's BLG-60 program.
+
+This equipment has proliferated into the following countries: Belarus, CFE Treaty, Czech Republic, Egypt, Georgia, India, Iraq, Israel, Myanmar, North Korea (Democratic People's Republic of Korea), Romania, Russian Federation, Serbia, Slovakia, Slovenia, Sri Lanka, Syria, Ukraine.
+
+Here is Variants information for the MT-55A Russian Armored Vehicle-Launched Bridge (AVLB):
+The MT-55 is Pre-series model, equipped with the bridge of the MT-34 bridge-layer..
+The MT-55KS is Export model for "capitalist" non-Warsaw Pact countries. Based on the T-55A without radiation protection layer both otherwise similar..
+The PM-55 is Wheeled version, based on a Tatra 813 "Kolos" 8x8 truck..
+
+Here is System information for the MT-55A Russian Armored Vehicle-Launched Bridge (AVLB):
+The Alternative Designation is MT-55A.
+The Type is Armoured Vehicle-Launched Bridge (AVLB).
+The Manufacturer is ZTS Martin.
+The Chassis is T-55A Tank (modified).
+The Crew is 2.
+
+Here is Dimensions information for the MT-55A Russian Armored Vehicle-Launched Bridge (AVLB):
+The Length is 9.90 m.
+The Width is 3.30 m.
+The Height is 3.35 m.
+The Weight is 36 tons.
+
+Here is Bridge System information for the MT-55A Russian Armored Vehicle-Launched Bridge (AVLB):
+The Type is Scissors.
+The Capacity is 50 tons.
+The Length Opened is 18.
+The Width is 3.3.
+The Width of Obstacle is 17.
+The Weight is 6.5.
+The Emplacement Time is 2.
+The Displacement Time is 5-6.
+
+Here is Automotive information for the MT-55A Russian Armored Vehicle-Launched Bridge (AVLB):
+The Engine Name is V-55.
+The Engine Type is 12-cyl. 38.88 liter water-cooled diesel.
+The Engine Power is 580 hp.
+The Power-to-Weight Ratio is 14 hp/ton.
+The Suspension is Torsion bar.
+The Maximum Speed is 50 km/h.
+The Range is 690 km.
+The Fording Depth is 1.4 m.
+The Vertical Step is 0.7 m.
+
+Here is Communications information for the MT-55A Russian Armored Vehicle-Launched Bridge (AVLB):
+The Tactical Radio is 1 x R-123 HF/VHF Radio..
+
+Here is Main Weapon System information for the MT-55A Russian Armored Vehicle-Launched Bridge (AVLB):
+The Note is There are no crew-served weapons associated with the MT-55A..
+
+Here is Protection information for the MT-55A Russian Armored Vehicle-Launched Bridge (AVLB):
+The Hull Armor is 100 mm hull front;
+79 mm hull upper sides;
+20 mm hull lower sides;
+60 mm at 0° hull rear;
+20 mm hull bottom;
+33-16 mm hull roof.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is None.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

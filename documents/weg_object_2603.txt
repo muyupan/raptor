@@ -1,0 +1,172 @@
+This document describes the BTR-60PB Russian 8x8 Amphibious Armored Personnel Carrier (APC).
+
+The BTR-60PB armored personnel carrier is a further development of the previous BTR-60PA. This APC was produced in large numbers. Its production commenced in 1966 and ceased in 1976. For a long period of time, the BTR-60PB was used to transport Soviet motorized infantry troops. It has also been exported to a number of countries. Despite its age, the BTR-60PB is still in service with at least 30 operators worldwide.
+
+The BTR-60 PB has the main entry that differs from the PA in the adoption of the BRDM-2's machine-gun turret holding machine guns of two different calibers, a 14.5-mm machine gun, with a 7.62-mm machine gun mounted co-axially. Some later variants have similar sighting equipment to the BTR-70; there is a small periscopic sight on the turret roof.
+It has well-sloped armor on the sides and an overhead armor cover. The hull is of all-welded steel construction, with the driver and commander seated at the front, a personnel compartment in the mid-section, on top of which is a one-man turret, with the engine compartment at the rear of the hull. Troops enter from a top hatch.
+
+The BTR-60PB performs wellgoing cross-country in conditions that favor wheels. On land or water, the vehicle is steered by the front two sets of wheels, which have power steering. The boat-shaped hull with sloped sides provides good swimming capability and helps deflect hostile fire. The BTR-60PB has searchlight and IR equipment, allowing it to conduct night operations.
+
+The Kharkiv Morozov Machine-Building Design Bureau (KMDB) offers a version of the BTR-60PB with a new power pack. The upgrade replaces the original Russian-made GAZ-49B carburetor-type engines with a Ukrainian-made UTD-20 diesel engine. The new engine provides a 20 percent decrease in fuel consumption; an increase in cruising range from 310 mi (500 km) to 373 mi (600 km); and a better power-to-weight ratio.
+
+This equipment has proliferated into the following countries: Cambodia, Finland, Laos (People's Democratic Republic), Russian Federation, Ukraine, Viet Nam.
+
+Here is Variants information for the BTR-60PB Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The BTR-60P is Initial model with open top, pintle-mounted 7.62-mm machine gun..
+The BTR-60PA/BTR-60PK (12 passengers only) is Covered top, NBC protection, pintle-mounted 7.62-mm MG, still exit over top..
+The BTR-60PB (space for 8 soldiers for dismounted operations) is Most common variant with BRDM-2 MG turret with a 14.5-mm MG & coaxial 7.62-mm; troops exit over top..
+The Modernized BTR-60PB is BM2 Turret with 30-mm 2A42 Cannon & 7.62-mm PKTM MG; 30-mm AGS-17 AGL on left side..
+The BTR-60U is Command vehicle with additional radios..
+The BTR-60 PU-12/12M is Anti-Aircraft units’ command vehicle..
+The BTR-60 MS is Radio vehicle with High Ball antenna..
+The BTR-60 VVS is Sans turret with additional radios..
+The BTR-60 PBK is BTR-60PB with 3 radios..
+The BTR-60 1V18 is Artillery observation vehicle..
+The BTR-60 1V19 is BTR-60 1V18 for FDC operations..
+The BTR-60 R-145BM is Communications vehicle with 5 radios..
+The BTR-60 R-975 is Forward air-control vehicle with turret..
+The BTR-60-Z-351BR is Power production vehicle with generator..
+The BTR-60-P-238BT is Switchboard vehicle for communications..
+The BTR-60-P-240BT is Integrates radio & wire communications- R-123M radio & R-241 switchboard..
+The BTR-60-P241BT is Equipped with P-241 telephone system..
+The BTR-60-R-137B is Communications vehicle with turret..
+The BTR-60 ACRV is Artillery Battery C2 & recon vehicle..
+The BTR-60-R-145 is Additional radio, but no turret..
+The BTR-60-R-156BTR is C2 vehicle with additional radios..
+The BTR-60-R-409BM is Relay vehicle-R-409 & R-123M radios..
+The BTR-60PAU (Bulgaria) is Artillery command vehicle..
+The BTR-60PB-MD (Bulgaria) is Upgraded engine, radios, & NBC equipment..
+The BTR-60P Maintenance Assistance (MTR-2) is Maintenance vehicle with tarp over troop compartment..
+The BTR-60 SPAAG (Cuba) is Twin 30-mm anti-aircraft cannons..
+The BTR-60 Djibouti (Djibouti) is AML-90 turret on BTR-60..
+The BTR-60BD is Speed increased to 100 km/h & range to 800 km..
+The MTP-2 is Armored Recovery Vehicle..
+The BTR-60PZ is Final production model with 1PZ-2 roof-mounted periscope..
+The BTR-60-R-140BM is C2 vehicle with turret..
+The MEP is Infantry command post..
+The BTR-60PB FAC is Turreted FAC vehicle without the gun..
+The BTR-60-R-156BTR is Armoured C2 communications system vehicle with one R-156 HF set, one R-405, and one R-123M radio. This is not fitted with a turret..
+
+Here is System information for the BTR-60PB Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designations is BTR-60PB.
+The Type is Amphibious Armored Personnel Carrier (APC).
+The Manufacturer is Gorkovsky Avtomobilny Zavod (Soviet Union)
+Ratmil Regie Autonoma (Romania, TAB-71).
+The Configuration is 8x8.
+The Crew is 3.
+The Passengers is 14.
+
+Here is Dimensions information for the BTR-60PB Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Length is 7.56.
+The Width is 2.83.
+The Height is 2.31.
+The Weight, Combat is 10.3.
+
+Here is Automotive information for the BTR-60PB Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is Ukrainian-made UTD-20.
+The Engine Type is Diesel engine.
+The Engine Power is 90 hp each, 180 hp combined.
+The Range, Crusing is 600.
+The Speed, Maximum Road is 80.
+The Speed, Maximum Swim is 10.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.0.
+The Fording Depth is Amphibious.
+The Fuel Capacity is INA.
+The Note is The new engine provides a 20 percent decrease in fuel consumption;.
+
+Here is Communications information for the BTR-60PB Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Primary is R-123.
+The Secondary is R-113.
+
+Here is System information for the BTR-60PB Russian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 x KPVT 14.5mm Heavy Machine Gun (KPV).
+The Type is Heavy Machine Gun (KPV).
+The Caliber is 14.5.
+The Manufacturer is V.A. Degtyarev Plant.
+The In Service is 1949-Present.
+The Proliferation is Widely Proliferated.
+The Weight is 49.
+The Total Length is 1,980.
+The Barrel Length is 1,346.
+The Width is 162.
+The Height is 225.
+The Rate of Fire is 600.
+The Maximum Firing Range is 4,000.
+The Effective Firing Range is 3,000.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+
+Here is Ammunition information for the BTR-60PB Russian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is INA.
+The Type is API-T.
+The Caliber is 14.5 mm.
+The Cartridge is 14.5×114 mm.
+The Muzzle Velocity is 1,005.
+The Effective Range (Day) is 2,000.
+The Effective Range (Night) is INA.
+The Tactical Range is 1,500-2,000.
+The Armor Penetration is 20 at 1,000 m/ 30 at 500 m.
+The Basic Load is 500.
+The Note is Additional Ammo includes: API, I-T.
+
+Here is System information for the BTR-60PB Russian 8x8 Amphibious Armored Personnel Carrier (APC) of the Auxiliary Weapon System:
+The Name is 1 x 7.62mm PKT (Kalashnikov's Machine Gun) General Purpose Machine Gun.
+The Type is General Purpose Machine Gun.
+The Caliber is 7.62.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces.
+The Manufacturer is Degtyaryov plant.
+The In Service is 1961-Present.
+The Proliferation is + 1 Million.
+The Max Rate of Fire is 650.
+The Effective Rate of Fire is 250-300.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Length, Total is 1,203.
+The Length, Barrel is 605.
+The Action is Gas-operated, open bolt.
+The Effective Firing Range (With Sight Adjustments) is 100-1,500.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the BTR-60PB Russian 8x8 Amphibious Armored Personnel Carrier (APC) of the Auxiliary Weapon System:
+The Name is 57-N-323S.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR km.
+The Muzzle Velocity is 855.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 2,500.
+
+Here is Fire Control information for the BTR-60PB Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Vehicle Commander is TKN-1.
+The Thermal Gunner is PP-61A optical sight.
+The Main Gun Stabilization is INA.
+The Turret Type is BPU-1 turret.
+The Infrared Light is OU-3 infrared light.
+
+Here is Protection information for the BTR-60PB Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Armor Material is Welded steel.
+The Armor Hull is 7 mm at 86° hull upper front;
+9 mm at 47° hull lower front;
+7 mm hull sides;
+5 mm hull upper rear;
+7 mm hull lower rear;
+5 mm hull floor;
+7 mm hull roof.
+The Armor (turret front) is 10 mm turret front;
+7 mm turret sides;
+7 mm turret sear;
+7 mm turret roof.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is Collective (closed vehicles).
+The Smoke Equipment is No.
+The Survivability Equipment is No.
+

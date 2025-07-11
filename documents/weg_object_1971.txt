@@ -1,0 +1,104 @@
+This document describes the Barrett M82 (M107) American Semi-Automatic Sniper Rifle.
+
+The Barrett M82, standardized by the U.S. military as the M107, is a recoil-operated, semi-automatic anti-materiel sniper system developed by the American Barrett Firearms Manufacturing company. Despite its designation as an anti-materiel rifle, it is used by some armed forces as an anti-personnel system. The M107 variant is also called the Light Fifty for its .50 BMG (12.7×99mm NATO) chambering and significantly lighter weight compared to previous applications and the 15% heavier base M82 model. The weapon is found in three variants, the original M82A1 (and A3), the bullpup M82A2, and Barrett M107A1 with a muzzle brake designed to accept suppressor and made out of titanium instead of steel. The M82A2 is no longer manufactured, though the XM500 can be seen as its successor.
+
+
+Barrett Firearms Manufacturing was founded by Ronnie Barrett for the sole purpose of building semi-automatic rifles chambered for the powerful 12.7×99mm NATO (.50 BMG) ammunition, originally developed for and used in M2 Browning machine guns. The weapon was first sold to the Swedish Army in 1989. In 1990, the United States armed forces purchased the M82A1 during operations Desert Shield and Desert Storm in Kuwait and Iraq. About 125 rifles were initially bought by the United States Marine Corps, and orders from the Army and Air Force soon followed. The M82A1 is known by the US military as the SASR—"Special Applications Scoped Rifle", and it was and still is used as an anti-materiel rifle and explosive ordnance disposal tool.
+
+In 2006, Barrett completed the development of the XM500, which has a bullpup configuration similar to the M82A2. Barrett M82 rifles were bought by various military and police forces from at least 30 countries, such as Belgium, Chile, Denmark, Finland, France, Germany, Greece, Indonesia, Italy, Jamaica, Mexico, the Netherlands, and others.
+
+The Barrett M82A1 rifle was used in 2002 as a platform for the experimental OSW (Objective Sniper Weapon) prototype. This weapon was fitted with a shorter barrel and fired 25mm high-explosive shells developed for the 25×59 mm OCSW (Objective Crew Served Weapon) automatic grenade launcher. The experimental OSW showed an increased effectiveness against various targets, but the recoil was beyond human limitations. This weapon, also known as the Barrett "Payload Rifle", has now been designated the XM109.
+
+The M82 is a short-recoil semi-automatic firearm. When the gun is fired, the barrel initially recoils for a short distance (about 1 in (25 mm)), while being securely locked by the rotating bolt. After the short travel, the lower part of the accelerator arm, held by the receiver's upper part, is already hinged in a bolt carrier and the middle portion strikes it back to the barrel by a rod placed in the bolt carrier, transferring part of the recoil energy of the barrel to the bolt to achieve reliable cycling and unlock it from the barrel. The bolt is unlocked by turning in the curved cam track in the bolt carrier. Then, the barrel is stopped by the combined effect of the accelerator, buffer spring, and muzzle brake and the bolt continues back, to extract and eject a spent case.[clarification needed] On its return stroke, the bolt strips the fresh cartridge from the box magazine and feeds it into the chamber, and finally locks itself to the barrel. The striker is also cocked on the return stroke of the bolt. The gun is fed from a large, detachable box magazine holding up to 10 rounds, although a rare 12-round magazine was developed for use during Operation Desert Storm in 1991.
+
+The receiver is made from two parts (upper and lower), stamped from sheet steel and connected by cross-pins. The heavy barrel is fluted to improve heat dissipation and save weight, and fitted with a large and effective reactive muzzle brake. On the earlier models, the muzzle brakes had a round cross-section; later M82 rifles are equipped with two-chamber brakes of rectangular cross-sections.
+
+M82A1 rifles are fitted with scope mount and folding backup iron sights, should the glass scope break. The U.S. military M82 rifles are often equipped with Leupold Mark 4 telescopic sights. The M82A1M (USMC M82A3) rifles have long Picatinny accessory rails mounted and US Optics telescopic sights. Every M82 rifle is equipped with a folding carrying handle and a folding bipod (both are detachable on the M82A3). The M82A3 is also fitted with a detachable rear monopod under the butt. The buttpad is fitted with a soft recoil pad to further decrease the felt recoil. M82A1 and M82A3 rifles could be mounted on the M3 or M122 infantry tripods (originally intended for machine guns) or on vehicles using the special Barrett soft mount. The M82A1 can be fitted with a carry sling, but according to those who carried it in the field, the M82 is too uncomfortable to be carried on a sling due to its excessive length and weight. It is usually carried in a special carry soft or hard case.
+
+This equipment has proliferated into the following countries: Australia, Austria, Bahrain, Bangladesh, Belgium, Bhutan, Botswana, Brazil, Canada, Chile, Croatia, Denmark, Egypt, El Salvador, Finland, France, Georgia, Germany, Greece, Heard Island and McDonald Islands, India, Indonesia, Iraq, Israel, Italy, Jordan, Kuwait, Lebanon, Lithuania, Malaysia, Mexico, Netherlands, New Zealand, Oman, Pakistan, Panama, Philippines, Poland, Portugal, Qatar, Romania, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Thailand, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom of Great Britain and Northern Ireland, United States of America, Yemen.
+
+Here is Variants information for the Barrett M82 (M107) American Semi-Automatic Sniper Rifle:
+The M107-A1 is Product improvement of the M82A1A. Improvements include: reduction in weight by 5 pounds; cylindrical titanium muzzle brake; titanium barrel key/recoil buffer system in order to operate with a Barrett suppressor; functional modifications to increase durability and ease of operation. Barrett introduced this variant in 2013.
+The M107 is The M107 variant is also called the Light Fifty for its .50 BMG (12.7×99mm NATO) chambering and significantly lighter weight compared to previous applications and the 15% heavier base M82 model..
+
+Here is Dimensions information for the Barrett M82 (M107) American Semi-Automatic Sniper Rifle of the System:
+The Length, Barrel  is 736.0.
+The Length, Overall  is 1448.0.
+The Weight, Empty without Magazine is 14.75.
+
+Here is Ammunition (Option 1) information for the Barrett M82 (M107) American Semi-Automatic Sniper Rifle of the Ammunition:
+The Name is Raufoss Grade A (match)(DODIC A606) (USMC).
+The Type is Standard operating round .
+The Caliber/Length  is 12.7x99 mm (.50 cal).
+The Muzzle Velocity  is 854.0.
+The Range, Maximum, with Scope  is 1800.0.
+
+Here is Ammunition (Option 2) information for the Barrett M82 (M107) American Semi-Automatic Sniper Rifle of the Ammunition:
+The Name is MP NM140 (Nammo) MK211 Mod 0.
+The Caliber/Length  is 12.7-mm x 99-mm (.50 cal).
+The Armor Penetration  is 11 mm at 45 degrees at 1,000 m.
+The Fragmentation is 20 fragments after hitting 2 mm steel .
+The Incendiary Effect is Ignition of JP4 and JP8.
+The Muzzle Velocity  is 915.0.
+The Range, Maximum, with Scope  is 1800.0.
+The Accuracy is less than 15 cm at  550 m .
+
+Here is Ammunition (Option 3) information for the Barrett M82 (M107) American Semi-Automatic Sniper Rifle of the Ammunition:
+The Name is AP-S NM173 (Nammo) .
+The Type is Armor piercing .
+The Caliber/Length  is 12.7-mm x 99-mm (.50 cal).
+The Armor Penetration  is 11 mm at 30 at 1,500 m.
+The Muzzle Velocity  is 915.0.
+The Range, Maximum, with Scope  is 1800.0.
+The Accuracy is less than 15 cm at  550 m .
+
+Here is Ammunition (Option 4) information for the Barrett M82 (M107) American Semi-Automatic Sniper Rifle of the Ammunition:
+The Name is M903 (Olin) .
+The Type is Saboted Light Armor Penetrator (SLAP) (actual bullet is tungsten .30 inch penetrator wrapped in a .50-cal plastic sabot).
+The Bullet is 12.7- mm x 99-mm (.50 cal).
+The Armor Penetration  is 19 mm (.75 in) at 1,500 m.
+The Muzzle Velocity  is 1014.0.
+The Range, with Scope  is 1500.0.
+The Accuracy  is INA.
+
+Here is Ammunition (Option 5) information for the Barrett M82 (M107) American Semi-Automatic Sniper Rifle of the Ammunition:
+The Name is M8 .
+The Type is Armor piercing incendiary .
+The Armor Penetration is 20 mm at  100 m.
+The Caliber/Length  is 12.7-mm x 99-m (.50 cal).
+The Muzzle Velocity  is 881.0.
+The Range, Maximum, with Scope  is 1800.0.
+The Accuracy is less than 25 cm at  550 m .
+
+Here is Ammunition (Option 6) information for the Barrett M82 (M107) American Semi-Automatic Sniper Rifle of the Ammunition:
+The Name is M20.
+The Type is API-T.
+The Caliber/Length  is 12.7-mm x 99-mm (.50 cal).
+The Armor Penetration is 20 mm at  100 m.
+The Muzzle Velocity  is 887.0.
+The Accuracy is less than 25 cm at  550 m .
+
+Here is Ammunition All information for the Barrett M82 (M107) American Semi-Automatic Sniper Rifle of the Ammunition:
+The Combat Load is 30, typical.
+The Type is Ball, AP, AP-I, API-T, Tracer, SLAP, MP.
+
+Here is Night Sight information for the Barrett M82 (M107) American Semi-Automatic Sniper Rifle of the Sights:
+The Available is Yes.
+The Available is Yes..
+The Magnification is 10x42.
+
+Here is Sights #1 information for the Barrett M82 (M107) American Semi-Automatic Sniper Rifle of the Sights:
+The Name is Unertl.
+The Type is Optical (matches trajectory of .50-cal Raufoss Grade A).
+The Magnification is 10x.
+
+Here is Sights #2 information for the Barrett M82 (M107) American Semi-Automatic Sniper Rifle of the Sights:
+The Name is Swarovski.
+The Type is Optical (with ranging reticle).
+The Magnification is 10x42.
+
+Here is Sights #3 information for the Barrett M82 (M107) American Semi-Automatic Sniper Rifle of the Sights:
+The Name is Barrett Optical Ranging System (BORS).
+The Type is Ballistic Computer. This add-on device couples to the telescope, in place of the rear scope ring. It can then adjust for range, air temperature, round used, and other factors..
+The Notes is A commonly associated scope is the Leupold Mark 4; but it can also work with other scopes..
+

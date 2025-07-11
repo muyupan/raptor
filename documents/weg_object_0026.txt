@@ -1,0 +1,52 @@
+This document describes the 30N6 Flap Lid Russian Ground-Based Target Acquisition and Tracking Radar.
+
+The Flap Lid is a Russian ground-based target acquisition and tracking radar associated with the SA-10 Grumble ** surface-to-air missile (SAM) system. It uses a phased-array antenna and a track-via-missile (TVM) tracking and guidance system similar to that of the MIM-104 Patriot /MPQ-53 system.
+Flap Lid can reportedly track six targets and guide two missiles per target simultaneously. The launch rate is claimed to be three missiles per second. Target elevation coverage may have been increased from 50 degrees to a maximum of 75 degrees to provide a measure of ballistic missile defense capa bility. The SA-10B system takes approximately five minutes to deploy.
+
+The trailer-mounted Flap Lid A radar is associated with the SA-10A, while the truck-mounted (MAZ-7910) Flap Lid B is associated with the SA-10B (S-300P ) system. Although the radar has few changes, its mounting on a truck allows for rapid deployment and disengagement. Both options provide 360-degree coverage in azimuth.
+
+The S-400 reportedly uses a new tracking and missile guidance radar that is based on the Flap Lid sensor, but with a larger antenna assembly along with a secondary array.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the 30N6 Flap Lid Russian Ground-Based Target Acquisition and Tracking Radar:
+The 30N6E is Export variant for the S-300PMU1 , SA-20A Gargoyle and SA-10D systems..
+The 30N6E-1 Flap Lid D/Tomb Stone is Export variant for the S-300PMU2 system.
+The 30N6E2 is export variant for the S-300PMU2 /SA-20B Gargoyle /Favorit systems uses the Tomb Stone 30N6-E2 radar, but features new missiles and other radars as well as an Elbrus -90 microcomputer with greater capacity and speed..
+The 30N6 Flap Lid B is This is an upgraded variant. It features include the ability to engage simultaneously six targets, with two missiles against each target. Its phased-array beam-steering angular range is extended for instantaneous coverage of a 90-degree sector, comparable to the SPY-1 Aegis radar..
+
+Here is System information for the 30N6 Flap Lid Russian Ground-Based Target Acquisition and Tracking Radar of the 30N6 Flap Lid FLAP Lid:
+The Name is 30N6 Flap Lid FLAP Lid.
+The Type is Engagement Radar.
+The Antenna is 2.75 sq m.
+The Band is I-J (8-20 GHz).
+The Interception Range is 90.
+The Minimum Interception Altitude is 25.
+The Maximum Target Velocity is 4,200 kmh.
+The Target Elevation Coverage is 0-50 degrees.
+The Screening angle is 100 degrees.
+The Mount is The 30N6 FLAP LID A is mounted on a small trailer.
+The Note is The 36D6 TIN SHIELD radar can also be used to augment the S-300 system to provide earlier target detection than the FLAP LID radar allows. It can detect a missile-sized target flying at an altitude of 60 metres (200 ft) at least 20 km (12 mi) away, at an altitude of 100 m (330 ft) at least 30 km (19 mi) away, and at high altitude up to 175 km (109 mi) away. In addition a 64N6 BIG BIRD E/F band target acquisition radar can be used which has a maximum detection range of 300 km (190 mi)..
+
+Here is Dimensions (Chassis:  MAZ-7910 8 x 8 Truck) information for the 30N6 Flap Lid Russian Ground-Based Target Acquisition and Tracking Radar:
+The Length is 9.40.
+The Width is 3.10.
+The Height is 3.70.
+The Weight is 20,000.
+
+Here is Automotive  (Chassis:  MAZ-7910 8 x 8 Truck) information for the 30N6 Flap Lid Russian Ground-Based Target Acquisition and Tracking Radar:
+The Engine Name is D12A-525.
+The Engine Type is V-12 water-cooled diesel.
+The Engine Power is 525 hp at 2,100 rpm.
+The Power-to-Weight Ratio is 26.25 hp/metric ton.
+The Maximum Speed, Road is 60.
+The Maximum Speed, Off-Road is 30.
+The Maximum Range is 800.
+
+Here is Communications information for the 30N6 Flap Lid Russian Ground-Based Target Acquisition and Tracking Radar:
+The VHF Radio is R-168 Akveduk.
+The HF Radio is R-161 Poisk.
+
+Here is Protection information for the 30N6 Flap Lid Russian Ground-Based Target Acquisition and Tracking Radar:
+The Armor is INA.
+

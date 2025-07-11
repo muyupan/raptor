@@ -1,0 +1,40 @@
+This document describes the RQ-11B Raven American Unmanned Aerial Vehicle (UAV).
+
+The RQ-11B Raven American Unmanned Aerial Vehicle (UAV) is the most widely deployed unmanned aircraft system in the world, ideal for low-altitude intelligence, surveillance, and reconnaissance missions that depend on rapid deployment and pinpoint maneuverability. Lightweight and simple to operate, the Raven is rucksack portable and can be hand-launched for day or night observation. The Raven has an optional stabilized gimbaled payload, and delivers real-time color and/or infrared imagery to the ground control and remote viewing stations.
+
+Thanks to its advanced avionics, Raven can be operated manually or programmed for autonomous navigation. AeroVironment’s common GCS interfaces with all of its tactical ISR air vehicles reducing the level of training required and decreasing the time and cost involved.
+
+The Raven® is the most widely used military, small unmanned aircraft system in the world today. The Raven B DDL® system is a lightweight solution designed for rapid deployment and high mobility for military applications requiring low-altitude surveillance and reconnaissance intelligence.
+
+This equipment has proliferated into the following countries: Australia, Israel, Saudi Arabia, Thailand, Ukraine, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the RQ-11B Raven American Unmanned Aerial Vehicle (UAV):
+The FQM-151 "Pointer" is Original US military designation; first use in 1999..
+The RQ-11A "Raven A" is Initial production version; first use in 2002, since discontinued..
+The RQ-11B "Raven B" is .
+The RQ-11B (8-Channel) is .
+The RQ-11B DDL is Features a digital data link (DDL) system.
+
+Here is System information for the RQ-11B Raven American Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is RQ-11B Raven.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is AeroVironment.
+The Endurance is 60-90 minutes.
+The Payloads is EO/IR Gimbal with IR pointer.
+The GCS is Common GCS with Puma and Wasp® AE.
+The Launch and Recovery Method is Hand-Launched, Deep Stall Landing.
+
+Here is Dimensions information for the RQ-11B Raven American Unmanned Aerial Vehicle (UAV):
+The Length is 0.9 m.
+The Wingspan is 1.4 m.
+The Weight is 1.9 kg.
+
+Here is Automotive information for the RQ-11B Raven American Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Maximum Speed is 32-81 km/h, 17-44 knots.
+The Maximum Range is 10 km.
+The Maximum Altitude is 30-152 m.
+The Endurance is 60-90 minutes.
+

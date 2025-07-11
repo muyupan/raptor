@@ -1,0 +1,94 @@
+This document describes the Type 072 Class (Yukan Class) Chinese Landing Ship.
+
+The Type 072 landing ship (NATO designation Yukan class) are large landing ships built by Shanghai-based Zhonghua Shipyard (now Hudong-Zhonghua Shipbuilding) in the 1980s to replace the aging World War II-era ex-US Navy L-1511 tank landing ships in service with the PLA Navy. The Type 072 is the PLA Navy’s first indigenous large landing ship. A total of 3 Type 072 are in service all of them are in service with the East Sea Fleet of the People's Liberation Army Navy (PLAN ESF).
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Type 072 Class (Yukan Class) Chinese Landing Ship:
+The Yuntai Shan is Commissioned: 1978
+Fleet:East Sea Fleet.
+The Wufeng Shan is Commissioned: 1980
+Fleet: East Sea Fleet.
+The Zijin Shan is Commissioned: 1982
+Fleet: East Sea Fleet.
+
+Here is System information for the Type 072 Class (Yukan Class) Chinese Landing Ship:
+The Alternative Designation is Type 072 Class; Yukan Class.
+The Total Built is 3 ships total.
+The Type is Landing Ship.
+The Builder is Zhonghua Shipyard.
+The In Service is 1978-Present.
+The Crew is 130.
+The Cargo Capacity is 10–11 tanks and 100–120 troops, or
+200 troops and 82~mm anti-tank gun company, or
+500 tonnes of cargo.
+
+Here is Dimensions information for the Type 072 Class (Yukan Class) Chinese Landing Ship:
+The Length is 120 m.
+The Beam is 15.3 m.
+The Draft is 2.9 m.
+The Displacement is 3,100 tonnes (standard)
+4,170 tonnes (full load).
+
+Here is Propulsion System information for the Type 072 Class (Yukan Class) Chinese Landing Ship:
+The Engine Name is 2 x 12E390.
+The Engine Type is Diesel.
+The Engine Power is 9,600 hp each.
+The Maximum Range is 3,000 nautical miles (5,600 km; 3,500 mi) at 14 knots.
+The Maximum Speed is 18 knots (33 km/h; 21 mph) (maximum)
+14 knots (26 km/h; 16 mph) (economical).
+The Endurance is INA.
+
+Here is Gun Weapon Systems #1: System information for the Type 072 Class (Yukan Class) Chinese Landing Ship of the Gun Weapon Systems:
+The Name is Type 66 dual-57mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 57 mm.
+The Quantity is 4 x Type 66 dual-57mm Naval Guns.
+The Note is The AK-257 is a Soviet 57mm naval gun, originally a land ZIF-31 L/70 57mm (Type 66/76) cannon. During the early 1950s, development began of naval versions of the 57x348mmSR 70 calibre weapon which had entered service with the Soviet army in 1950 as the S-60. This was to be a supplementary weapon for larger warships and as the main gun armament for minesweepers and auxiliaries.
+
+The twin gun version, ZIF-31, appears to have entered service with the Project 264 Minesweepers (T58 class) and the Project 310 (Don class) submarine support ships in 1958. In 1960, two other versions of the mounting appeared; a single gun ZIF-71 for the modernised Skoryy class destroyers and the quad ZIF-75 for the Krupny/Kanin class destroyers. The ZIF designation is an industrial one and it is possible that the naval designations were AK-157 (ZIF-71), AK-257 (ZIF-31) and AK-457 (ZIF-75). In smaller warships these mountings were sometimes associated with MR-103 and in larger ones with the Yakhond (Hawk Screech) radar. The ZIF-31/71/75 mountings may not have been very successful and an improved twin mounting appeared shortly afterwards as the AK-725. The twin 57mm ZIF-31 has also been manufactured in China as the Type 66 and there is a water-cooled derivative known as the Type 76. The AK-257 is currently employed on the Grisha class Corvette..
+
+Here is Gun Weapon Systems #1: Ammunition information for the Type 072 Class (Yukan Class) Chinese Landing Ship of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 57.
+The Shell is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon Systems #2: System information for the Type 072 Class (Yukan Class) Chinese Landing Ship of the Gun Weapon Systems:
+The Name is Type 61 dual-25mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 25mm.
+The Quantity is 4 x Type 61 duel-57mm Naval Gun.
+The Barrel Length is 1.5 m.
+The Weight is INA.
+The Barrels is dual.
+The Elevation is -10° ~ +85°.
+The Traverse is 360°.
+The Rate of Fire is Compact: 800~900 round/min.
+The Muzzle Velocity is 900 m/s.
+The Maximum Firing Range is 3,000 m.
+The Effective Firing Range is 2,700 m.
+The Feed System is Magazine.
+The Sights is Optical.
+
+Here is Gun Weapon Systems #1: Ammunition information for the Type 072 Class (Yukan Class) Chinese Landing Ship of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 25 mm.
+The Shell is 25 x 218 mm SR.
+The Basic Load is INA.
+
+Here is Onboard Aviation Facilities information for the Type 072 Class (Yukan Class) Chinese Landing Ship:
+The Facilities is No.
+The Aircraft is No.
+The Helicopters is No.
+
+Here is Fire Control Systems information for the Type 072 Class (Yukan Class) Chinese Landing Ship:
+The FCS Name is INA.
+The Computerized FCS is No.
+The Battle Management System is No.
+
+Here is Protection information for the Type 072 Class (Yukan Class) Chinese Landing Ship:
+The Active Protection System is No.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

@@ -1,0 +1,75 @@
+This document describes the Telemax RECCE German Tracked Unmanned Ground Vehicle (UGV).
+
+Telemax RECCE
+Fast solution for reconnaissance:
+Agile and smart!
+Compact and high performance reconnaissance system without a manipulator provides detailed information from the site, especially when equipped with our autonomy/3D mapping accessory.
+
+Features:
+*Rugged four-wheel drive, also available with independent tracks
+**Top speed of more than 10 km/h (6.2 mph)
+*Up to 8 hours of operation without recharging
+*Compact dimensions
+*Payload area for additional modules and an ideal platform for ROS based mapping and autonomy software
+*Interchangeability of accessories within the telemax family, e.g. cameras and batteries.
+
+Benefits:
+*Flexible adjustment of the system for specific tasks and different ambient conditions
+*Rapid reconnaissance
+*Gathering information from a safe distance in complex and time-consuming missions
+*Maximum mobility and easily transported
+*Simple integration of additional accessories such as autonomy and reconnaissance tools, e.g. automatically generate a 3D map while navigating through an environment
+*Excels in a wide variety of applications
+
+This equipment has proliferated into the following countries: Germany.
+
+Here is Variants information for the Telemax RECCE German Tracked Unmanned Ground Vehicle (UGV):
+The Telemax 4x4 is elemax with wheels:
+Versatile and cost-efficient!
+The starter version with a broad wheelbase and 4-wheel drive for rapid deployments on challenging terrains and delicate flooring requiring protection..
+The Telemax PRO is The original telemax:
+Compact design and high reach!
+A truly versatile robot capable of handling significant gradients and obstacles, it boasts an impressive manipulator reach, both vertically and horizontally, combined with minimal dimensions. Perfect for deployments in built-up areas and confined spaces..
+The Telemax HYBRID is The best of both worlds – Compact and strong!
+The combination of a powerful arm and compact dimensions for the toughest challenges..
+The Telemax PLUS is The biggest and strongest telemax:
+Versatile and strong!
+Our largest and strongest telemax, its exceptional ability to handle gradients and terrains makes it ideal for a particularly broad range of applications..
+The Telemax RECCE is Fast solution for reconnaissance:
+Agile and smart!
+Compact and high performance reconnaissance system without a manipulator provides detailed information from the site, especially when equipped with our autonomy/3D mapping accessory..
+
+Here is System information for the Telemax RECCE German Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Telemax RECCE.
+The Type is Tracked Unmanned Ground Vehicle (UGV).
+The Manufacturer is Faulhaber.
+The Crew is 1.
+The Universal Interface is 1.
+The Payload Capacity is 60 kg.
+
+Here is Dimensions information for the Telemax RECCE German Tracked Unmanned Ground Vehicle (UGV):
+The Length is 1020 mm.
+The Width is 605 mm.
+The Height is 815 mm.
+The Weight is 51 kg.
+
+Here is Automotive information for the Telemax RECCE German Tracked Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Rugged four-wheel drive, also available with independent
+tracks.
+The Engine Power is INA.
+The Drive is 4 wheels.
+The Maximum Speed is 10 km/h.
+The Operational Range is INA.
+The Turning Circle is 1200 mm.
+The Mobility, Slopes is 38° (depending on surface).
+The Mobility, Stairs is 17.5°.
+The Mobility, Obstacle Height is 200 mm.
+The Mobility, Gap Width is 330 mm.
+The Fording depth is 280 mm.
+The Endurance is Up to 8 h.
+
+Here is Protection information for the Telemax RECCE German Tracked Unmanned Ground Vehicle (UGV):
+The Hull Armor is INA.
+The Applique Armor is INA.
+

@@ -1,0 +1,72 @@
+This document describes the Paluma Class Australian Coastal Survey Ship.
+
+HMAS Paluma (IV) is the first ship of the Paluma Class (SML) and the fourth to bear the name Paluma. HMAS Paluma is a custom-built survey vessel, designed for surveying in the shallow coastal waters of the Great Barrier Reef and Northern Australia. She was built by Eglo Engineering of Adelaide in November 1987 and Commissioned on 27 February 1989. Her catamaran design provides good stability in rough weather and allows her to sit well out of the water, drawing only 2.2 meters (a favorable design for operating in shoaling and reef waters).
+
+She has three sister ships: HMAS Mermaid, Shepparton (II), and Benalla (II), and operates in a pair with her sister ship HMAS Mermaid. This teaming of the two ships provide mutual support allowing them to operate safely in the remote areas they are required to survey.
+
+HMAS Paluma (IV) carries the very latest in survey equipment. Position fixing on the survey grounds is carried out by Wide Area GPS and Differential GPS navigation systems. The positional data is integrated with depth information obtained from Paluma's two echo sounders (one in each demi-hull). Each demi-hull also has a side-scanning sonar in order to detect bottom features missed by the echo sounders as she steers down a survey line. All depth information is corrected for heave by heave compensators, (also one in each demi-hull). A Skipper searchlight sonar, located in the starboard demi-hull gives the Officer of the Watch an early warning of dangers lying ahead of the ship.
+
+This equipment has proliferated into the following countries: Australia and New Zealand.
+
+Here is Variants information for the Paluma Class Australian Coastal Survey Ship:
+The HMAS Paluma is Commissioned: 1989
+Fleet: INA
+Status: Active.
+The HMAS Mermaid is Commissioned: 1989
+Fleet: INA
+Status: Active.
+The HMAS Shepparton is Commissioned: 1990
+Fleet: INA
+Status: Active.
+The HMAS Benalla is Commissioned: 1990
+Fleet: INA
+Status: Active.
+
+Here is System information for the Paluma Class Australian Coastal Survey Ship:
+The Alternative Designation is Paluma Class.
+The Type is Coastal Survey Ship.
+The Builder is Eglo, Adelaide.
+The In Service is 1989-Present.
+The Crew is 15.
+The Survey Equipment is The Paluma Class Australian Coastal Survey Ship carries the very latest in survey equipment. Position fixing on the survey grounds is carried out by Wide Area GPS and Differential GPS navigation systems. The positional data is integrated with depth information obtained from Paluma's two echo sounders (one in each demi-hull). Each demi-hull also has a side scanning sonar in order to detect bottom features missed by the echo sounders as she steers down a survey line. All depth information is corrected for heave by heave compensators, (also one in each demi-hull). A Skipper searchlight sonar, located in the starboard demi-hull gives the Officer of the Watch early warning of dangers lying ahead of the ship..
+
+Here is Dimensions information for the Paluma Class Australian Coastal Survey Ship:
+The Length is 36.6 m.
+The Beam is 12.8 m.
+The Draft is 2.65 m.
+The Displacement, Full Load is 325 tons.
+
+Here is Propulsion System information for the Paluma Class Australian Coastal Survey Ship:
+The Engine Name is 2 x Detroit 12V-92T.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Maximum Range is 3,600 nautical miles.
+The Maximum Speed is 11 knots.
+The Endurance is INA.
+
+Here is Gun Weapon Systems information for the Paluma Class Australian Coastal Survey Ship:
+The Note is There are no weapon systems fitted onboard the Paluma Class.
+
+Here is Onboard Aviation Facilities information for the Paluma Class Australian Coastal Survey Ship:
+The Facilities is None.
+The Aircraft is None.
+The Helicopters is None.
+
+Here is Radar Systems information for the Paluma Class Australian Coastal Survey Ship:
+The Name is Kelvin Hughes 1007.
+The Type is Naval/coastal surveillance and navigation radar.
+The Frequency is 9 410 MHz.
+The Range is 300 km.
+The Note is The Kelvin Hughes Type 1007 family of naval radars are high-definition surface warning and navigational radar systems in service with the U.K. Royal Navy and several other world navies. The radars are available in I-band and F-band versions. It consists of a range of navigation, surface and air search equipment for naval use. It includes a choice of antennas, I-band and F-band transmitter/receivers and a range of displays. Reduced magnetic signature variants are available for use on mine countermeasures vessels.
+
+The transmitter/receivers are solid-state, with the exception of the magnetron, and operate at frequencies of 9,410 and 3,050 MHz ( I- and F-Band) with a transmitter power output of 25 kW. A wide dynamic range logarithmic receiver is provided. A built-in monitoring system is included to check that the equipment is operating at peak performance. A low leakage dummy load allows for system testing during periods of radar silence. Centralised emission control circuitry enables command to inhibit transmission immediately. Sector transmission is also incorporated with direct control from the CTD main display (optional for the F-band radar). Blanking pulses are incorporated to safeguard sensitive electronic support measures equipment..
+
+Here is Sonar Systems information for the Paluma Class Australian Coastal Survey Ship:
+The Name is Thales Petrel three-dimensional forward looking active high frequency.
+The Type is High Frequency Sonar.
+
+Here is Protection information for the Paluma Class Australian Coastal Survey Ship:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

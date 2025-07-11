@@ -1,0 +1,47 @@
+This document describes the Supercam S450 Russian Unmanned Aerial Vehicle (UAV).
+
+The Supercam S450 Russian Unmanned Aerial Vehicle (UAV) can fly for up to 6 hours and transmit data over a range of 100 km in real-time. The unmanned aircraft can perform missions of ensuring the safety and control of strategic facilities, allows determining the target coordinates, and provides decision-making on adjusting the actions of ground services. Due to the built-in inertial system (INS), which is integrated into each Supercam UAV, the aircraft is able to continue its flight in the absence of signals from satellite navigation systems. A wide range of payloads and useful equipment can be installed onboard the aircraft. Despite the UAV wingspan of 4.5 m, the Supercam S450 design with detachable wing panels provides the convenience of its transportation by 2-3 people.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Supercam S450 Russian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Supercam S450.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Supercam Unmanned Systems Group.
+The Autonomy is automatic or semi-automatic.
+The Crew is Unmanned.
+The Radio Link Range is 110 km.
+The Video Transmission Range is 100 km.
+The Payload Options is - 20/24/42/60 MP photo camera with the ability to be mounted on the azimuth stabilized platform
+- HD video camera with min 30х optical zoom integrated with thermal imaging camera with 16x digital zoom and a laser target marker
+- Multispectral camera
+- Airborne radiation sensor
+- Laser gas analyzer
+- Laser scanner
+- Voice announcement system.
+The Deployment Time is 15 min.
+The Launching System is pneumatic catapult.
+The Recovery System is parachute with cords release system and air dampers in the wing panels.
+The Operational Temperature is -40°С to +45°С.
+The Accessories is - Automatic target tracking module
+- Dual (triple) system, dual-frequency geodetic receiver
+- Video link for digital broadband transmission within a range of up to 100 km
+- Radio link of telemetry and control with the ability of FHSS operation.
+
+Here is Dimensions information for the Supercam S450 Russian Unmanned Aerial Vehicle (UAV):
+The Length is INA.
+The Wingspan is 4.5 m.
+The Height is INA.
+The Maximum Takeoff Weight is 29 kg.
+
+Here is Automotive information for the Supercam S450 Russian Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Maximum Speed is 120 km/h.
+The Cruising Speed is INA.
+The Operational Height is 150 - 5000 m.
+The Maximum Distance is 450 km.
+The Maximum Windspeed is 15 m/s.
+The Endurance is 7 hours.
+

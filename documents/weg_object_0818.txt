@@ -1,0 +1,72 @@
+This document describes the Hermes 900 Israeli Unmanned Aerial Vehicle (UAV).
+
+The Elbit Systems Hermes 900 Kochav (Star) is an Israeli medium-size, multi-payload, medium-altitude long-endurance unmanned aerial vehicle (UAV) designed for tactical missions. It is a sequel to the Hermes 450 series of drones, one of the most widely used military drones in the world.
+
+It has an endurance of up to 30 hours with a service ceiling of 30,000 feet (9,100 m). Its primary mission is reconnaissance, surveillance, and communications relay. The Hermes 900 has a wingspan of 15 m (49 ft) and weighs 970 kg (2,140 lb), with a payload capability of 300 kg (660 lb). Payload options include electro-optical/infrared sensors, synthetic-aperture radar/ground-moving target indication, communications and electronic intelligence, electronic warfare, and hyperspectral sensors.
+
+This equipment has proliferated into the following countries: Azerbaijan, Brazil, Chile, Colombia, Iceland, Israel, Mexico, Switzerland, Thailand.
+
+Here is Variants information for the Hermes 900 Israeli Unmanned Aerial Vehicle (UAV):
+The Hermes 900, Attack Version is An attack version of Hermes 900 may be possible. Each wing has two external hardpoints similar to the weaponized Hermes 450. The Mikholit, Israeli 10km variant of Nimrod long-range missile, is designed for launch from the Hermes 450..
+
+Here is System information for the Hermes 900 Israeli Unmanned Aerial Vehicle (UAV):
+The Alternative designations is Hermes 900 Israeli Unmanned Aerial Vehicle (UAV).
+The Type is Medium-Altitude Long-Endurance Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Elbit Systems.
+The Ground Crew is 2.
+The Cruising Speed is 112 km/h (70 mph, 60 kn).
+The Maximum Speed is 220 km/h (140 mph, 120 kn).
+The Endurance is 30.
+The Ceiling, Service is 9,100 m (30,000 ft).
+The Radius of Operation is 1,000 km.
+The Launch Method is Wheeled take-off.
+The Recovery Method is Conventional landing.
+The Landing Method is 3-wheeled, retractable landing gear. independent take-off and landing.
+The Flight Control Method is Preprogrammed/in-flight reprogram. Secure redundant Line of Sight data link and redundant satellite communications beyond line of sight.
+The Flight Control is Ground control station vehicle. can control two Hermes simultaneously.
+
+Here is Dimensions information for the Hermes 900 Israeli Unmanned Aerial Vehicle (UAV):
+The Length is 6.1.
+The Wing Span is 15.3.
+The Overall Height is 2.36.
+The Take-off Weight is 970.
+The Payload is 300.
+
+Here is Automotive information for the Hermes 900 Israeli Unmanned Aerial Vehicle (UAV):
+The Engine Name is Rotax 914.
+The Engine Type is Turbocharged Gasoline Engine.
+The Engine Power is 105 hp.
+The Propeller is 3-blade pusher/puller.
+
+Here is Launch and Recovery information for the Hermes 900 Israeli Unmanned Aerial Vehicle (UAV):
+The Landing Method is Conventional landing.
+The Launch Method is Wheeled take-off.
+The Recovery/Landing Method is 3-wheeled, retractable landing gear..
+The Wind speed at launch is INA.
+
+Here is Gabbiano T200 - Synthetic Aperture Radar information for the Hermes 900 Israeli Unmanned Aerial Vehicle (UAV) of the Payload Types:
+The Description is Long range surveillance radar, x band (8-12.5 GHz), 407km maritime range, MTI and SAr, >200 target Track-While Scan (TWS).
+The Moving Target Indication is Yes.
+
+Here is DSP-1 Electro Optical Camera information for the Hermes 900 Israeli Unmanned Aerial Vehicle (UAV) of the Payload Types:
+The Description is Camera.
+The Detection Range is 25.
+The Recognition Range is 10.
+The Swath is 400.
+The FLIR Enabled is Yes.
+The Laser Designator is Yes.
+
+Here is Tadiran SKYFIX / SKYJAM EW Payload information for the Hermes 900 Israeli Unmanned Aerial Vehicle (UAV) of the Payload Types:
+The Intecept Freq. range is 20 - 500.
+The Direction Finding Freq. Range is 1.5 - 1000.
+The Jammer Freq. Range is 20 - 500.
+
+Here is Emerald AES-210V information for the Hermes 900 Israeli Unmanned Aerial Vehicle (UAV) of the Payload Types:
+The Description is ELINT.
+
+Here is Elop DCoMPASS information for the Hermes 900 Israeli Unmanned Aerial Vehicle (UAV) of the Payload Types:
+The Description is Digital compact multi-purpose advanced stabilized system. Stabilized turret incorporating thermal imager, color TV, dual-band laser designator rangefinder, inertial measurement unit and laser spot tracker.
+
+Here is Survivability / Countermeasures information for the Hermes 900 Israeli Unmanned Aerial Vehicle (UAV):
+The Description is A light composite structure, low radar signature..
+

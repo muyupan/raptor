@@ -1,0 +1,26 @@
+This document describes the XD-D12B Chinese HF Anti-Jamming Transceiver.
+
+The XD-D12B Chinese HF Anti-Jamming Transceiver can be used for medium/long-distance communication between stationary transceivers. Advanced digital signal processing (DSP) technology and microcomputer control technology is employed to realize the functions of the automatic control communication, automatic select optimum channel, ALE, coded voice, data transmission, picture transmission, burst communication, and frequency-hopping communication Functions: transmitting and receiving the short message, wire remote control, noise reduction, master control and DSP online software loading The transceiver adopts connectors of the units, so it is very easy to be maintained The transceiver also adopts aluminum alloy die casting casing, so it is damp-proof, mold-proof and salt-fog proof.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the XD-D12B Chinese HF Anti-Jamming Transceiver:
+The Alternate Designation is XD-D12B.
+The Type is HF Anti-Jamming Transceiver.
+The Manufacturer is SECIBC.
+The Frequency Range is 1.6000 to 29.9999MHz.
+The Operation Mode is USB voice, LSB voice, USB CW.
+The Frequency Stability is ≤±1 x 10-6.
+The Power Supply is 12V DC, ±10%.
+The Power Consumption is ≤1.2A for Rx, ≤25A for Tx.
+The Voice Power is High power: 125W ± 1dB (PEP) Low power: 50W.
+The Inter-Modulation Distortion is ≤-25dB Carrier suppression: ≤-50dB Unwanted sideband suppression:≤-50dB.
+The Receiver Performances is Voice position: ≤1.0μV (S+N/N=12dB) CW position: ≤0.5μV (S+N/N=12dB)
+IF rejection: ≥90dB Imagine rejection: ≥90dB Audio response: ≤3dB audio output in the frequency range of 300 to3000Hz.
+
+Here is Dimensions information for the XD-D12B Chinese HF Anti-Jamming Transceiver:
+The Length is 280 mm.
+The Width is 345 mm.
+The Height is 108 mm.
+The Weight is 8.8 kg.
+

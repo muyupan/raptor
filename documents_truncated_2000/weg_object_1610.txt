@@ -1,0 +1,52 @@
+This document describes the Model I Reconnaissance/EOD Robot (RPB-CJ4480D-HRG-I) Chinese Tracked Unmanned Ground Vehicle (UGV).
+
+The Model I Reconnaissance/EOD Robot (RPB-CJ4480D-HRG-I) Chinese Tracked Unmanned Ground Vehicle (UGV) has been designed to carry out various tasks including urban anti-terrorism, public security, roadside bomb inspection, and disposal of explosive ordnance.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Model I Reconnaissance/EOD Robot (RPB-CJ4480D-HRG-I) Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Model I Reconnaissance/EOD Robot; RPB-CJ4480D-HRG-I.
+The Type is Tracked Unmanned Ground Vehicle (UGV).
+The Manufacturer is China Tech Hi Industry Import and Export Corporation (CTHC).
+The Mission is The Model I Reconnaissance/EOD Robot (RPB-CJ4480D-HRG-I) Chinese Tracked Unmanned Ground Vehicle (UGV) has been designed to carry out various tasks including urban anti-terrorism, public security, roadside bomb inspection, and disposal of explosive ordnance..
+The Configuration is Tracked.
+The Crew is Unmanned.
+The Control is Control of the system is by a portable control terminal with rocker controls..
+The Payload Capacity is 200 kg.
+The Environmental is IP66.
+
+Here is Dimensions information for the Model I Reconnaissance/EOD Robot (RPB-CJ4480D-HRG-I) Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Length is 1.05 m.
+The Width is 0.68 m.
+The Height, (Arm Folded) is 0.58 m.
+The Weight is 240 kg.
+
+Here is Automotive information for the Model I Reconnaissance/EOD Robot (RPB-CJ4480D-HRG-I) Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Range is INA.
+The Maximum Speed is 9 km/h.
+The Maximum Gradient Climb is 35°.
+The Vertical Obstacle Crossing is 400 mm.
+The Horizontal Obstacle Crossing is 320 mm.
+The Wireless Operational Range is 500 m.
+The Wired (Retractable Cable Reel) Operational Range is 150 m.
+The Endurance is 2 h (4 h optional).
+
+Here is Communications information for the Model I Reconnaissance/EOD Robot (RPB-CJ4480D-HRG-I) Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Note is Data, such as imagery, is continuously fed back by video and transmitted to the operator with anti-jamming technology..
+
+Here is Manipulator Arm information for the Model I Reconnaissance/EOD Robot (RPB-CJ4480D-HRG-I) Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Maximum Reach, Fully Extended is 1.6 m.
+The Maximum Lift  Capacity, Fully Extended is 20 kg.
+The Attachments is Multiple attachments can be fitted as end effectors including: hook, shear, plier, rake, and cone..
+The Note is The unit is fitted with a 6 degree of freedom (DoF) manipulator arm, which incorporates a 2 DoF, continuous 360° rotation, pan-tilt-zoom (PTZ) camera system (with ×20 optical zoom)..
+
+Here is Main Weapon System information for the Model I Reconnaissance/EOD Robot (RPB-CJ4480D-HRG-I) Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Note is The Model I Reconnaissance/EOD Robot (RPB-CJ4480D-HRG-I) Chinese Tracked Unmanned Ground Vehicle (UGV) can be outfitted with a recoilless water gun, which is capable of penetrating a 30 mm plank of wood..
+
+Here is Protection information for the Model I Reconnaissance/EOD Robot (RPB-CJ4480D-HRG-I) Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Armor is INA.
+The Applique Armor is INA.
+

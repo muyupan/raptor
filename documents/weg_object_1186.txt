@@ -1,0 +1,109 @@
+This document describes the JMRC VISMOD ZSU-23-4 Shilka Russian 23mm Self-Propelled Anti-Aircraft Weapon System.
+
+JMRC VISMOD ZSU-23-4 Shilka Russian 23mm Self-Propelled Anti-Aircraft Weapon System.
+
+KILLS ROTARY AND SOME FIXED WING ASSETS ON THE MILES BATTLEFIELD
+
+KILLED BY .50 CALIBER AND ABOVE
+
+Here is Variants information for the JMRC VISMOD ZSU-23-4 Shilka Russian 23mm Self-Propelled Anti-Aircraft Weapon System:
+The ZSU-23-4M is The ZSU-23-4M is the 1977 model and features three (instead of two) access ports on each side of the hull and an armored cover for the guns. It also has a digital computer, improved RPK 2 radar and can be linked to off-carriage radar and fire-control equipment if required. The RPK 2 radar on the ZSU-23-4M is capable of being used independently in the search mode whereas on previous versions it had been slaved to the gun tubes..
+The ZSU-23-4-M1 is Additional modernization of the radar system with modern solid-state components..
+The ZSU-23-4-M2 is Upgrades to targeting equipment such as improved optics and night vision capability..
+The ZSU-23-4-M3 is Version features the Luk IFF system..
+The ZSU-23-4-M4 is Upgrade package replaced obsolete components with new and more efficient units and therefore extend the operational capabilities of the system as well as enhancing its overall operational capabilities. Those subsystems that have not been upgraded are overhauled before being installed on the upgraded ZSU-23-4M4 SPAAG. According to the manufacturer, the ZSU-23-4M4 features improved target tracking, increased kill probability from 0.3 to 0.6 for one fly over, the addition of man-portable SAMs and the addition of 81 mm smoke grenade launchers. It can engage aircraft and helicopters flying at an altitude from 25 to 1,500 m and aerial targets can be engaged out to a range of 2,500 m and with a speed of up to 500 m/s..
+
+Here is System information for the JMRC VISMOD ZSU-23-4 Shilka Russian 23mm Self-Propelled Anti-Aircraft Weapon System:
+The Alternative Designations is JMRC VISMOD ZSU-23-4 Shilka Russian 23mm Self-Propelled Anti-Aircraft Weapon System.
+The Type is Self-Propelled Anti-Aircraft Weapon System.
+The Caliber is 23 mm.
+The Manufacturer is Mytishchi Machine-Building Plant.
+The In Service is 1962-Present.
+The Crew is 4.
+The Chassis is GM-575 Tracked, six road wheels, no track support rollers.
+
+Here is Dimensions information for the JMRC VISMOD ZSU-23-4 Shilka Russian 23mm Self-Propelled Anti-Aircraft Weapon System:
+The Length is 6.54.
+The Width is 3.3.
+The Height is Radar up: 3.75 m | Radar down:  2.60 m.
+The Weight, Combat is 20.5.
+The Ground Pressure is INA.
+
+Here is Automotive information for the JMRC VISMOD ZSU-23-4 Shilka Russian 23mm Self-Propelled Anti-Aircraft Weapon System:
+The Engine Name is V6R-1 Diesel.
+The Engine Type is 6-cylinder 4-stroke airless-injection water-cooled 20-litre diesel.
+The Engine Power is 290.
+The Cruising Range is 450.
+The Speed, Maximum Road is 50.
+The Speed, Average Cross is 35.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 1.1.
+The Trench is 2.8.
+The Fording Depth is 1.0.
+
+Here is Communications information for the JMRC VISMOD ZSU-23-4 Shilka Russian 23mm Self-Propelled Anti-Aircraft Weapon System:
+The Primary is R-123.
+The Digital is Yes.
+The Range is 50.
+
+Here is Main Armament information for the JMRC VISMOD ZSU-23-4 Shilka Russian 23mm Self-Propelled Anti-Aircraft Weapon System:
+The Name is 4 Ã 23 mm 2A7 autocannons (AZP-23 "Amur" quad automatic anti-aircraft gun.
+The Caliber is 23mm.
+The Cyclic Rate of Fire (rd/min) is 850-1,000.
+The Sustained Rate of Fire (rd/min) is 400 (in 10-30 rd bursts).
+The Reload Time (min) is 20.
+The Elevation (o) is -4Â° to +85Â°.
+The Fire on the Move is Yes.
+The Reaction Time (sec) is 12-18.
+The Maximum Slant Range is 2.
+The Maximum Firing Range is 2.5.
+The Maximum Elevation is +85.
+The Minumum Elevation is -5.
+The Traverse Range is 360.
+
+Here is Main Armament Ammunition information for the JMRC VISMOD ZSU-23-4 Shilka Russian 23mm Self-Propelled Anti-Aircraft Weapon System:
+The Description is Can fire the same ammunition as ZU-23. Best mix for modern versions (ZU-23M and ZU-23M1) is 1,200 APDS-T and 1,200 FAPDS. Rounds ballistically matched. No HEI required..
+The Type is 23x152 HE-I, HEI-T, API-T, TP.
+The Max Effective Range is 2,500 m or 2,000 m against light armored ground targets such as LAVs.
+The Max Effective Altitude is 1,500 m.
+The Muzzle Velocity is 970 m/s.
+The Self-Destruct is 11 sec (Average time).
+The Penetration (mm KE) is 19 mm @ 1000 m API-T.
+The HE-I Projectile Weight is 0.18 kg.
+The HEI-T Projectile Weight is 0.19 kg.
+The API-T Projectile Weight is 0.189 kg.
+The TP  Projectile Weight is 0.18 kg.
+The HE-I Fuze Type is Point detonating.
+The HEI-T Fuze Type is Point detonating.
+The API-T Fuze Type is Base igniting.
+The Basic Load is 2,000.
+
+Here is Fire Control information for the JMRC VISMOD ZSU-23-4 Shilka Russian 23mm Self-Propelled Anti-Aircraft Weapon System:
+The Driver Periscope is BMO-190.
+The Driver IR Periscope is INA.
+The Commander Periscope is TPKU-2.
+The Commander IR Periscope is TKH-ITC.
+The IFF is INA.
+The Radar is Sborka (9S80-1 or PPRU-M1) DOG EAR (Target Acquisition).
+The Detection Range is 20 km.
+The Tracking Range is 13 km.
+The Frequency Band is J.
+The RPK-2 is Optical-mechanical computing sight and part of  FC subsystem..
+The Chassis is MTLB-U.
+The Range is 80 km detection, 35 km tracking ACV links to supported tactical unit nets..
+The Other Radars is Using the above ACV, if an Integrated Air Defense System (IADS) is available, ZSU-23-4 links indirectly for early warning and target acquisition data from radars..
+The Other Fire Control is Guns use air watches and forward observers, and are linked to AD nets..
+
+Here is Protection information for the JMRC VISMOD ZSU-23-4 Shilka Russian 23mm Self-Propelled Anti-Aircraft Weapon System:
+The Hull Armor is Welded steel, up to 15 mm hull.
+The Turret Armor is Welded steel, 9.2 mm (0.36 in) turret.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 81 mm Smoke Grenade Launchers..
+

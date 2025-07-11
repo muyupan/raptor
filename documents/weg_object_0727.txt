@@ -1,0 +1,24 @@
+This document describes the CAC Fox French Unmanned Aerial Vehicle (UAV).
+
+The CAC Fox is a small UAV developed in France for use as a reconnaissance aircraft and for electronic warfare. About a thousand have been sold in a number of variants, with generally similar appearance and specifications.
+
+The Fox-TX can carry a variety of payloads for radar or radio communications jamming; radar identification and location; communications intercept; or, when fitted with a warhead and a radar-homing seeker, anti-radar attack. The Fox-TX can also carry two small under wing stores.
+
+This equipment has proliferated into the following countries: France.
+
+Here is Variants information for the CAC Fox French Unmanned Aerial Vehicle (UAV):
+The Fox-AT1 is Short range battlefield reconnaissance variant. The Fox-AT1 has a shorter wingspan of 3.6 metres (11 feet 10 inches); a deeper fuselage; and a sensor payload of 15 kilograms (33 pounds), consisting of day or night imaging systems, chemical sensors, or customer-specified payload. Unlike the Fox-TX, the Fox-AT1 has a skid to permit belly landings. It can carry four small underwing stores. Endurance is only an hour and a half. French forces have used the Fox-AT1 for tactical reconnaissance in the Balkans..
+The Fox-AT2 is Long range battlefield reconnaissance variant. The Fox-AT2 looks much like the Fox-AT1, but has the wider 4-meter wingspan. It can carry a heavier sensor payload of 30 kilograms (66 pounds), but only two wings stores, and uses a long-range radio communications link..
+The Fox-TS1 is Expendable target, with the short 3.6 meter wingspan. It can carry chaff, flares, radar enhancement devices, and other target gear..
+
+Here is Flight Control information for the CAC Fox French Unmanned Aerial Vehicle (UAV) of the System:
+The Launch Method is Hydraulic or sandow ramp.
+The Recovery Method is Parachute.
+The Landing Method is Airbag.
+
+Here is PAYLOAD TYPES information for the CAC Fox French Unmanned Aerial Vehicle (UAV):
+The Description is Panoramic CCD color camera, low light television (with zoom), IR linescan CAMELIA camera, SAR camera, FLIR, multi-sensor gimball platform (IR and visible), etc..
+
+Here is NOTES information for the CAC Fox French Unmanned Aerial Vehicle (UAV):
+The Description is THE FOX AT2 UAV IS ONE OF A FAMILY OF LOW-COST UAVS DESIGNED BY THE FRENCH FIRM CAC SYSTEMES. EACH UAV SYSTEM IS COMPOSED OF A TRANSPORT AND LAUNCHING SYSTEM, A GROUND CONTROL STATION (GCS) MOUNTED ON A 4X4 TRUCK FRAME, AND FOUR UAVS. THE FOX AT2 (LIKE THE FOX AT1) IS LAUNCHED FROM A MOBILE LAUNCHING CATAPULT (TRANSPORTATION AND LAUNCHING SYSTEM) THAT IS MOUNTED ON A TRAILER WITH TRANSPORTATION COMPARTMENTS FOR 4 UAVS. NORMALLY TWO OF THE FOUR UAVS ARE EQUIPPED WITH CCD CAMERAS FOR DAYTIME MISSIONS AND THE REMAINING TWO ARE FLIR EQUIPPED FOR NIGHTTIME MISSIONS. UPON MISSION COMPLETION THE UAV CAN BE RESERVICED AND AVAILABLE FOR ANOTHER MISSION IN LESS THAN 30 MINUTES. THE FOX AT2 IS CAPABLE OF CARRYING 30 KILOGRAMS OF VARIOUS PAYLOADS. ADDITIONALLY, TWO UNDER-WING PODS ALLOW FOR TWO LOADS TO BE CARRIED AND DROPPED. NORMALLY THE GCS CONSIST OF A CREW OF THREE PERSONNEL: PILOT, OBSERVER, AND A TECHNICIAN. HOWEVER, TWO PEOPLE CAN DEPLOY THE UAV SYSTEM AND HAVE IT AVAILABLE FOR OPERATION IN LESS THAN 20 MINUTES. THE GUIDANCE AND CONTROL CONSISTS OF AN UHF DATA LINK WITH FOUR PROPORTIONAL AND EIGHT NUMERIC CHANNELS, OF WHICH FOUR CONTROL THE AUTOPILOT. TELEMETRY IS THROUGH A 12-CHANNEL DATA LINK..
+

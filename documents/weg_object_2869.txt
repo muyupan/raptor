@@ -1,0 +1,26 @@
+This document describes the Pak-IBMS (Rehbar) Pakistani Integrated Battlefield Management System.
+
+Integrated Battlefield Management System (IBMS) is designed for the operations of armor units in the field to meet the requirements of the future battlefield. The user-friendly system provides battlefield awareness through a comprehensive land navigation system based on GPS and digitized maps. It enables commanders in mission planning, modification, and dissemination of plans, monitoring of battlefield at the tactical and operational level, through the safe and secure radio network. Pak-IBMS(Rehbar) also facilitates commanders in the remote firing of AAMG by auto-tracking the aerial and ground targets from inside the tank.
+
+Major Modules
+The situational Awareness Module enables warfighters to see integrated battlefield pictures through displays of terrain information in the form of different types of stitched maps with zooming, panning, and browsing capabilities.
+Tank commander can determine and display his own position with the help of integrated GPS and broadcast it to friendly elements in the communication range and similarly see other friendly elements in the vicinity.
+
+Combat Messaging System Module enables commanders to exchange critical information/ orders in near real-time and save the history of messages. It has the capability to either select predefined messages or write free-form text messages and transmit them to any individual/group or all participants.
+
+Tactical Mission Planning Module helps commanders to prepare plans, overlays, and mark no-go areas on digital maps. The plans made during peacetime can also be loaded, edited, and modified based on intelligent information. The option of automatic saving of plans has also been incorporated to avoid any accidental loss of data. The provision to mark military symbols and add attributes to all types of entities has also been provided.
+
+This equipment has proliferated into the following countries: India, Pakistan.
+
+Here is Communications information for the Pak-IBMS (Rehbar) Pakistani Integrated Battlefield Management System of the System:
+The Frequency Band Types is HF / VHF / UHF / SHF.
+The Communications Transmission Platforms is CNR / HCLOS / WLAN / SATCOM / Fiber Optics.
+
+Here is Operational Features information for the Pak-IBMS (Rehbar) Pakistani Integrated Battlefield Management System:
+The Information Sharing is Safe and Secure Information Sharing through adhoc networking of radios.
+The AAMG is Remote Operation of 12.7mm AAMG from inside the tank.
+The Route Driving is Driver panel to facilitate driver to follow the correct route with the help of directional bars.
+The Target Tracking is Auto Target Tracking for Arial and Ground Targets.
+The Laser Target Indication is Laser Target Indication to indicate location of the hostile elements and its engagement.
+The Hardware is Ruggedized hardware to work in harsh environmental conditions based on Military specifications.
+

@@ -1,0 +1,25 @@
+This document describes the 9S15 Billboard (9S15M Obzor 3) Russian 3D Surveillance Radar System.
+
+The 9S15M is a high-capacity, coherent pulse S-Band radar that utilizes electronic elevation and mechanical azimuth scanning. It is designed for use with the Antey S-300V (NATO reporting name SA-12a Gladiator/SA-12b Giant) SAM system's command post or the radar data processing centers of automated air defense C2 system.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Radar information for the 9S15 Billboard (9S15M Obzor 3) Russian 3D Surveillance Radar System of the System:
+The Name is 9S15 / 9S15M (BILL BOARD) Surveillance Radar system.
+The Type is 3D, Phased-Array Surveillance Radar system.
+The Traverse Range is 360.
+The Crew is 4.
+The Operating Frequency Range is 2.0 to 4.0 Ghz (S-Band).
+The Transmission Beamwidth is 1.5° vertical / 1.5° horizontal.
+The Detection Range (Ballistic Missile Mode) is 150.
+The Detection Range (Small Aerial Target, such as an F-16 Fighter) is 200.
+The Detection Range (Maximum) is 250.
+The Antenna Rotating Speed is 6-12.
+The Estimated Target Tracking Capacity is up to 200 targets.
+The Target Coverage Elevation is 0-58º in Elevation.
+The Target Coverage Accuracy is 30-35 min of arc in azimuth and 250 m in range.
+The Waveband is Centimetric.
+The Scan Cycle is 6-8 seconds depending on operational mode.
+The Reciever Sensitivity is 10-13 Watts.
+The Note is This radar is mounted on a tracked chassis and provides a highly mobile 3D search and acquisition capability, but is limited in low level coverage footprint by its antenna elevation. Its limited scan rate makes it unusable for high performance IRBM acquisition and tracking..
+

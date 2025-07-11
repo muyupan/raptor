@@ -1,0 +1,155 @@
+This document describes the Najin Class North Korean Frigate.
+
+The North Korean Najin-class frigates are some of the largest vessels in the Korean People's Navy. Although they bear a striking resemblance to ex-Soviet Kola class frigates, they are unrelated to any Russian or Chinese design. The class was originally fitted with a trainable triple 21 inch torpedo launcher, which was replaced in the mid-1980s with fixed Styx missile launchers taken from Osa class missile boats. The design is inherently dangerous, and even a minor missile failure would result in significant damage to the ship.
+
+At least one Najin-class ship appears to have been upgraded with much more modern weaponry in 2014. Refitted at Namp'o, the outdated anti-ship missiles, aft 57mm dual cannon, Drum Tilt fire-control radar and surface search radar were removed, and several new systems were installed. Most clearly identifiable are two 30mm automated turrets at the aft, likely based on the Soviet AK-630 CIWS, and two Kh-35 missile racks with the capacity for about 8 missiles in place of the older Styx/HY-2 launchers. The modernization program appears to be continuing as of December 2014.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is System information for the Najin Class North Korean Frigate:
+The Alternative Designation is Najin Class.
+The Type is Frigate.
+The Builder is Unknown, but built in North Korea (Najin Shipyards).
+The Crew is 180.
+
+Here is Dimensions information for the Najin Class North Korean Frigate:
+The Length is 100 m.
+The Beam is 10.0 m.
+The Draft is 2.7 m.
+The Displacement, Full Load is 1,600 long tons.
+
+Here is Propulsion System information for the Najin Class North Korean Frigate:
+The Engine Name is INA.
+The Engine Type is 2x Diesels.
+The Engine Power is 15,000 bhp; 2 shafts.
+The Maximum Speed is 26 knots (30 mph; 48 km/h).
+The Range is 4,000 nmi (4,600 mi; 7,400 km) at 14 knots.
+
+Here is Gun Weapon System #1 information for the Najin Class North Korean Frigate of the Gun Weapon Systems:
+The Name is INA.
+The Type is 2 × 100 mm (4 in)/56 (single) Gun.
+The Caliber is 100mm.
+The Quantity is 2 × 100 mm (4 in)/56 (single) Gun.
+The Note is Information Not Available (INA).
+
+Here is Gun Weapon Systems #1 Ammunition information for the Najin Class North Korean Frigate of the Gun Weapon Systems:
+The Type is Projectile.
+The Caliber is 100.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon Systems #2 information for the Najin Class North Korean Frigate of the Gun Weapon Systems:
+The Name is INA.
+The Type is 57 mm Gun.
+The Caliber is 57.
+The Quantity is 4x 57 mm (2 in) (twin) Gun.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Najin Class North Korean Frigate of the Gun Weapon Systems:
+The Type is Projectile.
+The Caliber is 57.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #3 information for the Najin Class North Korean Frigate of the Gun Weapon Systems:
+The Name is INA.
+The Type is 30mm Anti-Aircraft Gun.
+The Caliber is 30.
+The Quantity is twelve or four 30 mm Anti-Aircraft Gun.
+
+Here is Gun Weapon System #3 Ammunition information for the Najin Class North Korean Frigate of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #4 information for the Najin Class North Korean Frigate of the Gun Weapon Systems:
+The Name is INA.
+The Type is 25mm Machine Guns.
+The Caliber is 25mm.
+The Quantity is 12 x 25mm Machine Guns.
+
+Here is Gun Weapon System #4 Ammunition information for the Najin Class North Korean Frigate of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 25mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Missile #1 information for the Najin Class North Korean Frigate of the Missile Weapon Systems:
+The Name is P-15 Termit.
+The Type is Anti-Ship Missile.
+The Length is 5.8 m.
+The Diameter is 0.76 m.
+The Wingspan is 2.4 m.
+The Weight is 2,580 kg.
+The Warhead is 454 kg (1,001 lb) hollow charge high explosive.
+The Operational Range is 80 km.
+The Flight Altitude is 25-100 m.
+The Maximum Speed is Mach 0.95.
+The Guidance System is autopilot (inertial guidance), active radar homing, supplemented in some with infrared homing.
+
+Here is Rocket Weapon System #1 Launcher information for the Najin Class North Korean Frigate of the Rocket Weapon Systems:
+The Name is .
+The Type is .
+The Quantity is .
+The  is .
+The  is .
+The  is .
+The  is .
+The  is .
+The  is .
+
+Here is Rocket Weapon System #1 Rocket information for the Najin Class North Korean Frigate of the Rocket Weapon Systems:
+The Type is .
+The Caliber is .
+The Length is .
+The Diameter is .
+The  is .
+The  is .
+The  is .
+The Basic Load is .
+
+Here is Torpedo Launcher information for the Najin Class North Korean Frigate of the Torpedo Weapon Systems:
+The Name is .
+The Type is .
+The Number of Tubes is .
+The  is .
+The  is .
+The  is .
+
+Here is Torpedo information for the Najin Class North Korean Frigate of the Torpedo Weapon Systems:
+The Name is .
+The Type is .
+The Length is .
+The Diameter is .
+The  is .
+The  is .
+The Basic Load is .
+
+Here is Onboard Aviation Facilities information for the Najin Class North Korean Frigate:
+The Facilities is .
+The Aircraft is .
+The Helicopters is .
+
+Here is Fire Control Systems information for the Najin Class North Korean Frigate:
+The FCS Name is Drum Tilt.
+The Computerized FCS is Yes.
+The Battle Management System is INA.
+
+Here is Mines and Depth Charges information for the Najin Class North Korean Frigate:
+The Depth Charges is Two RBU 1200 five-tube fixed launchers.
+The Mines Capacity is 30 Mines.
+
+Here is Radar Systems information for the Najin Class North Korean Frigate:
+The Air Search Radar is Square Tie Radar.
+The Surface Search Radar is Pot Head.
+The Navigation Radar is Pot Drum.
+
+Here is Sonar Systems information for the Najin Class North Korean Frigate:
+The Name is Stag horn.
+The Type is hull-mounted active search/attack sonar.
+
+Here is Protection information for the Najin Class North Korean Frigate:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

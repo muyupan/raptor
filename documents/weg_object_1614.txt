@@ -1,0 +1,43 @@
+This document describes the Sharp Claw II Chinese 6x6 Unmanned Ground Vehicle (UGV).
+
+The Sharp Claw II Chinese 6x6 Unmanned Ground Vehicle (UGV) is designed for conducting a variety of roles including reconnaissance, surveillance, combat engineering support, logistic, and combat roles.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Sharp Claw II Chinese 6x6 Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Sharp Claw II.
+The Type is Tracked Unmanned Ground Vehicle (UGV).
+The Manufacturer is NORINCO.
+The Configuration is 6x6.
+The Crew is Unmanned.
+The Control is Sharp Claw II consists of a radio communications link via remote control. The remote station is equipped with video displays, navigation and control systems, and steering mechanism..
+The Sensors and Emitters is Various sensors such as day/night vision systems, CCD cameras, and EO devices can be incorporated as well as thermal imaging.
+The Note #1 is Sharp Claw II is fitted with a front bumper that could possibly incorporate sensors for mine and/or IED detection..
+The Note #2 is The platform has a cargo bay at the back to store a small UGV and can deploy a quadcopter surveillance drone. The cargo bay can also be used as a landing pad for a quadcopter drone..
+The Note #3 is Sharp Claw II is designed to work in tandem with Sharp Claw I..
+
+Here is Dimensions information for the Sharp Claw II Chinese 6x6 Unmanned Ground Vehicle (UGV):
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight is 1,000 kg.
+
+Here is Automotive information for the Sharp Claw II Chinese 6x6 Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Cruising Range is 50 km.
+The Operational Range is 2,500 m.
+The Speed, Maximum Road is 30 km/h.
+The Endurance is 4 hours.
+
+Here is Communications information for the Sharp Claw II Chinese 6x6 Unmanned Ground Vehicle (UGV):
+The Note is The Sharp Claw II Chinese Tracked Unmanned Ground Vehicle (UGV) has multi-channel communication systems onboard. The Sharp II acts as a control relay station with two sets of operating systems: one for the quadcopter drone and one for operating Sharp Claw I at an effective distance of 2,500 m..
+
+Here is Main Weapon System information for the Sharp Claw II Chinese 6x6 Unmanned Ground Vehicle (UGV):
+The Note is The Sharp Claw II Chinese Tracked Unmanned Ground Vehicle (UGV) has been displayed with a remote weapon system..
+
+Here is Protection information for the Sharp Claw II Chinese 6x6 Unmanned Ground Vehicle (UGV):
+The Armor is INA.
+The Applique Armor is INA.
+

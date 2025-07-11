@@ -1,0 +1,30 @@
+This document describes the AS15TT French Anti-Ship Guided Missile.
+
+The AS.15 and AS.15TT (in French: "Tous Temps", meaning "All weather") are French anti-shipping missiles. It was developed as a replacement for the AS-12 missile.
+
+The missile consists of a long cylindrical main body ending in a pointed nose, with four fins arranged in a cruciform cross-section. Each fin has a pod on the tip containing either a radar receiver or a battery. From front to back the missile consists of the warhead and impact fuse and safety and arming mechanism. Next is the autopilot (EOP), altimeter, gyro, and radar receiver and a battery. Following that is the SNPE Acis CDB solid rocket sustainer motor, which exhausts through a small central nozzle. Behind the sustainer are the two solid rocket SNPE Anubis CMDB booster motors, which exhaust through two large nozzles. On the rear underside of the missile is a radar altimeter. On the rear of the missile are four inline control fins.
+
+The guidance system of the missile is actually command guidance, as the missile doesn't have its own radar. It only follows orders provided by the onboard radar of the carrier/launcher helicopter, the Thomson-CSF I/J-band "Agrion 15". When this radar detects and identifies a suitable target, it switches to automatic tracking mode. Once the target is inside the missiles range it launches, the booster motors accelerate the missile to its cruise speed of 280 meters per second, after which the sustainer motor cuts in. The missile immediately begins descending to an altitude of around 3 to 5 meters.The rocket motors have a combined burn time of around 45 seconds.
+
+Bearing corrections are transmitted to the missile via the Agrion 15 radar and are picked up by the rearward-facing receiver units in two of the wing pods. The directional nature of the receivers makes jamming the command link difficult. On final approach to the target (about 1000 ft remaining to target), the missile descends to an altitude of around two meters. Its powerful warhead is able to perforate a 40 millimetres (1.6 in) thick steel armoured hull.
+
+The Agrion 15 radar is capable of detecting a large ship at a range of 150 kilometres (93 mi) and a smaller attack boat at a range of 100 kilometres (62 mi).
+
+This equipment has proliferated into the following countries: Bahrain, Chile, France, Iraq, Israel, Saudi Arabia, United Arab Emirates.
+
+Here is AS15TT Anti-Ship Missile information for the AS15TT French Anti-Ship Guided Missile of the System:
+The Name is AS15TT Anti-Ship Missile.
+The Type is Anti-Ship Missile.
+The Length is 2.30 m.
+The Diameter is 190 mm.
+The Wingspan is 0.56 m.
+The Warhead is 30 kg derived from OP3C APHE.
+The Fuze is impact.
+The Weight is 98 kg.
+The Maximum Range is 15 km.
+The Maximum Speed is 1,007 kph.
+The Flight Altitude is Sea-Skimming.
+The Guidance System is SACLOS by Thomson-CSF
+Agrion 15 chin-mounted I/J-band radar.
+The Basic Load is INA.
+

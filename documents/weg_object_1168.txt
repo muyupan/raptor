@@ -1,0 +1,204 @@
+This document describes the JRTC VISMOD: T-80B Main Battle Tank (MBT).
+
+The T-80B is a front-line combat vehicle which combines operational mobility and tactical offensives and defensive capabilities.
+
+This variant features the 9K112 Kobra missile system. It also has improvements to the computerized fire-control system, including a laser rangefinder.
+The T-80B main battle tank is a further development of the original T-80, which was produced only in small numbers. The T-80B is the first variant produced in quantity. Small scale production of this tank commenced in 1978. At least 5,391 T-80B and improved T-80BV tanks were produced. Due to expensive maintenance the Russian Army planned to retire all T-80 series tanks by 2015. However in 2017 upgraded versions of this tank was publicly revealed. Protection of the T-80B was improved comparing with the T-80. The tank is fitted with a composite armor at the front of the hull and turret. Its hull provides protection equivalent to 570-820mm of Rolled Homogeneous Armor (RHA) against armor piercing rounds, depending on the projectile type. Turret provides protection equivalent to 420-760mm or RHA. This tank is fitted with NBC protection and fire suppression systems. The original T-80B tanks lacked explosive reactive armor, which was fitted to improved models and were painted olive drab.  
+Fording depths (m): 12.0 with BROD-M system.  The night sight cannot be used to launch the ATGM.  The day sight can be used at night for launching ATGMs if the target is illuminated. A variety of thermal sights are available. They include the Russian Agava-2, French Sagem-produced Alis and Namut sight from Peleng. There are thermal sights available for installation, which permit night launch of ATGMs. The 12.7mm MG NSVT has both remote electronically operated sight PZU-5 and gun-mounted K10-t reflex sight. The more recent BK-27 HEAT round offers a triple-shaped charge warhead and increased penetration against conventional armor and ERA. The BK-29 round, with a hard penetrator in the nose is designed for use against reactive armor, and as an MP round, has fragmentation effects. If the BK-29 HEAT-MP is used, it may substitute for FRAG-HE (as with NATO countries) or complement FRAG-HE-he. With three round (APFSDS-T, HEAT-MP, ATGMs) in the auto loader versus four, more antitank rounds would be available for the higher rate of fire. The ATGM may be launched while moving slowly. The AT-8 can be auto-loaded with the two halves mated during ramming; but the stub charge is manually loaded. 
+The GTA-18A auxiliary power unit is used when the engine is off
+
+Here is Variants information for the JRTC VISMOD: T-80B Main Battle Tank (MBT):
+The T-80BK is This is the command version of the T-80B with additional communications equipment. It could not fire the Kobra guided missile..
+The T-80BV is This is a development of the T-80B equipped with Kontakt explosive reactive armor. It had a combat weight of 93,700 lb (42,500 kg), top road speed of 44 mph (70 kph) and a road range of 230 mi (370 km).
+The T-80BVK is the commander's version..
+
+Here is System information for the JRTC VISMOD: T-80B Main Battle Tank (MBT):
+The Alternative Designation is NA.
+The Total Built is The T-80B is the first variant produced in quantity. Russia: 5,391.
+The Type is Main Battle Tank.
+The Family is T-80 Series.
+The Crew is 3.
+The Maximum Effective Range is 1,500.
+
+Here is Dimensions information for the JRTC VISMOD: T-80B Main Battle Tank (MBT):
+The Length is 9.65.
+The Width is 3.58.
+The Height is 2.22.
+The Weight, Combat is 43.7.
+The Ground Pressure is INA.
+The Admin Note: is The dimensions provided above are the dimensions of the actual T-80B.  The dimensions of the VISMOD should be provided here IOT facilitate BLUFOR range estimation..
+
+Here is Automotive information for the JRTC VISMOD: T-80B Main Battle Tank (MBT):
+The Engine Name is GTD-1000T.
+The Engine Type is Gas turbine engine.
+The Engine Power is 1,100.
+The Power to Weight Ratio is 25.8.
+The Cruising Range is 335 (Actual T-80B).
+The Speed, Maximum Road is 70 (Actual T-80B).
+The Speed, Average Cross is 55.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 1.
+The Trench is 2.85.
+The Fording Depth (No Preparation) is 1.8.
+The Fording Depth (With Preparation) is 5.
+The Cold Start Ability is Yes.
+The Deep Water Snorkel is Available.
+The Admin Note: is Values listed above are for the actual T-80B.  Where appropriate, the values of the VISMOD should be input to assist in developing ENY COAs.
+
+Here is Not provided by JRTC information for the JRTC VISMOD: T-80B Main Battle Tank (MBT) of the Communications:
+The Frequency Range is .
+The HF Output is .
+The Modulation is .
+The Display is .
+The Entry of Frequency is .
+The Present Channels is .
+The Digital Transmition is .
+The Sensitivity is .
+The Range is .
+The Operational Voltage is .
+The Weight is .
+The Size is .
+
+Here is System information for the JRTC VISMOD: T-80B Main Battle Tank (MBT) of the Main Gun:
+The Name is L48 2A46M-1 Smoothbore Cannon.
+The Type is 125 mm smoothbore Gun.
+The Manufacturer is Spetstekhnika Design Bureau.
+The Max Rate of Fire is 4-6.
+The Maximum Range is 4,000.
+The Manually Load Time is 1-2.
+The Maximum Elevation is +14.
+The Minimum Elevation is -5.
+The Traverse Range is 360.
+The Autoloader is Yes, Carousel-Type Autoloader.
+The Fire on the Move is Yes, Main Gun.
+The Evacuator Type is Central Bore.
+The Thermal Sleeve is Yes.
+The Barrel effective Full Life Charge is 800.
+The Breech Mechanism is Semi-automatic horizontal sliding breech block.
+The Mazimum Pressure is 5,100.
+The Loading System is Korzina electric and hydraulic automatic loading system.
+The Carousel Reloading Time is 13-15.
+The Note is The L48 2A46M-1 has been extensively developed into 10 different variations and remains the primary armament of Russian front-line tanks..
+
+Here is Ammunition (Main Gun) information for the JRTC VISMOD: T-80B Main Battle Tank (MBT) of the Main Gun:
+The Name is Armour-Piercing Fin-Stabilized Discarding Sabot (APFSDS).
+The Type is Smoothbore 125mm Projectile.
+The Caliber is 125.
+The Muzzle Velocity is 2,050.
+The Basic Load is 36 total rounds of any 125mm Russian Projectiles.
+The Maximum Effective Range is 1,500.
+The Maximum Range is 5,000.
+The Armor Penetration is 1,000.
+The Muzzle Energy is 15-24.
+The Projectile Weight is 11.
+The Projectile Dimension is 900.
+The Admin Note is If not FOUO, ranges used here should match the range of the MILES system being used by the OPFOR.
+
+Here is System information for the JRTC VISMOD: T-80B Main Battle Tank (MBT) of the Anti-Tank Guided Missile:
+The Name is Kobra (AT-8 Songster).
+The Type is SACLOS Anti-Tank Missile System.
+The Caliber is 125.
+The Basic Load is 5.
+The Rate of Fire is 2-3.
+The Guidance System is SACLOS Radio.
+The Effective Firing Range is 100-4,000.
+The Manufacturer is KB Tochmash.
+The In Service is 1976-present.
+The Weight is 23.2.
+The Warhead Weight is 4.5.
+The Muzzle Velocity is 125, which increases to 800m/s at its peak.
+The Flight Time to a 4,000 Meter Targetsec is 9-10.
+The Armor Penetration is 600mm of RHA.
+The Hit Probability is 80.
+The Note is ATGM can only be fired when the vehicle is stationary.
+The Admin Note is If not FOUO, ranges used here should match the range of the MILES system being used by the OPFOR.
+
+Here is System information for the JRTC VISMOD: T-80B Main Battle Tank (MBT) of the Commander's Weapon / Air Defense Weapon:
+The Name is NSV (Russian ÐÐ¡Ð ÐÐ¸ÐºÐ¸ÑÐ¸Ð½Ð°-Ð¡Ð¾ÐºÐ¾Ð»Ð¾Ð²Ð°-ÐÐ¾Ð»ÐºÐ¾Ð²Ð°).
+The Type is 12.7mm Anti-Aircraft Machine Gun.
+The Manufacturer is "Metallist", Uralsk, Kazakh SSR, Crvena ZastavaSerbia.
+The Weight (Gun Only) is 25.
+The Muzzle Velocity is 845.
+The Max Rate of Fire is 200-600.
+The Length (Total) is 1,560.
+The Action is Gas Operated.
+The Feed System is 50-Round Belt.
+
+Here is Ammunition information for the JRTC VISMOD: T-80B Main Battle Tank (MBT) of the Commander's Weapon / Air Defense Weapon:
+The Type is AP-I.
+The Caliber is 12.7.
+The Cartridge is 12.7Ã108mm.
+The Muzzle Velocity is 845.
+The Basic Load is 500.
+The Effective Firing Range (vs. Air Targets) is 1,500.
+The Effective Firing Range (vs. Ground Targets) is 2,000.
+The Admin Note: is If not FOUO, ranges used here should match the range of the MILES system being used by the OPFOR.
+
+Here is System information for the JRTC VISMOD: T-80B Main Battle Tank (MBT) of the Coaxial Machine Gun:
+The Name is 7.62mm PK (Kalashnikov's Machine Gun).
+The Type is 7.62mm Machine Gun.
+The Manufacturer is Degtyaryov plant.
+The Rate of Fire is 200-600.
+The Weight (Gun Only) is 9.
+The Length (Total) is 1,203.
+The Length (Barrel) is 605.
+The Action is Gas-operated, open bolt.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Tangent iron sights (default); Optical, Night-vision, Thermal and Radar sights.
+
+Here is Ammunition information for the JRTC VISMOD: T-80B Main Battle Tank (MBT) of the Coaxial Machine Gun:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62Ã54mmR.
+The Muzzle Velocity is 825.
+The Basic Load is 1,250.
+The Effective Range is 2,000.
+The Admin Note: is If not FOUO, ranges used here should match the range of the MILES system being used by the OPFOR.
+
+Here is Fire Control information for the JRTC VISMOD: T-80B Main Battle Tank (MBT):
+The Name is 1A33 FCS.
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is Yes, the T01-KOIR.
+The Commander Day Mode Sight is 10â° FOV and Ã5 magnification.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes, 2E26M electro-hydraulic dual plane stabilisation system.
+The Main Gun Stabilization Deployment Time is 2.
+The Range, Day Sight is 1,000.
+The Range, Thermal Sight is 2,600.
+The IR Searchlight is Yes, L-4A "Luna" IR Searchlight.
+The TNPO-160 Periscopes is 2.
+The TNPA-65 Periscopes is 2.
+The Range Finder is IG42 rangefinder sight with an electronic control panel.
+The Ballistic Computer is 1V517 tank ballistic computer.
+The Fire Selection Panel is 1G43.
+The Weapon Stabilizer is 2Eh46M.
+The Input Sensors is Wind-speed, tank speed, cant, and bearing.
+The Admin Note: is If not FOUO, the above data should match the actual capabilities of the VISMOD.
+
+Here is Protection information for the JRTC VISMOD: T-80B Main Battle Tank (MBT):
+The Armor Type is The T-80B is protected by a third iteration Soviet laminate armor that is known as Combination K.
+The Applique Armor is Yes, Hull side; track skirts.
+The Explosive Reactive Armor is Yes, Kontakt-1 System.
+The Active Protection System is Arena Available.
+The Mine Clearing is Roller-plow available.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes, ZETS-11-2 detection system collective overpressure system.
+The Smoke Equipment is Yes, two banks of four 81 mm Toucha 902B grenade launchers that fire the ZD-6 smoke grenade.
+The Smoke Grenade Range is 250-300.
+The Smoke Screen is 30m wide and 10m high for 60 seconds per grenade..
+The IR Signature is The exhaust is box-shaped and designed to direct heat away from the tank.
+The Anti-Radiation Material is Installed as a inside protective layer.
+The Personal Breathing Apparatus is Equipment.
+The Automatic Fire Extinguisher System is Yes.
+The Upper Glacis is 200mm at 22 degrees.
+The Lower Glacis is 80-100 mm at 30 deg.
+The Side Hull Armor is 60-80mm.
+The Rear Hull Armor is 30-40mm.
+The Floor Hull Armor is 100mm.
+The Front Turret Armor is 400-450mm.
+The Side Turret Armor is 90-120mm.
+The Rear Turret Armor is 60-90mm.
+The Top Turret Armor is 40-50mm.
+

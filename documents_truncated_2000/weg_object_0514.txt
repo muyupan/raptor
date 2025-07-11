@@ -1,0 +1,84 @@
+This document describes the 2A36 Giatsint-B Russian 152mm Towed Gun.
+
+This is the towed variant of the 2S5. The most distinguishing feature of the 2A36 is its lower carriage. The large system weight required the use of tandem “walking-beam” axles and four wheels to provide mobility. A hydraulically powered firing pedestal is mounted on the front of the lower carriage and serves as part of the travel lock (similar to the D-20). Although the trails do not have the folding summer spades of the D-20, they do have two large spades similar to those found on the M-46/M-47. The weight of the 2A36 normally requires it to be towed by a heavy truck (like the KRAZ-255B). The KRAZ-255B is equipped with a special winch used to lift the trails in order to attach the gun’s lunette to the towing pintle.
+
+This equipment has proliferated into the following countries: Armenia, Azerbaijan, Belarus, CFE Treaty, Finland, Georgia, Iraq, Lebanon, Moldova, Russian Federation, Ukraine, Uzbekistan.
+
+Here is Variants information for the 2A36 Giatsint-B Russian 152mm Towed Gun:
+The 2A36 Giatsint-BK is As per 2A36, with a slightly longer 2A36 barrel. The longer 152 mm barrel would give a slight increase in range, however, there is no confirmed information on the actual increase in range..
+
+Here is System information for the 2A36 Giatsint-B Russian 152mm Towed Gun:
+The Alternative Designation is 2A36 Giatsint-B.
+The Type is Towed Gun.
+The Caliber is 152.4 mm.
+The Manufacturer is Uraltransmash Works.
+The Prime Mover is KrAZ-4556, KrAZ-255B, or AT-S.
+The Crew is 8.
+The Towing Speed Road is 70.
+The Towing Speed Off Road is 20.
+The Displacement Time is 7.
+The Emplacement Time is 5.
+
+Here is Dimensions information for the 2A36 Giatsint-B Russian 152mm Towed Gun:
+The Length, Chassis Overall Firing is 12.3.
+The Length, Chassis Overall Travel is 12.9.
+The Height, Overall is 2.7.
+The Width, Firing is 8.7.
+The Width, Travel is 2.7.
+The Weight, Standard is 9,800 kg.
+The Weight, Combat is 9,760 kg.
+
+Here is System information for the 2A36 Giatsint-B Russian 152mm Towed Gun of the Main Weapon System:
+The Name is 2A36 Giatsint-B.
+The Type is Towed Gun.
+The Caliber is 152.
+The Length, Barrel is 7.5.
+The Rate of Fire, Burst is 6.
+The Rate of Fire, Normal is 5.
+The Rate of Fire, Sustained is 4.
+The Loader Type is Semi-Automatic.
+The Breech Type is Horizontal Sliding Wedge.
+The Muzzle Brake Type is Multi-Baffle.
+The Traverse, Left is 25.
+The Traverse, Right is 25.
+The Traverse is 50.
+The Elevation is -2/+57.
+The  is .
+
+Here is Frag-HE information for the 2A36 Giatsint-B Russian 152mm Towed Gun of the Ammunition:
+The Name is OF-39 (RAP).
+The Type is Frag-HE.
+The Caliber is 152.
+The Fuze Type is V-429 PD.
+The Projectile Weight is 43.51.
+The Muzzle Velocity is 945.
+The Range, Maximum is 28,400.
+The Range, Minimum is 9,100.
+
+Here is HEAT information for the 2A36 Giatsint-B Russian 152mm Towed Gun of the Ammunition:
+The Name is BP-540.
+The Type is HEAT (for use in direct fire mode).
+The Caliber is 152.
+The Fuze Type is GPV-2 PD.
+The Projectile Weight is 27.
+The Muzzle Velocity is 655.
+The Range, Maximum is 1000.
+The Range, Minimum is INA.
+
+Here is Frag-HE information for the 2A36 Giatsint-B Russian 152mm Towed Gun of the Ammunition:
+The Name is OF-86.
+The Type is Frag-HE.
+The Caliber is 152.
+The Fuze Type is V-429 PD.
+The Projectile Weight is 43.8.
+The Muzzle Velocity is 945.
+The Range, Maximum is 30,500.
+The Range, Minimum is INA.
+
+Here is Fire Control System information for the 2A36 Giatsint-B Russian 152mm Towed Gun:
+The Indirect Fire is PG-1M PANTEL.
+The Direct Fire is N/A.
+The Collimator is K-1.
+The Fire Control Computer is None.
+The Gun Display Unit is None.
+

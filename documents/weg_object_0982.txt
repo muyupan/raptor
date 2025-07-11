@@ -1,0 +1,98 @@
+This document describes the TU-142 (Bear F) Russian Long-Range Anti-Submarine Warfare (ASW) Aircraft.
+
+TU-142 (Bear F) Russian Long-Range Anti-Submarine Warfare (ASW) Aircraft is a Soviet/Russian maritime reconnaissance and anti-submarine warfare (ASW) aircraft derived from the Tu-95 turboprop strategic bomber. A specialized communications variant designated Tu-142MR was tasked with long-range communications duties with Soviet ballistic missile submarines. The Tu-142 was designed by the Tupolev design bureau and manufactured by the Kuibyshev Aviation and Taganrog Machinery Plants from 1968 to 1994. Formerly operated by the Soviet Navy and Ukrainian Air Force, the Tu-142 currently serves with the Russian Navy.
+
+Developed in response to the American Polaris program, the Tu-142 grew out of the need for a viable Soviet ASW platform. It succeeded the failed Tu-95PLO project, Tupolev's first attempt at modifying the Tu-95 for maritime use. The Tu-142 differed from the Tu-95 in having a stretched fuselage to accommodate specialized equipment for its ASW and surveillance roles, a reinforced undercarriage to support rough-field capability, improved avionics and weapons, and enhancements to general performance. The Tu-142's capability was incrementally improved while the type was in service, eventually resulting in the Tu-142MZ, the final long-range Tu-142 with highly sophisticated combat avionics and a large payload. Tupolev also converted a number of Tu-142s as avionics (Tu-142MP) and engine (Tu-142LL) testbeds.
+
+This equipment has proliferated into the following countries: India, Russian Federation.
+
+Here is Variants information for the TU-142 (Bear F) Russian Long-Range Anti-Submarine Warfare (ASW) Aircraft:
+The Tu-142 is A lengthened Tu-95 with much defensive armament removed, and instead incorporating ASW systems. Twelve aircraft initially had 12-wheel main undercarriage bogies. Six later aircraft had four-wheel bogies. Built by Kuibyshev Aviation Plant..
+The Tu-142M is A 30-centimetre (12 in) stretch to front fuselage, redesigned cockpit and two-axle main undercarriage bogies. Built by Taganrog..
+The Tu-142MK is Greatly improved variant with new Korshun radar, avionics and ASW equipment. 43 Tu-142MKs were constructed by Taganrog..
+The Tu-142MK-E is Eight downgraded Tu-142MKs purchased by the Indian Naval Air Arm. E stands for "export"..
+The Tu-142MZ is The last production variant of the "Bear F", with new NK-12MP engines and a new avionics suite. Can be distinguished from other Tu-142s by its chin fairings. Built by Taganrog..
+The Tu-142MZ-K is Proposed commercial cargo variant of the Tu-142MZ (the K standing for "kommercheskiy"), with ASW avionics removed. Also designated Tu-142MZ-C..
+The Tu-142MP is Modified single Tu-142M used as avionics testbed..
+The Tu-142MR is Modified Tu-142MKs built as submarine communications relay aircraft. Has distinctive external fairings and components. NATO codename "Bear J"..
+The Tu-142LL is Two converted earlier Tu-142s used for testing of turbofan engines. ASW equipment was removed..
+
+Here is System information for the TU-142 (Bear F) Russian Long-Range Anti-Submarine Warfare (ASW) Aircraft:
+The Alternate Designation(s) is TU-142; NATO: Bear F.
+The Type is Long-Range Anti-Submarine Warfare (ASW) Aircraft.
+The Manufacturer is Tupolev OKB, Moscow, Russia (design bureau).
+The Crew is 11 (pilot, co-pilot, 2 navigators, navigator/weapons officer, 2 sonobuoy operators, communications operator, self-defense operator, technician, rear gunner).
+The Number of Engines is 4.
+The Pylons is 8 x underwing.
+The Maximum Weapons Payload is 9,000 kg.
+The Normal Weapons Payload is 4,400 kg.
+
+Here is Dimensions information for the TU-142 (Bear F) Russian Long-Range Anti-Submarine Warfare (ASW) Aircraft:
+The Length is 53.07 m.
+The Height is 13.39 m.
+The Width (Wing Span) is 50.04 m.
+The Wing Area is 290 m sq.
+The Wheel Base is 16.30 m.
+The Wheel Track is 12.50 m.
+The Empty Weight is 91,800 kg.
+The Maximum Takeoff Weight is 185,000 kg.
+The Maximum In-Flight Weight is 187,700 kg after refueling.
+The Maximum Landing Weight is 135,000 kg.
+
+Here is Automotive information for the TU-142 (Bear F) Russian Long-Range Anti-Submarine Warfare (ASW) Aircraft:
+The Engine Name is 4 x Samara/Kuznetsove NK-12MP.
+The Engine Type is Turboprop.
+The Maximum Engine Power is 15,000 eshp (11,185 ekW) each.
+The Cruise Engine Power is 9,870 eshp ( 7,360 ekW) each.
+The Fuel Capacity is 86,000 kg internal.
+The Propellers is 8-blade  AV-60 K propeller units each with 2 x 4-blade coaxial contra-rotating reversible-pitch props.
+The Maximum Speed is 855 km/h.
+The Cruise Speed is 735 km/h.
+The Ceiling is 11,000 m.
+The Takeoff Roll is 2,530 m.
+The Landing Roll is 1,200 m.
+The Range is 12,000 km with no refueling.
+
+Here is System information for the TU-142 (Bear F) Russian Long-Range Anti-Submarine Warfare (ASW) Aircraft of the Main Gun System:
+The Name is 2 x twin-barrel GSh-23 Autocannon in tail turret.
+The Type is Autocannon.
+The Caliber is 23 mm.
+The Length is 1,387 mm.
+The Barrel Length is 1,000 mm.
+The Weight is 49.2 kg.
+The Barrels is 2.
+The Action is Gast principle.
+The Rate of Fire is 3,400–3,600 rounds/min.
+The Muzzle Velocity is 715 m/s.
+
+Here is Ammunition information for the TU-142 (Bear F) Russian Long-Range Anti-Submarine Warfare (ASW) Aircraft of the Main Gun System:
+The Type is Rifle.
+The Caliber is 23 mm.
+The Cartridge is 23×115 mm.
+The Basic Load is INA.
+
+Here is Anti-Submarine Warfare (ASW) Systems information for the TU-142 (Bear F) Russian Long-Range Anti-Submarine Warfare (ASW) Aircraft:
+The Torpedoes is 3 x AT-2M torpedoes.
+The Missiles is 3 x APR-2 ASW missiles.
+The Depth Charges is nuclear or conventional PLAB-250-120.
+The Mines is unknown quantity.
+The Air-to-Surface Cruise Missile is 8 x AS-20 Kayak.
+
+Here is Bomb Weapon Systems information for the TU-142 (Bear F) Russian Long-Range Anti-Submarine Warfare (ASW) Aircraft:
+The Bomb Bays is 2 bays in fuselage.
+
+Here is Radar System information for the TU-142 (Bear F) Russian Long-Range Anti-Submarine Warfare (ASW) Aircraft:
+The Search and Attack Radar is 1 x Leninets Korshun-N-J band search/attack radar.
+The Radar Warning System is 1 x Pastel radar warning system.
+
+Here is Sonar Systems information for the TU-142 (Bear F) Russian Long-Range Anti-Submarine Warfare (ASW) Aircraft:
+The Sonobuoy System is 1 x Zareche Sonobuoy System.
+The Sonobuoys is 96 (max) x RGB-1A, RGB-2, RGB-16 or RGB-25.
+
+Here is Protection information for the TU-142 (Bear F) Russian Long-Range Anti-Submarine Warfare (ASW) Aircraft:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The EW Counter Measures is 1 x Geran Active Jammer.
+The Chaffs/Flares is 50-mm dispensers inside undercarriage fairings.
+

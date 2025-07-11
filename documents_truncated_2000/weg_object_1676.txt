@@ -1,0 +1,110 @@
+This document describes the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer.
+
+The Gwanggaeto the Great-class destroyers, often called KDX-I, are destroyers but are classified by some as frigates, operated by the Republic of Korea Navy. It was the first phase of ROKN's KDX program, in moving the ROK Navy from a coastal defense force to a blue-water navy.
+
+This equipment has proliferated into the following countries: South Korea (Republic of Korea).
+
+Here is Variants information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer:
+The ROKS Gwanggaeto the Great is Commissioned: 1996
+Status: Active.
+The ROKS Eulji Mundeok is Commissioned: 1997
+Status: Active.
+The ROKS Yang Man-chun is Commissioned: 2000
+Status: Active.
+
+Here is System information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer:
+The Alternative Designation is Gwanggaeto the Great Class; KDX-I.
+The Type is Destroyer.
+The Builder is Daewoo Heavy Industries Co..
+The Crew is 185 (15 Off. + 155 Enl.).
+
+Here is Dimensions information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer:
+The Length is 135.40.
+The Beam is 14.20 m.
+The Draft is 4.30 m.
+The Displacement, Standard is 3,181 tons.
+The Displacement, Full Load is 3,855 tons.
+
+Here is Propulsion System information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer:
+The Gas Turbine Engine is 2 x General Electric LM-2500 gas turbines.
+The Diesel Engine Name is 2 x MTU type 20V956 TB92 diesels.
+The Diesel Engine Power is 59,000 total bhp.
+The Maximum Speed is 30 knots (56 km/h; 35 mph).
+The Range is 4,500 nmi (8,300 km; 5,200 mi) at 18 kn (33 km/h; 21 mph).
+
+Here is Gun Weapon System #1 information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer of the Gun Weapon Systems:
+The Name is 1 x OTO Melara 127/64.
+The Type is Naval Gun.
+The Caliber is 127 mm.
+The Quantity is 1.
+The Crew is Remote Controlled.
+The Elevation is −15°/+83°.
+The Traverse is 360°
+speed: 40°/s.
+The Rate of Fire is 40 rounds/min.
+The Effective Range is 100 km with guided VULCANO ammunition.
+The Feed System is Magazine capacity:
+66 ready rounds.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 127.
+The INA is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer of the Gun Weapon Systems:
+The Name is 2 x Goalkeeper CIWS.
+The Type is Close-in-Weapon System (CIWS).
+The Caliber is 30 mm.
+The Quantity is 2.
+The Crew is Automated, with human oversight.
+The Barrels is 7-barrel (progressive RH parabolic twist, 14 grooves).
+The Elevation is +85 to −25 degrees at 80 degree/s.
+The Traverse is 360 deg.
+The Rate of Fire is 70 rounds/second (4,200 rounds/minute).
+The Muzzle Velocity is 1,109 m/s.
+The Effective Firing Range is 350 to between 1,500 and 2,000 m.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Shell is 30×173mm TP, HEI, MPDS, or FMPDS.
+The Basic Load is INA.
+
+Here is Launcher information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer of the Missile Weapon System:
+The Name is 1 x 16-cell Mark 48 VLS launcher.
+
+Here is Missile information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer of the Missile Weapon System:
+The Name is RIM Sea-7 Sparrow.
+The Type is Surface-to-Air Missile.
+The Speed is Mach 2.5.
+The Maximum Range is 14.8 km.
+
+Here is Torpedo System information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer:
+The Launcher is 2 x triple 324-mm ASW torpedo tubes.
+The Torpedo Name is INA.
+The Basic Load is 46.
+
+Here is Fire Control Systems information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer:
+The FCS Name is 2 x Thales Goalkeeper Fire Control System.
+The Computerized FCS is Yes.
+The Battle Management System is Yes.
+
+Here is Radar Systems information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer:
+The Air Search Radar is 1 x Thales MW-08 air search.
+The Surface Search Radar is 1 x  ISC-Cardion AN/SPS-55M surface search.
+The Navigation Radar is 1 x Daewoo DTR-92 navigation.
+
+Here is Sonar Systems information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer:
+The Active and Passive Sonar is 1 STN Atlas Elektronik DSQS-21BZ hull-mounted active/passive/search/attack.
+The Towed Linear Passive Sonar is 1 x Thales towed linear passive hydrophone array of undisclosed type.
+
+Here is Aircraft Facilities information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer:
+The Aircraft is 2 x Super Lynx [carries Sea Skua ASM missiles or U.S. Mark 46, Mod. 5 ASW torpedoes]..
+
+Here is Protection information for the Gwanggaeto the Great Class (KDX-I Class) South Korean Destroyer:
+The Active Protection System is 2 x 330-340 round Matra-Defense Dagaie Mark 2 decoy rocket launching system.
+The Torpedo Decoy is 1 x U.S. AN/SLQ-25 NIXIE towed acoustic torpedo decoy system..
+The EW is 1 x ArgoSystems APECS-II/AR-700 intercept/jammer suite.
+The NBC Water Washdown System is Yes.
+

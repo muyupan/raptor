@@ -1,0 +1,144 @@
+This document describes the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper.
+
+The Gorya class is a group of minesweepers built for the Soviet Navy in the late 1980s. Three ships were started of which two were completed and are in service with the Russian Navy. The Soviet designation was Project 12660. The ships are designed for deep ocean sweeping of captor mines with sophisticated mine detection equipment. Sweeping gear includes two submersibles as well as conventional sweeps. Russian press boasted that the Project 12660 minesweepers were the first sweepers in the history of Soviet military shipbuilding capable of not only destroying the "Captor" mines, "Colas" ASW coverage buoys, and other enemy underwater objects at depths of up to 1,000 meters.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper:
+The Anatoly Zheleznyakov is Commissioned: 1988
+Status: Active
+Fleet: Black Sea Fleet.
+The Vladimir Gumanenko is Commissioned: 1994
+Status: Active
+Fleet: Northern Sea Fleet.
+
+Here is System information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper:
+The Alternative Designation is Gorya-Class; Project 12660 Class.
+The Type is Deep Ocean Minesweeper.
+The Builder is Sudostroitel'noye Obeyedineniye "Almaz" (Sredniy Neva), Kolpino, Russia.
+The Crew is 70 total (7 Off. + 63 Enl.).
+
+Here is Dimensions information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper:
+The Length is 67.8 m.
+The Beam is 11 m.
+The Draft is 4.4 m.
+The Displacement, Light is 1,070 tons.
+The Displacement, Fully Loaded is 1,228 tons.
+
+Here is Propulsion System information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper:
+The Engine Name is 2 x M-503B-37.
+The Engine Type is Diesel.
+The Engine Power is 5,100 total bhp.
+The Maximum Range is 1,500 nm at 12 knots.
+The Maximum Speed is 15.7 knots.
+The Endurance is 7 days.
+
+Here is Minesweeping Equipment information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper:
+The Acoustic Sweep System is 1 x AT-2 acoustic sweep system..
+The Contact Sweep System is 1 x GKT-2 contact sweep..
+The Magnetic Sweep System is 1 x TEM-3 magnetic sweep..
+The Mine Search Sonar is 1 x MG-99 Kabarga-A3 mine-search sonar..
+The Anti-Saboteur Sonar is 1 x MG-7 Braslet anti-saboteur sonar..
+The Communication Complex is 1 x Buran-6 communication complex..
+The Underwater Communication System is 1 x MG-35 Shtil-2 underwater communication system..
+The Submersible is The ship tows a remote-controlled Paltus minehunting submersible with 3,100 m of control cable. For mine disposal, 2 x  (100.0 kg) depth bombs and 20 x smaller charges are carried..
+The Note is Russian press boasted that the Project 12660 minesweepers were the first sweepers in the history of Soviet military shipbuilding capable of not only destroying the "Captor" mines, "Colas" ASW coverage buoys, and other enemy underwater objects at depths of up to 1,000 meters..
+
+Here is System information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper of the Gun Weapon System #1:
+The Name is 1 x AK-176 76.2mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 76 mm.
+The Length is INA.
+The Barrel Length is INA.
+The Height is 2.6 Meters.
+The Weight is 16,800 kg.
+The Crew is 2 (4 in manual control mode).
+The Barrels is 1.
+The Recoil is 380 to 500 mm.
+The Maximum Elevation is +85.
+The Minimum Elevation is -15.
+The Traverse Right is 175.
+The Traverse Left is 175.
+The Rate of Fire is 120 rds/min.
+The Muzzle Velocity is 980 m/s.
+The Maximum Firing Range is 15.5 km.
+The Effective Firing Range is 10 km.
+The Feed System is 152 ready to fire rounds.
+
+Here is Ammunition information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper of the Gun Weapon System #1:
+The Type is Rifle.
+The Caliber is 76.2.
+The Cartridge is INA.
+The Shell Weight is 12.4 kg.
+The Basic Load is INA.
+
+Here is System information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper of the Gun Weapon System #2:
+The Name is 1 x AK-630M 30mm CIWS.
+The Type is Close-in Weapon System (CIWS).
+The Caliber is 30 mm.
+The Main Armament is 1 or 2 AO-18 autocannons.
+The Secondary Armament is 4 x 9A4172 missiles.
+The Barrel Length is 1,629 mm  (total)
+1,460 mm (rifled).
+The Width is 1,240 mm (mount ring).
+The Height is 1,070 mm (above deck).
+The Weight is 1,000 kg (gun mount).
+The Crew is 1.
+The Action is Gas-operated rotary cannon.
+The Elevation is +88° ... -12° (50°/sec).
+The Traverse is ±180° (70°/sec).
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880–900 m/s.
+The Maximum Firing Range is the projectiles self-destruct past 5,000 m.
+The Effective Firing Range is 4,000 m (aerial);
+5,000 m (maritime).
+The Feed System is Belt: 2,000 rounds (additional 1,000 rounds in reserve feed bin..
+The Fire Control System is 1 x MR-123 Vympel fire control radar.
+The Sights is Radar / TV-optical.
+
+Here is Ammunition information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper of the Gun Weapon System #2:
+The Type is Rifle.
+The Caliber is 30.
+The Shell is HEI-Frag, Frag-T.
+The Shell Weight is 0.39 kg.
+The Basic Load is INA.
+
+Here is Missile System information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper:
+The Name is 16 x Igla-M (SA-N-10 Grouse) Man-Portable Infrared homing Surface-to-Air Missile (SAM) System.
+The Type is Man-Portable Infrared homing Surface-to-Air Missile (SAM) System.
+The Launcher is 2 x 4 round Fasta 4M (SA-N-8) SAM launchers.
+The Length is 1.67 m.
+The Diameter is 72 mm.
+The Wingspan is INA.
+The Weight is 17.9 kg.
+The Engine is Two-stage, solid-propellant rocket.
+The Guidance System is Dual waveband infra-red.
+The IFF is No.
+The Maximum Speed is 570 m/s.
+The Maximum Range is 5,000 m.
+The Minimum Range is 5,00 m.
+The Maximum Altitude is 3,500 m.
+The Minimum Altitude is 10 m.
+The Basic Load is 16 x Igla-M (SA-N-10 Grouse) Man-Portable Infrared homing Surface-to-Air Missile (SAM) System.
+
+Here is Torpedo System information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper:
+The Launcher is INA.
+The Basic Load is 8 x fixed 402mm Ketmen' special minehunting torpedoes..
+
+Here is Mine System information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper:
+The Note is Gorya Class (Project 12660 Class) Russian Deep Ocean Minesweeper carries 16 x naval mines..
+
+Here is Radars and Fire Control Systems (FCS) information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper:
+The Navigation Radar is 2 x MR-212/201 Vaygach-U Navigation Radars..
+The AK-176 Naval Gun FCS is 1 x MR-123 (Bass Tilt) Fire Control Radar..
+The AK-630M CIWS FCS is 1 x A-213-Vympel-A Fire Control Radar..
+
+Here is Sonar System information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper:
+The Mine Search Sonar is 1 x MG-99 Kabarga-A3 mine-search sonar..
+The Anti-Saboteur Sonar is 1 x MG-7 Braslet anti-saboteur sonar..
+
+Here is Protection information for the Gorya-Class (Project 12660 Class) Russian Deep Ocean Minesweeper:
+The Hull is Metal hull. The sliding doors at the 02 level on the hull sides aft cover the quadruple launch tubes for the special minehunting torpedoes, which are faired in pairs linked by a cable to engage mine anchor cables..
+The Countermeasures is 2 x KL-101 Launcher, PK-16 Decoy..
+The NBC Protection is Yes.
+

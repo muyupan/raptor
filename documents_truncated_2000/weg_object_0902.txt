@@ -1,0 +1,75 @@
+This document describes the Ansat Russian Light Utility Helicopter.
+
+The Ansat Russian Light Utility Helicopter is a Russian light, multipurpose helicopter manufactured by Kazan Helicopters. The Ansat is of classic construction. It takes a pilot and 10 passengers (one of them sits next to the pilot). The fuselage has a pair of doors in the pilot's cab, and a pair of upwards and downwards opening side doors in the transport compartment. After the seats have been removed, it can take 1000 kg of cargo inside. On an external hook, it can take 1300 kg of load. It is powered by two PW207K turboshaft engines, which produce 630 shp each. It features a four-blade main rotor and a two-blade tail rotor.
+
+This equipment has proliferated into the following countries: Bosnia and Herzegovina, China, Eritrea, Mexico, Russian Federation.
+
+Here is Variants information for the Ansat Russian Light Utility Helicopter:
+The Ansat is Basic version, 2 prototypes built..
+The Ansat-M is Modernised Ansat with reduced empty weight and increased fuel. Series production planned from 2022..
+The Ansat-NT is Proposed further modified next-generation version, powered by two VK-800V or 520 kW (700 shp) Klimov VK-650V turboshaft engines and with new four- or five-bladed main rotor..
+The Ansat-O is Flying laboratory for testing of avionic equipment for naval helicopters..
+The Ansat-U is Special military-training version with three-wheel chassis and double-winged cargo doors..
+The Ansat-UM is Military medevac for 4 stretchers..
+The Ansat-1K is Version certified only for cargo transport..
+The Ansat-1M is Version with hydro-mechanical control system KSU-A instead of the fly-by-wire control system..
+The Ansat-2RC is Derived from the civilian version and equipped with a 12.7mm (0.5 inch) machine gun above the front skid support, as well as four hardpoints spread across two stub wings. The company has already displayed the helicopter carrying a mixture of rocket launcher tubes, bombs and anti-aircraft missiles..
+
+Here is System information for the Ansat Russian Light Utility Helicopter:
+The Alternative Designation is Ansat; Kazan Ansat.
+The Type is Light Utility Helicopter.
+The Manufacturer is Kazan Helicopters.
+The Crew is 2.
+The Passengers is 8.
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 2.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+The Maximum Internal Payload Capacity is 1,230 kg.
+The Maximum Underslung Payload is 1,300 kg.
+The Landing Gear is Twin skids with Kazan transverse shock-absorbers; tail bumper to protect anti-torque rotor. Wheels optional; tricycle configuration, with Yaroslav tyres and Gidroagregat (Balashikha) brakes. Optional emergency notation system..
+
+Here is Dimensions information for the Ansat Russian Light Utility Helicopter:
+The Length, with Tailboom is 13.54 m.
+The Length, without Tailboom is 6.91 m.
+The Height is 3.56 m.
+The Main Gear Tread is 2.50 m.
+The Cabin Length is 5.70 m.
+The Cabin Height is 1.37 m.
+The Cabin Width is 1.77 m.
+The Cabin Volume is 8.0 cu m.
+The Maximum Takeoff Weight is 3,600 kg.
+The Maximum Internal Payload Capacity is 1,230 kg.
+The Maximum Underslung Payload is 1,300 kg.
+
+Here is Automotive information for the Ansat Russian Light Utility Helicopter:
+The Engine Name is 2 x Pratt & Whitney Canada PW-207K.
+The Engine Type is Turboshaft.
+The Engine Power is 470 kW (630 shp) each.
+The Fuel Capacity is 707 liters.
+The Maximum Speed is 275 km/h.
+The Cruise Speed is 220 km/h.
+The Economical Speed is 140 km/h.
+The Range is 515 km.
+The Ceiling is 4,800 m.
+The Hovering out of Ground Effect is 2,500 m.
+The Rate of Climb is 13 m/sec.
+The Endurance is Passenger/Transport:  2.44 hrs; 
+Emergency Rescue: 1.80 hrs;
+Patrol: 2.90 hrs.
+
+Here is Main Weapon System information for the Ansat Russian Light Utility Helicopter:
+The Note is Optional external rocket and machine gun pods..
+
+Here is Radar and Avionic Systems information for the Ansat Russian Light Utility Helicopter:
+The Navigation Radar is Provision in nosecone..
+The Avionics is Avionika FBW controls comprise quadruples electronic system and duplex hydraulic system. Automatic flight control is standard on all piloting functions and optional on navigation functions. Current FBW system to be replaced by KSU-A digital control system. Main transmission drives two alternators (each 200V, 400Hz), two generators (each 27V), two fans and two hydraulic fuel pumps for separate systems. Standard Russian avionics and instruments (apart from prototypes' BAE Systems North America engine parameters display, which to be replaced by Ulyanovsk BISK-A system); full Western avionics fit available as an option..
+
+Here is Protection information for the Ansat Russian Light Utility Helicopter:
+The Hull is Aluminium alloy fuselage; sparing use of composites; layered glass fibre main rotor blades, window frames and nosecone..
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

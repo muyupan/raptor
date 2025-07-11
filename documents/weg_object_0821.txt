@@ -1,0 +1,38 @@
+This document describes the RQ-4A Global Hawk American Unmanned Aerial Vehicle (UAV).
+
+The RQ-4A Global Hawk is a high-altitude, remotely-piloted, surveillance aircraft. It provides a broad overview and systematic surveillance using high-resolution synthetic aperture radar (SAR) and long-range electro-optical/infrared (EO/IR) sensors with long loiter times over target areas. It can survey as much as 40,000 square miles (100,000 km2) of terrain a day, an area the size of South Korea or Iceland.
+
+This equipment has proliferated into the following countries: Germany, Japan, South Korea (Republic of Korea).
+
+Here is System information for the RQ-4A Global Hawk American Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is RQ-4A Global Hawk.
+The Date of Introduction is 2001.
+The Type is High Altitude Long Endurance (HALE) UAV.
+The Proliferation is United States, NATO, Germany, Republic of South Korea, Japan.
+The Manufacturer is Northrop Grumman / Ryan Aeronautical.
+The Mission Roles is Reconnaissance, Special Operations.
+
+Here is Dimensions information for the RQ-4A Global Hawk American Unmanned Aerial Vehicle (UAV):
+The Length is 13.4.
+The Width is 35.3.
+The Height is 4.6.
+The Weight is 3,850.
+The Internal Payload Weight is 907.
+
+Here is Automotive information for the RQ-4A Global Hawk American Unmanned Aerial Vehicle (UAV):
+The Engine Name is Allison Rolls Royce AE3007H.
+The Engine Type is Turbofan.
+The Engine Power is 7,050.
+The Maximum Speed is 351.
+The Maximum Distance is 12,000.
+The Maximum Altitude is 19,812.
+
+Here is Variants information for the RQ-4A Global Hawk American Unmanned Aerial Vehicle (UAV):
+The RQ-4B is Improved Global Hawk; increased wingspan (130.9 feet), length (47.7 feet) and payload capacity; reduced range..
+The EQ-4B is Fitted with Battlefield Airborne Communications Node (BACN) suite..
+The RQ-4D "Phoenix" is NATO Variant. Basic platform features..
+The RQ-4E is Based on the RQ-4B airframe but fitted with European Aeronautical Defense 
+& Space (EADS) reconnaissance systems; German export model; single example delivered as of March 2013 with an additional four more possible..
+The MQ-4C "Triton" is Naval Global Hawk developed for US Navy; primarily for maritime reconnaissance and surveillance; 68 examples planned for procurement. NFI..
+The Global Hawk NATO AGS (Alliance Ground Surveillance) is Developed for NATO procurement; as many as five examples may be procured. NFI..
+

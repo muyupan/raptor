@@ -1,0 +1,39 @@
+This document describes the Fara-1 Russian Small Arms Radar Sight.
+
+Russian army use also close combat, weapons equipped by radar sights along with the optoelectronic sights.
+
+Radar sights work in centimeter and millimeter wave bands that make it possible detecting targets and providing weapons guidance at any time, in all weather conditions as well as smokescreen and dustiness of atmosphere.
+
+Portable Multiple Target Surveillance and Weapon Guidance Radar «Fara-1» (1L111) is used as a radar sight in the Russian Armed Forces and was adopted in 1999.
+
+Radar Sight Fara-1 is designed for moving land objects surveillance (single person, group of people, armoured vehicles) and guidance of automatic grenade launcher AGS-17 type, single and heavy machine guns such as Pecheneg and Kord.
+
+Weapons guidance at a moving target is fulfilled by operator at the signal maximum from the target reflection and with it the target range is determined by the radar indicator.
+
+The radar sight manpack set is a portable device carried by one person in the folded state behind an the pack.
+Radar sight works in continuous emission mode. Complex signal with double modulation is used for rain influence and flying birds avoidance in the radar near-field.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Fara-1 Russian Small Arms Radar Sight:
+The Alternative Designation is Fara-1.
+The Type is Small Arms Radar Sight.
+The Manufacturer is NPO Strela, Tula.
+The Crew is 1.
+The Scan Sector Range is 5,000 m.
+The Scan Sector Azimuth is 24; 45; 90; 120 deg.
+The Moving Target Detection Range, Person is 2 km.
+The Moving Target Detection Range, Tank is 4 km.
+The Moving Target Location Accuracy, Range is 20 m.
+The Moving Target Location Accuracy, Azimuth is 0-20 deg.
+The Resolution Range is 50 m.
+The Resolution Azimuth is 0-80 deg.
+The Power Consumption is 12 watts.
+The Mean Time Between Failures is 5,000 hours.
+
+Here is Dimensions information for the Fara-1 Russian Small Arms Radar Sight:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is 16.5.
+

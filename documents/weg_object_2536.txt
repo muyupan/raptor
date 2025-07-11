@@ -1,0 +1,86 @@
+This document describes the ACV-15 Turkish Amphibious Infantry Fighting Vehicle (IFV).
+
+The ACV-15 Turkish Armored Infantry Fighting Vehicle (IFV) is a light combat tracked armored vehicle developed, designed and manufactured by the Turkish Company FNSS Savunma Sistemleri to meet the requirement of the Turkish Army for a heavily armored vehicle in the 13-15t class that is able to operate alongside tanks in a combined arms team.
+
+This equipment has proliferated into the following countries: Jordan, Libya, Philippines, Syria, Turkey, United Arab Emirates.
+
+Here is Variants information for the ACV-15 Turkish Amphibious Infantry Fighting Vehicle (IFV):
+The ACV-15 AAPC is Advanced Armored Personnel Carrier. No turret, but a ring mount weapon station armed with a 12.7mm machine gun..
+The ACV-15 AESV is Armored Engineering Squad Vehicle the rear part of the crew compartment are used to carry one engineer squad with specific combat engineer equipment..
+The ACV-15 SPM is A 120mm Self-Propelled Mortar Carrier. One semi-automatic 120mm mortar is mounted at the of the hull. The mortar can be used from inside the vehicle..
+The ACV-15 SPM 81mm is A 81mm Self-Propelled Mortar Carrier. One 81mm caliber mortar is mounted at the rear of the vehicle. The mortar can fire from inside the vehicle..
+The ACV-15 ARV is A Armored Recovery Vehicle. A crane is mounted at the top rear of the hull. One self-recovery winch are fitted inside the vehicle with specific equipment to repair battle- or mine-damaged as well as broken-down armored vehicles during combat, or to tow them out of the danger zone for more extensive repairs..
+The ACV-15 AIRDEFENCE. is A launcher weapon station armed with ground-to-air missile is mounted on the top rear of the troops' compartment..
+The ACV-15 Anti-Tank tracked armored vehicle. is One single anti-tank launcher station is mounted on the top rear of the troops' compartment..
+The ACV-15 Ambulance is The rear part of the vehicle is accommodated to transport wounded soldiers on the battlefield..
+The ACV-15 TOW. is An anti-tank missile TOW launcher station is mounted at the rear top of the troops' compartment..
+
+Here is System information for the ACV-15 Turkish Amphibious Infantry Fighting Vehicle (IFV):
+The Alternative Designation is ACV-15.
+The Type is Amphibious Infantry Fighting Vehicle (IFV).
+The Manufacturer is FNSS Defense Systems.
+The Configuration is Track.
+The Crew is 3.
+The Passenger Capacity is 8.
+
+Here is Dimensions information for the ACV-15 Turkish Amphibious Infantry Fighting Vehicle (IFV):
+The Length is 5.26 m.
+The Width is 2.82 m.
+The Height is 3.12 m.
+The Weight, Combat is 13,900 kg.
+The Ground Pressure is 0.68 kg/cm².
+The Ground Clearance is 0.40 m.
+The Track Length is 318 mm.
+The Track Width is 2.68 m.
+
+Here is Automotive information for the ACV-15 Turkish Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is Detroit Diesel 6V-53TA.
+The Engine Type is Diesel.
+The Engine Power is 350.
+The Power-to-Weight Ratio is 25.17hp/t.
+The Fuel Capacity is 417 liters.
+The Maximum Range is 490 km.
+The Speed, Maximum Road is 65 km/h.
+The Amphibious is Yes.
+The Speed Maximum Swim is 6.3 km/h.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Obstacle is 0.74m.
+The Tench is 1.83 m.
+
+Here is System information for the ACV-15 Turkish Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Name is 1 x M242 Bushmaster 25mm Duel Feed Automatic Cannon.
+The Caliber is 25 mm.
+The Length is 2,672 mm.
+The Barrel Length is 2,175 mm.
+The Width is 318 mm.
+The Height is 373 mm.
+The Weight is 119 kg.
+The Action is Externally powered, chain driven, Open bolt.
+The Elevation is +49° to -8°.
+The Traverse is 360°.
+The Muzzle Velocity is 1,100 m/s.
+The Rate of Fire is 200 rpm.
+The Maximum Firing Range is 6,800 m.
+The Effective Firing Range is 2,000 m.
+The Feed System is Duel Feed.
+The Sights is Day/Night Secondary Sight : Four M27 Unity Vision Periscopes.
+
+Here is Ammunition information for the ACV-15 Turkish Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 25 mm.
+The Cartridge is 25×137 mm.
+The Basic Load is INA.
+
+Here is Coaxial Weapon System information for the ACV-15 Turkish Amphibious Infantry Fighting Vehicle (IFV):
+The Name is 1 x 7.62mm coaxial machine gun.
+
+Here is Protection information for the ACV-15 Turkish Amphibious Infantry Fighting Vehicle (IFV):
+The Hull Armor is 14.5mm AP small arms; Overhead protection: 155/152 mm Air Burst.
+The Turret Armor is Protection against 14.5×114mm.
+The Applique Armor is Available.
+The Explosive Reactive Armor is INA.
+The Mine Protection is 3 kg (8kg optional).
+The NBC Protection is Yes.
+The Smoke Equipment is 6 × hull mounted 76mm smoke grenade launcher.
+

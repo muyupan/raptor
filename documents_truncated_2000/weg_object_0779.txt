@@ -1,0 +1,34 @@
+This document describes the BLA-06 Russian Unmanned Aerial Vehicle (UAV).
+
+The BLA-06 (bespilotnyi letatelnyi apparat, or pilotless aerial vehicle) is an unmanned aerial vehicle (UAV) designed for military and civilian reconnaissance operations. The UAV is the first of Russian design with retractable landing gear, enabling it to operate from normal airfields or roads.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the BLA-06 Russian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is BLA-06; Aist (Stork).
+The Type is Reconnaissance Unmanned Aerial Vehicle (UAV).
+The Manufacturer is NII Kulon, Moscow, Russia.
+The Positioning Accuracy is 50 m.
+The Takeoff and Landing Run is 150 m.
+The Turret is SON-100 electro-optical turret.
+The Radar is X-band synthetic aperture side-looking radar.
+The TV Camera is Yes.
+The Thermal Imaging Camera is Yes.
+The Gas Analyzer is Available.
+The Landing Gear is The UAV is the first of Russian design with retractable landing gear, enabling it to operate from normal airfields or roads..
+
+Here is Dimensions information for the BLA-06 Russian Unmanned Aerial Vehicle (UAV):
+The Length is 4.7 m.
+The Wingspan is 8.0 m.
+The Weight is 500 kg.
+
+Here is Automotive information for the BLA-06 Russian Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is 2 x piston.
+The Engine Power is INA.
+The Maximum Speed is 250 km/h.
+The Range is 250 km (Communications ) at high altitude.
+The Maximum Celling is 6,000 m.
+The Minimum Ceiling is 100 m.
+The Endurance is 12 hours.
+

@@ -1,0 +1,96 @@
+This document describes the M113 American Armored Personnel Carrier (APC).
+
+Hezbollah Proliferation. The M113 armored personnel carrier was developed by the FMC (Food Machinery Corp.) based on M59 and M75 armored personnel carriers from the 1950s. The first prototype of M113 was produced in 1957. The US Army adopted the vehicle in 1960. 
+
+This equipment has proliferated into the following countries: Afghanistan, Albania, Algeria, Argentina, Australia, Belgium, Benin, Bolivia (Plurinational State of), Brazil, Cambodia, CFE Treaty, Congo, Ecuador, Germany, Guatemala, Non-State Actors, Norway, Philippines, Saudi Arabia, Somalia, South Korea (Republic of Korea), Spain, Sudan, Switzerland, Ukraine, United States of America, Uruguay, Viet Nam, Yemen.
+
+Here is Variants information for the M113 American Armored Personnel Carrier (APC):
+The M113 is Original gasoline version.
+The M113A1 is In 1963, manufacturing shifted to a diesel-fueled variant (Detroit Diesel 6V53 V-6), which reduced the chance of fire if pierced in combat and offered increased operational road ranges as a result..
+The M113A1 Armored Cavalry Assault Vehicle (ACAV) is Armor around the commander’s position & 2 extra M-60 MGs.
+The M113A2 is Improved engine cooling, better rear fuel cells, & new suspension system.
+The M113A2 ARV is Armored Recovery Vehicle with a 1361 kg auxiliary crane.
+The Stretched M113A2 is Prototype with an extra road wheel.
+The M113A3 is Bigger engine, yoke steering, Kevlar spall liner, applique liner, external fuel cells.
+The M113A3 M/R is Maintenance/Recovery vehicle with 9000 kg winch & 1360 kg crane.
+The M58 Wolf Smoker Generator Carrier is Vehicle dedicated to produce smoke.
+The M106 is M113 with M30 (107-mm) mortar in back with 88-93 rounds.
+The M125 is M113 with M29 (81-mm) mortar in back with 114 rounds.
+The M163 is M113A1 with turret with M61A1 Vulcan 20-mm 6-barrel Gatling cannon.
+The M548 is Unarmored cargo carrier.
+The M577 is Command post carrier with built-up rear area & telescopic antenna.
+The M577A3 is M113A3 engine with extended hull & 6 road wheels.
+The M901 is Improved TOW Vehicle with an Emerson ITV turret with 2 TOW tubes with an additional 10 missiles.
+The M981 is Fire Support Vehicle (FSV) with laser designator & improved commo gear.
+The M1059 Lynx is M113A2 with M157 smoke generator system.
+The M1064A3 is M113A3 with Soltan (120-mm) mortar with 60 rounds.
+The M1068A3 is Modified M113 into the Standard Integrated Command Post (SICP).
+The M113 Ambulance is Various versions available.
+The M113 with Dozer Blade is M113s with trim vane removed to be fitted with a bulldozer kit.
+The M113 HAZMAT is Stretched M113A3 for spills.
+
+Here is Dimensions information for the M113 American Armored Personnel Carrier (APC):
+The Length is 5.3 m.
+The Width is 3.
+The Height is 1.85.
+The Weight is 14.
+
+Here is Automotive information for the M113 American Armored Personnel Carrier (APC):
+The Engine Name is Chrysler 75M petrol (Original Engine).
+The Engine Type is Gasoline Engine (Later converted to Diesel).
+The Gearbox is General Motors TX-200 manual gearbox.
+The Cruising Range is 483.
+The Engine Power is 209.
+The Speed (Max Road) is 66.
+The Speed (Max Off-Road) is 35.
+The Speed (Average cross-country) is INA.
+The Speed (Max Swim) is 5.8.
+The Ground pressure is 0.55 kg/cm2.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.6.
+The Trench is 1.7.
+The Fording Depths is Amphibious.
+The Note is On water, it is propelled by spinning its tracks.
+
+Here is Communications information for the M113 American Armored Personnel Carrier (APC):
+The Primary is Varies depending on model..
+
+Here is System information for the M113 American Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 x M2 HB Anti-Aircraft Machine Gun.
+The Type is 12.7 mm.
+The In Service is 1933-Present.
+The Proliferation is Over 3 Million.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight, Gun Only is 38 kg.
+The Weight, Gun with Tripod is 58 kg.
+The Max Rate of Fire (M2HB Version) is 450-600 rds/min.
+The Max Rate of Fire (AN/M2 Version) is 750-850 rds/min.
+The Max Rate of Fire (AN/M3 Version) is 1,200-1,300 rds/min.
+The Action is Short recoil-operated.
+The Effective Range is 1,800-2,000 m.
+
+Here is Ammunition information for the M113 American Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is INA.
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is 0.50 BMG (12.7×99mm NATO).
+The Muzzle Velocity is 450-1,300 m/s.
+The Basic Load is 2,000 ea.
+
+Here is Fire Control information for the M113 American Armored Personnel Carrier (APC):
+The FCS Name is INA.
+The Computerized FCS is No.
+
+Here is Protection information for the M113 American Armored Personnel Carrier (APC):
+The Armor (turret front) is Protection of the M113 was rather limited. All-round protection is against 7.62 mm ball rounds and artillery shell splinters. At close range the M113 would be penetrated by 12.7 mm heavy machine gun rounds..
+The Applique Armor is Yes, on the bottom of the APC.
+The Explosive Reactive Armor is Available.
+The Active Protection System is No.
+The Self-entrenching Blade is Available.
+The NBC Protection System is Yes.
+The Smoke Equipment is No.
+The Survivability Equipment is Anti-mine armor on bottom.
+The Note is Up to 40% of vehicle components are manufactured from light alloys..
+

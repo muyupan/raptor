@@ -1,0 +1,83 @@
+This document describes the Crotale-NG French Short-Range Air Defense System.
+
+A modernized version, the Crotale NG (New Generation), entered production in 1990. This version used the new VT-1 missile with Mach 3.5 speed, load factor to 35G, 11 km range, 13 kg warhead (8 m kill-zone) and 6,000 m ceiling. The system includes a S-band Pulse Doppler radar (20 km), Ku-band TWT tracking radar (30 km), Thermal camera (19 km), Daylight CCD camera (15 km), and an IR localiser.[1] An early '90s proposal to fit the system (in its eight-round form) to a Leclerc tank chassis in order to provide a battlefield air defence vehicle for protecting armored formations on the move was not realised due to post-Cold War cutbacks.
+
+The missions of the system are in front-line armoured brigade defence, permanent or semi-permanent site defence and area defence against air threats, such as fixed-wing aircraft, attack helicopters, cruise missiles, tactical missiles and saturation attacks with stand-off weapons released from aircraft and helicopters.
+
+This equipment has proliferated into the following countries: Finland, France, Greece, Oman, Saudi Arabia.
+
+Here is Variants information for the Crotale-NG French Short-Range Air Defense System:
+The Generic is SYSTEM IS IN A MODULAR POD, DESIGNED TO FIT ON SHIPS, VEHICLES, AND ON STATIONARY PLATFORMS. THE MODULAR ALL-WEATHER SYSTEM INCLUDES ACQUISITION, TRACKING, LAUNCH, AND SUPPORTING COMPUTER UNITS INTEGRATED ON ONE VEHICLE, FOR MANAGEMENT BY A SINGLE SYSTEM OPERATOR.
+
+VEHICLE PLATFORMS INCLUDE APCS, E.G., M113, KOREAN IFV, PIRANHA 10X10, AND THE XA-180 AS NOTED.
+
+THE SYSTEM CAN BE RETROFITTED ONTO EXISTING CROTALE LAUNCHER VEHICLES..
+The PEGASUS is SOUTH KOREAN SYSTEM WITH A DIFFERENT MISSILE.
+The Crotale Mk.3 is A Long range Version of the NG.
+
+Here is Automotive information for the Crotale-NG French Short-Range Air Defense System of the System:
+The Engine Name is .
+The Engine Type is Diesel.
+The Engine Power is 240-hp.
+The Cruising Range is 800.
+The Max Road Speed is 80.
+
+Here is Dimensions information for the Crotale-NG French Short-Range Air Defense System:
+The Length is 7.35.
+The Width is 2.3.
+The Height is 2.9.
+The Weight is 23.
+
+Here is Launcher information for the Crotale-NG French Short-Range Air Defense System of the Main Weapon System:
+The Name is INA.
+The Type is Launcher.
+
+Here is Missile information for the Crotale-NG French Short-Range Air Defense System of the Main Weapon System:
+The Name is VT1 missile.
+The Type is The VT1 missile is a land and sea based missile designed especially for short-range surface to air defence systems..
+The Function is The VT1 missile has been created to counter all threats including tactical missiles, pop-up helicopters, UAVs and aircrafts deploying high-maneuvering, low-level stand-off weapons. When combined with the Crotale Mk3, the hyper velocity and high maneuverability of the VT1 offer a class-leading performance and allows a system with a 15km no escape zone against high maneuvering targets..
+The Speed is Mach 3.5.
+The Load Factor is 35.
+The Maximum Range is 15.
+The Ceiling is 6,000.
+The Warhead Weight is 13.
+
+Here is Radar information for the Crotale-NG French Short-Range Air Defense System of the Fire Control:
+The Name is N/A.
+The Type is S-band Pulse Doppler radar.
+The Function is Fire Control, tracking.
+The Antenna is Planar array
+Detection Range (km):
+Aircraft: 20.
+The Hovering Rotary Wing Aircraft is 11.
+The Altitude Coverage is 0-5000.
+The Multiple Target Tracking is Automatic track-while-scan for
+up to 8 targets..
+The Frequency Band is Ku.
+The ECCM is Wideband frequency agile.
+The Detection Range is 30.
+The Frequency is 35 doppler TWT (travelling wave tube).
+The Automatic Aqquisition is Yes.
+The Multi-Target Detection is Yes.
+The IFF is Yes.
+
+Here is Sights with Magnification information for the Crotale-NG French Short-Range Air Defense System of the Fire Control:
+The Day Camera is Mascot, CCD TV
+Field of view (): 2.4
+Elevation (): 1.8
+Range (km): 15.
+The Night Camera is Night Camera: Castor, thermal
+Field of view (): 8.1/2.7
+Elevation (): 5.4/1.8
+Range (km): 19.
+The Missile Tracker is IR missile localizer on
+CCD camera for passive TV
+tracking.
+The IFF is Yes.
+
+Here is Other Assets information for the Crotale-NG French Short-Range Air Defense System of the Fire Control:
+The Description is The SAM system links to the IADS to get digital AD data and warnings. Associated radar for EW and TA data is radar at Brigade and Division Tier 1 and 2. System can also pass data to the net..
+
+Here is Protection information for the Crotale-NG French Short-Range Air Defense System:
+The Armor Protection is 6-12.
+

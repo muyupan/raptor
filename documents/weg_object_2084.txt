@@ -1,0 +1,80 @@
+This document describes the NSV Russian 12.7mm Heavy Machine Gun.
+
+The NSV (Russian НСВ Никитина-Соколова-Волкова), also known as the «Utyos» (Project: Lonely Cliff), is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin (Г. И. Никитин), Y. S. Sokolov (Ю. М. Соколов) and V. I. Volkov (В. И. Волков). It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. It is no longer being produced in Russia; the manufacturing license for the NSV ended up in Kazakhstan after the break-up of the Soviet Union. The NSV has been manufactured in Bulgaria, India, Poland, and Yugoslavia under license.
+
+The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute, and an effective range from 1,500 m (1,600 yd) to 2,000 m (2,200 yd) against airborne and ground targets, respectively. A loaded ammunition belt with 50 rounds weighs 11 kg (24 lb).
+
+
+The Soviet Army began looking for a new heavy machine gun to replace its older SGM and DShK machine guns in the early 1950s. The Soviet Army liked the idea behind the German MG 42; a versatile weapon used on a variety of mounts to perform many different roles. Two Soviet weapon designers were asked to design one weapon each utilizing the same principle.
+
+Testing approved Mikhail Kalashnikov's solution; it was found to be more reliable and cheaper to manufacture than the design of Grigory Nikitin and Yuri Sokolov. Kalashnikov's machine gun became the new standard machine gun and was named PK.
+
+Nikitin's and Sokolov's design was however not forgotten. It was developed into the heavy NSV machine gun about 10 years later and selected in 1969 as the successor to the DShK/DShKM machine gun. It was accepted in service by the Soviet Army in 1971. The machine gun was also license-manufactured in Bulgaria, India, Yugoslavia, and Poland. The Yugoslavian version of the NSVT is called the M87.
+
+Production of the NSV has ended in Russia, and it is currently being replaced by the Kord-heavy machine gun. The Russian Army needed a more accurate heavy machine gun, and it has also been increasingly difficult to get hold of spare parts. NSV production was located in Ukraine and in Kazakhstan and was disrupted by the end of the Soviet Union.
+
+This equipment has proliferated into the following countries: Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Djibouti, Egypt, Finland, Georgia, India, Iraq, Ivory Coast, Kazakhstan, Kuwait, Macedonia, Malaysia, Mauritania, Mongolia, Namibia, North Korea (Democratic People's Republic of Korea), Pakistan, Poland, Russian Federation, Serbia, Sierra Leone, South Korea (Republic of Korea), Syria, Ukraine, Viet Nam.
+
+Here is Variants information for the NSV Russian 12.7mm Heavy Machine Gun:
+The NSVT is Tank-mounted version (See NOTES)
+A tripod-mount (6T7) version is available for infantry use in a ground role. However, the NSVT appears more commonly mounted on the turrets of tanks as an antiaircraft machinegun.
+.
+The Russian NSV/NSVT is The Russian version can produce the guns for either Russian 12.7x108 or NATO 12.7 x 99
+(.50-cal) ammunition.
+.
+The Kord is A Russian modernized version of the NSV/NSVT. Improvements include reduced weight (50% for hand-carry 6P57), reduced recoil, increased barrel life,
+improved reliability, improved accuracy, increased burst rate capacity, and improved reliability and maintenance. Reduced weight and recoil permits use with the 6T19 light machinegun bipod. Like the above Russian MGs, the Kord can be produced in either ammunition version.
+Vehicle version is 6P49. Swivel mount hand-operated versions are 6P58 and 6P59.
+.
+
+Here is Dimensions information for the NSV Russian 12.7mm Heavy Machine Gun of the System:
+The Length is 1,560 mm.
+The Height  is 380 mm.
+The Length  is 1,900 mm.
+The Width  is 860 mm.
+The Weight, Barrel is 9.2.
+The Weight, Empty is 25.
+The Weight, Total System is 43.
+The Weight, Tripod is 16.
+
+Here is Mount information for the NSV Russian 12.7mm Heavy Machine Gun of the System:
+The Elevation  is -5 to +75 deg.
+The Traverse  is 360.
+The Type is 6T7 (infantry) tripod or 6U6 (w/seat) universal tripod.
+
+Here is Ammunition (Option 1) information for the NSV Russian 12.7mm Heavy Machine Gun of the Ammunition:
+The Type is API.
+The Caliber is 12.7x108mm.
+The Muzzle Velocity  is 860.0.
+The Range, Maximum Effective, Anti-Aircraft is 1,000.
+The Range, Maximum Effective, Armor  is 800.
+The Range, Maximum Effective, Ground  is 2,000.
+The Range, Maximum Effective, Night  is 1,000.
+The Range, Maximum, Ground  is 7,850.
+
+Here is Munition All information for the NSV Russian 12.7mm Heavy Machine Gun of the Ammunition:
+The Name is B-32 (API); BZT-44 (API-T); HEI.
+
+Here is Sights #1 information for the NSV Russian 12.7mm Heavy Machine Gun of the Sights:
+The Name is INA.
+The Type is Metallic sights, (tangent leaf rear and folding front post).
+The Range  is 2000.
+
+Here is Sights #2 information for the NSV Russian 12.7mm Heavy Machine Gun of the Sights:
+The Name is 10P50 Optical .
+The Type is Day optical sight .
+The Magnification is 3-6x.
+
+Here is Sights #3 information for the NSV Russian 12.7mm Heavy Machine Gun of the Sights:
+The Name is 1PN52-1.
+The Type is Night sight .
+The Magnification is 5.3x.
+
+Here is Sights #4 information for the NSV Russian 12.7mm Heavy Machine Gun of the Sights:
+The Name is 10P80 (used w/ 6U6 mount).
+The Type is AA collimating sight (aircraft speed to 300 km/h).
+
+Here is Sights #5 information for the NSV Russian 12.7mm Heavy Machine Gun of the Sights:
+The Name is K10-T (on NSVT for T- 72/T-80).
+The Type is Reflex AA sight.
+

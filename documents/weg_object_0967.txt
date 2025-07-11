@@ -1,0 +1,177 @@
+This document describes the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft.
+
+The Sukhoi Su-30MKK (NATO reporting name: Flanker-G) is a modification of the Sukhoi Su-30, incorporating advanced technology from the Sukhoi Su-35 variant. The Su-30MKK was developed by Sukhoi in 1997, as a result of a direct Request for tender between the Russian Federation and China. It is a heavy class, all-weather, long-range strike fighter, and like the Sukhoi Su-30, comparable to the American McDonnell Douglas F-15E Strike Eagle. Su-30MK2 is a further improvement to Su-30MKK with upgraded avionics and maritime strike capabilities. The MKK and MK2 are currently operated by the People's Liberation Army Air Force, Indonesian Air Force, Vietnam People's Air Force, Venezuelan Air Force and the Ugandan Air Force.
+
+Su-30MKK shares compatibility with Su-35 in terms of hardware, but in terms of software, Su-30MKK differs from Su-35 (Flanker-E) on a much greater scale in comparison to Indian Su-30MKI because of different mission requirements by China. The Flanker family aircraft has the problem of the reduction of maximum g-force level being decreased to 7g from the 9g at speed between Mach 0.7 to Mach 0.9, and this problem was completely solved on Su-30MKK by adopting new measures. According to the Sukhoi Design Bureau, Su-30MKK is the first of the Flanker family to achieve it after Su-35 / 37 (Flanker-E/F) and Sukhoi Su-30MKI. Higher percentage of composite material is used for Su-30MKK in comparison to the original Su-30MK. In addition, new aluminum alloy were used to replace the old type used on Su-30MK for weight reduction. The twin rudders mainly made of carbon fiber composite material were larger on Su-30MKK in comparison to that of the original Su-30MK, but contrary to what was once erroneously claimed by some western sources, Sukhoi Design Bureau revealed later that the increased space in the rudders were used for additional fuel tanks, instead of larger communication UHF antenna. The capacity of the fuel tanks in the wings is also increased. A twin nose landing gear of size 620 mm x 180 mm has replaced the single nose landing gear of size 680 mm x 260 mm used on Su-30MK to accommodate the increased weight. The maximum take-off weight and weapon load are increased to 38 tons and 12 tons respectively, but this extreme limit is often avoided by taking off at lighter weight. It was rumored that the Chinese pilots were not as experienced as Russian test pilots when operating at this extreme limits, which contributed to the crashes at least partially. The original K-36 ejection seat on Su-30MK is replaced by K-36M ejection seat for Su-30MKK.
+
+This equipment has proliferated into the following countries: China, Indonesia, Uganda, Venezuela (Bolivarian Republic of), Viet Nam.
+
+Here is Variants information for the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft:
+The Su-30MK is Commercial version of Su-30M first revealed in 1993. Export versions include navigation and communication equipment from Hindustan Aeronautics Limited..
+The Su-30MKI is MKI for Modernizirovannyi Kommercheskiy Indiski - "Modernized Commercial Indian". An export version for India, jointly developed with Hindustan Aeronautics Limited (HAL). It is the first Su-30 family member to feature thrust vectoring control (TVC) and canards. Equipped with a multinational avionics complex sourced from Russia, India, France and Israel.
+The Su-30MKA is A version of the Su-30MKI, except with French and Russian avionics for Algeria..
+The Su-30MKM is A derivative of the Russian-Indian Su-30MKI, the MKM is a highly specialised version for Royal Malaysian Air Force. It includes thrust vectoring control (TVC) and canards but with avionics from various countries. It will feature head-up displays (HUD), navigational forward-looking IR system (NAVFLIR) and Damocles Laser Designation pod (LDP) from Thales Group of France, MAW-300 missile approach warning sensor (MAWS), RWS-50 RWR and laser warning sensor (LWS) from SAAB AVITRONICS (South Africa) as well as the Russian NIIP N011M Bars Passive electronically scanned array radar, electronic warfare (EW) system, optical-location system (OLS) and a glass cockpit..
+The Su-30SM is SM for Serijnyi Modernizirovannyi - "Serial Modernized". A specialised version of the thrust-vectoring Su-30MKI for the Russian Air Force, produced by the Irkut Corporation..
+The Su-30MKK is MKK for Modernizirovanniy Kommercheskiy Kitayskiy - "Modernized Commercial for China". An export version for China. NATO reporting name Flanker-G.
+The Su-30MK2 is Modernized Su-30MKK for China, Indonesia and Uganda with advanced avionics and weapons..
+The Su-30MK2V is Su-30MK2 variant for Vietnam with minor modifications..
+The Su-30MKV is Export version of Su-30MK2 for Venezuela..
+The Su-30M2 is A Su-30MK2 version developed by KnAAPO. The Russian Air Force placed an initial order for the variant in 2009. Factory tests were completed in September 2010. Twenty aircraft have been ordered; 4 in 2009 and 16 in 2012. At least 12 have been produced as of August 2014, all four from the first contract in 2009, and eight from the second contract of 2012. They are mostly to be used as combat training aircraft for Su-30SM and Su-35S fighters..
+The Su-30MK3 is A proposed version with Phazotron Zhuk-MSF radar..
+
+Here is System information for the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft:
+The Alternative Designations is Su-30MKK.
+The Description is Multirole Fighter Aircraft.
+The Crew is 2.
+The Manufacturer is Sukhoi.
+
+Here is Dimensions information for the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft:
+The Length is 21.9 m.
+The Wingspan is 14.7 m.
+The Height is 6.36 m.
+The Gross Weight is 24,900 kg.
+The Max Takeoff Weight is 34,500 kg.
+
+Here is Automotive information for the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft:
+The Engine Name is 2 × Lyulka AL-31F afterburning turbofan engines.
+The Engine Power is 123 kN (28,000 lbf) with afterburner.
+The Maximum Speed is Mach 2.
+The Range is 3,000 km.
+The Service Ceiling is 17,300 m.
+The G Limits is +9g.
+The Rate of Climb is 5.083 m/s.
+The Take-Off Run is 550 m.
+The Fuel Capacity is In addition to the newly added fuel tanks in the rudders capacity totaling 280 kg, there are four main fuel tanks. No. 1 tank with capacity totaling 3,150 kg is in the front, No. 2 tank with capacity totaling 4,150 kg is in the middle, No. 3 tank with capacity totaling 1,053 kg is in the rear, and No. 4 tank with capacity totaling 1,552 kg is located in the wings. During aerial refueling, the maximum capacity of Su-30MKK is receiving up to 2,300 liters per minute. The altitude of refueling is limited to 2 km to 6 km, and the speed is limited to 450–550 km/h. Aerial refueling probe is located in front of cockpit on the left, and the design is capable of night refueling..
+
+Here is Communications information for the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft:
+The Note is The encrypted VHF/UHF communication radio of Su-30MKK has a maximum range in excess of 400 km, while the encrypted HF communication radio of Su-30MKK has a maximum range in excess of 1,500 km, and all can be used for both air-to-air or air-to-ground two-way communications. Su-30MKK is the first of Flanker family to be equipped with TKS-2 C3 system, which is capable of simultaneously commanding and controlling up to 15 aircraft with such system, and the air-to-air missiles launched by these aircraft. According to the developer of the system, Russkaya Avionika JSC, the encrypted two-way communication Command, control, and communications system can be either commanded or controlled by ground stations, or act as the command/control center for other aircraft. The system is claimed by the Russian developer as a huge leap forward in comparison to the similar rudimentary system on Su-27, which is only capable of one way communication. The new system is also the first among Russian system that is capable of forming a local area network like similar system on American Grumman F-14 Tomcat..
+
+Here is System information for the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft of the Gun Weapon System:
+The Name is Gryazev-Shipunov GSh-30-1.
+The Type is Autocannon.
+The Caliber is 30.
+The Length is 1,978 mm.
+The Barrel Length is 1,500 mm.
+The Width is 156 mm.
+The Height is 185 mm.
+The Weight is 46 kg.
+The Barrels is 1.
+The Action is Short recoil operated.
+The Rate of Fire is 1,800 rounds/min.
+The Muzzle Velocity is 900 m/s.
+The Maximum Firing Range is 1,800m.
+The Effective Firing Range is 200-1,800m.
+
+Here is Ammunition information for the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft of the Gun Weapon System:
+The Type is Autocannon.
+The Caliber is 30mm.
+The Shell is 30×165mm.
+The Basic Load is INA.
+
+Here is Rocket Weapon System information for the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft:
+The Note is Various unguided rockets.
+
+Here is Missile Weapon System #1 information for the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft of the Missile Weapon Systems:
+The Name is R-27.
+The Type is Air-to-Air Missile.
+The Manufacturer is Vympel.
+The Length is 4.08 m.
+The Diameter is 230 mm.
+The Wingspan is 772 mm.
+The Weight is 253 kg.
+The Warhead Type is blast/fragmentation, or continuous rod.
+The Warhead Weight is 39 kg.
+The Detonation Mechanism is radar-proximity and impact fuzes.
+The Engine is High performance, w. directed-rocket motor
+Solid-fuel rocket motor.
+The Operational Range is up to 40 km.
+The Flight Altitude is INA.
+The Maximum Speed is Mach 4.5.
+The Guidance System is semi-active radar homing (A/C), active-radar-homing (R-27EA), infrared homing (B/D), passive radar (E/F).
+
+Here is Missile Weapon System #2 information for the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft of the Missile Weapon Systems:
+The Name is R-77.
+The Type is Air-to-Air Missile.
+The Manufacturer is Vympel.
+The Length is 3.6 m.
+The Diameter is 200 mm.
+The Wingspan is 700 mm.
+The Weight is 175 kg.
+The Warhead Type is HE fragmenting.
+The Warhead Weight is 22.5 kg.
+The Detonation Mechanism is laser proximity fuse.
+The Engine is Solid fuel rocket motor.
+The Operational Range is 80–100 km.
+The Flight Altitude is 5–25 km.
+The Maximum Speed is Mach 4.
+The Guidance System is Inertial with mid-course update and terminal active radar homing/infrared homing (R-77T).
+
+Here is Missile Weapon System #3 information for the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft of the Missile Weapon Systems:
+The Name is Kh-29.
+The Type is Air-to-Surface Missile.
+The Manufacturer is Vympel / Tactical Missiles Corporation.
+The Length is 390 cm.
+The Diameter is 38.0 cm.
+The Wingspan is 110 cm.
+The Weight is 660 kg.
+The Warhead Type is HE armour-piercing.
+The Warhead Weight is 320 kg.
+The Detonation Mechanism is Impact.
+The Engine is Fixed thrust solid fuel rocket.
+The Operational Range is 10 km.
+The Maximum Speed is 1,470 km/h.
+The Guidance System is semi-active laser guidance.
+
+Here is Bomb Weapon System #1 information for the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft of the Bombs Weapon Systems:
+The Name is KAB-500L.
+The Type is Laser-Guided Bomb.
+The Length is 3.05 m.
+The Diameter is INA.
+The Weight is Its warhead makes up 450 kg (990 lb) of the total weight, of which roughly 50% is blast-effect high explosive..
+The Warhead Type is INA.
+The Warhead Weight is 450 kg.
+The Guidance Sytem is semi-active laser seeker and guidance fins, turning it into an unpowered guided bomb..
+The CEP is 7 meters.
+
+Here is Bomb Weapon System #2 information for the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft of the Bombs Weapon Systems:
+The Name is KAB-1500L.
+The Type is Precision Guided Bomb.
+The Manufacturer is Tactical Missiles Corporation.
+The Length is 4,280 mm.
+The Diameter is 820 mm.
+The Wingspan is 0.58 m.
+The Weight is about 1500 kg.
+The Warhead Type is high explosive (LG-F-E), penetrating (LG-Pr-E), fuel-air (LG-OD-E).
+The Warhead Weight is INA.
+The Flight Ceiling is 8-10 km.
+The Guidance System is Laser-guided.
+The Accuracy is 4 to 7 m.
+
+Here is Avionics information for the Su-30MKK (Flanker-G) Russian Multirole Fighter Aircraft:
+The Electronic Warhare System is Russian sources have claimed that the electronic warfare systems of Su-30MKK utilizes the latest technologies available in Russia and the radar warning receivers are so effective that the information provided by RWR alone would be enough to provide targeting information for Kh-31P anti-radiation missile without using other detection systems on board, though information can also be provided by L-150 ELINT system, which can be used in conjunction with Kh-31P. The maximum range of the RWR is termed at several hundred kilometers, and based on the 200 km maximum range of the Kh-31P anti-radiation missile, the maximum should be at least that much. The threat information obtained from RWRs can be either provided on the LCD MFDs (showing the most dangerous four targets) for the pilot in the manual mode, or be used automatically. The active jamming pods are mounted on the wing tips, and the APP-50 decoy launcher is mounted near the tail cone with 96 decoys of different kinds. Domestic Chinese electronic warfare systems including BM/KG300G and KZ900 can also be carried after modification of onboard system, but such modification was neither part of the original deal nor the upgrade deal with Russians, instead, this was implemented indigenously by Chinese themselves during the incremental upgrades..
+The Flight Control is The fly by wire (FBW) control with quadruple redundancy designed by Russkaya Avionika is the same system used for the Su-30MKI. Russian sources have confirmed the claims of domestic Chinese sources that an indigenous Chinese system developed is near its completion and it will be used to replace the original Russian system. However, this has yet to be confirmed by western sources and official Chinese governmental sources, which only acknowledged in the 6th Zhuhai Airshow that domestic fly-by-wire (FBW) control with quadruple redundancy is developed to accommodate domestic engines, but nothing was mentioned about whether the domestic system and engines would be used on future Su-30MKK upgrades..
+The Flight Instruments is The Su-30MKK features a glass cockpit of Russkaya Avionika JSC, with each pilot having two large multi-function displays, rear pilot displays arranged in a rather unconventional way: one atop of the other. Two 178 mm × 127 mm (7.0 in × 5.0 in) MFI-9 colour LCD MFDs are located in the front seat, a single MFI-9 and a 204 mm × 152 mm (8.0 in × 6.0 in) MFI-10 color LCD MFDs are located in the rear seat. The head-up display (HUD) is also developed by Russkaya Avonika JSC, designated as SILS-30..
+The Helmet Mounted Sight is The original ASP-PVD-21 series helmet mounted sight (HMS) with only limited field of view (FoV) was replaced by more advanced Sura-K HMS system, but Chinese have been replacing the Russian HMS with more advanced domestic system. Publicized photos and video clips from the official Chinese governmental sources such as CCTV-7 in 2007 and PLA pictorial magazine have confirmed the western claims of Chinese is replacing the original Russian helmet mounted sights (HMS) with more capable domestic ones..
+The Mission Computer is The new mission computer was jointly developed by the Russian National Aeronautical System Science Research Academy and Russkaya Avionika JSC, designated as MVK, capable of performing ten billion FLOPS. All avionics on board is built to MIL-STD-1553 standard. There are four computers based on Baguet-55 series processor, one for central avionics control, two for information display, and one for fire control..
+The Navigation is The integrated navigational systems designated as PNS-10, incorporating the A737 subsystem. The system is capable of utilizing both the GPS and GLONASS, but it is rumored that Chinese is developing a similar system to add the capability to utilize domestic BeiDou Navigation Satellite System.
+The Airborne Radar is Airborne radar on board Su-30MKK has been continuously upgraded and a total of three were confirmed so far, all of which are controlled by the RLPK-27VE integrated radar targeting system, developed from the RLPK-27 system of the single seat Su-27. Both systems are designed by Viktor Grishin of the Tikhomirov Scientific Research Institute of Instrument Design (NIIP), and is compatible with various radar and weaponry systems.
+
+N001VEP radar: The first 20 Su-30MKK have an N001VEP Passive electronically scanned array (PESA) fire-control radar by the Chief designer Viktor Grishin of the Tikhomirov Scientific Research Institute of Instrument Design (NIIP) with a range up to 100 km, able to concurrently track 10 targets, and engage four air targets or two ground targets of the 10 tracked. The N001VEP is developed from the earlier N001VE radar designed by the same designer, which was used on the Chinese J-11A. The original Baguet series processor of the N001VE radar is replaced by its successor Baguet-55 series. Like its predecessor, the new radar has incorporated the moving target indication (MTI) and mapping capabilities, and the capability to detect low flying or hovering helicopters. The scan sector of it is 120 degrees while the elevation is 110 degrees.
+Zhuk (radar)-MS radar: From the 21st Su-30MKK on, the N001VEP radar is replaced by the Zhuk-MS (Beetle-MS) fire control radar of Tikhomirov (NIIP)'s competitor, Phazotron (NIIR), which also adopts a slotted planar array antenna like N001VEP radar. The new radar has longer range coverage (up to 150 km) and is able to guide a greater variety of weapons systems. The number of targets that can be engaged is identical to that of the N001VEP radar, but the number that can be simultaneously tracked has been doubled to 20. The Zhuk (Beetle)-MS radar is an improvement of the earlier Zhuk (Beetle) radar designed for Su-27 and MiG-29 upgrades, and in comparison to the original Zhuk radar, the Zhuk-MS has the following improvements in addition to increased range and number of targets tracked/engaged:
+The antenna diameter is increased to 960 mm from the original 680 mm of Zhuk (Beetle) radar
+The peak power is increased to 6 kW from the original 5 kW of Zhuk (Beetle) radar
+The average power is increased to 1.5 kW from the original 1 kW of Zhuk (Beetle) radar
+Contrary to many erroneous claims, Zhuk-MS is not a phased array radar, but a slotted planar array antenna.
+Zhuk-MSE radar: The Zhuk-MS has been replaced by its successor, Zhuk-MSE in the incremental upgrades of Su-30MKK, and previous Zhuk-MS are being upgraded to the Zhuk-MSE level. In comparison to the predecessor most performance parameters remain the same, but the number of ground targets that can be simultaneously engaged is increased to four from the original two. Like Zhuk-MS, this radar has also been erroneously reported to be a phased array radar when in fact, it utilizes a slotted planar array antenna. The designer Phazotron has claimed the new radar has better ECCM capabilities than earlier models..
+The FIre Control System is The fire control system on board integrates the radar, optronics, helmet-mounted sight, electronic warfare gears including radar warning receivers, and data links. The system consists of two subsystems: the SUV-VEP air-to-air subsystem and the SUV-P air-to-ground subsystem.
+
+SUV-VEP: this air-to-air subsystem is capable of controlling six air-to-air missiles, which is greater than the maximum number of targets the airborne radar on board Su-30MKK can simultaneously engage, thus leaving rooms for radar improvement, which would be later exploited when the new passive electronically scanned array radars have been installed on Su-30MK2. The SUV-VEP subsystem is also capable of controlling air-to-sea missions, and the fire control of Kh-31A and Kh-35 anti-ship missiles are usually provided by SUV-VEP air-to-air subsystem instead of SUV-P air-to-ground subsystem. The subsystem of SUV-VEP system includes four major portions:
+SEI-31-10 Integrated Display system: Used to control LCD MFDs.
+OEPS-30 optronic (electro-optical) detection system: Chinese call this system optronic radar system, and it consists of two major components:
+OLS-30 (52Sh) Infra-red search and track weighing 200 kg includes laser and IR sensors. In comparison to its predecessor OLS-27 (Izdeliye 36Sh) on Su-27, the IR detection range nearly doubled to > 90 km from the original 50 km. The range of laser range finder is increased to > 10 km from the original 6 km.
+Sura-K helmet mounted system (HMS): The field of view (FoV) is greatly increased to +/- 60 degrees in comparison to the +/- 8 degrees of the ASP-PVD-21 HMS originally used on Su-27.
+IFF and airborne radar are also controlled by SUV-VEP system.
+SUV-P: this air-to-ground subsystem utilizes identical hardware of SUV-VEP air-to-air subsystem, but with a different processing requirement. This subsystem is mainly used for air-to-surface missiles such as Kh-59, and acts as an interface between the system on board the aircraft and the designated targeting pods of the air-to-surface missiles that can not be controlled directly by the onboard avionics. The primary subsystem of SUV-P system is SUO-30PK subsystem and A-737 satellite navigational subsystem.
+SUO-30PK weaponry control subsystem: though Kh-31 is often controlled by SUV-VEP air-to-air system, it can also be controlled via SUV-P system via SUO-30PK subsystem, which can also control L-150 ELINT system. SUO-30PK system also controls other missiles such as Kh-59, an air-to-ground missiles that is controlled via Tekon targeting system in the APK-9E pod. Other SUO-30PK subsystem is developed by Aviation Automation Design bureau at Kursk, and it can be used to control unguided air-to-ground weaponry.
+Both the SUV-VEP and SUV-P systems were adopted to upgrade the single seat Su-27SK in Chinese inventory, and a joint team of Tikhomirov Scientific Research Institute of Instrument Design (NIIP) and State Instrumentation Plant at Ryazan was named as the primary contractor. The modified SUV-VEP system adopted to upgrade Chinese Su-27SK was designated as SUV-VE, while the modified SUV-P system adopted to upgrade Chinese Su-27SK was designated as SUV-PE. The original analog dial indicator on flight dashboard of Su-27SK were replaced by two 6 in x 6 in MFI-10-6M and a MFIP-6 LCD MFDs. According to Russian claim, over 60 Chinese Su-27SK have been upgraded by the end of 2006..
+

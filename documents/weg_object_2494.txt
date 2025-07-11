@@ -1,0 +1,143 @@
+This document describes the BRM-1K Russian Amphibious Combat Reconnaissance Vehicle (CRV).
+
+The BRM-1K is a Russian armored reconnaissance vehicle. It was developed in the Soviet Union in the 1970s by KB TchTZ and produced by Kurganmashzavod. The BRM-1K entered service in 1972.
+
+The BRM-1K is for reconnaissance missions on the battlefield. It is developed from the BMP-1 Armored Infantry Fighting Vehicle. It has the same architecture as the BMP-1 with the engine on the front right and the cockpit on the front left. The BRM-1K received a new two-seat turret unlike the single-seat turret of the BMP-1. The armament consists of the 73mm Grom 2A28 gun, identical to the BMP-1.
+
+The BRM-1K is equipped with a 1RL133-1 terrestrial radar. On the first BRM-1 version the radar is deployed manually. On the BRM-1K version, the radar is automatically retractable into the compartment at the rear of the turret. The crew of the BRM-1K is composed of six men: machine commander, pilot, transmitter, navigation system operator, and two operators of reconnaissance systems.
+
+This equipment has proliferated into the following countries: Armenia, Azerbaijan, Belarus, CFE Treaty, Georgia, Russian Federation, Turkmenistan, Ukraine.
+
+Here is Variants information for the BRM-1K Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The BRM-1 is Baseline ARV (BMP M1976/1)..
+The BRM-1K is Smoke grenade launchers, additional communications (R-130, R-014D telegraph), PSNR-K Radar..
+
+Here is System information for the BRM-1K Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The Alternative Designations is BRM-1K; BMP M1976.
+The Type is Amphibious Combat Reconnaissance Vehicle (CRV).
+The Manufacturer is Kurganmashzavod.
+The In Service is 1973-Present.
+The Crew is 6 (machine commander, pilot, transmitter, navigation system operator and two operators of reconnaissance systems).
+
+Here is Dimensions information for the BRM-1K Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The Length Overall is 6.74.
+The Width is 2.94.
+The Height is 2.15.
+The Combat Weight is 13.3 tons.
+The Ground Pressure is 0.57.
+
+Here is Automotive information for the BRM-1K Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The Engine Name is UTD20.
+The Engine Type is 300-hp, Water-cooled, V-6 diesel.
+The Cruising Range is 600.
+The Speed (Max Road) is 65.
+The Speed (Max Off-Road) is 40-45.
+The Speed (Max Swim) is 7.
+The Fording Depths is Amphibious.
+
+Here is Communications information for the BRM-1K Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The Primary Radio is 1 x R-173 VHF Radio.
+The Secondary is 1 x R-130 VHF Radio.
+The Telegraph is 2 x R-148 manportable, R-014D telegraph..
+
+Here is System information for the BRM-1K Russian Amphibious Combat Reconnaissance Vehicle (CRV) of the Main Weapon System:
+The Name is 1 x 2A28 Grom.
+The Type is Low pressure smoothbore semi-automatic gun with a wedge breech block.
+The Caliber is 73 mm.
+The Manufacturer is KBP.
+The In Service is 1966-Present.
+The Length is 1,195.
+The Width is 218.
+The Height is 322.
+The Weight is 115.
+The Barrels is 1.
+The Maximum Elevation is +15.
+The Minimum Elevation is -4.
+The Traverse Range is 40.
+The Traverse Left is 20.
+The Traverse Right is 20.
+The Rate of Fire is 8.
+The Maximum Firing Range is 4,500.
+The Sights is 1PN22M, 1PN22M2.
+
+Here is Ammunition information for the BRM-1K Russian Amphibious Combat Reconnaissance Vehicle (CRV) of the Main Weapon System:
+The Type is Projectile.
+The Caliber is 73.
+The Muzzle Velocity is 700.
+The Shell Types is PG-15V (HEAT), OG-15V (HE-FRAG), PG-15VN (HEAT-DP.
+The Maximum Effective Range (HEAT-FS) (Day) is 1,300.
+The Maximum Effective Range (HEAT-FS) (On Move) is 600.
+The Maximum Effective Range (HEAT-FS) (Night) is 800-1,000.
+The Maximum Effective Range (HEAT) (Day) is 1,300.
+The Maximum Effective Range (HEAT) (On Move) is 600.
+The Maximum Effective Range (HEAT) (Night) is 800-1,000.
+The Armor Penetration (HEAT-FS PG-15VNT) is 550-700.
+The Armor Penetration (HEAT-FS PG-15) is 335.
+The Basic Load is 40 Rounds: HEAT-FS: 16 (Est), HE: 24 (Est).
+
+Here is System information for the BRM-1K Russian Amphibious Combat Reconnaissance Vehicle (CRV) of the Coaxial Weapon System:
+The Name is 1 x PK Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,203.
+The Barrel length is 605.
+The Weight, Gun and Intergral Bipod is 9.
+The Weight, Tripod is 7.7.
+The Action is Gas-operated, open bolt.
+The Muzzle Velocity is 825 m/s.
+The Rate of Fire is 650 rounds/min.
+The Maximum Firing Range is 3,800 m.
+The Effective Firing Range is 100-1,500 m.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Tangent iron sights (default);
+Optical, Night-vision, Thermal and Radar sights.
+
+Here is Ammunition information for the BRM-1K Russian Amphibious Combat Reconnaissance Vehicle (CRV) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Basic Load is 2,000.
+
+Here is Anti-Tank Guided Missile (ATGM) information for the BRM-1K Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The Name is 1 x 9M14 Malyutka (AT-3 Sagger).
+The Type is Manual command to line of sight (MCLOS) wire-guided anti-tank guided missile (ATGM) system.
+The Manufacturer is Soviet Union, Russia as successor state and other countries under license and domestic versions.
+The In Service is 1963-Present.
+The Length is 860.
+The Width is 393.
+The Diameter is 125.
+The Weight, 9M14M is 10.9.
+The Weight, Launcher and Guidance System is 30.5.
+The Effective Firing Range is 500-3,000.
+The Warhead Weight is 2.6.
+The Speed is 115.
+The Guidance System is MCLOS.
+The Basic Load is 1 x 9M14 Malyutka (AT-3 Sagger).
+
+Here is Fire Control information for the BRM-1K Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The Radar is 1RL133-1 Terrestrial radar.
+The Radar Deployment is automatically retractable into the compartment at the rear of the turret.
+The Fire Control System is Yes.
+The Target Coordinate System is Yes.
+The Navigation System is TNA-4 navigation system.
+The Laser Rangefinder is Yes, 1D8 laser rangefinder.
+The NRBC Recognition Facilities is Yes.
+The Night Sights is The Russian Alis or Sanoet thermal gunner's sight can be installed..
+The Additional Sights is 1PN22M2 sight.
+
+Here is Recon Systems information for the BRM-1K Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The Note is The BRM-1K has the PSNR-5K radar, which has a maximum range of 10,000 m. It is fitted with a mast antenna illumination. It is equipped with a DKRM-1 LRF, an ERRS-1 radio direction finder. Day/night observation devices consist of 13 TNPO-170As, one TNPK-240A, two TNPT-1s, two TVNE-1PAs, and one pair of 1PN33B night binoculars..
+
+Here is Protection information for the BRM-1K Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The Hull Armor is 19mm.
+The Turret Armor is turret front         23mm;
+turret rear          13mm ;
+turret top           6mm ;
+turret sides         19mm.
+The Explosive reactive armor is Available.
+The Applique armor is Available.
+The Active Protection System is No.
+The Self-entrenching blade is No.
+The NBC Protection System is Automatic overpressure system.
+The Smoke equipment is VEESS, Smoke grenade launchers available; later production models have six 81 mm 902V ‘Tucha’ smoke-grenade launchers (three on each side). Also has 50mm flares..
+

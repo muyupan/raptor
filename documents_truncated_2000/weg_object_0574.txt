@@ -1,0 +1,83 @@
+This document describes the PLZ-52 Chinese 155mm Self-Propelled Howitzer (SPH).
+
+The PLZ-52 is a Chinese self-propelled howitzer. It is similar in appearance to the PLZ-45, however, it packs a heavier punch. It was first unveiled in 2014. Currently, it is among the most capable artillery systems in the world. However, the PLZ-52 is aimed mainly at export customers, rather than the Chinese army.
+
+The PLZ-52 is capable of firing Chinese precision-guided projectiles. In the 1990s China obtained a Russian Krasnopol laser-guided projectile technology and production license. Later it successfully developed its own precision-guided munitions.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the PLZ-52 Chinese 155mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is PLZ-52.
+The Type is Self-Propelled Howitzer (SPH).
+The Caliber is 152.
+The Chassis is Armored Tracked.
+The Crew is 4-5 men.
+The Emplacement Time is INA.
+The Displacement Time is INA.
+
+Here is Dimensions information for the PLZ-52 Chinese 155mm Self-Propelled Howitzer (SPH):
+The Hull Length is 6.
+The Length (gun forward) is 12.
+The Barrel Length is 52 calibers.
+The Width is 3.6.
+The Height is 3.
+The Weight is 35.
+
+Here is Automotive information for the PLZ-52 Chinese 155mm Self-Propelled Howitzer (SPH):
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 1000.
+The Cruising Range is INA.
+The Speed, Maximum Road is 70.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Fording Depth, without Preparation is 1.2.
+The Fording Depth, with Preparation is 1.2.
+
+Here is System information for the PLZ-52 Chinese 155mm Self-Propelled Howitzer (SPH) of the Main Weapon System:
+The Name is INA.
+The Type is Howitzer.
+The Length, Barrel is 155.
+The Weight is 43-48.
+The Muzzle Velocity is INA.
+The Maximum Rate of Fire is up to 53.
+The Maximum Elevation is 65.
+The Minimum Elevation is -3.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Firing Range is 53.
+The Effective Firing Range is INA.
+The Sights is INA.
+
+Here is Ammunition information for the PLZ-52 Chinese 155mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Type is Howitzer round.
+The Caliber is 155.
+The Armor Penetration is INA.
+The Projectile weight is 43 - 48.
+The Machine gun load is 500 rounds.
+The High-Explosive Fragmentation (HE-FRAG) projectile is 30 km.
+The Extended-range projectile is 40 km.
+The Basic Load is 30 - 40 rounds.
+
+Here is Fire Control System information for the PLZ-52 Chinese 155mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is Yes.
+The Main Gun Stabilization is INA.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+
+Here is Protection information for the PLZ-52 Chinese 155mm Self-Propelled Howitzer (SPH):
+The Hull Armor is Protection against small arms and shell splinters.
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

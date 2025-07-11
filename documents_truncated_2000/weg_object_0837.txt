@@ -1,0 +1,33 @@
+This document describes the ARK 40 Chinese Unmanned Aerial Vehicle (UAV).
+
+The ARK 40 Chinese Unmanned Aerial Vehicle (UAV) is a drone with an octocopter configuration. It has a redundant navigation system, flight control system, propulsion system, and battery system, and is equipped with an emergency landing system. With these features, the reliability and safety of Ark are at the top level in the industry. Moreover, the design of the propeller is optimized in cruise flight conditions to achieve a longer range. Ark is designed for short-to-middle range end delivery missions. Its payload volume is more than 50L, which makes it suitable for many cargo delivery scenarios.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the ARK 40 Chinese Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is ARK 40.
+The Type is Vertical Take-Off and Landing (VTOL) Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Shenzhen Skylab M&C Technology Company.
+The Crew is Unmanned.
+The Control System is Ground Control Station.
+The Payload Capacity is 10 kg.
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+The Operating Temperature is – 25 ° to + 60 ° C.
+
+Here is Dimensions information for the ARK 40 Chinese Unmanned Aerial Vehicle (UAV):
+The Length is 2.5 m.
+The Width is 2.5 m.
+The Height is 0.60 m.
+The Maximum Takeoff Weight is 35 kg.
+
+Here is Automotive information for the ARK 40 Chinese Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Maximum Speed is INA.
+The Cruising Speed is 72 km/h.
+The Service Ceiling is INA.
+The Maximum Range is 20 km.
+The Endurance is 2.5 hours with a 2 kg payload.
+

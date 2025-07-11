@@ -1,0 +1,57 @@
+This document describes the NTC VISMOD Weasel 2000 British ELINT System.
+
+NTC VISMOD Weasel 2000 British ELINT System
+
+Here is System information for the NTC VISMOD Weasel 2000 British ELINT System:
+The Alternative Designation is NTC VISMOD Weasel 2000 British ELINT System.
+The Type is ELINT.
+The Manufacturer is INA.
+The Mission Type is Supports collection throughout all three zones..
+The Crew is 3-4 x Operators.
+The Frequency Range is 400 MHz - 10GHz.
+The Effects is Provides electronic DF data and is a passive  system (producing no electronic signature)..
+The Targeting is Maps the electronic OOB of Movement and  Maneuver and Intelligence assets..
+The Vulnerability is CAS, indirect fire (IDF), air-to-ground aviation  (AVN), and signal line of sight (LOS) and/or  interference from rocky terrain..
+The CBI is 4 x per DTG.
+The Antenna Type is Omni directional.
+The Azimuth Coverage is 360 deg.
+The Direction Finding Assembly is Dual 8 port switched amplitude
+comparison system.
+The Plaraization Range is 2-18 GHz.
+
+Here is Dimensions information for the NTC VISMOD Weasel 2000 British ELINT System:
+The Length is 4.84 m.
+The Width is 2.16 m.
+The Height is 1.83 m.
+The Wheelbase is 3.30 m.
+The Ground Clearance is 0.41 m.
+The Weight, Combat is 4,672 kg.
+The Payload is 1,996 kg.
+
+Here is Automotive information for the NTC VISMOD Weasel 2000 British ELINT System:
+The Engine Name is 1 x General Motors V8.
+The Engine Type is 6.5L turbo-charged, diesel fuel injection.
+The Engine Power is 160 hp at 3,400 rpm.
+The Transmission is automatic w/4 forward gears, 1 reverse gear.
+The Fuel Capacity is 94 liters.
+The Suspension is independent double A-arm with coil spring on all wheels, with front stabilizer bar.
+The Range is 483 km.
+The Speed, Maximum Road is 105.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Fording Depth is 1.52.
+The Vertical Step is 0.56.
+
+Here is Main Weapon System information for the NTC VISMOD Weasel 2000 British ELINT System:
+The Note is basic vehicle does not have weapons fitted; armament carrier can be fitted with a 7.62-mm or 12.7-mm machine guns or a 40-mm grenade launcher; TOW carrier has launcher.
+
+Here is Protection information for the NTC VISMOD Weasel 2000 British ELINT System:
+The Armor is INA.
+The Applique Armor is Available.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

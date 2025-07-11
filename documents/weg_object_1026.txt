@@ -1,0 +1,151 @@
+This document describes the J-7E (Fishcan) Chinese Fighter Aircraft.
+
+J-7E series is a series of day time fighter of J-7 that utilizing double delta wing which greatly improved maneuverability. It was decided that in order to maintain good maneuverability, the series would not be equipped with fire control radar and medium range AAMs. Equipped with only ranging radar and close range AAM, J-7E series are still daytime fighter. New features of this series includes utilization of carbon-carbon composite brake that quadrupled the service life to more than a thousand landings, utilization of aluminum-lithium alloy that reduces weight by 17%, and pressure ground fueling system replaced gravity ground fueling system that drastically reduced the time of fueling by 80% to 6 minutes from the original half an hour. Deletion of the portside gun resulted in increase of fuel capacity by 100 liters, and the ammo for the starboard side gun is reduced to 60 rounds. WP-13F engine increased mean time between overhaul (MTBO) to 300 hours and service life to 900 hours.Maximum payload is increased to 1.6 ton. Newer avionics replaced the older ones on earlier J-7's. 
+
+J-7E: Renamed production version of J-7IV with problems exposed by prototypes being stamped out, such as aileron flutter, automatic pitching, lateral Dutch roll, and that of HUD. This model is equipped with a Chinese version of Italian Pointer 2500 ranging radar originally used on Q-5M, modified to fit into the nosecone of J-7E. Pointer 2500 ranging radar is a development of Pointer ranging radar used on the initial production version of AMX International AMX, which in turn, is a licensed Italian copy of Israeli Elta EL/M-2001B pulse Doppler ranging only radar. More than 260 were built when production stopped in 2001.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the J-7E (Fishcan) Chinese Fighter Aircraft:
+The Note is The Following is a list of the J-7 Variants:
+	Type 1962/62 series
+	J-7 series
+	J-7I series
+	J-7II series
+	J/F-7M Air Guard series
+	F-7MP/P Sky Bolt series
+	J-7III series
+	F-7C series
+	J-7E series
+	J/F-7F series
+	MiG-21 upgrade subcontract
+	J/F-7MG series
+	J/F-7PG series
+	J/F-7G series
+	F-7BGI
+	JJ-7 trainer series
+	FT-7 trainer series.
+
+Here is System information for the J-7E (Fishcan) Chinese Fighter Aircraft:
+The Alternative Designations is J-7E; Fishcan.
+The Manufacturer is Chengdu Aircraft Corporation/Guizhou Aircraft Industry Corporation.
+The Crew is 1.
+The Harpoints is 5 in total – 4× under-wing, 1× centreline under-fuselage with a capacity of 2,000 kg maximum (up to 500 kg each.
+The All-Weather Capable is Yes.
+The Note is J-7E series is a series of day time fighter of J-7 that utilizing double delta wing which greatly improved maneuverability..
+
+Here is Dimensions information for the J-7E (Fishcan) Chinese Fighter Aircraft:
+The Length is 14.86 m.
+The Height is 4.10 m.
+The Wingspan is 7.15 m.
+The Wing Area is 23 sq m.
+The Empty Weight is 5,145 kg.
+The Maximum Payload is 1.6 tons.
+The Maximum Takeoff is 7,372 kg.
+
+Here is Automotive information for the J-7E (Fishcan) Chinese Fighter Aircraft:
+The Engine Name is 1 x improved WP-13F.
+The Engine Power, Dry is 9,700 lb (4,400 kg) static thrust.
+The Engine Power, with Afterburner is 13,200 lb (6,000 kg).
+The Internal Fuel Capacity is 2,485 liters.
+The Maximum Speed is 2,175 km/h.
+The Touchdown Speed is 310-330 km/h.
+The Ceiling is 18,800 m.
+The Climb Rate is 29,528 ft/min ( 9,000 m/min).
+The Radius is 370 km.
+
+Here is Main Gun System #1 information for the J-7E (Fishcan) Chinese Fighter Aircraft of the Main Gun System:
+The Name is 2 x Gryazev-Shipunov GSh-30-1.
+The Type is Autocannon.
+The Caliber is 30.
+The Length is 1,978 mm.
+The Barrel Length is 1,500 mm.
+The Width is 156 mm.
+The Height is 185 mm.
+The Weight is 46 kg.
+The Barrels is 1.
+The Action is Short recoil operated.
+The Rate of Fire is 1,800 rounds/min.
+The Muzzle Velocity is 900 m/s.
+The Maximum Firing Range is 1,800m.
+The Effective Firing Range is 200-1,800m.
+
+Here is Main Gun System #1 Ammunition information for the J-7E (Fishcan) Chinese Fighter Aircraft of the Main Gun System:
+The Type is Autocannon.
+The Caliber is 30.
+The Shell is 30×165mm.
+The Basic Load is 60 rounds per gun.
+
+Here is Missile Weapon System (Option #1) information for the J-7E (Fishcan) Chinese Fighter Aircraft of the Missile Weapon Systems:
+The Name is PL-5B.
+The Type is Air-to-Air Missile.
+The Length is 3.128 m.
+The Diameter is 0.127m.
+The Wingspan is 0.657m.
+The Weight is 148 kg.
+The Warhead is 6kg blast-frag, or expanding rod (RF-fuse).
+The Detonation Mechanism is Active infrared, laser proximity fuse(PL-5EII).
+The Engine is Solid-fuel rocket.
+The Operational Range is 1.3–16km.
+The Maximum Speed is Mach 2.5.
+The Guidance System is Infrared homing, multi-element, dual band detector(PL-5EII).
+
+Here is Missile Weapon System (Option #2) information for the J-7E (Fishcan) Chinese Fighter Aircraft of the Missile Weapon Systems:
+The Name is PL-8.
+The Type is Air-to-Air Missile.
+The Manufacturer is Xi'an Eastern Machinery Factory and CATIC.
+The Length is 2.95 m.
+The Diameter is 160 mm.
+The Wingspan is 800 mm.
+The Weight is 115 kg.
+The Warhead is 11 kg high explosive.
+The Detonation Mechansim is Impact / Proximity.
+The Engine is solid rocket.
+The Propellant is solid fuel.
+The Operational Range is 20 km.
+The Flight Ceiling is 21 km.
+The Flight Altitude is 05 km.
+The Maximum Speed is Mach 3.5.
+The Guidance System is passive infrared homing.
+
+Here is Missile Weapon System (Option #3) information for the J-7E (Fishcan) Chinese Fighter Aircraft of the Missile Weapon Systems:
+The Name is PL-9.
+The Type is Air-to-Air Missile.
+The Manufacturer is Luoyang Electro-Optics Technology Development Centre (EOTDC),
+Hanzhong Nanfeng Machine Factory.
+The Length is 2.9m.
+The Diameter is 0.157m.
+The Wingspan is 0.856m.
+The Warhead is 11.8kg blast-frag, or expanding rod (RF-fuse).
+The Detonation Mechanism is laser proximity fuse.
+The Engine is Solid-fuel rocket.
+The Operational Range is 22km.
+The Flight Altitude is 4.5km.
+The Maximum Speed is Mach 2+.
+The Guidance System is multi-element infrared.
+
+Here is Rocket Weapon Systems information for the J-7E (Fishcan) Chinese Fighter Aircraft:
+The Rocket Weapon System (Option #1) is 55 mm rocket pod (12 rounds).
+The Rocket Weapon System (Option #2) is 90 mm rocket pod (7 rounds).
+
+Here is Bomb Weapon System information for the J-7E (Fishcan) Chinese Fighter Aircraft:
+The Bomb Capacity is 50 kg to 500 kg unguided bombs.
+
+Here is Avionics / Fire Control System information for the J-7E (Fishcan) Chinese Fighter Aircraft:
+The FCS Name is INA.
+The Computerized FCS is No.
+The Ranging Radar is Type 226 ranging radar.
+The Data Link is Type 481 data link.
+The HUD is JT-1 head-up display (HUD).
+The Autopilot is KJ-11 autopilot.
+The Data Computer is Type 8430 air data computer.
+The Radio Compass is WL-7 radio compass.
+The Radio Altimeter is 64A radio altimeter.
+The Beacon Receiver is XS-6A beacon marker receiver.
+The Navigation System is JD-3 tactical aircraft navigation (TACAN).
+The HF Radio is Type 506 HF radio.
+The IFF is Type 605A IFF.
+The Radar Warning Receiver is KW8602 radar warning receiver (RWR).
+The Chaff and Flare Dispencer is Type 941-4AC chaff/flare dispenser.
+The Radar Noise Jammer is KG-8605 internal radar noise jammer.
+

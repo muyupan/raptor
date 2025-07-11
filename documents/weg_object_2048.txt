@@ -1,0 +1,162 @@
+This document describes the M6-640/895/1000 Austrian 60mm Mortar.
+
+The M6-640/895/1000 Austrian 60mm Mortar is optimized for the quick and simple handling of the system by combining the advantages of each system component as weapons, the comprehensive ammunition range, R08 sighting unit, field auxiliary equipment, and a lightweight PDA as fire control systems.
+
+The HDS 60mm bi-pod mortars, M6-640, M6-895, and M6-1000 mortar are reliable weapons for indirect fire support used for infantry units, which enable the operator to fire a maximum amount of 30 rounds according to each minute at a maximum range of 4,000m.
+
+This equipment has proliferated into the following countries: Austria, New Zealand.
+
+Here is Variants information for the M6-640/895/1000 Austrian 60mm Mortar:
+The M6C-640 Mk1 is The HDS 60mm Commando Mortar M6C-640 Mk1 is ideal for independent infantry fire support, which can be operated by a two-man team without ballistic calculation or fire coordination. It is aimed either with indirect fire coordination or directly by line of sight by the operator himself.
+
+The easy-handling and high-mobility of the weapon is designed for special missions, paratrooper or commando operations..
+
+Here is M6-640 information for the M6-640/895/1000 Austrian 60mm Mortar of the System:
+The Caliber is 60 mm.
+The Maximum Firing Range is 2,872 m.
+The Maximum Rate of Fire is 30/min.
+The Maximum Operating Gas Pressure is 55 MPa.
+
+Here is M6-895 information for the M6-640/895/1000 Austrian 60mm Mortar of the System:
+The Caliber is 60 mm.
+The Maximum Firing Range is 2,401 m.
+The Maximum Rate of Fire is 30/min.
+The Maximum Operating Gas Pressure is 60 MPa.
+
+Here is M6-1000 information for the M6-640/895/1000 Austrian 60mm Mortar of the System:
+The Caliber is 60 mm.
+The Maximum Firing Range is 4,000 m.
+The Maximum Rate of Fire is 30/min.
+The Maximum Operating Gas Pressure is 60 MPa.
+
+Here is M6-640 information for the M6-640/895/1000 Austrian 60mm Mortar of the Dimensions:
+The Length of Barrel (Overall) is 742 mm.
+The Ballistic Length is 640 mm.
+The Diameter of Base Plate is 351 mm.
+The Barrel Weight is 4.6 kg.
+The Bipod Weight is 2.7 kg.
+The Base Plate Weight is 4.8 kg.
+The Total Weight is 22.1 kg.
+
+Here is M6-895 information for the M6-640/895/1000 Austrian 60mm Mortar of the Dimensions:
+The Length of Barrel (Overall) is 984 mm.
+The Ballistic Length is 895 mm.
+The Diameter of Base Plate is 351 mm.
+The Barrel Weight is 5.5 kg.
+The Bipod Weight is 12.7 kg.
+The Base Plate Weight is 4.8 kg.
+The Total Weight is 23 kg.
+
+Here is M6-1000 information for the M6-640/895/1000 Austrian 60mm Mortar of the Dimensions:
+The Length of Barrel (Overall) is 1,092 mm.
+The Ballistic Length is 1,000 mm.
+The Diameter of Base Plate is 351 mm.
+The Barrel Weight is 6.0 kg.
+The Bipod Weight is 12.7 kg.
+The Base Plate Weight is 4.8 kg.
+The Total Weight is 23.5 kg.
+
+Here is Ammunition (Option #1) information for the M6-640/895/1000 Austrian 60mm Mortar of the Ammunition:
+The Name is PRACTICE Mk2.
+The Caliber is 60 mm.
+The Length is 358 mm.
+The Weight is 1.79 kg.
+The Filler is Inert.
+The Terminal Effect is Impact signature
+(only with life fuze).
+
+Here is Ammunition (Option #2) information for the M6-640/895/1000 Austrian 60mm Mortar of the Ammunition:
+The Name is SMK-WP
+Mk2.
+The Caliber is 60 mm.
+The Length is 358 mm.
+The Weight is 1.79 kg.
+The Filler is White phosphorus.
+The Terminal Effect is Screening by fast
+smoke generation..
+
+Here is Ammunition (Option #3) information for the M6-640/895/1000 Austrian 60mm Mortar of the Ammunition:
+The Name is SMK-TTC
+Mk2.
+The Caliber is 60 mm.
+The Length is 358 mm.
+The Weight is 1.79 kg.
+The Filler is Titanium tetrachloride.
+The Terminal Effect is Extraordinary fast
+generation of cold
+smoke.
+
+Here is Ammunition (Option #4) information for the M6-640/895/1000 Austrian 60mm Mortar of the Ammunition:
+The Name is SMK-RP
+Mk2.
+The Caliber is 60 mm.
+The Length is 467 mm.
+The Weight is 1.63 kg.
+The Filler is Red phosphorus.
+The Terminal Effect is Smoke generation.
+Smoke duration:
+90 sec..
+
+Here is Ammunition (Option #5) information for the M6-640/895/1000 Austrian 60mm Mortar of the Ammunition:
+The Name is HE-TNT
+Mk2 PD.
+The Caliber is 60 mm.
+The Length is 358 mm.
+The Weight is 1.79 kg.
+The Filler is TNT.
+The Terminal Effect is Number of fragments
+> 5000 (> 1100 fragments
+with m > 0.18 g)..
+
+Here is Ammunition (Option #6) information for the M6-640/895/1000 Austrian 60mm Mortar of the Ammunition:
+The Name is HE-TNT
+Mk2 PROX.
+The Caliber is 60 mm.
+The Length is 358 mm.
+The Weight is 1.79 kg.
+The Filler is TNT.
+The Terminal Effect is Number of fragments
+> 5000 (>1100 fragments
+with m > 0.18 g).
+
+Here is Ammunition (Option #7) information for the M6-640/895/1000 Austrian 60mm Mortar of the Ammunition:
+The Name is HE CONFRAG
+Mk2.
+The Caliber is 60 mm.
+The Length is 358 mm.
+The Weight is 1.79 kg.
+The Filler is INA.
+The Terminal Effect is Increased lethality by
+more than 100%
+Number of Fragments
+2390 (1780 fragments
+with m > 0.18 g).
+
+Here is Ammunition (Option #8) information for the M6-640/895/1000 Austrian 60mm Mortar of the Ammunition:
+The Name is ILL-VIS
+Mk2.
+The Caliber is 60 mm.
+The Length is 467 mm.
+The Weight is 1.63 kg.
+The Filler is INA.
+The Terminal Effect is Luminosity: 350000 cd
+Illumination duration: 40 sec.
+Descent rate: 5 m/ s.
+
+Here is Ammunition (Option #9) information for the M6-640/895/1000 Austrian 60mm Mortar of the Ammunition:
+The Name is ILL-IR
+Mk2.
+The Caliber is 60 mm.
+The Length is 467 mm.
+The Weight is 1.63 kg.
+The Filler is INA.
+The Terminal Effect is Illumination duration: 40 sec.
+Descent rate: 5 m/ s
+High infrared emission,
+low visible emission..
+
+Here is FIre Control System (FCS) information for the M6-640/895/1000 Austrian 60mm Mortar:
+The Forward Observer Computer is The Forward Observer Computer observes locations, firing planning functions, variable correction options, and simultaneous fire missions..
+The Mortar Computer is The Mortar Computer controls multiple weapons, ammunition stores, surveys calculation options, and firing planning functions..
+The Military Handheld Computer is The Military Handheld Computer consists of a internal GPS system, battery, touch screen, and a mouse backup and hotkey..
+

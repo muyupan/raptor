@@ -1,0 +1,53 @@
+This document describes the KORAL Turkish Land-Based Radar Electronic Warfare System.
+
+KORAL Land Based Radar Electronic Warfare System is designed and manufactured by the Turkish Defense Company Aselsan. The KORAL system is composed of two MAN 8x8 military trucks, each carrying an element of the system. One is the Radar Electronic Support (ES System) and one multi Radar Electronic Attack (EA) system to cover the full spectrum. Both systems can be positioned at a distance of 500 m from each other. This electronic defense/electronic attack system is designed to jam and deceive conventional and complex types of hostile radar, and analyzes multiple target signals in a wide frequency range, automatically generating appropriate response thanks to its digital radio frequency memory (DRFM) capability.
+
+This equipment has proliferated into the following countries: Azerbaijan, Turkey.
+
+Here is Variants information for the KORAL Turkish Land-Based Radar Electronic Warfare System:
+The KORAL Next Generation Upgrades is In 2020, the Turkish defense contractor Aselsan began developing the next generation KORAL electronic warfare (EW) system. No further information available..
+
+Here is System information for the KORAL Turkish Land-Based Radar Electronic Warfare System:
+The Alternative Designations is Koral EW / ELINT System.
+The Description is Land-Based Transportable Radar EW System is designed to search, intercept, analyze, classify, exploit and DF conventional and complex radar signals in a dense electronic environment. System mounted on 2 x MAN HX77 Tactical Heavy-Duty Vehicles..
+The Electronics Manufacturer is Aselsan A.S. (Turkey).
+The In Service is 2015 - Present.
+The Crew is 4-5.
+The System Operating Range is ~200.
+The Chassis is MAN HX77 Tactical Heavy-Duty Truck.
+The Chassis Manufacturer is Rheinmetall MAN Military Vehicles (RMMV).
+
+Here is Dimensions information for the KORAL Turkish Land-Based Radar Electronic Warfare System:
+The Length is 10.13.
+The Width is 2.55.
+The Height is 3.92.
+The Weight, Empty is ~17.
+The Payload capacity (on road) is 15.
+
+Here is Automotive information for the KORAL Turkish Land-Based Radar Electronic Warfare System:
+The Engine Name is MAN D2066 LF34.
+The Engine Type is Diesel.
+The Engine Power is 440.
+The Maximum Range is 800.
+The Speed, Maximum Road is 88.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 1.8 - 2.5.
+The Fording Depth is 1.2.
+
+Here is Mission System information for the KORAL Turkish Land-Based Radar Electronic Warfare System:
+The Frequency Range is Wide operating frequency range (400 MHz–40 GHz).
+The Receivers is Various types of receivers to provide "wide instantaneous bandwidth", "high parameter accuracy" and "high sensitivity" requirements.
+The Antennas is Different antenna assemblies mounted on a 10 m deployable mast. Primary is a phased array antenna system with a high output of power and multiple solid-state amplifiers. Fast beam..
+The Supporting Capability is Determines Electronic Order of Battle (EOB) / Evaluate EM Environment.
+The Intercept Recording is Yes, Inter-and intra-pulse recording.
+The Emitter Analysis is Yes, emitter finger printing using a narrow band channel. Integral threat library for emitter identification..
+The System Interoperability is Operates with other Radar ESM/ELINT systems to generate threat location data. Secure voice and data communications with other EW systems..
+
+Here is Protection information for the KORAL Turkish Land-Based Radar Electronic Warfare System:
+The Armor is INA.
+The NBC Protection is Yes.
+

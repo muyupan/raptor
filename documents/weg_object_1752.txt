@@ -1,0 +1,66 @@
+This document describes the MAZ-543 Russian 8x8 Special Wheeled Chassis.
+
+In the early 1960s, MAZ started development of an all-wheel drive chassis MAZ 543. These are the 4th generation of this family of vehicles. Its design was similar to MAZ 537G, but was fitted with new units, cabins and longer frame. The new chassis was equipped with a 525 hp D12A-525A V12 diesel, automatic transmission with an updated torque converter and a 3-speed gearbox.
+
+MAZ 543 range included chassis MAZ 543, MAZ 543A and MAZ 543M with fiberglass side cabins. There was a place for radiator and the front part of a missile rocket between cabins. All variant had wheelbase of 7.7 meters, top speed - 60 kph and fuel consumption - 80 liters per 100 km.
+
+The first version of the new range was a light chassis MAZ 543 with a payload of 19.1 tonnes. The first 6 prototypes were made in the spring of 1962. Mass production started in 1965. They got 2 twin-door cabins (the left and right). 1631 copies were made. They become the base chassis for a missile complex 9K71 'Temp' and missile launcher 9P117.
+
+In 1963, MAZ 543A with a payload of 19.4 tonnes was presented. It was developed for a missile complex 9P120 'Temp-S'. Mass production started in 1966. The main difference from MAZ 543 is slightly shifted to the front both cabins. Till the middle of 2000s, more than 2600 chassis were made.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the MAZ-543 Russian 8x8 Special Wheeled Chassis:
+The MAZ-543P is MAZ-543P a baseline chassis with a payload capacity of 19 600 kg. It was used to carry the SS-12 Scaleboard medium range ballistic missile..
+The MAZ-543A is MAZ-543A appeared in 1967. It is a more capable version, with a payload capacity of 22 000 kg. Layout of the engine compartment was revised. Though it retained two forward control cabs on each side of the engine. This vehicle was used as a chassis to carry Elbrus (Western reporting name Scud) and Temp-S (SS-12 Scaleboard) short-range ballistic missiles. Also here a number of other vehicles, based on this chassis. There were experimental emergency vehicle and crane, based on the MAZ-543A, that did not reached production..
+The MAZ-543M is MAZ-543M improved version, which appeared in the early 70s. It had some improvements over its predecessor. Passenger cabin on the right was removed and the engine compartment was revised. It allowed to free some space at the rear for weapons and special equipment. The MAZ-543M was used as a base for the Smerch MLRS, Rubezh coastal defense missile system, Bereg self-propelled artillery system and a whole host of other specialized military vehicles..
+The MAZ-7310 is MAZ-7310 cargo truck intended for civilian application. It is a variant of the basic series. This vehicle was revealed in 1974 and entered production in 1976. Other variants of this vehicle are the MAZ-7510 dump truck, and the MAZ-7910 pipeline carrier. An aircraft crash tender, the AA-60 (7310)-160.1, has also been produced. At least one experimental variant powered by a 1 100 hp gas turbine has been developed for trials..
+The MAZ-7410 is MAZ-7410 is a prime mover with a shorter wheelbase, which entered production in the mid-70s.
+The Wanshan WS580 is Wanshan WS580 is a Chinese heavy high mobility chassis with 8x8 configuration, which was based on the MAZ-543. Technology was transferred to China from Belarus. This Chinese vehicle evolved into a whole host of indigenous special wheeled chassis, such as Wanshan WS2400, that were carrying ballistic missiles and other military equipment. Later production models were based on Belarusian MZKT designs, but benefit from German technology transfer. These are fitted with German engines and transmissions..
+
+Here is System information for the MAZ-543 Russian 8x8 Special Wheeled Chassis:
+The Alternative Designation is MAZ-543.
+The Manufacturer is MAZ.
+The Type is Special wheeled chassis.
+The Family is MAZ 543Family.
+The Crew is 1 + 3 men.
+The Chassis is MAZ-543 Special Wheeled Chassis.
+
+Here is Dimensions (MAZ-543 Special Wheeled Chassis) information for the MAZ-543 Russian 8x8 Special Wheeled Chassis:
+The Length is 11.7.
+The Width is 3.07.
+The Height is 2.92.
+The Weight, Empty is 17.3.
+The Ground Pressure is INA.
+The Maximum Load is 15.
+
+Here is Automotive (MAZ-543 Special Wheeled Chassis) information for the MAZ-543 Russian 8x8 Special Wheeled Chassis:
+The Engine Name is D12A-525 38.9-liter Diesel.
+The Engine Type is Diesel.
+The Engine Power is 525.
+The Cruising Range is 650.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Configuration is 8x8.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.
+The Fording Depth is 1.3.
+
+Here is Communications information for the MAZ-543 Russian 8x8 Special Wheeled Chassis:
+The Note is Depends on the country that Russia exported this vehicle to..
+
+Here is Protection information for the MAZ-543 Russian 8x8 Special Wheeled Chassis:
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The Camouflage Nets is Yes, Standard.
+

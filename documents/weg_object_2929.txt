@@ -1,0 +1,74 @@
+This document describes the Leer-2 Russian 4x4 Mobile Electronic Warfare (EW) Vehicle.
+
+The Leer-2 is a jamming system based on the Lorandit family of electronic warfare systems Tigr armored vehicles and capable of imitating electronic weapon systems and monitoring the electromagnetic environment during combat training.
+
+The Leer-2 is designed for developing radio emitters, jamming, and suppressing radio-electronic means including cellular phone systems. In addition, the system can be used as part of field tests to create realistic tactical electronic situations and imitating the operation of various radio-electronic systems. The Leer-2 is based on the 8-ton class Tiger-M 4x4 high mobility tactical armored vehicle.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Leer-2 Russian 4x4 Mobile Electronic Warfare (EW) Vehicle:
+The Alternative Designation is Tigr-M MKTK REI PP Leer-2 VPK-233114
+Mobile Electronic Warfare system EW vehicle.
+The Type is Mobile Electronic Warfare system EW vehicle.
+The Manufacturer is designed and manufactured by two Moscow-based companies, VPK (Voyenno-promishlennaya kompaniya - Military-industrial company) for the vehicle and VNII Etalon (Vserossiyskiy naucsno-issledovatelskiy institut - Russian Scientific-Research Institute) for the Electronic Warfare (EW) system.
+The Family is Leer.
+The In Service is 2012-Present.
+The Crew is 2 + 4 Soldiers.
+The Liter/Stretcher Capacity is INA.
+The Winch is The Leer 2 carries an electric winch with a pulling force of 4,000 kg and 20 m of wire rope.
+The Note is This high mobility vehicle was modeled after the US HMMWV.
+
+Here is Electronic Warfare Equipment information for the Leer-2 Russian 4x4 Mobile Electronic Warfare (EW) Vehicle:
+The Electronic Warfare Equipment Name is Lorandit.
+The Mission Sets is ESM, EA.
+The Electronic Warfare (EW) Type is The Leer 2 is a mobile technical control, electronic emulation and electronic countermeasures system Leer-2 is designed for developing radio emitters, jamming and suppressing radio-electronic means including cellular phone systems.
+The Operate on the Move is Yes.
+The Operate  Stationary is Yes.
+The Antennas is All the antennas of the electronic warfare system Leer-2 are mounted on a platform fitted on the vehicle roof. In static position, two telescopic antennas can also be deployed on the vehicle roof.
+The Maximum Range is INA.
+The EW Components is The Lorandit system of the Tigr-M MKTK REI PP includes technical control and electronic intelligence automated workstation, electronic countermeasures equipment, communication and power supply equipment and a specialized mission software.
+The Note #1 is In addition, the system can be used as part of field tests to create realistic tactical electronic situations and imitating the operation of various radio-electronic systems.
+
+Here is Dimensions (Chassis: GAZ Tigr-M) information for the Leer-2 Russian 4x4 Mobile Electronic Warfare (EW) Vehicle:
+The Length is 5.7.
+The Width is 2.3.
+The Height is 2.3.
+The Weight, Combat is 7,800.
+
+Here is Automotive (Chassis: GAZ Tigr-M) information for the Leer-2 Russian 4x4 Mobile Electronic Warfare (EW) Vehicle:
+The Engine Name is YaMZ-5347-10.
+The Engine Type is Turbol-Charged Diesel.
+The Engine Power is 215.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 140.
+The Speed, Maximum Off-Road is 80.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.4.
+The Trench is 0.5.
+The Fording Depth is 1.3.
+The Note is To protect the engine from small-arms fire, the bonnet is armoured.
+
+Here is Main Gun information for the Leer-2 Russian 4x4 Mobile Electronic Warfare (EW) Vehicle:
+The Note is The Leer 2 is not equipped with any Armament, due to the EW equipment.
+
+Here is Fire Control information for the Leer-2 Russian 4x4 Mobile Electronic Warfare (EW) Vehicle:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+The Gunner Sight System is PC-SU IPTSYU.201219.026.
+The TV Camera is Yes, low-level TV camera that provides a range of detection and identification of the target sample with a narrow field of vision - not less than 2500 m.
+The Laser Rangefinder is Yes, with a range of 100-3,000 m.
+
+Here is Protection information for the Leer-2 Russian 4x4 Mobile Electronic Warfare (EW) Vehicle:
+The Armor is The hull of Leer 2 provides protection against small-arms fire, shell fragments and IED blasts.
+The Applique Armor is Available.
+The Amored Hood is Yes.
+The Doors and Windows is The hull and door windows are bulletproof and the vehicle’s spall liners protect personnel against spalls if the hull is hit by bullets or fragments and exclude ricochet from the opposite side if the hull is pierced.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+The Fire Extinguishing System is Yes.
+

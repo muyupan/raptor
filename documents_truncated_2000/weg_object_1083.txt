@@ -1,0 +1,78 @@
+This document describes the IL-76 (Candid) Russian Cargo Transport Aircraft.
+
+The Ilyushin Il-76 (Russian: Илью́шин Ил-76; NATO reporting name: Candid) is a multi-purpose four-engine turbofan strategic airlifter designed by the Soviet Union's Ilyushin design bureau. It was first planned as a commercial freighter in 1967, as a replacement for the Antonov An-12. It was designed to deliver heavy machinery to remote, poorly served areas. Military versions of the Il-76 have been widely used in Europe, Asia and Africa, including use as an aerial refueling tanker or command center.
+
+The Il-76 has seen extensive service as a commercial freighter for ramp-delivered cargo, especially for outsized or heavy items unable to be otherwise carried. It has also been used as an emergency response transport for civilian evacuations as well as for humanitarian aid and disaster relief around the world. Because of its ability to operate from unpaved runways, it has been useful in undeveloped areas. Specialized models have also been produced for aerial firefighting and zero-G training.
+
+The aircraft was first conceived by Ilyushin in 1967 to meet a requirement for a freighter able to carry a payload of 40 tons (88,000 lb) over a range of 5,000 km (2,700 nmi; 3,100 mi) in less than six hours, able to operate from short and unprepared airstrips, and capable of coping with the worst weather conditions likely to be experienced in Siberia and the Soviet Union's Arctic regions. It was intended to replace the Antonov An-12. Another intended version was a double-decked 250-passenger airliner but that project was cancelled. The Il-76 first flew in March 1971.
+
+Production of Il-76s was allocated to the Tashkent Aviation Production Association in Tashkent, Uzbekistan, then a republic of the Soviet Union. Some 860 of the basic transport variants were manufactured. In the 1990s, modernized variants also equipped with Soloviev D-30 turbofan engines were developed (MF, TF), with a cargo compartment 20 m (66 ft) long by 3.4 m (11 ft) wide by 3.4 m (11 ft) tall; these larger variants were not produced in significant quantity due to the financial difficulties being experienced by the Russian Air Force, which was the primary operator of the type. The prototype of the Il-76MF, conducted its first flight on 1 August 1995.
+
+This equipment has proliferated into the following countries: Algeria, Angola, Armenia, Azerbaijan, Bahrain, Belarus, Burkina Faso, Cambodia, China, Congo, Cuba, Egypt, Equatorial Guinea, Georgia, Hungary, India, Iran (Islamic Republic of), Iraq, Jordan, Kazakhstan, Kyrgyzstan, Latvia, Libya, Mali, North Korea (Democratic People's Republic of Korea), Russian Federation, Serbia, Sierra Leone, Sudan, Turkmenistan, Ukraine, United Arab Emirates, United States of America, Uzbekistan, Yemen.
+
+Here is Variants information for the IL-76 (Candid) Russian Cargo Transport Aircraft:
+The IL-76 Candid-A: is First production model..
+The IL-76M Candid-B: is Added rear turret with two 23-mm NR-23 guns and small ECM fairings each side of navigator’s windows..
+The IL-76MD Candid-B: is Military version of IL-76T..
+The IL-76MF: is Military variant with stretched fuselage and more powerful engine..
+The IL-76MF-100: is A derivative of the IL-76M with CFM56-5C turbofans.  Range increased to 7,000 km with 40,000 kg load..
+The IL-76PP: is Electronic countermeasures aircraft.
+The IL-76PS/IL-84: is Search and rescue capable of 3-hour patrol with radius of 3,000 km..
+The IL-76VPK/IL-82 airborne command post: is Variant of IL-76MD.  Fitted with specialized communications equipment..
+The A-50 Mainstay: is AWACS version..
+The Midas: is Aerial tanker version..
+The IL-76: A-60 ASAT Aircraft is A-60 Anti-Satellite Direct Energy Weapon System..
+
+Here is Speed information for the IL-76 (Candid) Russian Cargo Transport Aircraft of the System:
+The Maximum is 919.
+The Cruise is 780.
+
+Here is Fuel information for the IL-76 (Candid) Russian Cargo Transport Aircraft of the System:
+The Internal Tanks is 109,480 liters in 12 tanks.
+The External Tanks is None.
+
+Here is Dimensions information for the IL-76 (Candid) Russian Cargo Transport Aircraft of the System:
+The Length is 46.6.
+The Wingspan is 50.5.
+The Height is 14.5.
+The Weight is Empty: 89,000 kg
+General Max: 190,000 kg
+Allowable Max: 210,000 kg
+Unprepared runway max weight: 157,500 kg.
+The Width is 3.45.
+
+Here is Flight Range information for the IL-76 (Candid) Russian Cargo Transport Aircraft of the System:
+The With 20 ton payload is 6,100.
+The With 47 ton payload is 3,000.
+
+Here is Dimensions information for the IL-76 (Candid) Russian Cargo Transport Aircraft of the Cargo Hold:
+The Length to Ramp is 20.
+The Length with Ramp is 24.5.
+The Width is 3.5.
+The Height is 3.4.
+
+Here is Standard Payload information for the IL-76 (Candid) Russian Cargo Transport Aircraft:
+The Internal is 47,000.
+The Troops is 140.
+The Paratroopers is 125.
+
+Here is Survivability / Countermeasures information for the IL-76 (Candid) Russian Cargo Transport Aircraft:
+The Entire Aircraft Pressurized is Yes.
+The Crew Emergency Escape Hatch Forward of Main Entry Door is Yes.
+The Flares for Illuminating Landing Area is Yes.
+The Radar Warning Receiver is Yes.
+The Electronic Jammers is Yes.
+The Chaff and Flares is Yes.
+
+Here is 1LK222 Anti-Satellite Laser (A-60E variant) information for the IL-76 (Candid) Russian Cargo Transport Aircraft of the Armament:
+The Max Effective Range is 1500.
+The Target Set is LEO Satellites.
+The Notes is Used to dazzle adversary
+satellites or burn through sensitive optics and sensors using intensive energy laser bursts..
+
+Here is Avionics / Sensor / Optics information for the IL-76 (Candid) Russian Cargo Transport Aircraft:
+The Standard Fllight Controls is Yes.
+The Weather Radar in Nose is Yes.
+The Navigation and Ground Mapping Radar in Radome is Yes.
+The Night / Weather Capabilities is Yes.
+

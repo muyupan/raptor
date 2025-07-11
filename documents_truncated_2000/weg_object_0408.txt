@@ -1,0 +1,76 @@
+This document describes the AAV-7A1 American Amphibious Combat Landing Vehicle.
+
+The Assault Amphibious Vehicle (AAV)—official designation AAV-7A1 is a fully tracked amphibious landing vehicle used for amphibious troop transport in the United States Marine Corps. It is used to land surface assault elements of a landing force and their equipment in a single lift from assault shipping during amphibious operations to inland objectives and to conduct mechanized operations and related combat support in subsequent mechanized operations ashore.
+
+This equipment has proliferated into the following countries: Argentina, Brazil, CFE Treaty, Indonesia, Italy, Japan, Philippines, South Korea (Republic of Korea), Spain, Taiwan, Thailand, United States of America, Uruguay.
+
+Here is Variants information for the AAV-7A1 American Amphibious Combat Landing Vehicle:
+The LVTP-7 is Original series introduced from 1972. Originally armed with a M85 12.7 mm (.50cal) machine gun..
+The AAVP-7A1 is This is the most common AAV, as it carries a turret equipped with an M2HB 12.7 mm (.50 caliber) heavy machine gun, and a Mk19 40 mm automatic grenade launcher. It carries four crew radios as well as the AN/VIC-2 intercom system. It is capable of carrying 25 combat equipped Marines in addition to the crew of 4: driver, crew chief/vehicle commander, gunner, and rear crewman..
+The AAVC-7A1 (Command Vehicle) is This vehicle does not have a turret, and much of the cargo space of the vehicle is occupied by communications equipment. This version only has two crew radios, and in addition to the VIC-2, it also carries two VRC-92s, a VRC-89, a PRC-103 UHF radio, a MRC-83 HF radio and the MSQ internetworking system used to control the various radios. This AAV has a crew of 3, and additionally carries 5 radio operators, 3 staff members, and 2 commanding officers. Also upgraded to use Harris Falcon II class radios, specifically the PRC-117 for VHF/UHF/SATCOM, and the PRC-150 for HF..
+The AAVR-7A1 is This vehicle also does not have a turret. The R7 is considered the "wrecker", as it has a crane as well as most tools and equipment needed for field repairs. It is by far the heaviest of the three, and sits considerably lower in the water. Crew of three, plus the repairmen..
+The KAAV-7A1 is KAAV7A1 amphibious vehicle series based on AAV-7A1 by Samsung Techwin (now Hanwha Defense) and BAE systems developed and manufactured in South Korea by Samsung Techwin..
+
+Here is System information for the AAV-7A1 American Amphibious Combat Landing Vehicle:
+The Alternative Designation is AAVP-7A1, LVTP-7.
+The Type is Amphibious Assault Vehicle.
+The Manufacturer is U.S. Combat Systems (previously by United Defense, a former division of FMC Corporation).
+The Configuration is Tracked Landing Craft.
+The Crew is 3.
+The Passenger Capacity is 21.
+
+Here is Dimensions information for the AAV-7A1 American Amphibious Combat Landing Vehicle:
+The Length is 8.16 m.
+The Width is 3.27 m.
+The Height is 3.32 m.
+The Vehicle Weight (Empty) is 21,800 kg.
+The Vehicle Weight (Combat Loaded w/ troops) is 26,336 kg.
+
+Here is Automotive information for the AAV-7A1 American Amphibious Combat Landing Vehicle:
+The Engine Name is Cummins VTA-525.
+The Engine Type is 4-cycle, 8-cylinders, 90-deg V, water-cooled, turbocharged,, aftercooled, 903-cu in, multifuel.
+The Engine Power is 525 hp @ 2,800 rpm.
+The Fuel Capacity is INA.
+The Maximum Road Speed is 72 km/h.
+The Maximum Open Ocean Speed is 13.2 km/h.
+The Range, Land is 322 km.
+The Duration, Amphibious is 7 hours at 2,600 rpm.
+The Maximum Sea State is Sea State 5.
+The Plunging Surf is INA.
+The Side Slope is 40 %.
+The Gradient is 60 %.
+
+Here is Heavy Machine Gun information for the AAV-7A1 American Amphibious Combat Landing Vehicle of the Weapons Station Turret:
+The Name is M2HB Browning .50 Caliber Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Rate of Fire is 450-600 rds/min.
+The Effective Firing Range is 1,800 m.
+The Maximum Range is 7,400 m.
+The Feed System is Belt-fed (M2 or M9 links).
+The Basic Load is ~1200 rds.
+
+Here is Grenade Launcher information for the AAV-7A1 American Amphibious Combat Landing Vehicle of the Weapons Station Turret:
+The Name is Mk 19 Grenade Launcher.
+The Type is Automatic Grenade Launcher.
+The Caliber is 40 mm.
+The Length is 1,090 mm.
+The Barrel Length is 413 mm.
+The Rate of Fire is 360–390 rpm (cyclic),40 rpm (sustained), 60 rpm (rapid).
+The Effective Firing Range is 1,500 m.
+The Maximum Range is 2,212 m.
+The Basic Load is 500 rds.
+The Ammunition is M430 High Explosive Dual Purpose Grenade.
+The Note is On impact, the M430 grenade can kill anyone within a radius of five meters, and wound them within a radius of 15 meters. It can also punch through 2 inches (5.1 cm) of rolled homogeneous armor with a direct hit (0-degree obliquity), which means it can penetrate most infantry fighting vehicles and armored personnel carriers..
+
+Here is Protection information for the AAV-7A1 American Amphibious Combat Landing Vehicle:
+The Hull Armor is 0-45 mm (hull), 6.72-12.7 mm (rear ramps).
+The Applique Armor is Yes, EAAK for vehicle side and slope and troop compartment overhead.
+The Explosive Reactive Armor is No.
+The NBC Protection is INA.
+The Smoke Equipment is Yes.
+The Fire Suppression System is Yes.
+The Concealment is Engine exhaust smoke generating equipment.
+

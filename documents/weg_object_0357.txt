@@ -1,0 +1,49 @@
+This document describes the Unitree AlienGo Chinese Unmanned Ground Vehicle (UGV).
+
+The Unitree Aliengo, which was designed as a research platform, is a high-performance quadruped robot that can traverse uneven terrain, climb gradients of up to 21° and remain stable even if kicked, all at a maximum speed of 1.5 m/s for up to 4 hours on a single charge. An integrated depth perception vision system enables real-time 3D map creation and navigation planning, along with human posture recognition tracking and face recognition.
+
+An impressive payload capacity of 10 kg, combined with a rich external interface and ROS support, makes sensor integration with this robot dog simple and straightforward. While incredible agility and a range of special movements, including backflips, creeping, and lateral locomotion, allow Aliengo to navigate complex environments.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Unitree AlienGo Chinese Unmanned Ground Vehicle (UGV):
+The Alternate Designation is Unitree AlienGo.
+The Type is Robotic Dog Unmanned Ground Vehicle (UGV).
+The Manufacturer is Unitree Robitics.
+The Crew is Unmanned.
+The Controller is 1.
+The Communication Interface is 2 HDMI ports, 2 Ethernet ports, 2 USB 3.0 ports, 1 USB 2.0 port, 1 RS485 port.
+The Software Compatibility is C/C++, ROS, etc..
+The Depth Cameras is 2 x depth cameras:
+Global shutter
+Wide angle
+Minimum depth: 11 cm
+Resolution: 1280 x 720 max..
+The Visual Odometer Camera is 1 x visual odometer camera:
+Highly optimised V-SLAM
+Closed-loop offset: less than 1%
+Detection time: less than 6 ms
+Fisheye lens and near-hemispherical 163±5° field of view.
+The Facial Recognition is Yes.
+The 2D and 3D Mapping is Yes.
+The Payload Capacity is 1-12 kg.
+
+Here is Dimensions information for the Unitree AlienGo Chinese Unmanned Ground Vehicle (UGV):
+The Length is 640 mm.
+The Width is 310 mm.
+The Height is 600 mm.
+The Weight is 21 kg.
+
+Here is Automotive information for the Unitree AlienGo Chinese Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Lithium battery.
+The Engine Power is INA.
+The Maximum Speed is 6 km/h.
+The Obstacle Height is 18 cm.
+The Ground Clearance is 35 cm.
+The Climbing Angle is 25° to 30°.
+The Endurance is In normal use: 210 min.
+Permanent movement: 120 min.
+Quiescent: 270 min.
+On standby: 320 min..
+

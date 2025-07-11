@@ -1,0 +1,23 @@
+This document describes the VRS-1 Chinese VHF Radio.
+
+The VRS-1 Chinese VHF Radio is mainly used for the cooperative communication among Army, Navy and Air Force. It is widely used as vehicular radio, ship-borne radio and fixed radio. The radio provides reliable voice and data communication with various operation modes.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the VRS-1 Chinese VHF Radio:
+The Alternate Designation is VRS-1.
+The Type is VHF Radio.
+The Manufacturer is INA.
+The Frequency Hopping is Yes.
+The Frequency Range is 30 - 88MHz; 108 - 174MHz; 225 - 420 MHz.
+The Channel Spacing is 25 KHz.
+The Present Channel is 99.
+The Power Output is 15W.
+The Operating Temperature is -25 C - +60 C.
+
+Here is Dimensions information for the VRS-1 Chinese VHF Radio:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight is INA.
+

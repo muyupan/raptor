@@ -1,0 +1,42 @@
+This document describes the P-14 (Tall King A) Russian Mobile 2D VHF Early Warning Radar.
+
+The P-14 (also referred to by the NATO reporting name "Tall King") is a 2D VHF radar that was developed and operated by the Soviet Union.
+
+The design of the P-14 2D early warning radar started in 1955 by decree of the CPSU Central Committee. The P-14 being the first high power VHF radar to be developed by the Soviet Union, the radar was accepted into service in 1959 following the successful completion of the radars test program.[2] The P-14 was developed under the direction of V.I. Ovsyannikov by the SKB Design Bureau, a division of State Plant No.197 named after V.I.Lenin, the predecessor of the current Nizhny Novgorod Research Institute of Radio Engineering (NNIIRT). The development team was awarded the Lenin prize by the Soviet Union in 1960 for the development of the P-14 radar.
+
+The P-14 was exported and is occasionally still found in service, several companies have offered upgrade options for the system, including replacement of outdated components with modern systems, such as digital MTI, modern PC based signal processing/display and solid state components. The P-14 was superseded by the 55G6 "Nebo" VHF surveillance radar in 1982.
+
+The P-14 was produced in three variants: the 1RL113 "Lena" (Tall King A) and 44Zh6 "Furgon" (Tall King B) static versions and the 5N84A "Oborona-14" (Tall King C). A total of 731 1RL113 "Lena" were manufactured between 1959 and 1976, 24 of which were for export. The 1RL113 static site was contained in two building (radar and generator) with the control cabin (operated by a crew of five) situated up to one kilometer away, the 44ZH6 operated in a similar fashion but could be relocated more easily. The 5Н84A mobile version featured a folding antenna and transported on six trailers taking over 24 hours to assemble, the radar's control trailer had a crew of six and could be located up to one kilometer from the radar. A secondary radar for IFF is generally used in conjunction with the P-14, either the NRS-12 or the later 1L22 "Parol".
+
+All of the P-14 variants were developed for the long-range detection and tracking of aerial targets and had similar performance characteristics between them.[4] All used a single antenna accomplishing both transmission and reception; the antenna was a large open-frame truncated parabolic antenna, the antenna included a heated de-icing system for extreme conditions. The radars ware capable of modulating their frequency around four preset frequencies to counteract active interference and used automatic coherent-compensation for passive interference; both systems able to suppress interference by up to 20 dB. In addition to jammer suppression the P-14 can use five auxiliary antennae for direction finding to locate the jammer. The P-14 can operate in four different modes: high beam with increased upper detection limit, low beam with increased range at low to medium altitudes and scan which alternates between high and low beam modes.
+
+This equipment has proliferated into the following countries: Bulgaria, Egypt, Iraq, Russian Federation, Viet Nam.
+
+Here is Variants information for the P-14 (Tall King A) Russian Mobile 2D VHF Early Warning Radar:
+The P-14MA/5H84AMA is ground-based long-range VHF surveillance radar P-180U is offered as the modernized follow-on to its prototype, the analogue P-14. Produced in LiTak-Tak.
+
+Here is Dimensions (Chassis: Ural 375D) information for the P-14 (Tall King A) Russian Mobile 2D VHF Early Warning Radar of the System:
+The Height, Overall  is 2.68.
+The Length, Overall  is 7.36.
+The Width, Overall  is 2.67.
+The Weight, Gross Vehicle is 13.2.
+The Antenna Diameter is 33 meters.
+The Antenna Mast is INA.
+
+Here is Automotive (Chassis: Ural 375D) information for the P-14 (Tall King A) Russian Mobile 2D VHF Early Warning Radar:
+The Engine Name is ZiL-375 Diesel.
+The Engine Type is V8, 180 hp, Gasoline.
+The Engine Power is 180.
+The Cooling System is Liquid.
+The Fuel Capacity , Aux  is 60.0.
+The Fuel Capacity, Main Tank is 300.0.
+The Maximum Road Speed is 75.
+The Maximum Range is 750.
+The Towing Capability, Off-Highway is 5000.0.
+The Towing Capability, Off-Highway is 10000.0.
+The Gradient is 65.
+The Side Slope is 40.
+The Vertical Step is 0.8.
+The Trench is 0.7.
+The Fording is 1.2.
+

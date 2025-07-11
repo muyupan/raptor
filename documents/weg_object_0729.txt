@@ -1,0 +1,37 @@
+This document describes the Evo II Enterprise Chinese Unmanned Aerial Vehicle (UAV).
+
+The Evo II Enterprise Chinese Unmanned Aerial Vehicle (UAV) is built on the back of our popular EVO II, the Enterprise series introduces some exciting new features to the airframe to improve mission performance and versatility.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Accessories information for the Evo II Enterprise Chinese Unmanned Aerial Vehicle (UAV) of the System:
+The Loudspeaker is Power：Max 18W；Decibel：120dB @ 1m；88dB @ 60m；70dB @ 110m；
+Max Bitrate：36kbps；Adjustable Angle Range：0°~45°.
+The Strobe is Power：Avg. 1.6W；Controllable Range：5000m；
+Light intensity：Min 50cd；Max 486cd；Avg. 290cd.
+The Spotlight is Power：Max 35W；Controllable Range：30m
+Adjustable Angle Range：0°~90°；Illuminance：FOV17°, Max：11lux @ 30m Straight.
+The RTK Module is Power：~ 3W; RTK Positioning Precision：
+1.5 cm + 1 ppm（(Vertical; 1 cm + 1 ppm（Horizontal）.
+
+Here is Dimensions information for the Evo II Enterprise Chinese Unmanned Aerial Vehicle (UAV):
+The Diagonal Length is 327 mm.
+The Height is INA.
+The Maximum Takeoff Weight is 110 kg.
+
+Here is Automotive information for the Evo II Enterprise Chinese Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Hovering Accuracy Range is Vertical:± 0.3ft (0.1m) (with RTK)；± 0.3ft (0.1m) (with Vision Positioning)；
+± 1.6ft (0.5m) (with GPS Positioning)
+Horizontal：
+± 0.3ft (0.1m) (with RTK)；± 0.9ft (0.3m) (with Vision Positioning)；± 4.9ft (1.5m) (with GPS Positioning).
+The Operation Range is Pitch: -135° to +45°; Yaw: -100° to +100.
+The Stability is More Stable with 3 Axies.
+The Max Control Speed (Tilt) is 300°/s.
+The Angular Vibration Range is ±0.005°.
+The Max Wind Speed Resistance is 17m/s.
+The Endurance is 42 min (without accessories；38 min (with strobe) 29 min (with spotlight；
+34min（with loudspeaker; 36min（with RTK module）.
+

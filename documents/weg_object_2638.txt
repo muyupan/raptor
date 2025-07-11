@@ -1,0 +1,127 @@
+This document describes the MT-LBu Russian Amphibious Armored Personnel Carrier (APC).
+
+The MT-LBu is a vast family of tracked AFVs designed to provide a single versatile platform that could perform almost any role. The design has advanced far beyond its original design as an artillery tractor, and the family can be found performing electronic warfare attacks, air defense, and indirect fire support missions.
+
+This equipment has proliferated into the following countries: Angola, Armenia, Azerbaijan, Bangladesh, Bulgaria, CFE Treaty, Eritrea, Finland, Georgia, Iraq, Kazakhstan, Lithuania, Macedonia, Moldova, Montenegro, Myanmar, Nigeria, North Korea (Democratic People's Republic of Korea), Poland, Russian Federation, Serbia, Sweden, Syria, Ukraine, Uruguay.
+
+Here is Variants information for the MT-LBu Russian Amphibious Armored Personnel Carrier (APC):
+The MT-LBM (izdeliye 6M) is MT-LB modernization developed by Muromteplovoz in the 1990s. It can be fitted with several different turrets..
+The MT-LBM (izdeliye 6MA) is MT-LBM fitted with a turret from BTR-80, with a KPVT 14.5mm machine gun and co-axial PKT 7.62mm machine gun..
+The MT-LBM (izdeliye 6MA1) is MA armed with additional AGS-17 30 mm automatic grenade launcher..
+The MT-LBM (izdeliye 6MA4) is MA1 armed with KPVB 23x115 mm instead of KPVT 14.5 mm heavy machine gun..
+The MT-LBM (izdeliye 6MA2) is MA armed with KPVB 23x115 mm instead of KPVT 14.5 mm heavy machine gun..
+The MT-LBM (izdeliye 6MA3) is MT-LBM armed with four 9M133 Kornet ATGM launchers, 7.62 mm PKTM tank machine gun and an AGS-30 30 mm automatic grenade launcher..
+The MT-LBM (izdeliye 6 MB) is MT-LBM fitted with a turret from BTR-80A, using a 2A72 30 mm autocannon and co-axial PKT 7.62mm machine gun..
+The MT-LBM (izdeliye 6MB2) is MB armed with AGS-17 30 mm..
+The MT-LBM (izdeliye 6MB3) is MT-LBM armed with GSh-23V 23 mm, AGS-30 30 mm and "Kord" 12.7 mm..
+The MT-LBM (izdeliye 6MB4) is MT-LBM armed with GSh-30K 30 mm, AGS-30 30 mm and "Kord" 12.7 mm..
+The MT-LBM (izdeliye 6MB5) is MT-LBM armed with twin gun 23 or 30 mm, "Igla" SAM and equipped with improved sights..
+The MT-LBM1 (izdeliye 6M1) is MT-LBM fitted with 300-310 hp engine..
+The MT-LBM2 is MT-LBM upgrade package developed by Kurganmashzavod with new engine and transmission, improved suspension, BMP style side skirts etc. Prototype..
+The 2S24 is Mortar carrier with 2B24 (or 2B14 "Podnos") 82 mm mortar and 83 rounds. The system designator for the carrier vehicle, mortar, and ammunition is 2K32 "Deva". The 2S24 was designed by TsNII "Burevestnik" and has a crew of five. In service with RF Interior Ministry..
+The MT-LBVMK is A modification of MT-LBVM with "Kord" 12.7 mm machine gun instead of NSVT 12.7 mm..
+The MT-LBu "Toros" is The Toros is an Arctic adapted vehicle developed by Muromteplovoz based on the MT-LBu chassis. It is used for carrying personnel, transporting loads, infantry fire support, and escort and guard missions in Arctic conditions. In addition to deep cold, this vehicle can operate in mountainous areas up to 3,000 meters above sea level, and up to 4,000 meters with some modifications. Is armed with a 30mm autocannon 2A42, PKMT 7.62mm machine gun, and 30mm AGS-17D grenade launcher, and equipped with a snowplow. Toros is able to operate in -45°C..
+The MTP-LB is Technical support version with no turret, an A-frame and stowage on the roof..
+The R-381T "Taran" is divisional Sigint set (kompleks radiotekhnicheskoj razvedki) that replaced the R-381 "Rama" set on the GAZ-66 truck. A complete set normally consists of 7 vehicles in three different models:
+R-381T1 "Taran 1" – interceptor station (×2);
+R-381T2 "Taran 2" – direction-finding station (×4);
+R-381T3 "Taran 3" – control vehicle for the T1 and T2 (×1).
+
+The Taran 1 is a radio interceptor based on the MT-LBu. It is believed to be a legacy Soviet system and it operates in coordination with the Taran 2 and Taran 3 vehicles..
+The Note: is There are more than 50 additional variants to the MT-LB.  The variants above were chosen because they are linked to the Russian Federation and will likely be the most modern / upgraded..
+The R-330P Piramida-I is The R-330P Piramida-I is an EW vehicle designed to jam simple VHF communications. It is thought to be an export variant of a legacy Soviet system and may not have the capacity of modern Russian systems. The Piramida-I is understood to be fitted with a VHF jammer system with an output between 20 and 100 MHz and with a range of 25 km. There are some reports that the system was used by Government forces in Syria to prevent enemy forces from communicating effectively..
+
+Here is System information for the MT-LBu Russian Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is MT-LBu.
+The Type is Armored Personnel Carrier (APC).
+The Manufacturer is Kharkiv Tractor Plant.
+The Crew is 2.
+The Passenger Capacity is 11.
+The Payload Capacity is 2,000 kg.
+The Tow Capacity is 6,500 kg.
+The Note is The shape and layout of the MT-LBu is as per the MT-LB, but the hull is longer by one road wheel, which gives a total of seven per side. The MT-LBu and any vehicles based upon it can be distinguished by the number of road wheels per side; seven on the MT-LBu and six on MT-LB..
+
+Here is Dimensions information for the MT-LBu Russian Amphibious Armored Personnel Carrier (APC):
+The Length is 7.21 m.
+The Width is 2.85 m.
+The Height is 1.905 m.
+The Track Length is INA.
+The Track Width is 350 mm.
+The Weight, Standard is 9,700 kg.
+The Weight, Combat is 11,900 kg.
+
+Here is Automotive information for the MT-LBu Russian Amphibious Armored Personnel Carrier (APC):
+The Engine Name is YaMZ-238N.
+The Engine Type is V-8, diesel.
+The Engine Power is 300 hp at 2,100 rpm.
+The Power-to-Weight Ratio is INA.
+The Fuel Capacity is 450 liters.
+The Gearbox is Manual, Fwd: 6, Rev: 1.
+The Electrical System is 24 V.
+The Steering is clutch and brake.
+The Suspension is torsion bar.
+The Maximum Land Speed is 61.5 km/h.
+The Maximum Water Speed is 4.5 km/h.
+The Range is 500 km.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Obstacle is 0.61 m.
+The Trench is 2.41 m.
+
+Here is R-173 information for the MT-LBu Russian Amphibious Armored Personnel Carrier (APC) of the Communications:
+The Frequency Range is 30.00 - 75.99 MHz.
+The HF Output is 30.
+The Mudulation is FM.
+The Display is Digital.
+The Entry of Frequency is Touchpad.
+The Preset Channels is 10.
+The Digital Transmission is INA.
+The Sensitivity is 1.5 uV.
+The Range is 50.
+The Operational Voltage is 27+-2v.
+The Weight is 43.
+The Dimensions is 428 × 222 × 238.
+
+Here is System information for the MT-LBu Russian Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 × 7.62 mm PKT Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,098 mm.
+The Barrel Length is 772 mm.
+The Weight is 7.5 kg.
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 700–800 rounds/min.
+The Muzzle Velocity is 825 m/s.
+The Maximum Firing Range is 4,000 m.
+The Effective Firing Range is 1,500 m.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the MT-LBu Russian Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×54mmR.
+The Basic Load is 2,000 Rounds.
+
+Here is Fire Control information for the MT-LBu Russian Amphibious Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is No.
+The Driver Thermal Sight is The driver is provided with a TVN-2 infra-red periscope, which in combination with the OU-3GK infra-red/white light search light provides a range of about 40 m..
+The Thermal Sight Gunner is N/A.
+The Main Gun Stabilization is N/A.
+The Range, Day Sight is 1,500.
+The Range, Thermal Sight is N/A.
+The Field of View is 23.
+
+Here is Protection information for the MT-LBu Russian Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is The vehicle is lightly armored against small arms and shell splinters with a thickness of 3 to 10 mm of steel..
+The Turret Armor is In the centre of the roof there is a big circular opening that is covered with a blanking plate with hatch when no turret is mounted..
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Optional.
+The NBC Protection is Yes, The MT-LBu is equipped with an NBC detection device GO-27.
+The Smoke Equipment is No.
+The Night Vision Device Capable is Yes.  Some versions have spot lights..
+

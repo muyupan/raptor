@@ -1,0 +1,95 @@
+This document describes the Cobra Turkish 4x4 Amphibious Armored Personnel Carrier (APC).
+
+The Cobra Wheeled Armored Vehicle has been developed by Otokar's research and development team to provide the best solution for the need of the armed forces for wheeled armored vehicles. Cobra attracts interest with its superior maneuvering capability and its high level of ballistic protection as well as its feature of adjustability of the same platform for diverse functions. It provides great facilities in maintenance and service as it is designed on the same framework and infrastructure and it can be manufactured in many models and types. The fact that the infrastructure remains the same even in diverse Cobras manufactured for different realms, which, in turn, saves from maintenance and repair works and spare parts, makes Cobra an armored vehicle preferred by many armies. Rubber tire-wheeled 4 x 4 Cobra Armored Vehicle capable of carrying 1+8 personnel is manufactured with the following types. Moreover, it has an amphibious version as well.
+
+The Cobra vehicle forms a common platform that can be adapted for various roles and mission requirements including armored personnel carrier, anti-tank vehicle, reconnaissance vehicle, ground surveillance radar vehicle, forward observation vehicle, armored ambulance, armored command post, a turreted vehicle for 12.7mm machine gun (turret produced by the Israeli firm Rafael), 20mm cannon, anti-tank missiles such as the TOW missile and Spike missiles or surface-to-air missiles.
+
+This equipment has proliferated into the following countries: Azerbaijan, Bahrain, Bangladesh, Georgia, Iraq, Kazakhstan, Maldives, Mauritania, Nigeria, Pakistan, Saudi Arabia, Slovenia, Turkey, United Arab Emirates.
+
+Here is Variants information for the Cobra Turkish 4x4 Amphibious Armored Personnel Carrier (APC):
+The APC is Basic variant; carries 8-12 troops & 12.7-mm MG; open or turret-mounted 40-mm AGL, 25-mm cannon, or 30-mm cannon..
+The Armored Reconnaissance Vehicle is Crew of 4 in vehicle with a 25mm cannon and FLIR..
+The Armored C2 Vehicle is Command and control vehicle with a crew of 6 armed 7.62mm machine guns..
+The Armored Ambulance is Evacuates 4 litter or 6 ambulatory patients and medical gear..
+The TOW Missile Carrier is Crew of 5 with a TOW ATGM with a range of 3750m or Rafael overhead weapons system with Spike AT missiles..
+The Cobra EOD Vehicle is Designed for explosive ordnance disposal with controlled blade on front of vehicle operated by driver..
+The Cobra Reconnaissance / Surveillance Vehicle is Target acquisition for higher unit commands..
+The Cobra Twin-Turret is Rotating turret with 40mm AGL and 12.7mm machine gun..
+The Cobra Amphibious Vehicle is Allows vehicle to enter water without any preparation..
+The NBC Reconnaissance Vehicle is Equipped with NBC sensors..
+The Cobra II is First unveiled at IDEF 2013, the Cobra II is a more heavily armoured successor to the Cobra. The Cobra II has a combat weight that is roughly double that of its predecessor and is slightly wider, longer and taller..
+The Cobra II amphibious is There is an amphibious and slightly larger variant of the Cobra II with a more powerful 6.7 L, 360Hp, V6 turbocharged engine that is capable of crossing lakes and smaller bodies of water.
+
+Here is System information for the Cobra Turkish 4x4 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is Cobra; Otokar Cobra.
+The Type is Amphibious Armored Personnel Carrier (APC).
+The Manufacturer is Otokar.
+The Configuration is 4x4.
+The Crew is 2.
+The Passengers is 7.
+
+Here is Dimensions information for the Cobra Turkish 4x4 Amphibious Armored Personnel Carrier (APC):
+The Length, With Winch is 5.48.
+The Length, Without Winch is 5.22.
+The Width is 2.10.
+The Height is 2.21.
+The Wheelbase is 3.30.
+The Ground Clearance is 0.33.
+The Weight, without Weapon Station is 5,200.
+The Weight, with Weapon Station is 6,300.
+
+Here is Automotive information for the Cobra Turkish 4x4 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is 1 x General Motors V-8 (6.5 liter) water-cooled turbocharged diesel.
+The Engine Type is Diesel.
+The Power-to-Weight Ratio is 30 hp/metric ton.
+The Engine Power is 190.
+The Maximum Range is 725.
+The Maximum Road Speed is 115.
+The Maximum Amphibious Speed is 8.
+The Fuel is 155 liters.
+The Transmision is Automatic, 4 forward/2 reverse gears.
+The Suspension is Helical coil, independent double A-frame, hypoid differentials.
+The Gradient is 70%.
+The Side Slope is 40%.
+The Vertical Step is 0.32.
+The Tench is 0.5.
+The Fording Depth is Amphibious.
+The Acceleration is 0-60 km/h in 14 seconds.
+The Turning Radius is 7.86.
+The Angle of Departure is 56.
+The Angle of Approach is 57.
+
+Here is System information for the Cobra Turkish 4x4 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 x M2 Browning 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Manufacturer is Current: General Dynamics, Fabrique Nationale (FNH / FNA / FNH UK), Ohio Ordnance Works Inc..
+The In Service is 1918-Present.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight, Gun Only is 38 kg.
+The Weight, Gun with Tripod and T&E is 58 kg.
+The Action is Short recoil-operated.
+The Rate of Fire is 450–600 rounds/min.
+The Effective Firing Range is 1,800.
+The Maximum Firing Range is 7,400.
+The Feed System is Belt-fed (M2 or M9 links).
+
+Here is Ammunition information for the Cobra Turkish 4x4 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Muzzle Velocity is 890.
+The Basic Load is 1,000.
+
+Here is Protection information for the Cobra Turkish 4x4 Amphibious Armored Personnel Carrier (APC):
+The Armor Type is All-welded steel hull.
+The Armor, Applique is Available.
+The Armor, Turret Front is The monocoque steel v-hull provides protection against small arms fire, artillery shell shrapnel, and to a certain degree against anti-personnel and tank mines, and IEDs. Front wheel arches are designed to be blown away to free blast pockets.
+The Armor, Explosive Reactive is Available.
+The Active Protection System is No.
+The NBC Protection is Optional.
+The Self-Entrenching Blade is No.
+The Smoke Equipment is Yes.
+The Survivability Equipment is Electrical self-recovery winch; fire suppression system..
+

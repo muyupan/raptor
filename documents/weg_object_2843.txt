@@ -1,0 +1,260 @@
+This document describes the 1V152 FDC Kapustnik-B Russian 8x8 Amphibious Command and Fire Control Vehicle.
+
+The 1V152 is called a “unified command vehicle;” of somewhat modular interior design, there are two versions of the 1V152, a FIST vehicle and an FDC vehicle.  Both carry the same designation, but have different equipment and different capabilities.
+
+The BTR-80 1V152 version is used by battalion commanders and forward observers in field artillery units. This variant contains special navigation, range finding, and vision equipment.
+
+
+The 1V152 FDC is the fire control component of the 1V152 system.  In its original iteration, the 1V152 FDC carries two data-capable long-range radios, a medium-range radio, and a short-range radio.  The 1V152 FDC has a limited computer able to compute fire solutions (though only two at a time), and use the data transmitted by FIST vehicles (manual input must be used).  The 1V152 FDC uses the same turret as the BTR-80 from which it derived, but that turret does not have the PKT coaxial machinegun.  On the roof is a 10-meter collapsible antenna, and several advanced whip antennas which are longer than normal whip antennas.  The original 1V152 FDC is equipped with an inertial navigation system with gyroscopic backup. It has a survey system to help lay out firing positions for the guns, mortars, or MRLs.  Newer 1V152 FDCs add a third long-range radio, a more capable computer able to calculate multiple fire solutions at once as well as fully and semi-automatically integrate information from FIST vehicles with much reduced user input.  The newer 1V152 FDC also adds a GLONASS system and a hand-held laser rangefinder to help determine proper firing positions for its guns, mortars, or MRLs; this laser rangefinder can be connected to the computer by a cable, and directly input its information.  The 1V152 also carries an assortment of manual aids to producing fire positions and determining firing positions, in case of equipment failure.  The 1V152 FDC carries an internal 4kW generator to power its electronics while the engine is turned off.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the 1V152 FDC Kapustnik-B Russian 8x8 Amphibious Command and Fire Control Vehicle:
+The BTR-80 (GAZ-5903) is Original w/ 3 firing ports on each side & smoke grenade launchers..
+The BTR-80A (GAZ-59034 is Stabilized turret w/ 2A72 gun, 7.62-mm coax MG, & new right side firing port..
+The BTR-80AK is BTR-80A CP variant with 1 firing port on right side and 2 whip antennas at rear corners.
+The BTR-80K (GAZ-59031) is Command Post for 6; different turret w/ MGs & 3 radios (R-173, R-173P & R-159).
+The BTR-80 Kushetka-B (M1989/1) is Command vehicle with additional communications gear & gun removed.
+The BTR-80 PBKM (KM-80) is Command vehicle with increased radio communications equipment.
+The BTR-805 is Modular turret armaments system (14.5-mm KPVT MG) & better fire control/sights.
+The BTR-80 with Cummins Diesel is Western Cummins 6CTA 8.3-C250 diesel engine test model; road speed to 100 km/h and range to 600 km.
+The BTR-82/BTR-82A (Russia & Kazakhstan) is Latest version; see separate WEG sheet.
+The BTR-80UP (Ukraine) is BTR-80 with 300hp engine improved armor protection & air conditioning.
+The BTR-80UP-KB (Ukraine) is Battalion level command vehicle.
+The BTR-80UP-KR (Ukraine) is Company level command vehicle.
+The BTR-80UP-S (Ukraine) is Staff Vehicle.
+The BTR-80UP-M (Ukraine) is Battlefield Ambulance.
+The BTR-80UP-BREM (Ukraine) is ARV.
+The BTR-80UP-R (Ukraine) is Dedicated reconnaissance vehicle.
+The BTR-80UP-T (Ukraine) is Dedicated cargo transport variant.
+The KShM Kushetka-B (Ukraine) is Command vehicle based upon the K1Sh1.
+The BTR-94 (Ukraine) is Amphibious armored car with twin 23-mm 2A7M guns (same guns as the ZSU-23-4).
+The BTR-3U/Okhotnik (Guardian) (Ukraine) is 2001 BTR-94 upgrade w/ Shkval 1man turret w/ 30-mm gun, twin AT-5 ATGM launchers, 30-mm AGL, & a 7.62-mm MG. Jordanian version uses twin 23-mm gun & donated to the new Iraqi armed forces.
+The BTR-3E1 (Ukraine) is Export BTR-3U with the Shturm turret; 30-mm ZTM cannon, a 40mm AGL, & a 7.62-mm MG & a twin Barrier ATGM system..
+The BTR-4 (Ukraine) is Soldiers enter & leave the vehicle through rear doors; Grom overhead weapons station with 30-mm automatic cannon, 7.62mm coax MG, & up to 4 9P135M Konkurs or Baryer ATGM missiles, & 1 30-mm AGL.
+The BTR-80 GKKO (Hungary) is Proposed vehicle with additional observation equipment, but no turret.
+The BTR-80M (Hungary) is 1993 Improvement with 240-hp DMZ-238M2 series engine.
+The BTR-80 MPAEJ (Hungary) is Battlefield engineer variant without turret.
+The BTR-80 MPFJ (Hungary) is Obstacle clearance vehicle without armament.
+The BTR-80 MVJ (Hungary) is ARV.
+The BTR-80 SKJ (Hungary) is Battlefield ambulance variant with enlarged passenger compartment.
+The BTR-80 VSV (Hungary) is NBC reconnaissance vehicle.
+The TAB Zimbru (B33)(Romania) is BTR-80 w/268hp Model 1240 V8-DTS engine, Romanian radios, & more 12.7-mm ammo storage space.
+The Zimbru 2000 (Romania) is Proposed improved TAB Zimbru with enlarged hull & 285-hp engine.
+The Saur 1 (Romania) is 2006 prototype with 275hp Cummins engine, rear entry/exit doors & new turret.
+The Saur 2 (Romania) is Improved Saur 1 prototype.
+The BTR-80 "Caribe" (Columbia) is Colombian designation for BTR-80 with 12.7mm machine gun.
+The Kliver Turret System is Prototype with the Kliver turret (see separate entry).
+The ZS-96 is PSYOP variant w/ loudspeakers.
+The ZS-88 is Loudspeakers for PSYOP operations and riot control.
+The “Tajfun” is Prototype proposed for base security forces with a 7.62mm MG & the Kredo-1 radar.
+The UNSh is Standardized name for expanded chassis, but called Kusheta-B, ACRV, & BM.
+The SPR-2 Wide Band Jamming System is Turretless w/ large telescopic antenna to neutralize artillery shells with proximity fuses.
+The RKhM-4-02 is Upgraded RKhM-4 NBC reconnaissance vehicle.
+The RKhM-4-01 is Improved/modernized RKhM4 NBC vehicle.
+The RKhM-4 NBC Reconnaissance Vehicle is Outfitted with NBC equipment.
+The RPM-2 (NKR) is Radiological Reconnaissance Vehicle that first appeared in 2000.
+The R-439-MD2 is Satellite communications vehicle.
+The R-439-BK1 is Improved R-439-BK satellite communications vehicle.
+The R-439-BK (Legenda 2BK) is Satellite communications vehicle.
+The R-165B is Short-wave signal/ communications vehicle.
+The R-149BM4A is Command and Signal Vehicle.
+The R-149BMR is Signal/Communications vehicle.
+The PU-12M7 (9S482MU) is Improved PU-12M6 FA battery command vehicle.
+The PU-12M6 (9S482M6) is Field Artillery (FA) battery command vehicle.
+The P-240BTZ is Switchboard platform.
+The K1Sh1 (GAZ-59032) (UNSH) is Command Post with enlarged hull w/o turret armament.
+The E-351BrM is Mobile power station with diesel/electric generator.
+The BREM-K (GAZ-59033) ARV is Armored recovery vehicle with A-frame, tow bars, & stabilizers.
+The BMM-80 (GAZ-59039 or Simfoniya) is Battlefield ambulance for 9 sitting or 2 litter patients.
+The BMM-3 is Battlefield ambulance used as a mobile field hospital.
+The BMM-2 is Battlefield ambulance for use at the battalion level for field treatment.
+The BMM-1 is Battlefield ambulance for first aid & MEDVAC operations.
+The BMM is Medical series; BMM-1 (ambulance), BMM-2 (Bn Aid Stn), & BMM-3 (Bde Aid Stn).
+The 2S23 (Nona-SVK) SP GunMortar System (Fire Support Vehicle) is Breach-loaded 2A60 120-mm rifled mortar/gun system similar to the 2S9.
+The BTR-80 R-975 is Forward air control vehicle.
+The BTR-80 1V152 is Artillery C2 & forward observation vehicle  w/ range finding, navigation & new optics.
+
+Here is System information for the 1V152 FDC Kapustnik-B Russian 8x8 Amphibious Command and Fire Control Vehicle:
+The Alternative Designation is 1V152 FDC.
+The Description is 8 X 8 wheeled APC as an upgrade to the BTR-70; 7 soldiers exit through 2 side doors; 4 firing ports on the right  & 3 firing ports on the left.
+The Manufacturer is Arzamas.
+The In Service is 1986-Present.
+The Chassis is BTR-80.
+The Crew is 3.
+The Personnel is 7.
+The Inertial Navigation is Yes.
+The Gyroscopic Backup is Yes.
+The Note is The crew enter and exit through enlarged side hatches, which are clamshell hatches opening upwards and downwards.
+
+Here is Dimensions (Chassis: BTR-80) information for the 1V152 FDC Kapustnik-B Russian 8x8 Amphibious Command and Fire Control Vehicle:
+The Length is 7.7.
+The Width is 2.9.
+The Height is 2.41.
+The Weight, Combat is 13.6.
+
+Here is Automotive (Chassis: BTR-80) information for the 1V152 FDC Kapustnik-B Russian 8x8 Amphibious Command and Fire Control Vehicle:
+The Engine Name is KamAZ-7403.
+The Engine Type is Water-cooled, V8 Diesel.
+The Automotive Performance is 260.
+The Range, Cruising is 600.
+The Speed, Maximum Road is 80.
+The Speed, Maximum Off-Road is 60.
+The Speed, Maximum Swim is 10.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.5.
+The Trench is 2.0.
+The Fording Depth is Amphibious.
+The Winch is Yes, The 1V152s have a winch in the front with a capacity of 4.5 tons and 60 meters of cable.
+The Internal Generator is Yes, The 1V152 FDC carries an internal 4kW generator to power its electronics while the engine is turned off.
+
+Here is Radio #1 information for the 1V152 FDC Kapustnik-B Russian 8x8 Amphibious Command and Fire Control Vehicle of the Communications:
+The Name is INA.
+The Type is Long-Range Radio.
+The Data Capable is Yes.
+
+Here is Radio #2 information for the 1V152 FDC Kapustnik-B Russian 8x8 Amphibious Command and Fire Control Vehicle of the Communications:
+The Name is INA.
+The Type is Long-Range Radio.
+The Data Capable is Yes.
+
+Here is Radio #3 information for the 1V152 FDC Kapustnik-B Russian 8x8 Amphibious Command and Fire Control Vehicle of the Communications:
+The Name is INA.
+The Type is Medium-Range Radio.
+The Data Capable is INA.
+
+Here is Radio #4 information for the 1V152 FDC Kapustnik-B Russian 8x8 Amphibious Command and Fire Control Vehicle of the Communications:
+The Name is INA.
+The Type is Short-Range Radio.
+The Data Capable is INA.
+
+Here is System information for the 1V152 FDC Kapustnik-B Russian 8x8 Amphibious Command and Fire Control Vehicle of the Main Weapons System:
+The Name is KPVT 14.5mm Heavy Machine Gun (KPV).
+The Type is Heavy Machine Gun (KPV).
+The Caliber is 14.5 mm.
+The Manufacturer is V.A. Degtyarev Plant.
+The In Service is 1949-Present.
+The Proliferated is Widely Proliferated 
+ Afghanistan
+ Albania
+ Algeria
+ Angola
+ Armenia
+ Bangladesh
+ Benin
+ Bulgaria: locally produced
+ Cambodia
+ Cameroon
+ Congo
+ China: Type 56 machine gun, produced by Norinco
+ Cuba
+ Czechoslovakia (ex)
+ Egypt
+ Eritrea
+ Estonia
+ Ethiopia
+ Finland (KPVT)
+ Georgia
+ Guinea-Bissau
+ Hungary
+ India - Manufactured at Ordnance Factory Tiruchirappalli
+ Iraq- Iraqi Armed Forces
+Popular Mobilization Forces
+ Iraqi Kurdistan
+ Iran
+ Islamic State
+ Ivory Coast
+Izz ad-Din al-Qassam Brigades
+ Laos
+ Lebanon
+ Libya
+ Malawi
+ Mali - Armed and Security Forces of Mali
+ Malta - North Korea-made KPVs
+ Mongolia
+ Mozambique
+ Myanmar
+ North Korea
+ Nicaragua
+ Pakistan: Used by the Pakistan Army.
+ Panama
+ Poland
+ Romania: KPV and KPVT built under license
+ Russia
+ Sahrawi Arab Democratic Republic
+ São Tomé and Príncipe
+ Serbia (KPVT)
+ Sierra Leone: Chinese QJG56 and Polish KPVT
+ Slovenia (KPVT)
+ Somalia
+ South Africa
+ Sudan
+ Syria
+ Togo
+ Ukraine
+ Yemen
+ Vietnam
+ Tanzania
+ Zimbabwe.
+The Weight is 49.
+The Length, Total is 1.980.
+The Barrel Length is 1,346.
+The Width is 162.
+The Height is 225.
+The Rate of Fire is 600.
+The Maximum Firing Range is 4,000.
+The Effective Firing Range is 3,000.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+The Maximum Elevation is +60.
+The Minimum Elevation is -4.
+The Fire on the Move is Yes.
+
+Here is Ammunition information for the 1V152 FDC Kapustnik-B Russian 8x8 Amphibious Command and Fire Control Vehicle of the Main Weapons System:
+The Name is INA.
+The Type is API-T.
+The Caliber is 14.5.
+The Cartridge is 14.5×114 mm.
+The Muzzle Velocity is 1,005.
+The Effective Range (Day) is 2,000.
+The Effective Range (Night) is INA.
+The Tactical Range is 1,500-2,000.
+The Armor Penetration is 20 at 1,000 m/ 30 at 500 m.
+The Basic Load is 500.
+The Note is Additional Ammo includes: API, I-T.
+
+Here is Auxiliary Weapon System information for the 1V152 FDC Kapustnik-B Russian 8x8 Amphibious Command and Fire Control Vehicle:
+The Note is The 1V152 FDC uses the same turret as the BTR-80 from which it derived, but that turret does not have the PKT coaxial machine gun.
+
+Here is Fire Control information for the 1V152 FDC Kapustnik-B Russian 8x8 Amphibious Command and Fire Control Vehicle:
+The Name is INA.
+The Computerized FCS is Yes. The 1V152 FDC has a limited computer able to compute fire solutions (though only two at a time), and use the data transmitted by FIST vehicles (manual input must be used).
+The Computerized FCS Upgrade is Newer 1V152 FDCs add a more capable computer able to calculate multiple fire solutions at once as well as fully and semi-automatically integrate information from FIST vehicles with much reduced user input.
+The Gunner Day Sights is 1P3-6, 1.2x/4x.
+The Main Gun Stabilization is No.
+The Infrared Searchlight is OU-3GA2M.
+The Night Vision is Name: INA; extensive night vision equipment. 
+Passive IR (D, C), Advanced Active/Passive IR (Turret), Image Intensification (C, Turret), Thermal Imaging (Turret).
+The Day Vision is Name: INA; extensive Day vision equipment.
+The Laser Rangefinder is Yes.
+The Vision Blocks is The commander and driver have vision blocks to the front and to their respective sides to supplement this, and each have a night vision block.
+The Turret Elevation is The turret has electric traverse and elevation.
+The Survey System is a survey system to help lay out firing positions for the guns, mortars, or MRLs.
+The GLONASS System is Yes.
+The Hand-Held Laser Rangefinder is Yes, to help determine proper firing positions for its guns, mortars, or MRLs; this laser rangefinder can be connected to the computer by a cable, and directly input its information.
+The Note is The 1V152 also carries an assortment of manual aids to producing fire positions and determining firing positions, in case of equipment failure.
+
+Here is Protection information for the 1V152 FDC Kapustnik-B Russian 8x8 Amphibious Command and Fire Control Vehicle:
+The Hull Armor is Front armor of the BTR-80 APC protects against 12.7 mm rounds. All-round protection is against 7.62 mm rounds and artillery shell splinters..
+The Turret Armor is Protection against 12.7mm and shrapnel.
+The Bullet-Resistant Windows is Yes.
+The Applique Armor is Available.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes, Collective.
+The Radiological Shielding is Yes.
+The Smoke Equipment is The turret has a cluster of four smoke grenade launchers on either side of the turret.
+

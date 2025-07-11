@@ -1,0 +1,51 @@
+This document describes the BK-16 Raptor Class Russian Fast Attack Craft.
+
+Russia`s Kalashnikov Group has developed a new fast attack craft (FAC). They were demonstrated at the Army-2017 international military-technical forum held outside Moscow from August 22-27.  
+The company showcased the BK-16 FAC intended for offshore operations, troops transporting, fire support, counter-piracy and counter-terror missions, and search-and-rescue (SAR) operations. 
+The hull and superstructures of the landing craft are made from AMG alloys.  It has a crew of two members and can transport up to 19 servicemen. The craft features a cruising range of 400 nautical miles and an endurance of one day. The BK-16 is powered by two engines with a power output of 780 hp each. The FAC demonstrated at the Army-2017 international military-technical forum received a remote control weapon station (RCWS) with a heavy machine gun (HMG) and several medium machine guns.  The type and number of weapons are mission-dependent.
+Furthermore, the landing craft’s ability to launch and retrieve an unmanned aerial vehicle (UAV) was demonstrated during the International Maritime Defense Show (IMDS 2015) held in St Petersburg, Russia, in July 2015.  The front section of the upper deck facilitates the launch and recovery of light reconnaissance UAVs such as ZALA 421-16EM developed by ZALA Aero Group.  The UAV provides increased situational awareness and the ability to engage targets effectively over land and sea.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the BK-16 Raptor Class Russian Fast Attack Craft:
+The Alternative Designation is BK-16 Raptor Class.
+The Type is Fast Attack Craft.
+The Manufacturer is BK-16 is a high-speed, multi-purpose amphibious landing craft developed by Russian firearms manufacturer Kalashnikov Concern for the Ministry of Defence of the Russian Federation..
+The Crew is 2.
+The Passenger Capacity is 19.
+The Note is The boat can be easily transformed to a command and control boat, a fire support boat, an anti-sabotage boat, a police boat, a boat for SAR operations, an ambulance boat or a fireboat..
+
+Here is Dimensions information for the BK-16 Raptor Class Russian Fast Attack Craft:
+The Length is 16.45 m.
+The Width is 4 m.
+The Drought is 0.7 m.
+The Displacement is 19.5 tons.
+
+Here is Automotive information for the BK-16 Raptor Class Russian Fast Attack Craft:
+The Engine Name is INA.
+The Number of Engines is 2.
+The Engine Type is Diesel.
+The Engine Power is 780.
+The Range is 400.
+The Speed, Maximum is 42.
+The Speed, Sustainable is 30.
+The Endurance is 1.
+
+Here is Remote Controlled Weapon Station (RCWS) information for the BK-16 Raptor Class Russian Fast Attack Craft of the Main Weapon System:
+The Options is 7.62mm machine gun, a 12.7mm machine gun, AG-17 30mm automatic grenade launchers and 40mm grenade launchers.
+
+Here is Fire Control of the RCWS information for the BK-16 Raptor Class Russian Fast Attack Craft:
+The Type is Two-axis, gyro-stabilized sighting device equipped with surveillance cameras that have a wide and narrow field of view (FOV) and automatic target tracking system.
+The Computerized FCS is Yes.
+The Laser Rangefinder is Yes.
+The Thermal Sights is Yes.
+The RCWS Stabilization is Yes.
+The Mobility of the RCWS is Horizontal travel angle of 360°, a vertical travel angle between -20° and 70°, and angular velocity of rotation of 60° a second..
+The Aquisition Range is 2.5.
+The Number of Targets System Can Track is 10.
+
+Here is Protection information for the BK-16 Raptor Class Russian Fast Attack Craft:
+The Hull is The hull and superstructures of the landing craft are made from AMg alloys..
+The NBC Protection is Yes.
+The Ballistic Protection is The weapon station offers armored protection against 7.62x54mm armor-piercing bullets.
+

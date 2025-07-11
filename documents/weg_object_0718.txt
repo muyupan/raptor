@@ -1,0 +1,76 @@
+This document describes the WZ-511 (Type 77) Chinese Amphibious Armored Personnel Carrier (APC).
+
+The WZ-511 (Type 77) Chinese Amphibious Armored Personnel Carrier (APC) was an APC in its basic configuration. It had a crew compartment at the front, a dismount compartment in the center, and an engine compartment at the rear. Its industrial designation was WZ511 and for a time it was designated as M1974 by NATO. This design required the dismounts to climb out of the vehicle via hatches in the roof, a design principle that was eventually abandoned because it exposed the dismounts to enemy fire and could result in dismounts falling beneath the tracks of the vehicle if it were mobile. Based on the hull design of the Type 63 amphibious tank, the Type 77-1 is mainly used for carrying troops, artillery guns, and cargo in the river regions of south China, where the mobility of heavier tracked armored vehicles is limited. The Type 77 is generally similar to the Russian BTR-50 in terms of layout and purposes, though the two vehicles share little in their designs. Development of the Type 77 began in April 1965, with two prototypes rolled out in the same year. After some modifications, the vehicle received its design certificate in 1977 and was officially designated as Type 77-1. The Type 77-2 is an amphibious armored personnel carrier (APC) derived from Type 77-1. The project began in 1978 and the vehicle received its design certificate in 1980. Meanwhile, there are around 200~300 Type 77-2 APCs in service with the PLA Marine Corps. The vehicle is generally regarded as outdated but still effective in modern amphibious warfare.
+
+This equipment has proliferated into the following countries: Albania, China.
+
+Here is Variants information for the WZ-511 (Type 77) Chinese Amphibious Armored Personnel Carrier (APC):
+The Type 77  (WZ511) is Chinese tracked amphibious APC based on the Type 63-I amphibious light tank..
+The Type 77-1 (WZ511-1) is Amphibious armoured personnel/artillery carrier designed to carry a disassembled gun (85 mm towed anti-tank gun or 120 mm towed howitzer) on the roof. The vehicle has hydraulic winch and ramps to load/unload the gun..
+The Type 77-2 (WZ511-2) is Amphibious armoured personnel carrier. No winch and ramps..
+The Type 76 ARV is Recovery vehicle..
+
+Here is System information for the WZ-511 (Type 77) Chinese Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is WZ-511; Type 77.
+The Type is Amphibious Armored Personnel Carrier (APC).
+The Manufacturer is NORINCO - China North Industries Group Corporation - CNGC.
+The Crew is 2.
+The Passenger Capacity is 16.
+The Payload Capcity is 3,000 kg.
+The Note is It is thought that the Type 77 was retired from the APC role with the introduction of the Type 05 (ZBD-05) vehicles from 2005..
+
+Here is Dimensions information for the WZ-511 (Type 77) Chinese Amphibious Armored Personnel Carrier (APC):
+The Length is 7.40.
+The Width is 3.20.
+The Height is 2.44.
+The Track Width is 400 mm.
+The Length of Track on Ground is 4.44 m.
+The Weight is 15,500 kg.
+The Ground Clearance is 0.40 m.
+
+Here is Automotive information for the WZ-511 (Type 77) Chinese Amphibious Armored Personnel Carrier (APC):
+The Engine Name is Model 12150L-2A.
+The Engine Type is Water-cooled, 4-cycle, direct-injection diesel engine.
+The Engine Power is 400 hp at 2,000 rpm.
+The Cruising Range is 370.
+The Range, Swimming is 120.
+The Speed, Maximum Road is 60 km/h.
+The Amphibious is The Type 77 is fully amphibious following minimal preparation. Propulsion once in the water being provided by twin waterjets located at the rear..
+The Speed Maximum Swim is 12.
+The Fording Depth is Amphibious.
+The Vertical Obstacle is 0.87.
+The Trench Obstacle is 2.90.
+The Gradient is 60.
+The Side Slope is 40.
+
+Here is System information for the WZ-511 (Type 77) Chinese Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 x Type 54 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Action is Gas-operated, flapper locking.
+The Max Rate of Fire is INA.
+The Sustain Rate of Fire is 600.
+The Feed System is 50 round belt.
+The Sights is Iron / Optical.
+
+Here is Ammunition information for the WZ-511 (Type 77) Chinese Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is AP.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7×108mm.
+The Muzzle Velocity is 850 m/s.
+The Effective Range is 2,000 m.
+The Range Finder Type is NA.
+The Armor Penetration is 25 mm.
+The Maximum Firing Range is 2,500 m.
+The Basic Load is 500 Rounds.
+
+Here is Protection information for the WZ-511 (Type 77) Chinese Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is 6-10 mm.
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

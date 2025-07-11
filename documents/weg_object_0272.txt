@@ -1,0 +1,49 @@
+This document describes the D-74 Russian 122mm Towed Gun.
+
+The 122mm D-74 towed gun is a Soviet-built gun. Developed in the late 1950s it provided direct and indirect fire for the Soviet Army. Today it is in reserve units with the Russian Army.
+
+This equipment has proliferated into the following countries: Cambodia, China, Cuba, Egypt, Laos (People's Democratic Republic), North Korea (Democratic People's Republic of Korea), Pakistan, Syria, Viet Nam, Zimbabwe.
+
+Here is System information for the D-74 Russian 122mm Towed Gun:
+The Alternative Designation is D-74.
+The Type is 122mm Towed Gun.
+The Crew is 7-9.
+The Carriage is Split-trail.
+The Displacement Time is under 2.
+The Emplacement Time is under 2.
+
+Here is Dimensions information for the D-74 Russian 122mm Towed Gun:
+The Length is 9.875 m.
+The Barrel Length is 6.45 m.
+The Width is 2.35 m.
+The Height is 2.7 m.
+The Weight is 5,620 kg.
+
+Here is System information for the D-74 Russian 122mm Towed Gun of the Main Weapon System:
+The Name is D-74.
+The Type is Towed Gun.
+The Caliber is 122.
+The Breech is Semi-automatic vertical sliding-wedge.
+The Recoil is Hydro-pneumatic.
+The Carriage is Split-trail.
+The Elevation is +45/−5 degree.
+The Traverse is 45 degree.
+The Rate of Fire is Maximum: 8–10 rpm.
+The Muzzle Velocity is 885 m/s.
+The Maximum Firing Range is 24 km.
+The Effective Firing Range is Indirect: 23.9 km (15 mi)
+Direct: 1,080 m (1,181 yds).
+
+Here is Ammunition information for the D-74 Russian 122mm Towed Gun of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 122.
+The Shell is Separate loading charge and projectile.
+The Basic Load is INA.
+
+Here is Fire Control information for the D-74 Russian 122mm Towed Gun:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Collimator is INA.
+

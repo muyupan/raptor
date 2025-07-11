@@ -1,0 +1,37 @@
+This document describes the 9K333 Verba (SA-29) Russian Man-Portable Infrared Homing Surface-to-Air Missile (MANPAD).
+
+The 9K333 Verba (SA-29) Russian Man-Portable Infrared Homing Surface-to-Air Missile (MANPAD) was developed by the Russian Konstruktorskoye Byuro Mashinostroyenia (KBM). It was unveiled in 2015. It was developed as a replacement for the 9K38 Igla system, which is currently used by Russian forces. Igla system is being used by many countries worldwide.
+
+   The new Verba system uses a surface-to-air missile to engage air targets. It was approved for production in 2011 and adopted by the Russian Armed Forces in 2014. It is also being proposed for export customers.
+
+  Verba's kill range is similar to the Igla-S (6 Km) and operating altitude is about 4.5 Km. But the engagement envelope has been extended by a factor of 2.5 besides improved protection from countermeasures. The general performance factor has been increased by 1.5 to 2.
+
+This equipment has proliferated into the following countries: Armenia, Russian Federation, Syria.
+
+Here is Dimensions information for the 9K333 Verba (SA-29) Russian Man-Portable Infrared Homing Surface-to-Air Missile (MANPAD):
+The Note is See Missile System.
+
+Here is System information for the 9K333 Verba (SA-29) Russian Man-Portable Infrared Homing Surface-to-Air Missile (MANPAD) of the Missile System:
+The Name is 9K333 Verba (SA-29).
+The Type is Man-Portable Air Defense System (MANPADS).
+The Missile Length is 1.64.
+The Missile Diameter is 0.07.
+The Fin Span is INA.
+The Missile Weight is 12.
+The Launcher Type is 9P521 launcher.
+The Launcher Weight is 6.
+The Missile Weight with Launcher is 18.
+The Engine is Solid fuel rocket motor.
+The Warhead Type is High Explosive Blast Fragmentation.
+The Warhead Weight is 1.5.
+The Range of Fire is 6.
+The Flight Ceiling is 4.5.
+The Guidance System is Three-channel optical seeker (ultraviolet, near-infrared, mid-infrared).
+
+Here is Fire Control information for the 9K333 Verba (SA-29) Russian Man-Portable Infrared Homing Surface-to-Air Missile (MANPAD):
+The Name is INA.
+The Computerized FCS is The new MANPADS also includes integrated automated control system. This enables data usage from both ground and early radar warning aircraft. Thus targets can be traced in advance and passed to MANPAD operators for engagement..
+The Direct Fire is Yes.
+The Imaging Sight is Maugli-2M infrared imaging sight.
+The Identification Friend-or-Foe (IFF) Interrogator is Yes.
+

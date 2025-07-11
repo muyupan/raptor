@@ -1,0 +1,54 @@
+This document describes the DJI Matrice 30T Chinese Unmanned Aerial Vehicle (UAV).
+
+The DJI Matrice 30T Chinese Unmanned Aerial Vehicle (UAV) is the DJI Enterprise flagship, a weatherproof drone that fits in a backpack. It integrates multiple high-performance sensors into one single camera payload, is controlled with the DJI RC Plus Remote, and runs on upgraded DJI Pilot 2 software, which significantly improves the flight experience. The powerful M30T offers the endurance and capability necessary for rugged professional use cases. Additionally, its size makes it ideal for easy transportation and fast setup. The UAS also includes a 40mm 640x512 30fps thermal imaging camera with a measurement accuracy of ±2°C or ±2%.
+
+Apart from its outstanding performance and new format, the DJI M30T allows professionals to fly and perform beyond their immediate surroundings. It integrates smoothly with the new DJI FlightHub 2 fleet management cloud-based software and the DJI Dock for collaboration with remote and unattended operations, bringing efficiency innovation to various industries.
+
+The M30T model integrates a 48-megapixel 1/2'' CMOS sensor-zoom camera with 5×~16× optical and 200× digital zoom, a 12-megapixel wide-angle camera, 8K photo, 4K/30 fps video resolution, and a laser rangefinder which can give the precise coordinates of objects up to 1,200 meters away.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the DJI Matrice 30T Chinese Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is DJI Matrice 30T.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is SZ DJI Technology Co., Ltd. or Shenzhen DJI Sciences and Technologies Ltd.
+The Crew is Unmanned.
+The Operating Frequency is 2.4000-2.4835 GHz; 5.725-5.850 GHz.
+The Transmitter Power (EIRP) is 2.4 GHz: <33 dBm (FCC); <20 dBm (CE/SRRC/MIC)
+5.8 GHz: <33 dBm (FCC/SRRC); <14 dBm (CE).
+The GNSS is GPS+Galileo+BeiDou+GLONASS (GLONASS is supported only when RTK module is enabled).
+The Operating Temperature is -20° to 50° C (-4° to 122° F).
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+
+Here is Dimensions information for the DJI Matrice 30T Chinese Unmanned Aerial Vehicle (UAV):
+The Length, Unfolded is 470 mm.
+The Width, Unfolded is 585 mm.
+The Height, Unfolded is 215 mm.
+The Length, Folded is 365 mm.
+The Width , Folded is 215 mm.
+The Height, Folded is 199 mm.
+The Diagonal Wheelbase is 668 mm.
+The Maximum Takeoff Weight is 4,000 grams.
+
+Here is Automotive information for the DJI Matrice 30T Chinese Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Maximum Speed is INA.
+The Service Ceiling is 5,000 m.
+The Control Radius is INA.
+The Hovering Accuracy is Vertical: ±0.1 m (Vision System enabled); ±0.5 m (N-mode with GPS); ±0.1 m (RTK)
+Horizontal: ±0.3 m (Vision System enabled); ±1.5 m (N-mode with GPS); ±0.1 m (RTK).
+The RTK Positioning Accuracy is 1 cm+1 ppm (horizontal)
+1.5 cm+1 ppm (vertical).
+The Max Angular Velocity is Pitch: 150°/sec.; Yaw: 100°/sec..
+The Max Tilt Angle is 35° (N-mode and Forward Vision System enabled: 25°).
+The Max Ascent/Descent Speed is 6 m/s, 5 m/s.
+The Max Tilt Descent Speed is 7 m/s.
+The Max Horizontal Speed is 23 m/s.
+The Max Wind Resistance is 15 m/s
+12 m/s during taking off and landing.
+The Max Hover Time is 36 min.
+The Max Flight Time is 41 min.
+

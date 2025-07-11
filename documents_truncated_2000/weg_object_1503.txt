@@ -1,0 +1,123 @@
+This document describes the T-90MS Russian Main Battle Tank (MBT).
+
+The T-90MS is the next step in the development of the Russian-made main battle tank T-90. The new T-90MS was presented for the first time to the public during the defense exhibition Russian Expo arms in September 2011. This new tank is a complete modernization of the T-90 by touching all the characteristics of the basic variant to increase its operational capabilities in combat and against modern threats of the battlefield. The weight of the T-90MS has increased by 1,500 kg, compared to the basic model of the T-90 to reach 48 tons, but it remains significantly lower compared to the German main battle tank Leopard 2A6 and the American M1A2 Abrams. In April 2019, India’s Cabinet Committee on Security (CCS) has approved the INR134.48 billion (USD 1.93 billion) procurement of 464 Russian-made T-90MS main battle tanks (MBTs) for the Indian Army (IA), the New Delhi Times reports. According to a news release on November 8, 2019, to the official website of the "Times of India", the Indian Ministry of Defense has signed a contract with the Heavy Vehicles Factory at Avadi in Chennai to produce 469 Russian T-90 Main Battle Tanks (MBTs), that could be the MS version of the T-90 family.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the T-90MS Russian Main Battle Tank (MBT):
+The Alternative Designation is T-90MS Tagil; T-90SM.
+The Type is Main Battle Tank.
+The Family is T-90 Series.
+The Crew is 3.
+
+Here is Dimensions information for the T-90MS Russian Main Battle Tank (MBT):
+The Length, Gun Forward is 10 m.
+The Length, Hull is 6.8 m.
+The Width is 3.5 m.
+The Height is 2.3 m.
+The Weight, Combat is 48 tons.
+
+Here is Automotive information for the T-90MS Russian Main Battle Tank (MBT):
+The Engine Name is V-92S2F.
+The Engine Type is Diesel.
+The Engine Power is 1,130.
+The Range is 550 km.
+The Speed, Maximum Road is 72.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.8.
+The Trench is 2.85.
+The Fording, without Preparation is 1.2.
+The Fording, with Preparation is 5.0.
+
+Here is System information for the T-90MS Russian Main Battle Tank (MBT) of the Main Gun:
+The Name is 1 x 2A46M-5 125mm Smoothbore Gun.
+The Type is Smoothbore Gun.
+The Caliber is 125 mm.
+The Barrel Length is 6000 mm.
+The Weight is 2400 kg.
+The Elevation is -6 to + 14 degrees.
+The Traverse is 360 degrees.
+The Fume Extractor is Yes.
+The Thermal Sleeve is Yes.
+The Muzzle Reference System is Yes.
+The Muzzle Velocity is APDS: 1715-1800 m/s
+HEAT: 905-950 m/s
+HE: 760 m/s.
+The Maximum Effective Range is INA.
+The Effective Firing Range is APDS / HEAT: 3000 m
+HE: 4000 m
+ATGM: 5000 m.
+
+Here is Ammunition information for the T-90MS Russian Main Battle Tank (MBT) of the Main Gun:
+The Type is Projectile.
+The Caliber is 125.
+The Shell is INA.
+The Types of Ammunition is APDS, HEAT, HE:.
+The Basic Load is 40 Rounds, A total of 22 125-mm ready rounds are carried, with another 18 rounds carried in reserve..
+
+Here is System information for the T-90MS Russian Main Battle Tank (MBT) of the Anti-Tank Guided Missile:
+The Name is 9M119 Svir/Refleks (AT-11 Sniper).
+The Type is Anti-Tank Guided Missile.
+The Launch Platform is 125 mm smoothbore guns.
+The Length is INA.
+The Diameter is 125 mm.
+The Weight is 17.2 kg.
+The Warhead is Tandem hollow-charge.
+The Warhead Weight is 4.5 kg.
+The Operational Range is 5,000 m.
+The Maximum Speed is Subsonic.
+The Guidance System is Laser beam riding.
+
+Here is System information for the T-90MS Russian Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is 1 x PKTM 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Length is 1,192 mm.
+The Barrel Length is 605 mm.
+The Weight is 7.5 kg (16.53 lb) (gun + integral bipod) + 4.5 kg (9.92 lb) (tripod)..
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 650 rounds/min.
+The Muzzle Velocity is 825 m/s.
+The Maximum Firing Range is 3,800 m.
+The Effective Firing Range is 1,000 m.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Tangent iron sights (default);
+Optical, Night-vision, Thermal and Radar sights.
+
+Here is Ammunition information for the T-90MS Russian Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Basic Load is 2,800 Rounds.
+
+Here is Fire Control information for the T-90MS Russian Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is The T-90MS is equipped with a computerized fire-control system that can be used to engage static and mobile targets while the tank is in motion with a high first-round hit probability under most weather conditions..
+The Thermal Sight Tank Commander is Separate stabilized panoramic sight,.
+The Thermal Sight Gunner is PNM Sosna-U gunner display.
+The Main Gun Stabilization is Yes.
+The Satellite Navigation System is Yes.
+The Inertial Navigation is Yes.
+The Ballistic Computer is Yes.
+The Meteorological Sensor is Yes.
+The Automatic Target Tracker is Yes.
+The Laser Rangefinder is Yes.
+The Hunter-Killer Engaement is Yes.
+The TV Camera is Yes.
+The Thermal Sight is Yes, with a Laser Rangefinder.
+The Missile Guidance System is Yes, the Reflects Missile Guidance Sighting System.
+
+Here is Protection information for the T-90MS Russian Main Battle Tank (MBT):
+The Hull Armor is The rear of the hull and turret is provided with slat armor to protect against rocket-propelled grenades. Spall liners are fitted in the crew compartment..
+The Turret Armor is The rear of the hull and turret is provided with slat armor to protect against rocket-propelled grenades. Spall liners are fitted in the crew compartment..
+The Applique Armor is Available.
+The Explosive Reactive Armor is Yes, Relikt explosive reactive armor (ERA) in place of the previous Kontakt-5..
+The Active Protection System is Yes, There is an active protection system that includes a number of coarse and fine laser detectors positioned to cover 360 degrees..
+The Mine Clearing is INA.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes.
+The Smoke Equipment is The turret can also be automatically slewed in the direction of the threat to launch 81-mm smoke grenades..
+

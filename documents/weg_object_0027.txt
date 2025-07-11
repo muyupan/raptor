@@ -1,0 +1,36 @@
+This document describes the P-40 (Long Track) Russian Mobile 3-D UHF Radar System.
+
+The P-40 was the first high-mobility radar to enter into service with the then new tactical anti-aircraft forces of the Soviet armed forces.
+
+The P-40 used the AT-T artillery tractor with tracked chassis, fitted with a 12-cylinder 4-stroke diesel engine with an output of 342 kW (465 hp) and producing a top speed of 55 km/h. The P-40 had a crew of 6 and a total weight of 35 tons, the radar being powered by a gas turbine running 400 Hz generator.
+
+The radar uses an open frame truncated parabolic antenna with a stacked antenna feed. The radar antenna is mounted on the truck used to transport it giving excellent mobility, the radar capable of being folded for stowage during transit. Azimuth was determined by mechanical scanning while the angle of the target is determined from within which beam of the antenna stack the target is detected, the radar does not carry a secondary antenna for IFF.
+
+This equipment has proliferated into the following countries: Estonia, Kurdistan, Kyrgyzstan, Turkmenistan, Uzbekistan.
+
+Here is System information for the P-40 (Long Track) Russian Mobile 3-D UHF Radar System:
+The Alternative Designations is P -40. The name LONG TRACK is actually the radar..
+The Chassis is A modified version of the AT-T heavy tracked transporter vehicle (426 U)..
+The Engine is 465-hp diesel.
+The Weight (mt) is 35.
+The Max Road Speed (km/h) is 55.
+
+Here is Radar information for the P-40 (Long Track) Russian Mobile 3-D UHF Radar System:
+The Antenna is Elliptical parabolic.
+The Auxiliary Power Unit is 400 Hz gen and gasoline engine..
+The Frequency Band is E-band (UHF).
+The Frequency is 2.6 GHz.
+The Sweep Rate (rpm) is 12-15.
+The Display range (nm) is 200.
+The Effective range (km) is 167.
+The Tracking range (km) is 150.
+The Effective altitude (km) is 30.
+The Track targets on Move is No.
+The Emplacement time (min) is INA.
+The Displacement time (min) is INA.
+The Dead time (min) is 0.
+The Max targets displayed is >8.
+The Associated SAMs is SA-4/GANEF, SA-6/GAINFUL, SA-8/GECKO.
+The ADA Unit Level: is Employed at division and echelons above division   The system is used in Tier 3 and 4 units..
+The Other Radars is The radar system links to the IADS to provide analog warning and to pass analog data..
+

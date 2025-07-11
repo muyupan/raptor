@@ -1,0 +1,60 @@
+This document describes the P-15 (Flat Face A) Russian Mobile 2D UHF Radar.
+
+The P-15 is a high mobility radar. With the antenna mounted directly on the single truck (Zil-157) used for transport, the system could be deployed and taken down in no more than 10 minutes. The P-15 uses two open frame elliptical parabolic antenna accomplishing both transmission and reception, each antenna being fed by a single antenna feed. The radar can rapidly shift its frequency to one of four preset frequencies to avoid active interference, with passive interference being removed by a coherent doppler filter. Azimuth was determined by mechanical scanning with an associated accompanying PRV-11 (NATO reporting name "Side Net") used to determine elevation. A secondary radar for IFF is generally used in conjunction with the P-15, generally the 1L22 "Parol".
+
+This equipment has proliferated into the following countries: Algeria, Czech Republic, Russian Federation.
+
+Here is Variants information for the P-15 (Flat Face A) Russian Mobile 2D UHF Radar:
+The Flat Face B (Russian P-19) is This radar was developed from the Flat Face A. It is associated with SA-2 Guideline, SA-3 Goa, SA-6 Gainful, and SA-8 Gecko SAM systems. It is also designated the 1RL134. The P-19 is truck-mounted on a 6 x 6 chassis and employs an antenna array with two elliptical reflectors mounted one above the other. Like the P-15, it uses the 1L22 Parol IFF equipment. Digital plot processing has been fitted..
+
+Here is System information for the P-15 (Flat Face A) Russian Mobile 2D UHF Radar:
+The Alternative Designation is P-15; NATO: Flat Face.
+The Type is 2D UHF Radar.
+The Manufacturer is INA.
+The Chassis is ZIL-157.
+The Crew is 3.
+
+Here is Dimensions (Chassis: ZIL-157) information for the P-15 (Flat Face A) Russian Mobile 2D UHF Radar:
+The Length is 6.93 m.
+The Width is 2.32 m.
+The Height is 2.74 m.
+The Weight, Empty is 5,540 kg.
+The Antenna  Width is 6.00 m.
+The Antenna Height is 2.15 m.
+
+Here is Radar System information for the P-15 (Flat Face A) Russian Mobile 2D UHF Radar:
+The Band is C (810-850 or 880-905 MHz).
+The Maximum Range is 250 km.
+The Peak Power is 900 kW.
+The Beam WIdth Azimuth is 10 deg.
+The Beam Width Elevation is 5 deg.
+The Accuracy Angular is 5 deg.
+The Accuracy Range is 90 m.
+The Pulse Width is 2-3 microseconds.
+The Pulse Repetition Frequency is 200-800 Hz; 600-880 Hz.
+The Parabolic Reflectors is Two elliptical parabolic reflectors measuring 11x5.5 m. Reflectors arranged one above the other on van roof..
+The Associated Missiles and Radars is SA-3 GOA, SA-8 GECKO SAM, and LOW BLOW missile control radar..
+
+Here is Automotive (Chassis: ZIL-157) information for the P-15 (Flat Face A) Russian Mobile 2D UHF Radar:
+The Engine Name is ZIL-157.
+The Engine Type is Diesel.
+The Engine Power is 1041.
+The Transmission is 5 speed X 2 range transfer case.
+The Cruising Range is INA.
+The Speed, Maximum Road is 40.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is INA.
+The Side Slope is INA.
+The Vertical Step is INA.
+The Trench is INA.
+The Fording Depth is INA.
+
+Here is Protection information for the P-15 (Flat Face A) Russian Mobile 2D UHF Radar:
+The Armor is INA.
+The Applique Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

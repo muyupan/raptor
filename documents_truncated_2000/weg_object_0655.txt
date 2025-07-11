@@ -1,0 +1,33 @@
+This document describes the AS-30L French Short-to-Medium Range Air-to-Ground Missile.
+
+The AS-30L is a French short-to-medium range air-to-ground missile which employs laser homing guidance. The AS-30L was a development of the earlier 1970s AS-30 missile, which uses MCLOS guidance via a radio command link between the aircraft and the missile. The only difference between the AS-30 and AS-30L is their guidance systems. In appearance, the earlier AS-30 has a sharp nose and the AS-30L has a slightly blunted nose. The AS-30L is employed for attacking targets which require a high degree of precision to engage effectively, but are also potentially dangerous enough to necessitate a longer-distance "stand off" attack profile to reduce the danger to the aircraft and pilot to ground-based anti-aircraft defences. The missile has a range of 3 to 11 kilometers, carries a 240 kilogram warhead, and claims a 1-meter CEP with either airborne or ground-based laser designators.
+
+This equipment has proliferated into the following countries: Egypt, France, Germany, India, Iraq, Pakistan, Peru, South Africa, Switzerland.
+
+Here is Variants information for the AS-30L French Short-to-Medium Range Air-to-Ground Missile:
+The AS-30 is Initial production variant using MCLOS guidance via a radio command link..
+
+Here is System information for the AS-30L French Short-to-Medium Range Air-to-Ground Missile:
+The  is .
+The  is .
+The  is .
+
+Here is Missile information for the AS-30L French Short-to-Medium Range Air-to-Ground Missile of the AS-30L French Short-to-Medium Range Air-to-Ground Missile:
+The Name is AS-30L.
+The Type is MCLOS with radio command link / laser guided short-to-medium range air-to-ground missile.
+The Basic Load is 2.
+The Manufacturer is Aérospatiale.
+The Length is 3.7 m.
+The Diameter is 340.
+The Weight is 520.
+The Warhead Type is Impact-fuzed SAPHE (Semi-Armor-Piercing High-Explosive).
+The Warhead Weight is 240.
+The Detonation Mechanism is Delayed AP impact fuse (2 m ferroconcrete).
+The Engine is Two-stage solid propellant rocket motors, composite booster, double-based sustainer.
+The Wingspan is 1.
+The Operational Range is 3-11.
+The Flight Ceiling is 10,000.
+The Speed is 1,700 km/h.
+The Guidance System is Semi-active laser homing.
+The Launch Platforms is Mirage 2000D, Mirage 2000-5, F-16, Jaguar, Mirage F1, upgraded Super Etendard, Rafale.
+

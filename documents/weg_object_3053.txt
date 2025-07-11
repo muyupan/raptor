@@ -1,0 +1,43 @@
+This document describes the Camel Ukrainian 4x4 Unmanned Ground Vehicles (UGV).
+
+The Camel Ukrainian 4x4 Unmanned Ground Vehicles (UGV)  can operate in day or night conditions. The platform can be integrated with reconnaissance systems, UAVs, and quadcopters. Camel can also be used to launch UAVs.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the Camel Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Alternative Designation is Camel.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is Roboneers.
+The Configuration is 4x4.
+The Crew is Unmanned.
+The Operator is Standard portable operator control unit..
+The Sensors is Various sensors can be mounted so that the platform can double as a surveillance platform, collecting and storing video and sensor data for processing.
+The Software is The unit features the C4VISION system, which specialises in planning supply routes and carrying out waypoint navigation..
+The Payload Capacity is 400 kg.
+The Towing Capacity is 1,000 kg.
+
+Here is Dimensions information for the Camel Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Length is 2.8 m.
+The Width is 1.7 m.
+The Height is 1.3 m.
+The Weight, Combat is 500 kg.
+The Ground Clearance is 400 mm.
+
+Here is Automotive information for the Camel Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Engine Name is INA.
+The Engine Type is The hybrid powertrain allows Camel to operate for weeks in surveillance mode. The onboard generator can be used to supply power in remote areas..
+The Engine Power is INA.
+The Amphibious is No.
+The Maximum Speed is 20 km/h.
+The Range is 130 km.
+The Maximum Gradient is 35°.
+The Side Slope is 35°.
+The Endurance is It can operate for up to 11 hours at a time when carrying a normal load. When using just the battery for power, the unit can operate for up to 2 hours. The hybrid power reserve covers a range of up to 130 km..
+
+Here is Main Weapon System information for the Camel Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Note is INA.
+
+Here is Protection information for the Camel Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Armor is INA.
+The Applique Armor is INA.
+

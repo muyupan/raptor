@@ -1,0 +1,31 @@
+This document describes the Wasp AE (RQ-12A) American Unmanned Aerial Vehicle (UAV).
+
+Weighing in at just over a kilogram, the Wasp AE delivers best-in-class capabilities for an unmanned aircraft system of its size, including stealth-like maneuverability, superior imagery, encrypted video and exceptional ease of use. Wasp’s gimbaled payload is mechanically stabilized, enabling it to transmit advanced imagery in high-wind conditions, while its advanced avionics allow operators the option of manual or autonomous navigation.
+
+The all-environment Wasp combines hand-launch capabilities with deep-stall landing for operations in confined areas on land or water. The aircraft also includes an integrated landing camera that provides operators with exceptional situational awareness as the aircraft approaches the ground.
+
+This equipment has proliferated into the following countries: Australia, France, Spain, Sweden, United States of America.
+
+Here is System information for the Wasp AE (RQ-12A) American Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Wasp AE RQ-12A.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufactuer is AeroVironment.
+The Payload is Gimbaled payload with pan and tilt stabilized high resolution EO & IR camera in a compact aerodynamic modular payload..
+The GCS is Common GCS with Raven® and Puma.
+The Launch Method is Hand-launched in a confined area with remote launch capability.
+The Recovery Method is Deep-stall landing in a confined area.
+
+Here is Dimensions information for the Wasp AE (RQ-12A) American Unmanned Aerial Vehicle (UAV):
+The Length is 76 cm.
+The Wingspan is 102 cm.
+The Weight is 1.3 kg.
+
+Here is Automotive information for the Wasp AE (RQ-12A) American Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is 1 × Electric motor, rechargeable lithium ion batteries.
+The Engine Power is INA.
+The Range is 5 km Line-of-Sight, 5+km with DDL relay.
+The Maximum Speed is 20 knots cruise, 45+ knots dash.
+The Endurance is 50 min.
+The Operating Altitude is 152 m AGL.
+

@@ -1,0 +1,148 @@
+This document describes the 9M337 Sosna-R Russian Short-Range Air Defense Missile System.
+
+The SOSNA-R 9M337 hyper-velocity beam rider missile is a two-stage missile designed for interception of fired wing aircraft and helicopters, as well as guided weapons and cruise missiles. The system is intended to protect against all types of air threats including high-precision weapons e.g. cruise missiles and guided aircraft missiles in the area of the system responsibility: in range – up to 10 km, in altitude – up to 5 km.
+
+Structure principles
+
+* mount of missile armament with a launcher in one combat vehicle, air search and target tracking equipments, 
+  missile flight control units that are combined by integrated optronic combat control system
+
+* missile armament consists of 12 high-speed high-precision maintenance-free missiles SOSNA-R deployed in 
+  a launcher. Light weight of the missiles allows to dispose of a transport/loading vehicle from the system
+
+* optimal configuration of surface-to-air guided missile (SAM) payload allows to improve impact effect due to 
+  increased weight of spread warheads and application of impact/non-impact laser fuse with continuous 
+  circular beam pattern and adaptive burst time
+* special multichannel automatic high-precision practically all-weather and day/night optronic control system
+
+* combined missile control system: radio command system in start zone; remote orientation in laser beam after 
+  engine division and missile targeting to the line-of-sight
+* optronic combat control system with sector scan and in the automate target designation mode provide 
+  autonomous target detection capability.
+
+State trials of Russia’s new short-range air defense missile system would begin in summer 2015, Tochmash design bureau told RIA Novosti on 19 May 2015. The system, dubbed Sosna ["Pine"], was expected to replace Strela-10M air defense systems in service with the Russian armed forces. “Last year, we successfully completed the preliminary tests of this system. In summer, the state trials of the system at testing grounds of the Land forces will begin,” Tochmash Managing Director Vladimir Slobodchikov said.
+
+“The outcome of the trials will determine whether this system will be put in service with the Russian Army,” Slobodchikov said. According to Tochmash, the Sosna system “is intended to protect against all types of air threats including high-precision weapons like cruise missiles and guided aircraft missiles in the area of the system responsibility: in range – up to 10 km, in altitude – up to 5 km.”
+
+Slobodchikov noted that a number of foreign countries, including those of the South-East Asia region and the Middle East, have shown interest in acquiring the Russian Sosna system. Sosna participated in military exhibitions in South Africa and United Arab Emirates and would be exhibited in Peru and Brunei.
+
+Several Sosna vehicles will typically operate together with a command vehicle carrying a surveillance system. Each Sosna vehicle had 12 ready-to-fire missiles and could be reloaded in 12 minutes. It uses the same Sosna-R two-stage missile that is used with the company's Palma naval air defence system, which is in service with the Russian and Vietnamese navies. One variant of the system features high fire power due to the combination of the missiles and 30mm 2F38 twin-barreled air defense automatic gun.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the 9M337 Sosna-R Russian Short-Range Air Defense Missile System:
+The Palma close-in weapon system is This is a naval anti-aircraft gun system that can be equipped with eight Sosna-R missiles. It also has two AO-18KD 30-mm cannons. It has reportedly been purchased by at least one (unspecified) country. See separate record for more information..
+The Mobile/Tracked Sosna-R SAM is This is a tracked air defense system featuring an upgraded MT-LB armored fighting vehicle chassis with a turret supporting 12 Sosna-R missiles in the ready-to-launch position. Two advanced electro-optical packages for acquisition, tracking and laser guidance are situated between the two banks of six missiles. The sights are said to be operational under almost all weather conditions.
+Once all 12 missiles have been launched, the system can be reloaded manually in about 12 minutes from a support vehicle carrying additional missiles.
+
+The system may be integrated with tracked or wheeled vehicles..
+The Sosna SHORAD system is The Sosna system consisted of Sosna-R missiles and a twin-barrel 30-mm 2A38M cannon. Mounted on a wheeled, towed chassis it had four containerized ready-to-launch Sosna-R missiles.
+The cannon had a range of 13,100 ft (4,000 m). The Sosna featured a 360-degree target-acquisition radar and a gyro-stabilized multisensory turret with room for four sensors. An electro-optical fire-control system was equipped with laser-beam control for the missiles. It was offered for sale in 2003. However, development was ultimately shelved in favor of a self-propelled version..
+
+Here is System information for the 9M337 Sosna-R Russian Short-Range Air Defense Missile System:
+The Alternative Designation is 9M337 Sosna-R.
+The Type is Short-Range Air Defense Missile System.
+The Family is Sosna.
+The Mission is The system is intended to protect against all types of air threats including high-precision weapons e.g. cruise missiles and guided aircraft missiles in the area of the system responsibility: in range – up to 10 km, in altitude – up to 5 km.
+The Manufacturer is High Precision Systems.
+The Crew is 3.
+The Chassis is MT-LB Armored Personnel Carrier.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Fire on the Move is Yes.
+The Launch Platforms is Sosna vehicle
+Palma CIWS
+Palash CIWS.
+The Note is The Sosna-R  turret can be mounted on any vehicle that has a payload of more than 3,500 kg.
+
+Here is Chassis Dimensions (MT-LB Armored Personnel Carrier) information for the 9M337 Sosna-R Russian Short-Range Air Defense Missile System:
+The Hull Length is 6.45.
+The Width is 2.85.
+The Height is 1.87.
+The Length of Track on Ground is 3.80.
+The Track Width Standard is 350.
+The Track Width Wide is 570.
+The Ground Clearance is 400.
+
+Here is Automotive (MT-LB Armored Personnel Carrier) information for the 9M337 Sosna-R Russian Short-Range Air Defense Missile System:
+The Engine Name is 1 x YaMZ 238V liquid-cooled, V-8 Diesel Engine.
+The Engine Type is Diesel Engine.
+The Engine Power is 240 hp at 2,100 rpm.
+The Power-to-Weight Ratio is 20.16 hp/metric ton.
+The Transmission is manual w/1 reverse gear and 6 forward gears.
+The Fuel Capacity is 450.
+The Cruising Range is 500.
+The Speed, Maximum Road is 62.
+The Speed, Average Cross is .
+The Speed Maximum Swim is 5-6.
+The Suspension is torsion bar, 6 road wheels, front drive, rear idler, 2 shock absorbers, no return rollers.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Obstacle is 0.70.
+The Trench is 2.70.
+The Fording Depth is Amphibious.
+
+Here is Missile System information for the 9M337 Sosna-R Russian Short-Range Air Defense Missile System:
+The Name is 9M337 Sosna-R.
+The Launcher Type is Tracked SAM Launcher.
+The Length, Transport-Launch Canister is 2.20.
+The Diameter, Transport-Launch Canister is 0.15.
+The Launcher Weight is 30.0.
+The Missile Length is 2.20.
+The Missile Booster Diameter is 0.13.
+The Missile Forward Section Diameter is 0.07.
+The Missile and Container Weight is 42.0.
+The Warhead Type is 1× Fragmented-rod warhead
+1× AP-Frag warhead
+tandem warhead with high-explosive rod-fragmentation warhead for proximity detonation and an armor-piercing fragmentation warhead that goes off on impact.
+The Warhead Weight is 7.2.
+The Missile Speed is 900.
+The Detonation Mechanism is Fuze.
+The Maximum Range is 10.
+The Minimum Range is 1,300.
+The Maximum Altitude is 10.
+The Minimum Altitude is INA.
+The Guidance System is The system features a two-stage solid-propellant missile. During the first phase of flight the missile is guided by radio command. The booster falls away, and the second stage is guided to the target by a laser beam.
+The Max Elevation is INA.
+The Min Elevation is INA.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Load Factor is 52.
+The Reaction Time is 5-8 seconds.
+The Reloading is 10 minutes.
+The Fuze Type is The missile is equipped with an impact/proximity fuze with a continuous circular pattern and an adaptive burst time for maximum target effect.
+The Basic Load is 12 missiles in twin launchers, each with six tubes.
+The Note is The light weight of the missile eliminates the need for a dedicated transport/reloading vehicle.
+
+Here is Fire Control System information for the 9M337 Sosna-R Russian Short-Range Air Defense Missile System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes, a Missile Flight-Control Unit that is linked to the ECM-Protected Electro-Optical Control System.
+The Fire on the Move is Yes.
+The Thermal Camera is Yes.
+The TV Camera is Yes.
+The Laser Rangfinder is Yes.
+The Passive Mode Capable is Yes, passive optical detection capability provides 360-degree coverage from -5 degrees to 60 degrees in azimuth.
+The Jamming Resistant is Yes.
+The Optronic Combat Control System is Yes, a multi-channel, automatic, day/night electro-optical sensor system that operates in nearly all weather conditions.
+The Gyrostabilized Sensor is Yes.
+The Sector Scan is Yes,  60-degree horizontal and 20-degree azimuth sectors.
+The Automatic Target Designation Mode is Yes.
+The Thermal Imaging Channel is Yes.
+The Thermal and Laser Channels for MIssile Guidance is Yes.
+The Direct Fire is Yes, the system is capable of firing at ground targets.
+The Indirect Fire is Yes.
+The Note #1 is The Sosna-R is able to operate effectively under the control of various types of old, modern and prospective battery command posts, the most preferable of which is the FPU "Assembly-M1-2" (9S80M1-2) and is resistant to jamming.
+The Note #2 is It can track 50 targets simultaneously and engage one while moving.
+
+Here is Protection information for the 9M337 Sosna-R Russian Short-Range Air Defense Missile System:
+The Hull Armor is 7-14 mm Maximum.
+The Turret Armor is 7-14 mm Maximum.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

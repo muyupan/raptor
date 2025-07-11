@@ -1,0 +1,32 @@
+This document describes the TRC 274 French Mobile Multirange Communications Jamming System.
+
+The TRC 274 French Mobile Multirange Communications Jamming System is a high-performance wideband tactical jammer designed to degrade, disrupt, deny, neutralize or deceive all types of radio communications, from VHF to UHF frequency bands. HF and SHF versions are also available. It can be integrated in a comprehensive Electronic Warfare system or rely on its own ESM capacity to carry out in autonomous mode any terrestrial, naval, or airborne communication jamming missions.
+
+This equipment has proliferated into the following countries: France.
+
+Here is Variants information for the TRC 274 French Mobile Multirange Communications Jamming System:
+The TRC 274 NG is As of 2003, TRC 274 (in its TRC 274 NG configuration) was reported as being a live program..
+
+Here is System information for the TRC 274 French Mobile Multirange Communications Jamming System:
+The Alternative Designation is TRC 274.
+The Type is Multirange Communications Jamming System.
+The Manufacturer is Thales Group.
+The Crew is INA.
+The HF is 1.5-30 MHz.
+The Operation is The modular TRC 274 digital jamming system is designed to neutralize military, paramilitary and civilian communication links and networks operating in the 1.5 MHz to 1 GHz (extension up to 3 GHz if required) frequency range. The equipment comprises electronic countermeasures and support subsystems and is capable of intercepting and monitoring signals, establishing their frequencies, and setting up an optimum jamming strategy based on integral emitter and jamming mode databases. TRC 274 can operate as a stand-alone unit or as part of an integrated electronic combat architecture and can identify targets via its own electronic support subsystem or from cues supplied by external battlefield electronic warfare equipment..
+The Jamming Functions is The system incorporates automatic jamming functions and makes use of programmable algorithms to generate the best output for the particular emitter type (fixed-frequency, frequency hopper, or burst) in the particular environment (high- or low-density network)..
+The C/UHF is 20-3000 MHz.
+The Embedded ESM for Smart Jamming is 80 MHz bandwidth.
+The High ECM Performances is 60 MHz bandwidth.
+The Waveforms is Open library of jamming waveforms.
+The Frequency Range is 1.5-1,000 MHz (1.5-30 MHz and 20-1,000 MHz sub-bands, 3 GHz option).
+The Output is up to 1 kW.
+The Chirp is <1 MHz.
+The Note is Other system features include a Windows NT man/machine interface, 100 W to 1 kW amplifier output power (other values available as options), and emitter-specific jamming and deception modes..
+
+Here is Dimensions information for the TRC 274 French Mobile Multirange Communications Jamming System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

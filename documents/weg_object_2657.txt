@@ -1,0 +1,127 @@
+This document describes the Tiger 2065 Chinese Heavy 4x4 Armored Personnel Carrier (APC).
+
+The Tiger Type 2065 is the heaviest 4x4 armoured vehicle offered by the Chinese private company Shaanxi Baoji Special Vehicles. Available in both open-topped and closed configurations, the Tiger can be adapted for a wide range of roles, such as APC, patrol, police vehicle, ambulance, command post and weapons carrier. Since
+its introduction at the 2012 Eurosatory exhibition, the Tiger has been sold to several militaries including those of the Bahamas, Bolivia, Somalia and Tajikistan.
+
+This equipment has proliferated into the following countries: Afghanistan, Bahamas, Bolivia (Plurinational State of), China, Laos (People's Democratic Republic), Somalia, Tajikistan.
+
+Here is Variants information for the Tiger 2065 Chinese Heavy 4x4 Armored Personnel Carrier (APC):
+The Open Topped is Open-topped special operations patrol vehicle.
+The Full-enclosed APC is Enclosed type APC.
+
+Here is System information for the Tiger 2065 Chinese Heavy 4x4 Armored Personnel Carrier (APC):
+The Alternative Designation is TIger 2065.
+The Type is 4x4 Armored Personnel Carrier (APC).
+The Manufacturer is Shaanxi Baoji Special
+Vehicles.
+The Estimated out of Service Date is 2036 and beyond.
+The Crew is 2.
+The Passenger Capacity is 9.
+The Cargo Maximum Payload (Open Top Configuation) is 1,100.
+The Cargo Maximum Payload (Fully-Enclosed Configuation) is 1,700.
+The Add on Parts is Yes, Searchlights, Radios, and Winch.
+The Maximum Effective Range is 600.
+
+Here is Dimensions information for the Tiger 2065 Chinese Heavy 4x4 Armored Personnel Carrier (APC):
+The Length is 5.36.
+The Width is 2.32.
+The Height is 2.3.
+The Weight, Standard is 4.8.
+The Weight, Combat is 6.5.
+The Ground Clearance is 0.35.
+The Wheelbase is 3.31.
+
+Here is Automotive information for the Tiger 2065 Chinese Heavy 4x4 Armored Personnel Carrier (APC):
+The Engine Name is Cummins Model ISDE 200-30.
+The Engine Type is Diesel Engine.
+The Engine Power is 200.
+The Power to Weight Ratio is 30.76.
+The Transmission is Manual.
+The Cruising Range is 600.
+The Speed, Maximum Road is 115.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth (With Preperation) is 800.
+The Gradient is 60.
+The Vertical Obstacle is 350.
+The Amphibious is No.
+
+Here is TBR-121 information for the Tiger 2065 Chinese Heavy 4x4 Armored Personnel Carrier (APC) of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Proliferated is Widely.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the Tiger 2065 Chinese Heavy 4x4 Armored Personnel Carrier (APC) of the Main Gun (Option 1):
+The Name is 1 x Type 80.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is Norinco.
+The Date of Introduction is 1985.
+The Length, Total is 1,192.
+The Length, Barrel is 658.
+The Diameter is INA.
+The Weight (Gun Only) is 12.6.
+The Weight (With Tripod) is 17.5.
+The Action is Gas-operated, open bolt.
+The Max Rate of Fire is 700-800.
+The Sustain Rate of Fire is 500-600.
+The Effective Range is 100-1,500 (With Sight Adjustments) m.
+The Feed System is Belts in 100/200/250 round boxes.
+The Sights is Open sights. Optical/Night vision scope can be outfitted..
+
+Here is Ammunition information for the Tiger 2065 Chinese Heavy 4x4 Armored Personnel Carrier (APC) of the Main Gun (Option 1):
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 840.
+The Basic Load is INA, Belts in 100/200/250 round boxes.
+
+Here is System information for the Tiger 2065 Chinese Heavy 4x4 Armored Personnel Carrier (APC) of the Main Gun (Option 2):
+The Name is 1 x QJZ-89.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Manufacturer is NORINCO.
+The Weight, Gun Only is 17.5.
+The Weight, Tripod is 8.5.
+The Length, Total is 2,119.
+The Length, Barrel is 1,003.
+The Action is Gas/Recoil.
+The Rate of Fire is 450-600.
+The Muzzle Velocity is 850 m/s.
+The Effective Firing Range is 1,800 m.
+The Feed System is Belt.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the Tiger 2065 Chinese Heavy 4x4 Armored Personnel Carrier (APC) of the Main Gun (Option 2):
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Cartridges is 12.7x108mm.
+The Armor Penetration is Yes.
+The Basic Load is INA.
+
+Here is Fire Control information for the Tiger 2065 Chinese Heavy 4x4 Armored Personnel Carrier (APC):
+The Name is No.
+The Computerized FCS is No.
+The Thermal Sight Vehicle Commander is Optional.
+The Thermal Sight Gunner is Optional.
+The Main Gun Stabilization is No.
+
+Here is Protection information for the Tiger 2065 Chinese Heavy 4x4 Armored Personnel Carrier (APC):
+The Hull Armor is All-Welded Steel hull that the company claims can resist 7.72mm armour-piercing steel-core ammunition.
+The Turret Armor is All-Welded Steel.
+The Applique Armor is Available.
+The Ballistic Glass is Yes, front and side.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Optional.
+The Smoke Equipment is Optional.
+The EO/IR Signature is Available.
+The Firing Ports is several on each side.
+The Vision Blocks is Installed.
+

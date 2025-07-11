@@ -1,0 +1,83 @@
+This document describes the SPEAR Israeli 120mm Autonomous Mortar System.
+
+Elbit Systems’ SPEAR is a fully autonomous, vehicle-mounted 120mm soft recoil mortar system for high-mobility platforms. SPEAR delivers effective fire support by combining the flexibility and effectiveness of accurate mortar firepower with exceptional tactical mobility. The mortar is a derivative of the CARDOM battle-proven mortar system - more than 1,000 systems extensively used by the US Army, NATO, Israeli Defense Forces (IDF), and others.
+
+This equipment has proliferated into the following countries: Azerbaijan, Bulgaria, Canada, CFE Treaty, Chile, Colombia, Israel, Kazakhstan, Mexico, Nigeria, Poland, South Korea (Republic of Korea), Sweden, Ukraine.
+
+Here is System information for the SPEAR Israeli 120mm Autonomous Mortar System:
+The Alternative Designation is SPEAR.
+The Type is Autonomous Mortar System.
+The Caliber is 120 mm.
+The Manufacturer is Elbit Systems.
+The Crew is 4-5.
+The Chassis is SandCat Stormer.
+The Payload Capacity is up to 2,109 kg.
+
+Here is Dimensions (Chassis: SandCat Stormer) information for the SPEAR Israeli 120mm Autonomous Mortar System:
+The Length is 5.03 m.
+The Width is 2.16 m.
+The Height is 2.24 m.
+The Wheelbase is 2.95 m.
+The Ground Clearance is 0.33 m.
+
+Here is Automotive (Chassis: SandCat Stormer) information for the SPEAR Israeli 120mm Autonomous Mortar System:
+The Engine Name is INA.
+The Engine Type is 6.7 L Power Stroke diesel.
+The Engine Power is 325.
+The Power-to-Weight Ratio is 36 hp/ton.
+The Transmission is Allison 2000 series 5-speed automatic torque-shift.
+The Torque is 650 lb-ft (880 Nm).
+The Fuel Capacity is 120 liters in two tanks.
+The Suspension is coil springs and shock-absorbers at the front and leaf springs and shock-absorbers at the rear. Uprated as required (second generation had a Plasan-designed coil spring and trailing arm rear suspension.
+The Maximum Speed is 120 kph.
+The Range is 500-550 km.
+The Gradient is 60 %.
+The Side Slope is 39 %.
+The Approach Angle is 38 deg.
+The Vertical Obstacle is 0.46 m.
+The Departure Angle is 30 deg.
+The Turning Radius is 6.00 m.
+
+Here is System information for the SPEAR Israeli 120mm Autonomous Mortar System of the Main Weapon System:
+The Name is 1 x SPEAR.
+The Type is Autonomous soft recoil mortar system.
+The Caliber is 120 mm.
+The Sustained Rate of Fire is 3-4RPM for 10-20
+minutes.
+The Burst Rate of Fire is 12-16RPM.
+The Command and Control is SPEAR is equipped with
+computerized aiming and navigation devices, enabling
+the mortar system to be operated autonomously and
+aimed without the need for external reference points.
+SPEAR can be easily integrated with a variety of C4
+I or
+Battle Management Systems (BMS)..
+The Integrated GPS and INS is Yes.
+The Soft Recoil Reduction is Equipped with a recoil reduction system that reduces the mortar’s
+firing loads from 30+ tons to as low as 12-15 tons, the
+“soft recoil” allows the SPEAR to be mounted on a variety
+of high-mobility light tactical vehicles such as HMMWVs,
+jeeps and other high-mobility rapid deployment wheeled
+platforms as well as bigger wheeled or tracked platforms.
+The Configuration is The system can operate
+independently with forward observers and/or deployed
+forces. The system can also be deployed standalone or as
+part of the battery/platoon configuration..
+The Fire Control System is Targeting information is relayed to the Fire Control System (FCS) which computes the ballistic data
+and orders the mortar’s automatic laying system to position
+the mortar barrel to the exact azimuth and elevation. The
+system is embedded with an Inertial Navigation System
+(INS) to provide maximum accuracy..
+
+Here is Ammunition information for the SPEAR Israeli 120mm Autonomous Mortar System of the Main Weapon System:
+The Type is All types of qualified 120mm
+smooth bore ammunition.
+The Caliber is 120 mm.
+The Basic Load is INA.
+
+Here is Protection information for the SPEAR Israeli 120mm Autonomous Mortar System:
+The Hull Armor is With the armor kits, the vehicle can provide protection equivalent to NATO Standard Agreement (STANAG) level 4 for improvised explosive device (IED) fragments; level 3+ for kinetic energy; and level 2a for mine-blast protection..
+The Applique Armor is Available.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

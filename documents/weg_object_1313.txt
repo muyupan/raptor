@@ -1,0 +1,48 @@
+This document describes the KS-30 Russian 130mm Towed Anti-Aircraft Gun.
+
+The Soviet 130mm antiaircraft gun KS-30 appeared in the early 1950s. Closely resembling the United States wartime 120mm antiaircraft gun, the KS-30 was used for the home defense forces of the USSR and some other Warsaw Pact countries. It is held in war reserve since it has been replaced by surface-to-air guided missiles. Recognition features are the heavy dual-tire carriage, a firing platform that folds up to a 45-degree angle when the piece is in travel, and the long clean tube without a muzzle brake. The breechblock is of the semiautomatic horizontal sliding wedge type, and the piece is fitted with a power rammer and an automatic fuze setter. Fire control is provided by the PUAZO-30 director and the SON-30 radar. The ammunition is of the fixed-charge, separated type. It is not interchangeable with that of the 130mm field of coastal guns.
+
+This equipment has proliferated into the following countries: Algeria, Russian Federation, Viet Nam.
+
+Here is System information for the KS-30 Russian 130mm Towed Anti-Aircraft Gun:
+The Alternative Designation is KS-30.
+The Type is Towed Anti-Aircraft Gun.
+The Caliber is 130 mm.
+The Manufacturer is Former Soviet state factories.
+The Crew is 15.
+
+Here is Dimensions information for the KS-30 Russian 130mm Towed Anti-Aircraft Gun:
+The Length is 11.52 m.
+The Barrel Length is 8.41 m.
+The Width is 3.03 m.
+The Height is 3.05 m.
+The Weight, Combat is 24,900 kg.
+The Weight, Traveling is 29,500 kg.
+The Ground Clearance is 0.41 m.
+
+Here is System information for the KS-30 Russian 130mm Towed Anti-Aircraft Gun of the Main Weapon System:
+The Name is KS-30.
+The Type is Towed Anti-Aircraft Gun.
+The Caliber is 130 mm.
+The Bore is 130-mm/65-cal, rifled.
+The Elevation is -5 deg to 80 deg (-89 mils to 1,422 mils).
+The Elevation Rate is 5 deg (89 mils)/sec.
+The Traverse is 360 deg (6,400 mils).
+The Traverse Rate is 15 deg (267 mils)/sec.
+The Breech Type is semi-automatic horizontal sliding wedge.
+The Maximum Anti-Air Range is 20,000 m.
+The Effective Anti-Air Range is 13,720 m.
+The Maximum Ground Range is 27,000 m.
+The Muzzle Velocity is 950 m.
+The Rate of FIre is 10-12 rpm, normal.
+
+Here is Ammunition information for the KS-30 Russian 130mm Towed Anti-Aircraft Gun of the Main Weapon System:
+The Name is INA.
+The Type is Fixed Charge Projectile; HE, HE-AP.
+The Caliber is 130 mm.
+The Shell is Separate loading charge and projectile.
+The Note is The ammunition is of the fixed-charge, separated type. It is not interchangeable with that of the 130mm field or coastal guns..
+
+Here is Fire Control Radar information for the KS-30 Russian 130mm Towed Anti-Aircraft Gun of the Radar Systems:
+The Name is PUAZO-30 director and SON-30 (Fire Can) E/F-band radar  Fire Can** is a trailer-mounted gun control radar based on the U.S. World War-II era SCR-584. It is used in conjunction with the PUAZO-6/9 gun director for controlling the 57-mm S-60, 85-mm KS-12 and 100-mm KS-19 anti-aircraft guns. The SON-30 (Fire Can) Radar has a maximum acquisition range of 80 km and a maximum tracking range of 35 km..
+

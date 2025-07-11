@@ -1,0 +1,139 @@
+This document describes the FV101 Scorpion British Amphibious Combat Reconnaissance Vehicle.
+
+The FV101 Scorpion is a British armored reconnaissance vehicle. It was the lead vehicle and the fire support type in the Combat Vehicle Reconnaissance (Tracked), CVR(T), a family of seven armored vehicles. Manufactured by Alvis, it was introduced into service with the British Army in 1973 and was withdrawn in 1994. More than 3,000 were produced and used as reconnaissance vehicles or light tanks. It holds the Guinness world record for the fastest production tank; recorded doing 82.23 km/h (51.10 mph) at the QinetiQ vehicle test track, Chertsey, Surrey, on 26 January 2002.
+
+The Scorpion was armed with the low velocity 76 mm L23A1 gun, which could fire high-explosive, HESH, smoke, and canister rounds. Stowage was provided for 40 or 42 rounds. A 7.62 mm coaxial machine gun (3,000 rounds carried) was also fitted, as were two multi-barreled smoke grenade dischargers, one on each side of the turret. The main armament has an elevation of 35 degrees and a depression of 10 degrees; the turret has a full 360-degree traverse.
+
+The original engine was the Jaguar J60 Mk 100b 4.2-liter petrol engine, which was replaced by a Cummins or Perkins diesel engine. The maximum speed was about 50 miles per hour (80 km/h) and it could accelerate from naught to 30 miles per hour (48 km/h) in 16 seconds. The maximum speed on water (with the flotation screen deployed) was 3.6 mph (5.8 km/h). The Irish engineering company IED replaced the existing Jaguar engine in Irish Army Scorpions in a successful re-powering process with a Steyr M16 TCA HD engine (6-cylinder, 145 kW), making the Scorpion more powerful and more reliable in critical environments.
+
+The FV101 was a very light armoured vehicle, weighing in at a mere 8 tonnes. This meant some compromises had to be made on protection. The vehicle had 12.7 mm of sloped aluminum armor, giving an average effective thickness of 25 mm. The FV101 had all-around protection from shell fragments and 7.62 mm rounds, and the heavily sloped frontal arc was designed to be resistant to 14.5 mm rounds fired from a 200-meter range. The initial manufacture of the aluminum armor resulted, after time and effects of the environment, in failure. This phenomenon was known as Stress Corrosion Cracking (SCC) and it seriously affected all early builds.
+
+This equipment has proliferated into the following countries: Botswana, Brunei Darussalam, Chile, Honduras, Indonesia, Iran (Islamic Republic of), Jordan, Malaysia, Niger, Oman, Philippines, South Korea (Republic of Korea), Tanzania, Thailand, Togo, United Arab Emirates, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the FV101 Scorpion British Amphibious Combat Reconnaissance Vehicle:
+The Scorpion (FV101) is Original variant with 3-man crew.
+The Spartan (FV103) is Artillery & engineer vehicle with 3-man crew & 4 dismountable troops; 80 k/hr; 483 km range; 1 7.62-mm MG.
+The Striker (FV102) is AT vehicle with 5 Swingfire CLOS ATGMS (5 reloads) & 1 7.62-mm L37A1 MG.
+The Scorpion 90 is 3-man crew; 73 k/hr; Cockerill Mk IIIK 90-mm gun & 1 7.62-mm MG.
+The Samaritan (FV104) is Ambulance for 4 litter patients, 5 seated patients, or 2 litter/3 seated patients; 2-man crew; 483 km range.
+The Sultan (FV105) is Command vehicle with at least 2 radios; total 5-6 personnel; 483 km range.
+The Samson (FV106) is 483 km range, ARV with internal main winch, tow bars, & tow cables.
+The Scimitar (FV107) is Scorpion with 1 30-mm Rarden L21 rifled gun (165 rounds) & 1 7.62-mm coax MG; 80 k/hr; 644 km range;.
+The Scorpion 2 is Description of late production Scorpions with Perkins engine & other upgrades with 2-man turret with 30-mm, 76-mm, or 90-mm main armament options.
+The Saber is Reconditioned recon vehicle with 30-mm Rarden cannon & Hughes 7.62-mm coaxial chain gun.
+The Scorpion (Jordan) is Upgraded original Scorpion with Perkins engine & other upgrades.
+The Spartan with MILAN ATGM is 2-round turret must be reloaded from outside the vehicle (11 reloads).
+The Scorpion 90 (Venzeula) is Scorpion 90 with Belgain CMI Defence 90-mm Mk II gun & Perkins engine.
+The Sturgeon is OPFOR vehicle used in Suffield, Canada based on the Spartan.
+The Salamander is OPFOR vehicle used in Suffield, Canada based on the 76-mm Scorpion.
+The Scorpion (Malaysia) is Scorpion 90 with 76-mm AGL & Perkins engine.
+The Omani Scorpion is Increased protection package & some received a Cummins diesel engine.
+The Scorpion vehicle-mounted automatic mortar FCS is Fires Denel’s 60-mm or BAE Systems’ 81-mm L16 mortars.
+The CVR(T) Life-Extension Program (LEP) is LEP with diesel engine, better optics & communication.
+
+Here is System information for the FV101 Scorpion British Amphibious Combat Reconnaissance Vehicle:
+The Alternative Designations is FV101 Scorpion.
+The Type is Amphibious Combat Reconnaissance Vehicle.
+The Manufacturer is Alvis Vehicles, Coventry, England.
+The Crew is 3.
+The Note is For a long period of time it was the main vehicle in armored reconnaissance regiments. In 1994 this vehicle was withdrawn from active service with the Royal army, but it still operational with export customers..
+
+Here is Dimensions information for the FV101 Scorpion British Amphibious Combat Reconnaissance Vehicle:
+The Length is 4.79.
+The Width is 2.2.
+The Height is 2.10.
+The Weight is 7.93.
+The Ground Pressure is 0.36 kg/cm sq.
+The Track is 1.71.
+The Track Width is 0.43.
+The Ground Clearance is 0.36.
+
+Here is Automotive information for the FV101 Scorpion British Amphibious Combat Reconnaissance Vehicle:
+The Engine Name is Cummins BTA 5.9-litre (Diesel).
+The Type is Diesel.
+The Engine Power is 195 hp.
+The Fuel Capacity is 423 liters.
+The Range is 640.
+The Speed, Maximum Road is 87.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 6.4.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.5.
+The Trench is 2.
+The Fording Depth is 1.
+The Fording with Preperation Depth is Amphibious.
+The Transmission is Self Change Gears TN15X.
+The Suspension is torsion bar, 5 road wheels, front drive, rear idler, 2 hydraulic shock absorbers.
+
+Here is System information for the FV101 Scorpion British Amphibious Combat Reconnaissance Vehicle of the Main Weapon System:
+The Name is 1 x ROF L23A1, 76mm Rifled Gun.
+The Type is Rifled Gun.
+The Caliber is 76 mm.
+The Length is 2,157.
+The Width is 146.
+The Height is INA.
+The Basic Load is 40.
+The Maximum Elevation is +35.
+The Minimum Elevation is -10.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Firing Range is 2,200.
+The Rate of Fire is 6.
+The Recoil System is hydropneumatic.
+
+Here is Ammunition information for the FV101 Scorpion British Amphibious Combat Reconnaissance Vehicle of the Main Weapon System:
+The Name is M42A1 HE.
+The Type is 76 mm Projectile.
+The Weight, Complete Round is 10.03.
+The Weight, Projectile is 5.84.
+The Weight, Filler/Core is 0.39.
+The Muzzle velocity is 820.
+The Maximum Effective Range is 13,400.
+
+Here is System information for the FV101 Scorpion British Amphibious Combat Reconnaissance Vehicle of the Auxilery Weapon System:
+The Name is 1 x L43A1 FN MAG, 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is Fabrique Nationale (FNH / FNH UK) and U.S. Ordnance.
+The Max Rate of Fire is 650-1,000.
+The Length, Total is 1,263.
+The Length, Barrel is 630.
+The Width is 118.7.
+The Height is 263.
+The Weight is 11.8 kg.
+The Action is Gas-operated long-stroke piston, open bolt.
+The Effective Firing Range (Bipod) is 800 m.
+The Effective Firing Range (Tripod) is 1,800 m.
+The Maximum firing range is 3,500 m.
+The Feed System is Non-disintegrating DM1 or disintegrating M13 linked belt.
+The Sights is Folding leaf sight with aperture and notch, front blade.
+
+Here is Ammunition information for the FV101 Scorpion British Amphibious Combat Reconnaissance Vehicle of the Auxilery Weapon System:
+The Name is INA.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Muzzle Velocity is 840.
+The Basic Load is 3,000.
+
+Here is Fire Control information for the FV101 Scorpion British Amphibious Combat Reconnaissance Vehicle:
+The Name is INA.
+The Computerized FCS is INA.
+The Commander Periscopes is 7.
+The Roof Mounted Day Sight is Yes, with magnifications of 1x and 10x..
+The Gunner Periscopes is 2.
+The Navigation System is Yes.
+The Night Vision is Rank Precision Industries passive night sight.
+
+Here is Protection information for the FV101 Scorpion British Amphibious Combat Reconnaissance Vehicle:
+The Armor (turret front) is Protection against 14.5 mm rounds (remainder of the vehicle against 7.62 mm rounds).
+The Applique armor is INA.
+The Explosive reactive armor is INA.
+The Active Protection System is INA.
+The Self-entrenching blade is No.
+The NBC Protection System is Yes.
+The Smoke Equipment is 8 x Smoke dischargers.
+The Survivability Equipment is Enhanced mine protection available.
+

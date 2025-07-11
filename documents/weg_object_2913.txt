@@ -1,0 +1,36 @@
+This document describes the DZ-9001 Chinese Mobile Electronic Intelligence (ELINT) System.
+
+The Chinese DZ-9001 is a vehicle-mounted ELINT System developed by Jiangnan Electronic & Communications Research Institute (JECOR, 36th Institute) of China Electronics Technology Group) located in Jiaxing City, Zhejiang Province. Development of the system began in 1984 with fielding to the PLA in the late 1980s.
+
+The DZ-9001 uses a low-frequency system and a high-frequency system and power supply to detect, intercept, analyze, identify, and record enemy radar radiation. The high (8-18 GHz) and low (1-8 GHz) frequency systems can be operated independently or together.
+
+Once the enemy emitter signal profile (technical parameters and operation modes) have been collected and analyzed, operations personnel can begin the planning of defensive and offensive countermeasures to degrade or defeat the respective enemy communications and non-communication emitter. 
+
+Photo is courtesy of China Electronics Technology Corporation (CETC) through GlobalMil.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the DZ-9001 Chinese Mobile Electronic Intelligence (ELINT) System:
+The Alternative Designation is DZ-9001.
+The Type is Vehicle -Mounted ELINT System Emitter Locator.
+The Manufacturer is Jiangnan Electronic & Communications Research Institute (JECOR, also known as 36 Institute) of Jiangxing, Zhejiang Province. The development began in 1984 and the system entered the PLA service in the late 1980s..
+The Target Set is Communication and Non Communication.
+The Antenna Type is Parabolic dish and horn (NOTE: Two different antennas for 1-8 and 8-18 Ghz respectfully).
+The Antenna Gain is 17.0 dBi (depends on frequency).
+The Transmitter Power is INA.
+The Frequency Range is 1-18 GHz.
+The RF Range is 1000.0 MHz to 18000.0 MHz.
+The Sensitivity is 70 dBm.
+The Dynamic Range is >50 dB.
+The Continuous Operating Time is 24 hours.
+The Direction-Finding Accuracy is >3° RMS.
+The Frequency Accuracy is 2 MHz.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the DZ-9001 Chinese Mobile Electronic Intelligence (ELINT) System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

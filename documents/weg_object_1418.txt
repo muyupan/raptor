@@ -1,0 +1,84 @@
+This document describes the Victor III-Class (Project 671RTM/RTMK Shchuka Class) Russian Nuclear-Powered Attack Submarine.
+
+Victor III Class (Project 671RTM/RTMK Shchuka Class) Russian Nuclear-Powered Attack Submarine. Soviet designation Project 671RTM/RTMK Shchuka (pike)—entered service in 1979; 25 were produced until 1991. Quieter than previous Soviet submarines, these ships had four tubes for launching SS-N-21 or SS-N-15 missiles and Type 53 torpedoes, plus another two tubes for launching SS-N-16 missiles and Type 65 torpedoes. 24 tube-launched weapons or 36 mines could be on board. The Victor III class caused a minor furor in NATO intelligence agencies at its introduction because of the distinctive pod on the vertical stern-plane. Speculation immediately mounted that the pod was the housing for some sort of exotic silent propulsion system, possibly a magnetohydrodynamic drive unit.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Victor III-Class (Project 671RTM/RTMK Shchuka Class) Russian Nuclear-Powered Attack Submarine:
+The PERM is Commissioned: 1987
+Status: Reserve
+Fleet: Northern Fleet.
+The POLYARNYE ZORI is Commissioned: 1988
+Status: Active
+Fleet: Northern Fleet.
+The OBNINSK is Commissioned: 1990
+Status: Active
+Fleet: Northern Fleet.
+The DANIIL MOSKOVSKIY is Commissioned: 1990
+Status: Active
+Fleet: Northern Fleet.
+The TAMBOV is Commissioned: 1992
+Status: Active
+Fleet: Northern Fleet.
+
+Here is System information for the Victor III-Class (Project 671RTM/RTMK Shchuka Class) Russian Nuclear-Powered Attack Submarine:
+The Alternative Designation is Victor III Class; Project 671RTM/RTMK Shchuka Class.
+The Type is Nuclear-Powered Attack Submarine.
+The Builder is Admiralteiskiye Verfi 194, St. Petersburg, Russia.
+The Crew is 96 total (27 Off. + 69 Enl.).
+
+Here is Dimensions information for the Victor III-Class (Project 671RTM/RTMK Shchuka Class) Russian Nuclear-Powered Attack Submarine:
+The Length is 107.2 m.
+The Beam is 10.8 m.
+The Draft is 7.9 m.
+The Displacement, Surface is 4,950 tons.
+The Displacement, Submerged is 7,250 tons.
+
+Here is Propulsion System information for the Victor III-Class (Project 671RTM/RTMK Shchuka Class) Russian Nuclear-Powered Attack Submarine:
+The Engine Name is 2 x Type VM-4P and 2 x sets type OK-300 steam turbines.
+The Engine Type is Pressurized-water nuclear reactor and Steam Turbines.
+The Engine Power is 31,000 total shp.
+The Auxiliary Power is 2 x low-speed electric cruise motors and 2 x small propellers on stern planes, 1,020 total shp.
+The Maximum Surface Speed is 11.6 knots.
+The Maximum Submerged Speed is 31 knots.
+
+Here is System information for the Victor III-Class (Project 671RTM/RTMK Shchuka Class) Russian Nuclear-Powered Attack Submarine of the Missile Weapon System:
+The Name is SS-N-21 Sampson (RK-55) Cruise Missile.
+The Type is Sea-Launched Cruise Missile (SLCM).
+The Manufacturer is INA.
+The Length is 8.09 m.
+The Diameter is 0.51 m.
+The Launch Weight is 1,700 kg.
+The Payload is Single warhead.
+The Warhead is Nuclear 200 kT (ground/submarine), HE 410 kg (submarine).
+The Propulsion is Turbofan, solid booster.
+The Range is 2,400 km (submarine), 3,000 (ground).
+The Basic Load is INA.
+
+Here is Torpedo System #1 information for the Victor III-Class (Project 671RTM/RTMK Shchuka Class) Russian Nuclear-Powered Attack Submarine of the Torpedo System:
+The Launcher is 2 x  650-mm bow.
+The Name is Type 65-76 torpedoes.
+The Basic Load is 8 x Type 65-76 torpedoes.
+
+Here is Torpedo System #2 information for the Victor III-Class (Project 671RTM/RTMK Shchuka Class) Russian Nuclear-Powered Attack Submarine of the Torpedo System:
+The Launcher is 4 x 533-mm bow.
+The Name is USET-80 torpedoes.
+The Basic Load is 16 x USET-80 torpedoes.
+
+Here is Mine System information for the Victor III-Class (Project 671RTM/RTMK Shchuka Class) Russian Nuclear-Powered Attack Submarine:
+The Note is 36 x mines max. in lieu of torpedoes..
+
+Here is Radar Systems information for the Victor III-Class (Project 671RTM/RTMK Shchuka Class) Russian Nuclear-Powered Attack Submarine:
+The Surface Search / Navigation Radar is 1 x MRK-50 Albatros' series (Snoop Tray-2) surface search/navigation radar..
+
+Here is Sonar Systems information for the Victor III-Class (Project 671RTM/RTMK Shchuka Class) Russian Nuclear-Powered Attack Submarine:
+The Sonar Suite is 1 x MG-503 Skat-KS (Shark Gill) suite..
+The Passive Linear Array is 1 x Barrakuda towed passive linear array and 1 (Shark Rib) low frequency, passive flak array..
+The Ice-Lane Avoidance is 1 x MT-70 active ice avoidance..
+
+Here is Protection information for the Victor III-Class (Project 671RTM/RTMK Shchuka Class) Russian Nuclear-Powered Attack Submarine:
+The Hull Armor is Pressure hull fabricated from AK-29 steel..
+The Countermeasures is 1 x MG-74 Korund and Siren decoys.
+The NBC Water Washdown System is Yes.
+The EW Intercept is 1 x MRP-10 Zaliv-P/Buleva (Brick Pulp) intercept.
+

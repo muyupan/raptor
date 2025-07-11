@@ -1,0 +1,30 @@
+This document describes the M15 American Anti-Tank Blast Mine.
+
+The M15 mine is a large circular United States anti-tank blast mine, first deployed during the Korean War. Essentially, it is a larger version of the M6A2 anti-tank mine, which it replaced. Although the M15 has been superseded by the M19 mine (a plastic-cased minimum metal mine of more modern design), the U.S. retains large stocks of M15s because they are still regarded as reliable and effective weapons. When used against main battle tanks the M15 is primarily a "track-breaker" which creates mobility kills, but has a comparatively small likelihood of causing crew fatalities. However, when used against lighter vehicles such as APCs or unarmored vehicles such as trucks the damage inflicted is much more severe.
+
+The mine consists of a large, circular rounded steel case, with a central pressure plate. In the center of the pressure plate is the M4 arming plug, which has an arming lever which can be set to "ARMED" or "SAFE". The pressure plate sits on top of a belleville spring, which in turn rests directly over the M603 fuze. When sufficient downward pressure is applied to the pressure plate (i.e. when a vehicle drives over it) the concertina spring is compressed. This action transfers pressure onto the M603 fuze which fires, triggering detonation. Because this mine has a metallic case, it is very easy to find it using even the most basic mine detector. However, a complicating factor is posed by the two secondary fuze wells. These enable anti-handling devices to be fitted: one on the side of the mine and one underneath. Additionally, a minefield containing M15 mines may also contain a number of minimum metal M19 mines, plus various antipersonnel mines of different types (e.g. the VS-MK2, SB-33, TS-50, PMA-2 or PMA-3), all of which are specifically designed to be difficult to find using metal mine detectors.
+
+The M15 mine was originally intended to be fitted with the M600 single-impulse fuze, which contained a glass ampoule of liquid explosive. Unfortunately, the M600 fuze was sensitive to temperature variations and therefore unreliable. For example, freezing temperatures made the mine inert as the liquid froze, whereas temperatures above 50 degrees Celsius could cause the fuze to detonate spontaneously. Just as problematic was the fact that M600 fuzes were inherently unstable, making them dangerous to handle, particularly after having been kept in storage for some time.
+
+Because of these shortcomings, the M600 chemical fuze was removed from service around 1953[1] and replaced by the M603 single-impulse fuze, which used a mechanical trigger mechanism i.e. a belleville spring. The M603 fuze is inherently safe to handle and much more reliable. In addition to the standard M603 fuze, two additional fuzes are available: the M624 tilt-rod fuze (which offers full-width attack capability) and the M608 double-impulse fuze. The M624 fuze requires 3.75 pounds of pressure to move the tilt rod, and once it exceeds 20 degrees of tilt the mine will detonate. The M608 double-impulse fuze will not detonate the mine when the first tank drives over it: instead, it simply arms itself so that the mine detonates when the second vehicle (e.g. an APC or perhaps a truck towing a howitzer) following in the tracks of the first tank drives over it – an event which might occur seconds, hours or even weeks later. The M608 double-impulse fuze is particularly useful when fitted to mines located on the outer edges of minefields, because this gives tanks a false sense of security. The lead tank, for instance, can drive over 30 mines fitted with double-impulse fuzes without detonating any of them. This lures tanks deep into the minefield, where they eventually trigger mines fitted with the M603 or M624 fuze (both of which operate exclusively in single-impulse mode) and become trapped. Attempts to recover the tanks or rescue victims are hindered by the fact that the M608-fitted mines previously driven over are now operating in single-impulse mode, and also because minefields containing M15 mines usually contain various antipersonnel mines as well, for instance the M14 mine and M16 bounding mine. An additional benefit of double-impulse fuzes is that they give mines a degree of protection against clearance techniques which use blast overpressure or mine roller systems.
+
+This equipment has proliferated into the following countries: Cambodia, North Korea (Democratic People's Republic of Korea), South Korea (Republic of Korea), United States of America, Viet Nam.
+
+Here is System information for the M15 American Anti-Tank Blast Mine:
+The Emplacement Method is manual.
+The Diameter is 334.
+The Height is 150.
+The Weight is 14.3.
+The Armor Penetration / Kill Mechanism is blast.
+The Effective Range is 0, typical with contact mine.
+The Detectability/ Composition is Easy Metal.
+The Anti-Handling is yes
+3 fuze wells.
+The Fuze Type/Self Neutralize is pressure
+(159-340 kg)
+tilt-rod.
+The Explosive Type & Weight/Total Weight (kg) is COMP B
+10.3
+Total: 14.27.
+The Operating Pressure is 160 to 340 kg (for the M603 pressure fuze).
+

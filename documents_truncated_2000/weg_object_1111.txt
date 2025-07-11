@@ -1,0 +1,27 @@
+This document describes the Pole-21E Russian RF Jammer.
+
+The Pole-21E is an ECM system designed to protect strategic assets and infrastructure from cruise missiles, guided bombs, and UAVs reliant on GPS, GLONASS, Galileo and Beidou for navigation and guidance. The system consists of jammers that can be placed on cell towers/masts, integrated with a transmit antenna station R-340RP, and pooled into a single network jamming the satellite navigation signal in large areas. The system relies on the mast’s power supply and uses its GSM transmit-receive antenna as a backup control and data transmission channel. High risk of co-channel interference for all RF spectrum clients/users within the operational footprint of this jammer.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Pole-21E Russian RF Jammer:
+The Alternative Designation is Pole-21E / Poyle-21E.
+The Type is Broad spectrum RF jamming system.
+The Crew is INA.
+The Chassis is INA.
+
+Here is System & Performance information for the Pole-21E Russian RF Jammer:
+The Number of radio interference posts is Up to 100.
+The Number of radio interference modules at one post is 1–3.
+The Controls for radio interference posts is GSM, cable, and radio.
+The Output power (of module in max radiation pattern and single frequency mode) is Variable from 300–1,000 W.
+The Operating Area is 150 km2.
+The Effective Jamming Range is Up to 25 km.
+The Maximum Jamming Range is Varies based on system configuration and power. Potentially, the system could jam targets at the edge of operating area, but doing so would not be tactically feasible..
+The Type of jamming signal is Pseudo-randomised pseudo-random-sequence interference.
+The Jamming coverage is Azimuth: at least 125°/ 
+Elevation: variable within 25°.
+The Operating temperature is -40° to 50° C.
+The Power supply is 220 V, 50 Hz.
+The Power consumption is 600 W.
+

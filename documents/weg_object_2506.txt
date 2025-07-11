@@ -1,0 +1,144 @@
+This document describes the FV107 Scimitar British Amphibious Armored Reconnaissance Vehicle.
+
+The FV107 Scimitar is an armored reconnaissance vehicle (sometimes classed as a light tank) used by the British Army. It was manufactured by Alvis in Coventry. It is very similar to the FV101 Scorpion but mounts a high velocity 30 mm L21 RARDEN cannon instead of a 76 mm gun. It was issued to Royal Armoured Corps armored regiments in the reconnaissance role. Each regiment originally had a close reconnaissance squadron of five troops, each containing eight FV107 Scimitars.
+
+The FV107 Scimitar is one of the CVR(T) series of vehicles. It entered service in 1971.
+
+Initially, the engine was the Jaguar J60 4.2-liter 6-cylinder petrol engine, the same as used by several Jaguar cars. This has now been replaced by a Cummins BTA 5.9 diesel engine in British Army Scimitars, under the CVR(T) Life Extension Program (LEP).
+
+The Scimitar lifespan has once again (as of mid-2009) been extended to accommodate the shift in the timeframe of the Future Rapid Effect System program, which would have seen new armored vehicles introduced to replace the aging CVR(T) range of vehicles. With new modifications, air filtration units and gearbox upgrades (late 2009), as well as hull alterations (late 2009) and the creation of a CVR(T) Spartan & CVR(T) Scimitar hybrid the CVR(T) range (early 2010) is expected to continue well beyond 2017.
+
+This equipment has proliferated into the following countries: Belgium, Latvia, Malaysia, United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the FV107 Scimitar British Amphibious Armored Reconnaissance Vehicle:
+The Scorpion (FV101) is Original variant with 3-man crew..
+The Spartan (FV103) is Artillery & engineer vehicle with 3-man crew & 4 dismountable troops; 80 k/hr; 483 km range; 1 7.62-mm MG..
+The Striker (FV102) is AT vehicle with 5 Swingfire CLOS ATGMS (5 reloads) & 1 7.62-mm L37A1 MG.
+The Scorpion 90 is 3-man crew; 73 k/hr; Cockerill Mk IIIK 90-mm gun & 1 7.62-mm MG..
+The Samaritan (FV104) is Ambulance for 4 litter patients, 5 seated patients, or 2 litter/3 seated patients; 2-man crew; 483 km range..
+The Sultan (FV105) is Command vehicle with at least 2 radios; total 5-6 personnel; 483 km range..
+The Samson (FV106) is 483 km range, ARV with internal main winch, tow bars, & tow cables..
+The Scimitar (FV107) is Scorpion with 1 30-mm Rarden L21 rifled gun (165 rounds) & 1 7.62-mm coax MG; 80 k/hr; 644 km range..
+The Scorpion 2 is Description of late production Scorpions with Perkins engine & other upgrades with a 2-man turret with 30-mm, 76-mm, or 90-mm main armament options..
+The Saber is Reconditioned recon vehicle with 30-mm Rarden cannon & Hughes 7.62-mm coaxial chain gun..
+The Scorpion (Jordan) is Upgraded original Scorpion with Perkins engine & other upgrades..
+The Spartan with MILAN ATGM is 2-round turret must be reloaded from outside the vehicle (11 reloads)..
+The Scorpion 90 (Venzeula) is Scorpion 90 with Belgain CMI Defence 90-mm Mk II gun & Perkins engine..
+The Sturgeon is OPFOR vehicle used in Suffield, Canada based on the Spartan..
+The Salamander is OPFOR vehicle used in Suffield, Canada based on the 76-mm Scorpion..
+The Scorpion (Malaysia) is Scorpion 90 with 76-mm AGL & Perkins engine..
+The Omani Scorpion is Increased protection package & some received a Cummins diesel engine..
+The Scorpion vehicle-mounted automatic mortar FCS is Fires Denel’s 60-mm or BAE Systems’ 81-mm L16 mortars..
+The CVR(T) Life-Extension Program (LEP) is LEP with diesel engine, better optics & communication..
+
+Here is System information for the FV107 Scimitar British Amphibious Armored Reconnaissance Vehicle:
+The Alternative Designations is FV107 Scimitar.
+The Type is Amphibious Armored Reconnaissance Vehicle.
+The Manufacturer is Alvis Vehicles, Coventry, England.
+The Crew is 3.
+The Note is The new British reconnaissance vehicle is known as Ajax. It is planned to enter service in 2019 and will replace the Scimitars in service with the British Army..
+
+Here is Dimensions information for the FV107 Scimitar British Amphibious Armored Reconnaissance Vehicle:
+The Length is 4.98.
+The Width is 2.24.
+The Height is 2.24.
+The Ground Pressure is 0.36 kg/cm sq.
+The Track Length is 1.71.
+The Track Width is 0.43.
+The Ground Clearance is 0.36.
+The Weight is 7.8.
+
+Here is Automotive information for the FV107 Scimitar British Amphibious Armored Reconnaissance Vehicle:
+The Engine Name is Cummins BTA 5.9-litre (Diesel).
+The Type is Diesel.
+The Engine Power is 195 hp.
+The Fuel Capacity is 423 liters.
+The Cruising Range is 640.
+The Speed, Maximum Road is 87.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 6.4.
+The Gradient is 60.
+The Side Slope is 35.
+The Vertical Step is 0.5.
+The Trench is 2.
+The Fording Depth is 1.
+The Fording with Preperation Depth is Amphibious.
+The Transmission is Self Change Gears TN15X..
+The Suspension is torsion bar, 5 road wheels, front-drive, rear idler, 2 hydraulic shock absorbers..
+The Note is On Water the FV107 is propelled by its tracks.
+
+Here is Communications information for the FV107 Scimitar British Amphibious Armored Reconnaissance Vehicle:
+The Primary is Bowman digital communications system.
+
+Here is System information for the FV107 Scimitar British Amphibious Armored Reconnaissance Vehicle of the Main Weapon System:
+The Name is 1 x Rarden L21 30mm Rifled Gun.
+The Type is Rifled Gun.
+The Caliber is 30 mm.
+The Length is 3.15.
+The Barrel Length is 2.44.
+The Width is INA.
+The Total Weight is 110.
+The Barrel Weight is 24.5.
+The Load Type is Manual with three round clips.
+The Automatic Firing Mode is 6 Rounds.
+The Maximum Elevation is +35.
+The Minimum Elevation is -10.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Effective Range is 2,000.
+The Rate of Fire is 80 rds/min.
+
+Here is Ammunition information for the FV107 Scimitar British Amphibious Armored Reconnaissance Vehicle of the Main Weapon System:
+The Name is INA.
+The Type is HE.
+The Caliber is 30 mm.
+The Muzzle Velocity is 1,070.
+The Maximum Effective Range is 2,000.
+The Basic Load is 40 Rounds.
+
+Here is System information for the FV107 Scimitar British Amphibious Armored Reconnaissance Vehicle of the Auxilery Weapon System:
+The Name is 1 x L43A1 FN MAG, 7.62 mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is Fabrique Nationale (FNH / FNH UK) and U.S. Ordnance.
+The Proliferation is + 1 Million.
+The Max Rate of Fire is 650-1,000.
+The Length, Total is 1,263.
+The Length, Barrel is 630.
+The Width is 118.7.
+The Height is 263.
+The Weight is 11.8 kg.
+The Action is Gas-operated long-stroke piston, open bolt.
+The Effective Firing Range (Bipod) is 800 m.
+The Effective Firing Range (Tripod) is 1,800 m.
+The Maximum firing range is 3,500 m.
+The Feed System is Non-disintegrating DM1 or disintegrating M13 linked belt.
+The Sights is Folding leaf sight with aperture and notch, front blade.
+
+Here is Ammunition information for the FV107 Scimitar British Amphibious Armored Reconnaissance Vehicle of the Auxilery Weapon System:
+The Name is INA.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Muzzle Velocity is 840.
+The Basic Load is 3,000 Rounds.
+
+Here is Fire Control information for the FV107 Scimitar British Amphibious Armored Reconnaissance Vehicle:
+The Name is INA.
+The Computerized FCS is Yes.
+The Sighting System is 1 x AVIMO's SPIRE sighting system..
+The Laser Rangefinder is Yes.
+The Thermal Imaging is 1 x HIRE thermal imaging module (from Hughes Electro-Optical Systems)..
+The Battle Management System (BMS) is Yes.
+
+Here is Protection information for the FV107 Scimitar British Amphibious Armored Reconnaissance Vehicle:
+The Hull Armor is The Scimitar has a thin aluminum armor hull. It provides protection only against small arms fire and artillery shell splinters..
+The Applique armor is INA.
+The Explosive reactive armor is INA.
+The Active Protection System is INA.
+The Self-entrenching blade is No.
+The NBC Protection System is Yes.
+The Smoke Equipment is 8 x Smoke dischargers.
+The Survivability Equipment is Enhanced mine protection available.
+

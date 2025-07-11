@@ -1,0 +1,84 @@
+This document describes the Kurganets-25 Russian Amphibious Armored Personnel Carrier (APC).
+
+The Kurganets-25 APC is a lightly armed armored personnel carrier that can move 8 infantrymen to the battle with the support of one 12.7mm machine gun.  The machine gun is in a remotely controlled turret.  
+As part of the Russian army’s efforts to modularize their combat systems, the Kurganets-25 IFV and APC will evolve into various models, gradually replacing BMP, BMD, MT-LB and other types of tracked Soviet armored platforms. The Kurganets-25 will have modular armor that can be upgraded for specific threats. 
+The Kurganets-25 IFV and APC variants were first seen in public during rehearsals for the 2015 Moscow Victory Day Parade. 
+The Kurganets-25 is designed to bring the Russian tracked troop carrier fleet up to standard with Western designs like the American M2 Bradley and British Warrior, which outclassed their Soviet Cold War BMP-series counterparts. Kurganets-25 is based on Armata Universal Combat Platform while being lighter than the T-15 Armata "heavy IFV" based on the same and similar to wheeled VPK-7829 Bumerang. The APC carries 8 troops. Other variants proposed for the Kurganets include an armored ambulance, an 82 mm Vasilek mortar carrier, anti-tank vehicle, armored recovery vehicle, a reconnaissance vehicle, a command vehicle, and an armored engineering vehicle.  The vehicle represents a departure from traditional Russian low profile designs, having a higher floor more suited for mounted combat rather than troop carrying, which also provides better IED and mine protection. While the T-15 is expected to be deployed with T-14 tanks in armored formations, Kurganets-25 platforms will equip mechanized units.
+
+This equipment has proliferated into the following countries: China, Russian Federation, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the Kurganets-25 Russian Amphibious Armored Personnel Carrier (APC):
+The Armored Recovery Vehicle is Equipped with a crane, a winch, and armed with a 12.7mm heavy machine gun.
+The Armored Ambulance is Proposed addition to the Russian army.
+The 82mm Vasilek Mortar Carrier is Proposed addition to the Russian army.
+The Anti-tank Vehicle is Proposed addition to the Russian army.
+The Reconnaissance Vehicle is Proposed addition to the Russian army.
+The Command Vehicle is Proposed addition to the Russian army.
+The Armored Engineering Vehicle is Proposed addition to the Russian army.
+The Self Propelled Anti-Aircraft Gun (SPAAG) is Proposed addition to the Russian army.
+The Self Propelled Gun (125mm) is Proposed addition to the Russian army.
+
+Here is System information for the Kurganets-25 Russian Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is Kurganets-25 BTR.
+The Crew is 3.
+The Passenger Capacity is 8.
+The Maximum Effective Range is 2,000.
+
+Here is Dimensions information for the Kurganets-25 Russian Amphibious Armored Personnel Carrier (APC):
+The Length is 7.2.
+The Width is 4.
+The Height is 3.2.
+The Weight, Combat is INA.
+
+Here is Automotive information for the Kurganets-25 Russian Amphibious Armored Personnel Carrier (APC):
+The Engine Name is YaMZ-780 inline engine with two turbochargers.
+The Engine Type is Diesel.
+The Engine Power is 750.
+The Cruising Range is 500.
+The Speed, Maximum Road is 80.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 10.
+The Fording Depth is Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.7.
+The Trench is 1.8.
+
+Here is System information for the Kurganets-25 Russian Amphibious Armored Personnel Carrier (APC) of the Main Gun:
+The Name is Kord Russian 12.7mm.
+The Type is Heavy Machine Gun.
+The Max Rate of Fire is 650.
+The Sustain Rate of Fire is 600.
+The Range Finder Type is Laser.
+
+Here is Ammunition Option 1 information for the Kurganets-25 Russian Amphibious Armored Personnel Carrier (APC) of the Main Gun:
+The Type is AP-I.
+The Caliber is 12.7.
+The Muzzle Velocity is 860.
+The Basic Load is ~500.
+The Max Effective Range is 2,000.
+The Max Range is 4.
+The Min Range is 0.
+The Armor Penetration is INA.
+The Projectile Weight is 389.
+The Bursting Charge is 49.
+
+Here is Fire Control information for the Kurganets-25 Russian Amphibious Armored Personnel Carrier (APC):
+The Name is INA.
+The Turret is Remote Controlled.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is INA.
+
+Here is Protection information for the Kurganets-25 Russian Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is Aluminum Alloy.
+The Turret Armor is Unmanned.
+The Applique Armor is Optional.
+The Explosive Reactive Armor is Optional.
+The Active Protection System is Has sensors but no counter measures.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

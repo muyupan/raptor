@@ -1,0 +1,36 @@
+This document describes the SB-33 Italian Anti-Personnel Mine.
+
+The SB-33 is a small Italian minimum metal blast type anti-personnel mine formerly manufactured by Misar, that entered service in 1977. The SB-33 can be emplaced by hand or scattered using the helicopter mounted SY-AT system.
+
+The body of the mine is made of two glass reinforced polycarbonate halves, with the top surface having a central neoprene pressure pad. The body has an irregular shape to make the mine harder to distinguish on the ground.
+
+To arm an SB-33, a small pin is removed from the side of the mine. After the mine has been armed, gradual pressure on the pressure plate (i.e. when the victim steps on it) rotates a locking collar until the striker is released, which flips into a stab-detonator and the mine explodes. However, sudden pressure (e.g. from a mine-clearing charge) causes the striker to lock the rotating collar in position for the duration of the pressure, preventing the mine from detonating. The combination of low metal content and resistance to overpressure make the mine extremely difficult to remove.
+
+Another version of the SB-33 called the SB-33AR (AR standing for Anti-Rimozione, "Counter-Removal") exists. It looks identical to the standard SB-33 mine. However, the SB-33AR has an integral anti-handling device specifically designed to injure deminers. The anti-handling device in an SB-33AR consists of a mercury tilt switch and battery connected to the detonator. When an SB-33AR is moved a few degrees from the horizontal (i.e. when a deminer lifts it), it detonates, blowing the victim's hand off. Generally, a small number of SB-33AR landmines would be sown inside a minefield containing standard SB-33 mines in order to hinder and deter any attempt to conduct demining operations.
+
+Copies of the mine were produced in several countries and the mine was in service with the Netherlands, Spain, Greece and Argentina. This mine is no longer produced and Italy has destroyed all operational stocks and any associated machinery required for its manufacture. However, uncleared minefields containing SB-33 mines do exist e.g. in Afghanistan, Djibouti, the Falkland Islands, Iran, Iraq, Kurdistan, and the Western Sahara.
+
+Here is Variants information for the SB-33 Italian Anti-Personnel Mine:
+The EM-20 is a Greek copy of the mine..
+The M/412 is a Portuguese copy of the mine..
+The P-5 is a Spanish copy of the mine produced under license. It is no longer in service with Spain, and all but 4,000 of the mines have been destroyed..
+
+Here is System information for the SB-33 Italian Anti-Personnel Mine:
+The Country of Manufacture is Italy, Spain, Greece (EM-20), Portugal (M412).
+The # of User Countries is 10+.
+The Emplacement Method is manual, scatterable.
+The Length is 85.
+The Width is 85.
+The Height is 30.
+The Armor Penetration (mm)/ Kill Mechanism is blast.
+The Effective Range is contact.
+The Detectability/ Composition is Plastic
+difficult w/handheld detectors.
+The Anti-Handling is yes: antihandling SB-33/AR.
+The Fuze Type/Self Neutralize is pressure
+10 kg.
+The Explosive Type & Weight/Total Weight (kg) is RDX: .35
+Total: .140.
+The Operating Pressure is 8.
+The Comment is Countermeasure blast (fuel air/explosive line charge) resistant..
+

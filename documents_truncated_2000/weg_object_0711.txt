@@ -1,0 +1,24 @@
+This document describes the LS-6 Chinese Precision-Guided Bomb.
+
+LS is an abbreviation for a family of Chinese built precision-guided munitions (PGM) named Thunder Stone Precision Guided Bomb developed by Luoyang Electro-Optics Technology Development Centre (EOTDC), a subsidiary of China Aerospace Science and Technology Corporation (CASC). Alternatively, the LS PGB is also referred to by its gliding capability, as Thunder Stone Gliding Guided Bomb, or LS GGB. The guidance design of LS PGB is also adopted for another family of Chinese PGM, the YZ series, such as YZ-102 series. These PGMs are referred to in China as precision guided bombs (PGB).
+
+LS PGB is actually an upgrade kit to modernize gravity bombs with precision / laser guidance, with the kit consisted of two modules, the guidance module and the gliding module. The guidance of the weapon is based on two other Chinese PGM, the FT PGB and LT PGB, with the former providing the inertial/satellite guidance, while the latter providing different types of laser guidance. The gliding module including the folding wings and control surfaces is made of the composite material and aluminum alloys, and comes in different versions for different sizes of gravity bombs. The LS PGB upgrade kit can be fit to iron bombs up to five tons. Advanced versions are reportedly under development, such as imaging infrared targeting system, which is based on the seekers of air-to-air missiles developed by EOTDC. When released at an altitude of eleven thousand meters, the maximum range of LS PGB is greater than sixty kilometers.
+
+Chinese media have shown photographs of FT PGB being dropped from helicopters such as Chinese Naval Ka-28, in addition to the fixed-wing platforms. However, for the laser guided subfamily of FT PGB based on LT PGB/LGB, neither nose-mounted nor mast-mounted targeting turrets have been specially developed for rotary platforms, but instead, the targeting pods for fixed-wing platforms are carried directly by Chinese helicopters for targeting. All targeting pods developed for LT LGB/PGB can be used for the laser guided subfamily of FT PGB that is based on LT LGB/PGB, and additionally, general purpose targeting pod such as FILAT can also be used. LS series GGB/PGB was first revealed to public at the 6th Zhuhai Airshow held in November 2006 with LT-6 model of the family. All models in the family of this weapon are built to Chinese GJV289A standard, the Chinese equivalent of MIL-STD-1553B. The adaptation of such military standard means that the weapon can be readily deployed on any western platforms.
+
+Small 50 kg and 100 kg variants of the LS-6 are also featured, similar to the GBU-39 Small Diameter Bomb, that can be carried in the internal weapons bays of fighters like the J-20.
+
+This equipment has proliferated into the following countries: China.
+
+Here is LS-6 Precision-Guided Bomb information for the LS-6 Chinese Precision-Guided Bomb of the System:
+The Name is LS-6.
+The Type is Precision-Guided Bomb.
+The Manufacturer is Luoyang Electro-Optics Technology Development Centre (EOTDC).
+The Length is INA.
+The Diameter is INA.
+The Weight is 50 kg version and a 100 kg version.
+The Warhead is Various gravity bombs.
+The Detonation Mechanism is Impact or Proximity.
+The Maximum Speed is Free-fall.
+The Guidance System is INS with GPS or laser guidance.
+

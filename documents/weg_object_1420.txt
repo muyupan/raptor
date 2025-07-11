@@ -1,0 +1,127 @@
+This document describes the Yasen-Class (Project 885 Yasen Class) Russian Nuclear-Powered Cruise Missile Submarine.
+
+K-560 Severodvinsk is a Yasen class nuclear-powered cruise missile submarine of the Russian Navy and the lead vessel of the class. The submarine is named after the city of Severodvinsk.
+
+The Yasen class, Russian designations Project 885 Yasen and Project 885M Yasen-M (Russian: Ясень, lit. 'ash tree', NATO reporting name: Yasen), also referred to as Graney class, are series of newest nuclear-powered cruise missile submarines designed by Malakhit and being constructed by Sevmash for the Russian Navy. Based on the Akula class and Alfa class designs, the Yasen class is projected to replace the Russian Navy's current Soviet-era nuclear attack submarines.
+
+The vessel's design is claimed to be state-of-the-art. The Yasen-class nuclear submarines are presumed to be armed with land-attack cruise missiles, anti-ship missiles, anti-submarine missiles including the P-800 Oniks SLCM, Kalibr family SLCM or 3M51 SLCM. Kalibr-PL has several variants including the 3M54K (terminal-supersonic) and 3M54K1 (subsonic) anti-ship, 91R1 anti-submarine, and the 3M14K land-attack variant. In the future, there will be also an option to install the hypersonic 3M22 Zircon cruise missiles on upgraded 855M boats. Each submarine can carry 32 Kalibr or 24 Oniks (other sources claim 40 Kalibr and 32 Oniks) cruise missiles which are stored in eight (ten for 855M) vertical launchers (additional missiles may be carried in the torpedo room at the expense of torpedoes). It will also have ten 533 mm tubes, as well as mines and anti-submarine missiles such as the RPK-7.
+
+It is the first Russian submarine class to be equipped with a spherical sonar, designated as MGK-600 Irtysh-Amfora. The device (allegedly the Irtysh/Amfora sonar system) was tested on a modified Yankee-class submarine. The sonar system consists of a spherical bow array, flank arrays, and a towed array. Due to the large size of this spherical array, the torpedo tubes are slanted. In other words, the torpedo tube outer doors are not located in the immediate bow as in the previous Akula class but moved aft. The hull is constructed from low-magnetic steel. Unlike previous Russian submarines which have a double hull, Yasen-class submarines mostly have a single hull. The Yasen class has a crew of 85 on project 885 and 64 on project 885M, suggesting a high degree of automation in the submarine's different systems. The newest U.S. Virginia-class submarines have a crew of 134 in comparison.
+
+Yasen-class submarines are the first to be equipped with a fourth-generation nuclear reactor. The reactor, built by Afrikantov OKBM, will allegedly have a 25-30 year core life and will not have to be refueled. Steam turbines are supplied by Kaluga Turbine Works. The inclusion of a new generation KTP-6 reactor on the Yasen-M boats is thought to significantly reduce their noise level: the reactor's primary cooling loop facilitates the natural circulation of water and thus doesn't require continuous operation of the main circulation pumps, which are the key noise factor on a nuclear submarine. The only other submarine classes in service with such reactor design are USN' Ohio and Virginia, employing the S8G and S9G reactors respectively.
+
+A VSK rescue pod is carried in the sail.
+
+According to admiral Foggo, the commander of the US Naval Forces Europe, the Yasen class submarines are "very quiet, which is the most important thing in submarine warfare". It's claimed that Severodvinsk is far quieter than previous Russian SSNs, capable of 20 knots while running quiet, which is equal to the Seawolf-class and inferior only to Virginia (25 knots). Other sources claim that Severodvinsk is capable of even 28 knots in silent mode
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Yasen-Class (Project 885 Yasen Class) Russian Nuclear-Powered Cruise Missile Submarine:
+The Severodvinsk is Commissioned: 2013
+Status: Active 
+Fleet: Northern.
+The Kazan is Commissioned: 2021
+Status: In Sea Trials  
+Fleet Northern Fleet.
+The Novosibirsk is Commissioned: 2021
+Status: In Sea Trials
+Fleet: Pacific Fleet.
+The Krasnoyarsk is Commissioned: 2022
+Status: Under Construction
+Fleet: Pacific Fleet.
+The Arkhangelsk is Commissioned: 2022
+Status: Under Construction
+Fleet: Northern Fleet.
+The Perm is Commissioned: 2023
+Status: Under Construction
+Fleet: Pacific Fleet.
+The Ulyanovsk is Commissioned: 2024
+Status: Under Construction 
+Fleet: Northern Fleet.
+The Voronezh is Commissioned: 2027
+Status: Under Construction 
+Fleet: Northern Fleet.
+The Vladivostok is Commissioned: 2027
+Status: Under Construction 
+Fleet: Pacific Fleet.
+
+Here is System information for the Yasen-Class (Project 885 Yasen Class) Russian Nuclear-Powered Cruise Missile Submarine:
+The Alternative designations is Yasen-Class; Project 885 Yasen Class.
+The Type is Nuclear-Powered Cruise Missile Submarine.
+The Builders is Sevmashpredpriyatiye (Severodvinsk Shipyard 199), Severodvinsk, Russia.
+The Crew is 80 (30 off. + 50 enl.).
+
+Here is Dimensions information for the Yasen-Class (Project 885 Yasen Class) Russian Nuclear-Powered Cruise Missile Submarine:
+The Length is 140 m.
+The Beam is 12 m.
+The Draft is 8.4 m.
+The Displacement, Surface is 9,500 tons.
+The Displacement, Submerged is 11,800 tons.
+
+Here is Propulsion information for the Yasen-Class (Project 885 Yasen Class) Russian Nuclear-Powered Cruise Missile Submarine:
+The Engine Name is 1 x OK-650KPM.
+The Engine Type is Pressurized water reactor powering 2 GT3A turbines.
+The Engine Power is 43,000 total shp.
+The Range is Unlimited.
+The Surface Speed is 20 kn (37 km/h).
+The Submerged Speed (Silent) is 28 kn (52 km/h).
+The Submerged Speed (Maximum) is 35 kn (65 km/h).
+The Safe Depth is 450 m.
+The Never Exceed Depth is 580 m.
+The Crush Depth is 568 m.
+The Endurance is Only limited by food and maintenance requirements..
+The Note is Yasen-class submarines are the first to be equipped with a fourth generation nuclear reactor. The reactor, built by Afrikantov OKBM, will allegedly have a 25-30-year core life and will not have to be refueled. The only other submarine classes in service with such reactor design are USN' Ohio and Virginia, employing the S8G and S9G reactors respectively..
+
+Here is Weapon Station #1 information for the Yasen-Class (Project 885 Yasen Class) Russian Nuclear-Powered Cruise Missile Submarine of the Main Weapon Systems:
+The Name is 32 x P-800 Oniks Supersonic Anti-Ship Cruise Missile.
+The Type is Supersonic Anti-Ship Cruise Missile.
+The Length is 8.9 m.
+The Diameter is 0.7 m.
+The Weight is 3,000 kg.
+The Warhead is national ver. 300 kg semi-armour piercing HE, thermonuclear; for export 200 kg semi-armour piercing HE.
+The Detonation Mechanism is delay fuze.
+The Engine is Ramjet with 4 tons of thrust.
+The Wingspan is 1.7 m.
+The Propellant is kerosene liquid fuel.
+The Operational Range is 600 km (370 mi; 320 nmi) (Oniks version for Russia)
+120 to 300 km (75 to 186 mi; 65 to 162 nmi) depending on altitude (Yakhont export version).
+The Flight Ceiling is 14,000 m.
+The Flight Altitude is 10 meters or higher.
+The Speed is Mach 2.
+The Guidance System is midcourse inertial guidance, active radar homing-passive radar seeker head.
+The Launch Platform is coastal installations, naval ships, Fixed-wing aircraft.
+The Accuracy is 1.5 m.
+The Basic Load is 32 x P-800 Oniks Supersonic Anti-Ship Cruise Missile.
+
+Here is Weapon Station #2 information for the Yasen-Class (Project 885 Yasen Class) Russian Nuclear-Powered Cruise Missile Submarine of the Main Weapon Systems:
+The Name is SS-N-15 Starfish Anti-Submarine Rocket.
+The Type is Anti-Submarine Rocket.
+The Launcher is 10 x torpedo tubes (533 mm) The tubes can launch VA-111 Shkval rocket torpedoes, SAET-60M, Type 65-76, Type 65K torpedoes and RPK-7/SS-N-16 Veter / Stallion anti-submarine rockets..
+The Length is INA.
+The Diameter is 533 mm.
+The Weight is 2,445 kg.
+The Engine is 1 x solid-fuel rocket.
+The Warhead is 1 x nuclear.
+The Maximum Speed is 1,100 km/h.
+The Range is 50 km.
+The Guidance System is Inertial; initial targeting data from the submarine's passive sonar; probably bearing/range for firing solution from active sonar..
+The Basic Load is INA.
+
+Here is Radar System information for the Yasen-Class (Project 885 Yasen Class) Russian Nuclear-Powered Cruise Missile Submarine:
+The Surface Search Radar is 1 x Snoop Pair surface search radar and a 1 x Myedvyeditsa-971 Radar..
+The Radar Intercept is 1 x Rim Hat radar intercept receiver.
+
+Here is Sonar System information for the Yasen-Class (Project 885 Yasen Class) Russian Nuclear-Powered Cruise Missile Submarine:
+The Sonar Suite is 1 x  Irtysh / Amfora integrated sonar suite..
+The Low-Frequency Passive Sonar is 1 x MGK-500 Shark Gill low-frequency passive..
+The Flank Array Sonar is 1 x Mouse Roar very low-frequency flank array..
+The Towed Array Sonar is 1 x Skat 3 towed array..
+
+Here is Protection information for the Yasen-Class (Project 885 Yasen Class) Russian Nuclear-Powered Cruise Missile Submarine:
+The Hull is The sail sits more forward in this class than found in the AKULA classes. Normal maximum operating depth is to be 520 m, with a maximum of 600 m.
+
+A submarine is equipped with a rescue chamber in the conning tower, which can accommodate the entire crew for emergencies. The chamber is ejected and surfaces within seconds. Upon reaching the surface, signal smoke is released to assist with rescue..
+The Decoys is INA.
+The Countermeasures is INA.
+The EW Intercept is 1 x electronic intercept set.
+

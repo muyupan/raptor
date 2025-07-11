@@ -1,0 +1,34 @@
+This document describes the R-168-5UN(1)E Russian VHF Manpack-Vehicular Radio Station.
+
+The R-168-5U(N)1E VHF manpack-vehicular radio station provides clear and secure radio communications in tactical command level radio networks in a harsh ECM environment. The radio station is produced as a manpack, vehicular, or fixed version.
+
+R-168-5UN(1)E replaces R-159 (16 kg), R-159M (16 kg), R-163-10U (14 kg).
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the R-168-5UN(1)E Russian VHF Manpack-Vehicular Radio Station:
+The R-168-5UNE-2 is The R-168-5UNE-2 is a VHF FH multi-channel manpack radio designed for tactical applications in Regiment, Battalion and Company networks. It supports clear or secure voice and data transmission..
+
+Here is System information for the R-168-5UN(1)E Russian VHF Manpack-Vehicular Radio Station:
+The Alternate Designation is R-168-5UN(1)E.
+The Type is VHF Manpack-Vehicular Radio Station.
+The Manufacturer is Yaroslavl Radioworks Corp.
+The Composition is Transceiver, handset «GID», handset MTT-1, rod antenna ASh-1.5, battery 10NKGTs 6-2, battery casing bag for carrying purposes, individual SPTA set, operating and technical documentation set..
+The Modes of Operation is Scanning reception at 6 preset frequencies, operation with cut in noise suppressor in FM telephony mode, tone call transmission and reception, listening watch power-saving, radio data input from recording device, simplex or two-frequency simplex at one of preset frequencies, remote control via two-wire line with a telephone from up to 500 m distance, earlier input data erasing in case of emergency..
+The Frequency Range is 30–87.975 MHz.
+The Communication Range is 10-12 km.
+The Channel Spacing is 25 kHz.
+The Data Rate is 16 kbps analogue encrypted; 1.2, 2.4, 4.8 and 16 kbps digital from external terminal.
+The Receiver Sensitivity is 1.0 μV.
+The Transmitter Output Power is 1 W (min);  8 W (max).
+The Susceptibility Level by Side Reception Channels is Not less than 80 dB.
+The Transmitter Frequency Harmonic Components Attenuation is Not less than 40 dB.
+The Continuous Operation Time from Accumulator Battery at Time Ratio Rx:Tx:Econ=1:1:8 is Not less than 16 hours.
+The Operating Temperature is - 40°С...+ 55°С.
+
+Here is Dimensions information for the R-168-5UN(1)E Russian VHF Manpack-Vehicular Radio Station:
+The Length is 210 mm.
+The Width is 90 mm.
+The Height is 200 mm.
+The Weight is 2.7 kg.
+

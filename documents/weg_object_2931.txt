@@ -1,0 +1,59 @@
+This document describes the Moskva-1 (1L265) Russian Electronic Warfare Vehicle.
+
+The Moskva-1 is a modern radar complex able to see and accompany all airborne targets at a distance of 400 km. The system analyzes the airspace and, after detecting the enemy's radio emissions, transfers the data obtained to the means of electronic warfare to the air defense and air forces to neutralize the targets.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Moskva-1 (1L265) Russian Electronic Warfare Vehicle:
+The Alternative Designation is Moskva-1; 1L265.
+The Type is Electronic Warfare Vehicle.
+The Manufacturer is KRET corporation,.
+The Family is Moskva.
+The In Service is 2014-Present.
+The Chassis is Kamaz 6350 8x8 military truck chassis.
+The Crew is 4.
+The Passenger Capacity is INA.
+The Maximum Effective Range (Airborne Targets) is 400.
+The Radar Type is Passive Radar, capturing a targets radiation, while remaining invisible to the enemy..
+The Scan Airspace is Yes.
+The Control and Reconnaissance Command Center is Yes.
+The Capability to detect Enemy Shells is Yes.
+The Recongintion Module is 1L265E.
+The Control/Radar Station is 1L266 / 1L266E.
+The Emplacement is 45.
+The Displacement is INA.
+The Operational Temperatures is 40 to 50 degrees Celsius.
+
+Here is Dimensions (Chassis) information for the Moskva-1 (1L265) Russian Electronic Warfare Vehicle:
+The Length is 9.3.
+The Width is 2.5.
+The Height is 3.25.
+The Weight, Combat (Chassis Only) is 12,450.
+
+Here is Automotive information for the Moskva-1 (1L265) Russian Electronic Warfare Vehicle:
+The Engine Name is KamAZ-740.50-360.
+The Engine Type is Diesel.
+The Engine Power is 360.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 95.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 1.4.
+The Fording Depth is 1.75.
+
+Here is Fire Control information for the Moskva-1 (1L265) Russian Electronic Warfare Vehicle:
+The Laser Target Desinator is INA.
+
+Here is Protection information for the Moskva-1 (1L265) Russian Electronic Warfare Vehicle:
+The Armor is The cab can be fitted with a class 5a armour which provides a protection against firing of small arms AKM 7.62mm.
+The Applique Armor is Available.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The IR Signature is INA.
+

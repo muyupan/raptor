@@ -1,0 +1,91 @@
+This document describes the Fajr-3 Iranian 240mm Multiple Rocket Launcher (MRL).
+
+HEZBOLLAH Proliferation. The Fajr-3 (rarely Fadjr-3) is an Iranian heavy 240mm intermediate-range multiple rocket launcher. The Fajr-3 is a license-built copy, with slight modifications, of a North Korean MRL called the M-1985. The Fajr-3 was introduced in the 1990s and has since been exported to Hamas and Hezbollah.
+
+The Fajr-3 launcher fires twelve 5.2 meters long, 240-millimeter-caliber Fajr-3 artillery rockets, with a range of 43 kilometers, weighing 407 kilograms each and carrying 90-kilogram fragmentation warheads with 45 kg of high explosive (HE). Fajr means 'dawn' in Arabic.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of), Non-State Actors.
+
+Here is Variants information for the Fajr-3 Iranian 240mm Multiple Rocket Launcher (MRL):
+The Fadjr-5 is Fadjr 5 is a larger and more powerful version of the Fadjr 3. It has 4 launch tubes for 333 mm artillery rockets. It was developed in the 1990s..
+
+Here is Dimensions information for the Fajr-3 Iranian 240mm Multiple Rocket Launcher (MRL):
+The Length is 10.5.
+The Width is 3.3.
+The Height is 2.6.
+The Weight, Combat is 15.
+The Ground Pressure is INA.
+
+Here is Automotive information for the Fajr-3 Iranian 240mm Multiple Rocket Launcher (MRL):
+The Engine Name is Mercedes-Benz, Model: INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Cruising Range is 600.
+The Speed, Maximum Road is 60.
+The Speed, Off-Road is 25.
+The Speed Maximum Swim is INA.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.5.
+The Trench is 0.5.
+The Fording Depth is 1.
+
+Here is Communications information for the Fajr-3 Iranian 240mm Multiple Rocket Launcher (MRL):
+The Primary is INA.
+
+Here is Rocket Launcher information for the Fajr-3 Iranian 240mm Multiple Rocket Launcher (MRL) of the Rocket System:
+The Name is INA.
+The Launcher Type is Tube Launcher.
+The Control Type is Manual.
+The Length is 10.
+The Width is 2.5.
+The Height is 3.34.
+The Diameter is 240.
+The Weight is 15,000.
+The Number of Tubes is 12.
+The Firing Range is 43.
+The Basic Load is 24, the Fadjr-3 carries one complete reload..
+The One Rocket Launch is every 4-8 seconds.
+The Full Salvo Duration is 48 - 96 seconds.
+The Reload Time is 12-15 min.
+The Maximum Elevation is +57.
+The Minimum Elevation is 0.
+The Traverse Range is 190.
+The Traverse Left is 90.
+The Traverse Right is 100.
+The Note is Other types of warheads exist, including incendiary, smoke and chemical..
+
+Here is Rocket information for the Fajr-3 Iranian 240mm Multiple Rocket Launcher (MRL) of the Rocket System:
+The Name is INA.
+The Type is Intermediate-Range Multiple Launch Rocket.
+The Caliber is 240.
+The Length is 5.2.
+The Diameter is 240.
+The Weight is 407.
+The Warhead Type is HE-FRAG Warhead.
+The Warhead Weight is 85.
+The Firing Range is 43.
+The Guidance System is Unguided spin-stabilized rockets.
+The Burn Time is 4 seconds.
+The Speed is 930.
+
+Here is Fire Control information for the Fajr-3 Iranian 240mm Multiple Rocket Launcher (MRL):
+The Name is INA.
+The Computerized FCS is The US Army reports that the Fajr-3 has no fire-control system, while Iran's Defense Industries Organization reports that the Fajr-3 has a computer system with indigenous software that can calculate range and azimuth..
+The Ballistic Computer is Yes.
+The Direct Fire is No.
+The Indirect Fire is Yes.
+The Position Location System is INA.
+The Rocket Stabilizer is Yes, Stabilizer jacks are lowered to the ground and windows are covered prior to launch in order to protect the crew from debris created by the rocket engines..
+
+Here is Protection information for the Fajr-3 Iranian 240mm Multiple Rocket Launcher (MRL):
+The Hull Armor is Unarmored.
+The Turret Armor is Unarmored.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

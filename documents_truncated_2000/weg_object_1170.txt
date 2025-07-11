@@ -1,0 +1,80 @@
+This document describes the JRTC VISMOD: Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS).
+
+Starstreak is a British short range man-portable air-defense system (MANPADS) manufactured by Thales Air Defence (formerly Shorts Missile Systems), in Belfast. It is also known as Starstreak HVM (High Velocity Missile). After launch, the missile accelerates to more than Mach 4, making it the fastest short-range surface-to-air missile in the world. It then launches three laser beam riding submunitions, increasing the likelihood of a successful hit on the target. Starstreak has been in service with the British Army since 1997. In 2012 Thales rebranded the system under the ForceSHIELD banner.
+
+The Starstreak missile is transported in a sealed launch tube. This tube is attached to an aiming unit for firing. The operator tracks the target using the aiming unit's optically stabilized sight. The process of tracking the target allows the aiming unit to compute the right trajectory to bring the missile together with the target. The operator can indicate wind direction to the unit and, in the case of a long range target, provide superelevation. When the initial tracking is complete, the operator fires the missile by pressing a button.
+
+The missile then fires the first-stage rocket motor, which launches the missile from the tube â but burns out before leaving the tube to protect the operator. Four meters away from the operator, when the missile is a safe distance away, the second stage fires, which rapidly accelerates the missile to burn out velocity of more than Mach 4. As the second stage burns out, three dart sub-munitions are released.
+
+The dart housing is made from a tungsten alloy. The darts are each 396 millimetres (15.6 in) long with a diameter of 22 millimetres (0.87 in) and weigh about 900 grams (32 oz). Around half the weight of each dart approximately 450 g (16 oz), is its explosive charge, detonated by a delayed-action, impact activated fuze. Each dart consists of a rotating fore-body with two canard fins attached to a non-rotating rear assembly which has four fins. The rear assembly of each dart also houses the electronics that guide the missile, including a rearwards facing sensor.
+
+The darts do not home in on laser energy reflected from the target but instead the aiming unit projects two laser beams which paint a two dimensional matrix upon the target. The lasers are modulated and by examining these modulations the sub-munition's sensor can determine the dart's location within the matrix, the dart is then steered to keep it in the center of the matrix. The sub-munitions steer by briefly decelerating the rotating fore-body with a clutch. The front wings then steer the missile in the appropriate direction. The three sub-munitions fly in a formation about 1.5 meters in radius, and have enough kinetic energy to maneuver to meet a target evading at 9 g at 7,000 meters.
+
+Earlier laser guidance systems used a single beam that had to be kept on the target at all times, the missile homing in on laser energy reflected off the target, if it moved off the target, the reflection would end and guidance would be lost until the target was regained. The problem could be reduced by making the laser's beam wider, but only at the cost of lowering accuracy and reducing the amount of energy being reflected. Starstreak's system allows for the beam area to be much larger than the target while retaining pinpoint accuracy.
+
+On impact with the target, a delayed action fuse is triggered. This gives time for the projectile to penetrate the target before the explosive warhead detonates. The tungsten housing is designed to fragment and produce maximum damage inside the target.
+
+A demonstration was conducted in September 1999 that showed the missile being used against an FV432 armored personnel carrier, showing the missile's effectiveness as a surface-to-surface weapon. Each sub-munition dart travelling at 4,500 km/h (1,250 m/s, 4,100 ft/s, 2,800 mph) has comparable kinetic energy to a shell from a Bofors 40 mm gun and probably has sufficient energy to penetrate the front armor of an infantry fighting vehicle. However, it lacks the armor penetration capabilities of a purpose-built anti-tank guided missile or of a dual purpose missile (such as the Air Defense Anti-Tank System).
+
+This equipment has proliferated into the following countries: Indonesia, Malaysia, South Africa, Thailand, United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the JRTC VISMOD: Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS):
+The Starburst is Javelin SAM launcher adapted for Starstreak LBR guidance- in production.
+The Lightweight Multiple Launcher (LML) is Pedestal launcher for three missiles. The launcher can also mount on a light vehicle, e.g., TUV.  A demonstrator is LML on a Panhard tactical truck..
+The Starstreak II is Improved launcher uses Starstreak or Starstreak II missile. It has an auto-tracker for hands-free guidance.  It was fielded in 2010..
+The Starstreak Lightweight Vehicle (LWV) is Land Rover truck converted into an SP SAM system with a 6-canister launcher, ADAD auto-tracker, and TV/ thermal FCS.  This launcher can be mounted on other vehicles..
+The Armored Starstreak or (SP HVM) is Vehicle is a Stormer tracked APC chassis, with an 8-missile launcher. The passive IR fire control system uses ADAD, an auto-tracker and thermal sight. The launcher can be mounted on other vehicles..
+The Seastreak is Single-stage missile naval variant in a 12-missile launcher, with mm-wave radar FCS..
+The Thor is British Multi-Mission Air Defense System is a RWS, with 4 missile launchers, TV, FLIR, and an auto-tracker. Weighing .5 mt, it mounts on trucks, vans, TUVs, APCs, etc., with a remote operator. Designed for Starstreak, launchers, it can also mount other MANPADS, and ATGMs, such as Ingwe, TOW, HELLFIRE, Mokopa, Spike, etc..
+The Lightweight Multi-Role Missile/LMM is A multi-role missile options with a single 3-kg tandem (HEAT/HE) warhead and proximity fuse. At 13 kg, the lower-cost missile flies 8-km at 1.5 Mach. It was due in 2013 and was successfully launched by a Camcopter S-100 UCAV variant. Other projected upgrades are semi-active laser- homing and/or dual-mode (LBR/SAL-H)..
+The Low-cost air defense/anti-armor (multi-role) system. is Optional use: as a low-cost air defense/anti-armor (multi-role) system, STARSTREAK can be employed against ground targets, such as light armored vehicles, and snipers in bunkers or buildings. The missile and its darts, with a unique combination of penetrator and following frag-he, have been successfully tested against vehicle targets. With a missile cost of 1/2 to 1/3 of competing MANPADS, the system could be used as a fire support asset to complement ATGM launchers and vehicle weapons.
+
+Here is System information for the JRTC VISMOD: Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS):
+The Alternative Designation is ForceSHIELD.
+The Country of Origin is Great Britain..
+The Crew  is 2.0.
+The Reaction Time  is Less than 6.
+The Reload Time  is Less than 25 est.
+The Time between Launches  is Less than 30 sec.
+The Primary Targets is Fixed wing aircraft, rotary wing aircraft, cruise missiles, and vehicles.
+The Combat Load is 5.
+The Combat Load, Dismount is 3.
+The Fire on Move is No.
+The Maximum Effective Range is 7.
+The Flight Speed is Mach 4.
+
+Here is Dimensions information for the JRTC VISMOD: Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS):
+The Missile Weight is 16.8.
+The Warhead Weight is 0.9.
+The Tripod Weight is 16.
+The Traverse Head Weight is 19.5.
+The Sighting System Weight is 9.
+The Thermal Sight Weight is 6.
+The Length is 1.4.
+The Missile Diameter is 127.
+The Launch Tube Diameter is 274.
+
+Here is Day Sight information for the JRTC VISMOD: Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS) of the Fire Control System:
+The Name is Avimo stabilized optical sight with lead bias system.
+The Acquisition Range  is 7000+.
+The Field of View  is INA.
+
+Here is Night Sight information for the JRTC VISMOD: Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS) of the Fire Control System:
+The Name is Thales clip-on thermal sight.
+The Acquisition Range  is 4 to 5 est.
+
+Here is Starstreak Missile information for the JRTC VISMOD: Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS) of the Ammunition:
+The Type is Three 25mm darts: Tungsten KE tip and case; HE fill.
+The Altitude  is 0-5000.
+The Flight Time  is 5 to 7.
+The Fuze Type is Contact with time delay.
+The Guidance is Laser beam rider SACLOS.
+The Penetration  is 120+ all LAVs (equal to 3 x 40- mm APFSD-T rds) HE detonates after for frangible effects.
+The Probability of Hit is 60% FW, more than 95% helicopters (each dart 67% for helicopters).
+The Propulsion is Canister launch booster, bus missile, and 3 darts (sub-missiles).
+The Range, Maximum  is 7000m (guided).
+The Range, Minimum  is 300.
+The Self-Destruct Range is 5.5.
+The Speed  is 1364m/s, Mach 4.
+The Other is Starstreak II: Improved missile has 8-km range and better precision. Fielded 2010.
+

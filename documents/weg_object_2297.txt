@@ -1,0 +1,42 @@
+This document describes the Helkir Austrian Anti-Helicopter Mine.
+
+The Helkir is an anti-helicopter mine developed by the Austrian company Hirtenberger. It uses an IR sensor and an acoustic sensor to detect airborne targets. Once the mine is armed and ready to engage, the acoustic sensor listens for a valid noise input. This enables the IR sensor which is located coaxially to the warhead. When the IR sensor detects a hot signature, the mine blasts off fragments that can penetrate up to 6 mm of armored steel at 50 meters and 2 mm of mild steel at 150 meters. The mine is active for a period of 1 to 120 days, after which it returns to a safe mode.
+
+Helkir, as well as other mines developed by Hirtenberger, like the APM-1 and the APM-2 anti-personnel directional mines (discontinued in 1994), do not appear on the company's current website.
+
+Here is System information for the Helkir Austrian Anti-Helicopter Mine:
+The Country of Manufacture is Austria.
+The # of User Countries is 1.
+The Emplacement Method is manual.
+The Armor Penetration (mm)/ Kill Mechanism is 6 @ 50 m
+2 @ 150 m.
+The Maximum Effective Range is 500.
+The Detectability/ Composition is visual.
+The Target Velocity is INA.
+The Fuze Type is dual acoustic & IR.
+The Warhead Type/Total Weight (kg) is Total weight: 43 kg.
+The Status is in production.
+The Detonation Mechanism is Acoustic & IR sensors.
+
+Here is Detectability information for the Helkir Austrian Anti-Helicopter Mine:
+The Ready is Visual.
+
+Here is Explosive Composition information for the Helkir Austrian Anti-Helicopter Mine:
+The Type is INA.
+The Weight is 20.
+
+Here is Fuze/Sensor information for the Helkir Austrian Anti-Helicopter Mine:
+The Types is Dual, Acoustic, and IR.
+The Number of Fuze Wells is INA.
+The Resistant to Explosive Neutralization is Yes.
+
+Here is Performance information for the Helkir Austrian Anti-Helicopter Mine:
+The Armor Penetration is 6 @ 50 m or 2 @ 150 m.
+The Effect is Directed Fragmentation.
+The Effective Range is 150.
+The Target Speed is 250.
+The Emplacement Method is Manual.
+The Controllable (remotely detonated) is Yes.
+The Antihandling Device is Yes.
+The Self-destruct is INA.
+

@@ -1,0 +1,122 @@
+This document describes the 2S7 Pion (M1975) Russian 203mm Self-Propelled Gun (SPG).
+
+The 2S7 Pion ("peony") or Malka is a Soviet self-propelled 203mm heavy artillery. "2S7" is its GRAU designation.
+
+It was identified for the first time in 1975 in the Soviet Army and so was called M-1975 by NATO (the 2S4 Tyulpan also received the M-1975 designation), whereas its official designation is SO-203 (2S7). Its design is based on a T-80 chassis carrying an externally mounted 2A44 203 mm gun on the hull rear. The 203-mm 2S7 Pion (M1975) (2S7/SO-203) is the largest tracked self-propelled gun in the Russian inventory.
+
+This equipment has proliferated into the following countries: Angola, Azerbaijan, Belarus, CFE Treaty, Georgia, North Korea (Democratic People's Republic of Korea), Russian Federation, Slovakia, Ukraine, Uzbekistan.
+
+Here is Variants information for the 2S7 Pion (M1975) Russian 203mm Self-Propelled Gun (SPG):
+The 2S7 Pion is The 2S7 Pion is the original variant of the 2S7 family, it was originally designed to be capable of delivering a small nuclear payload against NATO forces. Its primary role on a modern battlespace is that of long-range fire support..
+The 2S7M Malka is An improved variant, which entered service in 1983, improved the gun's fire control systems, increased the rate of fire from 1.5 to 2.5 rds/min to 2.5 rounds per minute, and increased the ammunition load to eight projectiles..
+The BTM-4 Trench Digger is INA.
+
+Here is System information for the 2S7 Pion (M1975) Russian 203mm Self-Propelled Gun (SPG):
+The Alternative Designation is 2S7 Pion; M-1975 (NATO designation).
+The Type is Self-Propelled Gun (SPG).
+The Caliber is 203 mm.
+The Manufacturer is Kirov Factory, St. Petersburg, Russia (chassis)
+ Barrikady Plant, Volgograd, Russia (gun and mount).
+The In Service is 1976-Present.
+The Family is S27.
+The Crew is 7.
+The Chassis is Obiekt 216.
+The Emplacement Time is 5-6.
+The Displacement Time is 3-5.
+
+Here is Dimensions information for the 2S7 Pion (M1975) Russian 203mm Self-Propelled Gun (SPG):
+The Length, Gun Forward is 13.12.
+The Length, Hull is 10.5.
+The Width is 3.38.
+The Height is 3.0.
+The Weight, Combat is 46,500 kg.
+The Ground Pressure is 0.8kg/cm² (78453Pa) (11.38psi).
+The Ground Clearance is 0.4 m.
+
+Here is Automotive information for the 2S7 Pion (M1975) Russian 203mm Self-Propelled Gun (SPG):
+The Engine Name is Model V-46-I.
+The Engine Type is V-12 Turbocharged Diesel.
+The Engine Power is 840.
+The Transmission is Manual.
+The Cruising Range is 500.
+The Speed, Maximum Road is 51.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 40 %.
+The Side Slope is 20 %.
+The Vertical Step is 0.7.
+The Trench is 2.5.
+The Fording Depth is 1.2.
+
+Here is Communications information for the 2S7 Pion (M1975) Russian 203mm Self-Propelled Gun (SPG):
+The Primary is R-123M radio system.
+The Secondary is R-173 radio system.
+The Crew Communcation System is 1V116 crew communication system.
+
+Here is System information for the 2S7 Pion (M1975) Russian 203mm Self-Propelled Gun (SPG) of the Main Gun:
+The Name is 1 x 2A44, 203mm Cannon.
+The Type is Self-Propelled Gun (SPG).
+The Caliber is 203 mm.
+The Length, Barrel is 56.2 Caliber.
+The Weight, Barrel is 7,800.
+The Barrel Life is 450.
+The Max Rate of Fire is 1.5.
+The Effective Firing Range is 37.5-55.
+The Travel Lock is Manually operated travel lock.
+The Max Elevation is +60.
+The Min Elevation is -0.
+The Traverse Range is 30.
+The Traverse Left is 15.
+The Traverse Right is 15.
+The Loader Type is Load Assisting System.
+The Muzzle Brake is No.
+The Fume Extractor is No.
+The Breech Mechansim is Two-cycle screw type.
+The Recoil Braking is Hydraulic.
+The Recuperation is Pneumatic.
+The Note #1 is The 2S7 can fire ordinary and rocket-assisted HE-FRAG projectiles, chemical and nuclear projectiles. A standard HE-FRAG projectile,.
+The Note #2 is Regular Rates of Fire: eight rounds in five minutes; 15 rounds in 10 minutes; 24 rounds in 20 minutes; 30 rounds in 30 minutes; 40 rounds in 60 minutes..
+
+Here is Ammunition (Option 1) information for the 2S7 Pion (M1975) Russian 203mm Self-Propelled Gun (SPG) of the Main Gun:
+The Type is HE FRAG.
+The Caliber is 203.
+The Muzzle Velocity is 960.
+The Projectile Weight is 110.
+The Filler Weight is 17.8.
+The Charge Weight is 44.
+The Maximum Range is 37.5.
+The Basic Load is 8.
+
+Here is Ammunition (Option 2) information for the 2S7 Pion (M1975) Russian 203mm Self-Propelled Gun (SPG) of the Main Gun:
+The Type is RAP.
+The Caliber is 203.
+The Muzzle Velocity is INA.
+The Projectile Weight is 103.
+The Filler Weight is 13.8.
+The Charge Weight is 44.
+The Maximum Range is 47.5.
+The Basic Load is 8.
+
+Here is Fire Control information for the 2S7 Pion (M1975) Russian 203mm Self-Propelled Gun (SPG):
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Vehicle Commander is No.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes, a large recoil spade lowered to the ground, provides stability at all angles and charges..
+The Collimator is K-1.
+The Telescope is PG-1M panoramic day telescope.
+The Indirect Fire is Yes.
+The Direct Fire is Yes, using the OP4M-87 telescope..
+
+Here is Protection information for the 2S7 Pion (M1975) Russian 203mm Self-Propelled Gun (SPG):
+The Hull Armor is All-welded steel armor (10mm thickness), which provides protection against small arms fire and shell splinters..
+The Turret Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade (Dozer blade) is Yes.
+The NBC Protection is Yes,  The vehicle also includes an NBC protection system as well as anti-radiation linings that reduce the effects of radiation by three times..
+The Smoke Equipment is INA.
+The Note is Additionally, the 2S7 can carry a Russian Strela-2 man-portable SAM system.
+

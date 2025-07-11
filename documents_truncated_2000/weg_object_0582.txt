@@ -1,0 +1,92 @@
+This document describes the SLWH Pegasus Singapore 155mm Towed Howitzer.
+
+The Singaporean Light Weight Howitzer is a 155-mm 39 caliber towed howitzer. It is commonly referred to as Pegasus. Introduced in 2005, Pegasus weighs approximately 5.4 tons and is transportable by a CH-47 helicopter or it can be transported by a C-130 Hercules aircraft. It has a recoil management design that reduces the recoil by approximately one third. The Pegasus uses a a firing platform base rather than a split trail carriage to decrease the times for emplacement and displacement.
+
+Pegasus has the ability to self-traverse short distances (when minor firing position changes are required) at a maximum speed of 12 km/h via an onboard diesel engine
+
+The Pegasus is equipped with an onboard Lombardini 9LD625-2 air cooled diesel engine auxiliary power unit (APU) delivering a power output of 21kW. The APU provides power for self traverse over short distances and an ammunition loading system that facilitates automatic loading and reduces crew fatigue.
+
+This equipment has proliferated into the following countries: Singapore.
+
+Here is System information for the SLWH Pegasus Singapore 155mm Towed Howitzer:
+The Alternative Designation is LWSPH, Pegasus.
+The Type is 155mm Towed Howitzer.
+The Manufacturer is Singapore Technologies (ST) Kinetics.
+The In Service is 2005-Present.
+The Crew is 8.
+The Displacement Time is 2.5.
+The Emplacement Time is 2.5.
+The Carriage is Firing Platform Base.
+
+Here is Dimensions information for the SLWH Pegasus Singapore 155mm Towed Howitzer:
+The Length, Traveling is 10.
+The Length, Barrel is 3.78.
+The Width is 2.75.
+The Height is 2.4.
+The Ground Clearance is INA.
+The Weight, FIring is 5,800.
+The Weight, Traveling is 5,400.
+
+Here is Performance information for the SLWH Pegasus Singapore 155mm Towed Howitzer of the Automotive Requirement:
+The Speed Towed Roads is 70.
+The Speed Towed Cross-Country is 50.
+The Gradient is 30.
+The Side Slope is 30.
+The Turning Radius Towed is 21  curb to curb/25  wall to wall.
+
+Here is Auxiliary Power Unit (APU) information for the SLWH Pegasus Singapore 155mm Towed Howitzer of the Automotive Requirement:
+The Engine is Lombardini 9LD625-2 air cooled diesel engine.
+The Power is 21.
+The Suspension is 4x4 space frame chassis with power assisted steering.
+The Front is Independent multilink with hydropneumatic struts.
+The Rear is Independent  trailing arm with hydropneumatic struts.
+The Brakes is 4 wheel disc.
+The Speed is 12.
+The Turning Radius is 21 m curb to curb.
+
+Here is Howitzer information for the SLWH Pegasus Singapore 155mm Towed Howitzer of the Howitzer System:
+The Name is Singaporean 155mm Light Weight Howitzer Pegasus.
+The Type is 155.
+The Length, Barrel is 3.78.
+The Breech Type is interrupted screw.
+The Loader Type is Semi automatic.
+The Muzzle Brake Type is Double Baffle.
+The Bore Type is 155-mm/39-cal rifled.
+The Maximum Elevation is +70.
+The Minimum Elevation is -11.
+The Traverse Range is 22.5 to either side of center line.
+The Traverse Right is 22.5.
+The Traverse Left is 22.5.
+The Recoil System is hydropneumatic.
+The Maximum Effective Range is 30,000.
+The Rate of Fire, Burst is 3 rounds, 24 seconds.
+The Rate of Fire, Normal is 4 rounds/minute.
+The Rate of Fire, Sustained is 2 rounds/minute for 30 minutes.
+
+Here is Ammunition (Option 1) information for the SLWH Pegasus Singapore 155mm Towed Howitzer of the Howitzer System:
+The Name is M107.
+The Type is Frag-HE.
+The Caliber is 155.
+The Projectile Length is INA.
+The Projectile Weight is INA.
+The Muzzle Velocity is INA.
+The Basic Load is INA.
+The Shell Type is Separate-loading bagged charge.
+
+Here is Ammunition (Option 2) information for the SLWH Pegasus Singapore 155mm Towed Howitzer of the Howitzer System:
+The Name is ERFB-BB.
+The Type is Frag-HE.
+The Caliber is 155.
+The Projectile Length is INA.
+The Projectile Weight is INA.
+The Muzzle Velocity is INA.
+The Basic Load is INA.
+The Shell Type is Separate-loading bagged charge.
+
+Here is Fire Control information for the SLWH Pegasus Singapore 155mm Towed Howitzer:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Collimator is INA.
+

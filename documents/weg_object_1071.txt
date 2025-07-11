@@ -1,0 +1,63 @@
+This document describes the Y-20 Kunpeng (Chubby Girl) Chinese Strategic Transport Aircraft.
+
+The Xi'an Y-20 (Chinese: 运-20; pinyin: Yùn-20; lit.: 'transport-20') is a large military transport aircraft. The project is being developed by Xi'an Aircraft Industrial Corporation and was officially launched in 2006. The official codename of the aircraft is Kunpeng (Chinese: 鲲鹏), After the mythical bird that can fly for thousands of miles described in the ancient Chinese Taoist classic Zhuangzi.  However, within the Chinese aviation industry itself, the aircraft is more commonly known by its nickname Chubby Girl (Chinese: 胖妞), because its fuselage is much wider compared to other Chinese aircraft previously developed in China.
+
+The Y-20 uses components made of composite materials. The composites are produced in China, whereas in the past they had to be imported. The Y-20's cabin incorporates flame-retardant composites developed by the 703 Institute of the China Aerospace Science and Technology Corporation (CASC). The 703 Institute was created in March 2009 with development taking three years. The performance of the composites is reportedly comparable to those that fulfill FAR Part 25.835. The 703 Institute achieved another milestone by establishing a comprehensive Chinese evaluation and certification system for aircraft composite materials based on international standards.
+
+The Y-20 is the first cargo aircraft to use 3D printing technology to speed up its development and to lower its manufacturing cost. Model-based definition (MBD) is also used, and it's the third aircraft to utilize MBD technology in the world, after Airbus A380 (2000) and Boeing 787 (2005). A project team to implement MBD for Y-20 program was formally formed in October 2009, and after the initial success in application on the main landing gear, MBD application was expanded to the entire aircraft and became mandatory for all contractors and subcontractors of the Y-20 program. The implementation of MBD was initially met with strong resistance, with only a third of suppliers agreeing to implement MBD. However, the general designer of Y-20 declared that those who refused to implement MBD will be banned from participating in the Y-20 program, thus forcing everyone to comply, resulting in increases in productivity. The implementation of MBD greatly shortened the time required, for example, without MBD, installation of wings takes a month or two, but with MBD adopted, the time is drastically shortened to just a few hours, and in general, the design work is reduced by 40%, preparation for production reduced by 75%, and manufacturing cycle reduced by 30%.
+
+In addition to 3D printing, the Y-20 is also the first aircraft in China to adopt associative design technology (ADT) in its development. Headed by the deputy general designer of structural design, Mr. Feng Jun (冯军), the initial attempt to implement ADT actually failed after two months spent on the application on the nose section. It was only after the second attempt which took another three months on the application on wings did ADT became successful. The adaptation of ADT greatly shortened the development time by at least eight months, and the modification of the wing design that previously took a week is shortened to half a day.
+
+Cargo is loaded through a large aft ramp that accommodates rolling stock. The Y-20 incorporates a shoulder wing, T-tail, rear cargo-loading assembly, and heavy-duty retractable landing gear, consisting of three rows, with a pair of wheels for each row, totaling six wheels for each side. The structural test was completed in 194 days as opposed to the 300 days originally planned, thanks to the successful development and application of an automated structural strength analysis system. In comparison, similar work for the Xian JH-7 took a year. According to the deputy general designer, the shortest take-off distance of the Y-20 is 600 to 700 meters. Y-20 incorporates a total of four LCD EFIS, and the development of EFIS for Y-20 utilizes virtual reality via helmet-mounted display. Eight types of different relays used on Y-20 are developed by Guilin Aerospace Co., Ltd. a wholly own subsidiary of China Tri-River Aerospace Group Co., Ltd.(中国三江航天集团), which is also known as the 9th Academy of the China Aerospace Science and Industry Corporation (CASIC).
+
+It was reported that the Y-20 started ground testing in December 2012, including runway taxi tests. The aircraft made its maiden flight lasting one hour on January 26, 2013. During landing in first flight, it was reported that the Y-20 prototype bounced once before finally settling on runway due to high landing speed. In December 2013, a new Y-20 prototype took to the sky.
+
+On 6 February 2016, the Y-20 was flown for the first time and pictures of the fifth prototype (serial number 788) in flight appeared on Chinese military web pages. Other known prototypes carry identification numbers 781, 783 and 785. On 27 January 2016, former Chinese test pilot, Xu Yongling, had reported in a Xinhua article that Chinese aviation industry officials had stated that the Y-20 "had completed development" at the end of 2015. In June 2016, the first two Xian Y-20 aircraft were delivered to the People's Liberation Army Air Force (PLAAF)
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Y-20 Kunpeng (Chubby Girl) Chinese Strategic Transport Aircraft:
+The Y-20A is Base variant, with Soloviev D-30KP-2 engines..
+The Y-20B is Variant with WS-20 engines.
+The Y-20U Aerial Tanker is Aerial tanker variant under development. Planned to be able to carry about 90 tons of fuel, similar to the Il-78..
+The Y-20 AEW is Airborne early warning and control variant under development..
+The YY-20 is The YY-20 now likely provides China’s PLA Air Force and PLA Naval Aviation with greater flexibility, endurance, and range, not only for strike aircraft but also for critical enablers such as airborne early warning and control (AEW&C) aircraft..
+
+Here is System information for the Y-20 Kunpeng (Chubby Girl) Chinese Strategic Transport Aircraft:
+The Alternate Designation(s) is Y-20 Kunpeng; Nickname: Chubby Girl.
+The Primary Function / Type is Strategic Airlift Aircraft.
+The Manufacturer is Xi'an Aircraft Industrial Corporation.
+The Crew is 3 (pilot, co-pilot, loadmaster).
+The Troops is 140.
+The Number of Engines is 4.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the Y-20 Kunpeng (Chubby Girl) Chinese Strategic Transport Aircraft:
+The Length is 47 m.
+The Height is 15 m.
+The Width (Wing Span) is 50 m.
+The Wing Area is 310 sq m.
+The Empty Weight is 100,000 kg.
+The Maximum Takeoff Weight is 220,000 kg.
+The Payload Weight is 66,000 kg.
+
+Here is Automotive information for the Y-20 Kunpeng (Chubby Girl) Chinese Strategic Transport Aircraft:
+The Engine Name is 4 x Soloviev D-30KP-2.
+The Number of Engines is 4.
+The Engine Type is Turbofans.
+The Engine Power is 26,455 lb (12,000 kg) static thrust.
+The Maximum Speed is 800 km/h.
+The Service Ceiling is 13,000 m.
+The Maximum Range,  w/51-ton payload is 5,200 km.
+The Maximum Range, w/55-ton payload is 4,500 km.
+The Maximum Range, w/66-ton payload is 3,700 k.
+The Ferry Range is 8,000 km.
+
+Here is Protection information for the Y-20 Kunpeng (Chubby Girl) Chinese Strategic Transport Aircraft:
+The Stealth Properties is None.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

@@ -1,0 +1,104 @@
+This document describes the 2S4 Tyulpan (M-1975) Russian 240mm Self-Propelled Heavy Mortar.
+
+2S4 Tyulpan (M-1975) 240mm Self-Propelled Heavy Mortar is the largest mortar system in use today. The 2S4 Tyulpan design is based on the GM-123 chassis carrying an externally mounted M-240 240 mm breech-loading mortar on the rear of the hull. The 2S4 uses an autoloader of the sort. It has two automated drum-type magazines, capable of holding up to 40 standard high-explosive rounds or 20 long-range rocket-assisted rounds. The rounds are fed to the top of the carrier, where they are placed on a track. The mortar then tilts to the horizontal position. The breech opens and a ramming device pushes the round into the breach. The breach closes and the mortar tilts into the firing position.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation, Syria, Ukraine.
+
+Here is System information for the 2S4 Tyulpan (M-1975) Russian 240mm Self-Propelled Heavy Mortar:
+The Alternative Designation is 2S4 Tyulpan; NATO: M-1975.
+The Type is Self-Propelled Heavy Mortar System.
+The Caliber is 240 mm.
+The Manufacturer is Uraltransmash.
+The Chassis is The 2S4 Tyulpan designs is based on the GM-123 chassis carrying an externally mounted M-240 240 mm breech-loading mortar on the rear of the hull..
+The Crew is 4.
+The Emplacement Time is 25 minutes.
+The Displacement Time is 25 minutes.
+
+Here is Dimensions information for the 2S4 Tyulpan (M-1975) Russian 240mm Self-Propelled Heavy Mortar:
+The Length is 7.94 m.
+The Width is 3.25 m.
+The Height is 3.225 m.
+The Weight, Combat is 27,500 kg.
+The Ground Pressure is 0.6kg/cm² (58840Pa) (8.53psi).
+The Ground Clearance is 0.40 m.
+
+Here is Automotive information for the 2S4 Tyulpan (M-1975) Russian 240mm Self-Propelled Heavy Mortar:
+The Engine Name is V-59.
+The Engine Type is V-12, diesel.
+The Engine Power is 520.
+The Power-to-Weight Ratio is 18.90 hp/t.
+The Fuel Capacity is 850 liters.
+The Maximum Speed is 60 km/h.
+The Range is 500 km.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Obstacle is 1.10 m.
+The Trench is 2.79 m.
+
+Here is System information for the 2S4 Tyulpan (M-1975) Russian 240mm Self-Propelled Heavy Mortar of the Main Weapon System:
+The Name is 1 × hull mounted 240mm 2B8 mortar.
+The Type is Heavy Mortar.
+The Caliber is 240 mm.
+The Barrel Length is INA.
+The Barrel Weight is INA.
+The Elevation is + 50 to + 80 degrees.
+The Traverse is 20 - 82 degrees.
+The Rate of Fire is 1 rpm.
+The Maximum Firing Range, HE Round is 9.6 km.
+The Maximum Firing Range, Rocket Assisted is 18 km.
+
+Here is Ammunition (Option 1) information for the 2S4 Tyulpan (M-1975) Russian 240mm Self-Propelled Heavy Mortar of the Main Weapon System:
+The  is 3OF-864.
+The Type is HE Fragmentation Bomb.
+The Caliber is 240 mm.
+The Projectile Weight is 130 kg.
+The Maximum Firing Range is 9,650 m.
+The Minimum Firing Range is INA.
+The Basic Load is The shells are stored in two automated drum-type storage areas. A total of 40 ordinary or 20 rocket-assisted shells are carried. It can also use ground ammunition..
+
+Here is Ammunition (Option 2) information for the 2S4 Tyulpan (M-1975) Russian 240mm Self-Propelled Heavy Mortar of the Main Weapon System:
+The Name is INA.
+The Type is HE Rocket Assisted.
+The Caliber is 240 mm.
+The Projectile Weight is 228 kg.
+The Maximum Firing Range is 18,000 m.
+The Minimum Firing Range is 800 m.
+The Basic Load is The shells are stored in two automated drum-type storage areas. A total of 40 ordinary or 20 rocket-assisted shells are carried. It can also use ground ammunition..
+
+Here is System information for the 2S4 Tyulpan (M-1975) Russian 240mm Self-Propelled Heavy Mortar of the Coaxial Weapon System:
+The Name is 1 × 7.62mm PKT machine gun.
+The Type is General-Purpose Machine Gun (Roof Mounted).
+The Caliber is 7.62.
+The Length is 1,098 mm.
+The Barrel Length is 772 mm.
+The Weight is 7.7 kg.
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 700–800 rounds/min.
+The Muzzle Velocity is 825 m/s.
+The Maximum Firing Range is 4,000 m.
+The Effective Firing Range is 1,500 m.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the 2S4 Tyulpan (M-1975) Russian 240mm Self-Propelled Heavy Mortar of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×54mmR.
+The Basic Load is 1,500 Rounds.
+
+Here is Fire Control System information for the 2S4 Tyulpan (M-1975) Russian 240mm Self-Propelled Heavy Mortar:
+The Name is INA.
+The Computerized FCS is INA.
+The Main Gun Stabilization is Yes.
+The Laser Designator is 1D15 laser target indicator/laser range-finder.
+
+Here is Protection information for the 2S4 Tyulpan (M-1975) Russian 240mm Self-Propelled Heavy Mortar:
+The Hull Armor is The armoured hull provides protection from small arms fire and shell fragments..
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

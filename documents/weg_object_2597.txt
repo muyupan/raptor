@@ -1,0 +1,90 @@
+This document describes the BTR-40 Russian 4x4 Armored Personnel Carrier (APC).
+
+The BTR-40 is a Soviet non-amphibious, wheeled armored personnel carrier and reconnaissance vehicle. It is often referred to as the Sorokovka in Soviet service. It is also the first mass-produced Soviet APC. It was eventually replaced in the APC role by the BTR-152 and in the scout car role by the BRDM-1.
+
+The BTR-40's design was based on the GAZ-63 four wheel drive truck which went into production in 1946. The design featured a self-bearing body which was a new feature in Soviet vehicles. The hull has two side doors for the commander and driver and a back door. The vehicle can transport up to eight fully equipped soldiers or 1 tonne of cargo.
+
+This equipment has proliferated into the following countries: Burundi, Cuba, Guinea-Bissau, Indonesia, Israel, Laos (People's Democratic Republic), Mali, North Korea (Democratic People's Republic of Korea), Rwanda, Tanzania, Viet Nam, Yemen.
+
+Here is Variants information for the BTR-40 Russian 4x4 Armored Personnel Carrier (APC):
+The BTR-40A is 5 person crew fires 2 14.5-mm KPV heavy MGs (2400 rounds) from a ZPTU-2 turret..
+The BTR-40B is Only 6 dismounted soldiers can fit into this vehicle with overhead armor with 4 roof hatches..
+The BTR-40Kh is NBC decontamination vehicle with poles to mark cleared lanes..
+The BTR-40 with AT-3 Sagger is East Germany converted some BTR-40s to ATGM vehicles with a triple launcher under overhead cover..
+The BTR-40zhd is This vehicle uses a metal wheel suspension to travel on railroad lines on scouting missions..
+The Type 55 (China) is Chinese BTR-40 with different engine..
+The Walid (Egypt) is Variants besides the APC include a smoke rocket launcher or a minelayer vehicle..
+
+Here is System information for the BTR-40 Russian 4x4 Armored Personnel Carrier (APC):
+The Alternative Designations is Type 55 (China).
+The Description is 4 X 4 wheeled APC based on the GAZ-63 truck with an open top & a single rear exit door; passenger space for 8 soldiers; 3 firing ports on each side & 2 in the rear door.
+The Manufacturer is Gorkovsky Avtomobilny Zavod
+unknown Chinese manufacturer.
+The Crew is 2 (commander, driver).
+The Passengers is 8.
+
+Here is Dimensions information for the BTR-40 Russian 4x4 Armored Personnel Carrier (APC):
+The Length, Hull is 5.0.
+The Width is 1.90.
+The Height is 1.75.
+The Wheelbase is 2.70.
+The Ground Clearance is 0.28.
+The Tire Size is 248 x 457 mm.
+The Weight, Combat is 5,300.
+
+Here is Automotive information for the BTR-40 Russian 4x4 Armored Personnel Carrier (APC):
+The Engine Name is GAZ-40.
+The Engine Type is Water-cooled, in-line, 6-cylinder gasoline.
+The Engine Power is 80 hp at 3,400 rpm.
+The Cruising Range is 285.
+The Speed (Max Road) is 80.
+The Speed (Max Off-Road) is INA.
+The Speed (Average cross-country) is INA.
+The Speed (Max Swim) is Not Amphibious.
+The Power-to-Weight Ratio is 5.09 hp/metric ton.
+The Suspension is 4 x 4 (4-wheel drive, 2-wheel steering) longitudinal semi-elliptic springs hydraulic shock absorbers on front, check springs on rear.
+The Gradient is 60.
+The Vertical Obstacle is 0.47.
+The Trench is 0.70m with ramps.
+The Fording Depths is 0.80.
+
+Here is System information for the BTR-40 Russian 4x4 Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is SG-43 Goryunov.
+The Type is Medium Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is P.M. Goryunov.
+The In Service is 1940-Present.
+The Length is 1,150.
+The Barrel Length is 720.
+The Weight, Gun Body is 13.8.
+The Weight,  on Wheeled Mount is 41.
+The Action is Gas-operated.
+The Rate of Fire is 500–700 rounds/min.
+The Effective Firing Range is 1,100.
+The Maximum Firing Range is 1,500.
+The Feed System is 200 or 250 round belts.
+The Sights is Iron Sights.
+The Maximum Elevation is +23.5.
+The Minimum Elevation is -6.
+The Traverse Range is 90.
+The Traverse Left is 45.
+The Traverse Right is 45.
+
+Here is Ammunition information for the BTR-40 Russian 4x4 Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 800.
+The Basic Load is 1,200.
+
+Here is Protection information for the BTR-40 Russian 4x4 Armored Personnel Carrier (APC):
+The Armor (turret front) is 8 mm.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is No.
+The Smoke Equipment is No.
+The Survivability Equipment is No.
+The Firing Ports is There are pintle mounts for 2 machine additional Machine Guns, three firing ports on each side of the hull and 3 firing ports in the rear.
+

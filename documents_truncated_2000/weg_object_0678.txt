@@ -1,0 +1,28 @@
+This document describes the PL-9C Chinese Short-Range Infrared-Homing Air-to-Air Missile.
+
+The PL-9 (Chinese: 霹雳-9; pinyin: Pī Lì-9; lit.: 'Thunderbolt-9') is a short-range, infrared-homing air-to-air missile (AAM) developed by the People's Republic of China. It was originally designed by Dong Bingyin (董秉印) at the Luoyang Electro Optical Center, which is also known as Institute 612 and renamed in 2002 as the China Air-to-Air Guided Missile Research Institute (中国空空导弹研究院). After Dong Bingyin died, his position was succeeded by Mr. Jin Xianzhong (金先仲). The deputy general designer of PL-9 is the same deputy general designer of PL-12, Dr. Liang Xiaogeng (梁晓庚).
+
+The PL-9C is one of the latest versions of the PL-9, which also has a surface-to-air variant (DK-9). The PL-9C tactical low-altitude surface-to-air missile (SAM) was first revealed during the 1989 Paris Air Show. The launch unit is available in both towed and self-propelled arrangement. The self-propelled version has a launch complex consisting four-rail launcher and the associated target acquisition and radar and electro-optical director mounted on a 6X6 WZ551 armored personnel carrier (APC). The towed version has a four-rail launcher mounted on a four-wheel carriage. The launch unit is supported by a range of truck-mounted ground equipment for maintenance and missile testing.
+
+The missile is fitted with a cryogenic liquid nitrogen gas-cooled IR seeker capable of +/-40 degree off boresight angles. Flight control is by long span pointed delta fins at the front of the missile with Sidewinder-type slipstream driven rollerons on the aft tail fin surfaces to prevent roll and so enhance the operation of the guidance system. The missile has a maximum effective range of 35 km and an altitude limit of 6.5 km. The single-shot hit probability for a single missile launch at an approaching target is 90%. The missile can be used at a stand-alone system, or as a part of the Type 390 (DK-9) brigade (regiment)-level combined AAA/SAM air defence system. The missile entered production in 1991 and saw limited service with the PLA ground forces.
+
+This equipment has proliferated into the following countries: Myanmar, Nigeria, Pakistan.
+
+Here is Variants information for the PL-9C Chinese Short-Range Infrared-Homing Air-to-Air Missile:
+The PL-9 is The PL-9 (Chinese: 霹雳-9; pinyin: Pī Lì-9; lit.: 'Thunderbolt-9') is a short-range, infrared-homing air-to-air missile (AAM) developed by the People's Republic of China..
+
+Here is PL-9C Infrared-Homing Air-to-Air Missile information for the PL-9C Chinese Short-Range Infrared-Homing Air-to-Air Missile of the System:
+The Name is PL-9C.
+The Type is Infrared-Homing Air-to-Air Missile.
+The Length is 2.9m.
+The Diameter is 0.157m.
+The Wingspan is 0.856m.
+The Weight is 115kg.
+The Warhead is 11.8kg blast-frag, or expanding rod (RF-fuse).
+The Detonation Mechanism is laser proximity fuse.
+The Engine is Solid-fuel rocket.
+The Operational Range is 22km (PL-9C, air-to-air), > 8km (surface-to-air).
+The Flight Altitude is 4.5km (surface-to-air).
+The Maximum Speed is Mach 2+.
+The Guidance System is multi-element infrared.
+

@@ -1,0 +1,74 @@
+This document describes the KUH-1 Surion South Korean Medium Transport Helicopter.
+
+The KAI KUH-1 Surion is a twin-engine, transport utility helicopter developed primarily by Korea Aerospace Industries (KAI), Agency for Defense Development (ADD) and Korea Aerospace Research Institute (KARI) jointly with Eurocopter. In 2006, the research and development phase of the Korea Helicopter Project - Korea Utility Helicopter (KHP-KUH), costing around 1.3 trillion won ($1.2 billion), was launched by the Agency for Defense Development. In 2012, full-scale production of the Surion commenced; KAI has been designated as the principal manufacturer of the type.
+
+An initial force of around 245 Surions have been ordered by the Republic of Korea Army to replace their aging fleets of UH-1H utility helicopters and 500MD light utility helicopters, which have been in service for decades. KAI shall also construct civilian and law enforcement variants of the helicopter.
+
+In 2017, the Surion was the centerpiece of an embezzlement scandal involving parent company KAI, the South Korean Ministry of National Defense and its Defense Acquisition Program Administration.
+
+The KAI KUH-1 Surion is a twin-engine medium-sized multipurpose rotorcraft, carrying up to nine troops along with a crew of four (two pilots and two gunners in the main cabin area) in a utility transport capacity. It has been designed to be rapidly reconfigured to serve different roles, some models are also navalised. The Surion can perform various duties and roles, such as military transport, law enforcement, aerial observation, search and rescue, maritime support, aerial firefighting, and for civilian purposes along with other missions.
+
+Power is provided by a pair of 1,600 shp Hanwha Techwin T700-ST-701K turboshaft engines, a license-built localized development of the General Electric T700.[29] The T700/701K, co-developed by General Electric and Hanwha Techwin, is the first rear-drive variant of the T700 engine and features a -701D common core, high-efficiency counter-rotating power turbine, and a new FADEC system. The exhausts of the engines are equipped with large infrared suppressors; these have been adapted from those used on the Eurocopter EC725.[16] Airbus Helicopters manufactures various elements of the Surion's transmission; the lower-than-intended level of indigenous production of these components has been a point of controversy.
+
+The Surion is equipped with various survivability and damage reduction features. Both the airframe and the cockpit have been made bulletproof against small arms fire. The airframe, tail rotor, and the rotor blades used on both the main and tail rotors are of a crashworthy construction; anti-explosion sealed fuel tanks are also used. The main gearbox is capable of flying for a limited period after suffering the loss of lubricating oil. Various electronic defensive measures are incorporated onto the Surion, such as a countermeasures dispenser system (CMDS), radar warning receiver (RWR), laser warning receiver (LWR).
+
+British firm Cobham plc provides navigation and communication equipment for the Surion. Sandle Avionic's HeliTAWS multi-hazard avoidance system is installed on Surions in police service. Elbit Systems of Israel produces the helmet mounted display (HMD) used on the Surion, the HMD allows the crew to conduct full day-and-night operations.
+
+This equipment has proliferated into the following countries: South Korea (Republic of Korea).
+
+Here is Variants information for the KUH-1 Surion South Korean Medium Transport Helicopter:
+The KUH-1 Surion is The basic military utility helicopter used by the Republic of Korea Army..
+The KUH-Medevac is A medical evacuation variant. It is equipped with a hoist for lifting patients, a weather radar, a detachable auxiliary fuel tank, a traffic collision avoidance system, medical equipment to treat six patients, and additional communications. First flight occurred on 25 January 2016 and will be delivered in 2018..
+The MUH-1 Marineon is A land- and sea-based amphibious variant for the Republic of Korea Marine Corps, it has a 96 percent part commonality with the Surion. Modifications include an integrated flotation system, auxiliary fuel tank, and specialised radio equipment. The Marine Surion first flew on 19 January 2015; It also has a folding main rotor to serve aboard Dokdo-class amphibious assault ships. In December 2016, KAI secured a contract to deliver 30 Surions to the Marine Corps, with the first two delivered in January 2018..
+The KUH-ASW (Anti-Submarine Warfare) is A naval variant equipped with torpedoes and anti-ship missiles..
+The KUH-1P Chamsuri is Korean Police version (KUH-1P/ Chamsuri) - Surion utility helicopter chosen by the Korean National Police Agency (KNPA) for its Police Helicopter Project. Equipped with a weather radar, traffic collision avoidance system, inertial navigation system, and an external hoist and cameras for rescue duties (extra electronics are needed compared to ordinary police helicopters for operations near North Korea, which frequently conducts jamming operations)..
+
+Here is System information for the KUH-1 Surion South Korean Medium Transport Helicopter:
+The Alternative Designation is KUH-1 Surion.
+The Type is Medium Transport Helicopter.
+The Crew is 2.
+The Passengers is 11.
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 4.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the KUH-1 Surion South Korean Medium Transport Helicopter:
+The Length, with Main Rotor is 19.00 m.
+The Length, without Main Rotor is 15.09 m.
+The Rotor Diameter is 15.80 m.
+The Width is 3.30 m.
+The Height is 4.50 m.
+The Tail Rotor Diameter is 3.15 m.
+The Maximum Takeoff Weight is 8,700 kg.
+The Empty Weight is 4,973 kg.
+The Primary Mission Gross Weight is 7,280 kg.
+
+Here is Automotive information for the KUH-1 Surion South Korean Medium Transport Helicopter:
+The Engine Name is 2 x GE T700-GE-701K.
+The Engine Type is Turboshaft.
+The Engine Power is 1,777 shp each.
+The Fuel Capacity is 930 kg.
+The Maximum  Speed is 259 kph.
+The Cruise Speed is 4,000 m.
+The Range is 500 km.
+The Climb Rate is 152 m/min.
+The Endurance is >2 hours.
+
+Here is Main Gun System information for the KUH-1 Surion South Korean Medium Transport Helicopter:
+The Note is Armament includes two 7.62mm machine guns..
+
+Here is Fire Control and Avionics information for the KUH-1 Surion South Korean Medium Transport Helicopter:
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Navigation Radar is INA.
+The IFF is Yes.
+
+Here is Protection information for the KUH-1 Surion South Korean Medium Transport Helicopter:
+The Add on Armor is INA.
+The Stealth Properties is None.
+The Heat Signature Reduction is None.
+The NBC Protection is Yes.
+The EW Counter Measures/CCM is AN/AAR-60 MILDS.
+The Counter Measures (Chaff/Flares) is INA.
+

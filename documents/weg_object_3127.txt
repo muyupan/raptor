@@ -1,0 +1,65 @@
+This document describes the 96L6E (Cheese Board) Russian Early-Warning and Acquisition Radar.
+
+96L6E “Cheese Board” is a 3D early-warning and acquisition radar operating in C-Band designed to replace the 36D6 “Tin Shield B” and 76N6 “Clam Shell”. It is used in conjunction with the SA-10 “Grumble” (S-300) and SA-21 “Growler” (S-400) theatre defence missile systems. Three operators are needed to run the set. Up to five operator consoles are provided.
+
+The phased-array antenna with 96 radiating rows employs mechanical beam steering in azimuth and electronic beam steering in elevation. The radar is a frequency hopping design intended to provide high jam resistance and high clutter rejection. There are two operation modes implemented: Low altitude targets can be acquired by constraining the mainlobe elevation angle between -3° and +1.5° using an antenna rotation of 5 rpm. This slow rotation allows a better clutter rejection with a subclutter visibility up to 70 dB. All altitude targets can be acquired by constraining the mainlobe elevation angle between -1.5° and +20° using an antenna rotation of 10 rpm. As a third mode the radar can operate in a sector search.
+
+The 96L6E measures range, azimuth and elevation and performs up to 100 local tracks automatically. It classifies four different target types: aircrafts, helicopters, UAVs, and missiles.
+
+After relocation the 96L6E can be set up by three operators in less than 5 minutes.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the 96L6E (Cheese Board) Russian Early-Warning and Acquisition Radar:
+The Name is 96L6E, NATO: Cheese Board.
+The Type is 3D early-warning and acquisition radar.
+The Target Detection Range is 300 km.
+The Simultaneously Tracked Targets is 100 ea.
+The Works in Conjunction with is the 83M6E2 control post and S-300MPU2 launchers.
+The Chassis is MAZ-7930 (8x8) truck chassis and is intended for use with the S-300PMU and S-300PMU1 air defence systems as an upgrade to replace several existing radar's with a single more capable system.
+The Band is C-Band.
+The Crew is Three operators are needed to run the set. Up to five operator consoles are provided.
+The Antenna is The phased-array antenna with 96 radiating rows employs mechanical beam steering in azimuth and electronic beam steering in elevation.
+The Antenna Rotation is 5-10 rpm.
+The Mean Time Betweeen Critical Failure is 10,000 hours.
+The High Jam Resistance is Yes.
+The Frequency Hopping is Yes.
+The High Clutter Rejection is Yes.
+The Operation Modes is There are two operation modes implemented: Low altitude targets can be acquired by constraining the mainlobe elevation angle between -3° and +1.5° using an antenna rotation of 5 rpm.
+The Note is The 96L6E “Cheese Board” is designed to replace the 36D6 “Tin Shield B” and 76N6 “Clam Shell”..
+
+Here is Dimensions (MAZ-543 Special Wheeled Chassis) information for the 96L6E (Cheese Board) Russian Early-Warning and Acquisition Radar:
+The Length is 11.7.
+The Width is 3.07.
+The Height is 2.92.
+The Maximum Load is 15.
+The Ground Pressure is INA.
+
+Here is Automotive (MAZ-543 Special Wheeled Chassis) information for the 96L6E (Cheese Board) Russian Early-Warning and Acquisition Radar:
+The Engine Name is D12A-525 38.9-liter Diesel.
+The Engine Type is Diesel.
+The Engine Power is 525.
+The Cruising Range is 650.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Configuration is 8x8.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.
+The Fording Depth is 1.3.
+
+Here is Protection information for the 96L6E (Cheese Board) Russian Early-Warning and Acquisition Radar:
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The Camouflage Nets is Yes, Standard.
+The Note is Protection. Additional elements of protection are the placement of components of C-300 in the trenches (practiced as placing on the hills for a better view and more rapid care of the horizon, and in the trenches for stealth and protection against fragments of explosions)..
+

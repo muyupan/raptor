@@ -1,0 +1,45 @@
+This document describes the KPV-14.5 Russian 14.5mm Heavy Machine Gun.
+
+The KPV-14.5 heavy machine gun (KPV is an initialism for Krupnokaliberniy Pulemyot Vladimirova, in Russian as Крупнокалиберный Пулемёт Владимирова, or КПВ) is a Soviet-designed 14.5×114mm-caliber heavy machine gun, which first entered service as an infantry weapon (designated PKP) in 1949. In the 1960s, the infantry version was taken out of production because it was too big and heavy. It was later redesigned for anti-aircraft use, because it showed excellent results as an AA gun, with a range of 3,000 meters horizontally and 2,000 meters vertically against low flying planes. It was used in the ZPU series of anti-aircraft guns. Its size and power also made it a useful light anti-armor weapon on the BTR series of vehicles and the BRDM-2 scout car.
+
+The development of the machine gun began in 1944. The 14.5×114mm M41 cartridge can be used with High Explosive Incendiary - Tracer (HEI-T) or Armour-Piercing Incendiary (API) bullets, and they have approximately twice the energy of a 12.7 mm (.50 BMG) projectile. The KPV is air-cooled and fitted with a barrel with hard chrome plated bore. It uses a short recoil operation system with gas assistance and a rotary bolt. It can be fed with the 40-round metallic belt from either the left or right side. The barrel can be removed by turning the prominent latch on the forward end of the receiver and pulling on the barrel's carrying handle.
+
+This equipment has proliferated into the following countries: Afghanistan, Albania, Algeria, Angola, Armenia, Bangladesh, Benin, Bulgaria, Cambodia, Cameroon, China, Congo, Cuba, Czech Republic, Egypt, Eritrea, Estonia, Ethiopia, Finland, Georgia, Guinea-Bissau, Hungary, India, Iran (Islamic Republic of), Iraq, Ivory Coast, Laos (People's Democratic Republic), Lebanon, Libya, Malawi, Mali, Malta, Mongolia, Mozambique, Myanmar, Nicaragua, North Korea (Democratic People's Republic of Korea), Pakistan, Panama, Poland, Romania, Russian Federation, Serbia, Sierra Leone, Slovenia, Somalia, South Africa, Sudan, Syria, Tanzania, Togo, Ukraine, Viet Nam, Yemen, Zimbabwe.
+
+Here is Variants information for the KPV-14.5 Russian 14.5mm Heavy Machine Gun:
+The KPVT is The version for use in armored vehicles is called the KPVT (tankoviy, 'tank'). KPVT is used for armored vehicle installations, boats, movable and stationary mounts and various antiaircraft mounts. It features a shorter receiver and a heavier barrel jacket. The KPVT also uses a 50-round belt instead of the original 40-round belt. KPVTs are the primary armament of the wheeled BTR-60PB/70/80 series armored personnel carriers and BRDM-2 armored reconnaissance vehicles. It is intended for fighting against lightly armored targets, weapons systems, and light shelters at distances of up to 3000 m, as well as air targets at distances up to 2000 m.
+
+The distance at which the bullet retains lethal force is 8 km. The maximum flight range of the bullet is 9 km..
+
+Here is KPVT 14.5mm Heavy Machine Gun (KPV) information for the KPV-14.5 Russian 14.5mm Heavy Machine Gun of the System:
+The Name is KPVT 14.5mm Heavy Machine Gun (KPV).
+The Type is Heavy Machine Gun (KPV).
+The Caliber is 14.5mm.
+The Manufacturer is V.A. Degtyarev Plant.
+The Weight is 49.
+The Length, Total is 1.980.
+The Barrel Length is 1,346.
+The Width is 162.
+The Height is 225.
+The Rate of Fire is 600.
+The Maximum Firing Range is 4,000.
+The Effective Firing Range is 3,000.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+The Maximum Elevation is +60.
+The Minimum Elevation is -4.
+The Fire on the Move is Yes.
+
+Here is Ammunition information for the KPV-14.5 Russian 14.5mm Heavy Machine Gun of the System:
+The Name is INA.
+The Type is API-T.
+The Caliber is 14.5.
+The Cartridge is 14.5×114 mm.
+The Muzzle Velocity is 1,005.
+The Basic Load is 500.
+The Effective Range (Day) is 2,000.
+The Effective Range (Night) is INA.
+The Tactical Range is 1,500-2,000.
+The Armor Penetration is 20 at 1,000 m/ 30 at 500 m.
+The Note is Additional Ammo includes: API, I-T.
+

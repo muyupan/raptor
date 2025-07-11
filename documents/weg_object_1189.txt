@@ -1,0 +1,31 @@
+This document describes the JRTC VISMOD: DFINT-3T2 Turkish Transportable Direction Finding (DF) System.
+
+The tri-service DFINT-3T2 system is a transportable direction finding (DF) equipment that can intercept, take a bearing on, and analyse V/UHF band communications traffic. Emitter location is achieved via collaboration with other DFINT systems (with intercommunication being by radio or landline) and, according to the contractor, the equipment can handle state-of-the-art emitter types including frequency hoppers and burst transmitters. The system can be deployed with a standard lightweight, high-gain antenna, sub-band arrays and/or a range of application specific antennas that include disguised low-profile, airborne and heliborne types. In rough terrain land-based applications, the environmentally ruggedised DFINT-3T2 equipment can be deployed by a two-man team and the system presents data in either graphical or list formats.
+
+This equipment has proliferated into the following countries: Turkey.
+
+Here is System information for the JRTC VISMOD: DFINT-3T2 Turkish Transportable Direction Finding (DF) System:
+The Alternate Designation is DFINT-3T2 communications DF system.
+The Type is Transportable Direction Finding (DF) System.
+The Organization is ASELSAN A.S., Radar, Electronic Warfare and Intelligence Systems Division.
+The In Service is 2000-present.
+The Demodulation is AM, FM (SSB optional).
+The Frequency Range is 20-1,200.
+The DF Accuracy is <1.5 deg RMS.
+The LOB Resolution is 0.1.
+The Frequency (FFT) Resolution is 500 Hz-160 kHz selectable.
+The Hopper Performance is better than 1,000 hops/s.
+The Scan speed (with DF) is better than 1,000 MHz/s.
+The Power Generator Weight is 8.8.
+The Antenna Weight is 10.5.
+The Antenna Mast Weight is 12.
+The System Weight (Total) is 29.6.
+The Dimensions is 6.25.
+The GPS Receiver is External or built in.
+The Power Generator is 220 V AC.
+The Environment is MIL-STD-810E.
+The Operating Temperature Range is -20 to +50Â°C.
+The Storage Temperature Range is -40 to +70Â°C.
+The Power Supply is 24 V DC or 110/220 V AC or Both.
+The Monitor is 640mm x 480mm (8 colors).
+

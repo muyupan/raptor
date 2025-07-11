@@ -1,0 +1,81 @@
+This document describes the Dragonfish Lite Chinese Unmanned Aerial Vehicle (UAV).
+
+The Dragonfish Lite Chinese Unmanned Aerial Vehicle (UAV) unique tilt-rotor design simplifies operation while maximizing performance and efficiency. With no complicated moving parts - the Dragonfish Lite is modular/waterproof/smart, and reliable. The Dragonfish is mission ready right out of the box and includes powerful AI tracking capabilities and a multitude of modular payload options. An endurance of up to 75 minutes (including payload) further augments the Dragonfish Lite's robust mission capabilities and pushes it significantly ahead of the competition. With built in safety and redundancy - the Autel Dragonfish series is the right drone for the job.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Dragonfish Lite Chinese Unmanned Aerial Vehicle (UAV):
+The Dragonfish Standard is INA.
+The Dragonfish Pro is INA.
+
+Here is System information for the Dragonfish Lite Chinese Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Dragonfish Lite.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Autel Robotics.
+The Crew is Unmanned.
+The Operating Frequency is Video Transmission
+902-928 MHz (Only for FCC/ISED);
+2.4000-2.4835 GHz;
+5.150-5.250 GHz (Only for FCC/ISED);
+5.725-5.850 GHz
+Data Transmission
+5.729-5.771 GHz.
+The Transmission Power (EIRP) is 900MHz
+FCC/ISED：< 30 dBm；
+2.4 GHz
+FCC/ISED/RCM：< 30 dBm
+CE：< 20 dBm；
+5.2 GHz
+FCC/ISED：< 25 dBm
+5.8 GHz
+FCC/ISED/RCM：< 26 dBm
+CE: < 14 dBm.
+The Maximum Payload is 1.0 kg.
+The Supported Gimbal Configurations is Fast Disassembly.
+The Ingress Protection Rating is IP43.
+The GNSS is GPS+GLONASS+BeiDou+Galileo.
+The Operating Temperature is -20°C ~ 50°C.
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+
+Here is Dimensions information for the Dragonfish Lite Chinese Unmanned Aerial Vehicle (UAV):
+The Length is 965 mm.
+The Wingspan is 1,600 mm.
+The Height is 350 mm.
+The Maximum Takeoff Weight is 5.5 kg.
+
+Here is Automotive information for the Dragonfish Lite Chinese Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Hovering Accuracy (P-mode with GPS) is Vertical:
+±0.1 m(Vision System enabled)
+±0.5 m(GPS enabled)
+±0.1 m(RTK enabled)
+Horizontal:
+±0.3 m(Vision System enabled)
+±1.5 m(GPS enabled)
+±0.1 m(RTK enabled).
+The RTK Positioning Accuracy is When RTK enabled and fixed：
+Multi-rotor：
+1 cm+1 ppm（Horizontal）
+1.5 cm + 1 ppm（Vertical）
+Fixed Wing：
+3 cm+1 ppm（Horizontal）
+3 cm + 1 ppm（Vertical）.
+The Max Angular Velocity is Pitch：180°/s
+Yaw：60°/s.
+The Max Pitch Angle is 20°.
+The Max Roll Angle is 35°.
+The Max Ascent Speed is Vertical Flight Mode：4 m/s
+Fixed Wing Mode：5 m/s.
+The Max Descent Speed (vertical) is Vertical Flight Mode：3 m/s
+Fixed Wing Mode：5 m/s.
+The Max Flight Speed is 108 km/h.
+The Flight Speed is 0m/s~17m/s（Multi-rotor）
+17m/s~30m/s（Fixed Wing）.
+The Service Ceiling Above Sea Level is 4,000 m.
+The Max Wind Resistance is Fixed Wing Mode：15 m/s
+Vertical Flight Mode：12 m/s.
+The Max Flight Time is 81 min.
+

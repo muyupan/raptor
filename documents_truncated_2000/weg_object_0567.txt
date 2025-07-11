@@ -1,0 +1,123 @@
+This document describes the Dana Czechoslovakian 152mm Self-Propelled Gun (SPG).
+
+The Dana (Dělo automobilní nabíjené automaticky – gun on a truck loaded automatically), is a 152 mm wheeled self-propelled howitzer (SPH), based on a Tatra 8 × 8 chassis, which can engage targets at a maximum range of 28,230 m using an EKK projectile.
+
+This equipment has proliferated into the following countries: Azerbaijan, CFE Treaty, Czech Republic, Georgia, Libya, Poland, Slovakia.
+
+Here is Variants information for the Dana Czechoslovakian 152mm Self-Propelled Gun (SPG):
+The 152 mm ShKH Ondava is The ShKH Ondava is a development step started during the late 1980s with a longer 152 mm barrel (47 calibers), new muzzle brake (2 chamber), new loading mechanism etc. Max range is 30 km. The Ondava project ended with the velvet revolution and dissolution of the Czechoslovak state. Technical experience was carried over to the Zuzana project..
+The 152 mm ShKH MODAN vz.77/99 is The ShKH MODAN is a Slovak upgrade of DANA with longer range, higher accuracy and rate of fire. The upgrade consists of a new on-board control system that enables higher combat efficiency and reduction of crew from 5 to 4 members..
+The 152 mm ShKH DANA-M1 CZ is The DANA-M1 CZ is a Czech upgrade of the DANA, developed by Excalibur Army from Prague. The upgrade package consists of a new fire control system, new navigation aids and a modified chassis with T3-930 engine..
+The 152 mm ShKH DANA-M1 CZ is The DANA-M1 CZ is a Czech upgrade of the DANA, developed by Excalibur Army from Prague. The upgrade package consists of a new fire control system, new navigation aids and a modified chassis with T3-930 engine..
+The 152 mm ShKH DANA M2 is Further modernization by Excalibur Army which features a new more resistant cabin and the NBC filtration system..
+The 155 mm ShKH M2000 Zuzana is The Slovak ShKH Zuzana has been modified with a 155 mm gun (45 calibers) to conform to NATO standards. First adopted by the Slovak Army in 1998, the Slovak Army currently possesses 16 such units with plans to adopt more. The M2000G is a version for the Cypriot National Guard with different signals equipment, 76mm smoke grenade launchers and an MG3 7.62mm machine gun instead of the NSVT of 12.7mm. It entered service in 2001..
+The 155 mm ShKH A40 Himalaya is The ShKH Himalaya is an adaptation of the system to a tracked chassis required by export customers. It is essentially a tracked variant of ShKH Zuzana with the same 155 mm turret mounted on a T-72 chassis with S1000 engine..
+The 155 mm ShKH Zuzana 2 is Initially known as Zuzana A1 and then Zuzana XA-1, this is the latest development of the Zuzana. It was unveiled for the first time in 2004. This model is fitted with a 155/52 ordnance and has other improvements such as a reworked turret and a different engine: the Tatra T3B-928.70 of 330 kW..
+
+Here is System information for the Dana Czechoslovakian 152mm Self-Propelled Gun (SPG):
+The Alternative Designation is Dana.
+The Type is Self-Propelled Gun (SPG).
+The Caliber is 152 mm.
+The Chassis is based on a Tatra 8 × 8 chassis.
+The Configuration is 8x8.
+The Crew is 5.
+The Emplacement Time is INA.
+The Displacement Time is INA.
+
+Here is Dimensions information for the Dana Czechoslovakian 152mm Self-Propelled Gun (SPG):
+The Length is 11.156 m.
+The Width is 3.00 m.
+The Height, Turret Roof is 2.85 m.
+The Height, Axis of Fire is 2.41 m.
+The Wheelbase is 1.65 + 3.07 + 1.45 m.
+The Weight is 29,250 kg.
+The Ground Clearance is 0.41 m.
+
+Here is Automotive information for the Dana Czechoslovakian 152mm Self-Propelled Gun (SPG):
+The Engine Name is Tatra 2-939-34.
+The Engine Type is Diesel.
+The Engine Power is 345.
+The Power-to-Weight Ratio is 13.74 hp/t.
+The Fuel Capacity is INA.
+The Steering is power assisted, front four wheels.
+The Tires is 15.00 - 21 T03.
+The Maximum Speed is 80 km/h.
+The Range is 740 km.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Obstacle is 0.6 m.
+The Trench is 2.00 m.
+The Fording is 1.4 m.
+The Turning Radius is 12.8 m.
+
+Here is System information for the Dana Czechoslovakian 152mm Self-Propelled Gun (SPG) of the Main Weapon System:
+The Name is 1 × turret mounted 152.4mm howitzer.
+The Type is Howitzer.
+The Caliber is 152 mm.
+The Length is 5.58 m.
+The Elevation is +70° (1244mils)/-4° (-71mils).
+The Traverse is 450° (8000mils) (225° left/225° right).
+The Sustained Rate of FIre is 4.3rds/min.
+The Rapid Rate of Fire is 5rds/min.
+The Maximum Range is Can engage targets at a maximum range of 28,230 m using an EKK projectile..
+The Loading System is The Dana is fitted with a fully automatic loading system, which loads the projectile and then the charge using an automatic rammer..
+
+Here is Ammunition (Option 1) information for the Dana Czechoslovakian 152mm Self-Propelled Gun (SPG) of the Main Weapon System:
+The Name is 152-EOF.
+The Type is HE.
+The Caliber is 152.
+The Maximum Range is 18 km.
+The Basic Load is A total of 60 × 152 mm projectiles and charges is carried in the chassis and inside the turret..
+
+Here is Ammunition (Option 2) information for the Dana Czechoslovakian 152mm Self-Propelled Gun (SPG) of the Main Weapon System:
+The Name is 152-EOFd.
+The Type is HE.
+The Caliber is 152 mm.
+The Maximum Range is 20 km.
+The Basic Load is A total of 60 × 152 mm projectiles and charges is carried in the chassis and inside the turret..
+
+Here is Ammunition (Option 3) information for the Dana Czechoslovakian 152mm Self-Propelled Gun (SPG) of the Main Weapon System:
+The Name is 152-EPrSv.
+The Type is HE Anti-tank.
+The Caliber is 152 mm.
+The Maximum Range is INA.
+The Basic Load is A total of 60 × 152 mm projectiles and charges is carried in the chassis and inside the turret..
+
+Here is System information for the Dana Czechoslovakian 152mm Self-Propelled Gun (SPG) of the Auxiliary Weapon System:
+The Name is 1 × roof mounted 12.7mm NSV machine gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Length is 1,560 mm.
+The Weight is 25 kg.
+The Action is Gas-operated.
+The Rate of Fire is 700–800 rounds/min.
+The Muzzle Velocity is 845 m/s.
+The Effective Firing Range is 1500 m vs. air (maximum)
+2000 m vs. ground targets.
+The Feed System is 50-round belt.
+The Sights is Iron sights.
+
+Here is Ammunition information for the Dana Czechoslovakian 152mm Self-Propelled Gun (SPG) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7×108mm.
+The Basic Load is INA.
+
+Here is Fire Control System information for the Dana Czechoslovakian 152mm Self-Propelled Gun (SPG):
+The Name is INA.
+The Computerized FCS is INA.
+The Main Gun Stabilization is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+
+Here is Protection information for the Dana Czechoslovakian 152mm Self-Propelled Gun (SPG):
+The Hull Armor is All three compartments are armoured and provide protection against small arms fire and shell splinters..
+The Turret Armor is All three compartments are armoured and provide protection against small arms fire and shell splinters..
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

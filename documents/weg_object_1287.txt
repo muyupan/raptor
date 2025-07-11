@@ -1,0 +1,91 @@
+This document describes the 9K31 Strela-1 (SA-9 Gaskin) Russian 4x4 Infrared Guided Surface-to-Air Missile System.
+
+The 9K31 Strela-1 (SA-9 Gaskin) Russian 4x4 Infrared Guided Surface-to-Air Missile System is a highly mobile, short-range, low altitude infra-red guided surface-to-air missile system. Originally developed by the Soviet Union under the GRAU designation 9K31, it is commonly known by its NATO reporting name, SA-9 "Gaskin". The system consists of a BRDM-2 amphibious vehicle, mounting two pairs of ready-to-fire 9M31 missiles.
+
+The 9K31 is based on the BRDM-2 4x4 chassis. The driver and commander are seated in the front and the gunner in the turret. Up to four launch containers can be attached to the turret. During travel, the missiles are lowered. The 9K31 is a stand-alone system, but usually, it operates in pairs or groups of four. Target information is relayed by radio by other air defense systems. The turret is fitted with four 9M31 Strela-1 surface-to-air missiles with infrared guidance. The maximum effective range is 4.2 km and the maximum altitude is 3 km. Due to the limitations of the seeker the maximum range can only be achieved under favorable circumstances. Effectiveness during head-on engagements and at night is much reduced.
+
+This equipment has proliferated into the following countries: Algeria, Angola, Armenia, Benin, Bosnia and Herzegovina, Bulgaria, Croatia, Cuba, Egypt, Ethiopia, Hungary, India, Libya, Mauritania, Mongolia, Mozambique, Nicaragua, Romania, Russian Federation, Serbia, Syria, Uganda, Ukraine, Viet Nam, Yemen.
+
+Here is Variants information for the 9K31 Strela-1 (SA-9 Gaskin) Russian 4x4 Infrared Guided Surface-to-Air Missile System:
+The 9K31 Strela-1 is The 9K31 Strela-1 is a short-range missile-based air defence system designed to provide protection for an armoured force during combat or marches. It consists of the 9P31 launch vehicle, which is based on the BRDM-2, as well as a launch vehicle fitted with radar and a separate command vehicle..
+The 9K31M Strela-1M is The Strela-1M was introduced in 1970 in an effort to improve the performance of the Soviet systems to provide greater guarantees of a successful engagement..
+
+Here is System information for the 9K31 Strela-1 (SA-9 Gaskin) Russian 4x4 Infrared Guided Surface-to-Air Missile System:
+The Alternative Designations is 9K31 Strela-1; NATO: SA-9 Gaskin.
+The Type is Infrared Guided Surface-to-Air Missile System.
+The Manufacturer is Soviet state factories.
+The Chassis is BRDM-2.
+The Configuration is 4x4.
+The Crew is 3 (commander, gunner and driver).
+The C2 System is The complex is supported by the BTR-60PU-12 command vehicle..
+
+Here is Dimensions information for the 9K31 Strela-1 (SA-9 Gaskin) Russian 4x4 Infrared Guided Surface-to-Air Missile System:
+The Length is 5.8.
+The Width is 2.4.
+The Height, while Traveling is 2.3.
+The Wheelbase is 3.1.
+The Weight is 7,000.
+The Ground Clearance is 0.43.
+
+Here is Automotive information for the 9K31 Strela-1 (SA-9 Gaskin) Russian 4x4 Infrared Guided Surface-to-Air Missile System:
+The Engine Name is GAZ 41.
+The Engine Type is V-8 water-cooled petrol.
+The Engine Power is 140 hp at 3,400 rpm.
+The Power-to-Weight Ratio is 20 hp/t.
+The Fuel Capacity is 290 Liters.
+The Maximum Land Speed is 100 km/h.
+The Maximum Amphibious Speed is 10 km/h.
+The Range is 650 km.
+The Gradient is 60%.
+The Vertical Obstacle is 0.4 m.
+The Trench is 1.2 m.
+
+Here is Main Weapon System information for the 9K31 Strela-1 (SA-9 Gaskin) Russian 4x4 Infrared Guided Surface-to-Air Missile System:
+The Launch Vehicle Name is 9M31 Launch Vehicle.
+The Missile Name is Strela-1.
+The Length is 1.803 m.
+The Diameter is 120 mm.
+The Weight is 30 kg.
+The Engine is single stage, solid propellant.
+The Guidance System is IR.
+The Fuze is radar, proximity.
+The Warhead is 3 kg (6.00 lb) (est.) HE blast fragmentation.
+The Elevation is +80° (1422mils)/-20° (-356mils).
+The Traverse is 360°.
+The Maximum Speed is 1,800 km/h.
+The Maximum Range is 4.2 km.
+The Minimum Range is 1.0 km.
+The Maximum Altitude is 3,000 m.
+The Minimum Altitude is 50 m.
+The Basic Load is 6 x  hull mounted SA-9 SAM Missiles.
+
+Here is Fire Control information for the 9K31 Strela-1 (SA-9 Gaskin) Russian 4x4 Infrared Guided Surface-to-Air Missile System:
+The Sights with Magnification is INA.
+The Elecro-optical/ Infrared System is Day Range (m):  6,500  
+Night Range (m): 2,000 tail chase only.
+The Navigation is Inertial.
+The IFF is INA.
+The RF Direction-Finder is The FLAT BOX-A passive system uses several Pelengator sensors mounted on the vehicle to detect aircraft navigation signals for early warning and DF of approach azimuth. Detection range is up to 30 km.  Many forces with this older air defense system are not proficient in using the RF DF system..
+The Guidance Systemm is Infrared homing.
+
+Here is Associated Vehicle Radar System information for the 9K31 Strela-1 (SA-9 Gaskin) Russian 4x4 Infrared Guided Surface-to-Air Missile System:
+The Name is PPRU-1/Ovod AD ACV.
+The Chassis is MTLB-U.
+The Radar is DOG EAR (use in OPFOR units).
+The Function is Target Acquisition.
+The Frequency is F/G band.
+The Range is 80 detection, 35 tracking.
+The Other Radars is The SA-9 can also link to the IADS to get analog AD data and warnings..
+The Radar: Gundish is In the earlier unit configuration, an SA-9 platoon is employed in an AD battery/ battalion with ZSU-23-4 SPAA guns.  The radar on those systems supports the SA-9 platoon by providing detection and warning.  Some of the users employ truck-mounted J-band GUN DISH acquisition radar in the platoons, instead of the Pelengator system..
+
+Here is Protection information for the 9K31 Strela-1 (SA-9 Gaskin) Russian 4x4 Infrared Guided Surface-to-Air Missile System:
+The Hull Armor Type is 5-14.
+The Turret Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Protection is INA.
+

@@ -1,0 +1,83 @@
+This document describes the GBL-130 Chinese Armored Mine Dispenser.
+
+The GBL-130 Chinese Armored Mine Dispenser is based on an enlarged ZSD-89 APC hull. It is 0.076m longer and 0.042m wider than the standard ZSD8-9, with the number of road wheels, increased from five to six pairs. This provides the vehicles with extra space for mine dispensing equipment. The vehicle has a stepped rear hull roof to enable six mine dispensers to operate simultaneously. The number of observation ports and roof hatches were reduced, and the rear exit door is smaller in size compared to that of the ZSD-89.
+
+This equipment has proliferated into the following countries: China, Peru.
+
+Here is Variants information for the GBL-130 Chinese Armored Mine Dispenser:
+The GBL-131 Chinese 6x6 Mine Dispenser is The GBL-131 Chinese 6x6 Mine Dispenser is a variant of the GBL-130 mounted on a Tiema XC200 Chinese 6x6 Cross Country Truck..
+The GBL-132 Chinese 6x6 Mine Dispenser is The GBL-132 Chinese 6x6 Mine Dispenser is a variant of the GBL-130 mounted on a Dongfeng EQ240/EQ2081 Chinese 6x6 Cross Country Truck..
+
+Here is System information for the GBL-130 Chinese Armored Mine Dispenser:
+The Alternative Designation is GBL-130.
+The Type is Armored Mine Dispenser.
+The Manufacturer is Norinco.
+The Chassis is ZSD-89 APC.
+The Mission is Anti-tank and anti-personnel mine laying/dispersion.
+The Crew is 4.
+
+Here is Dimensions information for the GBL-130 Chinese Armored Mine Dispenser:
+The Length, Hull is 6.85.
+The Length, Overall is 7.18.
+The Width is 3.15.
+The Height, Hull Top is 1.47.
+The Height, Overall is 3.18.
+The Weight, Combat is 29,900.
+The Ground Pressure is 0.68 kg/sq cm.
+
+Here is Mine Dispenser information for the GBL-130 Chinese Armored Mine Dispenser:
+The Mine Dispenser Racks is 216 launch tubes (6 x 36 mine canisters).
+The Dispenser Rack Configuration is Racks mounted on the stepped rear hull.
+The Canister Diameter is 122 mm.
+The Number of canisters (per rack) is 36.
+The Rack traverse is 360 deg.
+The Elevation (fixed) is 40 deg.
+The Mine dispensing method is Each dispenser rack projects one mine canister at one time..
+The Mine Capacity in one Load is GBL-240 canisters (Total of 1,080 GLD224 AT mines); GBL-241 canisters (Total of 3,240 GLD125 APers mines);GBL-242 canisters (Total of 9,720 GLD115 APers mines).
+The Distance Mines Launched from Vehicle is 20 to 150 m.
+The Maximum Length of Mindfield with one Load is 2160 m (1 canister every 10 m).
+The Reload Time is 18 min.
+
+Here is Mine Types information for the GBL-130 Chinese Armored Mine Dispenser:
+The GBL240 is 5 x Type 224 SATM.
+The GBL241 is 15 x Type 125 SAPM.
+The GBL242 is 45 x Type 115 / GLD-115 SAPEM.
+The GBL243 is 5 x Type 224 INERT Training Mines.
+
+Here is Automotive information for the GBL-130 Chinese Armored Mine Dispenser:
+The Engine Name is 12150L.
+The Engine Type is Diesel.
+The Engine Power is 520.
+The Cruising Range is 450.
+The Speed, Maximum Road is 55.
+The Speed, Average Cross is 32.
+The Minefield Dispensing Speed is 5 km/h.
+The Fording Depth is 1.3.
+The Gradient is 60.
+The Obstacle, Vertical is 0.7.
+The Obstacle, Trench is 2.6.
+
+Here is System information for the GBL-130 Chinese Armored Mine Dispenser of the Main Weapon System:
+The Name is 1 x QJC88 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Action is Gas.
+The Length is 1.5 m.
+The Barrel Length is 1 m.
+The Weight is 18.5 kg gun plus 15.5 kg mount.
+The Rate of Fire is 540 - 600 rpm.
+The Muzzle Velocity is 850 m/s.
+The Feed System is Belt fed, 50 rounds.
+The Sights is Type 58 optical sight on mount, backup Iron sights on gun.
+
+Here is Ammunition information for the GBL-130 Chinese Armored Mine Dispenser of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7x108mm.
+The Basic Load is INA.
+
+Here is Protection information for the GBL-130 Chinese Armored Mine Dispenser:
+The Armor is Welded steel hull, resist rounds up to 12.7mm.
+The NBC Protection is The crew is protected by an over-pressure collective NBC protection system and automatic fire suppression system..
+The Smoke Equipment is 2 x 4-barrelled smoke grenade launchers, one on each side of the hull..
+

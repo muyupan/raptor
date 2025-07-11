@@ -1,0 +1,45 @@
+This document describes the UBot FMR C16 Chinese Tracked Unmanned Ground Vehicle (UGV).
+
+The UBot FMR C-16 Chinese Tracked Unmanned Ground Vehicle (UGV) is a firefighting and chemical detection robot.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the UBot FMR C16 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is UBot FMR C-16.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is HRSTEK.
+The Mission is The UBot FMR C-16 Chinese Tracked Unmanned Ground Vehicle (UGV) is a firefighting and chemical detection robot. The UBot FMR C-16 Chinese Tracked Unmanned Ground Vehicle (UGV) can carry out on-site detection, reconnaissance, and retrieve information such as images, audio, video, and other data..
+The Configuration is Tracked.
+The Crew is Unmanned.
+The Control is The operator control unit (OCU) is a portable, suitcase style, ruggedised screen that is water- and dust-proof with a graphical keypad for the controls and thumb joysticks..
+The Software is INA.
+The Operating Temperature is –20 to +80°C.
+The Cameras is 4 x cameras are mounted for 360° situational awareness..
+The Sensors is The unit is capable of detecting up to six different types of chemicals gasses..
+The Payload Capacity is INA.
+The Environmental is IP65.
+
+Here is Dimensions information for the UBot FMR C16 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Length is 1.4 m.
+The Width is 0.97 m.
+The Height is 0.10 m.
+The Weight is 450 kg.
+
+Here is Automotive information for the UBot FMR C16 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Range is 500 m (wireless).
+The Maximum Speed is 3.6 km/h.
+The Maximum Incline is 30°.
+The Turning Radius is 0°.
+The Vertical Obstacle Avoidance is 250 mm.
+The Endurance is 1 hour and 30 min.
+
+Here is Communications information for the UBot FMR C16 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Note is Data, such as images, audio, and video is processed in real time and transmitted to the operator control unit (OCU)..
+
+Here is Protection information for the UBot FMR C16 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Armor is The company states that the robot has explosion-proof certification ‘ExdeibmbIIBT4Gbʼ..
+The Applique Armor is No.
+

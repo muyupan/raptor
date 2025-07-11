@@ -1,0 +1,23 @@
+This document describes the CM-12 Taiwanese Main Battle Tank (MBT).
+
+The CM-12 Taiwanese Main Battle Tank (MBT) is a modified M48A3 made for the Republic of China Army situated on Taiwan. The CM-12 boasts a sleek and robust design, integrating advanced technologies to enhance its combat effectiveness. With a low-profile silhouette and composite armor, it offers improved survivability against enemy fire. The tank’s turret is equipped with a state-of-the-art fire control system, enabling accurate target engagement even on the move. Additionally, the CM-12 incorporates modular armor, allowing for quick repairs and upgrades.
+
+This equipment has proliferated into the following countries: Taiwan.
+
+Here is System information for the CM-12 Taiwanese Main Battle Tank (MBT) of the Main Weapon System:
+The Name is 1 x M68A1 Rifled Tank Gun.
+The Type is Rifle Tank Gun.
+The Caliber  is 105 mm.
+
+Here is Ammunition information for the CM-12 Taiwanese Main Battle Tank (MBT) of the Main Weapon System:
+The Type is Rifled Projectile .
+The Caliber is 105 mm.
+The Shell is 105×617mmR.
+The Basic Load is INA.
+
+Here is System information for the CM-12 Taiwanese Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Note is 1 x 12.7mm Heavy Machine Gun.
+
+Here is System information for the CM-12 Taiwanese Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Note is 1 x 7.62mm General-Purpose Machine Gun.
+

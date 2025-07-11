@@ -1,0 +1,26 @@
+This document describes the NPI-2 Russian Personal Navigation Receiver.
+
+The NPI-2 receiver is a personal navigation device that provides geolocation using the GLONASS satellite constellation. The device is widely integrated with the Russian armed forces, primarily enabling navigation, battle tracking, and situational awareness The Global Navigation Satellite System (GLONASS) is a space based satellite navigation system developed by the former Soviet Union as an alternative to the American Global Positioning System (GPS). It is operated and maintained by the Russian Space Agency “Roscosmos”.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the NPI-2 Russian Personal Navigation Receiver:
+The Alternate Designation is Kompas Personal Navigation Receiver.
+The Type is Personal Navigation/Geolocation Receiver.
+The Manufacturer is Kompas.
+The Digital is Yes.
+
+Here is Dimensions information for the NPI-2 Russian Personal Navigation Receiver:
+The Height is INA.
+The Width is INA.
+The Diameter is INA.
+The Weight is INA.
+
+Here is Performance information for the NPI-2 Russian Personal Navigation Receiver:
+The Frequency is 1248 Mhz.
+The Geolocation Accuracy is 3 to 5 meters.
+The Number of Available GLONASS Satellites is 27.
+The Multi-Protocol Access is Yes - Receives and processes both legacy FDMA and newer CDMA signal protocols..
+The Battery is Li-ion battery.
+The Battery Life is 12 hrs.
+

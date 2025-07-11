@@ -1,0 +1,68 @@
+This document describes the P-19 (Flat Face B) Russian Mobile 2D UHF Radar.
+
+This radar was developed from the Flat Face A. It is associated with SA-2 Guideline, SA-3 Goa, SA-6 Gainful, and SA-8 Gecko SAM systems. It is also designated the 1RL134. The P-19 is truck-mounted on a 6 x 6 chassis and employs an antenna array with two elliptical reflectors mounted one above the other. Like the P-15, it uses the 1L22 Parol IFF equipment. Digital plot processing has been fitted.
+
+This equipment has proliferated into the following countries: Algeria, Czech Republic, Russian Federation.
+
+Here is Variants information for the P-19 (Flat Face B) Russian Mobile 2D UHF Radar:
+The Flat Face A (Russian P-15) is This variant is associated with SA-2 Guideline and SA-3 Goa (Russian S-125 Neva) SAM systems. Operates in C-band. It is also designated the 1RL13..
+The Bharat Electronics P-19 upgrade is This modernization includes a new digital signal processor providing moving target indication with staggered pulse repetition frequency; a new solid-state low-noise amplifier; color raster scan display; IFF provisions; and built-in test equipment..
+The ELSYS P-19 upgrade is This version from Ukrainian firm ELSYS includes an MSHB-19 low-noise microwave amplifier, which features a limiter that reportedly has an operating frequency of 700 to 1,000 MHz; a gain of 26 to 32 dB; a 3 dB noise figure; and a maximum allowable input pulsed power value of 3,000 W..
+The Retia RLP-19/IFF P-19 upgrade is This modernization includes an AN/TPX-56 IFF interrogator, updated communications, digital processing, new display console, Doppler filtering, planar IFF antenna and built-in test equipment..
+The KB Radar P-15R is This is an upgrade to the P-15 radar developed by KB Radar in Belarus. The modernization includes a MAZ truck chassis, or other chassis as requested by the customer; standard shelter; standard top and bottom antennas; upgraded bottom antenna phase switch; standard rotary support mechanism with slip rings; and an upgraded digital azimuth meter..
+The Ukroboronservice P-190U is This is a P-19 radar upgrade from Ukroboronservice in Ukraine. It features automated workstations; improved radar performance; wide range of narrow and broadband probing signals enabling the radar to adapt to various combat environments; digital signal processing, including matched filtration; clutter and active jamming suppression; target detection and coordinate measuring; target tracking; and data distribution. New software features a user-friendly interface..
+The DefTech P-19 upgrade is This is a modernization offered by DefTech Global in the United Arab Emirates. It features an all solid-state design that enhances all combat capabilities and reduces maintenance. New equipment includes a solid-state transmitter; solid-state receiver; and digital signal processing. Optional gear includes a four-channel dejammer; height-finder control software and equipment; software for guiding fighter jets; software for targeting air defense systems; and equipment for documentation..
+The Kasta-2E (39N6E/Casta 2E/Flat Face E) is This is an all solid-state variant of the rugged and effective Flat Face. Digital moving target indication (MTI) improves countermeasure resistance. Wide-band reflections from clouds are screened out by a special filter. To combat jamming, the radar employs automatic or manual selection of any one of 10 carrier frequencies, phase modulation and constant false-alarm rate (CFAR) processing, among other techniques. "Flicker" radiation, where the radar is turned on and off intermittently, reduces its vulnerability to anti-radar missiles. The radar is optimized to detect low-flying targets in heavy surface and weather clutter environments..
+The P15M2 (NATO Squat Eye) is This variant operates in the C-band and has a single antenna on a tethered latticework mast. See separate record for more information..
+
+Here is System information for the P-19 (Flat Face B) Russian Mobile 2D UHF Radar:
+The Alternative Designation is P-19 (Flat Face B), IRL134.
+The Type is 2D UHF Radar.
+The Manufacturer is INA.
+The Chassis is ZIL-131.
+The Crew is 3.
+
+Here is Dimensions (Chassis: ZIL-131) information for the P-19 (Flat Face B) Russian Mobile 2D UHF Radar:
+The Length is 6.9 m.
+The Width is 2.5 m.
+The Height is 2.9 m.
+The Weight, Empty is 6,700 kg.
+The Antenna Width is 6.00 m.
+The Antenna Height is 2.15 m.
+
+Here is Automotive (Chassis: ZIL-131) information for the P-19 (Flat Face B) Russian Mobile 2D UHF Radar:
+The Engine Name is ZIL-131.
+The Engine Type is V-8, water cooled, 4 stroke, petrol.
+The Engine Power is 150 hp at 3,200 rpm.
+The Transmission is Manual.
+The Cruising Range is 645 km.
+The Speed, Maximum Road is 80.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 58%.
+The Side Slope is INA.
+The Vertical Step is INA.
+The Trench is INA.
+The Fording Depth is 0.850 M.
+
+Here is Radar System information for the P-19 (Flat Face B) Russian Mobile 2D UHF Radar:
+The Band is NATO C (810-850 or 880-905 MHz).
+The Maximum Range is 360 km.
+The Peak Power is 300 kW.
+The Beam WIdth Azimuth is 10 deg.
+The Beam Width Elevation is 5 deg.
+The Accuracy Angular is 5 deg.
+The Accuracy Range is 80 m.
+The Pulse Width is 2-3 microseconds.
+The Pulse Repetition Frequency is 837.5 MHz to 880 GHz.
+The Parabolic Reflectors is Two elliptical parabolic reflectors measuring 11x5.5 m. Reflectors arranged one above the other on van roof..
+The Associated Missiles and Radars is SA-2 Guideline, SA-3 Goa, SA-6 Gainful and SA-8 Gecko SAM systems.
+
+Here is Protection information for the P-19 (Flat Face B) Russian Mobile 2D UHF Radar:
+The Armor is INA.
+The Applique Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

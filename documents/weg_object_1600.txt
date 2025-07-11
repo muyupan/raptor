@@ -1,0 +1,126 @@
+This document describes the Oste Class (Type 423 Class) German Intelligence Collection Ship.
+
+The Oste class intelligence collection ships are officially designated as fleet service ships. This class is also referred as the Type 423. Three ships of the class were built and are currently in service with the German Navy. These are Oste, Oker and Alster. The lead ship was commissioned in 1988. They replaced the precious Type 422 class. Vessels received the same name and pennant numbers as the three Type 422 class ships they replaced. Currently all Oste class ships are assigned to the 1st submarine squadron.
+
+   The Oste class are purpose-built reconnaissance and intelligence collection ships. Primary function of these vessels is strategic intelligence gathering. These were originally intended to gather data on the Soviet warships. Vessels are fitted with a wide array of electromagnetic, hydroacoustic and electro-optic sensors. Ships of this class can be also used as advanced warning units. These electronic surveillance ships carry no armament.
+
+   Crew of the ship includes 36 sailors and up to 40 intelligence technicians. Accommodation for the crew was designed to civil standard, so the Oste class ships offer more comfort for the crew than other German warships.
+
+   Ships are powered by two Humboldt-Deutz diesel engines, developing 4 400 hp each and delivering power to two shafts. Vessels have a range of 5 000 nautical miles (more than 9 000 km).
+
+This equipment has proliferated into the following countries: Germany.
+
+Here is Variants information for the Oste Class (Type 423 Class) German Intelligence Collection Ship:
+The Oste (A52) is Commissioned: 1988
+Status: Active.
+The Oker (A53) is Commissioned: 1988
+Status: Active.
+The Alster (A50) is Commissioned: 1989
+Status: Active.
+
+Here is System information for the Oste Class (Type 423 Class) German Intelligence Collection Ship:
+The Alternative Designation is Oste Class; Type 423 Class.
+The Total Built is 3 ships in total built.
+The Type is Intelligence Collection Ship.
+The Builder is Flensburger Schiffbau-Gesellschaft, Flensburg.
+The In Service is 1988-Present.
+The Crew is 42 + 38 technicians.
+The Note is All ships are currently based in Eckernförde and belong to the 1st Ubootgeschwader (1st Submarine Squadron) stationed in Eckernförde..
+
+Here is Dimensions information for the Oste Class (Type 423 Class) German Intelligence Collection Ship:
+The Length is 83.5 m.
+The Beam is 14.6 m.
+The Draft is 4.2 m.
+The Displacement, Standard is 2,375 tons.
+The Displacement, Full Load is 3,251 tons.
+
+Here is Propulsion System information for the Oste Class (Type 423 Class) German Intelligence Collection Ship:
+The Main Engine Name is 2 x Deutz-MWM BV 16M 628 diesels;.
+The Main Engine Power is 8,800 total bhp.
+The Auxiliary Engine Name is 2 x 380-shp electric motors for low speed, quiet operations.
+The Generators is 2 x MWM-KHD 604 V12 diesel generator sets.
+The Maximum Range is 5,000 nm at 18 kts.
+The Maximum Speed is 20 knots.
+The Endurance is INA.
+The Propellers is 2 fixed-pitch 6-bladed propellers.
+
+Here is Communications information for the Oste Class (Type 423 Class) German Intelligence Collection Ship:
+The Note is Classified Information..
+
+Here is System information for the Oste Class (Type 423 Class) German Intelligence Collection Ship of the Missile Weapon System:
+The Name is FIM-92 Stinger.
+The Type is lightweight, short-range, heat-seeking, surface-to-air missile (SAM).
+The Quantity is 2 x Stinger AAM launchers.
+The Missile Basic Load is INA.
+The Length is 1.52 m.
+The Diameter is 70 mm.
+The Weight is 10.0 kg.
+The Warhead Weight is 3.0 kg.
+The Warhead Type is Penetrating high-explosive; impact fuze.
+The Engine is 1 x Atlantic Research Mk 27 dual-thrust solid-fuel rocket.
+The Speed is 2,445 ft/sec (745 m/sec; Mach 2.2).
+The Maximum range is 4.8 km.
+The Maximum Altitude is 3,800 m.
+The Guidance System is all-aspect passive infrared homing.
+
+Here is Gun Weapon System #1 information for the Oste Class (Type 423 Class) German Intelligence Collection Ship of the Gun Weapon Systems:
+The Name is Mauser BK-27.
+The Type is Revolver Cannon.
+The Caliber is 27mm.
+The Manufacturer is Mauser (now Rheinmetall).
+The In Service is 1977-Present.
+The Proliferation is +3,100 built.
+The Length is 2.31 m.
+The Barrel Length is 27×145 mm.
+The Weight is 100 kg.
+The Barrels is Single barrel.
+The Action is Revolver.
+The Rate of Fire is 1,000–1,700 rpm.
+The Muzzle Velocity is 1,100 m/s.
+
+Here is Ammunition Gun Weapon System #1 information for the Oste Class (Type 423 Class) German Intelligence Collection Ship of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 27.
+The Shell is 27×145 mm.
+The Basic Load is 4,000 Rounds.
+
+Here is Gun Weapon System #2 information for the Oste Class (Type 423 Class) German Intelligence Collection Ship of the Gun Weapon Systems:
+The Name is M2 Browning.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Quantity is 2 x 12.7mm M2 Browning Heavy Machine Guns.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight is 38 kg (83.78 lb)
+58 kg (127.87 lb) with tripod and T&E (Traverse and Elevation Mechanism).
+The Action is Short recoil-operated.
+The Rate of Fire is 450–600 rounds/min.
+The Muzzle Velocity is (890 m/s.
+The Maximum Firing Range is 7,400 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is Belt-fed (M2 or M9 links).
+
+Here is Ammunition Gun Weapon System #2 information for the Oste Class (Type 423 Class) German Intelligence Collection Ship of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Basic Load is 2,000 Rounds each.
+
+Here is Fire Control information for the Oste Class (Type 423 Class) German Intelligence Collection Ship:
+The Note is Sea Weapon Systems..
+
+Here is Radar Systems information for the Oste Class (Type 423 Class) German Intelligence Collection Ship:
+The Surface Search Radar is 1 x Surface Search (Name: INA).
+The Ranging and Tracking Radar is 1 x Ranging and Tracking (Name: INA).
+The Navigation Radar is 1 x Navigation Radar (Name: INA).
+
+Here is Sonar Systems information for the Oste Class (Type 423 Class) German Intelligence Collection Ship:
+The Passive Array Sonar is 1 x STN Atlas Elektronik AISYS passive array.
+
+Here is Protection information for the Oste Class (Type 423 Class) German Intelligence Collection Ship:
+The Active Protection System is INA.
+The Electronic Warfare is 1 x 300 MHz-40 Ghz intercept suite.
+The Decoys is INA.
+The Countermeasures is 1 x EADS COLDS laser countermeasures system.
+The NBC Protection is Yes.
+

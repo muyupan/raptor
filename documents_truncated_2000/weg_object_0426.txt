@@ -1,0 +1,35 @@
+This document describes the VROD/VMAX American Versatile Radio Observation and Direction System.
+
+Description: 
+VMAX is a low-power, wideband, fast-scanning, software defined transceiver and direction finding system that can detect, locate, monitor, and jam Radio Frequency (RF) signals. The system can be utilized in multiple configurations:  man-worn/pack, vehicle based, and fixed site. Barely the size of “a lightweight backpack,” the vehicle- and -infantry portable kits come with two primary capabilities: VROD (Versatile Radio Observation & Direction) to “detect and understand” enemy electromagnetic signals, and the so-called VMAX to “search and attack” with “electronic attack effects”.
+
+
+Operational Relevance:
+Networked VROD & VMAX sensors at the squad level provides the ability to identify Signals of Interest (SOI), and leverage the system’s signal intercept, monitoring, direction finding (DF), and Time Difference of Arrival (TDOA) capabilities to provide near real time indications & warning (I&W) threat tipping, electromagnetic  spectrum monitoring (ESM), and geolocation information to the operational commander.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the VROD/VMAX American Versatile Radio Observation and Direction System:
+The Alternative Designation is VROD/VMAX; Valcour Max (VROD Modular Adaptive tX).
+The Crew is 1.
+The Length is 12.
+The Width is 5.
+The Height is 2.
+The Weight (with Battery) is 22.
+The DF Antenna Dimensions is 11in x 17in.
+The Man-Portable is Yes.
+The VHF Capable is Yes.
+The Vehicle Mounted Capable is Yes.
+The Controller Type is Android Controller with standard swipe/touch gestures (wired/wireless).
+The Spectrum Display is 10-200.
+The RX/TX Bandwidth (Instantaneous) is 20.
+The Bandwidth is 20-40.
+The UHF Capable is Yes.
+The Global Position System (GPS) is Yes.
+The Wi-Fi Capable is Yes.
+The SDR Architecture is Yes.
+The Fast Scanning ES/EA/DF Capable is Yes.
+The Modular Amplifiers is 5 watt and 100 watt.
+The ECM Interoperable is Yes.
+The Note is The software of the VROD/VMAX can be upgraded in the field by the individual user.
+

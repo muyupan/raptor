@@ -1,0 +1,176 @@
+This document describes the SH-1 Chinese 155mm Self-Propelled Howitzer (SPH).
+
+The SH1 is a wheeled, self-propelled, 155mm howitzer designed and manufactured by the Chinese Defense Company, Norinco. Compared with other similar artillery systems, the SH1 has advantages such as a high mobility, greater fire-power, fast hit capability, modular design, and cost-effectiveness. The SH1 was presented for the first time to the public at the Defense Exhibition in Dubai, IDEX 2010.
+
+This equipment has proliferated into the following countries: China, Myanmar, Pakistan.
+
+Here is Variants information for the SH-1 Chinese 155mm Self-Propelled Howitzer (SPH):
+The SH2 is The SH2 is a wheeled self-propelled howitzer designed and manufactured by the Chinese Defence Company Norinco. The SH2 artillery system was first unveiled at the Abu Dhabi International Defence Exhibition in 2007 (IDEX 2007) held between 18 and 22 February, and is being actively prompted to the export market. The lightweight and high-mobility features of this artillery system may be of special appeal to the PLA airborne force and marine corps. The SH2 has demonstrated superior performance under all weather conditions and a wide range of altitude, and it can be equipped with special gear as per mission requirement.
+
+It is equipped with a digitised information system, which includes a gunner's terminal and digitised tactical radio so the system can be seamlessly integrated into a C4ISR system.
+
+It also has an autonomous navigation and orientation system, digital command-and-control, and FCS.
+
+There are a number of other recent Chinese SP artillery systems, tracked and wheeled, that have the same SH designator:
+
+SH2 - 122 mm (6 × 6) SP artillery system. 
+SH3 - 122 mm full tracked SP artillery system. The PLA have introduced the 122 mm full tracked SP howitzer called the PLZ-07.This is very similar to the first system but had a different hull and suspension.
+SH5 - 105 mm (6 × 6) SP artillery system..
+The SH3 is 122 mm full tracked SP artillery system. The PLA have introduced the 122 mm full tracked SP howitzer called the PLZ-07.This is very similar to the first system but had a different hull and suspension..
+The SH5 is 05 mm (6 × 6) SP artillery system..
+
+Here is System information for the SH-1 Chinese 155mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is PCL-09 or CS/SH1 (Chinese export name).
+The Manufacturer is NORINCO.
+The Type is 155mm Self Propelled Howitzer (SPH).
+The Family is SH Series.
+The Crew is 6.
+The Chassis is 6x6 truck, with the SH1 built on the rear of the WS5252 (6 × 6) cross-country truck chassis.
+The Displacement Time is 50.
+The Emplacement Time is 1.
+The Cruising Range (Road) is 600.
+The Maximum Effective Range (Howitzer) is 53,000.
+The Add on Parts is Yes, Navigation, positioning and targeting systems..
+
+Here is Dimensions information for the SH-1 Chinese 155mm Self-Propelled Howitzer (SPH):
+The Length is 9.6.
+The Width is 2.6.
+The Height is 3.5.
+The Weight, Combat is 22.5.
+The Ground Pressure is INA.
+
+Here is Automotive information for the SH-1 Chinese 155mm Self-Propelled Howitzer (SPH):
+The Engine Name is WD615.44.
+The Engine Type is Water-cooled, Supercharged Diesel.
+The Engine Power is 315.
+The Transmission is Automatic.
+The Cruising Range is 600.
+The Speed, Maximum Road is 90.
+The Speed, Average Cross is 75.
+The Ground Clearance is 400.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth (Without Preperation) is 1.2.
+The Central Tire Pressure System is Yes.
+The Wheelbase is 3.45 + 1.45.
+The Track is 2.056.
+The Angle of Approach is 32.
+The Angle of Departure is 36.
+The Gradient is 58.
+The Side Slope is 40.
+The Verttical Obstacle (Fowards) is 0.4.
+The Trench is 0.7.
+The Turning Radius is 11.
+The Power Steering is Yes.
+
+Here is TBR-142 information for the SH-1 Chinese 155mm Self-Propelled Howitzer (SPH) of the Communications:
+The VHF FM Transceiver is Yes, TBR-142(I).
+The VHF Range is 1 to 50.
+The Megahertz is 40.000 to 59.975.
+The Output Power is 1 to 0.3.
+The Power is 12V Ni-Ca Rechargeable Battery or external 12V DC power source.
+The Dimensions is 217x135x58.
+The Weight is 2.7.
+The Antennas is 3 Total: a 1.3m whip antenna, a 0.3m short antenna, and a 10m  wire antenna.
+The Proliferated is Widely with Artillery/Gun/Missile/Reconnaissance/C2 Units.
+The Control Device is TBR-142(II).
+The Multi-function Field Phone is TBR-142(IIID).
+The Anti-Aircraft Control Unit is TBR-142(IIIG).
+The ZXY88-200 C2 Capable is Yes.
+The Messaging is Limited Capability.
+The Amplifier is Available.
+The Physical Conditions Limitations is Terrain and Weather favorable.
+
+Here is System information for the SH-1 Chinese 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is PLZ-05 or the Type 05.
+The Type is 155mm Self Propelled Howitzer (SPH).
+The Breech Type is American Style.
+The Length, Barrel is 52 calibers.
+The Loader Type is All standard 155mm NATO Projectiles.
+The Max Rate of Fire is 4-6.
+The Sustain Rate of Fire is 4.
+The Time the Max Rate of Fire can be Sustained is 1.
+The Muzzle Brake Type is Yes.
+The Powered Elevation is Yes.
+The Max Elevation is +70.
+The Min Elevation is -3.
+The Powered Traverse is Yes.
+The Traverse Left is 20.
+The Traverse Right is 20.
+The Range Finder Type is Laser.
+The Flick Rammer is Yes.
+The Charge Zone is 10.
+The Precision-Guided Munitions is Capable to Fire.
+The Note is SH1 can fire all NATO-standard 155mm artillery projectiles and
+charges..
+
+Here is Ammunition information for the SH-1 Chinese 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is 155 mm HE ERFB RA/BB very long range artillery projectile (VLAP-Rocket Assistance/Base Bleed).
+The Caliber is 155.
+The Muzzle Velocity is 925.
+The Fuse Type is INA.
+The Basic Load is 20 total in combination of projectiles.
+The Effective Range is 53 (with Rocket Assisted V-LAP).
+The Maximum Range is 56.
+The Armor Penetration is INA.
+The Rocket Motor Total Impulse of is 6,500.
+The Rocket Motor Propellant Charge Weight: is 3.
+The Rocket Motor Specific Impulse is 2,170.
+The Projectile Total Weight is 48.
+The Warhead Weight is 30.
+
+Here is Ammunition Variants information for the SH-1 Chinese 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The HE ERFB is Available.
+The HE ERFB-BB is Available.
+The ERFB-BB cargo is Available.
+The ERFB Illuminating is Available.
+The ERFB Smoke Base Ejection is Available.
+The ERFB White Phosphorous is Available.
+
+Here is System information for the SH-1 Chinese 155mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Name is QJZ-89 or Type 89.
+The Type is 12.7mm Heavy Machine Gun.
+The Manufacturer is NORINCO.
+The Cartridge is 12.7x108.
+The Length, Total is 2,119.
+The Length, Barrel is 1,003.
+The Weight (Gun Only) is 17.5.
+The Weight, (Tripod Only) is 8.5.
+The Max Rate of Fire is 600.
+The Sustain Rate of Fire is 450-600.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Range Finder Type is Iron/Optical.
+The Action is Gas/Recoil.
+The Feed System is Belt.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the SH-1 Chinese 155mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Muzzle Velocity is 850.
+The Basic Load is INA.
+The Max Effective Range is 1,600.
+The Armor Penetration is Yes.
+
+Here is Fire Control information for the SH-1 Chinese 155mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is Yes, Gunner, aimer and loader are all provided with their own flat panel displays (FPD) displays..
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is large spade lowered to the ground to provide a stable firing position.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is INA.
+The Laser Observation Post is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+
+Here is Protection information for the SH-1 Chinese 155mm Self-Propelled Howitzer (SPH):
+The Hull Armor is Protection against small arms fire and artillery shell splinters.
+The Turret Armor is Protection against small arms fire and artillery shell splinters.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Available.
+

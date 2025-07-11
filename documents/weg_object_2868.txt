@@ -1,0 +1,76 @@
+This document describes the PU-12M7 Russian 8x8 Mobile Command and Control Vehicle.
+
+The PU-12M7 is an improved variant of the PU-12M6. It has improved sensors and upgraded air defense command and control capabilities. The system is normally found in a missile regiment at divisional level, controlling up to five subordinate surface-to-air missile firing batteries.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation.
+
+Here is Variants information for the PU-12M7 Russian 8x8 Mobile Command and Control Vehicle:
+The PU12M6 Battery Command Post is The PU-12M6 mobile control post is a BTR-80 variant designed to automate combat control of weapons employment by Air Defense units on the move and at halt under air attack. It is a battery Command Post intended to operate as part of special purpose automated control system for multiple surface-to-air weapons systems...
+
+Here is System information for the PU-12M7 Russian 8x8 Mobile Command and Control Vehicle:
+The Alternative Designation is PU-12M7.
+The Type is Battery Command Post Vehicle.
+The Manufacturer is INA.
+The Family is PU-12M Series.
+The In Service is Late 1980s - Present.
+The Crew is 4.
+The Chassis is BTR-80.
+The Passenger Capacity is INA.
+
+Here is Dimensions information for the PU-12M7 Russian 8x8 Mobile Command and Control Vehicle:
+The Length is 7.7.
+The Width is 2.9.
+The Height is 2.41.
+The Weight, Combat is 13.6.
+
+Here is Automotive information for the PU-12M7 Russian 8x8 Mobile Command and Control Vehicle:
+The Engine Name is KamAZ-7403.
+The Engine Type is Water-cooled, V8 Diesel.
+The Engine Power is 260.
+The Maximum Range is 600.
+The Speed, Maximum Road is 80.
+The Speed, Average Cross is 50.
+The Speed Maximum Swim is 10.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.5.
+The Trench is 2.0.
+The Fording Depth is Amphibious.
+
+Here is Communications information for the PU-12M7 Russian 8x8 Mobile Command and Control Vehicle:
+The VHF Radios is 5 (Software-defined).
+The HF Radios is 2.
+The Field Telephone Ports is 5.
+The Range is Radio: up to 40 km (VHF). Field Telephone Cable: up to 15 km..
+The Data Channels is 5.
+
+Here is Command and Control System information for the PU-12M7 Russian 8x8 Mobile Command and Control Vehicle:
+The Onboard Power Supply System is Yes.
+The Navigation System is Yes, using GLONASS and NAVSTAR..
+The Survey System is Yes.
+The Data Transmission and Reception Equipment is Yes.
+The Control of Short-Range Air Defense Missile Batteries: Via Coded Datalink is up to 6.
+The Control of Short-Range Air Defense Missile Batteries: Via Telephone Link is up to 4.
+The Control of Short-Range Air Defense Missile Batteries: Tor-M1 launchers (via coded datalink) is up to 4.
+The Control of Short-Range Air Defense Missile Batteries: Igla MANPADS (via coded datalink) is up to 6.
+The Primary (Radar with Analogue output signal) is 1.
+The Radars with Coded Output Signal is 3.
+The Number of Received Targets is up to 99.
+The Coordinates Measurement Envelope is up to 100 km.
+The Coordinates Measurement Envelope Maximum Altitude is up to 25 km.
+The Data Transmission Range via field Telephone Wire is up to 15 km.
+
+Here is Fire Control information for the PU-12M7 Russian 8x8 Mobile Command and Control Vehicle:
+The Improved Masthead is An SRTR passive ESM system and electro-optical featuring 4 x static antennas mounted halfway up the mast to enable short-range radar. Also includes an electro-optical unit mounted on the top for both day and night cameras, providing hemispherical coverage. These vehicle-mounted sensors are useful when engaging small reconnaissance or attack UAV threats..
+The Night Vision Devices is Yes.
+
+Here is Protection information for the PU-12M7 Russian 8x8 Mobile Command and Control Vehicle:
+The Hull Armor is Front armor of the BTR-80 APC protects against 12.7 mm rounds. All-round protection is against 7.62 mm rounds and artillery shell splinters..
+The Applique Armor is Available.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 6 x 81-mm smoke grenade launchers.
+The Life Support System is Yes.
+

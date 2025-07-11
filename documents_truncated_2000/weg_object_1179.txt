@@ -1,0 +1,150 @@
+This document describes the JRTC VISMOD: Mi-17 (Hip H) Russian Medium Transport Helicopter.
+
+The military variant Mi-17 (NATO reporting name: Hip) is a Soviet/Russian helicopter in production at two factories in Kazan and Ulan-Ude. It is known as the Mi-8M series in Russian service. It is a medium twin-turbine transport helicopter. There are also armed gunship versions. The improved version of the Mi-8 is the Mi-17 Hip multipurpose helicopter, also known as the Mi-8TMB. It is specifically designed for improved capabilities at high altitudes and in hot weather conditions.
+
+The Mi-17 is identifiable from the Mi-8 by the additional air filters on the turbine air intakes, as well as left hand side mounted tail rotor, required by the more powerful TB-3-117A turbo-shaft engines it is fitted with. The Mi-17 can climb at the rate of 8m/s. The maximum and cruise speed of the helicopter are 250km/h and 225 km/h respectively. The range of the helicopter is 465 km and the service ceiling is 6,000m. The aircraft weighs around 7,489 kg and its maximum take-off weight is 13,000kg.
+
+
+The Mi-8/17 have given rise to a bewildering range of versions that fulfill a wide variety of specialized roles. Dedicated combat support variants include airborne reserve command post, electronic counter measures (with onboard jammers), Communications intelligence and command relay. Other versions carry out delivery of fuel to front-line units, photo-reconnaissance, artillery fire-correction, reconnaissance, VIP transport, mine laying and mine clearing.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the JRTC VISMOD: Mi-17 (Hip H) Russian Medium Transport Helicopter:
+The List of Variants - See Below is Mi-8 Hip-A
+Mi-8 Hip-B
+Mi-8T Hip-C (Transportny, transport)
+Mi-8TM
+Mi-8TV
+Mi-8S Hip-C (Salon)
+Mi-8 VIP
+Mi-8VZPU Hip-D
+Mi-8TB Hip-E
+Mi-8TBK Hip-F ( Kommercheskiy, commercial)
+Mi-9 Hip-G
+Mi-8MPS
+Mi-8SMV Hip-J
+Mi-8P/PPA Hip-K
+Mi-8AMTSh/Mi-171Sh
+Mi-8AMTSh-V
+Mi-8AMTSh-VA
+Mi-8TG
+Mi-8 Rana
+Mi-8MTPR-1
+Mi-17/Mi-8MT/Mi-8MTV/Mi-17V Hip-H
+Mi-17P
+Mi-17PI
+Mi-17PG
+Mi-17Z-II
+Mi-17MD
+Mi-17KF
+Mi-171
+Mi-171M/Mi-171A2
+Mi-17M/Mi-171V
+Mi-172
+Mi-8MTV (Visotnii, high altitude)
+Mi-17 Pratap
+Mi-17-1VA
+Mi-17V5
+Mi-171E
+Mi-171E2.
+
+Here is System information for the JRTC VISMOD: Mi-17 (Hip H) Russian Medium Transport Helicopter:
+The Alternative Designation is Mi-17; Mil Mi-17; Hip H.
+The Manufactuer is Kazan Helicopter Plant
+Ulan-Ude Aviation Plant.
+The Primary Function is Armed assault-transport.
+The Type is Medium twin-turbine transport helicopter.
+The Crew is 3 (2x pilots, 1x flight engineer).
+The Blades, Main Rotor is 5.
+The Blades, Tail Rotor is 3.
+The Day/Night Capable is The Mi-8 is equipped with instruments and avionics allowing operation in day, night, and instrument meteorological conditions..
+The All Weather Capable is The Mi-8 is equipped with instruments and avionics allowing operation in day, night, and instrument meteorological conditions..
+The Takeoff or Landing Limitations is INA.
+The Vertical Climb Rate is 9.
+The Number of Hard Points is 4.
+The Standard Payload is HIP C: 24 troops, or 3,000 kg internal or external loads on 4x hardpoints..
+The Landing Gear is Fixed main gear struts run down and out from attachment points on the upper, rear fuselage. A second strut holds the wheel well away from the lower fuselage. The two-wheel nose gear is fitted under the fuselage just behind the cockpit.
+
+Here is Dimensions information for the JRTC VISMOD: Mi-17 (Hip H) Russian Medium Transport Helicopter:
+The Length, with Rotors Turning is 25.2.
+The Length, Fuelage is 18.2.
+The Width is 2.5.
+The Height is 5.65.
+The Main Rotor Diameter is 21.3.
+The Tail Rotor Diameter is 3.9.
+The Cargo Compartment, Length is 5.3.
+The Cargo Compartment, Width is 2.3.
+The Cargo Compartment, Height is 1.8.
+The Weight, Maximum Gross is 13,000.
+The Weight, Normal Takeoff is 11,100.
+The Weight, Empty is 7,489.
+
+Here is Automotive information for the JRTC VISMOD: Mi-17 (Hip H) Russian Medium Transport Helicopter:
+The Engine Name is 2 x TV3-117VM.
+The Engine Type is Medium twin-turbine.
+The Engine Power is 1,900.
+The Speed, Maximum is 250.
+The Speed, Average is 240.
+The Service Ceiling is 4,500.
+The Range, Maximum Load is 350.
+The Range, Normal Load is 460.
+The Range, with Auxilery Fuel is 950.
+The Fuel, Internal is 445 liters.
+The Fuel, Internal Aux Tank is 915 liters ea.
+The Fuel, External Fuel Tank is 45 liters in port tank,
+680 liters in starboard tank.
+The Service Ceiling, Service is 6,000.
+The Service Ceiling,Hover (out of ground effect) is 800.
+The Service Ceiling,Hover (in ground effect) is 1,900.
+The Vertical Climb Rate is 9.
+The Standard Payload is HIP H: 24 troops, or 3,000 kg internal or external loads on 4x hardpoints..
+
+Here is Communications information for the JRTC VISMOD: Mi-17 (Hip H) Russian Medium Transport Helicopter:
+The Radio is INA.
+
+Here is Door Mounted Gun information for the JRTC VISMOD: Mi-17 (Hip H) Russian Medium Transport Helicopter:
+The Note is Loaded combat troops can fire personal weapons through windows from inside cabin..
+
+Here is Rocket System information for the JRTC VISMOD: Mi-17 (Hip H) Russian Medium Transport Helicopter of the Wing Mounted Weapons:
+The Name is UB-32 (rocket pod).
+The Type is 57 mm, reusable, 32-salvo rocket pod.
+The Length, Launcher is 2,080.
+The Diameter, Launcher is 464.
+The Basic Load for the UB-32 Rocket Pod is 4, one on each hardpoint.
+The Number of Rockets in each UB-32 Rocket Pod is 32.
+
+Here is Rocket information for the JRTC VISMOD: Mi-17 (Hip H) Russian Medium Transport Helicopter of the Wing Mounted Weapons:
+The Name is S-5 Rockets.
+The Type is Rocket.
+The Length, Rocket is 2,080.
+The Diameter, Rocket is 481.
+The Weight Empty is 103.
+The Weight Loaded is 264.
+The Warhead Types is produced in a variety of sub-types with different warheads, including HEAT anti-armour (S-5K), high-explosive fragmentation (S-5M/MO), smoke, and incendiary rounds.
+The Maximum Effective Range is 3-4 km depending on the warhead and fuze.
+The Basic Load is 32 S-5 Rockets per UB-32 Rocket Pod.
+
+Here is Fire Control information for the JRTC VISMOD: Mi-17 (Hip H) Russian Medium Transport Helicopter:
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Digital or Analog Cockpit is INA.
+The Direct Fire Control is Yes.
+The Laser Designator is INA.
+The Automated Helmet is INA.
+The Position Location System is Yes.
+The Weather Radar is Type 8A-813.
+The Navigation is DISS-32-90 Doppler navigation under tailboom.
+
+Here is Protection information for the JRTC VISMOD: Mi-17 (Hip H) Russian Medium Transport Helicopter:
+The Armor Type is Bolt-on.
+The Fuselage is semi-monocoque pod and boom fuselage has a nearly stepless front.
+The Cockpit Glass is large, five-section windshield and lower nose windows.
+The Stealth Properties is No.
+The Heat Signature Reduction is IR over engine exhausts.
+The Add on Armor is Available.
+The NBC Protection is Yes.
+The EW is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is Yes, ASO-3 and ASO-2 chaff/flare countermeasures system.
+The Jammer is Hot Brick IR.
+

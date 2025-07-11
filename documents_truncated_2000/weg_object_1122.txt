@@ -1,0 +1,27 @@
+This document describes the XD-D11G Chinese HF Anti-Jamming Communication Radio.
+
+The XD-D11G Chinese HF Anti-Jamming Communication Radio is a new generation of HF manpack anti-jamming communication equipment Communication digitalization is realized by channel and operation digitalization The communication quality and anti-jamming ability are improved in great extent It can also be equipped with 125W power amplifier to operate The transceiver has the functions of fixed frequency, hopping frequency, adaptive and automatic communications and more It can perform analog voice (same/different frequency for Rx and Tx), digital voice, data flow and other operations It has the functions of pulse interference canceling, noise reduction, self-test, online programming, encryption, remote control, over/under voltage protection Built-in automatic antenna tuner to tune the different types of antenna automatically Aluminum alloy telescopic case structure is adopted, so it is damp-proof, moldproof and salt-fog proof The transceiver is small in size, light in weight, easy in operation, so it is suitable for field operation.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the XD-D11G Chinese HF Anti-Jamming Communication Radio:
+The Alternate Designation is XD-D11G.
+The Type is HF Anti-Jamming Communication Radio.
+The Manufacturer is SECIBC.
+The Frequency Range is 1.6000 to 29.9999MHz.
+The Frequency Spacing is 100Hz.
+The Operation Mode is USB/LSB voice, CW.
+The Frequency Stability is ≤±1 x 10-6/d.
+The Storage Channel is 100 for fixed frequency, 100 for adaptive.
+The Power Supply is 12V DC, ±10%.
+The Power Consumption is <450mA for Rx, <5A for Tx.
+The Voice Power is 20W ±1dB (PEP) CW power: 20 ±1dB (average power).
+The Inter-Modulation Distortion is ≤30dB Sideband suppression: ≤-50dB Carrier suppression: ≤-50dB.
+The Receiver Performances is ≤1μV (S+N/N=12dB) IF/imagine rejection: ≥80dB Audio response: not more than 6dB in the frequency range of 300 to 3000Hz.
+
+Here is Dimensions information for the XD-D11G Chinese HF Anti-Jamming Communication Radio:
+The Length is 248 mm.
+The Width is 230 mm.
+The Height is 80 mm.
+The Weight is 4.5 kg.
+

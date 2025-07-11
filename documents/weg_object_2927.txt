@@ -1,0 +1,27 @@
+This document describes the LPD-801 Russian Unmanned Aerial Vehicle (UAV) Jammer.
+
+The LPD-801 Russian Unmanned Aerial Vehicle (UAV) Jammer is designed to suppress communication channels and data transmission from UAVs, as well as to suppress the navigation channel. The product can be used to disrupt the flight of the UAV in restricted areas, unauthorized transmission of UAV data to the operator, as well as to block radio devices based on Bluetooth, Wi-Fi, GPS, Glonass, Beidou and Galileo. Flight disruption is based on blocking the UAV control channel and the navigation channel. The product is equipped with a quick-detachable magazine-type battery pack, which allows you to quickly replace it.
+
+This equipment has proliferated into the following countries: Russian Federation, Ukraine.
+
+Here is System information for the LPD-801 Russian Unmanned Aerial Vehicle (UAV) Jammer:
+The Alternate Designation is LPD-801.
+The Type is Unmanned Aerial Vehicle (UAV) Jammer.
+The Manufacturer is PPSH Laboratory.
+The Operating Frequency Range I is 2400 - 2483.5 MHz.
+The Operating Frequency Range II is 5725 - 5825 MHz.
+The Operating Frequency Range III is 1575 - 1602 MHz.
+The Working Mode is Automatic, Manual.
+The Antenna Beam Width Range I is 30 deg.
+The Antenna Beam Width Range II is 24 deg.
+The Antenna Beam Width Range III is 35 deg.
+The UAV Suppression Effective Distance is 1 km.
+The Additional Options is As options, it is possible to equip with an optical, thermal imaging or collimator sight..
+The Note is The product LPD-801 has the Declaration of the EAEU for compliance with the requirements of TR TS 020/2011 Electromagnetic compatibility of technical means..
+
+Here is Dimensions information for the LPD-801 Russian Unmanned Aerial Vehicle (UAV) Jammer:
+The Length is 970 mm.
+The Width is 320 mm.
+The Height is 100 mm.
+The Weight is 4.1 kg with battery.
+

@@ -1,0 +1,83 @@
+This document describes the II-38 (May) Russian Anti-Submarine Warfare (ASW) Aircraft.
+
+II-38 (May) Russian Anti-Submarine Warfare (ASW) Aircraft is a maritime patrol aircraft and anti-submarine warfare aircraft designed in the Soviet Union. It was a development of the Ilyushin Il-18 turboprop transport. The Il-38 is an adaptation of the four-engined turboprop Ilyushin Il-18 for use as a maritime patrol aircraft for the Soviet Navy. It met a requirement to counter American ballistic missile submarines. The Communist Party Central Committee and the Council of Ministers issued a joint directive on 18 June 1960, calling for a prototype to be ready for trials by the second quarter of 1962. The fuselage, wing, tail unit, and engine nacelles were the same as the Il-18 and it had the same powerplant and flight deck. An aerodynamic prototype of the Il-38 first flew on 28 September 1961, with the first production aircraft following in September 1967. Production continued until 1972 when the longer-range and more versatile Tupolev Tu-142 derivative of the Tupolev Tu-95 strategic bomber entered service.
+
+The airframe is based on the Il-18, with the wings moved forward 3 m (9.84 ft). Unlike the Il-18, only the forward fuselage of the Il-38 is pressurized. The tail contains a MAD, while under the forward fuselage, a Berkut ("Golden Eagle") search radar (named "Wet Eye" by NATO) is housed in a bulged radome. There are two internal weapons bays, one forward of the wing, housing sonobuoys, and one behind the wing housing weapons.
+
+Some Western sources state that 58 were produced; the commander of the ASW squadron at Ostrov has stated that Soviet Naval Aviation received 35, of which about thirty remain in service with Russian Naval Aviation. Five were passed to India in 1977/8. In the mid-1990s it seems the Tu-204/Tu-214 airliner won a competition against the Beriev A-40/Be-42 amphibious plane to replace the Il-38 in Russian service, but a lack of funds crippled the project. More recently an A-40 variant seems to be under development to replace the Il-38.
+
+India received three ex-Soviet Naval Aviation Il-38s in 1977, with two more arriving in 1983. Indian modifications included fitting pylons to the fuselage side to carry the Sea Eagle anti-ship missile. The Il-38s of the Indian Navy have been sent back to Russia for upgrades. They will incorporate the new Sea Dragon avionic suite, incorporating a new radar, a Forward-looking infrared turret under the nose, and an electronic intelligence system housed in a box-like structure mounted on struts above the forward fuselage. Three upgraded aircraft, designated Il-38 SD, have been delivered to the Indian Navy.
+
+This equipment has proliferated into the following countries: India, Russian Federation, Ukraine.
+
+Here is Variants information for the II-38 (May) Russian Anti-Submarine Warfare (ASW) Aircraft:
+The Il-38 is Production aircraft.
+The Il-38M is Modified with a receiver probe as part of a probe and drogue air refueling system. System not adopted..
+The Il-38MZ is Tanker variant of the Il-38. Prototype only.
+The Il-38N is This is an upgraded variant that is fitted with the Novella sensor system; see main entry. Improved variant sometimes referred to as Il-38SD for Sea Dragon, which is a new search and tracking system. The Russian Navy version is equipped with the Novella P-38 system..
+
+Here is System information for the II-38 (May) Russian Anti-Submarine Warfare (ASW) Aircraft:
+The Alternate Designation(s) is II-38; NATO: May.
+The Type is Anti-Submarine Warfare (ASW) Aircraft.
+The Manufacturer is Ilyushin OKB, Moscow, Russia.
+The Crew is 12 (pilot, co-pilot, flight engineer, radar operator, navigator, 3 systems operators,tactical coordinator, 3 observers).
+The Number of Engines is 4.
+The Number of Hard Points is Internal bomb bay.
+The Cargo Capacity is 9,000 kg.
+
+Here is Dimensions information for the II-38 (May) Russian Anti-Submarine Warfare (ASW) Aircraft:
+The Length is 39.60 m.
+The Height is 10.16 m.
+The Width (Wing Span) is 37.40 m.
+The Wing Area is 140 sq m.
+The Empty Weight is 36,000 kg.
+The Maximum Takeoff Weight is 63,500 kg.
+
+Here is Automotive information for the II-38 (May) Russian Anti-Submarine Warfare (ASW) Aircraft:
+The Engine Name is 4 x Ivchenko AI-20M.
+The Engine Type is Turboprop.
+The Engine Power is 4,250 shaft hp each.
+The Internal Fuel Capacity is 30,000 liters.
+The Maximum Speed is 720 km/h.
+The Patrol Speed is 400 km/h.
+The Minimum Flying Speed is 190 km/h.
+The Range is 7,200 km.
+The Takeoff Run is 1,300 m.
+The Landing Run is 850 m.
+The Endurance is 13 hours.
+
+Here is System information for the II-38 (May) Russian Anti-Submarine Warfare (ASW) Aircraft of the Missile System:
+The Name is R-73 (AA-11 Archer).
+The Type is Air-to-Air Missile.
+The Length is 2.93 m.
+The Diameter is 165 mm.
+The Wingspan is 510 mm.
+The Weight is 105 kg.
+The Engine is Solid-fuel rocket engine.
+The Guidance System is All-aspect infrared homing.
+The Range is 30 km.
+The Maximum Speed is Mach 2.5.
+
+Here is Anti-Submarine Warfare (ASW) Aircraft information for the II-38 (May) Russian Anti-Submarine Warfare (ASW) Aircraft:
+The ASW Suite is Magnetic Anomaly Detector (MAD) System.
+The Sonobuoys is The Il-38 can carry and drop a variety of sonobuoys. These include up to 144 small RGB-1 radio beacons, 10 RGB-2 passive sonobuoys and 3 RBG-3 or RGB-16 sonobuoys with active/passive sonar..
+The Torpedoes is 450mm AT-1;
+533mm AT-2;
+400mm AT-3 Orlan (air launched UMGT-1);
+APR-1 Kondor rocket torpedo;
+APR-2 Yastreb rocket torpedo.
+The Mines is AMD-2.
+The Depth Charges is PLAB-50;
+PLAB-250-120;
+PL-250-120.
+
+Here is Radar Systems information for the II-38 (May) Russian Anti-Submarine Warfare (ASW) Aircraft:
+The Surface / Search Radar is 1 x Wet Eye surface search.
+
+Here is Protection information for the II-38 (May) Russian Anti-Submarine Warfare (ASW) Aircraft:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

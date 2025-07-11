@@ -1,0 +1,154 @@
+This document describes the M47 Patton American Main Battle Tank (MBT).
+
+The M47 Patton was an American main battle tank, a development of the M46 Patton mounting an updated turret, and was in turn further developed as the M48 Patton. It was the second American tank to be named after General George S. Patton, commander of the U.S. Third Army during World War II and one of the earliest American advocates of tanks in battle.
+
+The M47 was the U.S. Army's and Marine Corps' primary tank, intended to replace the M26 Pershing and M46 Patton medium tanks. The M47 was widely used by U.S. Cold War allies, both SEATO and NATO countries, and was the only Patton series tank that never saw combat while in US service.
+
+Although similar in appearance to the later M48s and M60s, these were completely new tank designs. Many different M47 Patton models remain in service internationally. The M47 was the last US tank to have a bow-mounted machine gun in the hull.
+
+Although a new power plant corrected the mobility and reliability problems of the M26 Pershing, the subsequently renamed M46 was considered a stopgap solution that would be replaced later by the T42 medium tank. However, after fighting erupted in Korea, the Army decided that it needed the new tank earlier than planned. It was deemed that there was not enough time to finish the development of the T42. The final decision was to produce another interim solution, with the turret of the T42 mounted on the existing M46 hull. Although this interim tank was itself technically immature, Army officials felt the improvements over the M46 in firepower and armor were worth the risk. The composite tank, developed by the Detroit Arsenal, was named the M47 Patton.
+
+In December 1950 the Army awarded a $100 million contract to the American Locomotive Company for the production of 500 tanks. It entered production in 1951. Its main gun was the M36 90 mm gun with an M12 optical rangefinder fitted. The secondary armament consisted of two .30 cal Browning machine guns, one in the bow and one coaxial with the 90mm main gun in the turret, and a .50 caliber Browning M2 on a pintle mount on the turret roof. The M47 was the last American-designed tank to include a bow machine gun. The T42 turret had a larger turret ring than the M26/M46 turret, and featured a needle-nose design, which improved armor protection of the turret front, an elongated turret bustle and storage bin which protruded halfway across the engine deck, and sloped sides to further improve ballistic protection; this gave the turret a decidedly lozenge-shaped profile. It also featured the M12 stereoscopic rangefinder, which was designed to improve first-round hit probability but proved difficult to use; the rangefinder protruded from both sides of the upper turret front, which would be a feature of American tanks until the advent of the M1 Abrams in 1980.
+
+Production at American Locomotive began in July 1951. Logistical and technical issues plagued production almost from the start.
+
+Truman administration policy sought to strengthen American arms makers' resilience to aerial attack by encouraging more decentralized weapons production — away from Detroit. The U.S. curtailed civilian automobile production to boost military production with the onset of the Korean War. As a result, Detroit's newly unemployed automotive workers found little work, while tank manufacturers outside Michigan lacked skilled workers. Truman's policy also counted on civilian factories being able to quickly transition to war-time production. However many factories lacked needed tank production machinery, done away with during World War II demobilization.
+
+A faulty Ordnance Corps-designed hydraulic turret-control mechanism, shared by the M41 Walker Bulldog, kept the tanks from Korea while engineers worked on a fix. Engineers improved production quality controls of the hydraulics by April 1952, and set about correcting M47s sidelined in storage. By then Army officials had scrapped plans to send the tanks to Korea, in favor of providing them to troops stationed in Europe and at home.
+
+The first M47s were not fielded to the 1st and 2nd Armored Divisions until summer 1952. Standardized in May 1952, the M47 Patton's production ran until November 1953; Detroit built 5,481 tanks, and American Locomotive Company (Alco) produced 3,095, for a total production run of 8576 M47 Pattons.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of), South Korea (Republic of Korea), Spain.
+
+Here is Variants information for the M47 Patton American Main Battle Tank (MBT):
+The M46E1 is M46E1 – pilot model, M46 hull with T42 turret, fitted with the M36 90 mm Gun, and was longer to incorporate a radio, ventilator, and featured a stereoscopic rangefinder; only one built[.
+The M47 is M47 – main production version, M46 hull modified with redesigned glacis, reduction from five to three track return rollers per side, longer mufflers on rear fenders; 8,576 built.
+The M47M is M47M – The product of an improvement program started in the late 1960s, the M47M featured the engine and fire control elements from the M60A1. The assistant driver's position was eliminated in favor of additional 90 mm ammunition. Not used by the US; over 800 vehicles were produced for Iran and Pakistan.
+The M47E is M47E – Spanish M47M austere version (kept original FCS)..
+The M47E1 is M47E1 – Second Spanish upgrade batch with rearranged main gun ammunition storage and crew heater. Both new and upgraded M47Es. 330 converted..
+The M47E2 is M47E2 – 45 built. M47E1 with Rh-105 105 mm gun and improved FCS (still electromechanical). Passive night vision for driver and commander. All M47 series MBT in Spanish service retired 1993..
+The M47ER3 is M47ER3 – Spanish armored recovery vehicle. 22 built..
+The Sabalan is Sabalan – An Iranian upgraded version of the US M47M, It has side skirts and a newly built turret fitted with a 105-mm gun, laser range finder, new fire control system and communication equipment.[34][35] Never used in active service..
+
+Here is System information for the M47 Patton American Main Battle Tank (MBT):
+The Alternative Designation is M47 Patto.
+The Type is Main Battle Tank.
+The Family is INA.
+The Crew is 5 (commander, gunner, loader, driver, assistant driver).
+
+Here is Dimensions information for the M47 Patton American Main Battle Tank (MBT):
+The Length is 8.51.
+The Width is 3.51.
+The Height is 3.35.
+The Weight, Combat is 48.6 short tons (44.1 t) combat ready.
+
+Here is Automotive information for the M47 Patton American Main Battle Tank (MBT):
+The Engine Name is Continental AV-1790-5B V12, air-cooled, gasoline engine.
+The Engine Type is Gasoline Engine.
+The Engine Power is 810.
+The Operational Range is 160.
+The Speed, Maximum Road is 48.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is INA.
+The Fuel Capacity is 233 US gal (880 l; 194 imp gal).
+The Suspension is Torsion bar suspension.
+The Gradient is 60.
+The Vertical Obstacle is 0.91 m.
+The Trench is 2.59 m.
+
+Here is System information for the M47 Patton American Main Battle Tank (MBT) of the Main Gun:
+The Name is 90mm gun M36.
+The Type is Anti-Tank Gun.
+The Length is 9.0 m.
+The Barrel Length is 4,728.21 mm.
+The Width is 4.1 m.
+The Weight is 1,030 kg.
+The Maximum Elevation is +19.
+The Minimum Elevation is -5.
+The Travere Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Muzzle Velocity is 810 m/s.
+The Maximum Firing Range is 3,200 m.
+
+Here is Ammunition information for the M47 Patton American Main Battle Tank (MBT) of the Main Gun:
+The Type is Rifle.
+The Caliber is 90.
+The Basic Load is 71 rounds, w/11 in the bustle.
+
+Here is System information for the M47 Patton American Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is M1919 Browning.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62mm.
+The Manufacturer is Buffalo Arms Corporation
+Rock Island Arsenal
+Saginaw Steering Gear division of General Motors.
+The Proliferation is 438,971.
+The Length is 964 mm.
+The Barrel Length is 610 mm.
+The Weight is 14 kg.
+The Action is Recoil-operated/short-recoil operation.
+The Rate of Fire is 400–600 round/min (1200–1500 for AN/M2 variant).
+The Muzzle Velocity is 850 m/s.
+The Effective Firing Range is 1,500 yd (1,400 m) (maximum effective range).
+The Feed System is 250-round belt.
+
+Here is Ammunition information for the M47 Patton American Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62mm.
+The Cartridge is .30-06 Springfield (U.S.)
+7.62×51mm NATO
+.303 British
+7.92×57mm Mauser
+6.5×55mm
+.22 Long Rifle (Mini)
+7.62×54mmR
+8×63mm patron m/32
+7.65×53mm Argentine
+7.5×54mm French.
+The Basic Load is 4,000 rds.
+
+Here is System information for the M47 Patton American Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is M2 Browning.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight is 38 kg (83.78 lb)
+58 kg (127.87 lb) with tripod and T&E (Traverse and Elevation Mechanism).
+The Action is Short recoil-operated.
+The Rate of Fire is 450–600 rounds/min.
+The Muzzle Velocity is 890 m/s.
+The Effective Firing Range is 1,800 m.
+The Maximum Firing Range is 7,400 m.
+The Feed System is Belt-fed (M2 or M9 links).
+The Sights is INA.
+
+Here is Ammunition information for the M47 Patton American Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Basic Load is 450 rds.
+
+Here is Fire Control information for the M47 Patton American Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is No.
+The M12 is mechanical stereoscopic ballistic rangefinder.
+The M20 is periscopes for commander and gunner.
+The M13 is periscopes for loader and driver, 6x magnification infrared (IR) driving lights have been fitted  to many M47s.
+The Main Gun Stabilization is INA.
+
+Here is Protection information for the M47 Patton American Main Battle Tank (MBT):
+The Hull Armor is Upper Glacis: 4 in (100 mm) at 60°
+= 8 in (200 mm) LoS.
+The Turret Armor is Turret Front: 4 in (100 mm) at 40°
+= 5.22 in (133 mm) LoS.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

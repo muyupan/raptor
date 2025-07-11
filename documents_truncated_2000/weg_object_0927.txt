@@ -1,0 +1,138 @@
+This document describes the Eurocopter Tiger German Attack Helicopter.
+
+The Eurocopter (now Airbus Helicopters) Tiger is a four-bladed, twin-engined attack helicopter which first entered service in 2003. It is manufactured by Eurocopter (now Airbus Helicopters), the successor company to Aérospatiale's and DASA's respective helicopter divisions, which designate it as the EC665. Following their languages, in Germany it is known as the Tiger; in France and Spain it is called the Tigre.
+
+Development of the Tiger started during the Cold War, and it was initially intended as an anti-tank helicopter platform to be used against a Soviet ground invasion of Western Europe. During its prolonged development period the Soviet Union collapsed, but France and Germany chose to proceed with the Tiger, developing it instead as a multirole attack helicopter. It achieved operational readiness in 2008.
+
+The Tiger has the distinction of being the first all-composite helicopter developed in Europe; even the earliest models also incorporate other advanced features such as a glass cockpit, stealth technology, and high agility to increase its survivability. Improved variants have since entered service, outfitted with more powerful engines and compatible with a wider range of weapons. Since the type's introduction to service, Tigers have been used in combat in Afghanistan, Libya, and Mali.
+
+The Tiger is capable of undertaking a wide range of combat missions, including armed reconnaissance and surveillance, anti-tank and close air support, escort and protection of friendly assets; and can operate during day or night in all-weather conditions, and has been designed to include operations in the aftermath of nuclear, biological, or chemical warfare. The Tiger can also be used in the maritime environment, able to operate from the decks of ships including frigates and during extreme weather conditions. Amongst the Tiger's notable qualities, it possesses very high levels of agility, much of which is attributed to the design of its 13-meter four-bladed hingeless main rotor; the Tiger can perform full loops and negative g manoeuvres. Power is provided by a pair of FADEC-controlled MTU Turbomeca Rolls-Royce MTR390 turboshaft engines.
+
+he Tiger has a tandem-seat 'glass cockpit' and is operated by a two-man crew; the pilot is placed in the forward position, with the gunner seated behind. Either of the crew members can manage the weapon systems or the primary flight controls, switching roles if necessitated; in addition to flying the aircraft, the Tiger's pilot would typically be in control of the self-defence systems and communications, as well as some secondary weapons functions. While some of the weapons use dedicated control interfaces, such as the anti-tank Trigat missile, air-to-air weapons can be managed via controls on both sets of collective and cyclic sticks.
+
+Crew new to the Tiger have to undergo substantial retraining due to the differences from older platforms, particularly in higher workload management and the additional capabilities afforded by the type; one major change from preceding attack helicopters is a far greater degree of operational autonomy. According to Andrew Warner, chief test pilot during the Tiger's development, it is "the easiest-handling aircraft I have ever flown".
+
+The system cost (helicopter, armament, support) and unit cost varies between variants; Australia's Tiger ARH has a price per unit of A$68 million, the latest Tiger HAD variant is estimated to cost US$44–48 million
+
+This equipment has proliferated into the following countries: Australia, France, Germany, Spain.
+
+Here is Variants information for the Eurocopter Tiger German Attack Helicopter:
+The Tiger ARH (armed reconnaissance helicopter) is The Tiger ARH is a modified Tiger HAP with upgraded MTR390 engines and a laser designator incorporated in the Strix sight for the firing of Hellfire II missiles. Australian Aerospace is to set up a production assembly in Australia for assembly and parts for the duration of the program..
+The Tiger HAC (anti-tank helicopter, Helicoptere Anti-Char) is Carries an Osiris mast-mounted sight equipped with infrared charge coupled device (IRCCD) camera and laser rangefinder. The nose-mounted forward looking infrared (FLIR) has a 40 degree x 30 degree field of view. The Tiger HAC can be equipped with four Mistral or Stinger air-to-air missiles for air defense missions. For ground-attack missions, the Tiger is designed to carry both the HOT -3 and Trigat -LR anti-tank missiles. The pilots have helmet-mounted display sites.
+This variant was ultimately cancelled in favor of the HAD version..
+The Tiger HAP (fire support helicopter, Helicoptere d'Appui et de Protection) is A lighter Tiger used for ground fire support and engaging airborne threats. Equipped with a turreted Giat 30-mm AM-30781 automatic cannon, gun and either four Mistral missiles, 44 rockets plus four Mistral missiles, or 68-mm rockets. Only one weapon can be activated at a time. The helicopter typically carries four Mistral missiles and two pods, each carrying 22 68-mm rockets. The Tiger HAP also has a Strix roof-mounted sight with gyro-stabilized platform, laser rangefinder, direct optical sight, infrared camera and charge-coupled device television camera (CCDTV).
+French Tiger HAPs will be capable of deployment from MISTRAL- and FOUDRE-class amphibious ships and the aircraft carrier CHARLES DE GAULLE. Initial operational capability in the maritime role was scheduled for late 2008..
+The Tiger UHT (anti-tank helicopter, Unterstuzungs Hubschrauber) is Similar to the HAC version, although it does not have helmet-mounted display sites. Instead, the UHT uses integrated day and night helmets. The Osiris mast-mounted sight features second-generation infrared charge-coupled device (IRCCD) and television cameras for the gunner and a nose-mounted IRCCD camera with a 40-deg x 30-deg field of view for the pilot.
+German armament includes 12.7-mm machine gun pods, 70-mm rockets, FIM-92 Stinger anti-air missiles, HOT and Trigat anti-tank missiles and the Osiris mast-mounted sight.
+
+Electronic warfare equipment includes missile approach warning receivers and decoy launchers..
+The Tiger HAD (support destruction helicopter, Helicoptère d'Appui Destruction) is This version is very similar to the HAP variant, but features upgraded Enhanced MTR 390E engines, providing 14 percent more power; improved ballistic protection; identification friend or foe (IFF) interrogation system; new optronic sight; and enhanced electronic warfare systems. It is fitted with the Strix roof-mounted sight and can be equipped with TRIGAT-LR, Hellfire or Spike anti-tank missiles.
+The Safran Strix is a gyrostabilized elector-optical system featuring a thermal imager, daylight camera and laser rangefinder. It supports day/night operations for all weapons the Tiger carries, including Hellfire laser-guided missiles, rockets and Spike anti-tank missiles.
+
+This version was selected by the Spanish army. The French army also decided to upgrade all of its HAP helicopters to the HAD standard, leading to the cancellation of the HAC version.
+
+French versions are armed with eight Hellfire II anti-tank missiles, a 30-mm cannon, 70-mm rockets and four Mistral air-to-air missiles.
+
+Spanish variants are equipped with Spike-ER missiles.
+
+The Tiger HAD Block 2 configuration features new software with man-machine interface improvements; improved firing capability; high-frequency data link; naval capabilities; an enlarged firing envelope for the Spike missile; and a new engine control monitoring unit (ECMU-B)..
+The Afghanistan Stabilization German Army Rapid Deployment (ASGARD) is This is an upgrade program for German army Tiger helicopters that are to be deployed to Afghanistan.
+The modifications include a sand filter, additional defensive weapons and ballistic protection, mission data recorder and enhanced communications equipment. The engines are up-rated for improved hot-and-high performance..
+
+Here is System information for the Eurocopter Tiger German Attack Helicopter:
+The Alternative Designation is Eurocopter Tiger.
+The Type is Attack Helicopter.
+The Crew is 2.
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 3.
+The Number of Engines is 2.
+The Payload Capacity is 3,968 lb (1,800 kg) max.
+The Number of Hard Points is two inner hardpoints and outer hardpoints.
+The Inner Hardpoints Capacity is *1x 20 mm (0.787 in) autocannon pods, or
+*22x 68 mm (2.68 in) SNEB unguided rockets in a pod, or
+*19x 70 mm (2.75 in) Hydra 70 unguided rockets in a pod or
+*4x AGM-114 Hellfire missiles (Australia/France) or
+*4x Spike-ER missiles (Spain) or
+*4x PARS 3 LR missiles (Germany) or
+*4x HOT3 missiles (Germany).
+The Outer Hardpoints Capacity is *2x Mistral air-to-air missiles, or
+*2x FIM-92 Stinger air-to-air missiles (Germany), or
+12x 68 mm (2.68 in) SNEB unguided rockets in a pod or
+*7x 70 mm (2.75 in) Hydra 70 unguided rockets in a pod.
+
+Here is Dimensions information for the Eurocopter Tiger German Attack Helicopter:
+The Length, Fuselage is 51 ft 10 in (15.80 m).
+The Length, Rotors Turning is 45 ft 11 in (14.00 m).
+The Wingspan is 15 ft  1 in ( 4.60 m).
+The Height is 14 ft  2 in ( 4.32 m) to top of tail rotor.
+The Rotor Diameter is 42 ft  8 in (13.00 m).
+The Dsic Area is 1,428.2 sq ft (132.7 m sq).
+The Weight, Empty is 7,275 lb (3,300 kg).
+The Weight Mission is 11,905 lb (5,400 kg).
+The Weight, Takeoff is 13,230 lb (6,000 kg) max.
+
+Here is Automotive information for the Eurocopter Tiger German Attack Helicopter:
+The Engine Name is 2 x MTR390 turboshaft; 1,290 shaft hp each; or 2 x MTR390-E (Tiger HAD); 1,470 shaft hp each.
+The Engine Type is INA.
+The Engine Power is 1,290 through 1,470.
+The Fuel is 2,250 lb (1,020 kg) internal
+3,472 lb (1,575 kg) max internal and external.
+The Mission Range is 430 nm (500 mi, 800 km) on internal fuel  691 nm (800 mi, 1,280 km) with external fuel.
+The Maximum Endurance is 3 hr 25 min on internal fuel.
+The Mission Maximum is 2 hr 50 min.
+The Maximum Speed is 145 knots (167 mph, 267 km/h).
+The Never Exceed Speed is 161 knots (185 mph, 298 km/h).
+The Cruise Speed is 123 knots (142 mph, 228 km/h).
+The Vertical Rate of Climb is 17.1 ft/sec ( 5.2 m/sec).
+The Maximum Rate of Climb is 35.1 ft/sec (10.7 m/sec).
+The Hover Ceiling is 10,663 ft (3,250 m).
+
+Here is System information for the Eurocopter Tiger German Attack Helicopter of the Chin Mounted Gun:
+The Name is 1× 30 mm (1.18 in) GIAT 30 cannon in chin turret..
+The Type is Revolver Cannon.
+The Caliber is 30mm.
+The Length is 2.4 m.
+The Weight is 120 kg.
+The Barrels is 1.
+The Action is Seven-chamber revolver.
+The Rate of Fire is 2,500 rounds/min.
+The Muzzle Velocity is 1,025 m/s.
+
+Here is Ammunition information for the Eurocopter Tiger German Attack Helicopter of the Chin Mounted Gun:
+The Type is Rifle.
+The Caliber is 30mm.
+The Shell is 30 × 113mm B (M 781),
+30 x 150mm B (M 791).
+The Basic Load is 450 rounds.
+
+Here is Inner Hardpoints information for the Eurocopter Tiger German Attack Helicopter of the Wing Mounted Weapons:
+The Note is *1x 20 mm (0.787 in) autocannon pods, or
+22x 68 mm (2.68 in) SNEB unguided rockets in a pod, or
+*19x 70 mm (2.75 in) Hydra 70 unguided rockets in a pod or
+*4x AGM-114 Hellfire missiles (Australia/France) or
+*4x Spike-ER missiles (Spain) or
+*4x PARS 3 LR missiles (Germany) or
+*4x HOT3 missiles (Germany).
+
+Here is Outer Hardpoints information for the Eurocopter Tiger German Attack Helicopter of the Wing Mounted Weapons:
+The Note is *2x Mistral air-to-air missiles, or
+*2x FIM-92 Stinger air-to-air missiles (Germany), or
+*12x 68 mm (2.68 in) SNEB unguided rockets in a pod or
+*7x 70 mm (2.75 in) Hydra 70 unguided rockets in a pod.
+
+Here is Avionics information for the Eurocopter Tiger German Attack Helicopter:
+The Note is Amongst the key avionics features of the aircraft are the EUROGRID battlefield management and map display systems, integrated communications (HF/VHF/FM radio and satellite) and data transfer links, a high-authority digital automatic flight control system, and redundant MIL 1553 data buses. Two redundant mission computers control the weapons, sensors, and targeting functions. The Tiger's navigational suite includes GPS, dual redundant inertial referencing, Doppler radar, separated air data units, radio altimeter and distributed air speed sensors. A dedicated nose-mounted forward-looking infrared (FLIR) sensor is used by the pilot for night time flying.
+
+Each crew member has a pair of multifunction liquid crystal data displays at their control station, typically used to display internal systems information and sensory data, and to interact with the aircraft's higher systems. An additional display system is available to both crew in the form of the helmet-mounted display (HMD). The HMD is used by the flying pilot to display basic flight data with digitally enhanced optics, such as night vision or infrared imagery from the sensors, superimposed against; the gunner can use the HMD to interact with and control onboard weapon systems and view targeting data.
+
+Perhaps the most significant single avionics system fitted upon the Tiger is the mast-mounted Osiris sight/sensor; this incorporates optical TV and thermal cameras, a laser range finder/tracker/designator, and multiple gyroscopes for stabilisation. Osiris performs as the main sensor for target observation and acquisition, providing firing and targeting data via the weapons computer; Osiris also enables entirely passive target acquisition to be undertaken and was developed to maximise the capabilities of the Trigat anti-tank missile developed in parallel to the Tiger itself. An alternative optical system to Osiris is mounted on the aircraft's roof upon some variants.
+
+The Tiger can be fitted with various armaments including rockets, cannons, and a range of air-to-air and air-to-surface missiles, controlled via a dedicated weapons control computer. Munitions for anti-ground warfare include the nose-mounted 30mm Nexter turret; an assortment of external gun pods, anti-tank missiles, and up to four launchers for 70mm and 68mm rockets can be mounted on the Tiger's stub wings. When deploying missiles such as the Mistral, the Tiger is capable of taking advantage of the munition's off-boresight capabilities. A guided 70mm rocket will be developed for the Tiger based on the Roketsan Cirit..
+
+Here is Protection information for the Eurocopter Tiger German Attack Helicopter:
+The Note is The protection systems employed on the Tiger includes stealth; aspects such as the visual, radar, infra red and acoustic signatures have been minimised to better evade threats that may be present upon the battlefield. According to Andrew Warner, the Tiger's survivability "relies on stealth and agility". The use of composite materials on the airframe has resulted in reductions in radar cross-section (RCS), infra red and acoustic signatures to improve battlefield survivability. The fuselage is armoured and was developed to withstand small arms fire and 23 mm (0.91 in) cannon rounds. The helicopter has various radar/laser warning and missile approach detection systems, including EADS's AN/AAR-60 MILDS (Missile Launch Detection System), as well as flares and chaff dispensers.
+
+The Tiger is the first all-composite helicopter developed in Europe.[53] The fuselage of the Tiger is made from 80% carbon fibre reinforced polymer and kevlar, 11% aluminium, and 6% titanium. The entire tail section is made of composites, including the single section tail boom.The rotors are composed of a fibre plastic composite material able to withstand combat damage and bird strikes. The structure of the Tiger also incorporates protection against lightning strikes and electromagnetic pulses via an embedded copper/bronze grid and copper bonding foil.
+
+The design of the Tiger includes a high degree of crash worthiness; many of the onboard systems have redundancies and are segregated to minimise the effect of damage. Components of the propulsion system, such as the rotors and drive shaft, were deliberately designed for greater ballistic tolerance than traditional designs; the gearbox is rated for a 60-minute dry run capability if lubrication is lost. Fuel is contained in two main internal fuel tanks, and an additional two smaller tanks are housed inside the stub wings. Fuel tanks have self-sealing capability to decrease the vulnerability. In the inhospitable conditions of the Afghanistan theatre, the Tiger had a reported operational availability of 90%..
+

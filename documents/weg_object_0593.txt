@@ -1,0 +1,95 @@
+This document describes the M115 American 203mm Towed Howitzer.
+
+The M115 8-in (203-mm) towed howitzer is the largest towed artillery weapon ever developed in the United States. It is no longer in service with the U.S. Army, but it remains in the arsenals of several other countries.
+
+
+The M115 8 in (203 mm) howitzer, which was replaced by the M110 self-propelled howitzer, is a towed weapon developed prior to World War II as a heavy artillery weapon. The weapon uses NATO standard 203mm ammunition and was used during World War II, in Korea, and in Viet Nam. In NATO service their prime mission was to fire nuclear rounds which have since been phased out of service. Tests of the prototype T3 howitzer began at Aberdeen Proving Ground in 1939 and the howitzer entered service as the 8 in Howitzer M1. After the Second World War the complete weapon was redesignated the Howitzer, Heavy, Towed: 8 in: M115. Variants of the M110 with a longer barrel include the M110A1 (no muzzle brake) and the M110A2 (fitted with muzzle brake). In most countries, the M115 and the M110 have been phased out of service due to short-range. The carriage of the 8 in howitzer is also used to mount the 155 mm Gun M1 (Long Tom), which is still in use with some armies.
+
+This equipment has proliferated into the following countries: Belgium, China, Croatia, Denmark, Germany, Greece, Iran (Islamic Republic of), Italy, Japan, Jordan, Netherlands, Pakistan, Saudi Arabia, South Korea (Republic of Korea), Spain, Sudan, Taiwan, Turkey, United States of America.
+
+Here is Variants information for the M115 American 203mm Towed Howitzer:
+The M43 self-propelled howitzer is This version was developed during World War II. It entered service in 1946 in small numbers; all have been retired..
+The M55 self-propelled howitzer is This was based on the M48 tank chassis. It serves in Turkey. This has the same elevation and traverse ranges as M115. It was superseded in U.S. service by the M110..
+The M110 self-propelled howitzer is This gun has a lighter chassis for air-portability. See separate database entry..
+
+Here is System information for the M115 American 203mm Towed Howitzer:
+The Alternative Designation is M115.
+The Type is 203mm Towed Howitzer.
+The In Service is 1939-Present.
+The Manufacturer is Hughes Tool, Houston, Texas (now part of Baker Hughes).
+The Family is M115.
+The Crew is 14.
+The Carriage is M35 Prime Mover gun tractor or a Mack 7⅓ ton 6×6 truck.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note is It is capable of firing U.S. 203-mm nuclear and chemical munitions, but the United States does not export those..
+
+Here is Dimensions information for the M115 American 203mm Towed Howitzer:
+The Length, Traveling is 10.97.
+The Barrel Length is 5.14.
+The Width, Firing is 6.86.
+The Width, Traveling is 2.84.
+The Height is 2.74.
+The Weight, Firing is 13,471.
+The Weight, Traveling is 14,515.
+The Ground Clearance is 320.
+The Trail Type is split; towed on 2-wheel limber.
+
+Here is Automotive Requirement information for the M115 American 203mm Towed Howitzer:
+The Prime Mover is M35 Prime Mover gun tractor or a Mack 7⅓ ton 6×6 truck..
+
+Here is Communications information for the M115 American 203mm Towed Howitzer:
+The Primary is INA.
+
+Here is Armament (Barrel) information for the M115 American 203mm Towed Howitzer of the Howitzer System:
+The Name is M115.
+The Type is 203mm Howitzer.
+The Breech Type is Stepped-thread, interrupted screw.
+The Length, Barrel is 5.14.
+The Loader Type is INA.
+The Normal Rate of Fire is 1 rd/2 min.
+The Maximum Rate of Fire is 1 rd/1 min.
+The Muzzle Velocity is 587.
+The Max Elevation is +65.
+The Min Elevation is -2.
+The Traverse Range is 60.
+The Traverse Right is 30.
+The Traverse Left is 30.
+The Bore is 8-in (203-mm)/25-cal, rifled.
+The Equilibrator Assemblies is Yes.
+
+Here is Ammunition (Option 1) information for the M115 American 203mm Towed Howitzer of the Howitzer System:
+The Name is M426.
+The Type is CHEM GB/VX.
+The Caliber is 203.
+The Length is 892.
+The Weight is 92.53.
+The Muzzle Velocity is 587.
+The Basic Load is INA.
+
+Here is Ammunition (Option 2) information for the M115 American 203mm Towed Howitzer of the Howitzer System:
+The Name is M106.
+The Type is HE.
+The Caliber is 203.
+The Length is 871.
+The Weight is 92.53.
+The Muzzle Velocity is 587.
+The Basic Load is INA.
+
+Here is Ammunition (Option 3) information for the M115 American 203mm Towed Howitzer of the Howitzer System:
+The Name is M404.
+The Type is APICM.
+The Caliber is 203.
+The Length is 886.
+The Weight is 90.72.
+The Muzzle Velocity is 587.
+The Basic Load is INA.
+
+Here is Fire Control information for the M115 American 203mm Towed Howitzer:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Collimator is INA.
+The Spades is Four spades, carried on the trails, are used to emplace the weapon..
+

@@ -1,0 +1,93 @@
+This document describes the FA-50 Golden Eagle South Korean Light Combat Aircraft.
+
+The FA-50 is a light combat aircraft manufactured by Korea Aerospace Industries (KAI) for the Republic of Korea Air Force (ROKAF). It is a light combat version of KAI T-50 Golden Eagle supersonic advanced jet trainer and light attack aircraft.
+
+This equipment has proliferated into the following countries: Philippines, South Korea (Republic of Korea), Thailand.
+
+Here is Variants information for the FA-50 Golden Eagle South Korean Light Combat Aircraft:
+The T-50 is Advanced trainer version..
+The T-50i is Version of the T-50 for Indonesian Air Force..
+The T-50TH is Version of the T-50 for Royal Thai Air Force..
+The T-50A is Failed candidate for the US Air Force T-X program, based on the FA-50..
+The T-50B is Aerobatic specialized T-50 version for Korea Air Force's aerobatic display team, the Black Eagles..
+The TA-50 is Lead-in fighter trainer and light attack version..
+The FA-50 is Light attack/fighter version, originally named A-50. A prototype from a converted T-50 first flew in 2011..
+The FA-50PH is Version of the FA-50 for the Philippine Air Force..
+The T-50IQ is Version of the FA-50 for Iraqi Air Force..
+The F-50 is A single seat multirole fighter variant that was considered, but was cancelled in favor of the KF-X..
+
+Here is System information for the FA-50 Golden Eagle South Korean Light Combat Aircraft:
+The Alternate Designation(s) is FA-50 Golden Eagle.
+The Type is Light Combat Aircraft.
+The Manufacturer is Korea Aerospace Industries / Lockheed Martin.
+The Crew is 2.
+The Number of Engines is 1.
+The Number of Hard Points is Total of 7 with 4 underwing 2 wingtip and one under fuselage; holding up to 4,500 kg of payload..
+
+Here is Dimensions information for the FA-50 Golden Eagle South Korean Light Combat Aircraft:
+The Length is 13.14m.
+The Width (Wing Span) is 9.45 m.
+The Height is 4.82 m.
+The Empty Weight is 5,869.5 kg.
+The Takeoff Weight, Clean is 8,890 kg.
+The Maximum Takeoff Weight is 11,158.4 kg.
+The Maximum External Stores is 3,100 kg.
+
+Here is Automotive information for the FA-50 Golden Eagle South Korean Light Combat Aircraft:
+The Engine Name is 1 x General Electric F404-GE-102.
+The Engine Type is Turbofan.
+The Engine Power is 5,409 kg, 53.07 kN static thrust.
+The Fuel Capacity is 2,655 liters.
+The Maximum Speed is Mach 1.4.
+The Range is 1,853 km.
+The Climb Rate is 137 m/sec.
+The Ceiling is 14,630 m.
+The Load is 8 g to -3 g.
+
+Here is System information for the FA-50 Golden Eagle South Korean Light Combat Aircraft of the Main Gun System:
+The Name is M61 Vulcan.
+The Type is Rotary Cannon.
+The Caliber is 20 mm.
+The Length is 1.827 m.
+The Weight is 112 kg.
+The Barrels is 6-barrel (progressive RH parabolic twist, 9 grooves).
+The Action is Hydraulically operated, electrically fired, rotary cannon.
+The Rate of Fire is 6,000 rounds per minute.
+The Muzzle Velocity is 1,050 m/s.
+The Feed System is Belt or linkless feed system.
+
+Here is Ammunition information for the FA-50 Golden Eagle South Korean Light Combat Aircraft of the Main Gun System:
+The Type is Rifle.
+The Caliber is 20 mm.
+The Cartridge is 20×102 mm.
+The Basic Load is 205 Rounds.
+
+Here is Missile Systems information for the FA-50 Golden Eagle South Korean Light Combat Aircraft:
+The Wingtip Pylon is AIM-9 Sidewinder.
+The Undertip/Centerline is Mk 82/83/84 bombs or rocket launchers.
+
+Here is Bomb Weapon Systems information for the FA-50 Golden Eagle South Korean Light Combat Aircraft:
+The Option 1 is Mk 82.
+The Option 2 is Mk 83.
+The Option 3 is CBU-97/105 Sensor Fuzed Weapon.
+The Option 4 is Spice-equipped bombs.
+The Option 5 is Joint Direct Attack Munition (JDAM) bombs.
+
+Here is Fire Control / Avionics information for the FA-50 Golden Eagle South Korean Light Combat Aircraft:
+The Navigation Radar is Honeywell H-764G global positioning/inertial navigation system;
+HG9550 radar altimeter; Rockwell Collins VIR-130A integrated
+VOR/instrument landing system; ARN-153V advanced digital tactical aid..
+The Fire Control Radar is 1 x AN/APG-67(V)4.
+The Communications is Raytheon ARC-232 VHF radio.
+The HUD is Yes.
+The Color Multifunction Display is Yes.
+The Hands On Throttle-And-Stick (HOTAS) is Yes.
+
+Here is Protection information for the FA-50 Golden Eagle South Korean Light Combat Aircraft:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is Yes.
+

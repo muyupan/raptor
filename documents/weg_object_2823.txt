@@ -1,0 +1,29 @@
+This document describes the MR300xH/U American Advanced Multiband Tactical Radios.
+
+The |R&S MR300x radios form a family of high-performance digital radios covering the HF, VHF and UHF bands. Thanks to various high-speed data modes and protocols as well as multiple anti-jam modes for HF, VHF and UHF, they perfectly integrate into tactical communications networks.
+
+The radios are software-configurable and reprogrammable. Manpacks of the R&S®M3TR family are based on one mechanical platform, with a common logistics concept, identical physical interfaces and one human-machine interface (HMI).
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the MR300xH/U American Advanced Multiband Tactical Radios:
+The Alternative Designation is MR300xH/U.
+The Type is Advanced Multiband Tactical Radios.
+The Manufacturer is Rohde and Schwarz.
+The Crew is 1.
+The Software is Software-configurable.
+The Multiband Capability is Multiband capability (1.5 MHz to 512 MHz with external devices).
+The Multiwaveform Capability is Multiwaveform capability (HF House, VHF/UHF tactical and G-A-G waveforms).
+The Embedded EPM is Embedded EPM (ECCM) in line with R&S®SECOM and R&S®SECOS, HAVE QUICK II.
+The GPS is Integrated GPS, position report.
+The Data Rate is Integrated GPS, position report.
+The IP is IP over air capability (R&S®IPoA).
+The Voice Operation is SIP based remote voice operation.
+The MTBF is > 7500 hours.
+
+Here is Dimensions information for the MR300xH/U American Advanced Multiband Tactical Radios:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

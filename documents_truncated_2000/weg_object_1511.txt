@@ -1,0 +1,79 @@
+This document describes the Sonya-Class (Project 1265 Yakhont Class) Russian Coastal Minesweeper.
+
+The Sonya class is a group of minesweepers built for the Soviet Navy and Soviet allies between 1971 and 1991. The Soviet designation is Project 1265 Yakhont. The Sonya-class ships are wooden-hulled coastal minehunters, built as successors to the Vanya class with new sweeps and more effective sonar. A central safe explosion-proof area is fitted and all key systems can be remote-controlled from there.
+
+This equipment has proliferated into the following countries: Azerbaijan, Bulgaria, Cuba, Ethiopia, Russian Federation, Syria, Ukraine, Viet Nam.
+
+Here is Variants information for the Sonya-Class (Project 1265 Yakhont Class) Russian Coastal Minesweeper:
+The Operators is There was a total of 72 ships built from 1971 to 1991. One ship, the BT-730 was lost in an accident in 1985. Another unit collided with a Swedish surveillance ship HSwMS Orion to the East of the island of Gotland in the Baltic sea in November 1985. Navy Caspian flotilla – 3 ships. The Pacific fleet has 8 ships. 26 active ships with 14 in reserve 2011. The Northern fleet has 8 ships. Baltic fleet – 5 vehicles. Black sea fleet – 2 vehicles. // The Naval Forces Of Ukraine U331 Mariupol.  Melitopol U330. 2 vessels in operation. // Azerbaijani Navy 2 vessels in operation. // Bulgarian Navy 4 ships transferred. // The Cuban Revolutionary Navy 4 ships transferred. //The Syrian Arab Navy 1 ship moved. // Vietnam Navy Of The Peoples
+4 ships transferred..
+
+Here is System information for the Sonya-Class (Project 1265 Yakhont Class) Russian Coastal Minesweeper:
+The Alternative Designation is Sonya Class, Project 1265 Yakhont Class.
+The Type is Coastal Minesweeper.
+The Builder is Sredne-Nevsky and Vladivostock Shipyards, Russia..
+The Crew is 43.
+
+Here is Dimensions information for the Sonya-Class (Project 1265 Yakhont Class) Russian Coastal Minesweeper:
+The Length is 48.8 m.
+The Beam is 8.8 m.
+The Draft is 2.1 m.
+The Displacement, Standard is 400 tons.
+The Displacement, Full Load is 450 tons.
+
+Here is Propulsion System information for the Sonya-Class (Project 1265 Yakhont Class) Russian Coastal Minesweeper:
+The Engine Name is INA.
+The Engine Type is 2 x Diesel.
+The Engine Power is 2,400 bhp.
+The Bow Thrusters is None.
+The Maximum Range is 16.5 knots.
+The Maximum Speed is 1,500 nm at 10 knots.
+The Endurance is 10 days.
+
+Here is Minesweeping Equipment information for the Sonya-Class (Project 1265 Yakhont Class) Russian Coastal Minesweeper:
+The Underwater Communication System is INA.
+The Sonar is MG-89.
+The Contact Sweep Equipment is Sweeps GKT, PEMT-2, ST-2.
+The Unmanned Underwater Vehicles is INA.
+The Automated Mine Warfare System is INA.
+
+Here is System information for the Sonya-Class (Project 1265 Yakhont Class) Russian Coastal Minesweeper of the Main Gun System:
+The Name is 2 x AK-230 30mm Automatic Naval Twin Gun.
+The Type is Automatic Naval Twin Gun.
+The Caliber is 30 mm.
+The Quantity is 2 turrets (Forward and Aft).
+The Crew is 1.
+The Barrel Length is 2,140 mm.
+The Height is INA.
+The Weight, Gun Mount is 156 kg.
+The Barrels is 2.
+The Action is Gas-operated revolver cannon.
+The Elevation is +87° to -12° (50°/sec).
+The Traverse is ±180° (35°/sec).
+The Rate of Fire is 1,000 rounds/min (Cyclic).
+The Muzzle Velocity is 1,050 m/s.
+The Effective Firing Range is 2,500 m (aerial);
+4,000 m (maritime).
+The Feed System is Belt fed.
+The Sights is The weapon is remote-directed, typically by a fire-control system linked to either a Drum Tilt or Muff Cobb radar systems..
+
+Here is Ammunition information for the Sonya-Class (Project 1265 Yakhont Class) Russian Coastal Minesweeper of the Main Gun System:
+The Type is HEI-Frag, Frag-T.
+The Caliber is 30 mm.
+The Shell Weight is 0.39 kg.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Sonya-Class (Project 1265 Yakhont Class) Russian Coastal Minesweeper:
+The FCS Name is 1 x SP-520M electro-optical gunfire control system for AK-230.
+The Computerized FCS is Yes.
+The Integrated Bridge System is Yes.
+
+Here is Radar Systems information for the Sonya-Class (Project 1265 Yakhont Class) Russian Coastal Minesweeper:
+The Navigation Radar is 1 x PAL-N navigation radar.
+The Surface Contact Radar is 1 x Spin Trough radar.
+
+Here is Protection information for the Sonya-Class (Project 1265 Yakhont Class) Russian Coastal Minesweeper:
+The Hull is Ships Sonya-class wooden-hulled coastal minehunters built as the heirs of Vanya class with new sweeps and more effective sonar..
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

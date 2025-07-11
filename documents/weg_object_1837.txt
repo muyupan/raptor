@@ -1,0 +1,71 @@
+This document describes the HJ-10 (Red Arrow 10) Chinese Anti-Tank Guided Missile (ATGM).
+
+HJ-10 (or "Red Arrow 10") is a Chinese ground-launched anti-tank missile developed by Norinco. It has a tandem high-explosive anti-tank (HEAT) warhead, that may penetrate 1,400 mm (55 in) of conventional steel armor protected by explosive reactive armor. The maximum range is 10 km (6.2 mi), with pre-or post-launch lock-on.
+
+This equipment has proliferated into the following countries: China, Malaysia.
+
+Here is Variants information for the HJ-10 (Red Arrow 10) Chinese Anti-Tank Guided Missile (ATGM):
+The Red Arrow 10A is The Red Arrow 10A, also known as Hongjian-10A (HJ-10A) is a long-range Chinese ATGW intended for mounting on various AFVs. It operates on the infrared television (IR TV) wire guidance system and is equipped with a tandem-HEAT warhead..
+The Red Arrow 10B is The Red arrow 10B is externally identical to the Red Arrow 10A, with the exception of a small curved recess on the ring-shaped portion at the very rear of the missile. No details are available regarding its differences from the baseline variant. It is possible that the Red Arrow 10B is intended as an export variant or that it may be fitted with a revised warhead or seeker..
+The Red Arrow 10 A/B (AFT-10 ATGM Missile Carrier) is Red Arrow 10 ATGM Missile Pods mounted on the AFT-10 ATGM Missile Carrier..
+
+Here is System information for the HJ-10 (Red Arrow 10) Chinese Anti-Tank Guided Missile (ATGM):
+The Alternative Designation is HJ-10, Hongjian 10; Red Arrow 10.
+The Type is Anti-Tank Guided Missile (ATGM).
+The Manufacturer is NORINCO.
+The Status is In Service.
+The Type is Non-line-of-sight anti-tank guided missile.
+The Family is HJ-10.
+The Emplacement Time is INA.
+The Crew is Dependent on associated chassis, but normally 3 personnel..
+The Displacement Time is INA.
+The Maximum Effective Range is 10.
+The Air to Surface Capable is INA.
+The Surface to Air Capable is INA.
+The Note is The Missile can be launched from platforms such as Armored Fighting Vehicles..
+
+Here is Dimensions information for the HJ-10 (Red Arrow 10) Chinese Anti-Tank Guided Missile (ATGM):
+The Length is 1,775.
+The Diameter is 170.
+The Height is INA.
+The Weight, Launch is 47.
+
+Here is Automotive information for the HJ-10 (Red Arrow 10) Chinese Anti-Tank Guided Missile (ATGM):
+The Prime Mover Required is Yes.
+The Man Portable is No.
+
+Here is Missile information for the HJ-10 (Red Arrow 10) Chinese Anti-Tank Guided Missile (ATGM):
+The Name is HJ-10 Red Arrow.
+The Type is Tandem HEAT.
+The Caliber is 170.
+The Engine Propellant is Solid Fuel.
+The Muzzle Velocity is Supersonic.
+The Guidance System is Fiber-optic wire-guided missile semi-active laser homing and millimeter wave radar seeker 
+Infrared homing.
+The Minimum Range is 2,000.
+The Maximum Range is 8,000.
+The Effective Range is 10.
+The Warhead Type is Tandem HEAT.
+The Warhead Weight is INA.
+The Armor Penetration is 1,400mm of conventional Steel Armor protected by Explosive Reactive Armor (ERA).
+The Self-Destruct is INA.
+The Rapid Firing is 47.
+The Loading Type is Manual Loading.
+The Basic Load is Platform dependent, but normally the Red Arrow 10 ATGW system load is eight missiles launched from cannisters..
+
+Here is Fire Control information for the HJ-10 (Red Arrow 10) Chinese Anti-Tank Guided Missile (ATGM):
+The Name is HJ-10 Red Arrow.
+The Computerized FCS is Yes.
+The Design is NLOS.
+The LoS Engagement Capable is Yes.
+The Infrared Imaging is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Stabilisers is Four hydraulically operated stabilisers..
+The Operating Modes is 3 illuminating Operation Modes..
+The TV (Sensor Pod) is Yes.
+The IR (Sensor Pod) is Yes.
+The Night IR Detection Range is 6,000.
+The Identification Range is 5,000.
+The Day time TV Detection Range is 10,000.
+

@@ -1,0 +1,28 @@
+This document describes the SNR-75 (Fan Song) Russian Fire Control and Tracking Radar.
+
+The SNR-75 (Fan Song) Russian Fire Control and Tracking Radar are capable of tracking a single target at a time, and can guide up to three missiles at once to it.
+
+This equipment has proliferated into the following countries: Angola, Armenia, Azerbaijan, Bulgaria, China, Cuba, Egypt, Ethiopia, Iran (Islamic Republic of), Kyrgyzstan, Libya, Mongolia, Myanmar, North Korea (Democratic People's Republic of Korea), Pakistan, Romania, Russian Federation, Sudan, Syria, Tajikistan, Viet Nam, Yemen, Zimbabwe.
+
+Here is System information for the SNR-75 (Fan Song) Russian Fire Control and Tracking Radar:
+The Alternative Designation is SNR-75; NATO: Fan Song.
+The Type is Fire Control and Tracking Radar.
+The Crew is INA.
+The Frequency is E/F band, G band.
+The Search Pulse Repetition Frequency (PRF) is 828-1,440 Hz (E/F Band).
+The Tracking Pulse Repetition Frequency (PRF) is 1,656-2,880 Hz (G band).
+The Beam Width is 10x2deg (E/F band);
+7.5x1.5deg (G band).
+The Pulse Width is 0.4-1.2 μs (G band).
+The Maximum Range is 60-120 km (E/F band);
+75-145 km (G band).
+The Power is 600 kW (E/F band);
+1.0 MW (G band).
+The Note is The radars feature two orthogonal antennas, one for azimuth and one for elevation, which can operate in a track-while-scan mode. These antennas transmit 10 × 2 degree or 7.5 x 1.5 degree beams and perform a 'flapping' motion as they scan their sectors..
+
+Here is Dimensions information for the SNR-75 (Fan Song) Russian Fire Control and Tracking Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

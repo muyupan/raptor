@@ -1,0 +1,92 @@
+This document describes the Bulsae-3 (AT-14 Spriggan) North Korean Anti-Tank Guided Missile (ATGM).
+
+The Bulsae-3 (AT-14 Spriggan) North Korean Anti-Tank Guided Missile (ATGM) is reversed engineered Kornet-E under the designation of Bulsae-3
+
+The 9M133 Kornet (Russian: Корнет; "Cornet", NATO reporting name AT-14 Spriggan, export designation Kornet-E) is a modern Russian man-portable anti-tank guided missile (ATGM) intended for use against main battle tanks. It was first introduced into service with the Russian Army in 1998.
+
+The Kornet is among the most capable Russian ATGMs. It is not intended to fully replace previous systems, due to its high cost. The Kornet comes in variants with thermobaric warheads for use against soft targets. It was further developed into the 9M133 Kornet-EM, which has increased range, fire-and-forget capability, and an improved warhead.
+
+The Kornet has been widely exported and is produced under license in several countries. It was first used in combat in 2003 and has since been used in many conflicts.
+
+The NATO reporting name AT-14 Spriggan is derived from the spriggan, a legendary creature from Cornish fairy lore.
+
+The 9M133 missile together with its 9P163-1 tripod launcher and 1PN79-1 thermal sight forms the 9K135 missile system, which can be carried and operated by a two-person infantry crew. The transfer to the firing position takes less than one minute, and preparation and production of a shot in at least one second. Kornet's anti-tank missile system has been fitted with the ‘top attack’ capability.
+
+In addition to an infantry portable version, the 9K133 system has been integrated into a variety of other vehicles and weapons systems as either an upgrade package or a new weapon system. The 9K133 has been fitted into a BMP-3 to form the 9P163M-1 tank destroyer and is similar in function to the Khrizantema missile system. The 9P163M-1 carries two 9M133 missiles on launch rails, which are extended from a stowed position during transit. Missiles are re-loaded automatically by the tank destroyer from an internal magazine with 16 rounds (missiles are stored and transported in sealed canisters). NBC protection is provided for the two crew (gunner and driver) of each 9P163M-1 in addition to full armor protection equivalent to the standard BMP-3 chassis. The guidance system of the 9P163M-1 allows two missiles to be fired at once, each operating on different guidance (laser) channels.
+
+The KBP Instrument Design Bureau has also marketed the 9M133 missile as part of the Kvartet system for mounting on vehicles and boats; the system has four missiles on ready to launch rails along with associated guidance and sighting system all packaged in a single turret; the guidance system also allows two missiles to be fired at once. The turret has space for an additional five rounds and is operated by a single individual. Another upgrade possibility is the Kliver missile and gun turret, seen as an upgrade option for the BTR series of APC, BMP-1 IFV, and patrol boats. It has similar capabilities as the Kvartet turret, but also carries a 30 mm 2A72 cannon; the turret weight is 1,500 kg. Finally, the 9M133 is also available in the BEREZHOK turret upgrade also made available by KBP. Since 2014, its serial production has been resumed for the domestic market with the designation B05YA01.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is Bulsae-3 (AT-14 Spriggan) North Korean Anti-Tank Guided Missile (ATGM) information for the Bulsae-3 (AT-14 Spriggan) North Korean Anti-Tank Guided Missile (ATGM) of the System:
+The Name is Bulsae-3; NATO: AT-14 Spriggan).
+The Type is Anti-Tank Guided Missile (ATGM).
+The Manufacturer is Degtyarev plant.
+The Launcher Type is Twin launchers mounted on either side of the turret.
+The Basic Load is 4.
+The Weight (with Launch Tube) is 29.
+The Weight (with Tripod/Firing Unit) is 63.7.
+The Length is 1,200.
+The Diameter is 152.
+The Warhead is 1,000–1,200 (9K135), 1,200 (E), 1,300 (D) mm RHA penetration after ERA with Tandem HEAT, Thermobaric.
+The Warhead Weight is 4.6.
+The Detonation Mechanism is Impact Fuse.
+The Wingspan is 460.
+The Propellant is Solid-fuel rocket.
+The Operational Range (KORNET) is 100-5,000.
+The Operational Range (KORNET-EM) is 10,000.
+The Guidance system is SACLOS laser beam riding.
+The Steering system is Two control surfaces.
+The Accuracy is Less than 5 meters.
+The Launch platform is Individual, vehicles, Kornet-T, Kornet-D, Bumerang-BM, Kornet-D1.
+
+Here is Missile Variant (Option 1) information for the Bulsae-3 (AT-14 Spriggan) North Korean Anti-Tank Guided Missile (ATGM) of the System:
+The Name is 9M133-1 (Kornet/Kornet-E).
+The Diameter is 160.
+The Length (Missile) is 1.1.
+The Weight (including Container) is 26.
+The Speed is 250.
+The Range (Daytime) is 100-5,500.
+The Warhead is 152 mm tandem HEAT
+1,000–1,200 mm RHA penetration after ERA
+3–3.5 m of concrete.
+
+Here is Missile Variant (Option 2) information for the Bulsae-3 (AT-14 Spriggan) North Korean Anti-Tank Guided Missile (ATGM) of the System:
+The Name is 9M133M-2 (Kornet-M/Kornet-EM).
+The Diameter is 160.
+The Length (Missile) is 1.1.
+The Weight (including Container) is 31.
+The Speed is 300.
+The Range (Daytime) is 150-8,000.
+The Warhead is 152 mm tandem HEAT
+1,100–1,300 mm RHA penetration after ERA
+3–3.5 m of concrete.
+
+Here is Missile Variant (Option 3) information for the Bulsae-3 (AT-14 Spriggan) North Korean Anti-Tank Guided Missile (ATGM) of the System:
+The Name is 9M133F-1 (Kornet/Kornet-E).
+The Diameter is 160.
+The Length (Missile) is 1.1.
+The Weight (including Container) is 29.
+The Speed is 250.
+The Range (Daytime) is 100-5,500.
+The Warhead is Thermobaric 10 kg (22 lb) TNT equivalent.
+
+Here is Missile Variant (Option 4) information for the Bulsae-3 (AT-14 Spriggan) North Korean Anti-Tank Guided Missile (ATGM) of the System:
+The Name is 9M133F-2 (Kornet-M/Kornet-EM).
+The Diameter is 160.
+The Length (Missile) is 1.1.
+The Weight (including Container) is 31.
+The Speed is 300.
+The Range (Daytime) is 150-8,000.
+The Warhead is Thermobaric 10 kg (22 lb) TNT equivalent.
+
+Here is Missile Variant (Option 5) information for the Bulsae-3 (AT-14 Spriggan) North Korean Anti-Tank Guided Missile (ATGM) of the System:
+The Name is 9M133F-3 (Kornet-M/Kornet-EM).
+The Diameter is 160.
+The Length (Missile) is 1.1.
+The Weight (including Container) is 33.
+The Speed is 320.
+The Range (Daytime) is 150-10,000.
+The Warhead is Blast Fragmentation
+7 kg (15 lb).
+

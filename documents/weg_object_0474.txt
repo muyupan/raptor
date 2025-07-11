@@ -1,0 +1,83 @@
+This document describes the Type 74 Chinese 284mm Anti-Tank Mine Multiple Rocket Launcher.
+
+The Type 74 284-mm multiple rocket launcher fires heavy rockets that plant anti-tank mines. The system, mounted on the bed of a 6 x 6-wheel CA-30A truck, elevates and traverses a row of five rails.
+Each I-beam rail is 4.0 m long and holds a rocket above and below the rail. Each rocket carries 10 Type 69 or Type 70 plastic-case anti-tank mines.
+
+To lay a minefield covering 400 sq m, a battery of four Type 74 launchers fires a salvo of rockets each, planting 400 mines. All 10 rockets can be launched in 15 seconds.
+
+Note: NORINCO developed a newer solid propellant, 284 mm Type 85 mine-laying rocket shell. This has a maximum range of 3,500 m and contains 10 anti-tank mines. A complete battery salvo (4 launchers) has a laying zone of 700 × 500 m. The unguided solid propellant rockets are 2.6m long and weigh 156kg at launch.
+
+The vehicle cab is fitted with steel shutters that can be closed over the cab windows for blast protection. It accommodates two of the six crew members; the other four ride on an open bench seat behind the cab.
+
+Small stabilizing jacks are dropped from the rear of the truck bed to steady the vehicle during firing.
+
+The launcher entered service in the mid-1970s. It is no longer in production. There have been no known exports and NORINCO has ceased marketing the system, according to Jane's Armour and Artillery for Feb. 18, 2003.
+There are no known Type 74s in Chinese military service; the CA-30A truck utilized is obsolescent and no longer in production. However, it is possible that launchers could be fitted on a newer chassis in the future.
+
+Ref: Military Periscope, July 2014
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Type 74 Chinese 284mm Anti-Tank Mine Multiple Rocket Launcher:
+The Alternative Designation is NA.
+The Type is MRL Anti-Tank Mine Layer.
+The Manufacturer is NORINCO.
+The Crew is 6 (2 ride in cap; 4 behind the cab).
+The Passenger Capacity is NA.
+The Maximum Effective Range is 3,500.
+The Doctrinal Employment Consideration is Each Type 74 is deployed with 3 others to form a firing battery.
+The Prime Mover is CA-30A, 6x6 truck.
+
+Here is Mine Laying System information for the Type 74 Chinese 284mm Anti-Tank Mine Multiple Rocket Launcher:
+The Type is Multiple-Rocket Launcher.
+The Caliber is 284.
+The Number of Rockers per Salvo is 10.
+The Rail System is 5 rails that can launch 2 rockets each (one on top and one on bottom).
+The Reloading System is Manual (requires 4 people).
+The Mines per Rocket is 10.
+The Maximum Area Covered by Full Salvo is 700m x 500m.
+The Time Required to Launch a Full Salvo is 15.
+The Elevation Range of Launcher is +7 - + 48 degrees.
+The Traverse Range is 90 degrees total.
+
+Here is Dimensions information for the Type 74 Chinese 284mm Anti-Tank Mine Multiple Rocket Launcher:
+The Length is 6.44.
+The Width is 2.27.
+The Height is 2.93.
+The Weight, Combat is Approximately 8,780kg.
+
+Here is Automotive information for the Type 74 Chinese 284mm Anti-Tank Mine Multiple Rocket Launcher:
+The Engine Name is Jiefang 120.
+The Engine Type is 5.5 liter diesel, 16 cylinder.
+The Engine Power is 95.
+The Speed, Maximum Road is 40.
+
+Here is Option 1 information for the Type 74 Chinese 284mm Anti-Tank Mine Multiple Rocket Launcher of the Rockets:
+The Name is Type 69 or 70.
+The Caliber is 284.
+The Range is 1,500.
+The Propellant is Liquid.
+The Mine Payload is 10.
+The  is .
+
+Here is Option 2 information for the Type 74 Chinese 284mm Anti-Tank Mine Multiple Rocket Launcher of the Rockets:
+The Name is Type 85.
+The Caliber is 284.
+The Range is 3,500.
+The Propellant is Solid.
+The Mine Payload is 10.
+The  is .
+
+Here is Fire Control information for the Type 74 Chinese 284mm Anti-Tank Mine Multiple Rocket Launcher:
+The Guidance is Rockets have no guidance system.
+
+Here is Protection information for the Type 74 Chinese 284mm Anti-Tank Mine Multiple Rocket Launcher:
+The Cab is Steel blast shutters over the cab windows.
+The Armor is No.
+The Applique Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

@@ -1,0 +1,59 @@
+This document describes the RICIN: Biotoxin.
+
+Ricin (/ˈraɪsɪn/ RY-sin), a lectin (a carbohydrate-binding protein) produced in the seeds of the castor oil plant, Ricinus communis, is a highly potent toxin. A dose of purified ricin powder the size of a few grains of table salt can kill an adult human. The median lethal dose (LD50) of ricin for mice is around 22 micrograms per kilogram of body weight via intraperitoneal injection. Oral exposure to ricin is far less toxic. An estimated lethal oral dose in humans is approximately 1 milligram per kilogram.
+
+Ricin is very toxic if inhaled, injected, or ingested. It can also be toxic if dust contacts the eyes or if it is absorbed through damaged skin. It acts as a toxin by inhibiting protein synthesis. It prevents cells from assembling various amino acids into proteins according to the messages it receives from messenger RNA in a process conducted by the cell's ribosome (the protein-making machinery) – that is, the most basic level of cell metabolism, essential to all living cells and thus to life itself. Ricin is resistant, but not impervious, to digestion by peptidases. By ingestion, the pathology of ricin is largely restricted to the gastrointestinal tract, where it may cause mucosal injuries. With appropriate treatment, most patients will make a decent recovery.
+ 
+Because the symptoms are caused by failure to make protein, they may take anywhere from hours to days to appear, depending on the route of exposure and the dose. When ingested, gastrointestinal symptoms can manifest within six hours; these symptoms do not always become apparent. Within two to five days of exposure to ricin, effects of ricin on the central nervous system, adrenal glands, kidneys, and liver appear.
+
+Ingestion of ricin causes pain, inflammation, and hemorrhage in the mucosal membranes of the gastrointestinal system. Gastrointestinal symptoms quickly progress to severe nausea, vomiting, diarrhea, and difficulty swallowing (dysphagia). Haemorrhage causes bloody feces (melena) and vomiting blood (hematemesis). The low blood volume (hypovolemia) caused by gastrointestinal fluid loss can lead to organ failure in the pancreas, kidney, liver, and GI tract and progress to shock. Shock and organ failure are indicated by disorientation, stupor, weakness, drowsiness, excessive thirst (polydipsia), low urine production (oliguria), and bloody urine (hematuria).
+
+Symptoms of ricin inhalation are different from those caused by ingestion. Early symptoms include a cough and fever.
+
+When skin or inhalation exposure occur, ricin can cause an allergy to develop. This is indicated by edema of the eyes and lips; asthma; bronchial irritation; dry, sore throat; congestion; skin redness (erythema); skin blisters (vesication); wheezing; itchy, watery eyes; chest tightness; and skin irritation.
+
+An antidote has been developed by the UK military, although it has not yet been tested on humans. Another antidote developed by the US military has been shown to be safe and effective in lab mice injected with antibody-rich blood mixed with ricin, and has had some human testing.
+
+Symptomatic and supportive treatments are available for ricin poisoning. Existing treatments emphasize minimizing the effects of the poison. Possible treatments include intravenous fluids or electrolytes, airway management, assisted ventilation, or giving medications to remedy seizures and low blood pressure. If the ricin has been ingested recently, the stomach can be flushed by ingesting activated charcoal or by performing gastric lavage. Survivors often develop long-term organ damage. Ricin causes severe diarrhea and vomiting, and victims can die of circulatory shock or organ failure; inhaled ricin can cause fatal pulmonary edema or respiratory failure. Death typically occurs within 3–5 days of exposure.
+
+Vaccination is possible by injecting an inactive form of protein chain A. This vaccination is effective for several months due to the body's production of antibodies to the foreign protein. In 1978 Bulgarian defector Vladimir Kostov survived a ricin attack similar to the one on Georgi Markov, probably due to his body's production of antibodies. When a ricin-laced pellet was removed from the small of his back it was found that some of the original wax coating was still attached. For this reason only small amounts of ricin had leaked out of the pellet, producing some symptoms but allowing his body to develop immunity to further poisoning.
+
+The seeds of Ricinus communis are commonly crushed to extract castor oil. As ricin is not oil-soluble, little is found in the extracted castor oil.The extracted oil is also heated to more than 80 °C to denature any ricin that may be present.The remaining spent crushed seeds, called variously the “cake”, “oil cake”, and “press cake”, can contain up to 5% ricin. While the oil cake from coconut, peanuts, and sometimes cotton seeds can be used as either cattle feed and/or fertilizer, the toxic nature of castor beans precludes their oil cake from being used as feed unless the ricin is first deactivated by autoclaving. Accidental ingestion of Ricinus communis cake intended for fertilizer has been reported to be responsible for fatal ricin poisoning in animals.
+
+Deaths from ingesting castor plant seeds are rare, partly because of their indigestible seed coat, and because some of the ricin is deactivated in the stomach. The pulp from eight beans is considered dangerous to an adult. Rauber and Heard have written that close examination of early 20th century case reports indicates that public and professional perceptions of ricin toxicity "do not accurately reflect the capabilities of modern medical management".
+
+Most acute poisoning episodes in humans are the result of oral ingestion of castor beans, 5–20 of which could prove fatal to an adult. Swallowing castor beans rarely proves to be fatal unless the bean is thoroughly chewed. The survival rate of castor bean ingestion is 98%. In 2013 a 37-year-old woman in the United States survived after ingesting 30 beans. Victims often manifest nausea, diarrhea, fast heart rate, low blood pressure, and seizures persisting for up to a week. Blood, plasma, or urine ricin or ricinine concentrations may be measured to confirm diagnosis. The laboratory testing usually involves immunoassay or liquid chromatography-mass spectrometry.
+
+This equipment has proliferated into the following countries: Bulgaria, Canada, Czech Republic, Russian Federation, United States of America.
+
+Here is System information for the RICIN: Biotoxin:
+The Alternative Designations is Ricine, Ricins.
+The Military designation is .
+The Chemical abstracts service number is 9009-86-3.
+The UN Number is 3462.
+The Chemical Formula is INA.
+The Appearance is Powder, Liquid, Crystalline.
+The Color is White.
+The Description type agent is Biotoxin.
+The Description is Toxic protein from Castor Bean plant.
+The Lethality is Yes.
+The Nonpersistent is .
+The Flammability* is 1.
+The Health* is 4.
+The Instability/reactivity* is 0.
+The Flashpoint° (F) is INA.
+The Boiling Point ° (F) is INA.
+
+Here is Routes of Exposure information for the RICIN: Biotoxin:
+The Inhalation is Yes.
+The Ingestion is Yes.
+The Skin/eye is Possible.
+
+Here is Methods of Dissemination information for the RICIN: Biotoxin:
+The Indoor air is Yes.
+The Water is Yes.
+The Food is Yes.
+The Outdoor air is Yes.
+The Agricultural is Yes.
+The Historic usage* is Yes.
+

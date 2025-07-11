@@ -1,0 +1,112 @@
+This document describes the BOV M11 Serbian 4x4 Armored Reconnaissance Vehicle.
+
+The BOV M11 is part of the BOV family of light armored vehicles. The M11 is a 4x4 all-wheel drive vehicle specialized in reconnaissance. It is an armored vehicle manufactured in SDPR "Complex Battle Systems" factory in Velika Plana, Serbia.
+
+The BOV M11 has a primary role as a reconnaissance vehicle and command-reconnaissance vehicle. If used by artillery units it could be a remote observation post that observes the enemy and guides firing. It has a crew of 3, including a driver, commander, and gunner. Has to room for four more personnel that could include based on concrete mission scouts and the artillery command platoon’s CO. The vehicle has four-wheel drive and is powered by a diesel engine developing 190 hp. It has many special reconnaissance systems and artillery systems built in based on a concrete mission role. The driver has thermal camera sight at the front and a CCD TV camera at the rear. It is armed with a 12.7 mm remote-controlled weapon station for day and night combat and fire on the move and stands. It is possible to integrate another RCWS with a 7.62mm gun and for a more recce combat role RCWS with a 30 mm grenade launcher BGA-30 or M10 RCWS with a 20mm gun and 7.62mm coaxial gun.
+
+Equipment for artillery reconnaissance vehicles includes 1. Artillery electronic direction finder (AEG) 2. Communications equipment 3. Artillery battery FCS computer
+
+This equipment has proliferated into the following countries: Bangladesh, Kenya, Serbia.
+
+Here is Variants information for the BOV M11 Serbian 4x4 Armored Reconnaissance Vehicle:
+The BOV-M (Slovenia) is Some built with 12.7-mm MGs.
+The BOV-VP is Security version with swing out gates to direct crowds.
+The BOV-1/Polo M-83 is Sans troop compartment with 2 ATGM launcher pods with 3 AT-3 launchers each with machine gun mounted before the two AT-3s.
+The BOV-3 is 3 turret-mounted 20-mm cannons for air defense.
+The BOV-30 is 2 turret-mounted 30-mm cannons for air defense.
+The LOV (Croatia) is No raised compartment, increased hull protection, but with a 12.7-mm machine gun.
+The BOV-SN is Ambulance.
+The Yugo import BOV variants is Serbia has a variants that include SP AA vehicles with the Igla or Stinger missiles or the ZU-23; AT vehicles with the AT-5 Spandrel; or an armored reconnaissance vehicle with a 20-mm M55 cannon, 7.62-mm PKT machine gun with twin AT-3 Sagger AT launchers or a single Spandrel system.
+
+Here is System information for the BOV M11 Serbian 4x4 Armored Reconnaissance Vehicle:
+The Alternative Designations is BOV M11.
+The Description is The BOV M11 has primary role as reconnaissance vehicle and command-reconnaissance vehicle..
+The Manufacturer is TAM Complex Battle System factory in Velika Plana, Serbia.
+The Crew is 3.
+The Passengers is 4.
+The Note is The BOV M11 has many special reconnaissance systems and artillery systems built in based on concrete mission role.
+
+Here is Dimensions information for the BOV M11 Serbian 4x4 Armored Reconnaissance Vehicle:
+The Length is 5.79.
+The Width is 2.53.
+The Height, Hull Roof is 2.33.
+The Ground Clearance is 0.33.
+The Track is 1.90.
+The Wheelbase is 2.75.
+
+Here is Automotive information for the BOV M11 Serbian 4x4 Armored Reconnaissance Vehicle:
+The Engine Name is CUMMINGS 190KS Engine.
+The Engine Type is Diesel.
+The Engine Power is 190.
+The Transmission is 1 reverse gear, 5 forward gears.
+The Cruising Range (km) is 600.
+The Speed (Max Road) (km/h) is 100.
+The Speed (Max Off-Road) (km/h) is INA.
+The Speed (Average cross-country) (km/h) is 40.
+The Speed (Max Swim) is Not Amphibious.
+The Fuel Capacity is 220 liters.
+The Gradient is 55.
+The Side Slope is 30.
+The Vertical Obstacle is 0.54.
+The Trench is 0.64.
+The Fording Depths is 1.10.
+The Turning Radius is 10.0.
+The Brakes is air-hydraulic with a hand-operated parking brake.
+The Suspension is 4×4 wheeled, fully independent.
+The All-Wheel Drive is Yes.
+
+Here is Communications information for the BOV M11 Serbian 4x4 Armored Reconnaissance Vehicle:
+The Radio is INA.
+The Intercom is INA.
+The Upgraded Communications Equipment is Avaialble.
+
+Here is System information for the BOV M11 Serbian 4x4 Armored Reconnaissance Vehicle of the Main Weapon System:
+The Name is 1 x NSV 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Manufacturer is "Metallist", Uralsk, Kazakh SSR, Crvena ZastavaSerbia.
+The Length is 1,560.
+The Weight, Gun Only is 25.
+The Weight, On Tripod is 41.
+The Weight, 50 round belt is 11.
+The Action is Gas-operated.
+The Rate of Fire is 700–800 rounds/min.
+The Effective Firing Range, vs. Air Targets is 1,500.
+The Effective Firing Range, vs. Ground Targets is 2,000.
+The Feed System is 50-round belt.
+The Sights is Iron sights.
+
+Here is Ammunition information for the BOV M11 Serbian 4x4 Armored Reconnaissance Vehicle of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7×108mm.
+The Muzzle Velocity is 845.
+The Basic Load is 2,000.
+
+Here is Fire Control information for the BOV M11 Serbian 4x4 Armored Reconnaissance Vehicle:
+The Fire Control System is No.
+The Periscope is ingle forward-facing day periscope in the roof.
+The Passive Periscope is Yes.
+The Searchlight is Yes.
+The Firing Ports is three on each side.
+The Driver Thermal Sight is Yes.
+The Commander Thermal Sight is Yes.
+The Gunner Thermal Sight is Yes.
+The FIre on the Move is Yes.
+The CCD TV is Yes, located at the rear of the vehcile.
+The Artillery electronic direction finder (AEG) is Avaialble for Aritllery Reconnaissance.
+The Artillery Battery FCS Computer is Avaialble for Aritllery Reconnaissance.
+
+Here is Protection information for the BOV M11 Serbian 4x4 Armored Reconnaissance Vehicle:
+The Armor, Front is STANAG 4569 Level III front.
+The Armor, Sides and Rear is STANAG 4569 Level II sides and aft..
+The Windshield is Six ballistic protected windows and 6 loopholes.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is Available.
+The Smoke Equipment is 6 x Smoke grenade launchers.
+The Survivability Equipment is Grill armor over windows.
+The Central Tire Inflation System is Yes.
+

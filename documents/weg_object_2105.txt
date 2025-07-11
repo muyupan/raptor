@@ -1,0 +1,43 @@
+This document describes the Stonefish British Naval Influence Mine.
+
+The Stonefish naval influence mine is manufactured by a British defence company (BAE Systems). It has been exported to friendly countries such as Australia, which has both warstock and training versions of Stonefish.There has been conjecture that South Africa, Chile, Iraq, Libya and possibly other countries may have gained access to either some early Stonefish information or to similar technology. The mine is named after the stonefish, a venomous fish of the same name.
+
+Stonefish mines generally have two suspension lugs in order to facilitate handling operations e.g. winching. They can be deployed by fixed-wing aircraft, helicopters, surface vessels and submarines. It is a cylindrically shaped, modular weapon, comprising three separate sections which are joined together to form one unit:
+
+launching system (e.g. nose fairing, tail-fin unit, parachute-pack and arming lanyards for air-dropped delivery)
+electronics pack (incorporating safety/arming devices, target processing computer and associated fuze mechanisms)
+aluminised PBX high explosive warhead.
+
+This equipment has proliferated into the following countries: Australia, United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the Stonefish British Naval Influence Mine:
+The Warstock mine is Used in combat. Contains an explosive warhead. Incorporates acoustic, magnetic and pressure sensors, coupled with computerised electronics to provide target assessment i.e. whether the target is genuine, whether it is regarded as a legitimate enemy target, and whether it lies within the destructive blast radius of the warhead. Detonation will only be triggered when all three criteria have been met..
+The Drill practice mine is A low-cost training version which does not contain any explosives. It is used to teach operators the drills and procedures required for optimum handling, transportation, fuze programming and preparation. This enables warstock mines to be used in combat with the maximum operational effectiveness..
+The Assessment Mine is To all intents and purposes a naval SIGINT device, used to gather ship target signature data to update target characteristics and assist with programming. The assessment mine is used on the sea bed and does not contain any explosives. A shore station, which also contains simulation and analysis software, controls the mines via a data link cable..
+The Exercise mine is Used on naval exercises. It incorporates the same electronic sensors and software as a warstock mine, but does not contain any explosives. The electronic circuitry records the acoustic, magnetic and pressure influences of a target and provides users with an indication that the mine (were it warstock) would have detonated. An acoustic telemetry link controls the unit after deployment and commands the recovery process..
+
+Here is System information for the Stonefish British Naval Influence Mine:
+The Alternate Designation is Stonefish.
+The Type is Naval Influence Mine.
+The Manufacturer is BAE Systems.
+The Unit is It is a cylindrically shaped, modular weapon, comprising three separate sections which are joined together to form one unit:
+
+*launching system (e.g. nose fairing, tail-fin unit, parachute-pack and arming lanyards for air-dropped delivery)
+*electronics pack (incorporating safety/arming devices, target processing computer and associated fuze mechanisms)
+*aluminised PBX high explosive warhead.
+The Warhead is Aluminised PBX.
+The Air-Drop Capable is Yes, Alternatively, if an optional air-drop kit is fitted it can also be deployed by maritime patrol aircraft such as the P-3 Orion (connected to the aircraft via suspension lugs and an arming lanyard) its descent to the ocean surface slowed by a parachute retard pack..
+The Multi Warhead Capable is The destructive power of a Stonefish mine can be adjusted by coupling multiple warheads together in different combinations. The ability to change the warhead size allows Stonefish to be deployed against small targets in shallow coastal waters or against large targets in deep ocean..
+The Computerized Exploder is The computerised exploder in a Stonefish mine is microprocessor-based. It features acoustic, magnetic and water pressure displacement target detection sensors. The DSP circuitry includes such features as the ability to set thresholds regarding the signal strength and adjust sterilisation delay times (how long before the mine renders itself inoperative). A portable electronic presetting kit can be used to reprogram the mine (e.g. uploading a new library of acoustic target signatures or increasing the arming delay from one hour to 10 days) before the mine is deployed..
+The Configuration is Stonefish incorporates arming delays, ship counting and self-sterilisation features which can be configured by the user..
+The Operating Depth is The operating depth of Stonefish ranges between 30 and 200 m.
+The Shelf Life is 20 Years.
+The Operational Lifetime is 700 days after being deployed on the seabed..
+
+Here is Dimensions information for the Stonefish British Naval Influence Mine:
+The Length is INA, The physical measurements of a Stonefish mine are such that it can easily be loaded into the torpedo tubes of submarines, then deployed using a small charge of compressed air to expel it..
+The Diameter is 533 mm.
+The Total Weight is Two sizes of Stonefish explosive warhead are available for warstock mines, 100 kilograms (220 lb) and 300 kilograms (660 lb)..
+The Warhead Weight is The destructive power of a Stonefish mine can be adjusted by coupling multiple warheads together in different combinations. In this way, a Stonefish mine can have a warhead which weighs 100, 200, 300, 400, 500 or 600 kg..
+The Note is Depending on the warhead configuration, a Stonefish mine can have a total weight of up to 990 kilograms (2,180 lb)..
+

@@ -1,0 +1,83 @@
+This document describes the HZ-5 Chinese Reconnaissance Aircraft.
+
+HZ-5
+This was a photographic reconnaissance aircraft retrofitted from a H-5 prototype aircraft. Its design was started in December 1970 and was certificated in 1977. The main modifications were the addition of 2 large medium-high altitude day and night, aerial cameras inside the fuselage bomb bay and wing integral fuel tanks. Compared with the prototype aircraft its range was increased by 47 per cent, combat radius by 50 per cent and endurance by 1 hour and 23 minutes. The success of the HZ-5 filled a gap in the field of short / medium reconnaissance aircraft.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is Variants information for the HZ-5 Chinese Reconnaissance Aircraft:
+The Il-28 Beagle is This was the original Soviet light bomber from which the H-5 is derived. See separate database entry..
+The H-5 is This is the basic bomber in a three-seat configuration..
+The HD-5 electronic warfare aircraft is This variant was designed for electronic warfare missions. The twin 23-mm cannon turret was removed to make room for the electronic warfare/electronic countermeasures suite. The EW/ECM suite, which reportedly utilized only analog technology, could intercept, identify and jam hostile land-based or shipborne radar emitters. The HD-5 usually operated in groups of three to cover all frequency spectrums. Despite its aging technology, the powerful jammer onboard the aircraft was said to be very effective. The HD-5 was replaced by a more capable EW/electronic intelligence platform based on the Y-8 airframe..
+The HJ-5 Mascot is This was a two-seat trainer version. First flight occurred in December 1970, and it entered service in 1972. The type was retired in 1986..
+The HZ-5 is This was a three-seat reconnaissance version..
+
+Here is System information for the HZ-5 Chinese Reconnaissance Aircraft:
+The Alternate Designation(s) is HZ-5.
+The Primary Function / Type is Photographic Reconnaissance Aircraft.
+The Manufacturer is Harbin Aircraft Manufacturing Corp., Harbin, China.
+The Crew is 3 (pilot, navigator, radio operator/gunner).
+The Number of Engines is 2.
+The Number of Hard Points is 4.
+
+Here is Dimensions information for the HZ-5 Chinese Reconnaissance Aircraft:
+The Length is 17.65 m.
+The Height is 6.68 m.
+The Width (Wing Span) is 21.45 m.
+The Wing Area is 60.87 m sq.
+The Weight, Empty is 12,890 kg.
+The Weight, Maximum Takeoff is 21,200 kg.
+The Weight, Maximum Weapons Load is 3,000 kg.
+The Weight, Normal Weapons Load is 1,000 kg.
+
+Here is Automotive information for the HZ-5 Chinese Reconnaissance Aircraft:
+The Engine Name is 2 x Wopen-5.
+The Number of Engines is 2.
+The Engine Type is Turbojet.
+The Engine Power is 5,952 lb (2,700 kg) static thrust each.
+The Fuel Capacity is 7,910 liters.
+The Maximum Speed is 900 km/h.
+The Cruising Speed is 769 km/h.
+The Ceiling is 12,500 m.
+The Rate of Climb is 900 m/min.
+The Maximum Range is 3,550 km.
+The Radius is 1,100 km.
+
+Here is System information for the HZ-5 Chinese Reconnaissance Aircraft of the Main Gun System:
+The Name is Nudelman-Rikhter NR-23.
+The Type is Autocannon.
+The Caliber is 23mm.
+The Quantity is 4 x 23-mm NR-23 cannon (2 fixed in nose and two in tail position).
+The Length is 1,980 mm.
+The Barrel Length is 1,450 mm.
+The Width is 165 mm.
+The Height is 136 mm.
+The Weight is 39 kg.
+The Barrels is 1.
+The Action is Short recoil.
+The Rate of Fire is 800–850 rpm.
+The Muzzle Velocity is 690 m/s.
+
+Here is Ammunition information for the HZ-5 Chinese Reconnaissance Aircraft of the Main Gun System:
+The Type is Rifle.
+The Caliber is 23mm.
+The Cartridge is INA.
+The Basic Load is 650 Rounds.
+
+Here is Bombing System information for the HZ-5 Chinese Reconnaissance Aircraft:
+The Note is The fuselage Bomb Bay has been modified to support 2 large medium-High Altitude day and night aerial cameras..
+
+Here is Fire Control / Avionics information for the HZ-5 Chinese Reconnaissance Aircraft:
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Laser Desingator is INA.
+The Photo Reconnaissance System is The main modifications were the addition of 2 large medium-high altitude day and night, aerial cameras inside the fuselage bomb bay and wing integral fuel tanks..
+
+Here is Protection information for the HZ-5 Chinese Reconnaissance Aircraft:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

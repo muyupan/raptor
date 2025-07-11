@@ -1,0 +1,172 @@
+This document describes the G6 Rhino South African 155mm Self-Propelled Howitzer (SPH).
+
+The G6, sometimes denoted as the G6 Rhino, is a South African mine-protected self-propelled howitzer. It was developed as a turreted, self-propelled variant of the G5 howitzer series, mating the gun to a six-wheeled armored chassis.  Design work on the G6 began in the late 1970s to replace the obsolescent Sexton being retired from service with the artillery regiments of the South African Army. Serial production commenced between 1988 and 1999. At the time of its introduction, the G6 was considered one of the most mobile self-propelled howitzers in service. Its chassis was engineered to be mine-resistant and blast proof, allowing it to survive multiple TM-46 detonations during trials. The G6 was conceived as a wheeled rather than a tracked vehicle for this purpose, as well as to allow it to deploy long distances by road without consuming excessive quantities of fuel or requiring a tank transporter.
+
+This equipment has proliferated into the following countries: Oman, South Africa, United Arab Emirates.
+
+Here is Variants information for the G6 Rhino South African 155mm Self-Propelled Howitzer (SPH):
+The G6 M1A3 is exported UAE version.
+The G6-52 is (23 litre chamber).
+The G6-52 extended range is (25 litre chamber).
+The Al-Majnoon: is licensed Iraqi version
+Reduced crew to 3–5;
+can fire projectile up to 67 km at a rate of fire of eight rounds/minute;
+increased off-road speeds to nearly 70 km/h;
+implemented multiple rounds simultaneous impact (MRSI) technology and can land six (G6-52L variant) or five (G6-52) rounds simultaneously at targets up to 25 km away; and
+is currently undergoing extensive trials..
+The G6 Marksman is British SPAAG version, combining the G6's base vehicle with the Marksman turret.[.
+
+Here is System information for the G6 Rhino South African 155mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is G6 Rhino, G6.
+The Manufacturer is Denel Land Systems (turret)
+Land Systems OMC (chassis).
+The Type is Self-Propelled Howitzer (SPH).
+The Family is G6.
+The Crew is 6.
+The Chassis is Purpose built 6x6 wheeled.
+The Displacement Time is 1.
+The Emplacement Time is 1.
+
+Here is Dimensions information for the G6 Rhino South African 155mm Self-Propelled Howitzer (SPH):
+The Length is 9.2.
+The Width is 3.40.
+The Height is 3.20.
+The Weight, Combat is 46.
+The Ground Pressure is INA.
+
+Here is Automotive information for the G6 Rhino South African 155mm Self-Propelled Howitzer (SPH):
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 518.
+The Cruising Range is 700.
+The Speed, Maximum Road is 90.
+The Speed, Average Cross is 30.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.45.
+The Trench is 1.
+The Fording Depth is 1.
+The Transmision is Automatic.
+The Note is The driver of the G6 Rhino can select either fully automatic or semi-automatic drive.
+
+Here is Communications information for the G6 Rhino South African 155mm Self-Propelled Howitzer (SPH):
+The Gun Intercom System. is Yes.
+The Radio is UHF/VHF frequency-hopping system.
+The Radio Name is INA.
+The Radio Range is 50.
+
+Here is System information for the G6 Rhino South African 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is G5 155mm Howitzer.
+The Type is 155mm Howitzer.
+The Manufacturer is Denel Land Systems.
+The Length, Barrel is 6.97.
+The Weight is 13,750.
+The Width is 3.3.
+The Height is 2.1.
+The Loader Type is Semi-automatic loading system, with a fume extractor.
+The Muzzle Brake Type is INA.
+The Breech Type is Semi-automatic interrupted screw.
+The Max Rate of Fire is 3.
+The Max Elevation is +75.
+The Min Elevation is -3.
+The Traverse Range is 180.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Firing Range (Base Bleed) is 40.
+The Maximum Firing Range (Standard) is 30.
+The Maximum Firing Range (VLAP) is 50.
+The Feed System is Breech-loaded.
+The Barrel-Cooling Fan is Yes.
+The Note #1 is The G6 Rhino is compatible with all NATO 155 mm ammunition.
+The Note #2 is Denel Land Systems reported that in 2001 that the G6 Rhino was outfitted with new Velocity enhanced Long range Artillery Projectile VLAP, which extends it's Maximum Effective Range out to 53.6km.
+
+Here is Ammunition (Option 1) information for the G6 Rhino South African 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is High Explosive (HE).
+The Caliber is 155.
+The Muzzle Velocity is 937.
+The Shell Type is High Explosive.
+The Projectile Weight is 47.6.
+The Basic Load is 47 Total of any 155mm Combination.
+The Maximum Effective Range is 24.
+
+Here is Ammunition (Option 2) information for the G6 Rhino South African 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is Extended Range Full Bore (ERFB).
+The Caliber is 155.
+The Length is 938.
+The Weight is 45.54.
+The Muzzle Velocity is 897.
+The Basic Load is 47 Total of any 155mm Combination.
+The Maximum Effective Range is 30.
+
+Here is Ammunition (Option 3) information for the G6 Rhino South African 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is Extended Range Full Bore, Hollow Base, Base Bleed (ERFB-HB-BB).
+The Caliber is 155.
+The Length is 938.
+The Weight is 47.6.
+The Muzzle Velocity is 903.
+The Basic Load is 47 Total of any 155mm Combination.
+The Maximum Effective Range is 39.
+
+Here is System information for the G6 Rhino South African 155mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Name is 1 x M2 Browning.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Max Rate of Fire (M2HB Version) is 450-600.
+The Max Rate of Fire (AN/M2 Version) is 750-850.
+The Max Rate of Fire (AN/M3 Version) is 1,200-1,300.
+The Manufacturer is Current: General Dynamics, Fabrique Nationale (.
+The Proliferation is Over 3 Million.
+The Muzzle Velocity is 890 m/s.
+The Weight  (Gun Only) is 38.
+The Weight (Gun and Tripod) is 58.
+The Length (Total) is 1,654.
+The Length (Barrel) is 1,143.
+The Action is Short recoil-operated.
+
+Here is Ammunition information for the G6 Rhino South African 155mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7×99mm NATO).
+The Muzzle Velocity is 450-1,300 m/s.
+The Basic Load is 800.
+The Effective Range is 1,800-2,000.
+
+Here is Fire Control information for the G6 Rhino South African 155mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes, Type INA.
+The Thermal Sight Gunner is Yes, Type INA.
+The Main Gun Stabilization is INA.
+The Indirect Fire is Digital Panoramic Telescope.
+The Direct Fire is Trunnion Mounted Telescope.
+The Ammunition System is Yes.
+The Meteorological Station is Yes.
+The Muzzle Velocity Analyser is Yes, Muzzle Velocity Radar System (MVRS).
+The Artillery Helmet Radio Communications System is Yes.
+The Gun System is Gun Management System (GMS).
+The Gun Display Unit (GDU) is Yes.
+The Navigation System is Yes, Laying and Navigation System (LNS).
+The Ammunition Display Unit (ADU) is Yes.
+The Ring Laser Gyro (RLG) Inertial Unit is Yes.
+The Fibre Optic Gyro (FOG) Inertial Unit is Available.
+The Distance Transmitting Unit (DTU) is Yes.
+The Global Positioning System (GPS) is Yes.
+The Note is Denel Land Systems reported that in 2001 that the G6 Rhino was outfitted with new Velocity enhanced Long range Artillery Projectile VLAP, which extends it's Maximum Effective Range out to 53.6km.
+
+Here is Protection information for the G6 Rhino South African 155mm Self-Propelled Howitzer (SPH):
+The Hull Armor is All-welded steel armor, protection from small arms fire and shell splinters.
+The Turret Armor is All-welded steel armor, protection from small arms fire and shell splinters.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is Yes.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, 81 mm electrically operated grenade launchers which fire smoke grenades..
+The IR Signature is INA.
+The Double Armored Floor is Yes.
+The Bullet Proof Windows is Yes.
+The Firing Ports is Yes, each side.
+The Thermal Warning Device (TWD) is Yes.
+

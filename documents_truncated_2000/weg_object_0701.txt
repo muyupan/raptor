@@ -1,0 +1,35 @@
+This document describes the YJ-91 Chinese Anti-Ship Missile.
+
+YJ-91 is the Chinese version of the Kh-31. YJ is short for Ying Ji (Yingji, 鹰击) meaning eagle strike. After purchasing 200 Kh-31Ps from Russia, China decided to develop its own version, because the original Kh-31 missile did not fully satisfy Chinese requirements. The resulting YJ-91 missile was developed by Hongdu Aviation Industry Corporation, the same manufacturer of the Silkworm missile. The experience gained from YJ-91 also helped the engine development of another supersonic missile indigenously developed in China, YJ-12, which is sometimes confused by non-Chinese sources with the YJ-91, as both share the same origin for their propulsion systems.
+
+YJ-91 Anti-Ship Missile 
+The Chinese have also developed an anti-ship version of the YJ-91 missile. However, this version is an indigenous development of the Chinese from the Kh-31P anti-radiation missile, and not from the Kh-31A anti-ship missile. China did not order any of the Kh-31A. The Chinese felt that the original Kh-31A could not fully satisfy their requirements, because the high-low trajectory of the missile meant early detection, thus it is prone to interception. In contrast, the low-low trajectory usually adopted by subsonic anti-ship missiles better uses the supersonic speed of Kh-31A. Such a trajectory shortens the detection range and the high-speed reduces the target’s reaction time, once the missile is detected. As a result, China did not order any Kh-31A anti-ship missiles.
+
+The resulting anti-ship version of the YJ-91 is capable of sea-skimming. Its cruising altitude is no more than 20 metre above sea level. At the terminal attack stage (usually after the active radar seeker of the missile is turned on), the missile drops to 7 metre above sea level. This attack altitude can be further reduced to just 1.2 metre above sea level, when the sea state allows. Alternatively, the missile can be programmed to popup-and-dive like that the Boeing Harpoon. However, such sea-skimming capability comes at the expense of maximum range: in comparison to the original 70 km range of the Kh-31A, the maximum range of YJ-91 anti-ship missile was reduced by more than a quarter to 50 km. Like the anti-radiation version, it is reported that many planned upgrades are in development. An application for research grants to develop a submerged launched version of YJ-91 anti-ship missile once appeared on Chinese websites on the Internet, indicating China is attempting to develop a version for its submarine fleet.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the YJ-91 Chinese Anti-Ship Missile:
+The YJ-91 Anti-Radiation Missile is The anti-radiation version of the YJ-91 missile was developed from the Kh-31P, which uses a wide array of seekers to cover the entire radar frequency band. The Chinese were not satisfied with the requirement to include multiple seekers and preferred to have a single seeker capable of covering multiple frequency bands, like the AGM-88 HARM. However, such ambitions proved to be too great for the Chinese microelectronics industry. They could not achieve the goal in a single step within the required timeline originally specified by the Chinese military. Instead, a two-step approach was implemented: The completion of the development of a single seeker covering multiple frequency bands was pushed back, while a stopgap measure was adopted in the meantime. The Kh-31P was modified so that the seekers could be rapidly changed in the forward airstrips (providing the specialized tooling is available), so that missile would not need to be sent back to depots or factories to perform such operation.
+
+The resulting anti-radiation version of YJ-91 missile has a slightly increased the range to 120 km in comparison to 110 km of the original Kh-31P. In addition to a seeker that covers multiple frequency bands, additional measures to upgrade the missile are in development, such as, an open software architecture. Additional measures reportedly include prioritizing threats, which could be uploaded to the onboard computer from the ground or by the pilots while in flight. Threats could then be updated in real time. The multi-band seeker is of higher priority..
+The YJ-91 Anti-Ship Missile is The Chinese have also developed an anti-ship version of the YJ-91 missile. However, this version is an indigenous development of the Chinese from the Kh-31P anti-radiation missile, and not from the Kh-31A anti-ship missile. China did not order any of the Kh-31A. The Chinese felt that the original Kh-31A could not fully satisfy their requirements, because the high-low trajectory of the missile meant early detection, thus it is prone to interception. In contrast, the low-low trajectory usually adopted by subsonic anti-ship missiles better uses the supersonic speed of Kh-31A. Such a trajectory shortens the detection range and the high-speed reduces the target’s reaction time, once the missile is detected. As a result, China did not order any Kh-31A anti-ship missiles.
+
+The resulting anti-ship version of the YJ-91 is capable of sea-skimming. Its cruising altitude is no more than 20 metre above sea level. At the terminal attack stage (usually after the active radar seeker of the missile is turned on), the missile drops to 7 metre above sea level. This attack altitude can be further reduced to just 1.2 metre above sea level, when the sea state allows. Alternatively, the missile can be programmed to popup-and-dive like that the Boeing Harpoon. However, such sea-skimming capability comes at the expense of maximum range: in comparison to the original 70 km range of the Kh-31A, the maximum range of YJ-91 anti-ship missile was reduced by more than a quarter to 50 km. Like the anti-radiation version, it is reported that many planned upgrades are in development. An application for research grants to develop a submerged launched version of YJ-91 anti-ship missile once appeared on Chinese websites on the Internet, indicating China is attempting to develop a version for its submarine fleet..
+
+Here is YJ-91 Anti-Radiation Missile information for the YJ-91 Chinese Anti-Ship Missile of the System:
+The Name is YJ-91.
+The Type is Anti-Ship Missile.
+The Manufacturer is Hongdu Aviation Industry Corporation.
+The Length is 4.7 m.
+The Diameter is 0.3602 m.
+The Weight is 0.6 ton.
+The Warhead is 165 kg.
+The Detonation Mechanism is Semi-armor-piercing and other.
+The Engine is Ramjet.
+The Propellant is Liquid fuel.
+The Operational Range is 50-120 km.
+The Maximum Speed is Mach 4.5.
+The Cruising Altitude is Its cruising altitude is no more than 20 metre above sea level. At the terminal attack stage (usually after the active radar seeker of the missile is turned on), the missile drops to 7 metre above sea level. This attack altitude can be further reduced to just 1.2 metre above sea level, when the sea state allows..
+The Guidance System is ARH / PRH.
+

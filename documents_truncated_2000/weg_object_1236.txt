@@ -1,0 +1,142 @@
+This document describes the NTC VISMOD 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH).
+
+NTC VISMOD 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH)
+The 2S19 "Msta-S" (Russian: ÐÑÑÐ°, after the Msta River) is a 152.4 mm self-propelled howitzer designed by Soviet Union, which entered service in 1989 as the successor to the 2S3 Akatsiya. The vehicle is based on the T-80 tank hull, but is powered by the T-72's diesel engine. The Msta is a modern howitzer designed for deployment either as an unarmored towed gun, or to be fitted in armored self-propelled artillery mountings. Current production of the towed model is designated Msta-B, while the self-propelled model is the Msta-S (also known by the GRAU index 2S19). Development of the 2S19 started in 1980 under the project name Ferma. The prototype was known as Ob'yekt 316. The 2S19's standard equipment consists of a semi-automatic laying system 1P22, an automatic loader, an NBC protection system, passive night vision device for the driver, a wading kit, a dozer blade, a smoke generator and 81mm smoke launchers, 1V116 intercom system and a 16 kW generator AP-18D. In 2008 the Russian armed forces ordered an improved model with an automated fire control system. The 2A64 ordnance of the 2S19 can fire the following types of ammunition, among others: HE (24.7 km), HEAT-FS, HE-BB (28.9 km), HERA (36 km), smoke, chemical, tactical nuclear, illumination and cargo (ICM).The laser-guided round âKrasnopolâ (of the 9K25 system) can also be launched, as well as the shorter "Krasnopol-Mâ which fits into the automatic loader. Msta-S howitzers were used by Russian Army to deliver artillery strikes against Chechen separatists during the Second Chechen War. Msta-S howitzers have also been used in the War in Donbass by the Ukrainian Army as well as pro-Russian separatists who captured one machine during the conflict.
+
+Here is System information for the NTC VISMOD 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is NTC VISMOD 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH).
+The Type is Self-Propelled Howitzer (SPH).
+The Caliber is 152 mm.
+The Mission Type is SZ: Provides IDF capability for the BTG..
+The Crew is 3x Crew Members (Commander, Driver, and Gunner).
+The Range is 29km HE, 24km DPICM, Illum, SMK, WP, and FASCAM.;
+Main Armament:
+Caliber, Type, Name: 152mm, Cannon, 2A64;
+Rounds:
+HE-Frag (OF-72) (80x)
+HE-Frag (OF-91) (20x)
+DPICM (3O23) (40x)
+Flechette (20x)
+Chemical (10x).
+The Effects is IDF.
+The Targeting is Maneuver, Sustainment,andC2 assets..
+The Vulnerability is Direct Fire and IDF.
+The CBI is Up to 1x Battery provided by augmenteesupport as a mix of constructive and live systems to replicate and provide BTG fires capability..
+
+Here is Dimensions information for the NTC VISMOD 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH):
+The Length, with Rear Box is 6.81 m.
+The Length, Gun Forward is 9.68 m.
+The Width, with ADMG is 3.24 m.
+The Width, over Side Boxes is 3.92 m.
+The Height, Overall is 3.62 m.
+The Height, Top of MG Mount is 3.27 m.
+The Weight is 28,848 kg.
+The Ground Pressure is (0.95 kg/cm sq.
+The Track, Length on Ground is 3.96 m.
+
+Here is Automotive information for the NTC VISMOD 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH):
+The Engine Name is 1 x DDC 8V-71T.
+The Engine Type is V-8 diesel.
+The Engine Power is 440 hp.
+The Power-to-Weight Ratio is 15.25 hp/metric ton.
+The Transmission is Allison ATD-XTG 411-2A (A3) or 411-4 with quick disconnect powershift crossdrive, 4 forward and 2 reverse gears.
+The Fuel Capacity is 503 liters.
+The Range is 344.
+The Speed, Maximum Road is 64.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Side Slope is 30.
+The Gradient is 60.
+The Vertical Step is 0.53.
+The Trench is 1.83.
+The Fording Depth is 1.07.
+The Suspension is Torsion bar, 7 road wheels, front drive, rear idler, no return rollers (all models except PIM).  An upgraded suspension has longer torsion bars and hydro pneumatic bump stops to handle the greater vehicle weight..
+
+Here is System information for the NTC VISMOD 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is 1 x M284.
+The Type is Rifled Howitzer.
+The Caliber is 155 mm.
+The Length is INA.
+The Barrel Length is INA.
+The Weight is INA.
+The Cannon Groves is 48.
+The Rifling is Right-hand rifling with constant, 8.93-deg twist.
+The Breech Type is Welin-step thread.
+The Recoil System is hydropneumatic.
+The Elevation is -3/+75 deg (-53/+1,333 mils).
+The Traverse is 360 deg (6,400 mils).
+The Maximum Firing Range is 14.6 km.
+The Maximum Rate of Fire is 1 rd/min first hour, 4 rd in first 3 min max.
+The Sustained Rate of Fire is 2 rpm.
+The Note #1 is This self-propelled artillery system is supported by an associated M992 armored ammunition supply vehicle. It is based on the same tracked chassis as the M109..
+The Note #2 is The cab has a rear bustle rack which provides an increased ammunition stowage capacity..
+
+Here is Ammunition (Option 1) information for the NTC VISMOD 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is M549A1.
+The Type is HERA.
+The Caliber is 155 mm.
+The Length is 858 mm.
+The Weight is 43.54 kg.
+The Maximum Range is 30,000 m.
+The Basic Load is 39 rounds including 2 Copperhead.
+
+Here is Ammunition (Option 2) information for the NTC VISMOD 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is M712.
+The Type is Copperhead.
+The Caliber is 155 mm.
+The Length is 1,372 mm.
+The Weight is 63.50 kg.
+The Maximum Range is 14,000 m.
+The Basic Load is 39 rounds including 2 Copperhead.
+
+Here is Ammunition (Option 3) information for the NTC VISMOD 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is M864.
+The Type is DPICM.
+The Caliber is 155 mm.
+The Length is 898 mm.
+The Weight is 43.80 kg.
+The Maximum Range is 22,100 m.
+The Basic Load is 39 rounds including 2 Copperhead.
+
+Here is System information for the NTC VISMOD 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH) of the Auxiliary Weapon System:
+The Name is 1 x M2 Browning.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight is 58 kg with tripod and T&E (Traverse and Elevation Mechanism).
+The Action is Short recoil-operated.
+The Rate of Fire is 450â600 rounds/min.
+The Muzzle Velocity is 890 m/s.
+The Maximum Firing Range is 7,400 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is Belt-fed (M2 or M9 links).
+The Sights is INA.
+
+Here is Ammunition information for the NTC VISMOD 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7Ã99mm NATO.
+The Basic Load is 500.
+
+Here is Fire Control information for the NTC VISMOD 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH):
+The Name is Alliant Techsystems automatic fire-control system (AFCS)..
+The Computerized FCS is Yes, The AFCS has a ballistic computer/weapon controller, power conditioner and an inertial reference navigation systems/dynamic reference unit based on the modular azimuth positioning system (MAPS) using ring laser gyro on-board land navigation. The AFCS permits 0.6 mi. (1 km) separation between vehicles, improving gun battery survivability..
+The Thermal Sight Vehicle Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is Yes.
+The Night Vision Devices is Yes.
+The Note is It has an all weather ballistic shield mounted over the panoramic telescope; counterbalanced travel lock and provisions for mounting the M140 alignment device..
+
+Here is Protection information for the NTC VISMOD 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH):
+The Hull Armor is 5083 aluminum with composite spall liners and supplemental armor..
+The Turret Armor is INA.
+The Applique Armor is DuPont Kevlar armor has been added to the Paladin, forming an inner lining of the cab, roof and crew compartment sides. Rolled homogeneous steel armor is fitted over the driver's compartment and on the rear of the bustle..
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is MCS system.
+The Smoke Equipment is No.
+The Fire Suppression is Automatic. Improved protection also includes the segmentation of hydraulic lines and the use of a Halon fire-suppression system. The hydraulic system, which is distributed in the A3, has been centralized in the Paladin. The Halon system is intended to snuff out internal fires in less than 0.25 sec. In addition, a microclimate cooling system has been added to improve the working environment and protect against the effects of nuclear, biological and chemical (NBC) warfare. Projectile stowage has been placed lower in the hull to reduce threat of secondary explosions from counter-battery fires..
+

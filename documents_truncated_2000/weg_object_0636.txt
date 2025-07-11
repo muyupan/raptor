@@ -1,0 +1,132 @@
+This document describes the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft.
+
+The A-10 Thunderbolt II is the U.S. Air Force’s primary low-altitude close air support aircraft. The A-10 is perhaps best known for its fearsome GAU-8 Avenger 30mm Gatling gun mounted on the nose. The GAU-8 is designed to fire armor-piercing depleted uranium and high explosive incendiary rounds. The A-10 has excellent maneuverability at low air speeds and altitude, and is a highly accurate and survivable weapons-delivery platform. The aircraft can loiter near battle areas for extended periods of time and operate in low ceiling and visibility conditions. The wide combat radius and short takeoff and landing capability permit operations in and out of locations near front lines. Using night vision goggles, A-10 pilots can conduct their missions during darkness.
+
+This equipment has proliferated into the following countries: CFE Treaty, United States of America.
+
+Here is Variants information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft:
+The A-10 (A-10A) is First production model..
+The A-10 N/AW is This was a company-funded two-seat prototype for the night/adverse weather (N/AW) mission. It featured a second, elevated seat for a weapons system officer (WSO); a Westinghouse multi-mode radar; Texas Instruments forward-looking infrared (FLIR) sensor; General Electric low-light-level TV (LLLTV); and a Ferranti laser rangefinder. First flight took place on May 4, 1979. It was not produced. The N/AW variant was about 2,000 lbs (910 kg) heavier than the A-10A due to the second cockpit, additional equipment and fuel, fuselage extension and extended vertical tail fins. The WSO station would mirror the front cockpit instruments, including flight controls and engine throttle controls, save for the head-up display..
+The OA-10 is A-10 aircraft were re-designated for forward air control (FAC) duties beginning in October 1987 as a replacement for the OV-10 Bronco. The GAU-8/A gun armament was retained, target-marking rockets were fitted and provisions made for the AIM-9 Sidewinder air-to-air missile..
+The A-10C is This variant features updated controls (some borrowed from supersonic jets), computers and digital targeting equipment as part of a major electronics overhaul. The modernization helps the A-10C variant avoid friendly-fire mistakes, drop satellite-guided smart bombs including JDAMs and WCMDs, conduct missions in all weather conditions. Specific improvements included hands-on throttle and stick (HOTAS) control; two Raytheon 5 in x 5 in (127 mm x 127 mm) multifunction cockpit displays; situational awareness data link (SADL); digital stores management system; a BAE Systems integrated flight and fire control computer (IFFCC); Sniper XR targeting pod; and Scorpion helmet-mounted sighting system. A-10s are also equipped with the Lightning targeting pod..
+The Other Upgrades is The low-altitude safety and target enhancement (LASTE) program involved Grumman Aircraft Systems and General Electric. The development program sought to fit a ground-collision avoidance system (GCAS) to improve low-level survivability; and enhanced altitude control system (EACS) to invoke aircraft SAS during gun firing for greater accuracy; and an air-to-air self-defense gunsight. A turbine engine monitoring system/hot section life improvement modification was intended to increase engine life and reliability. There were also A-10 upgrades for close-air support/battlefield air interdiction (CAS/BAI), including a FLIR sensor and helmet-mounted display..
+
+Here is System information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft:
+The Alternate Designation(s) is A-10, A-10A Warthog.
+The Primary Function / Type is Close Air Support, Observation and Target Marking Aircraft.
+The Manufacturer is Fairchild-Republic, Farmingdale, Long Island, N.Y. and Lockheed Martin Systems, Owego, N.Y. (A-10C platform-wide upgrade).
+The Crew is 1 x Pilot.
+The Number of Engines is 2 Engines.
+The Number of Hard Points is 11 Pylons (eight under wing, three under fuselage).
+
+Here is Dimensions information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft:
+The Length is 16.26 m.
+The Width (Wing Span) is 17.53 m.
+The Height is 4.47 m.
+The Wing Area is 47 sq m.
+
+Here is Propulsion information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft:
+The Engine Name is General Electric TF34-GE-100.
+The Number of Engines is 2.
+The Engine Type is Turbofan.
+The Engine Power is 4,112 kg (static thrust each).
+The Fuel is 4,990 kg (topped off).
+
+Here is Performance information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft:
+The Speed (Max) is 367 knots (423 mph, 681 km/h).
+The Speed (Cruise) is 300 knots (345 mph, 555 km/h).
+The Range Radius (Typical Load) is 250 nm (290 mi, 460 km) w/9,000-lb (4,310-kg) weapons load, 1.8 hour loiter.
+The Range Radius (Deep Strike) is 540 nm (620 mi, 1,000 km).
+The Ferry Range is 2,209 nm (2,542 mi, 4,091 km).
+The Climb Rate is 6,000 ft/min (1,829 m/min).
+The Ceiling is 45,000 ft (13,720 m).
+
+Here is Communications information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft:
+The Radio is Have-Quick, secure radio communications system.
+
+Here is Gatling Gun information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft of the Main Gun System:
+The Name is GAU-8/A.
+The Type is Multi-barrel cannon in fuselage.
+The Caliber is 30 mm.
+The Basic Load is 1,174 rds (in rear-mounted drum w/link-less feed).
+The Rate of Fire is 3,900 rds/min.
+The Bore is 7 x 30-mm rifled barrels on an electrically driven, geared rotor mounting..
+The Load and Fire System is Bolt on each rotating barrel opens and closes as it follows a fixed cam path..
+
+Here is Ammunition information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft of the Main Gun System:
+The API (Aerojet) is Armor Piercing Incendiary, 26.4 oz (748 g).
+The API, PGU-14/B is API round has a lightweight body which contains a sub-caliber high density penetrator of Depleted Uranium (DU)..
+The API (Honeywell) is Armor Piercing Incendiary, 25.3 oz (717 g).
+The HEI/TP is High Explosive Incendiary / Target Practice, 24.5 oz (694 g).
+The HEI, PGU-13/B is HEI round with high density Depleted Uranium (DU)..
+
+Here is Bomb System #1 information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft of the Bomb Systems:
+The Name is Mark 82.
+The Type is High Explosive Bomb.
+The Weight is 500 lbs (227 kg).
+The Length is 87.4 inches (2.22 m).
+The Diameter is 0.75 inches (273 mm).
+The Laser-Guided is Yes, when equipped for mission.
+The GPS-Guided is Yes, when equipped for mission.
+
+Here is Bomb System #2 information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft of the Bomb Systems:
+The Name is Mark 84.
+The Type is High Explosive Bomb.
+The Weight is 2039 lb (925 kg).
+The Length is 129 in (3280 mm).
+The Diameter is 18 in (458 mm).
+The Laser-Guided is Yes, when equipped for mission.
+The GPS-Guided is Yes, when equipped for mission.
+
+Here is Bomb System #3 information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft of the Bomb Systems:
+The Name is Mark 20 (Rockeye II).
+The Type is Anti-tank Cluster Bomb.
+The Weight is (490 lbs (222 kg).
+The Length is INA.
+The Diameter is INA.
+The Ordnance is Dispenses 247 shaped-charge bomblets.
+The Laser-Guided is No guidance (conventional freefall).
+The GPS-Guided is No guidance (conventional freefall).
+
+Here is Missile System #1 information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft of the Missile Systems:
+The Name is AGM-65 Maverick.
+The Type is Air-to-Ground Missile.
+The Weight is 462–670 lb (210–304 kg), mission dependent..
+The Length is 8 ft 2 in (249 cm).
+The Diameter is 12 in (30 cm).
+The Warhead is 57 kg WDU-20/B shaped-charge (A/B/C/D/H models), 136 kg WDU-24/B penetrating blast-fragmentation (E/F/G/J/K models) and E models utilize FMU-135/B delayed impact fuse..
+
+Here is Missile System #2 information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft of the Missile Systems:
+The Name is AIM-9 Sidewinder.
+The Type is Air-to-Air Missile.
+The Weight is 188 pounds (85.3 kg).
+The Length is 9 feet 11 inches (3.02 m).
+The Diameter is 5 in (127.0 mm).
+The Warhead is WDU-17/B annular blast-frag, 20.8 lb (9.4 kg), detonation mechanism is an IR proximity fuse.
+
+Here is Fire Control / Avionics information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft:
+The Fire Control System Type is Integrated Flight & Fire Control Computer (IFFCC).
+The Fire Control Radar is Synthetic Aperture Radar pod..
+The Navigation is Inertial navigation and a tactical air navigation (TACAN) system..
+The Terrain Mapping is BAE Systems terrain profile matching systems (TERPROM)..
+The Targeting Pod is Sniper XR targeting pod which features mid-wave FLIR (forward-looking infrared), dual mode laser, CCD-TV, laser spot tracker and IR marker..
+
+Here is Protection information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft:
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is Yes, using jammer pods and countermeasure flares. Also features electronic support measures (ESM) such as the Litton ALR-46/ALR-69 radar warning receiver..
+The Chaffs/Flares is Yes.
+The Cockpit Armor is The single-seat cockpit is protected by all-round armor, with a titanium ‘bathtub’ structure to protect the pilot that is up to 3.8cm thick. The cockpit has a large bulletproof bubble canopy, which gives good all-round vision..
+
+Here is Weapons Load information for the A-10 Thunderbolt II (Warthog) American Close Air Support Aircraft:
+The Mark 82 Load (Pure) is 18 x Mark 82 500-lb (227-kg) bombs.
+The Mark 84 Load (Pure) is 6 x Mark 84 2,000-lb (907-kg) bombs.
+The AGM-65 Load (Pure) is 6 x AGM-65 Maverick Air-to-Ground Missiles.
+The Rockeye Package (Pure) is 18 x Rockeye II Cluster Bombs.
+The Mark 82 GBU-54 Laser-guided / JDAM package is 6 x 500-lb (227-kg) Laser-guided Bombs.
+The Mark 84 GBU-54 Laser-guided / JDAM package is 4 x 2,000-lb (907-kg) Laser-guided Bombs.
+The Note #1 is All loads include basic load for the GAU-8/A main gun..
+The Note #2 is Other combinations available based on mission parameters..
+

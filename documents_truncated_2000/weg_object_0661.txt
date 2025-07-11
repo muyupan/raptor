@@ -1,0 +1,39 @@
+This document describes the Kh-23 Grom (AS-7 Kerry) Russian Air-to-Surface Missile.
+
+The Zvezda Kh-66 and Kh-23 Grom (Russian: Х-23 Гром 'Thunder'; NATO:AS-7 'Kerry') are a family of early Soviet tactical air-to-surface missiles with a range of 10 km. They were intended for use against small ground or naval targets. The Kh-66 was effectively a heavy-warhead, beam-riding version of the K-8 (AA-3 'Anab') air-to-air missile rushed into service in Vietnam in 1968. The Kh-23 was an improved Kh-66 with command-guidance, similar to the AGM-12 Bullpup.
+
+The Kh-66 used the airframe of the Kaliningrad K-8 (AA-3 'Anab') air-to-air missile, with the nozzle split to make room for the antenna of the beam-riding guidance system of the Kaliningrad K-5 (AA-1 'Alkali'). It has cruciform control fins on the nose, and four clipped-tip delta-wings at the rear with elevators for control.
+
+Work on air-to-air missiles had started at the Kaliningrad Engineering Plant (then known as Plant #455, and later merged into Zvezda-Strela) in 1955. This had resulted in the Kaliningrad K-5 (AA-1 'Alkali') family of beam-guided missiles, including the K-51 (RS-2-US) carried by the Su-9 'Fishpot'. OKB-4 Molniya (later Vympel NPO) under Matus Bisnovat would go on to produce missiles such as the AA-6 Acrid. Meanwhile, in 1963 the RS-2-US was tested as an air-to-surface missile. It was concluded that the small warhead and inaccurate guidance made such an application "pointless".
+
+However, in 1965 North Vietnam requested an air-to-surface missile from the Soviet government; the AGM-12 Bullpup had entered service with the US Air Force before the start of the Vietnam War. In April 1965 OKB-134 (later NPO Vympel) started work on this missile under the project name Kh-23, but they had problems developing a guidance system that would work with existing aircraft. As a result, Yurii N. Korolyov came up with his own proposals based on the earlier experiments with the RS-2-US. A design bureau to develop the RS-2-US for surface targets was set up under Korolyov by decree #100 of 12 March 1966 of the Ministry of the Aircraft Industry; this bureau would become the Zvezda OKB in 1976.
+
+The resulting weapon used the body of a K-8 (AA-3 'Anab') K-5 guidance and propulsion systems but increased the warhead from 13 kg (29 lb) to 100 kg (220 lb). This had the big advantage of allowing the new weapon to be fitted to any aircraft capable of firing the K-5. Design began in 1966, so the project was known as Kh-66 or Izdeliye 66 ('Article 66'). The Kh-66 was a beam-riding weapon that was tested on a MiG-21PFM and entered production in 1968 for that aircraft. The Kh-66 was only an interim solution as it required the launch aircraft to dive towards the target to maintain lock on the target. Flight testing of the Kh-66 began in 1967 and it entered service on 20 June 1968.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea), Serbia, Viet Nam.
+
+Here is Variants information for the Kh-23 Grom (AS-7 Kerry) Russian Air-to-Surface Missile:
+The Kh-66 is the original beam-riding missile based on the K-8.
+The Kh-23 is First command-guidance version with improved propellant.
+The Kh-23M is improved Kh-23 with technology from the Kh-25 family.
+The Kh-23L is Western name for a laser-guided version that in fact was the baseline Kh-25 (AS-10 'Karen').
+The A921 is Version made in Romania.
+The Grom (Grom 02) is Yugoslav version that appeared in the 1980s. This should not be confused with the Polish SAM.
+The Grom-B (Grom 2) is TV-guided version from Serbia's Vojno-Tehnički Institut in the mid-late 1990s; uses seeker based on that of AGM-65B Maverick.
+
+Here is Kh-23 Grom Air-to-Air Missile information for the Kh-23 Grom (AS-7 Kerry) Russian Air-to-Surface Missile of the System:
+The Name is Kh-23 Grom; NATO: A S-7 Kerry.
+The Type is Air-to-Air Missile.
+The Manufacturer is Zvezda-Strela.
+The Length is 3.525 m.
+The Diameter is 27.5 cm.
+The Wingspan is 78.5 cm.
+The Weight is 287 kg.
+The Warhead Weight is 111 kg.
+The Engine is Solid fuel rocket.
+The Operational Range is 2–10 km.
+The Maximum Speed is 2,160–2,700 km/h.
+The Guidance System is Radio command guidance.
+The Launch Platforms is MiG-21PFM, MiG-23, MiG-27,
+Su-17M3/20/22/22M3/M4,.
+

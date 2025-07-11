@@ -1,0 +1,46 @@
+This document describes the Ant 1000-P Russian Tracked Unmanned Ground Vehicle (UGV).
+
+The Ant 1000-P Russian Tracked Unmanned Ground Vehicle (UGV) can be used in various configurations including combat and loader. In its loader configuration, the Ant 1000-P can be used for digging narrow trenches, drill holes in the ground as well as loading/unloading.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Ant 1000-P Russian Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Ant 1000-P.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is Kovrov Electromechanical Plant (KEMZ).
+The Configuration is Tracked.
+The Crew is Unmanned.
+The Operator is The Ant 1000-P's control unit is housed in a ruggedised case and the operator is provided with a 17-inch monitor with a resolution of 1,280 × 1,024, and controls the system via two joysticks..
+The Cameras is The vehicle features four cameras (one of which is a pan-tilt-zoom (PTZ))..
+The Payload Capacity is 1,000 kg.
+The Note is In its loader configuration, the Ant 1000-P can be used for digging narrow trenches, drill holes in the ground as well as loading/unloading..
+
+Here is Dimensions information for the Ant 1000-P Russian Tracked Unmanned Ground Vehicle (UGV):
+The Length is 3.61 m.
+The Width is 1.99 m.
+The Height is 1.91 m.
+The Weight, Combat is 3,500 kg.
+
+Here is Automotive information for the Ant 1000-P Russian Tracked Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Amphibious is No.
+The Maximum Speed is 12 km/h.
+The Operating Range is 2,000 m.
+The Endurance is INA.
+
+Here is Communications information for the Ant 1000-P Russian Tracked Unmanned Ground Vehicle (UGV):
+The Note is The Ant-1000P can be remotely controlled out to a range of 2,000 m..
+
+Here is Main Weapon System information for the Ant 1000-P Russian Tracked Unmanned Ground Vehicle (UGV):
+The Remote Weapon Station (RWS) is The armed version of the Ant 1000-P is fitted with the Arbalet-DM (named after a medieval crossbow) remote weapon station (RWS). The RWS is equipped with a 7.62 mm machine gun..
+The Elevation is –20° to 70°.
+The Traverse is 360°.
+The Basic Load is 750 Rounds.
+
+Here is Protection information for the Ant 1000-P Russian Tracked Unmanned Ground Vehicle (UGV):
+The Armor is INA.
+The Applique Armor is INA.
+The Smoke Equipment is 4 x smoke grenade launchers are fitted to the front of the vehicle..
+

@@ -1,0 +1,35 @@
+This document describes the TDK-038 Chinese HF Communication DF/Locating System.
+
+The Chinese TDK-038 is a direction finder designed to DF ground-wave, skywave, and near-vertical-incident-skywave (NVIS) HF signals. The system consists of a master and three slave stations. The TDK-038 is capable of automatically locate a target based on the individual DFs provided by the four stations.
+
+The TDK-038 has two sets of antennas. The Adcock array of ground-mounted dipole antennas is used for HF groundwave and skywave interception. An array of crossed-loop antennas is used for NVIS signals. 
+
+The DF accuracy is 2 degrees with an average DF time of 2 seconds. But, the automatic DF and location require 17 seconds.
+
+The system is designed and marketed by China National Electronics Import and Export Corporation (CEIEC). The system was first marketed at IDEX 97.
+
+Picture not available at this time.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the TDK-038 Chinese HF Communication DF/Locating System:
+The Alternative Designation is TDK-038.
+The Type is HF Communication DF/Locating System.
+The Manufacturer is INA.
+The Target Set is Communication.
+The RF Range (Standard) is 0.1 to 30 MHz.
+The RF High is 30 MHz.
+The RF Low is 0.1 MHz.
+The Transmitter Power is INA.
+The DF Accuracy is 2 degrees.
+The Antenna Type is Adcock circular array of  ground-mounted dipole antennas and an array of crossed-loop antennas..
+The Continuous Operating Time is 24.
+The Emplacement Time is INA.
+The Displacement Time is INA.
+
+Here is Dimensions information for the TDK-038 Chinese HF Communication DF/Locating System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

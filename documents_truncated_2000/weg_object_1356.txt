@@ -1,0 +1,106 @@
+This document describes the Aotearoa Class New Zealand Logistics Support Ship.
+
+HMNZS Aotearoa is a new Polar-class logistics support vessel being built by Hyundai Heavy Industries (HHI) for the Royal New Zealand Navy (RNZN), as part of the Maritime Sustainment Capability (MSC) project.
+
+HMNZS Aotearoa, formerly the Maritime Sustainment Capability project, is an auxiliary ship of the Royal New Zealand Navy. Builder Hyundai Heavy Industries delivered the ship to the Navy in June 2020, and she was commissioned into service on 29 July 2020. Full operational capability is expected to be achieved in 2021. It will serve as a replenishment oiler and will replace HMNZS Endeavour, the Navy’s last fleet oiler, decommissioned in December 2017.
+
+Aotearoa is the largest ship the Royal New Zealand Navy has operated.
+
+This equipment has proliferated into the following countries: New Zealand.
+
+Here is Variants information for the Aotearoa Class New Zealand Logistics Support Ship:
+The HMNZS Aotearoa is Commissioned: 2020
+Status: Active.
+
+Here is System information for the Aotearoa Class New Zealand Logistics Support Ship:
+The Alternative Designation is Aotearoa Class; HMNZS Aotearoa ( formerly the Maritime Sustainment Capability project).
+The Type is Logistics Support Ship.
+The Builder is Hyundai Heavy Industries.
+The Crew is 98 total (64 x vessel crew + 11 x flight + 14 x trainees).
+The Cargo Capacity, Dry Goods is HMNZS Aotearoa will offer enough deck space to accommodate up to 12 containers, including four containers dedicated to storing bulk ammunition..
+The Cargo Capacity, Liquid Cargo is The liquid cargo storage tanks will enable the carriage of 8,000t of diesel fuel and 1,500t of aviation fuel..
+The Crane is 1 x 24 ton Crane located at the center of the vessel. The Crane has a maximum reach of 23 meters..
+The Refueling Capability is HMNZS Aotearoa is capable of refuelling two vessels at a time on the move, while the onboard electric replenishment / fuelling-at-sea systems will ensure easy and silent operation..
+The Medical Facility is Two-berth ward and treatment room..
+
+Here is Dimensions information for the Aotearoa Class New Zealand Logistics Support Ship:
+The Length is 173.2 m.
+The Beam is 24.5 m.
+The Draft is 8.5 m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 26,000 tons.
+
+Here is Propulsion System information for the Aotearoa Class New Zealand Logistics Support Ship:
+The Engine Name is 2 x Bergen main engines.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Generator is 4 x MTU generators.
+The Maximum Range is 6,400 nmi (11,900 km).
+The Maximum Speed is 16 knots (30 km/h).
+
+Here is Communications information for the Aotearoa Class New Zealand Logistics Support Ship:
+The Communications Suite is 1 x Saab TactiCall integrated communications system..
+
+Here is Gun Weapon System #1 information for the Aotearoa Class New Zealand Logistics Support Ship of the Gun Weapon Systems:
+The Name is 1 × Phalanx CIWS.
+The Type is Close-In Weapon System (CIWS).
+The Caliber is 20 mm.
+The Crew is Automated, with human oversight.
+The Barrel Length is 1,520 mm.
+The Height is 4.7 m.
+The Operation is The CIWS is designed to be the last line of defense against antiship missiles. Due to its design criteria, its effective range is very short relative to the range of modern ASMs, from 1 to 5 nautical miles (2 to 9 km). The gun mount moves at a very high speed and with great precision. The system takes minimal inputs from the ship, making it capable of functioning despite potential damage to the ship. The only inputs required for operation are 440 V AC three-phase electric power at 60 Hz and water (for electronics cooling). For full operation, including some nonessential functions, it also has inputs for ship's true compass heading and 115 V AC for the PASS subsystem..
+The Barrels is 6.
+The Guidance System is Ku-band radar and FLIR.
+The Elevation is −20°/+80°.
+The Traverse is 150° from either side of centerline.
+The Rate of Fire is 4,500 rounds/minute.
+The Muzzle Velocity is 1,100 m/s.
+The Maximum Firing Range is 5,500 m.
+The Effective Firing Range is 1,486 m.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Aotearoa Class New Zealand Logistics Support Ship of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 20 mm.
+The Shell is Naval: Armor-piercing tungsten penetrator rounds with discarding sabots; Land: High-Explosive Incendiary tracer, self-destruct..
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Aotearoa Class New Zealand Logistics Support Ship of the Gun Weapon Systems:
+The Name is 2 × Mini Typhoon Naval Stabilized and Remotely Operated Machine Gun System.
+The Weapon Station Type is Naval Stabilized and Remotely Operated Machine Gun System.
+The Machine Gun Type is It can be fitted with a 12.7 mm (.50) machine gun, a 7.62 mm machine gun, or a 40 mm grenade launcher.
+The Caliber is 7.62mm/12.7mm/40mm.
+The Length is INA.
+The Weight is 140-170 kg (depending on configuration).
+The On Mount EO System is CCD/FLIR/LRF.
+The Elevation is 360 deg.
+The Traverse is -20 deg to +60 deg.
+The Stabilized Accuracy is 0.5 mrad.
+The Ballistic Computer is Yes.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Aotearoa Class New Zealand Logistics Support Ship of the Gun Weapon Systems:
+The Type is Rifle/Grenade.
+The Caliber is 7.62mm/12.7mm/40mm.
+The Cartridge is INA.
+The Basic Load is On-mount Ammunition: up to 230 rounds (depending on caliber)..
+
+Here is Boats and Landing Craft information for the Aotearoa Class New Zealand Logistics Support Ship:
+The Rigid-Hulled Inflatable Boat (RHIB) is Carries 2 x Rigid-Hulled Inflatable Boats (RHIBs)..
+
+Here is Aviation Facilities information for the Aotearoa Class New Zealand Logistics Support Ship:
+The Facilities is 1 x Hanger for SH-2G, NH90, or A109LUH..
+The Aircraft is 1 x helicopter SH-2G, NH90, or A109LUH..
+
+Here is Radar Systems information for the Aotearoa Class New Zealand Logistics Support Ship:
+The Navigation Radar is 1 x Sharpeye S and 1 x Sharpeye S  X band navigation radars..
+The Phalanx CIWS Radar is The CIWS has two antennas that work together to engage targets. The first antenna, for searching, is located inside the radome on the weapon control group (top of the white-painted portion). The search subsystem provides bearing, range, velocity, heading, and altitude information of potential targets to the CIWS computer. This information is analyzed to determine whether the detected object should be engaged by the CIWS system. Once the computer identifies a valid target (see details below), the mount moves to face the target and then hands the target over to the tracking antenna. The track antenna is extremely precise, but views a much smaller area. The tracking subsystem observes the target until the computer determines that the probability of a successful hit is maximized and then, depending on the operator conditions, the system either fires automatically or recommends fire to the operator. While firing, the system tracks outgoing rounds and 'walks' them onto the target..
+
+Here is Sonar System information for the Aotearoa Class New Zealand Logistics Support Ship:
+The Sonar is 1 x Farsounder-1000 sonar..
+
+Here is Protection information for the Aotearoa Class New Zealand Logistics Support Ship:
+The Hull Armor is HMNZS Aotearoa will be the world’s first naval ship to adopt Rolls-Royce’s Environship concept design, which includes a new wave-piercing hull for reduced resistance and fuel consumption.
+
+The vessel’s modified Environship hull will be ice-strengthened and winterised to facilitate operations in Antarctica’s extreme weather conditions..
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

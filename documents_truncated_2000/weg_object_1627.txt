@@ -1,0 +1,96 @@
+This document describes the Vishnya Class (Project 864 Class) Russian Intelligence Collection Ship.
+
+The Vishnya class (also known as the Meridian class) is a group of intelligence collection ships built for the Soviet Navy in the 1980s. The ships continue in service with the Russian Navy. The Soviet designation is Project 864. The Russian Navy operates seven of these ships.  These ships are large, purpose-built ships designed for signals intelligence gathering via an extensive array of sensors. The data could be transmitted to shore via satellite link antennas housed in two large radomes. The ships are armed with two AK-630 close-in weapon systems and SA-N-8 surface-to-air missile (SAM) launchers, for last resort self-defense.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Vishnya Class (Project 864 Class) Russian Intelligence Collection Ship:
+The Fedor Golovin (ex-Meridian) is Commissioned: 1985
+Status: Active
+Fleet: Baltic Fleet.
+The Kareliya is Commissioned: 1986
+Status: Active 
+Fleet: Pacific Fleet.
+The Tavriya is Commissioned: 1987
+Status: Active
+Fleet: Northern Fleet.
+The Priazovye is Commissioned: 1987
+Status: Active 
+Fleet: Black Sea Fleet.
+The Kurily is Commissioned: 1987
+Status: Active 
+Fleet: Pacific Fleet.
+The Vasiliy Tatishchev (ex-Pelengator) is Commissioned: 1988
+Status: Active 
+Fleet: Baltic Fleet.
+The Viktor Leonov (ex-Odograf) is Commissioned: 1988
+Status: Active 
+Fleet: Northern Fleet.
+
+Here is System information for the Vishnya Class (Project 864 Class) Russian Intelligence Collection Ship:
+The Alternative Designation is Vishnya Class; Project 864 Class.
+The Type is Intelligence Collection Ship.
+The Builder is Stocznia Polnocna Shipyard, Gdansk, Poland.
+The Crew is 151 (30 Off. + 121 Enl.).
+The Intelligence Equipment is These ships are large, purpose built ships designed for SIGINT and COMINT electronic intelligence via an extensive array of sensors. The data could be transmitted to shore via satellite link antennaes. The Project 864 are equipped with two satellite communications antennae inside radomes..
+
+Here is Dimensions information for the Vishnya Class (Project 864 Class) Russian Intelligence Collection Ship:
+The Length is 94.4 m.
+The Beam is 14.6 m.
+The Draft is 4.5 m.
+The Displacement, Light is 2,690 tons.
+The Displacement, Standard is 3,100 tons.
+The Displacement, Full Load is 3,470 tons.
+
+Here is Propulsion System information for the Vishnya Class (Project 864 Class) Russian Intelligence Collection Ship:
+The Engine Name is 2 x Cegielski-Sulzer type 12AV 25/30.
+The Engine Type is Diesel.
+The Engine Power is 4,400 total bhp.
+The Maximum Range is 7,900 nm at 12.5 knots.
+The Maximum Speed is 16 knots (30 km/h).
+The Endurance is 45 days.
+
+Here is Gun Weapon System #1 information for the Vishnya Class (Project 864 Class) Russian Intelligence Collection Ship of the Gun Weapon Systems:
+The Name is 2 x 30-mm/54-cal AK-230 Gatling CIWS.
+The Type is Close-In Weapon System (CIWS).
+The Caliber is 30 mm.
+The Length is 2.140 m.
+The Weight is 1857 kg to 1905 kg.
+The Elevation is -12 to +87 degrees.
+The Traverse is +180 to -180 degrees.
+The Rate of Fire is over 1,000 rounds per minute cyclic.
+The Muzzle Velocity is 1,050 m/s.
+The Maximum Firing Range is INA.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Vishnya Class (Project 864 Class) Russian Intelligence Collection Ship of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Missile #1 information for the Vishnya Class (Project 864 Class) Russian Intelligence Collection Ship of the Missile Weapon System:
+The Name is 16 x Igla-1M Missiles.
+The Type is Surface-to-Air Missile.
+The Launcher is 2 x quad SA-N-8 Gremlin SAM launchers.
+The Length is 1.40 m.
+The Diameter is 75 mm.
+The Weight is 16.0 kg.
+The Engine is two-stage solid-propellant rocket.
+The Maximum Speed is Mach 1.75.
+The Maximum Range is 6,000 m.
+The Altitude is 10 m - 6,000 m.
+The Basic Load is 16 x Igla-1M Missiles.
+
+Here is Radar Systems information for the Vishnya Class (Project 864 Class) Russian Intelligence Collection Ship:
+The Navigation Radar is 2 x Volga (Don Kay) navigation radar.
+
+Here is Sonar Systems information for the Vishnya Class (Project 864 Class) Russian Intelligence Collection Ship:
+The Hull-Mounted Sonar is 1 x Pamyat hull-mounted array.
+The Dipping Sonar is 1 x high-frequency dipping sonar.
+
+Here is Protection information for the Vishnya Class (Project 864 Class) Russian Intelligence Collection Ship:
+The Hull is The design bears some resemblance to that of the larger BAL'ZAM (AGI) class intelligence ship..
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+The EW Intercept is Various intercept arrays.
+

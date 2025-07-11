@@ -1,0 +1,93 @@
+This document describes the Yavuz Class (MEKO 200 TN Class) Turkish Frigate.
+
+The Yuvuz Class (MEKO 200 Class) Turkish Frigate is a group of four frigates that were built for the Turkish Navy.
+
+This equipment has proliferated into the following countries: Turkey.
+
+Here is Variants information for the Yavuz Class (MEKO 200 TN Class) Turkish Frigate:
+The Yavuz (F-240) is Commissioned: 1987
+Status: In Service.
+The Turgutreis (F-241) is Commissioned: 1988
+Status: In Service.
+The Fatih (F-242) is Commissioned: 1988
+Status: In Service.
+The Yıldırım (F-243) is Commissioned: 1989
+Status: In Service.
+
+Here is System information for the Yavuz Class (MEKO 200 TN Class) Turkish Frigate:
+The Alternative Designation is Yavuz Class; MEKO 200 TN Class.
+The Type is Frigate.
+The Builder is Blohm + Voss, Hamburg; Howaldtswerke, Kiel; Gölcük, Izmit.
+The Crew is 180 (29 officers, 151 enlisted).
+
+Here is Dimensions information for the Yavuz Class (MEKO 200 TN Class) Turkish Frigate:
+The Length is 115.5 m.
+The Height is INA.
+The Beam is 14.2 m.
+The Draft is 4.1 m.
+The Displacement, Standard is 2,414 tons.
+The Displacement, Full Load is 2,966 tons.
+
+Here is Propulsion System information for the Yavuz Class (MEKO 200 TN Class) Turkish Frigate:
+The Engine Name is CODAD; 4 MTU 20V 1163 TB93.
+The Engine Type is Diesel.
+The Engine Power is 29,940 hp.
+The Maximum Range is 7,593.2 km.
+The Maximum Speed is 27 kt (50.0 km/h).
+
+Here is System #1 information for the Yavuz Class (MEKO 200 TN Class) Turkish Frigate of the Main Gun System:
+The Name is 1 x FMC MK 45 127mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 127 mm.
+The Rate of Fire is 20 rds/min.
+The Maximum Anti-Surface Range is 24 km.
+The Maximum Anti-Aircraft Range is 14 km.
+
+Here is System #2 information for the Yavuz Class (MEKO 200 TN Class) Turkish Frigate of the Main Gun System:
+The Name is 3 x Oerlikon-Contraves Sea Zenith 25mm Close-In Weapon System (CIWS).
+The Type is Close-In Weapon System (CIWS).
+The Caliber is 25 mm.
+The Rate of Fire is 3,400 rds/min.
+The Maximum Range is 2 km.
+
+Here is Surface-to-Surface Missile (SSM) information for the Yavuz Class (MEKO 200 TN Class) Turkish Frigate of the Missile Weapon System:
+The Name is 8 x McDonnell Douglas RGM-84C Harpoon Block IB Surface-to-Surface Missiles (SSM).
+The Type is Surface-to-Surface Missile (SSM).
+The Maximum Range is 93 km.
+The Maximum Speed is Mach 0.85.
+The Warhead Weight is 221.6 kg.
+
+Here is Surface-to-Air Missile (SAM) information for the Yavuz Class (MEKO 200 TN Class) Turkish Frigate of the Missile Weapon System:
+The Name is 16 x Raytheon RIM-7M Sea Sparrow Missiles.
+The Type is Surface-to-Air Missile (SAM).
+The Maximum Range is 40 km.
+The Maximum Speed is Mach 2.5.
+The Warhead Weight is 38.5 kg.
+
+Here is Launcher information for the Yavuz Class (MEKO 200 TN Class) Turkish Frigate of the Torpedoes System:
+The Launcher is 6 x 324 mm Mk 32 (2 triple) tubes.
+
+Here is Torpedo information for the Yavuz Class (MEKO 200 TN Class) Turkish Frigate of the Torpedoes System:
+The Name is Honeywell Mk 46 Mod 5 Torpedoes.
+The Type is Anti-Submarine Torpedoes.
+The Guidance System is Active/passive homing.
+The Maximum Range is 11 km.
+The Maximum Speed is 45 knots.
+The Warhead Type is Thermal.
+The Warhead Weight is 44 kg.
+
+Here is Radar Systems information for the Yavuz Class (MEKO 200 TN Class) Turkish Frigate:
+The Air Search Radar is Signaal DA08 (F-Band).
+The Air/Surface Radar is Plessey AWS 6 Dolphin (G-Band).
+The Navigation Radar is GEM SPN-753/730  (I-band).
+The Fire Control Radar is Signaal STIR (I/J/K-Band).
+
+Here is Sonar Systems information for the Yavuz Class (MEKO 200 TN Class) Turkish Frigate:
+The Active Search and Attack Sonar is Raytheon SQS-56 (DE 1160); hull-mounted; active search and attack; medium frequency..
+
+Here is Protection information for the Yavuz Class (MEKO 200 TN Class) Turkish Frigate:
+The Hull Armor is INA.
+The Countermeasures is Mk 36 SRBOC DLS; 2 Mk 137 6-barrelled fixed launchers [Ref 6]; IR flares and chaff. Nixie SLQ-25; towed torpedo decoy..
+The NBC Water Washdown System is Yes.
+The EW Intercept is Aselsan ARES-2NC; intercept. Thales Scorpion jammer..
+

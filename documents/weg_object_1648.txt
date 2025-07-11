@@ -1,0 +1,90 @@
+This document describes the Brandenburg Class (Type 123 Class) German Frigate.
+
+The Brandenburg Class (Type 123 Class) German Frigate is a class of German frigate. They were ordered by the German Navy in June 1989 and completed and commissioned between 1994 and 1996, replacing the Hamburg-class destroyers.
+
+This equipment has proliferated into the following countries: Germany.
+
+Here is Variants information for the Brandenburg Class (Type 123 Class) German Frigate:
+The Brandenburg is Commissioned: 1994
+Status: Active.
+The Schleswig-Holstein is Commissioned: 1995
+Status: Active.
+The Bayern is Commissioned: 1994
+Status: Active.
+The Mecklenburg-Vorpommern is Commissioned: 1995
+Status: Active.
+
+Here is System information for the Brandenburg Class (Type 123 Class) German Frigate:
+The Alternative Designation is Brandenburg Class; Type 123 Class.
+The Type is Frigate.
+The Builder is Blohm + Voss, Hamburg; Howaldtswerke, Kiel; Thyssen Nordseewerke, Emden; Bremer Vulkan, Vegesack/Thyssen Nordseewerke.
+The Crew is 26 officers, 193 enlisted.
+
+Here is Dimensions information for the Brandenburg Class (Type 123 Class) German Frigate:
+The Length is 138.9 m.
+The Height is INA.
+The Beam is 16.7 m.
+The Draft is 6.3 m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 3,600 tons.
+
+Here is Propulsion System information for the Brandenburg Class (Type 123 Class) German Frigate:
+The Engine Name is 2 x 2 GE LM2500.
+The Engine Type is Gas Turbines.
+The Engine Power is 51,000 hp (38 MW) sustained.
+The Generator is 2 x MTU 20V 956 TB92 diesels; 11,070 hp(m) (8.14 MW) sustained.
+The Maximum Range is 4,000 n miles (7,408.0 km) at 18 kt (33.3 km/h).
+The Maximum Speed is 29 kt (53.7 km/h).
+
+Here is Missile Weapon System #1 information for the Brandenburg Class (Type 123 Class) German Frigate of the Missile Weapon Systems:
+The Name is 8 x McDonnell Douglas RGM-84D Harpoon Block IC.
+The Type is Surface-to-Surface Missile.
+The Active Radar Homing is 124+ km.
+The Speed is Mach 0.85.
+The Warhead is 221.6 kg.
+
+Here is Missile Weapon System #2 information for the Brandenburg Class (Type 123 Class) German Frigate of the Missile Weapon Systems:
+The Name is 2 x Mk 49 launchers for 21 x Rolling Airframe Missiles.
+The Type is Surface-to-Air Missile.
+The Maximum Range is passive IR/anti-radiation homing to 9.6 km.
+The Speed is Mach 2.5.
+The Warhead is 9.3 kg.
+
+Here is Main Gun System #1 information for the Brandenburg Class (Type 123 Class) German Frigate of the Gun Weapon Systems:
+The Name is 1 x Oto Melara.
+The Type is Naval Gun.
+The Caliber is 76 mm.
+The Rate of Fire is 105 rds/min.
+The Maximum Range is 16 km.
+The Weight of Shell is 6 kg.
+
+Here is Main Gun System #2 information for the Brandenburg Class (Type 123 Class) German Frigate of the Gun Weapon Systems:
+The Note: is 2 x Rheinmetall MLG 27, 27 mm Naval Gun..
+
+Here is Torpedoes' System information for the Brandenburg Class (Type 123 Class) German Frigate:
+The Note is 4 x 324 mm Mk 32 Mod 9 (2 twin) tubes; anti-submarine. Honeywell Mk 46 Mod 2; active/passive homing to 11 km (5.9 n miles) at 45 kt; thermal; warhead 44 kg..
+
+Here is Radar Systems information for the Brandenburg Class (Type 123 Class) German Frigate:
+The Air/Surface Search Radar is 1 x Thales SMART-S; 3D; F-band (being replaced with Saab Sea Giraffe 1X; I-band)..
+The Air Search Radar is 1 x  Thales LW08; D-band (being replaced with Saab Sea Giraffe 4A; E/F-band)..
+The Navigation Radar is 2 x Sperry Bridgemaster E; I-band..
+The Fire Control Radar is 2 x Thales STIR 1.8 trackers [Ref 10] (being replaced with Saab CEROS 200; I/J/K-band)..
+
+Here is Sonar Systems information for the Brandenburg Class (Type 123 Class) German Frigate:
+The Active Search and Attack Sonar is 1 x Atlas Elektronik DSQS-21B Mod 2; hull-mounted; active search and attack; medium frequency..
+
+Here is Fire Control System information for the Brandenburg Class (Type 123 Class) German Frigate:
+The Combat Data Systems is 1 x Thales SABRINA 21 (being replaced with Saab 9LV). Link 11. Link 16. satcom..
+The Weapon Control System is 1 x Thales MWCS. 2 optical sights. RDE MSP 600 optronic sensor/tracker..
+
+Here is Aviation Faculties information for the Brandenburg Class (Type 123 Class) German Frigate:
+The Flight Deck is Yes.
+The Hanger is INA.
+The Aircraft is 2 x Super Lynx Mk 88A.
+
+Here is Protection information for the Brandenburg Class (Type 123 Class) German Frigate:
+The Hull Armor is INA.
+The Physical Countermeasures is 4 x Rheinmetall MASS-4L decoy launchers.
+The Electronic Countermeasures is EADS FL 1800S Stage II; intercept and jammers..
+The NBC Water Washdown System is Yes.
+

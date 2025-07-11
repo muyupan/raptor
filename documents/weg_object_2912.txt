@@ -1,0 +1,39 @@
+This document describes the Bukovel-AD Ukrainian 4x4 Anti-Drone System.
+
+The Bukovel-AD Ukrainian 4x4 Anti-Drone System is a counter-unmanned aircraft system (CUAS) produced by the Ukrainian firm Proximus. It is designed to detect unmanned aerial vehicles (UAVs).
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the Bukovel-AD Ukrainian 4x4 Anti-Drone System:
+The Alternative Designation is Bukovel-AD.
+The Type is Anti-Drone System.
+The Manufacturer is Proximus.
+The Configuration is 4x4.
+The Chassis is INA.
+The Crew is 1.
+The Detection Range is 3-50 km.
+The Detection RF Bands is 320-6000 MHz.
+The Suppression RF Bands is 320-6000 MHz.
+The Suppression DataLink UAV-GS is Yes.
+The Suppression GNSS is Yes.
+The Transport Base is No.
+The Weather Conditions is All Weather.
+The Transport-Combat Position is Fixed application.
+The Displacement Time is 2 min.
+The Emplacement Time is 2 min.
+
+Here is Dimensions information for the Bukovel-AD Ukrainian 4x4 Anti-Drone System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+
+Here is Automotive information for the Bukovel-AD Ukrainian 4x4 Anti-Drone System:
+The Note is The system can be mounted on various vehicles, as well as on tripods..
+
+Here is Protection information for the Bukovel-AD Ukrainian 4x4 Anti-Drone System:
+The Armor is None.
+The Applique Armor is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

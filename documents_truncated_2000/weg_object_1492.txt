@@ -1,0 +1,73 @@
+This document describes the Type 062I Class (Shanghai III Class) Chinese Gunboat.
+
+The Type 062I-class gunboat (NATO: Shanghai III class), is the successor of the original Type 062 Shanghai I & II-class gunboats of the People's Liberation Army Navy. The Shanghai III-class gunboat is more heavily armed than its predecessor, with the 23 mm guns replacing the 14.5 mm heavy machine guns and is also substantially larger at 170 tons. Significantly more Shanghai III-class gunboats have entered service in foreign navies than in the People's Liberation Army Navy, and the ones in the Chinese inventory are mainly used for training foreign crews, and not all export boats have the same configuration due to different customers' requirements. They are primarily used for coastal and inland patrol.
+
+This equipment has proliferated into the following countries: China, East Timor (Timor-Leste), Sri Lanka.
+
+Here is Variants information for the Type 062I Class (Shanghai III Class) Chinese Gunboat:
+The Type 062I-class gunboat is The Type 062I-class gunboat (NATO: Shanghai III class), is the successor of the original Type 062 Shanghai I & II-class gunboats of the People's Liberation Army Navy. The Shanghai III-class gunboat is more heavily armed than its predecessor, with the 23 mm guns replacing the 14.5 mm heavy machine guns and is also substantially larger at 170 tons. Significantly more Shanghai III-class gunboats have entered service in foreign navies than in the People's Liberation Army Navy, and the ones in the Chinese inventory are mainly used for training foreign crews, and not all export boats have the same configuration due to different customers' requirements. They are primarily used for coastal and inland patrol..
+The Haizhui-class submarine chaser is The Haizhui-class submarine chaser is based on the Type 062I-class gunboat and entered service in the early 1960s. It was a stopgap measure as a follow on class to Kronshtadt-class submarine chaser before the arrival of the Type 037 submarine chaser in the mid 1960s. Although Type 062I originated as a gunboat, the submarine chaser version was more successful in serving the People's Liberation Army Navy, actually serving operationally rather than a training vessel for foreign crews..
+
+Here is System information for the Type 062I Class (Shanghai III Class) Chinese Gunboat:
+The Alternative Designation is Type 062I Class; NATO: Shanghai III Class.
+The Type is Gunboat.
+The Builder is China; Shipyard: INA.
+The Crew is 43.
+
+Here is Dimensions information for the Type 062I Class (Shanghai III Class) Chinese Gunboat:
+The Length is 41 m.
+The Beam is 5.3 m.
+The Draft is 1.8 m.
+The Displacement, Full Load is 170 long tons.
+
+Here is Propulsion System information for the Type 062I Class (Shanghai III Class) Chinese Gunboat:
+The Engine Name is 2 × Chinese L-12V-180A.
+The Engine Type is Diesel.
+The Engine Power is 4,400 hp.
+The Maximum Range is 1,210 km at 17 knots.
+The Maximum Speed is 31.
+
+Here is Gun Weapon System #1 information for the Type 062I Class (Shanghai III Class) Chinese Gunboat of the Gun Weapon Systems:
+The Name is Type 76A.
+The Type is Close-In Weapon System (CIWS).
+The Caliber is 37mm.
+The Quantity is 4 x Type 76A Close-In Weapon System (CIWS).
+The Length is INA.
+The Weight is INA.
+The Rate of Fire is 400 rd/min.
+The Note is The Type 76A is a fully enclosed and fully automatic model in the Type 76 series. Unlike the Type 76F, the gun is fully automatic, with the semi-automatic operational mode and the one-man operator console removed..
+
+Here is Gun Weapon Systems #1 Ammunition information for the Type 062I Class (Shanghai III Class) Chinese Gunboat of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 37.
+The Shell is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Type 062I Class (Shanghai III Class) Chinese Gunboat of the Gun Weapon Systems:
+The Name is 4 × Chinese or Soviet 23mm.
+The Type is Heavy Machine Gun.
+The Caliber is 23mm.
+The Quantity is 4 × Chinese or Soviet 23mm.
+
+Here is Gun Weapon System #2 Ammunition information for the Type 062I Class (Shanghai III Class) Chinese Gunboat of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 37mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Type 062I Class (Shanghai III Class) Chinese Gunboat:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+The Battle Management System is INA.
+
+Here is Radar Systems information for the Type 062I Class (Shanghai III Class) Chinese Gunboat:
+The Name is 1 × Pot Head.
+The Type is Surface Search Radar.
+The Frequency is INA.
+The Range is INA.
+
+Here is Protection information for the Type 062I Class (Shanghai III Class) Chinese Gunboat:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is INA.
+

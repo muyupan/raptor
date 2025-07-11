@@ -1,0 +1,40 @@
+This document describes the Spire Russian 6x6 Unmanned Ground Vehicle (UGV).
+
+The Spire Russian 6x6 Unmanned Ground Vehicle (UGV) is designed to carry out reconnaissance and fire support.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Spire Russian 6x6 Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Spire.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is Federal State Unitary Enterprise, Scientific-Research Institute of Applied Problems (FSUE "GosNIIPP").
+The Configuration is 6x6.
+The Crew is Unmanned.
+The Operator is Control of the Spire is conducted from a standard portable control unit. An operator can control the vehicle from a distance of 1 km line-of-sight (LoS) and up to 5 km non-line-of-sight (NLoS)..
+
+Here is Dimensions information for the Spire Russian 6x6 Unmanned Ground Vehicle (UGV):
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is 248 kg.
+
+Here is Automotive information for the Spire Russian 6x6 Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Maximum Speed is 5 km/h.
+The Radio Operating Range is 1 km.
+The Wire Operating Range is 5 km.
+The Continuous Endurance is 3 hours.
+The Standby Endurance is 72 hours.
+
+Here is Communications information for the Spire Russian 6x6 Unmanned Ground Vehicle (UGV):
+The Note is An operator can control the vehicle from a distance of 1 km line-of-sight (LoS) and up to 5 km non-line-of-sight (NLoS)..
+
+Here is Main Weapon System information for the Spire Russian 6x6 Unmanned Ground Vehicle (UGV):
+The Note is The platform can be mounted with a Kalashnikov PKT 7.62 mm MG as well as an RShG-2 72.5 mm (multipurpose assault weapon). The unit can also incorporate a rocket-propelled grenade launcher RPG-26 (light anti-tank weapon)..
+
+Here is Protection information for the Spire Russian 6x6 Unmanned Ground Vehicle (UGV):
+The Armor is INA.
+The Applique Armor is INA.
+

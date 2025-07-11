@@ -1,0 +1,47 @@
+This document describes the Laska Ukrainian 4x4 Unmanned Ground Vehicles (UGV).
+
+The Laska Ukrainian 4x4 Unmanned Ground Vehicles (UGV) were developed to be used with the land forces of the armed forces.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the Laska Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Alternative Designation is Laska.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is Infocom.
+The Configuration is 4x4.
+The Crew is Unmanned.
+The Operator is Control of the unit can be carried out by various means such as an operator station, tablet, smartphone, or quadrocopter. The platform can operate for distances of up to 200 km with repeaters..
+The Sensors is A range of systems are available to offer the operator full situational awareness such as a variety of wide-angle, long- and short-range cameras (and those with IR) mounted to the turret and platform. Stereo cameras and radar can also be fitted if required..
+The Software is Laska can operate autonomously in a driving convoy (following a lead vehicle) or by GPS for waypoint navigation. It can also operate without GPS in environmentally cluttered areas or those with GPS-denial by using a downloaded digital area map as well as sensors and video cameras to analyze the vicinity..
+The Camera is Various cameras (wide angle, stereo, IR), optical and laser sensors (ultrasonic distance sensor) are fitted to the vehicle..
+The Camera, Angle of View is 12–20°.
+The Operating Temperature is -25°C to 60°C.
+
+Here is Dimensions information for the Laska Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Length is 1.8 m.
+The Width is 1.0 m.
+The Height is 1.3 m.
+The Wheelbase is 120 cm.
+The Weight, Combat is 310 kg.
+The Ground Clearance is 13.6 cm.
+
+Here is Automotive information for the Laska Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Engine Name is INA.
+The Engine Type is 1 cylinder (4 tact).
+The Engine Power is 10 hp.
+The Voltage is 12 V.
+The Amphibious is No.
+The Maximum Speed is INA.
+The Operating Range, Line of Sight (LoS) is 100 m.
+The Operating Range, No Line of Sight (NLoS) is 100 m.
+
+Here is Communications information for the Laska Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Note is A number of communication methods can be used such as Wi-Fi, Ethernet VPN channel, radio channel, loud speaker system, 3G networks, and a special security channel..
+
+Here is Main Weapon System information for the Laska Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Note is INA.
+
+Here is Protection information for the Laska Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Armor is Light composite (Level 5 optional).
+The Applique Armor is INA.
+

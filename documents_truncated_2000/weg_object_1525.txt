@@ -1,0 +1,69 @@
+This document describes the Centaur-Class (Project 58181 Class) Ukrainian Assault Craft.
+
+The Project 58181 Centaur (Kentavr) class is a series of small armored assault craft built for the Ukrainian Navy. The first two vessels were laid down at the Kuznya na Rybalskomu in December 2016. The project was developed by State Research and Design Shipbuilding Center on the basis of the Gurza-M class artillery boats. Designed for carrying patrol service on rivers and coastal maritime areas, delivery and landing of marines.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is Variants information for the Centaur-Class (Project 58181 Class) Ukrainian Assault Craft:
+The DSHK-1 is Ukrainian Navy.
+The DSHK-2 is Ukrainian Navy.
+The DSHK-3 is Ukrainian Navy.
+The DSHK-4 is Ukrainian Navy.
+
+Here is System information for the Centaur-Class (Project 58181 Class) Ukrainian Assault Craft:
+The Alternative Designation is Centaur-Class (Kentavr-Class), Project 58181.
+The Type is Fast Assault Craft.
+The Builder is Kuznya na Rybalskomu, Ukraine.
+The Crew is 4 crew members + 26-28 equipped combat troops.
+
+Here is Dimensions information for the Centaur-Class (Project 58181 Class) Ukrainian Assault Craft:
+The Length is 24.3 m.
+The Beam is 4.8 m.
+The Draft is 1.0 m.
+The Displacement, Standard is 47 tons.
+
+Here is Propulsion System information for the Centaur-Class (Project 58181 Class) Ukrainian Assault Craft:
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Maximum Range is 500 nm @ 11 kts.
+The Maximum Speed is 35 knots.
+
+Here is Combat Module Turret information for the Centaur-Class (Project 58181 Class) Ukrainian Assault Craft of the Weapon Systems:
+The Name is 2 x BM-5M.01 Katran-M Turrets.
+The Type is Remote-Controlled Deck Guns.
+The Main Gun is Machine Gun.
+The Caliber is 12.7 mm.
+The Maximum Rate of Fire is 700 rds/min.
+The Maximum Effective Range is 2,500 m (Surface Targets).
+
+Here is Coaxial Weapon #1 information for the Centaur-Class (Project 58181 Class) Ukrainian Assault Craft of the Weapon Systems:
+The Name is Grenade Launcher.
+The Type is Coaxial.
+The Caliber is 40 mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Rockets information for the Centaur-Class (Project 58181 Class) Ukrainian Assault Craft:
+The Launcher is Modified MLRS.
+The Rocket is S-8.
+The Type is Unguided Artillery Rocket.
+The Caliber is 80 mm.
+The Guidance is Unguided.
+The Warhead is HEAT, HE-Frag and Smoke.
+
+Here is Fire Control Systems information for the Centaur-Class (Project 58181 Class) Ukrainian Assault Craft:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+
+Here is Sensors and Communications information for the Centaur-Class (Project 58181 Class) Ukrainian Assault Craft:
+The Navigation Radar is Yes.
+The Optoelectronic monitoring system is Yes.
+The Laser Emission Detection is Yes.
+The Radio is HF/VHF/UHF/Satellite.
+
+Here is Protection information for the Centaur-Class (Project 58181 Class) Ukrainian Assault Craft:
+The Hull Armor is Armor placement around vital compartments (Engine Room, Troop Compartment, Control Room)..
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

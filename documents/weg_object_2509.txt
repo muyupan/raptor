@@ -1,0 +1,75 @@
+This document describes the Komatsu Type 87 Japanese Armored Reconnaissance Vehicle (ARV).
+
+The Type 87 Reconnaissance and Patrol Vehicle, also known as Burakkuai (Romaji for "black eye") or Type 87 ARV (for Armored Reconnaissance Vehicle) for short, is a 6x6 wheeled Armored Fighting Vehicle designed and manufactured by multinational heavy industry manufacturer Komatsu Limited and employed exclusively by the Japanese Ground Self-Defense Forces (JGSDF).
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is Variants information for the Komatsu Type 87 Japanese Armored Reconnaissance Vehicle (ARV):
+The Type 82 Command Post Vehicle (Type 87 Chassis, No Turret) is The Type 87 was produced only in a single variant. The chassis and automotive components are shared with the Type 82 command post vehicle. The Type 82 lacks a turret and has a raised roofline..
+
+Here is System information for the Komatsu Type 87 Japanese Armored Reconnaissance Vehicle (ARV):
+The Alternative Designation is Type 87 ARV "Burakkuai" or "Black Eye".
+The Type is Combat Reconnaissance Vehicle.
+The Family is 6x6 Armored Reconnaissance Vehicle.
+The Crew is 5.
+
+Here is Dimensions information for the Komatsu Type 87 Japanese Armored Reconnaissance Vehicle (ARV):
+The Length is 5.99.
+The Width is 2.48.
+The Height is 2.8.
+The Weight, Combat is 4,536.
+
+Here is Automotive information for the Komatsu Type 87 Japanese Armored Reconnaissance Vehicle (ARV):
+The Engine Name is Isuzu 10PBI diesel.
+The Engine Type is 4-Stroke V10 Liquid-Cooled Diesel.
+The Engine Power is 305.
+The Cruising Range is 500.
+The Speed, Maximum Road is 100.
+The Fording Depth is 1.
+
+Here is System information for the Komatsu Type 87 Japanese Armored Reconnaissance Vehicle (ARV) of the Main Weapon System:
+The Name is 25mm Oerlikon Contraves Swiss Autocannon.
+The Type is Turret-Mounted Cannon.
+The Caliber is 25.
+The Cartridge is 25x137mm NATO.
+The Feed System is Double Belt Feed.
+The Barrel Length is 2,888.
+The Muzzle Velocity is 1,400.
+The Effective Firing Range is 3,020.
+The Maximum Firing Range is 5,850.
+The Sights is Collimator Sight (Optical w/ illuminated aiming point or reticle..
+
+Here is Ammunition information for the Komatsu Type 87 Japanese Armored Reconnaissance Vehicle (ARV) of the Main Weapon System:
+The Type is Armor-piercing for Ground and Air Targets.
+The Caliber is 25.
+The Basic Load is 400.
+
+Here is System information for the Komatsu Type 87 Japanese Armored Reconnaissance Vehicle (ARV) of the Auxiliary Weapon System:
+The Name is Vehicle Machine Gun.
+The Type is Coaxial Type 74 Machine Gun.
+The Caliber is 7.62.
+The Cartridge is 7.62x51mm NATO.
+The Feed System is Belt Fed.
+The Barrel Length (w/ suppressor) is 702.
+The Rate of Fire (Cyclic) is 700.
+
+Here is Ammunition information for the Komatsu Type 87 Japanese Armored Reconnaissance Vehicle (ARV) of the Auxiliary Weapon System:
+The Type is Machine Gun (Linked).
+The Caliber is 7.62.
+The Cartridge is 7.62x51mm NATO.
+The Basic Load is ~2,500.
+
+Here is Fire Control information for the Komatsu Type 87 Japanese Armored Reconnaissance Vehicle (ARV):
+The Laser Target Desinator is NIA.
+The Range, Day Sight is NIA.
+The Range, Thermal Sight is NIA.
+The GSR (Ground Surveillance Radar) is NIA.
+
+Here is Protection information for the Komatsu Type 87 Japanese Armored Reconnaissance Vehicle (ARV):
+The Armor is Steel.
+The Applique Armor is NIA.
+The Active Protection System is NIA.
+The NBC Protection is None.
+The Smoke Equipment is 2x3 or 2x4 smoke grenade dischargers.
+The IR Signature is NIA.
+

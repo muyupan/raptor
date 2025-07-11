@@ -1,0 +1,75 @@
+This document describes the ARTHUR Norwegian Counter-Battery Radar.
+
+ARTHUR is an acronym for "ARTillery HUnting Radar", and is a counter-battery radar system originally developed jointly for and in close co-operation with the Norwegian and Swedish armed forces by Ericsson Microwave Systems in both Sweden and Norway. The system is partly based on the same technology as Saab’s Giraffe radar, and simultaneously scans 100 targets per minute, while tracking own shells and calculating impact points during registration.  It is also used by the British Army, under the name Mobile Artillery Monitoring Battlefield Radar, or Mobile Artillery Monitoring Battlefield Asset (MAMBA).
+
+The ARTHUR detects hostile artillery by tracking projectiles in flight. The original ARTHUR Mod A can locate guns at 15 - 20km and 120mm mortars at 30 - 35km with a circular error probable of 0.45% of range. This is accurate enough for effective counter-battery fire by friendly artillery batteries. ARTHUR can operate as a stand-alone, medium-range weapons locating radar or a long-range weapon locating system, consisting of two to four radars working in coordination. This flexibility enables the system to maintain a constant surveillance of an area of interest.
+
+The upgraded ARTHUR Mod B meets the British Army's MAMBA requirement for locating guns, mortars, and rockets. It can locate guns at 20 - 25km and 120mm mortars at 35 - 40km with a circular error probable of 0.35% of range. MAMBA was successfully used by the British Army in Iraq and Afghanistan.
+
+ARTHUR Mod C has a larger antenna and can detect guns at 31km, mortars at 55km and rockets at 50 - 60km depending on their size, and locate targets at a rate of 100 per minute with CEP 0.2% of range for guns and rockets and 0.1% for mortars.
+
+ARTHUR can be operated in two main modes: Weapon locating and Fire direction. Weapon locating is used to determine the location of the guns, mortars or rocket launchers that fired and their target area. Fire direction is used to adjust the fire of own artillery onto target coordinates.
+
+It can be carried by a C-130 or slung under a heavy lift helicopter such as a Chinook. Its air mobility allows it for use by light and rapid reaction forces such as airborne and marine units.
+
+It is a mobile, passive electronically scanned array C-Band radar for the purpose of enemy field artillery acquisition and was developed for the primary role as the core element of a brigade or division level counter battery sensor system. The vehicle carrying the radar was originally a Bandvagn 206 developed and produced by Hägglunds, but is now more often delivered on trucks with ISO fasteners.
+
+The radar is now developed by SAAB Electronic Defense Systems (after EMW was sold to SAAB in June 2006) and Saab Technologies Norway AS.
+
+This equipment has proliferated into the following countries: Canada, Czech Republic, Denmark, Greece, Italy, Malaysia, Norway, Singapore, South Korea (Republic of Korea), Spain, Sweden, United Kingdom of Great Britain and Northern Ireland.
+
+Here is System information for the ARTHUR Norwegian Counter-Battery Radar:
+The Alternative Designation is MAMBA.
+The Crew is 4.
+The Chassis is Hägglunds Bandvagn 206 (Can be carried on most 6x6 vehicles as well).
+
+Here is Dimensions of the Hägglunds Bandvagn 206 information for the ARTHUR Norwegian Counter-Battery Radar:
+The Height is 2.4.
+The Length is 6.9.
+The Width is 1.87.
+The Weight is 4,500.
+
+Here is Automotive information for the ARTHUR Norwegian Counter-Battery Radar:
+The Engine is 2.8L 99 kW Ford Cologne V6, Gasoline.
+The Engine Power is 136.
+The Range, Cruising is 300.
+The Speed, Maximum Road is 55.
+The Speed, Maximum Swim is 3.
+The Fording Depth is Amphibious.
+The Speed, Cross is INA.
+The Cargo load is 2240 kg (630 kg in front unit and 1610 kg in trailer unit).
+The Gearbox is MB W 4A-018 automatic transmission.
+The Ground Pressure is 1.97.
+The Crew Capacity is Driver and 6 Passengers.
+The Maximum Slope (Dry Land) is 60.
+The Maximum Slope (Snow) is 30.
+The Side Slope is 40.
+The Vertical Step is 1.
+The Trench is 2.
+The Minimum Operating Temperature is -60.
+
+Here is Modification A information for the ARTHUR Norwegian Counter-Battery Radar of the Radar System:
+The Range for Locating Artillery is 15 - 20km.
+The Range for Locating 120mm mortars is 30 - 35km.
+The CEP is 45% of range.
+
+Here is Modification B information for the ARTHUR Norwegian Counter-Battery Radar of the Radar System:
+The Range for Locating Artillery is 20 - 25km.
+The Range for Locating 120mm mortars is 35 - 40km.
+The CEP is 35% of range.
+
+Here is Modification C information for the ARTHUR Norwegian Counter-Battery Radar of the Radar System:
+The Range for Locating Artillery is 31km.
+The Range for Locating 120mm mortars is 55km.
+The Range for Locating Rockets is 50 - 60km.
+The CEP is 2% of range for guns and rockets; 1% of range for mortars.
+The Number of Simultaneous Tracks is 100.
+
+Here is Protection information for the ARTHUR Norwegian Counter-Battery Radar:
+The Hull Armor is Protection from small arms and shell splinters.
+The Window Armor is INA.
+The Applique Armor is INA.
+The Active Protection System is No.
+The NBC is INA.
+The Note is The ARTHUR radar is unprotected.  The prime mover will have the protection characteristics inherent to the system.
+

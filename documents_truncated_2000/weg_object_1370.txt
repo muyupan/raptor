@@ -1,0 +1,101 @@
+This document describes the Sri Indera Sakti Class Malaysian Support Vessel.
+
+The Sri Indera Sakti class is a class of support vessels of the Royal Malaysian Navy (RMN) with various roles. The class contains two ships: KD Sri Indera Sakti (1503) and KD Mahawangsa (1504). The ships were designed as a platform of support and it was able to stay in the operational area for a long period of 2 months. To enable the ships to carry out its role as a support ship, they are able to support up to six small-sized patrol boats such as Mine Counter Measures Vessel (MCMV) and Patrol Craft (PC). There are also various stores, containers, residences and workshops that enable the vessels to provide assistance as soon as possible to other vessels. KD Sri Indera Sakti is armed with one Bofors 57mm gun and two 20mm automatic cannon while KD Mahawangsa is armed with two Bofors 57mm guns and two 20mm automatic cannon. Both ships are able to accommodate one medium size helicopter.
+
+This equipment has proliferated into the following countries: Malaysia.
+
+Here is Variants information for the Sri Indera Sakti Class Malaysian Support Vessel:
+The SRI INDERA SAKTI is Commissioned:1980
+Status: Active.
+The MAHAWANGSA is Commissioned: 1983
+Status: Active.
+
+Here is System information for the Sri Indera Sakti Class Malaysian Support Vessel:
+The Alternative Designation is Sri Indera Sakti Class.
+The Type is Support Vessel.
+The Builder is SRI INDERA SAKTI: Bremer-Vulcan, Bremen, Germany MAHAWANGSA: Hanjin Industrial Shipbuilding, Masan, South Korea.
+The Crew is 136 total (14 off. + 122 enl.).
+The Passengers is 65.
+The Military Lift Capability is 17 x main battle tanks or 11 x 3-ton trucks
+                       and 600 troops.
+The Cargo Capacity is 1,300 tons diesel fuel and 200 tons fresh water.
+
+Here is Dimensions information for the Sri Indera Sakti Class Malaysian Support Vessel:
+The Length is 103.0 m.
+The Beam is 15.0 m.
+The Draft is 4.75 m.
+The Displacement, Standard is 1,800 tons.
+The Displacement, Full Load is 4,300 tons.
+
+Here is Propulsion System information for the Sri Indera Sakti Class Malaysian Support Vessel:
+The Engine Name is 2 x Deutz-S/BMV type 6M540.
+The Engine Type is Diesel.
+The Engine Power is 6,000 total bhp.
+The Maximum Speed is 16.5 knots.
+The Maximum Range is 14,000 nm at 15 knots.
+
+Here is Gun Weapon System #1 information for the Sri Indera Sakti Class Malaysian Support Vessel of the Gun Weapon Systems:
+The Name is 2 x Bofors 57 mm L/70 naval Artillery gun.
+The Type is Naval Artillery Gun.
+The Caliber is 57.
+The Quantity is 2 x Bofors 57 mm L/70 naval artillery gun.
+The Barrel Length is 3,990 mm.
+The Weight is 14,000 kg.
+The Barrels is Single barrel (progressive RH parabolic twist, 24 grooves).
+The Action is Electronic firing.
+The Elevation is −10°/+78° (40°/s).
+The Traverse is Full 360°:.
+The Rate of Fire is 200 rounds/min.
+The Muzzle Velocity is 1,035 m/s.
+The Maximum Firing Range is 17,000 m.
+The Effective Firing Range is 8,500 m.
+The Feed System is 40 ready rounds, 128 rounds in ready racks in mount.
+The Sights is Gyro-stabilized in local control..
+
+Here is Gun Weapon Systems #1 Ammunition information for the Sri Indera Sakti Class Malaysian Support Vessel of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 57.
+The Shell is 57 × 438 mm.
+The Basic Load is 128 Rounds.
+
+Here is Gun Weapon System #2 information for the Sri Indera Sakti Class Malaysian Support Vessel of the Gun Weapon Systems:
+The Name is 2 x Oerlikon 20mm Autocannon.
+The Type is Autocannon.
+The Caliber is 20 mm.
+The Length is 2,210 mm.
+The Barrel Length is 1,400 mm.
+The Weight is 68.1 kg.
+The Crew is 1 on mount, plus assistance off mount.
+The Barrels is Single barrel (progressive RH parabolic twist, 9 grooves).
+The Action is API blowback.
+The Feed Mechanism is Single belt feed.
+The Elevation is -10° to +55°, manual.
+The Traverse is 360°, manual.
+The Rate of Fire is 900 - 1000 rpm.
+The Muzzle Velocity is 1.050 m/s.
+The Maximum Effective Range is 4,389 m.
+
+Here is Gun Weapon System #2 Ammunition information for the Sri Indera Sakti Class Malaysian Support Vessel of the Gun Weapon Systems:
+The Type is HE.
+The Caliber is 20 mm.
+The Shell is 20×110mmRB.
+The Basic Load is 200 rounds on mount.
+
+Here is Fire Control Systems information for the Sri Indera Sakti Class Malaysian Support Vessel:
+The FCS Name is INA.
+The Computerized FCS is No.
+The Battle Management System is No.
+The ECM Suite is INA.
+
+Here is Radar Systems information for the Sri Indera Sakti Class Malaysian Support Vessel:
+The Navigation Radar is 2 x Kelvin-Hughes Type 1007.
+
+Here is Aviation Facilities information for the Sri Indera Sakti Class Malaysian Support Vessel:
+The Flight Deck is Yes.
+The Helicopter is 1 x Sikorsky S-61A (Nuri).
+
+Here is Protection information for the Sri Indera Sakti Class Malaysian Support Vessel:
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+The EW is 1 x Thales DR-3000 radar detector.
+

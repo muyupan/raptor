@@ -1,0 +1,120 @@
+This document describes the Su-24 (Fencer) Russian Attack Aircraft.
+
+The Sukhoi Su-24 (NATO reporting name: Fencer) is a supersonic, all-weather attack aircraft developed in the Soviet Union. The aircraft has a variable-sweep wing, twin engines, and a side-by-side seating arrangement for its crew of two. It was the first of the former USSR's aircraft to carry an integrated digital navigation/attack system. It remains in service with the Russian Air Force, Syrian Air Force, Ukrainian Air Force, Azerbaijan Air Force, and various air forces to which it was exported.
+
+The Su-24 has a shoulder-mounted variable geometry wing outboard of a relatively small fixed-wing glove, swept at 69°. The wing has four sweep settings: 16° for take-off and landing, 35° and 45° for a cruise at different altitudes, and 69° for minimum aspect ratio and wing area in low-level dashes. The variable geometry wing provides excellent STOL performance, allowing a landing speed of 230 kilometers per hour (140 mph), even lower than the Sukhoi Su-17 despite substantially greater take-off weight. Its high wing loading provides a stable low-level ride and minimal gust response.
+
+The Su-24 has two Saturn/Lyulka AL-21F-3A after-burning turbojet engines with 109.8 kN (24,700 lbs) thrust each, fed with air from two rectangular side-mounted intakes with splitter plates/boundary-layer diverters.
+
+In early Su-24 ("Fencer A" according to NATO) aircraft these intakes had variable ramps, allowing a maximum speed of 2,320 kilometers per hour (1,440 mph), Mach 2.18, at altitude and a ceiling of 17,500 meters (57,400 ft). Because the Su-24 is used almost exclusively for low-level missions, the actuators for the variable intakes were deleted to reduce weight and maintenance. This has no effect on low-level performance, but absolute maximum speed and altitude are cut to Mach 1.35 and 11,000 meters (36,000 ft). The earliest Su-24 had a box-like rear fuselage, which was soon changed in production to a rear exhaust shroud more closely shaped around the engines in order to reduce drag. The revised aircraft also gained three side-by-side antenna fairings in the nose, a repositioned braking chute, and a new ram-air inlet at the base of the tail fin. The revised aircraft was dubbed "Fencer-B" by NATO but did not merit a new Soviet designation.
+
+This equipment has proliferated into the following countries: Algeria, Azerbaijan, CFE Treaty, Iran (Islamic Republic of), Libya, Russian Federation, Sudan, Syria, Uganda, Ukraine.
+
+Here is Variants information for the Su-24 (Fencer) Russian Attack Aircraft:
+The S6 is An early project in the gestation of the Su-24, like a meld of the Su-7 and Su-15..
+The T6-1 is The initial prototype with cropped delta wings and 4 RD-36-35 lift engines in the fuselage.
+The T6-2I / T6-3I / T6-4I is Prototypes for the variable geometry Su-24 production aircraft..
+The Su-24 "Fencer-A" is Limited production model tp support operational/field testing..
+The Su-24 "Fencer-B" is Initial full-scale production variant for the former Soviet Union Air Force and limited export sales..
+The Su-24 "Fencer-C" is Second full-scale production series that featured avionics and sensor imrpovements..
+The Su-24M "Fencer-D" is This series featured the addition of inflight refueling and an expansion of attack capabilities with even more payload options. Su-24M has a 0.76 m (30 in) longer fuselage section forward of the cockpit, adding a retractable refueling probe, and a reshaped, shorter radome for the attack radar. It can be identified by the single nose probe in place of the three-part probe of earlier aircraft. A new PNS-24M inertial navigation system and digital computer were also added. A Kaira-24 laser designator/TV-optical quantum system (similar to the American Pave Tack) was fitted in a bulge in the port side of the lower fuselage, as well as Tekon track and search system (in pod), for compatibility with guided weapons, including 500 and 1,500kg laser-guided bombs and TV-guided bombs, and laser/TV-guided missiles Kh-25 and Kh-29L/T, anti-radar missiles Kh-58 and Kh-14 (AS-12 'Kegler') and Kh-59 (AS-13 'Kingbolt')/Kh-59M TV-target seeker guided missiles..
+The Su-24M2 'Fencer-D' is The next modernization of Su-24M introduced in 2000 with the "Sukhoi" program and in 1999 with the "Gefest" program. The modernized planes are equipped with new equipment and systems. As a result, they get new capabilities and improved combat efficiency, including a new navigation system (SVP-24), a new weapons control system, a new HUD (ILS-31, like in Su-27SM or KAI-24), and expanding list of usable munitions (Kh-31A/P, Kh-59MK, KAB-500S). The last batch of the Sukhoi was delivered to the Russian VVS in 2009. Modernization continues with the program "Gefest". All frontline bombers Su-24 in the Central Military District received new sighting and navigation systems SVP-24 in 2013..
+The Su-24MK 'Fencer-D' is The export version of the Su-24M with downgraded avionics and weapons capabilities. First flight 30 May 1987 as T-6MK, 17 May 1988 as Su-24MK. Manufactured 1988–1992, sold to Algeria, Iraq, Libya, and Syria. Many Iraqi examples were evacuated to Iran..
+The Su-24MR "Fencer-E" is Tactical reconnaissance variant that retains much of the Su-24M's navigation suite, including the terrain-following radar, but deletes the Orion-A attack radar, the laser/TV system, and the cannon in favor of two panoramic camera installations, 'Aist-M' ('Stork') TV camera, RDS-BO 'Shtik' ('Bayonet') side-looking airborne radar (SLAR), and 'Zima' ('Winter') infrared reconnaissance system..
+The Su-24MP "Fencer-E" is Electronic signals intelligence (ELINT) variant designed to replace the Yak-28PP 'Brewer-E'. The Su-24MP has additional antennas for intelligence-gathering sensors and radar jamming, omitting the laser/TV fairing, but retaining the cannon and provision for up to four R-60 (AA-8) missiles for self-defense. Reportedly, only 10 were built..
+
+Here is System information for the Su-24 (Fencer) Russian Attack Aircraft:
+The Alternative Designations is Su-24; NATO: Fencer.
+The Type is All-weather attack aircraft/Interdictor.
+The Manufacturer is Sukhoi.
+The Crew (pilot, weapons operator) is 2.
+The Hardpoints is 9 hardpoints with a capacity of up to 8,000 kg.
+
+Here is Dimensions information for the Su-24 (Fencer) Russian Attack Aircraft:
+The Length is 22.53 m.
+The Wing Span (Swept) is 10.4 m.
+The Wing Span (Extended) is 17.6 m.
+The Height (Gear extended) is 6.2 m.
+The Weight (Maximum, take off) is 39,700 kg.
+The Weight (Normal, take off) is 35,910 kg.
+
+Here is Automotive information for the Su-24 (Fencer) Russian Attack Aircraft:
+The Engine Name is 2 × Lyulka AL-21F-3A.
+The Engine Type is Turbojet.
+The Engine Power is 75 kN (17,000 lbf) thrust each dry, 109.8 kN (24,700 lbf) with afterburner.
+The Fuel Capacity (Internal) is 11,760 liters.
+The Fuel Capacity (External) is 8,000 liters.
+The Speed (Max at altitude) is 2,320 km/h.
+The Speed (Max at sea level) is 1,530 km/h.
+The Speed (Max, attack) is 1,200 km/h.
+The Service Ceiling is 17,500 km.
+The Vertical Climb Rate is 150 m/s.
+The Combat Radius is 950 km.
+
+Here is System information for the Su-24 (Fencer) Russian Attack Aircraft of the Main Gun System:
+The Name is 1 × internal 23 mm Gryazev-Shipunov GSh-6-23M.
+The Type is Rotary Cannon.
+The Caliber is 23 mm.
+The Length is 1.4 m.
+The Height is 18 cm.
+The Weight is 76 kg.
+The Barrels is 6.
+The Action is Gas-operated.
+The Rate of Fire is 6,000–8,000 rpm.
+The Muzzle Velocity is 715 m/s.
+The Feed System is Belt or linkless feed system.
+
+Here is Ammunition information for the Su-24 (Fencer) Russian Attack Aircraft of the Main Gun System:
+The Type is Rifle.
+The Caliber is 23 mm.
+The Cartridge is 23×115mm AM-23.
+The Basic Load is 500 Rounds.
+
+Here is Missile Weapon System information for the Su-24 (Fencer) Russian Attack Aircraft:
+The Air-to-Air Missiles is 4 × R-60MK;
+4 × R-73E.
+The Air-to-Surface Missiles is 4 × Kh-23M;
+4 × Kh-25ML;
+Kh-59ME;
+Kh-29L/T/D.
+The Anti-Ship Missiles is Kh-31A.
+The Anti-Radiation Missiles is 2 × Kh-28;
+2 × Kh-58E;
+Kh-25MP;
+2 × Kh-31P;
+2 x Kh-27PS.
+
+Here is Rocket Weapon System information for the Su-24 (Fencer) Russian Attack Aircraft:
+The Rockets is S-5;
+S-8;
+S-13;
+S-24B;
+S-25-OFM/LD.
+
+Here is Bombing System information for the Su-24 (Fencer) Russian Attack Aircraft:
+The Bombs is KAB-500KR TV-guided bomb;
+KAB-500L laser-guided bomb;
+KAB-500OD guided bomb;
+KAB-500S-E satellite-guided bomb;
+KAB-1500KR TV-guided bomb;
+KAB-1500L laser-guided bomb;
+ODAB-500PM bomb;
+RBK-250 cluster bomb;
+RBK-500 cluster bomb;
+2 × BETAB-500 bomb.
+
+Here is Avionics/Sensor/Optics information for the Su-24 (Fencer) Russian Attack Aircraft:
+The Integrated navigation and fire control radars is Yes.
+The Pulse-doppler terrain following radar coupled to autopilot is Yes.
+The Targeting System is 1 x SVP-24 targeting system.
+The Laser/TV targeting and weapon guidance is Yes.
+The Night/Weather Capabilities is Yes.
+
+Here is Protection information for the Su-24 (Fencer) Russian Attack Aircraft:
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is Yes.
+

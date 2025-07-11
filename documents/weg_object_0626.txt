@@ -1,0 +1,120 @@
+This document describes the Type 73 Chinese 100mm Towed Anti-Tank Gun.
+
+Type 73 - This appears to be a copy of the Soviet T-12.
+
+2A19 or T-12 is a Soviet smooth-bore 100-mm anti-tank gun, which served as the primary towed anti-tank artillery in the Soviet and Bulgarian armies from the early 1960s to the late 1980s.
+
+The T-12 entered service in 1961, replacing the BS-3 100 mm field gun. It was typically deployed in the anti-tank units of armored and motor rifle regiments to protect flanks against counter-attacks during rapid advances.
+
+In 1970, it was replaced in production by the T-12A or MT-12 "Rapira", which features a new smooth-bore gun, the 100 mm 2A29 gun, as well as a redesigned carriage and gun shield to protect the crew from machine gun fire and shell splinters. Thanks to the redesigned carriage, which has a bigger wheel base, the MT-12 can be towed by the MT-LB, at speeds up to 60 km/h on road or 25 km/h cross-country.
+
+The 2A29R "Ruta" or MT-12R is a version with a RLPK-1 radar for engaging targets in a poor visibility environment (smoke/fog). From 1981, the gun could fire laser beam-riding guided missiles 9M117 Kastet (weapon system 9K116) and carried the new designator 2A29K "Kastet" or MT-12K.
+
+The weapon was planned to be superseded by the 2A45 Sprut-B 125 mm smooth bore anti-tank gun. Modern western tanks' frontal armor protection is in excess of what can be penetrated by a 100 mm gun from anything but point-blank range – even using the most modern APFSDS round. For a tank that can maneuver to take advantage of the enemy's weaknesses this is less of a problem – but for a weapon that is primarily defensive, this is a serious problem. Today, the T-12 is applied mostly in the role of ordinary artillery, using FRAG-HE shells.
+
+In 2017, the Algerian military displayed a locally developed variant mounted on a Mercedes-Benz Zetros truck. It includes four stabilization legs to absorb firing impacts.
+
+The gun requires a crew of six: commander, driver of the towing vehicle, gun layer, loader, and two ammunition crewmen. When the MT-LB is used as the transporter, 20 rounds are typically carried (10 APFSDS, 4 HE-Frag, 6 HEAT). Since the weapon is a smooth-bore, all the ammunition is finned for accuracy during flight.
+
+The standard equipment consists of the panoramic PG-1M sight for indirect fire, and an OP4M-40U telescope for direct fire. The APN-5-40 or APN-6-40 are used for direct fire by night.
+
+The gun can be fitted with the LO-7 ski gear for travel across snow or swampy ground.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Type 73 Chinese 100mm Towed Anti-Tank Gun:
+The A407 is This artillery system was designed by Arsenal-Resita and is very similar to the MT-12. It can fire the same range of ammunition as the T-54/55 tank and has a maximum range of 2,200 m (HEAT) or 4,000 m (APC-T). Subversions are the A407M1 and the A407M2. In Romanian Army service, the A407 is known as the 100 mm anti-tank gun M1977 (Romanian: Tun antitanc calibrul 100-mm Model 1977) and is normally towed by the DAC 887R truck. It can also be towed with the DAC 665T truck. The Model 2002 is an improved version, fitted with the automatic fire control system TAT-100..
+The Type 73 is This appears to be a copy of the Soviet T-12..
+The Type 86 is This is a 100mm smoothbore anti-tank gun that has some similarities with the 85mm Type 56 (D-44). It fires ammunition of the fixed type, including the Type 73 HE, Type 73 HEAT, Type 73 APFSDS and Type 86 APFSDS to a maximum range of 1,800 m..
+The 2A19 or T-12 is 2A19 or T-12 is a Soviet smoothbore 100-mm anti-tank gun, which served as the primary towed anti-tank artillery in the Soviet and Bulgarian armies from the early 1960s to the late 1980s..
+
+Here is System information for the Type 73 Chinese 100mm Towed Anti-Tank Gun:
+The Alternative Designation is 2A29.
+The Type is Towed Anti-Tank Gun.
+The In Service is 1961-Present.
+The Crew is 6 (commander, driver, gunner, loader,
+2 ammunition handlers).
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note is Thanks to the redesigned carriage, which has a bigger wheel base, the MT-12 can be towed by the MT-LB, at speeds up to 60 km/h on road or 25 km/h cross-country..
+
+Here is Dimensions information for the Type 73 Chinese 100mm Towed Anti-Tank Gun:
+The Length is 9.16 m.
+The Barrel Length is 8.48 m.
+The Width is 1.795 m.
+The Height is 1.565 m.
+The Weight is 2,750 kg.
+
+Here is System information for the Type 73 Chinese 100mm Towed Anti-Tank Gun of the Main Weapon System:
+The Name is 2A19.
+The Type is Towed Anti-Tank Gun.
+The Caliber is 100.
+The Carriage is Transport: Ural-375D (6x6)
+On road: 60 km/h (37 mph)
+Off road: 15 km/h (9 mph).
+The Elevation is −10° to +20°.
+The Traverse is 27° left or right.
+The Rate of Fire is 14 rpm (max possible)
+10 rpm (max likely)
+4 to 6 rpm (typical).
+The Muzzle Velocity is See Ammunition Types.
+The Maximum Firing Range is See Ammunition Types.
+
+Here is Ammunition information for the Type 73 Chinese 100mm Towed Anti-Tank Gun of the Main Weapon System:
+The Type is Projectile.
+The Caliber is 100mm.
+The Shell is Fixed QF 100 × 910 mmR.
+The Basic Load is When the MT-LB is used as the transporter, 20 rounds are typically carried (10 APFSDS, 4 HE-Frag, 6 HEAT). Since the weapon is a smoothbore, all the ammunition is finned for accuracy during flight..
+The Ammunition Types is APFSDS
+
+BM-2 APFSDS projectile.
+3BM-2
+APFSDS-T Tungsten
+Round weight: 19.34 kg (42.6 lb)
+Projectile weight: 5.65 kg (12.5 lb)
+Muzzle velocity: 1,575 m/s (5,170 ft/s)
+Maximum range: 3,000 m (3,300 yd)
+Penetration:
+230 mm at 500 m (9 in at 550 yd)
+180 mm at 2,000 m (7 in at 2,200 yd)
+140 mm at 3,000 m (5.5 in at 3,300 yd)
+3BM23/3UBM10
+
+APFSDS
+Round weight: 19.9 kg (44 lb)
+Projectile weight: 4.55 kg (10.0 lb)
+Muzzle velocity: 1,548 m/s (5,080 ft/s)
+Maximum range: 3,000 m (3,300 yd)
+Penetration: 225 mm at 1000 m (8.8 in at 1100 yd)
+HEAT
+3BK16M/3UBK8
+Round weight: 23.1 kg (51 lb)
+Projectile weight: 9.5 kg (21 lb)
+Muzzle velocity: 975 m/s (3,200 ft/s)
+Maximum range: 1,000 m (1,100 yd)
+Penetration: 400 mm (16 in) 
+
+HE-FRAG
+3OF12/3OF35
+Round weight: 28.9 kg (64 lb)
+Projectile weight: 16.7 kg (37 lb)
+Muzzle velocity: 700 m/s (2,300 ft/s)
+Maximum range (indirect): 8,200 m (9,000 yd)
+
+Guided projectile
+9K117 Kastet 3UBK10/3UBK10M
+Main article: 9M117 Bastion
+Beam riding laser guided projectile.
+Round weight: 24.5 kg (54 lb)
+Projectile weight: 17.6 kg (39 lb)
+Average speed: 300 m/s (980 ft/s)
+Range: 100–5,000 m (110–5,470 yd)
+Penetration: 550–600 mm (22–24 in).
+
+Here is Fire Control System information for the Type 73 Chinese 100mm Towed Anti-Tank Gun of the Fire Control:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Sights is The standard equipment consists of the panoramic PG-1M sight for indirect fire, and an OP4M-40U telescope for direct fire. The APN-5-40 or APN-6-40 are used for direct fire by night..
+

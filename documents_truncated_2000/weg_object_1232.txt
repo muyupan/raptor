@@ -1,0 +1,50 @@
+This document describes the JRTC VISMOD: 2B14 Podnos Russian 82mm Mortar.
+
+The 2B14 Podnos is a Russian 82 mm mortar.  The 2B14 was designed in early 1980s as a light, indirect fire weapon for the use of airborne and other light infantry forces.  It was developed to replace the older M47 and is lighter and has better range than its predecessor.  Despite the intent to field the 2B14 with light infantry units, the 2B14 appears to have been fielded with regular motor rifle units as well at a scale of six per battalion.
+
+This equipment has proliferated into the following countries: Georgia, Malaysia, Russian Federation, Syria, Ukraine.
+
+Here is System information for the JRTC VISMOD: 2B14 Podnos Russian 82mm Mortar:
+The Alternative Designation is M82 (Bulgarian production).
+The Crew is 4.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Maximum Effective Range is 4.1km (5.6km for M-74 HE).
+The Minimum Effective Range is 0.08.
+The Transportation is Is man portable by 3 soldiers for short distances or can be loaded into any vehicle for transportation.  The mortar can also be mounted on and fired from a vehicle..
+
+Here is Dimensions information for the JRTC VISMOD: 2B14 Podnos Russian 82mm Mortar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is 41.88.
+The Weight, Barrel is 15.7.
+The Weight, Baseplate is 10.5.
+The Weight, Bipod is 15.7.
+The Weight, Sight is .9.
+
+Here is Mortar information for the JRTC VISMOD: 2B14 Podnos Russian 82mm Mortar of the Mortar:
+The Loader Type is Muzzle loaded.
+The Max Rate of Fire is 30.
+The Sustain Rate of Fire is 24.
+The Max Elevation is 85Â°.
+The Min Elevation is 45Â°.
+The Traverse Range is Â±8Â° (without bipod repositioning).
+
+Here is Ammunition information for the JRTC VISMOD: 2B14 Podnos Russian 82mm Mortar of the Mortar:
+The Type is HE, Illum, M-74 HE, Smoke, WP.
+The Caliber is 82.
+The Muzzle Velocity is INA.
+The Fuse Type is INA.
+The Basic Load is INA.
+The Effective Ranges is Minimum: 80m, Maximum: 4,100m (M-74 max range: 5,600).
+The Armor Penetration is INA.
+The Weight of Round is 3.14.
+The Note: is Can fire all ammunition designed for earlier model 82mm Soviet / Russian mortars.
+
+Here is Fire Control information for the JRTC VISMOD: 2B14 Podnos Russian 82mm Mortar:
+The Computerized FCS is No.
+The Direct Fire is INA.
+The Indirect Fire is Yes.
+The Collimator is Yes.
+

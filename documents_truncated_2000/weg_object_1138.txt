@@ -1,0 +1,186 @@
+This document describes the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System.
+
+The S-300V air defense missile system was developed to engage short- and intermediate-range ballistic missiles, cruise missiles, strategic and tactical aircraft, as well as early warning and electronic warfare aircraft. It was designed to counter the threat posed by Lance and Pershing ballistic missiles. The main role of the S-300V is to protect task forces and vital industrial and military installations against massed air attacks. Its reporting name in the West is SA-12 or Gladiator/Giant. 
+
+The S-300V consists of:
+
+9M82 SA-12b GIANT missile
+9M83 SA-12a GLADIATOR missile
+9A82 SA-12b GIANT TELAR
+9A93 SA-12a GLADIATOR TELAR
+9A84 GIANT Launcher/Loader Vehicle (LLV)
+9A85 GLADIATOR Launcher/Loader Vehicle (LLV)
+9S15 BILL BOARD Surveillance Radar system
+9S19 HIGH SCREEN Sector Radar system
+9S32 GRILL PAN Guidance Radar system
+9S457 Command Station
+
+Note: The S-300V comes in two versions:  
+1. SA-12a Gladiator
+2. SA-12b Giant
+
+Once equipped with 9M83 missiles is referred in the West as SA-12A or Gladiator. When equipped with 9M82 missiles it is referred as SA-12B or Giant.
+
+The 9M83 SA-12a GLADIATOR is a dual-role anti-missile and anti-aircraft missile with a maximum range between 75 and 90 km.
+
+The 9M82 SA-12b GIANT missile, configured primarily for the ATBM role, is a longer range system [maximum range between 100 and 200 km] with a longer fuselage with larger solid-fuel motor.
+The 9A82 SA-12b GIANT and 9A93 SA-12a GLADIATOR TELAR vehicles are similar, though the 9A83-1 carries four 9M83 SA-12a GLADIATOR missiles, whereas the 9A82 carries only two 9M82 SA-12b GIANT missiles. The configuration of the vehicles command radar is also different. On the 9A83-1 the radar is mounted on a folding mast providing 360º coverage in azimuth and full hemispheric coverage in elevation. The radar on the 9M82 TELAR is mounted in a semi-fixed position over the cab, providing 90º coverage on either side in azimuth and 110º in elevation. The TELARs are not capable of autonomous engagements, requiring the support of the GRILL PAN radar.
+
+The 9S457-1 Command Post Vehicle is the command and control vehicle for the SA-12 system, which is supported by the BILL BOARD A surveillance radar and the HIGH SCREEN sector radar. The CPV and its associated radars can detect up to 200 targets, track as many as 70 targets and designate 24 of the targets to the brigade's four GRILL PAN radar systems for engagement by the SA-12a and SA-12b TELARs.
+
+The BILL BOARD A radar provides general surveillance, with the antenna rotating every 6-12 seconds. The radar, which can detect up to 200 targets, provides target coverage of 0-55º in elevation and 10-250 km in range with an accuracy is 30-35 min of arc in azimuth and 250 m in range. and.
+
+The HIGH SCREEN sector radar supports the ATBM role, providing surveillance of anticipated azimuths of threat missiles. The radar is switches to a tracking mode when high speed targets are detected, automatically transmitting the trajectory parameters to the Command Post Vehicle. The CPV prioritizes the threat and instructs the HIGH SCREEN radar to track specific missiles, with the maximum being 16 simultaneous targets.
+
+The GRILL PAN radar system controls the battery's launcher vehicles (TELARs and LLVs). It can simultaneously track up to 12 targets and control up to six missiles against these targets The radar can acquire targets with a radar cross-section of 2m2 at a range of 150 km in manual mode and 140 km in automatic mode. The GRILL PAN tracks targets assigned to it by the CP while simultaneously maintaining a horizon search for new targets.
+
+The LLVs (9A85 GLADIATOR and 9A83 GLADIATOR) resemble normal TELARs, but with a loading crane rather than command radars. While the primary role of the LLV is to replenish the TELARs, they can also erecting and launch missiles if needed, though they are dependent on the use of command radars from neighboring TELARs.
+
+This equipment has proliferated into the following countries: Bulgaria, China, Egypt, Iran (Islamic Republic of), Russian Federation, Syria, Ukraine.
+
+Here is Variants information for the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System:
+The SA-12a Gladiator is The S-300V with a 9M83 SA-12a GLADIATOR missile 9A93 SA-12a GLADIATOR TELAR.
+The S-300VM is S-300VM is an upgraded version of the S-300V. It seems that it is also called S-300V3. Western reporting name for this system is SA-23 Gladiator/Giant. It has new command post vehicle and new radars. It fires improved 9M83M and 9M82M missiles with a longer range. Missiles have a range of 200 km and can reach targets at altitude of 30 km. The S-300VM is in service with Russia..
+The Antey 2500 is Antey 2500 an export version of the S-300VM. It can engage up to 24 aircraft or up to 16 ballistic missiles simultaneously. This system can engage ballistic missiles at a range of 250 km and aircraft at a range of 200 km. Two battalions of these air defense systems were exported to Venezuela. These were delivered in 2013. Estimated export price of this system is 1 billion dollars..
+The S-300V4 is S-300V4 improved version. It seems that this system is also called S-300VMD. It has a range of 300 km. Russian armed forces issued production order for this air defense system. Deliveries commenced in 2014..
+
+Here is System information for the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System:
+The Alternative Designation is S-300V; SA-12b Giant.
+The Type is The S-300V air defense missile system was developed to engage short- and intermediate-range ballistic missiles, cruise missiles, strategic and tactical aircraft, as well as early warning and electronic warfare aircraft..
+The Family is S-300 Family.
+The Crew is 3.
+The In Service is 1988-Present.
+The Emplacement Time is 5.
+The Displacement Time is 5.
+The Note #1 is A battery of the S-300V typically includes up two six launchers in two variants, command post vehicle, surveillance radar, sector surveillance radar, and up to 6 reloading vehicles/launchers in two variants..
+The Note #2 is S-300V system may be controlled by an upper level command post system 9S52 Polyana-D4 integrating it with Buk missile system into a brigade.
+
+Here is Dimensions information for the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System:
+The Hull Length is 9.50.
+The Hull Width is 2.90.
+The Hull Height is 3.30.
+The Weight, Total is 50.
+The Chassis Weight is 20,000 kg.
+The Ground Pressure is INA.
+
+Here is Automotive information for the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System:
+The Engine Name is V-84.
+The Engine Type is Diesel.
+The Engine Power is 840.
+The Cruising Range is 250.
+The Speed, Maximum Road is 53.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 40.
+The Side Slope is 20.
+The Vertical Step is 0.7.
+The Trench is 2.5.
+The Fording Depth is 1.2.
+
+Here is Communications information for the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System:
+The Radio is R-168 Akveduk, Russia’s fifth generation tactical radio system.
+
+Here is Launcher information for the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System of the Missile System:
+The Name is 9A82 SA-12b GIANT TELAR.
+The Type is TELAR.
+The Maximum Elevation is +90.
+The Minimum Elevation is INA.
+The Note is The TELARs are not capable of autonomous engagements, requiring the support of the GRILL PAN radar..
+
+Here is Missile information for the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System of the Missile System:
+The Name is 9M82 SA-12b GIANT missile.
+The Type is Semi-Active Radar Homing Missile.
+The Basic Load is carries only two 9M82 SA-12b GIANT missiles.
+The Length is 8.5.
+The Diameter is 800.
+The Weight is 4,730 kg.
+The Warhead Type is HE fragmentation.
+The Warhead Weight is 150 kg.
+The Guidance System is Semi-Active Radar Homing Missile.
+The Maximum Velocity is 2,400.
+The Maximum Range, Aircraft is 13.
+The Maximum Range, SRBM is 25.
+The Maximum Range, Ballistic Targets is 40.
+The Minimum Range, Ballistic Targets is 20.
+The Maximum Altitude is 30,000 m.
+The Minimum Altitude is 1,000 m.
+The Maximum Speed is 2,400 m/s, Mach 8.00.
+The Chance to Defeat Ballistic Missiles is 40-65% chance of defeating ballistic missile..
+The Note is The larger 9M82 is used to engage intermediate-range ballistic missiles, AWACS and jamming aircraft at ranges of up to 100 km. Warheads of 9M82 and 9M83 missiles are packed with 150 kg of explosives.
+
+Here is Launcher/Loader Vehcile (LLV) information for the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System:
+The Name is 9A85 GLADIATOR Launcher/Loader Vehicle (LLV).
+The Crew is 3.
+The Crane is Yes.
+The Basic Load is carries only two 9M82 SA-12b GIANT missiles.
+The Reloading Time is 50-60 minutes.
+The Note #1 is There are two variants of reloading vehicles.
+The Note #2 is These vehicles are combination of the TEL and reloading vehicle. A unique capability of these vehicles is that they can launch missiles themselves. Firing data is acquired from the launcher vehicle.
+
+Here is Command Station information for the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System:
+The Name is 9S457 Command Station (Command Post Vehicle).
+The Crew is 7.
+The Mission is It controls radars and up to 4 launcher vehicles.
+The Target Tracking is It can track up to 70 air targets simultaneously. It prioritizes which targets should be attacked first and transmits firing data to launcher vehicles.
+The Note is he CPV and its associated radars can detect up to 200 targets, track as many as 70 targets and designate 24 of the targets to the brigade's four GRILL PAN radar systems for engagement by the SA-12a and SA-12b TELARs.
+
+Here is Fire Control System information for the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is INA.
+The Indirect Fire is Yes.
+
+Here is Radar #1 information for the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System of the Fire Control:
+The Name is 9S15 BILL BOARD Surveillance Radar system.
+The Type is Phased-Array Surveillance Radar system.
+The Traverse Range is 360.
+The Traverse Left is 360.
+The Traverse Right is 360.
+The Crew is 4.
+The Detection Range is 330.
+The Aircraft Detection is At a range of 240 km aircraft are detected with a chance of 50%.
+The Ballistic Missile Detection is It detects ballistic missiles at a range of about 150 km.
+The Antenna Rotating Speed is 6-12.
+The Target Detection is up to 200 targets.
+The Target Coverage Elevation is 0-55º in Elevation.
+The Target Coverage Range is 10-250 km.
+The Target Coverage Accuracy is 30-35 min of arc in azimuth and 250 m in range.
+
+Here is Radar #2 information for the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System of the Fire Control:
+The Name is 9S19 HIGH SCREEN Sector Radar system.
+The Type is Sector Radar system.
+The Purpose is The HIGH SCREEN sector radar supporst the ATBM role, providing surveillance of anticipated azimuths of threat missiles.
+The Crew is 4.
+The Mission is t is used to detect high speed targets, such as ballistic missile warheads.
+The Detection Range is 175.
+The Maximum Targets, Simultaneous is maximum being 16 simultaneous targets.
+The Note is The radar is switches to a tracking mode when high speed targets are detected, automatically transmiting the trajectory parameters to the Command Post Vehicle.
+
+Here is Radar #3 information for the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System of the Fire Control:
+The Name is 9S32 GRILL PAN Guidance Radar system.
+The Type is Parabolic dish target-illumination radar on telescoping mast on missile launch vehicle.
+The Purpose is The GRILL PAN radar system controls the battery's launcher vehicles (TELARs and LLVs).
+The Sector Scan is 90-deg sector
+                              scan through 50 deg elevation on separate vehicle.
+The Guidance System is inertial guidance with semi-active terminal homing.
+The Band is X-Band.
+The Multichannel is Yes.
+The Peak Power is 150.
+The Maximum Range is 250.
+The Beamwidth is 0.5.
+The Antenna is ransmission type of space fed phased-array antenna.
+The Maximum Targets, Simultaneous is It can simultaneously track up to 12 targets and control up to six missiles against these targets.
+The Radar Cross-Section is radar cross-section of 2m2 at a range of 150 km in manual mode and 140 km in automatic mode.
+The Note is The GRILL PAN tracks targets assigned to it by the CP while simultaneously maintaining a horizon search for new targets.
+
+Here is Protection information for the S-300V (SA-12b Giant) Russian Long-Range Air Defense Missile System:
+The Hull Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The Note is The S-300V is considered as a survivable system. Once all the missiles are launched the launcher vehicles can briefly redeploy. It uses  shoot, scoot and hide tactics in order to avoid being destroyed..
+

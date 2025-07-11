@@ -1,0 +1,89 @@
+This document describes the Tornado European Multirole Aircraft.
+
+The Panavia Tornado is a family of twin-engine, variable-sweep wing multirole combat aircraft, jointly developed and manufactured by Italy, the United Kingdom, and West Germany. There are three primary Tornado variants: the Tornado IDS (interdictor/strike) fighter-bomber, the suppression of enemy air defences Tornado ECR (electronic combat/reconnaissance) and the Tornado ADV (air defence variant) interceptor aircraft.
+
+The Tornado was developed and built by Panavia Aircraft GmbH, a tri-national consortium consisting of British Aerospace (previously British Aircraft Corporation), MBB of West Germany, and Aeritalia of Italy. It first flew on 14 August 1974 and was introduced into service in 1979–1980. Due to its multirole design, it was able to replace several different fleets of aircraft in the adopting air forces. The Royal Saudi Air Force (RSAF) became the only export operator of the Tornado in addition to the three original partner nations. A tri-nation training and evaluation unit operating from RAF Cottesmore, the Tri-National Tornado Training Establishment, maintained a level of international co-operation beyond the production stage.
+
+The Tornado was operated by the Royal Air Force (RAF), Italian Air Force, and RSAF during the Gulf War of 1991, in which the Tornado conducted many low-altitude penetrating strike missions. The Tornados of various services were also used in conflicts in the former Yugoslavia during the Bosnian War and Kosovo War, the Iraq War, Libya during the Libyan civil war, as well as smaller roles in Afghanistan, Yemen, and Syria. Including all variants, 992 aircraft were built.
+
+The Panavia Tornado is a multirole, twin-engined aircraft designed to excel at low-level penetration of enemy defences. The mission envisaged during the Cold War was the delivery of conventional and nuclear ordnance on the invading forces of the Warsaw Pact countries of Eastern Europe; this dictated several significant features of the design. Variable wing geometry, allowing for minimal drag during the critical low-level dash towards a well-prepared enemy, had been desired from the project's start. Advanced navigation and flight computers, including the then-innovative fly-by-wire system, greatly reduced the workload of the pilot during low-level flight and eased control of the aircraft. For long range bombing missions, the Tornado has a retractable refuelling probe.
+
+As a multirole aircraft, the Tornado is capable of undertaking more mission profiles than the anticipated strike mission; various operators replaced multiple aircraft types with the Tornado as a common type – the use of dedicated single role aircraft for specialist purposes such as battlefield reconnaissance, maritime patrol duties, or dedicated electronic countermeasures (ECM) were phased out – either by standard Tornados or modified variants, such as the Tornado ECR. The most extensive modification from the base Tornado design was the Tornado ADV, which was stretched and armed with long range anti-aircraft missiles to serve in the interceptor role.
+
+The Tornado operators have chosen to undertake various life extension and upgrade programmes to keep their Tornado fleets as viable frontline aircraft for the foreseeable future. The RAF and RSAF have upgraded their Tornados to the GR4 standard to increase combat effectiveness, while German Tornados have been undergoing periodic upgrades under the multi-stage ASSTA (Avionics System Software Tornado in Ada) programme. With these upgrades, as of 2011, it is projected that the Tornado shall be in service until 2025, more than 50 years after the first prototype took flight
+
+This equipment has proliferated into the following countries: Germany, Italy, Saudi Arabia.
+
+Here is Variants information for the Tornado European Multirole Aircraft:
+The TORNADO IDS  is TORNADO IDS: DESIGNATED GR1 IN RAF SERVICE. GROUND ATTACK/ INTERDICTION VERSION. SOME HAVE BEEN ADAPTED FOR THE ANTI-SHIPPING ROLE..
+The TAC-R TORNADO GR1A is TAC-R TORNADO GR1A: RAF GR1S MODIFIED AS DEDICATED TACTICAL RECONNAISSANCE AIRCRAFT. FITTED WITH A MARCONI DEFENSIVE SYSTEMS EMITTER LOCATION SYSTEM. BOTH 27-MM CANNONS WERE REMOVED..
+The TORNADO GR1B  is TORNADO GR1B: MODIFIED FOR MARITIME STRIKE MISSIONS WITH SEA EAGLE ANTI-SHIP MISSILES. RAF DISCARDED GR1B DESIGNATION IN JULY 2001..
+The TORNADO ADVAIR DEFENSE VARIAN is INA.
+The TORNADO ECR is TORNADO ECR: ELECTRONIC COMBAT AND RECONNAISSANCE VARIANT FOR GERMAN AND ITALIAN SERVICE.
+
+Here is Avionics/Sensor/Optics information for the Tornado European Multirole Aircraft of the System:
+The Night/Weather Capabilities is All-weather close air support/battlefield interdiction; interdiction/counter-air strike; naval strike and all weather day and night recon capable.
+The Type 1 is Raptor EO/IR Recon Pod.
+The Type 2 is Multi-mode, ground-mapping and terrain- following radar).
+The Type 3 is Digital Inertial Navigation System (INS).
+The Type 4 is Heads-up-display.
+The Type 5 is Doppler radar with Kalman filter.
+The Type 6 is Laser Ranger and Marked Target Seeker (LRMTS).
+
+Here is Dimensions information for the Tornado European Multirole Aircraft of the System:
+The Height  is 5.6.
+The Length  is 16.7.
+The Width, Wingspan  is 13.9.
+
+Here is Fuel and Load information for the Tornado European Multirole Aircraft of the System:
+The Fuel Capacity, Internal  is 6393/5842.
+The Weight, Maximum Weapon  is less than 9000.
+The Weight, Standard Payload, External  is 9000.0.
+
+Here is Survivability/Countermeasures information for the Tornado European Multirole Aircraft of the System:
+The Type 1 is Martin-Baker MK-10A zero/zero ejection seat (2ea).
+The Type 2 is Active ECM pod.
+The Type 2 is Radar Homing and Warning (RHAW).
+The Type 3 is Chaff and flare dispensing system.
+The Type 4 is IFF.
+
+Here is Performance information for the Tornado European Multirole Aircraft:
+The Ceiling  is 15000.0.
+The Ferry Range  is 3890.0.
+The Power Plant/Engine is Engines 9,000 lbs. thrust Turbo- Union RB199-34R turbofans, 16,000       lbs.       thrust      with
+afterburner (2 ea).
+The Speed, Maximum “G” Force  is 7.5.
+The Speed, Maximum, at altitude  is 2340.0.
+The Takeoff Run/Landing Roll  is 900/370.
+
+Here is Hardpoint/Weapon Station 1 information for the Tornado European Multirole Aircraft of the Armament:
+The Location is under fuselage.
+The Quantity  is 3.0.
+
+Here is Hardpoint/Weapon Station 2 information for the Tornado European Multirole Aircraft of the Armament:
+The Location is underwings.
+The Quantity  is 4.0.
+
+Here is Mixed Ordnance 1 information for the Tornado European Multirole Aircraft of the Armament:
+The Combat Load  is 7 or less.
+The Type is AAM.
+
+Here is Mixed Ordnance 2 information for the Tornado European Multirole Aircraft of the Armament:
+The Combat Load  is 1.0.
+The Name is storm shadow.
+The Type is cruise missile.
+
+Here is Mixed Ordnance 3 information for the Tornado European Multirole Aircraft of the Armament:
+The Combat Load  is 4.0.
+The Name is sea eagle.
+The Type is antiship missile.
+
+Here is Weapon 1 information for the Tornado European Multirole Aircraft of the Armament:
+The Caliber/Length  is 27.0.
+The Name is integral IWKA-Mauser .
+The Quantity  is 2.0.
+The Type is gun.
+
+Here is Weapon 1  information for the Tornado European Multirole Aircraft of the Armament:
+The Combat Load  is 180.0.
+

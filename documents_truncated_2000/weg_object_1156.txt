@@ -1,0 +1,37 @@
+This document describes the JRTC VISMOD: Ural-63708 Russian Heavy Equipment Transport Truck.
+
+The Ural-63708 is a new Russian tractor truck with 8x8 configuration. It is a version of the Ural-63704-0010 military truck with an added axle at the rear and fitted with a more powerful engine. It was first publicly revealed in 2016. This tractor truck is a member of Tornado-U family of military vehicles. In this case letter "U" in the designation stands for "Ural", as there is also a similar KamAZ-U family, developed by another Russian truck manufacturer KamAZ.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the JRTC VISMOD: Ural-63708 Russian Heavy Equipment Transport Truck:
+The Alternative Designation is NA.
+The Manufacturer is Ural.
+The Family is Heavy Transport.
+The Crew is 1 driver.
+The Passenger Capacity is 5.
+
+Here is Dimensions information for the JRTC VISMOD: Ural-63708 Russian Heavy Equipment Transport Truck:
+The Length is 10.37.
+The Width is 2.55.
+The Height is 3.15.
+The Weight, Tractor is 15.
+The Weight, Tractor and Trailer is ~30.
+The Payload Capacity is Up to 70.
+The Gross Combination Weight is Up to 100.
+
+Here is Automotive information for the JRTC VISMOD: Ural-63708 Russian Heavy Equipment Transport Truck:
+The Engine Name is YaMZ.
+The Engine Type is Diesel.
+The Engine Power is 600.
+The Cruising Range is 800.
+The Speed, Maximum Road is 90.
+The Speed, Average Cross is INA.
+The Gradient, Unloaded is ~25.
+The Gradient, Loaded is 10-15.
+The Side Slope, Tractor is ~30.
+The Vertical Step is ~0.6.
+The Trench is INA.
+The Fording Depth, Loaded is ~0.7.
+The Fording Depth, Tractor is Up to 1.8.
+

@@ -1,0 +1,87 @@
+This document describes the SVD-63 Russian 7.62mm Russian Automatic Sniper Rifle.
+
+SVD-63 Russian 7.62mm Russian Automatic Sniper Rifle is a semi-automatic sniper/designated marksman rifle chambered in 7.62×54mmR and developed in the Soviet Union.
+
+The Dragunov was designed as a squad support weapon since, according to Soviet and Soviet-derived military doctrines, the long-range engagement ability was lost to ordinary troops when submachine guns and assault rifles (which are optimized for close-range and medium-range, rapid-fire combat) were adopted.
+
+It was developed in 1957–1963 and selected as the winner of a contest that included three competing groups of designers: led by Sergei Simonov, Aleksandr Konstantinov, and Yevgeny Dragunov. Extensive field testing of the rifles conducted in a wide range of environmental conditions resulted in Dragunov's proposal being accepted into service on 3 July 1963. An initial pre-production batch consisting of 200 rifles was assembled for evaluation purposes, and from 1964 serial production was carried out by Izhmash, later called Kalashnikov Concern.
+
+Since then, the Dragunov has become the standard squad support weapon of several countries, including those of the former Warsaw Pact. China, while having produced an unlicensed copy of the SVD through reverse-engineered samples captured from the Sino-Vietnamese War as the Type 79 and 85, never officially purchased or was given SVD Dragunov by the Soviets, as the Sino-Soviet split had already occurred when the SVD entered service and relations were strained between the two, halting further military cooperation's and aid. Iran also produced a clone as the Nakhjir 3 (as a direct copy of the Chinese Type 79).
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the SVD-63 Russian 7.62mm Russian Automatic Sniper Rifle:
+The SVD-S is Folding stock, 15-rd magazine..
+The SVU is Bullpup (trigger forward of magazine)..
+The OTs-03AS
+sight.
+ is SVU w/PSO-1
+sight.
+.
+The 6V1 is SVD with PSO-1 sight. .
+The 6V1-N3
+night sight.
+ is SVD with NSPU-3
+night sight.
+.
+
+Here is Dimensions information for the SVD-63 Russian 7.62mm Russian Automatic Sniper Rifle of the System:
+The Length  is 1,225 mm.
+The Barrel Length is 620.
+The Weight is 4.30 kg.
+
+Here is Ammunition (Option 1) information for the SVD-63 Russian 7.62mm Russian Automatic Sniper Rifle of the Ammunition:
+The Name is 57-N-323S.
+The Type is Ball, standard steel- core.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62x54mm (rimmed).
+The Armor Penetration  is Steel plate:  6 mm at  520 m, Flak vest: Yes at  110 m.
+The Muzzle Velocity  is 828.0.
+The Range, Effective  is 600.0.
+The Range, Effective  is 300 m (sight INA), night.
+
+Here is Ammunition (Option 2) information for the SVD-63 Russian 7.62mm Russian Automatic Sniper Rifle of the Ammunition:
+The Name is Sniper (7N1) .
+The Type is Steel core .
+The Caliber is 7.62 mm.
+The Cartridge is 7.62x54R (rimmed).
+The Armor Penetration  is INA.
+The Muzzle Velocity  is 823.0.
+The Range, Effective w/o scope  is 800.0.
+The Range, Effective w/o scope  is 1000.0.
+
+Here is Ammunition (Option 3) information for the SVD-63 Russian 7.62mm Russian Automatic Sniper Rifle of the Ammunition:
+The Name is 7N13.
+The Type is Enhanced penetration (steel core).
+The Caliber is 7.62 mm.
+The Cartridge is 7.62x54Rmm (rimmed).
+The Armor Penetration  is Steel Plate: 6 mm at  660 m, Flak Vest:  800 m.
+The Muzzle Velocity  is 828.0.
+The Range, Effective w/o scope  is 800.0.
+The Range, Effective w/o scope  is 1000.0.
+
+Here is Ammunition (Option 4) information for the SVD-63 Russian 7.62mm Russian Automatic Sniper Rifle of the Ammunition:
+The Name is 7B2-3 .
+The Type is AP-I .
+The Caliber is 7.62 mm.
+The Cartridge is 7.62x54R (rimmed).
+The Muzzle Velocity  is 808.0.
+The Armor Penetration  is 10-mm armor plate at 200 m.
+The Range, Effective w/o scope  is 800.0.
+The Range, Effective w/o scope  is 1000.0.
+
+Here is Ammunition (Option 5) information for the SVD-63 Russian 7.62mm Russian Automatic Sniper Rifle of the Ammunition:
+The Name is 7T2m.
+The Type is Tracer.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62x54R-(rimmed).
+The Muzzle Velocity  is 798.0.
+The Range, Effective w/o scope  is 800.0.
+The Range, Effective w/o scope  is 1000.0.
+The Trace is 1200.0.
+The Time of Trace  is 3.0.
+
+Here is Night Sights information for the SVD-63 Russian 7.62mm Russian Automatic Sniper Rifle of the Sights:
+The Available is Yes.
+The Notes is NSPU-3.  The NSPU-3 increases accuracy to 1,000 m at night or during poor visibility..
+

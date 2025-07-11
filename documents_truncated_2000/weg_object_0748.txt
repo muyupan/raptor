@@ -1,0 +1,87 @@
+This document describes the Bird-Eye 400 Israeli Reconnaissance Unmanned Aerial Vehicle (UAV).
+
+The Bird Eye 400 is a mini unmanned aerial vehicle (UAV) designed for urban and "over the hill" intelligence, surveillance and damage-assessment operations. The air vehicle captures real-time imagery and transmits it back to the portable ground control system via a satellite communication data link.
+
+Flight modes include automatic launch, navigation, return to base, hold and auto-recovery.
+
+The man-portable system is carried in two backpacks and can be deployed by two crewmembers in 30 minutes. The air vehicle has an underbelly camera for optimal coverage with a stabilized picture and high-resolution imagery. The Bird Eye 400 can be launched by hand or with a bungee system.
+
+The air vehicle utilizes a turn-over landing maneuver to protect the payload. The Bird Eye 400 has a flap system that lowers the aircraft's nose into a deep stall before landing on its back. Two elastic "shock absorbers" on the upper part of the UAV hit the ground first and reduce its impact, while its electric motor drives a hinged propeller, which also helps to avoid damage. The electrical propulsion system also minimizes its acoustic signature.
+
+Each system consists of three air vehicles; electro-optical/infrared payloads; portable ground-control station; data link; and a power source and repair kit.
+
+The ground-control station features a portable remote video terminal and ground control equipment. The fitted computer monitor displays planned missions using digital maps and pre-programmed flight coordinates.
+
+The Bird Eye's gimbaled MicroPOP sensor turret features color TV and infrared cameras
+
+This equipment has proliferated into the following countries: Israel, Russian Federation, Ukraine.
+
+Here is Variants information for the Bird-Eye 400 Israeli Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Bird Eye 650 is This is a larger version of the Bird Eye featuring additional batteries for an endurance of 12 hours. The system can be carried in three backpacks and operated by two crewmembers. It provides wide coverage with a stabilized day/night sensor payload and moving target tracker. The Bird Eye 650, as does its predecessor, is capable of fully automated and autonomous flight and has an electrical or fuel cell propulsion system.
+The air vehicle takes off from a folding mini-launcher or bungee system. It utilizes a flip-over recovery concept with parachute descent. The ground-control station is ruggedized and portable.
+
+The Bird Eye 650 is powered by an Aeropak integrated hydrogen proton exchange membrane fuel-cell system developed by Hydrogen Energy Systems in Singapore. The system delivers 600 watts of peak power and 900 watt/hour of net usable energy at less than 4.4 lb (2 kg) of weight. It uses hot-swappable cartridges that eliminate the need for battery chargers in the field.
+
+Payload options include Tamam's MicroPOP or Controp's Stabilized Miniature Payloads (STAMP).
+
+Potential missions include reconnaissance, urban, counterterrorism, law enforcement, patrol and convoy escort..
+The Bird Eye 650D is Bird Eye 650D
+This is the latest variant. It is designed for military and paramilitary intelligence, surveillance and reconnaissance missions. Commercial applications include mapping, monitoring oil, gas and electrical distribution lines, water and pollution management and rapid surveillance of disaster areas.
+The UAV can conduct autonomous missions, including point takeoff and point recovery, at ranges of up to 90 mi (150 km) and with a maximum endurance of 15 hours.
+
+The air vehicle has a maximum takeoff weight of 66 lb (30 kg) and can carry a 12-lb (5.5-kg) payload, including an electro-optical infrared sensor. It is powered by a standard fuel engine.
+
+The Bird Eye 650D can be integrated with a variety of payloads, including gimbaled electro-optical sensors, passive electronic countermeasures and electronic warfare systems..
+
+Here is System information for the Bird-Eye 400 Israeli Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Alternative Designation is Bird Eye 400.
+The Type of UAV is designed for urban and "over the hill" intelligence, surveillance and damage-assessment operations..
+The Manufacturer is IAI Malat division..
+The Primary Function is Reconnaissance UAV.
+The Day/Night Capable is .
+The All Weather Capable is .
+The Man-Portable is Yes, The man-portable system is carried in two backpacks and can be deployed by two crewmembers in 30 minutes..
+The Takeoff or Landing Limitations is None, the Bird Eye 400 can be launched by hand or with a Bungee System.
+The Ground Crew is .
+The Automatic Launch is Yes.
+The Navigation is Yes.
+The Return to Base Capable is Yes.
+The Hold and Auto-Recovery Capable is Yes.
+The Real-Time Imagery is The air vehicle captures real-time imagery and transmits it back to the portable ground control system via a satellite communication data link..
+The Deployment Time is 30.
+The Camera Type is underbelly camera for optimal coverage with a stabilized picture and high-resolution imagery..
+The System Package is Each system consists of three air vehicles; electro-optical/infrared payloads; portable ground-control station; data link; and a power source and repair kit..
+The Ground Control Station is The ground-control station features a portable remote video terminal and ground control equipment. The fitted computer monitor displays planned missions using digital maps and pre-programmed flight coordinates..
+The Note is The air vehicle utilizes a turn-over landing maneuver to protect the payload..
+The Proliferation is Israel, Russia and Singapore.
+
+Here is Dimensions information for the Bird-Eye 400 Israeli Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Length is 0.8.
+The Width (Wing Span) is 2.2.
+The Height is INA.
+The Weight, Maximum Takeoff is 5.6.
+The Weight, Payload is 1.2.
+
+Here is Automotive information for the Bird-Eye 400 Israeli Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is 1 x electric (lithium batteries).
+The Engine Power is INA.
+The Range is 15.
+The Maximum Speed is 111.
+The Loiter Speed is 59-93.
+The Endurance is 90.
+The Mission Radius is 10.
+The Operational Altitude is 150-460.
+
+Here is Communications information for the Bird-Eye 400 Israeli Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Radio is INA.
+The Retrans Radio is INA.
+
+Here is Protection information for the Bird-Eye 400 Israeli Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Fuselage is INA.
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The Add on Armor is No.
+The EW Counter Measures / CCM is No.
+The Counter Measures (Chaffs/Flares) is No.
+

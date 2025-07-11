@@ -1,0 +1,82 @@
+This document describes the Spylite (Skylite) Israeli Mini Unmanned Aerial Vehicle (UAV).
+
+SpyLite is a multiconfiguration tactical mini unmanned aerial vehicle (UAV) produced by BlueBird Aero Systems. SpyLite is designed for Intelligence, Surveillance, Target Acquisition and Reconnaissance (ISTAR) missions. It has been operational with Israel Defense Forces (IDF) and selected by the Israeli Air Force as well.
+
+SpyLite has been deployed in several operations and missions and accumulated thousands of flight hours in Israel and across the world. The UAV is fully automatic, from the time of catapult launch to its recovery.
+
+SpyLite international orders and design
+The Ethiopian Army placed an order with BlueBird Aero for an unspecified number of SpyLite mini UAV systems in April 2011. BlueBird Aero received a contract from an undisclosed African country for SpyLite UAVs in January 2013. The Chilean Army placed an order for six SpyLite UAVs in April 2013.
+
+SpyLite is an electrically-powered UAV system designed for covert, over-the-hill and ISTAR operations. The UAV delivers reliable performance in open areas as well as urban warfare scenarios. The compact UAV system measures 270cm from wing to wing. It weighs approximately 9kg and can carry a payload of up to 1.3kg.
+
+Unmanned aerial vehicle payloads
+The SpyLite UAV can carry a range of payloads, including Controp HD-STAMP, Controp M-STAMP, Controp UZ-Stamp and Photogrammetric payloads. The Controp HD-STAMP integrates a charge-coupled device (CCD) camera, providing high resolution images in daylight applications.
+
+The Controp M-STAMP payload includes a day camera, uncooled infrared (IR) camera with dual FOV (Field of Vision) and a laser pointer. The gimbaled and gyro stabilized payload can obtain high quality imagery in both day and night conditions. The Controp UZ-Stamp integrates a night uncooled IR thermal camera offering continuous zoom.
+
+SpyLite relays GPS-marked imagery by combining stabilised CCD and IR payloads, with advanced ground exploitation software, and provides reliable information to the user for better situational awareness. The sensor software enables the system to follow anything on the ground as designated by the operator.
+
+The system provides users with real time video or tactical mapping of the area under surveillance. The SpyLite supports forces in real-time automatic targeting and tracking, motion detection and battle damage assessment.
+
+The SpyLite Photogrammetric payload includes a high resolution Canon EOS-M 18MP professional camera. The gimbaled and gyro stabilised camera is controlled by autopilot. The camera can collect images while transmitting real-time video to the ground control station (GCS). The images are stored in the inbuilt removable memory.
+
+Ground control station (GCS) for Israel’s SpyLite UAV
+The SpyLite is controlled by a unified ground control station (GCS). The control station is commonly used for all UAVs of Bluebird as all of them share the same data links and command and control protocols.
+
+The GCS for SpyLite is very portable and can be carried by a single operator in a bag. The GCS consists of an integrated control unit (ICU), ground data terminal (GDT) and emergency control unit (ECU).
+
+The ICU is a rough compact control unit including control switches and personal computer (PC). The PC displays real-time video and a moving tactical map, while allowing the mission control with the help of external switches and stick. The external switches on the ICU are used in emergencies and in the event of mission termination. SpyLite can be completely controlled by the ICU without using the joystick.
+
+The ground data terminal (GDT) can be installed on a 2m tripod. The GDT is equipped with antenna revolving mechanism. The SpyLite can also controlled by using the ECU in case of an emergency.
+
+UAV remote video terminal (RVT) and performance
+The remote video terminal (RVT) provides UAV telemetry and displays real time imagery received from the UAV. It enhances the situational awareness of the front line forces and eliminates the continuous communication between field commanders and GCS staff for status updates. The front line forces can carry the terminal with them, while the flight control is carried out from the GCS.
+
+The SpyLite UAV is a stable platform for intelligence, surveillance and reconnaissance (ISR) as it is fully automatic from the launch to recovery. It can be launched in any area, as the system is equipped with parachute and an airbag for safe recovery.
+
+The SpyLite UAV can fly in almost any kind of weather, including strong winds of up to 75km/h (40kt) and in cloudy and rainy weathers.
+
+The SpyLite can perform operations lasting for four hours and can be controlled over a range of 50km. The range can be extended up to 80km. The system can be modified to support enhanced mission durations just by changing the battery and wing tips.
+
+The SpyLite UAV can reach a maximum altitude of 10,000m and stay safe from ground fire. It should, however, be operated at below 1,000m for best results. If the system runs out of battery, it takes just 15 minutes to land it, replace the battery and fly again into the air. The SpyLite can also be operated in maritime environment and can be launched from a boat.
+
+The SpyLite system can be used for secret operations as it features low acoustic and visual signatures. It is undetectable at 500m altitude.
+
+This equipment has proliferated into the following countries: Israel.
+
+Here is Variants information for the Spylite (Skylite) Israeli Mini Unmanned Aerial Vehicle (UAV):
+The SkyLite A is Briefly called SkyLark, the SkyLite A was a vehicle or shoulder canister launched UAV for use in tactical units..
+The SkyLite B is Variant upgrade has improved cameras, larger wings, longer endurance, and 1.5-kg added weight. Launched by catapult..
+
+Here is Dimensions information for the Spylite (Skylite) Israeli Mini Unmanned Aerial Vehicle (UAV) of the System:
+The Length  is 1.1.
+The Length, Wing Span  is 2.4.
+The Width, Body  is 0.25.
+
+Here is System Composition information for the Spylite (Skylite) Israeli Mini Unmanned Aerial Vehicle (UAV) of the System:
+The Ground Control Station (GCS) is 1, hand-held, ruggedized.
+The Quantity, Transport Cases is 0.0.
+The Quantity, UAVs is 2 to 3.
+
+Here is Performance information for the Spylite (Skylite) Israeli Mini Unmanned Aerial Vehicle (UAV):
+The Altitude, Maximum  is 0.3048.
+The Ceiling, Operating  is 3000.0.
+The Endurance  is 4.0.
+The Range  is 50.0.
+The Speed , Cruising  is 70-100.
+
+Here is Launch and Recovery information for the Spylite (Skylite) Israeli Mini Unmanned Aerial Vehicle (UAV):
+The Launch Method is 4-kg catapult launch.
+The Recovery Method is Combined parachute and inflatable bag.
+
+Here is Payload 1 information for the Spylite (Skylite) Israeli Mini Unmanned Aerial Vehicle (UAV) of the Payload:
+The Description is Triple axis, gimballed, gyro-stabilized.
+The Type is Combined sensor.
+
+Here is Payload 2 information for the Spylite (Skylite) Israeli Mini Unmanned Aerial Vehicle (UAV) of the Payload:
+The Description is Provides day/night optical zoom lens with auto-tracker, infrared dual field of lens with auto zoom, and laser pointer.
+The Type is Single sensor.
+
+Here is Survivability/Countermeasures information for the Spylite (Skylite) Israeli Mini Unmanned Aerial Vehicle (UAV) of the Payload:
+The Survivability/Countermeasures is Lightweight, composite structure. Small profile with low radar signature and very quiet engine. Excellent flight dynamics for use in all climates and severe weather, with winds of up to 35 knots, and gusts of up to 55..
+

@@ -1,0 +1,76 @@
+This document describes the RT-2000 (Thunderbolt-2000) Taiwanese 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Multiple Rocket Launcher (MRL).
+
+The Thunderbolt-2000 is a wheeled MLRS system used by the Republic of China (Taiwan) Army. It was created with the intention of attacking enemy forces when disembarking from sea.
+
+The prototype of the Thunderbolt-2000 weapon system was originally placed on the chassis of a M977 Heavy Expanded Mobility Tactical Truck. The production model utilizes MAN HX81 8x8 wheeled trucks instead, with the first order batch including 57 launchers and 54 ammunition carriers/re-loaders or local production of the same version. The LT-2000 was scheduled to enter service with all 3 main army groups in Taiwan from 2010, with each army group's artillery corps receiving 1 battalion of RT/LT-2000, featuring 3 companies/batteries with 6 RT/LT-2000 launchers each. The original CSIST LT-2000 prototype battery is in service with Kinmen Command, deployed there since mid-2000.
+
+Munitions: 
+
+The LT/RT-2000 uses three types of munitions: Mk15 (60 rounds, 3 pods of 20 round each, 15 km range), Mk30 (27 rounds, 3 pods of 9 rounds each, 30 km range) and Mk45 (12 rounds, 2 pods of 6 rounds each, 45 km range). While the Mk15 is the 117 mm rockets used by the Kung Feng VI that carries 6,400 6.4mm size steel balls, the Mk30 rocket is a bit larger than the Mk15 at 180mm caliber and can carry either 267 rounds of M77 Dual Purpose Improved Conventional Munitions (DPICM) bomblets or 18,300 8mm size steel balls with range of 30 km. And Mk45 larger than the Mk30 at 227mm caliber as it can carry either 518 rounds of M77 bomblets or 25,000 8mm steel balls with range of 45 km. Other types of munitions also being developed by CSIST/ROC (Taiwan) Army, including FAE bomblets.
+
+This equipment has proliferated into the following countries: Taiwan.
+
+Here is System information for the RT-2000 (Thunderbolt-2000) Taiwanese 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Multiple Rocket Launcher (MRL):
+The Alternative Designation is RT-2000; Thunderbolt-2000.
+The Type is Taiwanese 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Multiple Rocket Launcher (MRL).
+The Manufacturer is Oshkosh Corporation.
+The Configuration is 8x8.
+The Chassis is M977 HEMTT Heavy Expanded Mobility Tactical Truck (HEMTT).
+The Crew is 2.
+The Payload Capacity is 9,979 kg.
+
+Here is Dimensions information for the RT-2000 (Thunderbolt-2000) Taiwanese 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Multiple Rocket Launcher (MRL):
+The Length is 10.17 m.
+The Width is 2.44 m.
+The Height is 2.57 m.
+The Distance Between Equalizer Pivots is 5.33 m.
+The Distance Between Axles, 1st to 2nd is 1.52 m.
+The Distance Between Axles, 2nd to 3rd is 3.81 m.
+The Distance Between Axles, 3rd to 4th is 1.52 m.
+The Weight is 17,191 kg.
+
+Here is Automotive information for the RT-2000 (Thunderbolt-2000) Taiwanese 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Multiple Rocket Launcher (MRL):
+The Engine Name is 1 x Detroit Diesel 8V-92TA.
+The Engine Type is 736-cu in(12.06-liter) liquid-cooled, 2-stroke, V-8 diesel.
+The Engine Power is 445 hp at 2,100 rpm.
+The Power-to-Weight Ratio is 16.18 hp/metric ton.
+The Transmission is Allison HT740D automatic transmission with torque converter 4 forward/1 reverse gears.
+The Suspension is 8 x 8 (8 wheels driving, 4-wheel steering); Hendrickson leaf spring w/steel saddle, equalizing beams, and 10-in (254-mm) vertical travel on front and rear; RT340 model rear springs on all but M985 (RT380)  and M984A1 (RT500).
+The Maximum Speed is 88 km/h.
+The Range is 483 km; w/full load at 54 km/h.
+The Fuel Capacity is 589 liters.
+The Tire Size is 16.00R20.
+The Gradient is 60 percent.
+The Side Slope is 30 percent.
+The Fording Depth is 1.23 m.
+The Payload Capacity is 9,979 kg.
+
+Here is Mk 15 (Option 1) information for the RT-2000 (Thunderbolt-2000) Taiwanese 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Name is Mk 15.
+The Type is Multiple Rocket Launcher.
+The Caliber is 117.
+The Basic Load is 60 Rounds.
+The Effective Fire is 15 km.
+
+Here is Mk 30 (Option 2) information for the RT-2000 (Thunderbolt-2000) Taiwanese 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Name is Mk 30.
+The Type is Multiple Rocket Launcher.
+The Caliber is 180.
+The Warhead Types is HE; AP/AM cluster warhead.
+The Basic Load is 30 Rounds.
+The Effective Fire is 30 km.
+
+Here is Mk 45 (Option 3) information for the RT-2000 (Thunderbolt-2000) Taiwanese 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Name is Mk 45.
+The Type is Multiple Rocket Launcher.
+The Caliber is 227.
+The Basic Load is 12 Rounds.
+The Effective Fire is 45 km.
+
+Here is Protection information for the RT-2000 (Thunderbolt-2000) Taiwanese 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Multiple Rocket Launcher (MRL):
+The Armor is A-kit/B-kit; U.S. Army Long Term Armor Strategy (LTAS) compliant.
+The Applique Armor is Available.
+The Active Protection System is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

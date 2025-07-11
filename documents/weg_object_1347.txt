@@ -1,0 +1,64 @@
+This document describes the 9S52 Polyana-D4 ASU Russian 6x6 Air Defense Command and Control Vehicle.
+
+9S52 Polyana-D4 ASU is a Soviet/Russian automated command and control system for air defense troops. May act as an upper-level command post (CP) of the SAM brigade including S-300V as well as the 9K37 Buk complex. And also other means, including aircraft.
+
+
+Developed by Scientific Research Institute of the automatization technics of Minradioprom. Chief designer - G.A.Burlakov. Development works started under the Decisions of the Special Commission of the Presidium of the USSR Soviet Ministry on military-industrial questions dated June 29, 1977, and August 27, 1981.
+
+Mass production of the system was organized at the Minsk Electromechanical Plant (currently GNPO Agat), but later transferred to Penza, the former Minradioprom factory.
+
+In service since 1986.
+
+Chassis: Ural 375D
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the 9S52 Polyana-D4 ASU Russian 6x6 Air Defense Command and Control Vehicle:
+The 9S52M D4M Polyana system is produced by Belarusian GNPO Agat, also developers of the Buk-MB modernisation of Buk-M1..
+
+Here is Dimensions (Chassis: Ural 375D) information for the 9S52 Polyana-D4 ASU Russian 6x6 Air Defense Command and Control Vehicle of the System:
+The Height, Overall  is 2.68.
+The Length, Overall  is 7.36.
+The Width, Overall  is 2.67.
+The Weight, Gross Vehicle is 13.2.
+
+Here is Dimensions (Chassis: Ural 375D) information for the 9S52 Polyana-D4 ASU Russian 6x6 Air Defense Command and Control Vehicle of the Cargo Space (Chassis: Ural 375D):
+The Length  is 3.9.
+The Width  is 2.43.
+The Height  is 0.872.
+The Cargo Bed Area  is 9.5.
+
+Here is Automotive (Chassis: Ural 375D) information for the 9S52 Polyana-D4 ASU Russian 6x6 Air Defense Command and Control Vehicle:
+The Engine Name is ZiL-375 Diesel.
+The Engine Type is V8, 180 hp, Gasoline.
+The Engine Power is 180.
+The Cooling System is Liquid.
+The Fuel Capacity , Aux  is 60.0.
+The Fuel Capacity, Main Tank is 300.0.
+The Maximum Road Speed is 75.
+The Maximum Range is 750.
+The Towing Capability, Off-Highway is 5000.0.
+The Towing Capability, Off-Highway is 10000.0.
+The Gradient is 65.
+The Side Slope is 40.
+The Vertical Step is 0.8.
+The Trench is 0.7.
+The Fording is 1.2.
+
+Here is Command and Control, Communication Equipment information for the 9S52 Polyana-D4 ASU Russian 6x6 Air Defense Command and Control Vehicle:
+The Number of Interfaces with Superior CPs is 1.
+The Number of Interfaces with Radar Data Sources is up to 3.
+The Number of Air Targets Tracked Simultaneously is up to 250.
+The Automated Workstation in CCP is 8.
+The Automated Workstation in CSV is 3.
+The Data Transfer Channels in CCP is 16.
+The Data Transfer Channels in CSV is 4.
+The Continuous Operation Time is not less than 72 hours.
+The Into/Out-of-Action Time is Not more than 35 min.
+The Radar Data Gathering and Processing is Yes.
+The Air Situation Monitoring is Yes.
+The Ground Situation Data is Yes, receiving, gathering, and processing.
+The Automated Data Registration and Recording is Yes.
+The Ciphering Equipment Capable is Yes.
+The Operating Temperature is -40 deg C to +50 deg C.
+

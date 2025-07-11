@@ -1,0 +1,218 @@
+This document describes the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV).
+
+The BMP-1P is an upgraded variant of the BMP-1 "A variety of upgrades are available: improved tracks, spall liners, air conditioning, smoke generator launchers, laser warning receivers, & more powerful engines. French SNPE ERA & other kits are available but are hazardous during dismounted operations. Additional armor may jeopardize amphibious capability. Kornet ATGM launcher can be mounted on other BMP-1 variants. Russian AGS-17 & AG-30 30-mm automatic grenade launchers are also available. A key limitation for BMP-1s is the 1-man turret, but BMP-1S can be upgraded to 2-man turrets."
+
+This equipment has proliferated into the following countries: Cuba, Russian Federation.
+
+Here is Variants information for the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV):
+The BMP-1 is BMP-1 is the first mass produced, tracked IFV of the erstwhile USSR. It is the first variant of the now obsolete BMP model designed in 1966. Considered to be the world's first true IFV, it is also a radical departure from the armoured vehicle designs of the USSR since the Second World War. With over 55,000 BMP-1s and variants having been produced, it is numerically one of the most significant armoured vehicles produced across the world..
+The BMP-1 Ambulance (Iraq) is Evacuate wounded.
+The BMP-1M is Kliver turret & drop down gate.
+The Type 86/WZ-501 (China) is Chinese BMP-1 IFV.
+The BMP-1 KShM (Command Vehicle) is Communication equipment similar to BMD KShM variant.
+The BMP-1G ICV is AT-4/AT-5 ATGM & 30-mm AGS-17 AGL.
+The BMP-1K (BMP 1974) is Command variant with additional radios, sealed right-side firing ports, & antenna.
+The BMP-1 with Soviet modifications in Afghanistan is Applique armor, AT-4 ATGM mount; some with AGS-17 30-mm AGL.
+The BMP-IRM (“Zhuk”-Beetle) is Engineer recon vehicle with front mine claws; 1 MG only.
+The BMP-1 with mine plow is KMT-8 or KMT-10 mine-clearing plows attached.
+The MP-31 is Modernized command vehicle.
+The BMP-R (BMP M1976) is Recon vehicle with larger rear hatches & 2-man turret.
+The BRM-1/BRM-1K Reconnaissance is BMP-R with a GS-12 Tall Mike radar ILO AT-3 Sagger (see Chapter 1).
+The BREM-2 is Light recovery vehicle w/crane.
+The BMP-40 is Larger turret; carries 6 soldiers, prototype model only.
+The PRP-3/PRP-4 (Radar) is Artillery recon vehicle with 7.62 MG ILO 73-mm cannon.
+The VP-90 (Czech Republic) is Recon with OT-64 turret; 14.5-mm & 7.62-mm MGs.
+The SVO Mineclearer (Czech Republic) is Turretless BMP-1 with 24 245-mm explosive rockets.
+The BMP-PP0 is Training variant w/o turret.
+The Snezka (Czech Republic) is Battlefield surveillance vehicle.
+The PRAM-S (Czech Republic) is SP 120-mm mortar carrier.
+The BMP-1 Finnish variant is East German vehicles with autoloaders removed.
+The BMP-1 with Poyaud engine (Egypt) is 150 with replaced 10.47-liter Poyaud  6-cylinder engine.
+The BMP-1 with applique armor (Iraq) is Armor added to resist 12.7-mm & 14.5-mm armor-piercing shells at 200 m.
+The BMP-1A1 Ost is In 1990, Germany created more space (6 passengers) & removed the automatic loader.
+The BMP-1 with CERAWA armor (Poland) is CERAWA ERA on the glacis, hull, & turret front.
+The OT-90 (Czech Republic) is OT-64 1-man turret with  14.5-mm & 7.62-mm machine guns.
+The BPzV (Czech Republic) is Recon with Tall Mike radar.
+The DP-90 (Czech Republic) is Recon with Tall Mike ra0T-90 maintenance variant adar.
+The MU-90 (Czech Republic) is Turretless mine-laying OT-90.
+The MLI-84 (Romania) is Larger & heavier w/ 12.7-mm machine gun.
+The Pansarbandvgn 501 (Pbv 501 (Sweden) is East German vehicles to mechanized Swedish infantry.
+The BREM-4 recovery vehicle is No turret & crane  (Czech version is the VPV).
+The BRM-23 (Bulgaria) is Recon with 23-mm cannon.
+The 82-mm SP Automatic mortar (Hungary) is Vasilyek mortar ILO troop compartment.
+
+Here is System information for the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Development Designation is Objekt 765 Sp4, Sp5.
+The NATO designation is BMP Model 1981, BMP Model 1979/2.
+The Manufacturer is Kurganmashzavod (Soviet Union)[.
+The Description is IFV with exit doors in the rear with space for 8 soldiers; 4 firing ports on each side; 1 firing port in left rear door.
+The Crew is 3.
+The Passengers is 7.
+
+Here is Dimensions information for the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Length is 6.74.
+The Width is 2.94.
+The Height is 2.15.
+The Weight, Combat is 13.4.
+
+Here is Automotive information for the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is UTD-23 (Upgraded Engine).
+The Engine Type is Diesel.
+The Engine Power is 360.
+The Fuel Capacity is 462.
+The Cruising Range is 600.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is 45.
+The Speed, Maximum Swim is 7.
+The Gradient is 60.
+The Trench is 0.7.
+The Side Slope is 30.
+The Vertical Step is 2.2.
+The Fording Depth is Amphibious.
+
+Here is Communications information for the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Type is R-123M Radio.
+The Radio Range is 16-55.
+
+Here is System information for the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Name is 2A28 Grom.
+The Type is ow pressure smooth bore semi-automatic gun.
+The Caliber is 73.
+The In Service is 1966 - Present.
+The Manufacturer is KBP.
+The Proliferation is INA.
+The Weight is 115.
+The Length is 1,195.
+The Width is 218.
+The Height is 322.
+The Barrels is 1.
+The Maximum Elevation is +33.
+The Minimum Elevation is -4.
+The Traverse Range is 40.
+The Traverse Left is 20.
+The Traverse Right is 20.
+The Rate of Fire is 8.
+The Maximum Firing Range is 4,500.
+The Sights is 1PN22M, 1PN22M2[.
+The Loader Type is Autoloader.
+
+Here is Ammunition (Option 1) information for the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Name is PG-15V.
+The Type is HEAT.
+The Caliber is 73.
+The Muzzle Velocity is 665.
+The Maximum Firing Range is 4,500.
+The Shell Variants is PG-15V (HEAT), OG-15V (HE-FRAG), PG-15VN (HEAT-DP).
+The Basic Load is 40.
+
+Here is 9M113 Konkurs (AT-5 Spandrel), SACLOS Wire-Guided Anti-Tank Guided Missile (ATGM) information for the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV) of the Wire-Guided Anti-Tank Guided Missile (ATGM):
+The Type is SACLOS Wire-Guided Anti-Tank Guided Missile (ATGM).
+The Manufacturer is Tula Machinery Design Bureau (Tula KBP) – Tulsky Oruzheiny Zavod.
+The In Service is 1974-Present.
+The Proliferation is Algeria– used by mechanized infantry units Armenia Azerbaijan Egypt – mounted on Fahd armoured personnel carriers purchased in 1990s Belarus The launcher is been locally produced and upgraded. Bulgaria Croatia Cuba – not confirmed Czech Republic Eritrea[ Finland – known as PstOhj 82M, fired from 9P135M-1 launchers (withdrawn from service) Georgia Guinea Hungary Indonesia – mounted on BVP-2 infantry fighting vehicles operated by the marine corps India – 15,000 Konkurs-M, ordered in 2008 for Rs 1,380-crore. Another 10,000 Konkurs-M ordered for US$250 million in 2012. A new contract was signed in 2019 for USD 110 mln. Iran– produced domestically as Tosan-1 Iraq Ivory Coast (reported) Kazakhstan Kyrgyzstan Morocco[ Mongolia Moldova– used on BRDM-2 North Korea – produced domestically Pakistan – Used on Viper infantry fighting vehicle Peru Romania Russia – about 300 Konkurs-M complexes delivered annually in the last years (2014) Slovakia Turkmenistan Turkey Syria Ukraine Houthis – Tosan version.
+The Variants is 9M14M, 9M14P1, Malyutka-2, Malyutka-2F.
+The Weight (Missile) is 14.6.
+The Weight (9P135 Launching Post) is 22.5.
+The Length is 1,150.
+The Diameter is 135.
+The Warhead Weight is 2.7.
+The Detonation Mechanism is Contract.
+The Engine is Solid-fuel rocket.
+The Wingspan is 468.
+The Maximum Operational Range is 4.
+The Minimum Operational Range is 70.
+The Speed is 208.
+The Guidance system is Wire-guided SACLOS.
+The Steering system is Two control surfaces.
+The Launch platform is Individual, vehicle.
+The Penetration is 600mm of RHA.
+The Basic Load is 4.
+
+Here is 9K111 Fagot  SACLOS Wire-Guided Anti-Tank Missile (ATGM) information for the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV) of the Wire-Guided Anti-Tank Guided Missile (ATGM):
+The Type is SACLOS Wire-Guided Anti-Tank Missile (ATGM).
+The Manufacturer is Tula Machinery Design Bureau (Tula KBP).
+The In Service is 1970-present.
+The Launcher Type is 9P135 launching post.
+The Missile Weight is 12.5.
+The 9P135 Launching Post Weight is 22.5.
+The Length is 1,100.
+The Diameter is 120.
+The Action is 400 mm versus RHA or 200 mm towards armour inclined at 60°.
+The Rate of Fire is 3.
+The Muzzle Velocity (At Launch) is 80.
+The Muzzle Velocity (In Flight) is 186.
+The Effective Firing Range is 10-2,500.
+The Warhead Type is HEAT.
+The Warhead Weight is 1.7.
+The Guidance system is SACLOS wire-guided missile.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Elevation is +20.
+The Minimum Elevation is -20.
+The Basic Load is 4.
+
+Here is Ammunition information for the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV) of the Grenade Launcher:
+The Name is VOG-17M.
+The Type is 30mm Grenade.
+The Cartridge is 30×29mm grenade.
+The Muzzle Velocity is 185.
+The Warhead is high explosive fragmentation warhead..
+The Effective Firing Range is 800-1,700.
+The Basic Load is 40.
+
+Here is System information for the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 1 x 7.62 mm PKT (Kalashnikov's Machine Gun).
+The Type is Machine Gun.
+The Caliber is 7.62.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Max Rate of Fire is 650.
+The Effective Rate of Fire is 250-300.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+The Note is The 7.62 PKT can be controlled remotely and is slaved to the main gun,.
+
+Here is Ammunition information for the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 57-N-323S.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR km.
+The Muzzle Velocity is 855.
+The Accuracy of fire at 300 meters is 90.
+The Basic Load is 950.
+
+Here is Fire Control information for the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Vehicle Commander is Yes, TKN-3B day night sight with variable magnification.
+The Thermal Gunner is Yes, TVNE-1PA active IR night vision metascope.
+The Main Gun Stabilization is No.
+The Gyrocompass is Yes, GPK-59 electrical gyrocompass.
+The Firing Ports is 9.
+The Day Periscopes is 4.
+The Search Light is OU-3GK IR search light.
+The Search Light Range is 400.
+
+Here is Protection information for the BMP-1P Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Armor (turret front) is 19-23.
+The Applique Armor is Kovriki turret armour.
+The Explosive Reactive Armor is Available.
+The Active Protection System is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is GO-27 radioactive and chemical agent detector.
+The Chemical Decontamination Kits is TDP chemical decontamination kits.
+The Smoke Equipment is Yes, a upgraded 81mm 902V "Tucha" smoke grenade launcher.
+The Survivability Equipment is INA.
+The Grenade Launcher is Yes,  RPG-7 light grenade launcher with grenades.
+The Scavenger System is Yes.
+The Mine Plough is Yes,  KMT-10 plough-type mine-clearing system.
+The Fire-Extinguisher System is Yes.
+

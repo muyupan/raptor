@@ -1,0 +1,80 @@
+This document describes the ZBL-08 (Type 08) Chinese 8x8 Infantry Fighting Vehicle (IFV).
+
+The ZBL-08 (Type 08) Chinese 8x8 Infantry Fighting Vehicle (IFV) is a family of eight-wheeled amphibious, modular armored vehicles developed by Norinco for infantry fire support, battlefield logistics, and quick reaction operations. It is a recent People's Republic of China-produced Infantry fighting vehicle for the People's Liberation Army Ground Force and People's Liberation Army Marine Corps.
+
+ZBL-08 is the designation for the Infantry Fighting variant in the Type 08 vehicle family. The modular design claims to be able to field a variety of different models including an APC model, assault gun, an Engineering model, a 122 mm self-propelled howitzer model, a 155 mm self-propelled howitzer model, an air defense model, a self-propelled mortar model, a reconnaissance model, a command vehicle model and much more.
+
+This equipment has proliferated into the following countries: China, Gabon, Nigeria, Thailand, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the ZBL-08 (Type 08) Chinese 8x8 Infantry Fighting Vehicle (IFV):
+The ZBL-08 (Type 08) Infantry Fighting Vehicle is Original IFV variant with a 30 mm turret based on Shipunov 2A72. It features a crew cabin in the back for infantry transportation. HJ-73C missiles can be optionally mounted on each side of the turret..
+The ZSL-08 (Type 08) Armoured Personal Carrier is Based on IFV variant but the modified crew cabin has a higher ceiling. The Armored Personnel Carrier can be armed either with a manually controlled, armor-plate protected 12.7 machine gun or a remote-controlled weapon station..
+The Type 08 Armored Reconnaissance Vehicle is Armed with a 30 mm turret, the vehicle has a chassis that is similar to the IFV variant. The Armored Reconnaissance Vehicle will advance before IFVs and assault guns for intelligence gathering. On-board high definition electro-optical cameras, thermal imaging system, and laser designator can transmit battlefield and target information for other data-linked vehicles for target identification and designation. The Armored Reconnaissance Vehicle can provide better situational awareness for the infantry. The main radar and electro-optical sight are mounted on a retractable mast. There is also a version of the vehicle that does not have the 30 mm turret and uses the chassis of the APC variant and has more cameras onboard but lacks self-defense weapons..
+The PLL-05 Mortar Carrier is Based on IFV variant. It is armed with a 120mm dual purpose mortar..
+The PLL-09 (Type 09) Modular Self-propelled Howitzer system is Based on IFV variant. Can be armed with either a 122mm or 155mm howitzer, to provide indirect fire support for infantry..
+The Type 09 Anti-Air Reconnaissance Vehicle is Armed with a single barrel 35mm revolving auto cannon, the Air Defense variant has a unique chassis and is equipped with thermal-tracking sight, targeting and surveillance radars. The data collected by the radars can be data-linked back to command and armored reconnaissance vehicle..
+The ZTL-11 (Type) 11 Assault Gun is Armed with a 105mm rifled gun, coaxial machine gun, and 12.7mm commander machine gun, the Assault gun is based on the IFV chassis and can provide direct fire support for infantry battalions and engage enemy light vehicles and stationary targets such as bunkers..
+The Type 08 Command Vehicle is With a modified chassis that has a much higher ceiling than the APC variant, the crew cabin provides a more spacious environment for commanders and staff. Equipped with a satellite communication suite and battle management system, the command vehicle can move with the mechanized infantry for better battlefield management..
+The Type 08 Communication Vehicle is Based on the Command Vehicle variant. It has additional communication equipment on board for the infantry battalion..
+The Type 08 Armored Ambulance is Based on the Command Vehicle variant. Featuring a modified crew cabin with medical equipment, the Armored Ambulance variant has two Red Cross markers on each side of the vehicle body..
+The Type 08 Hazardous Environment Reconnaissance Vehicle is Based on the Command Vehicle variant. Equipped with sensors and equipment for hazardous detection involving nuclear, biological, and chemical environments..
+The Type 08 Electronic Warfare Vehicle is Based on the Command Vehicle variant but the satellite communication suite on top of the vehicle roof is replaced by a rectangular-shaped radar with several small radar panels for Electronic Support Measures..
+The Type 08 Assault Breacher is Based on the IFV variant. It is equipped with a mine plow and other mine detection devices on board..
+The Type 08 Mobile Bridge Builder is Based on the IFV variant. It is equipped with a vehicle-launched bridge on top of the hull..
+The Type 08 Armored Recovery Vehicle is Based on the IFV variant, the turret is replaced by a crane for emergency vehicle service..
+The Type 08 Armored Cargo Vehicle is Based on the APC variant, the Armored Cargo Vehicle has more bulletproof windows on the vehicle body..
+The Type 08 Engineering Vehicle is The vehicle has a unique chassis. It is equipped with tools for road paving and obstacle neutralization. A bulldozer blade is fitted on the front of the vehicle and an excavator bucket is mounted on the front end of the roof. Waterline marks can also be found on the side of the vehicle's body..
+The VN-1 is Export variant based on Type 08 IFV. The VN-1C is armed with a 30 mm remote weapons station and an HJ-73 anti-tank missile..
+
+Here is System information for the ZBL-08 (Type 08) Chinese 8x8 Infantry Fighting Vehicle (IFV):
+The Alternative Designation is ZBL-08; Type 08.
+The Type is Infantry Fighting Vehicle (IFV).
+The Family is Type 08.
+The Configuration is 8x8.
+The Crew is 2.
+The Passenger Capacity is 7-10.
+
+Here is Dimensions information for the ZBL-08 (Type 08) Chinese 8x8 Infantry Fighting Vehicle (IFV):
+The Length is 8 m.
+The Width is 3 m.
+The Height is 2.1 m, without turret.
+The Weight, Combat is 15 to 25 tons.
+The Ground Pressure is INA.
+
+Here is Automotive information for the ZBL-08 (Type 08) Chinese 8x8 Infantry Fighting Vehicle (IFV):
+The Engine Name is Deutz BF6M1015C.
+The Engine Type is Diesel.
+The Engine Power is 440 hp.
+The Transmission is semi-automatic.
+The Suspension is 8×8 wheeled.
+The Maximum Speed is 100 km/h.
+The Maximum Range is 800 km.
+The Fording is INA.
+
+Here is Main Gun information for the ZBL-08 (Type 08) Chinese 8x8 Infantry Fighting Vehicle (IFV):
+The Note is The ZBL-08 (Type 08) Chinese 8x8 Infantry Fighting Vehicle (IFV) is equipped with ZPT-99 30 mm autocannon..
+
+Here is Coaxial Weapon System information for the ZBL-08 (Type 08) Chinese 8x8 Infantry Fighting Vehicle (IFV):
+The Note is 1 x Type 86 7.62mm  General-Purpose Machine Gun..
+
+Here is Anti-Tank Guided Missile (ATGM) information for the ZBL-08 (Type 08) Chinese 8x8 Infantry Fighting Vehicle (IFV):
+The Note is 2 x HJ-73C ATGM Rail launcher are mounted on both sides of the turret..
+
+Here is Fire Control information for the ZBL-08 (Type 08) Chinese 8x8 Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes.
+
+Here is Protection information for the ZBL-08 (Type 08) Chinese 8x8 Infantry Fighting Vehicle (IFV):
+The Hull Armor is Protection against small arms and shell splinters..
+The Turret Armor is Protection against small arms and shell splinters..
+The Applique Armor is Available.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, 6 x Smoke Grenade Dischargers.
+

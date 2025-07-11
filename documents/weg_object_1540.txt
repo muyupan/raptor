@@ -1,0 +1,74 @@
+This document describes the Alligator Class (Project 1171 Class) Russian Large Landing Ship.
+
+The Alligator Class (Project 1171 Class) Russian Large Landing Ship is a beachable, general-purpose LST-type design with bow and stern ramps for unloading vehicles. Produced in at least four different types beginning in 1964, there are numerous variations in detail between units. A total of 14 vessels were completed between 1964 and 1975
+
+Large Landing Ship BDK-69 was built by Yantar Zavod, Kaliningrad. Laid down 30 August 1967 (yard No.296), launched 29 February 1968, commissioned 05 December 1968.
+
+This equipment has proliferated into the following countries: Russian Federation, Ukraine.
+
+Here is Variants information for the Alligator Class (Project 1171 Class) Russian Large Landing Ship:
+The BDK-104 NIKOLAY VILKOV is Commissioned: 1974
+Status: Reserve.
+The BDK-69  ORSK is Commissioned: 1968
+Status: Active.
+The BDK-65  SARATOV is Commissioned: 1966
+Status: Active.
+The BDK-... NIKOLAY FILCHENKOV is Commissioned: 1975
+Status: Active.
+
+Here is System information for the Alligator Class (Project 1171 Class) Russian Large Landing Ship:
+The Alternative Designation is Alligator Class; Project 1171 Class.
+The Type is Large Landing Ship.
+The Builder is Yantar Zavod, Kaliningrad, Russia.
+The Crew is 77 (6 officers, 9 warrant-officers).
+The Troops Capacity is 300.
+The Cargo Capacity is Groups 1, 2 – 20 main battle tanks and 313 troops or 47 BTR and 313 troops or 52 army trucks and 313 troops, groups 3, 4 - 20main battle tanks and 440 troops or 47 BTR and 440 troops or 52 army trucks and 440 troops or 1000 tons of cargo.
+
+Here is Dimensions information for the Alligator Class (Project 1171 Class) Russian Large Landing Ship:
+The Length is 113.10 m.
+The Beam is 15.60 m.
+The Draft is 6.16 m.
+The Displacement, Standard is 3,400 tons.
+The Displacement, Full Load is 4,360 tons.
+
+Here is Propulsion System information for the Alligator Class (Project 1171 Class) Russian Large Landing Ship:
+The Engine Name is 2 x Type 58A.
+The Engine Type is Diesel.
+The Engine Power is 9,000 total bhp.
+The Maximum Range is 9,000 nm at 16 knots; 14,000 nm at 10 knots.
+The Maximum Speed is 17 knots.
+
+Here is Gun Weapon System #1 information for the Alligator Class (Project 1171 Class) Russian Large Landing Ship of the Gun Weapon Systems:
+The Name is 1 x AK-257 57mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 57 mm.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Alligator Class (Project 1171 Class) Russian Large Landing Ship of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 57 mm.
+The Cartridge is 57x348mmSR.
+The Basic Load is 1,200 Rounds.
+
+Here is Missile #1 information for the Alligator Class (Project 1171 Class) Russian Large Landing Ship of the Missile Weapon System:
+The Name is 9M36 (SA-14 Gremlin) Missiles.
+The Type is Surface-to-Air Missile.
+The Length is 1.44 m.
+The Diameter is 72 mm.
+The Wingspan is 0.3 m.
+The Flight Altitude is 50–1500 m.
+The Maximum Speed is 430 m/s.
+The Guidance System is Proportional navigation logic.
+The Maximum Firing Range is 3,700 m.
+The Basic Load is 160 x 9M36 (SA-14 Gremlin) Missiles.
+
+Here is Fire Control System information for the Alligator Class (Project 1171 Class) Russian Large Landing Ship:
+The Surveillance / Rocket FCS is 1 x Squeeze Box multi-sensor surveillance/rocket fire control system..
+
+Here is Radar Systems information for the Alligator Class (Project 1171 Class) Russian Large Landing Ship:
+The Navigation Radar is 2 x Don-2 navigation radars and/or 2 x Mius (Spin Trough) navigation..
+
+Here is Protection information for the Alligator Class (Project 1171 Class) Russian Large Landing Ship:
+The Hull Armor is The ALLIGATOR class has a superstructure-aft configuration with bow and stern ramps for unloading vehicles..
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

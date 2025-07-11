@@ -1,0 +1,214 @@
+This document describes the T-72 Russian Main Battle Tank (MBT).
+
+Hezbollah Proliferation. The T-72 is a family of Soviet main battle tanks that first entered production in 1971. About 20,000 T-72 tanks were built, making it one of the most widely produced post-World War II tanks, second only to the T-54/55 family. The T-72A version introduced in 1979 is considered a second-generation main battle tank. It was widely exported and saw service in 40 countries and in numerous conflicts. The T-72B3 version introduced in 2010 is considered a third-generation main battle tank.
+
+The T-72 shares many design features with other tank designs of Soviet origin. Some of these are viewed as deficiencies in straight comparison to NATO tanks, but most are a product of the way these tanks were envisioned to be employed, based on the Soviets' practical experiences in World War II.
+
+This equipment has proliferated into the following countries: Algeria, Angola, Armenia, Azerbaijan, Belarus, Bulgaria, Canada, China, Congo, Croatia, Czech Republic, Ethiopia, Finland, Georgia, Hungary, India, Iran (Islamic Republic of), Iraq, Kazakhstan, Kenya, Kyrgyzstan, Laos (People's Democratic Republic), Libya, Macedonia, Malaysia, Mongolia, Montenegro, Morocco, Myanmar, Nicaragua, Nigeria, Non-State Actors, North Korea (Democratic People's Republic of Korea), Poland, Russian Federation, Serbia, Sierra Leone, Slovakia, South Sudan, Sudan, Sweden, Syria, Tajikistan, Turkmenistan, Uganda, Ukraine, United Kingdom of Great Britain and Northern Ireland, Uzbekistan, Venezuela (Bolivarian Republic of), Yemen.
+
+Here is Variants information for the T-72 Russian Main Battle Tank (MBT):
+The T-72A is The T-72A entered production in 1978 and was first seen by NATO forces in 1980..
+The T-72B is The T-72B is an upgrade of the T-72A..
+The T-72AK is The T-72AK is the regimental and battalion command variant of the T-72A..
+The T-72AK1 is The T-72AK1 is a T-72 equipped and modified for local command of a company-sized formation..
+The T-72AV is The T-72AV was introduced in 1985 and it incorporated the improvements developed for the T-72B..
+The T-72B1 is The T-72B1 is a T-72B upgrade without the ability to fire the Svir 9K120 guided munition from the main gun..
+The T-72BM is The T-72BM can be distinguished from the T-72B and T-72B1 by the shape of the ERA.
+The T-72BK is The T-72BK is a command variant of the T-72B..
+The T-72B1 White Eagle is The T-72B1 White Eagle is an upgrade of the T-72B1 that primarily focuses on the vehicle’s mission systems..
+The T-72B1K is The T-72B1K is a command variant of the T-72B1..
+The T-72AMT is The T-72AMT upgrade was proposed by UkrOboronProm (UOP) to bring the T-72s to a similar level to the upgraded T-64s in use with Ukrainian forces..
+The The T-72AMT upgrade was proposed by UkrOboronProm (UOP) to bring the T-72s to a similar level to the upgraded T-64s in use with Ukrainian forces. is The T-72BA is an upgrade for T-72 series vehicles. It was designed as a result of Russia’s financial difficulties, which meant the MoD could no longer afford to purchase the T-90..
+The T-72B3 is The T-72B3 is a modernized T-72B that entered production in 2012 to equip Russian units.
+The T-72B3 obr.2016 is The T-72B3 obr.2016 as described above is much the same as the T-72B3 externally..
+The T-72M is The T-72M is the designation given to T-72s built under license in Czechoslovakia, India, and Poland..
+The T-72M1 is The T-72M1 is a modernized T-72M with improved armor that entered production in 1982..
+The The T-72M1 is a modernized T-72M with improved armor that entered production in 1982. is The T-72M1K is a command variant of the T-72M1..
+The The T-72M1K is a command variant of the T-72M1. is The T-72S entered production in 1987..
+The T-72S1 is The T-72S1 is thought to be the export variant of the T-72B1, which as a result, does not carry the ability to fire the 9K120 missile system but does carry the additional ERA as detailed under the T-72B1..
+The T-72SK is The T-72SK is a command version of the T-72S..
+The Al-Zubair-1 is The Al-Zubair-1 is a T-72 variant manufactured by the Military Industry Corporation (MIC) of Sudan..
+The Ajeya Mk 2 is The Ajeya Mk 2 is an overhaul of the T-72M1 manufactured under license in India..
+The BMO-T is The BMO-T is a conversion of a T-72 hull to a heavily armored APC..
+The T-72E is The T-72E is an advancement of the T-72B1..
+The WZT-3 is The WZT-3 is an ARV developed by Poland’s Research and Development Centre of Mechanical Appliances (OBRUM) to support the PT-91..
+The WZT-3M is The WZT-3M is believed to be upgraded WZT-3s..
+The MT-72 is The MT-72 is an AVLB based on the hull of a T-72M1 manufactured in Czechoslovakia and Slovakia..
+
+Here is Dimensions information for the T-72 Russian Main Battle Tank (MBT):
+The Length (Gun Forward) is 9.53.
+The Length (Hull) is 6.95.
+The Width is 3.59.
+The Height is 2.23.
+The Weight, Combat is 44.5.
+The Ground Pressure is 90kg/cm² (8825985Pa) (1280.10psi).
+
+Here is Automotive information for the T-72 Russian Main Battle Tank (MBT):
+The Engine Name is V-92S2F.
+The Engine Type is V-12 diesel.
+The Engine Power is 780.
+The Power to Weight Ratio is 18.8.
+The Fuel Capacity is 1,200.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 45.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.85 m.
+The Trench is 2.8.
+The Fording Depth is 1.2.
+The Fording (with Preparation) is 5.0.
+The Transmission is Synchromesh, hydraulically assisted, with 7 forward and 1 reverse gears.
+The Suspension is Torsion bar.
+The Ground Clearance is 0.49.
+
+Here is R-168-100U information for the T-72 Russian Main Battle Tank (MBT) of the Communications:
+The Name is R-168-100U.
+The Type is VHF.
+The Family is AKVEDUK R-168 Series.
+The Frequency is 30-108.
+The Capabilities is FH, Voice, Data.
+The Range is 30-60.
+The Mount is Vehicle.
+The Status is In Service.
+The Echelon is DIV, BDE, BN.
+The Automated Control and Communication is Yes.
+
+Here is System information for the T-72 Russian Main Battle Tank (MBT) of the Main Gun:
+The Name is 1 x 2A46M/2A46M-5 Smoothbore Gun.
+The Type is Smoothbore Gun.
+The Caliber is 125 mm.
+The Max Rate of Fire is 8.
+The Manually Load Time is 1-2.
+The Sustain Rate of Fire is INA.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Autoloader is Yes,  Like the earlier domestic-use-only T-64, the T-72 is equipped with an automatic loading system, eliminating the need for a dedicated crewmember, decreasing the size and weight of the tank.
+
+However, the autoloader is of a noticeably different design. Both the T-64 and T-72 carry their two-section 125 mm ammunition (shell and full propellant charge, or missile and reduced propellant charge) in separate loading trays positioned on top of each other; but firstly, in T-64, 28 of these were arranged vertically as a ring under the turret ring proper, and were rotated to put the correct tray into position under the hoist system in the turret rear. This had the disadvantage of cutting the turret off from the rest of the tank, most notably, the driver. Accessing the hull required partial removal of the trays. The T-72 uses a design that has lower width requirements and does not isolate the turret compartment: the trays are arranged in a circle at the very bottom of the fighting compartment; the trade-off is the reduction of the number of trays to 22. The second difference is that in the T-64 the trays were hinged together and were flipped open as they were brought into position, allowing both the shell/missile and propellant charge to be rammed into the breech in one motion; in the T-72 the tray is brought to the breech as-is, with the shell in the lower slot and the charge in the upper one, and the mechanical rammer sequentially loads each of them, resulting in a longer reloading cycle..
+The Fire on the Move is Yes, Main Gun.
+The Maximum Elevation is -6.
+The Minimum Elevation is +14.
+
+Here is Ammunition (Option 1) information for the T-72 Russian Main Battle Tank (MBT) of the Main Gun:
+The Type is Armor-piercing fin-stabilized discarding sabot.
+The Caliber is 125.
+The Muzzle Velocity is 2,050.
+The Effective Range is 2,000-3,000.
+The Armor Penetration is 1,000.
+The Muzzle Energy is 15-24.
+The Projectile Dimension is 900.
+The Projectile Weight is 11.
+The Variants is 1.1	3VBM3/3BM9/10 1.2 3VBM6/3BM12/13 1.3 3VBM7/3BM15/16 1.4 3VBM8/3BM17/18 1.5 3VBM9/3BM22/23 1.6 3VBM10/3BM29/30 1.7 3VBM11/3BM26/27 1.8 3VBM13/3BM32/33 1.9 3VBM17/3BM42 (3BM44 "Mango") 1.10	3VBM19/3BM42M (3BM44M "Lekalo") 1.11	3VBM20/3BM46 (3BM48 "Svinets") 1.12 3VBM22/3BM59 (3BM59 "Svinets-1") 1.13	3VBM23/3BM60 (3BM60 "Svinets-2") 1.14	3VBM?/3BM69 "Vacuum-1" 1.15	3VBM?/3BM70 "Vacuum-2".
+The Basic Load is 39 Total Rounds of any 125mm Russian Projectiles.
+The Note is Entered service in 2005 Utilising a new sabot. Reported to be uranium alloy. For 2A82/2A82-1M cannon on T-80UM-2/T-14s..
+
+Here is Ammunition (Option 2) information for the T-72 Russian Main Battle Tank (MBT) of the Main Gun:
+The Type is High Explosives (HE).
+The Caliber is 125.
+The Purpose is High explosive fragmentation fin stabilised. General purpose rounds, for use against infantry, bunkers and light vehicles and other "soft" targets..
+The Muzzle Velocity is 850.
+The Max Dispersion is 0.23.
+The Maximum Range is 5,000.
+The Tungsten Rods is 450.
+The Charge is A-IX-2 (73% RDX, 23% aluminium powder, phlegmatized with 4% wax) 3.0 kg.
+The Projectile Weight is 23.
+The Round Weight is 33.
+The Variants is 3VOF22/3OF19, 3VOF36/3OF26, 3VOF128/3OF82.
+The Basic Load is 39 Total Rounds of any 125mm Russian Projectiles.
+
+Here is Ammunition (Option 3) information for the T-72 Russian Main Battle Tank (MBT) of the Main Gun:
+The Name is 3VBK27/3BK31 "Start".
+The Type is High-Explosive Anti-Tank (HEAT).
+The Caliber is 125.
+The Muzzle Velocity is 915.
+The Max Dispersion is INA.
+The Maximum Range is 3,000.
+The Charge is INA.
+The Charge Weight is 1.62.
+The Projectile Weight is 18.4.
+The Armor Penetration is Estimated at 800 mm triple charge HEAT.
+The Variants is 3VBK7/3BK12, 3VBK10/3BK14, 3BK12M, 3BK14M, 3VBK16/3BK18, 3BK18M, 3VBK17/3BK21, 3BK21B, 3VBK21/3BK25, 3VBK25/3BK29 "Breyk", 3VBK25M/3BK29M.
+The Basic Load is 39 Total Rounds of any 125mm Russian Projectiles.
+
+Here is System information for the T-72 Russian Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is 1 x PK (Kalashnikov's Machine Gun) 7.62 mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Length is 1,203.
+The Length (Barrel) is 605.
+The Weight (Gun  Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Max Rate of Fire is 650.
+The Range Finder Type is INA.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Tangent iron sights (default);
+Optical, Night-vision, Thermal and Radar sights.
+
+Here is Ammunition information for the T-72 Russian Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.60.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 825.
+The Effective Range (Iron Sights) is 1,000.
+The Effective Range (with Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 3,800.
+The Basic Load is 1,500.
+
+Here is System information for the T-72 Russian Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is 1 x Type 54 DShK 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Proliferation is over 1 Million.
+The Length (Total) is 1,625.
+The Length (Barrel) is 1,070.
+The Weight (Gun Only) is 34.
+The Weight (on Wheeled Mounting) is 157.
+The Max Rate of Fire is 600.
+The Range Finder Type is Optical.
+The Action is Gas-Operated, Flapper Locking.
+The Feed System is 50 Round Belt.
+The Sights is Iron/Optical.
+The Turret is Single seat and placed at the rear of the vehicle roof. It is sharp-pointed at the front..
+The Variants is DK, DShKM, DSHKS, Type 54 HMG.
+The Fire on the Move is Yes.
+
+Here is Ammunition information for the T-72 Russian Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7x108.
+The Muzzle Velocity is 850.
+The Effective Range is 2,500.
+The Armor Penetration is API: 21 at 500 m & 13 at 1000 m (RHA).
+The Basic Load is 1,200.
+
+Here is Fire Control information for the T-72 Russian Main Battle Tank (MBT):
+The Name is 1A40-1.
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is Yes, Type INA.
+The Thermal Sight Gunner is 1K13-49.
+The Main Gun Stabilization is 2Eh42-2, 2-plane.
+The Range, Day Sight is 5,000.
+The Range, Thermal Sight is 1,000.
+The Infrared is Yes.
+
+Here is Protection information for the T-72 Russian Main Battle Tank (MBT):
+The Hull Armor is Steel and composite armor with ERA, equivalent to 500-600 mm of Rolled Homogenous Armor (RHA).
+The Turret Armor is Steel and composite armor with ERA, equivalent to 500-600 mm of Rolled Homogenous Armor (RHA).
+The Applique Armor is Available, Turret top and track skirts.
+The Explosive Reactive Armor is Yes, Kontakt-5.
+The Active Protection System is Yes, Arena available.
+The Mine Clearing is The T-72 can be fitted with mine clearing equipment such as the KMT-5, KMT-6 and KMT-6M2. 
+
+KMT-5: The KMT-5 mine clearing plow-roller set consists of two plows and two roller sections of three rollers each. This combination is attached to the front of a tank hull. Stretched between the roller sections is a "dogbone" assembly which consists of a light chain and small roller weights. Using a dragging motion, the "dogbone" covers the exposed area between tank tracks, thus exploding tilt-rod mines. The flexibility of the KMT-5 allows the use of plows or rollers depending on the terrain, type of soil and fuse types encountered. The KMT-5 can be used with the T-54/55, T-62, T-64, and T-72 tanks. The system can withstand approximately nine explosions that have a capacity of five to six kg. It is fitted with a quick-release disconnect unit to allow the tank driver to release the set rapidly. One other capability is that the KMT-5 may be used during night operation, using the luminous lane-marking device (PSK equipment) which marks the clear lane at night with a luminous substance..
+The Self-Entrenching Blade is A dozer blade is mounted under the nose of the tank and is used for clearing obstacles and preparing fire positions. The dozer blade can be brought into the operating position in one or two minutes and enable the T-72 to prepare its own defensive position without request from the Engineers. A normal firing position for a T-72 is 10 m long by 4.5 m wide and a depth of 1.2..
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, Grenade launcher 8x; VESS.
+The IR Signature is INA.
+The Automatic Fire Extinguishing Equipment. is Yes.
+

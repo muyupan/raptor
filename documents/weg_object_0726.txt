@@ -1,0 +1,37 @@
+This document describes the Barracuda European Unmanned Aerial Vehicle (UAV).
+
+The EADS Barracuda is a jet powered European unmanned aerial vehicle (UAV) currently under development by EADS, intended for the role of aerial reconnaissance and also combat (UCAV). The aircraft is a joint venture between Germany and Spain.
+
+Development of the project was stopped after the first prototype crashed at sea while approaching for landing during a test flight. The program was resumed in 2008, with a second prototype being completed in November 2008. The rebuilt Barracuda underwent a series of successful flight tests in Goose Bay, Canada during July 2009, followed by further flight campaigns in 2010 and 2012.
+
+The Barracuda is primarily in competition with the Dassault nEUROn for strategic and defensive contracts. Both are stealthy and have a maximum air speed of around Mach 0.85. While Germany and Spain are behind the Barracuda, France, Italy, Sweden, Switzerland, Greece, and Spain are funding the nEUROn. Not much is known about the Barracuda as it is still in development; however, it is thought to have an operating ceiling of around 20,000 ft (6,096 m) and carries a maximum payload of 300 kg.
+
+The Barracuda is based on commercially available 'off the shelf' components, but also many refined systems. Its fuselage is constructed entirely from carbon fibre, but also has a greater strength to weight ratio than traditional aircraft materials such as Aluminum (the structure of the Eurofighter Typhoon and Boeing 787 Dreamliner are also made significantly out of it). The only significant metal component is the wing spar, running through the middle and reinforcing the wings. The wing spar allows for easy removal of the wings for transportation. The Barracuda uses a specially shaped fuselage, including S-duct air inlet and V-tail, to scatter deflected radar, rendering the UCAV stealthy.
+
+This equipment has proliferated into the following countries: Germany, Spain.
+
+Here is System information for the Barracuda European Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Barracuda.
+The Type is UAV.
+
+Here is Dimensions information for the Barracuda European Unmanned Aerial Vehicle (UAV):
+The Length is 8.0.
+The Wingspan is 7.0.
+The Empty Vehicle Weight is 3,000.
+The Payload is 300.
+The Max Takeoff Weight is 3,250.
+
+Here is Automotive information for the Barracuda European Unmanned Aerial Vehicle (UAV):
+The Engine Name is 1 P&W Canada JT15D-5C.
+The Engine Type is turbofan engine.
+The Engine Power is 3,190 lb (14.2 kN) static thrust.
+The Maximum Speed is Mach 0.8.
+The Maximum Distance is 200.
+The Maximum Altitude is 40,000 ft (12,200 m).
+
+Here is Armament information for the Barracuda European Unmanned Aerial Vehicle (UAV):
+The Note is None.
+
+Here is Protection information for the Barracuda European Unmanned Aerial Vehicle (UAV):
+The Note is The Barracuda uses a specially shaped fuselage, including S-duct air inlet and V-tail, to scatter deflected radar, rendering the UCAV stealthy..
+

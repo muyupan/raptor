@@ -1,0 +1,106 @@
+This document describes the Liaoning (Type 001) Chinese Aircraft Carrier.
+
+The Liaoning (Type 001) Chinese Aircraft Carrier is the first aircraft carrier commissioned into the People's Liberation Army Navy Surface Force, she is classified as a training ship, intended to allow the Navy to experiment, train and gain familiarity with aircraft carrier operations.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Liaoning (Type 001) Chinese Aircraft Carrier:
+The Alternative designations is Liaoning; Type 001.
+The Type is Aircraft Carrier.
+The Builder is Mykolaiv South
+Nevskoye Planning and Design Bureau.
+The Crew is 1,960 (200 off. + 626 air crew + 40 flag staff).
+
+Here is Dimensions information for the Liaoning (Type 001) Chinese Aircraft Carrier:
+The Length, Overall is 304.5 m.
+The Length, Waterline is 280.0 m.
+The Beam, Overall is 70.0 m.
+The Beam, Waterline is 37.0 m.
+The Draft is 10.5 m.
+The Flight Deck Length is 304.5 m.
+The Flight Deck Beam is 70.0 m.
+The Hanger Length is 183.0 m.
+The Hanger Width is 29.4 m.
+The Hanger Height is 7.5 m.
+The Displacement, Standard is 46,637 tons.
+The Displacement , Load is 59,439 tons.
+
+Here is Automotive information for the Liaoning (Type 001) Chinese Aircraft Carrier:
+The Propulsion is 8 x boilers; 4 x turbines.
+The Power is 200,000 hp (147 MW); 4 shafts.
+The Maximum Speed is 30 knots (56 km/h).
+The Maximum Range is 3,850 nm at 29 knots
+8,500 nm at 18 knots.
+The Endurance is 45 days.
+
+Here is Weapon Station #1 information for the Liaoning (Type 001) Chinese Aircraft Carrier of the Armament:
+The Name is 4 x FL-3000N 24-cell launchers.
+The Type is Missile Launcher.
+The Missile is Instead of using QW-1 Vanguard MANPADs, the FL-3000N system uses the HHQ-10 (Red Flag 10) naval surface to air missile developed from TY-90 missile..
+The Length is 2.
+The Diameter is 0.12.
+The Maximum Range is > 9 km for subsonic targets, > 6 km for supersonic targets.
+The Minimum Range is < 500 meters.
+The Guidance System is passive RF + ImIR or ImIR only.
+The FL-3000N missile utilizes a combined guidance system that incorporates both passive radio frequency (RF) guidance and imaging infrared (ImIR) guidance. There are a pair of horn like protrusions mounted on the ImIR seeker at the tip of the missile, and these two protrusions are the passive RF seeker. An optional ImIR only guidance is also available and the missile is a fire and forget weapon..
+The Fire Control is The fire control system (FCS) of FL-3000N can simultaneously control two launchers, and can be integrated into other FCS on board ships. Alternatively, FL-3000N is also capable being directly controlled by other FCS on board ships. The system is usually fully automatic without human intervention, but manual operation can be inserted when needed..
+
+Here is Weapon Station #2 information for the Liaoning (Type 001) Chinese Aircraft Carrier of the Armament:
+The Name is 2 x Type 730 CIWS.
+The Type is Seven-barreled 30 mm Gatling gun CIWS..
+The Caliber is 30 mm.
+The Barrels is 7-barrel (Type 730).
+The Crew is Automated, with human oversight.
+The Rate of Fire is 1,200-4,200 rounds/minute (Type 730)
+11,000 rounds/minute (Type 1130).
+The Effective Firing Range is 1–1.5 km.
+The Maximum Firing Range is 3 km.
+The Feed System is Type 730: One ammunition boxes, holding 640 rounds
+Type 730B/C, LD-2000: Two ammunition boxes, each holding 500 rounds (total 1000 rounds)
+
+Type 1130: Two ammunition boxes, each holding 640 rounds (total 1280 rounds).
+The Main Armament is 1×30 mm H/PJ-12 or H/PJ-11 Gatling gun.
+The Guidance System is TR47C J-band radar
+OFC-3 electro-optical fire control system.
+
+Here is Ammunition Weapon Station #2 information for the Liaoning (Type 001) Chinese Aircraft Carrier of the Armament:
+The Cartridge is INA.
+The Caliber is 30 mm.
+The Basic Load is INA.
+
+Here is Weapon Station #3 information for the Liaoning (Type 001) Chinese Aircraft Carrier of the Armament:
+The Name is 2 x RBU-6000.
+The Type is 213 mm caliber Soviet anti-submarine rocket launcher..
+The Launcher, Length is 2 m.
+The Launcher, Width is 1.75 m.
+The Launcher, Height is 2.25 m.
+The Launcher, Weight is 3,100 kg (empty).
+The Launcher, Elevation is -15° to +65°.
+The Launcher, Traverse is 180°.
+The Maximum Effective Range is Ballistic 1 - 350 m to 1700 m, Ballistic 2 - 1500 m to 5500 m.
+The Rocket Name is RGB-60 projectile.
+The Rocket, Length is 1.83.
+The Rocket, Diameter is 0.212.
+The Rocket, Weight is 113.5 kg.
+The Rocket, Warhead Weight is 23 kg.
+The Rocket, Depth is 10 to 500 m.
+The Rocket, Sink Rate is 11.6 m/s.
+
+Here is J-15 or Su-33 Flanker information for the Liaoning (Type 001) Chinese Aircraft Carrier of the Aircraft:
+The Quantity is Up to 24.
+
+Here is Ka-31 Helix / Ka-27 / Z-8 / Z-9 / Z-18 information for the Liaoning (Type 001) Chinese Aircraft Carrier of the Aircraft:
+The Quantity is Up to 12.
+
+Here is Radars information for the Liaoning (Type 001) Chinese Aircraft Carrier:
+The 1 x Top Plate (Fregate MAE-3) air search is The Fregat, Top Plate and Top Steer NATO codename, is a family of 3D, 360-degree/full-coverage ship-based radar systems developed for the Soviet Union Navy and designed to provide surveillance and detection of surface and airborne targets and to deliver target designation data to weapon systems. The Fregat radar system can operate effectively in intense jamming and countermeasures environments. Moreover, the radar system also provides identification friend or foe (IFF). 
+The Fregat family of radar systems features automatic target tracking and built-in self-diagnosis system. The radar system is made of line replaceable units that can be removed with ease in the event of a malfunction. The radars developed under Fregat family are tailored for a variety of ships depending on their displacement and purpose. The main differences among them are: air surveillance range, number of channels and frequency bands, and weight. Typically, Fregat radars operate in the E-band excepting the lightest Fregat MAE-4k which operates in the H-band. All variants can detect a surface ship at the line-of-sight while the maximum detection range for an airborne target with the radar cross section of a non-stealth fighter aircraft varies from 58 to 230 kilometers.
+
+The Fregat MAE-3 radar system is intended for medium and large displacement ships. It is an E-band two-channel radar with a maximum instrumented range of 300 kilometers and a maximum vertical detection range of 30 km. Fregat MAE-3 can detect a fighter aircraft at a maximum range of 180 km or a missile at a maximum range of 38 km. The radar's equipment and the antenna station weigh approximately 9.1-t (6.6-t and 2.5-t respectively)..
+The 1 x Type 346 Dragon Eye air search/fire is Type 346 radar is a highly digitized, multi-function, dual-band (S and C bands) naval active electronically scanned array (AESA) installed on Type 052C destroyers, Type 052D destroyers, Type 055 destroyers and Type 001A aircraft carriers[1] of the PLAN. The radar is named as the Star of the Sea (Hai-Zhi-Xing, 海之星) by its developer and it is one of the two competitors for PLAN’s SAPARS (Shipborne Active Phased Array Radar System) project/program. Due to its secrecy and lack of information, Type 346 radar has been frequently but erroneously confused with a Chinese fire control radar Type 348, and mistakenly identified as Type 348 by many sources. Furthermore, it is also frequently confused with and misidentified as Sea Lion series C-band phased array radars developed by another design house. Several models in the Type 346 series have been developed. When Star of the Sea was selected as the winner of SAPARS and accepted into Chinese service, it received the Chinese naval designation for the entire radar system as H/LJG-346 or Type 346 for short. The NATO reporting name for Type 346 radar is Dragon Eye..
+The 1 x Sea Eagle surface search is Type 382 radar is a Chinese naval 3-D air search radar designed to replace earlier Chinese Type 381.
+
+Contrary to many frequent but erroneous claim, Type 382 radar is not a simple Chinese copy of Russian MR-710 Fregat (meaning frigatebird) radar (NATO reporting name: Top Plate), though Type 382 does borrow heavily from MR-710 radar. Type 382 radar program had already begun in the early 1990s, before the start of the negotiation of importing Russian Sovremennyy-class destroyer in 1994. Type 382 is designed to be a successor of earlier Type 381, but development had run into technological bottleneck for the next generation passive phased array radar due to the technical and industrial limitations in the early and mid-1990s China had at the time. The import of Russian MR-710 radar had provided a significant boost in the development of Type 382 radar in that designers of Type 382 can borrow ideas of MR-710, and as a result, Type 382 has become a cross between Type 381 and MR-710. L
+
+Chinese designers abandoned the development of passive phased array radar and decided to adopt the planar array of MR-710 with the same back-to-back configuration of MR-710, because Chinese industry at the time could not provide a new generation passive phased array with the reliability and performance level required by Chinese navy. The more matured planar array of MR-710 not only provided better reliability, but also proved to be more capable than the domestic Chinese passive phased array designed in the mid-1990s. However, Chinese passive phased array Type 381 does have its advantage over its Russian counterpart in that the equipment below deck is far more compact and reliable. Type 382 design was hence altered to combine the best of two systems by integrating the planar array of MR-710 above the deck and the electronic cabinets and operator consoles of Type 381 below deck together. As a result, the original more than 20 cabinets of MR-710 is drastically reduced on the Type 382. However, the most significant difference between MR-710 and Type 382 is that the former is only a single band radar operates at E-band, while the latter is a dual band radar operates at two frequency bands: S (E/F) and C (G/H) bands. Hence Type 382 also has a name: Sea Eagle (Hai-Ying, 海鹰) S/C, named after the frequency bands it operates at.Maximum power of Type 382 is increased to 100 kW from the 90 kW of the original MR-710. while the maximum range against a fighter sized target is increased to 250 km from the original 230 km of MR-710. In addition to stronger power and higher precision, the rotation rate of Type 382 is increased from the original 12/min to nearly 30/min and scan rate is also nearly doubled..
+

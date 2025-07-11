@@ -1,0 +1,61 @@
+This document describes the Type 65 Chinese 37mm Twin-Barrel Anti-Aircraft Gun.
+
+The Type 65 is the twin-37mm towed anti-aircraft artillery (AAA) developed in the 1960s as a successor to the Soviet M1939 single-barrel 37mm AAA (produced in China as Type 55). The weapon was designed primarily to engage airborne targets within a distance of 8,500m (or slant range of 3,500m), but it can also be used against land or water surface targets. Based on the Type 65 design, the PLA developed a number of derivations including the Type 74/74SD towed AAA, Type 79-III towed AAA, Type 76 shipboard AAA, and Type 88 self-propelled AAA.
+
+This equipment has proliferated into the following countries: Bangladesh, China.
+
+Here is Variants information for the Type 65 Chinese 37mm Twin-Barrel Anti-Aircraft Gun:
+The Type 74 is The Type 74 is an improved variant of the Type 65 introduced in 1974. The weapon share the same 37mm cannon and ammunitions as the Type 65, but can be operated either manually or remotely by the fire-control unit consisting of an electro-optical director and a target searching radar. This enables the weapon to operate under day/night, all-weather conditions..
+
+Here is System information for the Type 65 Chinese 37mm Twin-Barrel Anti-Aircraft Gun:
+The Alternative Designations is INA.
+The Description is The Type 65 is the twin-37mm towed anti-aircraft artillery (AAA).
+The Crew is 5 to 8.
+The Carriage is 4 Wheeled/ 2 Axle Towed.
+The Primer Mover is INA.
+The Max Towed Speed is 60.
+The Cross Country Tow Speed is 25.
+The Emplacement Time is 1.
+The Displacement Time is 3.
+The Fording Depth is 0.7.
+The Tuning Radius is 8.
+
+Here is Dimensions information for the Type 65 Chinese 37mm Twin-Barrel Anti-Aircraft Gun:
+The Length, Traveling is 6.21.
+The Lenght, Barrel is 2.73.
+The Width is 1.82.
+The Height is 2.28.
+The Trail is 4-wheel carriage;4 firing jacks.
+The Weight, Firing is 2,835.
+
+Here is Armament information for the Type 65 Chinese 37mm Twin-Barrel Anti-Aircraft Gun:
+The Gun is Type 65.
+The Caliber, Type is 37-mm Automatic Gun.
+The Number of Barrels is 2.
+The Operation is Recoil.
+The Service Life of Barrel is 2,500+.
+The Barrel Change Time is 2-3.
+The Cyclic Rate of Fire is Cyclic: 320-360 rds/min (160-180/barrel).
+The Practical Rate of Fire is 80.
+The Loader Type is Two 5-Round Clips.
+The Reload Time is 4-8.
+The Traverse is 360.
+The Elevation is -5 to 85 deg.
+The Elevation Rate is INA.
+The Reaction time is INA.
+
+Here is Main Armament Ammunition information for the Type 65 Chinese 37mm Twin-Barrel Anti-Aircraft Gun:
+The Type is AP-T, HE-T, HEI-T.
+The Max Effective (Slant) Range) is 3,500.
+The Max Effective (grnd targets) Range is 3,500.
+The Max Effective Altitude is 3,000.
+The Min Altitude is 0.
+The Self-destruct time is 8-12.
+The Self-destruct range is 3,700-4,700.
+
+Here is Fire Control information for the Type 65 Chinese 37mm Twin-Barrel Anti-Aircraft Gun:
+The Description is Sights w/magnification:  optical mechanical computing sight 
+Azimuth warning receiver:  1l15-1 
+Off-carriage radar:  Optional.  The Chinese Type 311 continuous wave I/J-band fire control radar was designed and produced to support 37mm and 57mm guns.  The trailer-mount radar with computer automation can conduct surveillance and target acquisition.  It has at least three variants, with ranges of 30km (311-A), 35km (311-B), and 40km (311-C).  Target tracking range is 25km for the -A variant.  Emplacement time is 15 minutes.  Radar gives user weapons night-time and adverse weather capability.  This radar has been exported..
+The Other Fire Control is The gun is linked to the battery net which receives analog voice radio alerts for approaching aircraft, including direction and altitude.  Guns and battery/ battalion have air watches and forward observers..
+

@@ -1,0 +1,132 @@
+This document describes the BRDM-2 Russian 4x4 Amphibious Armored Scout Car.
+
+Hezbollah Proliferation. The BRDM-2 Russian 4x4 Amphibious Armored Scout Car is an amphibious armored patrol car used by Russia and the former Soviet Union. It was also known under the designations BTR-40PB, BTR-40P-2, and GAZ 41-08. This vehicle, like many other Soviet designs, has been exported extensively and is in use in at least 38 countries. It was intended to replace the earlier BRDM-1, compared to which had improved amphibious capabilities and better armament.
+
+The BRDM-2 has a crew of four: a driver, a co-driver, a commander, and a gunner. It has two pairs of chain-driven belly wheels lowered by the driver, which allow trench crossing just like its predecessor, and a centralized tire pressure regulation system, which can be used to adjust the tire pressure of all four tires or individual tires while the vehicle is in motion to suit to the ground conditions.
+
+This equipment has proliferated into the following countries: Non-State Actors, Russian Federation.
+
+Here is Variants information for the BRDM-2 Russian 4x4 Amphibious Armored Scout Car:
+The BRDM-2 is The BRDM-2 is the basic variant of the family. It is designed to conduct long-range passive reconnaissance and more aggressive reconnaissance when accompanied by heavier armored vehicles..
+The BRDM-2M is The BRDM-2M is a modernised variant of the BRDM-2. It is equipped with improved systems over the original to ensure that the vehicle could perform in a modern battlespace..
+The BRDM-2L1 is The BRDM-2L1 is a modernised BRDM-2 in service with Ukraine..
+The BRDM-3 is The BRDM-3 carries the 9P137 Konkurs ATGM system, which fires the 9M113 missile series. It is designed to provide a tank-destroyer function for reconnaissance formations..
+The BRDM-2K is There is also a BRDM-2 (command), which retains the turret and is called the BRDM-2K (Kommandnyi). It is equipped with a collapsible telescopic antenna on the right side of the hull and has an additional whip antenna on the left side of the hull..
+The BRDM-2-RKhb is This is a radiobiological-chemical-biological reconnaissance vehicle, which is easily distinguishable from the basic vehicle by two rectangular racks, which contain lane-marking poles with pennants on either side of the hull at the rear..
+The BRDM-2U is INA
+
+The BRDM-2U is a command vehicle with three separate variants, the service status of all three is uncertain..
+The BRDM-2ZS is The BRDM-2ZS (Zvukovetsatelnaya stantsiya) was equipped with loud speakers and used for Psyops or more often to influence a local population and inform them of impending attacks..
+The Model 96i is The Model 96i featured a new Iveco 165 hp diesel engine..
+The Model 97 is The Model 97 was built on the work of the Model 96i. It includes a roof-mounted 9K111 series ATGM system, and the KPVT is replaced by a 12.7 mm NSTV weapon..
+The SA-9 is The SA-9 is a short-range air defence (SHORAD) vehicle based around the Strela-1 missile system..
+The Cayman is The Cayman (also spelt Caiman or Kaiman) is a deep modernisation of the BRDM-2 developed and produced by the 140th Repair Plant under the guidance of the Military Industrial Committee of Belarus..
+The BRDM-2RKh is BRDM-2RKh (khimicheskaya razvedivatel’naya mashina) – radiological-chemical reconnaissance vehicle with two KZO-2 rectangular dispensers for emplacing warning poles and flags around contaminated areas. The pole/flag dispensers are located on the rear corners of the vehicle's hull. The dispensers are normally covered with canvas and when required are positioned vertically over the rear of the vehicle. The specialized equipment consist of an automatic gas detector GSA-12, a dosimeter DP-5V, a röntgenmeter DP-3B, decontamination apparatus DK-4K and semi-automatic detection devices PPKhR and VPKhR. The vehicle retains the original armament. The regimental chemical defence platoon and the divisional-level chemical defence company use it, as the does divisional reconnaissance battalion. It was also known under designations BRDM-2RKhA, BTR-40P-2RKh and BTR-40PB-RKh..
+
+Here is Dimensions information for the BRDM-2 Russian 4x4 Amphibious Armored Scout Car:
+The Length is 5.75.
+The Width is 2.35.
+The Height is 2.31.
+The Wheelbase is 3.1 m.
+The Track is 1.84 m.
+The Weight, Combat is 7,000 kg.
+
+Here is Automotive information for the BRDM-2 Russian 4x4 Amphibious Armored Scout Car:
+The Engine Name is GAZ-41.
+The Engine Type is Petrol.
+The Engine Power is 140.
+The Power-to-Weight Ratio is 20 hp/t.
+The Fuel Capacity is 290.
+The Electrical System is 24 V.
+The Suspension is semi-elliptical springs with hydraulic shock-absorbers.
+The Range is 750.
+The Speed, Maximum Road is 90.
+The Speed, Average Cross is 45.
+The Speed Maximum Swim is 10.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.4.
+The Trench is 1.25.
+The Fording Depth is Amphibious.
+
+Here is Communications information for the BRDM-2 Russian 4x4 Amphibious Armored Scout Car:
+The Primary is R-173.
+The Secondary is R-163.
+The Intercome is R-174.
+
+Here is System information for the BRDM-2 Russian 4x4 Amphibious Armored Scout Car of the Primary Weapon System:
+The Name is 1 x KPVT 14.5mm Heavy Machine Gun (KPV).
+The Type is Heavy Machine Gun.
+The Caliber is 14.5.
+The Manufacturer is V.A. Degtyarev Plant.
+The In Service is 1949-Present.
+The Total Length is 1,980.
+The Barrel Length is 1,346.
+The Width is 162.
+The Height is 225.
+The Weight is 49.
+The Maximum Elevation is +60.
+The Minimum Elevation is -4.
+The Max Rate of Fire is 600.
+The Maximum Firing Range is 4,000.
+The Effective Firing Range is 3,000.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+
+Here is Ammunition information for the BRDM-2 Russian 4x4 Amphibious Armored Scout Car of the Primary Weapon System:
+The Type is INA.
+The Caliber is API-T.
+The Muzzle Velocity is 1,005.
+The Effective Range (Day) is 2,000.
+The Effective Range (Night) is INA.
+The Tactical Range is 1,500-2,000.
+The Armor Penetration is 20mm at 1,000 m/ 30mm at 500 m.
+The Basic Load is 2,000 Rounds.
+The Note is Additional Ammo includes: API, I-T.
+
+Here is System information for the BRDM-2 Russian 4x4 Amphibious Armored Scout Car of the Auxiliary Weapon System:
+The Name is 1 x 7.62mm PKT (Kalashnikov's Machine Gun) General Purpose Machine Gun.
+The Type is General Purpose Machine Gun.
+The Caliber is 7.62.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The Manufacturer is Degtyaryov plant.
+The In Service is 1961-present.
+The Proliferation is + 1 Million.
+The Length, Total is 1,203.
+The Length, Barrel is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Effective Rate of Fire is 250-300.
+The Max Rate of Fire is 650.
+The Effective Firing Range (With Sight Adjustments) is 100-1,500.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the BRDM-2 Russian 4x4 Amphibious Armored Scout Car of the Auxiliary Weapon System:
+The Name is 57-N-323S.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR km.
+The Muzzle Velocity is 855.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 2,000.
+
+Here is Fire Control information for the BRDM-2 Russian 4x4 Amphibious Armored Scout Car:
+The Laser Target Desinator is INA.
+The Computerized FCS is No.
+The Main Gun Stabilization is INA.
+The Rangefinder is INA.
+The Infrared Searchlight is No.
+The Gunner Day Sight is PP-61AM Sight with a field of view of 23 deg and a acquisition range of 2,000 meters.
+The Commander Fires the Gun is No.
+
+Here is Protection information for the BRDM-2 Russian 4x4 Amphibious Armored Scout Car:
+The Armor is The BRDM-2 is built from welded steel armor that varies in thickness from 10 mm at the front to 6 mm. This is sufficient to protect against standard 7.62 mm rounds fired at the front of the vehicle from most ranges and against the same projectiles fired at the sides of the vehicle from a range of 100 m..
+The Applique Armor is Available.
+The Active Protection System is INA.
+The NBC Protection is Yes, Collective.
+The Smoke Equipment is Yes, can be fitted with smoke grenades to obscure the vehicle from view..
+The IR Signature is INA.
+The Firing Ports is No.
+

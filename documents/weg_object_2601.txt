@@ -1,0 +1,98 @@
+This document describes the BTR-4 Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC).
+
+The BTR-4 family is built around a standard hull with an 8x8 drive. The vehicles represent a mix of Western and Soviet AFV designs with the power pack towards the front of the vehicle (representing the former) but a very low silhouette and hull profile (the latter). The vehicles can be adapted to perform a variety of roles and provide a user with a single common platform to reduce logistics challenges.
+
+This equipment has proliferated into the following countries: CFE Treaty, Indonesia, Iraq, Nigeria, Ukraine.
+
+Here is Variants information for the BTR-4 Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The BTR-4 is The BTR-4 is an IFV, designed to transport a section of infantry into combat and support their movements with direct fire. It is the standard vehicle of the family and is the most widely used variant..
+The BTR-4E is The BTR-4E is an upgraded version of the standard BTR-4 designed to improve the mobility and protection of the standard vehicle. The differences between the BTR-4 and the BTR-4E are minor and include an auxiliary power unit installed on the right of the hull and just below the remote weapon station..
+The BTR-4M is The BTR-4M is a variant of the BTR-4 adapted for use with marine forces..
+The BTR-4KSh is The BTR-4KSH is a C2 vehicle designed to provide command functions for armored formations at a removed distance from the battlespace..
+The BREM-4K is The BREM-4K is an armored repair and recovery vehicle (ARRV) designed to support armored vehicles on battlefields where small-arms fire and infantry sections are the primary threats..
+The BTR-4K is The BTR-4K is a C2 vehicle based on the BTR-4. It is armed with the same weapon system and designed to transport a unit commander with three staff officers into combat to support the operations of BTR-4 formations..
+The BTR-4MV1 is The BTR-4MV1 is a Ukrainian Armored Personnel Carrier (APC)..
+
+Here is System information for the BTR-4 Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is BTR-4.
+The Type is Amphibious Armored Personnel Carrier (APC).
+The Manufacturer is Kharkiv Morozov Machine Building Design Bureau.
+The Family is BTR Series.
+The Configuration is 8x8.
+The Crew is 3.
+The Passenger Capacity is 9.
+
+Here is Dimensions information for the BTR-4 Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Length is 7.76 m.
+The Width is 2.932 m.
+The Height is 3.17 m.
+The Weight, Combat is 19,300 kg.
+The Ground Clearance is 0.46 m.
+
+Here is Automotive information for the BTR-4 Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is 3TDA-3A.
+The Engine Type is Diesel.
+The Engine Power is 500.
+The Power-to-Weight Ratio is 25.90 hp/t.
+The Fuel Capacity is INA.
+The Electrical System is 24V.
+The Steering is power-assisted on front four wheels.
+The Maximum Land Speed is 100 km/h.
+The Maximum Water Speed is 10 km/h.
+The Range is 690 km.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Obstacle is 0.70 m.
+The Trench is 1.80 m.
+
+Here is System information for the BTR-4 Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 x ZTM-1 Autocannon.
+The Type is Autocannon.
+The Caliber is 30 mm.
+The Length is INA.
+The Barrel Length is INA.
+The Weight is INA.
+The Rate of FIre is 330 rds/min in single-shot, burst, or automatic modes.
+The Maximum Range is 4,000 m with HE Rounds.
+The Penetration is 22 mm of steel set at 40° from a range of 500 m, which is reduced to 14 mm at 1,500 m and so could be considered the maximum effective combat range against armored targets..
+
+Here is Ammunition information for the BTR-4 Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 30.
+The Cartridge is 30mm x 165 mm.
+The Basic Load is 300 rounds.
+
+Here is Coaxial Weapon System information for the BTR-4 Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Note is 1 x 7.62 mm machine gun.
+
+Here is System information for the BTR-4 Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC) of the Anti-Tank Guided Missile (ATGM):
+The Name is 2 x Baryer Missile.
+The Type is Anti-Tank Guided Missile (ATGM).
+The Mission is The anti-tank long-range guided missile system BARYER, a design by the Kyiv-based State Design Bureau Luch, is intended to defeat armored targets at distances from 100 to 5,000 meters..
+The Manufacturer is Luchs Design Bureau.
+The Length is 1.27 m.
+The Diameter is 0.13m.
+The Weight is 16 kg.
+The Warhead Type is The missiles can be fitted with a tandem HEAT warhead or a HE fragmentation warhead with percussion core penetration..
+The Guidance System is The BARYER missile employs semiautomatic laser (SAL) guidance to enable the target, after being designated and lock-on, to be tracked automatically without further operator’s intervention (no man-in-the-loop scheme). For tracking the target, the operator employs a telescope sight, with the missile in flight being controlled and guided from a ground fi ring post. The target is designated and locked on using an optical tracker and a thermal-imaging sight, which allows 24-h operation in all weathers..
+The Penetration is The missile defeats armored infantry fighting vehicle (AIFV) protection systems of all kinds – be it a composite armor, active protection system, spaced armor or explosive reactive armor (ERA), and is capable of penetrating 800mm of Rolled Homogenous Armor (RHA) behind ERA..
+The Range is 5,000 m.
+
+Here is Fire Control information for the BTR-4 Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is stabilized by the SBU-500-4Ts system and uses an electrical feed system..
+
+Here is Protection information for the BTR-4 Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is A baseline version of the BTR-4 provides all-round protection against 7.62 mm ball rounds and artillery shell splinters. It seems that the front arc withstands 12.7 mm rounds. Vehicle also withstands 6 kg anti-tank mine blasts..
+The Turret Armor is INA.
+The Applique Armor is Add-on armor can be fitted for a higher level of protection..
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

@@ -1,0 +1,180 @@
+This document describes the M1A2 Abrams American Main Battle Tank (MBT).
+
+M1A2 Abrams Main Battle Tank
+
+ The M1A2 Abrams main battle tank is a further development of the M1A1. Currently it is one of the best MBTs in the world. Development of improved M1A1 began in 1988. About 1 200-1 500 M1A2 main battle tanks were delivered to the US army. Out of this number approximately 1000 outdated M1 main battle tanks were upgraded to the M1A2 standard. It is planned that this tank will remain in service beyond 2050. The M1A2 has been exported to Kuwait (218) and Saudi Arabia (457).
+
+Approved for production in 1990, the M1A2 represents the U.S. Army’s technological improvement of the basic M1A1 design and the most modern battle tank in the world. Outwardly similar in appearance to the M1A1, the most notable exterior changes on the M1A2 are the redesigned Commander's Weapon Station (CWS) and the addition of a Commander's Independent Thermal Viewer) on the left side of the turret forward of the loader's hatch. Internally, however, the M1A2 has been radically redesigned to take advantage of newer technology.
+
+Most notable of these improvements is the addition of the Inter-Vehicle Information System (IVIS.) The IVIS system allows for the automatic and continual exchange of information between vehicles. By incorporating information provided by an on board Position/Navigation (POSNAV) system, unit commander's can track the location and progress of subordinate elements automatically, without tasking vehicle crews. In addition enemy positions can be identified, plotted and disseminated, while reports and artillery requests can be automatically formatted, transmitted, and processed. Lastly, map graphic control measures and operational orders can be rapidly distributed via the IVIS system.
+
+To ensure information security, all IVIS data transmissions are routed through the M1A2's SINCGARS radio system. Improving on the "hunter-killer" tank commander-gunner target hand off method pioneered on the German Leopard II, the M1A2 takes this a step further by providing the Tank Commander with an independent thermal sight. This CITV sight allows the commander to independently scan for targets in all weather conditions and through battlefield obscurants. In addition to IVIS and the CITV, the M1A2 incorporates a number of additional electronic upgrades. Power distribution throughout the tank has been improved, relying on multiple bus paths so that in the event one conduit is damaged, power may still be delivered to a component via an alternate path. The driver's instrument display has been upgraded to a more detailed digital display and the Gunner's Primary Sight has been stabilized in two axes for increased accuracy.
+
+This equipment has proliferated into the following countries: Australia, CFE Treaty, Kuwait, Saudi Arabia, United States of America.
+
+Here is Variants information for the M1A2 Abrams American Main Battle Tank (MBT):
+The Variants is Multiple Variants and Upgrades.
+
+Here is System information for the M1A2 Abrams American Main Battle Tank (MBT):
+The Alternative Designation is M1A2.
+The Type is Main Battle Tank.
+The Crew is 4 (commander, driver, gunner, loader).
+
+Here is Dimensions information for the M1A2 Abrams American Main Battle Tank (MBT):
+The Length, Hull is 7.92 m.
+The Width, with Skirts is 3.65 m.
+The Width, without Skirts is 3.48 m.
+The Track Length on Ground is 4.65 m.
+The Track Width is 0.64 m.
+The Ground Clearance, Center of Hull is 0.48 m.
+The Ground Clearance, Sides is 0.43 m.
+The Height is 2.89 m.
+The Gun Length is 9.83 m.
+The Height to Turret Roof is 2.44 m.
+The Weight, Combat is 63,086 kg.
+The Ground Pressure is 1.08 kg/sq cm.
+
+Here is Automotive information for the M1A2 Abrams American Main Battle Tank (MBT):
+The Engine Name is Textron-Lycoming AGT-1500 2-spool free-shaft, multi-fuel turbine with Allied-Bendix digital electronic fuel control.
+The Engine Type is Multi-Fuel.
+The Engine Power is 1,500 hp at 3,000 rpm.
+The Power-to-Weight Ratio is 23.77 hp/metric ton.
+The Fuel Capacity is 504 gal (1,908 liters).
+The Transmission is Allison X-1100-3B Automatic hydro-kinetic, hydrostatic steering, 4 forward and 2 reverse gears.
+The Suspension is advanced torsion bar, 7 road wheels with 15-in (381-mm)travel, rear drive, front idler, 3 internal rotary shock absorbers,2 return rollers.
+The Braking is hydro-mechanical.
+The Road Speed is 66 km/h.
+The Speed, 10 Deg Upslope is 27 km/h.
+The Speed, 60 Deg Upslope is 7 km/h.
+The Acceleration is 32 km/h.
+The Range is 426 km.
+
+Here is Communications information for the M1A2 Abrams American Main Battle Tank (MBT):
+The Radio is single-channel ground and airborne radio system (SINCGARS).
+
+Here is System information for the M1A2 Abrams American Main Battle Tank (MBT) of the Main Gun:
+The Name is M256 smoothbore.
+The Type is 120-mm/46-cal M256 smoothbore with fume extractor and thermal sleeve.
+The Caliber is 120mm.
+The Length is 5.6 m.
+The Barrel Length is 5.3 m.
+The Width is 728 mm.
+The Bore is 120-mm/44-caliber, smoothbore fitted with fume extractor and thermal sleeve.
+The Gun Weight is 1,905 kg.
+The Barrel Weight is 1,175 kg.
+The Recoil, Maximum is 370 mm.
+The Recoil, Normal is 340 mm.
+The Recoil System is 2 hydraulic buffers and 1 hydropneumatic recuperator.
+The Breech Type is semi-automatic vertical sliding wedge.
+The Muzzle Velocity is 1373+ m/sec.
+The Maximum Range is 2,500+ km.
+The Turret Type is electro-hydraulic, manual backup.
+The Feed System is Manual.
+The Elevation is -10/+20 deg.
+The Traverse is 360 deg.
+
+Here is Ammunition (Option 1) information for the M1A2 Abrams American Main Battle Tank (MBT) of the Main Gun:
+The Name is M830.
+The Type is HEAT-MP.
+The Caliber is 120.
+The Length is 981 mm.
+The Weight is 24.2 kg.
+The Basic Load is 42 rounds.
+The Ammo Types is HEAT-MP-T, APFSDS-T, MPAT, STAFF.
+
+Here is Ammunition (Option 2) information for the M1A2 Abrams American Main Battle Tank (MBT) of the Main Gun:
+The Name is M829.
+The Type is APFSDS.
+The Caliber is 120mm.
+The Length is 935 mm.
+The Weight is 18.7 kg.
+The Basic Load is 42 Rounds.
+
+Here is System information for the M1A2 Abrams American Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is 1 x 7.26-mm M240 machine gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.72mm.
+The Length is 1,260 mm.
+The Barrel Length is 630 mm.
+The Width is 120 mm.
+The Height is (260 mm.
+The Weight is 12.5 kg.
+The Action is Gas-operated long-stroke piston, open bolt.
+The Rate of Fire is M240, M240E1, M240C, M240D and M240G:
+Gas Setting 1: 650–750 RPM
+Gas Setting 2: 750–850 RPM
+Gas Setting 3: 850–950 RPM
+M240B, M240L and M240H: 550–650 RPM
+Barrett 240LW and 240 LWS: 550–650 RPM.
+The Muzzle Velocity is 853 m/s.
+The Maximum Firing Range is 3,725 m.
+The Effective Firing Range is 800 m (875 yd) (bipod)
+1,100 m (1,203 yd) (tripod).
+The Feed System is Belt-fed using M13 disintegrating links.
+The Sights is Iron sights: front blade and folding rear leaf with aperture and notch.
+
+Here is Ammunition information for the M1A2 Abrams American Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is 6,000 Rounds.
+
+Here is Loader's Weapon System information for the M1A2 Abrams American Main Battle Tank (MBT):
+The Weapon is 1 x 7.62-mm M240 machine gun on Skate Mount.
+The Basic Load is 6,000 Rounds.
+
+Here is System information for the M1A2 Abrams American Main Battle Tank (MBT) of the Commander's Weapon System:
+The Name is 1 x .50-caliber M2 machine gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight is 38 kg (83.78 lb)
+58 kg (127.87 lb) with tripod and T&E (Traverse and Elevation Mechanism).
+The Action is Short recoil-operated.
+The Rate of Fire is 450–600 rounds/min (M2HB)
+750–850 rounds/min (AN/M2)
+1,200–1,300 rounds/min (AN/M3).
+The Muzzle Velocity is 890 m/s.
+The Maximum Firing Range is 7,400 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is Belt-fed (M2 or M9 links).
+The Sights is INA.
+
+Here is Ammunition information for the M1A2 Abrams American Main Battle Tank (MBT) of the Commander's Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Basic Load is 1,000.
+
+Here is Fire Control information for the M1A2 Abrams American Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is Yes.
+The Ballistic Computer is Hughes 12 kilobyte digital computer.
+The Main Gun Stabilization is Yes.
+The Day Optics is Hughes primary stabilized sight with 3- and 10-power day optics.
+The Night Optics is Hughes night-vision/sight with thermal
+imaging.
+The Rangefinder is GEC Avionics/Kollsman eye-safe CO2 rangefinder replaces the Nd-YAG laser rangefinder.
+The Effective Fire Range is 200 to 7,990 m.
+The Accuracy is 10 m or less.
+The Commander's Thermal Viewer is a Texas Instruments commander's independent thermal viewer (CITV), which permits the commander to search and independently select new targets.
+The Driver's Thermal Viewer is Hughes driver's thermal viewer (DTV) with integrated display, a fire-control electronics unit (FCEU) that coordinates CIT stabilization, primary sight and gun-turret drive.
+The M1A2 Upgrade is improved commander's weapon station (ICWS).
+The Information System is intervehicular information system (IVIS).
+The Navigation System is Smith Industries position navigation (POS/NAV) system.
+
+Here is Protection information for the M1A2 Abrams American Main Battle Tank (MBT):
+The Hull Armor is Chobham-type armor on glacis and turret,armored bulkheads between turret and engine; depleted uranium armor in production since 1988.
+The Turret Armor is INA.
+The Applique Armor is Available.
+The Explosive Reactive Armor is INA.
+The Active Protection System is In addition to the armor, some USMC Abrams tanks are equipped with a Softkill Active protection system, the AN/VLQ-6 Missile Countermeasure Device (MCD) that can impede the function of guidance systems of some semi-active control line-of-sight (SACLOS) wire- and radio guided anti-tank missiles (such as the Russian 9K114 Shturm) and infrared homing missiles..
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is 200 SCFM-Clean Cooled Air (collective overpressure); AN/VDR-1 radiological warning device.
+The Smoke Equipment is M250 (British L8A1) 2 x 6-barrel smoke discharger (24 rounds), engine exhaust generation.
+The Fire Suppression is automatic detection and suppression.
+The Fuel Cover is Allied Bendix digital electronic fuel control.
+The Note is Enhanced survivability including better armor on gunner's primary sight (GPS) cover;.
+

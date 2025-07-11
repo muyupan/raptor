@@ -1,0 +1,42 @@
+This document describes the Kh-101 / Kh-102 Russian Air Launched Cruise Missile.
+
+The Kh-101 / Kh-102 Raduga is a new line of conventional and nuclear-capable air-launched cruise missiles (ALCM) developed and deployed by Russia.  A stealthy missile, the Kh-101 / Kh-102 is designed to defeat air defense systems by flying low and hugging the terrain to avoid their radar systems.  The Kh-101 is the conventional warhead version while the Kh-102 is the nuclear-capable version of the Raduga.
+The missile also has radar-absorbing capabilities which make it difficult to detect.  It boasts a radar cross-section of .01 square meters.
+The missile has no booster engine and therefore, relied on the altitude of its launch aircraft to assist it in reaching attack speed.  The altitude window is 3,000m to 12,000m flying at a speed of 900km/h.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Kh-101 / Kh-102 Russian Air Launched Cruise Missile:
+The Alternate Designation is Kh-101; Kh-102.
+The Class is Air Launched Cruise Missile.
+The Effective Range is 5,000 km (a source said that the range could be as high as 10,000 km).
+The Circular Error Probability is 6.
+The Basing is Tu-160 "Blackjack" (12 missiles), Tu-22M3/5 "Backfire" C (4 missiles), Tu-95M16 "Bear-H" (8 missiles), and Su-27IB (INA), Su-34 (2 missiles).
+
+Here is Dimensions information for the Kh-101 / Kh-102 Russian Air Launched Cruise Missile:
+The Length is 7.45.
+The Missile Weight is 2,400.
+The Diameter is 0.5.
+The Fin Span is INA.
+
+Here is Payload information for the Kh-101 / Kh-102 Russian Air Launched Cruise Missile:
+The Warhead Options is Conventional and Nuclear.
+The Warhead Type is Kh-101 = Conventional; Kh-102 = Nuclear.
+The Warhead Weight is 450.
+The Nuclear Yield is 250.
+The Conventional Warhead Weight is 400.
+The Conventional Warheads Available is HE, Fragmentation, Submunitions.
+
+Here is Propulsion Characteristics information for the Kh-101 / Kh-102 Russian Air Launched Cruise Missile:
+The Engine is TRDD-50A Turbofan.
+The Propellant is INA.
+The Speed is 900.
+The Flight Ceiling is 6,000.
+The Minimum Flight Altitude is 30.
+The Cruise Altitude is 30-70 m above the ground.
+The Endurance is 10.
+
+Here is Fire Control information for the Kh-101 / Kh-102 Russian Air Launched Cruise Missile:
+The Guidance System is Inertial, Electro-optical correction, GLONASS satellite navigation, and IR TV terminal guidance..
+The Note: is For inflight course correction, the missile uses a pre-loaded map in its onboard computer to perform terrain comparison..
+

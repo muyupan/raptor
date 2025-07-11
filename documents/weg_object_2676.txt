@@ -1,0 +1,123 @@
+This document describes the Type YW-531H (Type 85) Chinese Amphibious Armored Personnel Carrier (APC).
+
+The Type YW-531H (Type 85) Chinese Amphibious Armored Personnel Carrier (APC) is an enlarged successor to the Type 69 that has spawned a family of variants including infantry fighting, command, mortar carriers, weapons carriers, and ambulance vehicles. It was developed in parallel with the 6 x 6 Type 86 and shares the engine and most of the armament options.
+
+Type 85 is also designated the YW 531H. Another version, designated Type 89 by China, but called the YW 534 in the People's Liberation Army (PLA), is very similar, but is 74mm wider and has 150 mm more length of track on the ground.
+
+All vehicles in the line share a common hull. The hull has a shallow glacis, angular sides and top, track skirts over the three return rollers per side, and five wheel stations per side versus the four of the earlier Type 69.
+
+The driver sits in the left front of the hull with the compartment for the license-built Deutz diesel engine to his right. Behind him is the commander.
+
+Some variants have turrets, which are located over the troop compartment. The basic APCs have a shielded 12.7mm machine gun. Other main guns include 25- and 73-mm cannons. Troops enter and leave by a rear door that opens to the right; emergency roof hatches are also provided.
+
+The number of vision blocks and firing ports varies, having three to four periscopes and firing ports on the right-hand side, and two to three on the left side. (Thai YWH 534s have three on each side and one in the rear door.)
+
+This equipment has proliferated into the following countries: Bangladesh, China, Myanmar, Sri Lanka, Thailand, Zimbabwe.
+
+Here is Variants information for the Type YW-531H (Type 85) Chinese Amphibious Armored Personnel Carrier (APC):
+The Type 85/YW 531H is Domestic/export base model..
+The YW703H is Command variant..
+The Type 85 Armored Command Vehicle is 2-man crew, 6 staff, additional communications equipment, & fewer ammunition rounds; used at regimental or division level..
+The Type 85 Recovery Vehicle is 1000 KG crane with 5-man crew. Has a slightly wider hull and is equipped with a 1-tonne crane, generator and welding equipment. Armed with a 12.7mm machine gun..
+The Type 85 Maintenance Engineering Vehicle is Similar to the WZ 751 (ambulance), but for engineering support..
+The Type 85 Mortar Carriers is 82-mm & 120-mm variants similar to the YW 531..
+The WZ 751 Armored Ambulance is 2-man crew with space for 4 litter or 8 seat patients; 12.7-mm MG..
+The Type 85 SP Howitzer (Type 70-1/YW 302) is Type 54-1 122-mm howitzer on Type 85 chassis..
+The Type 85 ATGM Launcher Vehicle is Railed hull with 4-rail Red Arrow-8 SACLOS wire-guided ATGM..
+The YW 307 IFV is Type 89 with a 25-mm cannon similar to the Bushmaster & the 7.62-mm coaxial MG..
+The YW 309 Infantry Combat Vehicle (ICV) is 3-man crew, 73-mm low pressure main gun, 7.62-mm coaxial MG & Red Arrow 3 ATGM..
+The HJ-8 Anti-Tank Vehicle is AT traversable launcher with 4 HJ-8 ATGMs & 4 loads in storage in the hull..
+The NVH-1 is Joint Chinese/British variant with 25-mm gun..
+The Type 90 is Updated design with reduced height, improved hull shape, & better transmission..
+The Thai versions is Similar to the Chinese variants, but armed with a M-2HB MG..
+The Artillery Command Post Vehicle is YW 531H modified with a raised rear superstructure..
+The YW 306 is 130-mm MRL platform..
+The Type 89 (YW 534/WZ 534) is Improved power pack & night vision equipment for domestic use & export with longer & wider chassis, improved engine, & mobility..
+
+Here is System information for the Type YW-531H (Type 85) Chinese Amphibious Armored Personnel Carrier (APC):
+The Alternative Designations is YW-531H; Type 85.
+The Type is Armored Personnel Carrier.
+The Manufacturer is Norinco.
+The Description is Improved Type 69 APC with rear exit door& emergency roof hatches with space for 13 soldiers who can dismount; firing ports vary depending on variant.
+The Crew is 2 (driver, commander).
+The Troop Compartment Capacity is 13.
+The Maximum Effective Range is 500.
+The Driver Day Periscope is 2.
+The Driver Night Periscope is 1.
+
+Here is Dimesions information for the Type YW-531H (Type 85) Chinese Amphibious Armored Personnel Carrier (APC):
+The Length is 6.125 m.
+The Width is 3.06 m.
+The Height, Hull is 1.914 m.
+The Height, to Top of Roof Mounted Weapon is 2.586 m.
+The Weight, Combat is 13,600 kg.
+The Ground Pressure is 0.546kg/cm² (53544Pa) (7.77psi).
+The Ground Clearance is 0.46 m.
+
+Here is Automotive information for the Type YW-531H (Type 85) Chinese Amphibious Armored Personnel Carrier (APC):
+The Engine Name is Deutz BF8L413F.
+The Engine Type is Turbocharged, air-cooled, V-8 diesel.
+The Engine Power is 320 hp at 2,500 rpm.
+The Fuel Capacity is INA.
+The Suspension is torsion bar.
+The Steering is clutch and brake.
+The Range is 500.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is 35.
+The Speed, Maximum Swim is 6.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Angle of Approach is 20°.
+The Angle of Departure is 25°.
+The Vertical Obstable is 0.60 m.
+The Trench is 2.2 m.
+
+Here is Communications information for the Type YW-531H (Type 85) Chinese Amphibious Armored Personnel Carrier (APC):
+The Primary Radio is Type 889.
+The Secondary Radio is VRC 83.
+The Intercom System is Type 803.
+
+Here is System information for the Type YW-531H (Type 85) Chinese Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 x Type 54 (DShKM copy).
+The Type is Anti-Aircraft Machine Gun.
+The Caliber is 12.7.
+The Length is 1,625 mm.
+The Barrel Length is 1,070 mm.
+The Weight is 34 kg.
+The Action is Gas-operated, flapper locking.
+The Rate of Fire is 600 rounds/min.
+The Muzzle Velocity is 850.
+The Max Range is 2,500.
+The Armor Penetration is API: 21 at 500 m & 13 at 1000 m (RHA).
+The Armored Sheilds is Yes.
+The Traverse is 360.
+The Elevation is 90.
+
+Here is Ammunition information for the Type YW-531H (Type 85) Chinese Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7×108mm.
+The Basic Load is 200 Rounds.
+
+Here is Fire Control information for the Type YW-531H (Type 85) Chinese Amphibious Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Tank Commander is INA.
+The Thermal Gunner is INA.
+The Main Gun Stablization is No.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is INA.
+The IFF is INA.
+
+Here is Protection information for the Type YW-531H (Type 85) Chinese Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is The Type 85 is built from welded steel and protected against small arms fire, armor-piercing bullets, and shell fragments..
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is Yes.
+The Survivability Equipment is INA.
+The Smoke Equipment is 8 x Smoke Grenade Launchers (4 on each side).
+The Waveguide Blade is Yes.
+

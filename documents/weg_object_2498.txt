@@ -1,0 +1,175 @@
+This document describes the CS/VN3 Chinese 4x4 Armored Scout Car.
+
+The CS/VN3 Chinese 4x4 Armored Scout Car resembles the French Panhard VBL or Swiss MOWAG Eagle III armored scout cars but is slightly larger. This vehicle was revealed in 2007. It is understood that the development of this light reconnaissance vehicle is now complete. Currently, it is produced in small quantities for the Chinese Army. It is also being proposed for export customers as a light multi-purpose armored personnel carrier. It is worth mentioning that this armored vehicle costs far less than comparable Western or Russian systems.
+
+ The VN3 armored scout car has an all-welded steel hull. It provides protection from small arms fire, artillery shell splinters, as well as some types of mines.
+
+   This armored scout car is fitted with a one-person turret, armed with a 12.7 mm or 14.5 mm heavy machine gun.
+
+   The VN3 has a crew of five, including a commander, gunner, driver, and two scouts. Occupants enter and leave the vehicle through the side or rear doors, or roof hatches. There are some firing ports and associated vision blocks provided for the occupants. The vehicle is powered by a front-mounted diesel engine.
+
+   Alternatively, the VN3 armored scout car could be configured as an armored personnel carrier, with the turret removed. In this case, it has a crew of two and accommodates eight troops. Other variants of this scout car include a larger unidentified 4x4 armored vehicle, fitted with a 30 mm turret-mounted cannon. This vehicle uses a turret similar to that of the ZLC 2000 airborne combat vehicle. Another variant is amphibious and can carry HJ-8 anti-tank missiles.
+
+This equipment has proliferated into the following countries: Belarus, China, Laos (People's Democratic Republic).
+
+Here is Variants information for the CS/VN3 Chinese 4x4 Armored Scout Car:
+The CS/VN3B is This is an upgraded version of the CS/VN3 with add-on armour to increase ballistic and mine protection. The roof of the crew compartment is fitted with a remotely operated weapon station armed with a 7.62mm machine gun..
+The CS/VN3C is he Armored Infantry Fighting Vehicle variant of the CS/VN3. The vehicle is fitted with a one man-turret armed with a 30mm automatic cannon..
+
+Here is System information for the CS/VN3 Chinese 4x4 Armored Scout Car:
+The Alternative Designation is CS/VN3.
+The Type is Armored Scout Car.
+The Manufacturer is Norinco.
+The Status is In Production.
+The Expected Out of Service Date is 2036.
+The Crew is 2.
+The Troop Compartment is 3.
+The Amphibious Capability is Optional.
+The Night Vision is Optional.
+The Navigation System is Optional.
+The Global Positioning System is Optional.
+The Maximum Range is 600.
+
+Here is Dimensions information for the CS/VN3 Chinese 4x4 Armored Scout Car:
+The Length is 4.62.
+The Width is 2.2.
+The Height is 1.77.
+The Weight, Combat is 5.7.
+The Ground Clearance is 0.41.
+
+Here is Automotive information for the CS/VN3 Chinese 4x4 Armored Scout Car:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 165.
+The Engine Location is Front.
+The Transmission is Automatic.
+The Cruising Range is 600.
+The Speed, Maximum Road is 110.
+The Speed, Average Cross is INA.
+The Speed, Maximum Swim is INA.
+The Fording Depth is INA.
+The Gradient is 60.
+The Turning Radius is 8.
+The Anti-Skid Braking System is Yes.
+The Note is The monocoque hull is built from welded steel armour, and the engine and transmission are fitted directly to the hull rather than a chassis..
+
+Here is TBR-142 information for the CS/VN3 Chinese 4x4 Armored Scout Car of the Communications:
+The VHF FM Transceiver is Yes, TBR-142(I).
+The VHF Range is 1 to 50.
+The Megahertz is 40.000 to 59.975.
+The Output Power is 1 to 0.3.
+The Power is 12V Ni-Ca Rechargeable Battery or external 12V DC power source.
+The Dimensions is 217x135x58.
+The Weight is 2.7.
+The Antennas is 3 Total: a 1.3m whip antenna, a 0.3m short antenna, and a 10m wire antenna.
+The Proliferated is Widely with Artillery/Gun/Missile/Reconnaissance Units.
+The Control Device is TBR-142(II).
+The Multi-function Field Phone is TBR-142(IIID).
+The Anti-Aircraft Control Unit is TBR-142(IIIG).
+The ZXY88-200 C2 Capable is Yes.
+The Messaging is Capability – Limited.
+The Amplifier is Available.
+The Physical Conditions is Terrain and Weather favorable.
+
+Here is System (Option 1) information for the CS/VN3 Chinese 4x4 Armored Scout Car of the Main Weapon System:
+The Name is 1 x QJG89.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Manufacturer is INA.
+The Turret Type is One Person.
+The Length is 2,119.
+The Length, Barrel is 1,003.
+The Diameter is INA.
+The Weight (Gun Only) is 18.5.
+The Weight (Tripod) is 17.5.
+The Action is Gas.
+The Rate of Fire is 450-600.
+The Fire Selector is 0-F.
+The Stock is Fixed.
+The Feed System is Belt.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the CS/VN3 Chinese 4x4 Armored Scout Car of the Main Weapon System:
+The Type is Ball.
+The Caliber is 12.7x108.
+The Muzzle Velocity is 825.
+The Basic Load is INA.
+The Effective Firing Range (vs. Air) is 1,500.
+The Effective Firing Range (vs.Ground) is 2,000.
+The Magazine is Belt fed, 50 rounds.
+The Operation is Hybrid direct impingement and short recoil.
+The Armor Penetration is INA.
+
+Here is System (Option 2) information for the CS/VN3 Chinese 4x4 Armored Scout Car of the Main Weapon System:
+The Name is 1 x KPV.
+The Type is Heavy Machine Gun.
+The Caliber is 14.5 mm.
+The Manufacturer is V.A. Degtyarev Plant.
+The Date of Introduction is 1949-present.
+The Proliferation is Widely Proliferated.
+The Weight is 49.
+The Length, Total is 1,980.
+The Length, Barrel is 1,346.
+The Width is 162.
+The Height is 225.
+The Action is Short Recoil Operation.
+The Rate of Fire is 600.
+The Feed System is 40-round belt.
+The Sights is Iron or Optical.
+
+Here is Ammunition information for the CS/VN3 Chinese 4x4 Armored Scout Car of the Main Weapon System:
+The Type is Anti-tank rifle, Heavy machine gun.
+The Caliber is 14.5.
+The Cartridge is 14.5x114.
+The Muzzle Velocity is 1,005.
+The Basic Load is INA.
+The Maximum Firing Range is 4,000.
+The Effective Firing Range is 3,000.
+The Armor Penetration is Yes.
+The Round Variant 1 is BS: Armor-piercing incendiary original anti-tank round. The projectile weighs 64.4 grams and is 51 millimeters long with a 38.7 gram core of tungsten carbide with 1.8 grams of incendiary material in the tip. The overall round weighs approximately 200 grams and is 155 millimeters long. The projectile has a muzzle velocity of approximately 1,006 meters per second and can penetrate 30-32 millimeters of RHA steel at an incidence of 0 degrees at a range of 500 meters, or 40 millimeters at a range of 100 meters..
+The Round Variant 2 is B-32: Armor-piercing incendiary full metal jacket round with a hardened steel core. Projectile weight is 64 g and muzzle velocity is 1006 m/s. Armour penetration at 500 m is 32 mm of RHA at 90 degrees..
+The Round Variant 3 is BZT: Armor-piercing incendiary tracer full metal jacket round with a steel core. Projectile weight is 59.56 g and muzzle velocity is 1,006 m/s. Tracer burns to at least 2,000 m..
+The Round Variant 4 is MDZ: High-explosive incendiary bullet of instant action. Projectile weight is 59.68 g..
+The Round Variant 5 is ZP: Incendiary tracer round.
+The Round Variant 6 is DGJ02: APIDS-T cartridge uses a 45 g tungsten penetrator, wrapped in a discarding sabot (similar to the US military SLAP cartridges) with dual colour tracer to aid ranging. The sabot splits and leaves the penetrator between 150 and 200 m from the muzzle. It has a muzzle velocity of 1,250 m/s and is quoted as being able to penetrate 20 mm of armour plate set at an angle of 60° at 1000 m..
+The Round Variant 7 is DGE02: APHEI cartridge weighs between 175 and 188 g. At 1000 m it is quoted as having a 90 percent chance of being able to penetrate 15 mm of armour plate set at 30°. At 300 m after penetrating a 2 mm soft steel plate (representing an aircraft skin) it can further penetrate a 1.2 mm thick steel plate producing 20 fragments. Upon explosion between 75 and 95 incendiary pieces are formed which have an 80% chance of igniting aviation fuel..
+
+Here is System information for the CS/VN3 Chinese 4x4 Armored Scout Car of the Auxiliary Weapon System:
+The Name is 1 x Type 80.
+The Type is Heavy Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is Norinco.
+The Date of Introduction is 1985.
+The Length, Total is 1,192.
+The Length, Barrel is 658.
+The Diameter is INA.
+The Weight (Gun Only) is 12.6.
+The Weight (With Tripod) is 17.5.
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 700-800.
+The Feed System is Belts in 100/200/250 round boxes.
+The Sights is Open sights. Optical/Night vision scope can be outfitted..
+
+Here is Ammunition information for the CS/VN3 Chinese 4x4 Armored Scout Car of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62×54mmR.
+The Muzzle Velocity is 840.
+The Basic Load is INA, Belts in 100/200/250 round boxes.
+The Effective Firing Range is 100-1,500 (With Sight Adjustments).
+The Min Range is 100.
+The Armor Penetration is Available.
+
+Here is Fire Control information for the CS/VN3 Chinese 4x4 Armored Scout Car:
+The Laser Target Designation is INA.
+
+Here is Protection information for the CS/VN3 Chinese 4x4 Armored Scout Car:
+The Hull Armor is All-welded Steel, provides an unspecified level of protection
+from small arms fire, shell splinters and some types of mine..
+The Applique Armor is Available.
+The NBC Protection is Yes.
+The Ballistic Glass is Yes.
+The Fire Detection and Suppression System is Yes.
+The Smoke Equipment is Yes, 2 x  banks of three smoke grenade launchers are mounted on the turret.
+The Firing Ports is Yes.
+The Air Conditioning System is Yes.
+

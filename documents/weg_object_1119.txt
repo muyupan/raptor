@@ -1,0 +1,64 @@
+This document describes the HQ-12 (KS-1) Chinese Medium-Range Air Defense Missile System.
+
+The HQ-12 (KS-1) Chinese Medium-Range Air Defense Missile System is designed to engage enemy aircraft and helicopters at all altitudes of their combat application, day and night in any weather conditions.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the HQ-12 (KS-1) Chinese Medium-Range Air Defense Missile System:
+The HQ-12A (KS-1A) is This version has clipped tip wings and fins, has an increased range of 50 km, and a maximum intercept altitude of 27 km..
+The HQ-12B (KS-2) is INA.
+The HQ-12C (KS-1C) is INA.
+
+Here is System information for the HQ-12 (KS-1) Chinese Medium-Range Air Defense Missile System:
+The Alternative Designation is HQ-12; KS-1; FT-2100.
+The Type is Medium-Range Air Defense Missile System.
+The Manufacturer is Jiangnan Space Industry, also known as Base 061.
+The Crew is INA.
+The Chassis is HY 2220 6 × 6 truck, but the launch vehicles may vary..
+The Mission is The HQ-12 (KS-1) Chinese Medium-Range Air Defense Missile System  is designed to engage enemy aircraft and helicopters at all altitudes of their combat application, day and night in any weather conditions..
+The Displacement Time is less than 30 min.
+The Emplacement Time is less than 30 min.
+The Note is A typical HQ-12 battery has a phased-array radar guidance station, four twin-missile launch vehicles on a HY 2220 6 × 6 truck chassis, a communications vehicle, a command and control vehicle, and associated support vehicles..
+
+Here is Dimensions information for the HQ-12 (KS-1) Chinese Medium-Range Air Defense Missile System:
+The Note is HY 2220 6 × 6 truck, but the launch vehicle may vary..
+
+Here is Automotive information for the HQ-12 (KS-1) Chinese Medium-Range Air Defense Missile System:
+The Note is HY 2220 6 × 6 truck, but the launch vehicle may vary..
+
+Here is Missile System information for the HQ-12 (KS-1) Chinese Medium-Range Air Defense Missile System:
+The Name is LSD HQ-12.
+The Missile Length is 5.56 m.
+The Missile Diameter is 0.4 m.
+The Missile Weight is 900 kg.
+The Warhead Type is HE blast/fragmentation.
+The Warhead Weight is 100 kg.
+The Guidance System is Command.
+The Propulsion is Solid propellant.
+The Maximum Flight Speed is 1,200 m/s.
+The Maximum Target Speed is 750 m/s.
+The Minimum Range of Fire is 7 km.
+The Maximum Range of Fire at target speed up to 720m/sec is 38 km.
+The Maximum Range of Fire at target speed up to 420m/sec is 42 km.
+The Maximum Range of Fire at target speed up to 320m/sec is 50 km.
+The Altitude at Sea Level is 0-3,000 m.
+The Basic Load is 2 x Missiles per launch vehicle..
+
+Here is Fire Control System information for the HQ-12 (KS-1) Chinese Medium-Range Air Defense Missile System of the Fire Control System and Radar:
+The Name is INA.
+The Computerized FCS is Yes.
+
+Here is Radar information for the HQ-12 (KS-1) Chinese Medium-Range Air Defense Missile System of the Fire Control System and Radar:
+The Name is SJ-202 Radar.
+The Band is G-Band.
+The Maximum Range is 27 km.
+The Maxaimum Number of Targets is 50.
+
+Here is Protection information for the HQ-12 (KS-1) Chinese Medium-Range Air Defense Missile System:
+The Hull Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

@@ -1,0 +1,81 @@
+This document describes the HH-60G Pave Hawk American Combat Search and Rescue Helicopter.
+
+The Sikorsky MH-60G/HH-60G Pave Hawk is a twin-turboshaft engine helicopter in service with the United States Air Force. It is a derivative of the UH-60 Black Hawk and incorporates the US Air Force PAVE electronic systems program. The HH-60/MH-60 is a member of the Sikorsky S-70 family.
+
+The MH-60G Pave Hawk's primary mission is insertion and recovery of special operations personnel, while the HH-60G Pave Hawk's core mission is recovery of personnel under hostile conditions, including combat search and rescue. Both versions conduct day or night operations into hostile environments. Because of its versatility, the HH-60G may also perform peacetime operations such as civil search and rescue, emergency aeromedical evacuation (MEDEVAC), disaster relief, international aid and counter-drug activities.
+
+This equipment has proliferated into the following countries: CFE Treaty, South Korea (Republic of Korea), United States of America.
+
+Here is Variants information for the HH-60G Pave Hawk American Combat Search and Rescue Helicopter:
+The HH-60A is Prototype for the HH-60D rescue helicopter. A modified UH-60A primarily designed for combat search and rescue. It is equipped with a rescue hoist with a 200 ft (60.96 m) cable that has a 600 lb (270 kg) lift capability, and a retractable in-flight refueling probe..
+The HH-60D Night Hawk is Prototype of combat rescue variant for the US Air Force..
+The HH-60E is Proposed search and rescue variant for the US Air Force..
+The HH-60G Pave Hawk is Search and rescue helicopter for the US Air Force upgraded from UH-60A Credible Hawk..
+The MH-60G Pave Hawk is Special Operations, search and rescue model for the US Air Force. Equipped with long-range fuel tanks, air-to-air refueling capability, FLIR, improved radar. Powered by T-700-GE-700/701 engines..
+The Maplehawk is Proposed search and rescue version for the Canadian Forces to replace aging CH-113 Labradors. The CF opted for the CH-149 Cormorant instead..
+The HH-60P Pave Hawk is Combat Search and Rescue variant of UH-60P, in service with Republic of Korea Air Force. Variant includes External Tank System and FLIR for night operations..
+The HH-60W Jolly Green II is Combat rescue helicopter variant of the UH-60M for the U.S. Air Force to replace the HH-60G..
+
+Here is System information for the HH-60G Pave Hawk American Combat Search and Rescue Helicopter:
+The Alternative Designation is HH-60G.
+The Type is Combat Search and Rescue Helicopter.
+The Crew is 4 (two pilots, two special mission aviators/aerial gunners).
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 4.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+The Cargo Capacity is Maximum crew six / eight–12 troops / litters and/or other cargo.
+
+Here is Dimensions information for the HH-60G Pave Hawk American Combat Search and Rescue Helicopter:
+The Length is 19.76 m.
+The Main Rotor Diameter is 16.05 m.
+The Height is 5.08 m.
+The Empty Weight is 7,257 kg.
+The Maximum Takeoff Weight is 9,979 kg.
+
+Here is Automotive information for the HH-60G Pave Hawk American Combat Search and Rescue Helicopter:
+The Engine Name is 2 × General Electric T700-GE-700-701C.
+The Engine Type is Turboshaft.
+The Engine Power is 1,940 shp (1,450 kW) each.
+The Maximum Speed is 357 km/h.
+The Cruise Speed is 294 km/h.
+The Range is 600 km.
+The Ferry Range is 817 km.
+The Service Ceiling is 4,300 m.
+
+Here is System information for the HH-60G Pave Hawk American Combat Search and Rescue Helicopter of the Main Gun System:
+The Name is M2 Browning.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Quantity is 2.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight is 38 kg.
+The Action is Short recoil-operated.
+The Rate of Fire is 450–600 rounds/min.
+The Muzzle Velocity is 890 m/s.
+The Maximum Firing Range is 7,400 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is Belt-fed (M2 or M9 links).
+
+Here is Ammunition information for the HH-60G Pave Hawk American Combat Search and Rescue Helicopter of the Main Gun System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Basic Load is INA.
+
+Here is Fire Control and Avionics information for the HH-60G Pave Hawk American Combat Search and Rescue Helicopter:
+The GPS is INS/GPS/Doppler navigation.
+The SATCOM is SATCOM satellite communications.
+The EW is Secure/anti-jam communications.
+The LARS is LARS (Lightweight Airborne Recovery System) range/steering radio to compatible survivor radios.
+The Night Vision is night vision goggle lighting.
+The FLIR is Yes.
+
+Here is Protection information for the HH-60G Pave Hawk American Combat Search and Rescue Helicopter:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The Counter Measures (Chaff/Flares) is flare/chaff countermeasure dispensing system.
+

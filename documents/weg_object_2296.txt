@@ -1,0 +1,20 @@
+This document describes the AHM-200 Bulgarian Anti-Helicopter Mine.
+
+The 4AHM-100, AHM-200, AHM-200-1, AHM-200-2, PMN-150, and PMN-250 are Bulgarian directional fragmentation mines that can be used with proximity fuzes to function as anti-helicopter mines.
+
+The systems were developed by the Bulgarian Institute of Metal Science, and are based around electronic fuzes with broadly similar functionality. The fuzes use two sensors. The first, an acoustic sensor, arms the mine as a helicopter approaches. The second sensor is a radar, which locates the target and triggers the mine at the appropriate point. The mines all use a number of large Misznay Schardin effect warheads to project large numbers of fragments to an effective range of around 200 meters. Jane's Mines and Mine Clearance speculates that IFF could be integrated into the fuze circuit to discriminate against friendly aircraft, lowering the chances of friendly fire.
+
+The AHM-200 weighs 35 kilograms and contains 12 kilograms of TNT. The mine's warhead has two sections, a large rectangular warhead with a pre-notched fragmentation liner that produces 1,960 fragments, and a secondary warhead with five Misznay Schardin plates that produce large self-forging fragments. The fragments scatter in an arc of 20 degrees to an effective range of 200 meters, and will penetrate 10 millimeters of armour at 100 meters.
+
+This equipment has proliferated into the following countries: Bulgaria.
+
+Here is System information for the AHM-200 Bulgarian Anti-Helicopter Mine:
+The Country of Manufacture is Bulgaria.
+The Emplacement Method is manual.
+The Armor Penetration / Kill Mechanism is 10mm @ 100 m.
+The Effective Range is max 200.
+The Detectability/ Composition is visual.
+The Target Velocity is INA.
+The Fuze Type is combined acoustic & Doppler SHF.
+The Warhead Type/Total Weight is Total weight: 90 kg.
+

@@ -1,0 +1,84 @@
+This document describes the M101 American 105mm Towed Howitzer.
+
+The 105 mm M101A1 howitzer (previously designated M2A1) is an artillery piece developed and used by the United States. It was the standard U.S. light field howitzer in World War II and saw action in both the European and Pacific theaters. Entering production in 1941, it quickly gained a reputation for accuracy and a powerful punch. The M101A1 fires 105 mm high explosive (HE) semi-fixed ammunition and has a range of 12,330 yards (11,270 m), making it suitable for supporting infantry.
+
+This equipment has proliferated into the following countries: Argentina, Austria, Bahrain, Bangladesh, Belgium, Benin, Bolivia (Plurinational State of), Bosnia and Herzegovina, Brazil, Burkina Faso, Cambodia, Cameroon, Canada, Chad, Chile, China, Colombia, Croatia, Denmark, Dominican Republic, Ecuador, El Salvador, France, Gabon, Germany, Greece, Guatemala, Honduras, Indonesia, Iran (Islamic Republic of), Iraq, Israel, Japan, Laos (People's Democratic Republic), Lebanon, Liberia, Lithuania, Macedonia, Madagascar, Malaysia, Mauritania, Mexico, Morocco, Myanmar, Netherlands, New Zealand, Nicaragua, Norway, Pakistan, Paraguay, Peru, Philippines, Portugal, Rwanda, Saudi Arabia, Senegal, South Africa, South Korea (Republic of Korea), Spain, Sudan, Thailand, Togo, Tunisia, Uruguay, Venezuela (Bolivarian Republic of), Viet Nam.
+
+Here is Variants information for the M101 American 105mm Towed Howitzer:
+The M101 is The original production model had the M2A1 carriage and the M2A1 model gun, which had a straight barrel..
+The M101A1 is This is covered in the main entry. It has a M2A2 carriage (which differs from the M2A1 chiefly in the amount of shielding) and the M2A2 gun, which has a thickened muzzle..
+The German M101 modification is It features a longer barrel with single-baffle muzzle brake, new breech ring and new sights. Maximum range is 15,420 yds (14,100 m)..
+The M101/33 Upgrade is This was proposed by RDM (De Rotterdamsche Droogdok Maatschappij BV) Defence Engineering of Rotterdam, Netherlands. It features a longer barrel of 33 calibers; progressive twist rifling increasing from 1 in 35 to 1 in 18 over the first 9 ft 2 in (2.974 m) and holding 1 in 18 over last 12 in (306 mm ); and a slotted muzzle brake. The loaded weight increases to 5,247 lb (2,380 kg).
+In March 1994, RDM was awarded a US$13.75 million contract by the Canadian army to upgrade 96 M101 howitzers to the M101/33 standard. The contract included two options, one for an additional 29 howitzers, and another for an additional 60. The first upgraded howitzers were shipped back to Canada in late 1995 with the entire batch of 96 to be completed in 1998.
+
+It was also trialed in Indonesia and Malaysia. In 1994, a single model of a Brazilian M101 was upgraded by RDM with a 37-caliber barrel from the Royal Ordnance L118 Light Gun. At the time, Brazil had a requirement for up to 80 upgraded M101s..
+The M101/LG1 Upgrade is Giat Industries has developed an upgrade for the M101 that replaces the 23-caliber barrel of the M101 with the 30-caliber barrel used by Giat's LG1 Mk II 105-mm Light Gun. The upgrade allows the M101 to fire new Giat HE extended-range base-bleed ammunition out to 17,500 m (10.9 miles).
+Giat was awarded a contract by the Philippines in July 1996 to modify 12 M101A1s with the newer barrel. An order for the rest of the Philippines inventory of M101s was seen as possible. Thailand reportedly ordered 300 upgraded kits for its stock of M101s..
+
+Here is System information for the M101 American 105mm Towed Howitzer:
+The Alternative Designation is M101; M101A1.
+The Type is 105 mm Towed Howitzer.
+The In Service is 1941-Present.
+The Crew is 8.
+The Carriage is split trail, post-war designation of M2A1 on carriage M2A1.
+The Displacement Time is Less than 2 Minutes.
+The Emplacement Time is Less than 2 Minutes.
+
+Here is Dimensions information for the M101 American 105mm Towed Howitzer:
+The Length, Overall is 5.99 m.
+The Barrel Length is 2.57 m.
+The Rifling Length is 1.98 m.
+The Width, Firing is 3.66 m.
+The Width, Traveling is 2.16 m.
+The Height is 1.57 m.
+The Ground Clearance is 356 mm.
+The Weight is 2,258 kg.
+
+Here is System information for the M101 American 105mm Towed Howitzer of the Howitzer:
+The Name is M101.
+The Type is Towed Howitzer.
+The Caliber is 105 mm.
+The Carriage is split trail, post-war designation of M2A1 on carriage M2A1.
+The Bore is 105-mm/23-cal M2A1 or M2A2, rifled (barrel has a life of 20,000 rounds).
+The Rifling is 1 in 20 constant twist, 36 grooves.
+The Elevation is -5 deg to 66 deg (-89 mils to 1,156 mils).
+The Traverse is 23 deg (409 mils) to each side.
+The Breech Type is horizontal sliding wedge.
+The Recoil System is hydropneumatic.
+The Rate of Fire, Sustained is 3 rds/min.
+The Rate of Fire, Maximum is 10 rds/min.
+
+Here is Ammunition (Option 1) information for the M101 American 105mm Towed Howitzer of the Howitzer:
+The Name is M548.
+The Type is HERA.
+The Caliber is 105 mm.
+The Length is 830 mm.
+The Weight is 17.46 kg.
+The Muzzle Velocity is 548 mps.
+The Maximum Range is 14,600 m.
+
+Here is Ammunition (Option 2) information for the M101 American 105mm Towed Howitzer of the Howitzer:
+The Name is M546.
+The Type is APERS-T.
+The Caliber is 105 mm.
+The Length is 867 mm.
+The Weight is 17.35 kg.
+The Muzzle Velocity is 549 mps.
+The Maximum Range is 11,600 m.
+
+Here is Ammunition (Option 3) information for the M101 American 105mm Towed Howitzer of the Howitzer:
+The Name is INA.
+The Type is HE, GB, HD, WP, HC, ILLUM.
+The Caliber is 105 mm.
+The Length is Varies.
+The Weight is Varies.
+The Muzzle Velocity is 472.4 mps.
+The Maximum Range is 11,270 m.
+
+Here is Fire Control information for the M101 American 105mm Towed Howitzer:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Collimator is INA.
+

@@ -1,0 +1,170 @@
+This document describes the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT).
+
+The Ch'ŏnma-ho or spelled as Chonma-ho is one of North Korea's secretive indigenous main battle tank designs. The tank is also known by the name of 천리마 전차 (千里馬 or the "Chollima Tank"). The original Ch'ŏnma-ho is based on the Soviet T-62. There are at least five different operational versions of the Ch'ŏnma-ho. Since its inception, the Ch'ŏnma-ho has apparently undergone several extensive upgrades. Little public information is available about this tank, and its most recent public appearance was the 65th Anniversary Parade held in Pyongyang, North Korea, on 10 October 2010, celebrating the 65th anniversary of North Korea's ruling party.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is Variants information for the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT):
+The Ch'ŏnma-ho ARV is Armoured recovery vehicle with a casemate superstructure..
+The Ch'ŏnma-ho Command is Command variant of the tank with a fake main gun..
+The Juche-Po is Self-propelled artillery gun on a modified Ch'ŏnma-ho chassis. The Juche-Po is an improvement over the Tok-Ch'ŏn artillery piece, which was mounted on an ATS-59 chassis. There are at least four M1991 versions of the Juche-Po, each mounting a different gun: the D-30 122 mm, D-74 122 mm, the M-46 130 mm, and the ML-20 152 mm howitzer. A fifth M1992 version is armed with the SM-4-1 130 mm howitzer. These artillery pieces can be identified by their six road wheels, as compared to the Tok-Ch'ŏn's five, and a prominent recoil cylinder that protrudes from the turret. Another major difference is that the Juche-Po has a fully encased rounded turret, as opposed to the older open-topped self-propelled artillery pieces used previously..
+The Ch'ŏnma-ho Type IV is The Ch'ŏnma-ho IV is fitted with what resembles EDZ light explosive reactive armor bricks. Judging by photographs, these are mounted specifically on the turret side, with at least eight bricks per side. The Ch'ŏnma-ho IV is reported to be upgraded with new side-mounted smoke launchers..
+The Ch'ŏnma-ho Type V is Newest Version. Very little information on this version..
+
+Here is System information for the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT):
+The Alternative Designation is Chonma-ho, Pegasus,.
+The Type is Main Battle Tank.
+The Manufacturer is Second Machine Industry Bureau.
+The Family is INA.
+The Crew is 4.
+The Passenger Capacity is INA.
+The Maximum Effective Range is 400.
+The Note is The most modern Ch'ŏnma-ho tanks seem to be the IV and V versions..
+
+Here is Dimensions information for the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT):
+The Length is 6.63.
+The Width is 3.52.
+The Height is 2.4.
+The Weight, Combat is 40.
+The Ground Pressure is 0.77.
+
+Here is Automotive information for the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT):
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 750.
+The Cruising Range is 450.
+The Speed, Maximum Road is 30.
+The Speed, Average Cross is 22.
+The Speed Maximum Swim is Not Amphibious.
+The Vertical Obstacles is 0.8.
+The Trench Obstacles is 2.85.
+The Fording Depth is 1.4.
+The Power to Weight Ratio is 18.75.
+
+Here is R-109 information for the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT) of the Communications:
+The Frequency Range is 21.5 to 28.5.
+The Modulation is FM.
+The Power Output is 1.3.
+The Maximum Range (Kulikov) is 6.
+The Maximum Range (Wire) is 25.
+The Power Source is Two 2Nc dry cell batteries.
+The Antenna is Kulikov or wire.
+The Transport is Manpack or vehicle mounted.
+The Origin is USSR.
+The Employment is Armor Units.
+
+Here is System information for the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT) of the Main Gun:
+The Name is U-5TS (2A20) 115mm Tank Gun.
+The Type is 115 mm Smoothbore Gun.
+The Origin is Soviet Union.
+The Length (Barrel) is 6.05.
+The Max Rate of Fire is 6-10.
+The Sustain Rate of Fire is 4-7.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Range Finder Type is INA.
+The Maximum Effective Range (High Target) is 2,100.
+The Maximum Effective Range (Med to High Target) is 1,870.
+The Accuracy is 45.
+The Thermal Shroud is Yes.
+
+Here is Ammunition information for the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT) of the Main Gun:
+The Type is Rifle.
+The Caliber is 115.
+The Cartridge is 115 x 728 mmR.
+The Muzzle Velocity is 1,600.
+The Effective Range is 1,870.
+The Armor Penetration is Yes.
+The Basic Load is 40 Total any combination of 115mm projectiles.
+
+Here is System information for the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT) of the Tank Commander's Weapon System:
+The Name is 1 x KPV 14.5mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 14.5 mm.
+The Manufacturer is V.A. Degtyarev Plant.
+The In Service is 1949-present.
+The Max Rate of Fire is 600.
+The Sustain Rate of Fire is 500.
+The Range Finder Type is Optical.
+The Proliferation is Widely Proliferated.
+The Length (Total) is 1,980.
+The Length (Barrel) is 1,346.
+The Width is 162.
+The Weight is 49.
+The Action is Short Recoil Operation.
+The Feed System is 40-round belt.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT) of the Tank Commander's Weapon System:
+The Type is Rifle.
+The Caliber is 14.5.
+The Muzzle Velocity is 1,005.
+The Basic Load is 300.
+The Maximum Firing Range is 3,000-4,000.
+The Armor Penetration is Avaialble.
+The Round Variant 1 is BS: Armor-piercing incendiary original anti-tank round. The projectile weighs 64.4 grams and is 51 millimeters long with a 38.7 gram core of tungsten carbide with 1.8 grams of incendiary material in the tip. The overall round weighs approximately 200 grams and is 155 millimeters long. The projectile has a muzzle velocity of approximately 1,006 meters per second and can penetrate 30-32 millimeters of RHA steel at an incidence of 0 degrees at a range of 500 meters, or 40 millimeters at a range of 100 meters..
+The Round Variant 2 is B-32: Armor-piercing incendiary full metal jacket round with a hardened steel core. Projectile weight is 64 g and muzzle velocity is 1006 m/s. Armour penetration at 500 m is 32 mm of RHA at 90 degrees..
+The Round Variant 3 is BZT: Armor-piercing incendiary tracer full metal jacket round with a steel core. Projectile weight is 59.56 g and muzzle velocity is 1,006 m/s. Tracer burns to at least 2,000 m..
+The Round Variant 4 is MDZ: High-explosive incendiary bullet of instant action. Projectile weight is 59.68 g..
+The Round Variant 5 is ZP: Incendiary tracer round.
+The Round Variant 6 is DGJ02: APIDS-T cartridge uses a 45 g tungsten penetrator, wrapped in a discarding sabot (similar to the US military SLAP cartridges) with dual colour tracer to aid ranging. The sabot splits and leaves the penetrator between 150 and 200 m from the muzzle. It has a muzzle velocity of 1,250 m/s and is quoted as being able to penetrate 20 mm of armour plate set at an angle of 60° at 1000 m..
+The Round Variant 7 is DGE02: APHEI cartridge weighs between 175 and 188 g. At 1000 m it is quoted as having a 90 percent chance of being able to penetrate 15 mm of armour plate set at 30°. At 300 m after penetrating a 2 mm soft steel plate (representing an aircraft skin) it can further penetrate a 1.2 mm thick steel plate producing 20 fragments. Upon explosion between 75 and 95 incendiary pieces are formed which have an 80% chance of igniting aviation fuel..
+
+Here is System information for the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT) of the Loader's Weapon System:
+The Name is 1 x PKT 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is Degtyaryov plant.
+The Max Rate of Fire is 650.
+The Sustain Rate of Fire is 550.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Range Finder Type is Optical and Thermal Sights.
+The In Service is 1961-present.
+The Proliferation is +100 Million.
+The Length (Total) is 1,203.
+The Length (Barrel) is 605.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes..
+The Sights is Iron Sights.
+
+Here is Ammunition information for the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT) of the Loader's Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62mmx54mmR.
+The Muzzle Velocity is 825.
+The Effective Range (Normal Operations is 1,000.
+The Effective Range (with Sight Adjustments) is 3,800.
+The Armor Penetration is Available.
+The Basic Load is 1,000.
+
+Here is Fire Control information for the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Tank Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes.
+The Anti-Aircraft Gun is Yes.
+The Range, Thermal Sight is INA.
+The Range Finder Type is Laser rangefinder.
+
+Here is Protection information for the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT):
+The Hull Armor is 15-100.
+The Turret (Front) Armor is Cast turret, spaced armor, 200.
+The Applique Armor is Available, addition of full-hull skirting.
+The Explosive Reactive Armor is Yes,  EDZ light explosive reactive armour bricks.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is Available.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+The IR Signature is INA.
+The "Boom Shield" is Equipped in the Late 1980's.
+
+Here is Models information for the Chonma-ho (Pegasus) North Korean Main Battle Tank (MBT):
+The Ch'ŏnma-ho I (Ga) is Lightened copy of the T-62 with thinner armour.
+The Ch'ŏnma-ho II (Na) is Similar to a stock T-62, but has several differences, has a laser rangefinder housed in a blister above the main gun atop the turret (though the original T-62 does have a laser rangefinder, the Ch’onma-ho 1 do not – and the laser rangefinder of the T-62 is an integral part of the fire control system, rather than an add-on part like on the Ch’onma-ho 2). Fitted with spaced appliqué armor on the turret in a ring around the turret ("boom shield") – thin plates of steel welded onto the turret atop bars provide a space between the shields and the turret armor to provide the equivalent of spaced armor, as well as doubling as turret baskets for crew equipment and vehicle equipment..
+The Ch'ŏnma-ho III (Da) is A simple progressive upgrade of the Ch’onma-ho 2, with a thermal sleeve for the main gun and armored track skirts added. It is possible, but considered unlikely, that lugs for ERA have been added since its introduction; if they are present, they would be most likely found on the glacis and turret sides. A night vision upgrade.
+The Ch'ŏnma-ho IV (Ra) is Greatly upgraded armor protection, including composite armor on the glacis and turret front, and appliqué or thickened armor elsewhere. Even the appliqué and/or thickened armor appears to be more advanced than earlier models, does not appear to have gained a huge amount of weight. A ballistic computer was added to the fire control suite, and the fire control suite has been integrated into a complete system rather than being a patchwork of upgrades. Gun stabilization has been improved. Radios are improved, and the suspension beefed up. The new engine is a 750-horsepower model which can lay a thick, oily smoke screen by injecting diesel fuel into its exhaust. Lugs for ERA (similar to the Russian Kontakt-3 ERA) added to turret sides, and lugs on the armored track skirts and on the glacis. Lugs for a relatively small amount of ERA bricks on the turret front; the ERA on the turret front would only protect 40% of hits to the turret front. On side of turret, clusters of four smoke grenade launchers; at the rear of the turret another cluster of four smoke grenade launchers, firing backwards instead of forwards.
+The Ch'ŏnma-ho V (Ma) - is Armor upgrades derived partially from the T-90S and T-72S, as well as a better ballistic computer and the addition of the aforementioned thermal imagers. Upgraded main gun – a copy of the 125mm 2A46 gun, complete with an autoloader. The fire control system replaced with one matching the new main gun, and the spent shell ejection system dispensed . Use wider tracks.
+The Ch'ŏnma-ho VI (Ba) is Newly improved armor. fitted with rubber plates to defend shape charged warheads. The chassis has been stretched, and six road wheels per side instead of five.
+The Ch'ŏnma-ho II is Designation for imported T-62.
+The Ch'ŏnma-ho IM is Improved imported T-62.
+

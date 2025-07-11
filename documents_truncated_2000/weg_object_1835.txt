@@ -1,0 +1,115 @@
+This document describes the M2 Bradley American Infantry Fighting Vehicle.
+
+The M2 Bradley American Infantry Fighting Vehicle is a tracked fighting vehicle platform of the United States manufactured by BAE Systems Land & Armaments, formerly United Defense. It was named after U.S. General Omar Bradley. The Bradley is designed to transport infantry or scouts with armor protection, while providing covering fire to suppress enemy troops and armored vehicles.
+
+This equipment has proliferated into the following countries: CFE Treaty, Lebanon, Saudi Arabia, United States of America.
+
+Here is Variants information for the M2 Bradley American Infantry Fighting Vehicle:
+The M2 Bradley (A0 version) is This was the initial production configuration. The first 2,300 Bradleys were of this basic variant. Also known as the A0 version..
+The M2A1 is This was an upgraded variant first produced in 1985, with deliveries taking place in 1986. Improvements were known as Block One improvements..
+The M2A2 is This was also known as the high-survivability configuration. Replacement for A1 was undertaken in two phases. The A2 Phase I production began in May 1988, the A2 Phase II in May 1989..
+The M2A4 is This modernization began in 2012 and allowed for suspension and power management improvements..
+The FM2 is This was an ad hoc fire support vehicle created during the 1991 Persian Gulf War by the 3rd Battalion, 82nd Field Artillery. This involved removing the ground/vehicular laser locator designator (G/VLLD), two radios, and the digital message device (DMD) from the M981 fire support team vehicle (FIST-V) and installing them in an M2 Bradley..
+The M2A2 ODS (Operation Desert Storm ) is This was an improvement kit that was added to approximately 1,400 of the A2 fleet as a result of lessons learned during Operation Desert Storm. Includes: eye-safe laser range finder;
+KVH navigation (TACNAV) system with global positioning system (GPS ) and digital compass;
+United Defense/Loral missile countermeasure device;
+TRW/Magnavox anti-fratricide battlefield combat identification system;
+improved thermal sight for the driver;
+improvements to the stowage of equipment and 25-mm ammunition; and
+redesigned seating..
+The M2 ODS Situational Awareness (ODS SA) is This is a partial upgrade that features the digital connectivity of the A3 without the commander's independent thermal viewer (CITV)..
+The M2A3 is This is an upgrade program for the Bradley fleet. Low-rate initial production contract was approved in August of 1997, full rate in May 2001. This program included the following improvements over the M2A1 series of vehicles:
+All ODS series improvements;
+Texas Instruments' commander's independent viewer (CIV) system. This system includes a day TV system and a second-generation FLIR system. It allows the Bradley commander to look at the battlefield independently from the gunner;
+Texas Instruments' (now DRS Technologies) improved Bradley acquisition system (IBAS ). This system incorporates the electronics that are currently deployed in the CIV with the same eye-safe laser rangefinder and a set of direct view optics. It also provides enhanced shoot-on-the-move capability for the main gun;
+Enhanced protection consisting of titanium roof armor, side skirts, enhanced NBC protection, Halon fire-suppression systems in both the engine and personnel compartments (which is poisonous to humans) and provisions for reactive armor tiles; and
+Various digital electronic systems consisting of computerized digital flat-panel displays for the vehicle crew and infantry squad; removable mass memory unit; enhanced position locating and reporting system (EPLRS); and a MIL-STD-1553 data bus for future integration of inter-vehicular information systems into the vehicle.
+The M2A3 has a new internal exhaust system with the outlet at the right rear rather than near the driver's position..
+The M3 Cavalry Fighting Vehicle is The M3 CFV is used by heavy armored cavalry units in the United States Army..
+The Bradley Stinger Fighting Vehicle (BSFV) is Added six Stinger missiles and carry a five-man Stinger team composed of two Stinger gunners, squad leader, vehicle gunner and driver. Approximately 260 of these vehicles were fielded by the Army. These vehicles have been withdrawn from service and converted into other roles..
+The M4 (C2) is Command and Control variant..
+The M7 Bradley Fire Support Team Vehicle (FIST) is This is a variant of the Bradley designed to provide fire support coordination for forward ground units..
+
+Here is System information for the M2 Bradley American Infantry Fighting Vehicle:
+The Alternative Designation is M2, M2A1 Bradley Infantry Fighting Vehicle.
+The Type is Tracked Infantry Fighting Vehicle.
+The Manufacturer is BAE Systems Land & Armaments, formerly United Defense.
+The Family is Bradley.
+The Configuration is Tracked vehicle platform with turret and troop compartment.
+The Crew is 3 (commander, gunner, driver).
+The Passenger Capacity is 6.
+
+Here is Dimensions information for the M2 Bradley American Infantry Fighting Vehicle:
+The Length is 6.45.
+The Width is 3.20.
+The Height is 2.97.
+The Weight, Combat is 22,590.
+The Ground Pressure is 0.54 kg/sq cm.
+
+Here is Autocannon information for the M2 Bradley American Infantry Fighting Vehicle of the Main Weapon System:
+The Name is 1 x M242 Bushmaster 25mm Chain Gun.
+The Type is Automatic chain gun fitted w/muzzle brake.
+The Caliber is 25 mm.
+The Length is 2,672 mm.
+The Barrel Length is 2,175 mm.
+The Weight is 119 kg.
+The Rate of Fire is 200 rds/min (Cyclic).
+The Effective Firing Range is 3,000 m.
+The Maximum Firing Range is 6,800 m.
+
+Here is Ammunition information for the M2 Bradley American Infantry Fighting Vehicle of the Main Weapon System:
+The M791 Armor-piercing discarding sabot with Tracer is Penetrates lightly armored vehicles, self-propelled artillery, and aerial targets such as helicopters and various slow-moving, fixed-wing aircraft..
+The M792 High Explosive Incendiary with Tracer and Self Destruct is Can destroy unarmored vehicles and helicopters and suppress anti-tank missile positions and enemy squads out to a maximum effective range of 2,200 meters..
+The M793 Target Practice with Tracer is The TP-T cartridge is a fixed-type, percussion-primed training round that matches the High Explosive Incendiary with Tracer (HEI-T M792) round ballistically..
+The M910 Target Practice Discarding Sabot with Tracer is The TPDS-T replicates the flight pattern of the M791 Armor Piercing Discarding Sabot with Tracer (APDS-T) round..
+The M919 Armor-Piercing, Fin-Stabilized Discarding Sabot With Tracer (DART) is Penetrates light armored vehicles, self-propelled artillery, and aerial targets, which includes helicopters and slow-moving fixed-wing aircraft. The dart is made of depleted uranium..
+
+Here is Machine Gun information for the M2 Bradley American Infantry Fighting Vehicle of the Coaxial Weapon System:
+The Name is 1 x M240C 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,260 mm.
+The Barrel Length is 630 mm.
+The Weight is 12.5 kg.
+The Rate of FIre is 550–600 rds/min (Cyclic).
+The Effective Firing Range is 1,200 m.
+The Maximum Firing Range is 3,725 m.
+
+Here is Missile Launcher information for the M2 Bradley American Infantry Fighting Vehicle of the Anti-Tank Weapon System:
+The Name is BGM-71 TOW Launcher.
+The Type is Tube-launched, Optically tracked, Wire-guided missile system.
+The Number of Launchers is 2.
+The Elevation is -20 / +30 deg.
+The Slew Rate is 60 deg/sec max (both axes).
+The Tracking Rate is 0.05 mil/sec.
+
+Here is Ammunition information for the M2 Bradley American Infantry Fighting Vehicle of the Anti-Tank Weapon System:
+The Type is BGM-71.
+The Caliber is 152 mm.
+The Warhead Weight is 3.9 - 6.14 kg.
+The Wingspan is 0.46 m.
+The Range is 3,000 - 3,750 m.
+The Basic Load is 9 available (2 missiles loaded in each launcher (2x launchers), 5 onboard).
+
+Here is Fire Control / Optics information for the M2 Bradley American Infantry Fighting Vehicle:
+The Name is Raytheon integrated sight unit (ISU).
+The Computerized FCS is Yes.
+The Thermals is Yes, Hughes integrated day/night sight with scan at 4-power, aiming at 12-power.
+The Thermal Sight Vehicle Commander is Yes, an optical relay provides the image of the gunner’s sight to the commander..
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes.
+The Night Vision is Yes, AN/VVS-2 driver's viewer with 38 x 45 degrees field of view.
+The Infrared is Yes, improved Bradley acquisition system (IBAS) second generation FLIR (M2A3 only).
+
+Here is Protection information for the M2 Bradley American Infantry Fighting Vehicle:
+The Hull Armor (Front) is 5083 series aluminum.
+The Hull Armor (Bottom) is 5083 series with 9.5 mm anti-mine steel layer.
+The Turret Armor is 5083 series aluminum.
+The Applique Armor is Yes.
+The Explosive Reactive Armor is Yes.
+The Active Protection System is Yes.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes, collective system for crew plus individual masks for onboard infantry.
+The Smoke Equipment is Yes, 2 x 4-barrel M257 dischargers; engine exhaust generators.
+

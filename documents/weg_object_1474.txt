@@ -1,0 +1,80 @@
+This document describes the Island Class Ukrainian Patrol Boat.
+
+On 27 September 2017, two Island Class patrols boats, the USCGC Cushing and the USCGC Drummond, were transferred to the Ukrainian Navy, and renamed the P190 Sloviansk and the P191 Starobilisk. These boats are equipped with advanced electronics and navigation equipment and are used in support Ukraine's maritime security, defense operations, and search and rescue missions.
+
+This equipment has proliferated into the following countries: Georgia, Pakistan, Ukraine, United States of America.
+
+Here is Variants information for the Island Class Ukrainian Patrol Boat:
+The Starobilisk (P190) is Commissioned: 2017
+Status: Active.
+The Sloviansk (P191) is Commissioned: 2017
+Status: Active.
+
+Here is System information for the Island Class Ukrainian Patrol Boat:
+The Alternative Designation is Island Class Patrol Vessel.
+The Date of Introduction is 1988.
+The Type is Patrol Boat / Cutter.
+The Builder is Bollinger Shipyards.
+The In Service is 2019 -Present.
+The Crew is 16.
+
+Here is Dimensions information for the Island Class Ukrainian Patrol Boat:
+The Length is 34.
+The Beam is 6.4.
+The Displacement is 154.
+The Draft is 2.1.
+
+Here is Propulsion System information for the Island Class Ukrainian Patrol Boat:
+The Engine Type is Diesel.
+The Number of Engines is 2.
+The Maximum Sustained Speed is 29.5.
+The Range is 2,890.
+The Endurance is 5.
+
+Here is Weapon Station #1 information for the Island Class Ukrainian Patrol Boat of the Armament:
+The Name is Mk 38.
+The Quantity is 1.
+The Type is Naval Gun.
+The Caliber is 25.
+The Maximum Effective Range is 2,700 m.
+The Maximum Rate of Fire is 180 rds/min.
+
+Here is Weapon #1 Ammunition information for the Island Class Ukrainian Patrol Boat of the Armament:
+The Type is Armor-Piercing Discarding Sabot (APDS), High Explosive Incendiary (HEI).
+The Caliber is 25.
+The Cartridge is 25 x 137 mm.
+The Basic Load is INA.
+
+Here is Weapon Station #2 information for the Island Class Ukrainian Patrol Boat of the Armament:
+The Name is M-60.
+The Type is Medium Machine Gun.
+The Quantity is 2.
+The Caliber is 7.62.
+The Maximum Effective Range is 1,100 m.
+The Rate of Fire is 550 rds/min.
+
+Here is Weapon #2 Ammunition information for the Island Class Ukrainian Patrol Boat of the Armament:
+The Type is Standard Ball.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is INA.
+
+Here is Weapon #3 information for the Island Class Ukrainian Patrol Boat of the Armament:
+The Name is Browning 50 Cal..
+The Type is Heavy Machine Gun.
+The Quantity is 2.
+The Caliber is 12.7.
+
+Here is Weapon #3 Ammunition information for the Island Class Ukrainian Patrol Boat of the Armament:
+The Type is M33 Ball (706.7 grain) for personnel and light material targets, M17 tracer, M8 API.
+The Caliber is 12.7.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Basic Load is INA.
+
+Here is Electronics information for the Island Class Ukrainian Patrol Boat:
+The Primary Navigation System 1 is GPS (satellite).
+The Alternate Navigation System is Loran C.
+The Collision Avoidance System is Yes.
+The Surface Radar is Yes.
+The Surface radar Range is INA.
+

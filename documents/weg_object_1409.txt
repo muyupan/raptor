@@ -1,0 +1,119 @@
+This document describes the Type 039 Class (Song-Class) Chinese Diesel-Electric Submarine.
+
+The Type 039 submarine (NATO reporting name: Song-class) is a class of diesel-electric submarines of the People's Liberation Army Navy. The class is the first diesel-electric submarine to be fully developed within China and also the first Chinese diesel-electric submarine to use the modern teardrop hull shape.
+
+Designed for attacking both other submarines and surface ships with torpedoes, the submarine uses a modern teardrop-shaped hull for underwater performance. The hull incorporates four rudders and is propelled by a single propeller. The engine is imported from Germany. For quieter operation, the engine was mounted with shock absorbers and the hull is plated in rubber tiles for sound deadening. Development was not without problems, as a lengthy testing period for the first vessel (320) attests. Problems with noise levels and underwater performance led to revisions in the design and only a single boat was ever built to the original specification.
+
+Improvements led to the specification for the Type 039G, which became the bulk of production, with seven of the type entering service. Elimination of the stepped design for the conning tower is the primary visual cue for the identification of the G variant. This class has two versions: the original Type 039, and Type 039G. The most obvious visual difference between the two types is the conning tower. The Type 039's conning tower is stepped rising aft. In an effort to shrink the submarine's acoustic signature, the Type 039G's conning tower was given a more conventional shape without any step.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Type 039 Class (Song-Class) Chinese Diesel-Electric Submarine:
+The Yuanzheng 20 is Commissioned: June 1999
+Status: Active.
+The Yuanzheng 21 is Commissioned:  April 2001
+Status: Active.
+The Yuanzheng 22 is Commissioned: Dec. 2001 
+Status: Active.
+The Yuanzheng 14 is Commissioned: Nov. 2003 
+Status: Active.
+The Yuanzheng 15 is Commissioned:  Dec. 2003  
+Status: Active.
+The Yuanzheng 16 is Commissioned:  2004 
+Status: Active.
+The Yuanzheng 23 is Commissioned: 2004
+Status: Active.
+The Yuanzheng 24 is Commissioned: 2004
+Status: Active.
+The Yuanzheng 25 is Commissioned: 2005
+Status: Active.
+The Yuanzheng 26 is Commissioned:  2005      
+Status: Active.
+The Yuanzheng 17 is Commissioned: 2005 
+Status: Active.
+The Yuanzheng 18 is Commissioned: 2005
+Status: Active.
+The Yuanzheng 19 is Commissioned:  2006  
+Status: Active.
+
+Here is System information for the Type 039 Class (Song-Class) Chinese Diesel-Electric Submarine:
+The Alternative Designation is Type 039 Class; NATO: Song Class.
+The Type is Diesel-Electric Submarine.
+The Builder is YUANZHENG-18: Jiangnan Shipyard, Shanghai, China
+ Remainder: Wuhan Shipbuilding Industry Co., Wuhan, China.
+The Crew is 60.
+
+Here is Dimensions information for the Type 039 Class (Song-Class) Chinese Diesel-Electric Submarine:
+The Length is 74.9 m.
+The Beam is 8.4 m.
+The Draft is 5.3 m.
+The Displacement, Surface is 1,992 tons surface.
+The Displacement, Submerged is 2,250 tons submerged.
+
+Here is Propulsion System information for the Type 039 Class (Song-Class) Chinese Diesel-Electric Submarine:
+The Engine Name is 4 x MTU type 16V396 SE83/84.
+The Engine Type is Diesel-electric.
+The Engine Power is 6,092 total bhp; 1 shaft.
+The Maximum Speed is 15 knots (surface)/22 knots (submerged).
+The Maximum Range is 22 nm at 22 kts.; 72 nm at 3 kts..
+
+Here is Missile Weapon System #1 information for the Type 039 Class (Song-Class) Chinese Diesel-Electric Submarine of the Missile Weapon Systems:
+The Name is C-801 (CSS-N-4 Sardine).
+The Type is Anti-Ship Cruise Missile.
+The Quantity is INA.
+The Length is 5.81 m.
+The Diameter is INA.
+The Weight is 815 kg.
+The Warhead is 165 kg.
+The Engine is Rocket.
+The Propellant is Solid Rocket.
+The Operational Range is 42 km.
+The Flight Altitude is 5-7 m.
+The Maximum Speed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+
+Here is Torpedo Launcher information for the Type 039 Class (Song-Class) Chinese Diesel-Electric Submarine of the Torpedo Weapon Systems:
+The Number of Tubes is 6 x 533-mm tubes.
+
+Here is Torpedo #1 information for the Type 039 Class (Song-Class) Chinese Diesel-Electric Submarine of the Torpedo Weapon Systems:
+The Name is Yu-5.
+The Type is Wire-Guided Torpedo.
+The Length is 7.8 m.
+The Diameter is 533 mm.
+The Weight is INA.
+The Basic Load is 6.
+The Warhead is 400 kg.
+The Propulsion is Otto fuel II.
+The Guidance is active / passive acoustic homing + wire guidance.
+The Maximum Speed is Up to 50-knot (93 km/h).
+The Maximum Range is Up to 30 km @ 50 knots (93 km/h).
+The Depth is > 400 m.
+
+Here is Mines information for the Type 039 Class (Song-Class) Chinese Diesel-Electric Submarine:
+The Note is 36 x mines in lieu of torpedoes.
+
+Here is Fire Control Systems information for the Type 039 Class (Song-Class) Chinese Diesel-Electric Submarine:
+The FCS Name is INA.
+The Computerized FCS is INA.
+The Battle Management System is INA.
+
+Here is Radar Systems information for the Type 039 Class (Song-Class) Chinese Diesel-Electric Submarine:
+The Name is INA.
+The Type is Surface Search/Navigation Radar.
+The Frequency is INA.
+The Range is INA.
+
+Here is Sonar #1 information for the Type 039 Class (Song-Class) Chinese Diesel-Electric Submarine of the Sonar Systems:
+The Name is 1 x Thales TSM-2233 Eledone.
+The Type is Passive Bow Array Sonar.
+
+Here is Sonar #2 information for the Type 039 Class (Song-Class) Chinese Diesel-Electric Submarine of the Sonar Systems:
+The Name is 1 Thales TSM-2255 Fenelon or Chinese SQB-2.
+The Type is Flank Array Sonar.
+
+Here is Protection information for the Type 039 Class (Song-Class) Chinese Diesel-Electric Submarine:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is INA.
+The EW is CEIEC Type 921A intercept.
+

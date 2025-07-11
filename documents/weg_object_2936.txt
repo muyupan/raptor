@@ -1,0 +1,69 @@
+This document describes the R-381T2 Russian UHF Radio Monitoring Station.
+
+The R-381T2 Russian UHF Radio Monitoring Station is part of the R-381T (Taran) Automatic Radio Intelligence Complex. 
+
+The R-381T Taran complex consist of 7 vehicles:
+
+1 x R-381T3 – automatic data processing station
+4 x R-381T2 – UHF radio monitoring station (30-100 MHz)
+2 x R-381T1 – VHF radio monitoring station (1.5-30 MHz), aviation radio communication
+monitoring (100-400 Mhz), radio relay link monitoring (300-1000 MHz)
+
+The efficient range of the complex is 40 km (100 km for aviation frequencies monitoring). Radio station detecting time is 0.3 sec. Another variant of the complex consist of 5 vehicles:
+
+1 x R-381T3
+2 x R-381T2
+2 x R-381T1
+It is also possible to use separate stations.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the R-381T2 Russian UHF Radio Monitoring Station:
+The Alternative Designation is R-381T2.
+The Type is UHF Radio Monitoring Station.
+The Manufacturer is Proton’ engineering bureau in Kharkov.
+The Description is For intercept and direction finding units. 5 to 7 seconds for recognition of targeted voice and data transmissions..
+The Chassis is KamAZ-5350.
+The Cab Seating is 1+2 Men.
+The Crew is INA.
+The Passenger Capacity is INA.
+The Configuration is 6x6.
+The UHF Frequency is 30-100 MHz.
+The Displacement Time is Less than 10 minutes.
+The Emplacement Time is Less than 10 minutes.
+The UHF Interception Range is Greater than 40 km.
+The Direction Finding Range is 30 - 40 km depending location and optical verification.
+The Average Accuracy is 1.8 deg.
+
+Here is Dimensions (Chassis: KamAZ-5350) information for the R-381T2 Russian UHF Radio Monitoring Station:
+The Length is 7.85.
+The Width is 2.5.
+The Height is 3.29.
+The Weight, Combat is 9.2.
+The Maximum Load is 6.
+
+Here is Automotive (KamAZ-5350) information for the R-381T2 Russian UHF Radio Monitoring Station:
+The Engine Name is KamAZ-740.13-260 Diesel.
+The Engine Type is Diesel.
+The Engine Power is 260.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 100.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 0.6.
+The Fording Depth is 1.75.
+The Maximum Load is 6.
+The Note #1 is Engine is also equipped with cold weather starting device and can be started at temperatures down to -50°C.
+The Note #2 is Vehicle has a full-time all-wheel drive and is fitted with a central tyre inflation system.
+
+Here is Protection information for the R-381T2 Russian UHF Radio Monitoring Station:
+The Armor is Protection from small arms fire and shell splinters..
+The Applique Armor is INA.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

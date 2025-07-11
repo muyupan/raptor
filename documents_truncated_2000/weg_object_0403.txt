@@ -1,0 +1,65 @@
+This document describes the ZALA 421-08 Russian Micro Unmanned Aerial Vehicle (UAV).
+
+The ZALA-421-08 is a small, hand-launched unmanned aerial vehicle (UAV) designed for short-range surveillance and reconnaissance operations.
+
+The air vehicle is of a flying-wing design, propelled by a single electric pusher propeller. The aircraft is equipped with a GPS-based navigation system.
+
+Swarming tactics with multiple UAVs can be employed through automatic and ground control systems. Voice-based mission reporting and planning capabilities are also under development.
+
+A standard ZALA-421-08 system includes two air vehicles and a portable ground control station, as well as two sets of spare batteries. The ground station offers a video resolution of 720 x 756 pixels in an MPEG2 format.
+
+The payload includes two cameras. Color, monochrome and infrared cameras can be fitted. The standard layout is a high-resolution monochrome camera facing forward and down, while a color camera faces down and to the side.
+
+The air vehicle is launched by hand and recovered by parachute.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Dimensions information for the ZALA 421-08 Russian Micro Unmanned Aerial Vehicle (UAV) of the System:
+The Height  is 0.25.
+The Length, Fuselage  is 0.41.
+The Length, Wing Span  is 0.80.
+
+Here is Payload 2 information for the ZALA 421-08 Russian Micro Unmanned Aerial Vehicle (UAV) of the System:
+The Description is Resolution Not Less Than 160?120.
+
+Here is System Components information for the ZALA 421-08 Russian Micro Unmanned Aerial Vehicle (UAV) of the System:
+The Ground Control Station (GCS), Control Capability is UAV and payload controlled
+independently by GCS
+.
+The Ground Control Station (GCS), GCS Power Supply is 120/220 V, 6 hr battery.
+The Ground Control Station (GCS), Setup Time  is 5 to 10.
+The Ground Control Station (GCS), Transport Case is Ruggedized and Man Portable.
+
+Here is System Composition information for the ZALA 421-08 Russian Micro Unmanned Aerial Vehicle (UAV) of the System:
+The Catapult is 1 (optional).
+The Infrared Camera (optional) is 1.0.
+The Quantity, Transport Cases is 2.0.
+The Quantity, UAVs is 2.0.
+The Video roll is 2.0.
+
+Here is Performance information for the ZALA 421-08 Russian Micro Unmanned Aerial Vehicle (UAV):
+The Ceiling, Maximum   is 3,600 Above Sea.
+The Ceiling, Minimal  is 15.0.
+The Ceiling, Operating  is 3600.0.
+The Endurance  is 60.0.
+The Range, RPV Mode  is 10.0.
+The Range,Pre-programmed Mode is 40.0.
+The Speed, Cruising  is 65.0.
+The Speed, Maximum  is 150.0.
+
+Here is Launch and Recovery information for the ZALA 421-08 Russian Micro Unmanned Aerial Vehicle (UAV):
+The Launch Method is Hand Launched, Self-powered.
+The Recovery Method is Parachute or Auto Return.
+The Wind speed at launch  is 15.0.
+
+Here is Payload 1 information for the ZALA 421-08 Russian Micro Unmanned Aerial Vehicle (UAV) of the Payload:
+The Description is 10 (MPX) stabilized video.
+The Type is Color Camera (550TVL).
+
+Here is Payload 2 information for the ZALA 421-08 Russian Micro Unmanned Aerial Vehicle (UAV) of the Payload:
+The Type is Infrared Camera.
+
+Here is Payload 3 information for the ZALA 421-08 Russian Micro Unmanned Aerial Vehicle (UAV) of the Payload:
+The Description is Chemical/Hazardous Emission.
+The Type is Gas Detection module.
+

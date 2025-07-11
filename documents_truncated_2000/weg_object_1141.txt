@@ -1,0 +1,112 @@
+This document describes the SAM-22 (SA-22 Greyhound) Iranian Short-Range Air Defense Gun/Missile System.
+
+Iran imports many of their military weapons and equipment from China and Russia. The SAM-22 is a exported Pantsir-S1 (SA-22 Greyhound).
+
+The Pantsir missile system is a family of self-propelled, medium-range surface-to-air missile systems. Pantsir-S1 (Russian: Панцирь-С1, NATO reporting name SA-22 Greyhound) is the first version and is a combined short to medium range surface-to-air missile and anti-aircraft artillery weapon system produced by KBP of Tula, Russia. The system is a further development of 2K22 Tunguska (NATO reporting name: SA-19/SA-N-11) and represents the latest air defence technology by using phased array radars for both target acquisition and tracking. Although more are planned to made later into 2019, only 112 of the 200 made continue to operate due to newer, more efficient models being made.
+
+The Pantsir-S1 was designed to provide point air defence of military/industrial/administrative installations against aircraft, helicopters, precision munitions, cruise missiles and UAVs and to provide additional protection to air defence units from enemy air attacks employing precision munitions especially at the low to extremely low ranges.
+
+The first finished version was completed in 1995 with the 1L36 radar, later another was designed. It is a short to medium range ground-based air defence system, wheeled, tracked or stationary with two to three operators. Its air defense consists of automatic anti-aircraft guns and surface-to-air missiles with radar or optical target-tracking and radio-command guidance.
+
+Its purpose is the protection of civil and military point and area targets, for motorised or mechanised troops up to regimental size or as defensive asset of higher ranking air defence systems like S-300/S-400. The system has capability for anti-munitions missions. It can hit targets on the waterline/above-water. It can operate in a fully automatic mode. It has the ability to work in a completely passive mode. The probability of hitting a target for 1 rocket is not less than 0.7 with a reaction time of 4–6 seconds.It can fire missiles and gun armament while in motion. For its main radar station, early detection in height may be between 0-60° or 26-82° depending on the mode. The system has claimed significant advantages over other systems, such as Crotale NG (France), Roland-3 (France + USA), Rapier 2000 (UK), SeaRAM (Germany + USA). This is not confirmed by comparative testing, but clearly follows from declared limit of possibilities of systems (2010). In 2013, there was a variant with two radar stations for early detection * standing back to back *. The system has a modular structure which enables a fast and easy replacement of any part.
+
+After receiving target coordinates (from any source) it may defeat the target (using all the radar except the early detection radar) within a range from -5 to +85 degrees (vertical). The interval between missile launches is 1-1.5 seconds (a world record for analogue systems).
+
+S-400 Triumf and Pantsir missile system can be integrated into a two-layer defense system
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of).
+
+Here is Variants information for the SAM-22 (SA-22 Greyhound) Iranian Short-Range Air Defense Gun/Missile System:
+The PANTSIR-S1 is The gun/missile system module can be mounted on various chassis. The early version is mounted on a Ural-5323 truck, used for site defense of stationary targets. It had three radars and 2A72 gun. A production version has newer radars, guns, and 12 missile launchers..
+The PANTSIR-S1-0 is "Unified Armament Turret" with 8 launchers (12 SAMS) and 2 guns mounts on various chassis (e.g., trucks, BTR-80, BMP-3, BMD-3, trailers, and stands). Russians now offer this variant on the 2S6 (GM-352) chassis. A low cost version has missiles and only EO guidance..
+
+Here is Dimensions information for the SAM-22 (SA-22 Greyhound) Iranian Short-Range Air Defense Gun/Missile System of the System:
+The Height, Overall is INA.
+The Length, Overall is 10.
+The Width, Overall is 2.5.
+The Wheelbase is 3.6.
+
+Here is Automotive information for the SAM-22 (SA-22 Greyhound) Iranian Short-Range Air Defense Gun/Missile System:
+The Automotive Performance is Performance data based on Kamaz-6560.
+The Engine Type is YaMZ-5367 diesel, 450hp.
+The Speed is 90.
+The Cruising Range is 1000.
+The Fording Depths is 1.8.
+The Ground Clearance is 400.
+The Side slope is 40.
+The Vertical Step is 600.
+The Angel of Approach is 31.
+
+Here is Gun information for the SAM-22 (SA-22 Greyhound) Iranian Short-Range Air Defense Gun/Missile System of the Armament:
+The Name is 2A38.
+The Type is Autocannon.
+The Rate of Fire (2 twin guns) is 4,800.
+The Reload Time is 15-16 min, gun ammunition and missiles.
+The Elevation is -5 to + 87.
+The Fire on Move is Yes.
+
+Here is Missile information for the SAM-22 (SA-22 Greyhound) Iranian Short-Range Air Defense Gun/Missile System of the Armament:
+The Name is 57E6-E/9M335/SA-22E.
+The Max. Range is <12,000
+1,500 m
+18,000 above 1,500m
+Min. Range: 1,500.
+The Max. Altitude is 10,000
+Min. Altitude: 5, 0 with degraded Ph.
+The Length in Cannister is 3.2
+
+Diameter (mm): 170/90 second stage.
+The Weight is 65.
+The Weight in Container is 85.
+The Missile Speed is 1,300.
+The Guidance is Radar SACLOS, ACLOS, Homeon-
+Jam.
+The Seeker Field of View is INA.
+The Warhead Type is Fragmenting rod and HE.
+The Warhead Weight is 16.
+The Fuze Type is Proximity, PD, and KE impact.
+The Probability of Hit (Undegraded) is 80.
+The Simultaneous Missiles is 3.
+The Self-Destruct is INA.
+The System Reaction time is 5-6.
+The Fire on Move is Yes, short halt or slow move.
+The Simultaneous Targets is 2 per vehicle.
+
+Here is Main Armament Ammunition information for the SAM-22 (SA-22 Greyhound) Iranian Short-Range Air Defense Gun/Missile System:
+The Description is An optimized mix uses 2 rounds, with each having similar ballistics. The below rounds offer flat trajectory, long range, armor penetration, high P-hit, and frangible round (KE/'CE) effects..
+The Type is APFSDS-T, M929.
+The Range is 200-2,500+.
+The Altitude is 0-3,000.
+The Penetration is 45 (RHA) 2,000 m.
+The Other Ammuntion Types is Earlier 30 x 165 rounds: Frag-HE and HEI-T, API, API-T, APDS.
+
+Here is Weapons & Ammunition Types Typical Combat Load information for the SAM-22 (SA-22 Greyhound) Iranian Short-Range Air Defense Gun/Missile System:
+The 57E6-E Missiles is Pantsir -S1 12
+-S1-0 12
+On Launchers 8
+Spares inside 4.
+The 2 x 30-mm twin-barrel autocannons Mix of FAPDS-T and APFSDS-T is 1,400 Rounds.
+
+Here is Gunner's Sight information for the SAM-22 (SA-22 Greyhound) Iranian Short-Range Air Defense Gun/Missile System of the Fire Control:
+The Gunner is 1TPP1.
+The Field of View is 1.8 x 2.6.
+The Acq Range Air Targets is 18 Km
+Auto-tracker: Dual Infrared/video tracker.
+The IFF is Yes.
+The Stabilized day/night is Yes.
+The Dual Channel Infrared Thermal Sight is Yes.
+The Video Tracker is Yes.
+The Passive acquisition modes is Yes.
+
+Here is Target Acquisition Radar information for the SAM-22 (SA-22 Greyhound) Iranian Short-Range Air Defense Gun/Missile System of the Fire Control:
+The Range is INA.
+The Altitude is INA.
+The Output Power is 10.
+The RF Band is E.
+
+Here is Tracking Radar information for the SAM-22 (SA-22 Greyhound) Iranian Short-Range Air Defense Gun/Missile System of the Fire Control:
+The Range is INA.
+The Altitude is 3,500.
+The Output Power is 150.
+The RF Band is J band.
+

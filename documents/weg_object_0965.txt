@@ -1,0 +1,107 @@
+This document describes the Su-27 (Flanker) Russian Multirole Fighter Aircraft.
+
+The Sukhoi Su-27 (NATO reporting name: Flanker) is a Soviet-origin twin-engine supermaneuverable fighter aircraft designed by Sukhoi. It was intended as a direct competitor for the large United States fourth-generation fighters such as the Grumman F-14 Tomcat and F-15 Eagle, with 3,530-kilometre (1,910 nmi) range, heavy aircraft ordnance, sophisticated avionics, and high maneuverability. The Su-27 was designed for air superiority missions, and subsequent variants are able to perform almost all aerial warfare operations. It was designed with the Mikoyan MiG-29 as its complement.
+
+This equipment has proliferated into the following countries: Angola, CFE Treaty, China, Eritrea, Ethiopia, Indonesia, Kazakhstan, Mongolia, Russian Federation, Ukraine, United States of America, Uzbekistan, Viet Nam.
+
+Here is Variants information for the Su-27 (Flanker) Russian Multirole Fighter Aircraft:
+The T-10 "Flanker-A" is Initial prototype configuration..
+The T-10S is Improved prototype configuration, more similar to production spec..
+The P-42 is Special version built to beat climb time records. The aircraft had all armament, radar and paint removed, which reduced weight to 14,100 kg (31,100 lb). It also had improved engines. Similar to the US F-15 Streak Eagle project. Between 1986–1988, it established and took several climb records from the Streak Eagle. Several of these records (such as time to climb to 3000 m, 6000 m, 9000 m, and 12000 m) still stands current as of 2019..
+The Su-27 is Pre-production series built in small numbers with AL-31 engine..
+The Su-27S "Flanker-B" is Initial production single-seater with improved AL-31F engine. The "T-10P"..
+The Su-27P "Flanker-B" is Standard version but without air-to-ground weapons control system and wiring and assigned to Soviet Air Defence Forces units. Often designated Su-27 without -P..
+The Su-27UB "Flanker-C" is Initial production two-seat operational conversion trainer..
+The Su-27SK is Export Su-27S single-seater. Exported to China in 1992-1996 and developed into Shenyang J-11..
+The Su-27UBK is Export Su-27UB two-seater..
+The Su-27K (Su-33) "Flanker-D" is Carrier-based single-seater with folding wings, high-lift devices, and arresting gear, built in small numbers. They followed the "T-10K" prototypes and demonstrators..
+The Su-27KUB (Su-33UB) is Two-seat training-and-combat version based on the Su-27K and Su-27KU, with a side-by-side seating same as Su-34. One prototype built..
+The Su-27M (Su-35/Su-37) "Flanker-E/F" is Improved demonstrators for an advanced single-seat multi-role Su-27S derivative. These also included a two-seat "Su-35UB" demonstrator..
+The Su-27PU (Su-30) is Two-seat version of the Su-27P interceptor, designed to support with tactical data other single-seat Su-27P, MiG-31 and other interceptor aircraft in PVO service. The model was later renamed to Su-30, and modified into a multi-role fighter mainly for export market, moving away from the original purpose of the aircraft..
+The Su-32 (Su-27IB) is Two-seat dedicated long-range strike variant with side-by-side seating in "platypus" nose. Prototype of Su-32FN and Su-34..
+The Su-27PD is Single-seat demonstrator with improvements such as inflight refuelling probe..
+The Su-30M/MK is Next-generation multi-role two-seater. A few Su-30Ms were built for Russian evaluation in the mid-1990s, though little came of the effort. The Su-30MK export variant was embodied as a series of two demonstrators of different levels of capability. Versions include Su-30MKA for Algeria, Su-30MKI for India, Su-30MKK for the People's Republic of China, and Su-30MKM for Malaysia..
+The Shenyang J-11 is Chinese version of Su-27SK..
+The Su-27SM "Flanker-B" is Mid-life upgraded Russian Su-27S, featuring technology evaluated in the Su-27M demonstrators. Upgrade included strengthened fuselage for extra weapons payload, improved N001 radar, glass cockpit with three-color multi-function displays and improved avionics..
+The Su-27SKM is Single-seat multi-role fighter for export. It is a derivative of the Su-27SK but includes upgrades such as advanced cockpit, more sophisticated self-defense electronic countermeasures (ECM) and an in-flight refuelling system..
+The Su-27UBM is Comparable upgraded Su-27UB two-seater..
+The Su-27SM2 is 4+ gen block upgrade for Russian Su-27, featuring some technology of the Su-35BM; it includes Irbis-E radar, and upgraded engines and avionics..
+The Su-27SM3 is Increased maximum takeoff weight (+3 tonnes), AL-31F-M1 engines, fully glass cockpit..
+The Su-27KUB is Essentially an Su-27K carrier-based twin-seater with a side-by-side cockpit, for use as a naval carrier trainer or multi-role aircraft..
+The Su-35BM/Su-35S is Also named the "Last Flanker" is latest development from Sukhoi Flanker family. It features improved thrust vectoring AL-41F1S engines, new avionics, N035 Irbis-E radar and reduced radar cross-section..
+The Su-27UB1M is Ukrainian modernized version of the Su-27UB..
+The Su-27UP1M is Ukrainian modernized version of the Su-27UP..
+The Su-27S1M is Ukrainian modernized version of the Su-27S..
+The Su-27P1M is Ukrainian modernized version of the Su-27P..
+
+Here is System information for the Su-27 (Flanker) Russian Multirole Fighter Aircraft:
+The Alternative Designations is SU-27; NATO: Flanker A.
+The Type is Multirole Fighter Aircraft.
+The Manufacturer is Sukhoi.
+The Crew is 1.
+The Hardpoints is 10 external pylons with a capacity of up to 4,430 kg.
+
+Here is Dimensions information for the Su-27 (Flanker) Russian Multirole Fighter Aircraft:
+The Length is 21.9 m.
+The Wingspan is 14.7 m.
+The Wing Area is 62 m2.
+The Height is 5.92 m.
+The Empty Weight is 16,380 kg.
+The Gross Weight is 23,430 kg.
+The Maximum Takeoff Weight is 30,450 kg.
+
+Here is Automotive information for the Su-27 (Flanker) Russian Multirole Fighter Aircraft:
+The Engine Name is 2 × Saturn AL-31F.
+The Engine Type is Afterburning Turbofan.
+The Engine Power is 75.22 kN (16,910 lbf) thrust each dry, 122.6 kN (27,600 lbf) with afterburner.
+The Fuel Capacity is 9,400 kg Internal.
+The Maximum Speed is 2,500 km/h.
+The Range is 3,530 km.
+The Service Ceiling is 19,000 m.
+The G Limits is +9 G.
+The Rate of Climb is 300 m/s.
+
+Here is System information for the Su-27 (Flanker) Russian Multirole Fighter Aircraft of the Main Gun System:
+The Name is 1 × 30 mm Gryazev-Shipunov GSh-30-1 autocannon.
+The Type is Autocannon.
+The Caliber is 30 mm.
+The Length is 1,978 mm.
+The Barrel Length is 1,500 mm.
+The Weight is 46 kg.
+The Barrels is 1,500 mm.
+The Action is Short recoil operated.
+The Rate of Fire is 1,500–1,800 rounds/min.
+The Muzzle Velocity is 900 m/s.
+The Maximum Firing Range is 1,800 m.
+The Effective Firing Range is 200-1,800 m.
+
+Here is Ammunition information for the Su-27 (Flanker) Russian Multirole Fighter Aircraft of the Main Gun System:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Shell is 30×165 mm.
+The Basic Load is 150 Rounds.
+
+Here is Missile System information for the Su-27 (Flanker) Russian Multirole Fighter Aircraft:
+The Note is The SU-27 is equipped with a variety of Missiles which include: R-27R/ER/T/ET/P/EP air-to-air missiles; R-73E AAMs..
+
+Here is Rocket System information for the Su-27 (Flanker) Russian Multirole Fighter Aircraft:
+The Note is The SU-27 is equipped with a variety of Rockets which include: 
+S-8KOM/BM/OM;
+S-13T/OF;
+S-25OFM-PU.
+
+Here is Bomb System information for the Su-27 (Flanker) Russian Multirole Fighter Aircraft:
+The Note is The SU-27 is equipped with a variety of Bombs which include: RBK-250 cluster bomb; RBK-500 cluster bomb..
+
+Here is Avionics information for the Su-27 (Flanker) Russian Multirole Fighter Aircraft:
+The Navigation Radar is N001 multi-mode pulse-Doppler.
+The Targeting System is OEPS-27 electro-optical targeting system.
+The IRST is OEPS-27 IRST.
+The Radar Warning Receiver is SPO-15 Radar Warning Receiver.
+
+Here is Protection information for the Su-27 (Flanker) Russian Multirole Fighter Aircraft:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The EW Countermeasures is Active Jamming Pod.
+The Chaffs/Flares is Yes.
+

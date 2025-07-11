@@ -1,0 +1,37 @@
+This document describes the Burraq Pakistani Unmanned Aerial Vehicle (UAV).
+
+The Burraq Pakistani Unmanned Aerial Vehicle (UAV)  is an unmanned combat aerial vehicle (UCAV) jointly developed and built by the National Engineering and Scientific Commission (NESCOM), a civil scientific research and development organization of Pakistan, along with the Pakistan Air Force (PAF).
+
+Primarily used by the PAF, it has also been used by the Pakistan Army (PA) in its counter-insurgency operations in northwest Pakistan. The Burraq carries various imagery and motion sensors and is equipped with 2 x laser-guided air-to-surface missile named "Barq".
+
+This equipment has proliferated into the following countries: Pakistan.
+
+Here is System information for the Burraq Pakistani Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Burraq.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is NESCOM.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Reconnaissance Equipment is INA.
+
+Here is Dimensions information for the Burraq Pakistani Unmanned Aerial Vehicle (UAV):
+The Length is 7.00 m.
+The Wingspan is 9.00 m.
+The Height is 2.00 m.
+The Empty Weight is 500 kg.
+The Maximum Takeoff Weight is 1,000 kg.
+
+Here is Automotive information for the Burraq Pakistani Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is 1 x Conventional Engine driving three-bladed propeller.
+The Engine Power is INA.
+The Maximum Speed is 215 km/h.
+The Cruising Speed is INA.
+The Service Ceiling is 7,500 m.
+The Maximum Distance is 1,000 km.
+The Endurance is INA.
+
+Here is Armament information for the Burraq Pakistani Unmanned Aerial Vehicle (UAV):
+The Hardpoints is 2.
+The Missiles is 2 x "Barq" Air-to-Surface Laser Guided Missile.
+

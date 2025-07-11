@@ -1,0 +1,98 @@
+This document describes the Z-18J (Bat) Chinese Airborne Early Warning (AEW) Helicopter.
+
+Z-18J naval airborne early warning helicopter. It has been developed for the Chinese navy. 
+
+The Z-18 is a single-rotor helicopter with tail rotor and a non-retractable landing gear, thought to be based on the Avicopter AC313, an updated design based on the earlier Harbin Z-8. A naval version of the Z-18 was first revealed on board the Chinese aircraft carrier Liaoning. In 2014, the army version of Z-18 was revealed in Chinese army publications.
+
+The Z-18 replaces the Z-8's distinctive boat hull lower fuselage with a tail ramp for offloading small vehicles; it also has a glass cockpit and a lightweight hull made with extensive use of composites and titanium as well as composite main rotor blades. It is powered by three WZ-6C turboshafts, giving it a maximum takeoff weight of 13.8 tons (30,360 lb) and enabling it to carry 27 troops or five tons (11,000 lb) of cargo with a range of up to 1,000 km (620 mi).
+
+Several versions are planned including utility/VIP transport, airborne early warning (AEW), and anti-submarine warfare (ASW). The Z-18F ASW variant is equipped with a dipping sonar, up to 32 son buoys, and 4 Yu-7 torpedoes. It has a chin-mounted surface search radar and is probably fitted with a datalink similar to the Ka-28 enabling it to operate as a third-party targeting director for anti-ship missiles. The Z-18J AEW variant has a radar antenna fitted in place of the loading ramp that is lowered for operation when airborne. Because of its size there are few People's Liberation Army Navy vessels capable of operating the Z-18; some that are include Liaoning, Type 071 amphibious transport dock, Type 075 landing helicopter dock, and Type 055 destroyer.
+
+In January 2018, China released video footage indicating that the Z-8G Gaoyuan (Plateau) had entered service with the People's Liberation Army Ground Force. It may replace the S-70C-2 and Z-8B version for operations in high-altitude areas such as Xinjiang and Tibet, as in flight tests it was able to reach as high as 9,000 m (29,528 ft). Some Z-8Gs are fitted with a SATCOM fairing on the tailboom, aft of the engine exhausts.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Z-18J (Bat) Chinese Airborne Early Warning (AEW) Helicopter:
+The Z-18 is Based on the Avicopter AC313 design, it features a modified lowered fuselage and an improved WZ-6C turboshaft. A nose-mounted weather radar as well as FLIR and TV turrets were installed. Additional communication and navigation antennae are also added..
+The Z-8G is Army version with an extended nose housing a terrain following radar and EO turret..
+The Z-18F is Anti-submarine version with surface radar, dipping sonar, hardpoints intended for torpedoes/missiles, and sonobuoys..
+The Z-18J is AEW variant with a multimode active electronically scanned array radar from the 38th Institute..
+
+Here is System information for the Z-18J (Bat) Chinese Airborne Early Warning (AEW) Helicopter:
+The Alternative Designation is Z-18J.
+The Type is Airborne Early Warning (AEW) Helicopter.
+The Manufacturer is Avicopter (Changhe Aircraft Industries Corporation).
+The Crew is 2.
+The Passengers is 27.
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 5.
+The Number of Engines is 3.
+The Number of Hard Points is 4.
+The Internal Payload is 4 tons.
+The External Payload is 5 tons.
+The Landing Gear is Landing gear is non-retractable..
+The Note is Similar to Z-18, a FLIR turret is mounted underneath the nose for night and poor weather operations. Additional antennas for MAWS and RWR are mounted on the nose and rear fuselage as well..
+
+Here is Dimensions information for the Z-18J (Bat) Chinese Airborne Early Warning (AEW) Helicopter:
+The Length is 23 m.
+The Main Rotor Diameter is 19 m.
+The Height is 7 m.
+The Weight, Empty is 9.8 tons.
+The Weight, Maximum Take Off is 13.8 tons.
+
+Here is Automotive information for the Z-18J (Bat) Chinese Airborne Early Warning (AEW) Helicopter:
+The Engine Name is 3 x WZ-6C.
+The Engine Type is Turboshafts.
+The Engine Power is 3 x 1 752 shp.
+The Maximum Speed is up to 336 km/h.
+The Cruise Speed is 250 km/h.
+The Maximum Range is 900 km.
+The Ferry Range is 1 600 km.
+The Service Ceiling is up to 9 km.
+The Rate of Climb is 6.67 m/s.
+
+Here is Missile #2 information for the Z-18J (Bat) Chinese Airborne Early Warning (AEW) Helicopter of the Armament:
+The Name is YJ-83; NATO:  CSS-N-8 Saccade.
+The Type is Anti-Ship Cruise Missile.
+The Manufacturer is China Aerospace Science and Industry Corporation.
+The Length is INA.
+The Diameter is INA.
+The Weight is INA.
+The Warhead is 190 kg high-explosive fragmentation.
+The Engine is CTJ-2 turbojet.
+The Operational Range is 180 km.
+The Maximum Speed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+
+Here is Missile #2 information for the Z-18J (Bat) Chinese Airborne Early Warning (AEW) Helicopter of the Armament:
+The Name is YJ-9.
+The Type is Anti-Ship Missile.
+The Manufacturer is China Aerospace Science and Industry Corporation.
+The Length is 2.5 m.
+The Diameter is 0.18 m.
+The Wingspan is 0.587 m (unfolded); 0.450 m (folded).
+The Weight is 117 kg.
+The Warhead is 29 kg semi armour-piercing high explosive, with time-delay fuze.
+The Engine is Solid rocket engine.
+The Operational Range is 25 km.
+The Flight Altitude is 15-20 m (flight).
+The Maximum Speed is Mach 0.8.
+The Guidance System is millimeter wave ARH / TV guidance / Infrared homing.
+
+Here is Sonobuoys information for the Z-18J (Bat) Chinese Airborne Early Warning (AEW) Helicopter of the Armament:
+The Name is INA.
+The Basic Load is 32.
+The Note is 30 small openings are positioned along its rear loading ramp for dropping sonobuoys..
+
+Here is Fire Control and Avionics information for the Z-18J (Bat) Chinese Airborne Early Warning (AEW) Helicopter:
+The Surface and Search Radar is The radar is thought to be a long-range multi-mode AESA developed by the 38th Institute (detection range ~200km). Once the helicopter is in the air, the rear door opens and the rotating antenna is lowered vertically and can provide 360° coverage. The antenna is then retracted into the fuselage after the operation..
+The Navigation Radar is INA.
+
+Here is Protection information for the Z-18J (Bat) Chinese Airborne Early Warning (AEW) Helicopter:
+The Add on Armor is No.
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The NBC Protection is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is Chaff/flare launchers were installed in the floats..
+

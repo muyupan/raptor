@@ -1,0 +1,74 @@
+This document describes the Yangyang-Class South Korean Minesweeper.
+
+Yangyang-class minesweeper is a ship class of minesweepers currently in service on the Republic of Korea Navy.
+
+Its main missions are gathering data of ports in the Korean region, and searching naval mines and minesweeping, in wartime. The ship's sometimes used at finding and recovering North Korean missiles, by using Variable Depth Sonar to detect missile fragments.
+
+Ongjin, the second ship of the class, is famous for finding the stern of ROKS Cheonan at ROKS Cheonan sinking.
+
+This equipment has proliferated into the following countries: South Korea (Republic of Korea).
+
+Here is Variants information for the Yangyang-Class South Korean Minesweeper:
+The Yangyang is Commissioned: 1999
+Status: Active.
+The Ongjin is Commissioned: 2003
+Status: Active.
+The Haenam is Commissioned: 2004
+Status: Active.
+
+Here is System information for the Yangyang-Class South Korean Minesweeper:
+The Alternative Designation is Yangyang Class.
+The Type is Minesweeper.
+The Builder is Kangnam Corp..
+The Crew is 56 total (7 Off. + 49 Enl.) + 7 EOD divers..
+
+Here is Dimensions information for the Yangyang-Class South Korean Minesweeper:
+The Length is 59.40 m.
+The Beam is 10.50 m.
+The Draft is 5.60 m.
+The Displacement, Standard is 500 tons.
+The Displacement, Full Load is 730 tons.
+
+Here is Propulsion System information for the Yangyang-Class South Korean Minesweeper:
+The Engine Name is 2 x MTU Diesel Engines.
+The Engine Type is Diesel Engines.
+The Engine Power is 4,000 total bhp.
+The Fuel Capacity is INA.
+The Maximum Range is 3,000 nm.
+The Maximum Speed is 27.8 km/h (15 knots).
+
+Here is System information for the Yangyang-Class South Korean Minesweeper of the Main Weapon System:
+The Name is 2 x M61 Vulcan 20 mm Autocannons.
+The Type is Autocannon.
+The Caliber is 20 mm.
+The Quantity is 2 x M61 Vulcan 20mm Autocannons.
+The Barrels is 6-barrel (progressive RH parabolic twist, 9 grooves).
+The Action is Hydraulically operated, electrically fired, rotary cannon.
+The Rate of Fire is 6,000 rounds per minute.
+The Muzzle Velocity is 1,050 m/s.
+The Feed System is Belt or linkless feed system.
+
+Here is Ammunition information for the Yangyang-Class South Korean Minesweeper of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 20 mm.
+The Cartridge is 20×102 mm.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Yangyang-Class South Korean Minesweeper:
+The FCS Name is INA.
+The Computerized FCS is No.
+The Combat System is 1 x Thales TSM-2061, Mark 3 system.
+The Mine Warfare System is 1 x  BAE Systems deep mechanical and combined equipment combined influence minesweeping system.
+
+Here is Radar Systems information for the Yangyang-Class South Korean Minesweeper:
+The Navigation Radar is 1 x Raytheon type navigation radar..
+
+Here is Sonar System information for the Yangyang-Class South Korean Minesweeper:
+The Variable Depth Sonar is 1 x Thales TSM-2093 variable depth sonar..
+The Mine Hunting Sonar is 1 x Thales TSM-2093 variable depth sonar..
+
+Here is Protection information for the Yangyang-Class South Korean Minesweeper:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

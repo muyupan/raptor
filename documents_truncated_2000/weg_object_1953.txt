@@ -1,0 +1,96 @@
+This document describes the Barrett XM500 American Semi-Automatic Sniper Rifle.
+
+The Barrett XM500 is a gas-operated, semi-automatic sniper rifle/anti-materiel rifle currently in development by the Barrett Firearms Company. It is fed by a 10-round detachable box magazine situated behind the trigger in a bullpup configuration.
+
+Based on the design of the Barrett M82/M107 .50-caliber sniper rifle, it is intended to be a lighter, more compact alternative to the M82. Since the XM500 has a stationary barrel (instead of the recoiling-barrel design of the M82), it will likely have somewhat better accuracy. As with its predecessor, it comes with a removable, adjustable bipod mounted under the barrel, and a top-mounted Picatinny rail for the attachment of a scope or other accessory.
+
+XM500 rifle is the most recent creation of the famous American Barrett Firearms co. This rifle, first shown in 2006, is intended to provide a lighter and more compact alternative to the popular Barrett M82 "Light fifty" rifle, which is widely used by military and law enforcement forces around the world. The new weapon will provide better accuracy (because of its stationary, non-recoiling barrel) and the same range as Light Fifty, while being lighter and significantly shorter, thanks to its bullpup layout. According to available information, this rifle is developed primarily for US Armed forces and is still in the development/prototype stage.
+
+Barrett XM500 long-range sniper / anti-material rifle is a gas-operated, semiautomatic rifle. The gas chamber and piston are located above the barrel. Barrel is locked using a rotary bolt. Stock is of bullpup layout and made of metal, with rubber butt plate. A rifle is fitted with detachable lightweight bipods, adjustable for height. There are no open sights as of now, but the rifle is fitted with an integral Picatinny rail on the top of the receiver, so any type of sights can be installed using appropriate mounting interfaces.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is Variants information for the Barrett XM500 American Semi-Automatic Sniper Rifle:
+The M107-A1 is Product improvement of the M82A1A. Improvements include: reduction in weight by 5 pounds; cylindrical titanium muzzle brake; titanium barrel key/recoil buffer system in order to operate with a Barrett suppressor; functional modifications to increase durability and ease of operation. Barrett introduced this variant in 2013.
+The M107 is The M107 variant is also called the Light Fifty for its .50 BMG (12.7×99mm NATO) chambering and significantly lighter weight compared to previous applications and the 15% heavier base M82 model..
+
+Here is Dimensions information for the Barrett XM500 American Semi-Automatic Sniper Rifle of the System:
+The Length, Overall  is 1200.
+The Weight, Empty without Magazine is 12.
+
+Here is Ammunition (Option 1) information for the Barrett XM500 American Semi-Automatic Sniper Rifle of the Ammunition:
+The Name is Raufoss Grade A (match)(DODIC A606) (USMC).
+The Type is Standard operating round .
+The Caliber/Length  is 12.7x99 mm (.50 cal).
+The Muzzle Velocity  is 854.0.
+The Range, Maximum, with Scope  is 1800.0.
+
+Here is Ammunition (Option 2) information for the Barrett XM500 American Semi-Automatic Sniper Rifle of the Ammunition:
+The Name is MP NM140 (Nammo) MK211 Mod 0.
+The Caliber/Length  is 12.7-mm x 99 (.50 cal).
+The Armor Penetration  is 11 mm at 45 degrees at 1,000 m.
+The Fragmentation is 20 fragments after hitting 2 mm steel .
+The Incendiary Effect is Ignition of JP4 and JP8.
+The Muzzle Velocity  is 915.0.
+The Range, Maximum, with Scope  is 1800.0.
+The Accuracy is less than 15 cm at  550 m .
+
+Here is Ammunition (Option 3) information for the Barrett XM500 American Semi-Automatic Sniper Rifle of the Ammunition:
+The Name is AP-S NM173 (Nammo) .
+The Type is Armor piercing .
+The Caliber/Length  is 12.7-mm x 99 (.50 cal).
+The Armor Penetration  is 11 mm at 30 at 1,500 m.
+The Muzzle Velocity  is 915.0.
+The Range, Maximum, with Scope  is 1800.0.
+The Accuracy is less than 15 cm at  550 m .
+
+Here is Ammunition (Option 4) information for the Barrett XM500 American Semi-Automatic Sniper Rifle of the Ammunition:
+The Name is M903 (Olin) .
+The Type is Saboted Light Armor Penetrator (SLAP) (actual bullet is tungsten .30 inch penetrator wrapped in a .50-cal plastic sabot).
+The Bullet is 12.7- mm x 99 (.50 cal).
+The Armor Penetration  is 19 mm (.75 in) at 1,500 m.
+The Muzzle Velocity  is 1014.0.
+The Range, with Scope  is 1500.0.
+The Accuracy  is INA.
+
+Here is Ammunition (Option 5) information for the Barrett XM500 American Semi-Automatic Sniper Rifle of the Ammunition:
+The Name is M8 .
+The Type is Armor piercing incendiary .
+The Armor Penetration is 20 mm at  100 m.
+The Caliber/Length  is 12.7-mm x 99 (.50 cal).
+The Muzzle Velocity  is 881.0.
+The Range, Maximum, with Scope  is 1800.0.
+The Accuracy is less than 25 cm at  550 m .
+
+Here is Ammunition (Option 6) information for the Barrett XM500 American Semi-Automatic Sniper Rifle of the Ammunition:
+The Name is M20.
+The Type is API-T.
+The Caliber/Length  is 12.7-mm x 99 (.50 cal).
+The Armor Penetration is 20 mm at  100 m.
+The Muzzle Velocity  is 887.0.
+The Accuracy is less than 25 cm at  550 m .
+
+Here is Ammunition All information for the Barrett XM500 American Semi-Automatic Sniper Rifle of the Ammunition:
+The Combat Load is 30, typical.
+The Type is Ball, AP, AP-I, API-T, Tracer, SLAP, MP.
+
+Here is Night Sight information for the Barrett XM500 American Semi-Automatic Sniper Rifle of the Sights:
+The Available is Yes.
+The Available is Yes..
+The Magnification is 10x42.
+
+Here is Sights #1 information for the Barrett XM500 American Semi-Automatic Sniper Rifle of the Sights:
+The Name is Unertl.
+The Type is Optical (matches trajectory of .50-cal Raufoss Grade A).
+The Magnification is 10x.
+
+Here is Sights #2 information for the Barrett XM500 American Semi-Automatic Sniper Rifle of the Sights:
+The Name is Swarovski.
+The Type is Optical (with ranging reticle).
+The Magnification is 10x42.
+
+Here is Sights #3 information for the Barrett XM500 American Semi-Automatic Sniper Rifle of the Sights:
+The Name is Barrett Optical Ranging System (BORS).
+The Type is Ballistic Computer. This add-on device couples to the telescope, in place of the rear scope ring. It can then adjust for range, air temperature, round used, and other factors..
+The Notes is A commonly associated scope is the Leupold Mark 4; but it can also work with other scopes..
+

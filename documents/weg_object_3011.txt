@@ -1,0 +1,40 @@
+This document describes the Shanyi 05 Chinese Tracked Unmanned Ground Vehicle (UGV).
+
+The Shanyi 05 Chinese Tracked Unmanned Ground Vehicle (UGV)  has been developed for field reconnaissance, battlefield assessment, anti-terrorism EOD, rescue in small spaces.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Shanyi 05 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Shanyi 05; Mini Shanyi; Mountain Ant 05 Micro Platform.
+The Type is Tracked Unmanned Ground Vehicle (UGV).
+The Manufacturer is Zhong Tian Guide Control Technology Co Ltd.
+The Mission is The Shanyi 05 Chinese Tracked Unmanned Ground Vehicle (UGV)  has been developed for field reconnaissance, battlefield assessment, anti-terrorism EOD, rescue in small spaces..
+The Configuration is Tracked.
+The Crew is Unmanned.
+The Control is Control of the platform is carried out by a standard portable control unit..
+The Payload Capacity is A large internal bay area inside the chassis permits a number of payloads (reconnaissance strike, etc) to be mounted..
+The Environmental is IP67.
+
+Here is Dimensions information for the Shanyi 05 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Length is 0.75 m.
+The Width is 0.42 m.
+The Height is 0.20 m.
+The Weight is 11 kg.
+
+Here is Automotive information for the Shanyi 05 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Range is INA.
+The Maximum Speed is 50 km/h.
+The Maximum Gradient Climb is 35˚.
+The Side Slope is 25˚.
+The Endurance is 5 hours.
+
+Here is Manipulator Arm information for the Shanyi 05 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Note is Robotic arms can be mounted to the upper part of the robot..
+
+Here is Protection information for the Shanyi 05 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Armor is The chassis is constructed from a high-strength non-metallic plate..
+The Applique Armor is INA.
+

@@ -1,0 +1,202 @@
+This document describes the Leopard 2 German Main Battle Tank (MBT).
+
+The Leopard 2 is a main battle tank developed by Krauss-Maffei in the 1970s for the West German Army. The tank first entered service in 1979 and succeeded the earlier Leopard 1 as the main battle tank of the German Army. It is armed with a 120 mm smooth bore cannon, and is powered by a V-12 twin-turbo diesel engine. Various versions have served in the armed forces of Germany and 12 other European countries, as well as several non-European nations, including Canada, Chile, Indonesia, Singapore, and Turkey. The Leopard 2 was used in Kosovo with the German Army, and has seen action in Afghanistan with the Dutch, Danish and Canadian contributions to the International Security Assistance Force, as well as seeing action in Syria with the Turkish Armed Forces against ISIS and the YPG.
+
+There are two main development batches of the tank: the original models up to Leopard 2A4, which have vertically faced turret Armor, and the improved batch, namely the Leopard 2A5 and newer versions, which have angled arrow-shaped turret applique Armor together with other improvements. All models feature digital fire control systems with laser rangefinders, a fully stabilized main gun and coaxial machine gun, and advanced night vision and sighting equipment (first vehicles used a low-light level TV system or LLLTV; thermal imaging was introduced later on). The tank has the ability to engage moving targets while moving over rough terrain.
+
+Even as the Leopard 1 was just entering service, the German military was interested in producing an improved tank in the next decade. This resulted in the start of the MBT-70 development in cooperation with the United States beginning in 1963. However already in 1967 it became questionable whether the MBT-70 would enter service at any time in the foreseeable future. Therefore, the German government issued the order to research future upgrade options of the Leopard 1 to the German company Porsche in 1967. This study was named vergoldeter Leopard (Gilded Leopard) and focused on incorporating advanced technology into the Leopard design. The projected upgrades added an auto loader, a coaxial auto cannon and an independent commander's periscope. The anti-air machine gun could be operated from inside the vehicle and a TV surveillance camera was mounted on an extendable mast. The shape of the turret and hull was optimized using cast steel armor, while the suspension, transmission and the engine exhaust vents were improved.
+
+Following the end of the Gilded Leopard study in 1967, the West-German government decided to focus on the Experimental (experimental development) in a feasibility study and to develop new components for upgrading the Leopard 1 and for use on a future main battle tank program. At first 25 million DM were invested, but after the industry came to the conclusion that with such a low budget the development of the two projected test beds was not possible, a total of 30 to 32 million DM was invested. The experimental development was contracted to the company Krauss-Maffei, but with the obligation to cooperate with Porsche for the development of the chassis and with Wegmann for the development of the turret. Two prototypes with differing components were built with the aim to improve the conception of the Leopard 1 in such a way that it would match the firepower requirements of the MBT-70. A high first-hit probability at ranges of 2,000 meters (6,600 ft.) and the ability to accurately engage targets on the move using a computerized fire control system were the main goals of the experimental development. The resulting vehicles were nicknamed Keiler ("tusker"). Two prototypes (ET 01 and ET 02) of the Keiler were built in 1969 and 1970, both of them being powered by the MB 872 engine.
+
+The MBT-70 was a revolutionary design, but after large cost overruns and technological problems, Germany withdrew from the project in 1969. After unsuccessful attempts of saving the MBT-70 by conceptual changes in order to eliminate the biggest issue—the driver being seated in the turret—it became clear in late 1969 that Germany would stop the bi-national development. The assistant secretary of the military procurement division of the German Ministry of Defense suggested reusing as much technologies developed for the MBT-70 as possible in a further program, which was nicknamed Eber ("boar") due to his being named Eberhardt. The Eber used a modified MBT-70 turret and hull, with the driver being seated in the hull. Only a wooden mock-up was made.
+
+One year later, a choice was made to continue the development based on the earlier Keiler project of the late 1960s, instead of finishing the development of the Eber. In 1971, the name of the design was determined as Leopard 2 with the original Leopard retroactively becoming the Leopard 1, and Paul-Werner Krapke became the project officer of the Leopard 2 program. Originally two versions were projected: the gun-armed Leopard 2K and the Leopard 2FK, which would be armed with the XM150 gun/launcher weapon of the MBT-70.
+
+That year 17 prototypes were ordered, but only 16 hulls were built as the production of hull PT12 was cancelled. Ten were ordered initially before another seven were ordered. The 17 turrets were designated T1 to T17, and the hulls were designated PT1 to PT11 and PT13 to PT17. To test a larger number of components and concepts, each prototype was fitted with components not found on the other prototypes. Ten of the turrets were equipped with 105 mm smoothbore guns, and the other seven prototypes were equipped with a 120 mm smoothbore gun. Hulls PT11 and PT17 were fitted with a hydropneumatics suspension based on the MBT-70 design. The running gears of these two hulls had only six road wheels. Different types of APUs were mounted in the prototypes. All turrets were equipped with a machine gun for air defense except the turret mounted on PT11, where a 20 mm remotely operated auto cannon was mounted. With the exception of hulls PT07, PT09, PT15 and PT17, all prototypes used the MB 873 engine. The road wheels were taken from the MBT-70 and the return rollers from the Leopard 1. The prototypes were designed with a projected weight of MLC50, which equals approximately 47.5 tones (46.7 long tons; 52.4 short tons). The welded turret utilized spaced armor formed by two steel plates. The prototypes were equipped with an EMES-12 optical rangefinder and fire control system, which later was adopted on the Leopard 1A4.
+
+In mid-1973 a new turret was designed by Wegmann saving 1.5 tones (1.5 long tons; 1.7 short tons) weight.[15] It was nicknamed the Spitzmaus-Turm (shrew turret) due to the highly sloped front. This design was only possible with the new EMES-13 optical rangefinder, which required a base length of only 350 millimeters (14 in) instead of the previous 1,720 millimeters (68 in). Based on experiences in the Yom Kippur War, a higher level of protection than the prototypes' heavily sloped spaced armor was demanded in late 1973 and the Spitzmaus-Turm was never produced. The weight limit was increased from MLC50 to MLC60, which equals approximately 55 tons (54 long tons; 61 short tons). The turret T14 was modified to test a new armor configuration, taking on a blockier-looking appearance as a result of using vertical modules of spaced multilayer armor. It was also used to test the new EMES-13 optical rangefinder. The modified turret T14 was designated T14 mod and was fitted with a fully electric turret drive and stabilization system, which was developed together by the companies General Electric and AEG Telefunken.
+
+This equipment has proliferated into the following countries: Austria, Canada, Chile, Finland, Germany, Greece, Hungary, Indonesia, Norway, Poland, Qatar, Singapore, Spain, Sweden, Turkey.
+
+Here is Variants information for the Leopard 2 German Main Battle Tank (MBT):
+The Leopard 2A1 is Minor modifications and the installation of the gunner's thermal sight[1] were worked into the second batch of 450 vehicles Leopard 2, designated the A1. Krauss-Maffei built 248 (Chassis Nr. 10211 to 10458) and Mak built 202 (Chassis Nr. 20173 to 20347). Deliveries of the 2A1 models started in March 1982 and ended in November 1983. The two most notable changes were the modification of the ammunition racks to be identical to those in the M1A1 Abrams, and redesigned fuel filters that reduced refuelling time. A third batch of 300 Leopard 2, 165 by Krauss-Maffei (Chassis Nr. 10459 to 10623) and 135 by MaK (Chassis Nr. 20375 to 20509.), was built between November 1983 and November 1984. This batch included more minor changes that were later retrofitted to the earlier 2A1s.
+The Leopard 2A2 is This designation was given to upgraded vehicles of the first batch of Leopard 2s, brought up to the standard of the second and third batches. This modernisation gradually replaced the original PZB 200 sights in the first batch with thermal sights for the EMES 15 as they became available. Furthermore, the upgrade included the fitting of filler openings and caps to the forward hull fuel tanks to allow separate refuelling, as well as the addition of a deflector plate for the periscope and a large coverplate to protect the existing NBC protection system. Finally, the tank was given new five metre towing cables with a different position. The programme began in 1984 and ended in 1987; the third, fourth and fifth batches, which were produced during this period, had the same features. The modernised first batch can be recognised by the circular plate covering the hole where the cross-wind sensor for the fire-control system was removed.
+The Leopard 2A3 is The fourth batch of 300 vehicles, 165 by Krauss-Maffei (Chassis Nr. 10624 to 10788) and 135 by Mak (Chassis Nr. 20510 to 20644), was delivered between December 1984 and December 1985. The main change was the addition of the SEM80/90 digital radio sets (also being fitted to the Leopard 1 at the same time), and the ammunition reloading hatches being welded shut. Even with these minor changes the new batch was known as the 2A3.
+The Leopard 2A4 is The most widespread version of the Leopard 2 family, the 2A4 models included more substantial changes, including an automated fire and explosion suppression system, an all-digital fire control system able to handle new ammunition types, and an improved turret with flat titanium/tungsten armour. The Leopard 2s were manufactured in eight batches between 1985 and 1992. All the older models were upgraded to 2A4 standard. Until 1994, Germany operated a total of 2,125 2A4s (695 newly built and the rest modified older versions), while the Netherlands had an additional 445 tanks. The 2A4 was also license manufactured in Switzerland as the Panzer 87 "Leopard" or Pz 87. This version included Swiss-built 7.5 mm MG 87 machine guns and communications equipment, and featured improved NBC protection system. Switzerland operated 380 Pz 87 tanks..
+The Leopard 2 Marksman is Finland has modernised its Marksman SPAAG vehicles by replacing the original T-55AM chassis with a newer Leopard 2A4 chassis. The upgraded Marksman vehicles were scheduled to enter service with the Finnish Army in 2016. The new Leopard 2 chassis greatly improves mobility compared to the older T-55AM chassis, both on- and off-road. The Leopard 2 chassis is also larger, thus providing a more stable firing platform for the Marksman turret to operate from.
+The Leopard 2A5 is "Leopard 2 Improved" was a prototype-series for enhancing the A4, introducing a wedge-shaped, spaced add-on armour to the turret front and the frontal area of the sides. These spaced armour modules defeat a hollow charge prior to reaching the base armour, and causes kinetic-energy penetrators to change direction, eroding them in the process; it does not form a shot-trap, since it does not deflect the penetrators outwards to hit the hull or turret ring. The gun mantlet was redesigned to accept the new armour..
+The Stridsvagn 122 is The Stridsvagn 122 is a Swedish Army tank based on the Leopard 2 Improved, with 120 units built, 91 of which were licence-produced in Sweden. The tank features increased armour on the turret top and front hull, and improved command, control and fire control systems. Externally, it can be distinguished from the Leopard 2A5 by the French GALIX smoke dispensers, different storage bins, and the much thicker crew hatches The Strv 122B, a variant equipped with modular AMAP composite armour from IBD Deisenroth, has increased 360° protection against threats like EFPs, RPGs and IEDs. The width of 4 metres (13 ft) has been kept, while the weight increases by only 350 kilograms (770 lb).
+The Leopard 2-140 is n the early 1990s,[citation needed] Rheinmetall began development of a 140 mm smoothbore cannon for use in future tank designs. The new gun was intended to counter new Soviet tank developments, especially since the next generation of Soviet main battle tanks were rumoured to be armed with a 135 mm or 152 mm cannon. The new 140 mm cannon was part of a modernisation programme for the Leopard 2 known as the KWS III. Test firing of the new 140 mm cannon was conducted. Results showed that the gun had high penetration values, and had a muzzle velocity of around 2000 metres a second, with potential to be increased further. However, the 140 mm rounds were too heavy for the tank crew to handle effectively.
+The Leopard 2A6 is The Leopard 2A6 includes the addition of the Rheinmetall 120 mm L/55 smoothbore gun and other changes. All German tank battalions of the "crisis intervention forces" are equipped with the A6. Canada purchased 20 Leopard 2A6s from the Netherlands. These were delivered in 2007. Portugal also purchased 37 Leopard 2A6 from the Dutch in 2007, with delivery in 2008. In January 2014, Finland purchased 100 L2A6s, as well as munitions, simulators, and a ten-year supply of reserve parts from the Netherlands. The tanks are being delivered in batches between 2015-2019..
+The Leopard 2E is he Leopard 2E is a derivative of the 2A6, with greater armour protection, developed under a programme of co-production between the defence industries of Spain and Germany. The programme was developed within the frame of collaboration decided in 1995 between the Defence Ministries of both countries, in which also was included the cession of use by a period of five years of 108 Leopard 2A4 from the German Army to the Spanish Army. However, this cession was extended up to 2016, and after that those tanks will be the sole property of the Spanish Army, as has been made public on 24 January 2006, then having been paid a total of 15,124,014 euros in ten yearly installments, giving the Spanish co-ownership from 2006..
+The Leopard 2 PSO is The new Leopard 2 PSO (Peace Support Operations) variant is designed specially for urban warfare, which had been encountered in peacekeeping operations with increasing frequency. Therefore, the Leopard 2 PSO is equipped with more effective all-around protection, a secondary weapons station, improved reconnaissance ability, a bulldozer blade, a shorter gun barrel (for manoeuvring on urban streets at the expense of fire range), non-lethal armament, close-range surveillance ability (through camera systems), a searchlight and further changes to improve its perseverance and mobility in a built-up non-wide open area. These features are similar to the Tank Urban Survival Kit for the American M1A2 Abrams.
+The Leopard 2A7 is The Leopard 2A7 is fundamentally different from the KMW variant 2A7+ and is not optimised for combat in urban terrain. A total of 20 vehicles are provided for converting. It involves former Dutch A6NL models returned by Canada to Germany. The original upgrade to A6M has been extended in coordination with Canada and includes a crew-compartment cooling-system from the Leopard 2 A6M-HEL series, a new 20 kW auxiliary power unit based on the Steyr Motors M12 TCA UI engine, the Saab Barracuda Mobile Camouflage System (MCS) with Heat-Transfer Reduction (HTR CoolCam) system, a field trial proven combat management and information system (IFIS: Integriertes Führungs- und Informationssystem), onboard network optimization with ultracapacitors in the chassis and turret, a SOTAS IP digital intercom system, a renewal of the fire suppression system in the crew compartment, and the retrofitting of Attica thermal imaging module in the commander optics. The weapon system is adapted for firing HE ammunition. It is also fitted for, but not with, additional passive side protection armour. The first Leopard 2A7 was handed over to the German Army in Munich on 10 December 2014. A total of 14 vehicles were produced for Tank Battalion 203, plus four more going to the Armoured Corps Training Centre and one vehicle at the Technical School for Land Systems and School for Technology of the Army. The last tank remains as a reference vehicle at KMW.
+The Leopard 2A7+ is The Leopard 2A7+ was first shown to the public during the Eurosatory 2010, featuring the label "Developed by KMW – tested and qualified by German MoD". The Leopard 2A7+ has been tested by the Bundeswehr under the name UrbOp (urban operations).The Leopard 2A7+ is designed to operate both in low intensity and high intensity conflicts..
+
+Here is System information for the Leopard 2 German Main Battle Tank (MBT):
+The Alternative Designation is Leopard 2, Swiss Pz87, Stry121.
+The Type is Main Battle Tank.
+The Manufacturer is Krauss-Maffei Wegmann 
+Maschinenbau Kiel.
+The Family is Leopard German Main Battle Tank.
+The Crew is 4.
+The Estimated Service Life is 50.
+
+Here is Dimensions information for the Leopard 2 German Main Battle Tank (MBT):
+The Length (Chassis Overall) is 7.7.
+The Width is 3.7.
+The Height is 2.8.
+The Weight, Combat is 56.
+The Ground Pressure is 0.83.
+
+Here is Automotive information for the Leopard 2 German Main Battle Tank (MBT):
+The Engine Name is MTU MB-837 Ka501 diesel.
+The Engine Type is Diesel.
+The Engine Power is 1,500.
+The Cruising Range is 550.
+The Speed, Maximum Road is 70.
+The Speed, Off Road is 50.
+The Speed, Average Cross is 40.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth (Without Preparation) is 1.0.
+The Fording Depth (With Preparation) is 4.0.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 1.5.
+The Trench is 3.
+
+Here is System information for the Leopard 2 German Main Battle Tank (MBT) of the Main Gun:
+The Name is 1 x Rheinmetall L/55 smoothbore gun.
+The Type is Smoothbore Gun.
+The Caliber is 120 mm.
+The Manufacturer is Rheinmetall.
+The Max Rate of Fire is INA.
+The Loader Type is Manual.
+The Basic Load is 42 Total of any combination 120mm Projectiles.
+The Maximum Elevation is +20.
+The Minimum Elevation is -9.
+The Fire on the Move is Yes.
+The Weight (Gun Barrel) is 1,190.
+The Weight (Gun Mount( is 3,317.
+The Length (Barrel) is 6.6.
+
+Here is Ammunition (Option 1) information for the Leopard 2 German Main Battle Tank (MBT) of the Main Gun:
+The Type is Laser Homing Attack or Laser Homing Anti-Tank (LAHAT).
+The Caliber is 120.
+The Muzzle Velocity is 1,580-1,750.
+The Basic Load is 42 Total of any combination 120mm Projectiles.
+The Operational Range is 6,000-8,000.
+The Armor Penetration is Yes.
+The Weight is 13.
+The Length is 975.
+The Diameter is 105 mm.
+The Warhead Type is Tandem HEAT.
+The Warhead Weight is 4.5.
+The Speed is 285-300.
+The Guidance System is Semi-Active Laser Homing.
+The Penetration (2,000 Meters) is 450.
+
+Here is Ammunition (Option 2) information for the Leopard 2 German Main Battle Tank (MBT) of the Main Gun:
+The Type is DM63 KE Cartridge (Rheinmetall).
+The Caliber is 120.
+The Muzzle Velocity is 1,650.
+The Basic Load is 42 Total of any combination 120mm Projectiles.
+The Propulsion System is Propulsion System (TIPS) utilizing the SCDB technology.
+The Bulk Powder Weight is 8.45.
+
+Here is Ammunition (Option 3) information for the Leopard 2 German Main Battle Tank (MBT) of the Main Gun:
+The Type is DM53 120mm KE Projectile (Rheinmetall).
+The Caliber is 120.
+The Muzzle Velocity is 1,750.
+The Basic Load is 42 Total of any combination 120mm Projectiles.
+The Round Weight is 21.4.
+The Projectile Length is 745.
+The Accuracy is 0.2.
+
+Here is System information for the Leopard 2 German Main Battle Tank (MBT) of the Tank Commander's Weapon System:
+The Name is 1 x MG3A1.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is Rheinmetall.
+The Proliferation is + 1 Million.
+The In Service is 1960-present.
+The Max Rate of Fire is 1,200.
+The Fire on the Move is Yes.
+The Weight (Gun Only) is 11.5.
+The Weight (Mounted on Tripod) is 27.5.
+The Length (With Stock) is 1,225.
+The Length (Without Stock) is 1,097.
+The Length (Barrel Only) is 565.
+The Action is Recoil-operated, roller locked.
+The Effective Firing Range (With Sight Adjustments) is 200-1,200.
+The Maximum Firing Range (Bipod Mounted) is 600.
+The Maximum Firing Range (Tripod Mounted) is 1,200.
+The Maximum Firing Range (Gun Carriage) is 3,000.
+The Maximum Firing Range (Terminal) is 3,750.
+The Sights is Open tangent iron sights.
+The Feed System is 50-round non-disintegrating DM1 belt (can be combined in a drum); 100-round disintegrating DM6/M13 belt.
+
+Here is Ammunition information for the Leopard 2 German Main Battle Tank (MBT) of the Tank Commander's Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Muzzle Velocity is 820.
+The Basic Load is 1,500.
+
+Here is System information for the Leopard 2 German Main Battle Tank (MBT) of the Loader's Weapon System:
+The Name is 1 x MG3A1.
+The Caliber is 7.62 mm.
+The Type is General-Purpose Machine Gun.
+The Manufacturer is Rheinmetall.
+The Proliferation is +1 Million.
+The In Service is 1960-present.
+The Max Rate of Fire is 1,200.
+The Fire on the Move is Yes.
+The Weight (Gun Only) is 11.5.
+The Weight (Mounted on Tripod) is 27.5.
+The Length (With Stock) is 1,225.
+The Length (Without Stock) is 1,097.
+The Length (Barrel Only) is 565.
+The Action is Recoil-operated, roller locked.
+The Effective Firing Range (With Sight Adjustments) is 200-1,200.
+The Maximum Firing Range (Bipod Mounted) is 600.
+The Maximum Firing Range (Tripod Mounted) is 1,200.
+The Maximum Firing Range (Gun Carriage) is 3,000.
+The Maximum Firing Range (Terminal) is 3,750.
+The Feed System is 50-round non-disintegrating DM1 belt (can be combined in a drum); 100-round disintegrating DM6/M13 belt.
+The Sights is Open tangent iron sights.
+
+Here is Ammunition information for the Leopard 2 German Main Battle Tank (MBT) of the Loader's Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Muzzle Velocity is 820.
+The Basic Load is 1,500.
+
+Here is Fire Control information for the Leopard 2 German Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is No, Instead a Low Light Enhancer PZB 200.
+The Thermal Sight Gunner is No, Instead a Low Light Enhancer PZB 200.
+The Main Gun Stabilization is WNA-H22, 2-plane.
+The Infrared is Yes.
+The Range Finder is Laser.
+The Wind Senor is Yes.
+The Telescope is EMES 15.
+The Periscope is PERI R17.
+The Tower Sight is FERO Z18.
+The Computer Controlled Tank Testing Set is RPP 1–8.
+
+Here is Protection information for the Leopard 2 German Main Battle Tank (MBT):
+The Hull Armor is Welded hull and turret, provides good protection from Armor-piercing rounds and ATGWs..
+The Turret Armor is Welded hull and turret, provides good protection from Armor-piercing rounds and ATGWs..
+The Applique Armor is Yes, Track Skirt.
+The Explosive Reactive Armor is INA.
+The Active Protection System is Yes, Galiz, Stry122.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is grenlaunch 8x2 at turret.
+The IR Signature is INA.
+The Fire Suppression System is Yes, Automatic.
+

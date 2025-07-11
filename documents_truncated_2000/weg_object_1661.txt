@@ -1,0 +1,195 @@
+This document describes the Hobart Class Australian Destroyer.
+
+The Hobart class is a ship class of three air warfare destroyers (AWDs) being built for the Royal Australian Navy (RAN). Planning for ships to replace the Adelaide-class frigates and restore the capability last exhibited by the Perth-class destroyers began by 2000, initially under acquisition project SEA 1400, which was re-designated SEA 4000. Although the designation "Air Warfare Destroyer" is used to describe ships dedicated to the defense of a naval force (plus assets ashore) from aircraft and missile attack, the planned Australian destroyers are expected to also operate in anti-surface, anti-submarine, and naval gunfire support roles.
+
+Planning for the Australian Air Warfare Destroyer (as the class was known until 2006) continued through the mid-2000s, with the selection of the Aegis combat system as the intended combat system and ASC as the primary shipbuilder in 2005. In late 2005, the AWD Alliance was formed as a consortium of the Defense Materiel Organization (DMO), ASC, and Raytheon. Between 2005 and 2007, Gibbs & Cox's Evolved Arleigh Burke-class destroyer concept and Navantia's Álvaro de Bazán-class frigate competed for selection as the AWD design. Although the Arleigh Burke design was larger and more capable, the Álvaro de Bazán design was selected in June 2007 as it was an existing design, and would be cheaper, quicker, and less risky to build.
+
+T
+
+This equipment has proliferated into the following countries: Australia.
+
+Here is Variants information for the Hobart Class Australian Destroyer:
+The Hobart is Commissioned: 2015
+Status: Active.
+The Brisbane is Commissioned: 2016
+Status:Active.
+The Sydney is Commissioned: 2020
+Status: Sea Trials.
+
+Here is System information for the Hobart Class Australian Destroyer:
+The Alternative Designation is Hobart Class.
+The Date of Introduction is 2015.
+The Total Built is 3 ships built.
+The Type is Destroyer.
+The Builder is Navantia (designer)
+AWD Alliance (project coordinator)
+ASC (primary shipbuilder)
+Forgacs Group and BAE Systems Australia (module builders).
+The In Service is 2015-Present.
+The Crew is 186 + 16 aircrew
+Accommodation for 234.
+
+Here is Dimensions information for the Hobart Class Australian Destroyer:
+The Length, Overall is 146.7 m.
+The Length, Perpendiculars is 133.2 m.
+The Beam is 18.6 m.
+The Draft is 7.2 m.
+The Displacement, Full Load is 7,000 tons.
+
+Here is Propulsion System information for the Hobart Class Australian Destroyer:
+The Diesel Engine Name is 2 x Bazan/Caterpillar diesels.
+The Diesel Engine Power is 12,240 hp sustained.
+The Gas Turbine Engine Names is 2 x GE LM 2500 gas turbines.
+The Gas Turbine Engine Power is 47,328 hp sustained.
+The Shafts is 2.
+The Propellers is controllable-pitch propellers.
+The Range is 5,000 nm (5,750 mi, 9,260 km) at 18 knots.
+The Speed is 28 knots (32 mph, 52 km/h).
+
+Here is Communcations information for the Hobart Class Australian Destroyer:
+The Sataliete Communications is 1 x MBS-567A COMINT system.
+
+Here is Missile System #1 information for the Hobart Class Australian Destroyer of the Missile Systems:
+The Name is Mk 41 Vertical Launch Systems.
+The Type is Surface-to-Air Missile.
+The Quantity is 48 x Mk 41 vertical launch systems.
+The Missile Name (Primary Missile) is SM-2MR.
+The Missile Type is Surface-to-Air Missile.
+The SM-2MR Missile Basic Load is 32.
+The SM-2MR Missile Range is 167 km.
+The SM-2MR Missile Speed is Mach 3.
+The Missile Name (Secondary Missile) is RIM-7 Sea Sparrow.
+The Missile Type is Surface-to-Air Missile.
+The RIM-7 Sea Sparrow Basic Load is 64.
+The RIM-7 Sea Sparrow Range is 14.8 km.
+The RIM-7 Sea Sparrow Speed is Mach 2.5.
+
+Here is Missile System #2 information for the Hobart Class Australian Destroyer of the Missile Systems:
+The Name is Quad RGM-84L Harpoon.
+The Type is Anti-Ship Missile.
+The Launcher is 2 x quad RGM-84L Harpoon launchers.
+The Basic Load is 8 Harpoon Block II missiles carried.
+The Length is 3.90 m.
+The Diameter is 340 mm.
+The Wingspan is 0.91 m.
+The Weight is 531.6 kg.
+The Range is 139-148 km.
+The Speed is Mach 0.85.
+The Warhead is Conventional high-explosive with some penetration capability.
+The Warhead Weight is 227 kg.
+The Sensors is short-pulse radar Kollsman frequency-modulated continuous wave altimeter Texas Instruments PR-53/DSQ-28 monopulse frequency-agile, jittered pulse repetition frequency active radar homing seeker switched on at pre-planned point.
+The Guidance System is on-board Midcourse Guidance Unit (MGU)-IBM digital computer Smiths Industries three-axis ARA Honeywell AN/APN-194.
+The Targeting is HCLS provides targeting data; no updates once missile is launched..
+
+Here is Gun Weapon System #1 information for the Hobart Class Australian Destroyer of the Gun Weapon System:
+The Name is Mk 45 Naval Gun.
+The Type is Naval Gun.
+The Caliber is 127 mm.
+The Quantity is 1 x FMC 127-mm/62-cal Mk 45 Mod 2.
+The Length is 6.86 m.
+The Barrel Length is 6.858 m.
+The Weight is 22,226.00 kg.
+The Crew is 6 (gun captain, panel operator, 4 ammunition loaders, all below decks).
+The Elevation is −15° to +65°.
+The Traverse is ±170° from centerline
+Max. traversing rate: 30°/s[.
+The Rate of Fire is 16–20 rounds per minute automatic.
+The Muzzle Velocity is 762.0 m/s.
+The Effective Firing Range is 24.1 km.
+The Feed System is 600 rounds.
+
+Here is Ammunition Gun Weapon System #1 information for the Hobart Class Australian Destroyer of the Gun Weapon System:
+The Type is Rfile.
+The Caliber is 12.7.
+The Shell is 31.75 kg.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Hobart Class Australian Destroyer of the Gun Weapon System:
+The Name is Typhoon Weapon Station.
+The Type is Remote Weapon Station.
+The Caliber is 25 mm.
+The Quantity is 2 x Rafael 25mm/75-cal Mk 25 Typhoon-G RWS.
+The Barrel Length is INA.
+The Weight is 1,000 kg.
+The Elevation is -20 deg to 45 deg.
+The Traverse is +/-160 deg.
+The Muzzle Velocity is INA.
+The Effective Firing Range is INA.
+The Sensors is CCD/ICCD/FLIR.
+
+Here is Ammunition Gun Weapon System #2 information for the Hobart Class Australian Destroyer of the Gun Weapon System:
+The Type is Rifle.
+The Caliber is 25 mm.
+The Basic Load is INA.
+
+Here is Gun Weapon System #3 information for the Hobart Class Australian Destroyer of the Gun Weapon System:
+The Name is Mk 15 Phalanx CIWS.
+The Type is Close-In Weapon System.
+The Caliber is 20 mm.
+The Quantity is 2 x Raytheon 20-mm Mk 15 Phalanx Block 2B CIWS.
+The Barrel Length is 1,500 mm.
+The Height is 4.7 m.
+The Weight is 5,700 kg.
+The Crew is Automated, with human oversight.
+The Barrels is 6-barrel (progressive RH parabolic twist, 9 grooves).
+The Elevation is −10°/+80°.
+The Traverse is 150° from either side of centerline
+(Rate of traverse: 100°/sec.
+The Rate of Fire is 3,000 rounds/minute.
+The Maximum Firing Range is 3.5 km.
+The Effective Firing Range is Classified.
+The Muzzle Velocity is 1,100 m/s.
+The Guidance System is Ku-band radar and FLIR.
+
+Here is Ammuntion Gun Weapon System #3 information for the Hobart Class Australian Destroyer of the Gun Weapon System:
+The Type is Rifle.
+The Caliber is 20 mm.
+The Shell is • Naval: Armor-piercing tungsten penetrator rounds with discarding sabots.
+• Land: High-Explosive Incendiary Tracer, Self-Destruct..
+The Basic Load is INA.
+
+Here is Torpedo Weapon System information for the Hobart Class Australian Destroyer:
+The Torpedo Tubes is Triple 323mm Mk 32 Mod 9.
+The Quantity is 2 x Triple 323mm Mk 32 Mod 9 fixed launchers Systems.
+The Torpedo Name is MU90 Impact.
+The Torpedo Type is Anti-Submarine Torpedo.
+The Length is 2.85 m.
+The Diameter is 323.7 mm.
+The Weight is 304 kg.
+The Warhead is PBX shaped charge warhead.
+The Warhead Weight is 32.7 kg.
+The Engine is Pump-jet
+Electric.
+The Operational Range is >10 km (5.4 nmi) (max speed)
+>23 km (12 nmi) (min speed).
+The Maximum Depth is >1000 m.
+The Speed is 29 kn (54 km/h) to well over
+50 kn (93 km/h).
+The Guidance System is Active or passive acoustic homing.
+
+Here is Onboard Aviation Facilities information for the Hobart Class Australian Destroyer:
+The Helicopters is 1 x MH-60R helicopter.
+
+Here is Fire Control information for the Hobart Class Australian Destroyer:
+The Combat Management System is 1 x Lockheed Martin Aegis Baseline 7.1; Link 11/16;  AN/USG-7B Cooperative Engagement Capability.
+
+Here is Sonar Systems information for the Hobart Class Australian Destroyer:
+The Sonar System is 1 x  Ultra integrated sonar suite w/Type 2150 hull-mounted and VDS w/torpedo detection.
+
+Here is Radar Systems information for the Hobart Class Australian Destroyer:
+The Air and Surface Radar is 1 x AN/SPY-1D(V) Aegis air/surface search.
+The Surface Radar is 1 x Northrop Grumman AN/SPQ-9B surface search.
+The Target Radar is 3 x Raytheon SPG-62 target illuminators.
+The Navigation Radar is 2 x L3 Radarpilot 1100 navigation.
+
+Here is Protection information for the Hobart Class Australian Destroyer:
+The Active Protection System is Yes.
+The EO System #1 is 1 x Mk 20 EOSS.
+The EO System #2 is 2 x Sagem VAMPIR IRST.
+The EO System #3 is 2 x Ultra 2500 EO tracking systems.
+The Electronic Warfare is 1 x ITT ES-3701 ESM and surveillance system.
+The Decoy System #1 is 4 x Mk 169 Nulka decoy launchers.
+The Decoy System #2 is 4 x Terma Mk 137 C-Guard decoy launchers for SRBOC/NATO Sea Gnat.
+The Decoy System #3 is LESCUT torpedo decoys (Basic Load: INA).
+The Decoy System #4 is SLQ-25 Nixie torpedo countermeasures (Basic Load: INA).
+

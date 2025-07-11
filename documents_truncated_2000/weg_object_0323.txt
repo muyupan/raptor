@@ -1,0 +1,104 @@
+This document describes the J-15 (Flanker-X2) Chinese Carrier-Based Air Superiority Fighter.
+
+The Shenyang J-15, NATO reporting name: Flanker-X2, also known as Flying Shark, is a 4th generation, twin-jet, all-weather, carrier-based fighter aircraft in development by the Shenyang Aircraft Corporation and the 601 Institute for the Chinese People's Liberation Army Navy's aircraft carriers. It is developed from J-11B as well as from studying a prototype of Su-33. An unfinished Su-33 prototype, the T-10K-3, was acquired from Ukraine in 2001 and is said to have been studied extensively, and reverse engineered, with development on the J-15 beginning immediately afterward. While the J-15 appears to be structurally based on the prototype of the Su-33, the indigenous fighter features Chinese technologies as well as avionics from the J-11B program. In February 2018, discussions about replacing the aircraft appeared in several Chinese media outlets including Xinhua and China's main military newspaper, discussing that it belongs to the 4th or 4.5 generation fighters. Thus, the J-15 is viewed as an interim carrier-based fighter until a 5th-generation successor enters service, one that may be based on the J-20 or J-31.
+
+This equipment has proliferated into the following countries: China, Russian Federation.
+
+Here is Variants information for the J-15 (Flanker-X2) Chinese Carrier-Based Air Superiority Fighter:
+The J-15 is Single-seat variant..
+The J-15B is Updated variant..
+The J-15S is Two-seat variant, first flown in 2012..
+The J-15D is Two-seat variant with EW pods and other electronic equipment installed and IRST sensor removed. Begun operational testing in December 2018..
+
+Here is System information for the J-15 (Flanker-X2) Chinese Carrier-Based Air Superiority Fighter:
+The Alternate Designation(s) is J-15; NATO: Flanker-X2.
+The Primary Function / Type is This carrier-capable aircraft is intended for air-superiority, air-defense and anti-ship missions..
+The Manufacturer is Shenyang Aircraft Corporation.
+The Crew is 1 (pilot).
+The Number of Engines is 2.
+The Number of Hard Points is 12 × external hardpoints with a capacity of up to 6,500 kg (14,300 lb) of ordnance, with provisions to carry combinations of Rockets, Missiles, and Bombs..
+
+Here is Dimensions information for the J-15 (Flanker-X2) Chinese Carrier-Based Air Superiority Fighter:
+The Length is 12.19 m without probe.
+The Wingspan is 14.70 m.
+The Wingspan Folded is 7.40 m.
+The Height is 5.85 m.
+The Wing Area is 67.80 m sq.
+The Wheelbase is 5.87 m.
+The Wheel Track is 4.40 m.
+The Empty Weight is 18,500 kg.
+The Normal Takeoff Weight is 25,000 kg.
+The Maximum Takeoff Weight is 29,940 kg.
+The Maximum Weight is 33,000 kg after in-flight refueling.
+The Maximum Combat Load is 6,500 kg.
+
+Here is Automotive information for the J-15 (Flanker-X2) Chinese Carrier-Based Air Superiority Fighter:
+The Engine Name is 2 × Shenyang WS-10.
+The Number of Engines is 2.
+The Engine Type is Afterburning Turbofan.
+The Engine Power is 132 kN (30,000 lbf) thrust each.
+The Fuel Capacity is 20,944 lb (9,500 kg) internal.
+The Maximum Speed is 2,409 km/h.
+The Maximum Speed at Sea Level is 1,400 km/h.
+The Approach Speed is 240 km/h.
+The Maximum Range is 3,000 km w/out refueling.
+The Ceiling is 17,000 m.
+The Carrier Takeoff is 120 m on 14-deg ramp.
+The Carrier Landing is 90 m with arrestor hook.
+The Maximum Load is +9 G.
+The Operational Load is +8 G.
+
+Here is System information for the J-15 (Flanker-X2) Chinese Carrier-Based Air Superiority Fighter of the Main Gun System:
+The Name is Gryazev-Shipunov GSh-30-1.
+The Type is Autocannon.
+The Caliber is 30 mm.
+The Length is Gryazev-Shipunov GSh-30-1.
+The Barrel Length is 1,500 mm.
+The Width is 156 mm.
+The Height is 185 mm.
+The Weight is 46 kg.
+The Barrels is 1.
+The Action is Short recoil operated.
+The Rate of Fire is 1,800 rounds/min.
+The Muzzle Velocity is 900 m/s.
+The Maximum Firing Range is 1,800m.
+The Effective Firing Range is 200-1,800m.
+
+Here is Ammunition information for the J-15 (Flanker-X2) Chinese Carrier-Based Air Superiority Fighter of the Main Gun System:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Shell is 30×165mm.
+The Basic Load is 150 Rounds.
+
+Here is Anti-Ship Missile information for the J-15 (Flanker-X2) Chinese Carrier-Based Air Superiority Fighter of the Missile Systems:
+The Name is P-270 Moskit.
+The Type is Supersonic Anti-Ship Cruise Missile.
+The Manufacturer is MKB Raduga.
+The Length is 9.745 m.
+The Diameter is 0.8 m.
+The Wingspan is 2.10 m.
+The Weight is 4,500 kg.
+The Warhead Weight is 300 KG (660 lb) overall 150 kg (330 lb) explosive or 120 kt of TNT fission-fusion thermonuclear weapon.
+The Engine is Four ramjets (solid fuel rocket on air-to-surface version).
+The Operational Range is 120–250 km.
+The Flight Altitude is 20 m (66 ft) above sea level.
+The Maximum Speed is Mach 3 (3,675 km/h).
+The Guidance System is Inertial guidance plus terminal active radar homing.
+
+Here is Rockets information for the J-15 (Flanker-X2) Chinese Carrier-Based Air Superiority Fighter:
+The Note is S-8, S-13 or S-25 pods.
+
+Here is Bombs information for the J-15 (Flanker-X2) Chinese Carrier-Based Air Superiority Fighter:
+The Note is up to 8 x 1,100 lb (500 kg) or 28 x 550 lb (250 kg).
+
+Here is Fire Control / Avionics information for the J-15 (Flanker-X2) Chinese Carrier-Based Air Superiority Fighter:
+The Fire Control Radar is NIIP N011 multi-mode look-down shoot-down; or  Phazotron Zhuk-27.
+The Navigation Radar is INA.
+
+Here is Protection information for the J-15 (Flanker-X2) Chinese Carrier-Based Air Superiority Fighter:
+The Stealth Properties is None.
+The Heat Signature Reduction is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is Yes.
+

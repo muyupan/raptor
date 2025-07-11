@@ -1,0 +1,44 @@
+This document describes the GAU-8 Avenger American 30mm Seven-Barrel Gatling Autocannon.
+
+The General Electric GAU-8/A Avenger is a 30 mm hydraulically driven seven-barrel Gatling-style autocannon that is typically mounted in the United States Air Force's Fairchild Republic A-10 Thunderbolt II. Designed specifically for the anti-tank role, the Avenger delivers very powerful rounds at a high rate of fire. The GAU-8/A is also used in the Goalkeeper CIWS ship weapon system, which provides defense against short-range threats such as highly maneuverable missiles, aircraft, and fast maneuvering surface vessels.
+
+The GAU-8 itself weighs 620 pounds (280 kg), but the complete weapon, with feed system and drum, weighs 4,029 pounds (1,828 kg) with a maximum ammunition load. It measures 19 ft 5 1⁄2 in (5.931 m) from the muzzle to the rearmost point of the ammunition system, and the ammunition drum alone is 34.5 inches (88 cm) in diameter and 71.5 inches (1.82 m) long.[6] Power for operating the gun is provided by twin hydraulic motors pressurized from two independent hydraulic systems. The magazine can hold 1,174 rounds, although 1,150 is the typical load-out. Muzzle velocity when firing armor-piercing incendiary rounds is 1,013 m/s, almost the same as the substantially lighter M61 Vulcan's 20 mm round, giving the gun muzzle energy of just over 200 kilojoules.
+
+The standard ammunition mixture for anti-armor use is a five-to-one mix of PGU-14/B Armor Piercing Incendiary, with a projectile weight of about 14.0 oz (395 grams or 6,096 grains) and PGU-13/B High Explosive Incendiary (HEI) rounds, with a projectile weight of about 13.3 oz (378 grams or 5,833 grains). The PGU-14/B's projectile incorporates a lightweight aluminum body, cast around a smaller caliber depleted uranium penetrating core. The Avenger proved lethal when tested against M47 Patton tanks in 1979.
+
+Innovation in the design of the GAU-8/A ammunition is the use of aluminum alloy cases in place of the traditional steel or brass. This alone adds 30% to ammunition capacity for a given weight. The projectiles incorporate a plastic driving band to improve barrel life. The cartridges measure 11.4 inches (290 mm) in length and weigh 1.53 pounds (0.69 kg) or more.
+
+The Avenger's rate of fire was originally selectable, 2,100 rounds per minute (rpm) in the low setting, or 4,200 rpm in the high setting. Later this was changed to a fixed rate of 3,900 rpm. At this speed, it would take 18 seconds of sustained fire to empty the magazine. In practice, the cannon is limited to one and two-second bursts to avoid overheating and conserve ammunition; barrel life is also a factor since the USAF has specified minimum life of at least 20,000 rounds for each set of barrels. There is no technical limitation on the duration the gun may be continuously fired, and a pilot could potentially expend the entire ammunition load in a single burst with no damage or ill effects to the weapons system itself. However, this constant rate of fire would shorten the barrel life considerably and require added barrel inspections and result in shorter intervals between replacement.
+
+Each barrel is a very simple non-automatic design having its own breech and bolt. Like the original Gatling gun, the entire firing cycle is actuated by cams and powered by the rotation of the barrels. The seven-barrel carriage assembly itself is driven by the aircraft's dual hydraulic system.
+
+The GAU-8/A ammunition feed is linkless, reducing weight and avoiding a great deal of potential for jamming. The feed system is double-ended, allowing the spent casings to be recycled back into the ammunition drum, instead of ejected from the aircraft, which would require considerable force to eliminate potential airframe damage. The feed system is based on that developed for later M61 installations but uses more advanced design techniques and materials throughout, to save weight.
+
+This equipment has proliferated into the following countries: Israel, South Korea (Republic of Korea), United States of America.
+
+Here is Variants information for the GAU-8 Avenger American 30mm Seven-Barrel Gatling Autocannon:
+The Note is Some of the GAU-8/A technology has been transferred into the smaller 25 mm GAU-12/U Equalizer, which was developed for the AV-8B Harrier II aircraft. The GAU-12 is about the same size as the 20 mm M61. GE has also developed the GAU-13/A, a four-barreled weapon using GAU-8/A components, which has been tested in podded form as the GPU-5/A. The Avenger also forms the basis for the Dutch-developed Goalkeeper CIWS naval air-defense gun. No current or contemplated aircraft other than the A-10 carries the full-up Avenger system..
+
+Here is System information for the GAU-8 Avenger American 30mm Seven-Barrel Gatling Autocannon:
+The Alternate Designation is GAU-8 Avenger.
+The Type is Autocannon.
+The Caliber is 30 mm.
+The Manufacturer is General Dynamics.
+The In Service is 1977-Present.
+The Barrels is 7-barrel (progressive RH parabolic twist, 14 grooves).
+The Action is Electrically controlled, hydraulic-driven.
+The Recoil is Because the gun's recoil forces could push the entire plane off-target during firing, the weapon itself is mounted laterally off-center, slightly to the port side of the fuselage centerline, with the actively "firing" barrel in the nine o'clock position (when viewed from the front of the aircraft), so that the firing barrel lies directly on the aircraft's centerline. The firing barrel also lies just below the aircraft's center of gravity, being bore-sighted along a line 2 degrees below the aircraft's line of flight. This arrangement accurately centers the recoil forces, preventing changes in aircraft pitch or yaw when fired. This configuration also leaves space for the front landing gear, which is mounted slightly off-center on the starboard side of the nose. The GAU-8/A utilizes recoil adapters. They are the interface between the gun housing and the gun mount. By absorbing (in compression) the recoil forces, they spread the time of the recoil impulse and counter-recoil energy transmitted to the supporting structure when the gun is fired. The A-10 engines were initially susceptible to flameout when subjected to gases generated in the firing of the gun. When the GAU-8 is being fired, the smoke from the gun can make the engines stop, and this did occur during initial flight testing. Gun exhaust is essentially oxygen-free and is certainly capable of causing flameouts of gas turbines. The A-10 engines now have a self-sustaining combustion section. When the gun is fired the igniters come on to reduce the possibility of a flameout. The average recoil force of the GAU-8/A is 10,000 pounds-force (45 kN), which is slightly more than the output of each of the A-10's two TF34 engines of 9,065 lbf (40.3 kN). While this recoil force is significant, in practice a cannon fire burst slows the aircraft only a few miles per hour in level flight..
+The Rate of Fire is 3,900 rpm.
+The Muzzle Velocity is 1,010 m/s.
+The Maximum Firing Range is 3,660 m.
+The Effective Firing Range is 1,220 m.
+The Feed System is Linkless feed system.
+The Accuracy is The GAU-8/A is extremely accurate and can fire 4,200 rounds per minute without complications. The 30-mm shell has twice the range, half the time to target, and three times the mass of projectiles fired by guns mounted in comparable close air support aircraft. The muzzle velocity of the GAU-8/A is about the same as that of the M61 Vulcan cannon, but the GAU-8/A uses heavier ammunition and has superior ballistics. The time of flight of its projectile to 4,000 feet (1,200 m) is 30 percent less than that of an M61 round; the GAU-8/A projectile decelerates much less after leaving the barrel, and it drops a negligible amount, about 10 feet (3.0 m) over the distance. The GAU-8/A accuracy, when installed in the A-10, is rated at "5 mils, 80 percent", meaning that 80 percent of rounds fired will hit within a cone with an angle of five milliradians; this equates to a 40-foot (12-meter) diameter circle at the weapon's design range of 4,000 feet (1,200 m). By comparison, the M61 has an 8-milliradian dispersion..
+
+Here is Dimensions information for the GAU-8 Avenger American 30mm Seven-Barrel Gatling Autocannon:
+The Length is INA.
+The Barrel Length is 2.30 m.
+The Width is INA.
+The Height is INA.
+The Weight is 281 kg.
+

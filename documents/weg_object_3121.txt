@@ -1,0 +1,45 @@
+This document describes the 9S32 Grill Pan Russian Fire Control Radar System.
+
+The 9S32 Grill Pan Fire Control Radar System is a multiple-target X-band tracking and guidance radar using a 10,000-element space-fed transmission lens. Above the radar array is an IFF  planara array, and below it are three sidelobe canceller antennas, which are mechanically steered to cover the main array sidelobe structure on up to three selected targets.
+
+There are two monopulse feeds on the top of the rotating radar turret. The upper feed is covered by a white, Teflon-like shell and is used when the array is set to 30°  tilt for aircraft targets. The lower feed is further forward on the roof of the turret and is in line with the center axis of the array when it is tilted to approximately 45° for TBM intercepts.
+
+The emphasized features of the SA-12 system, including the Grill Pan array, are low RF loss and low cost. The phase shifters are Faraday rotators, having two sections in series, controlled by separate coils, with a total phase of 720°.
+
+In each phase shifter, the first coil is connected in series with coils of other phase shifters in that row and driven by the row command. The second coil is connected in series with coils of the other phase shifters in that column and driven by the corresponding column command. Thus, a 10,000-element array, 100x 100 elements, requires only 100-row drivers and 100 column drivers. There are no electronic components on the phase shifter.
+
+The radar transmits right circular polarization and receives left circular (the predominant target echo polarization), and hence the Faraday rotator uses the same control field for the reception as for transmission.
+
+The control field is changed only when the beam position is changed. During a dwell of several milliseconds, several hundred pulses are transmitted and received.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Radar System information for the 9S32 Grill Pan Russian Fire Control Radar System of the System:
+The Name is 9S32 GRILL PAN Guidance Radar system.
+The Type is Parabolic dish target-illumination radar on telescoping mast on missile launch vehicle..
+The Purpose is The GRILL PAN radar system controls the battery's launcher vehicles (TELARs and LLVs)..
+The Sector Scan is 90-deg sector
+                              scan through 50 deg elevation on separate vehicle.
+The Guidance System is Inertial guidance with semi-active terminal homing..
+The Band is X-Band.
+The Multichannel is Yes.
+The Peak Power is 150.
+The Maximum Range is 250.
+The Beamwidth is 0.5.
+The Antenna is Transmission type of space fed phased-array antenna..
+The Maximum Targets, Simultaneous is It can simultaneously track up to 12 targets and control up to six missiles against these targets..
+The Radar Cross-Section is Radar cross-section of 2m2 at a range of 150 km in manual mode and 140 km in automatic mode..
+The IFF Planara Array is Yes.
+The Note is The GRILL PAN tracks targets assigned to it by the CP while simultaneously maintaining a horizon search for new targets..
+
+Here is Protection information for the 9S32 Grill Pan Russian Fire Control Radar System:
+The Hull Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The Note is The S-300V is considered as a survivable system. Once all the missiles are launched the launcher vehicles can briefly redeploy. It uses  shoot, scoot and hide tactics in order to avoid being destroyed..
+

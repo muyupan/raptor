@@ -1,0 +1,72 @@
+This document describes the BREM-2 Russian Armored Repair and Recovery Vehicle (ARRV).
+
+The BREM-2 armored repair and recovery vehicle (ARRV) is a conversion based on the hull of the Russian-designed BMP-1 Infantry Fighting Vehicle (IFV).
+
+This equipment has proliferated into the following countries: Algeria, Angola, Armenia, Azerbaijan, Belarus, Bulgaria, Cambodia, CFE Treaty, Congo, Cuba, Czech Republic, Egypt, Eritrea, Ethiopia, Finland, Georgia, Greece, Hungary, India, Iran (Islamic Republic of), Iraq, Kazakhstan, North Korea (Democratic People's Republic of Korea), Poland, Romania, Russian Federation, Slovakia, Ukraine.
+
+Here is Variants information for the BREM-2 Russian Armored Repair and Recovery Vehicle (ARRV):
+The BREM-Ch is is the Soviet designation for the Czechoslovak-built VPV ARV, the design of which was inspired by the BREM-2. The unofficial designation BREM-4 is used in Soviet Army units which received Czechoslovak-made VPVs..
+
+Here is System information for the BREM-2 Russian Armored Repair and Recovery Vehicle (ARRV):
+The Alternative Designation is BREM-2.
+The Type is Armored Repair and Recovery Vehicle (ARRV).
+The Manufacturer is Soviet Union - Design and Technology Center of the Ministry of Defense of the USSR in Kiev.
+The Crew is 4-5.
+
+Here is Dimensions information for the BREM-2 Russian Armored Repair and Recovery Vehicle (ARRV):
+The Length is 7.68 m.
+The Width is 3.16 m.
+The Height is 2.27 m.
+The Track Length is 3.53 m.
+The Track Width is 300 mm.
+The Weight is 14,000 kg.
+
+Here is Repair and Recovery System information for the BREM-2 Russian Armored Repair and Recovery Vehicle (ARRV):
+The Lift Capability is It is capable of lifting a BMP-1/BMP-2 IFV series power pack, various items of recovery equipment and a stowage area with a load capacity of 1,500 kg over the left rear roof area..
+The Main Winch Cable Length is 150 m.
+The Jib Traverse is 270°.
+The Welding Kit is VG-7500 welding kit.
+The Tow Roads is 2 x Tow Rods.
+The Winch is 6,500 kg capacity winch.
+
+Here is Automotive information for the BREM-2 Russian Armored Repair and Recovery Vehicle (ARRV):
+The Engine Name is Type UTD-20.
+The Engine Type is Diesel.
+The Engine Power is 300 hp at 2,000 rpm.
+The Power-to-Weight Ratio is 21.4 hp/t.
+The Electrical System is 24V.
+The Suspension is torsion bar.
+The Steering is clutch and brake.
+The Maximum Land Speed is 65 km/h.
+The Maximum Amphibious Speed is 7 km/h.
+The Range is 560 km.
+
+Here is System information for the BREM-2 Russian Armored Repair and Recovery Vehicle (ARRV) of the Main Weapon System:
+The Name is 1 × roof mounted 7.62mm PKMB Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is Degtyaryov plant.
+The Length is 1,203 mm.
+The Weight is 7.5 kg.
+The Action is Gas-operated, open bolt.
+The Muzzle Velocity is 825 m/s.
+The Rate of Fire is 600-800 rounds per minute.
+The Effective Rate of Fire is 250 rounds per minute.
+The Sighting Range of FIre is 1,500 m.
+The Belt is 250 Rounds.
+The Sights is Tangent iron sights (default);
+Optical, Night-vision, Thermal and Radar sights..
+
+Here is Ammunition information for the BREM-2 Russian Armored Repair and Recovery Vehicle (ARRV) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×54mmR.
+The Basic Load is 1,000 Rounds.
+
+Here is Protection information for the BREM-2 Russian Armored Repair and Recovery Vehicle (ARRV):
+The Hull Armor is The hull of the BREM-2 is made of all-welded steel, which provides the crew with protection from small-arms fire and shell splinters. According to US reports, the armor provides complete protection from 12.7 mm AP/API rounds over its frontal arc..
+The Applique Armor is INA.
+The Mine Clearing is No.
+The NBC Protection is FTP-200M collective system.
+The Smoke Equipment is 6 x 81 mm smoke grenade launchers on the hull roof..
+

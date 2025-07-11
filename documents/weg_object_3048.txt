@@ -1,0 +1,108 @@
+This document describes the EC725 French Caracal Medium Transport Helicopter.
+
+The Eurocopter EC725 Caracal, now called Airbus Helicopters H225M, is a long-range tactical transport military helicopter developed from the Eurocopter AS532 Cougar for military use. It is a twin-engined aircraft and can carry up to 28 seated troops along with two crew, depending on customer configuration. The helicopter is marketed for troop transport, casualty evacuation, and combat search and rescue duties, and is similar to the civilian EC225.
+
+The EC725 was developed to meet a French Air Force requirement for a specialist helicopter for Combat Search and Rescue operations. The AS 532 A2 Cougar model was examined and rejected for this purpose following extensive trials between 1996 and 1999. The primary improvements desired by the French Air Force were more powerful engines, greater flight endurance and improved combat durability. Eurocopter opted to pursue development of a more ambitious derivative of the AS 532 to meet this need, which was later designated as the EC725. The EC725 was initially named Cougar Mk II+ due to treaty reasons. The new aircraft also featured new mission equipment and autonomous avionics, along with other changes to meet the French specification.
+
+On 27 November 2000, the first EC725 prototype performed its maiden flight at Marignane, and on 15 January 2001, the first public presentation of the new helicopter took place. In concurrent development of the military-orientated EC725, Eurocopter also developed a civil-orientated counterpart, which was designated as the EC225. The French Air Force subsequently ordered an initial six EC725s to perform the Combat Search & Rescue mission, the first of these was delivered in February 2005. A follow-on order for eight more EC725s was placed for the French Armed Forces in November 2002; a total fleet of 20 EC725s in French service was envisioned in 2004.
+
+By 2015, the EC725, since re-designated as the H225M, was being manufactured on two separate production lines in France and Brazil. In July 2015, Airbus Helicopters announced that it was considering setting up a third assembly line in India if the firm was successful at winning an Indian tender for naval helicopters.
+
+he EC725 is based on the Eurocopter AS 532 Cougar, improving upon the design with a five-blade composite main rotor incorporating a new airfoil shape to reduce vibration levels. The helicopter can be fitted with removable armour plating to protect the troops and is powered by two Turbomeca Makila 1A4 turboshaft engines mounted over the cabin, which feature a dual-channel Full Authority Digital Engine Control (FADEC) system. They can be fitted with an anti-icing system to enable the aircraft to operate in very cold climates. Other improvements include a reinforced main rotor gearbox and an all glass cockpit. The cockpit is equipped with an integrated display system featuring a digital map and Active Matrix Liquid Crystal Displays.
+
+The helicopter has day and night time search and rescue capabilities by way of a search radar and Forward Looking Infra Red (FLIR); these allow the EC725 to be flown under visual meteorological and instrument flight rules conditions. The EC725 can be equipped with various military equipment and armaments, such as a pair of 7.62 mm FN MAG machine guns mounted within forward left and right windows, or a pair of 68 mm (2.75") Thales Brandt or Forges de Zeebrugge side-mounted rocket launchers, each with 19 rockets, or the MU90 Impact aerial-launched torpedo.
+
+Brazilian EC725s are equipped with a Helibras-built countermeasures suite, which includes chaff and flares to confuse radar and heat-guided missiles respectively; Thales has also produced self-protection systems to equip French EC725s. The Exocet anti-ship missile has also been integrated upon Brazilian Navy EC725s.
+
+Eurocopter developed four primacy cabin configurations for the type. The Troop Transport version contains a seating arrangement for a maximum of 29 troops, in addition to the crew. A dedicated VIP transport version is designed to contain between 8 and 12 passengers. The Casualty Evacuation version can carry up to 12 stretchers along with a total of four seated medical staff. The Combat SAR configuration is fully equipped to perform search and rescue duties in a combat environment. According to Airbus Helicopters, the H225M is capable of undertaking various mission roles including combat search and rescue, long-range tactical transport, aeromedical transport, logistic support and shipboard maritime operations.
+
+The armed version carries gun pods, rocket pods and Hellfire air-to-surface missiles (HForce Generic Weapon System (GWS) with Thales Scorpion helmet-mounted sight display (HMSD) and Wescam electro-optical sensor)
+
+This equipment has proliferated into the following countries: Brazil, France, Hungary, Indonesia, Kazakhstan, Kuwait, Malaysia, Mexico, Singapore, Thailand.
+
+Here is Variants information for the EC725 French Caracal Medium Transport Helicopter:
+The H225 is This is the civilian variant of the H225M. It can carry 24 passengers and an attendant for offshore operations or eight to 10 passengers in a VIP configuration. It is also equipped with a full de-icing/anti-icing system..
+The H225e is This is an improved version of the H225 launched in February 2014. It is designed for longer-range flights, particularly for offshore oil and gas airlift missions. 
+
+The helicopter is powered by Turbomeca Makila 2B turboshaft engines, which provide enhanced performance and an extended range of 300 nm (555 km) with 10 passengers. The engine has a new combustion chamber and blades in the high-pressure turbine, which permits the H225e to take off at its maximum weight.
+
+A new seating layout provides increased comfort for passengers and offers better access.
+
+The upgraded cockpit features a Euronav 7 moving map system; automatic identification system (AIS); TCAS2 collision-avoidance system; and a flight-management system. Enhanced operational capabilities include the ability to perform automatic GPS approaches to oil rigs or airfields that are not equipped with radio navigation systems..
+The Eurocopter EC225 Super Puma is The Airbus Helicopters H225 (previously Eurocopter EC225 Super Puma) is a long-range passenger transport helicopter developed by Eurocopter as the next generation of the civilian Super Puma family. It is a twin-engined aircraft and can carry up to 24 passengers along with two crew and a cabin attendant, dependent on customer configuration. The helicopter is marketed for offshore support and VIP passenger transport duties, as well as public service missions. 
+
+The civil-orientated EC225 has a military counterpart, which was originally designated as the Eurocopter EC725; it was rebranded in 2015 as the H225M. In 2015, the EC225 was formally renamed to the H225, in line with Eurocopter's corporate rebranding as Airbus Helicopters.
+
+Here is System information for the EC725 French Caracal Medium Transport Helicopter:
+The Alternative Designation is Eurocopter EC725 French Caracal Medium Transport Helicopter.
+The Type is Attack Helicopter.
+The Primary Function is INA.
+The Crew is 1 or 2 (pilot + co-pilot).
+The Blades, Main Rotor is 5.
+The Blades, Tail Rotor is 4.
+The Number of Engines is 2 x Turbomeca Makila 2A.
+The Number of Hard Points is INA.
+The Number of Passengers is 28 troop members.
+
+Here is Dimensions information for the EC725 French Caracal Medium Transport Helicopter:
+The Length is 19.5.
+The Width is INA.
+The Height is 4.6.
+The Main Rotor Diameter is 16.2.
+The Main Rotor Area is 206.1 m2.
+The Weight, Combat is 5,330 kg.
+The Gross Weight is 11,000 kg.
+The Maximum Takeoff Weight is 11,200 kg.
+
+Here is Automotive information for the EC725 French Caracal Medium Transport Helicopter:
+The Engine Name is Turbomeca Makila 2A1.
+The Engine Type is Free-turbine turboshaft.
+The Engine Power is 2382 hp each.
+The Maximum Speed is 324 km/h.
+The Cruise Speed is 262 km/h.
+The Never Exceed Speed is 324 km/h.
+The Range is 920 km.
+The Ferry Range is 1,253 km.
+The Service Ceiling is 6,095 m.
+The Rate of Climb is 7.4 m/s.
+
+Here is System information for the EC725 French Caracal Medium Transport Helicopter of the Main Gun System:
+The Name is AA-52.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Quantity is 2 x AA-52.
+The Length is 1080 mm.
+The Barrel Length is 600 mm.
+The Weight is 9.970 kg.
+The Action is Lever-delayed blowback.
+The Rate of Fire is 900 round/min.
+The Muzzle Velocity is 830 m/s.
+The Effective Firing Range is 600 m.
+The Maximum Firing Range is 3,200 m.
+The Feed System is 50-round non-disintegrating belt.
+The Sights is Iron
+Removable APX (SOM) telescopic sights
+IR scope.
+
+Here is Ammunition information for the EC725 French Caracal Medium Transport Helicopter of the Main Gun System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.5×54mm French
+7.62×51mm NATO.
+The Basic Load is INA.
+
+Here is Rocket Weapon Systems information for the EC725 French Caracal Medium Transport Helicopter:
+The Note is The EC725 Caracal can carry 68mm Rocket Pods.
+
+Here is Fire Control and Avionics information for the EC725 French Caracal Medium Transport Helicopter:
+The Fire Control Radar is INA.
+The Navigation Radar is INA.
+
+Here is Protection information for the EC725 French Caracal Medium Transport Helicopter:
+The Add on Armor is INA.
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The NBC Protection is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

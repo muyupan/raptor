@@ -1,0 +1,55 @@
+This document describes the Songar Grenaded Turkish Unmanned Aerial Vehicle (UAV).
+
+The Songar Grenaded Turkish Unmanned Aerial Vehicle (UAV) is a grenade launcher system integrated into the first national Armed Drone SONGAR™ in the inventory of the Turkish Armed Forces that is ensured up to four grenades can be fired effectively at a time used in any kind of day/night military operations. The system is able to to broadcast real-time video and operate within a mission radius of up to 5 km.
+
+This equipment has proliferated into the following countries: Turkey.
+
+Here is Variants information for the Songar Grenaded Turkish Unmanned Aerial Vehicle (UAV):
+The Songar is The Songar is fitted with an EO/IR turret to the underside of the fuselage for navigational and targeting purposes and an additional camera is mounted on the gun. The AV has a pilot camera for surveillance and exploration purposes, a gimbal integrated EO/IR sensor, barrel camera, and laser rangefinder (LRF) module (eye-safe laser), daylight color TV camera (10× zoom, 640×512 HD images)..
+The Songar Armed is The Songar Armed Turkish Unmanned Aerial Vehicle (UAV) is fitted with a stabilized 5.56 mm assault rifle, for which up to 200 rounds of ammunition may be carried. The AV can also be fitted with a 30-round STANAG magazine. The gun rotation can be adjusted between 0° and 45° elevation axis..
+The Songar Togan is The Songar Togan is fitted with TOGAN ammunition of TÜBİTAK SAGE. The AV is equipped with dynamic fire algorithm, and single-ammunition hold-drop mechanism..
+
+Here is System information for the Songar Grenaded Turkish Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Songar Grenaded.
+The Type is Vertical Take-Off and Landing (VTOL) Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Asisguard.
+The Autonomy is The AV's mission is fully autonomous with multilayer safety requiring human consent for firing, has return-home on loss of link or low battery, and in-flight mission change option. The AV can either have autonomous mode of control using GPS and GLONASS or remote-control mode..
+The Crew is Unmanned.
+The Payload Capacity is INA.
+The Camera is The SONGAR drone system is installed with two cameras including a pilot camera with 10x zoom and a gun-mounted camera. The cameras are capable of transmitting video and real-time images. The night sensors allow the drone to perform operations during night within a range of 10km. The camera systems are capable of performing real-time video transfer as well as video and data recording for post-mission analysis..
+The GPS is The armed drone uses both GPS and GLONASS navigation systems for communications during operations..
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+
+Here is Dimensions information for the Songar Grenaded Turkish Unmanned Aerial Vehicle (UAV):
+The Length is 0.62 m.
+The Width is 1.45 m.
+The Height is 0.7 m.
+The Maximum Takeoff Weight is 45 kg.
+
+Here is Automotive information for the Songar Grenaded Turkish Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Propelled by unrated electric motor..
+The Engine Power is INA.
+The Maximum Speed is INA.
+The Cruising Speed is INA.
+The Service Ceiling is 300 m.
+The Operational Range is 5 km.
+The Endurance is 15 min.
+
+Here is System information for the Songar Grenaded Turkish Unmanned Aerial Vehicle (UAV) of the Main Weapon System:
+The Name is INA.
+The Type is Grenade Launcher.
+The Caliber is 40 mm.
+The Gun Rotation is Gun rotation between +5° and
+-90° on elevation axis.
+The Gun Stabilization System (GSS) is The AV is additionally fitted with a ‘Grenade Launcher Stabilization System' with capability of rotation between +5° to -90° in the elevation axis..
+The Effective Firing Range is The system can fire up to four grenades at a time with effective range of 400–450 m..
+The Note is The gun has the capability to perform fully autonomous missions with multi-layered safety, requiring final consent from the operator for firing..
+
+Here is Ammunition information for the Songar Grenaded Turkish Unmanned Aerial Vehicle (UAV) of the Main Weapon System:
+The Type is Grenade.
+The Caliber is 40 mm.
+The Cartridge is 40x46mm.
+The Basic Load is 6 Grenades.
+

@@ -1,0 +1,37 @@
+This document describes the OZM-3 Russian Anti-Personnel Mine.
+
+The OZM-3 are Soviet manufactured bounding type anti-personnel mines. (fragmentation-barrier mine , in the Russian and other post-Soviet armies as informally called "frog mine" or "witch" )
+
+
+They are normally painted olive green, and issued with a spool of tripwires and two green painted wooden or metal stakes for affixing the tripwires. Both OZM-3 and OZM-4 have cast iron fragmenting bodies while the OZM-72 also contains preformed steel fragments, and all three are issued with empty fuze wells, so a variety of fuzing options are possible.
+
+
+The mines can be activated by a variety of fuzes, including electronic fuzes or command initiation, although they are most commonly fitted with an MUV booby trap switch which is activated by a tripwire.
+
+On firing, a metal base plate remains in the ground, while the mine body is thrown up by a small lifting charge, but remains attached to a strong wire tether. When the end of the tether is reached at a height of approximately 0.5 m, the main charge explodes and scatters fragments of the casing across a wide area.
+
+OZM mine may sometimes be laid directly on top of an MS-3 mine. The MS-3 is an anti-handling device which closely resembles a PMN mine, except that it has a "blister" on top and operates purely as a pressure-release boobytrap. Lifting an OZM mine (without rendering safe the MS-3 placed underneath) will trigger detonation.
+
+This equipment has proliferated into the following countries: Cambodia, Russian Federation.
+
+Here is System information for the OZM-3 Russian Anti-Personnel Mine:
+The Emplacement Method is manual.
+The Diameter is 75.
+The Height is 120.
+The Weight is 3.2.
+The Armor Penetration / Kill Mechanism is bounding fragmentation.
+The Effective Range is max: 25
+lethal: 10
+min: 0
+bound height 1.5 to 2.4 m.
+The Detectability/ Composition is Easy
+metal.
+The Anti-Handling is possible
+no 2nd fuze well.
+The Fuze Type/Self Neutralize is tripwire (2 to 5 kg) or cmd detonated
+(electrical) or pressure 
+self-neutralize: no.
+The Explosive Type & Weight/Total Weight (kg) is TNT: .075
+Total: 3.
+The Comment is not waterproof.
+

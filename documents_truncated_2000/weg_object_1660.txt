@@ -1,0 +1,152 @@
+This document describes the Hatsuyuki-Class Japanese Destroyer.
+
+The Hatsuyuki is a class of destroyer deployed in the Japan Maritime Self-Defense Force (JMSDF). It was the first class of first generation, general-purpose destroyers in the JMSDF.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is Variants information for the Hatsuyuki-Class Japanese Destroyer:
+The Shirayuki (DD-123 / TV-3517) is Commissioned: 1982
+Status: Decommissioned.
+The Mineyuki (DD-124) is Commissioned: 1984
+Status: Decommissioned.
+The Sawayuki (DD-125) is Commissioned: 1984
+Status: Decommissioned.
+The Hamayuki (DD-126) is Commissioned: 1983
+Status: Decommissioned.
+The Isoyuki (DD-127) is Commissioned: 1985
+Status: Decommissioned.
+The Haruyuki (DD-128) is Commissioned: 1985
+Status: Decommissioned.
+The Yamayuki (DD-129 / TV3519) is Commissioned: 1985
+Status: Decommissioned.
+The Matsuyuki (DD-130) is Commissioned: 1986
+Status: Active.
+The Setoyuki (DD-131 / TV3518) is Commissioned: 1986
+Status: Active.
+The Asayuki (DD-132) is Commissioned: 1987
+Status: Decommissioned.
+The Shimayuki (DD-133) is Commissioned: 1987
+Status: Active.
+
+Here is System information for the Hatsuyuki-Class Japanese Destroyer:
+The Alternative Designation is Japanese Destroyer, General-purpose Destroyer Designation: DD.
+The Type is Destroyer, Combat Surface Vessel.
+The Builder is Multiple (Hitachi Zosen Corporation, IHI Corporation, Sumitomo Heavy Industries, Mitsubishi Heavy Industries, Mitsui Engineering & Shipbuilding.
+The Crew is 200.
+
+Here is Dimensions information for the Hatsuyuki-Class Japanese Destroyer:
+The Length is 130.
+The Beam is 13.6.
+The Draft is 4.4.
+The Displacement, Standard is INA.
+The Displacement, Full Load is INA.
+
+Here is Propulsion System information for the Hatsuyuki-Class Japanese Destroyer:
+The Engine Name (Crusing) is 2 × Kawasaki-Rolls-Royce Tyne RM1C.
+The Engine Name (High Speed) is 2 x Kawasaki-Rolls-Royce Olympus TM3B.
+The Engine Type is Gas Turbine (All four engines).
+The Propulsion is 2 x Shafts, CP Props.
+The Maximum Speed is 30.
+The Range is 4,500.
+
+Here is Weapons System #1 information for the Hatsuyuki-Class Japanese Destroyer of the Weapons Systems:
+The Name is 1 x OTO Melara.
+The Type is Naval Gun.
+The Caliber is 76.
+The Quantity is 1.
+The Crew is Remote Controlled.
+The Elevation is −15 / +83.
+The Traverse is 360.
+The Rate of Fire is 120.
+The Effective Range (Using VULCANO ammunition) is 40.
+The Feed System is Magazine, 80 ready rounds on gun mount.
+
+Here is Weapons System #1 Ammunition information for the Hatsuyuki-Class Japanese Destroyer of the Weapons Systems:
+The Name/Type is HE standard.
+The Name/Type is Multi-role OTO Munition.
+The Name/Type is PFF: Anti-missile projectile, with proximity fuze and tungsten balls embedded in the shell for defined fragmentation effect.
+The Name/Type is INASAPOM: semi-armor piercing.
+The Name/Type is DART: Guided projectile for anti-aircraft and anti-missile dynamic targets.
+The Name/Type is VULCANO.
+
+Here is Weapons System #2 information for the Hatsuyuki-Class Japanese Destroyer of the Weapons Systems:
+The Name is 2 x Phalanx CIWS.
+The Type is Rapid Fire Autocannon, Close-in-Weapon System (CIWS).
+The Caliber is 20.
+The Crew is Automated, with human oversight.
+The Barrels is 7-barrel (progressive RH parabolic twist, 14 grooves).
+The Elevation (model Block 1B) is -20/ +8.
+The Traverse (from centerline) is 150.
+The Rate of Fire is 4500.
+The Muzzle Velocity is 1,100.
+The Effective Firing Range is 1,486.
+
+Here is Weapons System #2 Ammunition information for the Hatsuyuki-Class Japanese Destroyer of the Weapons Systems:
+The Name/Type is Armor-piercing tungsten penetrator rounds with discarding sabots (naval surface targets)..
+The Name/Type is High-Explosive Incendiary tracer, self-destruct.
+
+Here is Weapons System #3 information for the Hatsuyuki-Class Japanese Destroyer of the Weapons Systems:
+The Name is 2 x Harpoon Missiles (Quad Cannisters).
+The Type is Ship-to-Ship / Anti-ship Missile.
+The Mass (w/ booster) is 691.
+The Length is 4.6.
+The Diameter is 34.
+The Warhead is High Explosive, NFI on other warhead types.
+The Warhead Weight is 221.
+The Engine is Teledyne CAE J402 Turbojet w/solid propellant booster.
+The Operational Range is 280.
+The Guidance System is Sea-skimming cruise monitored by radar altimeter / active radar, terminal homing.
+
+Here is Weapons System #4 information for the Hatsuyuki-Class Japanese Destroyer of the Weapons Systems:
+The Name is Sea Sparrow.
+The Type is Surface-to-Air Missile.
+The Mass is 230.
+The Length is 3.7.
+The Diameter is 20.
+The Warhead is Annular blast fragmentation warhead.
+The Warhead Weight is 41.
+The Engine is Hercules MK-58 solid-propellant rocket motor.
+The Operational Range is 19.
+The Guidance System is Semi-active radar homing.
+
+Here is Weapons System #5 information for the Hatsuyuki-Class Japanese Destroyer of the Weapons Systems:
+The Name is RUR-5 ASROC.
+The Type is Standoff Anti-submarine Missile.
+The Mass is 487.
+The Length is 4.5.
+The Diameter is 420.
+The Warhead is Mark 46 Torpedo (PBXN-103 High Explosive).
+The Warhead Weight is 50.
+The Engine is Solid propellant rocket motor.
+The Operational Range is 9.7.
+The Guidance System is Acoustic Homing.
+
+Here is Torpedo System information for the Hatsuyuki-Class Japanese Destroyer:
+The Launcher is 2 x triple 324-mm Mark 32 ASW torpedo tubes.
+The Torpedo Name is INA.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Hatsuyuki-Class Japanese Destroyer:
+The Missile Fire Control System Name is Improved Basic Point Defense Missile System.
+The Computerized FCS is Yes.
+The Battle Management System is Yes.
+The Combat Control System is OYQ-5 Tactical Data Processing System (TDPS), composed of one AN/UYK-20 computer and five OJ-194B workstations and capable of receiving data automatically from other ships via Link-14 (STANAG 5514)..
+
+Here is Radar Systems information for the Hatsuyuki-Class Japanese Destroyer:
+The Air Search Radar is OPS-14.
+The Surface Search Radar is OPS-18.
+The Navigation Radar is INA.
+
+Here is Sonar Systems information for the Hatsuyuki-Class Japanese Destroyer:
+The Active and Passive Sonar is OQS-4 Hull Sonar.
+The Towed Linear Passive Sonar is Yes, TASS. NFI..
+
+Here is Aircraft information for the Hatsuyuki-Class Japanese Destroyer:
+The Name/Type is 1 x HSS-2B Sikorsky SH3 Sea King or Mitsubishi H60.
+
+Here is Protection information for the Hatsuyuki-Class Japanese Destroyer:
+The Active Protection System is INA.
+The Torpedo Decoy is Yes, towed acoustic decoy system.
+The EW is 1 x OLT-3 Jammer.
+The NBC Water Washdown System is INA.
+

@@ -1,0 +1,91 @@
+This document describes the Type 58 Chinese 14.5mm Towed Anti-Aircraft Gun.
+
+The Type 58 Chinese 14.5mm Towed Anti-Aircraft Gun is a Chinese version of the Russian ZPU-2
+
+
+The ZPU-2 consists of two Model KPV machine guns mounted on a two-wheel carriage.
+
+The ZPU-2 was introduced in 1949 and is a twin version of the ZPU-1 basic Soviet 14.5MM machine gun. The ZPU-2 was used in Korea and considered a dangerous opposition in Vietnam. The Type 58 is the Chinese version, while the individual KPV machine guns as the Type 56. The twin ZPU-2 has appeared on two different two-wheeled carriages. The earlier model has larger fenders and a double tubular tow bar. In firing position, the crew removes the wheels, and the weapon rests on a three-point platform. The later model, which is lighter in weight, has smaller fenders, a tighter single tow bar, and a tower silhouette. When in firing position the wheels are raised, but not removed. A very similar carriage is used for the twin 23mm automatic antiaircraft gun ZU-23, although the ammunition boxes, barrels, and flash hiders are distinctly different. The ZPU-2 was used in the 1970s by some Warsaw Pact armies and by security elements such as the East German Workers' militia. All weapons in this series fire the API (BS 41) projectiles weighing 64.4 grams having a muzzle velocity of 1000 meters per second which will penetrate 32 mm of armor.
+
+This is a Chinese-produced version of the later production Soviet model. It no longer serves in China but is in service in third-world nations. 
+
+The Type 58 differs from the ZPU-2 in several aspects: weight, 1,234 lb (560 kg); elevation/depression, -15 deg to 90 deg; effective anti-aircraft range, 6,561 ft (2,000 m); and effective ground range, 1,093 yd (1,000 m).
+
+The Type 58 has a muzzle velocity of 3,264 fps (995 m/s) and a combined cyclic rate of fire of 1,100 rounds/min.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Type 58 Chinese 14.5mm Towed Anti-Aircraft Gun:
+The ZPU-2 is Russian Version..
+The PKM-2 is PKM-2 – Polish-built version..
+
+Here is System information for the Type 58 Chinese 14.5mm Towed Anti-Aircraft Gun:
+The Alternative Designation is Type 58.
+The Type is Towed Anti-Aircraft Gun.
+The Caliber is 14.6 mm.
+The Manufacturer is INA.
+The Crew is 5.
+The Carriage is INA.
+The Displacement Time is less than 5 minutes.
+The Emplacement Time is less than 5 minutes.
+
+Here is Dimensions information for the Type 58 Chinese 14.5mm Towed Anti-Aircraft Gun:
+The Length, Traveling is 3.54.
+The Barrel Length is 1.36.
+The Width is 1.92.
+The Height is 1.83.
+The Weight, Traveling is 560.
+The Weight, Firing is 522.
+The Ground Clearance is 0.27.
+
+Here is System information for the Type 58 Chinese 14.5mm Towed Anti-Aircraft Gun of the Cannon:
+The Name is Type 58.
+The Type is 2 x  Model KPV machine guns mounted on a two-wheel carriage..
+The Caliber is 14.5 mm.
+The Barrels is 2.
+The Bore is 14.5-mm; fitted w/flash hiders.
+The Muzzle Velocity is 955.
+The Maximum Effective Anti-Aircraft Range is 2,000.
+The Maximum Effective Ground Range is 1,000.
+The Max Elevation is 90.
+The Min Elevation is -15.
+The Traverse Range is 360.
+The Traverse Right is 180.
+The Traverse Left is 180.
+The Cyclic Rate of Fire is 1,100 rds/min.
+
+Here is Ammunition (Option 1) information for the Type 58 Chinese 14.5mm Towed Anti-Aircraft Gun of the Cannon:
+The Name is BS.41.
+The Type is API.
+The Caliber is 14.5.
+The Basic Load is INA.
+The Core is Tungsten carbide core.
+The Projectile Weight is 64.4 g.
+The Muzzle Velocity is 1,000.
+The Armor Penetration is Armor-penetration at 500 m is 32 mm of RHA at 90 degrees..
+
+Here is Ammunition (Option 2) information for the Type 58 Chinese 14.5mm Towed Anti-Aircraft Gun of the Cannon:
+The Name is BZT.
+The Type is API-T.
+The Caliber is 14.5.
+The Basic Load is INA.
+The Core is Steel Core.
+The Projectile Weight is 59.56 g.
+The Muzzle Velocity is 1,005.
+The Tracer Burns is Tracer burns to at least 2,000 m..
+
+Here is Ammunition (Option 3) information for the Type 58 Chinese 14.5mm Towed Anti-Aircraft Gun of the Cannon:
+The Name is ZP.
+The Type is I-T (Instantaneous Incendiary).
+The Caliber is 14.5.
+The Basic Load is INA.
+The Core is INA.
+The Projectile Weight is 60.0 g.
+The Note is I-T (ZP) – "Instantaneous Incendiary" bullet with internal fuze, incendiary in tip, tracer container in base..
+
+Here is Fire Control information for the Type 58 Chinese 14.5mm Towed Anti-Aircraft Gun:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+

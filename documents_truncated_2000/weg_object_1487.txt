@@ -1,0 +1,74 @@
+This document describes the Sohung Class North Korean Guided Missile Patrol Craft.
+
+The first unit of the SOHUNG class was completed in 1980, the last in 1981. Considering the small number of this class built, it was probably not successful.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is System information for the Sohung Class North Korean Guided Missile Patrol Craft:
+The Alternative Designation is Sohung.
+The Type is Guided Missile Patrol Craft.
+The Builder is North Korea; Shipyard: INA.
+The Crew is 20.
+The Passenger Capacity is INA.
+
+Here is Dimensions information for the Sohung Class North Korean Guided Missile Patrol Craft:
+The Length is 26.80 m.
+The Beam is 6.20 m.
+The Draft is 1.50 m.
+The Displacement, Full Load is 80 tons full load.
+
+Here is Propulsion System information for the Sohung Class North Korean Guided Missile Patrol Craft:
+The Engine Name is 4 x M-50F-4 Engines.
+The Engine Type is Diesel.
+The Engine Power is 4,800 total bhp.
+The Maximum Range is INA.
+The Maximum Speed is 40 knots.
+
+Here is Gun Weapon System #1 information for the Sohung Class North Korean Guided Missile Patrol Craft of the Gun Weapon Systems:
+The Name is AK-230.
+The Type is Close-In Weapon System (CIWS).
+The Caliber is 30mm.
+The Quantity is 1 x AK-230 Close-In Weapon System (CIWS).
+The Length is 2.140 m.
+The Weight is 156 kg.
+The Rate of Fire is over 1,000 rounds per minute cyclic.
+The Elevation is -12 to +87 degrees at 50 degrees.
+The Traverse is +180 to -180 degrees at 35 degrees.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Sohung Class North Korean Guided Missile Patrol Craft of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Missile Weapon System #1 information for the Sohung Class North Korean Guided Missile Patrol Craft of the Missile Weapon Systems:
+The Name is P-15 Termit.
+The Type is Anti-Ship Missile.
+The Quantity is 4 x P-15 Termit Anti-Ship Missiles.
+The Length is 5.8 m.
+The Diameter is 0.76 m.
+The Wingspan is 2.4 m.
+The Weight is 2,580 kg.
+The Warhead is 454 kg (1,001 lb) hollow charge high explosive.
+The Engine is Liquid-propellant rocket, solid-propellant rocket booster.
+The Operational Range is 80 kilometres.
+The Flight Altitude is 25 to 100 metres.
+The Maximum Speed is Mach 0.95.
+The Guidance System is autopilot (inertial guidance), active radar homing, supplemented in some with infrared homing.
+
+Here is Fire Control Systems information for the Sohung Class North Korean Guided Missile Patrol Craft:
+The FCS Name is 1 X MR-104 Rys' (Drum Tilt**) fire control (for 30-mm).
+The Computerized FCS is Yes.
+The Battle Management System is INA.
+
+Here is Radar Systems information for the Sohung Class North Korean Guided Missile Patrol Craft:
+The Name is 1 x Square Tie Radar.
+The Type is Surface Search/Missile Target Acquisition.
+The Frequency is INA.
+The Range is INA.
+
+Here is Protection information for the Sohung Class North Korean Guided Missile Patrol Craft:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is INA.
+

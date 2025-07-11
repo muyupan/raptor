@@ -1,0 +1,35 @@
+This document describes the MQ-1C Gray Eagle American Medium-Altitude, Long-Endurance (MALE) Unmanned Aircraft System (UAS).
+
+The General Atomics MQ-1C Gray Eagle (previously the Warrior; also called Sky Warrior and ERMP or Extended-Range Multi-Purpose) is a medium-altitude, long-endurance (MALE) unmanned aircraft system (UAS). It was developed by General Atomics Aeronautical Systems (GA-ASI) for the United States Army as an upgrade of the General Atomics MQ-1 Predator.
+
+A Medium-Altitude Long-Endurance (MALE) UAV, the Gray Eagle has an increased wingspan and is powered by a Thielert Centurion 1.7 Heavy Fuel Engine (HFE). This is a Diesel piston engine that burns jet fuel, giving the aircraft better performance at high altitudes. It can operate for 27 hours at altitudes up to 25,000 feet (7,600 m), with an operating range of 200 nautical miles (400 km). The aircraft's nose fairing was enlarged to house a synthetic aperture radar/ground moving target indicator (SAR/GMTI) system, and targeting is also provided with AN/AAS-52 Multi-spectral Targeting System (MTS) under the nose. The aircraft can carry a payload of 800 pounds (360 kg) and may be armed with weapons such as AGM-114 Hellfire missiles and GBU-44/B Viper Strike-guided bombs. Its sensors can fuse infrared imagery and use the SAR to scan and detect changes in terrain like tire tracks, footprints, and buried improvised explosive devices when performing a second scan.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the MQ-1C Gray Eagle American Medium-Altitude, Long-Endurance (MALE) Unmanned Aircraft System (UAS):
+The Alternate Designation is MQ-1C Gray Eagle.
+The Type is Medium-Altitude, Long-Endurance (MALE) Unmanned Aircraft System (UAS).
+The Manufacturer is General Atomics.
+The Crew is Unmanned.
+The Avionics is AN/ZPY-1 STAR Lite Radar.
+The Note #1 is The system is fielded in platoon sets consisting of four unmanned aircraft, two Universal Ground Control Stations, seven Ground Data Terminals, one Mobile Ground Control Station, one Satellite Ground Data Terminal, an automated takeoff and landing system, Light Medium Tactical Vehicles (LMTVs) and other ground-support equipment operated and maintained by a company of 128 Soldiers within the Combat Aviation Brigade. U.S. Army Special Operations Forces and Intelligence and Security Command have two Gray Eagle Extended Range (ER) systems which include 12 unmanned aircraft, six Universal Ground Control Stations, nine Ground Data Terminals, three Mobile Ground Control Stations, one Satellite Ground Data Terminal, an automated takeoff and landing system, LMTVs, and other ground-support equipment operated and maintained by a company of 165 Soldiers..
+
+Here is Dimensions information for the MQ-1C Gray Eagle American Medium-Altitude, Long-Endurance (MALE) Unmanned Aircraft System (UAS):
+The Length is 8.53 m.
+The Wingspan is 17 m.
+The Height is 2.1 m.
+The Maximum Takeoff Weight is 1,633 kg.
+
+Here is Automotive information for the MQ-1C Gray Eagle American Medium-Altitude, Long-Endurance (MALE) Unmanned Aircraft System (UAS):
+The Engine Name is 1 × Thielert Centurion 1.7.
+The Engine Type is Heavy-Fuel Engine.
+The Engine Power is 165 hp.
+The Maximum Speed is 167 kn (192 mph, 309 km/h).
+The Service Ceiling is 7.62 km (25,000 ft).
+The Endurance is 27 hours.
+
+Here is Armament information for the MQ-1C Gray Eagle American Medium-Altitude, Long-Endurance (MALE) Unmanned Aircraft System (UAS):
+The Hardpoints is 4.
+The Missiles is 4 × AGM-114 Hellfire or 8 × AIM-92 Stinger.
+The Bombs is 4 × GBU-44/B Viper Strike.
+

@@ -1,0 +1,40 @@
+This document describes the M621 French 20mm Autocannon.
+
+TheM621 French 20mm Autocannon, developed by Nexter as onboard armament for armored vehicles, aircraft, helicopters, and small coastal vessels of the French Navy.  The main advantages are its limited weight and low recoil. Most vehicles or light aircraft that can handle a 12.7mm heavy machine gun can also be equipped with the M621. The M621 is a gas-operated autocannon. It uses a delayed blowback mechanism. Two locking pieces assure a locked-breech until the round has left the barrel. The M621 uses a single belt feed system, which can be set up for right or left-hand feed.
+
+This equipment has proliferated into the following countries: France.
+
+Here is Variants information for the M621 French 20mm Autocannon:
+The THL 20 is Turreted cannon for helicopters..
+The POD NC 621 is Cannon pod for helicopters and light aircraft..
+The ARX 20 is Remotely controlled weapon station with M621 and a 7.62×51mm machinegun..
+The SH20 is Door mounted cannon for helicopters..
+The CP 20 is Pintle-mounted cannon for vehicles and boats..
+The 15A is Cannon for naval ships..
+The NARWHAL is Remote-controlled naval gun.
+
+Here is M621 20mm Autocannon information for the M621 French 20mm Autocannon of the System:
+The Name is M621.
+The Type is Autocannon.
+The Caliber is 20 mm.
+The Manufacturer is Nexter Systems.
+The Design is The M621 is a gas-operated autocannon. It uses a delayed blowback mechanism. Two locking pieces assure a locked-breech until the round has left the barrel. The M621 uses a single belt feed system, which can be set up for right or left-hand feed..
+The Length is 2,207 mm.
+The Width is 202 mm.
+The Height is 245 mm.
+The Weight is 45.5 kg.
+The Action is Gas operated, delayed blowback.
+The Fire Modes is Automatic & Semi-automatic.
+The Rate of Fire is 800 rounds/min.
+The Muzzle Velocity is 1,005 m/s (AP-T); 
+985 m/s (HEI and TP).
+The Recoil Force is 12.5 kg.
+The Feed System is Open-link M12 belt.
+
+Here is Ammunition information for the M621 French 20mm Autocannon of the System:
+The Type is Rifle.
+The Caliber is 20 mm.
+The Cartridge is 20×102mm.
+The Basic Load is INA.
+The Note is The M621 fires the 20x102mm round from a single continuous belt. Various types of ammunition can be used. Most common are high explosive or armor piercing rounds. A drawback of the single feed system is that there is no quick change ability between ammunition types..
+

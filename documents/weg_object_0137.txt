@@ -1,0 +1,55 @@
+This document describes the SLC-2E Chinese Artillery Locating Radar.
+
+The SLC-2 Radar is a Chinese active electronically scanned array counter-battery radar designed to locate hostile artillery, rocket and ground-to-ground missile launchers immediately after firing, and to support friendly artillery by guiding counter-battery fire.
+As Chinese capability in microelectronics matured, an updated version of passive phased array Type 373 radar is developed, designated as SLC-2. This is a fully solid-state, highly digitized version that adopts planar active phased array antenna.
+In addition it is equipped with optical infrared system and sound measuring systems that enable to discover enemy’s stealth attack.
+In contrast to the original model, the 2E variant is not only designed to support counter-battery missions against hostile artillery, rockets, and surface-to-surface missile systems, but also detect airborne threats with a dedicated air defense mode.
+A complete SLC-2E system comprises a control cabin with associated processing equipment, on-board power supply, and the radar transmitter. 
+Bangladesh Bought two in 2012.  Pakistan also operates significant number of SLC-2 Radar.
+
+This equipment has proliferated into the following countries: Bangladesh, China, Pakistan.
+
+Here is System information for the SLC-2E Chinese Artillery Locating Radar:
+The Alternative Designation is NA.
+The Crew is INA.
+The Chassis is 6×6 Beiben truck chassis / Dongfeng EQ2102 3.5 ton truck.
+
+Here is Dimensions information for the SLC-2E Chinese Artillery Locating Radar:
+The Height is 3.2 in travel mode.
+The Length is 7.5.
+The Width is 2.5.
+The Weight is INA.
+
+Here is Automotive (Dongfeng EQ2102 3.5 ton truck) information for the SLC-2E Chinese Artillery Locating Radar:
+The Engine Name is Dongfeng Diesel.
+The Engine Type is Diesel.
+The Engine Power is 160.
+The Range, Cruising is 550.
+The Speed, Maximum Road is 90.
+The Speed, Cross Country is INA.
+The Speed, Maximum Swim is NA.
+The Fording Depth is 1.
+
+Here is Radar information for the SLC-2E Chinese Artillery Locating Radar:
+The Detection Range, Artillery is 35.
+The Detection Range, Rockets is 50.
+The Detection Range, Mortars is Range not available however, a source reports that the SLC-2E is successful at detecting mortar rounds at a rate of 80%.
+The Peak Power is 45.
+The Band is S.
+The CEP for Targets Beyond 10km is 35% of range.
+The CEP for Targets Within 10km is 35m.
+The Clutter Improvement Factor is 55 dB.
+The Noise is 3 dB.
+The Other Features is Active phased array antenna with electronic scanning both in azimuth and elevation.
+Sophisticated computer-controlled digital signal processing.
+Comprehensive online or offline BITE.
+Automatic/manual height correction with digital/video map.
+Various effective ECCM.
+Tracking while scanning..
+
+Here is Radio information for the SLC-2E Chinese Artillery Locating Radar of the Communications:
+The Name is INA.
+
+Here is Protection information for the SLC-2E Chinese Artillery Locating Radar:
+The Note is The SLC-2E offers no protection to the crew or system.
+

@@ -1,0 +1,141 @@
+This document describes the M8 R-1165/R-1365 Austrian 81mm Mortar.
+
+The M8 R-1165/R-1365 Dutch 81mm Mortar is developed by Hirtenberger Defence Systems (HDS), the rugged and reliable M8 comprises an 81 mm long-range weapon available in different barrel lengths, an entire range of ammunition, auxiliary field equipment, sighting systems, and a fully digital fire-control system containing all ballistic data. The precise engineering and carefully coordinated development of the M8 facilitates high degrees of effectiveness in challenging environments, optimizing performance at all times.
+
+HDS ammunition is made to the highest quality and safety standards and includes high-explosive, smoke variants (white phosphorous, red phosphorous, and titanium tetrachloride), visible and infrared illumination, as well as training ammunition.
+
+This equipment has proliferated into the following countries: Austria, New Zealand.
+
+Here is M8 R-1165 information for the M8 R-1165/R-1365 Austrian 81mm Mortar of the System:
+The Caliber is 81 mm.
+The Maximum Firing Range is 5,865 m.
+The Maximum Rate of Fire is 30/min.
+The Maximum Operating Gas Pressure is 90 MPa.
+
+Here is M8 R-1365 information for the M8 R-1165/R-1365 Austrian 81mm Mortar of the System:
+The Caliber is 81 mm.
+The Maximum Firing Range is 6,669 m.
+The Maximum Rate of Fire is 30/min.
+The Maximum Operating Gas Pressure is 100 MPa.
+
+Here is M8 R-1165 information for the M8 R-1165/R-1365 Austrian 81mm Mortar of the Dimensions:
+The Length of Barrel (Overall) is 1,280 mm.
+The Ballistic Length is 1,165 mm.
+The Diameter of Base Plate is 547 mm.
+The Barrel Weight is 13.3 kg.
+The Bipod Weight is 12.8 kg.
+The Base Plate Weight is 12.5 kg.
+The Total Weight is 38.6 kg.
+
+Here is M8 R-1365 information for the M8 R-1165/R-1365 Austrian 81mm Mortar of the Dimensions:
+The Length of Barrel (Overall) is 1,482 mm.
+The Ballistic Length is 1,365 mm.
+The Diameter of Base Plate is 547 mm.
+The Barrel Weight is 14.9 kg.
+The Bipod Weight is 12.8 kg.
+The Base Plate Weight is 12.5 kg.
+The Total Weight is 40.2 kg.
+
+Here is Ammunition (Option #1) information for the M8 R-1165/R-1365 Austrian 81mm Mortar of the Ammunition:
+The Name is PRACTICE Mk4.
+The Caliber is 81 mm.
+The Length is 485 mm.
+The Weight is 4.16 kg.
+The Filler is Inert.
+The Terminal Effect is Impact signature
+(only with life fuze).
+
+Here is Ammunition (Option #2) information for the M8 R-1165/R-1365 Austrian 81mm Mortar of the Ammunition:
+The Name is SMK-WP
+Mk4.
+The Caliber is 81 mm.
+The Length is 485 mm.
+The Weight is 4.16 kg.
+The Filler is White phosphorus.
+The Terminal Effect is Screening by fast
+smoke generation..
+
+Here is Ammunition (Option #3) information for the M8 R-1165/R-1365 Austrian 81mm Mortar of the Ammunition:
+The Name is SMK-TTC
+Mk4.
+The Caliber is 81 mm.
+The Length is 485 mm.
+The Weight is 4.16 kg.
+The Filler is Titanium tetrachloride.
+The Terminal Effect is Extraordinary fast
+generation of cold
+smoke.
+
+Here is Ammunition (Option #4) information for the M8 R-1165/R-1365 Austrian 81mm Mortar of the Ammunition:
+The Name is SMK-RP
+Mk5.
+The Caliber is 81 mm.
+The Length is 635 mm.
+The Weight is 4.16 kg.
+The Filler is Red phosphorus.
+The Terminal Effect is Smoke generation
+Smoke duration: 120 sec.
+
+Here is Ammunition (Option #5) information for the M8 R-1165/R-1365 Austrian 81mm Mortar of the Ammunition:
+The Name is HE-TNT
+Mk4 PD.
+The Caliber is 81 mm.
+The Length is 485 mm.
+The Weight is 4.16 kg.
+The Filler is TNT.
+The Terminal Effect is Number of fragments
+> 5300 (> 1250 fragments
+with m > 0.32 g)..
+
+Here is Ammunition (Option #6) information for the M8 R-1165/R-1365 Austrian 81mm Mortar of the Ammunition:
+The Name is HE-TNT
+Mk4 PROX..
+The Caliber is 81 mm.
+The Length is 485 mm.
+The Weight is 4.16 kg.
+The Filler is TNT.
+The Terminal Effect is Number of fragments
+> 5300 (> 1250 fragments
+with m > 0.32 g)..
+
+Here is Ammunition (Option #7) information for the M8 R-1165/R-1365 Austrian 81mm Mortar of the Ammunition:
+The Name is HE CONFRAG
+Mk4.
+The Caliber is 81 mm.
+The Length is 485 mm.
+The Weight is 3.8 kg.
+The Filler is INA.
+The Terminal Effect is Increased lethality by
+more than 90%
+Number of Fragments 4772
+(2837 fragments with
+m > 0.32 g.
+
+Here is Ammunition (Option #8) information for the M8 R-1165/R-1365 Austrian 81mm Mortar of the Ammunition:
+The Name is ILL-VIS
+Mk5.
+The Caliber is 81 mm.
+The Length is 635 mm.
+The Weight is 3.8 kg.
+The Filler is INA.
+The Terminal Effect is Luminosity: 950000 cd
+Illumination duration: 38 sec.
+Descent rate: 5 m/ s.
+
+Here is Ammunition (Option #9) information for the M8 R-1165/R-1365 Austrian 81mm Mortar of the Ammunition:
+The Name is ILL-IR
+Mk5.
+The Caliber is 81 mm.
+The Length is 635 mm.
+The Weight is 3.8 kg.
+The Filler is INA.
+The Terminal Effect is Illumination duration: 40 sec.
+Descent rate: 5 m/s
+High infrared emission,
+low visible emission..
+
+Here is FIre Control System (FCS) information for the M8 R-1165/R-1365 Austrian 81mm Mortar:
+The Forward Observer Computer is The Forward Observer Computer observes locations, firing planning functions, variable correction options, and simultaneous fire missions..
+The Mortar Computer is The Mortar Computer controls multiple weapons, ammunition stores, surveys calculation options, and firing planning functions..
+The Military Handheld Computer is The Military Handheld Computer consists of a internal GPS system, battery, touch screen, and a mouse backup and hotkey..
+

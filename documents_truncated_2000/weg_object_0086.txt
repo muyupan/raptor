@@ -1,0 +1,32 @@
+This document describes the J/MPQ-P7 Japanese Towed Artillery Locating Radar.
+
+The Japanese J/MPQ-P7 artillery locating radar developed in Japan for use by he Japanese Ground Self-Defense Force. The radar system is based on the phased-array radar technology. Operating in the X-band, the radar can possibly detect the trajectory of enemy mortar rounds, howitzer projectiles, and rockets. The radar was commissioned in 1976 and shows some characteristics of the U.S.AN/TPQ 36 Firefinder radar. 
+
+The J/MPQ-P7 phased array radar is mounted on a 4 wheel trailer and towed by a track prime mover/operations vehicle. The system is powered by a generator. The antenna produces a high peak power of 250kW and has an accuracy of of 100m; 0.17 degrees.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is System information for the J/MPQ-P7 Japanese Towed Artillery Locating Radar:
+The Alternative Designation is J/MPQ-P7.
+The Crew is INA.
+The Chassis is Towed.
+The Displacement Time is Less than 15 minutes.
+The Emplacement Time is Less than 15 minutes.
+
+Here is Dimensions information for the J/MPQ-P7 Japanese Towed Artillery Locating Radar:
+The Height, Overall is INA.
+The Length, Chassis Overall is INA.
+The Width, Overall is INA.
+The Weight, Combat is INA.
+
+Here is Radar System information for the J/MPQ-P7 Japanese Towed Artillery Locating Radar:
+The Type is Phased Array.
+The Frequency Band is 16 GHz
+(KU-Band).
+The Detection Range, Mortars is INA.
+The Detection Range, Artillery is 30.
+The Detection Range, Rockets is INA.
+The Number of Targets Radar Can Track Simultaneously is INA.
+The Pulse Repetition Frequency (PRF) is 7 000 Hz.
+The Pulse Width is 0.25 µs.
+

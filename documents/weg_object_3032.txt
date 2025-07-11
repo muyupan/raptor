@@ -1,0 +1,43 @@
+This document describes the MCI-300 Russian Tracked Amphibious Unmanned Ground Vehicle (UGV).
+
+The MCI-300 is an amphibious, medium-sized, tracked, multipurpose unmanned ATV. The vehicle has been designed for logistics and reconnaissance roles but can also be outfitted for firefighting purposes.
+
+This equipment has proliferated into the following countries: China, Russian Federation.
+
+Here is System information for the MCI-300 Russian Tracked Amphibious Unmanned Ground Vehicle (UGV):
+The Alternative Designation is MCI-300.
+The Type is Tracked Amphibious Unmanned Ground Vehicle (UGV).
+The Manufacturer is Pelec (Northern Terrain Vehicle Ltd).
+The Configuration is Track.
+The Crew is Unmanned.
+The Software is Autonomous capabilities, such as waypoint navigation, follow leader, obstacle avoidance, and return to home, can be used with the GLONASS navigation system..
+The Controls is Controls can be quickly disconnected and switched to manual control mode when required..
+The Camera is Cameras are fitted for complete situational awareness..
+The Payload Capacity, Land is 300 kg.
+The Payload Capacity, Water is 500 kg.
+
+Here is Dimensions information for the MCI-300 Russian Tracked Amphibious Unmanned Ground Vehicle (UGV):
+The Length is 2.2 m.
+The Width is 1.6 m.
+The Height, not Including the Camera is 1.1 m.
+The Weight, Combat is INA.
+
+Here is Automotive information for the MCI-300 Russian Tracked Amphibious Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Gas Engine.
+The Engine Power is INA.
+The Fuel Capacity is 20 l/s.
+The Fuel Consumption is 30 l/hr.
+The Transmission is CVT.
+The Drive is Chain front.
+The Maximum Land Speed is 18 km/h.
+The Maximum Amphibious Speed is 1 km/h.
+The Fording is Yes.
+
+Here is Communications information for the MCI-300 Russian Tracked Amphibious Unmanned Ground Vehicle (UGV):
+The Note is The platform can be remotely operated up to a distance of 1 km in line-of-sight (LoS). This distance can be increased through the use of repeaters that are installed on similar robots, which are linkable to the network or augmented when used in conjunction with a UAV..
+
+Here is Protection information for the MCI-300 Russian Tracked Amphibious Unmanned Ground Vehicle (UGV):
+The Armor is INA.
+The Applique Armor is INA.
+

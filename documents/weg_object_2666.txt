@@ -1,0 +1,126 @@
+This document describes the YW-531 (Type 63) Chinese Armored Personnel Carrier (APC).
+
+The YW-531 (Type 63) Chinese Armored Personnel Carrier (APC) is a Chinese armored personnel carrier that entered service in the late 1960s. It was the first armored vehicle designed in China without Soviet assistance. The design is simple and is comparable to other APCs of its time such as the M113.
+
+Approximately 8,000 all types and variants were produced by Norinco. It also equips several armies around the world and has seen action in different conflicts including the Vietnam War, the Sino-Vietnamese War, the Iran–Iraq War, and the Gulf War.
+
+The hull is made of welded steel and provides protection against small arms fire. The vehicle carries a maximum of 15 including crew, which depending on the particular configuration maybe two or four, the rest of the passengers are infantry who sit in a compartment at the rear of the vehicle. The driver sits in the front left of the hull and has a single-piece hatch, which opens to the left. The driver is provided with two-day periscopes that cover the front and right of the vehicle. One of the driver's periscopes can be replaced by a night vision device. The commander sits on the front right of the hull and has a single-piece hatch that opens to the right. The commander hatch has a periscope on the top surface that may be rotated 360 degrees. Export variants of the vehicle with BF8L engine did away with the commander's position in the front right of the hull. Behind the driver, on the left side of the hull is a third crew position, which is provided with a hatch that opens to the left, and like the commander's position has a 360-degree rotating periscope.
+
+The engine sits to the right rear of the driver. It has a large intake located at the top of the hull, with an exhaust on the right-hand side. The engine is either a Type 6150L 260 hp diesel engine or, on export versions, an 8-cylinder air-cooled, turbocharged diesel engine KHD BF8L 413F which develops 320 horsepower at 2,500 rpm. The engine feeds a manual transmission with five forward gears and one reverse gear. The track is driven at the front by a drive sprocket and passes over four rubber-typed road wheels, then loops over an idler at the rear, before returning to the front again. No return rollers are fitted, and the track rests on the top of the road wheels. Suspension is of the torsion bar type. The vehicle has a fuel capacity of 450 liters, which gives it a broad range of around 500 kilometers.
+
+A 12.7-millimeter caliber machine gun is located in an open mount at the front of a small hatch in the center of the hull which opens into the troop compartment. The gun can traverse 360 degrees and can be elevated to an angle of 90 degrees. Two roof hatches and a large rear door provide access to the troop compartment.
+
+The vehicle is amphibious, a folding trim board stowed at the front of the hull needs to be raised, and the vehicle can then propel itself in the water using its tracks.
+
+This equipment has proliferated into the following countries: Albania, Bangladesh, Cambodia, China, Congo, Iraq, Kurdistan, Myanmar, North Korea (Democratic People's Republic of Korea), Pakistan, Sri Lanka, Viet Nam, Zimbabwe.
+
+Here is Variants information for the YW-531 (Type 63) Chinese Armored Personnel Carrier (APC):
+The Type 531 (1963) is Basic version with Type 56 7.62 mm machine gun, not mass-produced..
+The ype A531 or Type 63 (1968) is Production variant with 12.7 mm machine gun Type 54, uprated engine and different transmission. Also known as Type 531A..
+The VTT-323 is North Korean version of the Type A531..
+The Type B531 or Type 63-I (1981) is Improved version with stronger suspension, additional firing ports and two additional roof hatches..
+The Type 63C is PLA version of the YW531C..
+The Type 63CA is PLA version of the YW531E..
+The Type WZ701 is Command version of the Type A531 with higher troop compartment and fitted with up to five radios (Type 889, Type 892, Type 70-2B) and a generator. Armament consists of a Type 56-1 machine gun of 7.62 mm..
+The Type WZ721 is Communications relay vehicle with higher roof line and ZZT1 set..
+The Type WZ750 is Armoured ambulance with higher roof line, unarmed..
+The Type WZ302 or Type 54-1/Type 63-1 SPH is Self-propelled artillery version of the Type B531 mounting a 122 mm Type 54-I howitzer. An improved version, the Type 70, has a longer chassis. Both vehicles also mount a Type 67 machine gun..
+The Type WZ303 or Type 70 MRL is Rocket artillery version of the Type A531 with 19-tube 130 mm multiple rocket launcher (similar to the BM-14 MRL)..
+The Type YD801 is Fire fighting vehicle..
+The ZZM88 is Cryptography vehicle. Program begun in July 1984 and entered service in August 1992. Used to provide cryptographic codes for other vehicles..
+The Type WZ534 is INA.
+The Type YW531C (1982) is Export version of the 531 series with German Deutz engine KHD BF8L of 320 hp (240 kW). The machine gunner's position front right was deleted..
+The Type YW531D is Modified version with only 1 instead of 2 firing ports on the left side..
+The Type YW531E is As per YW531D but with one additional radio Type 892..
+The Type YW701 is Export version of the Type WZ701 command post vehicle. Based on the Type YW531C and equipped with a commander's cupola with Type 54 machine gun. Improved version Type YW701A..
+The Type YW750 is Export version of the Type WZ750 armoured ambulance. Based on the Type YW531C and equipped with a commander's cupola with Type 54 machine gun..
+The Type YW304 is Self-propelled 82 mm mortar with 120 rounds, based on the Type YW531C/Type 531H..
+The Type YW381 is Self-propelled 120 mm mortar with 50 rounds, based on the Type YW531C..
+The Type YW531H is INA.
+
+Here is System information for the YW-531 (Type 63) Chinese Armored Personnel Carrier (APC):
+The Alternative Designation is YW-531; Type 63;.
+The Type is Armored Personnel Carrier (APC).
+The Manufacturer is NORINCO.
+The Family is Type 63.
+The Crew is 2.
+The Passenger Capacity is 13.
+
+Here is Dimensions information for the YW-531 (Type 63) Chinese Armored Personnel Carrier (APC):
+The Length is 5.476.
+The Width is 2.978.
+The Height is 2.58.
+The Weight, Combat is 12.6.
+The Ground Pressure is INA.
+
+Here is Automotive information for the YW-531 (Type 63) Chinese Armored Personnel Carrier (APC):
+The Engine Name is KHD BF8L 413F.
+The Engine Type is 8-cylinder air-cooled, turbo-charged Diesel.
+The Engine Power is 320.
+The Cruising Range is 500.
+The Speed, Maximum Road is 65.
+The Speed, Maximum Off-Road is 46.
+The Speed Maximum Swim is INA.
+The Suspension is torsion bar.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.0.
+The Fording Depth is Amphibious.
+
+Here is TBR-121 information for the YW-531 (Type 63) Chinese Armored Personnel Carrier (APC) of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Proliferated is Widely.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the YW-531 (Type 63) Chinese Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 x Type 54 (DShKM) 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Proliferation is over 1 Million.
+The Max Rate of Fire is 600.
+The Length (Total) is 1,625.
+The Length (Barrel) is 1,070.
+The Weight (Gun Only) is 34.
+The Weight (On Wheeled Mounting) is 157.
+The Action is Gas-Operated, Flapper Locking.
+The Turret is single seat and placed at the rear of the vehicle roof. It is sharp-pointed at the front..
+The Muzzle Velocity is 850 m/s.
+The Maximum Elevation is +90.
+The Minimum Elevation is INA.
+The Traverse is 360.
+The Maximum Firing Range is 2,500 m.
+The Feed System is 50 Round Belt.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the YW-531 (Type 63) Chinese Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7x108mm Soviet.
+The Armor Penetration is API: 21 at 500 m & 13 at 1000 m (RHA).
+The Basic Load is 2,400.
+
+Here is Fire Control information for the YW-531 (Type 63) Chinese Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Vehicle Commander is Yes, the Commander has a periscope at the top surface that can rotate 360 deg.
+The Thermal Sight Gunner is Yes, two day periscopes which cover the front and right of the vehicle. One of the drivers periscopes can be replaced by a night vision device..
+The Main Gun Stabilization is INA.
+
+Here is Protection information for the YW-531 (Type 63) Chinese Armored Personnel Carrier (APC):
+The Hull Armor is 14mm maximum, welded steel.
+The Turret Armor is 14mm maximum, welded steel.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The IR Signature is INA.
+

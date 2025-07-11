@@ -1,0 +1,35 @@
+This document describes the YLC-20 Chinese Emitter Locating System.
+
+The Chinese YLC-20 is conceptually based on the KRTP-91 Tamara, but incorporates both precision DF and DTOA capabilities to locate airborne and surface based emitters.  The only open source material at this time states the YLC-20 is intended to detect, locate and identify:
+
+1. aerial emitting targets using active radar, including fighters, AEW&C aircraft and UAVs.
+2. surface targets including early warning radars, acquisition radars and fire control radars.
+3. emitting communications equipment.
+
+Stated band coverage is 380 MHz to 12 GHz. Deployment time is claimed to be 1 hr, with all system components on 8x8 or 6x6 trucks. At the time of writing no good quality imagery of production equipment was available through open sources. This limits current assessments of the system's capabilities. It is likely that DTOA techniques are used for target acquisition and coarse tracking, and DF techniques used for precision tracking, using DTOA derived coordinates to cue an interferometric DF antenna. Avaliable material does not state whether a heightfinding capability is provided, if so this would likely be performed using interferometric techniques with the DF subsystem. Once better quality imagery of the antenna arrangement becomes available, a more precise definition of capabilities and limitations will be possible.
+
+It is likely that much of the YLC-20 design is based on documentation acquired during the abortive attempt to procure six Czech Vera E DTOA ELS systems. The YLC-20 was first disclosed in 2006.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the YLC-20 Chinese Emitter Locating System:
+The Alternative Designation is YLC-20.
+The Type is Emitter Locating System.
+The Crew is INA.
+The Chassis is 8x8 or 6x6 trucks.
+The Mission is The only open source material at this time states the YLC-20 is intended to detect, locate and identify:
+1. aerial emitting targets using active radar, including fighters, AEW&C aircraft and UAVs.
+2. surface targets including early warning radars, acquisition radars and fire control radars.
+3. emitting communications equipment..
+The Band Coverage is 380 MHz to 12 GHz.
+The Maximum Range is INA.
+The Maximum Altitude is INA.
+The DIsplacement Time is Less than 1 hour.
+The Emplacement Time is Less than 1 hour.
+
+Here is Dimensions information for the YLC-20 Chinese Emitter Locating System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

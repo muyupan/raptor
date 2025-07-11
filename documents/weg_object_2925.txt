@@ -1,0 +1,60 @@
+This document describes the Krasuha Russian Mobile Electronic Warfare Jamming System.
+
+The Krasuha EW complex is a family of ground-based radar jamming systems meant for installation onboard light tactical vehicles. The systems comprise the 1L265E reconnaissance system, 1L266E command-and-control post, the 1L269E high-power noise jammer, and the 1RL257E broadband multifunctional jammer.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Krasuha Russian Mobile Electronic Warfare Jamming System:
+The Alternative Designation is Krasuha.
+The Type is Mobile Electronic Warfare Jamming System.
+The Manufacturer is Bryansk Electromechanical Plant (manufacturer) , Bryansk
+KRET (Concern Radio-Electronic Technologies) (promoter) , Moscow.
+The Components is The systems comprise the 1L265E reconnaissance system, 1L266E command-and-control post, the 1L269E high-power noise jammer, and the 1RL257E broadband multifunctional jammer..
+
+Here is 1L265E Reconnaissance System information for the Krasuha Russian Mobile Electronic Warfare Jamming System:
+The Chassis is Kamaz-6350 trucks.
+The Components is The 1L265E Reconnaissance System has two main components, the MU Control Module and the MA Apparatus Module..
+The Crew is 4.
+The Omnidirectional Antenna is 200 Hz to 2.0 GHz band (Band 1).
+The Non-Rotating Electronically Scanned Antenna is 8.0 to 17.5 GHz band (Band 2.2).
+The Azimuth Coverage is 360°.
+The Elevation Coverage is 0° to 30°.
+The Emplacement Time is less than 45 min.
+The Displacement Time is less than 45 min.
+
+Here is 1L266E Command-and-Control Post information for the Krasuha Russian Mobile Electronic Warfare Jamming System:
+The Chassis is 2 x Kamaz-6350 trucks.
+The Crew is INA.
+The Operation is The 1L266E can control six stand-alone jammers or two other 1L266Es..
+The Tracking System is simultaneously track up to 80 targets and process emissions from 60 airborne sources..
+The Communication Maximum Range is The 1L266E Command-and-Control Post can link with jammer units or other command posts with a maximum range of 20 km..
+
+Here is 1L269E High-Power Noise Jammer information for the Krasuha Russian Mobile Electronic Warfare Jamming System:
+The Chassis is BAZ-6910-022 vehicle.
+The Crew is INA.
+The Mission is The Krasukha-2 is used to protect mobile surface to surface missile systems such as the 9K720 Iskander SRBM..
+The AWACS Jamming Range is Up to 250 km.
+The Note is Once the missile is jammed, the 1L269E High-Power Noise Jammer provides a false target away from the original..
+
+Here is System information for the Krasuha Russian Mobile Electronic Warfare Jamming System of the 1RL257E Broadband Multifunctional Jammer:
+The Chassis is The Krasuha-4 EW equipment is mounted on two KAMAZ-6350 vehicles..
+The Mission is The Krasuha-4 is a broadband multifunctional jamming system designed to neutralise LEO spy satellites such as the US Lacrosse/Onyx series, satellites, ground-based radars, airborne surveillance radars, and radar-guided ordinance at ranges between 150–300 km, and may also cause damage to enemy radar electronic warfare and communications systems..
+The Crew is INA.
+The Computer is Baguette-23B computer.
+The Operating Frequency is 8 kHz to 18 GHz.
+The Maximum Range is 300 km.
+The Continuous Operation is 24 hours.
+The Azimuth is 360°.
+The Elevation is 1° to 60°.
+The Output Power is 24 dBW (8 GHz); 23 dBW (13 GHz); 21 dBW (18 GHz).
+The Power Consumption is 30 kW.
+The Operation Temperature is -50° to +50° C.
+The Emplacement Time is less than 20 min.
+The Displacement Time is less than 20 min.
+
+Here is Dimensions information for the Krasuha Russian Mobile Electronic Warfare Jamming System of the 1RL257E Broadband Multifunctional Jammer:
+The Length is 9.86 m.
+The Width is 2.78 m.
+The Height is 4 m (antenna retracted).
+The Weight is 39,000 kg.
+

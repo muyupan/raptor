@@ -1,0 +1,123 @@
+This document describes the Ahmad Yani Class Indonesian Frigate.
+
+The Ahmad Yani-class of six general-purpose frigates were acquired by the Indonesian Navy in the 1980s. They were originally built in the Netherlands for the Royal Netherlands Navy as the Van Speijk-class and were licence-built versions of the British Leander-class
+
+This equipment has proliferated into the following countries: Indonesia.
+
+Here is Variants information for the Ahmad Yani Class Indonesian Frigate:
+The AHMAD YANI is Commissioned: 1987
+Status: Active.
+The SLAMET RIYADI is Commissioned: 1967
+Status: Active.
+The YOS SUDARSO is Commissioned: 1967
+Status: Active.
+The OSWALD SIHAAN is Commissioned: 1967
+Status: Active.
+The ABDUL HALIM PERDANAKUSUMA is Commissioned: 1967
+Status: Active.
+The KAREL SATSUITUBUN is Commissioned: 1968
+Status: Active.
+
+Here is System information for the Ahmad Yani Class Indonesian Frigate:
+The Alternative Designation is Ahmad Yani Class.
+The Type is Frigate.
+The Builder is 351, 352 and 356: Netherlands Dok en Scheepsbouw Mij, Amsterdam, Netherlands
+ 353, 354 and 355: Koninklijke Maatschappij de Schelde, Flushing, Netherlands.
+The Crew is 180 total.
+The Note is The Ahmad Yani-class of six general-purpose frigates were acquired by the Indonesian Navy in the 1980s. They were originally built in the Netherlands for the Royal Netherlands Navy as the Van Speijk-class and were licence-built versions of the British Leander-class.
+
+Here is Dimensions information for the Ahmad Yani Class Indonesian Frigate:
+The Length is 113.38 m.
+The Beam is 12.50 m.
+The Draft is 4.57 m.
+The Displacement, Standard is 2,200 tons standard.
+The Displacement, Full Load is 2,850 tons full load.
+
+Here is Propulsion System information for the Ahmad Yani Class Indonesian Frigate:
+The Engine Name is 2 x Caterpillar type 3616 diesels (except pendant 356: 2 Caterpillar type 3212 diesels and pendant
+354: 2 SEMT-Pielstick type 12 PA6B diesels)..
+The Engine Type is Diesel.
+The Engine Power is 14,617 total bhp (except pendant 356: 12,512 total bhp and 14,000 total bhp).
+The Boilers is 2 x Babcock & Wilcox 38.7 kg/sq cm, 450-deg Celsius.
+The Maximum Range is 4,500 nm at 12 knots.
+The Maximum Speed is 20 knots.
+
+Here is Gun Weapon System #1 information for the Ahmad Yani Class Indonesian Frigate of the Gun Weapon Systems:
+The Name is 1 x OTO Melara.
+The Type is Naval Gun.
+The Caliber is 76mm.
+The Barrel Length is 4,724.4 mm.
+The Weight is 7.5 tons.
+The Crew is remote controlled.
+The Elevation is −15°/+85°
+speed: 35°/s (acceleration: 72°/s²).
+The Traverse is 360°.
+The Rate of Fire is Compact: 85 rounds/min
+Super Rapid: 120 rounds/min.
+The Muzzle Velocity is 915 m/s.
+The Maximum Firing Range is HE-PFF 16,000 m
+SAPOMER 20,000 m
+VULCANO 40,000 m.
+The Feed System is Magazine capacity:
+80 ready rounds on Compact gun mount.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Ahmad Yani Class Indonesian Frigate of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.
+The Shell is 76×636mmR.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Ahmad Yani Class Indonesian Frigate of the Gun Weapon Systems:
+The Name is STK 50MG.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Quantity is 4 x STK 50MG 12.7mm Heavy Machine Guns.
+The Length is 1,778 mm.
+The Barrel Length is 1,143 mm.
+The Width is 190 mm.
+The Weight is 30 kg (66.14 lb) (complete gun assembly w/o feed chute and tripod adaptor).
+The Barrels is Single barrel (progressive RH parabolic twist, 8 grooves).
+The Action is Gas-operated, rotating bolt.
+The Rate of Fire is 400–600 rounds/min.
+The Feed System is Single sprocket Belt-fed with dual-feed chutes.
+
+Here is Gun Weapon System #2 Ammunition information for the Ahmad Yani Class Indonesian Frigate of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is 12.7×99mm NATO.
+The Basic Load is INA.
+
+Here is Missile #1 information for the Ahmad Yani Class Indonesian Frigate of the Missile Weapon Systems:
+The Note is 2 x quad Harpoon SSM launchers [only two missiles per launcher usually carried] (believed to be time expired).
+
+Here is Missile #2 information for the Ahmad Yani Class Indonesian Frigate of the Missile Weapon Systems:
+The Note is 2 x twin by Matra Simbad SAM launchers [unknown no. Mistral missiles carried].
+
+Here is Aviation Facilities information for the Ahmad Yani Class Indonesian Frigate:
+The Helicopters is 2 x Wasp (HAS-1) ASW helicopters.
+
+Here is Torpedoes information for the Ahmad Yani Class Indonesian Frigate:
+The Torpedo Tubes is 2 x triple 324-mm (U.S. Mark 32) tubes [unknown no.U.S. Mark 46, Mod. 2 torpedoes carried].
+
+Here is Fire Control Systems information for the Ahmad Yani Class Indonesian Frigate:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+The Battle Management System is INA.
+
+Here is Radar Systems information for the Ahmad Yani Class Indonesian Frigate:
+The Air Search Radar is 1 x Thales LW-03 air search.
+The Air/Surface Radar is 1 x Thales DA-05/2 air/surface search.
+The Navigation Radar is 1 x Decca TM-1229C navigation.
+The Main Gun System Radar is 1 x Thales M-45 system for 76-mm guns.
+The Gun Director is 1 x Thales LIOD Mark 2 optronic gun director (354, 353 and 356 only).
+
+Here is Sonar Systems information for the Ahmad Yani Class Indonesian Frigate:
+The Name is 1 x Signaal CWE-610.
+The Type is Hull Mounted Sonar.
+
+Here is Protection information for the Ahmad Yani Class Indonesian Frigate:
+The Active Protection System is INA.
+The Countermeasures is Yes.
+The NBC Water Washdown System is Yes.
+The EW is 1 x British UA-8 and 1 x UA-9 intercept.
+

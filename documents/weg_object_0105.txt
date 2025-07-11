@@ -1,0 +1,57 @@
+This document describes the 64N6 (Big Bird) Russian Surveillance and Target Acquisition Radar.
+
+The 64N6 (NATO codename 'Tombstone') 3-D long-range surveillance radar comprises a hydraulically raised antenna assembly and radar shelter mounted on a common semi-trailer. The phased-array antenna set has a double-sided antenna aperture. Its 3-D performance is obtained by rotation of the antenna once every 12 seconds and electronically scanning the antenna beam, in both azimuth and elevation. Scan sector capability for detecting tactical ballistic missiles is also provided. This can detect aircraft and cruise missile type targets at a range of up to 300 km and ballistic missiles with launching ranges of up to 1,000 km using the sector scan facility. An IFF transponder subsystem is fitted. The radar is used for target detection and tracking in normal, clutter and severe ECM environments. The data obtained are relayed to the command post for processing and assessment. The radar can detect targets with speeds of up to 2,788 m/s (10,000 km/h). The export designation of the system is 83M6E. The S-300PMU-2 system designation is 83M6E2.
+
+The Air Defense 64N6 (NATO code designation of Big Bird or Tombstone) is a mobile radar detection station with bilateral antenna, automatic control of modes and data, working in a centimetric range of frequencies. It is intended for maintenance with 54N6 radar-tracking information system and 83N6 control facilities for the S-300PM.
+
+The 64N6 provides detection of the air targets with resolution, accuracy of definition of coordinates and rate of updating of the data, allowing tracking of targets, follow the trajectory without difficulty, and overcome active and passive countermeasures, definition of the state accessory(belonging) of the found out purposes, and also directions of active countermeasures.
+
+Electronic scanning by a beam of illuminators in azimuthal and elevation planes in a combination to fast switching the sides of radiation of illuminators and uniform electromechanical rotation of illuminators on an azimuth allows redistribution of radiated energy in separate directions and sectors of a zone of the review due to temporary expenses for the review of various sites of space depending on radar-tracking conditions, to divide(undresse) visibility range into a zone of the regular review and a zone of support, to optimize time allocation for air defense due to use of procedures of detection in a combination with a mode of selection of the moving target. Borders of action are established for height and range by operators or automatically.
+
+Protection against active countermeasures is provided with automatic reorganization of carrying frequency by results of the analysis of tracking conditions. For protection against the active countermeasures operating on lateral petals of the diagram of an orientation of antennae, the three-channel self-balancing potentiometer connected to compensatory aerials is used.
+
+Protection against passive countermeasures is made due to use of equipment SDTS. Temporary automatic adjustment of amplification is applied to reduce the quantity of false tracks in a near zone (up to 65 km) in the channel of detection, in a distant zone - the scheme of stabilization of a level of false alarms. To reduce the quantity of false returns from subjects on district and the inactive purposes it is applied intersurvey the signals received from same sites of space during several periods of the review.
+
+Management of air defense work and devices entering into it, processing of the radar-tracking information and definition of coordinates of the purposes is carried out by a computer constructed on the basis of two specialized computers. The built in monitoring system checks functioning the equipment and defines malfunctions.
+
+The structure of the command post includes means of speech communication, and also the broadband communication line 5?312 for transfer of the information on a radio channel or on a cable. It is completed by means of independent electrosupply into which structure enters the unit producing the electric power of a three-phase alternating current by frequency of 400 Hz by a voltage of 220 Volts given means of external power supplies can be used the converting device and diesel power station.
+
+Equipment is placed in two containers F6 (the illuminators, transmitting and reception devices and devices for processings of information and management), installed on the lorry convoy tractor MAZ-74106. The system is served by fighting calculation from 4 person. Its weight is 60 tons
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the 64N6 (Big Bird) Russian Surveillance and Target Acquisition Radar:
+The 91N6E is This is an upgraded derivative of the 64N6 Big Bird radar system developed for the S-400 surface-to-air missile system. It has a fully digital design with a higher peak power rating than its predecessor to accommodate longer-range 48N6E3 and 40N6E missiles..
+
+Here is System information for the 64N6 (Big Bird) Russian Surveillance and Target Acquisition Radar of the 64N6 (Big Bird) Surveillance Radar:
+The Alternative Designations is 64N6 (NATO designation Big Bird).
+The Name is 64N6 (Big Bird) Surveillance Radar.
+The Type is Designation Radar.
+The Crew is 6.
+The Weight is 60,000 kg.
+The Band is 2 GHz.
+The Coverage Azimuth is 360 deg or 180 deg.
+The Elevation Detection Mode is 13.4.
+The Elevation Tracking Mode is 28.
+The Ballistic Target Detection Sector Azimuth is 60.
+The Ballistic Target Detection Sector Elevation is 0-55 deg; or 20-75 deg.
+The 64N6E2 is 0-75 deg.
+The Detection Range (Mig-21 Type Target) is 260.
+The Detection Range, Ballistic Target is 127.
+The Accuracy Range is 150.
+The Accuracy Azimuth is 0.5.
+The Accuracy Elevation is 0.5.
+The Tracking is 200 targets simultaneously.
+The Scan Rate is 12.
+The Emplacement Time is 5 min.
+The Displacement Time is INA.
+The Mount is The 64N6 BIG BIRD is mounted on a large trailer along with a generator and typically towed with the now familiar 8-wheeled truck.
+
+Here is Automotive information for the 64N6 (Big Bird) Russian Surveillance and Target Acquisition Radar:
+The Mount is Trailer.
+The Prime Mover is Both elements are mounted on a 60-ton truck consisting of the Type 74106 tractor and the Type 9988 semi-trailer.
+
+Here is Communications information for the 64N6 (Big Bird) Russian Surveillance and Target Acquisition Radar:
+The VHF Radio is R-168 Akveduk.
+The HF Radio is R-161 Poisk.
+

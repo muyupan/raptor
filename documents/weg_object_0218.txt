@@ -1,0 +1,44 @@
+This document describes the HY-3 (CSS-C-6 Sawhorse) Chinese Short-Range Anti-Ship Cruise Missile.
+
+The HaiYing-3 (HY-3, also known as C-301 in its export name; NATO codename: CSS-C-6 Sawhorse) is the active radar homing, ramjet-powered supersonic land-to-ship missile developed by China Haiying Electro-Mechanical Technology Academy (CHETA, also known as 3rd Space Academy). The missile was developed in the 1980s based on the design of the HY-2 (C-201) and the ramjet technology of the cancelled YJ-1 (C-101). The development was completed in the early 1990s but the missile did not enter service.
+
+The HY-3 is a large-size missile with a slim forward body and sharp nose, and a fatter rear half with four solid rocket boosters and two ramjet engines located aft of the missile body. There are a pair of front-canards on the front fuselage, four control surfaces on the rear fuselage, and four smaller stabilizing fins attached on the solid rocket boosters. The booster motors accelerate the missile to past Mach 1.8 and the kerosene-fueled ramjet engines accelerate the missile to a cruise speed of Mach 2.0. Its range is variously reported as up to 130 km, and it can fly as low as 50 m in its terminal attack phase. The missile is programmed to dive from cruising altitude to under 30m before the active-radar terminal phase begins, then dive onto the target just prior to impact.
+
+The 3.5 ton missile is launched from a land-based launcher. Each firing unit consists of four launchers, a target acquisition radar, a fire-control unit, a power unit, and 8~12 missile reloading vehicle (each with one missile).
+
+This equipment has proliferated into the following countries: Bangladesh, China, Cuba, Iran (Islamic Republic of), Sudan.
+
+Here is Variants information for the HY-3 (CSS-C-6 Sawhorse) Chinese Short-Range Anti-Ship Cruise Missile:
+The HY-2 is Basic variant radar-guidance land-to-ship missile *developed from the HY-1 missile.
+The HY-2A is IR-guidance variant.
+The HY-2AII is Improved variant of the HY-2A.
+The HY-2B is Improved radar-guidance variant with a monopulse radar seeker replacing the original conical scanning radar.
+The HY-2BII is Improved variant of the HY-2B with a newly designed radar seeker.
+The C-201 is Export designation for HY-2.
+The C-201W is Extended-range variant powered by a turbojet engine replacing the original liquid-fuel rocket motor. Export only.
+The YJ-6 is Air launched variant of the HY-2.
+The YJ-61 is Improved variant of the YJ-6.
+
+Here is System information for the HY-3 (CSS-C-6 Sawhorse) Chinese Short-Range Anti-Ship Cruise Missile:
+The  is .
+The  is .
+The  is .
+
+Here is Missile information for the HY-3 (CSS-C-6 Sawhorse) Chinese Short-Range Anti-Ship Cruise Missile of the HY-3 (CSS-C-6 Sawhorse) Anti-Ship Cruise Missile:
+The Name is HY-3; NATO: CSS-C-6 Sawhorse.
+The Type is Anti-Ship Cruise Missile.
+The Basic Load is INA.
+The Manufactuer is Nanchang Aircraft Factory (Chinese).
+The Length is 9.85m.
+The Diameter is 0.76 m.
+The Wingspan is 2.24 m.
+The Weight, Total is 3,400 kg.
+The Warhead Type is Shaped charge high explosive.
+The Warhead Weight is 500 kg.
+The Propulsion is Two side-mounted ramjet engines; four solid propellant boost motors.
+The Speed is Mach 2.5.
+The Range is 180 km.
+The Cruising Altitude is 50 meters.
+The Guidanc System is Inertial and terminal active radar.
+The Single-Shot Kill Probability is 90%.
+

@@ -1,0 +1,148 @@
+This document describes the AMX-10 PAC 90 French Tank Destroyer / SP Artillery Piece.
+
+Known as a "Tank Destroyer," The AMX-10 PAC 90 is dedicated fire support and an anti-tank variant of the AMX-10P infantry fighting vehicle. Its production commenced in 1979. This vehicle is in service with France, Brazil, and possibly some other countries. This fire support vehicle was designed to operate alongside the main battle tanks and infantry fighting vehicles. At the time of its introduction, it was capable of taking anti-tank combat, however by current standards, its armament is too weak to knock out a modern MBT. It was also intended as a reconnaissance and infantry support vehicle.  The aluminum armor of this fire support vehicle provides all-around protection against small arms fire and artillery shell splinters. Front armor withstands 14.5 mm heavy machine gun rounds. The vehicle has an NBC protection system.
+
+Here is Variants information for the AMX-10 PAC 90 French Tank Destroyer / SP Artillery Piece:
+The AMX-10P Marines is The AMX-10P Marines is a variant of the AMX-10P specifically developed to provide improved amphibious capabilities at sea or in rivers of the original AMX-10P..
+The AMX-10 PAC 90 is The primary role of the AMX-10 PAC 90 is that of anti-tank and fire support on the battlefield at ranges between 1,000 and 2,500 m, but it can also be used as a reconnaissance vehicle or as an APC..
+The AMX-10 ECH is The AMX-10 ECH is an ARV based on the hull of the AMX-10P. It is designed to support AMX-10P vehicles in combat and maintain readiness by conducting repairs as close to the battlefield as possible..
+The AMX-10 Ambulance is The AMX-10P is also used to perform as a battlefield ambulance. It is based on the same hull as the AMX-10P to ensure that it can perform alongside other armoured formations..
+The AMX-10PC is The AMX-10PC is an armoured command post designed to support the operations of armoured formations during combat..
+The AMX-10 HOT is This was the basic AMX-10P, with the Toucan II turret replaced by a new two-man Lancelot turret based on the TH 20, with four ready-to-launch 4,000 m range MBDA HOT missiles and a further 14 missiles carried in the rear of the hull. The crew of five consisted of the commander and gunner in the turret, two missile loaders, and the driver..
+The AMX-10 VOA is This was based on the AMX-10PC command vehicle chassis and has been designed for use by artillery observers. Its crew of four consisted of a commander, observer, radio operator, and driver. The turret, which was manned by one or two men, was provided with equipment for day and night observation and local defence..
+The AMX-10 SOA is The AMX-10 SOA was used for battlefield observation and artillery fire-control. It was essentially an AMX-10P with its Toucan II turret replaced by a new two-man turret armed with an externally-mounted 7.62 mm MG on the right side..
+The AMX-10 SAF is This was also known as the AMX-10PC SAF and was used with the ATILA artillery FCS. It had a crew of five consisting of the radio operator, driver, two warrant officers, and one commanding officer..
+The AMX-10 TM is This model towed a 120 mm TDA Model MO-120-RT-61 muzzle loaded rifled mortar, and carried 60 rounds of ammunition, for the mortar. The AMX-10 TM had a crew of six consisting of commander, aimer, artificer, loader, ammunition carrier and driver, and was fitted with a Toucan I turret..
+The AMX-10 SAT is This was based on the AMX-10 PC command vehicle but had been modified internally to carry a gyrostabilised theodolite, a topographic survey theodolite, distance measuring equipment, and a navigation system..
+The AMX-10P with RATAC radar is This had no turret and was fitted with a roof-mounted radar for field artillery fire (RATAC) pulse Doppler radar scanner. The vehicle had a crew of five: commander; radar operator; assistant radar operator; radio operator; driver. The radar had four operating modes: ground surveillance; acquisition and identification; angular deviation measurement; automatic tracking..
+The AMX-10P upgrade is The AMX-10P ICV upgrade included the installation of a new passive armour package to the front, sides, rear, and hull top to provide an enhanced level of survivability. Other enhancements included a modified rear power-operated ramp, new torsion bars, and reinforced transmission. The original AMX-10P was fully amphibious, propelled in the water by two water-jets mounted one either side of the hull at the rear. These and the trim vane installed at the front of the hull were removed to save weight but the vehicle retained its fording capability..
+
+Here is System information for the AMX-10 PAC 90 French Tank Destroyer / SP Artillery Piece:
+The Alternative Designation is AMX-10 PAC 90.
+The Date of Introduction is 1979.
+The Proliferation is Indonesia, which placed an order for 34 vehicles, Singapore ordered 44.
+The Manufacturer is Nexter Systems.
+The Function is Fire Support Vehicle.
+The Type is Infantry Fighting Vehicle (IFV).
+The Family is AMX-10.
+The Crew is 3.
+The Passenger Capacity is 4.
+The Dismounts is 4.
+
+Here is Dimensions information for the AMX-10 PAC 90 French Tank Destroyer / SP Artillery Piece:
+The Length is 5.87.
+The Width is 2.83.
+The Height is 2.73.
+The Weight, Combat is 14.5.
+The Ground Pressure is 0.56 kg/cm².
+The Ground Clearance is 0.45.
+The Track Width is 425.
+The Track Length (on the ground) is 2.93.
+
+Here is Automotive information for the AMX-10 PAC 90 French Tank Destroyer / SP Artillery Piece:
+The Engine Name is Baudouin 6 F11 SRX.
+The Engine Type is V-8 Diesel.
+The Engine Power is 300.
+The Cruising Range is 600.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is 40.
+The Speed Maximum Swim is 10.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.7.
+The Trench is 1.6.
+The Fording Depth is Amphibious.
+The Fuel Capacity is 518.
+The Propellers is 2 each (305mm Diameter).
+The Emergency Pneumatic Engine Starter is Yes.
+The Water Exchanger is Yes.
+
+Here is System information for the AMX-10 PAC 90 French Tank Destroyer / SP Artillery Piece of the Main Gun:
+The Name is GIAT CS-90F-4 90mm High Velocity Rifled Gun.
+The Type is 90.
+The Barrel Length is 52 Calibers.
+The Maximum Rate of Fire is INA (32-36 rds/min).
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Electric Traverse is Yes, with two speed modes of 13 deg and 5 deg.
+The Maximum Elevation is +15.
+The Minimum Elevation is -8.
+The Basic Load (Total) is 10 x 90mm projectiles can be carried onboard with normally a combination of 12 HEAT and 8 HE.
+The Ammo Compatible is 90mm HE, HE long range, HEAT, smoke, and APFSDS Projectiles.
+
+Here is Ammunition (Option 1) information for the AMX-10 PAC 90 French Tank Destroyer / SP Artillery Piece of the Main Gun:
+The Type is HEAT.
+The Caliber is 90.
+The Muzzle Velocity is INA.
+The Maximum Firing Range is 19.
+The Basic Load is 12.
+
+Here is Ammunition (Option 2) information for the AMX-10 PAC 90 French Tank Destroyer / SP Artillery Piece of the Main Gun:
+The Type is HE.
+The Caliber is 90.
+The Muzzle Velocity is INA.
+The Maximum Firing Range is 17.9.
+The Basic Load is 8.
+
+Here is System information for the AMX-10 PAC 90 French Tank Destroyer / SP Artillery Piece of the Coaxial Weapon System:
+The Name is 1 x AA-52, 7.62mm Machine Gun.
+The Type is 7.62.
+The Manufacturer is Manufacture d'armes de Saint-Étienne (MAS).
+The Max Rate of Fire is 900.
+The Weight is 9,970.
+The Length is 1,080.
+The Barrel Length is 600.
+The Action is Lever-delayed blowback.
+The Effective Firing Range is 600.
+The Maximum Firing Range is 3,200.
+The Feedd System is Belt.
+The Sights is Iron
+Removable APX (SOM) telescopic sights
+IR scope.
+
+Here is Ammunition information for the AMX-10 PAC 90 French Tank Destroyer / SP Artillery Piece of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.72.
+The Cartridge is 7.5×54mm French, 7.62×51mm NATO.
+The Muzzle Velocity is 830.
+The Basic Load is 2,000.
+
+Here is MILAN Anti-Tank Guided Missile (ATGM) information for the AMX-10 PAC 90 French Tank Destroyer / SP Artillery Piece of the Anti-Tank Guided Missile (ATGM):
+The Country is France / Germany.
+The Service is 1972-present.
+The Prolioferation is thousands deployed by the French, German, Belgian, and Spanish armies, but Italy and soon India were assembling MILANs under license. All in all, the MILAN’s customer list has reached 41 countries and at least several non-state groups..
+The Range is 2.
+The Basic Load is 10.
+The Armor Penetration is 350.
+The Missile Length is 918.
+The Missile Diameter is 103.
+The Fin Span is 267.
+The Missile Weight is 6.73.
+The Total Weight with Launcher is 24.
+The Warhead Weight is 2.7.
+The Warhead Type is High Explosive.
+The Guidance System is Wire-Guided.
+The Note is The iconic MILAN is the most successful Western European anti-tank missile ever made and is only surpassed by the BGM-71 TOW when it comes to international customers..
+
+Here is Fire Control information for the AMX-10 PAC 90 French Tank Destroyer / SP Artillery Piece:
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes, The commander has seven day (three M556 and four M554) periscopes.
+The Thermal Sight Gunner is Yes,  the gunner five (three M556 and two M554). Also a M563 telescopic sight.
+The Main Gun Stabilization is Non-stabilized.
+The Periscopes is 4.
+
+Here is Protection information for the AMX-10 PAC 90 French Tank Destroyer / SP Artillery Piece:
+The Hull Armor is welded from aluminum armor plates, which protect the vehicle from 14.5mm rounds.
+The Turret Armor is New Dragar Turret..
+The Applique Armor is Available.
+The Explosive Reactive Armor is Available.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Two 80 mm smoke grenade dischargers.
+The IR Signature is INA.
+The Anti-Corrosion Lining is Yes.
+

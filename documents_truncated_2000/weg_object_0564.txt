@@ -1,0 +1,72 @@
+This document describes the PLL-01 (WAC-021) Chinese 155mm Towed Howitzer.
+
+The PLL-01 (WAC-021) Chinese 155mm Towed Howitzer is fitted with an auxiliary power unit which is a small air-cooled 77 hp diesel engine. It is installed in a fairing carried atop the front of the carriage. The power unit is used for self-movement once the howitzer is in position. It also assists emplacement and displacement of the howitzer. This feature significantly reduced the stress on the crew. A single crew member can jack the gun in 90 seconds. Also, it takes slightly less time to emplace and displace, compared to conventional towed artillery pieces. 
+The PLL-01 uses Extended Range, Full Bore (ERFB) ammunition, which has a much longer range than typical howitzer ammunition thanks to improved aerodynamics. The PLL-01 can also fire all standard NATO 155 mm ammunition.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the PLL-01 (WAC-021) Chinese 155mm Towed Howitzer:
+The AH-1 is AH-1 is an improved version of the PLL-01, manufactured in China by NORINCO. It has a more powerful auxiliary power unit, consisting of an air-cooled diesel engine, developing 110 hp. This howitzer has a maximum auto-propulsion speed of 20 km/h. Reportedly, the AH1 is in service with Ethiopia..
+The AH-2 is AH2 is a 52-caliber version of the AH1 towed howitzer. It has a longer range..
+The GM-45 is Same cannon fit onto a lighter carriage.  This allows the system to be easier to maneuver but provides less stability to the system..
+
+Here is System information for the PLL-01 (WAC-021) Chinese 155mm Towed Howitzer:
+The Alternative Designation is PLL-01; WAC-021.
+The Type is Towed Howitzer.
+The Caliber is 155 mm.
+The Manufacturer is Norinco.
+The Crew is 6.
+The Displacement Time is 1.5.
+The Emplacement Time is 1.5.
+The Range with standard ammunition is 24.
+The Range with ERFB is 30.
+The Range with ERFB-BB is 39.
+The Minimum Range is 5,400.
+
+Here is Dimensions information for the PLL-01 (WAC-021) Chinese 155mm Towed Howitzer:
+The Length (in Travelling Order) is 7.
+The Length (in Combat Order) is 11.4.
+The Width (in Travelling Order) is 2.5.
+The Width (in Combat Order) is 9.3.
+The Height is INA.
+The Weight, Combat is 9.5.
+
+Here is Auxiliary Power Unit information for the PLL-01 (WAC-021) Chinese 155mm Towed Howitzer of the Automotive Requirement:
+The Engine is 493Q diesel.
+The Engine Power is 77.
+The Auto-propulsion Speed is 18.
+The Auto-propulsion Range (on roads) is 80-100.
+
+Here is System information for the PLL-01 (WAC-021) Chinese 155mm Towed Howitzer of the Main Weapon System:
+The Type is 155.
+The Caliber / Length is 45.
+The Breech Type is INA.
+The Muzzle Velocity, Max is 903.
+The Max Range is 39.
+The Min Range is 5,400.
+The Loader Type is Semi-Automatic.
+The Muzzle Brake Type is Multi-slotted.
+The Max Elevation is 72.
+The Min Elevation is -5.
+The Traverse Range is 70.
+The Traverse Left is 35.
+The Traverse Right is 35.
+The Rate of Fire, Burst is 4.
+The Rate of Fire, Sustain is 2.
+The Rate of Fire, Normal is INA.
+
+Here is Fire Control System information for the PLL-01 (WAC-021) Chinese 155mm Towed Howitzer:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is No.
+The Indirect Fire is Yes.
+The Collimator is Yes.
+The Gun Display Unit is Yes.
+
+Here is Protection information for the PLL-01 (WAC-021) Chinese 155mm Towed Howitzer:
+The Armor Roof is None.
+The Armor, Front is None.
+The Armor, Side is None.
+The NBC Protection is No.
+The Smoke Equipment is INA.
+

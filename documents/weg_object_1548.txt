@@ -1,0 +1,165 @@
+This document describes the Ivan Green Class (Project 11711 Class) Russian Landing Ship.
+
+The Ivan Gren class, Russian designation Project 11711, is a class of landing ships that is being built for the Russian Navy. The class was to be composed of two vessels, Ivan Gren and Pyotr Morgunov, but later it was announced that the Russian Navy intends to acquire several more vessels of a modified design.
+
+The vessels of the class have a displacement of 5,000–6,000 tons and are able to carry up to 13 main battle tanks or 36 armored personnel carriers and 300 marines. The first ship of the class, Ivan Gren, was laid down on 23 December 2004. The hull of Ivan Gren was completed by the end of November 2010. On 9 October 2010, a contract to increase work on the vessel was signed. The ship was launched on 18 May 2012 and was scheduled to be delivered to the Russian Navy by 2014. Delivery of Ivan Gren was delayed until 2015 while the second ship of the class, Pyotr Morgunov, was laid down in October 2014. Ivan Gren started its sea trials in June 2016 in the Baltic Sea. According to Russian sources, the delay in the commissioning of the lead ship was due to several design faults that include hull stability and engine problems.
+
+On 3 May 2018, the lead ship of the class, Ivan Gren, successfully completed its sea trials held in the Baltic Sea. The warship's systems and complexes were checked by the state acceptance commission of Russia's Defense Ministry. Ivan Gren was accepted into service on 20 June 2018.
+
+Initially, there were no plans to build more ships following Pyotr Morgunov. However, in December 2018, it was reported by the head of Russia's United Shipbuilding Corporation that Russia plans to order additional two or three modified Ivan Gren-class landing ships. On 9 April 2019, Russian Defence Minister Sergey Shoygu announced two more Project 11711 landing ships will be laid down on 23 April 2019.
+
+On 23 April 2019, two modified Project 11711 landing ships, Vladimir Andreev and Vasily Trushin, were laid down during a ceremony at the Yantar Shipyard in Kaliningrad. The two new ships differ with the modified superstructure, increased displacement to 7000-8000 tons, and capability to carry the Kamov Ka-52K carrier-based attack helicopters. Their delivery to the Russian Navy is scheduled for 2023 and 2024, respectively.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Ivan Green Class (Project 11711 Class) Russian Landing Ship:
+The Ivan Gren is Commissioned: 2018
+Status: Active
+Fleet: Northern.
+The Pyotr Morgunov is Commissioned: 2020
+Status: Active 
+Fleet: Northern.
+The Vladimir Andreyev is Commissioned: 2023
+Status: Under Construction
+Fleet: Northern.
+The Vasily Trushin is Commissioned: 2024
+Status: Pacific 
+Fleet: Under Construction.
+
+Here is System information for the Ivan Green Class (Project 11711 Class) Russian Landing Ship:
+The Alternative Designations is Ivan Green Class; Project 11711 Class.
+The Type is Landing Ship.
+The Builders is Yantar Shipyard, Kaliningrad.
+The Crew is 100.
+The Cargo Capacity is 13 x main battle tanks, 40 x BTR or IFV and 300 troops.
+The Aviation Facilities is Hangar for 2 Ka-27 ASW or Ka-29 transport-attack helicopters.
+The Note is To perform over-the-beach assault the ship uses the bow doors with internal ramp to disembark vehicles. Also there is a rear ramp which is used by onboard fast landing craft. A total of 2 or 3 landing craft are carried by the ship..
+
+Here is Dimensions information for the Ivan Green Class (Project 11711 Class) Russian Landing Ship:
+The Length is 120.
+The Beam is 16.
+The Draft is 3.6 m.
+The Displacement is 6,600 tons full load.
+
+Here is Automotive information for the Ivan Green Class (Project 11711 Class) Russian Landing Ship:
+The Engine Name is 2 x DRRA-3700.
+The Engine Type is Diesel.
+The Engine Power is Each engine develops a power output of 3,700kW.
+The Bow Thruster is 1 x PU100FM Bow Thruster.
+The Generators is 2 x ADG-1000NK diesel-generators.
+The Maximum Range is 3,500 nmi (6,500 km) at 16 knots (30 km/h).
+The Maximum  Speed is 18 knots (33 km/h).
+The Endurance is 30 days.
+
+Here is Weapon Station #1 information for the Ivan Green Class (Project 11711 Class) Russian Landing Ship of the Main Gun System:
+The Name is 1 x AK-630M-2 Gun.
+The Type is fully automatic naval close-in weapon system based on a six-barreled 30 mm rotary cannon..
+The Caliber is 30 mm.
+The Quantity is 1.
+The Barrel Length is 1,629 mm (64 in) (total)
+1,460 mm (57 in) (rifled).
+The Width is 1,240 mm (49 in) (mount ring).
+The Height is 1,070 mm (42 in) (above deck)
+2,050 mm (81 in) (below deck.
+The Weight is Gun mount:
+1,000 kg (2,200 lb) (AK-630)
+1,800 kg (4,000 lb) (AK-630M)
+2,500 kg (5,500 lb) (AK-630M-2)
+External nodes:
+800 kg (1,800 lb) (AK-630)
+2000 rounds in belt:
+1,918 kg (4,228 lb)
+Fire control system:
+(Vympel MR-123)
+(Vympel-A MR-123/176)
+5.2 tonnes (5.7 short tons)
+(Vympel-AM MR-123-02/MR-123-03
+and Vympel-AME MR-123-02/176)
+1 tonne (2,200 lb) (Laska 5P-10E).
+The Crew is 1.
+The Action is Gas-operated rotary cannon.
+The Elevation is +88° ... -12° (50°/sec)
++90° ... -25° (60°/sec) AK-630M-2.
+The Traverse is ±180° (70°/sec)
+±180° (80°/sec) AK-630M-2.
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880–900 m/s.
+The Feed System is Belt:
+2,000 rounds (additional 1,000 rounds in reserve feed bin, AK-630M)
+4,000 rounds (AK-630M1-2).
+The Effective Firing Range is 4,000 m (13,000 ft) (aerial)
+5,000 m (16,000 ft) (maritime).
+The Sights is Radar / TV-optical.
+The Note is AK-630M-2 Gun
+n 1983, a decision was made to update the design and modify the AK-630 system to include a second gun mounted above the first, which provides 10,000 rpm in total. The AK-630M1-2 "Roy" was roughly the same size and weight allowing installation in existing AK-630 mounts. Though the system proved to be successful, the AK-630M1-2 Roy was not accepted for production due to the maturity of a combined missile and gun system, then designated the 3M87 Kortik, but later called Kashtan. The single example of AK-630M1-2 Roy remains installed on the Project 206.6 class missile boat # P-44.
+
+In July 2007 at IMDS-2007, a modernized version of the AK-630M1-2 was showcased by OAO AK Tulamashzavod under the new name "Duet". Visually "Duet" differs from "Roy" in having a new mount with a stealthy low RCS design compared with the more traditional rounded AK-630 mounts.
+
+In 2012 it was announced that the new Ivan Gren-class landing ship would be armed with the modified AK-630M-2 system. It is also used by the Buyan-M-class missile corvette..
+
+Here is Weapon Station #1 Ammunition information for the Ivan Green Class (Project 11711 Class) Russian Landing Ship of the Main Gun System:
+The Shell is HEI-Frag, Frag-T.
+The Caliber is 30 mm.
+The Shell Weight is 0.39.
+The Basic Load is 3,000.
+
+Here is Weapon Station #2 information for the Ivan Green Class (Project 11711 Class) Russian Landing Ship of the Main Gun System:
+The Name is 2 x AK-630 30mm Naval Gun.
+The Type is Fully automatic naval close-in weapon system based on a six-barreled 30 mm rotary cannon..
+The Caliber is 30 mm.
+The Main Armament is 1 or 2 AO-18 autocannons.
+The Secondary Armament is 4 x 9A4172 missiles.
+The Crew is 1.
+The Barrel Length is 1,629 mm.
+The Width is 1,240 mm.
+The Height is 1,070 mm.
+The Weight is 1,000 kg.
+The Barrels is 6.
+The Action is Gas-operated rotary cannon.
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880–900 m/s.
+The Maximum Firing Range is the projectiles self-destruct past 5,000 m.
+The Effective Firing Range is 4,000 m (aerial)
+5,000 m (maritime).
+The Feed System is Belt:
+2,000 rounds (additional 1,000 rounds in reserve feed bin.
+The Sights is Radar / TV-optical.
+
+Here is Weapon Station #2 Ammunition information for the Ivan Green Class (Project 11711 Class) Russian Landing Ship of the Main Gun System:
+The Type is HEI-Frag, Frag-T.
+The Caliber is 30 mm.
+The Shell Weight is 0.39 kg.
+The Basic Load is INA.
+
+Here is Weapon Station #3 information for the Ivan Green Class (Project 11711 Class) Russian Landing Ship of the Main Gun System:
+The Name is 1 x KPV Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 14.5 mm.
+The Length is 1,980 mm.
+The Barrel Length is 1,346 mm.
+The Width is 162 mm.
+The Height is 225 mm.
+The Weight is 49 kg.
+The Action is Short recoil operation.
+The Rate of Fire is 600 rpm.
+The Muzzle Velocity is 1,005.
+The Effective Firing Range is 3,000 m.
+The Maximum Firing Range is 4,000 m.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+
+Here is Weapon Station #3 Ammunition information for the Ivan Green Class (Project 11711 Class) Russian Landing Ship of the Main Gun System:
+The Type is Rifle.
+The Caliber is 14.5 mm.
+The Cartridge is 14.5×114 mm.
+The Basic Load is INA.
+
+Here is Fire Control Station and Radar System information for the Ivan Green Class (Project 11711 Class) Russian Landing Ship:
+The FCS Name is 1 x MR-123 Vympel (NATO: Bass Tilt) fire.
+The Navigation Radar is INA.
+
+Here is Protection information for the Ivan Green Class (Project 11711 Class) Russian Landing Ship:
+The Hull Armor is INA.
+The NBC Washdown is Yes.
+The Chaff is 2 x PK-10 chaff-rocket launchers.
+

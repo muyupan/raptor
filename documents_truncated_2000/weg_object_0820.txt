@@ -1,0 +1,36 @@
+This document describes the Mugin-6 Chinese Unmanned Aerial Vehicle (UAV).
+
+The Mugin-6 Chinese Unmanned Aerial Vehicle (UAV) is designed based on the Mugin 4450 VTOL with an extended wingspan of 6000mm, in hope of reaching a longer flight time of 10 hours.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Mugin-6 Chinese Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Mugin-6 Pro.
+The Type is Vertical Take-Off and Landing (VTOL) Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Mugin UAV.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Payload Capacity is 20 kg.
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+
+Here is Dimensions information for the Mugin-6 Chinese Unmanned Aerial Vehicle (UAV):
+The Length is 3,500 mm.
+The Wingspan is 6,000 mm.
+The Width (Fuselage) is 375 mm.
+The Height is INA.
+The Empty Weight is 34.2 kg.
+The Maximum Takeoff Weight is 110 kg.
+
+Here is Automotive information for the Mugin-6 Chinese Unmanned Aerial Vehicle (UAV):
+The Engine Name is DLA 232cc Engine w/ EFI, Starter & Alternator.
+The Engine Type is Gas.
+The Engine Power is INA.
+The Fuel Capacity is 28 liters.
+The Maximum Speed is 129 km/h.
+The Cruise Speed is 115 km/h.
+The Stall Speed is 86 km/h.
+The Service Ceiling is INA.
+The Maximum Range is 300 km depending on payload.
+The Endurance is 5 - 10 hours.
+

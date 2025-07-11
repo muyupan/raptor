@@ -1,0 +1,107 @@
+This document describes the Mi-26T2 Russian Heavy Transport Helicopter.
+
+The Mi-26T2 is the latest upgraded version of the Mi-26.
+The Mi-26T2 is a modernisation of the Mi-26T heavy-lift transport helicopter designed by Mil Moscow Helicopter Plant, a division of Russian Helicopters.The modernised helicopter is designed to transport heavy cargo and equipment. It can be used to quickly transport up to 82 troops and their equipment, as well as a wide range of heavy-weight combat vehicles.
+
+
+Mi-26T2 -  an upgraded version of the helicopter, Mi-26T2 is fitted with a new BREO-26 avionics suite and glass cockpit with five multifunctional LCD displays, new digital autopilot, and NAVSTAR/GLONASS supported navigation system. The Mi-26T2’s array of on-board equipment ensures the helicopter can operate in any part of the world, and ensures it can perform flights to international standards. The latest avionics suite fitted also makes it possible to reduce the number of crew needed from 5 to 2 people, plus an operator should the external sling be in use.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Mi-26T2 Russian Heavy Transport Helicopter:
+The Mi-26A is Upgraded military version with a new flight/navigation system. Flown in 1985 but no production.
+The Mi-26M is Upgraded version of the Mi-26 for better performance..
+The Mi-26S is Disaster response version developed in response to nuclear accident at Chernobyl.
+The Mi-26T is Basic civil cargo/freight transport version. Production from 1985.[.
+The Mi-26TS is Civil cargo transport version, also marketed as Mi-26TC..
+The Mi-26TM is Flying crane version with under-nose gondola for pilot/crane operator..
+The Mi-26TP is Firefighting version with internal 15,000 litres (4,000 US gal; 3,300 imp gal) fire retardant tank..
+The Mi-26MS is Medical evacuation version of Mi-26T. Up to 60 stretcher cases in field ambulance role, or can be equipped for intensive care or as field hospital.[.
+The Mi-26P is 63 seat passenger version.[.
+The Mi-26PK is Flying crane derivative of Mi-26P.
+The Mi-26T2 is Improved version of the Mi-26T equipped with BREO-26 airborne electronic system, allowing it to fly any time, day or night, under good and bad weather conditions. Serial production began on May 22, 2015.[.
+The Mi-26T2V is Newest modernization variant intended for the Russian military, equipped with new NPK90-2V avionics suite allowing it to fly routes in automatic mode, airborne defense complex "Vitebsk", anti-blast seats and new navigation and satellite communication systems. The cockpit is fitted with multifunctional displays with provision for use of night-vision goggles during night ops. The Mi-26T2V made its maiden flight in August 2018.
+The Mi-27 is Proposed airborne command post variant; two prototypes bui.
+
+Here is System information for the Mi-26T2 Russian Heavy Transport Helicopter:
+The Alternative Designation is Mil Mi-26; Halo.
+The Primary Function is Heavy Transport Helicopter.
+The In Service is 2015-Present.
+The Manufacturer is Rostvertol.
+The Crew is 2-3 (pilot, co-pilot and loadmaster when carrying an external load).
+The Passengers is The modernised helicopter is designed to transport heavy cargo and equipment. It can be used to quickly transport up to 82 troops and their equipment, as well as a wide range of heavy-weight combat vehicles..
+The Blades, Main Rotor is 8.
+The Blades, Tail Rotor is 5.
+The Number of Engines is 2 ea, however the helicopter has the ability to fly with only one engine.
+The Day/Night Capable is Yes.
+The All Weather Capable is Yes, NPK90-2 integrated avionics equipment system (IAES).
+The Number of Hard Points is INA.
+The Note is Crew requirements are reduced with the elimination of the flight engineer and navigator..
+
+Here is Dimensions information for the Mi-26T2 Russian Heavy Transport Helicopter:
+The Length is 33.73.
+The Width is INA.
+The Height is 8.15.
+The Main Rotor Diameter is 32.0.
+The Disc Area is 804.25 sq m.
+The Cabin, Length is 12.00.
+The Cabin, Width is 3.25.
+The Cabin, Height is 2.95 m to 3.17 m.
+The Cabin, Volume is 120 cu m.
+The Weight, Empty is 28,600.
+The Weight, Normal Takeoff is 49,500 kg.
+The Weight, Maximum Takeoff is 56,000 kg.
+The Maximum Payload is 20,000 kg.
+The External Payload, out of Ground Effect is 14,515 kg.
+The External Payload, in Ground Effect is 18,144 kg.
+
+Here is Automotive information for the Mi-26T2 Russian Heavy Transport Helicopter:
+The Engine Name is 2 x Progress D-136-2.
+The Engine Type is INA.
+The Engine Power is 11,650 shp ( 8,690 kW) each.
+The Transmission Rating is 20,000 shp (14,914 kW).
+The Speed, Maximum is 295.
+The Speed, Cruise is 255.
+The Range w/Maximum Internal Fuel and Maximum Payload is 800.
+The Range, Ferry is 1,920 km.
+The Ceiling is 4,600 m.
+The Ceiling, Hovering in Ground Effect is 4,600.
+The Ceiling, Hovering out of Ground Effect is 1,520.
+The Internal Fuel Capacity is 11,900 liters.
+The Fuel Consumption is 0.437 lb (0.198 kg)/hp/hour.
+The Note is The helicopter can also provide self-contained refuelling to ground-based vehicles.
+
+Here is Communications information for the Mi-26T2 Russian Heavy Transport Helicopter:
+The Radio is INA.
+
+Here is Fire Control and Avionics information for the Mi-26T2 Russian Heavy Transport Helicopter:
+The Fire Control System Type is INA.
+The Radar is 1 x Doppler/weather radar in nose.
+The Digital or Analog Cockpit is Digital.
+The Fire Control Radar is INA.
+The Direct Fire Control is No.
+The Laser Designator is INA.
+The Sensor Suite(s) Available is Yes, NPK90-2 Integrated Avionics Equipment System (IAES).
+The Position Location System is Yes.
+The Full Authority Digital Engine Control (FADEC) is Yes.
+The Terrain Mapping is Yes.
+The GPS is Yes, GPS/GLONASS/NAVSTAR position finding.
+The Navigation Type is Inertial Navigation.
+The Velocity Sensor is Doppler Velocity Sensor.
+The Display Screens is five multi-functional liquid-crystal displays.
+The Electronic Flight Instrumentation System (EFIS) is Yes.
+The Searchlight is Transas TSL-1600 searchlight.
+The Night Vision is infrared illuminator for use with night-vision goggles.
+The Note is The sling operator can control the external load visually through a BTU-3 television system that shows a color image on a cockpit display..
+
+Here is Protection information for the Mi-26T2 Russian Heavy Transport Helicopter:
+The Fuselage is INA.
+The Cockpit Glass is INA.
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The NBC Protection is Yes.
+The EW is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

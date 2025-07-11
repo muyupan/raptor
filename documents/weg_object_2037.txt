@@ -1,0 +1,25 @@
+This document describes the TBR-002 Chinese Squad Leader VHF FM Transceiver.
+
+The TBR-002 Chinese Squad Leader VHF FM Transceiver is a further development of TBR001A radio.  The biggest improvement over 001A is the channel frequency could be set on the radio itself, no need of a specific device anymore.  The antenna, battery unit, headset, and charging station are also redesigned.  It was introduced into PLA infantry unit around 2008.  It is designed to communicate between squad leaders and platoon/company commanders.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the TBR-002 Chinese Squad Leader VHF FM Transceiver:
+The Alternative Designation is TBR001A.
+The Type is Squad Leader VHF FM Transceiver.
+The Crew is 1.
+The Frequency is 45.000 MHz to 54.975 MHz, channel spacing is 25 kHz..
+The Preset Channels is There are 10 preset channels..
+The Output Power is The output power is 0.1W on low and 0.8W on high..
+The Headset is Yes.
+The Speaker is There is a speaker and PTT control on the radio so that the radio could be operated without a headset..
+The Communication Distance is 2 km.
+The Battery is 7.2V 2000mAh rechargeable Lithium battery unit..
+The Note is The TBR002 transceiver is the current equipment in service with PLA infantry units.  The latest information shows that PLA starts to shift from traditional VHF transceiver to network based UHF communication device..
+
+Here is Dimensions information for the TBR-002 Chinese Squad Leader VHF FM Transceiver:
+The Length is 134 mm.
+The Width is 55 mm.
+The Height is 30 mm.
+The Weight, Combat is 460 kg.
+

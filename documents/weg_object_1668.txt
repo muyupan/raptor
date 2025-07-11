@@ -1,0 +1,139 @@
+This document describes the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer.
+
+The Type 051C or Luzhou class destroyer is a long-range air-defence guided missile destroyer built by China in its ongoing effort to create a true blue water navy. The ship uses the hull design of the older Type 051B (Luhai class), but is equipped with the advanced Russian S-300FM air defence missiles systems. Currently, two ships of this class have been launched and deployed by People's Liberation Army Navy North Sea Fleet.
+
+The construction of the Luzhou class destroyer at China’s northern Dalian Shipyard was revealed in 2004 with the help of Internet photographs. A disadvantage of the Type 051C is that it lacks the stealthier radar cross-section found on the newer Chinese warships. The ship also possesses less advanced steam turbine propulsion compared to gas turbine propulsion present in all newer Chinese destroyers. The Type 051C is a stop gap measure to provide long range area air defense to the fleet by mating the mature hull design with proven SAM system that is more capable than that of Type 052B destroyer. Production of this class stopped once more advanced Type 052C destroyers became available.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer:
+The Shenyang is Commissioned: 2006
+Fleet: North Sea Fleet
+Status: Active.
+The Shijiazhuang is Commissioned: 2007
+Fleet: North Sea Fleet
+Status: Active.
+
+Here is System information for the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer:
+The Alternative Designation is Type 051C Class; Luzhou Class.
+The Type is Long-Range Air-Defence Guided Missile Destroyer.
+The Builder is Dalian Shipbuilding Industry Company.
+The Crew is 280.
+
+Here is Dimensions information for the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer:
+The Length is 155.0 m.
+The Beam is 17.0 m.
+The Draft is 6.0 m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 7,112 tons.
+
+Here is Propulsion System information for the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer:
+The Engine Name is INA.
+The Engine Type is 2 x indigenous steam turbines.
+The Engine Power is INA.
+The Maximum Range is INA.
+The Maximum Speed is 60 km/h (32 knots).
+
+Here is Gun Weapon System #1 information for the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer of the Gun Weapon Systems:
+The Name is INA.
+The Type is 100-mm/56 cal DP Naval Gun.
+The Caliber is 100mm.
+The Quantity is 1 x 100-mm/56 cal DP Naval Gun.
+The Note is There is no information available that outlines the name of this Gun Weapon System #1..
+
+Here is Gun Weapon Systems #1 Ammunition information for the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 100.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer of the Gun Weapon Systems:
+The Name is Type 730 CIWS.
+The Type is Close-in Weapon System.
+The Caliber is 30mm.
+The Quantity is 2 x Type 730 30mm CIWS.
+The Length is INA.
+The Weight is INA.
+The Barrels is 7-barrel.
+The Rate of FIre is 1,200-4,200 rounds/minute.
+The Maximum Firing Range is 3 km.
+The Effective Firing Range is 1–1.5 km.
+The Feed System is One ammunition boxes, holding 640 rounds.
+The Guidance System is TR47C J-band radar
+OFC-3 electro-optical fire control system.
+
+Here is Gun Weapon System #2 Ammunition information for the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Missile #1 information for the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer of the Missile Weapon System:
+The Name is SA-N-6 Grumble.
+The Type is Naval Long-Range Surface-to-Air Missile.
+The Launcher is 6 x circular VLS (2 fwd, 4 aft) (8 rounds/launcher).
+The Length is 7.20 m.
+The Diameter is 0.51 m.
+The Tailspin is 1.13 m.
+The Missile Weight is 1,665 kg.
+The Warhead Weight is 130 kg.
+The Warhead Type is high-explosive fragmentation w/RF fuze.
+The Engine is 1 x single-stage, solid-fuel rocket.
+The Maximum Speed is Mach 6.
+The Maximum Range is 100 km.
+The Maximum Altitude is 30,480 m.
+The Minimum  Altitude is 305 m.
+The Maximum Load is 100 g.
+The Sensors/Electronics is Top Dome I- or J-band radar system missile guidance is thought to be track-via-missile (i.e., the missile provides radar updates to the launching ship).
+The Basic Load is 48.
+
+Here is Missile #2 information for the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer of the Missile Weapon System:
+The Name is YJ-83.
+The Type is Anti-Ship Cruise Missile.
+The Launcher is 2 x quad YJ-83 (C-803) SSM launchers.
+The Length is INA.
+The Width is INA.
+The Engine is CTJ-2 turbojet.
+The Warhead is 190 kg high-explosive fragmentation.
+The Operational Range is 180 km.
+The Maximum Speed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+The Basic Load is 8.
+
+Here is Torpedoes information for the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer:
+The Name is Yu-7.
+The Type is Lightweight Torpedo.
+The Launcher is 2 x triple 324-mm torpedo tubes.
+The Length is 2.7 m.
+The Diameter is 324 mm.
+The Weight is 235 kg.
+The Warhead is high explosive.
+The Warhead Weight is 45 kg.
+The Effective Firing Range is 14.1 km.
+The Propellant is Otto fuel II.
+The Maximum Depth is 400 m.
+The Maximum Speed is >45 kn.
+The Guidance System is active / passive acoustic homing.
+The Steering System is CIACIO-S seeker.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer:
+The YJ-83 FCS is 1 x Mineral-ME (Band Stand**) fire control (for YJ-83).
+The 10mm Gun FCS is 1 x Type 344 (MR-34 (for 100-mm gun).
+The Rif-M FCS is 1 x Volna (Tomb Stone**) (for Rif-M).
+The Type 730 FCS is 2 x Type 347G(2) (LR-66) (for Type 730).
+The Battle Management System is INA.
+The Computerized FCS is Yes.
+
+Here is Radar Systems information for the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer:
+The Air Search Radar is 1 x Fregat-MAE-5 Top Plate** E-band 3-D air-search.
+The Air/Surface Search Radar is 1 x Type 364 (Seagull-C**) air/surface search.
+The Long Range Air Search is 1 x Type 363 E/F-band long range air search.
+The Navigation Radar is INA.
+
+Here is Protection information for the Type 051C Class (Luzhou Class) Chinese Guided Missile Destroyer:
+The Active Protection System is INA.
+The Decoys is 2 x Type 946 15-round chaff/decoy launchers and 2 x 10-round Launchers.
+The NBC Water Washdown System is Yes.
+The Electronic Warfare is INA.
+

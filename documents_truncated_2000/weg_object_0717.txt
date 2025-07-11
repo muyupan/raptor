@@ -1,0 +1,34 @@
+This document describes the FT-2 Chinese Precision Guided Bomb.
+
+FT-2
+This kit is also for 1,100-lb (500-kg) bombs and features a planar wing kit for extended range.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the FT-2 Chinese Precision Guided Bomb:
+The FT-1 is This kit equips 1,100-lb (500-kg) bombs and is effective only against fixed targets. It consists of an unguided bomb section and a tail-guidance module with four control fins. Four stabilizing strakes are fitted to the body..
+The FT-2 is This kit is also for 1,100-lb (500-kg) bombs and features a planar wing kit for extended range..
+The FT-3 is The FT-3 is for 550-lb (250-kg) bombs and has a unique cruciform strake arrangement on the tail kit..
+The FT-3A is The FT-3A is an improvement upon the FT-3 that includes a TV/imaging infrared seeker. The manufacturer, CASC, claims the accuracy has improved from a circular error probable of 65 ft (20 m) to 10 ft (3 m)..
+The FT-4 is This version is for 550-lb (250-kg) bombs and has a planar wing kit..
+The FT-5 is This kit is for 220-lb (100-kg) bombs, with a strake and tail kit similar to the FT-1. The bomb-casing geometry is reportedly conventional and not intended for deep penetration of concrete. According to some reports, the FT-5 is designed primarily for unmanned aerial vehicles. It is said to be similar to the U.S. Small Diameter Bomb .
+A laser-guided variant has also reportedly been developed for integration with the Chinese CH-3 UAV..
+The FT-6 is This version is for 550-lb (250-kg) bombs and has a slim low drag bomb casing and a planar glide wing kit similar to the FT-3..
+The FT-6A is An improvement upon the FT-6, the FT-6A is able to directly target air-defense and mobile systems through its anti-radiation seeking capability..
+The FT-12 is This is a rocket-boosted, precision-guided glide bomb. It has an 11-22 lb (5-10 kg) rocket motor, according to CASC. A release velocity of 370-620 mph (600-1,000 kmh) gives the 1,540 lb (700 kg) FT-12 a maximum range of 90 mi (150 km).
+The FT-12 can attack static targets with an accuracy of about 66 ft (20 m) circular error probable using a GPS /INS guidance system..
+
+Here is FT-2 Precision Guided Bomb information for the FT-2 Chinese Precision Guided Bomb of the System:
+The Name is FT-2.
+The Type is Precision Guided Bomb.
+The Length is depends on the gravity bomb used.
+The Height is depends on the gravity bomb used.
+The Diameter is depends on the gravity bomb used.
+The Wingspan is depends on the gravity bomb used.
+The Weight is 550 kg.
+The Warhead is various gravity bombs.
+The Detonation Mechanism is Impact / Proximity.
+The Range is 15-90 km.
+The Drop Altitude is 3,000-12,000 m.
+The CEP is 20 m.
+

@@ -1,0 +1,104 @@
+This document describes the ZTZ-99A2 (Type 99A2) Chinese Main Battle Tank (MBT).
+
+The ZTZ-99A2 (Type 99A2) Chinese Main Battle Tank (MBT) further improvements into the Type 99A1 design. It has even greater protection against threats from the front and is thought to have a more powerful engine to provide mobility for the additional weight. The bulk of the Type 99A2’s mission systems are thought to be the same as those used on the Type 99A1 with the addition of a digital battle information system and fire-control enhancements.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the ZTZ-99A2 (Type 99A2) Chinese Main Battle Tank (MBT):
+The Type 98 (ZTZ-98) is At the time it entered service the Type 98 was the most advanced MBT to serve with the PLA and featured significant improvements over the remainder of the Chinese tank force..
+The Type 99 (ZTZ-99) is The basic ZTZ-99 tank entered service with the PLA in 2006 with approximately 200 units produced..
+The Type 99A1 (ZTZ-99A1) is The Type 99A1 was a development of the Type 98, it has become the primary MBT of elite armoured units in China as a result of its increased survivability and mobility over the Type 98..
+The Type 99A2 (ZTZ-99A2) is The Type 99A2 builds further improvements into the Type 99A1 design. It has even greater protection against threats from the front and is thought to have a more powerful engine to provide mobility for the additional weight..
+
+Here is System information for the ZTZ-99A2 (Type 99A2) Chinese Main Battle Tank (MBT):
+The Alternative Designation is ZTZ-99A2; Type 99A2;.
+The Type is Main Battle Tank (MBT).
+The Manufacturer is Norinco.
+The Crew is 3.
+
+Here is Dimensions information for the ZTZ-99A2 (Type 99A2) Chinese Main Battle Tank (MBT):
+The Length is 10.92 m.
+The Width is 3.7 m.
+The Height is 2.805 m.
+The Weight is 54,000 kg.
+The Ground Clearance is 0.47 m.
+The Length of Track on Ground is 5.16 m.
+
+Here is Automotive information for the ZTZ-99A2 (Type 99A2) Chinese Main Battle Tank (MBT):
+The Engine Name is INA, similar to the US AIPS Engine.
+The Engine Type is Turbocharged Diesel.
+The Engine Power is 1,500.
+The Fuel Capacity is 1,000 liters.
+The Amphibious is No.
+The Maximum Speed is 70 km/h (est.).
+The Maximum Range with Fuel Supply is 500 km (est.).
+The Maximum Range with Additional Fuel Tanks is 650 km (est.).
+The Fording without Preparation is 1.4 m.
+The Foriding with Preparation is 5.0 m.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Obstacle is 0.85 m.
+The Trench is 3.0 m.
+The Suspension is Torsion bar with additional hydraulic shock absorbers.
+
+Here is System information for the ZTZ-99A2 (Type 99A2) Chinese Main Battle Tank (MBT) of the Main Weapon System:
+The Name is 1 × turret-mounted 125 mm ZPT-98 Smoothbore Gun.
+The Type is Improved ZPT-98 Smoothbore Gun.
+The Caliber is 125 mm.
+The Barrel is Chrome-lined barrel.
+The Thermal Sleeve is Yes.
+The Fume Extractor is Yes.
+The Breach is The breech is a drop-down type fed by an auto-loader capable of firing eight rounds per minute without adjustments.
+The Muzzle Velocity is 1780 m/s.
+The Maximum Effective Fire is HE: 4000 m; ATGM: 5000 m.
+
+Here is Ammunition information for the ZTZ-99A2 (Type 99A2) Chinese Main Battle Tank (MBT) of the Main Weapon System:
+The Type is APFSDS with a depleted uranium (DU) penetrator and the GP7 gun-launched missiles.
+The Caliber is 125 mm.
+The Armor Penetration is 700 mm.
+The Basic Load is 42 Rounds total (22 in the autoloader).
+
+Here is System information for the ZTZ-99A2 (Type 99A2) Chinese Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is 1 x 7.62mm General-Purpose Machine Gun.
+
+Here is System information for the ZTZ-99A2 (Type 99A2) Chinese Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is 1 x QJC88 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Length is 1.5 m.
+The Barrel Length is 1 m.
+The Weight is 18.5 kg.
+The Action is Gas operated, long stroke gas piston, open bolt.
+The Muzzle Velocity is 850 m/s.
+The Rate of Fire is 540 - 600 rpm.
+The Feed System is Belt fed, 50 rounds.
+The Sights is Type 58 optical sight on mount.
+
+Here is Ammunition information for the ZTZ-99A2 (Type 99A2) Chinese Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7x108mm.
+The Basic Load is INA.
+
+Here is Fire Control System (FCS) information for the ZTZ-99A2 (Type 99A2) Chinese Main Battle Tank (MBT):
+The FIre Control System (FCS) is 1 x 1A45T Fire Control System.
+The Computerized FCS is Yes.
+The Ballistic Computer is Yes, improved version.
+The Main Gun Stabilization is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Night Vision is Yes.
+The IFF is Yes.
+
+Here is Protection information for the ZTZ-99A2 (Type 99A2) Chinese Main Battle Tank (MBT):
+The Hull Armor is The basic passive armor is steel, modular composite, and ceramic plates. The base nature of the hull is the same as the Type 98, and the appliqué armor around the turret and glacis appears to be the same. However, the major difference is the additional ERA around the turret. As with the Type 98, this is thought to be the FY-IV series.
+The Explosive Reactive Armor is Yes, A considerable amount of additional ERA provides the turret and glacis with additional layers of protection against a variety anti-tank threats..
+The Turret Armor is The basic passive armor is steel, modular composite, and ceramic plates..
+The Turret is The turret has an arrow-shaped front much larger than the Type 99A1, the turret sides are flat and square with ERA adding width to the turret..
+The Applique Armor is Yes.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is 12 x 76 mm grenades divided either side of the turret, which can fire smoke or obscurant natures of grenade.
+

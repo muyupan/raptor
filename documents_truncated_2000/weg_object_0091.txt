@@ -1,0 +1,34 @@
+This document describes the LLQ-305A (Type 305A) Chinese Self-Propelled 3D Acquisition Radar.
+
+The LLQ-305A (Type 305A) Chinese Self-Propelled 3D Acquisition Radar is unique and does not resemble any known Chinese radar designs. It is carried on the same Mercedes-Benz NG 80 derived chassis as the Type 120 and Type 305B radars.
+
+The antenna design physically resembles existing Western S-band AESAs such as the Thales Ground Master series, or the very much larger Israeli IAI/Elta EL/M-2080 Green Pine ABM radar series. The depth of the primary antenna and its structural frame is typical for AESA designs in this category, using a stacked modular feed network arrangement; this is well documented in a number of Russian AESA designs.
+
+The rear face of the antenna frame is largely occupied with voluminous equipment housings, of similar depth to the antenna frame itself, and of equal height. These would be consistent with the installation of low voltage AESA power supplies, cooling equipment, receiver, and exciter hardware. China's industry has previously designed and built large AESAs, specifically for the KJ-200 and KJ-2000 AWACS projects, operating either in the L-Band or S-Band, so the basic technology is available to construct a ground-based radar in this category.
+
+Chinese sources have identified the radar as a long-range 3D high altitude acquisition and search design, intended to support missile guidance applications. This type of functionality is consistent with a number of extant dual role acquisition radars, built to support the long-range acquisition of aerial targets at medium to high altitudes, and acquisition of Tactical Ballistic Missile (TBM) category targets.
+
+In recent years claims have emerged of an intended ABM or ATBM role for the HQ-9, but no evidence of a suitable acquisition radar for this purpose was ever provided.  If the Type 305A is what it appears to be, then it would be the kind of radar required for an ATBM acquisition capability.
+
+Until further disclosures are made, a deeper analysis of the Type 305A would be largely speculative.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the LLQ-305A (Type 305A) Chinese Self-Propelled 3D Acquisition Radar:
+The Alternative Designation is Type 305A; LLQ305A.
+The Type is Self-Propelled 3D Acquisition Radar.
+The Crew is INA.
+The Chassis is Mercedes-Benz NG 80.
+The Mssion is Chinese sources have identified the radar as a long range 3D high altitude acquisition and search design, intended to support missile guidance applications..
+The Maximum Range is INA.
+The Minimum Range is INA.
+The Maximum Altitude is INA.
+The Minimum Altitude is INA.
+The Note is Very little info is released about this radar other than it can also act as Fire-control radar..
+
+Here is Dimensions information for the LLQ-305A (Type 305A) Chinese Self-Propelled 3D Acquisition Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

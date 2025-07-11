@@ -1,0 +1,35 @@
+This document describes the PC-8 Ukrainian Unmanned Aerial Vehicle (UAV).
+
+The PC-8 Ukrainian Unmanned Aerial Vehicle (UAV) was designed for security and industrial applications. This multirotor drone can stay in the air for up to 50 min with a 1.5 kg payload. Standard payloads include high-performance EO and IR Full HD gimbals. PC-8 offers maximum reliability and ease of operation with professional GCS and the highest quality standards.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the PC-8 Ukrainian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is PC-8.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Ukrspec.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Ground Control Station is Rugged Ground Control Station (GCS) runs on Windows 10 and gives you full control over the mission. You can control the drone, set the flight route, control the payload, and see all important information from PC-8. GCS has a maximum operational range of 5 km and 4 hours of battery life..
+The Payload Capacity is INA.
+The Flight Route is Programmable.
+The Communications is Telemetry link: Digital encrypted; 
+Digital video link: Encrypted (optionally).
+The Launching System is Automatic.
+The Recovery System is Automatic.
+
+Here is Dimensions information for the PC-8 Ukrainian Unmanned Aerial Vehicle (UAV):
+The Length is 1,350 mm.
+The Wingspan is 1,350 mm.
+The Height is 130 mm.
+The Maximum Takeoff Weight is 6,800 g.
+
+Here is Automotive information for the PC-8 Ukrainian Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Maximum Speed is INA.
+The Service Ceiling is 1,000 m.
+The Maximum Distance is 12 km.
+The Endurance is 55 min.
+

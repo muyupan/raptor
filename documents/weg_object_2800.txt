@@ -1,0 +1,77 @@
+This document describes the Type 653A Chinese Armored Recovery Vehicle.
+
+The Type 653A Chinese Armored Recovery Vehicle has a winch with a maximum capacity of 70 tons, a crane with a lifting capacity of 20 tons, rigid towing equipment for a vehicle weighing 40 tons, and a dual-purpose blade for dozing and anchoring.
+
+This equipment has proliferated into the following countries: Bangladesh, China, Iraq, Kuwait, Pakistan, Sri Lanka, Tanzania, Thailand.
+
+Here is Variants information for the Type 653A Chinese Armored Recovery Vehicle:
+The Type 84 Medium Armored Recovery Vehicle is the Type 84 ARV has a crew of five and a combat weight of 38.5 tonnes. The winch has a minimum capacity of 32 to 35 tonnes and is provided with 130 m of cable that has a diameter of 28.5 mm..
+The Type 653 ARV is The Type 653 Chinese Armored Recovery Vehicle is based on the chassis of the Type 69 MBT and is designed not only to recover this and other vehicles on the battlefield but also to undertake major repairs such as changing complete power packs, clearing obstacles, and preparing fire positions. Standard equipment includes a front-mounted hydraulically operated dozer blade, a hydraulic crane on the right side of the hull, the main winch with a capacity of 70 tonnes, auxiliary winch, tools, towbars, and cables. In addition to being used by the Chinese Army, small quantities of these have been sold to Bangladesh, Iraq, Pakistan, and Thailand as part of the Type 69 MBT sale..
+The Type 653B ARV is This is the latest model of the Type 653 ARV to be marketed. The main difference is the replacement of the original 580 hp diesel with a 730 hp engine, which gives a higher speed of 55 km/h and greater mobility..
+The Type 654 ARRV is China North Industries Corporation (NORINCO) has completed development of a new Armoured Recovery and Repair Vehicle (ARRV) called the Type 654 and this is now being offered on the export market..
+
+Here is System information for the Type 653A Chinese Armored Recovery Vehicle:
+The Alternative Designation is Type 653A.
+The Type is Armored Recovery Vehicle.
+The Manufacturer is China North Industries Corp. (NORINCO), Beijing, China
+Heavy Defense Industries (HDI), Taxila, Pakistan.
+The Crew is 5.
+The Passenger Capacity is NA.
+The Chassis is Type 69 MBT.
+The Dozer Blade is Mounted on the front of the hull and operated by two hydraulic cylinders, is the earthmoving dozer blade that can also act as an anchor for heavy winching operations. The full-width dozer blade has an earthmoving capacity of 100 m3/h on dry soil. The main winch access rollers are located between the twin hydraulic cylinders for the dozer blade and the blade has to be in the lower position for recovery..
+The Winch is The main winch is hydraulic, with a maximum pulling performance of up to 70,000 kg and the effective length of the cable is 160 m..
+The Hydraulic Crane is The hydraulic crane jib with its full 360° turntable is in line with the driver's position. The crane jib is telescopic and is normally stowed to the rear for traveling. It can be extended to a maximum lifting height of 6 m and has a rated lifting torque (static) of 392 to 686 kN.m. The maximum Lifting Capacity is 20 tones..
+
+Here is Dimensions information for the Type 653A Chinese Armored Recovery Vehicle:
+The Length is 7.87 m.
+The Width is 3.30 m.
+The Height, Overall is 3.0 m.
+The Height, Hull is 2.34 m.
+The Weight is 41,,000 kg.
+The Ground Clearance is 0.425 m.
+
+Here is Automotive information for the Type 653A Chinese Armored Recovery Vehicle:
+The Engine Name is Model 12150L-7BW.
+The Engine Type is Liquid-cooled, V12 diesel.
+The Engine Power is 580 hp at 2,000 rpm.
+The Power-to-Weight Ratio is 14.15hp/t laden.
+The Suspension is torsion bar.
+The Range is 370 km.
+The Speed, Maximum Road is 50.
+The Amphibious is No.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.8.
+The Trench is 2.7.
+The Fording Depth is 1.4.
+
+Here is System information for the Type 653A Chinese Armored Recovery Vehicle of the Main Weapon System:
+The Name is 1 x Type 54 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Length is 1.625 mm.
+The Barrel Length is 1.070 mm.
+The Weight is 34 kg.
+The Action is Gas operated, open bolt.
+The Rate of Fire is 600 rpm.
+The Muzzle Velocity is 840 - 860 m/s.
+The Feed System is Belt fed, 50 round belts.
+The Sights is Iron sights, hooded post front and ladder sight rear;
+Optional anti-aircraft spider web sight.
+
+Here is Ammunition information for the Type 653A Chinese Armored Recovery Vehicle of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7x108mm.
+The Basic Load is INA.
+
+Here is Protection information for the Type 653A Chinese Armored Recovery Vehicle:
+The Hull Type is Steel.
+The Armor, Hull Rear is 46.
+The Armor, Hull Top is 33.
+The Armor, Glacis is 97.
+The Mine Clearing is Limited with blade.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, engine exhaust (Not on Thai version).
+

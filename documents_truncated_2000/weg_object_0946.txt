@@ -1,0 +1,66 @@
+This document describes the MiG-25 (Foxbat) Russian Interceptor and Strike-Reconnaissance Aircraft.
+
+The Mikoyan-Gurevich MiG-25 (Russian: Микоян и Гуревич МиГ-25; NATO reporting name: Foxbat) is a supersonic interceptor and reconnaissance aircraft that was among the fastest military aircraft to enter service. It was designed by the Soviet Union's Mikoyan-Gurevich bureau and is one of the few combat aircraft built primarily using stainless steel. It was the last plane designed by Mikhail Gurevich before his retirement.
+
+The first prototype flew in 1964, and the aircraft entered service in 1970. It has an operational top speed of Mach 2.83 (Mach 3.2 is possible but at risk of significant damage to the engines) and features a powerful radar and four air-to-air missiles. When first seen in reconnaissance photography, the large wing suggested an enormous and highly maneuverable fighter, at a time when U.S. design theories were also evolving towards higher maneuverability due to combat performance in the Vietnam War. The appearance of the MiG-25 sparked serious concern in the West and prompted dramatic increases in performance for the McDonnell Douglas F-15 Eagle then under development in the late 1960s. The capabilities of the MiG-25 were better understood in 1976 when Soviet pilot Viktor Belenko defected in a MiG-25 to the United States via Japan. It turned out that the aircraft's weight necessitated its large wings.
+
+Production of the MiG-25 series ended in 1984 after completion of 1,186 aircraft. A symbol of the Cold War, the MiG-25 flew with Soviet allies and former Soviet republics, remaining in limited service in several export customers. It is one of the highest-flying military aircraft, one of the fastest serially produced interceptor aircraft, and the second-fastest serially produced aircraft after the SR-71 reconnaissance aircraft that was built in very small series compared to the MiG-25. As of 2018, the MiG-25 remains the fastest manned serially produced aircraft in operational use and the fastest plane that was offered for supersonic flights and edge-of-space flights to civilian customers.
+
+This equipment has proliferated into the following countries: Algeria, Azerbaijan, Libya, Russian Federation, Syria, Ukraine.
+
+Here is Variants information for the MiG-25 (Foxbat) Russian Interceptor and Strike-Reconnaissance Aircraft:
+The Multiple Variants (over 25 suspected variations) - Primary Interceptor and Reconnaissance variants described below: is .
+The MiG-25P "Foxbat-A" Interceptor is Single-seat all-weather interceptor fighter aircraft, powered by two Tumansky R-15B-300 turbojet engines, fitted with RP-25 Smerch-A1 radar and armed with four R-40 air-to-air missiles..
+The MiG-25RB "Foxbat-B" Strike-Reconnaissance Aircraft is Single-seat high-altitude daylight reconnaissance aircraft, fitted with improved reconnaissance suite and a Peleng automatic bombing system. The aircraft can carry a bombload of eight 500 kg (1,100 lb) bombs..
+
+Here is System information for the MiG-25 (Foxbat) Russian Interceptor and Strike-Reconnaissance Aircraft:
+The Alternative Designation is MiG-25, NATO Designation: "Foxbat".
+The Crew is 1.0.
+The Weight, Empty   is 20,000.0 kg.
+The Weight, Normal Takeoff  is 35,060.0 kg.
+The Weight, Maximum Gross  is 36,720 kg.
+The Service Ceiling is 20,700 m.
+The Power Plant/Engine is 2 x Soyuz/ Tumansky R-15BD-300 turbojet (24,692 lbs. thrust with afterburner).
+The Speed, Cruising is 2,500 km/h.
+The Speed, Landing is 360 km/h.
+The Speed, Maximum (at altitude) is 3,000 km/h.
+The Speed, Maximum (low or sea level) is 1,200 km/h.
+
+Here is Dimensions information for the MiG-25 (Foxbat) Russian Interceptor and Strike-Reconnaissance Aircraft:
+The Length is 23.82 m (78 ft 2 in).
+The Wingspan is 14.01 m (46 ft 0 in).
+The Height is 6.1 m (20 ft 0 in).
+The Wing Area is 61.4 sq m (661 sq ft).
+
+Here is Hardpoint/Weapon Station 1 information for the MiG-25 (Foxbat) Russian Interceptor and Strike-Reconnaissance Aircraft of the Armament:
+The Location is wing.
+The Quantity  is 4.0.
+
+Here is Hardpoint/Weapon Station 2 information for the MiG-25 (Foxbat) Russian Interceptor and Strike-Reconnaissance Aircraft of the Armament:
+The Location is fuselage.
+The Quantity  is 6.0.
+
+Here is Mixed Ordnance 1 information for the MiG-25 (Foxbat) Russian Interceptor and Strike-Reconnaissance Aircraft of the Armament:
+The Combat Load  is 4.0.
+The Name is AA-6 ACRID.
+The Type is AAM.
+
+Here is Mixed Ordnance 2 information for the MiG-25 (Foxbat) Russian Interceptor and Strike-Reconnaissance Aircraft of the Armament:
+The Combat Load  is 4.0.
+The Name is AA-7.
+The Type is AAM.
+
+Here is Mixed Ordnance 3 information for the MiG-25 (Foxbat) Russian Interceptor and Strike-Reconnaissance Aircraft of the Armament:
+The Combat Load  is 2 and 4.
+The Name is AA-6 ACRID w/ AA-8 APHID/AA- 11 ARCHER.
+The Type is AAM.
+
+Here is Mixed Ordnance 4 information for the MiG-25 (Foxbat) Russian Interceptor and Strike-Reconnaissance Aircraft of the Armament:
+The Combat Load  is 2 and 4.
+The Name is AA-7 APEX w/ AA-8 APHID/AA-11 ARCHER.
+The Type is AAM.
+
+Here is Avionics / Sensors / Optics information for the MiG-25 (Foxbat) Russian Interceptor and Strike-Reconnaissance Aircraft:
+The Radar is RP-25 (Smerch A-4) radar based on vacuum tube electronics, for early MiG-25P. RP-25MN (Saphir-25) radar based on semiconductor electronics, for later variants..
+The Radar Altimeter is Yes, RV-4 Radar Altimeter.
+

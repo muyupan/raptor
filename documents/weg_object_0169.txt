@@ -1,0 +1,95 @@
+This document describes the R-149AKSh-1 Russian 6x6 Command and Signal Vehicle.
+
+The R-149AKSH is a Command and Signal Vehicle adopted from a KamAZ-530 General Utility Truck. 
+
+The Truck is divided into an electronics compartment with 3 crew workstations and a work area for the driver/electrician, and an officer compartment with 5 crew workstations.
+
+
+Chassis:
+The KamAZ-5350 general utility truck is a member of Mustang family. This family of military trucks includes the KamAZ-4350 (4x4) and KamAZ-6350 (8x8) with numerous variants. This general utility truck is a further development of the KamAZ-4310, which was launched in the early 1980s. It was officially accepted to service with the Russian Army in 2002 and a small-scale production commenced in 2003.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Dimensions information for the R-149AKSh-1 Russian 6x6 Command and Signal Vehicle:
+The Length is 7.85.
+The Width is 2.5.
+The Height is 3.29.
+The Weight, Combat is INA,.
+The Maximum Load is 6.
+
+Here is Automotive information for the R-149AKSh-1 Russian 6x6 Command and Signal Vehicle:
+The Engine Name is KamAZ-740.13-260 Diesel.
+The Engine Type is Diesel.
+The Engine Power is 260.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 100.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 0.6.
+The Fording Depth is 1.75.
+The Maximum Load is 6.
+The Note #1 is Engine is also equipped with cold weather starting device and can be started at temperatures down to -50°C.
+The Note #2 is Vehicle has a full-time all-wheel drive and is fitted with a central tyre inflation system.
+
+Here is Radio #1 information for the R-149AKSh-1 Russian 6x6 Command and Signal Vehicle of the Communications:
+The Name is R-168-100U-2.
+The Quantity is 2.
+The Type is VHF.
+The Frequency is 30-108.
+The Capabilities is FH, duplex, voice/data, FH VOice Data Retrans.
+The Maximum Range is 25-60.
+The Mount Type is Vehicle.
+The In Service is Yes.
+
+Here is Radio #2 information for the R-149AKSh-1 Russian 6x6 Command and Signal Vehicle of the Communications:
+The Name is R-168-5KV.
+The Quantity is 2.
+The Type is HF.
+The Frequency is 1.5-30.
+The Capabilities is Voice Telegraph.
+The Maximum Range is 15-300.
+The Mount Type is Vehicle.
+The In Service is Yes.
+
+Here is Radio #3 information for the R-149AKSh-1 Russian 6x6 Command and Signal Vehicle of the Communications:
+The Name is R-168-5UN-2.
+The Quantity is 1.
+The Type is VHF.
+The Frequency is 30-108.
+The Capabilities is FH Voice.
+The Maximum Range is 10-20.
+The Mount Type is Man-Portable.
+The In Service is Yes.
+
+Here is Radio #4 information for the R-149AKSh-1 Russian 6x6 Command and Signal Vehicle of the Communications:
+The Name is R-168-MRA.
+The Quantity is 1.
+The Type is UHF.
+The Frequency is 1.5-1.75.
+The Capabilities is Voice Data.
+The Maximum Range is 6-20.
+The Mount Type is Vehicle.
+The In Service is Yes.
+
+Here is Radio #5 information for the R-149AKSh-1 Russian 6x6 Command and Signal Vehicle of the Communications:
+The Name is R-612-18 100-172/220-400.
+The Quantity is 1.
+The Type is VHF/UHF.
+The Frequency is INA.
+The Capabilities is Aviation band, Voice Data.
+The Maximum Range is 15-35.
+The Mount Type is INA.
+The In Service is Yes.
+
+Here is Protection information for the R-149AKSh-1 Russian 6x6 Command and Signal Vehicle:
+The Armor is INA, It is also proposed with concealed built-in internal armor.
+The Applique Armor is Available.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

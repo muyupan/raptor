@@ -1,0 +1,94 @@
+This document describes the M1128 (Stryker MGS) American Mobile Gun System.
+
+The M1128 Mobile Gun System is an eight-wheeled armored vehicle of the Stryker armored fighting vehicle family and features a 105 mm tank gun. It is in service with the United States and was also being considered for adoption by several other countries. The M1128 is based on the hull of an M1126, however it carries a large-caliber gun. It is designed to support dismounted infantry and engage the enemy in close combat. The firepower is close to that of an older MBT, but the mobility on roads is much greater. This enables the vehicle to keep pace with a Stryker Brigade Combat Team (BCT) and clear opposition quickly to permit rapid movement.
+
+This equipment has proliferated into the following countries: CFE Treaty, United States of America.
+
+Here is Variants information for the M1128 (Stryker MGS) American Mobile Gun System:
+The M1126 ICV is Armored personnel carrier version that provides protected transport for 2 crew and a 9 man infantry squad..
+The M1127 (RV) is Reconnaissance Vehicle. used by RSTA (Reconnaissance, Surveillance, and Target Acquisition) Squadrons and battalion scouts, moving throughout the battlefield to gather and transmit real-time intelligence/surveillance for situational awareness.
+The M1128 (MGS) is Mobile Gun System. Version armed with a 105 mm M68A1 rifled cannon (M68A1E4).
+The M1129 (MC) is Mortar Carrier. armed with Soltam 120 mm Mortar supports infantry with screening obscurants, suppressive forces and on-call supporting fires (HE, illumination, IR illumination, smoke, precision-guided, and DPICM cluster bombs)..
+The M1130 (CV) is Command Vehicle, provides commanders with communication, data, and control functions to analyze and prepare information for combat missions; can also link to aircraft antenna/power for planning missions..
+The M1131 (FSV) is Fire Support Vehicle is organic to maneuver companies and provides surveillance and communications (4 secure combat radio nets), with target acquisition identification tracking, the designation being transmitted automatically to the shooting units..
+The M1132 (ESV) is Engineer Squad Vehicle (ESV) provides mobility and limited counter mobility support. Integrated into the ESV are obstacle neutralization and lane marking systems and mine detection devices..
+The M1133 (MEV) is Medical Evacuation Vehicle (MEV) is the Battalion Aid Station for brigade units, providing treatment for serious injury and advanced trauma..
+The M1134 (ATGM) is Anti-Tank Guided Missile Vehicle is armed with the TOW missile to reinforce the brigade's infantry and reconnaissance, providing long-range antitank fires against armor beyond tank gun effective range..
+The M1135 (NBC RV) is Nuclear, Biological, Chemical Reconnaissance Vehicle automatically integrates contamination information from detectors with input from navigation and meteorological systems and transmits digital NBC warning messages to warn follow-on forces..
+
+Here is System information for the M1128 (Stryker MGS) American Mobile Gun System:
+The Alternative Designation is M1128 Stryker MGS.
+The Type is 8x8 Wheeled Armored Cannon Vehicle.
+The Manufacturer is General Dynamic Land Systems, USA and Canada.
+The Family is Stryker.
+The Configuration is The Stryker is based on the LAV III light armored vehicle, which in turn was based on the LAV-25 series.The vehicle comes in several variants with a common engine, transmission, hydraulics, wheels, tires, differentials and transfer case..
+The Crew is 3 Personnel.
+
+Here is Dimensions information for the M1128 (Stryker MGS) American Mobile Gun System:
+The Length is 6.95.
+The Width is 2.72.
+The Height is 2.64.
+The Weight, Combat is 19,000.
+The Ground Pressure is 2.4 kg / square centimeter.
+
+Here is Automotive information for the M1128 (Stryker MGS) American Mobile Gun System:
+The Engine Name is Caterpillar C7.
+The Engine Type is 7.2-liter Turbo Diesel.
+The Engine Power is 350.
+The Cruising Range is 500.
+The Speed, Maximum Road is 100.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is 1.3.
+
+Here is Main Gun Ammunition information for the M1128 (Stryker MGS) American Mobile Gun System of the Main Weapon:
+The M900 (KE) is Kinetic energy penetrator to destroy armored vehicles.
+The M456A2 (HE) is High explosive anti-tank round to destroy thin-skinned vehicles and provide anti-personnel fragmentation..
+The M393A3 (HE-P) is hHgh explosive plastic round to destroy bunkers, machine gun and sniper positions, and create openings in walls for infantry to access..
+The M1040 Cannister is Cannister shot to increase proximity and coverage when engaging dismounted troops..
+
+Here is Coaxial Weapon information for the M1128 (Stryker MGS) American Mobile Gun System of the Main Weapon:
+The Name is M240.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,260 mm.
+The Barrel Length is 630 mm.
+The Action is Open-Bolt Fired, Gas-Operated, Long-Stroke Piston.
+The Rate of Fire is 650-750 rds/min.
+The Maximum Effective Range is 1,100 m.
+The Feed System is Belt-Fed.
+
+Here is Heavy Machine Gun information for the M1128 (Stryker MGS) American Mobile Gun System of the Secondary Weapon System:
+The Name is M2 Browning .50 Caliber Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Quantity is 1.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Action is Short, Recoil-Operated.
+The Rate of Fire is 450 - 600 rds/min.
+The Maximum Effective Firing Range is 1,800 m.
+The Feed System is Belt-Fed.
+
+Here is Fire Control information for the M1128 (Stryker MGS) American Mobile Gun System:
+The Name is General Dynamics FCS.
+The Type is Full Solution Fire Control System.
+The Sights / Aiming System is Detached Line of Sight (DLOS) enables the gunner to keep sights on target independent of ballistic solution for the weapon option in use..
+The Turret Stabilization is Fully stabilized and provides steady observation and engagement capability..
+The Thermals is Yes.
+The Camera is Color Daylight System.
+The Laser Range Finder is Yes.
+
+Here is Protection information for the M1128 (Stryker MGS) American Mobile Gun System:
+The Turret is Low-profile turret meant to provide survivability against specified threat munitions..
+The Hull Armor is Constructed from high-hardness steel which offers a basic level of protection against 14.5mm rounds on the frontal arc, and all-around protection against 7.62mm ball ammunition..
+The Applique Armor is Equipped with bolt-on ceramic armor which offers all-around protection against 14.5mm, armor-piercing ammunition, and artillery fragments from 152mm rounds..
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The NBC Protection is INA.
+The Smoke Equipment is Yes.
+
+Here is Command & Control information for the M1128 (Stryker MGS) American Mobile Gun System:
+The Battle Management System is FBCB2 (Force XXI battle command brigade and below).
+The Digital is Yes, Utilizes digital communications system that allows comms between vehicles and higher headquarters through text messaging and a map network..
+

@@ -1,0 +1,48 @@
+This document describes the R-330Zh Zhitel Russian Cellular Jamming and Direction Finding System.
+
+The R-330Zh also named Zhitel is a jamming communication station designed and manufactured by the Russian Company Protek.  The system is in service with the Russian army.  The whole system includes one Ural-43203/KAMAZ-43114 truck and one shelter with four telescopic masts.  The truck is the control center for the operators.  The shelter is equipped with four telescopic active phased array transmitter antennas mounted on a four-wheel trailer. The R-330Zh is designed for detection, analysis, direction-finding, and jamming of satellite and cellular phone communication systems operating in the frequency band from 100 MHz to 2,000 MHz.  The jamming system provides analysis and selection of emitters’ signal parameters.  The R-330Zh jamming station was used by the Russian army during the Crimean crisis in March 2014.
+The system is designed to accomplish the following tasks: detection, direction finding, and jamming of wearable mobile stations of mobile satellite communications such as Inmarsat and Iridium; detection, direction finding, and jamming base stations of cellular communication, standard GSM 1900, consumer navigation equipment; and jamming of satellite communications systems NAVSTAR (GPS).  The R-330Zh can operate in stand-alone mode as well as in pairs, both master and slave under the control of the primary R-330Zh.
+Because the system in the trailer is fragile, it will likely be found close to a road; it is unlikely that the system will be taken cross-country.
+The Zhitel system is part of the inventory of the EW brigades’ REB-S battalions, and, in addition to the tasks listed above, can be used for jamming an aircraft’s communication and satellite navigation (GPS, Galelo, BeiDou, etc.). The Zhitel system attracted an extraordinary amount of attention in 2015 when it was reported by the Organization for Security and Co-operation in Europe to have been used in eastern Ukraine, supposedly to impede the use of drones by suppressing GPS signals (OSCE 2015).
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the R-330Zh Zhitel Russian Cellular Jamming and Direction Finding System:
+The Alternative Designation is R-330Zh Zhitel.
+The Type is Cellular Jamming and Direction Finding System.
+The Manufacturer is INA.
+The Crew is 3.
+The Troop Compartment Capacity is NA.
+The Maximum Effective Range is 25.
+The Time Required to Deploy the System is Less than 40 min.
+The Power Source is Diesel electricity generators.
+The Navigation equipment is KS-100M.
+
+Here is Automotive information for the R-330Zh Zhitel Russian Cellular Jamming and Direction Finding System:
+The Prime Mover is Ural-43203 (May also be on the KAMAZ-43114, 6 x 6).
+The Engine Name is YaMZ-236M2 / YaMZ-238M2.
+The Engine Type is V-6 Diesel / V-8 Diesel.
+The Engine Power is 180 / 240.
+The Range is INA.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is Due to fragile state of trailer, crew avoids cross country travel.
+The Speed Maximum Swim is NA.
+The Fording Depth is INA.
+The Maximum Payload is 4,500.
+
+Here is Basic EW Specifications information for the R-330Zh Zhitel Russian Cellular Jamming and Direction Finding System:
+The Operation frequency range is From 100 to 2000 MHz.
+The Azimuth search coverage is -90 to 120°.
+The Elevation search coverage is -15 to +20°.
+The Jamming is From 1227.6 MHz; 1575.42 MHz and 1500 to 1900 MHz.
+The Main power supply is 220/380V 50 Hz.
+The Emergency power supply is With two batteries 6CT-190.
+The Radar type is Phase array (4 each).
+
+Here is Protection information for the R-330Zh Zhitel Russian Cellular Jamming and Direction Finding System:
+The Armor is N/A.
+The Applique Armor is N/A.
+The Active Protection System is N/A.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

@@ -1,0 +1,107 @@
+This document describes the Type 849 Class (Romeo Class) Egyptian Diesel-Electric Submarine.
+
+he ROMEO class is a Russian-designed, medium-range, torpedo attack submarine. The four surviving from the Egyptian ROMEO class were all Chinese-built. The first pair was delivered on March 28, 1983, and the second pair on Jan. 3, 1984. When cruising on the surface, these submarines are easily identified by the periscope housing that tops the sail and resembles a surface ship's funnel. The sonar is housed in a small "bump" on the bow. All were officially commissioned on May 21, 1984.
+
+This equipment has proliferated into the following countries: Egypt.
+
+Here is Variants information for the Type 849 Class (Romeo Class) Egyptian Diesel-Electric Submarine:
+The Chinese Type 033 Romeo-class and its variants is Under the 1950 Sino-Soviet Friendship and Mutual Assistance Treaty, the Soviets passed to China (and later to North Korea) the documentation necessary to produce Romeo submarines in 1963. The Chinese variant is known as the Type 033 Romeo. A total of 84 Type 033 submarines were built in China from 1962 to 1984, plus several exported to other countries.
+
+The Chinese Type 033 incorporated some improvements over the original Romeo, including noise reduction of 20 dB. Sonar on board was also continuously upgraded: the original Soviet sonar was first replaced by domestic Chinese Type 105 sonar, which consequently was replaced by H/SQ2-262A sonar built by No. 613 Factory. Today most of the Type 033 subs have been retired or preserved, with a few remaining in service for training purposes. A total of six Chinese Romeo class submarine variants were developed:
+
+Type 6633: Original Chinese built Romeo, China was to have assembled these Romeos from knock-down kits provided by the Soviet Union, 6 were planned, but only 2 were completed. The construction program came to a complete stop when the USSR stopped delivery of parts following the Sino-Soviet split. Construction of the 3rd unit at Wuhan was stopped, and available parts were diverted to complete the first pair, but many parts had to be developed indigenously. The primary improvement of Type 6633 over the original Soviet boats is the use of domestic Chinese batteries, which had slightly superior performance to that of the original Soviet batteries.
+
+Type 033: Complete domestic production in China was achieved in 1967, and subsequently the project was renamed the Type 033. However, experience from deployment of completed boats in warmer climates proved that the original Soviet refrigeration and air conditioning system designed for subarctic and arctic area was woefully inadequate for subtropical and tropical regions, so redesigns were needed to improve refrigeration and air conditioning systems, and all boats to be stationed in tropical and subtropical regions went through such a refit. In September 1969 construction of new Type 033s, with improved air conditioning and refrigeration capability, began at Huangpu Shipyard in Guangzhou, eventually, 13 units were completed.
+
+ES5A: Upgraded Type 033, with improvements mainly involving the replacement of equipment of Soviet origin with domestic Chinese systems, which includes: QZHA―10 (Type 779) attack periscope and QDYA―10 (Type 778) general purpose periscope. Addition of H/SQG-2 ranging sonar, Type 063 communication systems, and countermeasure systems. Domestic Chinese Type 801 sonar replaced the original Soviet MARS-24 sonar. The only difference between the Type 801 sonar and the MARS-24 sonar is that there are 24 transducer elements for the Type 801 as opposed to 12 in the original MARS 24, so the Chinese sonar had better accuracy. Domestic Chinese H/SQZ-D reconnaissance sonar (with Type 105 transducers) replaced the original Soviet system, the performance of the SQZ-D is almost identical to the original Soviet sonar it was developed from, except for the sector of scan, which is increased by 15 degrees. Additional noise reduction measures were also adopted. This is the type China originally sold to Egypt in the 1980s.
+
+Type 033G: Development of the ES5A, with the incorporation of the capability to launch acoustic homing torpedoes; analog computers installed to achieve automation of, and speeding up of, torpedo fire control calculations that were previously manually calculated. All Chinese Romeos were converted to this standard. The NATO reporting name for this type is rumored to be the Wuhan-class.
+Type 033G1: A single Type 033G was modified to carry 6 YJ-1 (CSS-N-4) anti-ship missiles, this variant is called Type 033G1, with the rumored NATO reporting name of Wuhan A. The missile had to be fired while the boat was surfaced, with a total exposure time on the surface of less than 7 minutes. The most significant improvement, however, is the reduction of noise level by 12 dB.
+ES5B: Development of the Type 033G, primarily intended for export. This is an upgrade package for Romeo submarine users. The primary improvement of this class is the ability to launch wire guided torpedoes and anti-ship missiles (AShM) while submerged. The program originally begun in the mid-1980s, and Egypt is reported to be the only customer when China won a contract to upgrade its Romeo-class submarine fleet, including both Soviet built and Chinese built units. This is the last type of Chinese Romeo class submarine; with noise reduction of 20 dB to 140 dB in comparison to the 160 dB of the original Soviet Project 633 submarines acquired by China..
+
+Here is System information for the Type 849 Class (Romeo Class) Egyptian Diesel-Electric Submarine:
+The Alternative Designation is Type 849 Class; NATO: Romeo Class.
+The Type is Diesel-Electric Submarine.
+The Builder is Krasnoye Sormovo Shipyard, Gorky
+Wuchang Shipyard (Wuhan)
+Guangzhou Shipyard (Canton)
+Jiangnan Shipyard (Shanghai)
+Bohai Shipyard (Huludao)
+Mayang-do Naval Shipyard (North Korea) - Assembly site of North Korean kits from China..
+The Crew is 54 total (8 off. + 42 enl.).
+
+Here is Dimensions information for the Type 849 Class (Romeo Class) Egyptian Diesel-Electric Submarine:
+The Length is 76.0 m.
+The Beam is 6.7 m.
+The Draft is 4.9 m.
+The Displacement, Surface is 1,470 tons surface.
+The Displacement, Submerged is 1,830 tons submerged.
+
+Here is Propulsion System information for the Type 849 Class (Romeo Class) Egyptian Diesel-Electric Submarine:
+The Engine Name is Type 37D.
+The Engine Type is Diesel-Electric drive: 2 x Type 37D diesels.
+The Engine Power is 2,700 total bhp; 2 shafts.
+The Auxiliary Power is 2 Electric 100 shp creep motors.
+The Speed, Surface is 15.2 knots surface.
+The Speed, Submerged is 13 knots submerged.
+The Range, Surface is 14,000 nm at 9 kts(surface).
+The Range, Submerged is 350 nm at 9 kts(submerged.
+The Normal Operation Depth is 270.0 m.
+The Maximum Operation Depth is 300.0 m.
+
+Here is Torpedo Launcher information for the Type 849 Class (Romeo Class) Egyptian Diesel-Electric Submarine of the Torpedo Weapon Systems:
+The Number of Tubes is 8 533-mm tubes (6 bow and 2 stern).
+
+Here is Torpedo #1 information for the Type 849 Class (Romeo Class) Egyptian Diesel-Electric Submarine of the Torpedo Weapon Systems:
+The Name is Mark 37.
+The Type is Acoustic Torpedo.
+The Length is 3.4 m.
+The Diameter is 480 mm.
+The Weight is 650 kg.
+The Effective Firing Range is 21 km at 17 knots.
+The Warhead is Mk 37 Mod 0, HBX-3.
+The Warhead Weight is 149.7 kg.
+The Detonation Mechanism is Mk 19 contact exploder.
+The Engine is Electric.
+The Maximum Speed is 48 km/h.
+The Guidance System is Gyroscope (initial), passive sonar (cruise) and Doppler active sonar homing (terminal).
+
+Here is System information for the Type 849 Class (Romeo Class) Egyptian Diesel-Electric Submarine of the Missile Weapon System:
+The Name is Harpoon.
+The Type is Anti-Ship Missile.
+The Length is Air-launched: 12.6 ft (3.8 m); Surface- and submarine-launched: 15 ft (4.6 m).
+The Diameter is 34 cm.
+The Wingspan is 0.91 m.
+The Weight is 691 kg.
+The Warhead is 221 kg.
+The Detonation Mechanism is Impact fuze.
+The Engine is Teledyne CAE J402 Turbojet/solid propellant booster for surface and submarine launch; greater than 600 pounds (greater than 272.2 kg) of thrust.
+The Operational Range is 280 km.
+The Flight Altitude is Sea-skimming.
+The Maximum Speed is 864 km/h.
+The Guidance System is Sea-skimming cruise monitored by radar altimeter / active radar terminal homing.
+The Basic Load is 14.
+
+Here is Mines information for the Type 849 Class (Romeo Class) Egyptian Diesel-Electric Submarine:
+The Note is Can carry 28 mines in lieu of torpedoes.
+
+Here is Fire Control System information for the Type 849 Class (Romeo Class) Egyptian Diesel-Electric Submarine:
+The FCS Name is 1 x Singer Librascope, Mark 2 and datalink.
+The Computerized FCS is Yes.
+
+Here is Radar Systems information for the Type 849 Class (Romeo Class) Egyptian Diesel-Electric Submarine:
+The Name is 1 x Snoop Plate.
+The Type is Surface search/navigation.
+The Frequency is INA.
+The Range is INA.
+
+Here is Sonar Systems information for the Type 849 Class (Romeo Class) Egyptian Diesel-Electric Submarine:
+The Name is 1 x STN Atlas Elektronik CSU-83 active/passive suite, with PSU-2-83 passive array and STU-3 sonar training set.
+The Type is Active Sonar.
+
+Here is Protection information for the Type 849 Class (Romeo Class) Egyptian Diesel-Electric Submarine:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+The Electronic Warfare is 1 x Argo Phoenix AR-700-S5 radar warning.
+

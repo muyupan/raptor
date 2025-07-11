@@ -1,0 +1,101 @@
+This document describes the HQ-16 (HQ-16A) Chinese 6x6 Medium-Range Surface-to-Air Missile System.
+
+The HQ-16 is a Chinese-made, medium range, surface-to-air missile system which was introduced in the Chinese armed forces in September 2011. The HQ-16 is produced by China Aerospace Science and Technology Corp (CASC). Using advanced technologies of intermittent illumination, semi-active radar homing guidance, phased array radar, vertical cold launch, and radio communication network, the HQ-16 can be operated in a strong elector-magnetic interference environment and in all weather conditions. 
+
+The HQ-16 is a land based version of the HHQ-16 system used in ships and fired from VLS (Vertical Launch System) containers. The HQ-16 is based on a joint development of the Russian Buk-M1 (SA-11 'Gadfly') and Buk-2M (SA-17 'Grizzly') Surface-to-Air Missile (SAM) systems for use from mobile ground vehicles and later from ships. The HQ-16 is able to engage aerial targets at high altitude.  The mid-range HQ-16 is also able to intercept very low-flying targets at a distance of up to about 40 kilometers, filling the gap between the HQ-7 short-range SAM and the HQ-9 long-range SAM systems. The HQ-16 missile can hit targets at an altitude from 400 to 10,000 meters. According to the SIPRI (Stockholm International Peace Research Institute) arms transfers’ database, three units of the LY-80 (HQ-16 alternated designation) were ordered by Pakistan in 2014 and delivered in 2015/2016. The Pakistan Army formally inducted the LY-80 (HQ-16) medium-range surface-to-air missile (SAM) system on March 12, 2017. In January 2018, the Pakistani army performed the first live firing with the LY-80 during the Al Bayza-2019 military exercise. The HQ-16 is mainly used to protect stationary assets such as airfields, bridges, command posts, concentrations of troops, and other high value assets.
+
+The battalion of the HQ-16 consists of twelve launcher vehicles (four in each battery), a command and control vehicle, three tracking and guidance radar vehicles (one in each battery), a target searching radar vehicle, and several missile transport and reloading vehicles, and power supply vehicles, most using the same 6 x 6 chassis.
+
+This equipment has proliferated into the following countries: China, Pakistan.
+
+Here is Variants information for the HQ-16 (HQ-16A) Chinese 6x6 Medium-Range Surface-to-Air Missile System:
+The HQ-16A is An improved version that uses an improved missile with slightly better performance..
+The HQ-16B is A 70-km range version of the HQ-16 has been developed by the China Academy of Defense Technology (CASIC), according to IHS Jane's Defence Weekly(Sept. 7, 2016). Development of this variant reportedly began in 2005. The HQ-16B title is a Western designation..
+The LY-80 is An export version of the HQ-16A..
+The HHQ-16 (Red Sea 16) is This is the naval variant installed on China’s Type 054A JIANGKAI II-class frigates. The missile can reportedly intercept sea-skimming missiles flying less than 30 ft (10 m) above the surface of the ocean.  Aboard the JIANGKAI II-class frigates, a single, 32-cell vertical launch system carries the missiles. Guidance is provided by four MR090 Front Dome C/X-band fire-control radars..
+
+Here is System information for the HQ-16 (HQ-16A) Chinese 6x6 Medium-Range Surface-to-Air Missile System:
+The Alternative Designation is HQ-16; HQ16A.
+The Type is Medium-Range Surface-to-Air Missile System.
+The Function is In Chinese armed forces the HQ-16 fits the gap between the short-range HQ-7 and medium- to long rande HQ-9. This air defense system is mainly used to protect stationary assets such as airfields, command posts, concentration of troops, bridges, and other important targets..
+The Manufacturer is China Precision Machinery Import-Export Corporation (CPMIEC).
+The Chassis is High mobility wheeled truck based upon the Taian TA5350.
+The Target is Aircraft, cruise missiles, UAVs, and short and medium range ballistic missiles.
+The Configuration is 6 x 6.
+The Crew is INA.
+The  is .
+
+Here is Dimensions (Chassis: TA5350) information for the HQ-16 (HQ-16A) Chinese 6x6 Medium-Range Surface-to-Air Missile System:
+The Length is 12 m.
+The Width is 3 m.
+The Height is 3 m.
+The Weight is INA.
+
+Here is Automotive (Chassis: TA5350) information for the HQ-16 (HQ-16A) Chinese 6x6 Medium-Range Surface-to-Air Missile System:
+The Engine Name is Deutz BF6M1015.
+The Engine Type is Turbocharged Diesel.
+The Engine Power is 250.
+The Fording Depth is 1.
+The Range, Cruising is 1,000.
+The Maximum Road Speed is 85.
+The Gradient is 60.
+The Side slope is 30.
+The Vertical step is 0.5.
+The Trench is 0.6.
+The Other Capabilities is Central tire inflation system.
+The Crew Capacity is 1 driver, 5 passengers.
+
+Here is Launcher information for the HQ-16 (HQ-16A) Chinese 6x6 Medium-Range Surface-to-Air Missile System of the Main Weapon System:
+The Name is INA.
+The Type is Transporter-Erector-Launcher on a 6 x 6 chassis with cold-launch vertical launch tubes..
+The Missile Storage is Missiles are store in containers and are launched vertically..
+The Firing Position is In the firing position, the wheels are raised off the ground and the vehicle is supported at four points by hydraulic jacks: two at the rear and one on each side..
+The Note is The HQ-16 launcher is based on Taian TA5350 6x6 special wheeled chassis. The TEL carries 6 containers with missiles. Missiles are launcher vertically. Two missiles can be launched within a short period of time..
+
+Here is Missile information for the HQ-16 (HQ-16A) Chinese 6x6 Medium-Range Surface-to-Air Missile System of the Main Weapon System:
+The Name is INA. It is reported that the missile is very similar to the 9M38 Missile..
+The Type is Surface-to-air missile.
+The Length is 5.
+The Diameter is 0.34.
+The Weight is 330.
+The Warhead Type is HE-Frag.
+The Warhead Weight is 70.
+The Maximum Altitude is 10.
+The Minimum Altitude is 100.
+The Fire on Move is No.
+The Elevation is Vertical Launch.
+The Probability of Kill is 85% vs aircraft and 60% vs cruise missiles.
+The Guidance System is inertial navigation, radio mid-course updates, semi-active terminal homing.
+The Missile Speed is Mach 4.
+The Range of Proximity Fuse is 35.
+The Maximum Range vs. Aircraft is 40.
+The Cruise Missile Range is 3.5 to 18.
+
+Here is Search Radar Guidance Vehicle information for the HQ-16 (HQ-16A) Chinese 6x6 Medium-Range Surface-to-Air Missile System of the Fire Control System:
+The Name is INA.
+The Type is Search Radar Guidance Vehicle.
+The Maximum Range is 150.
+The Maximum Altitude is 20.
+The Band is solid-state S-band three-dimensional mast-mounted passive phased-array radar..
+The IFF is Yes.
+The Note is When a target is identified, the vehicle automatically performs identification-friend-or-foe (IFF), threat analysis and flight-path processing tasks. It then provides target eng agement data to the tracking-and-guidance radar..
+
+Here is Tracking-and-Guidance Radar Vehicle information for the HQ-16 (HQ-16A) Chinese 6x6 Medium-Range Surface-to-Air Missile System of the Fire Control System:
+The Name is INA.
+The Type is Tracking-and-Guidance Radar Vehicle.
+The Function is The tracking-and-guidance radar provides target acquisition, tracking and identification of target types. It controls the missile launch and illuminates the target after the missile is fired..
+The Maximum Range is 85.
+The Band is L-Band.
+The Fire Control and Guidance is Fire control and guidance can be provided for up to eight missiles..
+The Targets is It can detect up to six targets and track four simultaneously..
+
+Here is Protection information for the HQ-16 (HQ-16A) Chinese 6x6 Medium-Range Surface-to-Air Missile System:
+The Armor Hull is Protection from small arms fire and projectile splinters.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

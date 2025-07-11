@@ -1,0 +1,71 @@
+This document describes the AN/TWQ-1 Avenger American 4x4 Mobile Air Defense Missile System.
+
+The Avenger Air Defense System, designated AN/TWQ-1 under the Joint Electronics Type Designation System, is an American self-propelled surface-to-air missile system which provides mobile, short-range air defense protection for ground units against cruise missiles, unmanned aerial vehicles, low-flying fixed-wing aircraft, and helicopters.
+
+The Avenger was originally developed for the United States Armed Forces and is currently used by the U.S. Army. The Avenger system was also used by the U.S. Marine Corps.
+
+The Avenger comes mainly in three configurations, the Basic, Slew-to-Cue, and the Up-Gun.
+
+The Basic configuration consists of a gyro-stabilized air defense turret mounted on a modified heavy Humvee. The turret has two Stinger missile launcher pods, each capable of firing up to 4 fire-and-forget infrared/ultraviolet guided missiles in rapid succession. The Avenger can be linked to the Forward Area Air Defense Command, Control, Communications and Intelligence (FAAD C3I) system, which permits external radar tracks and messages to be passed to the fire unit to alert and cue the gunner.
+
+The Slew-to-Cue (STC) subsystem allows the commander or gunner to select a FAAD C3I reported target for engagement from a display on a Targeting Console developed from VT Miltope's Pony PCU. Once the target has been selected, the turret can be automatically slewed directly to the target with limited interaction by the gunner.
+
+The Up-Gun Avenger was developed specifically for the 3rd Armored Cavalry Regiment for the Regiment's 2005 deployment to Iraq. The modification was designed to allow the Avenger to perform unit and asset defense in addition to its air defense mission. The right missile pod was removed and the M3P .50 cal machine gun was moved to the pod's former position. This allowed for the removal of the turret's cab safety limits which enabled the gun to be fired directly in front of the HMMWV. Eight of the unit's Avengers were modified to this configuration. With the 3rd ACR's redeployment from Iraq, the Up-Gun Avenger completed its role in Operation Iraqi Freedom and the Avengers have been scheduled to be converted back to STC systems.
+
+This equipment has proliferated into the following countries: Bahrain, Egypt, Iraq, United States of America.
+
+Here is Variants information for the AN/TWQ-1 Avenger American 4x4 Mobile Air Defense Missile System:
+The Boeing/Shorts Starstreak Avenger is Boeing teamed with Shorts Brothers PLC (now part of Thales) to offer an Avenger system in which one Stinger pod was replaced with a pod of four Starstreak Hyper-velocity laser-guided missiles, in the hopes of attracting a U.S. Army contract under the Forward Area Air Defense System Line-of-Sight Rear (FAADS-LOS-R) program. Test installation was carried out in mid-1990 and firing trials followed from mid-1991 in the U.K. Starstreak would have complemented the Stinger by improving the overall systems ability to deal with low hovering helicopters which frequently do not provide enough contrast for lock-on by infrared guided missiles. Starstreak also has the ability to be used against un-armored and lightly armored ground vehicles..
+The Boeing/Matra Guardian is In the 1990s Boeing teamed with Matra of France to offer the Avenger modified by the substitution of standard triple launcher boxes for Matra Mistral missiles in place of the quadruple Stinger pods of the standard Avenger. One demonstrator vehicle was built in 1992 and test firings took place in France. The project was dropped around 1997..
+The Avengers during the Iraq War is Due to the lack of serious airborne threats during much of the Iraq War, along with the pressing need for ground assets for combat roles such as convoy protection, the Avenger was pressed into this role. The FLIR/laser rangefinder combined with the .50 cal machine gun has proved to be very effective, but was limited by no-fire zones, particularly to the front of the vehicle. A program was instituted to remove one of the missile pods and move the machine gun to that position to enable a 360° field of fire. The upgrade also increased the ammunition capacity to 650 rounds..
+The Avenger DEW is Another potential variant proposed by Boeing is an Avenger with a Directed Energy Weapon (DEW). Boeing completed an initial test of a 1 kilowatt laser mounted where the right missile pod would be. The M3P .50 cal has been replaced by the M242 Bushmaster as its close defense weapon..
+The Avenger Multi-Role Weapon System is Test firing demonstrations took place in 2004 of this variant modified by re-locating the M3P machine gun over the turret cab to allow a 360-degree field of fire, increasing ready-use machine gun ammunition stowage to 600 rounds, and providing the option to substitute launchers for 2 FGM-148 Javelin missiles in place of 1 Stinger pod..
+The Accelerated Improved Interceptor Initiative (AI3) is In February 2012, Raytheon was awarded a contract to develop the AI3, a modified AIM-9 Sidewinder missile mounted on the Avenger launcher, to perform counter rocket, artillery, mortar (C-RAM), counter unmanned aerial vehicle (C-UAV), and counter cruise missile duties.
+
+In 2013, the US Army decided to not buy the system.
+
+In August 2014, the system successfully intercepted a UAV and cruise missile target featuring a semi-active radar homing seeker in a test..
+The Other variants is Boeing have proposed that the Avenger PMS turret could be mounted on other vehicles such as Unimog truck, BV-206 all-terrain vehicles, M113 APC, and M548 tracked cargo carrier as well as being used as a stationary ground mount on a pallet for defense of static targets. The Avenger PMS has been demonstrated with a mock-up of two 70 mm helicopter-type rocket pods carrying a total of 36 rockets to give the system greater multi-mission utility. Other missiles such as the Bofors RBS 70/Bolide have been proposed for use on the Avenger PMS.
+
+In March 2017, Boeing revealed a modernized Avenger system fitted with AIM-9X Sidewinder and Longbow Hellfire missiles on the sides and a directed energy weapon affixed to the top. It is also planned to be integrated onto other platforms including the JLTV, Stryker, and Bradley Fighting Vehicle. While Boeing had configured a Stryker with the Avenger turret to fulfill the Army's Interim Maneuver-Short-Range Air Defense (IM-SHORAD) requirement, the Army ultimately decided against the idea, feeling it would require major modifications to the vehicle and because of the company's desire for the service to supply the turrets, of which there were a limited amount existing readily in the inventory..
+
+Here is AN/TWQ-1 Avenger (Launcher) information for the AN/TWQ-1 Avenger American 4x4 Mobile Air Defense Missile System of the System:
+The Name is AN/TWQ-1 Avenger.
+The Type is Surface-to-Air Missile System.
+The In Service is 1989-Present.
+The Manufacturer is Boeing.
+The Crew is 2 (Basic), 3 (STC).
+The Missile is FIM-92 Stinger missiles.
+The Targets is Cruise missiles, UAVs, low-flying, high-speed fixed-winged aircraft, and helicopters.
+
+Here is Missile information for the AN/TWQ-1 Avenger American 4x4 Mobile Air Defense Missile System of the System:
+The Name is FIM-92 Stinger missiles.
+The Type is Infrared homing surface-to-air missile (SAM)..
+The Length is 1.52.
+The Diameter is 70.1.
+The Weight is 15.19.
+The Warhead is High explosive annular blast fragmentation.
+The Warhead Weight is 3.
+The Engine is Solid-fuel rocket motor.
+The Guidance System is Infrared homing.
+The Speed is 750.
+The Operational Range is It has an outward targeting range of up to 4,800 m and can engage low altitude enemy threats at up to 3,800 m..
+
+Here is Dimensions information for the AN/TWQ-1 Avenger American 4x4 Mobile Air Defense Missile System:
+The Length is 4.95 m.
+The Width is 2.18 m.
+The Height is 2.64.
+The Weight is 3,900 kg.
+
+Here is Automotive information for the AN/TWQ-1 Avenger American 4x4 Mobile Air Defense Missile System:
+The Engine Name is INA.
+The Engine Type is Detroit Diesel cooled V-8.
+The Engine Power is 135.
+The Maximum Range is 443 km.
+The Maximum Speed is 89 km/h.
+The Mobility is Highly mobile, Mounted atop a 4×4 Heavy High Mobility Multipurpose Wheeled Vehicle (HMMWV).
+
+Here is Protection information for the AN/TWQ-1 Avenger American 4x4 Mobile Air Defense Missile System:
+The Armor is INA.
+The Smoke is INA.
+

@@ -1,0 +1,195 @@
+This document describes the Type 051G Class (Luda III Class) Chinese Destroyer.
+
+The Type 051G Class (Luda III Class) Chinese Destroyer was an improved variant that the last two ships, Zhanjiang and Zhuhai, were completed too. They were equipped with Type 354 3-D air and surface search radar. Four twin YJ-8 launchers replaced the HY-1/HY-2 launchers. The Soviet sonar was replaced by French DUBV-23 search sonar and DUBV-43 variable depth sonar (VDS).
+
+Zhuhai was modified in 1999. The Soviet 130 mm guns were replaced by 100 mm (4 in) guns, derived from French Creusot-Loire Compact, with automated reloaders. An HQ-7 SAM launcher replaced the "X" turret, as on the Type 051DT. Zhuhai was similarly modified.
+
+Zhanjiang and Zhuhai were equipped with the ZKG-4A and ZKG-4B combat data systems respectively.
+
+The Type 051G was also the first Chinese ship to deploy the YU-7 lightweight torpedo and the Italian 40 mm (1.6 in) anti-aircraft gun.
+
+The Type 051G was part of the Luda III class, and later the Luda IV class.
+
+Note: There are no longer any Type 051 Class, Luda II Class, Type 051D Class, Type 051Z Class, or Type 051DT Class Chinese Destroyers left in active service.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Type 051G Class (Luda III Class) Chinese Destroyer:
+The Zhanjiang is Commissioned: 1991
+Fleet: South Sea Fleet.
+The Zhuhai is Commissioned: 1991
+Fleet: South Sea Fleet.
+
+Here is System information for the Type 051G Class (Luda III Class) Chinese Destroyer:
+The Alternative Designation is Type 051G; Luda III Class.
+The Type is Destroyer.
+The Builder is Luda Shipyard
+Zhonghua Shipyard
+Dalian Shipyard.
+The Crew is 280.
+
+Here is Dimensions information for the Type 051G Class (Luda III Class) Chinese Destroyer:
+The Length is 132 m.
+The Beam is 12.8 m.
+The Draft is 4.6 m.
+The Displacement, Full Load is 3,670 tons.
+
+Here is Propulsion System information for the Type 051G Class (Luda III Class) Chinese Destroyer:
+The Engine Name is INA.
+The Engine Type is 2 steam turbines.
+The Engine Power is 72,000 shp (53,700 kW).
+The Maximum Range is 2,970 miles.
+The Maximum Speed is 32 knots (59 km/h).
+The Endurance is INA.
+
+Here is Gun Weapon System #1: System information for the Type 051G Class (Luda III Class) Chinese Destroyer of the Gun Weapon Systems:
+The Name is 1 x Canon de 100mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 100.
+The Manufacturer is GIAT.
+The Length is INA.
+The Barrel Length is 55 calibres.
+The Weight is 22 metric tons.
+The Crew is 2 (modèle 68) ; later version entirely automatic.
+The Elevation is 29°.
+The Traverse is 40°.
+The Rate of Fire is 78 round/min.
+The Muzzle Velocity is 870 m/s.
+The Effective Firing Range is 17,000 m (elevation 40°)
+Maximum practical range:
+6,000 m against aerial targets
+12,000 m against surface targets.
+
+Here is Gun Weapon System  #1: Ammunition information for the Type 051G Class (Luda III Class) Chinese Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 100.
+The Cartridge is 100 x 700mm .R.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2: System information for the Type 051G Class (Luda III Class) Chinese Destroyer of the Gun Weapon Systems:
+The Name is DARDO.
+The Type is Close-In Weapon System (CIWS).
+The Quantity is 1 x DARDO Close-In Weapon System (CIWS).
+The Length is INA.
+The Diameter is Mount ring: 1.7 m
+Working circle: 2.902 m.
+The Height is Enclosed turret: 2.4 m
+Type A mount: 1.3 m 
+Type B mount: 0.92 m.
+The Weight is Complete gun mount (less ammo): 5,500 kg 
+Complete round (HE): 4.05 kg.
+The Barrels is 2 × Breda-built Bofors-40 mm L/70.
+The Elevation is Minimum −13°
+Maximum +85°
+speed: 60°/s (70°/s Fast Forty).
+The Traverse is Full 360° traverse, speed: 90°/s (100°/s Fast Forty).
+The Rate of Fire is 2 × 300 round/min
+2 × 450 round/min (Fast Forty).
+The Maximum Firing Range is AA with HE: 8,700 m (9,500 yd).
+The Effective Firing Range is HE round: 4,000 m (4,400 yd).
+The Feed System is Magazine:
+736 HE rounds (444 Type B mount)
+Dual feed mechanism with 736 HE and 200 APFSDS rounds (Fast Forty).
+
+Here is Gun Weapon System  #2: Ammunition information for the Type 051G Class (Luda III Class) Chinese Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 40.
+The Shell is INA.
+The Basic Load is INA.
+
+Here is Missile Weapon Systems #1: Missile Launcher information for the Type 051G Class (Luda III Class) Chinese Destroyer of the Missile Weapon Systems:
+The Name is YJ-8 Launchers.
+The Type is Missile Launcher.
+The Quantity is 4 x twin YJ-8 Launchers.
+
+Here is Missile Weapon Systems #1: Missile information for the Type 051G Class (Luda III Class) Chinese Destroyer of the Missile Weapon Systems:
+The Type is YJ-8 Missile.
+The Type is Surface-launched subsonic anti-ship cruise missile..
+The Length is 5.81 m.
+The Weight is 815 kg.
+The Warhead Weight is 165 kg.
+The Engine is Rocket.
+The Propellant is Solid Rocket.
+The Operational Range is 42 km.
+The Flight Altitude is 5-7 m.
+The Speed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+
+Here is Missile Weapon Systems #2: Missile Launcher information for the Type 051G Class (Luda III Class) Chinese Destroyer of the Missile Weapon Systems:
+The Name is HQ-7 SAM Launcher.
+The Type is Missile Launcher.
+The Elevation is INA.
+The Traverse is INA.
+The Radar is Type 360S E/F-band Doppler radar.
+The Radar Detection Range is 18.4 km.
+The Combat Management System is ZJK-4 (Thomson-CSF TAVITAC) combat management system..
+The Note is The system is capable of processing up to 30 targets, and tracking 12 targets simultaneously..
+
+Here is Missile Weapon Systems #2: Missile information for the Type 051G Class (Luda III Class) Chinese Destroyer of the Missile Weapon Systems:
+The Name is HQ-7.
+The Type is Short-range air defense missile..
+The Length is 3 m.
+The Diameter is 0.156 m.
+The Wingspan is 0.55 m.
+The Weight is 84.5 kg.
+The Operating Altitude is 30–5,000 m.
+The Maximum Operating Range is 12 km.
+The Minimum Operating Range is 500 m.
+The Speed is Mach 2.3 (750 m/s).
+The Guidance System is Command + electro-optical tracking.
+The Warhead is HE-FRAG with proximity fuse.
+
+Here is Torpedo Launcher information for the Type 051G Class (Luda III Class) Chinese Destroyer of the Torpedo Weapon Systems:
+The Name is Yu-7 Torpedo Tubes.
+The Quantity is INA.
+
+Here is Torpedo information for the Type 051G Class (Luda III Class) Chinese Destroyer of the Torpedo Weapon Systems:
+The Name is Yu-7 torpedo.
+The Type is Torpedo.
+The Length is 2.7 m.
+The Diameter is 324 mm.
+The Weight is 235 kg.
+The Warhead is high explosive.
+The Warhead Weight is 45 kg.
+The Effective Firing Range is 14.1 km.
+The Propellant is Otto fuel II.
+The Maximum Depth is 400 m.
+The Speed is >45 kn (83 km/h).
+The Guidance System is active / passive acoustic homing.
+The Steering System is CIACIO-S seeker.
+
+Here is Onboard Aviation Facilities information for the Type 051G Class (Luda III Class) Chinese Destroyer:
+The Aviation Facilities is No.
+The Aircraft Carried is No.
+
+Here is Fire Control System information for the Type 051G Class (Luda III Class) Chinese Destroyer:
+The FCS Name is INA.
+The Computerized FCS is See Weapon Systems.
+The Combat Data System #1 is ZKG-4A.
+The Combat Data System #2 is ZKG-4B.
+
+Here is Radar Systems information for the Type 051G Class (Luda III Class) Chinese Destroyer:
+The Name is Type 354 radar.
+The Type is 3-D air and surface search radar.
+The Alternate Designation is MX902
+H/LJQ-354.
+The Proliferation is Type 354 Radars are one of the most widely deployed air and surface search naval radars in Chinese service. The Type 354 was predominantly found on major People's Liberation Army Navy (PLAN) surface combatants such as the Luda class destroyer and Jianghu class frigate in the 1980s and 1990s. By 2006 it was slowly being replaced in favour of the Type 360 radar, which in turn, itself being replaced by Type 364 radar for new vessels..
+The Frequency is G/H band.
+The Beam is 1.2 × 5 deg.
+The Pulse Width is 4 μs.
+The Polarisation is linear.
+The Beam width is 1.20 (horizontal); 1.30 (vertical).
+The PRF is 400 or 800 Hz.
+The Scan Rate is 4–10 rpm.
+The Resolution is 800 m (range); 1.30 (azimuth).
+The Range is more than 93 km on aircraft with RCS of 10 m2.
+
+Here is Sonar Systems information for the Type 051G Class (Luda III Class) Chinese Destroyer:
+The Search Sonar is 1 x DUBV-23 search sonar.
+The Depth Sonar is 1 x DUBV-43 variable depth sonar (VDS).
+
+Here is Protection information for the Type 051G Class (Luda III Class) Chinese Destroyer:
+The Active Protection System is See Weapon Systems.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

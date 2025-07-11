@@ -1,0 +1,107 @@
+This document describes the HJ-62C (YW-531H) Chinese Amphibious Armored Scout Vehicle.
+
+The HJ-62C Chinese Armoured Scout Vehicle is a variant of the Type 85 (Type YW531H) Armoured Personnel Carrier. This has its turret removed and is fitted with an elevated arm on top of which is mounted a battlefield surveillance radar with a detection range of 25 km for vehicles and 10 km for personnel.
+
+The YW531H Type 85 Chinese Armored Personnel Carrier s a tracked armoured fighting vehicle produced by Chinese company Norinco (industrial index: Type YW531H). It is an improved version of the Type 63 armoured personnel carrier. The vehicle is bigger, has additional firing ports and periscopes, a longer chassis with an additional road wheel on each side, and is equipped with an NBC protection system.
+
+The Type 85 series was developed in 1985, exclusively for the export market; for the PLA, the very similar Type 89 AFV was designed. The main user of the Type 85 series are the Royal Thai Armed Forces who received their first vehicles in 1987.
+
+The hull is made of welded steel, and provides protection against small arms fire. The vehicle carries a maximum of 15 including crew. The driver sits in the front left of the hull, and has a single piece hatch, which opens to the left. The driver is provided with two day periscopes which cover the front and right of the vehicle. One of the drivers periscopes can be replaced by a night vision device. The commander sits behind the driver and has a single piece hatch.
+
+The air-cooled, turbocharged diesel engine sits to the right rear of the driver. It has a large intake located in the top of the hull, with an exhaust on the right hand side. The engine feeds a manual transmission with five forward gears and one reverse gear. Track is driven at the front by a drive sprocket, and passes over five dual rubber-typed road wheels and track-return rollers, then loops over an idler at the rear, before returning to the front again.
+
+A 12.7 millimetre calibre machine gun with armoured shields is located in an open mount at the front of a small hatch in the center of the hull which opens into the troop compartment. The gun can traverse through 360 degrees and can be elevated to an angle of 90 degrees. A total of 1,120 rounds is carried on board. Two oblong roof hatches and a large rear door provide access to the troop compartment. On either side of the forward hull, a cluster of four 76 mm smoke grenade dischargers is mounted.
+
+The vehicle is amphibious, a folding trim board stowed at the front of the hull needs to be raised, and the vehicle can then propel itself in the water using its tracks. Standard equipment includes an NBC system, a Type 889 or VRC-83 radio, and a Type 803 intercom system.
+
+This equipment has proliferated into the following countries: Bangladesh, China, Sri Lanka, Thailand, Zimbabwe.
+
+Here is Variants information for the HJ-62C (YW-531H) Chinese Amphibious Armored Scout Vehicle:
+The Type 85/YW 531H is Domestic/export base model.
+The YW703H is Command variant.
+The Type 85 Armored Command Vehicle is 2-man crew, 6 staff, additional communications equipment, & fewer ammunition rounds; used at regimental or division level.
+The Type 85 Recovery Vehicle is 1000 KG crane with 5-man crew.
+The Type 85 Maintenance Engineering Vehicle is Similar to the WZ 751 (ambulance), but for support.
+The Type 85 Mortar Carriers is 82-mm & 120-mm variants similar to the YW 531.
+The WZ 751 Armored Ambulance is 2-man crew with space for 4 litter or 8 seat patients; 12.7-mm MG.
+The Type 85 SP Howitzer (Type 70-1/YW 302) is Type 54-1 122-mm howitzer on Type 85 chassis.
+The Type 85 ATGM Launcher Vehicle is Railed hull with 4-rail Red Arrow-8 SACLOS wire-guided ATGM.
+The YW 307 IFV is Type 89 with a 25-mm cannon similar to the Bushmaster & the 7.62-mm coaxial MG.
+The YW 309 Infantry Combat Vehicle (ICV) is 3-man crew, 73-mm low pressure main gun, 7.62-mm coaxial MG & Red Arrow 3 ATGM.
+The HJ-8 Anti-Tank Vehicle is AT traversable launcher with 4 HJ-8 ATGMs & 4 loads in storage in the hull.
+The NVH-1 is Joint Chinese/British variant with 25-mm gun.
+The Type 90 is Updated design with reduced height, improved hull shape, & better transmission.
+The Thai versions is Similar to the Chinese variants, but armed with a M-2HB MG.
+The Artillery Command Post Vehicle is YW 531H modified with a raised rear superstructure.
+The YW 306 is 130-mm MRL platform.
+The Type 89 (YW 534/WZ 534) is Improved power pack & night vision equipment for domestic use & export with longer & wider chassis, improved engine, & mobility.
+
+Here is System information for the HJ-62C (YW-531H) Chinese Amphibious Armored Scout Vehicle:
+The Alternative Designations is HJ-62C.
+The Type is Armored Scout Vehicle.
+The Crew is 2 (driver, commander).
+The Medics is 2.
+The Stretchers is four stretcher patients, eight seated patients or two stretcher patients and four seated patients. In addition to the stretchers, a medical kit, a splint box and an oxygen supply are carried and standard equipment includes an air conditioning system..
+The Maximum Effective Range is 500.
+The Description is Improved Type 69 APC with rear exit door& emergency roof hatches with space for 13 soldiers who can dismount; firing ports vary depending on variant.
+The Driver Day Periscope is 2.
+The Driver Night Periscope is 1.
+
+Here is Dimesions information for the HJ-62C (YW-531H) Chinese Amphibious Armored Scout Vehicle:
+The Length is 6.13.
+The Width is 3.06.
+The Height is 2.59.
+The Weight, Combat is 13,800.
+The Ground Pressure is 0.546.
+
+Here is Automotive information for the HJ-62C (YW-531H) Chinese Amphibious Armored Scout Vehicle:
+The Engine Name is BF8L 413F.
+The Engine Type is Turbocharged, air-cooled, V-8 diesel.
+The Engine Power is 320.
+The Cruising Range is 600.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is 35.
+The Speed, Maximum Swim is 6.
+The Fording Depth is Amphibious.
+The Transmission is Manual.
+The Gears is 5 Forward, 1 Reverse.
+
+Here is Communications information for the HJ-62C (YW-531H) Chinese Amphibious Armored Scout Vehicle:
+The Primary Radio is Type 889.
+The Secondary Radio is VRC 83.
+The Intercom System is Type 803.
+
+Here is Main Gun information for the HJ-62C (YW-531H) Chinese Amphibious Armored Scout Vehicle of the Armament and Ammunition:
+The Name is Type 54 (DShKM copy).
+The Type is Anti-Aircraft Machine Gun.
+The Caliber/length is 12.7.
+The Number of Rounds is 1,200.
+The Muzzle Velocity is 850.
+The Max Range is 2,000.
+The Armor Penetration is API: 21 at 500 m & 13 at 1000 m (RHA).
+The Ammo is 1120 Rounds: 
+APDS (Tungsten Core); API, API-T,.
+The Armored Sheilds is Yes.
+The Traverse is 360.
+The Elevation is 90.
+
+Here is Radar System information for the HJ-62C (YW-531H) Chinese Amphibious Armored Scout Vehicle:
+The Name is INA.
+The Type is Battlefield Surveillance Radar.
+The Detection Range, Vehicles is 25 km.
+The Detection Range, Personnel is 10 km.
+
+Here is Protection information for the HJ-62C (YW-531H) Chinese Amphibious Armored Scout Vehicle:
+The Armor Type is Welded Steel Hull.
+The Hull Armor is 12.7.
+The Armor (turret front) is 14 mm (front glacis).
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is Yes.
+The Survivability Equipment is INA.
+The Smoke Equipment is 8 x Smoke Grenade Launchers (4 on each side).
+The Waveguide Blade is Yes.
+

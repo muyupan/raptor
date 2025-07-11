@@ -1,0 +1,91 @@
+This document describes the MiG-19 (Farmer) Russian Fighter Aircraft.
+
+The Mikoyan-Gurevich MiG-19 (Russian: Микоян и Гуревич МиГ-19; NATO reporting name: Farmer) is a Soviet second-generation, single-seat, twin jet-engined fighter aircraft, the world's first mass-produced supersonic aircraft. It was the first Soviet production aircraft capable of supersonic speeds in level flight. A comparable U.S. "Century Series" fighter was the North American F-100 Super Sabre, although the MiG-19 would primarily oppose the more modern McDonnell Douglas F-4 Phantom II and Republic F-105 Thunderchief over North Vietnam.
+
+This equipment has proliferated into the following countries: Afghanistan, Bulgaria, China, Cuba, Hungary, Indonesia, Iraq, North Korea (Democratic People's Republic of Korea), Pakistan, Poland, Romania.
+
+Here is Variants information for the MiG-19 (Farmer) Russian Fighter Aircraft:
+The Farmer-A is Initial production day fighter version with Klimov VK-5 engine, one 37-mm and two 23-mm cannon, plus wing pylons for rocket pods..
+The Farmer-B (MiG-19S) is Similar to Farmer-A, but with Klimov RD-9B engine, night/all-weather capability..
+The Farmer-C is Day fighter version with new armament. Models with AM-5 engine designated MiG-19S; those with RD-9F engine designated MiG-19SF..
+The Farmer-D is Similar to Farmer-C, but with all-weather capability. Models with Farmer-C armament are designated MiG-19PF; those carrying four AA-1 Alkali** missiles are designated MiG-19PM..
+The Farmer-E is Day fighter version with same armament as the MiG-19PM..
+The J-6/F-6 is Chinese-manufactured versions; see separate database entry..
+
+Here is System information for the MiG-19 (Farmer) Russian Fighter Aircraft:
+The Alternate Designation(s) is MiG-19; NATO: Farmer.
+The Primary Function / Type is Fighter Aircraft.
+The Manufacturer is Mikoyan-Gurevich.
+The Crew is 1.
+The Number of Engines is 2.
+The Number of Hard Points is 4 pylons in total, 2 for drop fuel tanks only, 2 for weapons, with a capacity of up to 500 kg (1,100 lb) of stores.
+
+Here is Dimensions information for the MiG-19 (Farmer) Russian Fighter Aircraft:
+The Length is 12.54 m.
+The Height is 3.80 m.
+The Wingspan is 9.20 m.
+The Wing Area is 25.0 sq m.
+The Weight, Empty is 5,500 kg.
+The Weight, Normal Takeoff is 7,500 kg.
+The Weight, Maximum Takeoff is 10,200 kg.
+
+Here is Automotive information for the MiG-19 (Farmer) Russian Fighter Aircraft:
+The Engine Name is 2 x Klimov RD-9F.
+The Number of Engines is 2.
+The Engine Type is Turbojet.
+The Engine Power, Dry is 2,800 kg static thrust each.
+The Engine Power, with Afterburner is 3,568 kg static thrust each.
+The Internal Fuel Capacity is 2,170 liters.
+The Maximum Speed, High Altitude is 1,452 km/h, Mach 1.35.
+The Maximum Speed, Sea Level is 1,339 km/h, Mach 1.1.
+The Cruise Speed is 950 km/h, Mach 0.9.
+The Climb Rate is 6,900 m/min.
+The Ceiling is 16,775 m.
+The Ferry Range is 2,200 km.
+
+Here is System information for the MiG-19 (Farmer) Russian Fighter Aircraft of the Main Gun System:
+The Name is Nudelman-Rikhter NR-30.
+The Type is Autocannon.
+The Caliber is 30 mm.
+The Quantity is 3 × 30 mm Nudelman-Rikhter NR-30 autocannon.
+The Length is 2,153 mm.
+The Barrel Length is 1,600 mm.
+The Width is 181 mm.
+The Height is 186 mm.
+The Weight is 66 kg.
+The Barrels is 1.
+The Action is Short recoil.
+The Rate of Fire is 850–1,000 rpm.
+The Muzzle Velocity is 780 m/s.
+
+Here is Ammunition information for the MiG-19 (Farmer) Russian Fighter Aircraft of the Main Gun System:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Cartridge is 30x155mm.
+The Basic Load is (75 rounds for wing-root guns, 55 rounds for the fuselage gun.
+
+Here is Main Missile System #1 information for the MiG-19 (Farmer) Russian Fighter Aircraft of the Main Missile Systems:
+The Name is K-13; NATO: AA-2 Atoll.
+The Type is Infrared Homing Air-to-Air Missile.
+The Length is 2.830 m.
+The Diameter is 127 mm.
+The Wingspan is 631 mm.
+The Weight is 90 kg.
+The Warhead Weight is 7.4 kg.
+The Operational Range is 1-3.5 km.
+The Maximum Speed is Mach 2.5.
+The Guidance System is infrared homing.
+
+Here is Fire Control / Avionics information for the MiG-19 (Farmer) Russian Fighter Aircraft:
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Laser Desingator is INA.
+
+Here is Protection information for the MiG-19 (Farmer) Russian Fighter Aircraft:
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

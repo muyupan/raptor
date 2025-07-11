@@ -1,0 +1,136 @@
+This document describes the Buk-M2 (SA-17 Grizzly) Russian Medium-Range Air Defense Missile System.
+
+The Buk-M2 (NATO name SA-17 Grizzly, Russian name 9K317) is a Russian-made mobile medium-range surface-to-air missile (SAM) system designed to defend field troops and logistical installations against air threats. SA-17 Grizzly is an upgraded version of the proven Buk-M1 mobile air defense system and retains its main features. It defeats strategic and tactical aircraft, tactical ballistic missiles, cruise missiles, air-launched missiles, guided aerial bombs, and helicopters, including hovering rotorcraft, in the presence of heavy electronic countermeasures and under intense enemy fire. Moreover, it can be used against sea-surface and ground targets. 
+
+The Buk-M2E SAM system includes combat elements, such as a target-acquisition radar, a battle management station, self-propelled firing vehicles, illumination and guidance radar, loader-launcher vehicles, and surface-to-air guided missiles, as well as maintenance and repair facilities. The combat elements can be mounted either on tracked or wheeled chassis. Wheeled trucks carry the maintenance facilities. The Buk-M2 can engage a wide variety of targets from aircraft to missiles flying at an altitude of between 10 and 24,000 m out of a maximum range of 50 km in given conditions.
+
+The SA-17 Grizzly can engage simultaneous up to 24 targets flying from any direction.
+
+This equipment has proliferated into the following countries: Algeria, Azerbaijan, Belarus, China, Egypt, Georgia, India, Iran (Islamic Republic of), Kazakhstan, North Korea (Democratic People's Republic of Korea), Pakistan, Russian Federation, Syria, Ukraine, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the Buk-M2 (SA-17 Grizzly) Russian Medium-Range Air Defense Missile System:
+The Buk System Components is The Buk system has numerous variants and the family has various branches for user modifications or copies. Typically, however, most of the variants consist of the following components:
+
+1) A Battalion command vehicle, which is used to coordinate the various elements in a battalion-sized Buk formation;
+
+2) A Search radar vehicle that is used for locating targets for a battalion complex of Buk;
+
+3) A TELAR (Transporter Erector Launcher and Radar) is used to launch the system’s missiles, which vary depending on the variant, and provide fire control for these; and, 
+
+4) A TEL/ transponder (Transporter Erector Launcher and transponder) is used to launch the system’s missiles, which vary depending on the variant, and to reload the TELARs.
+Various support vehicles, including repair vehicles for each vehicle within the complex, at least one transponder with spare missiles, and missile inspection and repair vehicles..
+The 9K37-1 'Buk-1 is First Buk missile system variant accepted into service, incorporating a 9A38 TELAR within a 2K12M3 Kub-M3 battery..
+The 9K37 'Buk' is The completed Buk missile system with all new system components, back-compatible with 2K12 Kub..
+The 9K37M1 'Buk-M1 is An improved variant of the original 9K37 which entered into service with the then Soviet armed forces..
+The 9K37M1-2 'Buk-M1-2' ('Gang' for export markets) is An improved variant of the 9K37M1 'Buk-M1' which entered into service with the Russian armed forces..
+The 9K317 'Ural' is initial design of Buk-M2 which entered into service with the Russian armed forces..
+The 9K317E 'Buk-M2E is revised design for export markets..
+The 9K37M1-2A 'Buk-M1-2A is redesign of Buk-M1-2 for the use of 9M317A missile..
+The Buk-M2EK is A wheeled variant of Buk-M2 on MZKT-6922 chassis exported to Venezuela and Syria..
+
+Here is Dimensions (GM-5955 chassis) information for the Buk-M2 (SA-17 Grizzly) Russian Medium-Range Air Defense Missile System:
+The Length is 9.3.
+The Width is 3.25.
+The Height is 3.8.
+The Weight, Combat is 34.
+The Ground Pressure is 0,8 kg/cm2.
+
+Here is Automotive (GM-569 chassis) information for the Buk-M2 (SA-17 Grizzly) Russian Medium-Range Air Defense Missile System:
+The Engine Name is INA.
+The Engine Type is Multi-fuel liquid-cooled diesel.
+The Engine Power is 840.
+The Cruising Range is 500.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is 45.
+The Speed Maximum Swim is Not Amphibious.
+The Chassis Weight is 24,000.
+The Max Load is 11,500.
+The Fuel Distance is 500.
+
+Here is Ammunition (Option 1) information for the Buk-M2 (SA-17 Grizzly) Russian Medium-Range Air Defense Missile System of the Transporter Erector Launcher and Radar (TELAR) Vehicle:
+The Name is 9M317 Missile.
+The Type is surface-to-air missile.
+The Length is 5.55.
+The Main Body Diameter is 400.
+The Weight is 715.
+The Maximum Range is 42 km.
+The Minimum Range is 3 km.
+The Intercept Altitude is 15 m - 25 km.
+The Speed is 1,230.
+The Capable of Engaging Targets Traveling at Speeds of is 1,200.
+The Fuze Type is Proximity fuze.
+The Generator is solid propellant-based gas generator..
+The Foward Body Diameter is 330.
+The Storage Container is 9Ya266 transport container.
+The Storage Life is 10.
+The Training Missiles is 9M317UD and the 9M317UR Missiles.
+The Guidance Principle is semi-active radar homing guidance principle.
+The Autopilot Capable is Yes.
+The Radar Reciever is 9E420 semi-active radar homing receiver.
+The Warhead Type is HE-FRAG.
+The Warhead Weight is 70.
+The Launcher Type is 9A310 TELAR vehicle, or the 9A39 TEL/transloader vehicle.
+
+Here is Ammunition (Option 2) information for the Buk-M2 (SA-17 Grizzly) Russian Medium-Range Air Defense Missile System of the Transporter Erector Launcher and Radar (TELAR) Vehicle:
+The Name is 9M317MA.
+The Type is solid-propellant surface-to-air missile.
+The Maximum Effective Range is 35.
+The Maximum Altitude is 22.
+The Speed is 850.
+The Capable of Engaging Targets Traveling at Speeds of is 800.
+The Fuze Type is proximity fuze.
+The Length is 5.55.
+The Generator is solid propellant-based gas generator.
+The Forward Body Diameter is 330.
+The Main Body Diameter is 400.
+The Weight is 690.
+The Storage Container is 9Ya266 transport container.
+The Storage life is 10.
+The Training Missiles is 9M38UD and the 9M38UR Missiles.
+The Guidance Principle is semi-active radar homing guidance principle.
+The Autopilot is Yes.
+The Inertial Navigation System Enabled is Yes.
+The Radar Receiver is 9E50M1 semi-active radar homing receiver.
+The Warhead Type is HE-FRAG.
+The Warhead Weight is 70.
+The Launcher Type is 9A310 TELAR vehicle, or the 9A39 TEL/transloader vehicle.
+
+Here is Search Radar Vehicle information for the Buk-M2 (SA-17 Grizzly) Russian Medium-Range Air Defense Missile System of the Targeting and Guidance Systems Vehicles:
+The Name is 9S18M1-2 Kupol-M1 (NATO: Snow Drift).
+The Chassis is GM-567M chassis.
+The Maximum Speed is 56.
+The Maximum Range is 250.
+The Fuel Timeline is A maximum of 2 hours of fuel..
+The Crew is 3 (driver-mechanic, an operator, and a senior operator).
+The Array Radar is flat-faced 3D pulsed phased array radar.
+The Radar Band is S Band.
+The Maximum Target Range is 160.
+The Minimum Target Range is 10.
+The Number of Targets Capable of Tracking (Range of 10km) is 75.
+The Maximum Altitude is 25.
+The Search Modes is one for aerial threats, the second for ballistic threats.
+The Range Resolution is 200.
+The Angular Coordinate Resolution is 3° in azimuth and 4.5° in elevation.
+The Rotational Speeds is 5 individual settings.3.6 s, 4.5 s, 6 s, 12 s, 60 s to complete a single rotation..
+The Road March State to Ready State Timeline is 5.
+
+Here is Fire Control Radar Vehicle information for the Buk-M2 (SA-17 Grizzly) Russian Medium-Range Air Defense Missile System of the Targeting and Guidance Systems Vehicles:
+The Name is 9A36M.
+The Chassis is GM-5955 chassis.
+The Antenna is 21 m telescoping mast.
+The Radar Capability is detecting targets with an RCS of at least 2 meters squared out to a maximum range of 120 km.
+The Number of Targets is 10 simultaneous targets.
+The Steering is electronic beam steering.
+The Operating Mode is two: the first being a track while scan mode and the second being the pure target tracking mode.
+
+Here is C2 Systems Vehicles information for the Buk-M2 (SA-17 Grizzly) Russian Medium-Range Air Defense Missile System:
+The Name is 9S470M1-2.
+The Chassis is GM-579 chassis with six roadwheels.
+The Combat Weight is 29.87.
+The Maximum Speed is 65.
+The Crew is 6.
+The TV Displays is four CRT TV displays and control equipment.
+The Antenna Type is omnidirectional antenna.
+The Range Accuracy is 400-700.
+The Note is The 9S470M1-2 is capable of processing and co-ordinating information on 75 simultaneous targets within 100 km and at a maximum altitude of 20 km.
+

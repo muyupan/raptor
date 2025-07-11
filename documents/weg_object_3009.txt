@@ -1,0 +1,61 @@
+This document describes the S-92A American Utility Helicopter.
+
+The Sikorsky S-92 is an American twin-engine medium-lift helicopter built by Sikorsky Aircraft for the civil and military helicopter markets. The S-92 was developed from the Sikorsky S-70 helicopter and has similar parts such as flight control and rotor systems. The S-92 is multi-purpose helicopter powered by twin GE CT7-8A turboshaft engines and has an aluminum airframe and some composite components. The four-bladed fully articulated composite main rotor blade is wider and has a longer radius than the Sikorsky S-70. The tapered blade tip sweeps back and angles downward to reduce noise and increase lift. Most of the rotor system components aside from the blades are titanium.
+
+The S-92 features an active vibration control system, using vibration sensors and structurally mounted force generators to increase flight comfort and lower acoustic levels to below certification requirements. A 2008 study by Norway's Flymedisinsk Institute found that the S-92's vibration levels were 42 percent above that of the Eurocopter EC225 Super Puma; Sikorsky disputed this finding, saying that the study hadn't used their latest anti-vibration technology. In February 2011, as published on a Norwegian newspaper's website, the noise and vibration levels were reportedly subject to health concerns, allegedly causing tinnitus and heart problems.
+
+A number of safety features such as flaw tolerance, bird strike capability, and engine burst containment have been incorporated into the design. Adherence to FAA FAR part 29 has led the FAA certification board to call the S-92 the "safest helicopter in the world". The S-92 reportedly met the FAR part 29 "run dry" requirement by asserting the loss of oil pressure in the main gear box is "extremely remote".
+
+This equipment has proliferated into the following countries: Australia, Azerbaijan, Brazil, Brunei Darussalam, Canada, China, Mexico, Norway, South Korea (Republic of Korea), United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the S-92A American Utility Helicopter:
+The S-92A is The S-92A is the civilian variant and is available in a number of versions. The civil transport version has an airliner-type interior which seats 19 passengers. The utility transport version has 22 side-facing seats with a full cabin width rear ramp. The 733 sq ft (68.1 m2) interior cabin area can also be configured to accommodate up to three airline-style LD3 cargo containers. Additional stowage space is available in the 140 sq ft (13 m2) area located in the aft ramp compartment. During development it was referred to as the S-92C Helibus..
+The H-92 Superhawk is The H-92 Superhawk is the military variant of the S-92. It has been demonstrated to the U.S. Air Force, Marine Corps and Coast Guard. The H-92 has more powerful GE CT7-8C engines, rated at 3,070 shp (2,290 kW) and, unlike the S-92, has fly-by-wire flight controls. The search and rescue variant provides space for seats, litters, auxiliary fuel cell and SAR emergency equipment..
+The VH-92 is The S-92A variant, designated VH-92 will be used as the next Marine One to fly the U.S. President.
+The CH-148 Cyclone is This is the Canadian maritime variant that is being purchased to replace aging Sea King helicopters. It features a folding tail and rotors for storage aboard warships, anti-submarine warfare electronics, a fully digital fly-by-wire system and a Rockwell Collins glass cockpit. Other systems include a forward-looking infrared sensor; 360-deg search radar; passive and active acoustics systems; threat surveillance and countermeasures; and network link communications..
+
+Here is System information for the S-92A American Utility Helicopter:
+The Alternative Designation is S92A.
+The Type is Utility Helicopter.
+The Crew is 2 (pilot and copilot).
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 4.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+The External Load Capacity is 3,630 kg.
+The Search and Rescue is For search-and-rescue operations, the S-92 is equipped with an automated flight-control system, which enables the pilot to fly pre-programmed search patterns and perform difficult hover maneuvers; wireless intercom to allow a rescue swimmer to communicate with the helicopter crew; radio transceivers to communicate with ships, police and other rescue services; weather radar; forward-looking infrared sensor; digital video system; dual rescue hoist; single or dual 220-gal (833-liter) internal auxiliary fuel tanks; three litters; and a rescue searchlight..
+
+Here is Dimensions information for the S-92A American Utility Helicopter:
+The Length, Fuselage is 17.10 m.
+The Length, Rotors Turning is 20.88 m.
+The Height is 5.47 m.
+The Rotor Diameter is 17.17 m.
+The Disc Area is 241.8 m sq.
+The Cabin Length is 6.10 m.
+The Cabin Volume is 17 cu m.
+The Empty Weight is 7,362 kg.
+The Maximum Takeoff Weight is 12,837 kg.
+
+Here is Automotive information for the S-92A American Utility Helicopter:
+The Engine Name is 2 x General Electric CT7-8A.
+The Engine Type is Turboshaft.
+The Engine Power is 2,043 shp each (1,524 kW).
+The Maximum Fuel Capacity is 2,877 liters.
+The Cruise Speed is 306 km/h.
+The Ceiling is 4,270 m.
+The Hover, in Ground Effect is 2,770 m.
+The Hover, Out of Ground Effect is 1,920 m.
+The Range, no reserve is 1,000 km.
+The Endurance is 6 hours.
+
+Here is Fire Control and Avionics information for the S-92A American Utility Helicopter:
+The Navigation Radar is INA.
+The Communication is The Rockwell Collins ProLine IV communications and navigation suite includes dual VH omni-directional radio, distance-measuring equipment, automatic direction finding and dual-attitude, heading and reference system..
+
+Here is Protection information for the S-92A American Utility Helicopter:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

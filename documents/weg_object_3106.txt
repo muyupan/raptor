@@ -1,0 +1,74 @@
+This document describes the AW109 Italian Utility Helicopter.
+
+The AgustaWestland AW109, originally the Agusta A109 is a lightweight, twin-engine, eight-seat multi-purpose helicopter built by the Italian manufacturer Leonardo S.p.A. (formerly AgustaWestland, merged into the new Finmeccanica since 2016). It was the first all-Italian helicopter to be mass-produced.
+
+Developed as the A109 by Agusta, it originally entered service in 1976 and has since been used in various roles, including light transport, medevac, search-and-rescue, and military roles. The AW109 has been in continuous production for 40 years. The AgustaWestland AW119 is a derivative of the AW109, the main difference being that it is powered only by a single engine.
+
+This equipment has proliferated into the following countries: Albania, Algeria, Argentina, Australia, Bangladesh, Belgium, Bulgaria, Cambodia, Chile, Ecuador, Greece, Italy, Japan, Latvia, Malaysia, Mexico, New Zealand, Nigeria, Paraguay, Peru, Philippines, Slovenia, South Africa, Sweden, Turkmenistan, Uganda, United Kingdom of Great Britain and Northern Ireland, United States of America, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the AW109 Italian Utility Helicopter:
+The AW109A (Mk II) is This is the production version, available in a number of configurations -- including light attack, anti-tank, command and control, electronic warfare, Mirach 100 RPV launch and control, scout and utility..
+The AW109B is This was a proposed specialized military utility variant..
+The AW109BA is This is the anti-tank variant for Belgian army..
+The AW109C Executive/Coastal Patrol is This is a six- or seven-passenger executive helicopter also suited for medevac role. Certified for single pilot instrument flight rules (IFR)..
+The AW109CM (Mk II+, LMH), AW109HA, AW109H0 is These are light multi-role helicopters (LMH) also designated AW109CM. The nose is extended to accept more avionics. The military version has self-sealing tanks, radar- and laser-warning systems.
+The AW109K2 is This is a multi-purpose helicopter for hot/high operations. It has Bendix/King Silver Crown avionics..
+The AW109EOA is This is an upgraded armed observation version for the Italian army, with Allison 250-C20R engines, nose and landing gear of AW109K..
+The AW109KN is This was a naval variant with harpoon landing, emergency fuel-dumping system, ASW sensors and weapons..
+The AW109 GdiF (Guardia di Finanza) is This is a maritime patrol variant with several of the systems found on board the coastal patrol variant..
+The AW109 MAX is This variant is configured for medical evacuation missions. It can accommodate two stretchers and three sitting patients..
+The AW109 Power is This is the latest version, derived from the 109K2 airframe; see main description..
+The AW109 Power Elite is This is a special edition AW109E with a larger, improved interior and soundproofing and an advanced avionics suite..
+The AW109 Power EMS/SAR is This variant is intended primarily for medical evacuation missions..
+The AW109 Power harbor pilot shuttle is This configuration features three rear seats and a central swiveling seat for the hoist operator..
+The AW109M LUH/MH-68A Stingray is This is a militarized version of the AW109E Power..
+The AW109S is The "S" is a stretched version of the 109E, with a cabin that has been extended 10 in (25 cm)..
+The AW109 Trekker is This variant is designed for utility, public services and aerial work operations, including emergency medical service, search-and-rescue, law enforcement and surveillance..
+
+Here is System information for the AW109 Italian Utility Helicopter:
+The Alternative Designation is AW109.
+The Type is Utility Helicopter.
+The Crew is 2 (pilot, co-pilot).
+The Passengers is 6.
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 2.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+The Sling Load Weight Capacity is 907 kg.
+
+Here is Dimensions information for the AW109 Italian Utility Helicopter:
+The Length is 10.71 m.
+The Height is 3.30 m.
+The Rotor Diameter is 11.00 m.
+The Wheel Base is 3.54 m.
+The Disc Area is 95.03 m sq.
+The Cabin Volume is 4.30 m cu.
+The Empty Weight is 1,415 kg.
+The Maximum Takeoff Weight is 2,600 kg.
+
+Here is Automotive information for the AW109 Italian Utility Helicopter:
+The Engine Name is 2 x Allison 250-C20B.
+The Engine Type is Turboshaft.
+The Engine Power is 420 shp each.
+The Fuel Capacity is INA.
+The Maximum Never Exceed Speed is 278 km/h.
+The Economy Cruise Speed is 232 km/h.
+The Climb Rate is 518 m/min.
+The Ceiling, IGE Hover is 2,438 m.
+The Ceiling, OGE Hover is 1,524 m.
+The Service Ceiling is 4,574 m.
+The Maximum Range at Sea Level is 300 nm (345 mi, 556 km) at sea level, internal fuel only.
+The Maximum Range at 1,220 Meters is 440 nm (507 mi, 815 km) at 4,000 ft (1,220 m).
+
+Here is Armament information for the AW109 Italian Utility Helicopter:
+The Note is 8 x TOW or 6 x HOT anti-tank missiles; or 7.62-mm door guns or gun pods or miniguns; or 12.7-mm gun pod or 81-mm, 75-mm, 70-mm, 68-mm or 50-mm rocket pods; or AS12 anti-ship missiles or homing torpedoes, depending on version (see "Variants" below); or 7.62-mm M240 door gun and 12.7-mm sniper rifle in
+MH-68..
+
+Here is Protection information for the AW109 Italian Utility Helicopter:
+The Stealth Properties is None.
+The Add on Armor is INA.
+The Heat Signature Reduction is INA.
+The NBC Protection is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

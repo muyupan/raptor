@@ -1,0 +1,123 @@
+This document describes the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB).
+
+FPB-57 or Fast Patrol Boat 57 m or Fast Patrol Boats 57 m or PB-57 (because not all high speed) is a draft patrol boat made by Liirssen , Germany . In the agreement, PT. PAL, which originally only assembled this ship in Surabaya , also obtained the right to produce the design of this ship. Furthermore, this ship has been made in Surabaya.
+
+In Germany it started with the Albatros class fast patrol boat , where in Germany itself in 2005 , some ships in this class had been retired or sold to Tunisia.
+
+This generation of FPB-57 is part of the hull and the equipment is made in Germany, and installed at PT. PAL, Surabaya. Among others are:
+
+*KRI Andau (650) , created in 1988
+*KRI Singa (651) , created in 1988
+*KRI Tongkak (652) , created in 1989
+*KRI Ajak (653) , created in 1989
+
+This equipment has proliferated into the following countries: Germany, Indonesia, Malaysia.
+
+Here is Variants information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB):
+The KRI Andau (650) is Commissioned: 1988
+Status: Active.
+The KRI Singa (651) is Commissioned: 1988
+Status: Active.
+The KRI Tongkak (652) is Commissioned: 1989
+Status: Active.
+The KRI Ajak (653) is Commissioned: 1989
+Status: Active.
+
+Here is System information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB):
+The Alternative Designation is FPB-57 Nav II Class.
+The Type is Fast Patrol Boat.
+The Builder is Manufactured in Lurssen, Germany.
+The Crew is 42.
+
+Here is Dimensions information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB):
+The Length is 58.10 m.
+The Beam is 7.62 m.
+The Draft is 4.75 m.
+The Displacement, Standard is 445 tons.
+The Displacement, Full Load is INA.
+
+Here is Propulsion System information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB):
+The Engine Name is 2 X Diesel Engines.
+The Engine Type is Diesel.
+The Engine Power is 8,260 hp.
+The Maximum Range is 2,200 nm at 27 knots
+6,000 nm at 15 knots.
+The Maximum Speed is 28.1 kn (52.0 km / h; 32.3 mph) (maximum).
+The Fuel Capacity is INA.
+
+Here is System information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB) of the Main Gun System:
+The Name is Bofors 57 mm l/L70 Naval Gun.
+The Type is Naval Gun.
+The Caliber is 57.
+The Quantity is 1 x Bofors 57 mm l/L70 Naval Gun.
+The Barrel Length is 3,990 mm.
+The Weight is 14,000 kg.
+The Barrels is Single barrel (progressive RH parabolic twist, 24 grooves).
+The Action is Electronic firing.
+The Elevation is −10°/+78°.
+The Traverse is Full 360°.
+The Rate of Fire is 200 rounds/min.
+The Muzzle Velocity is 1,035 m/s.
+The Maximum Firing Range is 17,000 m.
+The Effective Firing Range is 8,500 m.
+The Feed System is 40 ready rounds, 128 rounds in ready racks in mount.
+The Sights is Gyro-stabilized in local control..
+
+Here is Ammunition information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB) of the Main Gun System:
+The Type is Rifle.
+The Caliber is 57mm.
+The Shell is INA.
+The Basic Load is INA.
+
+Here is System information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB) of the Auxiliary Weapon System:
+The Name is Bofors 40 mm gun.
+The Type is Anti-Aircraft Autocannon.
+The Caliber is 40mm.
+The Quantity is 4 x Bofors 40 mm Anti-Aircraft Autocannon.
+The Length is 6.5 m.
+The Barrel Length is 2.2 m.
+The Width is 1.8 m.
+The Height is 1.9 m.
+The Weight is 1,981 kg.
+The Barrels is 1 or 2.
+The Traverse is 360°.
+The Rate of Fire is 120 round/min.
+The Muzzle Velocity is 881 m/s.
+The Maximum Firing Range is 7,160 m.
+
+Here is Ammunition information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 40mm.
+The Shell is 40×311mmR.
+The Basic Load is INA.
+
+Here is Launcher information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB) of the Torpedo System:
+The Launching Tubes is 2 x Torque launch tubes Ø 533 millimeters (20.98 in).
+
+Here is Torpedos information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB) of the Torpedo System:
+The Name is AEG SUT.
+The Type is Surface & Underwater Target guided torpedo.
+The Speed is 23 knots.
+The Range is 28 km.
+
+Here is Fire Control Systems information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB):
+The FCS Name is INA.
+The Computerized FCS is No.
+The Battle Management System is No.
+
+Here is Aircraft Facilities information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB):
+The Note is The FPB-57 Nav I Class is equipped with a flight deck and hangar at the rear for the NBO-105 Class Helicopters..
+
+Here is Radar Systems information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB):
+The Navigation Radar is INA.
+The Scout Surface Radar is Racal Decca / Signaal Scout surface radar.
+
+Here is Sonar information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB):
+The Name is PHS-32.
+The Type is Hull Mounted.
+
+Here is Protection information for the FPB-57 Nav II Class Indonesian Fast Patrol Boat (FPB):
+The Active Protection System is Yes, DR200S system for defense against guided missiles.
+The Countermeasures is Yes, Feeder ( Countermeasures ) Dagie decoy RL.
+The NBC Water Washdown System is Yes.
+

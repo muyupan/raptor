@@ -1,0 +1,96 @@
+This document describes the Type 59-1 Chinese 130mm Towed Gun.
+
+The Type 59-I Field Gun is a licensed copy of the Soviet, Cold War-era M-46 Field Gun.  Normally had two road wheels however, two additional road wheels have been seen on some variants.  Type 59-1 is the result to improve on some of the design flaws of Type 59.  These improvements include a new carriage which is based on Type 66.  The improvement has allowed an improvement in the emplacement and displacement times.  The addition of a base plate gives the gun more stability while firing and, along with the wheels at the end of the split trails, allows the gun to be rotated thus, giving it 360 traverse ability.
+
+This equipment has proliferated into the following countries: Bangladesh, China, Myanmar.
+
+Here is Variants information for the Type 59-1 Chinese 130mm Towed Gun:
+The GM-45 is Developed by NORINCO to field a Chinese-built version of the Austrian GHN-45 gun on the many 130-mm M-46/Type 59 and 152-mm Type 66 carriages remaining in service.
+The M46 carriage was adapted to ensure its recoil resistance was able to withstand the more powerful gun by:
+
+Raising maximum elevation to +55 deg (978 mils);
+Limiting maximum recoil distance to 49.2 in (1,250 mm);
+modifying the GHN-45's recuperator (minimum distance is 30.5 in/775 mm);
+Adopting a pneumatic rammer;
+Modifying the panoramic sight and sight mount;
+Changing the M-46/Type 59's breech ring and breech block to the semi-automatic screw type of the GHN-45;
+Adding compressed-air supply; and
+Incorporating hydraulically actuated trail-wheel raising.
+Weight is 18,739 lb (8,500 kg) firing, 19,401 lb (8,800 kg) traveling; rate of elevation is 11.8 mils/revolution; rate of traverse, 11.25 mils/revolution.
+
+Ammunition is extended-range full-bore high-explosive (ERFB), ERFB/smoke (ERFB/WP), ERFB/base-bleed (ERFB/BB) and ERFB/BB illuminating (ERFB/BB IL) projectiles. Range with ERFB is 32,808 yds (30,000 m), ERFB/BB 42,651 yds (39,000 m). ERFB/WP is 28,433 yds (26,000 m) and ERFB/BB IL is 26,247 yds (2 4,000 m).
+
+The system is available for export.
+Ref: Military Periscope, May 2015.
+
+Here is System information for the Type 59-1 Chinese 130mm Towed Gun:
+The Alternate Designation is Type 59-1.
+The Type is Towed Gun.
+The Caliber is 130 mm.
+The Manufacturer is Norinco.
+The Crew is 8.
+The Breech is Vertical Sliding Wedge.
+The Loader is Semi-automatic.
+The Elevation is -2.5 degrees to 45 degrees.
+The Azimuth of traverse is 50 degrees.
+The Maximum Rate of fire is 8-10 rds/min.
+The Range is 27 km (37 km with improved munitions).
+The Speed while being towed on road is 50.
+The Speed while being towed off road is 20.
+The Speed while being towed cross country is 10.
+The Emplacement Time is 6.
+The Displacement Time is 7.
+The Prime Mover is Most medium trucks in the Chinese inventory.
+The Direct Fire Mode is Can penetrate 250mm of armor at a range of 1,500m.
+
+Here is Dimensions information for the Type 59-1 Chinese 130mm Towed Gun:
+The Length (Traveling) is 11.75.
+The Length (Firing) is 11.1.
+The Width (Traveling) is 2.45.
+The Height is 2.55.
+The Weight is 6.1 tons.
+
+Here is Protection information for the Type 59-1 Chinese 130mm Towed Gun:
+The NBC is No.
+The Frontal Armor is Provides limited protection to the crew against small arms fire.
+
+Here is Cannon information for the Type 59-1 Chinese 130mm Towed Gun of the Armament:
+The Description is 130 mm.
+The Muzzle Brake is Double-buffed muzzle.
+
+Here is Munition 1, Frag-HE, OF 44 information for the Type 59-1 Chinese 130mm Towed Gun of the Armament:
+The Minimum Range is INA.
+The Maximum Range is 22,500.
+The Complete Projectile Weight is 33.4 kg (OF 33).
+The Muzzle Velocity is 930.
+The Fuze Type is V-429 PD.
+
+Here is Munition 2, APC-T information for the Type 59-1 Chinese 130mm Towed Gun of the Armament:
+The Minimum Range is INA.
+The Maximum Range is 1,140.
+The Complete Projectile Weight is 33.49 kg (BR-482B).
+The Muzzle Velocity is INA.
+The Fuze Type is DBR BD.
+
+Here is Munition 3, Frag-HE, OF 43 information for the Type 59-1 Chinese 130mm Towed Gun of the Armament:
+The Minimum Range is INA.
+The Maximum Range is 27,500.
+The Complete Projectile Weight is 33.4 kg (OF-33).
+The Muzzle Velocity is 930.
+The Fuze Type is V-429 PD.
+
+Here is Munition 4, Frag-HE, ERFB-BB information for the Type 59-1 Chinese 130mm Towed Gun of the Armament:
+The Minimum Range is INA.
+The Maximum Range is 38,000.
+The Complete Projectile Weight is 33.4.
+The Muzzle Velocity is 940.
+The Fuze Type is ML-5 PD.
+
+Here is Fire Control System information for the Type 59-1 Chinese 130mm Towed Gun:
+The Indirect Fire is PG-1 Panoramic Telescope (PANTEL).
+The Direct Fire is OP 4-35.
+The Collimator is K-1.
+The Gun Display Unit is None.
+The Fire Control Computer is None.
+The Night Vision is Available for Direct Fire.
+

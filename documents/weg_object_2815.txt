@@ -1,0 +1,48 @@
+This document describes the MDK-3 Russian Tracked Trench-Digging Vehicle.
+
+The MDK-3 trench-digging machine (maschina dorozhnoy kopatelnoy) was developed as the Russian armyʼs intended replacement of the MDK-2, and MDK-2M, full details of which can be found elsewhere in this section.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation, Ukraine.
+
+Here is System information for the MDK-3 Russian Tracked Trench-Digging Vehicle:
+The Alternative Designation is MDK-3.
+The Type is Tracked Trench-Digging Vehicle.
+The Manufacturer is Izdeliye 453.
+The Crew is 2.
+The Chassis is MT-T tracked artillery tractor.
+The Bulldozer Blade is Yes.
+The Crane Penetration is No.
+The Ground Penetrating Radar is No.
+The Mine Clearing is Limited with blade.
+The Proofing Roller is No.
+The Bucket Loader is No.
+The Back-hoe Excavator is No.
+The Scatterable Mine Dispenser is No.
+The Ditch Trencher is Yes.
+
+Here is Dimensions information for the MDK-3 Russian Tracked Trench-Digging Vehicle:
+The Length, in Travel Configuration is 10.22 m.
+The Length, While Trench Digging is 11.75 m.
+The Width, in Travel Configuration is 3.23 m.
+The Width, While Trench Digging is 4.6 m.
+The Height, in Travel Configuration is 4.04 m.
+The Height, While Trench Digging is 3.25 m.
+The Weight is 39.5 Tons.
+
+Here is Automotive information for the MDK-3 Russian Tracked Trench-Digging Vehicle:
+The Engine Name is V-64-4.
+The Engine Type is V12 Diesel.
+The Engine Power is 710.
+The Cruising Range is 500.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is 35.
+The Speed Maximum Swim is INA.
+The Fording Depth is INA.
+
+Here is Protection information for the MDK-3 Russian Tracked Trench-Digging Vehicle:
+The Hull Armor is None.
+The Applique Armor is No.
+The Mine Clearning is No.
+The NBC Protection is Yes, overpressure.
+The Smoke Equipment is No.
+

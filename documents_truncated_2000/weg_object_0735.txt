@@ -1,0 +1,43 @@
+This document describes the Sargut Turkish Unmanned Aerial Vehicle (UAV).
+
+The Sargut Turkish Unmanned Aerial Vehicle (UAV) is developed by ASİSGUARD to be used in civilian operations for surveillance purposes. Due to its gimbal integrated high definition camera, SARGUT drone system is suitable to be used in both day and night camera surveillance missions. 
+
+SARGUT unarmed drone system’s user friendly and portable design aims to provide easiness to user during the operation such as autonomous/manual flight modes, return to home function on link-loss, mission planning, autonomous flight on planned route and in-flight mission change.
+
+Real-time monitoring and recording of high definition gimbal camera video and telemetry data of the flight is possible through its ergonomic design of Ground Control Station. Ground Control Station’s user interface also allows operator to start/stop the recording of flight or watch a record selected among the previous records.
+
+This equipment has proliferated into the following countries: Turkey.
+
+Here is System information for the Sargut Turkish Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Sargut.
+The Type is Vertical Take-Off and Landing (VTOL) Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Asisguard.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Payload Capacity is INA.
+The Reconnaissance Equipment is High definition gimbal integrated
+camera; Mission planning
+on Moving map and
+Autonomous Flight on
+Planned Route;.
+The Operating Temperature is -20°C and +50°C.
+The Maximum Wind Speed is 10 m/s.
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+
+Here is Dimensions information for the Sargut Turkish Unmanned Aerial Vehicle (UAV):
+The Length is 140 cm from rotor to rotor.
+The Width is INA.
+The Height is INA.
+The Maximum Takeoff Weight is 38 kg.
+
+Here is Automotive information for the Sargut Turkish Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Maximum Speed is 54 km/h.
+The Cruising Speed is INA.
+The Service Ceiling is 3,000 m.
+The Operational Range is 5 km.
+The Endurance is 27 min.
+

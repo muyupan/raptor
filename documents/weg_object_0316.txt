@@ -1,0 +1,63 @@
+This document describes the 1B75 Penicillin Russian 8x8 Counter-Artillery System.
+
+The 1B75 Penicillin Russian 8x8 Counter-Artillery System is a counter-artillery system designed to use acoustic signals and thermal imaging to detect enemy artillery and direct counter-battery fire. The 1B75 has an effective detection range of 25 km and can direct a single battery at a time.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the 1B75 Penicillin Russian 8x8 Counter-Artillery System:
+The 1B76 Penicillin is The IB76 is an acoustic/thermal reconnaissance and target acquisition platform mounted on a KamAZ-63501 chassis. This variant relies principally on combining thermal and acoustic data to provide counter-battery capability..
+
+Here is System information for the 1B75 Penicillin Russian 8x8 Counter-Artillery System:
+The Alternative Designation is 1B75 Penicillin.
+The Type is Counter-Artillery System.
+The Manufacturer is Rostec State Corporatio.
+The Chassis is Kamaz 6350.
+The Configuration is 8x8.
+The Crew is INA.
+The Towing Capacity is 12,000.
+
+Here is Dimensions (Chassis: Kamaz 6350) information for the 1B75 Penicillin Russian 8x8 Counter-Artillery System:
+The Length is 9.3.
+The Width is 2.5.
+The Height is 3.25.
+The Weight, Combat is 11.4.
+
+Here is Automotive information for the 1B75 Penicillin Russian 8x8 Counter-Artillery System:
+The Engine Name is KamAZ-740.50.360.
+The Engine Type is Diesel.
+The Engine Power is 360.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 95.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 0.6 - 1.4.
+The Fording Depth is 1.75.
+
+Here is Reconnaissance and Artillery Target-Acquisition Platform information for the 1B75 Penicillin Russian 8x8 Counter-Artillery System:
+The Optical-Electronics Module is a stabilised platform that can support an array of six thermal, and six optical cameras with an angle view of 70° in azimuth and 10° in elevation. These cameras are co-located in two separate box housings that have mechanised covers to protect them during transport and operation. The opto-electronics module can operate continuously for 18 hours, after which a one-hour break is required..
+The Workstation is The rear of the chassis contains a C2 element that may house workstations and communication interfaces..
+The Flat field angle in the infrared channel of the OEM in azimuth is not less than 70 (1.22) degrees (rad).
+The Flat angle of view in the infrared channel of the OEM by elevation is not less than 10 (0.17) degrees (rad).
+The Flat angle of view in Azimuth TV Channel is not less than 70 (1.22) degrees (rad).
+The Flat field of view in the television channel on the OEM angle of elevation is not less than 10 (0.17) degrees (rad).
+The Optical linking error of individual optical-electronic cameras (both information channels) is no more than 1.5 angular minutes.
+The The error of levelling the angle of view of the OEM, at the angles of inclination of the mating plane of the turntable of the OEM to ± 15 degrees is no more than 2 angular minutes.
+The Accuracy error of the angle of view of the turntable of the OEM in azimuth ± 150 degrees is no more than ± 30.
+The The error of movement of the angle of view of the turntable of the OEM in the elevation angle by ± 15 degrees is no more than ± 30.
+The OEM is operational at supply voltage values from an external DC source is 27 V.
+The Mortar Detection Ranges is 10 km.
+The Artillery Detection Ranges is 25 km.
+
+Here is Protection information for the 1B75 Penicillin Russian 8x8 Counter-Artillery System:
+The Armor is Proposed with concealed built-in internal armor..
+The Applique Armor is INA.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The IR Signature is No.
+

@@ -1,0 +1,89 @@
+This document describes the Type 079 Class (Yulian Class) Chinese Landing Ship Medium (LSM).
+
+The origin of Type 79 series LSM dates back in the 1970s, when North Vietnam asked China to produce a landing ship capable of carrying around 200 tons of cargo with maximum speed of 12 kts, but more importantly, the manufacturing technique had to be simply so that it must be able to be built quickly in large numbers.
+
+Design of Type 079 LSM took more than two years, lasting from 1971 to 1973, and construction begun in May 1974 at Guangzhou Shipyard International, and launched on July 22, 1976. Due to the changes of Sino-Vietnamese relations, the end customer became PLAN instead, and the ship entered PLAN service in October, 1976. This class received NATO reporting name Yulian class. Trials between December 1972 to January 1977 has revealed that the performance was somewhat satisfactory, but the speed was slow and the ability to operate in bad weather condition is poor, with the maximum sea state allowed to operate being sea state 6. Work immediately begun on redesign named as Type 79II LSM, while the first unit is subsequently named as Type 79I LSM.
+
+Shortcomings of Type 79I LSM revealed in trials lead to immediate redesign named as Type 79II LSM, which was completed in October 1977, and a total of 31 was built, including the conversion of the sole Type 79I LSM to Type 79II standard. 26 were completed by Guangzhou Shipyard International, and 4 were completed by Xiamen Shipyard. Like its predecessor Type 79I LSM, Type 79II LSM was also designed by 708th Research Institute. The main difference between 79I & 79II is that the latter is larger, with dimensions increased to 72 m x 13.8 m x 2.6 m respectively, and the displacement is increased to 1100 tons. More complex machinery was added, lead to the increase of crew member to 109, more than 3 times of that of the original Type 79I LSM. The speed is also slightly increased to 13 kts. Armament is strengthened by the addition of two BM21 122 mm rocket launchers. Nearly three decades after production ended in 1983, all 30 Type 79II LSM still remain in Chinese service today, mostly in Chinese navy South Sea Fleet (PLAN SSF), though most of them are delegated to transport duties.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Type 079 Class (Yulian Class) Chinese Landing Ship Medium (LSM):
+The Alternative Designation is Type 079 Class; NATO: Yulian Class.
+The Type is Landing Ship Medium (LSM).
+The Builder is Wuhu Shipyard Wuhu, Anhui.
+The Crew is 36.
+The Cargo Capacity is 200 tons, or 5 medium tanks or 8 trucks.
+
+Here is Dimensions information for the Type 079 Class (Yulian Class) Chinese Landing Ship Medium (LSM):
+The Length is 60.3m.
+The Beam is 10m.
+The Draft is 2.36m.
+The Displacement, Standard is 730 Tons.
+The Displacement, Full Load is 833 Tons.
+
+Here is Propulsion System information for the Type 079 Class (Yulian Class) Chinese Landing Ship Medium (LSM):
+The Engine Name is 2 x 6300.
+The Engine Type is Diesel.
+The Engine Power is 4,900 total bhp; 2 shafts.
+The Maximum Range is 1000 nm @ 18.5 km/h (10 kt).
+The Maximum Speed is 22.2 km/h (12 kts).
+The Endurance is 7 days.
+
+Here is Gun Weapon System #1 information for the Type 079 Class (Yulian Class) Chinese Landing Ship Medium (LSM) of the Gun Weapon Systems:
+The Name is Type 61.
+The Type is Anti-Aircraft Gun.
+The Caliber is 25mm.
+The Quantity is 1 x Type 61 Twin 25mm Anti-Aircraft Gun.
+The Barrel Length is 1.5 m.
+The Weight is INA.
+The Barrels is 2.
+The Elevation is -10° ~ +85°.
+The Traverse is 360°.
+The Rate oF fire is Compact: 800~900 round/min.
+The Muzzle Velocity is 900 m/s.
+The Maximum Firing Range is 3,000 m.
+The Effective Firing Range is 2,700 m.
+The Feed System is Magazine.
+The Sights is Optical.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Type 079 Class (Yulian Class) Chinese Landing Ship Medium (LSM) of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 25.
+The Shell is 25 x 218 mm SR.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Type 079 Class (Yulian Class) Chinese Landing Ship Medium (LSM) of the Gun Weapon Systems:
+The Name is QJG02.
+The Type is Heavy Machine Gun.
+The Caliber is 14.5mm.
+The Quantity is 4 x QJG02 14.5mm Heavy Machine Gun.
+The Manufacturer is NORINCO.
+The Length is 2.39m.
+The Weight is 75 kg.
+The Elevation is INA.
+The Traverse is 360°.
+The Rate of Fire is 500 - 600 rpm.
+The Maximum Firing Range is 1 to 2 km.
+The Carriage is Tripod mount for QJG02.
+The Manpack is Can be disassembled into 5 parts of about 20 kg each.
+
+Here is Gun Weapon System #2 Ammunition information for the Type 079 Class (Yulian Class) Chinese Landing Ship Medium (LSM) of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 14.5.
+The Cartridge is 14.5x114mm.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Type 079 Class (Yulian Class) Chinese Landing Ship Medium (LSM):
+The FCS Name is INA.
+The Computerized FCS is INA.
+The Battle Management System is No.
+
+Here is Radar Systems information for the Type 079 Class (Yulian Class) Chinese Landing Ship Medium (LSM):
+The Navigation Radar is 1 Type 756 navigation radar.
+
+Here is Protection information for the Type 079 Class (Yulian Class) Chinese Landing Ship Medium (LSM):
+The Active Protection System is Anti-Aircraft Gun and 14.5mm Machine Guns.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

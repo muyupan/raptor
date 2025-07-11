@@ -1,0 +1,88 @@
+This document describes the B-10 Russian 82mm Smoothbore Recoilless Gun.
+
+The B-10 recoilless rifle (Bezotkatnojie orudie-10, known as the RG82 in East Germany) is a Soviet 82 mm smoothbore recoilless gun. It could be carried on the rear of a BTR-50 armored personnel carrier. It was a development of the earlier SPG-82 and entered Soviet service in 1954. It was phased out of service in the Soviet Army in the 1960s and replaced by the SPG-9, remaining in service with parachute units at least until the 1980s. Although now obsolete it was used by a large number of countries during the Cold War.
+
+The weapon consists of a large barrel, with a PBO-2 sight mounted to the left. It is mounted on a small carriage, which has two large wheels, which can be removed. The carriage has an integrated tripod, from which the weapon is normally fired. A small wheel is fitted to the front of the barrel to prevent it from touching the ground while being towed. It is normally towed by a vehicle, although it can be towed by its four-man crew for short distances using the tow handle fitted to either side of the muzzle.
+
+The tripod can be deployed in two positions providing either a good field of fire or a low silhouette. Rounds are inserted into the weapon through the breach, and percussion is fired using a pistol grip to the right of the barrel. The PBO-2 optical sight has a 5.5x zoom for direct fire sight, and a 2.5x zoom sight for indirect fire.
+
+This equipment has proliferated into the following countries: Afghanistan, Algeria, Angola, Bulgaria, Cambodia, Chad, China, Egypt, Ethiopia, Guinea, Guinea-Bissau, Iran (Islamic Republic of), Iraq, Libya, Mozambique, Namibia, Nicaragua, North Korea (Democratic People's Republic of Korea), Pakistan, Poland, Russian Federation, Somalia, Sudan, Togo, Viet Nam, Yemen.
+
+Here is Variants information for the B-10 Russian 82mm Smoothbore Recoilless Gun:
+The Type 65 is Chinese version that weighs only 28.2 kg with a tripod mount and no wheels..
+The B-10 is Russian Version..
+The Type 65-1 is Chinese lightened version (26 kg)..
+The Type 78 is Chinese lightened version..
+The RG 82 is East Germany version..
+
+Here is System information for the B-10 Russian 82mm Smoothbore Recoilless Gun:
+The Alternative Designation is B-10.
+The Type is Smoothbore Recoilless Gun.
+The Caliber is 82 mm.
+The Manufacturer is KBM (Kolomna).
+The Carriage is Two wheeled with integrated tripod.
+The Crew is 4.
+The Displacement Time is Under 1 minute.
+The Emplacement Time is Under 1 minute.
+
+Here is Dimensions information for the B-10 Russian 82mm Smoothbore Recoilless Gun:
+The Length, Overall is 1,910 mm.
+The Barrel Length is 1,659 mm.
+The Width is 714 mm.
+The Height is 420–850 mm.
+The Weight in Firing Position is 86 kg.
+The Barrel Width, Front Portion is 11 kg.
+The Barrel Width, Rear Portion is 37.7 kg.
+The Tripod Weight is 22 kg.
+The Wheeled Trolley Weight is 13 kg.
+The PBO-2 Sight is 2.3 kg.
+
+Here is System information for the B-10 Russian 82mm Smoothbore Recoilless Gun of the Main Weapon System:
+The Name is B-10.
+The Type is Towed Recoilless Rifle.
+The Caliber is 82.
+The Action is Single shot.
+The Carriage is Two wheeled with integrated tripod.
+The Elevation is -20/+35°.
+The Traverse is 250° in each direction for 360 total..
+The Rate of Fire is 5 to 7 rpm.
+The Direct Fire Sighting Range is 0–1,400 m.
+The Indirect Fire Sighting Range is 200–4,500 m.
+The Maximum Direct Fire Range for a 2 Meter Target is 390 m.
+The Maximum Direct Fire Range is 1,400 m.
+The Maximum Indirect Fire Range is 4,500 m.
+The Minimum Arming Distance is 2.5 m.
+The Feed System is Breech loaded.
+The Sights is Optical (PBO-2).
+
+Here is Ammunition (Option 1) information for the B-10 Russian 82mm Smoothbore Recoilless Gun of the Main Weapon System:
+The Name is BK-881.
+The Type is HEAT-FS.
+The Caliber is 82.
+The Weight is 3.87 kg. 0.46 kg of RDX..
+The Fuze is GK-2 PIBD fuze.
+The Basic Load is INA.
+
+Here is Ammunition (Option 2) information for the B-10 Russian 82mm Smoothbore Recoilless Gun of the Main Weapon System:
+The Name is BK-881M.
+The Type is HEAT-FS.
+The Caliber is 82.
+The Weight is 4.11 kg. 0.54 kg of RDX..
+The Fuze is GK-2M PDIBD fuze..
+The Basic Load is INA.
+
+Here is Ammunition (Option 3) information for the B-10 Russian 82mm Smoothbore Recoilless Gun of the Main Weapon System:
+The Name is O-881A.
+The Type is HE-FRAG.
+The Caliber is 82.
+The Weight is 3.90 kg. 0.46 kg of TNT/dinitronaphthalene.
+The Fuze is GK-2 fuze..
+The Basic Load is INA.
+
+Here is Fire Control information for the B-10 Russian 82mm Smoothbore Recoilless Gun:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Sights is PBO‐2 sight.
+

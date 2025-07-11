@@ -1,0 +1,42 @@
+This document describes the HY-2 (CSS-C-3 Seersucker) Chinese Short-Range Anti-Ship Cruise Missile.
+
+The HY-2 is identical to the HY-1 but with a further stretched body. The missile features a round nose accommodating the radar seeker, a pair of mid-mounted delta wings on the middle section of the missile body, and three tail control surfaces. The missile is powered by a liquid-fuel rocket motor, with a solid rocket booster attached under the missile fuselage.
+
+The HY-2 is launched from the land-based launcher and flies at an altitude of 1000 m during the initial stage of the flight. After the missile switched to the cruising mode, the flight altitude was reduced to 100 ~ 300 m. During the final stage of the flight, the missile switched on its radar seeker and dives to an altitude of 8 m until it hits the target. The single-shot hit probability is estimated to be 90%. Due to its oversized body, the HY-2 did not develop a ship-to-ship variant. The missile is obsolete and will be replaced by the YJ-8 series in the future.
+
+This equipment has proliferated into the following countries: Bangladesh, China, Cuba, Iran (Islamic Republic of), Myanmar, Sudan.
+
+Here is Variants information for the HY-2 (CSS-C-3 Seersucker) Chinese Short-Range Anti-Ship Cruise Missile:
+The HY-2 is Basic variant radar-guidance land-to-ship missile *developed from the HY-1 missile..
+The HY-2A is IR-guidance variant..
+The HY-2AII is Improved variant of the HY-2A..
+The HY-2B is Improved radar guidance variant with a monopulse radar seeker replacing the original conical scanning radar..
+The HY-2BII is Improved variant of the HY-2B with a newly designed radar seeker..
+The C-201 is Export designation for HY-2..
+The C-201W is Extended-range variant powered by a turbojet engine replacing the original liquid-fuel rocket motor. Export only..
+The YJ-6 is Air launched variant of the HY-2..
+The YJ-61 is Improved variant of the YJ-6..
+
+Here is System information for the HY-2 (CSS-C-3 Seersucker) Chinese Short-Range Anti-Ship Cruise Missile:
+The  is .
+The  is .
+The  is .
+
+Here is Missile information for the HY-2 (CSS-C-3 Seersucker) Chinese Short-Range Anti-Ship Cruise Missile of the HY-2 (CSS-C-3 Seersucker) Anti-Ship Cruise Missile:
+The Name is HY-2; NATO: CSS-C-3 Seersucker.
+The Type is Anti-Ship Cruise Missile.
+The Basic Load is INA.
+The Manufactuer is Nanchang Aircraft Factory (Chinese).
+The Length is 7.48 m.
+The Diameter is 0.76 m.
+The Wingspan is 2.4 m.
+The Weight, Total is 2,998 kg.
+The Warhead Type is Shaped charge high explosive.
+The Warhead Weight is 513 kg.
+The Propulsion is One liquid rocket engine and one solid rocket booster.
+The Speed is Mach 0.8.
+The Range is 200 km.
+The Cruising Altitude is < 20 meters.
+The Guidanc System is Inertial + active conical scanning terminal guidance radar (HY-2); or inertial + infrared homing guidance (HY-2A); or inertial + monopulse active radar (HY-2B).
+The Single-Shot Kill Probability is 90%.
+

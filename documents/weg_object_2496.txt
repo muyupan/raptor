@@ -1,0 +1,66 @@
+This document describes the IRM Zhuk Russian Amphibious Engineer Reconnaissance Vehicle.
+
+The IRM Zhuk Russian Engineer Reconnaissance Vehicle conducts reconnaissance of routes, fords, water barriers (velocity, depth, underwater obstacles, and bottom profile and density), ice, mapping, and overall terrain trafficability. Its chassis employs components of the BMP-1 IFV. It has two propellers on the rear of the hull for propulsion in the water. A wave deflector covers the front of the hull.  The IRM has an emergency extraction/self-recovery system available which allows the vehicle to quickly extract itself when stuck in the mud, etc. without having the crew exit the vehicle. The system consists of two racks of 12 rockets each mounted on the rear deck between the propellers. This rocket propulsion system is especially valuable if the vehicle is stuck when under enemy fire.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the IRM Zhuk Russian Amphibious Engineer Reconnaissance Vehicle:
+The IPR is Very similar to the IRM except it has a folding snorkel on the rear deck..
+
+Here is Dimensions information for the IRM Zhuk Russian Amphibious Engineer Reconnaissance Vehicle of the System:
+The Length is 8.30 m.
+The Width is 3.15 m.
+The Height is 2.42 m.
+The Weight is 18,000 kg.
+The Ground Clearance is 0.40 m.
+The Ground Pressure is 0.69 kg/cm²  (67666 Pa)  (9.81 psi).
+
+Here is Automotive information for the IRM Zhuk Russian Amphibious Engineer Reconnaissance Vehicle:
+The Engine Name is Type UTD-20.
+The Engine Type is In line-6, water cooled, diesel.
+The Engine Power is 300 hp at 2,000 rpm.
+The Power-to-Weight Ratio is 16.67 hp/t.
+The Fuel Capacity is 600 liters.
+The Electrical System is 24 V.
+The Steering is clutch and brake.
+The Suspension is torsion bar.
+The Maximum Land Speed is 52 km/h.
+The Maximum Amphibious Speed is 10 km/h.
+The Range is 500 km.
+The Gradient is INA.
+The Vertical Obstacle is 0.65 m.
+The Trench is 2.3 m.
+The Amphibious is The vehicle is fully amphibious and, when travelling, the hull superstructure may carry a folded-down snorkel mast approximately 10 m long which is erected when the vehicle operates fully submerged; this mast is not always carried. When floating, the vehicle is driven and steered by two three-bladed, cowled propellers mounted one either side at the rear. A trim vane is fitted at the front of the vehicle and this is extended prior to amphibious operations..
+
+Here is Radio information for the IRM Zhuk Russian Amphibious Engineer Reconnaissance Vehicle of the Communications:
+The Name is Onboard and 2 dismountable R-147.
+
+Here is System information for the IRM Zhuk Russian Amphibious Engineer Reconnaissance Vehicle of the Main Weapon System:
+The Name is 1 × 7.62 mm  PKT General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,098 mm.
+The Barrel Length is 1,098 mm.
+The Weight is 10.5 kg.
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 700–800 rounds/min.
+The Muzzle Velocity is 855 m/s.
+The Maximum Firing Range is 4,000 m.
+The Effective Firing Range is 1,500 m.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the IRM Zhuk Russian Amphibious Engineer Reconnaissance Vehicle of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×54mmR.
+The Basic Load is INA.
+
+Here is Protection information for the IRM Zhuk Russian Amphibious Engineer Reconnaissance Vehicle:
+The Hull Armor is The all-welded steel-armoured hull of the IRM provides the occupants with protection from small-arms fire..
+The Armor, Applique is INA.
+The Armor, Explosive Reactive is INA.
+The NBC Protection is Collective protection system.
+The Self entrenching blade is No.
+The Smoke Equipment is Vehicle engine exhaust smoke system (VEESS).
+

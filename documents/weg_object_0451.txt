@@ -1,0 +1,60 @@
+This document describes the 9P132 Russian 122mm One-Round Rocket Launcher.
+
+The 9P132 is a lightweight, man-portable, rocket launching system used by guerrilla, special purpose forces, or other light forces. The 9P132 is only effective as a harassment or interdiction weapon. The 9P132 is broken down for man-pack transport into two one-man loads – the tube, AKA “Grad-P” (27 kg), and the tripod sight assembly with a remote firing device (28 kg).  The tripod legs fold for ease of handling.
+Each 9M22M rocket is broken down into two one-man loads for transport. It takes approximately two minutes for the assembly of the rocket. When assembled, the launcher has three-course elevation positions, with the final elevation set by means of an elevation screw. The crew uses an electrical remote control with an electrical impulse generator and battery to fire the launcher. The 9P132 is incapable of firing the 9-foot version rockets of the BM-21 and similar 122mm systems.
+The system was developed in the middle of the 1960s for Soviet special units and was used by Vietnamese forces at war with the US, under the designation DKZ-B.   It was not accepted for regular service with the Russian Army, but it was and is still popular with paramilitary and guerrilla forces.
+
+This equipment has proliferated into the following countries: Cuba, Russian Federation, Venezuela (Bolivarian Republic of).
+
+Here is System information for the 9P132 Russian 122mm One-Round Rocket Launcher:
+The Alternative Designation  is DKZ-66, BM-21P, Grad-P, 9K510.
+The Type is Rocket Launcher.
+The Caliber is 122.
+The Crew  is 4-5 (includes ammunition bearers).
+The Displacement Time  is 2.
+The Emplacement Time  is 2.5.
+The Launch Rate is 1 round per minute.
+The Launcher Name is Grad-P.
+
+Here is Dimensions information for the 9P132 Russian 122mm One-Round Rocket Launcher:
+The Length is 2.5.
+The Width is 1.5.
+The Height is 1.5.
+The Weight is 55.
+
+Here is Armament information for the 9P132 Russian 122mm One-Round Rocket Launcher:
+The Loader Type is Manual.
+The Quantity, Tubes  is 1.
+The Reload Time  is 40.
+The Traverse  is 14.
+The Traverse, Left  is 7.
+The Traverse, Right  is 7.
+The Rate of Fire is 1.
+The Elevation is +10°/+40°.
+
+Here is Option 1 information for the 9P132 Russian 122mm One-Round Rocket Launcher of the Ammunition:
+The Name is 9M22M.
+The Type is Frag-HE.
+The Caliber is 122.
+The Fuze Type is PD.
+The Maximum Velocity  is 450.
+The Range, Maximum Effective Range is 3.
+The Range, Maximum is 10.8.
+The Weight  is 46.
+The Projectile Length with Fuze is 1.9.
+
+Here is Option 2 information for the 9P132 Russian 122mm One-Round Rocket Launcher of the Ammunition:
+The Name is 9M42.
+The Type is Illuminating Rocket Projectile.
+The Caliber is 122.
+The Fuze Type is INA.
+The Maximum Velocity  is INA.
+The Maximum Indirect Fire Range  is 5.
+The Range, Minimum Effective  is 1.
+The Weight  is INA.
+The Length, Rocket  is 1.9.
+
+Here is Fire Control Systems information for the 9P132 Russian 122mm One-Round Rocket Launcher:
+The Collimator is K-1.
+The Indirect Fire is PG-1M Panoramic Telescope (PANTEL).
+

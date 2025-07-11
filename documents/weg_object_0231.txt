@@ -1,0 +1,109 @@
+This document describes the M-1985 North Korean 122mm Multiple Rocket Launcher (MRL).
+
+The M-1985 122mm multiple rocket launcher (MRL) is a 40 round, North Korean produced launcher mounted on an Isuzu truck.
+
+MRL 122 mm M1985: This is a more modern version, based on an Isuzu 6×6 truck and probably with a 40-round reload-pack mounted between the cab and the launcher
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is System information for the M-1985 North Korean 122mm Multiple Rocket Launcher (MRL):
+The Alternative Designation is M-1985.
+The Type is 122mm Multiple Launch Rocket System.
+The In Service is 1985-Present.
+The Crew is 5.
+The Chassis is North Korean produced launcher mounted on an Isuzu truck..
+The Displacement Time is 3.
+The Emplacement Time is 2.
+
+Here is Dimensions information for the M-1985 North Korean 122mm Multiple Rocket Launcher (MRL):
+The Length is 7.35.
+The Width is 2.4.
+The Height is 3.09.
+The Weight, Combat is 13.7.
+The Ground Pressure is INA.
+
+Here is Automotive information for the M-1985 North Korean 122mm Multiple Rocket Launcher (MRL):
+The Chassis is North Korean produced launcher mounted on an Isuzu truck..
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Cruising Range is INA.
+The Speed, Maximum Road is INA.
+The Speed, Maximum Off-Road is INA.
+The Speed Maximum Swim is No Amphibious.
+The Gradient is INA.
+The Side Slope is INA.
+The Vertical Step is INA.
+The Trench is INA.
+The Fording Depth is INA.
+
+Here is System information for the M-1985 North Korean 122mm Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Name is 9P132.
+The Type is 122.
+The Number of Tubes is 40.
+The Full Salvo is 20.
+The Single Rocket Interval is .5 seconds per rocket.
+The Reloading Time is 7.
+The Max Elevation is +55.
+The Min Elevation is 0.
+The Traverse Range is 172.
+The Traverse Left is 102.
+The Traverse Right is 70.
+The Maximum Effective Firing Range is 21.
+The Minimum Effective Firing Range is 1.6.
+The Loader Type is Manual.
+The Launcher Drive is Electric.
+
+Here is Ammunition (Option 1) information for the M-1985 North Korean 122mm Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Name is 9M22U.
+The Type is FRAG-HE.
+The Caliber is 122.
+The Maximum Effective Range is 20.4.
+The Minimum Effective Range is 0.5.
+The Warhead Weight is 18.4 kg (M21OF).
+The Rocket Length is 2.87.
+The Maximum Velocity is INA.
+The Fuze Type is MRV-U (PD).
+
+Here is Ammunition (Option 2) information for the M-1985 North Korean 122mm Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Name is 9M28F.
+The Type is FRAG-HE.
+The Caliber is 122.
+The Maximum Effective Range is 15.
+The Minimum Effective Range is 1.5.
+The Warhead Weight is 21.
+The Rocket Length is 2.87.
+The Maximum Velocity is INA.
+The Fuze Type is MRV-U (PD) or AR-6 (proximity).
+
+Here is Ammunition (Option 3) information for the M-1985 North Korean 122mm Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Name is Type 90A (Chinese).
+The Type is FRAG-HE.
+The Caliber is 122.
+The Maximum Effective Range is 32.7.
+The Minimum Effective Range is 12.7.
+The Warhead Weight is 18.3.
+The Rocket Length is 2.75.
+The Maximum Velocity is INA.
+The Fuze Type is PD.
+The Note is The BM-21 can fire the following additional ammo: Smoke, Incendiary, Chemical, RF Jammer, Illumination, Antitank mines, Antipersonnel mines.
+
+Here is Fire Control information for the M-1985 North Korean 122mm Multiple Rocket Launcher (MRL):
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is INA.
+The Indirect Fire is PG-1M Panoramic Telescope (PANTEL).
+The Position Location System is No.
+The Collimator is K-1.
+
+Here is Protection information for the M-1985 North Korean 122mm Multiple Rocket Launcher (MRL):
+The Hull Armor is None.
+The Turret Armor is None.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is No.
+The Smoke Equipment is No.
+

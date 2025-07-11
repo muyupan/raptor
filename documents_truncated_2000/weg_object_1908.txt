@@ -1,0 +1,72 @@
+This document describes the XA-185 Finnish 6x6 Amphibious Armored Personnel Carrier (APC).
+
+XA-185
+This is an improved version of the XA-180 fitted with a more powerful diesel engine and stronger axles.
+
+The Patria Pasi (earlier known as the Sisu Pasi) is a Finnish-made six-wheeled armoured personnel carrier (APC) originally designed for Finnish Defence Forces. The first version was produced in 1983 and serial production began in 1984. It was designed to operate with ease of use, simple structure and low-cost maintenance. The basic appearance and configuration of Patria Pasi is similar to most wheeled APCs. The XA-180 and XA-185 versions are fully amphibious while the XA-203 is not.
+
+In 1980, Sisu produced an XA-180 prototype for Finnish Army tests. It competed against two other prototypes, but was declared the winner of the trials in 1983. On 22 December 1983 the Finnish Army ordered a first batch of fifty XA-180s, of which nine were reserved for UN duties. The vehicle proved quite successful and more orders were soon to follow.
+
+The XA-180 was originally manufactured and marketed by the Finnish company Sisu Auto but later variants were marketed by the Finnish defence company Patria and are known as Patria XA series.[1] The Vehicle's widely known nickname "Pasi" (also a common given name of Finnish men) stems from the Finnish name "panssari-Sisu" (English: armoured Sisu). The main superstructure is mainly manufactured from 6 to 12 mm of armour steel and the bottom is mine-strengthened, and the front windows are bullet-resistant and equipped with protective hatches. The vehicle has continuous six wheel drive and good capabilities for off-road driving. It can take inclines up to a maximum of 60°.
+
+The XA series has no standard armament, but is equipped with a rotating turret structure for installation of light/heavy machine guns or autocannons. It also has 8 BMP style firing ports on the sides and rear. Therefore, passengers, usually a squad of infantry, can fire their weapons from the cover of the armor.
+
+The XA series is popular in peacekeeping missions due to its mobility, non-aggressive appearance, and good protection against mines and improvised explosive devices (IED). The vehicle also offers a good combination of armament, comfort, mine protection, protection against shrapnel and small calibre fire, road speed, short time of learning how to drive, and an acceptable terrain mobility. It also offers more internal space compared to other similar vehicles like the Fuchs or BTR-80.
+
+This equipment has proliferated into the following countries: Estonia, Finland.
+
+Here is Variants information for the XA-185 Finnish 6x6 Amphibious Armored Personnel Carrier (APC):
+The XA-180 is Original six wheeler, carries crew of 2 and 16 troops. Empty weight ca 12 tonnes..
+The XA-185 is Upgraded version, carries crew of 2 and 18 troops. Has a more powerful engine and improved power transmission. Used as an ambulance in the Norwegian Army..
+The XA-186 is Upgraded armour. Armoured and equipped with machine-assisted gun turret (.50 BMG). Cannot swim because of the heavy armour. Empty weight ca 19 tonnes. Engine and transmission same as XA-185..
+The XA-188 is Used by the Netherlands Army..
+The XA-200 is The 200 series looks a little different from older variants due to increased armour. It lacks amphibious capabilities but can wade through water that is up to 1.5 m deep. The improved armour protects the passengers against up to 14.5 mm small arms fire. It is also equipped with modern optical aids like periscopes and night vision. The armor upgrade was initiated after the realisation that the previous armor was inadequate, even modern armor-piercing 7.62 mm ammunition could pierce the older XA-180 and XA-185 models in certain areas. The XA-202 was originally developed for Communications and Command. The XA-203 was made as a temporary replacement for XA-185, and is intended to be replaced by Patria AMVs in Finnish service. The Patria AMV (Armored Modular Vehicle) is an 8×8 multi-role military vehicle produced by the Finnish defence company Patria..
+
+Here is System information for the XA-185 Finnish 6x6 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is XA-185.
+The Type is 6x6 Amphibious Armored Personnel Carrier (APC).
+The Manufacturer is Patria Vehicles Oy, Hameenlinna, Finland.
+The Family is XA Series.
+The Crew is 2 (commander, driver).
+The Passenger Capacity is 10 Troops.
+
+Here is Dimensions information for the XA-185 Finnish 6x6 Amphibious Armored Personnel Carrier (APC):
+The Length is 7.35 m.
+The Width is 2.90 m.
+The Height is 2.30 m.
+The Distance between a Axles, 1st to 2nd is 1.90 m.
+The Distance between a Axles, 2nd to 3rd is 1.90 m.
+The Tire Size is 356 x 508 mm.
+The Ground Clearance is 0.40 m.
+The Combat Weight is 15,000 kg.
+The Unloaded Weight is 12,000 kg.
+The Payload Weight, Road is 6,500 kg.
+The Payload Weight, Cross-Country or Swimming is 3,000 kg.
+
+Here is Automotive information for the XA-185 Finnish 6x6 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is 1 x Valmet 612 DWI.
+The Engine Type is 451-cu in (7.4-l) liquid-cooled, turbocharged, 4-stroke, 6-cyl inline
+diesel.
+The Engine Power is 271 hp (202 kW) at 2,500 rpm.
+The Power-to-Weight Ratio is 16.0 hp/metric ton.
+The Transmission is Allison automatic MD 3560P.
+The Suspension is 6 x 6 (6 wheels driving, 4 wheels steering); beam axles, leaf springs and shock absorbers on each wheel station.
+The Maximum Road Speed is 100 kph.
+The Maximum  Swim Speed is 10 kph w/2 shrouded propellers.
+The Range is 800 km.
+The Fording is Amphibious.
+
+Here is Main Gun information for the XA-185 Finnish 6x6 Amphibious Armored Personnel Carrier (APC):
+The Note is Basic vehicle is unarmed except for 3 firing ports and vision blocks in each hull side.
+
+Here is Protection information for the XA-185 Finnish 6x6 Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is All-welded steel hull provides splinter
+protection.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The Fire Suppression System is Yes.
+

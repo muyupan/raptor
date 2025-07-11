@@ -1,0 +1,61 @@
+This document describes the Haishen 6000 Class (Poseidon 6000 Class) Chinese Autonomous Underwater Vehicle (AUV).
+
+The Haishen 6000 Class (Poseidon 6000 Class) Autonomous Underwater Vehicle (AUV) is built by China Shipbuilding Industry Corporation and can dive to a depth of 6,000 meters. The vehicle is mainly designed and developed for the needs of seabed topography and landform survey, large-area target search, salvage and life-saving, marine scientific investigation and investigation, etc.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Haishen 6000 Class (Poseidon 6000 Class) Chinese Autonomous Underwater Vehicle (AUV):
+The Poseidon 100-1 AUV is Diameter: 180mm; Length: 1700mm; Weight: ≤70kg (decided according to configuration); Endurance: 10h@3kn; Maximum speed: up to 5kn; Working depth: 3-300m; Navigation: standard configuration is compass, yaw rate sensor; optional inertial navigation system (INS) + Doppler log; Communication: radio, underwater sound, WiFi; Safety: emergency dumping, water leakage detection, frequency flashing lights, acoustic beacons, etc.; Optional: obstacle avoidance system, satellite communication, environmental sensor..
+The Poseidon 100-2 AUV is Diameter: 324mm; Working depth: 3-100m; Maximum speed: 5kn; Endurance: 2.5-3.5h (4kn) (lithium battery 10-14h); Navigation: Inertial navigation system (INS) + Doppler log integrated navigation; Communication: Radio, Beidou; Control system: control system oriented to different objects; Load capacity: 62kg; dry end load space Φ280?00; wet end load space Φ200?00; Optional equipment: collision avoidance sonar, side scan sonar, etc..
+The Poseidon 300 AUV is Diameter: 533mm; Length: 7000mm; Weight: about 1400kg; Working depth: 3-300m; Detection: side scan sonar, forward looking sonar, underwater TV; Navigation: Inertial navigation system (INS) + Doppler log integrated navigation; Communication: radio, underwater sound; Load: about 300kg; Safety: emergency dumping, water leakage detection, acoustic beacon, etc.; Optional: obstacle avoidance system, satellite communication, environmental sensor..
+
+Here is System information for the Haishen 6000 Class (Poseidon 6000 Class) Chinese Autonomous Underwater Vehicle (AUV):
+The Alternative Designation is Haishen 6000 Class (Poseidon 6000 Class).
+The Type is Autonomous Underwater Vehicle (AUV).
+The Builder is CSIC’s 701 Research Institute; ). In 2019, both CSIC and the CSSC merged into a shipbuilding conglomerate named the China State Shipbuilding Corporation (CSSC)..
+The Mission is It is mainly designed and developed for the needs of seabed topography and landform survey, large-area target search, salvage and life-saving, marine scientific investigation and investigation, etc..
+The Crew is Autonomous.
+The Features is Fast speed, deep diving, strong anti-current work, convenient control, heading and depth can be automatically maintained; Remote control or autonomous navigation;  It can be equipped with a variety of sensors for underwater detection and recognition; Various underwater operations such as underwater observation, underwater search and underwater salvage can be carried out; Simple and convenient operation..
+The Position System is Ultra-short baseline positioning system..
+The Navigation Systems is Inertial navigation system (INS) + Doppler log integrated navigation.
+The Maximum Depth is 6,000 m.
+The Camera is Yes.
+The Safety Equipment is Emergency dumping and water leakage detection..
+
+Here is Dimensions information for the Haishen 6000 Class (Poseidon 6000 Class) Chinese Autonomous Underwater Vehicle (AUV):
+The Length is 7.0 m.
+The Diameter is 880 mm.
+The Draft is Submersible.
+The Displacement, Standard is 3,500 kg.
+The Displacement, Full Load is INA.
+
+Here is Propulsion System information for the Haishen 6000 Class (Poseidon 6000 Class) Chinese Autonomous Underwater Vehicle (AUV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Range is INA.
+The Working Speed is 3 knots.
+The Maximum Depth is 6,000 m.
+The Endurance is 24 hours.
+
+Here is Communications information for the Haishen 6000 Class (Poseidon 6000 Class) Chinese Autonomous Underwater Vehicle (AUV):
+The Satellite  Communication is Yes.
+The Underwater Communication System is Yes.
+
+Here is Armament information for the Haishen 6000 Class (Poseidon 6000 Class) Chinese Autonomous Underwater Vehicle (AUV):
+The Note is There are no weapons systems associated with the Haishen 6000 Class (Poseidon 6000 Class) Autonomous Underwater Vehicle (AUV) as of 2021..
+
+Here is Sonar Systems information for the Haishen 6000 Class (Poseidon 6000 Class) Chinese Autonomous Underwater Vehicle (AUV):
+The Forward-Looking Sonar (FLS) is Yes.
+The Deep-Sea Side Scanning Sonar is Yes.
+The Autonomous Obstacle Avoidance System is Yes.
+The Depth Sensors is Yes.
+The Acoustic Beacon is Yes.
+The Aircraft Black Box Search Sonar Array is Yes.
+
+Here is Protection information for the Haishen 6000 Class (Poseidon 6000 Class) Chinese Autonomous Underwater Vehicle (AUV):
+The Hull Armor is INA.
+The Countermeasures is No.
+The NBC Water Washdown System is No.
+The EW Intercept is No.
+

@@ -1,0 +1,60 @@
+This document describes the SM-4-1 Russian 130mm Towed Coastal Defense Gun.
+
+The 130-mm SM-4-1 is a mobile coastal defense gun that is in limited use. It is thought to have been derived from a naval gun of a similar caliber and is carried in a very large four-wheeled carriage; each wheel is dual-tired.
+
+In the firing position, the axles are removed and four stabilizers -- two to each side -- are staked down.
+
+The SM-4-1 was designated the K54 when in Finnish service.
+
+The gun fires high-explosive (HE) and armor-piercing HE (APHE) projectiles.
+
+This equipment has proliferated into the following countries: Bulgaria, Egypt, North Korea (Democratic People's Republic of Korea), Yemen.
+
+Here is System information for the SM-4-1 Russian 130mm Towed Coastal Defense Gun:
+The Alternative Designation is SM-4-1.
+The Type is Towed Coastal Defense Gun.
+The Crew is INA.
+The Carriage is INA.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the SM-4-1 Russian 130mm Towed Coastal Defense Gun:
+The Length, Traveling is 12.80 m.
+The Barrel Length is 7.60 m.
+The Width is 2.85 m.
+The Height is 3.05 m.
+The Ground Clearance is 300 mm.
+The Weight, Combat is 16,000 kg.
+The Weight, Traveling is 19,000 kg.
+
+Here is Automotive Requirement information for the SM-4-1 Russian 130mm Towed Coastal Defense Gun:
+The Prime Mover is AT-T heavy tracked artillery tractor.
+
+Here is System information for the SM-4-1 Russian 130mm Towed Coastal Defense Gun of the Main Weapon System:
+The Name is SM-4-1.
+The Type is Towed Coastal Defense Gun.
+The Caliber is 130mm.
+The Bore is 130-mm/58-cal, rifled; fitted w/muzzle brake.
+The Elevation is -5 deg to 45 deg (-89 mils to 800 mils).
+The Traverse is 360 deg (6,400 mils).
+The Maximum Range is 29,500 m.
+The Muzzle Velocity is 1,050 mps.
+The Rate of Fire is 5 rpm, normal.
+
+Here is Ammunition information for the SM-4-1 Russian 130mm Towed Coastal Defense Gun of the Main Weapon System:
+The Type is APHE Projectile.
+The Caliber is 130.
+The Projectile Weight is 33.6 kg.
+The Penetration, APHE is 250 mm of steel armor at 1,090 yd (1,000 m) at 0-deg incidence.
+The Type of Ammunition is HE, APHE.
+
+Here is Fire Control information for the SM-4-1 Russian 130mm Towed Coastal Defense Gun:
+The Name is INA.
+The Computerized FCS is INA.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Collimator is INA.
+
+Here is Radar System information for the SM-4-1 Russian 130mm Towed Coastal Defense Gun:
+The Radar is ZALP-B Top Bow.
+

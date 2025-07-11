@@ -1,0 +1,116 @@
+This document describes the M1132 (Stryker ESV) American Armored Engineer Squad Vehicle.
+
+M1132 Engineer Squad Vehicle (ESV) is the combat engineering variant of the Stryker wheeled armored fighting vehicle. It is employed by combat engineer squads in the US Army Stryker brigade combat teams.
+
+Its purpose is to transport and support combat engineers on the battlefield; the vehicle includes obstacle clearing and lane marking systems as well as mine detection devices.
+
+The engineer vehicle is based on the infantry carrier. Its most distinctive feature is a mine-clearance blade, it is most often towing a wheeled trailer loaded with additional equipment. The vehicle is capable of clearing mines on paved surfaces and some rubble clearance. Other mobility tasks can be completed by the mounted engineer squad with the tools on the vehicle and trailer.
+
+This equipment has proliferated into the following countries: CFE Treaty, United States of America.
+
+Here is Variants information for the M1132 (Stryker ESV) American Armored Engineer Squad Vehicle:
+The M1126 ICV is Armored personnel carrier version that provides protected transport for 2 crew and a 9 man infantry squad..
+The M1127 (RV) is Reconnaissance Vehicle. used by RSTA (Reconnaissance, Surveillance, and Target Acquisition) Squadrons and battalion scouts, moving throughout the battlefield to gather and transmit real-time intelligence/surveillance for situational awareness.
+The M1128 (MGS) is Mobile Gun System. Version armed with a 105 mm M68A1 rifled cannon (M68A1E4).
+The M1129 (MC) is Mortar Carrier. armed with Soltam 120 mm Mortar supports infantry with screening obscurants, suppressive forces and on-call supporting fires (HE, illumination, IR illumination, smoke, precision-guided, and DPICM cluster bombs)..
+The M1133 (MEV) is Medical Evacuation Vehicle (MEV) is the Battalion Aid Station for brigade units, providing treatment for serious injury and advanced trauma..
+The M1134 (ATGM) is Anti-Tank Guided Missile Vehicle is armed with the TOW missile to reinforce the brigade's infantry and reconnaissance, providing long-range antitank fires against armor beyond tank gun effective range..
+The M1135 (NBC RV) is Nuclear, Biological, Chemical Reconnaissance Vehicle automatically integrates contamination information from detectors with input from navigation and meteorological systems and transmits digital NBC warning messages to warn follow-on forces..
+
+Here is System information for the M1132 (Stryker ESV) American Armored Engineer Squad Vehicle:
+The Alternative Designation is M1132 Stryker Engineer Squad Vehicle (ESV).
+The Type is 8x8 Wheeled Armored Engineer Vehicle.
+The Manufacturer is General Dynamic Land Systems, USA and Canada.
+The Family is Stryker.
+The Configuration is The Stryker is based on the LAV III light armored vehicle, which in turn was based on the LAV-25 series.
+
+The vehicle comes in several variants with a common engine, transmission, hydraulics, wheels, tires, differentials and transfer case..
+The Crew is 2 Personnel.
+The Passenger Capacity is 9 Personnel.
+
+Here is Dimensions information for the M1132 (Stryker ESV) American Armored Engineer Squad Vehicle:
+The Length is 6.95.
+The Width is 2.72.
+The Height is 2.64.
+The Weight, Combat is 17,525.
+The Ground Pressure is 2.05 kg / square centimeter.
+
+Here is Automotive information for the M1132 (Stryker ESV) American Armored Engineer Squad Vehicle:
+The Engine Name is Caterpillar C7.
+The Engine Type is 7.2-liter Turbo Diesel.
+The Engine Power is 350.
+The Cruising Range is 500.
+The Speed, Maximum Road is 100.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is 1.3.
+
+Here is Mission Systems information for the M1132 (Stryker ESV) American Armored Engineer Squad Vehicle:
+The Pearson Engineering Mission Equipment Package is Includes the following: Straight Obstacle Blade, Surface Clearance Device, Light Weight Mine Roller, Area Clearance Device, and an Obstacle Marker System..
+The Towed Engineering Trailer is A trailer can be towed with additional equipment if required and the vehicle carries a selection of engineering tools for the dismounted crew..
+The Straight Obstacle Blade Weight is 1,260.
+The Straight Obstacle Blade Width is 3.
+The Obstacle Blade Composition is The lower part of the blade is fitted with hardened steel cutting edges that are secured with special countersunk head bolts and self-locking nuts. A single pass of the SOB provides a cutting depth of 100 mm and a cutting width of 3 m..
+The Obstacle Blade Configurations is Three (3) operating configurations that are stowed for cross-country travel, deployed to carry out earth moving and obstacle clearing operations and float for ground levelling and back-loading operations..
+The Hydraulic Power is Yes, hydraulic power is provided directly by the vehicle and the system is operated by the driver via the Mission Equipment Signal Unit, which is mounted close to the driver’s position. Can also be but operation by a tethered remote..
+The Counter IED and Counter-Mine is The M1132 can also be fitted with Jettison Fitting Kits (JFKs) and associated control systems. These interface kits allow the vehicle to be fitted with counter-IED and counter-mine equipment. They support quick and easy attach / release and interchange of counter-IED, combat earthmoving, route proving, and assault bridge attachments. The interface also provides added emergency jettison functionality to rapidly detach the front end equipment in the event of blast damage..
+
+Here is Command & Control information for the M1132 (Stryker ESV) American Armored Engineer Squad Vehicle:
+The Battle Management System is FBCB2 (Force XXI battle command brigade and below).
+The Digital is Yes, Utilizes digital communications system that allows comms between vehicles and higher headquarters through text messaging and a map network..
+The Mission is Provides commanders with communication, data, and control functions to analyze and prepare information for combat missions; can also link to aircraft antenna for air to ground integration..
+
+Here is Heavy Machine Gun (Option 1) information for the M1132 (Stryker ESV) American Armored Engineer Squad Vehicle of the Weapon Systems:
+The Name is M2 Browning .50 Caliber Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Quantity is 1.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Action is Short, Recoil-Operated.
+The Rate of Fire is 450 - 600 rds/min.
+The Maximum Effective Firing Range is 1,800 m.
+The Feed System is Belt-Fed.
+
+Here is Grenade Launcher (Option 2) information for the M1132 (Stryker ESV) American Armored Engineer Squad Vehicle of the Weapon Systems:
+The Name is MK-19 Grenade Launcher.
+The Type is Automatic Grenade Launcher.
+The Caliber is 40 mm.
+The Length is 1,090 mm.
+The Barrel Length is 413 mm.
+The Action is Blowback (empty without accessories).
+The Rate of Fire is 360–390 rds/min (cyclic) 40 rds/min (sustained) 60 rds/min (rapid).
+The Maximum Effective Firing Range is 1,500 m.
+The Feed System is 32 or 48 (count) Grenade Belt.
+
+Here is Machine Gun (Option 3) information for the M1132 (Stryker ESV) American Armored Engineer Squad Vehicle of the Weapon Systems:
+The Name is M240.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,260 mm.
+The Barrel Length is 630 mm.
+The Action is Open-Bolt Fired, Gas-Operated, Long-Stroke Piston.
+The Rate of Fire is 650-750 rds/min.
+The Maximum Effective Range is 1,100 m.
+The Feed System is Belt-Fed.
+
+Here is Fire Control information for the M1132 (Stryker ESV) American Armored Engineer Squad Vehicle:
+The Name is M151 Kongsberg Protector.
+The Type is Remote Weapons Station.
+The Mounting System is Universal Soft-Mount Cradle.
+The Sights / Aiming System is Detached Line of Sight (DLOS) enables the gunner to keep sights on target independent of ballistic solution for the weapon option in use..
+The Turret Stabilization is Fully stabilized and provides steady observation and engagement capability..
+The Thermals is Yes.
+The Camera is Color Daylight System.
+The Laser Range Finder is Yes.
+
+Here is Protection information for the M1132 (Stryker ESV) American Armored Engineer Squad Vehicle:
+The Hull Armor is Constructed from high-hardness steel which offers a basic level of protection against 14.5mm rounds on the frontal arc, and all-around protection against 7.62mm ball ammunition..
+The Applique Armor is Equipped with bolt-on ceramic armor which offers all-around protection against 14.5mm, armor-piercing ammunition, and artillery fragments from 152mm rounds..
+The Explosive Reactive Armor is No.
+The Active Protection System is Yes.
+The Mine Clearing is Yes.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+

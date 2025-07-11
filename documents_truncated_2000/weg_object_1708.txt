@@ -1,0 +1,86 @@
+This document describes the HUGIN Superior Norwegian Autonomous Underwater Vehicle (AUV).
+
+The HUGIN Superior Norwegian Autonomous Underwater Vehicle (AUV) is the most capable commercially available AUV. It offers the best data quality and coverage coupled with the most accurate navigation and positioning solution there is. Packaged as a complete system, HUGIN Superior carries more sensors than ever before over greater distances enhancing productivity and cost-effectiveness. HUGIN Superior is simply the best AUV you can get.
+
+This equipment has proliferated into the following countries: Norway.
+
+Here is Variants information for the HUGIN Superior Norwegian Autonomous Underwater Vehicle (AUV):
+The HUGIN is The HUGIN Norwegian Autonomous Underwater Vehicle (AUV) is the most successful commercial AUV available. It is the most capable AUV combining IHO quality positioning with the highest resolution sensors on the market. HUGIN collects data from many different sensors concurrently, providing a complete data product from a single mission. Hugin is available in several configurations and depth ratings. The main depth ratings are 3,000 meters; 4,500 meters; 6,000 meters..
+The HUGIN Endurance is The HUGIN Endurance can be configured with a range of sensors focused on mission capabilities and situational awareness. This includes the proven hydro-acoustic instruments for mapping and inspection purposes, such as the KONGSBERG HISAS family of synthetic aperture sonars and the EM family of multi beams. Both underwater and surface awareness sensors are used for autonomous decision making..
+
+Here is System information for the HUGIN Superior Norwegian Autonomous Underwater Vehicle (AUV):
+The Alternative Designation is HUGIN Superior.
+The Type is Autonomous Underwater Vehicle (AUV).
+The Builder is Kongsberg.
+The Crew is Autonomous.
+The Mission is COMMERCIAL APPLICATIONS:
+High-resolution high-speed seabed; mapping and imaging;
+Geophysical site inspection;
+Pipeline and subsea structure inspection;
+Oceanographic surveys;
+Environmental monitoring;
+Marine geological survey;
+Search operations.
+DEFENCE APPLICATIONS:
+Mine countermeasures - MCM;
+Rapid environmental assessment - REA;
+Intelligence, surveillance, and reconnaissance - ISR..
+The Operating Station is HUGIN Operator Station (HOS). Operator and payload computers Post-mission analysis computer Vehicle battery charger Maintenance trolley and lifting
+spreader..
+The Environmental and Geochemical Sensors. is Yes.
+The Navigation System is Kongsberg Sunstone INS Navigation grade IMU and SAS micro-navigation [DPCA) System..
+The Camera is Yes, Colour UHD still image camera.
+The Payloads is Payloads (fitted as standard): HISAS 1032 Dual Receiver;
+EM2040 Mk 2 Multibeam; Echosounder;
+Colour UHD still image camera;
+Laser Profiler;
+Turbidity sensor;
+Sub-bottom profiler;
+Magnetometer;
+Methane sensor;
+Dissolved Oxygen Sensor;
+Carbon Dioxide sensor;
+ADCP..
+The Software is Kongsberg Control Processor (CP), Payload Processor (PP) and Sunstone navigation system; 
+Autonomous pipeline tracking using HISAS and EM multibeam; SITAR in-mission automatic target recognition available.
+The Containers and Launch and Recovery System is Launch and recovery stinger for deck and container installation. DNV 2.7-1 certified offshore containers for mobile systems..
+
+Here is Dimensions information for the HUGIN Superior Norwegian Autonomous Underwater Vehicle (AUV):
+The Length is 6.6 m.
+The Outer Diameter is 875 mm.
+The Draft is Submersible.
+The Weight is 2,000 kg.
+The Weight in Water is Neutrally Buoyant.
+
+Here is Propulsion System information for the HUGIN Superior Norwegian Autonomous Underwater Vehicle (AUV):
+The Engine Name is INA.
+The BatteryType is Pressure tolerant Lithium polymer battery.
+The Power Packs is Hot-swappable batteries for fast turn­ around.
+The Charge Time is 5-8 hours.
+The Range is INA.
+The Useful Speed is 2-6 knots.
+The Operating Speed is 3-4 knots.
+The Maximum Depth is 6,000 m.
+The Endurance is 72 hours at 3 knots, 52 hours at 4 knots.
+
+Here is Communications information for the HUGIN Superior Norwegian Autonomous Underwater Vehicle (AUV):
+The cNODE Acoustic Command and Data Link is Yes.
+The Wi-Fi Capable is Yes, IEEE 802.11g.
+The Iridium Satellite Communications is Yes, Iridium over-the-horizon 2-way satellite link.
+The UHF Radio Link is Yes, 2-way radio link.
+The Data Handling is 10 GbE swappable Network Attached Storage [NAS).
+The Note is HUGIN AUVs are equipped with acoustic communication links providing real time status monitoring of the vehicle and payload sensors. The acoustic links also add the capability to receive payload data from the vehicle in real time as a quality measure, ensuring an effective survey..
+
+Here is Sonar Systems information for the HUGIN Superior Norwegian Autonomous Underwater Vehicle (AUV):
+The Forward Looking Sonar is Forward-Looking Sonar [FLS) with advanced terrain following, collision avoidance, and under-ice functionality..
+The Sidescan Sonar is Yes.
+The Echo Sounder is EM2040 high-performance multibeam echo sounder.
+The Doppler Velocity Log is Broadband 300 kHz Doppler velocity log.
+The Depth Sensor is Paroscientific Digiquartz depth sensor.
+The Terrain Referenced Navigation is Terrain referenced navigation (option).
+
+Here is Protection information for the HUGIN Superior Norwegian Autonomous Underwater Vehicle (AUV):
+The Hull is INA.
+The Countermeasures is No.
+The NBC Water Washdown System is No.
+

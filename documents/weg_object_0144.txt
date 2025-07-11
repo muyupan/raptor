@@ -1,0 +1,42 @@
+This document describes the Scanter 5000 Series Danish Surveillance Radar.
+
+The Scanter 5000 series is an X-band, 2D, pulse compression radar, using solid state transmitter technology with software-defined functionality. This system can be used for tracking vessels and coastal surveillance applications.
+
+This equipment has proliferated into the following countries: Colombia, Denmark, Germany, Hong Kong, Norway, Singapore, Spain.
+
+Here is Variants information for the Scanter 5000 Series Danish Surveillance Radar:
+The SCANTER 5502 is System features include:
+•	Doppler enhanced processing (MTI) 
+•	Pulse compression 
+•	Open system architecture 
+•	Programmable Tx power levels 
+•	Complaint to IALA V.128 for VTS 
+•	Frequency and time diversity and multiple sub-bands 
+•	Solid state power amplifier (SSPA). 
+In 2016 Terma introduced an anti-icing antenna to mitigate the risk of ice building up on antennas, which rotate at 60 rotations per minute..
+The SCANTER 5202 is This system can detect and track small remotely piloted or ultra-light aircraft operating near wind farms. If mounted on top of turbines, SCANTER sensors mitigate the need for multiple sensors to be installed on the wind farm's perimeter..
+
+Here is System information for the Scanter 5000 Series Danish Surveillance Radar:
+The Alternative Designation is SCANTER 5000 series.
+The Type is Surveillance Radar.
+
+Here is Dimensions information for the Scanter 5000 Series Danish Surveillance Radar:
+The Length is 305.
+The Width is 497.
+The Height is 990.
+The Weight, Combat is 77.
+
+Here is Radar information for the Scanter 5000 Series Danish Surveillance Radar:
+The Type is Solid State power amplifier.
+The Frequency is 9.0 GHz to 9.2 and 9.225 to 9.5 GHz.
+The Sector Transmission is up to 16 sectors.
+The Sampling is 14 bit IF @ 400 MHz.
+The Dynamic range is >140 dB overall.
+The Noise figure is <2.5 dB.
+The Emitter is 50 W and 350 W peak*
+- 10 W and 70W average (at 20% duty cicle).
+The Profile settings is 16.
+The Min. detection range is 30.
+The BITE measurements is Fully integrated.
+The Note: is In the 9.0-9.2GHz band 300W peak power.
+

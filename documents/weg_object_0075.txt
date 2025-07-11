@@ -1,0 +1,43 @@
+This document describes the JY-14 (LLQ302) Chinese Long-Range Air Defense Radar.
+
+The JY-14 (domestic designation: LLQ302, formerly known as:384) is a medium to long range air defense radar produced and used by the People's Republic of China. It is capable of detecting multiple targets within its range and determine their parameters, tracking them even through surface clutter and ECM jamming. It utilizes a frequency-agile mode with 31 different frequencies, has a large band of ECCM operating parameter frequencies, and uses linear FM compression. This system can simultaneously track up to 100 targets and can feed the data to missile-interceptor batteries. It can track targets flying as high as 75,000 feet (22,900 m) and 186 miles (299 km) in distance.
+
+The system is notable for having wideband frequency diversity and adaptive pulse-to-pulse agility, enabling it to track even the most morphic radar signatures. It is the most common ground radar in China, and is rapidly being exported to other countries. The radar features excellent anti clutter and anti jamming ability, as well as very good adaptability and automatization. Incorporated techniques include dual pulse frequency diversity, pulse-to-pulse frequency agility over a wide frequency band, adaptive MTI and CFAR techniques, and an advanced computerized BITE technique.
+
+The JY-14 can be upgraded to a more powerful power supply, giving it a wider range. This has been seen only in China so far, where multiple stations are tied together with the air defense system.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the JY-14 (LLQ302) Chinese Long-Range Air Defense Radar:
+The Alternative Designation is JY-14; LLQ302.
+The Type is Long-Range Air Defense Radar.
+The Manufacturer is The system is manufactured by the East China Research Institute of Electronic Engineering(ECRIEE), No.38 Research Institute (华东电工程研究所（中国电子科技集团公司第三十八研究所) in Chinese))..
+The Crew is .
+The Band is E-F (2-4 GHz).
+The Maximum Range is 450 km.
+The Standard Range is 320 km.
+The Antenna Rotation is 6 rpm.
+The Altitude is 22,860 m.
+The Accuracy Range is 90 m.
+The Accuracy Azimuth is 0.2 deg.
+The Accuracy Height is 400 m.
+The Resolution Range is 240 m.
+The Resolution Azimuth is 0.9 deg.
+The Resolution Elevation is 1.0 deg.
+The Sidelobes is -35 dB.
+The Mean Time Between Failutes is >4,150 hours.
+The Mean Time to Repair is <30 min.
+The Average Power Output is 10 kW.
+The Transmit Power Output is 1 MW.
+The Automatic Tracking is Yes,  It can operate in high clutter and jamming environments without range reductions. It also has automatic tracking and reporting of up to 100 targets..
+The Moving Target Indicator (MIT) is The system uses an adaptive Doppler moving target indicator (MTI) to produce an improvement factor of more than 40 dB for ground clutter and of over 30 dB for chaff clutter..
+The Pulse-to-Pulse Agility is Yes.
+The Antenna Type is The JY-14 has a multibeam "Peacock" antenna designed in a near circular configuration with eight horn feeds: six in the E/F band and two in D band. The latter provide good height cover, while the lowest can also be used for identification-friend-or-foe (IFF)..
+The Operating in Wind Conditions is The JY-14 can maintain operations in winds of up to 56 mph (90 kph); operate with degraded performance in winds from 56 mph to 78 mph (126 kph); and cease operations without damage at winds greater than 78 mph..
+
+Here is Dimensions information for the JY-14 (LLQ302) Chinese Long-Range Air Defense Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

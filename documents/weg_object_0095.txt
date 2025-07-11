@@ -1,0 +1,30 @@
+This document describes the Model ST-312 Chinese Ground Surveillance Radar System.
+
+The Chinese Model ST-312 is classified as a medium-range ground surveillance radar(GSR) that is able to detect, identify, and locate moving ground targets as well as low flying aircraft such as helicopters at any time of the day regardless of the season. The environmental conditions include but are not limited to low visibility (fog, rain, snow, dust, or smoke). This includes a temperature operating range of  -20 to +50°C. 
+
+The GSR is produced by China National Electronics Import and Export Corporation, Beijing, and is currently believed to be in production.  
+
+The GSR consist of features such as a low-noise, wide dynamic range receiver; digital signal processing; coherent pulse-Doppler technology; microprocessor control, and a TV scanning, multifunction display. The GSR can be mounted on a tripod or a vehicle using a tower-mounted antenna. The antenna polarization may be linear vertical or circular.
+
+No picture is available at this time.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Antenna information for the Model ST-312 Chinese Ground Surveillance Radar System of the System:
+The Type is INA.
+The Antenna Performance is 2.8° (horizontal beam width); 4° (vertical beam width); > 32 dB (gain).
+
+Here is Transmitter information for the Model ST-312 Chinese Ground Surveillance Radar System of the System:
+The Type is INA.
+The Transmitter Performance is 0.33 µs (pulse duration); > 3 kW (peak power); 3.125 kHz (PRF).
+
+Here is Receiver information for the Model ST-312 Chinese Ground Surveillance Radar System of the System:
+The Type is INA.
+The Receiver Performance is < -3 dB (noise); 6 MHz (IF bandwidth); 78 dB (dynamic range); < -135 dBW (sensitivity).
+
+Here is Dimensions information for the Model ST-312 Chinese Ground Surveillance Radar System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is < 90 kg (tripod mounted).
+

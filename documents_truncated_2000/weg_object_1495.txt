@@ -1,0 +1,123 @@
+This document describes the Alexadrit Obukhov Class (Project 12700 Class) Russian Minesweeper.
+
+The Alexandrit-class (Project 12700) mine countermeasures vessels are being built by Sredne-Nevskiy Shipyard, a subsidiary of United Shipbuilding Corporation, for the Russian Navy. The vessels are designed to detect and destroy mines at naval bases and harbors.
+
+The keel for the lead vessel in class, Alexander Obukhov (507), was laid at Sredne-Nevskiy Shipyard in St Petersburg, Russia, in September 2011. The vessel was launched in June 2014 and commissioned into the Baltic fleet in December 2016.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Alexadrit Obukhov Class (Project 12700 Class) Russian Minesweeper:
+The Aleksandr Obukhov is Commissioned: 2016
+Status: Active
+Fleet: Baltic.
+The Georgiy Kurbatov is Commissioned: 2021
+Status: Active
+Fleet: INA.
+The Ivan Antonov is Commissioned: 2019
+Status: Active
+Fleet: Black Sea.
+The Vladimir Yemelyanov is Commissioned: 2019
+Status: Active
+Fleet: Black Sea.
+The Yakov Balyaev is Commissioned: 2020
+Status: Active
+Fleet: Pacific.
+The Pyotr Ilyichev is Commissioned: 2021
+Status: Active
+Fleet: Pacific.
+The Anatoly Shlemov is Commissioned: 2016
+Status: Active
+Fleet: INA.
+The Lev Chernavin is Commissioned: 2016
+Status: Active
+Fleet: INA.
+
+Here is System information for the Alexadrit Obukhov Class (Project 12700 Class) Russian Minesweeper:
+The Alternative Designation is Alexadrit Obukhov Class; Project 12700 Class.
+The Type is Minesweeper.
+The Builder is Sredne-Nevsky Shipyard, St. Petersburg, Russia
+ Almaz Central Marine Design Bureau, St. Petersburg, Russia.
+The Crew is 44.
+
+Here is Dimensions information for the Alexadrit Obukhov Class (Project 12700 Class) Russian Minesweeper:
+The Length is 61.0 m.
+The Beam is 10.2 m.
+The Draft is 2.7 m.
+The Displacement, Standard is 620 tons.
+The Displacement, Full Load is 890 tons.
+
+Here is Propulsion System information for the Alexadrit Obukhov Class (Project 12700 Class) Russian Minesweeper:
+The Engine Name is INA.
+The Engine Type is 1 x Diesel.
+The Engine Power is 2,500 bhp total.
+The Bow Thrusters is 2 x bow thrusters.
+The Maximum Range is 16.5 knots.
+The Maximum Speed is 1,500 nm at 10 knots.
+The Endurance is 10 days.
+
+Here is Minesweeping Equipment information for the Alexadrit Obukhov Class (Project 12700 Class) Russian Minesweeper:
+The Underwater Communication System is Struktura-35 underwater communication system and the  Altyn-M and Ruberoid communication systems..
+The Sonar is Anapa sonar.
+The Contact Sweep Equipment is OUKT-B contact sweep; PKT-B contact sweep; Zhelatin sweep; and ShAT-U acoustic sweep..
+The Unmanned Underwater Vehicles is The vessel also deploys remotely operated vehicles (ROVs), autonomous underwater vehicles (AUVs), and unmanned surface vessels (USVs)..
+The Automated Mine Warfare System is Yes.
+
+Here is Gun Weapon System #1 information for the Alexadrit Obukhov Class (Project 12700 Class) Russian Minesweeper of the Gun Weapon Systems:
+The Name is 1 x AK-630 30mm CIWS.
+The Type is Close-In Weapon System (CIWS).
+The Caliber is 30 mm.
+The Main Armament is 1 or 2 AO-18 autocannons.
+The Secondary Armament is 4 x 9A4172 missiles.
+The Crew is 1.
+The Barrel Length is 1,629 mm.
+The Width is 1,240 mm.
+The Height is 1,070 mm.
+The Weight, Gun Mount is 1,000 kg.
+The Barrels is 6.
+The Action is Gas-operated rotary cannon.
+The Elevation is +88° ... -12° (50°/sec.
+The Traverse is ±180° (70°/sec).
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880–900 m/s.
+The Maximum Firing Range is the projectiles self-destruct past 5,000 m.
+The Effective Firing Range is 4,000 m (aerial);
+5,000 m (maritime).
+The Feed System is Belt:
+2,000 rounds (additional 1,000 rounds in reserve feed bin.
+The Sights is Radar / TV-optical.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Alexadrit Obukhov Class (Project 12700 Class) Russian Minesweeper of the Gun Weapon Systems:
+The Type is HEI-Frag, Frag-T.
+The Caliber is 30 mm.
+The Shell Weight is 0.39 kg.
+The Basic Load is 1,500 Rounds.
+
+Here is Missile Weapon System information for the Alexadrit Obukhov Class (Project 12700 Class) Russian Minesweeper:
+The Launcher is 1 x SA-18 Grouse launcher.
+The Missile Name is 9M39 Igla short-range missiles.
+The Length is 1.574 m.
+The Diameter is 72 mm.
+The Weight, Missile is 10.8 kg.
+The Weight, Full System is 17.9 kg.
+The Weight, Warhead is 1.17 kg.
+The Detonation Mechanism is Contact and grazing fuze.
+The Engine is Solid fuel rocket motor.
+The Guidance System is Dual waveband infra-red.
+The Operational Range is 5.0 km.
+The Flight Ceiling is 3.5 km.
+The Maximum Speed is 570m/s.
+The Basic Load is 8 x 9M39 Igla short-range missiles carried.
+
+Here is Fire Control Systems information for the Alexadrit Obukhov Class (Project 12700 Class) Russian Minesweeper:
+The FCS Name is 1 x SP-520M electro-optical gunfire control system for AK-630.
+The Computerized FCS is Yes.
+The Integrated Bridge System is Yes.
+
+Here is Radar Systems information for the Alexadrit Obukhov Class (Project 12700 Class) Russian Minesweeper:
+The Navigation Radar is 1 x PAL-N navigation.
+
+Here is Protection information for the Alexadrit Obukhov Class (Project 12700 Class) Russian Minesweeper:
+The Hull Armor is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

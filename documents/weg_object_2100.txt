@@ -1,0 +1,55 @@
+This document describes the MANTAS T12 American Autonomous Surface Vehicle (ASV).
+
+The Man-Portable Tactical Autonomous Systems (MANTAS) T12 American Autonomous Surface Vehicle (ASV) was launched in January 2018 at the Surface Navy Association’s (SNA) 2018 National Symposium held in Washington DC, US. The MANTAS T-12 possesses advanced capabilities compared to its predecessors. It is intended to serve the intelligence, surveillance, and reconnaissance (ISR) missions of the naval forces.
+
+This equipment has proliferated into the following countries: United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the MANTAS T12 American Autonomous Surface Vehicle (ASV):
+The MANTAS T-4 is INA.
+The MANTAS T-5 is INA.
+The MANTAS T-6 is INA.
+The MANTAS T-8 is The MANTAS T-8 is the mid-size USV in the class, with a maximum weight and payload carrying capacity of 57kg (125lb) and 18kg (40lb), respectively. It is 241cm (95in) long, 66cm (26in) wide and 32cm (12.5in) high. The T-8 has a draft of 20.5cm (8in), which is the highest among the T-series USVs..
+The MANTAS T-8HY is INA.
+The MANTAS T-16 is INA.
+The MANTAS T-20 is INA.
+
+Here is System information for the MANTAS T12 American Autonomous Surface Vehicle (ASV):
+The Alternative Designation is MANTAS T12.
+The Type is Autonomous Surface Vehicle (ASV).
+The Builder is Maritime Tactical Systems (MARTAC).
+The Crew is Unmanned.
+The Ground Control Station (GCS) is The MANTAS T12 American Autonomous Surface Vehicle (ASV) are controlled by a dedicated ground control station (GCS), using a meshed communications network. The GCS controls multiple USVs at a time and can deploy the vessels on multiple missions at a rapid pace..
+The Electro-Optic System is 1 x SeaFlir 230 electro-optic system.
+The Video Sensors is The high-definition video sensors on board the USV offer a 360° view during missions. The information obtained by the USV can be used to devise plans required for further action..
+The Payload Capacity is 63.50 kg.
+
+Here is Dimensions information for the MANTAS T12 American Autonomous Surface Vehicle (ASV):
+The Length is 3.7 m.
+The Height is 35.6 cm.
+The Beam is 0.91 m.
+The Draft is 17.8 cm.
+The Displacement, Standard is INA.
+The Displacement, Full Load is INA.
+
+Here is Propulsion System information for the MANTAS T12 American Autonomous Surface Vehicle (ASV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Maximum Range is 111 km.
+The Maximum Speed is 20 kts (37 km/h).
+The Sea State is Sea state 4+.
+The Endurance is INA.
+
+Here is Sonar Systems information for the MANTAS T12 American Autonomous Surface Vehicle (ASV):
+The Side Scanning Sonar is 1 x Teledyne Reson T20-P side sonar scanning device.
+The Forward-Looking Sonar is 1 x Teledyne BlueView M900 forward-looking sonar.
+
+Here is Unmanned Aerial Vehicle (UAV) information for the MANTAS T12 American Autonomous Surface Vehicle (ASV):
+The Note: is 1 x Black Hornet nano unmanned aerial system (UAS) to carry out ISR missions..
+
+Here is Protection information for the MANTAS T12 American Autonomous Surface Vehicle (ASV):
+The Hull Armor is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+The EW Intercept is INA.
+

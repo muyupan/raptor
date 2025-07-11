@@ -1,0 +1,54 @@
+This document describes the Panther V (BCC 67/VRQ 327) British Portable VHF Frequency Hopping Secure EPM Radio.
+
+The Panther V manpack transceiver provides 5 and 20 watts of RF power with un-matched co-site capability enabling operation in multiradio locations where the majority of similar manpack radios would fail. The transceiver’s superior co-site performance also enables the manpack to be operated in a vehicle clip-in
+configuration, with co-located 50 watt VHF radios, delivering up to 20 watts through the vehicle antenna.
+
+The Panther V (BCC 67/VRQ 327) British Portable VHF Frequency Hopping Secure EPM Radio consists of the following: 
+
+1. BCC 67 PANTHER V-VHF Manpack Radio
+2. BCC 69 PANTHER P-VHF Handheld Radio
+3. Option - VRQ 327 PANTHER V-VHF Vehicle Station
+
+This equipment has proliferated into the following countries: United Kingdom of Great Britain and Northern Ireland.
+
+Here is System information for the Panther V (BCC 67/VRQ 327) British Portable VHF Frequency Hopping Secure EPM Radio:
+The Country of Origin is United Kingdom.
+The Description is Hand-held Squad/Platoon.
+The Manufacturer is Thales.
+The In Service is Yes.
+The Frequency Range is 30-180.
+The Vehicle Fit is 20 Watts.
+The Applique Amplifier is Yes, a 50 Warr Amplifier is avalable.
+The Integral Vehicle Harness Interface is Yes.
+The Dedicated GPS Interface is Yes.
+The 2 and 3 way re-broadcast Facility is Yes.
+The Display is Alphanumeric Display.
+The Note is Smallest 20 Watt EPM manpack/
+vehicle transceiver available.
+
+Here is BCC 67 PANTHER V-VHF Manpack Radio information for the Panther V (BCC 67/VRQ 327) British Portable VHF Frequency Hopping Secure EPM Radio:
+The Type is VHF.
+The Frequency is 30-108.
+The RF Output Power is selectable up to 5 W.
+The Power is 20 W boosted mode at 24 V DC (vehicle configuration).
+The Weight is 5.9 kg with battery.
+The Battery Life is 32 hr with rechargeable Li-Ion battery pack.
+The Mount Type is Portable or Vehicle.
+
+Here is VRQ 327 PANTHER V-VHF Vehicle Station information for the Panther V (BCC 67/VRQ 327) British Portable VHF Frequency Hopping Secure EPM Radio:
+The Type is VHF.
+The Frequency is 30-108.
+The RF Output Power is selectable up to 50 W.
+The Width is 230.
+The Height is 160.
+The Depth is 230.
+The Weight is INA.
+The Mount Type is Vehicle.
+
+Here is BCC 69 PANTHER P-VHF Handheld Radio information for the Panther V (BCC 67/VRQ 327) British Portable VHF Frequency Hopping Secure EPM Radio:
+The Type is VHF.
+The Frequency is 30-88.
+The RF Output Power is selectable up to 5 W.
+The Weight is 900 g with battery.
+The Battery Life is 18 hr with rechargeable Li-Ion battery.
+

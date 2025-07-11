@@ -1,0 +1,116 @@
+This document describes the VTT-323 (M1973 Sinhung) North Korean Amphibious Armored Personnel Carrier (APC).
+
+The Sinhung VTT-323 armored personnel carrier (APC) is a North Korean license-built version of the Chinese Type 63 APC (see separate record). However, it has several alterations from its original that effectively make it a different vehicle.
+
+It is designated the M1973 by the U.S. Army and nicknamed the "Vet." It uses the same chassis found in the PT-85 light tank and several other vehicles in North Korean service.
+
+The welded steel hull is boxy in shape, with the turret placed behind the center-line of the vehicle. The driver sits in the front left of the vehicle, a single-piece hatch opening to the left above him, fitted with two day periscopes to the front. The commander sits to the driver's right with a single 360-degree view periscope and a single-piece hatch opening to the right.
+
+The engine compartment is behind the commander, with the third crew member, the loader, seated behind the driver. The engine has air inlets and outlets on the roof and exhausts to the right side of the roof. A one-man turret holds the gunner and mounts either a 14.5-mm machine gun and a 7.62-mm MG, or twin 14.5-mm guns.
+
+Another version carries a Susong-Po anti-tank guided-missile (ATGM) launcher (a variant of the Russian AT-3 Sagger ATGM) and SA-7/SA-16 man-portable surface-to-air missiles (SAMs). The turret is probably manually operated.
+
+The vehicle can carry 10 fully equipped infantry and is the standard APC in North Korean service, organic to the motorized infantry battalions of tank and motorized infantry brigades. Infantry enter and exit the vehicle through a two-hinged door on the back of the hull. There are at least two firing ports provided on each side of the hull.
+
+Fully amphibious, the vehicle must have a trim board affixed to the front of the hull, though this can be accomplished by the driver without leaving his seat. It is propelled through the water by its tracks.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea), Zimbabwe.
+
+Here is Variants information for the VTT-323 (M1973 Sinhung) North Korean Amphibious Armored Personnel Carrier (APC):
+The Type 85/YW 531H is Domestic/export base model.
+The YW703H is Command variant.
+The Type 85 Armored Command Vehicle is 2-man crew, 6 staff, additional communications equipment, & fewer ammunition rounds; used at regimental or division level.
+The Type 85 Recovery Vehicle is 1000 KG crane with 5-man crew.
+The Type 85 Maintenance Engineering Vehicle is Similar to the WZ 751 (ambulance), but for support.
+The Type 85 Mortar Carriers is 82-mm & 120-mm variants similar to the YW 531.
+The WZ 751 Armored Ambulance is 2-man crew with space for 4 litter or 8 seat patients; 12.7-mm MG.
+The Type 85 SP Howitzer (Type 70-1/YW 302) is Type 54-1 122-mm howitzer on Type 85 chassis.
+The Type 85 ATGM Launcher Vehicle is Railed hull with 4-rail Red Arrow-8 SACLOS wire-guided ATGM.
+The YW 307 IFV is Type 89 with a 25-mm cannon similar to the Bushmaster & the 7.62-mm coaxial MG.
+The YW 309 Infantry Combat Vehicle (ICV) is 3-man crew, 73-mm low pressure main gun, 7.62-mm coaxial MG & Red Arrow 3 ATGM.
+The HJ-8 Anti-Tank Vehicle is AT traversable launcher with 4 HJ-8 ATGMs & 4 loads in storage in the hull.
+The NVH-1 is Joint Chinese/British variant with 25-mm gun.
+The Type 90 is Updated design with reduced height, improved hull shape, & better transmission.
+The Thai versions is Similar to the Chinese variants, but armed with a M-2HB MG.
+The Artillery Command Post Vehicle is YW 531H modified with a raised rear superstructure.
+The YW 306 is 130-mm MRL platform.
+The Type 89 (YW 534/WZ 534) is Improved power pack & night vision equipment for domestic use & export with longer & wider chassis, improved engine, & mobility.
+
+Here is System information for the VTT-323 (M1973 Sinhung) North Korean Amphibious Armored Personnel Carrier (APC):
+The Alternative Designations is VTT-323; M1973 Sinhung.
+The Type is Armoured Personnel Carrier.
+The Manufactuer is State Factories North Korea.
+The Crew is 4.
+The Troop Compartment Capacity is 10.
+The Fire on the Move is Yes.
+The Note is This is nowadays North Korea’s main frontline APC..
+
+Here is Dimesions information for the VTT-323 (M1973 Sinhung) North Korean Amphibious Armored Personnel Carrier (APC):
+The Length is 5.48.
+The Width is 2.8.
+The Height is 2.6.
+The Weight, Combat is 15.
+
+Here is Automotive information for the VTT-323 (M1973 Sinhung) North Korean Amphibious Armored Personnel Carrier (APC):
+The Engine Name is Deutz BF8L413F.
+The Engine Type is Diesel.
+The Engine Power is 320.
+The Maximum Cruising Range is 500.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed, Maximum Swim is 6.
+The Fording Depth is Amphibious.
+The Transmission is Manual.
+The Gears is 5 Forward, 1 Reverse.
+The Slope is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.
+The Note is The VTT-323 is fully amphibious, propelled by its tracks when swimming..
+
+Here is Main Gun information for the VTT-323 (M1973 Sinhung) North Korean Amphibious Armored Personnel Carrier (APC) of the Armament and Ammunition:
+The Name is Type 54 (DShKM copy).
+The Type is Anti-Aircraft Machine Gun.
+The Caliber/length is 12.7.
+The Number of Rounds is 1,200.
+The Muzzle Velocity is 850.
+The Max Range is 2,000.
+The Armor Penetration is API: 21 at 500 m & 13 at 1000 m (RHA).
+The Ammo is 1120 Rounds: 
+APDS (Tungsten Core); API, API-T,.
+The Armored Sheilds is Yes.
+The Traverse is 360.
+The Elevation is 90.
+
+Here is Anti-Tank Guidded Missile information for the VTT-323 (M1973 Sinhung) North Korean Amphibious Armored Personnel Carrier (APC):
+The Name is 9M14 Malyutka (NATO: AT-3 Sagger).
+The Type is Anti-Tank Guided Missile.
+The Length is 860.
+The Width is 393.
+The Diameter is 125.
+The Weight, Total is 10.9.
+The Warhead Weight is 2.6.
+The Speed is 115.
+The Effective Firing Range is 500-3,000.
+The Guidance System is MCLOS, SACLOS.
+
+Here is Fire Control information for the VTT-323 (M1973 Sinhung) North Korean Amphibious Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Tank Commander is INA.
+The Thermal Gunner is INA.
+The Main Gun Stablization is Yes.
+The IFF is INA.
+
+Here is Protection information for the VTT-323 (M1973 Sinhung) North Korean Amphibious Armored Personnel Carrier (APC):
+The Armor Type is Welded Steel Hull.
+The Hull Armor is 12.7.
+The Armor (turret front) is 14 (front glacis).
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is No.
+The Smoke Equipment is No.
+

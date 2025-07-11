@@ -1,0 +1,103 @@
+This document describes the 9K317M Buk-M3 (SA-27) Russian Medium-Range Air Defense Missile System.
+
+The Buk M3 (Beech M3) is a brand-new Russian air defense system. It uses new missiles and has advanced electronic components. It has much-improved capabilities compared with the older Buk systems. It outperforms even the old S-300P long-range air defense system. A single Buk-M3 complex (including several launch vehicles) is capable of engaging up to 36 different targets simultaneously from any angle, while a single fire-control radar is capable of supporting the engagement of up to 6 different targets simultaneously within a sector 120° in azimuth and 85° in elevation.
+
+In terms of organization, one Buk-M3 brigade would be expected to consist of four "divisions" (approximately a battalion set), with a single 9S52 Polyana-D4 Brigade C2 or similar vehicle in control of all four "divisions". One "division" is typically composed of three batteries, with one command vehicle and one search radar vehicle responsible for three batteries. Each battery would be composed battery would consist of 2 launch vehicles. These launch vehicles can be either one 9A317M TELAR and a 9A316M TEL, or two 9A316M TELs and a single 9S36M illumination and guidance radar vehicle. It should be noted that "division" means 'division', but this measurement takes on a different meaning when dealing with Russian anti-air unit sets as opposed to personnel or armor formations, and so the term has been transliterated rather than translated to reflect this difference of meaning and avoid confusion. It is perhaps most accurately translated into English as a battalion set. The table below displays the principal vehicles known to be included within a "division" (battalion set):
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the 9K317M Buk-M3 (SA-27) Russian Medium-Range Air Defense Missile System:
+The Alternative Designation is 9K317M Buk-M3 (SA-X-27); SA-17.
+The Family is Buk.
+The Type is Medium-Range Air Defense Missile System.
+The Manufacturer is Almaz-Antey:.
+The In Service is 2016-Present.
+The Crew is 4.
+The Chassis is GM-5955 chassis.
+
+Here is Dimensions (GM-5955 chassis) information for the 9K317M Buk-M3 (SA-27) Russian Medium-Range Air Defense Missile System:
+The Length is 7.5.
+The Width is 3.3.
+The Height is 5.1.
+The Weight, Combat is 34.
+The Ground Clearance is 450.
+The Ground Pressure is INA.
+
+Here is Missile (Option 1) information for the 9K317M Buk-M3 (SA-27) Russian Medium-Range Air Defense Missile System of the Transporter Erector Launcher and Radar (TELAR):
+The Name is 9M317M Missile.
+The Type is surface-to-air missile.
+The Engine is dual-mode solid-propellant rocket engine.
+The Maximum Altitude is 35.
+The Maximum Speed is 1,550.
+The Maximum G Force is 24.
+The Maximum Effective Range is 70.
+The Minimum Effective Range is 2.5.
+The Fuze Type is 9E346 radio proximity fuze.
+The Turbogenerator is solid propellant-based gas generator.
+The Missile Length is 5.18.
+The Missile Diameter is 360.
+The Missile Weight is 581.
+The Rear Control Fins Length is 820.
+The Missile Storage Life is 10.
+The Guidance System is semi-active radar homing guidance system.
+The Autopilot is Yes.
+The Inertail Navigation is Yes.
+The Radar Homing Receiver is 9E432 semi-active radar homing receiver for terminal phase guidance.
+The Warhead Weight is 62.
+The Warhead Type is HE-FRAG.
+The Active Seeker is 9E432 semi-active seeker.
+The Basic Load is 6.
+The Note #1 is Unlike its predesesors, the Buk-M3 carries its missiles in launch containers rahter than the naked missle being mounted on launch rails atop the launch vehicle.
+The Note: #2 is The 9M317M is capable of engaging targets travelling as fast as 3,000 meters per second..
+
+Here is Missile (Option 2) information for the 9K317M Buk-M3 (SA-27) Russian Medium-Range Air Defense Missile System of the Transporter Erector Launcher and Radar (TELAR):
+The Name is 9M317MA.
+The Type is surface-to-air missile.
+The Active Seeker is ARGSN 9B-1103M active seeker.
+The Engine is dual-mode solid-propellant rocket engine with an extended burn time.
+The Maximum Effective Range is 70.
+The Minimum Effective Range is 2.
+The Maximum Altitude is 35.
+The TELAR Types is The 9M317MA can be launched from either the 9A317M TELAR vehicle, or the 9A316M TEL..
+The Maximum Speed is 1,550.
+The Maximum G Force is 24.
+The Fuze Type is 9E346 radio proximity fuze.
+The Turbogenerator is solid propellant-based gas generator.
+The Missile Length is 5.18.
+The Missile Diameter is 360.
+The Missile Weight is 581.
+The Rear Control Fins Length is 820.
+The Guidance System is active radar homing guidance system.
+The Radar Seeker is ARGSN 9B-1103M active radar seeker.
+The Warhead Weight is 62.
+The Warhead Type is HE-FRAG.
+The Note is The 9M317MA is capable of engaging targets travelling as fast as 3,000 meters per second..
+
+Here is Search Radar Vehicle information for the 9K317M Buk-M3 (SA-27) Russian Medium-Range Air Defense Missile System of the Targeting and Guidance Systems Vehicles:
+The Name is 9S18M1-3 Kupol-M1-3 (NATO: Snow Drift).
+The Chassis is GM-5955 chassis.
+The Maximum Speed is 56.
+The Maximum Range is 250.
+The Fuel Timeline is A maximum of 2 hours of fuel.
+The Crew is 3 (driver-mechanic, an operator, and a senior operator).
+The Array Radar is flat-faced 3D pulsed phased array radar.
+The Radar Band is S Band.
+The Maximum Target Range is 150.
+The Minimum Target Range is 10.
+The Number of Targets Capable of Tracking is 120.
+The Maximum Altitude is 25.
+The Search Modes is one for aerial threats, the second for ballistic threats.
+The Range Resolution is 200.
+The Angular Coordinate Resolution is 3° in azimuth and 4.5° in elevation.
+The Rotational Speeds is 5 individual settings. 4 s, 5 s, 6 s, 9 s, 60 s to complete a single rotation..
+The Road March State to Ready State Timeline is 5.
+
+Here is Fire Control Radar Vehicle information for the 9K317M Buk-M3 (SA-27) Russian Medium-Range Air Defense Missile System of the Targeting and Guidance Systems Vehicles:
+The Name is 9A36M.
+The Chassis is GM-5955 chassis.
+The Antenna is 21 m telescoping mast.
+The Radar Capability is detecting targets with an RCS of at least 2 meters squared out to a maximum range of 120 km.
+The Number of Targets is 10 simultaneous targets.
+The Steering is electronic beam steering.
+The Operating Mode is two: the first being a track while scan mode and the second being the pure target tracking mode.
+

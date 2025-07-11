@@ -1,0 +1,115 @@
+This document describes the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft.
+
+The Eurofighter Typhoon is a twin-engine, canard–delta wing, multirole fighter. The Typhoon was designed originally as an air superiority fighter and is manufactured by a consortium of Airbus, BAE Systems and Leonardo that conducts the majority of the project through a joint holding company, Eurofighter Jagdflugzeug GmbH formed in 1986. NATO Eurofighter and Tornado Management Agency manages the project and is the prime customer.
+
+The aircraft's development effectively began in 1983 with the Future European Fighter Aircraft programme, a multinational collaboration among the UK, Germany, France, Italy and Spain. Disagreements over design authority and operational requirements led France to leave the consortium to develop the Dassault Rafale independently. A technology demonstration aircraft, the British Aerospace EAP, first took flight on 6 August 1986; the first prototype of the finalised Eurofighter made its first flight on 27 March 1994. The aircraft's name, Typhoon, was adopted in September 1998; the first production contracts were also signed that year.
+
+Political issues in the partner nations significantly protracted the Typhoon's development: the sudden end of the Cold War, reduced European demand for fighter aircraft, and the debate over the aircraft's cost and work share. The Typhoon entered operational service in 2003; it has entered service with the air forces of Austria, Italy, Germany, the United Kingdom, Spain and Saudi Arabia. The air forces of Oman, Kuwait and Qatar are export customers, bringing the procurement total to 623 aircraft as of 2019.
+
+The Eurofighter Typhoon is a highly agile aircraft, designed to be a supremely effective dogfighter in combat. Later production aircraft have been increasingly better equipped to undertake air-to-surface strike missions and to be compatible with an increasing number of different armaments and equipment, including Storm Shadow and the RAF's Brimstone. The Typhoon had its combat debut during the 2011 military intervention in Libya with the UK's Royal Air Force and the Italian Air Force, performing aerial reconnaissance and ground-strike missions. The type has also taken primary responsibility for air-defence duties for the majority of customer nations.
+
+The Typhoon is a highly agile aircraft both at supersonic and at low speeds, achieved through having an intentionally relaxed stability design. It has a quadruplex digital fly-by-wire control system providing artificial stability, as manual operation alone could not compensate for the inherent instability. The fly-by-wire system is described as "carefree", and prevents the pilot from exceeding the permitted manoeuvre envelope. Roll control is primarily achieved by use of the ailerons. Pitch control is by operation of the canards and ailerons, because canards disturbs airflow to inner elevons (flaps). The yaw control is done by big single rudder. Control surfaces are moved through two independent hydraulic systems, which also supply various other items, such as the canopy, brakes and undercarriage; powered by a 4,000 psi engine-driven pumps. Engines are fed by a chin double intake ramp situated below a splitter plate.
+
+The Typhoon features lightweight construction (82% composites consisting of 70% carbon fibre composite materials and 12% glass fibre reinforced composites) with an estimated lifespan of 6,000 flying hours. The permitted lifespan, as opposed to the estimated lifespan, was 3,000 hours.
+
+This equipment has proliferated into the following countries: Austria, Germany, Italy, Kuwait, Oman, Qatar, Saudi Arabia, Spain, United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft:
+The Note is The Eurofighter is produced in single-seat and twin-seat variants. The twin-seat variant is not used operationally, but only for training, though it is combat capable. The aircraft has been manufactured in three major standards; seven Development Aircraft (DA), seven production standard Instrumented Production Aircraft (IPA) for further system development and a continuing number of Series Production Aircraft. The production aircraft are now operational with the partner nation's air forces.
+
+The Tranche 1 aircraft were produced from 2000 onwards. Aircraft capabilities are being increased incrementally, with each software upgrade resulting in a different standard, known as blocks. With the introduction of the block 5 standard, the R2 retrofit programme began to bring all Tranche 1 aircraft to that standard..
+
+Here is Engines information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the System:
+The 13,500 lbs. thrust Eurojet EJ turbofans, 20,250 with afterburner is 2.
+
+Here is Weight (kg) information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the System:
+The Maximum Takeoff is 23,000.
+The Normal Takeoff is .
+The Empty is 9,750.
+
+Here is Speed (km/h) information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the System:
+The Maximum (at altitude) is 2,130, Mach 2.0.
+
+Here is Fuel (liters) information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the System:
+The Internal is .
+The External is 4,000.
+
+Here is Dimensions (m) information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the System:
+The Length is 16.
+The Wingspan is 11.
+The Height is 5.3.
+
+Here is Hardpoints information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the System:
+The Total is 13.
+The Fuselage is 5.
+The Wing (ea.) is 4.
+
+Here is Combat Radius (km) information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the System:
+The Ground attack, lo-lo-lo is 601.
+The Ground attack, hi-lo-hi is 1,389.
+The Air defense with 3 hr. CAP is 185.
+The AD with 10-min loiter is 1389.
+
+Here is Dimensions (m) information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the System:
+The Length is 16.
+The Wingspan is 11.
+The Height is 5.3.
+
+Here is Standard Payload (kg) information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the System:
+The External is 6,500.
+The Hardpoints is 13.
+The Fuselage is 5.
+The Wing (ea.) is 4.
+
+Here is Survivability/Countermeasures information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the System:
+The Martin-Baker zero/zero ejection seat is Yes.
+The DAAS (defensive aids sub-system) with electronic countermeasures/ support measures system (ECM/ ESM) is Yes.
+The Front and rear missile warning is Yes.
+The Supersonic capable towed decoy system is Yes.
+The Laser warning receivers is Yes.
+The Chaff and flare dispensing system is Yes.
+
+Here is Weapon & Ammunition Types information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the ARMAMENT:
+The Mauser BK 27-mm revolver cannon (rnds) is 150.
+
+Here is Air Superiority Packages information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the ARMAMENT:
+The BVRAAM is 6.
+The ASRAAM is 6.
+
+Here is Air Interdiction Package information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the ARMAMENT:
+The Storm Shadow is 2.
+The AMRAAM is 4.
+The ASRAAM is 2.
+The Alarm is 2.
+
+Here is Suppression of Enemy Air Defense information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the ARMAMENT:
+The Alarm is 6.
+The AMRAAMs is 4.
+The ASRAAM is 4.
+
+Here is Close Air Support Package information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the ARMAMENT:
+The Brimstone is 18.
+The AMRAAMs is 4.
+The ASRAAM is 4.
+
+Here is Maritime Attack Package information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the ARMAMENT:
+The Penguin is 6.
+The AMRAAM is 4.
+The ASRAAM is 2.
+
+Here is Heads-up-display information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the AVIONICS/SENSOR/OPTICS:
+The Flight reference data is Yes.
+The Weapons Aiming and Cueing is Yes.
+The FLIR Imaging is Yes.
+
+Here is Head Down Display information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft of the AVIONICS/SENSOR/OPTICS:
+The Tactical Situation is Yes.
+The System Status is Yes.
+The Map Display is Yes.
+The Multimode X-Pulse Doppler Radar is Yes.
+The Infrared Search and Track System (IRST) is Yes.
+The Night / Weather Capabilities is Yes.
+
+Here is NOTES information for the Eurofighter Typhoon EF-2000 European Multirole Fighter Aircraft:
+The Description is EUROFIGHTER IS A SINGLE-SEAT, TWIN-ENGINE, AGILE COMBAT AIRCRAFT WHICH WILL BE USED IN THE AIR-TO-AIR, AIR-TO-GROUND, AND TACTICAL RECONNAISSANCE ROLES. THE DESIGN OF THE EUROFIGHTER IS OPTIMIZED FOR AIR DOMINANCE PERFORMANCE WITH HIGH INSTANTANEOUS AND SUSTAINED TURN RATES, AND SPECIFIC EXCESS POWER. SPECIAL EMPHASIS HAS BEEN PLACED ON LOW WING LOADING, HIGH THRUST TO WEIGHT RATIO, EXCELLENT ALL ROUND VISION AND CAREFREE HANDLING. THE USE OF STEALTH TECHNOLOGY IS INCORPORATED THROUGHOUT THE AIRCRAFT’S BASIC DESIGN..
+

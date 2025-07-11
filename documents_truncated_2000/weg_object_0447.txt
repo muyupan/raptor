@@ -1,0 +1,56 @@
+This document describes the 85V6-A Vega Russian Electronic Intelligence System.
+
+Mission
+The 85V6-A Vega ELINT system is designed for detection, location, identification, classification and tracking of ground/air/maritime targets by their radio emissions. The 85V6-A Vega system can provide radio control and information support to groupings of AD, ELINT and EW units, as well as to early warning, air traffic control, and jamming source detection systems. 
+Composition:
+• three signal detection/direction finding/
+classification stations
+• ELINT system control post
+In combat the Vega stations are placed up to 30 km apart with the control post usually deployed near one of them.The Vega station can be used autonomously and within AD, EW, border guard and other combat units. The ELINT system's control post is designed to define planar coordinates and motion parameters of radio emitting sources based on data provided by the three stations, as well as to couple with the superior control centre.
+Bearings and other target data are transferred from the detection and direction finding stations to the control post via data links. Based on these data, target locations and tracks are calculated by means of triangulation
+and visualized on the digital map of the monitored region with false tracks eliminated by programme methods and identified with bearings of objects. Functional testing of the station is to be accomplished and ELINT summaries registered periodically.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the 85V6-A Vega Russian Electronic Intelligence System:
+The Alternative Designation is Vega 85V6-A.
+The Type is Electronic Intelligence System.
+The Crew is INA.
+
+Here is Dimensions (Ural 375) information for the 85V6-A Vega Russian Electronic Intelligence System:
+The Length is 7,350 mm.
+The Width is 2,960 mm.
+The Height is 2,980 mm.
+The Curb Weight is 8,400 kg.
+
+Here is Automotive (Ural 375) information for the 85V6-A Vega Russian Electronic Intelligence System:
+The Engine Name is 7.0L ZIL-375YA.
+The Engine Type is V-8 Diesel.
+The Engine Power is INA.
+The Transmission is 5-speed manual + 2-speed transfer case.
+The Cruising Range is INA.
+The Speed, Maximum Road is 76 km/h.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fuel Capacity is 79+16 gal. Fuel economy: 4.9 mpg (at 19-25 mph), 2.94 mpg (city cycle)..
+
+Here is System information for the 85V6-A Vega Russian Electronic Intelligence System of the Electronic Warfare System:
+The Name is 85V6-A Vega.
+The Type is Electronic Intelligence System.
+The Number of Radio emitting sources simultaneously reported to superior CP is up to 60.
+The ELINT update rate is 10.
+The ELINT Frequency Range, Basic is 0,2 – 18 km.
+The ELINT Frequency Range, Expanded is up to 40 km.
+The Scanning Range, Azimuth is 360.
+The Scanning Range, Elevation is 0-20.
+The Minimum Scan Period is 2.
+The Above-Horizon Target Detection Range is not less than 400 km.
+The Number of Vehicles with Trailers is 4.
+
+Here is Protection information for the 85V6-A Vega Russian Electronic Intelligence System:
+The Armor is INA.
+The Applique Armor is INA.
+The Active Protection System is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

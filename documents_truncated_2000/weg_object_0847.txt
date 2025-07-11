@@ -1,0 +1,173 @@
+This document describes the NASAMS Norwegian National/Norwegian Advanced Surface to Air Missile System.
+
+NASAMS (National/Norwegian Advanced Surface to Air Missile System) is a distributed and networked medium to long range air-defense system. NASAMS was the first surface-based application for the AIM-120 AMRAAM (Advanced Medium Range Air-to-Air Missile).
+
+This equipment has proliferated into the following countries: Chile, Finland, Indonesia, Lithuania, Netherlands, Norway, Spain, United States of America.
+
+Here is Variants information for the NASAMS Norwegian National/Norwegian Advanced Surface to Air Missile System:
+The NASAMS 2 is An upgraded version of the system called NASAMS II has been in service since 2007 and is equipped with new radar and 12 missile launchers for quicker identification and target destruction..
+The NASAMS 3 is In April 2019 RNoAF upgraded to NASAMS 3, and in May 2019 the first live firing test were conducted..
+
+Here is System information for the NASAMS Norwegian National/Norwegian Advanced Surface to Air Missile System:
+The Alternative Designation is NASAMS.
+The Type is National/Norwegian Advanced Surface to Air Missile System.
+The System Description is A standard NASAMS unit has a modular design
+comprising a command post the FDC, an active 3D
+radar AN/MPQ-64F1 Sentinel, a passive electrooptical and infrared sensor and a number of missile
+canister launchers with AMRAAM missiles. Normally, a number of NASAMS fire units are
+netted together in a uniquely designed ”hard-realtime” communication network to ensure minimum
+latency over large distances for maximum system
+performance utilizing the unique capabilities of the
+AMRAAM missile..
+The Target Sets is UAVs, Helicopters, Cruise Missiles, UCAVs, Aircraft.
+The Features is NASAMS features net centric architecture, multiple
+simultaneous engagements and beyond visual range
+(BVR) capabilities, closely integrated and adapted
+to a country’s adjacent weapons and command and
+control systems. The NASAMS network expands the
+defended area and enhances the total fighting capability
+of the armed forces..
+The Mission Configuration is NASAMS is by nature a highly mobile system designed
+with focus on operational flexibility for protection
+of Air Bases, Sea Ports, Populated Areas, other High
+Value Assets and Army Forces. NASAMS has proven
+interoperability with Higher Echelon units and longer
+range systems, such as Patriot. The modular design
+permits mission oriented task force organization of
+NASAMS, allowing the operators to maximize the
+effect of the components and tailor the system to the
+task..
+The Geographical Area is The radar and launcher elements can be deployed over a large area separated by
+more than 20 kilometres from the FDC, providing an extended coverage
+with few elements. Dispersed elements increase its survivability against
+enemy air and ground attacks..
+The Simultaneous Targets is The system can engage 72 targets simultaneously in active and passive modes and, using active seeker missiles, can intercept targets beyond visual range..
+The NASAMS Architecture is Open SW & HW architecture, COTS, Network Centric.
+The Data Links is Link 16, JRE, Link 11, Link 11B, LLAPI, ATDL-1.
+The Evolution is NASAMS is designed to evolve with the development of technology and can integrate with or utilize future technology when available. This can be future active or passive radars and sensors, Sense & Warn capability, and a wide range of effectors, like C-RAM, C-UAS and the Raytheon Family of Missiles; Aim 9X Sidewinder Block II, AIM-120 AMRAAM an AMRAAM ER. The evolution is enabled by the open architecture in the FDC..
+
+Here is Fire Distribution Center (FDC) information for the NASAMS Norwegian National/Norwegian Advanced Surface to Air Missile System:
+The Description is The Fire Distribution Center (FDC) is a proven and fielded Air Defence
+BMC4I module. With its State-of-the-Art technology it delivers a scalable,
+mobile and intuitive BMC4I for current and future Air Defence missions. The
+FDC has an open SW/HW architecture to enable fully netted and distributed
+operations. The architecture enables insertion of new technology and
+capabilities.
+The FDC ensures BMC4I functionality for any true mixed and layered Air
+Defence system configuration in national and multi-national scenarios.
+More than 120 FDCs are delivered as the BMC4I module for NASAMS,
+Coastal Defence, HAWK and BOC programs.
+The FDC is the C2 node of the NASAMS air defence system.The various
+AMRAAM models, AIM-9X and AMRAAM ER have all been fired from
+NASAMS. More than 10 different sensors have been integrated with the FDC.
+Standard tactical data links as well as several national proprietary data
+links are fully integrated, consequently the FDC enables full interoperability
+with national, EU and NATO forces.
+The FDC has embedded training, simulation and recording functionality.
+A high degree of commonality, use of commercial-of-the-shelf (COTS) and
+Non-Developmental Items represent a low risk-low life cycle cost (LCC)
+to satisfy current and evolving Air Defence requirements. The FDC has
+reduced manpower requirements compared to competitive systems..
+The FDC Configuration is The same baseline FDC is used in multiple programs in various roles, delivering
+a true multi-domain capability. Functionality, interfaces and number of work stations
+can be selected and tailored to customer requirements. For mobility the FDC
+is shelter and vehicle independent and can also be delivered as a non-shelter
+version. Static versions can be mounted tailored to customer requirements based
+on the FDC interior. The following FDC configurations are available:
+BOC – Battalion Operation Center. A BOC can control multiple Air Defence
+Battalions or other weapon systems.
+GBADOC - Ground Based Air Defence Operation Center. A Higher Echelon GBAD
+C2 unit including a Current operations cell, a Planning cell, a Communications cell
+and real-time engagement operations.
+BFDC (HAWK) - Battery FDC in HAWK role to control up to 2 HAWK firing sections
+and network up to other FDCs in the battery.
+NASAMS FDC (AMRAAM) - The FDC in Fixed Wing, Helicopter, UAV, UCAS,
+Cruise Missile Defence role with defined tactical data links, sensor and weapon
+interfaces. Primary effectors are AMRAAM, AMRAAM Extended Range and
+AIM-9X.
+FDC-S (SHORAD/VSHORAD) - Optimized to control and coordinate SHORAD/
+VSHORAD weapon systems.
+FDC - Coastal Defence – Interfaces and controls sensors and weapons for
+Coastal Defence and surface-to-surface operations firing the Naval Strike Missile
+(NSM).
+FDC - Precision Fires - Optimizing the use of an Army tactical air space to coordinate
+Multi-Domain Fires. The FDX gives the Army Battle Commander the tool he
+needs to coordinate all Precision Fires resources in real-time..
+The Interoperability and Integration is The FDC truly integrates systems, sensors and effectors into ONE system. Higher
+Echelon Units, adjacent units, sensors, effectors and other battle forces are integrated
+through the mature and fielded Network Access Nodes utilizing fielded legacy
+protocols.
+The FDC has a wide range of fielded logical decision support tools ensuring ONE
+Integrated Air Picture, Common Operational Picture, Threat Evaluation and
+Weapon Allocation, providing a consistent Battle Command for all forces.
+The integration of tactical data links in the FDC handles relevant messages according
+to the standard message catalogue, and the implementation of functionality in
+the C4I software, to support the needed level of system interoperability. Such
+functionality undertakes the sequence of events, leading to maximized coordination
+between the FDC and other actors in the Multi-Domain Battle Space..
+
+Here is Missile (Option 1) information for the NASAMS Norwegian National/Norwegian Advanced Surface to Air Missile System of the Missile System:
+The Name is AIM-120 AMRAAM.
+The Type is Advanced Medium-Range Air-to-Air Missile (AMRAAM).
+The Manufacturer is Unites States: Company: INA.
+The Length is 3.7 m.
+The Diameter is 180 mm.
+The Wingspan is 530 mm.
+The Weight is 152 kg.
+The Warhead is 22.7 kg of High explosive blast-fragmentation.
+The Detonation Mechanism is Active RADAR Target Detection Device (TDD).
+The Engine is Solid-fuel rocket motor.
+The Operational Range is • AIM-120A/B: 55–75 km;
+• AIM-120C-5: 105 km;
+• AIM-120C-7: 120 km;
+• AIM-120D: 180 km.
+The Maximum Speed is Mach 4; 4,900 km/h.
+The Guidance System is Inertial guidance, terminal active radar homing.
+The Note is The NASAM also fires the following AMRAAM Missiles:
+• AIM-120A/B: 55–75 km;
+• AIM-120C-5: 105 km;
+• AIM-120C-7: 120 km;
+• AIM-120D: 180 km.
+
+Here is Missile (Option 1) information for the NASAMS Norwegian National/Norwegian Advanced Surface to Air Missile System of the Missile System:
+The Name is AMRAAM-ER.
+The Note is The AMRAAM-Extended Range missile is a new, ground-launched solution that will intercept targets at longer distances and higher altitudes. The AMRAAM-ER missile gets its boost in range from a bigger rocket motor and optimized flight control algorithms.
+
+Designed specifically for ground-based air defense, the AMRAAM-ER missile will be integrated with the NASAMS launcher for increased air defense protection in the medium-range air defense market. NASAMS is owned by 11 countries and has been integrated into the U.S. National Capital Region’s air defense system since 2005..
+
+Here is Radar System information for the NASAMS Norwegian National/Norwegian Advanced Surface to Air Missile System:
+The Name is AN/MPQ-64 Sentinel.
+The Type is 3D Alert and Cur Short Range Air Defense (SHORAD) Radar.
+The Manufacturer is Before its acquisition by Raytheon, the Hughes Aircraft Co. developed the AN/MPQ-64 Sentinel radar at its Fullerton, California, facility, and manufactures it at its Forest, Mississippi, plant..
+The Frequency is X band.
+The Maximum Range is 40 km.
+The Maximum Altitude, while Operating is 3,000 m.
+The Maximum Altitude, Non-Operating is 12,000 m.
+The Azimuth is 360°.
+The Elevation is –10° to +55°.
+The ECM is Electronic Countermeasures (ECM) and Anti-Radiation Missile (ARM) resistant.
+
+Here is Fire Control information for the NASAMS Norwegian National/Norwegian Advanced Surface to Air Missile System:
+The Fire Distribution Center Fire Control System is The FDC is characterized by its intuitive advanced fire control system with hard
+real-time data handling. The intuitive Man-Machine Interface provides clarity
+and mitigates information overload. The open and modular SW/HW architecture
+enables situational awareness across domains, providing merged Offensive and
+Defensive Precision Fires capabilities in a true Plug & Fight tailorable solution.
+The FDC has demonstrated C2 and Fire Control Capability for Multi-Domain
+Fires. A network of FDCs ensures shared awareness in the Area of Operations.
+The system performs data link management, sensor control, air picture production,
+track identification and classification, friendly protection, threat ordering, weapon
+allocation, weapon & engagement control and kill assessment. In addition an
+embedded or stand-alone Mission Support Tool (MST) is provided to accelerate
+the commander’s decision making process regarding deployment planning,
+monitoring current system status, and for in-depth analysis and debriefs..
+
+Here is Protection information for the NASAMS Norwegian National/Norwegian Advanced Surface to Air Missile System:
+The Hull Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

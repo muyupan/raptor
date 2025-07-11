@@ -1,0 +1,121 @@
+This document describes the Gumdoksuri Class South Korean Guided Missile Patrol Boat.
+
+The GUMDOKSURI-class high-speed patrol boats are designed to replace South Korea's aging PAEK KU 52- and CHAMSURI-class patrol boats. It is being procured in two variants: the PKX-A, equipped with missile systems; and the PKX-B, armed only with guns (PKX stands for the Patrol Killer Experimental program).
+
+This equipment has proliferated into the following countries: South Korea (Republic of Korea).
+
+Here is Variants information for the Gumdoksuri Class South Korean Guided Missile Patrol Boat:
+The YOON YOUNG-HA is Commissioned: 2008
+Status: Active.
+The HAN SANG GUK is Commissioned: 2011
+Status: Active.
+The JO CHEON HYEONG is Commissioned: 2011
+Status: Active.
+The HWANG DOHYUN is Commissioned: 2012
+Status: Active.
+The SUH HOOWON is Commissioned: 2011
+Status: Active.
+The PARK DONGHYUK is Commissioned: 2011
+Status: Active.
+The HYUN SIHAK is Commissioned: 2011
+Status: Active.
+The JUNG GEUNGMO is Commissioned: 2011
+Status: Active.
+The JI DEOKCHIL is Commissioned: 2011
+Status: Active.
+The LIM BYEONGRAE is Commissioned: 2013
+Status: Active.
+The HONG SIUK is Commissioned: 2013
+Status: Active.
+The HONG DAESEON is Commissioned: 2013
+Status: Active.
+The HAN MUNSIK is Commissioned: 2014
+Status: Active.
+The KIM CHANG-HAK is Commissioned: 2014
+Status: Active.
+The PARK DONGJIN is Commissioned: 2014
+Status: Active.
+
+Here is System information for the Gumdoksuri Class South Korean Guided Missile Patrol Boat:
+The Alternative Designation is Gumdoksuri Class.
+The Type is Guided Missile Patrol Boat.
+The Builder is PGM-711, -717, -718, -719, -721, -726, -727, -728: Hanjin Heavy Industries and Construction, Busan, South Korea
+ PGM-712, -713, -715, -716, -722, -723, -725: STX Jinhae, South Korea.
+The Crew is 40.
+
+Here is Dimensions information for the Gumdoksuri Class South Korean Guided Missile Patrol Boat:
+The Length is 63.0 m.
+The Beam is 9.0 m.
+The Draft is 5.0 m.
+The Displacement, Standard is 450 tons.
+The Displacement, Full Load is 570 tons.
+
+Here is Propulsion System information for the Gumdoksuri Class South Korean Guided Missile Patrol Boat:
+The Gas Turbine Engine Name is 2 x LM500.
+The Diesel Engine Name is 2 x MTU 16V1163TB93 diesels.
+The Engine Type is Gas Turbine.
+The Engine Power is Gas Turbine: 5,450 shp each; Diesel Engine: 5,600 hp each.
+The Maximum Range is 2,000 nm at 15/16 knots.
+The Maximum Speed is 74 km/h (40 Knots).
+
+Here is Gun Weapon System #1 information for the Gumdoksuri Class South Korean Guided Missile Patrol Boat of the Gun Weapon Systems:
+The Name is 1 x Hyundai Wia DP.
+The Type is Naval Gun.
+The Caliber is 76 mm.
+The Quantity is 1 x Hyundai Wia DP 76mm Naval Gun.
+The Rate of Fire is 100 Rounds/min.
+The Maximum Range is 16.3 km.
+The Elevation is -15˚~ +85˚.
+The Traverse is 360˚.
+The Controller Type is Digital.
+The Shield Type is Stealth.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Gumdoksuri Class South Korean Guided Missile Patrol Boat of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.
+The Shell is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Gumdoksuri Class South Korean Guided Missile Patrol Boat of the Gun Weapon Systems:
+The Name is 1 x Twin Doosan DST No Bong.
+The Type is Anti-Aircraft Gun.
+The Caliber is 40 mm.
+The Maximum Firing Range is 7,160 m.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Gumdoksuri Class South Korean Guided Missile Patrol Boat of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 40 mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Missile #1 information for the Gumdoksuri Class South Korean Guided Missile Patrol Boat of the Missile Weapon System:
+The Name is 2 x SSM-700K Haeseong (C-Star).
+The Type is Anti-Ship Cruise Missile.
+The Manufacturer is LIG Nex1
+Hanwha Techwin Samsung.
+The Length is 5.46 m.
+The Width is 0.34 m.
+The Weight is 718 kg (with launcher:1,016kg).
+The Warhead Weight is 250 kg.
+The Detonation Mechanism is Impact fuze.
+The Engine is Samsung Techwin SS-760K turbofan (or a Daewoo or Hyundai alternative motor).
+The Operational Range is 180 km ~ 200 km.
+The Flight Altitude is Sea-skimming.
+The Maximum Speed is 1162.8 km/h (Mach 0.95).
+The Guidance System is Inertial guidance / terminal active radar homing.
+
+Here is Fire Control Systems information for the Gumdoksuri Class South Korean Guided Missile Patrol Boat:
+The FCS Name is 1 x Samsung Thales electro-optical targeting system.
+The Computerized FCS is Yes.
+The Combat System is 1 x South Korean version of Saab Ceros 200 combat management system.
+
+Here is Radar Systems information for the Gumdoksuri Class South Korean Guided Missile Patrol Boat:
+The Surface Search Radar is 1 x STX RadarSys SPS-100K surface search.
+The Surveillance Radar is 1 x LIG Nex1 SPS-540K 3D surveillance.
+The Navigation Radar is INA.
+
+Here is Protection information for the Gumdoksuri Class South Korean Guided Missile Patrol Boat:
+The Countermeasures is 2 x EADS/Lacroix Dagaie Mk 2 chaff/flare launchers.
+The NBC Water Washdown System is Yes.
+The EW is 1 x GoldStar Sonata active jammer.
+

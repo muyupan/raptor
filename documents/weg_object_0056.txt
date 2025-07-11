@@ -1,0 +1,108 @@
+This document describes the AN/TPQ-49 American Counterfire Radar System.
+
+The AN/TPQ-49 multi-mission radar leverages SRC’s LCMR and LSTAR software to provide the warfighter with a versatile, powerful, all-in-one multi-mission radar capable of supporting early warning weapon location for indirect fire, counterfire target acquisition (CTA), and air surveillance missions. As there is a demand to immediately react to the emerging threats, counterfire radars shall be characterized by a high degree of accuracy and a short span of reaction time. Thus, rotating antenna arrays are seen as insufficiently efficient in the case of such systems, as the refresh rate in the case of the rotating antenna is too low, to intercept artillery rounds traveling at high velocities. Thereby, most of the counterfire radars use fixed and relatively large antenna arrays. 
+
+The radar provides continuous 360-degree surveillance and 3-D target location using a non-rotating electronically steered antenna. Its small footprint and lightweight design make the radar ideal for fixed site emplacement in hard-to-reach areas where typical radars are impractical. The system can simultaneously detect and track multiple targets from separate points of origin within a 315 square kilometer surveillance area. The radar is designed to support a variety of missions including air surveillance, force protection, CTA, very short-range air defense (VSHORAD), small UAS detection and tracking, and critical infrastructure protection.
+
+This equipment has proliferated into the following countries: Australia, Canada, Israel, New Zealand, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the AN/TPQ-49 American Counterfire Radar System:
+The AN/TPQ-49A is A 2018 upgrade variant of which the delivery contract provided sustainment support and a technology refresh of the USMC inventory of AN/TPQ-49 systems. Contract specifics include: system refresh kit installation, program management, initial/sustainment spares provisioning, live fire testing, and new system production and equipment training. Although exact details are unconfirmed at this time, it is assessed this variant is available for export to select US partner nations..
+
+Here is System information for the AN/TPQ-49 American Counterfire Radar System:
+The Alternative Designation is AN/TPQ-49.
+The Type is Counterfire Radar System.
+The Classification is AN/TPQ-49 counterfire radar is classified as C-RAM equipment (Counter Rocket, Artillery, and Mortar). The primary purpose of such radiolocation is to provide own forces with relevant information concerning the incoming RAM ordnance. Secondly, systems of this class are also utilized in order to define the locations from which the rounds are fired, and thus make it possible to develop firing solutions for own artillery assets..
+The Crew is 1.
+The Mission is Performs multiple missions
+simultaneously including
+early warning, counterfire
+and air surveillance.
+The Multi-Mission is The AN/TPQ-49 radar is multi-mission
+capable, allowing the operator to
+configure the radar to support a
+variety of missions simultaneously,
+including early warning for indirect
+fire, CTA, air surveillance, and counter UAS missions. In multi-mission mode, the radar can perform the tasks of two
+or more radars and can be configured
+to prioritize specific capabilities to fit
+mission needs..
+The Features is Performs multiple missions
+simultaneously including
+early warning, counterfire
+and air surveillance
+ Extremely reliable with
+almost no moving parts
+ Supports multiple
+interface standards
+ Rooftop, tower, or
+tripod mountable
+ Complete integrated
+logistics support
+ 3-D location display
+ 360 degree coverage with
+non-rotating, electronically
+steered antenna
+ Powered by AC grid,
+generator, 24 VDC vehicle,
+or battery.
+The Benefits is • Transports easily and installs rapidly
+(< 20 minutes) in challenging terrain;
+• Low lifecycle cost;
+• Unattended remote operation;
+• Few false alarms in
+challenging clutter;
+• Ideal for integrated solutions
+- EO/IR camera or
+counterfire response
+- ADS-B or secondary
+surveillance radar.
+The Applications is Air surveillance:
+• Counterfire target acquisition;
+• Counter-UAS;
+• Critical infrastructure protection;
+• Force protection;
+• Ground-based sense and avoid;
+• VSHORAD.
+The Power is The radar power consumption is low (up to 1.2 kW), which does not require a specific purpose dedicated power supply unit. It is enough to provide 110/240 VAC or 24 V DC electricity (generator or a vehicle)..
+The Battery is Alternatively, a battery may also be used as a power supply for the system..
+The Electronically Scanned Antenna is This electronically scanned antenna is the main feature that distinguishes this radar. The antenna in question allows for 360 degrees observation and 3D target tracking (elevation from 0 to 30 degrees). However, directional (sector) operation is also possible, which enhances the refresh rate achievable by the radar. The antenna system itself may also be installed on masts, thanks to which the observation range could be potentially extended, which is especially valuable in rough terrain. The antenna array is shock-proof as it does not feature any moving parts, which also translates into low maintenance requirements. This, on the other hand, significantly diminishes the operational costs throughout the radar’s lifecycle. The antenna itself consists of 24 identical longitudinal column-shaped antenna systems, uniformly distributed with 15 degrees increments around the central base. The above makes it possible to create 24 overlapping beams. The columns may be arranged and freely dismantled. In a transport setting, they may be packed separately..
+The Operating frequency is L-Band.
+The Tripod is The antenna section is based on a special tripod that may be deployed anywhere, also on the buildings, or as a part of the forward operating base infrastructure..
+The Remotely Operated Capability is According to the Americans, the radar in question may also be used by small elements stationed at forward operating bases. This is one of the reasons that motivated the designers to give the AN/TPQ-49 an ability of being operated remotely..
+The Weapon Location is SRC’s AN/TPQ-49 radar system is a
+trusted U.S. Marine Corps program of
+record. Combined with SRC’s LCMR
+software, the system is designed
+to detect, track, classify and warn
+of incoming RAM threats while
+determining point of origin and point
+of impact locations. The system can
+track multiple weapons simultaneously and has a detection range of greater
+than 10 kilometers, and a point
+of origin accuracy of 75 meters
+at 5 kilometers..
+The Air Surveillance is With SRC’s LSTAR software, the radar can detect and track a wide range of traditional and non-traditional
+aircraft, with an instrumented range
+of 30 kilometers. The LSTAR software
+extends the radar coverage volume
+by employing air surveillance specific
+waveforms tailored to airspace
+monitoring. This capability makes the
+radar an ideal solution for general air
+surveillance for VSHORAD, wind farm
+gap-filling, and small UAS detection
+and tracking..
+The Detection Range is The system can track multiple weapons simultaneously and has a detection range of greater than 10 kilometers, and a point of origin accuracy of 75 meters
+at 5 kilometers..
+The Azimuth coverage is 360°.
+The Elevation coverage is 0 - 30°.
+The Emplacement Time is Less than 20 Min.
+The Displacement Time is Less than 20 Min.
+The Note is AN/TPQ-49 is a modular expandable design. Tests are in progress, the goal of which would be to integrate the antenna array with an optronic sensor, which would make it possible to create a complete security and observation system. The same method is used for setting up secondary radar antenna array with IFF system integrated. This makes it possible to utilize the AN/TPQ-49 radar as a part of airspace monitoring and air traffic control solution..
+
+Here is Dimensions information for the AN/TPQ-49 American Counterfire Radar System:
+The Diameter is 1020 mm.
+The Height is 2160 mm.
+The Weight is 68 kg.
+

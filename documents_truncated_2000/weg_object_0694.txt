@@ -1,0 +1,88 @@
+This document describes the C-130E Hercules American Transport Aircraft.
+
+Introduced in August 1962, the C-130E conducted critical United States Air Force (USAF) missions during the Vietnam War through the wars in Afghanistan and Iraq. It also supported countless USAF humanitarian efforts around the globe and in all climates.
+
+Originally designed by Lockheed as an assault transport capable of operating from unpaved airstrips, the C-130 Hercules made its first flight in August 1954. Over the next half century, the USAF used various versions of this versatile aircraft for aeromedical evacuation, mid-air refueling of helicopters, mid-air space capsule recovery, search and rescue, reconnaissance, as a gunship, and for many other missions.
+
+The C-130E (serial number 63-7868) on display entered service in April 1964. It had a long career, including extensive service in Southeast Asia during the Vietnam War for both the USAF and Air America. Before the Vietnam War, 7868 participated in Operation Red Dragon, the deployment of Belgian paratroopers and the rescue of hostages in the Congo in November 1964. The aircraft’s last assignment was to Little Rock Air Force Base, Arkansas, where it was used for aircrew training.
+
+This equipment has proliferated into the following countries: Argentina, Brazil, Ecuador, Iran (Islamic Republic of), Iraq, Israel, Jordan, Mexico, Pakistan, Poland, Sweden, Turkey.
+
+Here is Variants information for the C-130E Hercules American Transport Aircraft:
+The C-130A/B/E/F/G/H/K/T is Tactical airlifter basic models.
+The C-130A-II Dreamboat is Early version Electronic Intelligence/Signals Intelligence (ELINT/SIGINT) aircraft.
+The C-130J Super Hercules is Tactical airlifter, with new engines, avionics, and updated systems.
+The C-130B BLC is A one-off conversion of C-130B 58-0712, modified with a double Allison YT56 gas generator pod under each outer wing, to provide bleed air for all the control surfaces and flaps..
+The C-130K is Designation for RAF Hercules C1/W2/C3 aircraft (C-130Js in RAF service are the Hercules C.4 and Hercules C.5).
+The AC-130A/E/H/J/U/W is Gunship variants.
+The C-130D/D-6 is Ski-equipped version for snow and ice operations United States Air Force / Air National Guard.
+The CC-130E/H/J Hercules is Designation for Canadian Armed Forces / Royal Canadian Air Force Hercules aircraft. U.S. Air Force used the CC-130J designation to differentiate the standard C-130J variant from the "stretched" C-130J (company designation C-130J-30)..
+The C-130M is Designation used by the Brazilian Air Force for locally modified / up-graded C-130H aircraft..
+The DC-130A/E/H is USAF and USN Drone control.
+The EC-130 is EC-130E/J Commando Solo – USAF / Air National Guard psychological operations version.
+The GC-130 is Permanently grounded instructional airframes.
+The HC-130 is .
+The JC-130 is Temporary conversion for flight test operations; used to recover drones and spy satellite film capsules..
+The KC-130F/R/T/J is United States Marine Corps aerial refueling tanker and tactical airlifter.
+The LC-130F/H/R is USAF / Air National Guard – Ski-equipped version for Arctic and Antarctic support operations; LC-130F and R previously operated by USN.
+The MC-130 is Special operations infiltration/extraction variant.
+The NC-130 is Permanent conversion for flight test operations.
+The PC-130/C-130-MP is Maritime patrol.
+The RC-130A/S is Surveillance aircraft for reconnaissance.
+The Surveillance aircraft for reconnaissance is Proposed maritime patrol version of the C-130J, designed for coastal surveillance and anti-submarine warfare..
+The TC-130 is Aircrew training.
+The VC-130H is VIP transport.
+The WC-130A/B/E/H/J is Weather reconnaissance ("Hurricane Hunter") version for USAF / Air Force Reserve Command's 53d Weather Reconnaissance Squadron in support of the National Weather Service's National Hurricane Center.
+
+Here is System information for the C-130E Hercules American Transport Aircraft:
+The Alternate Designation(s) is C-130E Hercules.
+The Type is Transport Aircraft.
+The Manufacturer is Lockheed Corporation
+Lockheed Martin.
+The Crew is 5 (two pilots, navigator, flight engineer,
+radio operator/loadmaster).
+The Passengers is 92 troops; or 64 paratroops; or
+74 litters and 2 attendants.
+The Maximum Payload Capacity is 1,850 km.
+The Number of Engines is 4.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the C-130E Hercules American Transport Aircraft:
+The Length is 29.79 m.
+The Width (Wing Span) is 40.41 m.
+The Wing Area is 162.12 m sq.
+The Height is 11.84 m.
+The Ramp Opening, Length is 3.12 m.
+The Ramp Opening, Width is 3.02 m.
+The Cargo Hold, Length is 12.31 m.
+The Cargo Hold, Height is 2.74 m.
+The Cargo Hold, Width is 3.02 m.
+The Cargo Volume is 127.4 cu m.
+The Weight, Unloaded is 34,686 kg.
+The Maximum Takeoff Weight is 69,750 kg.
+
+Here is Automotive information for the C-130E Hercules American Transport Aircraft:
+The Engine Name is 4 x Allison T56-A-7.
+The Engine Type is Turboprop.
+The Engine Power is 4,200 shp each.
+The Fuel Capacity is 36,636 liters internal.
+The Maximum Speed is 555 km/h.
+The Economy Speed is INA.
+The Stall Speed is 185 km/h.
+The Ceiling is 5,846 m.
+The Takeoff Run is 1,091 m.
+The Landing Run is 518 m.
+The Rate of Climb is 579 m/min.
+The Range, with Maximum Payload is 1,940 km.
+
+Here is Fire Control / Avionics information for the C-130E Hercules American Transport Aircraft:
+The Navigation Radar is AN/APN-241 weather and navigational radar..
+
+Here is Protection information for the C-130E Hercules American Transport Aircraft:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is Yes.
+

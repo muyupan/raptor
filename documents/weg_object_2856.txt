@@ -1,0 +1,68 @@
+This document describes the BRDM-2M-98/BRDM-2M-97 Polish Amphibious Armored Staff Car.
+
+The wheeled armored vehicle "model 98" is a new variant of the BRDM-2. This model is very different from the basic model of the original Russian vehicle BRDM-2. The vehicle has a wide variety of improvements including a new engine, a new access hatch on each side of the sides of the hull, a spare wheel placed at the rear of the hull, a more spacious crew compartment, and better suited to current combat situations. This vehicle is currently used by the Polish army. A special effort has been made regarding the communication and navigation system. Thanks to all these improvements, the BRDM-2 has found a second youth, which still allows it a very long life in many armies of the old Warsaw Pact. Indeed, these countries do not have a significant defense budget, they are forced to find compromises to keep their armies at an operational level worthy of armies like France or the United States. There are two other variants, the "Model 97", whose turret has been completely modified. They are wider and have smoke grenade launchers on the front left and right, and also a large net holder at the rear. One can also find on the roof of the turret, an anti-tank firing post. The "Model 98" has a 12.7 mm machine gun and a 7.62 mm machine gun, a passive night vision system for the vehicle manager and the driver, and an optoelectronic recognition system. On all these vehicle models, we only find the four additional retractable wheels as on the original model. The vehicle is fully amphibious, it can move in the water at a speed of 9 to 10 km / hr.
+
+This equipment has proliferated into the following countries: Laos (People's Democratic Republic), Russian Federation.
+
+Here is Variants information for the BRDM-2M-98/BRDM-2M-97 Polish Amphibious Armored Staff Car:
+The BRDM-2-M98/Zbik-A/BRDM-2A is Upgraded turret, 12.7mm machine gun, and battlefield surveillance system..
+The BRDM-2-M97/Zbik-A/BRDM-2B is 20 upgrades including larger turret, 12.7mm machine gun, ATGM, night sensors, radar, and improved space design..
+The BRDM-2A (Russia) is Better engine and other upgrades..
+The BRDM-2SMD/BRDM-2D (Russia) is 145hp engine and other improvements..
+The BRDM-B (Czech Republic) is Overhead turret, 12.7mm machine gun, TV/thermal sight, new engine, and space for 6 soldiers..
+
+Here is System information for the BRDM-2M-98/BRDM-2M-97 Polish Amphibious Armored Staff Car:
+The Alternative Designation is BRDM-2M-98; BRDM-2M-97; BRDM-2A; BRDM-2B M97; Zbik-A; Zbik-B.
+The Type is Armored Staff Car.
+The Description is Improved BRDM-2 with auxiliary wheels removed; other weapons available; 2 soldiers can dismount for OP duty for short periods of time..
+The Crew is 4.
+
+Here is Dimensions information for the BRDM-2M-98/BRDM-2M-97 Polish Amphibious Armored Staff Car:
+The Length is 5.78 m.
+The Width is 2.78 m.
+The Height is 2.57 m.
+The Weight is 8 tons.
+
+Here is Automotive information for the BRDM-2M-98/BRDM-2M-97 Polish Amphibious Armored Staff Car:
+The Engine Name is INA.
+The Engine Power is INA.
+The Engine Type is Diesel.
+The Fording Depth is Amphibious.
+The Range, Cruising is 500.
+The Speed, Average Cross is INA.
+The Speed, Maximum Off is INA.
+The Speed, Maximum Road is 100.
+The Speed, Maximum Swim is 10.
+
+Here is Weapon 1 (Machine Gun) information for the BRDM-2M-98/BRDM-2M-97 Polish Amphibious Armored Staff Car of the Main Weapon System:
+The Name is 1 x NSV-5 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Types of Ammunition Carried is AP-I (B-32), API-T (BZT-44), HE-I.
+The Day is 2000.
+The Night is INA.
+The Anti-Aircraft is 1500.
+The Armor Penetration is INA.
+The Muzzle Velocity is 845.
+The Estimated Ammunition Carried is 1000 Rounds.
+
+Here is Weapon 2 (ATGM) information for the BRDM-2M-98/BRDM-2M-97 Polish Amphibious Armored Staff Car of the Main Weapon System:
+The Name is HOT-3.
+The Caliber is 150.
+The Type is ATGM.
+The Ammunition is Tandem charge HEAT (est).
+The Maximum Effective Range is 4300.
+The Minimum Range is 75.
+The Armor Penetration is 1250.
+The Muzzle Velocity is 240.
+
+Here is Protection information for the BRDM-2M-98/BRDM-2M-97 Polish Amphibious Armored Staff Car:
+The Active Protection System is INA.
+The Armor, Applique is INA.
+The Armor, Explosive Reactive is INA.
+The Armor, Turret Front is 14.
+The NBC Protection is Collective.
+The Self entrenching blade is No.
+The Smoke Equipment is INA.
+The Survivability Equipment is Internal fire suppression system.
+

@@ -1,0 +1,32 @@
+This document describes the Blowpipe British Man-Portable Air Defense Missile (MANPAD).
+
+The Shorts Blowpipe is a man-portable surface-to-air missile that was in use with the British Army and Royal Marines from 1975. It was superseded by an interim design, Javelin, and later the greatly improved Starstreak.
+
+The missile is supplied as a single round in a storage cylinder/firing tube. The aiming unit is clipped to the launch tube and fired from the operator's shoulder. To reduce the overall size of the container, the rear fins of the missile are stored in the larger diameter cylinder at the front of the tube (this also contains the Yagi antenna for transmitting guidance signals); during firing, the fins slip onto the rear of the missile as it flies through and are held there by heat-activated adhesive tapes. This gives the launch container a unique shape, seemingly oversized at the front and extremely thin at the rear. The missile is powered by a short-duration solid rocket for launch, then by a sustainer motor once it is well clear of the launch tube.
+
+The Blowpipe's guidance is initially semi-automatic with the missile gathered to the center of the sight's crosshairs by the infrared optic atop the aiming unit. Two to three seconds after launch, missile guidance is switched to fully MCLOS mode, and the operator regains full control of the missile. The operator has to steer the missile all the way to its target manually via a small thumb joystick. The operator can opt not to use auto gathering when engaging low-flying targets such as helicopters but then has to super-elevate the launcher to ensure that the missile does not hit the ground. Four flares in the tail of the missile make it visible in flight, first to the infrared optic, then to the operator. Detonation is either by proximity or contact fuse. In emergencies, the operator can end an engagement by shutting off the power to the transmitter with the system switch, after which the missile will immediately self-destruct. The aiming unit can then be removed from the empty missile container and fitted to a new round.
+
+Blowpipe was developed as a SAM for submarines, fitted as a cluster of four missiles into a mast that could be raised from the submarine's conning tower under the name Submarine Launched Airflight Missile (SLAM) trialed on HMS Aeneas (P427) in 1972. These were for a time installed on Israeli Gal class submarines.
+
+This equipment has proliferated into the following countries: Afghanistan, Argentina, Chile, Ecuador, Guatemala, Israel, Malawi, Malaysia, Nigeria, Oman, Portugal, Qatar, Thailand, United Arab Emirates, United Kingdom of Great Britain and Northern Ireland.
+
+Here is System information for the Blowpipe British Man-Portable Air Defense Missile (MANPAD):
+The Alternative Designation is Blowpipe.
+The Type is Man-Portable Air Defense Missile System (MANPAD).
+The Manufacturer is Short Brothers.
+The Number Built is 34,382.
+The Crew is 1.
+The Effective Firing Range is 0.5 to 3.5 km.
+The Warhead is Shape Charge.
+The Warhead Weight is 2.2 kg.
+The Engine is Solid rocket motor.
+The Speed is Mach 1.5.
+The Guidance System is MCLOS system.
+
+Here is Dimensions information for the Blowpipe British Man-Portable Air Defense Missile (MANPAD):
+The Length is 1.35.
+The Width is 76.
+The Weight, Combat is 14.5 kg (missile in launch tube)
+22 kg (complete system)
+6.2 kg (launcher).
+

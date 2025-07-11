@@ -1,0 +1,36 @@
+This document describes the MP-DF 100 Israeli Manpack DF/COMINT system.
+
+Designed for use by ground forces gathering intelligence in the field, the MP-DF 100 manpack DF/COMINT system is used for interception and direction finding on a range of frequencies in the band from 25 to 3,000 MHz. Performing wide-spectrum scanning, the MP-DF 100 detects, locates and monitors signals of interest from specific locations.
+
+The MP-DF 100 can be configured to operate in two main modes: hand-held or manpack. These modes are differentiated by the size and type of their antennas.
+
+The hand-held mode, which uses a 90° front sector antenna and sum-null DF, enables soldiers to locate nearby emitters by advancing in the emitter's general direction and aiming the sensor in the direction of the emitter (homing mode).
+
+The manpack mode, which uses two types of small tripod-mounted antennas and interferometer-based DF, enables mapping of the direction and frequency of existing emitters in the area. This configuration, which includes GPS capabilities integrated in a PDA, can be carried in a specially-designed vest or backpack, and used as a standalone sensor or remotely controlled.
+
+This equipment has proliferated into the following countries: Israel.
+
+Here is MP-DF 100,  Hand-Held Mode information for the MP-DF 100 Israeli Manpack DF/COMINT system of the System:
+The Frequency Range is 25-3,000.
+The Weight is 14 kg excl vest.
+The Power Consumption is 40 W (excl PDA).
+The SHock and Vibration is MIL-STD-810 (except PDA).
+The Antenna TYpe is 90 deg front sector (homing).
+The DF Method is sum-null comparison.
+The Bandwidth Resolution is 25.
+The Max Signal at Input (no damage) is +20.
+
+Here is MP-DF 100,  Manpack Mode information for the MP-DF 100 Israeli Manpack DF/COMINT system of the System:
+The Frequency Range is 25-3,000.
+The Weight is 20 kg excl vest.
+The Power Consumption is 40 W (excl PDA).
+The Shock and Vibration is MIL-STD-810 (except PDA).
+The Antenna Type is 360 deg and +15 Elevation.
+The DF Method is Interferometer.
+The Accuracy is typ 4° RMS @ SNR IF=10 dB.
+The Resolution is 0.5.
+The Instantaneous Bandwidth is 2 x 2.
+The Max Input Signal (no damage): is +20.
+The Software Interface is wireless Bluetooth networking.
+The Display is activity map (signal level vs frequency graph or list); DF map vs frequency (DOA vs frequency, strip graph or list); DF activity vs time at specified frequency (for net radio).
+

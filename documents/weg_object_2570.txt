@@ -1,0 +1,174 @@
+This document describes the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV).
+
+The ZBD-04A is an upgraded version of the ZBD-04. It forms the base platform for several other vehicles and carries improved armor but reduced mobility over the ZBD-04. It is the primary vehicle of China’s mechanized infantry brigades and provides sufficient firepower and protection to transport a section of fully-equipped infantry into a high-intensity battle. It is designed to operate alongside the Type 99A MBT and conduct mobile operations as part of a combined arms formation. The ZBD-04A was displayed in public for the first time during the 2015 Victory Day parade through Beijing, although development was completed the year before.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The ZBD-97 is Designation for ZBD-04 prototype..
+The ZBD-04 is Standard variant..
+The ZBD-04 HJ-8 is Based on original ZBD-04 with four additional HJ-8 anti-tank missile mounted on the turret..
+The ZBD-04A AT (AFT-10 Anti-Tank Missile Carrier) is ZBD-04A's chassis works as the mobile launching platform for AFT-10 (HJ-10) anti-tank missile. Noted the AFT-10 is a specific version of HJ-10 missile that designed for firing from vehicle launching platform such as ZBD-04A..
+The ZBD-04A Command Vehicle is Modified from original ZBD-04A, featuring a crew cabin with higher ceiling..
+The ZBD-04A Combat Reconnaissance Vehicle is Equipped with radars and electric-optic sights for battlefield surveillance, the chassis of the Combat Reconnaissance Vehicle is modified from standard ZBD-04A. The recon equipment is mounted on a retractable mast..
+The ZBD-04A Armored Recovery Vehicle is Equipped with a crane for emergency vehicle service..
+The VN12 is Export variant based on ZBD-04A..
+
+Here is System information for the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Alternative Designation is ZBD-04A, WZ502 (Industrial Designation), VN-12.
+The Type is Amphibious APC/IFV.
+The Manufacturer is Norinco.
+The Production is 2011 - present.
+The Crew is 3.
+The Troop Compartment Capacity is 7.
+The Maximum Effective Range is 400.
+The Amphibious is Yes; however, as a result of the additional armor however, the ZBD-04A has a reduced amphibious capability compared with its predecessor, and is only able to cross inland rivers and streams at a maximum speed of 6 km/h. It is is not fitted with water jets for propulsion while afloat. It has a reduced amphibious performance and is powered by its tracks with limited control as a result..
+The Note is It is the primary vehicle of China's mechanized infantry brigades.
+
+Here is Dimensions information for the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Length is 7.52.
+The Width is 3.4.
+The Height is 2.53.
+The Weight,.Combat is 24.
+The Ground Clearance is 0.45.
+The Max Speed is 70.
+The Range (On Road) is 400.
+
+Here is Automotive information for the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is 404 kW (541 bhp) six-cylinder, water-cooled turbo-diesel.
+The Engine Type is Turbo-diesel.
+The Engine Power is 590.
+The Engine Location is Front Right.
+The Cruising Range is 600.
+The Speed, Maximum Road is 75.
+The Speed, Average Cross is 50.
+The Speed, Maximum Swim is 6.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.7.
+The Trench is 2.7.
+The Fording Depth is 1.4.
+The Suspension is Traditional torsion bar configuration, with each side having six dual rubber-tired road wheels and a driver sprocket at the front, idler at the rear, and track return rollers. Only the upper part of the suspension is covered..
+The Note is Due to increased Armor, the Maximum Swim speed of the ZBD-04A is reduced to only 6 km/h..
+
+Here is TBR-121 information for the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Proliferated is Widely.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is 100 mm 2A70 rifled gun/missile launcher,.
+The Type is Rifled gun/missile launcher,.
+The Manufacturer is KBP Instrument Design Bureau.
+The Max Rate of Fire is 8-10.
+The Weight, Combat is 332.
+The Automatic Loader is Yes.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Elevation is +60.
+The Minimum Elevation is -6.
+The Note is The 100 mm gun is capable of firing two natures of conventional ammunition as well as a guided missile..
+
+Here is Ammunition (Option 1) information for the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is PFHE BTE3.
+The Type is 100 mm Projectile.
+The Maximum Effective Range is 7,000.
+The Splinters is 2,400.
+The Basic Load is 41 (Inclusive of guided missiles).
+
+Here is Ammunition (Option 2) information for the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is HE BTE1.
+The Type is 100 mm Projectile.
+The Maximum Effective Range is 4,000.
+The Basic Load is 41 (Inclusive of guided missiles).
+
+Here is System information for the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System:
+The Name is 30 mm 2A72 (Shipunov 2A42).
+The Type is 30 mm Auto-cannon.
+The Alternate Designation is Shipunov 2A42.
+The Manufacurer is Tulamashzavod.
+The Date of Introduction is 1980.
+The Length, Total is 3.027.
+The Length, Barrel is 2,416.
+The Weight is 115.
+The Rate of Fire (Low) is 200-300.
+The Rate of Fire (High) is 550-800.
+The Barrels is 1.
+The Feed System is Twin Feed.
+The Action is Gas Operated.
+The Traverse is 360.
+
+Here is Ammunition information for the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System:
+The Type is Auto-cannon.
+The Caliber is 30x165.
+The Muzzle Velocity is 960.
+The Basic Load is INA.
+The Effective Firing Range is 2,000.
+The Maximum Firing Range is 4,000.
+The Armor Penetration is Yes.
+
+Here is System information for the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is PK 7.62mm Machine Gun (Pulemyot Kalashnikova).
+The Type is 7.62mm Coaxial Machine Gun.
+The Manufacturer is Degtyaryov plant.
+The In Service is 1961-Present.
+The Proliferation is +100 Million.
+The Weight is 9.
+The Length, Total is 1,203.
+The Length, Barrel is 605.
+The Rate of Fire is 650.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes..
+The Sights is Tangent iron sights (default);
+Optical, Night-vision, Thermal and Radar sights.
+The Varients is PK
+PKS
+PKT
+PKM
+PKMS.
+
+Here is Ammunition information for the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62mmx54mmR.
+The Muzzle Velocity is 825.
+The Basic Load is INA.
+The Effective Firing Range (Normal) is 1,000.
+The Effective Firing Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 3,800.
+The Armor Penetration is Available.
+
+Here is Fire Control information for the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Name is Advanced FCS, Name: INA.
+The Note is Enabling the FCS is an optical mast mounted in between the missile pods that can be extended above the vehicle to observe the effect on target as well as identify targets. The optical suite is equipped with a camera and LRF, as well as an IR channel. The system can also process targets designated and selected by radar. The vehicle is thought to receive fire-control instructions from the command platform via the BMS. If deployed independently a single missile launching platform can autonomously search for and engage a target within a 7 km range. When deployed as part of a system however this range is extended to 16 km against ground targets and 20 km against low-flying aerial targets..
+The Computerized FCS is Yes, integrated ballistic computer enabling aiming and firing on-the-move..
+The Thermal (Vehicle Commander) is Yes, panoramic sight.
+The Thermal (Gunner) is Yes, panoramic sight.
+The LRF is Yes.
+The Gunner Sight is As part of the LRF, linked laser guidance system for the 100 mm cannon..
+The Main Gun Stabilization is Yes.
+The Meteorological Sensor is Yes.
+The Fire on the Move is The FCS enables the vehicle to engage stationary and moving targets under all weather conditions, even when firing on the move..
+
+Here is Protection information for the ZBD-04A Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Armor Material is Welded steel and modular armor panels.
+The Hull Armor (Front) is The hull is built from welded steel and modular armor panels, believed to be composite based on the weight of the vehicle are added to the sides and front. The front of the hull is believed to provide protection against 30 mm projectiles fired from a range of 500 m and the sides of the platform are resistant to 14.5 mm projectiles fired from 200 m. Protection against 14.5mm projectiles at a distance of 200 meters..
+The Hull Armor (Side) is Modular armor, assessed to be composite..
+The Hull Armor (Rear and Roof) is The rear and roof are thought to provide protection from only 7.62 mm AP projectiles and artillery fragments..
+The Under the Hull Armor is The bottom of the hull is reinforced in comparison with the ZBD-04, and it is believed to provide protection from small anti-tank mines. Protection from 7.62mm AP projectiles and artillery fragments. The ZBD-04A withstands mine blasts equivalent to 10 kg of TNT anywhere under the hull..
+The Applique Armor is Yes, added to the front and sides of the hull.
+The Explosive Reactive Armor is Yes.
+The Active Protection System is Yes, features a multi-spectral IR countermeasures package mounted on top of the turret. Technical capability details unknown..
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, includes a bank of three electrically operated grenade launchers is mounted either side of the turret..
+The Automatic Fire Suppression Systems is Yes.
+The Battle Management System is Yes.
+The Navigation Suite is Yes, Beidou satellite navigation system.
+The Firing Port is The vehicle's final 'weapon system' is a firing port and viewing aid on each side toward the rear of the hull. Dismounts can also fire out of rear hatches, using the hatch covers locked vertically as shields..
+

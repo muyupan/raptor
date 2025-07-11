@@ -1,0 +1,126 @@
+This document describes the Type 69-II Chinese Main Battle Tank (MBT).
+
+The Type 69-II Chinese Main Battle Tank (MBT) became the production standard MBT of the Type 69 family, it was developed primarily for the export market and remains in service with countries throughout the world despite its age. It is an upgrade of Type 59 and Types 69 detailed below, however, it is on a par with improved Type 59s.
+
+This equipment has proliferated into the following countries: Bangladesh, Iran (Islamic Republic of), Myanmar, Thailand, Zimbabwe.
+
+Here is System information for the Type 69-II Chinese Main Battle Tank (MBT):
+The Alternative Designation is Type 69.
+The Type is Main Battle Tank (MBT).
+The Manufacturer is Norinco.
+The Crew is 4.
+
+Here is Dimensions information for the Type 69-II Chinese Main Battle Tank (MBT):
+The Length, Overall is 8.589 m.
+The Length, Hull is 6.243 m.
+The Width, Overall is 3.307 m.
+The Width, Hull is 3.27 m.
+The Height, to Turret Roof is 3.909 m.
+The Height, to Axis of Fire is 1.75 m.
+The Track is 2.64 m.
+The Track Width is 580 mm.
+The Length of Track on Ground is 3.845 m.
+The Weight is 36,700 kg.
+The Ground Pressure is 0.823 kg/cm² (80,709,Pa) (11.71,psi).
+The Ground Clearance is 0.425 m.
+
+Here is Automotive information for the Type 69-II Chinese Main Battle Tank (MBT):
+The Engine Name is 12150L-7BW.
+The Engine Type is V-12, Diesel.
+The Engine Power is 580 hp at 2,000 rpm.
+The Power-to-Weight Ratio is 15.80 hp/t.
+The Fuel Capacity is 935 litres.
+The Maximum Speed is 50 km/h.
+The Maximum Range with Main Fuel Supply is 420 km.
+The Suspension is torsion bar.
+The Electrical System is 24V.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Obstacle is 0.80 m.
+The Trench is 2.7 m.
+
+Here is Communications information for the Type 69-II Chinese Main Battle Tank (MBT):
+The Note is Communications are provided by a Type 889 radio and a Model 803 intercom for the commander, gunner, loader, and driver..
+
+Here is System information for the Type 69-II Chinese Main Battle Tank (MBT) of the Main Weapon System:
+The Name is 1 × turret-mounted 100mm Type 69 Smoothbore Gun.
+The Type is Smoothbore Gun.
+The Caliber is 100 mm.
+The Length, Barrel is INA.
+The Weight is INA.
+The Elevation is +18° (320 mils)/-5° (-89 mils).
+The Traverse is 360° (6,400 mils).
+The Muzzle Velocity is 975 m/s.
+The Maximum Rate of Fire is 4-6 Rounds Per Minute.
+The Maximum Range is 1,000 m.
+The Note is Fires Chinese developed HEAT, APDS, and APHE rounds..
+
+Here is Ammunition information for the Type 69-II Chinese Main Battle Tank (MBT) of the Main Weapon System:
+The Name is INA.
+The Type is HEAT.
+The Caliber is 100 mm.
+The Basic Load is 44 Rounds.
+
+Here is System information for the Type 69-II Chinese Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is 1 × Coaxial-Mounted 7.62 mm Type 59T Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1.120 mm.
+The Barrel Length is 719 mm.
+The Width is INA.
+The Weight is 13.6 kg empty without mount.
+The Operation is Gas operated, long stroke gas piston.
+The Rifling is 4 grooves, right hand twist.
+The Muzzle Velocity is 800 m/s.
+The Rate of Fire is 650 rpm.
+The Magazine is Belt fed, 250 round.
+The Sights is Iron sights, post front and U-notch on tangent leaf rear, 856 mm sight radius.
+
+Here is Ammunition information for the Type 69-II Chinese Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62x54mm.
+The Basic Load is 3,000 Rounds.
+
+Here is System information for the Type 69-II Chinese Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is 1 × Bow-Mounted 12.7mm Type 54 Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 12.7 mm.
+The Manufacturer is Norinco.
+The Length is 1.625 mm.
+The Weight is 34 kg.
+The Barrel Length is 1.070 mm.
+The Rifling is 8 grooves, right hand twist.
+The Action is Gas operated, open bolt.
+The Muzzle Velocity is 840 - 860 m/s.
+The Rate of Fire is 600 rpm.
+The Feed System is Belt fed, 50 round belts.
+The Locking is Hinged flaps in bolt.
+The Sights is Iron sights, hooded post front and ladder sight rear; 
+Optional anti-aircraft spider web sight.
+
+Here is Ammunition information for the Type 69-II Chinese Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is 12.7x108mm.
+The Basic Load is 3,000 Rounds.
+
+Here is Fire Control System information for the Type 69-II Chinese Main Battle Tank (MBT):
+The FCS Name is Tank Simplified Fire Control System (TSFCS).
+The Computerized FCS is Yes.
+The FCS Components is The Tank Simplified Fire Control System (TSFCS), which consists of three main components; the TLR1A tank LRF, a 1A ballistic computer, and the TGS-A tank gunsight..
+The Gun Sight is Yes.
+The TLR1A Tank LRF Range is 300 to 3,000 m.
+The Sensors is The tank is fitted with sensors for elevation and traverse rates, crosswind, air temperature, and ammunition charge temperature..
+
+Here is Protection information for the Type 69-II Chinese Main Battle Tank (MBT):
+The Hull Armor is The hull of the Type 69-II is built from welded steel and the turret is built from two D-shaped cast sections that are welded together. The steel varies in thickness from 20 to 203 mm.
+The Turret Armor is The steel varies in thickness from 20 to 203 mm.
+The Applique Armor is INA.
+The Explosive Reactive Armor is Limited due to turret design.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is If a smoke screen is required, the driver can inject diesel into the exhaust to generate a thick sheet of smoke obscuring the tank from view and the platform is painted with IR reflecting paint..
+

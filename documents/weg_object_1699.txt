@@ -1,0 +1,114 @@
+This document describes the Type 037IG Class (Houxin Class) Chinese Corvette.
+
+The Type 037IG missile boat (NATO: Houxin class) were first built by Qiuxing and Huangpu Shipyard from 1991 through 1999 for the People's Liberation Army Navy (PLAN). In addition to the PLAN, 6 were exported to Myanmar: 2 in 1995, 2 in July 1996, and 2 in late 1997. This boat is the anti-ship version of the Type 037 submarine chasers, armed with missiles rather than torpedoes. It is most effectively used in conjunction with multiple missile boats to send a swarm of missiles towards its intended target and then egress from the area immediately. The swarm of anti-ship missiles will hopefully slip past the target's air defenses for at least one or possibly more hits.
+
+This equipment has proliferated into the following countries: China, Myanmar.
+
+Here is Variants information for the Type 037IG Class (Houxin Class) Chinese Corvette:
+The Ships in PLAN Service is Pennant Numbers: 651－656、 751－760 and 764－767.
+Completed:	26 (20 PLAN + 6 Myanmar)
+Active:	26 (20 PLAN + 6 Myanmar)
+
+ Pendant No.
+
+ 275/285, 290, 302, 305, 609/610, 618/622, 626/629, 636/637, 689/692,
+ 695/699, 701, 707, 723/733 and 740/742.
+
+Here is System information for the Type 037IG Class (Houxin Class) Chinese Corvette:
+The Alternative Designation is Type 037IG Class; NATO: Houxin Class.
+The Type is Corvette; Missile Boat.
+The Builder is Qiuxing and Huangpu Shipyard.
+The Crew is 71.
+
+Here is Dimensions information for the Type 037IG Class (Houxin Class) Chinese Corvette:
+The Length is 62.8 m.
+The Beam is 7.2 m.
+The Draft is 2.4 m.
+The Displacement, Standard is 395 tons.
+The Displacement, Full Load is 478 tons.
+
+Here is Propulsion System information for the Type 037IG Class (Houxin Class) Chinese Corvette:
+The Engine Name is 4 × Chinese PR 230ZC.
+The Engine Type is Diesel.
+The Engine Power is 4 × Chinese PR 230ZC diesel engines at 4,000 hp (2,983 kW) with 4 shafts.
+The Maximum Range is 1,300 nmi (2,400 km) at 15 kn (28 km/h).
+The Maximum Speed is 28 knots (52 km/h; 32 mph).
+
+Here is Gun Weapon System #1 information for the Type 037IG Class (Houxin Class) Chinese Corvette of the Gun Weapon Systems:
+The Name is Type 76A.
+The Type is Naval Gun.
+The Caliber is 37mm.
+The Quantity is 4 × Type 76A 37 mm gun (2 × 2).
+The Note is The Type 76A is a fully enclosed and fully automatic model in the Type 76 series. Unlike the Type 76F, the gun is fully automatic, with the semi-automatic operational mode and the one-man operator console removed. In addition to the optronic FCS found in the Type 76F, the Type 76A is linked to radar FCS. The maximum rate of fire, however, is reduced in comparison to Type 76, dropping from the original 400 rd/min/barrel to 375 rd/min/barrel. In addition to anti-aircraft and anti-surface roles, the Type 76A can also be used as a close-in-weapon system..
+
+Here is Gun Weapon System #1 Ammunition information for the Type 037IG Class (Houxin Class) Chinese Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 37mm.
+The Shell is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Type 037IG Class (Houxin Class) Chinese Corvette of the Gun Weapon Systems:
+The Name is Type 69.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Quantity is 4 × Type 69 14.5 mm heavy machine guns (2 × 2).
+The Length is 1,980 mm.
+The Barrel Length is 1,346 mm.
+The Width is 162mm.
+The Height is 225mm.
+The Weight is 49 kg.
+The Action is Short recoil operation.
+The Rate of FIre is 600 rpm.
+The Muzzle Velocity is 1,005 m/s.
+The Maximum Firing Range is 4000m.
+The Effective Firing Range is 3000m.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+
+Here is Gun Weapon System #2 Ammunition information for the Type 037IG Class (Houxin Class) Chinese Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 14.5mm.
+The Cartridge is 14.5×114 mm.
+The Basic Load is INA.
+
+Here is Missile Weapon System #1 information for the Type 037IG Class (Houxin Class) Chinese Corvette of the Missile Weapon System:
+The Name is C-802.
+The Type is Anti-Ship Missile System.
+The Note is The C-802 is the export version of the YJ-83.
+The Length is INA.
+The Weight is INA.
+The Warhead is 190 kg high-explosive fragmentation.
+The Engine is CTJ-2 turbojet.
+The Operational Range is 120 km.
+The Maximum Speed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+
+Here is Mines information for the Type 037IG Class (Houxin Class) Chinese Corvette:
+The Note is 12 max. mines (two mine rails fitted).
+
+Here is Mortar System information for the Type 037IG Class (Houxin Class) Chinese Corvette:
+The Mortar Launcher is The ships are armed with two 6-tubed anti-submarine mortar launchers..
+The Mortar Type is Type 87 Mortar.
+
+Here is Fire Control Systems (FCS) information for the Type 037IG Class (Houxin Class) Chinese Corvette:
+The FCS Name is INA.
+The Computerized FCS is Yes, 1 × I-band Type 347 (Rice Lamp).
+The Battle Management System is No.
+
+Here is Radar Systems information for the Type 037IG Class (Houxin Class) Chinese Corvette:
+The Name is 1 × I-band Type 352 (Square Tie).
+The Type is Surface Search Radar.
+The Frequency is INA.
+The Range is INA.
+
+Here is Sonar Systems information for the Type 037IG Class (Houxin Class) Chinese Corvette:
+The Name is 1 x Tamir-11 HF.
+The Type is Hull-Mounted Sonar.
+
+Here is Protection information for the Type 037IG Class (Houxin Class) Chinese Corvette:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is INA.
+The Depth Charge Racks is 2 depth charge racks.
+The Depth Chargers is 2 BMB-2 depth charge mortars.
+

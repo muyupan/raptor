@@ -1,0 +1,49 @@
+This document describes the ARK-1M RYS Russian Artillery Locating Radar.
+
+MT-LBu based ARK-1M is a tracked vehicle mounted H-band artillery locating radar. Usually found in the division's reconnaissance battery. Designed to flash range firing mortars, field artillery pieces, MRL systems and tactical missiles. It also provides fire-control for counter fire.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation, Slovakia, Turkmenistan, Uzbekistan.
+
+Here is Variants information for the ARK-1M RYS Russian Artillery Locating Radar:
+The ARK-1 is Baseline Model.
+
+Here is System information for the ARK-1M RYS Russian Artillery Locating Radar:
+The Alternative Designation is 1RL-239, Lynx.
+The Crew is 4.
+The Chassis is MT-LBu.
+The Emplacement Time is 5.
+The Displacement Time is 5.
+
+Here is Dimensions information for the ARK-1M RYS Russian Artillery Locating Radar:
+The Height, Overall is 2.72.
+The Length, Chassis Overall is 7.61.
+The Width, Overall is 2.85.
+The Weight is 15.7.
+
+Here is Automotive information for the ARK-1M RYS Russian Artillery Locating Radar:
+The Engine Name is YaMZ-238N.
+The Engine Power is 300.
+The Engine Type is V-8 diesel.
+The Range, Cruising is 500.
+The Speed, Maximum Road is 61.
+The Speed, Cross Country is 30.
+The Speed, Maximum Swim is 6.
+The Fording Depth is INA.
+The Amphibious is May not be amphibious based on the weight of the radar system..
+
+Here is Radar information for the ARK-1M RYS Russian Artillery Locating Radar:
+The Antenna Type is 3-D, 5 cm wavelength, monopulse radar.
+The Detection Range (Mortar) is 13.
+The Detection Range (Artillery) is 8.
+The Detection Range (Rocket) is 25.
+The Detection Range (Missile) is 30.
+The Frequency Band is NATO H Band (6 - 8 Ghz).
+The Receiver (Noise Figure) is 8.0.
+The Max Number of Targets is 3.
+
+Here is Protection information for the ARK-1M RYS Russian Artillery Locating Radar:
+The Armor, Hull is 15.
+The Armor, Turret Front is 20.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

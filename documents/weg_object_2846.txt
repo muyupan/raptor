@@ -1,0 +1,56 @@
+This document describes the 1V16 Russian Amphibious Artillery Command and Reconnaissance Vehicle.
+
+The 1V16 is the simplest of the vehicles in the 1V12 ACRV complex and serves as the battalion FDC / Chief of Staff's vehicle.  Normally, the battalion chief of staff, assisted by fire direction and communication personnel mans the vehicle.  It has neither battlefield observation optics nor a navigation system.  However, the vehicle is equipped with the standard VOP-7 vision blocks and driver's periscopes.  It is equipped with extra radios and has an extendable antenna mast mounted on the vehicle rear.  The 9V59 fire direction computer is mounted in the vehicle.
+The 9V59 fire control computer comes in several different models believed to be designated a 9V59-1, -2, and -3.  For example, the 9V59-2 is associated with 152mm artillery units.  The 9V59 fire control computer is probably a 4-bit computer and, although quite rugged, is assessed to have a low mean time between failures because of a larger number of discrete components.  The 1V510 is assessed to be a replacement for the 9V59 fire control computer.  The 1V510 is capable of performing survey calculations and technical firing data.  The system is assessed to be 33% faster than the 9V59.
+
+This equipment has proliferated into the following countries: Bulgaria, CFE Treaty, Czech Republic, Estonia, Georgia, Germany, Hungary, Kyrgyzstan, Romania, Russian Federation, Ukraine, Uzbekistan.
+
+Here is Variants information for the 1V16 Russian Amphibious Artillery Command and Reconnaissance Vehicle:
+The 1V16M is Modified artillery command and control set featuring the APPK artillery data computation and digital transmission computer system..
+
+Here is System information for the 1V16 Russian Amphibious Artillery Command and Reconnaissance Vehicle:
+The Alternative Designation is 1V16; M1974-3.
+The Type is Artillery Command and Reconnaissance Vehicle.
+The Crew is 7.
+The Chassis is MT-LBu.
+
+Here is Dimensions information for the 1V16 Russian Amphibious Artillery Command and Reconnaissance Vehicle:
+The Height, Overall is 2.72.
+The Length, Chassis Overall is 7.26.
+The Width, Overall is 2.85.
+The Weight, Combat is 15.7 tons.
+
+Here is Automotive information for the 1V16 Russian Amphibious Artillery Command and Reconnaissance Vehicle:
+The Engine Name is YaMZ-238.
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Maximum Off Road is 26.
+The Speed, Maximum Swim is 4.5.
+The Fording Depth is Amphibious.
+
+Here is Radio information for the 1V16 Russian Amphibious Artillery Command and Reconnaissance Vehicle of the Communications:
+The Name is R-123M (2 each), R-111M (1 each), R-130M (1 each), R-326 receiver (1 each).
+
+Here is Sensors / Components information for the 1V16 Russian Amphibious Artillery Command and Reconnaissance Vehicle:
+The Fire Direction (Automated) is 9V59.
+The Fire Direction (Manual) is PUO-7.
+
+Here is System information for the 1V16 Russian Amphibious Artillery Command and Reconnaissance Vehicle of the Main Weapon System:
+The Name is 1 x DShK 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Range, Direct Fire is 1500.
+The Range, Maximum Effective, Day is 1500.
+The Range, Maximum Effective, Night is 1500.
+The Rate of Fire is 80-100.
+The Fire on Move is Yes.
+
+Here is Protection information for the 1V16 Russian Amphibious Artillery Command and Reconnaissance Vehicle:
+The Armor, Hull is 15.
+The Armor, Turret Front is 20.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The Armor, Turret Top is INA.
+

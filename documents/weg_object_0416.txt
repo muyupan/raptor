@@ -1,0 +1,53 @@
+This document describes the FLIR Recon V American Multi-Sensor Thermal Binoculars.
+
+The Recon V is a compact and light yet rugged multi-sensor thermal binocular designed for 24/7 day and night field operations that require enhanced imagery and long standoff range. Its internal GPS, DMC, and long-range laser pointer provide accurate range to target as well as precise location. The 10x continuous zoom optics, MEMS based electronic stabilization, and high-definition color video display combine to provide unmatched image quality and flexibility. Powered by AA Li batteries, the unit has a run time of up to six hours. It’s SWaP-optimized and qualified to MIL-STD 810G for easy portability under rigorous mission demands. An intuitive interface reduces training time and simplifies usability in high-stress field operations. While operators provide mission-critical situational awareness data they remain safe by always being connected to their extended team.
+
+Features:
+
+*BEST-IN-CLASS THERMAL IMAGING
+Combining 640x480 MWIR image quality with industry-leading processing and a high-definition display, Recon V provides the clarity your mission demands.
+*POWERFUL TACTICAL CAPABILITIES
+Built-in stabilization, digital magnetic compass, GPS, and laser pointer provide accurate range-to-target, precise geo-location, and rock-solid imagery.
+*FLEXIBLE, TOUGH, AND POWERFUL
+SWaP-optimized and easy to use, Recon V minimizes operator fatigue and is rugged enough to survive everything your mission may throw at it.
+*INCREASED SITUATIONAL AWARENESS
+10x continuous zoom provides long-range narrow FOV as well as wide-angle FOV for battlefield flexibility.
+*EASY, INTUITIVE OPERATION
+An intuitive interface includes electronic stabilization (E-Stab), one shot image save, auto fall-of-shot, auto image optimization, auto focus and BIT,
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is Variants information for the FLIR Recon V American Multi-Sensor Thermal Binoculars:
+The Recon V Ultra Lite is Fully operational at less than three pounds, the breakthrough Recon V Ultra Lite provides long-range target detection, recognition, recording and geo-location with an HD color camera and dual FOV thermal channels. Powered by commercially available AA batteries, the unit has a run time greater than four hours with smart power management. Combined with a highly accurate laser range finder, GPS, digital magnetic compass and intuitive user interface, targets can be quickly located 24/7..
+
+Here is System information for the FLIR Recon V American Multi-Sensor Thermal Binoculars:
+The Alternative Designation is FLIR Recon V.
+The Type is Multi-Sensor Thermal Binoculars.
+The Crew is 1.
+The Sensor Type is 640 x 480 InSb.
+The Telescope is 10X Zoom 27-275mm.
+The WFOV is 20° x 15°.
+The NFOV is 2° x 1.5°.
+The Display Type is OLED, Full Color.
+The Display Resolution is 1280x720, (720p) 16:9.
+The Frame Rate is 60Hz.
+The Image Controls is Cal, Pol, Auto/ Man Gain, Display, Auto Focus, Palettes.
+The Global Positioning System (GPS) is C/A code.
+The SAASM GPS is supports military GPS plug-in (optional).
+The Digital Magnetic Compass is 360° Az, +/- 90° El, 0.2° resolution.
+The Laser Rangefinder (LRF) is 1.54 μm, Eyesafe, class 1, 10km.
+The Laser Pointer (LP) is 852 nm, Class 3B, .5/30mW (optional).
+The Image Storage is Yes, 1000 png.
+The E-Stabilization is MEMS Gyro, No image latency.
+The Battey Type is AA Lithium.
+The Run Type is 6 hours (Hot Swap).
+The External Power is 9-32VDC.
+The Video is NTSC/ PAL & HD-SDI.
+The Optional Accessories is Remote LRF Cable; Communications Cable; DAGR Cable.
+
+Here is Dimensions information for the FLIR Recon V American Multi-Sensor Thermal Binoculars:
+The Length is 8.7 in.
+The Width is 7.4 in.
+The Height is 3.5 in.
+The Weight, Combat is 4.25 lbs.
+

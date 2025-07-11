@@ -1,0 +1,50 @@
+This document describes the Heron TP (Eitan) Israeli Unmanned Aerial Vehicle (UAV).
+
+The Heron TP is a multi-role, advanced, long-range Medium Altitude Long Endurance (MALE) Unmanned Aerial System (UAS) for strategic missions. It is equipped with automatic taxi-takeoff and landing systems (ATOL), satellite communication (SATCOM) for extended range, fully redundant avionics, and more.
+
+The Heron TP was designed as a multi-mission platform to address local and international customers' needs and to perform a variety of strategic missions, including intelligence gathering, surveillance, target acquisition, and reconnaissance, using various payloads, with a high level of reliability.
+
+This equipment has proliferated into the following countries: Israel.
+
+Here is Variants information for the Heron TP (Eitan) Israeli Unmanned Aerial Vehicle (UAV):
+The Heron (Machatz-1) is The IAI Heron (Machatz-1) is a medium-altitude long-endurance unmanned aerial vehicle (UAV) developed by the Malat (UAV) division of Israel Aerospace Industries. It is capable of Medium Altitude Long Endurance (MALE) operations of up to 52 hours' duration at up to 10.5 km (35,000 ft). It has demonstrated 52 hours of continuous flight, but the effective operational maximal flight duration is less, according to payload and flight profile. An advanced version, the Heron TP, is also known as the IAI Eitan..
+
+Here is System information for the Heron TP (Eitan) Israeli Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Heron TP; Eitan.
+The Type is Medium-Altitude, Long-Endurance (MALE) Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Israel Aerospace Industries..
+The Crew is Unmanned.
+The Maximum Payload Capacity is 2,700 kg.
+The Electro Optical Payload is M-19 HD Electro Optical Payload (TV & IR Combi or Multi Sensor TV/IR/LRF/LD)  , WIDEEYE Scan.
+The Radar is Synthetic Aperture Radar (SAR).
+The Communications is Communications Intelligence (COMINT - HF, VHF, UHF/ DF).
+The Avionics is Triple redundant avionics.
+The Configuration is Multi mission/multi payload configurations.
+The Global System Mobile (GSM) is Yes.
+The Electronic Support Measures /Electronic intelligence (ESM/ELINT) is Yes.
+The Maritime Patrol Radar (MPR) is Yes.
+The Identification, Friend or Foe (IFF) is Yes.
+The Traffic collision avoidance system (TCAS) is Yes.
+The Integrated ATC Communication Relay is Yes.
+The Direct Line-of-Sight (LOS) data link is Yes.
+The Satellite Communication (SATCOM) is Yes.
+The UAV airborne data relay (ADR) for beyond LOS missions is Yes.
+The Ground-based data relay (GDR) for beyond LOS missions is Yes.
+The Taki-Takeoff is Automatic Taxi-takeoff and Landing (ATOL).
+The All Weather Capability is Yes.
+
+Here is Dimensions information for the Heron TP (Eitan) Israeli Unmanned Aerial Vehicle (UAV):
+The Length is 14 m.
+The Wingspan is 26 m.
+The Height is INA.
+The Maximum Take-Off Weight is 5,670 kg.
+
+Here is Automotive information for the Heron TP (Eitan) Israeli Unmanned Aerial Vehicle (UAV):
+The Engine Name is 2 x PT6.
+The Engine Type is Turboprop.
+The Engine Power is 1,200 hp.
+The Maximum Speed is 407.44 km/h.
+The Range is 1,000 km.
+The Maximum Altitude is 13,716 m.
+The Endurance is 30 hours.
+

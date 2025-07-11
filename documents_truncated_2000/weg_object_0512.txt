@@ -1,0 +1,97 @@
+This document describes the 9P140 (BM-27 Uragan) Russian 220mm Multiple Rocket Launch (MRL).
+
+Hezbollah Proliferation. The 9P140 (BM-27 Uragan) Russian 220mm Multiple Rocket Launch (MRL) began its service with the Soviet Army in the late 1970s and was its first modern spin and fin stabilized heavy multiple rocket launcher. The BM-27 Uragan is capable of launching 220mm rockets from 16 launch tubes mounted on the rear of a ZIL-135 8x8 chassis. This vehicle is extremely similar to that used in the FROG-7 free flight rocket system. It has two gasoline engines that power its 20 tons to a maximum speed of 65 kilometers per hour. One engine drives the four wheels on the left of the truck, while the other engine drives the four wheels on the right. The ZIL-135 has an eight-wheel drive, but only the front and rear axles are used for steering. It has a maximum cruising range of 500 kilometers.
+
+This equipment has proliferated into the following countries: Armenia, Belarus, CFE Treaty, Eritrea, Guinea, Iran (Islamic Republic of), Kazakhstan, Kyrgyzstan, Moldova, Non-State Actors, Russian Federation, Syria, Turkmenistan, Ukraine, Uzbekistan, Yemen.
+
+Here is Variants information for the 9P140 (BM-27 Uragan) Russian 220mm Multiple Rocket Launch (MRL):
+The BM-27 Uragan (9K57) is The BM-27 Uragan (9K57) is an MLRS designed to provide large calibre and massed fire support for combined arms formations at short notice. The system consists of launch vehicles and transport/loaders, which enable the system to be reloaded..
+The Uragan-1M is Variant presented to the public in 2007; all processes are automated. Can also fire the 300 mm rockets of the BM-30 Smerch system. Reloading is simplified by substituting barrels; can be fitted with two banks of 6 300 mm launch tubes or 15 220 mm launch tubes. Deliveries to the Russian Army started as of September 2016.
+The 9A53 Uragan-U is Successor with 2 × 15 launch tubes; presented in 2009 on 8×8 MZKT-7930. Thanks to its modular assembly the BM-30 Smerch and BM-21 Grad rockets can also be fired..
+The Bastion-03 is Prototype by Ukrainian company AvtoKrAZ, presented in 2010. Installed on a 6×6 truck type KrAZ-63221RA..
+
+Here is Automotive information for the 9P140 (BM-27 Uragan) Russian 220mm Multiple Rocket Launch (MRL):
+The Engine Name is two(2) x ZIL-375.
+The Engine Type is 2 each -, 8 cylinder, 4-stroke gasoline engines.
+The Engine HP is 360.
+The Fording Depth is 1.2.
+The Range, Cruising is 500.
+The Speed, Maximum On is 65 km/h.
+The Speed, Maximum Cross is 40 km/h.
+The Speed, Maximum Off Road is INA.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.9.
+The Trench is 2.0.
+The Fording is 1.2.
+
+Here is Dimensions information for the 9P140 (BM-27 Uragan) Russian 220mm Multiple Rocket Launch (MRL):
+The Length is 9.63.
+The Width is 2.8.
+The Height is 3.23.
+The Weight, Combat is 20.
+
+Here is Communications information for the 9P140 (BM-27 Uragan) Russian 220mm Multiple Rocket Launch (MRL):
+The Primary is R-108M Radio.
+The Amplifier is UM-3 power amplifier.
+
+Here is Launch System information for the 9P140 (BM-27 Uragan) Russian 220mm Multiple Rocket Launch (MRL) of the Main Weapon System:
+The Name is 9K57 System.
+The Type is Multiple Launch Rocket System.
+The Caliber is 220.
+The Chassis is 9P140  Launch Vehicle.
+The Number of Tubes is 16.
+The Effective Firing Range is 35.
+The Full Salvo Duration is 9-20 seconds.
+The Reloading Time is 15-20.
+The Maximum Elevation is +55.
+The Minimum Elevation is 0.
+The Traverse Range is 60.
+The Traverse Left is 30.
+The Traverse Right is 30.
+The Main Gun Stabilizer is Yes.
+The Launch Mode is Single Fire or Salvo Fire.
+The Single Launch Mode Time to Fire is 8.8.
+The Salvo Launch Mode Time to Fire (16 Rockets) is 20.
+
+Here is Ammunition (Option 1) information for the 9P140 (BM-27 Uragan) Russian 220mm Multiple Rocket Launch (MRL) of the Main Weapon System:
+The Name is 9M27F.
+The Type is HE FRAG.
+The Caliber is 220.
+The Rocket Weight is 100.
+The Explosive Weight is 51.9.
+The Maximum Effective Range is 35.
+The Minimum Effective Range is 10.
+The Penetration is 8 meters wide and 3 meters deep.
+
+Here is Ammunition (Option 2) information for the 9P140 (BM-27 Uragan) Russian 220mm Multiple Rocket Launch (MRL) of the Main Weapon System:
+The Name is 9M27K.
+The Type is Cluster warhead.
+The Caliber is 220.
+The Maximum Effective Range is 35.
+The Minimum Effective Range is 10.
+The Note is The 9M27K contains 30 9N210 dual-purpose fragmentation bomblets. Each submunition generates 370 to 400 2-g preformed fragments..
+
+Here is Ammunition (Option 3) information for the 9P140 (BM-27 Uragan) Russian 220mm Multiple Rocket Launch (MRL) of the Main Weapon System:
+The Name is 9M27K2.
+The Type is Anti-tank mines.
+The Caliber is 220.
+The Maximum Effective Range is 35.
+The Minimum Effective Range is 10.
+The Warhead Type is 9N218K2.
+The Note is 9N218K2 warhead, which contains 24 PTM-1 or PTM-1G scatterable anti-tank mines. Designed to break tracks..
+
+Here is Fire Control Systems information for the 9P140 (BM-27 Uragan) Russian 220mm Multiple Rocket Launch (MRL):
+The FCS Name is Kapustnik-B automated fire-control system (FCS).
+The Collimator is K-1.
+The Indirect Fire is PG-1M PANTEL.
+The Direct Fire Capable is Yes.
+The Sights is D726-45 Sight and the PG-1M Sight.
+The Spotlight is Luch-S71M spotlight.
+
+Here is Protection information for the 9P140 (BM-27 Uragan) Russian 220mm Multiple Rocket Launch (MRL):
+The Armor is Unarmoured.
+The Land Navigation is No.
+The Smoke Equipment is No.
+The NBC Protection is No.
+

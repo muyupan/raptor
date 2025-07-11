@@ -1,0 +1,85 @@
+This document describes the PKM-2 Polish 14.5mm Towed Anti-Aircraft Gun.
+
+The PKM-2 is a Polish version of the Russian ZPU-2. 
+
+
+The ZPU-2 consists of two Model KPV machine guns mounted on a two-wheel carriage.
+
+The ZPU-2 was introduced in 1949 and is a twin version of the ZPU-1 basic Soviet 14.5MM machine gun. The ZPU-2 was used in Korea and considered a dangerous opposition in Vietnam. Type 58 is the Chinese version, while the individual KPV machine guns as the Type 56. The twin ZPU-2 has appeared on two different two-wheeled carriages. The earlier model has larger fenders and a double tubular tow bar. In firing position, the crew removes the wheels, and the weapon rests on a three-point platform. The later model, which is lighter in weight, has smaller fenders, a tighter single tow bar, and a tower silhouette. When in firing position the wheels are raised, but not removed. A very similar carriage is used for the twin 23mm automatic antiaircraft gun ZU-23, although the ammunition boxes, barrels, and flash hiders are distinctly different. The ZPU-2 was used in the 1970s by some Warsaw Pact armies and by security elements such as the East German Workers' militia. All weapons in this series fire the API (BS 41) projectiles weighing 64.4 grams and having a muzzle velocity of 1000 meters per second which will penetrate 32 mm of armor.
+
+This equipment has proliferated into the following countries: Poland.
+
+Here is Variants information for the PKM-2 Polish 14.5mm Towed Anti-Aircraft Gun:
+The Type 58 is Type 58: Chinese version of ZPU-2.
+The PKM-2 is PKM-2 – Polish-built version..
+
+Here is System information for the PKM-2 Polish 14.5mm Towed Anti-Aircraft Gun:
+The Alternative Designation is ZPU-2.
+The Type is Towed Anti-Aircraft Gun.
+The Caliber is 14.5 mm.
+The Crew is 5.
+The Carriage is INA.
+The Displacement Time is 5.
+The Emplacement Time is 5.
+
+Here is Dimensions information for the PKM-2 Polish 14.5mm Towed Anti-Aircraft Gun:
+The Length, Traveling is 3.54.
+The Barrel Length is 1.36.
+The Width is 1.92.
+The Height is 1.83.
+The Weight, Traveling is 649.
+The Weight, Firing is 621.
+The Ground Clearance is 0.27.
+
+Here is System information for the PKM-2 Polish 14.5mm Towed Anti-Aircraft Gun of the Cannon:
+The Name is ZPU-2.
+The Type is 2 x Model KPV machine guns mounted on a two-wheel carriage..
+The Caliber is 14.5 mm.
+The Barrels is 2.
+The Muzzle Velocity is 1,000.
+The Maximum Vertical Range is 5,000.
+The Maximum Horizontal Range is 8,000.
+The Effective Vertical Range is 1,400.
+The Max Elevation is +85.
+The Min Elevation is -15.
+The Traverse Range is 360.
+The Traverse Right is 180.
+The Traverse Left is 180.
+The Cyclic Rate of Fire is 600 rds/min.
+The Practical Rate of Fire is 150 rds/min.
+
+Here is Ammunition (Option 1) information for the PKM-2 Polish 14.5mm Towed Anti-Aircraft Gun of the Cannon:
+The Name is BS.41.
+The Type is API.
+The Caliber is 14.5.
+The Basic Load is INA.
+The Core is Tungsten carbide core.
+The Projectile Weight is 64.4 g.
+The Muzzle Velocity is 1,000.
+The Armor Penetration is Armor-penetration at 500 m (550 yd) is 32 mm (1.3 in) of RHA at 90 degrees..
+
+Here is Ammunition (Option 2) information for the PKM-2 Polish 14.5mm Towed Anti-Aircraft Gun of the Cannon:
+The Name is BZT.
+The Type is API-T.
+The Caliber is 14.5 mm.
+The Basic Load is INA.
+The Core is Steel Core.
+The Projectile Weight is 59.56 g.
+The Muzzle Velocity is 1,005.
+The Tracer Burns is Tracer burns to at least 2,000 m (2,200 yd)..
+
+Here is Ammunition (Option 3) information for the PKM-2 Polish 14.5mm Towed Anti-Aircraft Gun of the Cannon:
+The Name is ZP.
+The Type is I-T (Instantaneous Incendiary).
+The Caliber is 14.5.
+The Basic Load is INA.
+The Core is INA.
+The Projectile Weight is 60.0 g.
+The Note is I-T (ZP) – "Instantaneous Incendiary" bullet with internal fuze, incendiary in tip, tracer container in base..
+
+Here is Fire Control information for the PKM-2 Polish 14.5mm Towed Anti-Aircraft Gun:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+

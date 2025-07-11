@@ -1,0 +1,42 @@
+This document describes the Hunter RSVK-M2 Ukrainian 6x6 Unmanned Ground Vehicles (UGV).
+
+The Hunter RSVK-M2 Ukrainian 6x6 Unmanned Ground Vehicles (UGV) is designed to be a universal platform. The vehicle has been shown in its combat role, where it is capable of mounting a number of weapons.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the Hunter RSVK-M2 Ukrainian 6x6 Unmanned Ground Vehicles (UGV):
+The Alternative Designation is Hunter RSVK-M2.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is Robotics Design Bureau.
+The Configuration is 6x6.
+The Crew is Unmanned.
+The Operator is An operator can control the platform via a ruggedized, briefcase style, portable control unit..
+The Sensors is The company has also developed its own sighting system for the UGV called the (приладом наведення, ПН) guidance device. The guidance unit can identify objects at a distance of up to 600 m and also detect and fire out to a distance of up to 750 m..
+
+Here is Dimensions information for the Hunter RSVK-M2 Ukrainian 6x6 Unmanned Ground Vehicles (UGV):
+The Length is 2.00 m.
+The Width is 1.25 m.
+The Height is 0.70 m.
+The Weight, Empty is 110 kg.
+The Weight, Combat is 410 kg.
+
+Here is Automotive information for the Hunter RSVK-M2 Ukrainian 6x6 Unmanned Ground Vehicles (UGV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Amphibious is No.
+The Maximum Speed is 30 km/h.
+The Standard Speed is 8 km/h.
+The Operating Range is 15–20 km  on a single charge, depending on the terrain..
+The Endurance is In monitoring mode, the Hunter RSVK-M2 Ukrainian 6x6 Unmanned Ground Vehicles (UGV) can monitor around the clock without recharging for 2–3 days..
+
+Here is Communications information for the Hunter RSVK-M2 Ukrainian 6x6 Unmanned Ground Vehicles (UGV):
+The Note is An operator can control the platform and use a video signal up to a distance of 2 km using a protected channel that safeguards against jamming..
+
+Here is Main Weapon System information for the Hunter RSVK-M2 Ukrainian 6x6 Unmanned Ground Vehicles (UGV):
+The Note is Weapons that can be used with the Hunter RSVK-M2 Ukrainian 6x6 Unmanned Ground Vehicles (UGV) include the PKT 7.62 mm machine gun (MG), the NSV 12.7 mm MG, the AG-17A automatic grenade launcher (AGL), and anti-tank guided missiles (ATGM)..
+
+Here is Protection information for the Hunter RSVK-M2 Ukrainian 6x6 Unmanned Ground Vehicles (UGV):
+The Armor is INA.
+The Applique Armor is INA.
+

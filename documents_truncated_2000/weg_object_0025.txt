@@ -1,0 +1,28 @@
+This document describes the S-125 Newa (LOW BLOW) Russian Tracking and Missile Control Radar System.
+
+Russian designator: S-125 “Newa” (Kabina UNW)
+
+Low Blow is the NATO reporting name given to a family of I-Band radars used with land-based SA-3 “Goa” surface-to-air missiles. The name Low Blow reflects the ability of the radar to guide the missile towards low-flying targets through heavy clutter.
+
+It use pairs of electromechanically scanning (so-called Lewis scanner) antennas mounted orthogonally, but to improve low-angle performance the antennas are mounted at 45 degrees from the horizontal. Both antennas are mounted at a 45 degrees angle in an upside down “V” shape. This change was introduced to reduce ground clutter. The antennas generate sawtooth fan beams like Fan Song. Between these two antennas is a Lobe-On-Receive-Only (LORO) mode antenna. When these antennas acquire a target the system can be switched to the LORO mode, receiving from this central parabolic dish antenna. The target in Low Blow tracking antennas scan in 6 degrees swathes, the beams are about 6 degrees wide in the fan and 1 degree in the scanning direction. Inserted into the top of the inverted “V” is the square parabolic guidance command antenna with a beam with of 12 degrees.
+
+The system is equipped with a high-resolution television camera by default with an 144 mm lens. Its infrared sensitivity allows working at night and at low-light conditions.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the S-125 Newa (LOW BLOW) Russian Tracking and Missile Control Radar System of the S-125 “Newa” (LOW BLOW) Radar System:
+The Name is S-125 “Newa” (LOW BLOW) Radar System.
+The Function is A Fire Control, Trk/FC, and Missile Guidance Radar.
+The Mount is Four-wheeled trailer-mounted.
+The Crew is INA.
+The Frequency, Fire Control is I band.
+The Range, Fire Control is 40.
+The Scan, Fire Control is Scan (trough) 16HZ.
+The Frequency, Trk/FC is I band.
+The Range, Trk/FC is 40-85.
+The Scan, Trk/FC is Scan (Para) 25HZ.
+The Frequency, Missile Guidance is D band.
+The Range, Missile Guidance is 29.
+The Parabolic Dishes is Two scanning parabolic dishes one above the other.
+The Associated Weapon System is SA-3 GOA SAM, FLAT FACE, SQUAT EYE acquisition radar..
+

@@ -1,0 +1,154 @@
+This document describes the Mangust Class (Project 12150 Class) Russian Patrol Boat.
+
+The Mangust Class patrol boat, also known as Project 12150, is a Russian Coast Guard vessel. The patrol craft is designed to operate in coastal areas, ports, and other littoral areas, to perform missions like protection of territorial maritime borders, law enforcement, other defense missions, search and rescue, protection of fisheries, and enforcing rules of navigation. The craft has a modern design with various comforts for the crew like low noise levels, air conditioning, and a well-designed layout for better working and living conditions for the crew. The crafts are armed with a variety of weapons to engage surface, air, and underwater threats. They are also equipped with a small boat to allow the boat to perform missions such as boarding operations.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Mangust Class (Project 12150 Class) Russian Patrol Boat:
+The PSKA-600 is Commissioned: 2001
+Status: Active 
+Fleet: INA.
+The PSKA-601 is Commissioned: 2003
+Status: Active 
+Fleet: INA.
+The PSKA-602 is Commissioned: 2003
+Status: Active 
+Fleet: INA.
+The PSKA-603 is Commissioned: 2006
+Status: Active 
+Fleet: INA.
+The PSKA-604 is Commissioned: 2007
+Status: Active 
+Fleet: INA.
+The PSKA-605 is Commissioned: 2008
+Status: Active 
+Fleet: INA.
+The ALEXANDR ILIN is Commissioned: 2008
+Status: Active 
+Fleet: INA.
+The PSKA-606 is Commissioned: 2003
+Status: Active 
+Fleet: INA.
+The PSKA-607 is Commissioned: 2003
+Status: Active 
+Fleet: INA.
+The PSKA-608 is Commissioned: 2009
+Status: Active 
+Fleet: INA.
+The PSKA-609 is Commissioned: 2009
+Status: Active 
+Fleet: INA.
+The PSKA-610 is Commissioned: 2010
+Status: Active 
+Fleet: INA.
+The PSKA-611 is Commissioned: 2010
+Status: Active 
+Fleet: INA.
+The PSKA-612 is Commissioned: 2010
+Status: Active 
+Fleet: INA.
+The PSKA-613 is Commissioned: 2010
+Status: Active 
+Fleet: INA.
+The PSKA-614 is Commissioned: 2010
+Status: Active 
+Fleet: INA.
+The PSKA-615 is Commissioned: 2010
+Status: Active 
+Fleet: INA.
+
+Here is System information for the Mangust Class (Project 12150 Class) Russian Patrol Boat:
+The Alternative Designation is Mangust Class; Project 12150 Class.
+The Type is Patrol Boat.
+The Builder is Vympel Shipyard, Rybinsk, Russia.
+The Crew is 6.
+The Note #1 is The high speed allows the boat to effectively conduct search-and-rescue (SAR) missions involving the transportation of rescue teams, survival aids, medical and fire-fighting equipment to vessels in distress. The patrol boats can be equipped with lightweight diving equipment..
+The Note #2 is The Mangust patrol boats can be deployed in territorial waters for monitoring the commercial shipping and enforcement of navigation regulations in outer or inner harbors and neighboring coastal areas. The vessels also perform missions in support of maritime law enforcement agencies, customs, and fishery protection authorities..
+
+Here is Dimensions information for the Mangust Class (Project 12150 Class) Russian Patrol Boat:
+The Length is 19.45 m.
+The Beam is 4.40 m.
+The Draft is 1.16 m.
+The Displacement, Standard is 23.6 tons.
+The Displacement, Full Load is 27.2 tons.
+
+Here is Propulsion System information for the Mangust Class (Project 12150 Class) Russian Patrol Boat:
+The Engine Name is 2 x Zvezda M-470K.
+The Engine Type is Diesel.
+The Engine Power is 3,000 total bhp.
+The Maximum Range is 410 nm at 35 knots.
+The Maximum Speed is 52 knots.
+
+Here is Gun Weapon System #1 information for the Mangust Class (Project 12150 Class) Russian Patrol Boat of the Gun Weapon Systems:
+The Name is 1 x KPV 14.5mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 14.5 mm.
+The Length is 1,980 mm.
+The Barrel Length is 1,346 mm.
+The Width is 162 mm.
+The Height is 225 mm.
+The Weight is 49 kg.
+The Action is Short recoil operation.
+The Rate of Fire is 600 rpm.
+The Muzzle Velocity is 1,005 m/s.
+The Maximum Firing Range is 4,000 m.
+The Effective Firing Range is 3,000 m.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Mangust Class (Project 12150 Class) Russian Patrol Boat of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 14.5 mm.
+The Cartridge is 14.5×114 mm.
+The Basic Load is INA.
+
+Here is Grenade Launcher #1 information for the Mangust Class (Project 12150 Class) Russian Patrol Boat of the Grenade Launcher Systems:
+The Name is 2 x AGS-17 Plamya.
+The Type is Automatic Grenade Launcher.
+The Caliber is 30 mm.
+The Length is 840 mm.
+The Weight is 31 kg.
+The Action is Blowback.
+The Rate for Fire is 400 round/min.
+The Muzzle Velocity is 185 m/s.
+The Effective Firing Range is 800-1,700 m.
+The Feed System is 29 x Grenades (Belt).
+The Sights is Adjustable iron sights, optional mount required for optical sights.
+
+Here is Grenade Launcher #1 Ammunition information for the Mangust Class (Project 12150 Class) Russian Patrol Boat of the Grenade Launcher Systems:
+The Type is Grenade Projectile.
+The Caliber is 30 mm.
+The Cartridge is 30×29mm grenade.
+The Basic Load is 29 x Grenades (Belt).
+
+Here is Grenade Launcher #2 information for the Mangust Class (Project 12150 Class) Russian Patrol Boat of the Grenade Launcher Systems:
+The Name is 1 x DP-64 Nepryadva.
+The Type is Double-Barreled Over/Under Grenade Launcher.
+The Caliber is 45 mm.
+The Length is 820 mm.
+The Width is 110 mm.
+The Height is 275 mm.
+The Weight is 10 kg.
+The Action is Side break open.
+The Detonation Mechanism is Depthy.
+The Maximum Firing Range is 400 m.
+The Feed System is 2 Rounds.
+The Sights is Direct & Indirect iron sights.
+
+Here is Grenade Launcher #2 Ammunition information for the Mangust Class (Project 12150 Class) Russian Patrol Boat of the Grenade Launcher Systems:
+The Type is Grenade Projectile.
+The Caliber is 45 mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Communications information for the Mangust Class (Project 12150 Class) Russian Patrol Boat:
+The Note is The communication systems aboard include sailor MF/HF and VHF radio stations with DSC function, a NAVTEX receiver, three portable radio stations, a COSPAS-SARSAT emergency radio buoy and internal communication systems. These systems meet the Global Maritime Distress and Safety System (GMDSS) requirements for А1 and А2 sea areas..
+
+Here is Radar Systems information for the Mangust Class (Project 12150 Class) Russian Patrol Boat:
+The Navigation Radar is 1 x SL-72 navigation radar or 1 x MR-415.1 Poisk navigation radar.
+
+Here is Protection information for the Mangust Class (Project 12150 Class) Russian Patrol Boat:
+The Hull is Glass-reinforced plastic (GRP) construction..
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

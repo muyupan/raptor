@@ -1,0 +1,34 @@
+This document describes the Puma 3 AE American Unmanned Aerial Vehicle (UAV).
+
+AeroVironment’s expertise in UAS technology is epitomized by our third-generation Puma 3 AE (All Environment). We have equipped the Puma 3 AE with the powerful Mantis i45 gimbaled payload for use in day, night, or low-light environments, an array of communication frequencies (M1/M2/M3/M4/M5/M6), all protected with powerful AES-256 bit encryption, and a reinforced airframe with optional under wing transit bay for secondary payloads and third party applications.
+
+With both manual and autonomous navigation capability, Puma 3 AE’s newly enhanced propulsion system makes it significantly more efficient and easier to hand-launch. Deep- stall lading capability makes aircraft recovery simple and precise. All these advanced features can be used in land or maritime operations.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the Puma 3 AE American Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Puma 3 AE.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is AeroVironment.
+The Endurance is 2.5 hour flight endurance with an LE battery.
+The Payloads is Mantis i45 Gimbaled Payload with Dual 15mp EO
+cameras, 50x zoom, IR camera and Low Light camera
+for night operations, and High Power Illuminator.
+The GCS is Common GCS with Raven® and Wasp® AE.
+The Launch Method is Hand-launched, rail launch (optional).
+The Recovery Method is Autonomous or manual deep-stall landing.
+
+Here is Dimensions information for the Puma 3 AE American Unmanned Aerial Vehicle (UAV):
+The Length is 1.4 m.
+The Wingspan is 2.8 m.
+The Weight is 6.8 kg.
+
+Here is Automotive information for the Puma 3 AE American Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Maximum Speed is 47–83 km/h, 25–45 knots.
+The Maximum Distance is 20 km standard antenna, 60 km with LRTA.
+The Maximum Altitude is 91–152 m AGL.
+The Endurance is 2.5 hour flight endurance with an LE battery.
+

@@ -1,0 +1,142 @@
+This document describes the Type 90-II Chinese Main Battle Tank (MBT).
+
+The Type 90 MBT was further developed, incorporating advanced features into their next-generation MBT, but besides a few test vehicles for evaluation, this tank was not adopted by the People's Liberation Army, instead, the tank became the export model for Pakistan which developed the MBT-2000 (Al-Khalid) tank based on the Type 90. In the 1970s, the leadership of China's People's Liberation Army was concerned about the Soviet threat and requested an improved main battle tank (MBT). Norinco and the Inner Mongolia First Machine Group Corporation were tasked to develop a series of new tanks. 
+
+After examining samples of T-72 tanks delivered by Iran in the late 1980s (captured from the Iraqi Army), the Chinese military realized contemporary Chinese tanks were still vulnerable. Design features of the T-72 and some western tanks were used to develop a second generation of Chinese tanks, eventually incorporating a redesigned hull and suspension, a new welded turret and 125 mm autoloaded tank gun. The Type 80 and Type 85 tanks led to the Type 90. The Type 90 was rejected for Chinese service in favour of other designs, but it influenced further development which would lead to China's third-generation Type 99 tanks. 
+The Type 90 is an evolutionary design: the Type 90-II version shares 10% of its components with the Type 59, 15% with Type 69, 20% with Type 85/88C, and is built with 55% new components. This model was put up for sale on the international market. 
+This tank was jointly developed by Beijing 201 Institute (China North Vehicle Research Institute) and Inner Mongolia 617 Factory (Inner Mongolia First Machine Group Corporation). The Type 90 is the first Chinese tank to incorporate the modular design concept for its armor. The frontal arc of the turret is a modular design so that when more advanced composite armor is developed, it can readily replace older composite armor.
+
+This equipment has proliferated into the following countries: Bangladesh, China, Pakistan.
+
+Here is Variants information for the Type 90-II Chinese Main Battle Tank (MBT):
+The Type 90-IIA is Type 90-IIA was an export model offered to Pakistan. It was powered by French diesel engine, developing 1 500 hp. It did not enter service because France joined embargo of Pakistan for its nuclear tests..
+The Type 90-IIM or MBT-2000 is Type 90-IIM or MBT-2000 also was an export model aimed to meet Pakistani armed forces requirement. This version was developed to avoid the problem of embargo. Initially it was fitted with Chinese-made engine, which proved to be unreliable. In 2001 this MBT was demonstrated and was still proposed with an option to be fitted with foreign-made powerpack..
+The Al Khalid is Al Khalid is a further development of the MBT-2000 with some modifications. It is powered by an Ukrainian 6TD diesel engine, developing 1 200 hp. Pakistan acquired license to produce these tanks locally..
+
+Here is System information for the Type 90-II Chinese Main Battle Tank (MBT):
+The Alternative Designation is Type 90-II Chinese Main Battle Tank (MBT).
+The Type is Main Battle Tank.
+The Manufacturer is NORINCO.
+The Crew is 3.
+
+Here is Dimensions information for the Type 90-II Chinese Main Battle Tank (MBT):
+The Hull Length is 7.3.
+The Length (gun forward) is 10.28.
+The Barrel Length is INA.
+The Width is 3.45.
+The Height is 2.3.
+The Weight, Combat is 48.
+
+Here is Automotive information for the Type 90-II Chinese Main Battle Tank (MBT):
+The Engine Name is 6TD diesel.
+The Engine Type is Diesel.
+The Engine Power is 1200.
+The Cruising Range is 500.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.85.
+The Fording Depth, without Preparation is 5.
+The Fording Depth, with Preparation is 1.4.
+The Trench is 2.7.
+
+Here is System information for the Type 90-II Chinese Main Battle Tank (MBT) of the Main Weapon System:
+The Name is 2A46M/2A46M-5.
+The Type is 125mm Smoothbore.
+The Manufacturer is Rheinmetall.
+The Length, Barrel is 6.6.
+The Weight is 1190.
+The Muzzle Velocity is 1580 to 1750.
+The Maximum Rate of Fire is 1-2.
+The Maximum Elevation is +14.
+The Minimum Elevation is -6.
+The Traverse Range is INA.
+The Traverse Left is INA.
+The Traverse Right is INA.
+The Maximum Firing Range is INA.
+The Effective Firing Range is 4,000.
+The Sights is INA.
+The Note #1: is This gun is also fitter with a thermal sleeve and fume extractor..
+The Note #2: is This gun is capable of firing most types of ammunition, including high-explosive, high-explosive fragmentation and APFSDS. It may also be able to fire Russian AT-11 Sniper anti-tank guided missiles or Chinese copies..
+
+Here is Ammunition information for the Type 90-II Chinese Main Battle Tank (MBT) of the Main Weapon System:
+The Name is INA.
+The Type is INA.
+The Caliber is 120.
+The Shell is INA.
+The Armor Penetration is INA.
+The Basic Load is 39.
+
+Here is System information for the Type 90-II Chinese Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is STAMP.
+The Type is General Purpose Machine Gun.
+The Caliber is 7.62.
+The Length, Barrel is 565.
+The Weight is 11.5.
+The Muzzle Velocity is 820.
+The Maximum Rate of Fire is 1000-1300.
+The Maximum Elevation is INA.
+The Minimum Elevation is INA.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Firing  Range is 600.
+The Effective Firing Range is 200-1200.
+The Magazine is INA.
+The Sights is INA.
+The Note #1: is The other weapon system is located on the top of the roof..
+
+Here is Ammunition information for the Type 90-II Chinese Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is INA.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62x51NATO mm.
+The Basic Load is 3000.
+The Armor Penetration is Yes.
+
+Here is System information for the Type 90-II Chinese Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is Type 77.
+The Type is Heavy Machine Gun.
+The Manufacturer is Norinco.
+The Caliber is 12.7.
+The Length, Barrel is 1016.
+The Weight is 28.
+The Muzzle Velocity is 825.
+The Action is Gas.
+The Maximum Rate of Fire is 650-700.
+The Feed System is belt 60.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the Type 90-II Chinese Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7×108mm.
+The Basic Load is INA.
+The Armor Penetration is INA.
+The  is .
+
+Here is Fire Control System information for the Type 90-II Chinese Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is Yes.
+The Main Gun Stabilization is Yes.
+The Direct Fire is INA.
+The Indirect Fire is INA.
+The Automated Tracking System is This system is capable of engaging moving or stationary targets while moving in day or night. The automatic target tracking system uses a thermal image display which can be controlled by either the tank gunner or commander. It is capable of tracking soldiers, vehicles and helicopters. The targeting computer can also calculate lead on moving targets..
+The Note #1: is This FSC includes a laser rangefinder (accurate to within +/-33 ft or 10 m) incorporated into the gunner's sight, ballistic computer, several sensors and a two-axis gun stabilize r. The sensors measure angular velocity and displacement, elevation angle velocity and trunnion cant. The computer also accepts manual updates for crosswind, air and charge temperatures, distance and types of ammunition..
+
+Here is Protection information for the Type 90-II Chinese Main Battle Tank (MBT):
+The Hull Armor is Yes, Composite armor plating.
+The Turret Armor is Yes, Composite armor plating.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes, overpressure system, anti-neutron inner liner.
+The Fire Equipment is Yes, automatic suppression and extinguishing system.
+The Smoke Equipment is Yes, 4 x electric dischargers on either side of turret.
+The Note #1: is Its armor was developed from the start to be replaced if damaged or better armor becomes available..
+The Note #2: is NORINCO also notes that the hull is coated with a layer of "infrared-reflecting" paint to reduce the infrared (IR) signature..
+

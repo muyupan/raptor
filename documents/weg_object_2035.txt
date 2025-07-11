@@ -1,0 +1,59 @@
+This document describes the K6 Israeli 120mm Mortar.
+
+The Soltam K6 is a 120 mm (4.75 inches) mortar that was developed by Soltam Systems of Israel. It is the long-range version of the Soltam K5 and has replaced older systems, such as the 107-millimeter (4.2 in) M30, in several armies including the United States Army. It is much lighter than the M30, has a greater range, and can sustain a rate of fire of four rounds per minute, while the M30 could sustain only three.
+
+The K6 fires fin-stabilized ammunition from a smoothbore barrel. Unlike its smaller ammunition cousins, the 81 mm and 60 mm mortars, the fin blades of the ammunition fired from the M120 are not canted. Thus, no spin is imparted to the projectile in flight. Although heavy mortars require trucks or tracked mortar carriers to move them, they are still much lighter than field artillery pieces. They outrange light and medium mortars, and their explosive power is much greater. An improved version is known as the K6A3.
+
+High explosive rounds fired by the M120 weigh about 31 lb (14 kg) and can have a lethality radius of 225 ft (69 m).
+
+The K6 entered service with the United States Army in 1991 as the M120 Mortar System. Its mission is to provide a heavy weapon, and high-angle organic indirect fire support to the unit commander. The M120 is used by both mechanized units and light infantry in certain situations. Another feature of the M120 is the M303 Sub-Caliber insert, which allows the mortar to fire 81 mm ammunition.
+
+The M120 is transported on the M1100 Trailer by the M998 Humvee. The version that is mounted on the M1064 and M1129 mortar carriers is known as the M121.
+
+In 2007, the U.S. Army ordered 588 M326 MSS (Mortar Stowage Systems) from BAE Systems. Here, the assembled mortar is mounted on a truck, Humvee, or M1101 trailer and can be mounted and dismounted in less than 20 seconds.
+
+In November 2016, Elbit Systems announced it was awarded an Indefinite Delivery/Indefinite Quantity (ID/IQ) contract for the production of the M121.
+
+This equipment has proliferated into the following countries: Armenia, Bolivia (Plurinational State of), Denmark, Georgia, Iraq, Israel, Kazakhstan, Latvia, Myanmar, Poland, United States of America.
+
+Here is System information for the K6 Israeli 120mm Mortar:
+The Alternate Designation is Soltam K6; US Army: M120.
+The Type is Mortar.
+The Caliber is 120 mm.
+The Manufacturer is Soltam Systems.
+The Crew is 5.
+
+Here is Dimensions information for the K6 Israeli 120mm Mortar:
+The Length is INA.
+The Barrel Length is 1726 mm.
+The Weight, Total is 144.7 kg.
+The M298 Cannon Assembly Weight is 50 kg.
+The M190 Bipod Assembly Weight is 32 kg.
+The M9 Base Plate Weight is 62 kg.
+The M1100 Trailer Weight is 181 kg.
+The M67 SIght Unit Weight is 1.1 kg.
+
+Here is System information for the K6 Israeli 120mm Mortar of the Armament:
+The Name is Soltam K6.
+The Type is 120 mm Mortar.
+The Caliber is 120 mm.
+The Rate of Fire is 16 RPM max, 4 RPM sustained.
+The Effective Firing Range is 7,240 metres.
+The Feed System is Manual.
+
+Here is Ammunition information for the K6 Israeli 120mm Mortar of the Armament:
+The Name is INA.
+The Type is See Ammuntion Types.
+The Caliber is 120 mm.
+The Shell is INA.
+The Shell Weight is INA.
+The Ammuntion Types is *XM395 precision guided munition
+*M929 smoke cartridge (White Phosphorus)
+*XM930 illumination round
+*XM930E1 illumination round
+*XM931 practice round
+*M933 high explosive round
+*M934 high explosive round
+*M934A1 high explosive round
+*XM983 illumination round.
+

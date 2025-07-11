@@ -1,0 +1,127 @@
+This document describes the 9K37 Buk-M1 (SA-11 Gadfly) Russian Medium-Range Surface-to-Air Missile System.
+
+The BUK-M1 (NATO reporting name: SA-11 Gadfly) missile system is a self-propelled, medium-range surface-to-air missile system developed by the Russian defense industry. The SA-11 Gadfly is intended to defeat tactical and strategic aircraft, cruise missiles, helicopters, and other aerodynamics targets throughout the entire range of their combat employment in severe ECM environment, as well as Lance-type tactical ballistic missile, HARM-type antiradar missiles, and other airborne and ground-based high precision weapons and to engage waterborne and radio-contrast ground targets. 
+
+The first version of BUK-M1 adopted into service carried the GRAU designation 9K37 and was identified in the west with the NATO reporting name "SA-11 Gadfly". Since its initial introduction into service, the BUK-M1 missile system has been continually upgraded and refined with the latest incarnation carrying the designation 9K37M2 "BUK-M2". SA-11 Gadfly battery requires 5 minutes to set up before it is ready for engagement and can be ready for transit again in 5 minutes. The reaction time of the battery from target tracking to missile launch is around 22 seconds
+
+This equipment has proliferated into the following countries: Algeria, Azerbaijan, Belarus, China, Egypt, Georgia, India, Iran (Islamic Republic of), Kazakhstan, North Korea (Democratic People's Republic of Korea), Pakistan, Russian Federation, Ukraine, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the 9K37 Buk-M1 (SA-11 Gadfly) Russian Medium-Range Surface-to-Air Missile System:
+The 9K37 Buk is The 9K37 Buk (NATO: SA-11 Gadfly) was the baseline variant of the Buk family of medium-range surface-to-air missile (SAM) systems. It was developed by NIIP Tikhomirov (now a subsidiary of the Almaz-Antey Concern) as a replacement for the 2K12 Kub (SA-6 Gainful) SAM system..
+The 9K37M1 Buk-M1 is The Buk-M1 is the first variant of Buk that was known to be adopted in meaningful quantities, as the earlier 9K37 Buk was already earmarked for modernization by the Soviet leadership before it had entered service..
+The 9K37M1-2 Buk-M1-2 is The Buk-M1-2 is a modernised variant of the Buk-M1 system, which emerged shortly after the break-up of the Soviet Union..
+The Buk-MB is The Buk-MB is an upgraded variant of the Buk-M1 that was developed in Belarus by the State Scientific Production Association ‘Agat’ as an upgrade package to modernize Belarus’ existing fleet of Buk-M1..
+The 9K317 Buk-M2 is The Buk-M2 is a deep modernization of the Buk-M1 system which entered service with the Russian Armed Forces in 2008..
+The 9K317E Buk-M2E is The Buk-M2E is the export variant of the Buk-M2 system and has been offered for export since at least 2007. As with the domestic Buk-M2 variant, the Buk-M2E TELARs are provided with improved fire control radars that allow the engagement of more simultaneous targets than earlier Buk variants, and it is also solely equipped with the 9M317 missiles rather than the 9M38M1 missiles used by earlier Buk systems..
+The 9K317EK Buk-M2EK is The Buk-M2EK is the wheeled variant of the Buk-M2E system and is aimed at export customers that have a requirement for a wheeled system..
+The Ra’ad 2 is The Ra’ad 2 is an Iranian domestically-developed copy of the Buk-M1 using a wheeled vehicle chassis that strongly resembles the MZKT-6922 6 × 6 developed by the Minsk Wheeled Tractor Plant (Volat)..
+The 9K317M Buk-M3 is The Buk-M3 complex is a deeply modernized variant of the Buk-M2 and was developed to replace it within the Russian Air Defense forces (PVO)..
+The 9K317ME Viking is Viking is the export variant of the Buk M3 complex and is composed of a large number of vehicles..
+The Buk-MB3K is The Buk-MB3K is a modernized and wheeled variant of the Buk family, developed in Belarus by NPOOO OKB TSP primarily as an export offering, but also possibly as a solution for Belarus’ requirement for a Buk-MB replacement..
+The Yermak is Yermak is a developmental future mobile medium-range air-defense complex that is being developed by NIIP Tikhomirov (part of the Almaz-Antey Concern) as a further continuation of the Buk family beyond the M3 variant..
+
+Here is System information for the 9K37 Buk-M1 (SA-11 Gadfly) Russian Medium-Range Surface-to-Air Missile System:
+The Alternative Designation  is Buk-M1, Gang; For Hybrid Threat Buk-M1 is a Tier 2 system..
+The Type is Medium-Range Surface-to-Air Missile System.
+The Manufacturer is Almaz-Antey.
+The Description is Brigade assets include bde/btry CPs and radars, TELARs, launcher-loaders, TM-9T229 missile transporter, maintenance and test units. The 6 batteries have 1 TELAR and 1
+LL each.
+.
+The Target is FW, heli, CM, UAV, guided bomb, artillery rocket,
+ground targets, ships
+.
+The Crew is 4.
+
+Here is Dimensions information for the 9K37 Buk-M1 (SA-11 Gadfly) Russian Medium-Range Surface-to-Air Missile System:
+The Length is 9.3.
+The Width is 3.25.
+The Height is 3.8.
+The Weight is 34.
+
+Here is Automotive information for the 9K37 Buk-M1 (SA-11 Gadfly) Russian Medium-Range Surface-to-Air Missile System:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 710.
+The Maximum Range, Road is 500.
+The Maximum Speed is 65.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 1.
+The Trench is 1.5.
+The Fording is 1.
+
+Here is Launcher information for the 9K37 Buk-M1 (SA-11 Gadfly) Russian Medium-Range Surface-to-Air Missile System of the Main Weapon System:
+The Name is 9A39M1 TEL/Transloader.
+The Displacement Time  is 5.0.
+The Emplace Time, Reposition  is 20 seconds for a 100-200 m survivability move.
+The Emplacement Time  is 5.0.
+The Fire on Move is No.
+The Reaction Time  is 0.25-0.5; 0.1 for low-flyers.
+The Reload Time  is 12.0.
+The Simultaneous  Missiles is 1 (targets per launcher); 2 (missiles per launcher).
+The Time Between Launches  is 3.0.
+The Combat Load, per Launcher is 4.0.
+
+Here is Missile information for the 9K37 Buk-M1 (SA-11 Gadfly) Russian Medium-Range Surface-to-Air Missile System of the Main Weapon System:
+The Name is 9M38M1 Missile.
+The Length   is 5.55.
+The Diameter  is 400.
+The Weight is 690.
+The Warhead Type is Frag HE.
+The Fuze Type is Proximity RF.
+The Guidance System is RF command, inertial correction, semi-active radar homing.
+The Maximum Range is 34 km.
+The Minimum Range is 3.25 km.
+The Intercept Altitude is 30 m - 22 km.
+The Lethal Radius  is 17.
+The Probability of Hit Fixed Wing and Helicopter is 80%.
+The Propulsion is Solid fuel.
+The Simultaneous  Missiles is 2 per target.
+The Speed, Maximum Missile is 1,200.
+The Speed, Maximum Target  is 830.
+The Combat Load  is 4 rounds (TELAR), 8 (launcher-loaders).
+The Note is An upgraded missile, designated Buk-M1-2 (9M38M2), has a launch weight of 710 kg, and is reported to have a maximum range increased to 45 km and a maximum intercept altitude increased to 25 km. This version has a range against surface targets of 40 km and uses the same missile used in the initial Buk-2M (SA-17 'Grizzly') system..
+
+Here is C2 Vehicle information for the 9K37 Buk-M1 (SA-11 Gadfly) Russian Medium-Range Surface-to-Air Missile System of the Fire Control Systems:
+The Name is 9S470M1.
+The Function is Battery Command Post.
+The Data Link  is Wire and radio AD net, to IADS net, and to SA- 10/Osnova.
+The Targets Tracked is 15 (with 6 at TELs).
+
+Here is Radar #1 information for the 9K37 Buk-M1 (SA-11 Gadfly) Russian Medium-Range Surface-to-Air Missile System of the Fire Control Systems:
+The Name is 9S35 Fire Dome Radar.
+The Function is Dual (acquisition and fire control).
+The Detection Range  is 80 km (2 m2), 100 km (3m2).
+The Frequency  is 6-10 GHz (H/I band).
+The Guidance Range  is 42 km.
+The Other Assets is SA-11 digitally links to the
+IADS (e.g., aircraft, intel , and other SAM units. SA- 10/20/11 FO radars share data with other units in the IADS  net.  Other  assets  are
+FOs and ELINT, e.g., Orion.
+.
+The Targets Tracked is 1 per SPL vehicle.
+The Note is The 9S35 Fire Dome provides a limited search and acquisition capability, a tracking capability and CW illumination for terminal guidance of the semi-active homing SAM seekers. It incorporates an IFF interrogator, optical tracker, datalink, and is powered by the TELAR's gas turbine generator. A shared antenna is employed for two X-band transmit/receive channels. These respectively provide a pulsed mode for search and track functions, with linear chirp for compression, and a CW mode for illumination. Monopulse angle tracking is employed for jam resistance. For target tracking the antenna and feed system provide a mainlobe with 2.5° width in azimuth and 1.3° in elevation. For CW illumination the antenna and feed system provide a mainlobe with 1.4° width in azimuth and 2.65° in elevation.
+
+Operating autonomously, the 9S35 will take 4 seconds to sweep a 120° sector, with an elevation of 6° to 7°. When cued to acquire and track, with will take 2 seconds to sweep a 10° x 7° az/elev solid angle. Average power output in pulsed tracking modes varies between 0.5 and 1 kiloWatt, with CW illumination at 2 kiloWatts. The search and monopulse angle tracking receivers are both rated at a Noise Figure of NF=10 dB. The range error is cited at 175 metres, the angular error at less than 1°. The radar can switch from standby mode to combat operation in twenty seconds..
+
+Here is Radar  #2 information for the 9K37 Buk-M1 (SA-11 Gadfly) Russian Medium-Range Surface-to-Air Missile System of the Fire Control Systems:
+The Name is 9S18M1 SNOW DRIFT.
+The Description is Armored tracked chassis w/ phased  array  radar  and dipole antenna.
+The Azimuth Coverage  is 360 deg with rotation.
+The Type is Spoon Rest.
+The Detection Altitude is 25.
+The Detection Range  is 100-150.
+The Displacement Time is 5.
+The Emplacement Time  is 5.
+The Frequency is Centimetric 3-D phased array.
+The Function is Battery target acquisition radar.
+The Other Radars is Regiment/Bde will have.
+The Targets Tracked is 75.
+
+Here is Sights information for the 9K37 Buk-M1 (SA-11 Gadfly) Russian Medium-Range Surface-to-Air Missile System of the Fire Control Systems:
+The Acquisition Range  is 20.
+The Type is TV optial auto-tracker.
+
+Here is Protection information for the 9K37 Buk-M1 (SA-11 Gadfly) Russian Medium-Range Surface-to-Air Missile System:
+The Armor Protection is INA.
+The NBC Protection is INA.
+

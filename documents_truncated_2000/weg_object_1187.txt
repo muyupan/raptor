@@ -1,0 +1,61 @@
+This document describes the JMRC VISMOD UMZ-3 Russian 6x6 Scatterable Minelaying System.
+
+JMRC VISMOD UMZ-3 Russian 6x6 Scatterable Minelaying System
+USED TO RAPIDLY EMPLACE MINEFIELDS
+
+KILLED BY .50 CALIBER AND ABOVE
+
+Here is Variants information for the JMRC VISMOD UMZ-3 Russian 6x6 Scatterable Minelaying System:
+The UMZ-G is The UMZ-G (multipurpose tracked minelayer vehicle) is based on main battle tank chassis T-72 or T-90, but the layout of the vehicle is very different as a standard main battle tank. There is no glacis, the hull is rectangular with a crew of two, driver located at the front left side and one operator at the right.
+
+In the middle, the top part of the UMZ-G is fitted with three rows of three multiple payload rotary launchers, each with 30 dispensers able to launch anti-personnel, anti-paratrooper or anti-tank mines..
+The UMZ-K is Named the UMZ-K, it differs from its predecessor, the UMZ layer, first of all in its wheeled chassis. Unlike the UMZ, which is mounted atop a ZIL-131B cargo truck chassis, the new system is based on that of a KamAZ-63501.
+
+The KamAZ-63501 heavy utility truck is a member of the Mustang family and one of the largest trucks in the KamAZ range. It is entirely conventional in design, a renewed version of the previous 8x8 heavy utility truck with an increased payload capacity of 15,000 kg..
+
+Here is Dimensions information for the JMRC VISMOD UMZ-3 Russian 6x6 Scatterable Minelaying System of the System:
+The Height, Overall  is 2.5.
+The Length, Overall  is 7.1.
+The Width, Overall  is 3.0.
+The Weight, without Mine Load is 8,300 kg.
+The Weight, with Mine Load is 10,000 kg.
+
+Here is Automotive information for the JMRC VISMOD UMZ-3 Russian 6x6 Scatterable Minelaying System:
+The Engine Power  is 150.0.
+The Engine Type is Gasoline.
+The Fording Depth  is 1.4.
+The Range, Cruising  is 525.0.
+The Speed, Maximum Off-Road is 30.0.
+The Speed, Maximum Road  is 80.0.
+The Speed, Maximum Swim  is INA.
+The Speed, Operating Minimum is 10.0.
+The Speed, Operating Maximum is 40.0.
+The Minefield Spacing Depth is 15.0.
+The Speed, Operating Surface Laying  is 40.0.
+
+Here is Radio information for the JMRC VISMOD UMZ-3 Russian 6x6 Scatterable Minelaying System of the Communications:
+The Name is R-168.
+
+Here is Mines (Option 1) information for the JMRC VISMOD UMZ-3 Russian 6x6 Scatterable Minelaying System of the Mines:
+The Name is PFM-1S.
+The Type is Anti-Personnel Mine.
+The 3-Row Minefield Length is 800 m.
+The Maximum Minefield Length is 3,200 m.
+
+Here is Mines (Option 2) information for the JMRC VISMOD UMZ-3 Russian 6x6 Scatterable Minelaying System of the Mines:
+The Name is POM-2.
+The Type is Anti-Personnel Mine.
+The 3-Row Minefield Length is 1,500 m.
+The Maximum Minefield Length is 5,200.
+
+Here is Mines (Option 3) information for the JMRC VISMOD UMZ-3 Russian 6x6 Scatterable Minelaying System of the Mines:
+The Name is PTM-3.
+The Type is Anti-Tank Mine.
+The 3-Row Minefield Length is 150 m.
+The Maximum Minefield Length is 600 m.
+
+Here is Protection information for the JMRC VISMOD UMZ-3 Russian 6x6 Scatterable Minelaying System:
+The Hull Armor is Based on the chassis and armoured hull of the MT-LBu general purpose tracked carrier and command vehicle..
+The NBC Protection is INA.
+The Smoke Screening System is No.
+

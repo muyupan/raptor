@@ -1,0 +1,137 @@
+This document describes the Kapitan Patimura Class Indonesian Corvette.
+
+The Parchim-class corvette (Soviet designation Project 1331M) was developed for the East German Navy in the late 1970s, and built by the Wolgast Peene-Werft. The ships were designed for coastal anti-submarine warfare. In case of an all-out NATO-Warsaw Pact war in Europe their prime targets would have been the small U-206 coastal submarines of the West German navy. The first ship, Wismar (now the Indonesian KRI Sutanto), was launched on 9 April 1981 in Rostock, and subsequently another 15 ships were built until 1986. To make production more economical, the Soviet Union agreed to purchase another 12 ships from Wolgaster Peenewerft built between 1986 and 1990, thereby effectively subsidising the East German shipbuilding industry.
+
+The ships of the Soviet Navy were named Parchim II by NATO. Though useful as a coastal ASW platform, the Soviet production of the similar but far more powerful Grisha class made this purchase even more illogical for the Soviet Navy. After German re-unification the former East German ships were sold to the TNI-AL (Indonesian Navy) in 1993. The Indonesian Navy extensively refurbished their Parchims, to the point where the refurbishing exceeded the cost of purchase. They are still in service, both in the Indonesian Navy and in the Russian Baltic Fleet.
+
+For air defence, the ships were equipped with one double-barrel AK-230 30 mm gun and one double-barrel AK-725 57 mm gun. The Ak-725 double 57 mm AA gun, designed in 1959, was directed by the ESP-72 fire control system, which received ranging and target bearing information from an MR 103 (NATO codename 'MUFF COB') radar. The MR 103 had a 1.30 m (4.3 ft) parabolic radar dish, with an optical camera system slaved to it, as a backup system in case of failure or heavy EW environment. The barrels of the gun were water-cooled and belt-fed, with each belt containing 550 rounds, but the first round had to be manually chambered. In an emergency, the turret could be manually operated with an optical fire control system. The MR 103 radar system, already outdated when the Parchims were developed, used 1950s-style electromechanical systems, built around vacuum tubes. As a result, it wasn't considered to be an effective anti-missile system, or CIWS (Close-in weapon system), as was evidenced by a Soviet training accident in 1987 when a test missile drone accidentally locked in on a small Soviet Navy training vessel. Although the ship's AK-725 system kept firing until the moment of impact, no hits were scored and the ship was destroyed by the resulting fire, allegedly killing 39 crew members.
+
+The AK-230 gun was a fully automatic, stabilized, NN-30 double-barrel, water-cooled, four-chamber revolver cannon. The guns had a 1,000 round per minute (rpm) rate of fire and were fed by independent 500 round ammunition belts. The regular associated radar system was the (NATO codename) DRUM TILT radar, which was not used in the Parchim class. According to some sources the AK-230 could not only be linked with the DRUM TILT but also with the MUFF COB radar system, but this is disputed by old East German naval sources. According to these East German sources, the AK-230 gun on the Parchim-class corvette was optically guided, thereby leaving the Parchim class without an effective CIWS, and therefore unable to counter anti-shipping missiles.
+
+There were also two SA-N-5 (Naval SA-7 or Strela II) MANPAD positions aboard the Parchims. But without an effective, radar guided SAM missile system, the Parchims were left completely vulnerable to enemy precision guided anti-shipping weapons. This was a major restriction and confined the Parchims to brown water coastal operations, close to the protective air force and air defence umbrella.
+
+The air search radar was the ubiquitous (NATO codename) STRUT CURVE radar. This radar had a 4 m (13 ft) parabolic radar dish, worked in the F-band frequency, and had a respectable 60 nautical miles (110 km) radar range against aircraft flying at 5,000 m (16,000 ft) height, and a less respectable 20 nautical miles (40 km) radar range against surface shipping or low flying aircraft. The electronic defense suite was very basic, and consisted of an IFF (Identification Friend or Foe) receiver and transmitter, and an 'ELOKA' multiband passive RWR antenna slaved to a double 16-cell chaff dispenser. All in all, air defence - or the lack of one - was a very restrictive factor in the tactical usefulness of the Parchim design.
+
+This equipment has proliferated into the following countries: Indonesia, Russian Federation.
+
+Here is Variants information for the Kapitan Patimura Class Indonesian Corvette:
+The KAPITAN PATIMURA is Commissioned: 1983
+Status: Active.
+The UNTUNG SUROPATI is Commissioned: 1983
+Status: Active.
+The NUKU is Commissioned: 1982
+Status: Active.
+The LAMBUNG MAMANGKURAT is Commissioned: 1985
+Status: Active.
+The TJUT NYA DHIEN is Commissioned: 1982
+Status: Active.
+The SULTAN THAHA SYAIFUDDIN is Commissioned: 1982
+Status: Active.
+The SUTANTO is Commissioned: 1981
+Status: Active.
+The SUTEDI SENOPUTRA is Commissioned: 1981
+Status: Active.
+The WIRATNO is Commissioned: 1981
+Status: Active.
+The MEMET SASTRAWIRIA is Commissioned: 1981
+Status: Active.
+The TJIPTADI is Commissioned: 1985
+Status: Active.
+The HASAN BASRY is Commissioned: 1982
+Status: Active.
+The IMAN BONJOL is Commissioned: 1984
+Status: Active.
+The PATI UNUS is Commissioned: 1983
+Status: Active.
+The TEUKU UMAR is Commissioned: 1984
+Status: Active.
+The SILAS PAPARE is Commissioned:
+Status: Active.
+
+Here is System information for the Kapitan Patimura Class Indonesian Corvette:
+The Alternative Designation is Kapitan Patimura Class.
+The Type is Corvette.
+The Builder is VEB Peenewerft, Wolgast, Germany.
+The Crew is 61 (6 off. + 55 enl.).
+The Note is The PARCHIM-I class corvettes were the largest domestic-built combatants in the East German navy before Germany was reunified in October 1990. They were built to replace the earlier HAI-class corvettes. After unification, four of the ships saw brief service in the German navy. The sale of the entire class to Indonesia was announced in July 1992 and approved by the German Bundestag on Sept. 2, 1992..
+
+Here is Dimensions information for the Kapitan Patimura Class Indonesian Corvette:
+The Length is 75.20 m.
+The Beam is 9.78 m.
+The Draft is 4.40 m.
+The Displacement, Standard is 800 tons.
+The Displacement, Full Load is 900 tons.
+
+Here is Propulsion System information for the Kapitan Patimura Class Indonesian Corvette:
+The Engine Name is 3 x Russian-built M-504A-3.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Maximum Range is 1,200 nm at 20 knots; 2,200 at 14 knots.
+The Maximum Speed is 25 knots.
+
+Here is Gun Weapon System #1 information for the Kapitan Patimura Class Indonesian Corvette of the Gun Weapon Systems:
+The Name is AK-257 DP.
+The Type is Naval Gun.
+The Caliber is 57mm.
+The Quantity is 1 x AK-257 Naval Gun.
+The Note is The AK-257 is a Soviet 57mm naval gun, originally a land ZIF-31 L/70 57mm (Type 66/76) cannon. During the early 1950s, development began of naval versions of the 57x348mmSR 70 calibre weapon which had entered service with the Soviet army in 1950 as the S-60. This was to be a supplementary weapon for larger warships and as the main gun armament for minesweepers and auxiliaries.
+
+The twin gun version, ZIF-31, appears to have entered service with the Project 264 Minesweepers (T58 class) and the Project 310 (Don class) submarine support ships in 1958. In 1960, two other versions of the mounting appeared; a single gun ZIF-71 for the modernised Skoryy class destroyers and the quad ZIF-75 for the Krupny/Kanin class destroyers. The ZIF designation is an industrial one and it is possible that the naval designations were AK-157 (ZIF-71), AK-257 (ZIF-31) and AK-457 (ZIF-75). In smaller warships these mountings were sometimes associated with MR-103 and in larger ones with the Yakhond (Hawk Screech) radar. The ZIF-31/71/75 mountings may not have been very successful and an improved twin mounting appeared shortly afterwards as the AK-725. The twin 57mm ZIF-31 has also been manufactured in China as the Type 66 and there is a water-cooled derivative known as the Type 76. The AK-257 is currently employed on the Grisha class Corvette..
+
+Here is Gun Weapon Systems #1 Ammunition information for the Kapitan Patimura Class Indonesian Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 57.
+The Shell is 57x348mmSR.
+The Basic Load is INA.
+
+Here is Gun Weapon System #1 information for the Kapitan Patimura Class Indonesian Corvette of the Gun Weapon Systems:
+The Name is AK-230.
+The Type is Naval Gun.
+The Caliber is 30mm.
+The Quantity is 2 x AK-230 Naval Guns.
+The Length is 2.140 m.
+The Weight is 1857 kg to 1905 kg.
+The Elevation is -12 to +87 degrees at 50 degree/s.
+The Traverse is +180 to -180 degrees at 35 degree/s.
+The Rate of Fire is 2,000 rpm.
+The Effective Range of Fire is INA.
+
+Here is Gun Weapon System #2 Ammunition information for the Kapitan Patimura Class Indonesian Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30mm.
+The Shell is INA.
+The Basic Load is INA.
+
+Here is Missile Weapon System information for the Kapitan Patimura Class Indonesian Corvette:
+The Launcher is 2 x quadruple SA-N-5 or SA-N-8 SAM system.
+The Basic Load is INA.
+
+Here is Rocket Weapon Systems information for the Kapitan Patimura Class Indonesian Corvette:
+The Launcher is 2 x 12-round RBU-6000 rocket launchers.
+The Basic Load is INA.
+
+Here is Torpedoes information for the Kapitan Patimura Class Indonesian Corvette:
+The Torpedo Tubes is 4 x fixed 406-mm torpedo tubes.
+
+Here is Fire Control Systems information for the Kapitan Patimura Class Indonesian Corvette:
+The FCS Name is 1 x MR-123 Vympel (Muff Cob**) fire control.
+The Computerized FCS is Yes.
+The Battle Management System is INA.
+
+Here is Radar Systems information for the Kapitan Patimura Class Indonesian Corvette:
+The Air Surface Radar is 1 x Rubka (MR-302) (Strut Curve**) air/surface search radar.
+The Navigation Radar is 1 x TSR-333 navigation.
+
+Here is Sonar Systems information for the Kapitan Patimura Class Indonesian Corvette:
+The Name is 1 x MG-332T active search medium-frequency sonar.
+The Type is Hull-Mounted.
+The Note is 1 x Elk Tail high-frequency variable depth (some units only).
+
+Here is Protection information for the Kapitan Patimura Class Indonesian Corvette:
+The Active Protection System is INA.
+The Countermeasures is Yes.
+The NBC Water Washdown System is Yes.
+The EW is 2 x Baklan-B (Watch Dog**) intercepts and 2 x 16-round PK-16 chaff rocket launchers.
+The Depth Charges is 2 x depth charge racks [6 depth charges per rack].
+The Mines is mines can be deployed from depth charge racks.
+

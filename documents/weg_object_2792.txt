@@ -1,0 +1,82 @@
+This document describes the RM-G Russian Armored Tracked Repair Vehicle.
+
+The RM-G tracked repair vehicle was developed by the Joint Stock Company (JSC) Rubtsovsk Machine-Building Plant to undertake repairs to tanks and BMP-type infantry fighting vehicles (IFV) in the forward combat area. The RM-G is also referred to as the Repair Tracked Vehicle (RTV). The vehicle is intended for technical reconnaissance and routine repair of tanks and BMPs (AlFVs), rendering servicing assistance to crews in combat conditions.
+
+This equipment has proliferated into the following countries: Algeria, Azerbaijan, Cyprus, Indonesia, Kuwait, Russian Federation, South Korea (Republic of Korea), Ukraine, United Arab Emirates, Venezuela (Bolivarian Republic of).
+
+Here is System information for the RM-G Russian Armored Tracked Repair Vehicle:
+The Alternative Designation is RM-G.
+The Type is Armored Tracked Repair Vehicle.
+The Manufacturer is Joint Stock Company (JSC) Rubtsovsk Machine Building Plant.
+The Repair Capabilities is Vehicle equipment makes it possible to perform:
+towing faulty and damaged BMPs, controlled and uncontrolled, - from under enemy fire;
+technical reconnaissance on battlefield day and night;
+towing faulty and damaged BMPs afloat;
+hoisting operations at repairs and maintenance of tanks and BMPs;
+routine repair with electric welding operations;
+assistance to crews at maintenance and searching faults in vehicle assemblies and units;
+carrying spare parts, materials, and tools with bulk mass up to 1000 kg;
+charging batteries;.
+The Crew is 4.
+The Crane Lift Capability is Mounted above the latter is an all-welded steel turret with an electrically operated crane, which can lift a maximum load of 3,000 kg..
+The Crane Turret Traverse is through 228°.
+The Crane Maximum Lifting Height is 4.01 m.
+The Note is The vehicle is provided with welding equipment, a set of tools and fixtures for field assembling and disassembling at routine repairs, making it possible to replace unit assemblies of track-and-suspension system, a set of equipment for maintenance of unit assemblies to be replaced. Besides, the vehicle is provided with a set of compact diagnostic equipment for expess evaluation of technical condition and searching faults in principal systems of vehicles to be serviced..
+
+Here is Dimensions information for the RM-G Russian Armored Tracked Repair Vehicle:
+The Length is 6.736 m.
+The Width is 2.94 m.
+The Height is 2.4m.
+The Length of Track on Ground is 3.8 m.
+The Track Width is 300 mm.
+The Weight, Combat is 13,800 kg.
+The Ground Pressure is 0.65kg/cm² (63743Pa) (9.25psi).
+The Ground Clearance is 0.37 m.
+
+Here is Automotive information for the RM-G Russian Armored Tracked Repair Vehicle:
+The Engine Name is Model UTD-20.
+The Engine Type is 6 cylinders, direct injection, 4 stroke, diesel.
+The Engine Power is 300 hp at 2,600 rpm.
+The Power-to-Weight Ratio is 21.73 hp/t.
+The Fuel Capacity is 462 liters.
+The Gearbox is Manual, Fwd: 5, Rev: 1.
+The Clutch is multiplate, dry, constant engagement.
+The Electrical System is 29V.
+The Suspension is torsion bar, hydraulic shock-absorbers on 1st, 2nd and 6th roadwheels.
+The Range is 660 km.
+The Maximum Land Speed is 65 km/h.
+The Maximum Amphibious Speed is 6 km/h.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Obstacle is 0.7 m.
+The Trench is 2.5 m.
+
+Here is System information for the RM-G Russian Armored Tracked Repair Vehicle of the Main Weapon System:
+The Name is 1 × 7.62mm PKT General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1.098 m.
+The Barrel Length is 722 mm without muzzle brake.
+The Weight is 10.5 kg empty.
+The Action is Gas operated, long stroke gas piston.
+The Locking is Rotating bolt.
+The Fire Selector is 0 - F, solenoid fired.
+The Rate of Fire is 750 rpm.
+The Muzzle Velocity is 855 m/s.
+The Maximum Firing Range is 3,000 m.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the RM-G Russian Armored Tracked Repair Vehicle of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62x54mm Russian.
+The Basic Load is INA.
+
+Here is Protection information for the RM-G Russian Armored Tracked Repair Vehicle:
+The Hull Armor is 6–33 mm welded rolled steel.
+The Applique Armor is INA.
+The Mine Clearing is No.
+The NBC Protection is FVU-100N NBC system.
+The Smoke Equipment is 2 x  81 mm electrically operated smoke grenade launchers and a diesel-engine driven smoke generating system..
+

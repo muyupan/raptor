@@ -1,0 +1,48 @@
+This document describes the NR-30 Russian 30mm Autocannon.
+
+The NR-30 was a Soviet autocannon widely used in military aircraft of the Soviet Union and Warsaw Pact. It was designed by A.E. Nudelman and A. A. Rikhter, entering service in 1954.
+
+The NR-30 was a single-barrel, short recoil-operated cannon, essentially an enlarged version of the 23 mm NR-23 weapon introduced in 1949. It fired a massive projectile (more than twice the weight of the NR-23's 23 mm shell), requiring a muzzle brake with an integrated flame damper to prevent airframe damage from its firing. Before this gun, the Soviet standard fighter armament was two 23 mm and one 37 mm gun, which was ballistically quite different. The 23 mm was quite powerful, but with a relatively low initial velocity, while the 37 mm was lacking in the rate of fire and ammunition reserve.
+
+A MiG-15 typically had 80 cartridges for each 23 mm gun and 40 for the single 37 mm N-37. The 30 mm gun had destructive power and ballistic qualities comparable to the 37 mm, and the rate of fire better than the 23 mm NR-23.
+
+It had a velocity of around 800 m/s, a projectile weighing 400 grams (twice that of the 23 mm and half that of 37 mm guns), a rate of fire of 900 cycles per minute, even greater than NR-23, and a typical load of 70 shells for each gun. It was usually fitted into the wings rather than in the nose. There were 20 different types of ammunition; the most used were AP and HEI, the latter of 40–48 g HE internal charge, several times larger than 20 mm ammunition. An unusual munition was the Chaff dispenser PRL, with 48,000 chaff particles internally; it is not known how it was used.
+
+It was clear that this gun was meant to fire heavy projectiles, as DEFA guns firing the far less powerful 30x113 ammunition had projectiles weighing around 270 g, with similar velocity, but a higher rate of fire of 1200-1300 rounds per minute, making them more suitable for air-to-air engagements. DEFAs had typically 120-140 cartridges each. The NR-30 was also remarkably light, with more firepower (rate of fire and projectile weight) despite being one-third lighter. The GSh-301 is the only lighter 30 mm gun.
+
+The NR-30 was used mainly in the MiG-19 (before this model, MiGs had 23 and 37 mm mixed armament), early MiG-21 models, the Sukhoi Su-7, and the Sukhoi Su-17. It was also used on the Shenyang J-6, the Chinese copy of the MiG-19, with a third gun in the nose. The Chinese manufactured their own version, the Type-30, basically similar though with slightly different characteristics.
+
+Although its rate of fire makes it more suited for air-to-ground use, it is, by all accounts, a formidable weapon combining reasonable accuracy and devastating hitting power. It also appears that a version of the gun was modified for use in space, with successful testing on a military Almaz station.
+
+This equipment has proliferated into the following countries: Albania, Azerbaijan, China, Libya, North Korea (Democratic People's Republic of Korea), Poland, Russian Federation, Sudan, Syria, Tanzania, Turkmenistan, Uzbekistan, Viet Nam, Yemen, Zambia.
+
+Here is NR-30 30mm Autocannon information for the NR-30 Russian 30mm Autocannon of the System:
+The Name is NR-30.
+The Type is Autocannon.
+The Caliber is 30 mm.
+The Manufacturer is Designed by A.E. Nudelman and L. Richter.
+The Length is 2,153 mm.
+The Barrel Length is 1,600 mm.
+The Width is 181 mm.
+The Height is 186 mm.
+The Weight is 66 kg.
+The Barrels is 1.
+The Action is Short recoil.
+The Rate of Fire is 850–1,000 rpm.
+The Muzzle Velocity is 780 m/s.
+The Maximum Fire Range is INA.
+The Platforms is The NR-30 was installed on MiG-19 , early MiG-21, Su-7 and Su-17 fighters, as well as the Chinese J-6, a copy of the MiG-19 with an additional cannon fitted in the nose. Beijing also developed a variant of the NR-30, designated the Type 30..
+The  is .
+The  is .
+The  is .
+The  is .
+
+Here is Ammunition information for the NR-30 Russian 30mm Autocannon of the System:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Cartridge is 30x155mm.
+The Projectile Weight is 410 grams (14½ oz), 840 g (1 lb 13½ oz) complete.
+The Launch Charge is 95 g to 99 g of 6/7fl VBP smokeless powder.
+The Types of Ammunition is HEI, AP, TP, Chaff dispensers.
+The Basic Load is 500 Rounds.
+

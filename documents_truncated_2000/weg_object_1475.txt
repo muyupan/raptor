@@ -1,0 +1,151 @@
+This document describes the Kedah Class Malaysian New Generation Patrol Vessel (NGPV).
+
+The KEDAH-class ocean patrol vessels are based on Germany's MEKO 100 design. Also known as the New Generation Patrol Vessel (NGPV) in Malaysia, the vessels utilize stealth designs to reduce radar cross-section. While their size and tonnage imply the Kedah-class ships to be corvettes, they are classified as offshore patrol vessels (OPVs) by the Royal Malaysian Navy, a category more common with law enforcement or coast guard vessels, not naval warships. This is rooted in the fact that the Kedah class was delivered in a condition named for but not with, meaning that certain weapon systems were not included in the original purchase, but all provisions to install and use them, including sensors and electronics, are already present in the ships. The weapons themselves can be easily "plugged in" with little delay as soon as the Royal Malaysian Navy has purchased them. These purchases however have not yet been made. Currently, the Kedah-class vessels are armed with guns only (76 mm gun on the bow, 30 mm gun on the aft), making them quite lightly armed and fairly vulnerable for naval ships of their size, thus justifying their listing as OPVs rather than proper corvettes.
+
+This equipment has proliferated into the following countries: Malaysia.
+
+Here is Variants information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV):
+The KEDAH is Commissioned: 2006
+Status: Active.
+The PAHANG is Commissioned: 2006
+Status: Active.
+The PERAK is Commissioned: 2009
+Status: Active.
+The TERENGGANU is Commissioned: 2009
+Status: Active.
+The KELANTAN is Commissioned: 2010
+Status: Active.
+The SELANGOR is Commissioned: 2010
+Status: Active.
+
+Here is System information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV):
+The Alternative Designation is Ahmad Yani Class.
+The Type is New Generation Patrol Vessel (NGPV).
+The Builder is KEDAH and PAHANG: Blohm + Voss, Hamburg, Germany.  All others: Boustead Naval Shipyard, Lumut, Malaysia.
+The Crew is 78 + 15 aircrew.
+
+Here is Dimensions information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV):
+The Length is 91.10 m.
+The Beam is 12.85 m.
+The Draft is 3.40 m.
+The Displacement, Standard is 1,300 tons.
+The Displacement, Full Load is 1,650 tons.
+
+Here is Propulsion System information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV):
+The Engine Name is 2 x Caterpillar type 3616.
+The Engine Type is DITA Diesel.
+The Engine Power is 14,830 total bhp.
+The Maximum Speed is 22 knots.
+The Range is 6,000 nm at 12 knots.
+
+Here is Gun Weapon System #1 information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV) of the Gun Weapon Systems:
+The Name is 1 x OTO Melara 62 Cal.
+The Type is Naval Gun.
+The Caliber is 76 mm.
+The Barrel Length is 4,724.4 mm.
+The Weight is 7.5 tons.
+The Crew is remote controlled.
+The Elevation is −15°/+85°
+speed: 35°/s (acceleration: 72°/s²).
+The Traverse is 360°.
+The Rate of Fire is Compact: 85 rounds/min
+Super Rapid: 120 rounds/min.
+The Muzzle Velocity is 915 m/s.
+The Maximum Firing Range is HE-PFF 16,000 m
+SAPOMER 20,000 m
+VULCANO 40,000 m.
+The Feed System is Magazine capacity:
+80 ready rounds on Compact gun mount.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV) of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.
+The Shell is 76×636mmR.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV) of the Gun Weapon Systems:
+The Name is 1 x OTO Melara 80 Cal.
+The Type is Naval Gun.
+The Caliber is 30 mm.
+The Length is INA.
+The Weight is INA.
+The Rate of Fire is INA.
+The Effective Firing Range is INA.
+
+Here is Gun Weapon System #2 Ammunition information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV) of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #3 information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV) of the Gun Weapon Systems:
+The Name is 2 x M2 Browning 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight is 58 kg.
+The Action is Short recoil-operated.
+The Rate of Fire is 450–600 rounds/min.
+The Muzzle Velocity is 890 m/s.
+The Maximum Firing Range is 7,400 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is Belt-fed.
+
+Here is Gun Weapon System #3 Ammunition information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV) of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7×99mm NATO.
+The Basic Load is INA.
+
+Here is Missile #1 information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV) of the Missile Weapon Systems:
+The Name is 2 x SM 39 Exocet.
+The Type is Anti-Ship Missile.
+The Launcher is 2 x twin Exocet (MM-40) launchers.
+The Length is 5.80 m.
+The Diameter is 348 mm.
+The Wingspan is 1.14 m.
+The Engine is 2 x SNPE double-base Nitramite smokeless solid-propellant rockets; 1 x Epervier booster with 2.4 sec burn; 1 x Eole V sustainer with 200-220 sec burn.
+The Warhead is Hexolite blast fragmentation.
+The Maximum Speed is Mach 0.93.
+The Maximum Range is 50 km.
+The Minimum Range is 4 km.
+The Peak Altitude is 50 m.
+
+Here is Missile #2 information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV) of the Missile Weapon Systems:
+The Name is 1 x Rolling Airframe Missiles (RAM).
+The Type is Surface-to-Air Missile.
+The Launcher is 1 x Rolling Airframe Missiles (RAM) launcher.
+The Length is 2.82 m.
+The Diameter is 127 mm.
+The Missile Weight is 74 kg.
+The Warhead Weight is 11 kg.
+The Warhead is Conventional high-explosive.
+The Engine is 1 x Mk 36 Mod 8 solid-propellant rocket.
+The Elevation is -25/+80  deg.
+The Traverse is 360 deg.
+The Basic Load is 21 Rounds.
+
+Here is Aviation Facilities information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV):
+The Helicopters is 1 x Super Lynx 300 or 1 x Seahawk (S-70).
+
+Here is Fire Control Systems information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV):
+The FCS Name is INA.
+The Computerized FCS is Yes.
+The Combat Management System is 1 x Atlas Elektronik COSYS-110M1.
+
+Here is Radar Systems information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV):
+The Air and Surface Radar is 1 x EADS TRS-3D/16 ES air/surface search radar.
+The Navigation Radar is 1 x Atlas Elektronic 9600 ARPA navigation.
+
+Here is Sonar Systems information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV):
+The Name is 1 x Elac Nautik NDS 3060.
+The Type is Hull Mounted Sonar.
+
+Here is Protection information for the Kedah Class Malaysian New Generation Patrol Vessel (NGPV):
+The Active Protection System is INA.
+The Countermeasures is Yes.
+The NBC Water Washdown System is Yes.
+The EW Detection System is 1 x Thales TR-3000 detection.
+The EW Decoy System is 1 x SRBOC Mark 36 decoy system.
+

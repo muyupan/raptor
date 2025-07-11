@@ -1,0 +1,58 @@
+This document describes the Ababil-2 Iranian Tactical Unmanned Aerial Vehicle (UAV).
+
+Hezbollah and Houthi Proliferation. The Ababil-2 Iranian Tactical Unmanned Aerial Vehicle (UAV) is an Iranian single-engine multirole tactical UAV manufactured by Iran Aircraft Manufacturing Industrial Company (HESA). The Ababil-2 has an improved flight-control system. The most common Ababil-2 variant is a target drone variant used for training air-defense crews. Rudimentary surveillance capabilities can be used as a loitering munition but are mainly used as a target drone.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of), Iraq, Non-State Actors, Sudan, Syria.
+
+Here is Variants information for the Ababil-2 Iranian Tactical Unmanned Aerial Vehicle (UAV):
+The Ababil-B is The Ababil-B is a target drone used for air defense unit training; it features a radar augmentation device..
+The Ababil-S is This is the reconnaissance configuration, also known as the Ababil 5. It includes an electro-optical (EO) camera in the nose. It also has a real-time imagery downlink..
+The Ababil-T is This is a strike variant. It comes with a daylight television camera, located underneath the fuselage. The variant can also carry a medium-sized high-explosive warhead. The night-time shootdown of an Ababil during the Israel-Hezbollah conflict in July-August of 2006 suggested that its sensor package had been modified to include an infrared system. The Ababil-T has a twin-tail configuration..
+The Ababil Jet/Hadaf 1 is This version was said to be in development in 2007. It is powered by a TEM Toloue-4 840-lb (3.7 kN) static thrust axial jet engine used on the C-802/Noor anti-ship missile and UAV/target drone..
+The Ababil-3 is This variant has a top speed of 124 mph (200 km/h) with a range of 60 mi (100 km), a ceiling of 16,400 ft (5,000 m), and an endurance of four hours. A night-vision capability is integrated..
+
+Here is Dimensions information for the Ababil-2 Iranian Tactical Unmanned Aerial Vehicle (UAV):
+The Length is 2.88.
+The Width (Wing Span) is 3.25.
+The Height is 0.91.
+The Wing Area is 1.76 m2.
+The Empty Weight is 30.
+The Max Takeoff Weight is 83.
+The Payload Capacity is 40.
+
+Here is Automotive information for the Ababil-2 Iranian Tactical Unmanned Aerial Vehicle (UAV):
+The Engine Name is 1 × WAE-342.
+The Engine Type is Twin-cylinder piston engine.
+The Engine Power is 25.
+The Fuel Capacity is 16 Liters.
+The Maximum Range is 120.
+The Speed, Maximum is 370.
+The Speed, Cruise is 250–305.
+The Endurance is 2.
+The Service Ceiling is 3,000.
+The Propellers is 2-bladed.
+
+Here is Communications information for the Ababil-2 Iranian Tactical Unmanned Aerial Vehicle (UAV):
+The Radio is Data Link.
+The Retrans Radio is INA.
+
+Here is Fire Control information for the Ababil-2 Iranian Tactical Unmanned Aerial Vehicle (UAV):
+The Fire Control System Type is No.
+The Fire Control Radar is No.
+The Radar Type is INA.
+The Laser Rangefinder is INA.
+The Full-Motion Video is INA.
+The Still Camera is INA.
+The Thermal Imaging Sensors is INA.
+The Electro Optical Pod is No.
+The SAR/GMTI is No.
+
+Here is Protection information for the Ababil-2 Iranian Tactical Unmanned Aerial Vehicle (UAV):
+The Fuselage is Cylindrical fuselage.
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The Add on Armor is No.
+The EW is No.
+The EW Counter Measures / CCM is No.
+The Counter Measures (Chaffs/Flares) is No.
+

@@ -1,0 +1,203 @@
+This document describes the Al-Khalid Pakistan Main Battle Tank (MBT).
+
+The Al-Khalid is a main battle tank jointly developed by Pakistan and China during the 1990s, based on the Chinese Type 90-IIM tank.[7] The original prototype was developed by China North Industries Corporation (Norinco) under the name MBT-2000, and Norinco also offered the tank for export. Around 310 Al Khalid MBTs had been produced by 2014. The Bangladesh Army ordered 44 MBT-2000s from China in 2011. The Norinco-made MBT-2000 is also used by the Royal Moroccan Army. It was trialled by the Peruvian Army for possible acquisition, but was not purchased due to financial problems.
+
+Operated by a crew of three and armed with a 125 mm smooth-bore tank gun that is reloaded automatically, the tank uses a fire-control system and night-fighting equipment. Al-Khalid is named after the 7th-century Muslim commander Khalid bin al-Walid (592–642 AD).
+
+The current production variant of the Al-Khalid uses a diesel engine and transmission supplied by the KMDB design bureau of Ukraine. The first production models entered service with the Pakistan Army in 2001. The country placed an order with Ukraine to further upgrade the tanks with a new engine.
+
+Al-Khalid is designed with a 125 mm bore, 48 calibre long smoothbore, auto-frettaged and chrome-plated gun barrel which is manufactured from highly stiff electroslag remelting steel. The gun is then put under stringent quality control process to ensure standard barrel life of 1,100 rounds EFC; barrels that cannot pass this test are rejected. This gun provides very high internal chamber pressures for APFSDS, HEAT FS and guided missiles. The gun can also fire the following types of conventional ammunition: APFSDS, HEAT-FS and HE-FS. The gun is a modified variant of both the ZPT-98 and KBA-3 series of 125 mm smooth bore gun for Al-Khalid MBT which provided compatibility with Ukrainian ATGMs such as Kombat. The gun retains qualities of both Chinese and Ukrainians mated with indigenous design for better and accurate firepower on stationary and moving targets alike. The Gun-launched, laser-guided anti-tank guided missiles can also be launched.
+
+This equipment has proliferated into the following countries: Bangladesh, China, Morocco, Myanmar, Pakistan.
+
+Here is Variants information for the Al-Khalid Pakistan Main Battle Tank (MBT):
+The MBT-2000 is The MBT-2000 was developed in China by NORINCO, where it was known as the Type 90-II and was later marketed for export as the MBT-2000. The MBT-2000 developed and offered for export by NORINCO is believed to have very similar specifications as the Al-Khalid and externally appears almost identical. The MBT-2000 has been exported by NORINCO to Bangladesh. The MBT-2000 has a crew of three, a 125 mm smoothbore gun as a main armament, and an all-welded steel construction with additional layer of composite armour over the frontal arc for protection..
+The VT-1A is Export Version of the MBT-2000. Bangladesh: 44, Morocco: 54, Myanmar: 50.
+
+Here is System information for the Al-Khalid Pakistan Main Battle Tank (MBT):
+The Alternative Designation is MBT-2000, Type 90-11, Al-Khalid.
+The Date of Introduction is 2000.
+The Estimated out of Service Date is 2035-2050.
+The Manufacturer is NORINCO.
+The Proliferation is China: INA, Bangladesh: 44, Morocco: 54, Myanmar: 50. Over 150 total..
+The Type is Main Battle Tank.
+The Status is In Production.
+The Family is INA.
+The Crew is 3.
+The Passenger Capacity is INA.
+The Maximum Effective Range (Road) is 500.
+The Maximum Effective Range (Main Gun) is 5,000.
+The Add on Parts is Yes, Additional Armor.
+
+Here is Dimensions information for the Al-Khalid Pakistan Main Battle Tank (MBT):
+The Length is 10.33.
+The Width is 3.5.
+The Height is 2.4.
+The Weight, Combat is 48.
+The Ground Pressure is INA.
+
+Here is Automotive information for the Al-Khalid Pakistan Main Battle Tank (MBT):
+The Engine Name is Ukrainian 1,200 hp 6TD-2 six cylinder turbocharged multi-fuel diesel engine..
+The Engine Type is Diesel.
+The Engine Power is 1,200.
+The Cruising Range is 500.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is 55.
+The Speed Maximum Swim is INA.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.85.
+The Fording Depth is 1.4.
+The Fording with Preparation is 5.
+The Tench is 2.7.
+The Suspension is Torsion Bar.
+The Hydraulic Shock Absorbers is Yes.
+
+Here is TBR-121 information for the Al-Khalid Pakistan Main Battle Tank (MBT) of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Proliferated is Widely.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the Al-Khalid Pakistan Main Battle Tank (MBT) of the Main Gun:
+The Name is MBT-2000 Main Gun.
+The Type is 125 mm smoothbore gun.
+The Max Rate of Fire is 6-8.
+The Sustain Rate of Fire is INA.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Range Finder Type is Laser.
+The Loader Type is Autoloader.
+The Thermal Jacket is Yes.
+The Fume Extractor is Yes.
+
+Here is Ammunition (Option 1) information for the Al-Khalid Pakistan Main Battle Tank (MBT) of the Main Gun:
+The Type is High Explosives (HE).
+The Purpose is High explosive fragmentation fin stabilised. General purpose rounds, for use against infantry, bunkers and light vehicles and other "soft" targets..
+The Caliber is 125.
+The Muzzle Velocity is 850.
+The Basic Load is 39 in total any combination.
+The Maximum Effective Range is 5,000.
+The Minimum Effective Range is INA.
+The Armor Penetration is Yes.
+The Max Dispersion is 0.23.
+The Tungsten Rods is 450.
+The Charge is A-IX-2 (73% RDX, 23% aluminium powder, phlegmatized with 4% wax) 3.0 kg.
+The Projectile Weight is 23.
+The Fragments is 2,500.
+The Variants is 3VOF22/3OF19, 3VOF36/3OF26, 3VOF128/3OF82.
+
+Here is Ammunition (Option 2) information for the Al-Khalid Pakistan Main Battle Tank (MBT) of the Main Gun:
+The Type is High-Explosive Anti-Tank (HEAT).
+The Name is 3VBK27/3BK31 "Start".
+The Caliber is 125.
+The Muzzle Velocity is 915.
+The Basic Load is 39 in total any combination.
+The Maximum Effective Range is 3,000.
+The Minimum Effective Range is INA.
+The Armor Penetration is Estimated at 800 mm triple charge HEAT.
+The Max Dispersion is INA.
+The Charge is INA.
+The Charge Weight is 1.62.
+The Projectile Weight is 18.4.
+The Variants is 3VBK7/3BK12, 3VBK10/3BK14, 3BK12M, 3BK14M, 3VBK16/3BK18, 3BK18M, 3VBK17/3BK21, 3BK21B, 3VBK21/3BK25, 3VBK25/3BK29 "Breyk", 3VBK25M/3BK29M.
+
+Here is Ammunition (Option 3) information for the Al-Khalid Pakistan Main Battle Tank (MBT) of the Main Gun:
+The Type is Armour-Piercing Fin-Stabilized Discarding Sabot Tracer or APFSDS-T rounds..
+The Name is 3VBM?/3BM69 "Vacuum-1".
+The Caliber is 125.
+The Basic Load is 39 in total any combination.
+The Muzzle Velocity is 2,050.
+The Muzzle Energy is 15-24.
+The Maximum Effective Range is 3,000.
+The Minimum Effective Range is INA.
+The Projectile Dimension is 900.
+The Penetration is 1,000.
+The Projectile Weight is 11.
+The Note is Entered service in 2005[5] Utilising a new sabot. Reported to be uranium alloy. For 2A82/2A82-1M cannon on T-80UM-2/T-14s..
+The Variants is 1.1	3VBM3/3BM9/10 1.2 3VBM6/3BM12/13 1.3 3VBM7/3BM15/16 1.4 3VBM8/3BM17/18 1.5 3VBM9/3BM22/23 1.6 3VBM10/3BM29/30 1.7 3VBM11/3BM26/27 1.8 3VBM13/3BM32/33 1.9 3VBM17/3BM42 (3BM44 "Mango") 1.10	3VBM19/3BM42M (3BM44M "Lekalo") 1.11	3VBM20/3BM46 (3BM48 "Svinets") 1.12 3VBM22/3BM59 (3BM59 "Svinets-1") 1.13	3VBM23/3BM60 (3BM60 "Svinets-2") 1.14	3VBM?/3BM69 "Vacuum-1" 1.15	3VBM?/3BM70 "Vacuum-2".
+
+Here is System information for the Al-Khalid Pakistan Main Battle Tank (MBT) of the Tank Commander's Weapon System:
+The Name is W-85.
+The Type is 12.7mm Anti-Aircraft Machine Gun.
+The Max Rate of Fire is 550-600.
+The Sustain Rate of Fire is INA.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Range Finder Type is Iron/Optical.
+The Feed System is Belt.
+The Operation is Gas Operated, Open Belt.
+The Traverse is 360.
+The Elevation Angle is 90.
+
+Here is Ammunition information for the Al-Khalid Pakistan Main Battle Tank (MBT) of the Tank Commander's Weapon System:
+The Type is Type 54 Round.
+The Caliber is 12.7x108.
+The Muzzle Velocity is 850.
+The Basic Load is 750 (50 Round Belts).
+The Effective Range is 2.5.
+The Armor Penetration is Yes.
+The Mounted is Co-axially with the 125mm Main Gun.
+
+Here is System information for the Al-Khalid Pakistan Main Battle Tank (MBT) of the Loader's Weapon System:
+The Name is Type 80 Chinese Heavy Machine Gun.
+The Type is 7.62 Coaxial Machine Gun.
+The Manufacturer is NORINCO.
+The Length, Total is 1,192.
+The Length, Barrel is 658.
+The Weight (Gun Only) is 12.6.
+The Weight (With Tripod) is 17.5.
+The Max Rate of Fire is 700-800.
+The Sustain Rate of Fire is INA.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Range Finder Type is Scope.
+The Action is Gas-operated, open bolt.
+The Feed System is Belts in 100/200/250 round boxes.
+The Sights is Open sights. Optical/Night vision scope can be outfitted..
+The Variant 1 is Type 80 - The copy of the PKM GPMG, chambered in 7.62×54mmR.
+The Variant 2 is Type 86 - A machine gun only used for tanks as a secondary weapon..
+The Variant 3 is CF06 - An export-only version of the Type 80, which is chambered for 7.62 NATO ammunition..
+The Variant 4 (Foreign to China) is BD-14 - A variant of the Type 80 made by Bangladesh Ordnance Factories under license which uses 7.62×51mm NATO instead of 7.62×54mmR.
+
+Here is Ammunition information for the Al-Khalid Pakistan Main Battle Tank (MBT) of the Loader's Weapon System:
+The Type is Rifle.
+The Caliber is 7.62x54.
+The Muzzle Velocity is 840.
+The Basic Load is 4,000.
+The Effective Range is 100-1,500 (With Sight Adjustments).
+The Armor Penetration is Yes.
+
+Here is Fire Control information for the Al-Khalid Pakistan Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is Yes, Image Stablished FCS.
+The Ballistic Computer is Yes.
+The Thermal Sight Tank Commander is Yes.
+The Two-Axis Panoramix Sight (Commander) is Yes.
+The Commander's sight Magnication is x6 with a 10 deg FOV.
+The Thermal Sight Gunner is Yes.
+The Two-Axis Stabilised Fixed Roof-Mounted Sight (Gunner) is Yes.
+The Gunner's Sight Magnification is x3 with a 20 percent FOV and x10 with a 6 deg FOV..
+The Main Gun Stabilization is Yes.
+The Auto-Tracking Function is Yes.
+The Image-Stabilized Gunner Sight is Yes.
+The Fire Control Computer and Sensors is Yes.
+The Laser Rangfinder is Yes.
+The Automatic Target Tracker (ATT) is Yes.
+The Thermal Imager Module is Yes.
+The Roof Mounted Crosswind/Angular Velocity Sensor is Yes.
+
+Here is Protection information for the Al-Khalid Pakistan Main Battle Tank (MBT):
+The Hull Armor is all-welded steel, Protects from small arms fire and shell splintering.
+The Turret Armor is all-welded steel, Protects from small arms fire and shell splintering.
+The Applique Armor is Yes, Modular Armor.
+The Explosive Reactive Armor is Yes, added to the Glacis Plate, Sides, forward roof, and Vehicle Nose.
+The Active Protection System is Yes.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes.
+The Smoke Equipment is Available.
+The IR Reflective Paint is yes.
+The Anti-Neutron Liner is Yes.
+

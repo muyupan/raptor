@@ -1,0 +1,46 @@
+This document describes the PKTM Russian 7.62mm General-Purpose Machine Gun.
+
+The 7.62mm Kalashnikov modernized PKTM tank machine gun is an automatic weapon designed to engage enemy manpower and fire weapons.
+
+The machine gun is designed to equip tanks, armored vehicles, helicopters, armored boats and other war materiel.
+
+The PKTM can fire cartridges with conventional, armor-piercing incendiary, tracer and enhanced penetration bullets. Ammunition is fed from a metal belt stowed in a cartridge box.
+
+This equipment has proliferated into the following countries: Kazakhstan, Kyrgyzstan, Russian Federation, Tajikistan, Turkmenistan, Uzbekistan.
+
+Here is Variants information for the PKTM Russian 7.62mm General-Purpose Machine Gun:
+The PKS is For heavier employment, the PKS ("PK Mounted") is based on the Samozhenkov 6T2 tripod mount. The PK and 6T2 tripod weigh 16.5 kg (36.38 lb)..
+The PKM is INA.
+The PKMN is The PKMN (ПКМ Ночной: "PKM Night-Vision") is a variant that can mount a night sight for low-visibility operations. The PKMN-1 can thus mount the multi-model NSPU-3 (1PN51) night vision scope while the PKMN-2 can mount the multi-model NSPUM (1PN58) night vision scope. It can also be fitted with the 1PN93 series passive night sights..
+The PKMS is For heavier employment, the PKMS (ПКМ Станковый: "PKM Mounted") is mounted on the Stepanov 6T5 tripod mount. The PKM and 6T5 tripod weigh 12 kg (26.46 lb).
+
+The tripod mount, designed by L. V. Stepanov for the PKM machine gun entered service in 1969 and weighs 4.5 kg (9.92 lb). It is a lighter mount for the PK(M) general-purpose machine gun without affecting the accuracy of fire. Besides, the Stepanov mount has 20 fewer components than the preceding Samozhenkov tripod and is 40% less labour-intensive. The Stepanov mount is based on a principle of multi-functional components: the elevation mechanism frame is also used as a pole for kneeled shooting or anti-aircraft fire; the base sleeve also serves as the axis for attaching rear legs of the tripod: the machine gun attachment is combined with the elevation mechanism frame lock for anti-aircraft fire; the fine elevation adjustment mechanism is integrated with the elevation mechanism axis. The ammunition belt box can be secured to the right rear tripod leg. This enables one crew member to carry and operate the gun in combat without having to unload the gun before repositioning the gun..
+The PKMSN is The PKMSN (ПКМС Ночной: "PKMS Night-Vision") is similarly to the PKMN a special model of the tripod-mounted variant that can mount night sights for low-visibility operations..
+The PKT is The PKT (ПК Танковый, "PK Tank") (1968) is a solenoid-fired coaxial version of PK to replace the SGMT Goryunov vehicle-mounted machine gun. Modifications include the removal of the stock, a longer and heavier barrel, a gas regulator and an electric solenoid trigger. The PKT is usually fed from 250-round ammunition boxes. The PKT barrel assembly weighs 3.23 kg (7.1 lb) and can fire up to 500 rounds in rapid fire scenarios before it has to be replaced for another barrel or allowed to cool down to prevent unacceptable wear of the bore..
+The PKMT is Modernized version of PKT..
+The PKB is Version on which a set of spade grips replace the stock, for mounting on roofs of vehicles..
+The PKBM is Modernized version of PKB..
+The PKP Pecheneg is The PKP Pecheneg (6P41) (2001) is a further development and modification of the PKM. It has a heavy fixed barrel encased in a radial cooling sleeve that uses forced-air cooling, much like the Lewis Gun of World War I..
+
+Here is PKTM 7.62mm General-Purpose Machine Gun information for the PKTM Russian 7.62mm General-Purpose Machine Gun of the System:
+The Name is PKTM.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Manufacturer is Degtyaryov plant.
+The Length is 1098.
+The Width is 195.
+The Height is 170.
+The Weight is 10.5 kg.
+The Rate of Fire is 700-800 Rounds per minute.
+The Muzzle Velocity is 850 ms.
+The Maximum Firing Range is 4,000 m.
+The Effective Firing Range is 1,500 m.
+The Belt Capacity is 250 Rounds.
+The Sights is Iron sights.
+
+Here is Ammunition information for the PKTM Russian 7.62mm General-Purpose Machine Gun of the System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7,62х54mmR.
+The Basic Load is INA.
+

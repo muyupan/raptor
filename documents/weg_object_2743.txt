@@ -1,0 +1,60 @@
+This document describes the IMR-2M Russian Heavy Combat Engineering Vehicle.
+
+A simplified model of IMR-2 without the mine-clearing system. Entered service in 1987. The purpose of the IMR-2M obstacle-clearing vehicle is to provide for the free movement of troops across. zones of destruction, including areas affected by nuclear attacks. Based on the chassis of the T-72A tank, the vehicle mounts the following equipment: a versatile dozer blade, a telescoping boom furnished with a multipurpose attachment, and a mine dredger, type KMT. The IMR-2M obstacle-clearing vehicle is noted for an 80-fold attenuation of gamma radiation.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation.
+
+Here is Variants information for the IMR-2M Russian Heavy Combat Engineering Vehicle:
+The IMR is First version of combat engineering vehicle built on T-54/55 medium battle tank chassis, powered by a V-55 diesel engine developing 520 hp..
+The IMR-2M1 is Simplified model without the mine-clearing system. Entered service in 1982. Based on T-72A tank hull..
+The IMR-2M2 is Improved version that is better suited for operations in dangerous situations, for example in contaminated areas. It entered service in 1990 and has a modified crane arm with bucket instead off the pincers..
+The IMR-2MA is Latest version with bigger operator's cabin armed with a 12.7 mm machine gun NSV..
+The Klin-1 is Remote controlled IMR-2.
+The IMR-3M is Combat engineering vehicle built on the T-90 main battle tank chassis. The vehicle is 9,320 mm long, 3,500 mm wide and 3,430 mm high and weighs 49.5 t with the KMT-RZ minesweeping device. The IMR-3M is powered by an 840-hp V-84MS multifuel diesel engine, producing a maximum speed of 60 km/h and a range of 500 km. The baseline AEV is fitted with a U-type dozer blade, jib-type crane with an excavator bucket, and minesweeping plow. A chemical, biological, radiological and nuclear [CBRN] reconnaissance device, smokescreen generator, advanced signal suite and automatic fire extinguisher are fitted. The IMR-3M is armed with an NSVT 12.7 mm heavy machine gun [HMG] in a remotely controlled station. Production started in 2016 and is currently ongoing..
+
+Here is Boom Specifications information for the IMR-2M Russian Heavy Combat Engineering Vehicle of the System:
+The Height, Overall is INA.
+The Length, Boom is 8.4 m.
+The Length, Overall is INA.
+The Width, Blade is INA.
+The Width, Overall is INA.
+The Boom Capacity is 2 tons.
+
+Here is Automotive information for the IMR-2M Russian Heavy Combat Engineering Vehicle:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 840.
+The Fording Depth is 1.2.
+The Range, Cruising is 500.
+The Speed is 60.
+The Speed , Average Cross is 8.
+The Speed, Maximum Road is 60.
+The Speed, Maximum Swim is 10.
+The Vertical Step is INA.
+
+Here is Radio information for the IMR-2M Russian Heavy Combat Engineering Vehicle of the Communications:
+The Name is R-173.
+
+Here is Intercom information for the IMR-2M Russian Heavy Combat Engineering Vehicle of the Communications:
+The Name is R-174.
+
+Here is System information for the IMR-2M Russian Heavy Combat Engineering Vehicle of the Main Weapon System:
+The Name is 1 x PKT 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Muzzle Velocity is INA.
+The Range, Maximum Effective, Day is 1,000.
+The Range, Maximum Effective, On the Move is 450.
+The Range, Maximum Effective, Night is 800.
+The Sights is Iron Sights.
+
+Here is Protection information for the IMR-2M Russian Heavy Combat Engineering Vehicle:
+The Active Protection System is INA.
+The Armor, Applique is Available.
+The Armor, Explosive Reactive is No.
+The Armor, Turret Front is INA.
+The NBC Protection is Yes.
+The Protection is Protection from small arms fire and projectile splinters.
+The Smoke Equipment is Yes.
+The Survivability Equipment is INA.
+

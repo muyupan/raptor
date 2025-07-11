@@ -1,0 +1,146 @@
+This document describes the Puma German Infantry Fighting Vehicle (IFV).
+
+The Puma is a German infantry fighting vehicle (Schützenpanzer or short SPz) designed to replace the aging Marder IFVs currently in service with the German Army. Production of the first batch of 350 vehicles began in 2010 and is scheduled for completion by August 2020. A second batch of 210 Pumas has received funding. Mass production began on 6 July 2009. The companies responsible for this project are Krauss-Maffei Wegmann and Rheinmetall Landsysteme, who created a joint venture in the form of Projekt System Management GmbH (PSM). The Puma is one of the world's best-protected IFVs, while still having a high power-to-weight ratio. SAIC offered a derivative of the Puma as its contender in the now cancelled American GCV Infantry Fighting Vehicle program.
+
+The Puma, while externally not very different from existing IFVs, incorporates a number of advances and state-of-the-art technologies. The most obvious of these is the incorporated ability to flexibly mount different armour (see below for details). Another feature is the compact, one-piece crew cabin that enables direct crew interaction ("face-to-face"; like replacing the driver or gunner in case of a medical emergency) and minimizes the protected volume. The cabin is air conditioned, NBC-proof with internal nuclear and chemical sensors and has a fire suppressing system using non-toxic agents. The engine compartment has its own fire extinguishing system. The only compromise of the otherwise nearly cuboid cabin is the driver station, located in a protrusion in front of the gunner, in front of the turret.
+
+One measure to achieve the one-piece cabin is the use of an unmanned, double-asymmetrical turret (see photo): while slightly off-center turrets are common in IFVs, the Puma's turret is on the left-hand side of the vehicle, while the main cannon is mounted on the right side of the turret and thus on the middle axis of the hull when the turret is in the forward position.
+
+The outer hull (minus the turret) is very smooth and low to minimize bullet traps and the general visual signature. The whole combat-ready vehicle in its base configuration will be air transportable in the Airbus A400M tactical airlifter. Its 3+6 persons crew capability is comparable to other vehicles of comparable weight, like the US American M2 Bradley IFV, the same as in the Marder, but smaller than the 3+8 of the CV9030 and CV9035.
+
+This equipment has proliferated into the following countries: Germany.
+
+Here is Variants information for the Puma German Infantry Fighting Vehicle (IFV):
+The Command post vehicle is This variant retains the 30-mm turret. The rear is modified for the command-post role and fitted with additional communications equipment..
+The Driver training vehicle is Eight of the 350 Pumas ordered by the German army will be in the specialized driver training role. They are not fitted with the 30-mm turret..
+
+Here is System information for the Puma German Infantry Fighting Vehicle (IFV):
+The Alternative Designation is Puma.
+The Type is Infantry Fighting Vehicle (IFV).
+The Crew is Infantry Fighting Vehicle (IFV).
+The Passengers is 6.
+
+Here is Dimensions information for the Puma German Infantry Fighting Vehicle (IFV):
+The Length is 7.6 m.
+The Width is 3.9 m.
+The Height is 3.1 m.
+The Track Width is 0.5 m.
+The Ground Clearance is 450mm.
+The Weight, Maximum Load is 43,000 kg.
+The Weight, Air-Transportable is 31,450 kg.
+The Weight, Ground-Transport is 40,700 kg.
+
+Here is Automotive information for the Puma German Infantry Fighting Vehicle (IFV):
+The Engine Name is 1 x MTU 10V 892.
+The Engine Type is 10-cyl high-power density diesel.
+The Engine Power is 1,073 hp (800 kW) at 4,250 rpm.
+The Speed, Forward is 38 mph (70 km/h).
+The Speed, Reverse is 22 mph (40 km/h).
+The Range is 310 mi (500 km).
+The Vertical Obstacle is 2 ft  7 in (0.80 m).
+The Trench is 8 ft  2 in (2.50 m).
+The Fording without Preparation is 3 ft 11 in (1.20 m).
+
+Here is System information for the Puma German Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is Mauser MK30-2.
+The Type is 30 mm Rifled Gun.
+The Quantity is 1 x Mauser MK30-2.
+The Caliber is 30.
+The Length is 3780.
+The Weight is 198.
+The Rate of Fire is 200 rounds per minute.
+The Traverse is 360 deg.
+The Elevation is -10 deg to 45 deg.
+The Range is 9,840 ft (3,000 m).
+The Notes is dual ammunition feeding allows varied
+ alternate shots.
+
+Here is Ammunition information for the Puma German Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is APFSDS-T and KETF (ABM).
+The Caliber is 30.
+The Basic Load is 200 rounds ready to fire, 200 rounds in
+storage.
+
+Here is System information for the Puma German Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is Heckler and Koch MG4 (also known as the HK123).
+The Type is Light machine gun.
+The Manufacturer is Heckler & Koch.
+The Proliferation is Albania: Standard light support weapon of Albanian Land Forces
+ Brazil: Limited use on the Brazilian Army
+ Estonia: Used by ESTSOF.
+ Germany: Standard platoon-level support weapon of the German Army, adopted in 2005.
+ Malaysia: Used by PASKAL special operations force tactical of the Royal Malaysian Navy, adopted in 2006.
+ Portugal
+ Spain: Ordered 1,800–2,000 MG4E machine guns in 2007 with deliveries expected to continue over the next four years. Standard LMG for the Spanish Army, usually fitted with an ACOG sight.
+ Turkey Air Force MAK SF.
+The In Service is 2005-present.
+The Length is 1,030 mm (40.6 in) stock extended / 830 mm (32.7 in) stock folded (MG4, MG4E)
+950 mm (37.4 in) stock extended / 750 mm (29.5 in) stock folded (MG4KE).
+The Barrel Length is 450 mm (17.7 in) (MG4, MG4E) 370 mm (14.6 in) (MG4KE).
+The Width is 90 mm (3.5 in).
+The Height is 250 mm (9.8 in).
+The Weight is 8.15 kg (17.97 lb) (MG4)
+7.90 kg (17.4 lb) (MG4E)
+7.70 kg (17.0 lb) (MG4KE).
+The Action is Gas-operated, rotating bolt.
+The Rate of Fire is 890 (± 60) RPM (MG4)
+775 (± 50) RPM (MG4E, MG4K).
+The Effective Firing Range is Approx. 1,000 m (MG4, MG4E) Approx. 900 m (MG4KE).
+The Feed System is M27 linked disintegrating belt.
+The Sights is Iron sights; MIL-STD-1913 rail provided for optics, German Army models are equipped with telescopic sights with 3× magnification..
+
+Here is Ammunition information for the Puma German Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 5.56.
+The Cartridge is 5.56 x 45mm NATO.
+The Basic Load is 1,000 rounds ready to fire, 1,000 rounds in
+storage.
+
+Here is System information for the Puma German Infantry Fighting Vehicle (IFV) of the Anti-Tank Guided Missile System:
+The Name is Spike.
+The Type is fire-and-forget anti-tank guided missile and anti-personnel missile.
+The Length is 1,200 mm (3 ft 11 in).
+The Diameter is 130 mm (5.1 in).
+The Weight is Spike-ER from helicopter:
+• Missile in canister: 34 kg (74 lb 15 oz)
+• Launcher: 55 kg (121 lb 4 oz)
+• Launcher + 4 missiles: 187 kg (412 lb 4 oz)
+Spike-MR/LR from ground:
+• Missile round: 14 kg (30 lb 14 oz)
+• Command & launch unit (CLU): 5 kg (11 lb 0 oz)
+• Tripod: 2.8 kg (6 lb 3 oz)
+• Battery: 1 kg (2 lb 3 oz)
+• Thermal sight: 4 kg (8 lb 13 oz).
+The Rate of Fire is Ready to launch in 30 seconds, reload in 15 seconds.
+The Effective Firing Range is 200–2,500 m (220–2,730 yd).
+The Sights is 10× optical sight.
+The Warhead is Tandem-charge HEAT warhead.
+The Detonation Mechanism is Piezoelectric trigger.
+The Engine is Solid-propellant rocket.
+The Guided System is Infrared homing – Electro Optical (CCD, Imaging Infrared (IIR) or Dual CCD/IIR), Passive CCD or dual CCD/IIR seeker.
+
+Here is Fire Control information for the Puma German Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Computerized FCS is INA.
+The Main Gun Stabilization is INA.
+The Note #1 is The Puma offers improvements in situational awareness. The fully stabilized 360° periscope (PERI) with six different zoom stages offers a direct glass optic link to either the commander or the gunner. Since this is an optical line, it had to be placed in the turret center, one of the reasons why the main cannon is mounted off-center on the turret. Via an additional CCD camera the picture from this line can also be fed into the on-board computer network and displayed on all electronic displays within the vehicle. Besides that, the periscope offers an optronic thermal vision mode and a wide-angle camera with three zoom stages to assist the driver, as well as a laser range finder. The whole array is hunter-killer capable; the commander also has 5 vision blocks.
+
+The gunner optics, which can be completely protected with a slide hatch, are mounted coaxially to the main gun. The gunner has a thermal vision camera and laser range finder (identical to those on the PERI) and an optronic day sight, rounded off with a vision- and a glass block. The driver has three of them, as well as an image intensifier and one display for optronic image feeds. Even the passenger cabin has a hatch and three vision blocks on the rear right side of the vehicle, one of them in a rotary mount. The rear cabin also has two electronic displays.
+All in all, the Puma has an additional five external cameras at its rear in swing-mounts for protection while not in use. Apart from the glass optic periscope view directly accessible only by the commander and gunner (but indirectly via the CCD camera), all optronic picture feeds can be displayed on every electronic display within the vehicle. The provisions for the rear cabin enable the passengers to be more active than previously in assisting the vehicle crew either directly through the vision blocks and hatches, or by observing one or more optronic feeds. The whole crew has access to the on board intercom..
+The Note #2 is The gunner's control unit enables him to optimize the type of ammunition for a particular target. Options include tanks, armored infantry fighting vehicle, armored personnel carrier, helicopter, line of skirmishers, soldiers in a covered position and a squad column..
+
+Here is Protection information for the Puma German Infantry Fighting Vehicle (IFV):
+The Hull Armor is The Puma incorporates protection against mines to NATO Standard Agreement (STANAG) 4569 requirements, shaped charges and kinetic energy ammunition as well as nuclear, biological and chemical weapons. The vehicle features passive, reactive and active armor elements.
+
+The hull is of all-welded steel armor with applique passive armor for higher levels of ballistic protection.
+
+The Puma has two levels of protection. It is air-transportable at protection level A, which includes full mine protection and ballistic protection from machine guns up to 14.5-mm in caliber through 360 degrees. Add-on armor brings the Puma to protection level C. This defends against hand-held anti-tank weapons, medium-caliber weapons, artillery fragments and bomblets. Mine protection is effective against heavy blast mines and explosively formed projectiles (EFP). The belly provides protection against anti-tank mines containing 22 lb (10 kg) of explosive as well as explosively formed penetrators (EFPs)..
+The Turret Armor is The hull and turret roof are protected against bomblets. The rear of the Puma has been strengthened to withstand the impact of another vehicle in case of collision..
+The Applique Armor is The modular passive armor package allows the vehicle to be rapidly upgraded with new technology or for changing threats..
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

@@ -1,0 +1,38 @@
+This document describes the Bittium Tough VoIP Network Extender Finnish Multi-Purpose SHDSL Network Extender.
+
+The Bittium Tough VoIP Network Extender Finish Multi-Purpose SHDSL Network Extender is a multi-purpose field-deployable unit combining network switch and SHDSL modem for tough military conditions. The SHDSL connectivity enables an IP network to be extended over long distances using conventional field wire. The Bittium Tough VoIP Network Extender Finish Multi-Purpose SHDSL Network Extender unit supports Ethernet transport over single or dual SHDSL channels.
+
+This equipment has proliferated into the following countries: Finland.
+
+Here is System information for the Bittium Tough VoIP Network Extender Finnish Multi-Purpose SHDSL Network Extender:
+The Alternative Designation is Bittium Tough VoIP Network Extender.
+The Type is Finish Multi-Purpose SHDSL Network Extender.
+The Manufacturer is Bittium Corporation.
+The Crew is 1.
+The Interfaces is 5 × Ethernet (10/100BaseTX) of which 2 support PoE: 1 port 13 W and 2 ports total 20 W;
+4 x SHDSL channels using one pair connections or 2 SHDSL using two pair connections.
+The SHDSL Modes is STU-C, STU-R, STU-C/R.
+The Network Protocols is IPv4, TCP, UDP, ICMP, ARP.
+The SHDSL Data Rates is 1 pair connection from 192kbps up to 5.69 Mbps (G.shdsl.bis);
+2 pair connection up to 11.38 Mbps (G.shdsl.bis).
+The SHDSL Connection Distance is >10 Km depending on line quality.
+The Management & Control is Web-based management.
+The Operating Temperature is -40°C to +55°C.
+The EMC is MIL-STD-461E.
+The Ingress Protection (IP) is IP65.
+The Power Suply is 115/230 V AC, 50/60 Hz;
+12–24 V DC;
+Battery back-up mode through DC connection.
+
+Here is With Frame information for the Bittium Tough VoIP Network Extender Finnish Multi-Purpose SHDSL Network Extender of the Dimensions:
+The Length is 337 mm.
+The Width is 303 mm.
+The Height is 311 mm.
+The Weight is 7.7 kg.
+
+Here is Without Frame information for the Bittium Tough VoIP Network Extender Finnish Multi-Purpose SHDSL Network Extender of the Dimensions:
+The Length is 249 mm.
+The Width is 178 mm.
+The Height is 200 mm.
+The Weight is INA.
+

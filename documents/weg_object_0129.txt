@@ -1,0 +1,32 @@
+This document describes the PRV-16 (Thin Skin B) Russian Height-Finder Radar.
+
+The PRV-16 (NATO name: THIN SKIN B) is an H-band nodding height-finder radar, generally deployed as part of a ground-controlled interception formation. Both trailer and truck-mounted versions have been observed and its operational role is probably in support of tactical air defense units. In most cases, it will be associated with air search and surveillance radars to provide them with complementary height information on targets detected.
+
+This equipment has proliferated into the following countries: Algeria, Angola, Armenia, Azerbaijan, Bosnia and Herzegovina, Cuba, Czech Republic, Egypt, Ethiopia, Hungary, India, Iran (Islamic Republic of), Kazakhstan, Kyrgyzstan, Libya, Lithuania, Myanmar, North Korea (Democratic People's Republic of Korea), Poland, Russian Federation, Saint Helena, Serbia, Slovakia, Syria, Ukraine.
+
+Here is Variants information for the PRV-16 (Thin Skin B) Russian Height-Finder Radar:
+The PRV-16ML is The PRV-16ML is a C-/X-band (NATO G-/H-/I-band) (5–9 GHz) height-finding radar associated with the Almaz/Antei 2K11 Krug (NATO reporting name SA-4 'Ganef'), the Tikhomirov Instrument Research Institute 2K12 Kub (NATO reporting name SA-6 'Gainful') and the Almaz/Antei 9K33 Osa (NATO reporting name SA-8 'Gecko') surface-to-air missile systems. The PRV-16ML features digital signal processing and solid-state components. The antenna system is equipped with a digital motor drive. Orientation of the primary surveillance radar antenna and its topographic referencing is performed automatically by means of a GPS receiver with two deployed antennas. The contractor claims improved performance and jamming immunity, electromagnetic compatibility, and reduced power consumption..
+
+Here is System information for the PRV-16 (Thin Skin B) Russian Height-Finder Radar:
+The Alternative Designation is PRV-16; Thin Skin B.
+The Type is Height-Finder Radar.
+The In Service is In service with nations that still operate the SA-4 Ganef, SA-6 Gainful and SA-8 Gecko..
+The Crew is 4.
+The Chassis is Normally mounted on a 6x6 shelter vehicle chassis. Type of chassis dependent on country. Has been seen on both the Russian ZIL-157 and German MAN variants. Some older models still in service seen mounted on trailers..
+The Start-up Time is Less than 5-minutes.
+The Band is G-H (5-9 GHz).
+The Maximum Range is 240 km.
+The Pulse Repetition Frequency (PRF) is 400/800 Hz.
+The Pulse Repetition Time (PRT) is 1.6 and 2.5 milliseconds.
+The Average Power is 470 W.
+The Peak Power is 700 kW.
+
+Here is Dimensions information for the PRV-16 (Thin Skin B) Russian Height-Finder Radar:
+The Length (Truck-Mounted) is INA.
+The Width (Truck-Mounted) is 6.9 m.
+The Height (Truck-Mounted) is 3.1 m.
+The Length (Trailer-Mounted) is INA.
+The Width (Trailer-Mounted) is 3.9 m.
+The Height (Trailer-Mounted) is 8.5 m.
+The Weight is INA.
+

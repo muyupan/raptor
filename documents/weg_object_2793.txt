@@ -1,0 +1,88 @@
+This document describes the Shielder British Mine Laying Vehicle.
+
+The Shielder is a mine laying vehicle. It lays anti-tank mines. This mine laying system is also capable of laying anti-personnel mines,
+
+This equipment has proliferated into the following countries: Malaysia, United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the Shielder British Mine Laying Vehicle:
+The Stormer (FV4333) is Amphibious Armored Personnel Carrier (APC).
+The Stormer HVM is The British Army use Stormer equipped with HVM (Starstreak & Lightweight Multirole Missile) for short range air defence. Under Army 2020, Stormer HVM was to equip three regular and two reserve artillery batteries. The reserve batteries have since all been converted to HVM LML to reduce the training burden..
+The Stormer HVM is Short-range air defense missile system.
+The Shielder is Mine laying vehicle.
+
+Here is System information for the Shielder British Mine Laying Vehicle:
+The Alternative Designation is Shielder.
+The Type is Mine Laying Vehicle.
+The Manufacturer is Alvis Vehicles (now part of BAE Systems Land and Armaments),
+Coventry, West Midlands, U.K..
+The Configuration is Track.
+The Crew is 3 (commander, driver, section commander).
+The Passenger Capacity is INA.
+
+Here is Dimensions information for the Shielder British Mine Laying Vehicle:
+The Length is 5.3 m.
+The Height is 2.2 m.
+The Width is 2.4 m.
+The Ground Clearance is 0.43 m.
+The Combat Weight is 10 tons.
+
+Here is Automotive information for the Shielder British Mine Laying Vehicle:
+The Engine Name is 1 x Perkins T6-3544.
+The Engine Type is liquid-cooled, turbo-charged, in-line
+ 6-cyl diesel.
+The Engine Power is 250 hp at 1,700 rpm.
+The Power-to-Weight Ratio is 19.68 hp/metric ton.
+The Fuel Capacity is 107 gal (405 liters).
+The Transmission is David Brown Gear Systems T300 crossdrive, semi-automatic; 7 forward/
+7 reverse gears.
+The Suspension is torsion bar, 6 dual road wheels, front
+driver, rear idler, 2 return rollers.
+The Road Speed is 80 km/h.
+The Amphibious Track Speed is 7 km/h.
+The Amphibious Propeller Speed is 10 km/h.
+The Range is 650 km.
+The Vertical Obstacle is 0.46 m.
+The Trench is 1.75 m.
+The Fording is 1.00 m.
+The Turning Radius is 2.04 m.
+The Gradient is 60 percent.
+The Side Slope is 35 percent.
+
+Here is Mining System information for the Shielder British Mine Laying Vehicle:
+The Name is US M163 Volcano mine laying system.
+The Type is Mine Laying System.
+The Launch Dispensers is up to 40 dispensers on launcher racks. Each Dispenser contains 6 anti-tank mines..
+The Total Number of Mines is 240.
+The Self-Destruction Mechanism is A dispenser control unit tests and arms the self-destruction mechanism. Mines self-destruct after few hours or days..
+
+Here is System information for the Shielder British Mine Laying Vehicle of the Auxiliary Weapon System:
+The Name is Colt CM901.
+The Type is Assault Rifle.
+The Caliber is 7.62 mm.
+The Manufacturer is Colt's Manufacturing Company.
+The Length is 950 mm (stock extended)
+870 mm (stock retracted).
+The Barrel Length is 410 mm.
+The Weight is 4.3 kg.
+The Action is Gas-operated, rotating bolt (Direct impingement).
+The Rate of Fire is 700–950 Rounds per minute.
+The Effective Firing Range is 700 m.
+The Feed System is 30-round detachable STANAG magazines, or Proprietary box magazines (7.62×51mm NATO),.
+The Sights is Flip-up.
+
+Here is Ammunition information for the Shielder British Mine Laying Vehicle of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is INA.
+
+Here is Protection information for the Shielder British Mine Laying Vehicle:
+The Hull Armor is Aluminum Hull. Protection from small arms fire and shell splinters..
+The Turret Armor is INA.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 2 x 4-barrel smoke dischargers.
+

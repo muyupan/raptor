@@ -1,0 +1,39 @@
+This document describes the Unitree GO1 Pro Chinese Unmanned Ground Vehicle (UGV).
+
+Unitree Go1 series consists of quadruped robots for the research & development of autonomous systems in the fields of robot-human interaction (HRI), SLAM & transportation. Due to the four legs, as well as the 12DOF, this robot can handle a variety of different terrains. The Go1 is Unitree’s latest device and comes with a perfected drive & power management system, which enables a speed (depending on the version) of up to 3.7m/s or 11.88km/h with an operating time of up to 2.5 hours.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Unitree GO1 Pro Chinese Unmanned Ground Vehicle (UGV):
+The Go1 Air is The differences are mainly the processors and sensor systems, the Air and Pro variant works, depending on the model, with one or 3x “4*1.43GHz 128Core 0.5T” processor as well as with 1 or 5 Super Sensor System. Both variants are equipped with 3 ultrasonic sensors..
+The Go1 Pro is The differences are mainly the processors and sensor systems, the Air and Pro variant works, depending on the model, with one or 3x “4*1.43GHz 128Core 0.5T” processor as well as with 1 or 5 Super Sensor System. Both variants are equipped with 3 ultrasonic sensors..
+The Go 1 Edu is The Go 1 Edu variant has up to 3 nano processors, 5x super sensor systems, and 4 ultrasonic sensors..
+
+Here is System information for the Unitree GO1 Pro Chinese Unmanned Ground Vehicle (UGV):
+The Alternate Designation is Unitree GO1 Pro.
+The Type is Robotic Dog Unmanned Ground Vehicle (UGV).
+The Manufacturer is Unitree Robitics.
+The Crew is Unmanned.
+The Controller is 1.
+The Intelligent Side Follow System is Adopt Patented Wireless Vector Positioning and Control Technology
+• Robot dog can walk alongside its owner and not only follow
+• The human-machine interaction is both harmonious and safe.
+The Super Sensory System is • Full View Coverage
+• 5 Sets Fish-Eye Stereo Depth Cameras + AI Post-processing + 3 Sets of Hypersonic Sensors
+• Lens Angle = 150 x 170°.
+The AI is 16 core CPU + GPU (384Core, 1.5TFLOPS).
+The Payload Capacity is 3 kg.
+
+Here is Dimensions information for the Unitree GO1 Pro Chinese Unmanned Ground Vehicle (UGV):
+The Length, Folded is 0.58 m.
+The Width, Folded is 0.29 m.
+The Height, Folded is 0.22 m.
+The Weight is 12 kg.
+
+Here is Automotive information for the Unitree GO1 Pro Chinese Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Maximum Speed is 17 km/h.
+The Endurance is INA.
+

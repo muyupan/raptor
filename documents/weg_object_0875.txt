@@ -1,0 +1,36 @@
+This document describes the Switch Indian Unmanned Aerial Vehicle (UAV).
+
+The Switch Indian Unmanned Aerial Vehicle (UAV) is a first-of-its-kind VTOL and fixed-wing hybrid Unmanned Aerial Vehicle. SWITCH features advanced flight time, higher safety, and simple operation with additional fail-safe redundancies.
+
+It is used for long-duration operations, long-endurance surveillance and security, inspection, and photogrammetry.
+
+This equipment has proliferated into the following countries: India.
+
+Here is System information for the Switch Indian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Switch.
+The Type is Vertical Take-Off and Landing Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Idea Forge Company.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Payload Capacity is Combined Day & Night Payload
+Daylight Payload: 1280 x 720 pixels, 25x Optical Zoom; Thermal Payload: 640 x 480 pixels.
+The Launching System is Vertical Take-Off and Landing.
+The Recovery System is Vertical Take-Off and Landing.
+
+Here is Dimensions information for the Switch Indian Unmanned Aerial Vehicle (UAV):
+The Length is 1.8 m.
+The Width is 2.6 m.
+The Height is INA.
+The Maximum Takeoff Weight is 7 kg.
+
+Here is Automotive information for the Switch Indian Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Vertical Take-Off and Landing.
+The Engine Power is INA.
+The Maximum Speed is INA.
+The Cruising Speed is INA.
+The Service Ceiling is 1,000 m.
+The Control Radius is 15 km.
+The Wind Restistance is 20 km/h.
+The Endurance is 120 min.
+

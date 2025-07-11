@@ -1,0 +1,127 @@
+This document describes the SH-2G(I) Super Seasprite New Zealand Anti-Submarine Helicopter.
+
+The SH-2G(I) Super Seasprite is a light anti-submarine warfare (ASW) helicopter, and is the latest variant in the Kaman SH-2 Seasprite family of helicopters originally manufactured for the US Navy. This variant, originally developed for the Australian navy and since acquired by New Zealand, features an advanced integrated maritime weapon system for anti-submarine warfare, surface warfare, over-the-horizon targeting, surveillance, troop transport, vertical replenishment, search-and-rescue and utility missions. The SH-2G(I) has updated flight-control systems and modern radar, sensor and communication systems. The helicopter is also armed with the AGM-119 Penguin anti-ship missile. SH-2G variants are also exported to several other countries.
+
+This equipment has proliferated into the following countries: Egypt, Malaysia, New Zealand, Peru, Poland.
+
+Here is Variants information for the SH-2G(I) Super Seasprite New Zealand Anti-Submarine Helicopter:
+The YSH-2G is SH-2G prototype..
+The SH-2G Super Seasprite is Anti-submarine warfare helicopter, powered by two 1,723-shp (1,285-kW) General Electric T700-GE-401 turboshaft engines..
+The SH-2G(A) is Export version for Australia, upgraded former US Navy SH-2F. Retired in 2008..
+The SH-2G(E) is Export version for Egypt, upgraded former US Navy SH-2F..
+The SH-2G(M) is Export version for Malaysia..
+The SH-2G(NZ) is Variants for New Zealand and Peru..
+The SH-2G(I) is New designation from the SH-2G(A) for New Zealand. Latest variant in New Zealand defense forces..
+
+Here is System information for the SH-2G(I) Super Seasprite New Zealand Anti-Submarine Helicopter:
+The Alternative Designation is SH-2G(I), SH-2G(A) Super Seasprite or Sea Sprite.
+The Primary Function is Anti-submarine warfare (ASW) helicopter.
+The Manufacturer is Kaman Aircraft.
+The In Service is Baseline SH-2 entered service in 1993. Featured variant in service..
+The Crew is 2 (pilot, navigator) + 1-2 ASW systems operator..
+The Passenger is INA.
+The Blades, Main Rotor is Four-blade main rotor system with a titanium rotor hub and rotor brake..
+The Blades, Tail Rotor is Four-blade anti-torque rotor is mounted at the top of the tail pylon with the rotor plane to port..
+The Number of Engines is 2.
+The Day/Night Capable is Yes, enabled by Automatic Flight Control System.
+The Takeoff or Landing Limitations is INA.
+The All Weather Capable is Yes, due to the Automatic Flight Control System.
+The Number of Hard Points is INA.
+The Stabilizer is Slim, strut-braced horizontal stabilizers are fitted on each side of the pylon near the fuselage; a portion of the pylon trailing edge is cambered to port to aid anti-torque control..
+The Auto-hovering is Yes.
+The Automatic Flight Control System is Yes.
+The Landing Gear is Retractable main landing gear struts have two-wheel units and extend to the sides when lowered, retracting inward and forward into exposed wells; the fixed tail wheel is located well forward of the tail pylon..
+
+Here is Dimensions information for the SH-2G(I) Super Seasprite New Zealand Anti-Submarine Helicopter:
+The Length is 15.9 m.
+The Width is INA.
+The Height is 4.58.
+The Main Rotor Diameter is 13.51.
+The Weight, Empty is 3,497.
+The Weight, Normal Takeoff is 4,717.
+The Weight, Maximum Takeoff is 6,305.
+The Weight, Internal Payload is INA.
+The Cabin Length is INA.
+The Cabin Width is INA.
+The Cabin Height is INA.
+The Disc Area is 143 m sq.
+
+Here is Automotive information for the SH-2G(I) Super Seasprite New Zealand Anti-Submarine Helicopter:
+The Engine Name is 2 x General Electric T700-GE-401 turboshaft.
+The Engine Power is 1,690 shaft hp each.
+The Cruising Range is 936 km (w/ 3 x external fuel tanks).
+The Speed, Maximum is 271.
+The Speed, Cruise is 241.
+The Internal Fuel Capacity is 1,045  liters.
+The Ceiling is 6,289.
+The Hovering Ceiling is 4,755.
+
+Here is Fire Control and Avionics information for the SH-2G(I) Super Seasprite New Zealand Anti-Submarine Helicopter:
+The Fire Control System Type is Digital.
+The Digital or Analog Cockpit is MIL-STD-1553B digital databus and multi-function display (MFD).
+The Laser RECCE is Blue-green laser, located in an externally mounted pod on the side of an aircraft, to detect, classify and localize moored and floating anti-ship mines.
+The Sonar is Dipping Sonar system.
+The Doppler Radar is AN/APN-217(V)3 Doppler navigation radar.
+The Position Location System is Yes.
+The Navigation System is Yes, with onboard AN/APN-217(V)3 Doppler navigation radar.
+The Gyroscope is Yes.
+The Radio Compass is Yes.
+The FLIR is Fitted with a modular AAQ-16 FLIR turret.
+The Surface Search is AN/APS-69 (LN-66) surface search radar. Other radars such as Seaspray or APS-143 can also be fitted..
+
+Here is Communications information for the SH-2G(I) Super Seasprite New Zealand Anti-Submarine Helicopter:
+The Radio is Digital HF/VHF/UHF receivers.
+The Data Link is Teledyne AN/ASN-150 two-way advanced tactical data link.
+The Other Receivers is AN/ARR-84 99-channel sonobuoy receiver.
+
+Here is Torpedo information for the SH-2G(I) Super Seasprite New Zealand Anti-Submarine Helicopter of the Armament:
+The Name is MK-50 ASW Torpedo.
+The Type is Lightweight torpedo intended for ASW and surface targets, providing multiple-target active/passive homing combined with wire guidance..
+The Length is 2.90 m.
+The Diameter is 324 mm.
+The Weight is 360 kg.
+The Propulsion is Garret Pneumatic Systems Stored Chemical Energy Propulsion System (SCEPS) using a closed cycle steam turbine driving a pump jet.
+The Speed is 50 knts.
+The Maximum Depth is 600 m.
+The Warhead is Conventional warhead; a directed-energy.
+The Warhead Weight is 45 kg.
+The Guidance System is Active and passive acoustic homing.
+
+Here is Missile information for the SH-2G(I) Super Seasprite New Zealand Anti-Submarine Helicopter of the Armament:
+The Name is AGM-119 "Penguin II"  Mod 7 anti-ship missile.
+The Length is 2.96 m.
+The Weight is 385 kg.
+The Wingspan (Folded) is 0.76 m.
+The Wingspan (Unfolded) is 1.42 m.
+The Propulsion is Dual-chamber solid propellant boost/sustainer rocket.
+The Speed is Mach 0.8.
+The Range is 34 km.
+The Warhead is Bullpup Mk 19 SAP.
+The Guidance is Inertial during initial phase, passive IR in terminal phase with automatic search and classification.
+
+Here is Machine Gun information for the SH-2G(I) Super Seasprite New Zealand Anti-Submarine Helicopter of the Armament:
+The Name is FN MAG58.
+The Type is General-purpose machine gun.
+The Quantity is 1.
+The Configuration is Equipped on the right door only for the (Royal New Zealand Navy).
+The Length is 1,263 mm.
+The Weight is 11.8 kg.
+The Cartridge is Cartridge	7.62×51mm (NATO).
+The Action is Gas-operated long-stroke piston, open bolt.
+The Feed System is Non-disintegrating DM1 or disintegrating M13 linked belt.
+The Sights is Folding leaf sight with aperture and notch, front blade.
+The Rate of Fire is 650-1,000 rds/min.
+The Muzzle Velocity is 840 m/sec.
+The Maximum Firing Range is 3,500 m.
+
+Here is Protection information for the SH-2G(I) Super Seasprite New Zealand Anti-Submarine Helicopter:
+The Cockpit Glass is Unspecified ballistic protection.
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW is ALR-66(V) or LN-100 ESM plus laser warning receivers.
+The EW Counter Measures is Onboard ALQ-144 IR countermeasures.
+The Counter Measures (Chaff/Flares) is Onboard ALE-39 chaff/flare countermeasures dispenser.
+The Missile Warning is Features the Loral AN/AAR-47 electro-optical missile warning system.
+

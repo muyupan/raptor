@@ -1,0 +1,53 @@
+This document describes the Type 704 Chinese Counter-Battery Radar System.
+
+The Type 704 is a counter-battery radar designed to accurately locate the hostile artillery, rocket and ground-to-ground missile launcher immediately after the firing of enemy, and support friendly artillery by providing guidance of counter fire. Built by NORINCO, it was first displayed publicly in 1988's ASIADEX defence show.
+
+Type 704 radar shares the same root as its larger cousin, the SLC-2 Radar: four AN/TPQ-37 Firefinder radar have been sold to China and this had become the foundation of SLC-2 radar development. Aside from political reasons, the US$10 million plus unit price tag of TPQ-37 (including after sale logistic support) was simply too costly for Chinese. Decision was made to develop a domestic equivalent after mastering the technologies of TPQ-37. After the initial test of TPQ-37 in Tangshan (汤山) Range near Nanjing in 1988, and in Xuanhua District in October of the same year, several shortcomings of TPQ-37 were discovered and further intensive tests were conducted and completed in 1994.
+
+The requirement of the Chinese domestic equivalent was subsequently modified to address these issues revealed in trials. Due to the limitation of the Chinese industrial capability at the time, decision was made to develop the Chinese domestic equivalent in several steps. The first step was to develop a smaller one, which would result in the Chinese equivalent of AN/TPQ-36 Firefinder radar, Type 704 series radar, and based on the experience gained from this program, a more capable larger version in the same class of AN/TPQ-37 Firefinder radar would be developed, which eventually resulted in SLC-2 series.
+
+Type 704 is the first of the Type 704 series of counter-battery radars. Developmental work of Type 704 begun in parallel with the introduction of AN/TPQ-37 radar into Chinese service, and the reported experience gained on the Chinese reverse engineering of TPQ-37 has influenced Type 704 radar.
+
+One problem revealed in the tests was that the reliability of TPQ-37 is much lower than what was claimed. The reason was that when TPQ-37 was deployed in environments with high humidity and high level of rainfall (southern China), high salinity (coastal regions), high altitude (southwestern China), and subjected to daily high temperature differences (northwestern China), malfunctions occurs more frequently. Type 704 radar was designed specifically to improve the reliability against these harsh environmental factors.
+
+This equipment has proliferated into the following countries: Bangladesh, China, Kuwait, Saudi Arabia, Zimbabwe.
+
+Here is Variants information for the Type 704 Chinese Counter-Battery Radar System:
+The Type 704 radar is Type 704 is the first of the Type 704 series of counter-battery radars. Developmental work of Type 704 begun in parallel with the introduction of AN/TPQ-37 radar into Chinese service, and the reported experience gained on the Chinese reverse engineering of TPQ-37 has influenced Type 704 radar.
+
+One problem revealed in the tests was that the reliability of TPQ-37 is much lower than what was claimed. The reason was that when TPQ-37 was deployed in environments with high humidity and high level of rainfall (southern China), high salinity (coastal regions), high altitude (southwestern China), and subjected to daily high temperature differences (northwestern China), malfunctions occurs more frequently. Type 704 radar was designed specifically to improve the reliability against these harsh environmental factors..
+The Type 704A radar is Type 704 is followed by its successor, Type 704A, which is fully solid state, fully digitized version, which further improved reliability and simplified logistics, and thus reduced the operational cost.
+
+One of the limitations of TPQ-37 revealed in tests was that the it was less effective against projectiles with flat trajectory, so it is much more effective against howitzer and mortar rounds than rounds from 130 mm towed field gun M1954 (M-46) and its Chinese derivative Type 59-1. Type 704A radar is designed to overcome this shortcoming by improving the capability against rounds with flat trajectory..
+The BL904 radar is A further improved variant based on Type 704A designated as BL904 has also been introduced. This latest version of Type 704 radar family reportedly utilizes the more advanced lens arrangement for its planar passive phased array antenna, instead of earlier simple horn arranged used in earlier versions. Unconfirmed Chinese claims also concludes that the BL904 radar also incorporate former-USSR counter-battery radar Zoopark-1 radar, two of which was purchased by China from Ukraine, but such claim has yet to be verified by official sources and sources outside China..
+The CS/RB1 radar is At the 9th Zhuhai Airshow held in November 2012, a new, lightweight, counter battery radar designated as CS/RB1 made its public debut.[1] Like Type 704 and BL904 radars, CS/RB1 is also designed primarily for detecting incoming projectiles down to the size of mortar round, though larger objects can be tracked as well. CS/RB1 is designed to be a lightweight version of Type 704/BL904 to be carried by individual soldiers (when systems are breaking down into portions). CS/RB1 radar operates is a passive phased radar operates in L-band, and it is fully solid state, highly digitized, conformal array in cylindrical shape., and it can be airdropped..
+
+Here is System information for the Type 704 Chinese Counter-Battery Radar System:
+The Alternative Designation is Type 704.
+The Type is Counter-Battery Radar System.
+The Crew is 3 (driver, radar operator, power
+                                    supply operator).
+The Chassis is INA.
+The Package is The system consists of an antenna-transceiver vehicle and a command-operations vehicle..
+The Band is I-J (8-20 GHz).
+The Range, 81mm Mortar is 12.00 km.
+The Range, 120mm Mortar is 15.00 km.
+The Range, 155mm Howitzer is 16.00 km.
+The Accuracy, Flat Trajectory Gun is 40 m.
+The Accuracy, Mortar is 30 m.
+The Accuracy, Registration Fire is 40 m.
+The Accuracy, Rocket Launcher is 60 m.
+The Power Supply is 60 kW est (AN/TPQ-37).
+The Scan Sector, Beam Width is 6 deg (107 mils).
+The Scan Sector, Rotation is -0.5 to +90 deg (-9 to +1,600 mils).
+The Scan Sector, Tilt Angle is -0.5 to +27 deg (-9 to +480 mils).
+The Stored Targets is 99 est (AN/TPQ-37).
+The Simultaneous Tracks is 8.
+
+Here is Dimensions information for the Type 704 Chinese Counter-Battery Radar System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Antenna-Transceiver Vehicle is 3,820 kg.
+The Weight, Command-Operations Vehicle is 3,920 kg.
+

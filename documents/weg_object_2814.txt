@@ -1,0 +1,52 @@
+This document describes the UMZ Russian 6x6 Scatterable Minelaying System.
+
+The UMZ has been disclosed as the likely replacement for the GMZ-series. The UMZ consists of three launchers mounted on each side of the vehicle for a total of six mine launchers per vehicle. each full turn launcher is hexagonally shaped and contains 30 launch tubes totaling 180. It can fire the mines to one or both sides, or to the rear. Both AP and AT mines are launched from the 140-mm launch tubes.  The UMZ uses the same mine canisters as the PKM system. Depending on the position of the launch tubes, one-, two-, or three-lane minefields can be laid. Minefield (m): Length: 1,000 to 1,200. Depth (m): 30 to 120. Max length of a minefield with one basic load (m): AP, PFM-1s: 3,200. AP, POM-2: 5,000. AT, PTM-3: 600. Mine capacity: from 180 to 11,520 depending on the type of mine number of mines in one basic load: AP PFM-1s: 11,520. AP POM-2: 720. AT PTM-3: 180. Variants: although primarily mounted on the ZIL-131B, the UMZ minelaying system has been observed mounted on several different carriers such as a modified MT-Blue chassis or on a PT-S tracked amphibious personnel carrier and most recently on the KamAZ-63501 in the UMZ-K Variant.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the UMZ Russian 6x6 Scatterable Minelaying System:
+The UMZ-G is The UMZ-G (multipurpose tracked minelayer vehicle) is based on main battle tank chassis T-72 or T-90, but the layout of the vehicle is very different as a standard main battle tank. There is no glacis, the hull is rectangular with a crew of two, driver located at the front left side and one operator at the right.
+
+In the middle, the top part of the UMZ-G is fitted with three rows of three multiple payload rotary launchers, each with 30 dispensers able to launch anti-personnel, anti-paratrooper or anti-tank mines..
+The UMZ-K is Named the UMZ-K, it differs from its predecessor, the UMZ layer, first of all in its wheeled chassis. Unlike the UMZ, which is mounted atop a ZIL-131B cargo truck chassis, the new system is based on that of a KamAZ-63501.
+
+The KamAZ-63501 heavy utility truck is a member of the Mustang family and one of the largest trucks in the KamAZ range. It is entirely conventional in design, a renewed version of the previous 8x8 heavy utility truck with an increased payload capacity of 15,000 kg..
+
+Here is Dimensions information for the UMZ Russian 6x6 Scatterable Minelaying System of the System:
+The Height, Overall  is 2.5.
+The Length, Overall  is 7.1.
+The Width, Overall  is 3.0.
+The Weight, without Mine Load is 8,300 kg.
+The Weight, with Mine Load is 10,000 kg.
+
+Here is Automotive information for the UMZ Russian 6x6 Scatterable Minelaying System:
+The Engine Power  is 150.0.
+The Engine Type is Gasoline.
+The Fording Depth  is 1.4.
+The Range, Cruising  is 525.0.
+The Speed, Maximum Off-Road is 30.0.
+The Speed, Maximum Road  is 80.0.
+The Speed, Maximum Swim  is INA.
+The Speed, Operating Minimum is 10.0.
+The Speed, Operating Maximum is 40.0.
+The Minefield Spacing Depth is 15.0.
+The Speed, Operating Surface Laying  is 40.0.
+
+Here is Radio information for the UMZ Russian 6x6 Scatterable Minelaying System of the Communications:
+The Name is R-168.
+
+Here is Mines information for the UMZ Russian 6x6 Scatterable Minelaying System:
+The Type is AP, PFM-1S; AP, POM-2; AT, PTM-3.
+The Payload Weight  is 15,000.0 kg.
+The Minelaying Pattern is Scattered.
+The Time Required to Load Minelayer  with  One  Basic Mine Load  is 60-90.
+The Time Required to Load Minelayer with Crew only  is INA.
+The Basic Load, PFM-1 Anti-Personnel Mines is 11,520.
+The Basic Load, POM-2 Anti-Personnel Mines is 720.
+The Basic Load, PTM-3 Anti-Tank Mines is 180.
+
+Here is Protection information for the UMZ Russian 6x6 Scatterable Minelaying System:
+The Hull Armor is based on the chassis and armoured hull of the MT-LBu general purpose tracked carrier and command vehicle..
+The NBC Protection is INA.
+The Smoke Screening System is No.
+

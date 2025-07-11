@@ -1,0 +1,38 @@
+This document describes the R-168-5KVE Russian Vehicle-Mounted HF Radio Set.
+
+R-1685-KVE Russian Vehicle-Mounted HF Radio Set is a tactical vehicular HF radio set, providing non-secure and secure (by the voice data masking device or using external CAC (for versions 2 and 3)) radio communication between mobile and stationary platforms.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the R-168-5KVE Russian Vehicle-Mounted HF Radio Set:
+The Note is The R-1685-KVE Russian Vehicle-Mounted HF Radio Set is offered in three versions – version 1, 2, and 3..
+
+Here is System information for the R-168-5KVE Russian Vehicle-Mounted HF Radio Set:
+The Name is R-168-5KVE.
+The Type is Vehicle-Mounted HF Radio Set.
+The Manufacturer is Sarapul Radioplant OJSC.
+The Antenna Type is ASh-4 antenna; Dipole antenna; NVIS loop antenna.
+The Frequency Range is 1.5…29.999 MHz.
+The Frequency Spacing is 100 Hz.
+The Operating Modes is Fixed single-frequency simplex; Fixed double-frequency simplex.
+The Operational Range, Static Position and Motion (Ash-4 Antenna) Version 1 is 15–35 km.
+The Operational Range, Static Position and Motion (Ash-4 Antenna) Version 2 is 25–60 km.
+The Operational Range, Static Position (Dipole Antenna on Mast) Version 1 is 300 km.
+The Operational Range, Static Position (Dipole Antenna on Mast) Version 2 is 350 km.
+The Operational Range, Static Position and Motion (NVIS Loop Antenna) is 350 Km (only for version 2).
+The Present Channels is 8.
+The Data Rate, Version 1 is 1.2, 2.4 Kbps (using R-168 UPS-2 modem).
+The Data Rate, Version 2 is 1.2, 2.4, 4.8 Kbps (using built-in modem).
+The Data Rate, Version 2 and 3 is 10 Mbps (via Ethernet between radio station & ICSCE).
+The Interface is RS-232; Ethernet.
+The Modulation is Single sideband (SSB) modulation; Amplitude Modulation (AM); Frequency Modulation (FM).
+The Control is Through built-in control panel; Through remote control panel (for version 1); From external computer via RS-232 interface and via Ethernet through LAN interface from inter-communications, switching and control equipment (ICSCE) (for version 1 – using R-168 UPS-2 modem only via RS-232).
+The Mean TIme Between Failures (MTBF) is no less than 3,000 hours.
+The Operating Temperature is -50° to 60° C.
+
+Here is Dimensions information for the R-168-5KVE Russian Vehicle-Mounted HF Radio Set:
+The Length is 410 mm.
+The Width is 300 mm.
+The Height is 285 mm.
+The Weight is 33.3 kg.
+

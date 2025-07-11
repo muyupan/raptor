@@ -1,0 +1,75 @@
+This document describes the BRDM-1 Russian 4x4 Amphibious Armored Scout Car.
+
+The BRDM-1 four-wheel-drive amphibious scout car first appeared in the spring of 1959 and rapidly became the standard light-wheeled reconnaissance vehicle in most of the Warsaw Pact armies. It was replaced by the newer BRDM-2 and the Hungarian FUG scout cars. Resembling a cross between the GAZ-46 (MAY) amphibious jeep and the BTR-40 armored personnel carrier, the BRDM combines amphibious features with a full armored cover. Cross-country ability is heightened by the use of a centralized tire pressure regulation system and through the use of two sets of small belly wheels which can be lowered to add flotation and assist in crossing gaps.
+
+The BRDM-1 reconnaissance 4X4 vehicle was built in a number of variants, including the BRDM-1Rkh NBC Reconnaissance Armoured car and the BRDM-1U wheeled armored command vehicle. Four versions of the BRDM are in existence: the basic BRDM reconnaissance vehicle; the BRDM-rkh radiological-chemical reconnaissance vehicle with marking-flag dispensing devices; the BRDM-U command vehicle distinguishable only by extra radio antennas; and three different antitank guided missile carriers for AT-1 SNAPPER, AT-2 SWATTER, and AT-3 SAGGER antitank missiles. All versions of the BRDM are propelled in the water by a single water jet. Recognition of the BRDM-rkh is facilitated by the presence of two canvas box-shaped devices mounted outboard on the rear deck. These are the marking-flag dispensers.
+
+This equipment has proliferated into the following countries: Afghanistan, Bulgaria, Congo, Cuba, Eritrea, Guinea, Mozambique, Russian Federation, South Korea (Republic of Korea), Sudan, Turkmenistan, Ukraine, Viet Nam, Zambia.
+
+Here is Variants information for the BRDM-1 Russian 4x4 Amphibious Armored Scout Car:
+The BRDM-1 Model 1957 is Open-topped crew compartment..
+The BRDM-1 Model 1958 is Closed-top crew compartment..
+The BRDM-1 Model 1959 is 1 7.62-mm MG at front roof..
+The BRDM-1 Model 1960 is 3 7.62-mm MGs at front & sides..
+The BRDM-1U is Command vehicle with 4 antennas..
+The BRDM1-RKh is NBC reconnaissance vehicle with lane-marking equipment..
+The 2P27 Tank Destroyer is 2K16 launcher for 3 AT-1 Snapper ATGM missiles..
+The 2P32 Tank Destroyer is 2K8 launcher for 4 AT-2 Swatter ATGM missiles..
+The 2P110 Tank Destroyer is 9K14M launcher for 6 AT-3 Sagger ATGM missiles..
+The SPW-4OP (East Germany) is Unarmed BRDM-1..
+The SPW-40PA (East Germany) is Armed BRDM-1..
+The 9P111 (East Germany) is 9P110 Tank Destroyer..
+The FUG (Hungary) is Hungarian designation for BRDM-1..
+
+Here is System information for the BRDM-1 Russian 4x4 Amphibious Armored Scout Car:
+The Alternative Designations is RDM-1 Russian 4x4.
+The Type is Amphibious Armored Scout Car.
+The Configuration is 4x4.
+The Manufacturer is V. K. Rubtsov.
+The Crew is 2 (driver, commander).
+
+Here is Dimensions information for the BRDM-1 Russian 4x4 Amphibious Armored Scout Car:
+The Length is 5.7.
+The Width is 2.25.
+The Height is 2.9.
+The Weight is 5.63.
+
+Here is Automotive information for the BRDM-1 Russian 4x4 Amphibious Armored Scout Car:
+The Engine Name is GAZ-40PB.
+The Engine Type is 6-cylinder in-line gasoline.
+The Engine Power is 90.
+The Speed, Maximum Road is 90.
+The Speed, Maximum Water is 9.
+The Operational Range, Road is 75.
+The Operational Range, Water is 120.
+The Ground Clearance is 340.
+The Suspension is Leaf springs with hydraulic shock absorbers.
+
+Here is System information for the BRDM-1 Russian 4x4 Amphibious Armored Scout Car of the Main Weapon System:
+The Name is 1 x DShK 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Length is 1,625 mm.
+The Barrel Length is 1,070 mm.
+The Weight is 34 kg.
+The Maximum Effective Range is 2000 m (Day); INA (Night); 1500 m (Anti-aircraft-estimate).
+The Armor penetration is 8mm at 500 m (Est).
+The Muzzle velocity is 800 m/s.
+The Feed System is 50 round belt.
+The Sights is Iron/optical.
+
+Here is Ammunition information for the BRDM-1 Russian 4x4 Amphibious Armored Scout Car of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7×108mm.
+The Basic Load is 1250 Rounds (250 in box, 1000 Ready):.
+
+Here is Protection information for the BRDM-1 Russian 4x4 Amphibious Armored Scout Car:
+The Armor is Welded steel
+10 mm maximum.
+The Applique Armor is Available.
+The Active Protection System is No.
+The Explosive Reactive Armor is No.
+The NBC Equipment is Yes.
+The Smoke Equipment is INA.
+

@@ -1,0 +1,88 @@
+This document describes the Mandau Class Indonesian Fast Attack Craft.
+
+The Mandau-class is a class of four missile-armed fast attack craft operated by the Indonesian Navy. They were built by the Korea Tacoma shipyard from 1977 to 1980.
+
+In 1975, Indonesia placed an order with the South Korean shipbuilder, Korea Tacoma International, for 4 PSK Mark 5 missile armed fast attack craft. The design was based on Korea Tacoma's PSSM patrol boat built for the Republic of Korea Navy, which in turn was based on the Asheville-class gunboat built for the US Navy.
+
+The ships are 53.58 m (175 ft 9 in) long, with a beam of 8.00 m (26 ft 3 in) and a draught of 1.63 m (5 ft 4 in). Displacement is 250 long tons (250 t) standard and 290 long tons (290 t) full load. The ships's machinery is arranged in a 2-shaft, Combined Diesel or Gas (CODOG) layout, with a single General Electric-Fiat LM2500 gas turbine rated at 25,000 shp (19,000 kW) powering the ship at high speeds, with two MTU 12V331 TC81 diesel engines rated at 1,120 bhp (840 kW) each, power the ship at lower speeds. Maximum speed is 41 kn (47 mph; 76 km/h) using the gas turbine, and 17 kn (20 mph; 31 km/h) using the diesels. Range is 2,500 nmi (2,900 mi; 4,600 km) at 17 kn (20 mph; 31 km/h).
+
+The ships are fitted with a single Bofors 57 mm SAK-57 Mk I gun forward, with a Bofors 40 mm L/70 gun aft, with two Rheinmetall 20 mm cannon providing close-in defence. Four mm 38 Exocet anti-ship missiles can be carried. The ships have a crew of 7 officers and 36 other ranks.
+
+A Racal Decca 1226 I-band surface search radar is fitted, while fire control is by a Signaal WM 28 fire control radar and a Selenia NA-18 optronic director.
+
+This equipment has proliferated into the following countries: Indonesia.
+
+Here is System information for the Mandau Class Indonesian Fast Attack Craft:
+The Alternative Designation is Mandau Class.
+The Type is Fast Attack Craft.
+The Builder is Tacoma Boatbuilding Company.
+The Crew is 43.
+
+Here is Dimensions information for the Mandau Class Indonesian Fast Attack Craft:
+The Length is 53.7 m.
+The Beam is 8 m.
+The Draft is INA.
+The Displacement, Standard is 250 tons (standard).
+The Displacement, Full Load is 290 tons (Full).
+
+Here is Propulsion System information for the Mandau Class Indonesian Fast Attack Craft:
+The Engine Name is 1 x General Electric-Fiat LM-2500 and 2 x MTU 12V331TC81.
+The Engine Type is Gas Turbine.
+The Engine Power is INA.
+The Maximum Range is 2,600 nmi (4,815 km; 2,992 mi) at 14 knots (26 km/h; 16 mph).
+The Maximum Speed is 41 knots (76 km/h; 47 mph).
+
+Here is Gun Weapon System #1 information for the Mandau Class Indonesian Fast Attack Craft of the Gun Weapon Systems:
+The Name is 1 x Bofors 57 mm L/70 naval artillery gun.
+The Type is Naval Artillery Gun.
+The Caliber is 57.
+The Quantity is 1 x Bofors 57 mm L/70 naval artillery gun.
+The Barrel Length is 3,990 mm.
+The Weight is 14,000 kg.
+The Barrels is Single barrel (progressive RH parabolic twist, 24 grooves).
+The Action is Electronic firing.
+The Elevation is −10°/+78° (40°/s).
+The Traverse is Full 360°:.
+The Rate of Fire is 200 rounds/min.
+The Muzzle Velocity is 1,035 m/s.
+The Maximum Firing Range is 17,000 m.
+The Effective Firing Range is 8,500 m.
+The Feed System is 40 ready rounds, 128 rounds in ready racks in mount.
+The Sights is Gyro-stabilized in local control..
+
+Here is Gun Weapon Systems #1 Ammunition information for the Mandau Class Indonesian Fast Attack Craft of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 57.
+The Shell is 57 × 438 mm.
+The Basic Load is 128 Rounds.
+
+Here is Gun Weapon System #2 information for the Mandau Class Indonesian Fast Attack Craft of the Gun Weapon Systems:
+The Note is 1 x 40 mm/70 caliber Bofors 350AFD.
+
+Here is Missile #1 information for the Mandau Class Indonesian Fast Attack Craft of the Missile Weapon System:
+The Name is 4 x MM38 Exocet SSM.
+The Type is Missile.
+The Length is 5.80 m.
+The Diameter is 348 mm.
+The Weight is 666 kg.
+The Engine is 2 x SNPE double-base Nitramite smokeless solid-propellant rockets; 1 x Epervier booster with 2.4 sec burn; 1 x Eole V sustainer with 200-220 sec burn.
+The Warhead is Hexolite blast fragmentation.
+The Maximum Speed is Mach 0.93.
+The Maximum Range is 50 km.
+The Minimum Range is 4 km.
+The Peak Altitude is 50 m.
+
+Here is Fire Control Systems information for the Mandau Class Indonesian Fast Attack Craft:
+The FCS Name is INA.
+The Computerized FCS is No.
+The Battle Management System is No.
+The ECM Suite is Yes.
+
+Here is Radar Systems information for the Mandau Class Indonesian Fast Attack Craft:
+The Navigation Radar is 1 x Decca AC1229
+WM2.
+
+Here is Protection information for the Mandau Class Indonesian Fast Attack Craft:
+The Countermeasures is INA.
+The NBC Water Washdown System is INA.
+

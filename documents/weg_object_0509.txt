@@ -1,0 +1,98 @@
+This document describes the PHL-81 (Type 81) Chinese 122mm Multiple Rocket Launcher (MRL).
+
+Hezbollah Proliferation. The PHL-81 (Type 81) Chinese 122mm Multiple Rocket Launcher (MRL) is a 40-round 122 mm wheeled multiple rocket launcher (MRL), which can fire unguided 122 mm rockets to a maximum range of 30,000 m with a rapid rate of fire of 40 rounds in 20 seconds. Note Type 81 (old naming system) PHL-81 (new naming system).
+
+This equipment has proliferated into the following countries: Cambodia, Chad, China, French Guiana, Myanmar, Non-State Actors, Sudan.
+
+Here is Dimensions information for the PHL-81 (Type 81) Chinese 122mm Multiple Rocket Launcher (MRL):
+The Length is 7.12 m.
+The Width is 2.5 m.
+The Height is 3.082 m.
+The Weight, Combat is 15,160 kg.
+
+Here is Automotive information for the PHL-81 (Type 81) Chinese 122mm Multiple Rocket Launcher (MRL):
+The Engine Name is INA.
+The Engine Type is Water-cooled diesel engine.
+The Engine Power is INA.
+The Speed, Maximum Road is 70 km/h.
+The Range is 600 km.
+The Amphibious is No.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.8 m.
+The Trench is 0.7 m.
+The Fording is 1.2 m.
+
+Here is Main Weapon System information for the PHL-81 (Type 81) Chinese 122mm Multiple Rocket Launcher (MRL):
+The Type is Multiple Rocket Launcher (MRL).
+The Caliber is 122.
+The Length of Barrel is 3.0 m.
+The Guidance System is None, the Rockets are unguided.
+The Elevation is +55° (978mils)/0° (0mils).
+The Traverse is 172° (3058mils) (102° left, 70° right).
+The Maximum Firing Range is 30,000 m (30.0km).
+The Rate of Fire is 40 rds. in 20 seconds.
+The Reload is Reload of ammunition is a manual process..
+The Reload Time is 600 seconds.
+
+Here is Option #1 information for the PHL-81 (Type 81) Chinese 122mm Multiple Rocket Launcher (MRL) of the Rockets:
+The Type is HE.
+The Length is 2.87 m.
+The Weight is 67 kg.
+The Warhead Weight is 18.3 kg.
+The Maximum Range is 20,000 m.
+The Minimum Range is 9,600 m.
+The Basic Load is 40.
+
+Here is Option #2 information for the PHL-81 (Type 81) Chinese 122mm Multiple Rocket Launcher (MRL) of the Rockets:
+The Type is S-HEI.
+The Length is 2.87 m.
+The Weight is 61 kg.
+The Warhead Weight is 18.3 kg.
+The Maximum Range is 33,000 m.
+The Minimum Range is 12,400 m.
+The Basic Load is 40.
+The Note is Contains HE and steel balls for greater fragmentation effect..
+
+Here is Option #3 information for the PHL-81 (Type 81) Chinese 122mm Multiple Rocket Launcher (MRL) of the Rockets:
+The Type is Cargo.
+The Length is 3.037 m.
+The Weight is 68 kg.
+The Warhead Weight is 28 kg.
+The Maximum Range is 26,000 m.
+The Minimum Range is 13,000 m.
+The Basic Load is 40.
+The Note is Contains 74 bomblets.
+
+Here is Option #4 information for the PHL-81 (Type 81) Chinese 122mm Multiple Rocket Launcher (MRL) of the Rockets:
+The Type is Mine.
+The Length is 2.950 m.
+The Weight is 58 kg.
+The Warhead Weight is 26 kg.
+The Maximum Range is 15,000 m.
+The Minimum Range is 6,000 m.
+The Basic Load is 40.
+The Note is Contains six anti-tank mines.
+
+Here is Option #5 information for the PHL-81 (Type 81) Chinese 122mm Multiple Rocket Launcher (MRL) of the Rockets:
+The Type is Cargo.
+The Length is 3.037 m.
+The Weight is 66 kg.
+The Warhead Weight is 18.3 kg.
+The Maximum Range is 32,000 m.
+The Minimum Range is 15,000 m.
+The Basic Load is 40.
+The Note is Contains 39 bomblets..
+
+Here is Fire Control information for the PHL-81 (Type 81) Chinese 122mm Multiple Rocket Launcher (MRL):
+The Guidance is Rockets have no guidance system..
+
+Here is Protection information for the PHL-81 (Type 81) Chinese 122mm Multiple Rocket Launcher (MRL):
+The Armor is The enclosed steel cab provides limited protection against small arms fire and splinters..
+The Applique Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

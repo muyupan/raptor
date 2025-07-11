@@ -1,0 +1,98 @@
+This document describes the PTZ-89 (Type 89) Chinese 120mm Tank Destroyer.
+
+The PTZ-89 (Type 89) Chinese 120mm Tank Destroyer was a Chinese armored vehicle developed by Norinco for the People’s Liberation Army. The vehicle is developed in the 1980s and entered service in 1988.
+Armed with a 120mm smooth-bore gun, it was intended to combat newer generations of Western and Russian main battle tanks that were equipped with composite armor and 120 and 125mm caliber guns. Despite a successful development process, with the end of the Cold War, it became apparent that the weapon was no longer needed. Production was halted in 1995 after around 100 examples had been built.[3] It had several shortcomings, including thin armor, high maintenance costs, and an unstabilized gun that could not fire on the move and had a relatively short range. It was phased out in favor of anti-tank guided missiles (ATGMs). An official retirement ceremony was held by the 39th Army Group on 3 November 2015
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the PTZ-89 (Type 89) Chinese 120mm Tank Destroyer:
+The Alternative Designation is Type 89; PTZ-89; WA320.
+The Type is Tank Destroyer.
+The Manufacturer is NORINCO.
+The Chassis is Based on the existing chassis of the Type 321 tracked utility chassis.
+The Crew is 5.
+
+Here is Dimensions information for the PTZ-89 (Type 89) Chinese 120mm Tank Destroyer:
+The Length is 6.41.
+The Width is 3.24.
+The Height is 1.47.
+The Weight, Combat is 30,000.
+
+Here is Automotive information for the PTZ-89 (Type 89) Chinese 120mm Tank Destroyer:
+The Engine Name is Deutz Type 12150L.
+The Engine Type is Diesel.
+The Engine Power is 520.
+The Cruising Range is 450.
+The Speed, Maximum Road is 55.
+The Speed, Average Cross is 32.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.70.
+The Fording Depth is 1.3.
+
+Here is System information for the PTZ-89 (Type 89) Chinese 120mm Tank Destroyer of the Main Weapon System:
+The Name is INA.
+The Type is Smoothbore  gun.
+The Caliber is 120 mm.
+The Maximum Rate of Fire is 10.
+The Muzzle Velocity is 1,646.
+The Maximum Elevation is 18.
+The Maximum Depression is -8.
+The Maximum Effective Range is 2,000-2,500 m.
+
+Here is Ammunition information for the PTZ-89 (Type 89) Chinese 120mm Tank Destroyer of the Main Weapon System:
+The Name is 120-II.
+The Type is APFSDS-T.
+The Caliber is 120.
+The Armor Penetration is 600 mm or RHA at 2,000 m.
+The Other rounds carried is HE, HE-FRAG, and HEAT.
+The Basic Load is 30 Rounds.
+
+Here is System information for the PTZ-89 (Type 89) Chinese 120mm Tank Destroyer of the Auxiliary Weapon System:
+The Name is 1 x Type 88.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Sustained Rate of Fire is 100.
+The Maximum Rate of Fire is 600.
+The Maximum Firing Range (Air) is 1,500.
+The Maximum Firing Range (Ground) is 2,000.
+
+Here is Ammunition information for the PTZ-89 (Type 89) Chinese 120mm Tank Destroyer of the Auxiliary Weapon System:
+The Type is AP-I.
+The Caliber is 12.7 x 108.
+The Muzzle Velocity is 850.
+The Basic Load is 300.
+
+Here is System information for the PTZ-89 (Type 89) Chinese 120mm Tank Destroyer of the Auxiliary Weapon System:
+The Name is 1 x Type 80.
+The Type is Coaxial Machine Gun.
+The Caliber is 7.62mm.
+The Maximum Rate of Fire is 800.
+The Rate of Fire is 250.
+
+Here is Ammunition information for the PTZ-89 (Type 89) Chinese 120mm Tank Destroyer of the Auxiliary Weapon System:
+The Caliber is 7.62.
+The Muzzle Velocity is 840.
+The Effective Range is 1,500.
+The Basic Load is 2,000.
+
+Here is Fire Control System information for the PTZ-89 (Type 89) Chinese 120mm Tank Destroyer:
+The Name is TSFCS (tank simplified fire-control system).
+The Computerized FCS is Yes.
+The Main Gun Stabilization is No.
+The Indirect Fire is Yes.  Range - 900m with HEAT.
+The Night Vision is Yes.
+The Laser Range Finder is Yes.
+
+Here is Protection information for the PTZ-89 (Type 89) Chinese 120mm Tank Destroyer:
+The Hull Armor is 50 mm.
+The Turret Armor is 50 mm.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 2 x 4-tube grenade launchers.
+

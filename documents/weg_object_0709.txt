@@ -1,0 +1,38 @@
+This document describes the KAB-500 Series of Russian Fire and Forget Bombs.
+
+The KAB-500Kr, KAB-500-OD, KAB-1500Kr corrected air bombs are fitted with TV/terrain-matching homing heads and various types of warheads. TV homers with target data processing correlation algorithm can "remember" target location and correct bomb's flight trajectory until the impact on the target, thus realizing the "fire and forget" principle. Such homing heads can help defeat low-contrast and masked targets provided that terrain reference points and target coordinates related to them are available.
+
+The Pr-E/F-E/OD-E/K-E are the most perfected example of the caliber of 500 kg, which has no direct relation to their foreign counterparts in the TV seeker, with a correlation algorithm of information processing of the purpose. Theyhave a Betonoboynymi-explosive warhead. Corrected air bombs KAB-500Kr caliber 500 kg is designed to engage a wide range of ground and surface stationary targets, including durable and low-contrast (disguised, whose position is known relative to the surrounding landmark), with the implementation of the "Reset - forget" principle). The guidance system bombs on target - TV-correlation. KAB-500Kr can be used singly and a volley from horizontal flight, dive, or pitching in the daytime (for illuminated targets - and at night), including a plurality of spaced targets in a single attack.
+
+The bomb consists of a housing, a television homing, electric charging fuse, unit control system device, warhead, turbogenerator power source, fuse, steering gear, block-board automation. Television gyrostabilized seeker head with the correlation algorithm of the information processing target includes opto-electronic part mounted on a three-stage gyrostabilized platform and an electronic data processing unit located in a single housing. The front part of the head is closed spherical transparent fairing.
+
+The head provides guidance bombs on target with illumination on the ground 50-100000 lux and contrast targets 0.2. Range capture target type "aircraft parked" at a meteorological visibility range of 10 km - 15-17 km. Suspension bomb on the plane by means of a universal beam holder DB3-U series.
+
+The KAB-500Kr, KAB-500-OD, KAB-1500Kr corrected air bombs make part of weapon systems of such front-line aircraft types as Su-27, Su-30, Su-34, Su24M, MIG-29 and others.
+
+The KAB-500Kr corrected air bomb is designed to engage stationary ground/surface small-sized hardened targets, such as reinforced concrete shelters, runways, railway and highway bridges, military industrial installations, warships, and transport vessels. <
+The KAB-1500Kr corrected air bomb is designed to engage various stationary ground/surface small-sized hardened targets, such as reinforced concrete shelters, military industrial installations, depots, and seaport terminals.
+The delivery set can be completed with the KAB-500Kr-U training bomb used for pilots' mastering combat employment skills for KAB-500Kr, KAB-500-OD and KAB-1500Kr corrected air bombs. The KAB-500Kr-U training bomb parameters are as follows: weight - 85kg, length 1,83m, diameter - 0,35m.
+
+The television channel management KAB-500Kr was developed in parallel with the KAB-500L air bombs. It had a caliber of 500 mm. The bomb was intended to destroy stationary ground targets such as railway bridges, fortifications, communications nodes, and so on. The television guidance system correlation type provide the possibility of defeat and concealed targets. Unlike foreign analogues, such as American bombs AGM-62 Walleye, exciting contrast optical target seeker KAB-500Kr fixed the relative positions of different optical contrast objects. This goal can not stand out from the area, and the bomb will be induced on a design point defined marker. If one believed the advertising magazine article "Military Parade" during the military operation received circular error probability less than three meters.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the KAB-500 Series of Russian Fire and Forget Bombs:
+The KAB-500-OD is Is equipped with a fuel-air explosive warhead..
+The KAB-1500Kr is Based upon the 1500kg class FAB-1500 iron bomb..
+
+Here is Bomb information for the KAB-500 Series of Russian Fire and Forget Bombs of the System:
+The Name is KAB-500Kr.
+The Type is Electro-optical TV-guided fire and forget bomb.
+The Basic Load is INA.
+The Length is 3.05.
+The Diameter is 0.35.
+The Warhead Type is Hardened, armor-piercing warhead.
+The Weight is 520.
+The Warhead Weight is 380.
+The Penetration is Up to 1.5 metres (4 feet 11 inches) of reinforced concrete..
+The Effective Range is The weapon's seeker can lock onto a target at ranges of up to 15 to 17 km (9.3 to 10.6 mi), depending on visibility..
+The Bomb Drop Altitude is 0.5-5.
+The Note is It uses a standard Soviet/Russian FAB-500 general-purpose bomb, with a nominal weight of 500 kg (1,100 lb), as a warhead, adding a low-light television seeker and guidance fins to turn it into a guided, unpowered glide bomb..
+

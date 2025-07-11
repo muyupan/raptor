@@ -1,0 +1,57 @@
+This document describes the PPRU-1 (Dog Ear) Russian Mobile Reconnaissance and Control Post.
+
+The PPRU-1 Dog Ear (with the Russian designation of 9S80) is a Russian ground-based, target-acquisition radar mounted on an MT-LB multi-purpose tracked vehicle or MT-LBu armored command and reconnaissance vehicle (ACRV). It uses an open-mesh, rounded-rectangle parabolic antenna. The radar supplies target alerting information to the SA-13 Gopher (Russian 9K35 Strela-10) surface-to-air missile (SAM) system. Deployment usually involves one system for each air defense battery/battalion. The Dog Ear is in service with SA-13 Gopher SAM batteries. In some cases, upgraded SA-13 systems may have replaced the Dog Ear. Production reportedly began in 1983.
+
+This equipment has proliferated into the following countries: Angola, Azerbaijan, Belarus, Bosnia and Herzegovina, CFE Treaty, Croatia, Cuba, Czech Republic, Georgia, India, Jordan, Kazakhstan, Libya, Macedonia, North Korea (Democratic People's Republic of Korea), Russian Federation, Serbia, Slovakia, Turkmenistan, Ukraine.
+
+Here is Variants information for the PPRU-1 (Dog Ear) Russian Mobile Reconnaissance and Control Post:
+The PPRU-M is The PPRU-M is an improved version of the original PPRU-1 and features the X-Band 9S80M radar system..
+The PPRU-M1 is Improved version of the original PPRU-1. It is thought that they employ the X-Band 9S80M radar. Operates in the same fashion as the original PPRU in control of short range air defense systems..
+The PPRU-M1-2 is The PPRU-1M-2 replaces the analog Dog Ear Radar with the VNIIRT 9S80M1-2 X-band radar..
+
+Here is System information for the PPRU-1 (Dog Ear) Russian Mobile Reconnaissance and Control Post:
+The Alternative Designation is PPRU-1.
+The Type is Air Target Reconnaissance and Control Post.
+The Manufacturer is Yoshkar-Ola Optical and Radar Plant 297, Yoshkar-Ola, Russia.
+The Crew is INA.
+The Chassis is MT-LBu armored command and reconnaissance vehicle (ACRV) or the MTLB (multi-purpose tracked vehicle).
+
+Here is Dimensions (MT-LBu) information for the PPRU-1 (Dog Ear) Russian Mobile Reconnaissance and Control Post:
+The Length is 7.21 m.
+The Width is 2.85 m.
+The Height is 1.905 m.
+The Weight, Combat is 15,550 kg.
+The Ground Pressure is INA.
+
+Here is Automotive (MT-LBu) information for the PPRU-1 (Dog Ear) Russian Mobile Reconnaissance and Control Post:
+The Engine Name is YaMZ-238N.
+The Engine Type is V-8 diesel.
+The Engine Power is 300 hp at 2,100 rpm.
+The Cruising Range is .
+The Speed, Maximum is 61.5 km/h (road)
+30 km/h (off-road).
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 6 km/h.
+The Fording Depth is INA.
+The Suspension is Torsion bar.
+
+Here is Radar System information for the PPRU-1 (Dog Ear) Russian Mobile Reconnaissance and Control Post:
+The Radar Name is 9S80 (Dog Ear).
+The Radar Operating Waveband is Between 3.0 GHz and 6.0 GHz.
+The Maximum Target Acquisition Range is 34 km.
+The Maximum Target Tracking Range is 22 km.
+The Automatic Target Tracking Capability is Approximately 40 targets.
+The Number of Objects Controlled Simultaneously is up to 6.
+The Continous Operation Time is 24 hours.
+The In/Out-of-Action Time is Not more than 5 minutes.
+
+Here is Protection information for the PPRU-1 (Dog Ear) Russian Mobile Reconnaissance and Control Post:
+The Hull Armor is Welded aluminum.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

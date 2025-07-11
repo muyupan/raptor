@@ -1,0 +1,89 @@
+This document describes the Tipchak (1K133) Russian Unmanned Aerial Vehicle (UAV).
+
+The Tipchak 1K133 is a tactical reconnaissance system developed to replace the Kulon Stroi-P.  The platform for the Tipchak is the Rybinsk-based Luch designed 9M62 (BLA-05).  The 9M62 is launched by pneumatic catapult, is powered by a single 12hp Hirth piston engine, has an endurance of up to 4 hours, a maximum take-off weight of 70kg, a top speed of 200km/h, and has an entirely composite structure with a metal frame inside for higher strength and onboard camera protection.  A parachute is used for recovery.
+Primary uses are search, detection, recognition, surface object coordinates determination, area surveillance, and adjustment of fires.
+The Tipchak system consists of a two-part, vehicle-mounted command post, a UAV transport-launch vehicle, a technical maintenance vehicle, and six 9M62 UAVs.  The deployment time in field conditions is 15-20 minutes.  The UAVs operate in pairs.
+Based upon the operations in South Ossetia, the Russian military has complained about the Tipchak's UAVs stating that they are too noisy and those that use rocket-assisted take-off give away their launch site.  There is also concern about the quality of the reconnaissance as the images provided by the FMV were not of tactical value.  A problem with the friend-or-foe system was also reported by the Russian army (Source: TASS-Defense; published May 02, 2017).
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Tipchak (1K133) Russian Unmanned Aerial Vehicle (UAV):
+The Tipchak-M is This is a larger air vehicle with greater range and a 33-lb (15-kg) payload that included a side-looking radar, a color digital camera, and gyrostabilized electro-optic sensor. It did not reach the prototype stage..
+
+Here is System information for the Tipchak (1K133) Russian Unmanned Aerial Vehicle (UAV):
+The Alternative Designation is Tipchak; 1K133; BLA 9M62 (Russian designation); BLA-05 (Russian UAV designation).
+The Type is Medium Altitude, Short Duration Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Design Deaurau Lutch, Russia; Electronics developed by Vega..
+The Primary Function is Reconnaissance and Target Acquisition. The Tipchak can conduct a real-time search, detection, identification, and plotting at a range of up to 25 mi (40 km) from a ground control station..
+The Complete System is The complete system includes a ground control station (GCS), antenna vehicle, operator vehicle, launch vehicle with catapult, maintenance vehicle and up to six piston-engine air vehicles..
+The Operating Vehicle is The operator vehicle system controls telemetry and image data recording, processing and displaying, digital map binding, identification of objects of interest and plotting interaction with management bodies and information users..
+The Launch Vehicle is The launch vehicle stores, transports, conducts pre-flight preparations and pneumatically launches the UAVs..
+The Maintenance Vehicle is A maintenance vehicle prepares UAV recovery and transportation and provides spare parts..
+The Ground Crew is 2.
+The Launch System is Pneumatic catapult.
+The Launch Preparation Time is 20 minutes.
+The Recovery System is Parachute.
+The Automatic Landing and Takeoff Capability is No.
+The Mission Review Time is 30 minutes.
+The Operating Temperature is -40 deg C to +50 deg C.
+The Location Positioning System is GLONASS / NAVSTAR.
+The Day/Night Capable is Yes.
+The All Weather Capable is Yes.
+The Data Transmit Distance is INA.
+The Manned-Unmanned Teaming (MUM-T) Capable is No.
+The Number of Hard Points is 0.
+The Maximum Payload Capacity is 14.5 kg.
+The Electronic/Sensors Payload is Signal intelligence, chemical reconnaissance equipment, visible/infrared high-resolution line-scan camera..
+
+Here is Dimensions information for the Tipchak (1K133) Russian Unmanned Aerial Vehicle (UAV):
+The Length is 2.4 m.
+The Wing Span is 3.4 m.
+The Height is INA.
+The Weight, Maximum Takeoff is 60 kg.
+The Weight, Payload is 14.5 kg.
+
+Here is Automotive information for the Tipchak (1K133) Russian Unmanned Aerial Vehicle (UAV):
+The Engine Name is 1 x Porsche Engine.
+The Engine Type is Piston engine.
+The Engine Power is 13 hp.
+The Maximum Speed is 200 km/h.
+The Maximum Range is 70 km.
+The Maximum Range, from GCS is 350 km.
+The Maximum Altitude is 3,000 m.
+The Minimum Altitude is INA.
+The Endurance is 2 hours.
+
+Here is Communications information for the Tipchak (1K133) Russian Unmanned Aerial Vehicle (UAV):
+The Radio is Digital uplink.
+The Retrans Radio is No.
+
+Here is Armament and Ammunition information for the Tipchak (1K133) Russian Unmanned Aerial Vehicle (UAV):
+The Air to Air Missiles is No.
+The Air to Ground Missiles is No.
+The MIssile Types is NA.
+The Bomb Types is NA.
+The Armament Weight Total is NA.
+The Targeting Capability is Can provide targeting for Iskander missiles at distances up to 350 km..
+
+Here is Fire Control information for the Tipchak (1K133) Russian Unmanned Aerial Vehicle (UAV):
+The Fire Control System is No.
+The Fire Control Radar is No.
+The Laser Rangefinder is Yes.
+The Laser Designator is Yes.
+The Full-Motion Video is Yes.
+The Still Camera is Yes.
+The Thermal Imaging Sensors is Yes.
+The Electro Optical Pod is No.
+The SAR/GMTI is INA.
+The SIGINT is INA.
+The ELINT is INA.
+The Digital Data Link is Yes, primarily used to communicate with artillery units for laser-guided targeting.  Pairings include the 152mm Krasnopol howitzer shell and the Smerch multiple rocket system..
+
+Here is Protection information for the Tipchak (1K133) Russian Unmanned Aerial Vehicle (UAV):
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The Add on Armor is No.
+The EW is INA.
+The EW Counter Measures / CCM is No.
+The Counter Measures (Chaffs/Flares) is No.
+

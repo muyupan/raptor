@@ -1,0 +1,70 @@
+This document describes the M131 American Modular Pack Mine System (MOPMS).
+
+M131 Modular Pack Mine System (MOPMS)
+DESCRIPTION: The MOPMS is a man-portable anti-tank (AT) and anti-personnel (AP) mine system. The M131 module weighs approximately 165 pounds and contains a mix of 17 M78 AT and four M77 AP mines. This module is stored, shipped and emplaced without any modification to the container. The MOPMS module may be initiated by hardwire or radio control. The hardwire capability uses currently available wire and electrical firing devices. The M71 hand-held radio control unit (RCU) allows one individual to control as many as 15 groups of MOPMS modules from a remote location. The AT mine has a magnetic influence fuse and a Miznay-Schardin kill mechanism. The AP mines deploy four tripwires upon ejection which initiate a fragmenting kill mechanism. Both the AP and AT mines contain a radio frequency receiver which allows the mines to be remotely-controlled (recycle self-destruct time and command destruct) with the RCU once the mines are dispensed. The factory set self-destruct time is four hours.
+
+STATUS: MOPMS fielding is in progress. The U.S. Army Engineer School was the first unit equipped on 6 MAR 92.
+
+EMPLOYMENT CONCEPT: The MOPMS will be employed to close lanes and gaps in minefields, at chokepoints, to reinforce obstacles, to emplace point minefields and for protective mining. Infantry, Armor, Engineer and other units with a protective mining mission will employ MOPMS in support of their tactical missions in all areas of the battlefield. If the mines are not dispensed from the MOPMS module, they may be recovered and reused. A M71 remote control unit (RCU) or an electronic initiating device, such as the M34 hand-blasting machine connected to the container by field wire, dispenses mines on command. Once dispensed, mines cannot be recovered or reused. Operators can disarm and recover the container for later use, if mines are not dispensed. The RCU can recycle the 4-hour self-destruct time of the mines three times, for a total duration of 16 hours (4 hours after initial launch and three 4-hour recycles). This feature makes it possible to keep the minefield in place for longer periods, if necessary. The RC can also self-destruct mines on command. It allows a unit to counterattack or withdraw through the minefield, as necessary, rather than wait until the self-destruct time has expired. The RCU can control up to 15 containers or groups of containers via separate pulse-coded frequencies, out to 300 to 1,000 meters. Coded frequencies defeat threat electronic counter-measures directed against the system. The M34 50-cap blasting machine can detonate one MOPMS at a maximum range of 3,000 meters. (Internal resistance decreases the maximum range by 400 meters for each additional MOPMS connected in series.) When controlled by direct wire, MOPMS dispensers cannot be command-detonated, and the self-destruct time cannot be recycled.
+
+BASIS OF ISSUE: MOPMS will be a Class V item of issue and will be issued to those units that are authorized a basic load of mines. It will be substituted for conventional mines currently in a unit's basic load. The M71 RCU will be a TOE item, issued to Engineer Companies (four RCUs each), Armor, Infantry and Cavalry Companies (two RCUs each), and other selected companies with a protective mining mission (one RCU each).
+
+TRAINING/PERSONNEL: U.S. Army Combat and Combat Support Schools will provide training during basic and advanced courses of instruction on MOPMS employment. At the unit level, training will be primarily conducted using the M136 Training Dispenser and M71 RCU.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is Variants information for the M131 American Modular Pack Mine System (MOPMS):
+The M136 is The M136 is an inert dispenser for training use; it is externally similar to the M131, but has a light to indicate the receipt of a firing signal..
+
+Here is System information for the M131 American Modular Pack Mine System (MOPMS):
+The Alternative Designation is M131.
+The Type is Modular Pack Mine System (MOPMS).
+The Manufacturer is Hughes Aircraft Company, Ground Systems Group
+
+Aerojet
+
+Alliant Techsystems Inc was systems integrator with responsibility for the mines.
+The Crew is The MOPMS modules are taken to the operation site by truck and carried by two men to the required position. If unused they can be retrieved and redeployed. The M71 RCU allows one person to control up to 15 groups of MOPMS modules from a remote location..
+The Remote is Modules are fired using an M71 coded Remote-Control Unit (RCU), or by a signal sent through a cable connected to a standard US Army blasting device on the dispenser module..
+The Type of Mines is Each MOPMS unit contains a mixture of Anti-Tank (AT) mines and Anti-Personnel (AP) mines. The mines contain three Large Scale Integrated (LSI) microelectronic chips in the electronics package, which also includes a command destruct/recycle receiver and a sensor circuit..
+The Batteries is ammonium/lithium batteries.
+The AT Mine is The AT mine, like the BLU-91/B 'GATOR' has a Misznay Schardin (MS) warhead on either side, with a clearing charge to remove debris. The magnetic influence fuze gives the mine a full-width attack capability. The AP mine is activated by one of four tripwires ejected from the top surface. These are automatically deployed on landing and, when disturbed, initiate a fragmentation warhead. The mines are supplied with preset self-destruction devices, or can be detonated by remote control..
+The Timers is The built-in timers can be reset to extend the life of the minefield and, if the mines have not been dispensed, the sealed dispenser can be moved intact to a new location..
+The Total Dispensing Tubes is 7.
+The Total Mines is 21 mines total (17 AT, 4 AP).
+The Self Destruct Time is 4 hour self destruct time(SD), recycle up to three times (16 hours). Mines start to SD at 3 hrs, 12 min (80% of SD time); all mines SD by 4 hrs..
+The Mine Projectile Maximum Distance is Mines are propelled 35 meters to the front and sidess.
+The Mission Employment is *Close lane
+
+*Deliberate protective minefield (cases emplaced, not dispensed)
+
+*Nuisance minefield
+
+*Ambushes and booby traps
+
+*Tactical minefield with Fix or Disrupt intents
+
+*In support of MOUT Operations.
+The Emplacement is *Issued as standared Class V munition and drawn from ASP
+
+*Site selection, achieving optimum effect
+
+*Dispensers are arranged in patterns to achieve necessary frontage, depth, and density
+
+*RCU unit can control up to 15 dispensers out to 1 kilometer, can SD all mines on command and recycle the SD time three times
+
+*Recycled mines will start to SD 12 hrs, 48 min; all mines will have SD by 16 hrs
+
+*Mines must be recycled every 3 hrs and 12 min or some will SD before 4 hrs
+
+*Dispensers controlled by blasting machine cannot be recycled mines or command detonated
+
+*Establish trigger points for closing lanes.
+
+Here is Dimensions information for the M131 American Modular Pack Mine System (MOPMS):
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Package is The package fits within 95 cm3.
+The Weight, Combat is 68.
+

@@ -1,0 +1,89 @@
+This document describes the Shahed-129 Iranian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV).
+
+The Shahed-129 is an Iranian single-engine medium-altitude long-endurance unmanned combat aerial vehicle (UCAV) designed by Shahed Aviation Industries for the Islamic Revolutionary Guard Corps (IRGC). The Shahed 129 is capable of combat and reconnaissance missions and has an endurance of 24 hours; it is similar in size, shape, and role to the American MQ-1 Predator and is widely considered the most capable drone in Iranian service. Similar to the MQ-1 Predator.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of), Syria.
+
+Here is Variants information for the Shahed-129 Iranian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Shahed-123 is Original design on which the model-129 is based on..
+The Shahed-129 is Base Series Designation..
+
+Here is System information for the Shahed-129 Iranian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Alternative Designation is Shahed-129, S129.
+The Type of UAV is Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV).
+The Manufacturer is HESA.
+The In Service is 2012-Present.
+The Primary Function is Ground Attack; Intelligence-Surveillance-Reconnaissance (ISR), Scout; Unmanned Capability.
+The Ground Crew is Relies on a ground control station, the drone's reliance on a ground station severely circumscribes its effective range..
+The Range is Though the Shahed-129 airframe is likely capable of its claimed 1700 km combat range, it relies on a ground control station, which Iranian state media say is limited to a 200 km datalink. Independent analysts are more positive, saying the effective range is likely 300–400 km, but are clear that the drone's reliance on a ground station severely circumscribes its effective range. Other experts say the Shahed-129's datalink could likely not reach even 200 km..
+The Day/Night Capable is Yes, a chin-mounted gimbal electro-optic/infrared sensor.
+The All Weather Capable is Yes.
+The Date Transmit Distance is 300-400 km.
+The Location Positioning System is Yes.
+The Number of Hard Points is Two twin hardpoints, for a total of up to four munitions.
+The Manned-Unmanned Teaming (MUM-T) Capable is No.
+The Stabilizers is V-tail vertical stabilizers.
+The Autopilot is Yes.
+The Payload Capacity is 400 kg.
+The Endurance is 24 hours.
+The Launch System is Runway.
+The Recovery System is Runway.
+The Landing Gear is Retractable.
+The Note is Similar to the MQ-1 Predator.
+
+Here is Dimensions information for the Shahed-129 Iranian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Length is 8.0.
+The Width (Wing Span) is 16.0.
+The Height is 3.1.
+The Fuselage is 65–75 cm in diameter, and is fabricated from large panels of composite material with an aluminum alloy superstructure.
+The Weight, is 990.
+The Payload Capacity is 400 kg.
+
+Here is Automotive information for the Shahed-129 Iranian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Engine Name is 1 × Rotax 914.
+The Engine Type is Four cylinder, four stroke aircraft engine.
+The Engine Power is 100 hp.
+The Propellers is 3-bladed.
+The Range is Though the Shahed-129 airframe is likely capable of its claimed 1700 km combat range, it relies on a ground control station, which Iranian state media say is limited to a 200 km datalink. Independent analysts are more positive, saying the effective range is likely 300–400 km, but are clear that the drone's reliance on a ground station severely circumscribes its effective range. Other experts say the Shahed-129's datalink could likely not reach even 200 km..
+The Speed, Maximum is 175 km/h.
+The Speed, Average is 150 km/h.
+The Service Ceiling is 5,485 m - 7,300 m.
+The Endurance is 24 hours.
+
+Here is Armament and Ammunition information for the Shahed-129 Iranian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Name is Sadid-345.
+The Type is Precision-guided glide bomb with a fragmentation warhead..
+The Length is 1,690.
+The Width is 1,520.
+The Weight is 34.
+The Payload Bay is Yes.
+The Warhead Type is glide bomb with a fragmentation.
+The Fin Type is four fixed fins on the body for lift and stability and four deflectable fins on the tail for trajectory control.
+The Maximum Effective Range is 6.
+The Lethal Radius is 30.
+The Detonation Mechanism is Impact fuse.
+The Infrared Seeker is Available.
+The CEP is 2.5.
+The Basic Load is 4.
+
+Here is Fire Control information for the Shahed-129 Iranian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Radar Type is INA.
+The Radar Designator is INA.
+The Laser Rangefinder is Yes.
+The Laser Designator is INA.
+The Full-Motion Video is Real-time video data link.
+The Still Camera is Yes.
+The Thermal Imaging Sensors is Oghab-6 electro-optical/infrared sensor.
+The Electro Optical Pod is Yes.
+
+Here is Protection information for the Shahed-129 Iranian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Fuselage is INA.
+The Stealth Properties is INA.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The EW is INA.
+The EW Counter Measures / CCM is INA.
+The Counter Measures (Chaffs/Flares) is INA.
+

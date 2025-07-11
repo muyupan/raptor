@@ -1,0 +1,30 @@
+This document describes the RFT-2 Chinese Remote Initiation System.
+
+The RFT-2 remote initiation system is a widely proliferated Remote Control Firing Device (RCFD) used primarily by non-state actors, criminal organizations, and terrorists that use the Improvised Explosive Device (IED) tactics. According to the NATO Counter-IED (C-IED) community of interest, the Remote FOB (finger-operated button) Trigger-Type 2 (RFT-2) is the designation given to the most prolific RCFD worldwide. This RCFD is a commercial off-the-shelf (COTS) device is comprised of an electronically paired transmitter and a receiver with printed circuit boards (PCB). When the user depresses a button on the transmitter, it sends a signal to the receiver. The signal is received, decoded, and verified by the RFT-2 device, which then sends an electrical current to the detonator.
+
+This equipment has proliferated into the following countries: Afghanistan, China, Hong Kong, Iran (Islamic Republic of), Iraq, Lebanon, Pakistan, Russian Federation, Saudi Arabia, Syria, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the RFT-2 Chinese Remote Initiation System:
+The Safwan-Electric RFT-2 variant (Saudi Arabia) is Safwan-Electric provides RFT-2 style RCFDs to Syrian armed groups to be used against the Al-Assad regime..
+
+Here is System information for the RFT-2 Chinese Remote Initiation System:
+The Alternate Designation is RFT-2 Wireless Signal Transmitter (YK-3000 and CB-4; identical models, different nomenclature).
+The Type is Remote Wireless Initiator.
+The Manufacturer is Soolai Electronics Company, Ltd. (China); Other companies based in Shenzhen, China. No further information available..
+The Operating Range is Up to 1,000 meters depending on terrain, obstructions, and other factors..
+The Firing Output Power is INA.
+The Frequency Range is 315 MHZ, but also can be found operating at 433 MHz.
+The Power Source (Transmitter) is 9 volt battery.
+The Power Source (Receiver) is INA.
+The Environmental Temperature Range is INA.
+
+Here is Dimensions information for the RFT-2 Chinese Remote Initiation System:
+The Width (Transmitter) is 38 mm.
+The Width (Receiver) is 65 mm.
+The Depth (Transmitter) is 25 mm.
+The Depth (Receiver) is 33 mm.
+The Height (Transmitter) is 152 mm.
+The Height (Receiver) is 140 mm.
+The Weight (Transmitter) is INA.
+The Weight (Receiver) is INA.
+

@@ -1,0 +1,76 @@
+This document describes the NTC VISMOD LTSD-4 Russian Laser Rangefinder/Designator.
+
+NTC VISMOD LTSD-4 Russian Laser Rangefinder/Designator
+The LTSD-4 Laser Rangefinder/Designator is designed for ground target reconnaissance, correction of artillery and air firing in daylight and at night including the use of high-accuracy ammunition fitted with laser homing heads when illuminating the stationary and moving targets, military equipment and offensive fortifications by a laser light from ground observation points. It may be also used in automated fire control systems.
+
+Here is Variants information for the NTC VISMOD LTSD-4 Russian Laser Rangefinder/Designator:
+The LTSD-4-3 Russian Laser Rangefinder/Designator is The LTSD-4-3 Laser Rangefinder/Designator is designed for ground target reconnaissance, correction of artillery and air firing in daylight and at night including the use of high-accuracy ammunition fitted with laser homing heads when illuminating the stationary and moving targets, military equipment and offensive fortifications by a laser light from ground observation points. It may be also used in automated fire control systems. SYSTEM COMPOSITION *PP-20 transceiver *Set for fastening PP on terrain *1E77 synchronization unit *1E67M accumulator battery (2 pcs.) *Accessory set *Transport case including two flexible packs for carrying *Instruction manual.
+The LTSD-4-1 Russian Laser Rangefinder/Designator is The LTSD-4-1 Laser Rangefinder/Designator is designed for ground target reconnaissance, correction of artillery and air firing in daylight and at night including the use of high-accuracy ammunition fitted with laser homing heads when illuminating the stationary and moving targets, military equipment and offensive fortifications by a laser light from ground observation points. It may be also used in automated fire control systems. SYSTEM COMPOSITION *PP-20 transceiver *BNV-3 night vision unit * *SN-3 aiming system *1D26 TR tripod *1E77 synchronization unit (2 pcs.) *1E67M accumulator battery (2 pcs.) *Accessory set *Transport case including two flexible packs for carrying *Instruction manual.
+The LTSD-4-2 Russian Laser Rangefinder/Designator is The LTSD-4-2 Laser Rangefinder/Designator is designed for ground target reconnaissance, correction of artillery and air firing in daylight and at night including the use of high-accuracy ammunition fitted with laser homing heads when illuminating the stationary and moving targets, military equipment and offensive fortifications by a laser light from ground observation points. It may be also used in automated fire control systems. SYSTEM COMPOSITION: *PP-20 transceiver *BNV-3 night vision unit * *Set for fastening PP on terrain *1E77 synchronization unit *1E67M accumulator battery (2 pcs.) *LDM-2 laser rangefinder module *Accessory set *Transport case including two flexible packs for carrying *Instruction manual.
+
+Here is System information for the NTC VISMOD LTSD-4 Russian Laser Rangefinder/Designator:
+The Alternative Designation is NTC VISMOD LTSD-4 Russian Laser Rangefinder/Designator.
+The Type is Lightweight Laser Designator Rangefinder (LLDR).
+The Manufacturer is INA.
+The Mission Type is DZ:Employed during reconnaissance operations by BTG reconnaissance rear of DTG LRS..
+The Crew is 1 x Operator.
+The Range is StationaryTarget Range: 5km day,3 km thermal
+Moving Target Range: 3 km day,3 km thermal.
+The Effects is Target Locator and Laser Designation with day, night, and adverse weather target precision. Designates stationary or moving targets and has digital interconnectivity..
+The Targeting is Movement and Maneuver, Intelligence, Reconnaissance assets..
+The Vulnerability is Death of Operator and IDF.
+The CBI is 1x per BTG Reconnaissance Platoon.
+
+Here is Dimensions information for the NTC VISMOD LTSD-4 Russian Laser Rangefinder/Designator of the AN/PSD-1 Target Locator Module (TLM):
+The Length is 429 mm.
+The Width is 244 mm.
+The Height is 140 mm.
+The Weight is 5.8 kg.
+
+Here is Thermal Sight information for the NTC VISMOD LTSD-4 Russian Laser Rangefinder/Designator of the AN/PSD-1 Target Locator Module (TLM):
+The Detector is InSb staring FPA.
+The Spectral Range is 3 to 5 Âµm (with laser spot viewing).
+The Array Format is 640Ã480.
+The Cooling is Closed-cycle Stirling.
+The Field-of-View, Wide is 8.2Â°Ã6.6Â°.
+The Field-of-View, Narrow is 3.5Â°Ã2.8Â°.
+The Field-of-View, E-Zoom is 0.9Â°Ã0.7Â°.
+
+Here is Day Sight information for the NTC VISMOD LTSD-4 Russian Laser Rangefinder/Designator of the AN/PSD-1 Target Locator Module (TLM):
+The Type is High-resolution staring CCD.
+The Field-of-View, Wide is 4.5Â°Ã3.8Â°.
+The Field-of-View, Narrow is 1.2Â°Ã1.0Â°.
+The Field-of-View, E-Zoom is 0.6Â°Ã0.5Â°.
+
+Here is Laser Rangefinder information for the NTC VISMOD LTSD-4 Russian Laser Rangefinder/Designator of the AN/PSD-1 Target Locator Module (TLM):
+The Type is Nd:YAG with KTP OPO converter.
+The Classification is Class 1 (eye-safe).
+The Pulse Rate is Single shot or 1 Hz continuous.
+The Range is 100 to 19,995 m (in 5 m increments).
+The Accuracy is Â±5 m.
+
+Here is GPS Receiver information for the NTC VISMOD LTSD-4 Russian Laser Rangefinder/Designator of the AN/PSD-1 Target Locator Module (TLM):
+The Type is Embedded PLGR.
+The Accuracy is <16 m SEP (PPS).
+The Security is Selective Availability/Anti-Spoofing Module (SAASM) -enabled.
+
+Here is System information for the NTC VISMOD LTSD-4 Russian Laser Rangefinder/Designator of the AN/PEQ-9 Laser Designator Module (LDM):
+The Type is Nd:YAG.
+The Range is >5 km.
+The Codes is All NATO Band I & II plus A-Code.
+
+Here is Dimensions information for the NTC VISMOD LTSD-4 Russian Laser Rangefinder/Designator of the AN/PEQ-9 Laser Designator Module (LDM):
+The Length is 274 mm.
+The Width is 274 mm.
+The Height is 170 mm.
+The Weight is 4.85 kg.
+
+Here is AN/PED-1 system information for the NTC VISMOD LTSD-4 Russian Laser Rangefinder/Designator:
+The Operation is Menu-driven software.
+The Display is Monocular high-resolution flat panel display.
+The Data Interface is RS-485/RS-232 compliant to Joint Technical Architecture.
+The Video Interface is RS-170.
+The Main Battery is BA-5699 (full system); BA-5590 (TLM).
+The Auxiliary Battery is BB-390 (full system or TLM).
+The Operating Temperature is -37Â° to +49Â° C.
+

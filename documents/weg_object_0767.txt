@@ -1,0 +1,43 @@
+This document describes the Supercam S150 Russian Unmanned Aerial Vehicle (UAV).
+
+The Supercam S150 Russian Unmanned Aerial Vehicle (UAV) combines optimum capabilities for a wide range of tasks. The aircraft's wingspan is 1.5 meters, while the modular design with removable wing panels allows carrying it in a disassembled state in a small backpack case. S150 is one of the most compact Supercam UAVs while having higher performance characteristics than competitors with similar dimensions. The UAV endurance is 2 hours. The radio link range is up to 50 km, and the video transmission range is up to 25 km via a secure broadband digital video link. Supercam S150 is equipped with cutting-edge optoelectronic systems, vision systems, and automatic target tracking systems. In addition to surveillance and reconnaissance application at any time of the day, Supercam S150 UAS is perfect for high-precision terrain aerial photography. Dual frequency GNSS equipment, 24 to 42 MP cameras, and multispectral cameras of well-known brands designed for agriculture applications can be installed onboard the UAV. Simultaneous operation of several payloads is also possible.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Supercam S150 Russian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Supercam S150.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Supercam Unmanned Systems Group.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Radio Link Range is up to 30 km.
+The Video Transmission Range is up to 25 km.
+The Payload Options is - 20/24/42 MP photo camera with the ability to be mounted on the azimuth stabilized platform
+- Gyro-stabilized thermal imaging camera and/or PAL or HD video camera with 10х optical zoom, that can be combined together, and optionally enhanced with a laser target marker
+- Multispectral camera.
+The Deployment Time is 10 min.
+The Launching System is elastic catapult.
+The Recovery System is with a parachute in automatic or semi-automatic mode.
+The Operational Temperature is -40°С to +45°С.
+The Accessories is - Automatic target tracking module
+- Dual (triple) system, dual-frequency geodetic receiver
+- Video link for digital broadband transmission within a range of up to 25 km
+- Radio link of telemetry and control with the ability of FHSS operation.
+
+Here is Dimensions information for the Supercam S150 Russian Unmanned Aerial Vehicle (UAV):
+The Length is INA.
+The Wingspan is 1.5 m.
+The Height is INA.
+The Maximum Takeoff Weight is 5.5 kg.
+
+Here is Automotive information for the Supercam S150 Russian Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Maximum Speed is 120 km/h.
+The Cruising Speed is INA.
+The Operational Height is INA.
+The Maximum Distance is 110 km.
+The Maximum Windspeed is 15 m/s.
+The Endurance is 2 hours.
+

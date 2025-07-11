@@ -1,0 +1,35 @@
+This document describes the PC-1 Ukrainian Unmanned Aerial Vehicle (UAV).
+
+The PC-1 Ukrainian Unmanned Aerial Vehicle (UAV) features an extremely durable airframe made of carbon fiber. Its eight rotors design offers maximum reliability in any weather conditions and environment. No matter when or where you will use our drone, it will always do the job.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the PC-1 Ukrainian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is PC-1.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Ukrspec.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Ground Control Station is Rugged Ground Control Station (GCS) runs on Windows 10 and gives you full control over the mission. You can control the drone, set the flight route, control the payload, and see all important information from PC-1. GCS has a maximum operational range of 5 km and 4 hours of battery life..
+The Payload Capacity is INA.
+The Flight Route is Programmable.
+The Communications is Telemetry link: Digital encrypted; 
+Digital video link: Encrypted (optionally)..
+The Launching System is Automatic.
+The Recovery System is Automatic.
+
+Here is Dimensions information for the PC-1 Ukrainian Unmanned Aerial Vehicle (UAV):
+The Length is 480 mm.
+The Wingspan is 530 mm.
+The Height is 130 mm.
+The Maximum Takeoff Weight is 5,600 g.
+
+Here is Automotive information for the PC-1 Ukrainian Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Maximum Speed is INA.
+The Service Ceiling is 1,000 m.
+The Maximum Distance is 5,000 m.
+The Endurance is 38 min.
+

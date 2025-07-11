@@ -1,0 +1,68 @@
+This document describes the DURO IIIP (DURO GMTF) Swiss 6x6 Multi-Role Armored Vehicle.
+
+The DURO IIIP is a modular vehicle based on a common chassis to which different mission modules can be fitted. In its most numerous configuration the vehicle is used as an APC, although it may more accurately be thought of as a protected mobility platform designed to patrol contested areas, rather than traverse a fire zone to enable a section of infantry to engage a target.
+
+This equipment has proliferated into the following countries: Denmark, Germany, Switzerland.
+
+Here is Variants information for the DURO IIIP (DURO GMTF) Swiss 6x6 Multi-Role Armored Vehicle:
+The DURO I is The DURO (Durable Robust) is a series of wheeled, multi-purpose military transport vehicles produced by General Dynamics European Land Systems/MOWAG in both four and six wheel drive..
+The DURO II is INA.
+The DURO IIIP (DURO GMTF) is The DURO IIIP is a modular vehicle based on a common chassis to which different mission modules can be fitted. In its most numerous configuration the vehicle is used as an APC, although it may more accurately be thought of as a protected mobility platform designed to patrol contested areas, rather than traverse a fire zone to enable a section of infantry to engage a target..
+The YAK is The YAK is an upgraded, ballistic and mine-protected, variant of the DURO IIIP 6x6 chassis used by the German Army. It is made by Rheinmetall MAN Military Vehicles..
+
+Here is System information for the DURO IIIP (DURO GMTF) Swiss 6x6 Multi-Role Armored Vehicle:
+The Alternative Designation is DURO IIIP; DURO GMTF.
+The Type is Multi-Role Armored Vehicle.
+The Manufacturer is MOWAG.
+The Family is DURO Series.
+The Configuration is 6x6.
+The Crew is 2.
+The Passenger Capacity is 12.
+
+Here is Dimensions information for the DURO IIIP (DURO GMTF) Swiss 6x6 Multi-Role Armored Vehicle:
+The Length is 6.75 m.
+The Width is 2.20 m.
+The Height is 2.67 m.
+The Weight, Standard is 10,000 kg.
+The Weight, Combat is 13,500 kg.
+The Wheelbase is 3.53 m + 1.20 m.
+The Ground Clearance is 0.4 m.
+
+Here is Automotive information for the DURO IIIP (DURO GMTF) Swiss 6x6 Multi-Role Armored Vehicle:
+The Engine Name is Cummins ISB 6.7.
+The Engine Type is 6 cylinders, turbocharged, diesel.
+The Engine Power is 242.
+The Fuel Capacity is 180 liters.
+The Maximum Speed is 100 km/h.
+The Range is 600 km.
+The Gearbox is Allison S 2000 SP.
+The Transfer Box is two speed.
+The Steering is hydraulic power assisted.
+The Suspension is De Dion axles with wheel hub gear, patented roll stabilizer.
+The Electrical System is 24V.
+The Brakes is hydraulic over air disc with ABS.
+The Tires is 335/80 R20.
+The Gradient is 60%.
+The Angle of Approach is 42°.
+The Angle of Departure is 40°.
+The Fording is 0.8 m.
+The Vertical Obstacle is 0.50 m.
+The Turning Radius is 8 m.
+
+Here is Main Weapon System information for the DURO IIIP (DURO GMTF) Swiss 6x6 Multi-Role Armored Vehicle:
+The Note is Those vehicles in service with Switzerland as APCs are armed with a Kongsberg PROTECTOR M151. The M151 incorporates a Rheinmetall soft-mount, which enables the end user to choose from a wide variety of weapons including the M249 SAW MG, an M240B MG, an M2 MG or the Mk19. The M151 allows for the mixing of lethal and less-lethal weapons on a single mount..
+
+Here is Fire Control information for the DURO IIIP (DURO GMTF) Swiss 6x6 Multi-Role Armored Vehicle:
+The Name is INA.
+The Computerized FCS is None.
+The Day Camera is Rheinmetall Vingeye CCD day camera.
+The Thermal Camera is Thales Thermal Imaging Module (TIM) thermal camera.
+
+Here is Protection information for the DURO IIIP (DURO GMTF) Swiss 6x6 Multi-Role Armored Vehicle:
+The Hull Armor is The rear and front compartments are armored to provide protection from small arms fire and shell splinters. Some protection is also provided against anti-personnel mines. The armor is believed to consist of a layer of high hardness steel with and additional layer of modular armor, which provides improved protection from ballistic threats.  The windows installed in the hull are protected to the same level as the armored sections of the hull. These features provide the occupants with a higher level of protection if the vehicle goes over a mine..
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Mine Clearing is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

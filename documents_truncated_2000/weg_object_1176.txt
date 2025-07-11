@@ -1,0 +1,29 @@
+This document describes the JRTC VISMOD: R-168-5UN(1)E Russian VHF Manpack-Vehicular Radio Station.
+
+The R-168-5U(N)1E VHF manpack-vehicular radio station provides clear and secure radio communications in tactical command level radio networks in harsh ECM environment. The radio station is produced as a manpack, vehicular or fixed version.
+
+R-168-5UN(1)E replaces R-159 (16 kg), R-159M (16 kg), R-163-10U (14 kg).
+
+
+
+
+The BTR-80 is an 8Ã8 wheeled amphibious armoured personnel carrier (APC) designed in the USSR. The BTR-80 is a modern, lightly armored vehicle with a diesel power plant. It is manufactured at the Gorkiy Automobile Factory in  Nizhniy Novgorod and has been in service since the early 1980s. The BTR-80 is a lightly armored amphibious vehicle with a collective chemical-biological-radiological (CBR) protective system. Operated by a crew of three, the vehicle can carry a squad of seven infantry troops. The BTR-80 8 x 8 armored personnel carrier is intended to carry personnel on the battlefield and provide close fire support. It can also carry out reconnaissance, combat support and patrol missions. It entered service with the Russian army in the late 1980's and has since been used in a number of military conflicts, including UN peacekeeping operations. The vehicle is in production and in service with the Russian army and with a number of other countries.The BTR-80 is superior to BTR-60/70 with a larger chassis, high-angle-of- fire turret, and single more powerful diesel engine (vs gasoline). Although the armament is same as BTR-60 and BTR-70, except for added smoke grenade dispensers on the back of the turret, the conical turret has been improved and the gun can elevate higher.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is VHF Radio information for the JRTC VISMOD: R-168-5UN(1)E Russian VHF Manpack-Vehicular Radio Station of the System:
+The Name is R-168-5UN-1.
+The Manufacturer is Yaroslavl Radioworks Corp.
+The Quantity is 1.
+The Type is VHF.
+The Frequency is 30-88.
+The Capabilities is FH Voice Data.
+The Maximum Range is 8-12.
+The Mount Type is Manpack.
+The In Service is Possibly Replaced.
+The Battery is Battery 10NKGTs 6-2.
+The Antenna is Rod antenna ASh-1.5.
+The Handset is Handset MTT-1.
+The Types of Operation is FM telephony with and without cyphering, transmission-reception of digital data from external terminal at the rate of 1.2 kb/s to 16 kb/s.
+The Types of Data Transmitted is Analog, clear and secure with the built-in ciphering unit; digital, from an external terminal; tone call at frequency of 1000 Hz.
+

@@ -1,0 +1,176 @@
+This document describes the Heidar-5 Russian 8x8 Armored Minelayer Vehicle.
+
+During the Iranian Army Day, the local defense industry has presented the Heidar-5, a new minelayer wheeled vehicle able to launch anti-tank mines to create a mine barrier based on Soviet-made BTR-60 8x8 APC (Armored Personnel Carrier). The vehicle is equipped with an automatic firing unit located inside the vehicle.
+
+The Heidar-5 minelayer is based on a modified Soviet-made BTR-60PB 8x8 armored personnel carrier. The original turret is removed and the troop's compartment is used to put a mine launching assembly mounted at the rear vehicle, with 18 mine launcher units mounted on each side of the hull.
+
+According to our first analysis, each mine launcher unit has two preloaded magazines, each of which holds two anti-tank or anti-personnel mines. The vehicle seems to be equipped with an automatic firing system that can be used to preselect the resultant mine barrier data and can be placed into several laying modes that can be changed while the vehicle is moving.
+
+The Heidar-5 could also create a mine barrier on the move. Mines are ejected on each side of the vehicle. In road position, the mine-laying system is covered by armor plates.
+
+The front of the Heidar-5 is fitted with a remotely-operated weapon station armed with a Soviet-made DShK 12.7mm heavy machine gun.
+
+The hull of the BTR-60PB is of all-welded steel armor with the driver and commander seated at the front of the hull. Both have a windscreen in front of them which, when in action, is covered by a flap hinged at the top.
+
+The BTR-60PB enters into service with the Russian army in 1966. The vehicle is an eight-wheel-drive vehicle motorized with a 2 GAZ-49B 6-cylinder in-line water-cooled petrol engines developing 90 hp at 3,400 rpm each coupled to a manual transmission with 4 forward and 1 reverse gear. It can run at a maximum road speed of 80 km/h with a maximum cruising range of 500 km.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Heidar-5 Russian 8x8 Armored Minelayer Vehicle:
+The BTR-60P is Initial model with open top, pintle-mounted 7.62-mm machine gun.
+The BTR-60PA/BTR-60PK (12 passengers only) is Covered top, NBC protection, pintle-mounted 7.62-mm MG, still exit over top.
+The BTR-60PB (space for 8 soldiers for dismounted operations). is Most common variant with BRDM-2 MG turret with a 14.5-mm MG & coaxial 7.62-mm; troops exit over top.
+The Modernized BTR-60PB is BM2 Turret with 30-mm 2A42 Cannon & 7.62-mm PKTM MG; 30-mm AGS-17 AGL on left side.
+The BTR-60U is Command vehicle with additional radios.
+The BTR-60 PU-12/12M is Anti-Aircraft units’ command vehicle.
+The BTR-60 MS is Radio vehicle with High Ball antenna.
+The BTR-60 VVS is Sans turret with additional radios.
+The BTR-60 PBK is BTR-60PB with 3 radios.
+The BTR-60 1V18 is Artillery observation vehicle.
+The BTR-60 1V19 is BTR-60 1V18 for FDC operations.
+The BTR-60 R-145BM is Communications vehicle with 5 radios.
+The BTR-60 R-975 is Forward air-control vehicle with turret.
+The BTR-60-Z-351BR is Power production vehicle with generator.
+The BTR-60-P-238BT is Switchboard vehicle for communications.
+The BTR-60-P-240BT is Integrates radio & wire communications- R-123M radio & R-241 switchboard.
+The BTR-60-P241BT is Equipped with P-241 telephone system.
+The BTR-60-R-137B is Communications vehicle with turret.
+The BTR-60 ACRV is Artillery Battery C2 & recon vehicle.
+The BTR-60-R-145 is Additional radio, but no turret.
+The BTR-60-R-156BTR is C2 vehicle with additional radios.
+The BTR-60-R-409BM is Relay vehicle-R-409 & R-123M radios.
+The BTR-60PAU (Bulgaria) is Artillery command vehicle.
+The BTR-60PB-MD (Bulgaria) is Upgraded engine, radios, & NBC equipment.
+The BTR-60P Maintenance Assistance (MTR-2) is Maintenance vehicle with tarp over troop compartment.
+The BTR-60 SPAAG (Cuba) is Twin 30-mm anti-aircraft cannons.
+The BTR-60 Djibouti (Djibouti) is AML-90 turret on BTR-60.
+The BTR-60BD is Speed increased to 100 km/h & range to 800 km.
+The MTP-2 is Armored Recovery Vehicle.
+The BTR-60PZ is Final production model with 1PZ-2 roof-mounted periscope.
+The BTR-60-R-140BM is C2 vehicle with turret.
+The MEP is Infantry command post.
+The BTR-60PB FAC is Turreted FAC vehicle without the gun.
+
+Here is System information for the Heidar-5 Russian 8x8 Armored Minelayer Vehicle:
+The Alternative Designations is Heidar-5.
+The Type is Armored Minelayer Vehicle.
+The Manufacturer is INA.
+The Configuration is 8x8.
+The Crew is 3.
+The Passengers is 14.
+The Mine Launching Unit is 18 mine launcher units mounted on each side of the hull..
+The Types of Mines is According to our first analysis, each mine launcher unit has two preloaded magazines, each of which holds two anti-tank or anti-personnel mines. The vehicle seems to equipped with an automatic firing system that can be used to preselect the resultant mine barrier data and can be placed into several laying modes that can be changed while the vehicle is moving..
+
+Here is Dimensions information for the Heidar-5 Russian 8x8 Armored Minelayer Vehicle:
+The Length is 7.56.
+The Width is 2.83.
+The Height is 2.31.
+The Weight, Combat is 10.3.
+
+Here is Automotive information for the Heidar-5 Russian 8x8 Armored Minelayer Vehicle:
+The Engine Name is 2 x GAZ-49B.
+The Engine Type is Petrol.
+The Engine Power is 90 hp each, 180 hp combined.
+The Range is 500.
+The Speed, Maximum Road is 80.
+The Speed, Maximum Swim is 10.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.0.
+The Fording Depth is Amphibious.
+The Note is The new engine provides a 20 percent decrease in fuel consumption;.
+
+Here is Communications information for the Heidar-5 Russian 8x8 Armored Minelayer Vehicle:
+The Primary is R-123.
+The Secondary is R-113.
+
+Here is System information for the Heidar-5 Russian 8x8 Armored Minelayer Vehicle of the Main Weapon System:
+The Name is 1 x KPVT 14.5mm Heavy Machine Gun (KPV).
+The Type is Heavy Machine Gun (KPV).
+The Caliber is 14.5.
+The Manufacturer is V.A. Degtyarev Plant.
+The In Service is 1949-Present.
+The Proliferation is Widely Proliferated.
+The Weight is 49.
+The Total Length is 1,980.
+The Barrel Length is 1,346.
+The Width is 162.
+The Height is 225.
+The Rate of Fire is 600.
+The Maximum Firing Range is 4,000.
+The Effective Firing Range is 3,000.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+
+Here is Ammunition information for the Heidar-5 Russian 8x8 Armored Minelayer Vehicle of the Main Weapon System:
+The Name is INA.
+The Type is API-T.
+The Caliber is 14.5mm.
+The Cartridge is 14.5×114 mm.
+The Muzzle Velocity is 1,005.
+The Effective Range (Day) is 2,000.
+The Effective Range (Night) is INA.
+The Tactical Range is 1,500 - 2,000.
+The Armor Penetration is 20 mm at 1,000 m/ 30 mm at 500 m.
+The Basic Load is 500.
+The Note is Additional Ammo includes: API, I-T.
+
+Here is System information for the Heidar-5 Russian 8x8 Armored Minelayer Vehicle of the Auxiliary Weapon System:
+The Name is 1 x 7.62mm PKT (Kalashnikov's Machine Gun) General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces.
+The Manufacturer is Degtyaryov plant.
+The In Service is 1961-Present.
+The Proliferation is + 1 Million.
+The Max Rate of Fire is 650.
+The Effective Rate of Fire is 250-300.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Length, Total is 1,203.
+The Length, Barrel is 605.
+The Action is Gas-operated, open bolt.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+The Effective Firing Range (With Sight Adjustments) is 100 - 1,500.
+
+Here is Ammunition information for the Heidar-5 Russian 8x8 Armored Minelayer Vehicle of the Auxiliary Weapon System:
+The Name is 57-N-323S.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 855.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 2,500.
+
+Here is Fire Control information for the Heidar-5 Russian 8x8 Armored Minelayer Vehicle:
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Vehicle Commander is TKN-1.
+The Turret Type is BPU-1 turret.
+The Thermal Gunner is 1 x PP-61A optical sight.
+The Main Gun Stabilization is INA.
+The Infrared Light is OU-3 infrared light.
+
+Here is Protection information for the Heidar-5 Russian 8x8 Armored Minelayer Vehicle:
+The Armor Material is Welded steel.
+The Armor Hull is 7 mm at 86° hull upper front;
+9 mm at 47° hull lower front;
+7 mm hull sides;
+5 mm hull upper rear;
+7 mm hull lower rear;
+5 mm hull floor;
+7 mm hull roof.
+The Armor (turret front) is 10 mm turret front;
+7 mm turret sides;
+7 mm turret sear;
+7 mm turret roof.
+The Applique Armor is Yes, In road position, the mine-laying system is covered by armor plates..
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is Collective (closed vehicles).
+The Smoke Equipment is No.
+The Survivability Equipment is No.
+

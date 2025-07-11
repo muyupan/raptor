@@ -1,0 +1,182 @@
+This document describes the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT).
+
+The ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT) is the latest version of the Type 96 Tank and made its first public debut at the 2016 Tank Biathlon. Developed by Norinco, an estimated 5 to 7 had been built and were seen being moved to the event by a freight train. On August 15th, the front left road wheel came off the vehicle whilst in motion at the Biathlon. The Type 96B Tank's main upgrade has been the engine. Reports from varying high-ranked Chinese Officers in the media have always highlighted the need for a bigger engine in the Type 96 Tank and it's believed a new 1200hp diesel engine has been installed.
+
+This would explain the removal of the old twin circular exhausts and housing on the right side of the hull. The rear of the hull has also been modified and appears flat with a circular exhaust on either side of the air vents.
+
+The increase in horsepower will give the Type 96B Tank an increased power-to-weight ratio, improving its acceleration and hill-climbing abilities.
+
+This equipment has proliferated into the following countries: China, Sudan.
+
+Here is Variants information for the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT):
+The Type 96 (ZTZ-96) is The Type 96 Main Battle Tank (MBT) was developed from the Type 85-III, which was mainly aimed at the export market. The Type 96 has some minor modifications. Sometimes it is referred to as the the Type 88C or ZTZ96. It entered service with the Chinese army in 1997. It replaced in production the previous Type 88 MBT..
+The Type 96A (ZTZ-96A) is The Type 96A was an upgrade of the Type 96 that entered service in 2006, it reflects the developments made in Chinese tank design such as the arrow-shaped add-on turret armor also found on the Type 99. The vehicle described below is offered for export in the format described below with the designation of VT2..
+The Type 96B (ZTZ-96B) is The Type 96B is the latest iteration of the Type 96 family. It is a second-generation MBT with improved suspension and mission systems over the earlier Type 96A. The Type 96B is intended to replace the Type 96 and some Type 96As in PLA service via an upgrade program..
+The VT-2 is The export variant of Type-96A. Debuted at the 2012 Defence Services Asia Exhibition. Can be equipped with Remote Weapons Station and has a maximum speed of 70 km/h (on-road). Capable of turning on its own axis..
+The VT2B is At the 2017 armor and anti-armor day held by Norinco for export customers, a platform named VT2B was displayed. No details of the platform were made available at the time, but it may carry the improved weaponry and power pack of more recent Chinese tank developments..
+The GCZ-112 is The GCZ-112 is a combat engineering vehicle based on the Type 96. It is equipped with the necessary tools to construct earthworks and clear obstacles for advancing armored formations. It shares the Type 96’s running gear and basic hull to facilitate maintenance and maneuvers..
+
+Here is System information for the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT):
+The Alternative Designation is ZTZ-96B; Type 96B.
+The Type is Main Battle Tank.
+The Manufacturer is NORINCO.
+The Family is Type 96 Main Battle Tank Family.
+The Crew is 3.
+The Note is The Type 96B can be distinguished between the Type 96A by the exhausts which are situated to the rear of the vehicle instead of the right under the turret..
+
+Here is Dimensions information for the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT):
+The Length (Hull ) is 6.33.
+The Length (Gun Forward) is 10.65.
+The Width is 3.45.
+The Height is 2.30.
+The Weight, Combat is 41.5.
+The Ground Pressure is 0.77.
+
+Here is Automotive information for the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT):
+The Engine Name is INA.
+The Engine Type is Liquid-cooled diesel.
+The Engine Power is 1,200.
+The Additional Fuel Capable is Yes, 400 Liters.
+The Cruising Range is 400.
+The Speed, Maximum Road is 65.
+The Speed, Maximum Off Road is 45.
+The Speed Maximum Swim is Not Amphibious.
+The 0 to 60 Time is 18.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.8.
+The Trench is 2.7.
+The Fording (Without Preparation) is 1.4.
+The Fording (With Preparation) is 5.0.
+The Suspension is Torsion Bar.
+
+Here is TBR-121 information for the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT) of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Proliferated is Widely.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT) of the Main Weapon System:
+The Name is 1 x  L50 ZPT-98.
+The Type is Smoothbore Gun.
+The Caliber is 125 mm.
+The Length (Barrel) is 6,000.
+The Barrel Type is 1 with a sliding gun barrel and a smoke evacuator in the middle.
+The Thermal Sleeve is Yes, Light Alloy.
+The Bore Evacuator is Yes.
+The Loader Type is Carousel auto-loader and Manual Loading capable.
+The Launch Mode is Single Shot.
+The Barrel Life is 800.
+The Max Rate of Fire (Automatic Loading) is 8.
+The Max Rate of Fire (Manual Loading) is 1-4.
+The Recoil is Hydraulic and pneumatic.
+The Note is The L50 ZPT-98 can replce the barrel without removing the turret.
+
+Here is Ammunition (Option 1) information for the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT) of the Main Weapon System:
+The Name is 3VOF22.
+The Type is High Explosives (HE).
+The Caliber is 125.
+The Purpose is High explosive fragmentation fin stabilized. General purpose rounds, for use against infantry, bunkers and light vehicles and other "soft" targets..
+The Muzzle Velocity is 850.
+The Maximum Effective Range is 4,000.
+The Minimum Effective Range is INA.
+The Max Dispersion is 0.23.
+The Tungsten Rods is 450.
+The Charge is A-IX-2 (73% RDX, 23% aluminium powder, phlegmatized with 4% wax) 3.0 kg.
+The Round Weight is 33.
+The Projectile Weight is 23.
+The Fragments is 2,500.
+The Armor Penetration is Yes.
+The Basic Load is 42 total rounds of any 125mm Projectiles.
+
+Here is Ammunition (Option 2) information for the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT) of the Main Weapon System:
+The Name is 3VBK27/3BK31 "Start".
+The Type is High-Explosive Anti-Tank (HEAT).
+The Caliber is 125.
+The Muzzle Velocity is 915.
+The Max Dispersion is INA.
+The Maximum Effective Range is 3,000.
+The Charge is INA.
+The Charge Weight is 1.62.
+The Projectile Weight is 18.4.
+The Fragments is INA.
+The Armor Penetration is Estimated at 800 mm triple charge HEAT.
+The Basic Load is 42 total rounds of any 125mm Projectiles.
+
+Here is Ammunition (Option 3) information for the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT) of the Main Weapon System:
+The Name is 3VBM/3BM69 "Vacuum-1.
+The Type is Armour-Piercing Fin-Stabilized Discarding Sabot (APFSDS) Rounds..
+The Caliber is 125.
+The Muzzle Velocity is 2,050.
+The Projectile Dimension is 900.
+The Maximum Effective Range is 3,000.
+The Penetration at 2km is 700.
+The Round Weight is INA.
+The Projectile Weight (Estimated) is 11.
+The Armor Penetration is 1,000.
+The Basic Load is 42 total rounds of any 125mm Projectiles.
+The Note is Entered service in 2005 Utilising a new sabot. Reported to be uranium alloy. For 2A82/2A82-1M cannon on T-80UM-2/T-14s..
+
+Here is System information for the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is 1 x 7.62mm General-Purpose Machine Gun.
+
+Here is System information for the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is 1 x QJG-89 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Manufacturer is INA.
+The Length (Total) is 2,119.
+The Length (Barrel) is 1,003.
+The Weight (Gun Only) is 18.5.
+The Weight (Tripod) is 17.5.
+The Action is Gas Operated.
+The Muzzle Velocity is 825 m/s.
+The Max Rate of Fire is 400-600.
+The Effective Range (vs. Air) is 1,500 m.
+The Effective Range (vs. Ground) is 2,000 m.
+The Feed System is Belt fed, 50 rounds.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7x108mm.
+The Basic Load is 500.
+
+Here is Fire Control information for the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT):
+The Name is Updated FCS compared to the Type 96A. No Name.
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Target Identification to Shot Time is 6.
+The Night Sight Maximum Distance is 1,200.
+The Main Gun Stabilization is Dual axis gun stabilisation.
+The Periscopes is 3.
+The Rangefinder is Laser.
+The Sights, Maximum Distance (Day) is 5,000.
+The Sights, Maximum Distance (Night) is 1,200.
+The Ballistic Computer is Yes.
+The Step Motor Driver is Yes.
+The Crosswind Velocity Sensor is Yes.
+The Weather Sensor is Yes, located at the back of the turret.
+The Note is The Type 96 is unable to perform hunter-killer engagements.
+
+Here is Protection information for the ZTZ-96B (Type 96B) Chinese Main Battle Tank (MBT):
+The Hull Armor (vs. HEAT Rounds) is 1,100mm of RHAe.
+The Hull Armor (vs. Kinetic Rounds) is 650mm RHAe.
+The Turret Armor is 700-750mm RHAe.
+The Applique Armor is Available, Track Skirts.
+The Explosive Reactive Armor is FY4 Type ERA (New Update from Type 96A).
+The NBC Protection is Yes.
+The Active Protection System is INA.
+The Mine Clearing is Roller-plow available.
+The Self-Entrenching Blade is INA.
+The Smoke Equipment is Grenade launcher 12x; VESS.
+The IR Signature is INA.
+The Grenades is 6 x 76mm grenades are equipped on each side of the turret.
+The Automatic Fire Suppression System is Yes.
+

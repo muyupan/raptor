@@ -1,0 +1,102 @@
+This document describes the Daring Class (Type 45 Class) British Destroyer.
+
+The Daring Class (Type 45 Class) British Destroyer is a class of six guided-missile destroyers built for the United Kingdom's Royal Navy in the early 21st century. The class is primarily designed for anti-aircraft and anti-missile warfare and is built around the PAAMS (Sea Viper) air-defense system utilizing the SAMPSON Active electronically scanned array (AESA) and the S1850M long-range radars.
+
+This equipment has proliferated into the following countries: United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the Daring Class (Type 45 Class) British Destroyer:
+The Daring Class is Commissioned: 2009
+Status: Active.
+The Dauntless is Commissioned: 2010
+Status: Active.
+The Diamond is Commissioned: 2007
+Status: Active.
+The Dragon is Commissioned: 2008
+Status: Active.
+The Defender is Commissioned: 2009
+Status: Active.
+The Duncan is Commissioned: 2010
+Status: Active.
+
+Here is System information for the Daring Class (Type 45 Class) British Destroyer:
+The Alternative Designation is Daring Class; Type 45 Class.
+The Type is Destroyer.
+The Builder is BAE Systems Maritime – Naval Ships.
+The Crew is 190.
+The Additional Berthing is 41.
+
+Here is Dimensions information for the Daring Class (Type 45 Class) British Destroyer:
+The Length is 152.4 m.
+The Height is INA.
+The Beam is 21.2 m.
+The Draft is 5.3 m.
+The Displacement, Standard is 5,800 tons.
+The Displacement, Full Load is 8,000 tons.
+
+Here is Propulsion System information for the Daring Class (Type 45 Class) British Destroyer:
+The Engine Name is 2 × Rolls-Royce WR-21.
+The Engine Type is Gas Turbines.
+The Engine Power is 28,800 shp each.
+The Generator is 2 × Wärtsilä 12V200 diesel generators.
+The Generator Power is 2,700 shp each.
+The Maximum Range is 12,038.0 km at 18 kt (33.3 km/h).
+The Maximum Speed is 31 kt (57.4 km/h).
+
+Here is Missile Weapon System #1 information for the Daring Class (Type 45 Class) British Destroyer of the Missile Weapon Systems:
+The Name is 8 x McDonnell Douglas RGM-84D Harpoon Block IC.
+The Type is Surface-to-Surface Missile.
+The Active Radar Homing is 124+ km.
+The Speed is Mach 0.85.
+The Warhead is 221.6 kg.
+
+Here is Missile Weapon System #2 information for the Daring Class (Type 45 Class) British Destroyer of the Missile Weapon Systems:
+The Name is 1 x Sea Viper (GWS 45); DCNS Sylver A50 48-cell VLS; typical mix of 32 MBDA Aster 30.
+The Type is Surface-to-Air Missile.
+The Active Radar Homing is 120 km.
+The Speed is Mach 4.5.
+The Warhead is 15 kg.
+
+Here is Main Gun System #1 information for the Daring Class (Type 45 Class) British Destroyer of the Gun Weapon Systems:
+The Name is 1 x Vickers Mk 8 Mod 1.
+The Type is Naval Gun.
+The Caliber is 114 mm.
+The Rate of Fire is 24 rds/min.
+The Maximum Range is 27.5 km.
+The Weight of Shell is 21 kg.
+
+Here is Main Gun System #2 information for the Daring Class (Type 45 Class) British Destroyer of the Gun Weapon Systems:
+The Note: is 2 × 30 mm DS30B guns.
+
+Here is Main Gun System #3 information for the Daring Class (Type 45 Class) British Destroyer of the Gun Weapon Systems:
+The Note: is 2 × 20 mm Phalanx CIWS.
+
+Here is Main Gun System #4 information for the Daring Class (Type 45 Class) British Destroyer of the Gun Weapon Systems:
+The Note: is 2 × 7.62 mm Miniguns.
+
+Here is Main Gun System #5 information for the Daring Class (Type 45 Class) British Destroyer of the Gun Weapon Systems:
+The Note: is 6 × 7.62 mm general purpose machine guns.
+
+Here is Radar Systems information for the Daring Class (Type 45 Class) British Destroyer:
+The Air/Surface Search Radar is 1 x Signaal/Marconi Type 1046 (S1850M); D-band..
+The Surveillance/Fire Control Radar is 1 x BAE Systems Type 1045 (Sampson); E/F-band; multifunction..
+The Surface Search Radar is 1 x Raytheon Type 1048. E/F-band..
+The Navigation Radar is 2 Raytheon Type 1047; I-band..
+
+Here is Sonar Systems information for the Daring Class (Type 45 Class) British Destroyer:
+The Medium Frequency Sonar is 1 x Type 2091 (EDO/Ultra MFS-7000); bow mounted; medium frequency..
+
+Here is Fire Control System information for the Daring Class (Type 45 Class) British Destroyer:
+The Combat Data Systems is BAE Systems CMS-1 (based on DNA SSCS with additional AAW functions); Links 11, 16 STDL and 22. SATCOM.
+The Electro-Optic Systems is GSA 9 with 2 EOSP sensor heads (EOGCS) (based on Radamec 2500).
+
+Here is Aviation Faculties information for the Daring Class (Type 45 Class) British Destroyer:
+The Flight Deck is Chinook capable flight deck.
+The Hanger is Enclosed hangar.
+The Aircraft is 1 × Wildcat HMA2 or 1 × Merlin HM2.
+
+Here is Protection information for the Daring Class (Type 45 Class) British Destroyer:
+The Hull Armor is Kevlar splinter protection, 70 mm magazine/VLS.
+The Physical Countermeasures is Outfit DLH; 4–6-barrelled launchers; IR flares, chaff and active RF decoys. DLF offboard decoys. Type 2170 torpedo defense system..
+The Electronic Countermeasures is 1 x Thales Type UAT Mod 2; intercept; 1 x haman (Argon ST AN/SSQ-130V)..
+The NBC Water Washdown System is Yes.
+

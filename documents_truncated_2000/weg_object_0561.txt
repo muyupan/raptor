@@ -1,0 +1,109 @@
+This document describes the PCL-09 Chinese 122mm Self-Propelled Howitzer (SPH).
+
+The Chinese Army has followed the global shift and embraced the concept of a lighter, more mobile ground force. This is showcased by the adoption of such battlefield elements as the PCL-09, a 6x6 wheeled, self-propelled, artillery-carrying vehicle capable of delivering various warhead types at range. The system is believed to have appeared in or around 2009 and was publicly showcased in 2010 military exercises. The Chinese Army fields about six PCL-09 trucks per battery with these being assigned several accompanying support vehicles (radar director, Command Post, etc.).
+
+Like other weapons of this kind, the PCL-09 is used as a ranged solution capable of supplying ground forces with fire support. The mobile nature of the vehicle allows the weapon to be relocated, fired, and relocated once again in short order. Prior to firing, support legs at the center of the chassis are lowered into the earth to help absorb the inherently violent recoil of such a weapon.
+
+This equipment has proliferated into the following countries: Cambodia, China, Laos (People's Democratic Republic), Rwanda.
+
+Here is Variants information for the PCL-09 Chinese 122mm Self-Propelled Howitzer (SPH):
+The CS/SH1 is Export version of the PCL-09..
+The PLL-09 is Self-propelled howitzer, based on ZBL-09 8x8 armored personnel carrier chassis. It was adopted alongside the PCL-09. The PLL-09 is more mobile due to its chassis. It is capable of keeping pace with main battle tanks. Also, this artillery system is fully amphibious and can ford water obstacles to afloat..
+
+Here is System information for the PCL-09 Chinese 122mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is PCL-09 Chinese 122mm Self-Propelled Howitzer.
+The Type is Howitzer.
+The Caliber is 122.
+The Chassis is Shaanxi 6x6 Military Truck.
+The Crew is 5.
+The Emplacement Time is 1.5 - 2.5 minutes.
+The Displacement Time is 1.5 - 2.5 minutes.
+The Note #1 is A complete PCL-09 battery comprises around 6 truck-mounted howitzers and a battery command post vehicle. The regiment of the PCL-09 consists of a couple of batteries and also includes one battalion command post vehicle, one meteorological radar, one artillery locating radar, and some reconnaissance vehicles..
+
+Here is Dimensions information for the PCL-09 Chinese 122mm Self-Propelled Howitzer (SPH):
+The Length is 8.0.
+The Barrel Length is 38 calibers.
+The Width is 3.0.
+The Height is 2.1 m without turret.
+The Weight, Combat is 16.5 tons.
+
+Here is Automotive information for the PCL-09 Chinese 122mm Self-Propelled Howitzer (SPH):
+The Engine Name is Wei Chai WD615.77.
+The Engine Type is Diesel.
+The Engine Power is 280.
+The Cruising Range is 86.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 67.
+The Side Slope is 30.
+The Vertical Step is 0.5.
+The Fording Depth, without Preparation is 1.2.
+The Fording Depth, with Preparation is 1.2.
+The Trench is 0.5.
+
+Here is System information for the PCL-09 Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Weapon System:
+The Name is A version Soviet D-30 field howitzer.
+The Type is Howitzer.
+The Caliber is 122 mm.
+The Length, Barrel is INA.
+The Weight is INA.
+The Muzzle Velocity is INA.
+The Maximum Rate of Fire is 6-8.
+The Maximum Elevation is 70.
+The Minimum Elevation is 3.
+The Traverse Range is 60.
+The Traverse Left is 30.
+The Traverse Right is 30.
+The Maximum Firing Range is 18-27.
+The Effective Firing Range is INA.
+The Sights is INA.
+
+Here is Ammunition (Option #1) information for the PCL-09 Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Weapon System:
+The Name is INA.
+The Type is HE-FRAG.
+The Caliber is 122.
+The Shell is INA.
+The Armor Penetration is INA.
+The Maximum firing range is 18 km.
+The Basic Load is 40 rounds.
+The Note #1 is This system is separate-loaded ammunition with projectiles and their charges..
+
+Here is Ammunition (Option #2) information for the PCL-09 Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Weapon System:
+The Name is INA.
+The Type is Extended-range projectile.
+The Caliber is 122 mm.
+The Shell is INA.
+The Armor Penetration is INA.
+The Maximum firing range is 22 km.
+The Basic Load is 40 rounds.
+
+Here is Ammunition (Option #3) information for the PCL-09 Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Weapon System:
+The Name is INA.
+The Type is Rocket assisted projectile.
+The Caliber is 122 mm.
+The Shell is INA.
+The Armor Penetration is INA.
+The Maximum firing range is 27 km.
+The Basic Load is 40 rounds.
+The Note #1 is The PCL-09 is also capable of firing 122 mm laser-guided projectiles. These are based on Russian Kitolov projectile technology..
+
+Here is Fire Control System information for the PCL-09 Chinese 122mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is Yes, the PCL-09 is fitted with a computerized fire control system, navigation, positioning and targeting systems. It receives target information from artillery command post vehicle..
+The Main Gun Stabilization is Large spades and stabilizing jacks are lowered to the ground prior to firing. These provide a more stable firing platform..
+The Direct Fire is INA.
+The Indirect Fire is Yes.
+The Digital Battlefield Management System is Yes.
+
+Here is Protection information for the PCL-09 Chinese 122mm Self-Propelled Howitzer (SPH):
+The Hull Armor is It seems that this artillery system carries no defensive armament..
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

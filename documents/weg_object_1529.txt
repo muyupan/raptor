@@ -1,0 +1,92 @@
+This document describes the Jerong Class Malaysian Fast Attack Craft.
+
+The Jerung-class gunboat is a class of gunboats in service with the Royal Malaysian Navy. This class is based on the same design as the Intrépida-class fast attack craft in service with Argentine Navy, the Lurssen FPB/TNC-45 fast attack craft and are built by Hong-Leong Lurssen Shipyards. The Jerong class is equipped only with Bofors 57 mm gun and Bofors 40 mm gun for close-in combat and fire support, unlike other fast attack crafts in Malaysian service which are armed with anti-ship missiles. Peacetime duties include patrol of the exclusive economic zone, interception of illegal immigrants and anti-piracy operations. They are too small and under-armed for use in conventional warfare or in open waters. In late 2020 Royal Malaysian Navy confirmed that this class of ship will be upgrade to lengthening service period of older ships
+
+This equipment has proliferated into the following countries: Malaysia.
+
+Here is Variants information for the Jerong Class Malaysian Fast Attack Craft:
+The JERONG is Commissioned: 1976
+Status: Active.
+The TUDAK is Commissioned: 1976
+Status: Active.
+The PAUS is Commissioned: 1976
+Status: Active.
+The YU is Commissioned: 1976
+Status: Active.
+The BAUNG is Commissioned: 1977 
+Status: Active.
+The PARI is Commissioned: 1977
+Status: Active.
+
+Here is System information for the Jerong Class Malaysian Fast Attack Craft:
+The Alternative Designation is Jerong Class.
+The Type is Fast Attack Craft.
+The Builder is Hong Leong-Lurssen, Butterworth, Malaysia.
+The Crew is 36 total (5 off. + 31 enl.).
+
+Here is Dimensions information for the Jerong Class Malaysian Fast Attack Craft:
+The Length is 44.90 m.
+The Beam is 7.00 m.
+The Draft is 2.50 m.
+The Displacement, Standard is 210 tons.
+The Displacement, Full Load is 245 tons.
+
+Here is Propulsion System information for the Jerong Class Malaysian Fast Attack Craft:
+The Engine Name is 3 x MTU type MB 870.
+The Engine Type is Diesel.
+The Engine Power is 9,900 total bhp.
+The Maximum Range is 2,000 nm at 15 knots.
+The Maximum Speed is 32 knots.
+
+Here is Gun Weapon System #1 information for the Jerong Class Malaysian Fast Attack Craft of the Gun Weapon Systems:
+The Name is 1 x Bofors 57 mm L/70 naval artillery gun.
+The Type is Naval Artillery Gun.
+The Caliber is 57.
+The Barrel Length is 3,990 mm.
+The Weight is 14,000 kg.
+The Barrels is Single barrel (progressive RH parabolic twist, 24 grooves).
+The Action is Electronic firing.
+The Elevation is −10°/+78° (40°/s).
+The Traverse is Full 360°:.
+The Rate of Fire is 200 rounds/min.
+The Muzzle Velocity is 1,035 m/s.
+The Maximum Firing Range is 17,000 m.
+The Effective Firing Range is 8,500 m.
+The Feed System is 40 ready rounds, 128 rounds in ready racks in mount.
+The Sights is Gyro-stabilized in local control..
+
+Here is Gun Weapon Systems #1 Ammunition information for the Jerong Class Malaysian Fast Attack Craft of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 57.
+The Shell is 57 × 438 mm.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Jerong Class Malaysian Fast Attack Craft of the Gun Weapon Systems:
+The Name is 1 x Bofors 40 mm L/70 Anti-Aircraft Autocannon.
+The Type is Anti-Aircraft Autocannon.
+The Caliber is 40 mm.
+The Length is 6.3 m.
+The Barrel Length is 2.8 m.
+The Width is 2.3 m.
+The Height is 2.4 m.
+The Crew is 4.
+The Elevation is −20°/+80°.
+The Traverse is 360°.
+The Rate of Fire is 330 round/min.
+The Muzzle Velocity is 1,021 m/s.
+The Maximum Firing Range is 12,500 m.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Jerong Class Malaysian Fast Attack Craft of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 40 mm.
+The Shell is 40×365mmR.
+The Shell Weight is 0.9 kg.
+The Basic Load is INA.
+
+Here is Radar Systems information for the Jerong Class Malaysian Fast Attack Craft:
+The Navigation Radar is 1 x Kelvin-Hughes 1007 radar.
+
+Here is Protection information for the Jerong Class Malaysian Fast Attack Craft:
+The NBC Water Washdown System is Yes.
+The EW Intercept is 1 x Thales DR-3000 intercept.
+

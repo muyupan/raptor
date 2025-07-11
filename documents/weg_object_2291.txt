@@ -1,0 +1,18 @@
+This document describes the PMN-1 Russian Anti-Personnel Mine.
+
+The design of the PMN-1 mine dates from the late 1950s. It is particularly deadly because it contains an unusually large explosive filling when compared to most other anti-personnel landmines. For comparison, most anti-personnel blast mines (e.g. the VS-50) contain around 50 grams of high explosive, which typically destroys all or part of a victim's foot. In marked contrast, a PMN-1 contains 249 grams of explosive which can easily destroy a victim's entire leg (frequently requiring amputation high above the knee) in addition to inflicting severe injuries on the adjacent limb, which may also require some form of amputation due to blast injury. The majority of anti-personnel mine victims (e.g. those who step on an M14 mine containing 29 grams of explosive) have a very high probability of survival, though inevitably they suffer permanent disability regarding their gait. However, the amount of explosive inside a PMN-1 mine is so large that the risk of victims dying is significantly greater and, assuming that they survive their injuries, the degree of disability inflicted is much more severe.
+
+These mines are palm sized and cylindrical in shape. The PMN-1 has a bakelite case (brown or black in color) with a black rubber pressure-plate and contains TNT explosive.
+
+The PMN-1 mine is armed by removing a steel ring-pull at the end of the horizontal fuze. When in position, the pin on the end of the ring-pull holds a spring-loaded striker back from the stab-detonator. Pulling out the ring-pull starts an arming delay, which comprises a thin steel wire (held under tension by the spring-loaded striker) which must cut through a small strip of lead before it is freed. The process of cutting through the lead strip takes between 2 and 12 minutes, depending on ambient temperature. After the wire has completely cut through the lead strip, the spring-loaded striker is freed and slides forward a few millimeters before stopping, blocked by the sliding gate of the pressure plate mechanism. At this point the mine is fully armed i.e. the only thing holding back the spring-loaded striker from the stab-detonator is a weak creep-spring on the pressure plate mechanism. Subsequently, any downward pressure on the pressure plate (i.e. when someone steps on the mine) overcomes the upward pressure of the creep-spring and pushes down the sliding gate that holds back the spring-loaded striker. This action frees the striker which flips forward into the stab detonator, firing both it and the adjacent tetryl booster which triggers detonation of the main TNT explosive filling. It is not a blast resistant mine.
+
+This equipment has proliferated into the following countries: Cambodia, Laos (People's Democratic Republic), Myanmar, Russian Federation, Ukraine, Viet Nam.
+
+Here is System information for the PMN-1 Russian Anti-Personnel Mine:
+The Height is 57.
+The Diameter is 112.
+The Main charge weight is 240 g TNT (initiated by a 9 gram tetryl booster).
+The Total Weight is 600.
+The Fuze is MD-9 (stab-sensitive).
+The Operating pressure is 5.8 kg.
+

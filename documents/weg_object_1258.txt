@@ -1,0 +1,40 @@
+This document describes the S-400 Triumph (SA-21 Growler) Russian Long-Range Surface-to-Air Missile (SAM) System.
+
+The S-400 name refers to a family of long-range air defense systems. The system family is only thought to have a domestic and an export variant, and only the former is treated as its own system of systems within this record, due to a lack of confirmed information relating to the export variant. The S-400 was originally conceived in the Soviet Union during the 1980s, as a replacement for the S-200 Angara/Vega/Dubna series of SAM systems. It was intended as a multifunctional long-range air-defense system that would form the upper level of the Russian multi-layer air and ballistic missile defense system. The S-400 system has entered service with only two users outside of Russia (China and Turkey), and due to its formidable capabilities to shift the balance of air power to regions where it is deployed, its sale is often accompanied by significant controversy.
+
+This equipment has proliferated into the following countries: Belarus, China, India, Russian Federation, Saudi Arabia, Turkey.
+
+Here is Variants information for the S-400 Triumph (SA-21 Growler) Russian Long-Range Surface-to-Air Missile (SAM) System:
+The S-400E is Suspected export variant with reduced characteristics, to include modified or differing communications equipment, operating frequencies of radars, ECM protection, and missiles..
+
+Here is System information for the S-400 Triumph (SA-21 Growler) Russian Long-Range Surface-to-Air Missile (SAM) System:
+The Alternative Designations is Triumf, Triumph as a translation.
+The Targets is Fixed-wing, rotary-wing, IRBMs, UAVs, cruise missiles.
+The Crew is INA.
+The Configuration is Group/brigade 2-8 bns and 91N6 E2. Each bn has 6-12 trailer launchers (TLs, aka mobile erector launchers or MELs) , 55K6E 8x8 van, 5T58-2 SAM transporter, 22T6-2 loading crane, and radars. Battery (firing unit) has 3 TLs..
+
+Here is Trailer Launcher (TL) or MEL information for the S-400 Triumph (SA-21 Growler) Russian Long-Range Surface-to-Air Missile (SAM) System of the Armament:
+The Name is 5P85TE2.
+The Tractor is BAZ-64022 6x6 tractor.
+The Missiles per Launcher is 3 x 40N6, 4 x 9M96E2 (current likely mix).
+The Automotive Performance is For 5P85TE2 TL.
+The Cruising Range (km) is 800 (est).
+The Road/ Dirt Road Speed (km/h) is 60/30 (est).
+
+Here is Missile information for the S-400 Triumph (SA-21 Growler) Russian Long-Range Surface-to-Air Missile (SAM) System of the Armament:
+The Name is 40N6 “big missile”.
+The Type is Solid-fuel.
+The Launch Mode is Vertical launch.
+The Effective Range is 250 km.
+The Max Altitude is 27 km.
+The Guidance is Track-Via-Missile, missile active radar homing.
+The Warhead Type is Frag-HE.
+The Warhead Weight (kg) is 180+.
+The Fuze Type is Radio command.
+The Probability of Hit (Ph%) is 90 FW. 80 heli.
+The Simultaneous missiles is up to 2 per target (doubles probability of hit).
+The Weight (kg) is 2,000, 2,800 in canister.
+
+Here is 9M96E2/9M96M “small missile” information for the S-400 Triumph (SA-21 Growler) Russian Long-Range Surface-to-Air Missile (SAM) System of the Armament:
+The Description is A canister of 4 can fit on the SA-21 launcher in place of a big missile. It is possible that most launchers in most batteries (by the Near Term) will have 2 canisters of small missiles (8 total)..
+

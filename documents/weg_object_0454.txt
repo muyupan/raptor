@@ -1,0 +1,93 @@
+This document describes the BM-14 Russian 140mm Multiple Launch Rocket System.
+
+The BM-14 (BM for Boyevaya Mashina, 'combat vehicle), is a Soviet-made 140mm multiple launch rocket system (MLRS), normally mounted on a truck.
+
+The BM-14 can fire 140 mm M-14 rockets with a high-explosive fragmentation warhead, a smoke warhead, or a chemical warhead. It is similar to the BM-13 "Katyusha" and was partly replaced in service by the 122 mm BM-21 Grad.
+
+Launchers were built in 16 and 17-round variants. The rockets have a maximum range of 9.8 kilometers (6.1 mi).
+
+The weapon is not accurate as there is no guidance system, but it is extremely effective in saturation fire.
+
+This equipment has proliferated into the following countries: Afghanistan, Albania, Algeria, Angola, Burkina Faso, Cambodia, China, Congo, Cuba, Egypt, Indonesia, Laos (People's Democratic Republic), Madagascar, North Korea (Democratic People's Republic of Korea), Poland, Russian Federation, Sudan, Syria, Viet Nam, Yemen, Zimbabwe.
+
+Here is Variants information for the BM-14 Russian 140mm Multiple Launch Rocket System:
+The BM-14M is improved version, mounted on a ZIL-157 chassis. In 1958 production of the ZIL-151 truck ceased in favor to the newer ZIL-157. So launcher module was simply relocated onto a new chassis..
+The BM-14MM is improved version, mounted on a ZIL-131 chassis. It appeared in the mid 1960s. This vehicle has better cross-country mobility due to a 150 hp engine and central tyre inflation system. Artillery module is exactly the same as used on the BM-14. This version was exported to  Burkina Faso..
+The BM-14-17 (8U35) is 17-round (8+9 launch tubes) launcher, mounted on the GAZ-63A. Developed in 1959. This launcher was also used on naval vessels, for example Project 1204 patrol boats..
+The BM-14-17M (8U35M) is modified model, mounted on the GAZ-66..
+The RPU-14 (8U38) is towed 16-round version, based on the carriage of the 85mm gun D-44 and used by Soviet Airborne Troops, where it was replaced by the 122mm BM-21V "Grad-V"..
+
+Here is System information for the BM-14 Russian 140mm Multiple Launch Rocket System:
+The Alternative Designation is BM-14; BM-14-16.
+The Type is Multiple Launch Rocket System.
+The Caliber is 140 mm.
+The Manufacturer is NII 303.
+The Crew is 6.
+The Chassis is The launcher module is mounted on a modified ZIL-151 6x6 truck chassis.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the BM-14 Russian 140mm Multiple Launch Rocket System:
+The Length is 6.92 m.
+The Width is 2.3 m.
+The Height is 3.17 m.
+The Weight, Combat is 8.4 tons.
+The Ground Clearance is 0.27 m.
+
+Here is Automotive information for the BM-14 Russian 140mm Multiple Launch Rocket System:
+The Engine Name is ZIL-121.
+The Engine Type is 6-cylinder petrol.
+The Engine Power is 92.
+The Fuel Capacity is 300 Liters.
+The Power-to-Weight Ratio is 11.0 hp/t.
+The Transmission is Manual, 5 forward, 1 reverse.
+The Maximum Speed is 60 km/h.
+The Amphibious is No.
+The Range is 600 km.
+The Gradient is 50%.
+The Vertical Obstacle is 0.6 m.
+The Fording is 0.8 m.
+The Trench is 0.7 m.
+
+Here is System information for the BM-14 Russian 140mm Multiple Launch Rocket System of the Main Weapon System:
+The Name is INA.
+The Type is Multiple Launch Rocket System.
+The Caliber is 140 mm.
+The Number of Tubes is 16.
+The Elevation is +50°/0°.
+The Traverse is 180°.
+The Muzzle Velocity is 400 m/s.
+The Full Salvo Duration is 7 - 10 seconds.
+The Reloading Time is 2 minutes.
+The Maximum Firing Range is 9.8 km.
+
+Here is Ammunition information for the BM-14 Russian 140mm Multiple Launch Rocket System of the Main Weapon System:
+The Name is M-140.
+The Type is Rocket (HE-FRAG, Smoke, and Chemical).
+The Caliber is 140 mm.
+The Warhead Weight is 18.4 kg.
+The Rocket Weight is 39.6 kg.
+The Basic Load is 16.
+The Note is The BM-14 launcher and its variants can fire 140mm rockets of the M-14-series (also called Soviet-made M14 artillery rockets). The M-14 series consist of three known types:
+
+M-14-OF - an M-14 rocket with a high-explosive fragmentation warhead containing 3.68 kilograms (8.1 lb) of TNT;;
+M-14-D - an M-14 rocket with a smoke warhead containing white phosphorus;
+M-14-S - an M-14 rocket with a chemical warhead containing 2.2 kilograms (4.9 lb) of sarin..
+
+Here is Fire Control information for the BM-14 Russian 140mm Multiple Launch Rocket System:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+
+Here is Protection information for the BM-14 Russian 140mm Multiple Launch Rocket System:
+The Hull Armor is All BM-14 launchers do not feature any protection from direct and indirect fire or NBC threats. The launcher is operated, fired and reloaded outside the vehicle..
+The Turret Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

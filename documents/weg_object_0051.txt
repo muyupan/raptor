@@ -1,0 +1,177 @@
+This document describes the 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH).
+
+The 2S19 "Msta-S" (Russian: Мста, after the Msta River) is a 152.4 mm self-propelled howitzer designed by the Soviet Union, which entered service in 1989 as the successor to the 2S3 Akatsiya. The vehicle is based on the T-80 tank hull but is powered by the T-72's diesel engine.
+
+The Msta is a modern howitzer designed for deployment either as an unarmored towed gun or to be fitted in armored self-propelled artillery mountings. The current production of the towed model is designated Msta-B, while the self-propelled model is the Msta-S (also known by the GRAU index 2S19).
+
+Development of the 2S19 started in 1980 under the project name Ferma. The prototype was known as Ob'yekt 316. The 2S19's standard equipment consists of a semi-automatic laying system 1P22, an automatic loader, an NBC protection system, a passive night vision device for the driver, a wading kit, a dozer blade, a smoke generator and 81mm smoke launchers, 1V116 intercom system and a 16 kW generator AP-18D. In 2008 the Russian armed forces ordered an improved model with an automated fire control system.
+
+The 2A64 ordnance of the 2S19 can fire the following types of ammunition, among others: HE (24.7 km), HEAT-FS, HE-BB (28.9 km), HERA (36 km), smoke, chemical, tactical nuclear, illumination and cargo (ICM). The laser-guided round “Krasnopol” (of the 9K25 system) can also be launched, as well as the shorter "Krasnopol-M” which fits into the automatic loader.
+
+Msta-S howitzers were used by the Russian Army to deliver artillery strikes against Chechen separatists during the Second Chechen War.
+
+Msta-S howitzers have also been used in the War in Donbas by the Ukrainian Army as well as pro-Russian separatists who captured one machine during the conflict.
+
+This equipment has proliferated into the following countries: Azerbaijan, Belarus, CFE Treaty, Ethiopia, Georgia, Russian Federation, Ukraine, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH):
+The 2A65 MSTA-B (M1986) 152-mm towed howitzer is This is the same 152-mm weapon as the 2S19 on a two-wheel towed carriage with split trails..
+The MSTA-K is This was a prototype comprising a MAZ (8 x 8) truck supporting a modified turret fitted with the 2S19..
+The 2S19M MSTA-S is This variant, developed by mid-2000, featured the ASUNO automatic gun fire-control system..
+The 2S19M1 MSTA-S is This system features the ASUNO fire-control system and a 155-mm main gun..
+The 2S19M1-155 is Uraltransmash has developed a variant of the 2S19M1 fitted with a NATO-standard 155-mm/52-cal cannon for the export market..
+The 2S19M2 MSTA-SM2/2S33 is This is an upgraded version of the MSTA-S. It features a new ASUNO-M automatic fire-control system, which increases the rate of fire to 10 rounds per minute..
+The 2S33 MSTA-SM is This is a modernized version with a new 2A79 cannon with upgraded ballistics. It has a range of more than 25 mi (40 km)..
+The 2S30 Iset is This is an improved variant of the MSTA-S with more advanced automation..
+
+Here is System information for the 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is 2S19M1 Msta-S.
+The Type is Self-propelled howitzer.
+The Caliber is 152 mm.
+The Manufacturer is Uraltransmash.
+The Family is Msta-S 2S19 family.
+The Chassis is Modified T-72.
+The Crew is 5.
+The Displacement Time is 1.5.
+The Emplacement Time is 1.5.
+The Estimated out of service date is 2038.
+The Navigation System is Yes, GNSS.
+The Note is The 2S19 is rated a Tier 2 because it has been identified as one of the top 52 pieces of Russian Equipment..
+
+Here is Dimensions information for the 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH):
+The Length, Overall is 11.917 m.
+The Length, Hull is 6.04 m.
+The Width, Overall is 3.584 m.
+The Width, Without Skirts is 3.38 m.
+The Height is 2.985 m.
+The Track Length is 4.704 m.
+The Track Width is 580 mm.
+The Weight is 42,000 kg.
+The Ground Clearance is 0.435m.
+
+Here is Automotive information for the 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH):
+The Engine Name is V84-A.
+The Engine Type is V-12, multifuel.
+The Engine Power is 780.
+The Auxiliary Power is AP-18D system.
+The Electrical System is 27 V.
+The Suspension is Torsion bar.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 25.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60 %.
+The Side Slope is 30 %.
+The Vertical Step is 0.85.
+The Trench is 2.8.
+The Fording Depth (Without Preparation) is 1.2.
+The Fording Depth (With Preparation) is 5.
+
+Here is Communications information for the 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH):
+The Primary is R-173M.
+The Intercom is 1V116 intercom.
+
+Here is System information for the 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is 1 × turret mounted 2A46 howitzer.
+The Type is Howitzer.
+The Caliber is 152 mm.
+The Breech Type is Vertical sliding wedge.
+The Manufacturer is Motovilikha Plants.
+The Length, Barrel is 7,200m L/47.
+The Weight is 6,800.
+The Loader Type is Automated.
+The Max Rate of Fire is 8.
+The Sustain Rate of Fire is 3-4.
+The Muzzle Brake Type is Double baffle.
+The Max Elevation is +68.
+The Min Elevation is -3.
+The Traverse Range is 360.
+The Range Finder Type is INA.
+The Central Bore Evacuator is Yes.
+The Travel Lock is Yes.
+The TZM-K 2F66-1 Capable is Yes.
+The Note # 1 is Engage a target within 30 seconds of receiving target coordinates,.
+The Note # 2 is the 2S19 to fire all 152 mm howitzer ammunition in the Russian inventory, including those rounds designed for very old Soviet weapons such as the D-20..
+
+Here is Ammunition (Option 1) information for the 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is 152-mm Frag-HE, OF-72.
+The Caliber is 152.
+The Muzzle Velocity is 864.
+The Fuse Type is RGM-2 PD.
+The Maximum Effective Range is 24,700.
+The Complete Projectile Weight (OF-45) is 43.56.
+The Basic Load is 50 Total Rounds of any 152mm combination projectile.
+
+Here is Ammunition (Option 2) information for the 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is 152-mm Frag-HEAT, BP-540.
+The Caliber is 152.
+The Muzzle Velocity is 655.
+The Fuse Type is GPV-3 PD.
+The Maximum Effective Range is 27,000.
+The Complete Projectile Weight is 27.
+The Basic Load is 50 Total Rounds of any 152mm combination projectile.
+
+Here is Ammunition (Option 3) information for the 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is 152-mm Frag-HE BB, OF-91.
+The Caliber is 152.
+The Muzzle Velocity is 828.
+The Fuse Type is KZ-88 PD.
+The Maximum Effective Range is 29,000.
+The Complete Projectile Weight (OF-61) is 42.86.
+The Basic Load is 50 Total Rounds of any 152mm combination projectile.
+The Note is The 2S19 can fire the additional 152mm projectiles: 9K25 Krasnopol guided projectile and the 3-RB-30 radio jamming round.
+
+Here is System information for the 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Name is 1 x NSVT 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Manufacturer is "Metallist", Uralsk, Kazakh SSR, Crvena ZastavaSerbia.
+The Max Rate of Fire is 700-800.
+The Weight (Gun Only) is 25.
+The Weight (On Tripod) is 41.
+The Weight (50-Round Belt) is 11.
+The Length (Total) is 1,560.
+The Action is Gas Operated.
+The Feed System is 50-Round Belt.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7×108mm.
+The Muzzle Velocity is 845.
+The Effective Firing Range (vs. Air Targets) is 1,500.
+The Effective Firing Range (vs. Ground Targets) is 2,000.
+The Basic Load is 500.
+
+Here is Fire Control information for the 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH):
+The Name is Eectric and mechanical control system designated 2Eh46.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes, PZU-5 or PZU-7 sight.
+The Thermal Sight Gunner is Yes, Panoramic 1P22 sight and 1P23 direct fire set.
+The Main Gun Stabilization is Yes, via the 2Eh46.
+The Indirect Fire is 1P22 Panoramic Telescope (PANTEL).
+The Direct Fire is 1P23.
+The Collimator is K-1.
+The Ballistic Computer is Yes.
+The Traverse is Semi-Automatic.
+The Artillery Command and Control System is 1V12M Falstet artillery command and control system.
+The Note is Returns the barrel to its firing line automatically after every shot.
+
+Here is Protection information for the 2S19 Msta-S Russian 152mm Self-Propelled Howitzer (SPH):
+The Hull Armor is The protection offered by the hull is unclear as it is understood to be based on the T-72. In its standard configuration the T-72A is built from rolled homogeneous armour that is further protected by Combination-K armor..
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Built-in bulldozer blade is Yes.
+The NBC Protection is Yes, System Sensor Radiation Device and chemical intelligence (PRRM).
+The Smoke Equipment is Yes, To obscure itself the vehicle can inject diesel into its exhaust manifold, to create a smoke screen that can be employed for no more than 10 minutes, using 10 litres of fuel per minute when in use..
+The Grenade Launcher is Yes, six 81 mm Toucha 902B grenade launchers that fire the ZD-6 smoke grenade.
+The Grenade Range is 200-300.
+The Grenade Smoke Screen is 30 m wide and 10 m high for 60 seconds per grenade.
+The Automatic fire suppression systems. is Yes.
+The Camouflage system is Yes, Накидка or cape camouflage system.
+The Camouflage IR Reduction is 30.
+

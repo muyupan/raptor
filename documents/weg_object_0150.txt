@@ -1,0 +1,167 @@
+This document describes the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette.
+
+The Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette are a series of anti-submarine corvettes built by the Soviet Union between 1970 and 1990 and later by Russia and Ukraine with newer, upgraded ships introduced in 2006. These ships have a limited range and are largely used only in coastal waters. They have been equipped with a variety of  Anti-Submarine Warfare (ASW) weapons and an SA-N-4 'Gecko' surface-to-air missile launcher. All were fitted with retractable fin stabilizers. The designation "corvette" for these ships was a conditional adaptation as the Soviet classification was a small anti-submarine ship. In the Russian Navy, the Grishas are expected to be partially replaced by the Steregushchiy-class corvette.
+
+This equipment has proliferated into the following countries: Georgia, Lithuania, Russian Federation, Ukraine.
+
+Here is Variants information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette:
+The Grisha I (1124.1) is 12 ships built between 1970 and 1974 and decommissioned by 1979.
+The Grisha II class (1124A) is U205 Chernigiv and U206 Vinnitsya are Grisha II Corvettes from the former Soviet border guard units transferred to the Ukrainian border guard, then to the Ukrainian navy..
+The Grisha II class (1124P) is Built for the KGB border guard and marked with P for pogranichnyi meaning "on the border". This class was built only in Zelenodolsk and Vladivostok. These ships had a second 57 mm gun mounting replacing the SA-N-4 missile system forward. 17 ships were built in the 1970s. Two were transferred to the Ukrainian Navy and around seven are in service with the Russian Maritime Border Guard..
+The Grisha III class (1124M) is Built in the late 1970s to early 1980s. These ships incorporated several small scale modifications, including a 30 mm gun and new electronics. Thirty four units were built. About 20 remain in Russian service as of 2020. Two ships were in service with the Lithuanian Navy until 2009..
+The Grisha IV class (1124K) is A single ship was built in Zelenodolsk. This ship was a test ship for the SA-N-9 missile system and later was decommissioned..
+The Grisha V class (1124 ME, 1124.4) is 30 ships were built between 1985 and 1994 and incorporated further modifications with the twin 57 mm guns being replaced by a single 76 mm gun. About 28 ships remain in the Russian Navy. The Lutsk ASW corvette is also in service..
+The Grisha V class (1124 MU) is Ukrainian ships built after the dissolution of the Soviet Union among which is Ternopil that entered service in 2006 with the Ukrainian Navy..
+
+Here is System information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette:
+The Alternative Designation is Grisha Class (Project 1124) Albatros, Anti-submarine Corvette.
+The Type is Corvette.
+The Builder is Zelenodolsk Gorky Plant (340), Zelenodolsk; Leninska Kuznya (302), Kiev; Kirov Shipyard (876), Khabarovsk; Eastern Shipyard (602), Vladivostok.
+The Crew is 60.
+The Note is The Grisha class antisubmarine ship is designed to to find and destroy high-speed enemy submarines and warships escort convoys in the near sea zone..
+
+Here is Dimensions information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette:
+The Length is 71.6 m.
+The Beam is 9.8 m.
+The Draft is 3.7 m.
+The Displacement, Standard is 980 tons.
+The Displacement, Full Load is 1,070 tons.
+
+Here is Propulsion System information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette:
+The Engine #1 is 2 x M-507A cruise diesels, 20,000 shp, (2 shafts).
+The Engine #2 is 1 x М-8М boost, gas turbine (18,000 shp) (1 shaft).
+The Power Plant (Electrical) is 1 x DG-500 (500 kW), 1 x DG-300 (300 kW), 1 x DG-200 (200 kW).
+The Propellers is 3 ea.
+The Maximum Range is 1,200 nm at 20 knots; 2,200 at 14 knots.
+The Maximum Speed is 25 knots.
+
+Here is Missile (Option #1) information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette of the Missiles:
+The Name is 20 x 9M33 Surface-to Air missile.
+The Type is Surface-to Air missile.
+The Diameter is 0.206 m (body).
+The Length is 3.158 m.
+The Weight is 128 kg.
+The Wingspan is 0.65 m.
+The Propulsion is Single-stage solid propellant rocket motor.
+The Magazine is 40 missiles.
+The Guidance is Command guidance.
+The Interace is Radio Frequency.
+The Launch Interval is 2 x missies per minute.
+The Range is 10 km.
+The Speed is 500 m/s.
+The Altitude (max) is 3.5 km.
+The Basic Load is 20 x 9M33 Surface-to Air missile.
+
+Here is Missile #2 information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette of the Missiles:
+The Name is 10 x Strela-3 9K34 (SA-14 Gremlin) Surface-to Air missile.
+The Type is Surface-to Air missile.
+The Diameter is 72 mm.
+The Length is 1.42 mm.
+The Weight is 10.3 kg.
+The Guidance is Single channel passive infra-red homing seeker.
+The Envelope is Receding and approaching targets.
+The Target Speed (Max) is 310 m/sec (receding), 260 m/sec (approaching).
+The Warhead is HE-Frag.
+The Propulsion is Single-stage solid propellant rocket motor.
+The Range (Max) is 4.5 km.
+The Speed (Max) is 630 m/sec.
+The Altitude (Max) is 3.0 km.
+The Basic is 10 x Strela-3 9K34 (SA-14 Gremlin) Surface-to Air missile.
+
+Here is Gun Weapon System #1 information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette of the Gun Weapon System:
+The Name is 1 x AK-176 76.2mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 76.2 mm.
+The Weight is 11.2 tons (Empty Turret), 13.1 tons (w/ ammunition).
+The Traverse is -168 deg to +168 deg.
+The Traverse Rate is 35 deg/sec.
+The Elevation is -10 deg to +85 deg.
+The Elevation Rate is 30 deg/sec.
+The Rate of Fire is 30, 60 or 120 rds/min.
+The Feed Mechanism is Automatic Loader.
+The Maximum Range is 15.7 km.
+The Muzzle Velocity is 980 m/sec.
+The Crew is 2 below deck, 2 for manual operation on mount.
+The Fire Control is 1 x MR-123-02/76 Fire Control Radar System..
+
+Here is Gun Weapon System  #1 Ammunition information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette of the Gun Weapon System:
+The Type is Rifle.
+The Caliber is 76.2 mm.
+The Shell Weight is 12.4 kg.
+The Basic Load is 304 ROunds.
+
+Here is Gun Weapon System #2 information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette of the Gun Weapon System:
+The Name is 1 x AK 630 30mm Close-In Weapon System (CIWS).
+The Type is Close-In Weapon System (CIWS).
+The Caliber is 30 mm.
+The Main Armament is 1 or 2 AO-18 autocannons.
+The Secondary Armament is 4 x 9A4172 missiles.
+The Barrel Length is 1,629 mm.
+The Height is 1,070 mm (above deck).
+The Weight is 1,000 kg.
+The Barrels is 6.
+The Fire Control System is 1 x MR-123 radar and television detection and tracking..
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880-900 m/s.
+The Maximum Effective Range, Surface Targets is 5,000 m.
+The Maximum Effective Range, Aerial Targets is 4,000 m.
+The Feed System is Belt.
+The Sights is Radar / TV-optical.
+
+Here is Gun Weapon System #2 Ammunition information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette of the Gun Weapon System:
+The Type is HEI-Frag, Frag-T, APDS-T.
+The Caliber is 30 mm.
+The Shell Weight is 0.39 kg.
+The Basic Load is 3,000 Rounds.
+
+Here is Torpedo System information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette:
+The Name is Type 533 Torpedo System.
+The Type is 53 cm (21 inch) torpedoes.
+The Primary Function is ASUW torpedo.
+The Length is 7.2 m.
+The Diameter is 53 cm.
+The Weight is 2,070–2,300 kg.
+The Fire Controls System (FCS) is 1 x Drakon Fire Control System.
+The Range is 18,000 meters (20,000 yd).
+The Speed is 45 kn (52 mi/h, 83 km/h).
+The Guidance System is Wake Homing.
+The Warhead is 307.6 kilograms (678 lb) high explosive.
+
+Here is Rockets information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette:
+The Name is RBU-6000 Smerch- 2.
+The Type is Anti-Submarine Rocket Launcher System.
+The Weight is 3,100 kg (empty).
+The Length is 2.0 m.
+The Width is 1.75 m.
+The Height is 2.25 m.
+The Elevation is -15 deg to +65 deg.
+The Traverse is 180 deg.
+The Rocket Type #1 is RGB-60 Projectile; Ballistic 1 - 350 m to 1700 m, Ballistic 2 - 1500 m to 5500 m..
+The Rocket Type #2 is 90R Projectile; Range: 600 m to 4,300 m..
+The Basic Load is 48 x rockets (Combination type varies, mission/availability dependent)..
+
+Here is Mine System information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette:
+The Note is Up to 18 x mines can be deployed from depth charge racks..
+
+Here is Fire Control System (FCS) information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette:
+The AK-176 FCS is 1 x MR-123 Vympel-A fire control system..
+The AK-630 FCS is 1 x  MR-123 radar and television detection and tracking..
+The Torpedo FCS is 1 x Drakon Fire Control System.
+
+Here is Radar Systems information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette:
+The Navigation Radar is 1 x Don-2 navigation radar..
+The Air and Search Radar is 1 x MR-755 Fregat-MA-1 air/surface search radar..
+The Fire Control System (FCS) Radars is 1 x 4R-33MA Pop Group SA-N-4 Fire Control Radar; 1 x MR-123-01 AK-176 Fire Control Radar..
+
+Here is Sonar Systems information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette:
+The Low-Frequency Hull-Mounted Sonar is 1 x MGK-335MC Platina/Bull Horn low-frequency hull-mounted sonar..
+The Medium-Frequency Dipping Sonar is 1 x Shelon'/Elk Tail medium-frequency through-hull dipping sonar..
+
+Here is Protection information for the Grisha-Class (Project 1124 Class) Russian Anti-Submarine Corvette:
+The Hull is INA.
+The Countermeasures is Yes.
+The NBC Water Washdown System is Yes.
+The EW is 1 x Bizan-4B suite with WatchDog intercept..
+The Depth Charges is 2 x depth charge tracks [6 x depth charges per rack]..
+The Decoys is PK-16 decoy RL (2 launchers KL-101) and PK-10 Smely (4 KT-216 launchers).
+

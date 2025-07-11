@@ -1,0 +1,81 @@
+This document describes the Type 96 Japanese 8x8 Armored Personnel Carrier.
+
+The Type 96 Japanese 8x8 Wheeled Armored Personnel Carrier (APC) is built by Komatsu, Tokyo, Japan. The vehicle is equipped with a central tire-inflation system and the front four wheels are steerable. The vehicle is capable of continuing movement with whenever one of the wheels is damaged  or completely destroyed. 
+
+The APC crew consist of 2 (driver and commander/gunner) with the driver located on the front right of the vehicle. The commander/gunner occupies a position in a raised cupola with a single-piece, rear-opening hatch. behind the driver. The cupola has day periscopes for 360 degree observation and is capable of mounting a .50 caliber machinegun or the Type 96 40-mm automatic grenade launcher.
+This is an 8x8 Wheeled APC designed to transport 8 infantryman on a battlefield. The APC is not amphibious. 
+
+
+Troops enter and exit the APC through a hydraulically operated ramp located at the rear of the APC. Or, the troops can enter and exit through the five hatches on the roof (three on the left and two on the right) or through a door located on the rear ramp.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is Variants information for the Type 96 Japanese 8x8 Armored Personnel Carrier:
+The Type 96 NBC Reconnaissance is This variant is equipped with a suite of sensors; weather-observation systems; self decontamination system and an air purification system for operations in a NBC environment. The commander/gunner station is located on the front right of the vehicle. The variant also has a higher roof and the powerpack is located on the right side of the vehicle between the second and third wheels. It will replace the Type 82 NBC vehicle..
+
+Here is System information for the Type 96 Japanese 8x8 Armored Personnel Carrier:
+The Alternative Designations is Type 96.
+The Description is Armored Personnel Carrier (APC).
+The Configuration is 8x8.
+The Manufacturer is Komatsu, Tokyo, Japan..
+The Crew is 2 (driver, commander/gunner).
+The Passengers is 8.
+The Note is Troops enter and exit the APC through a hydraulically operated ramp located at the rear of the APC. Or, the troops can enter and exit through the five hatches on the roof (three on the left and two on the right) or through a door located on the rear ramp..
+
+Here is Dimesions information for the Type 96 Japanese 8x8 Armored Personnel Carrier:
+The Length is 6.84.
+The Width is 2.48.
+The Height to hull top is 1.85.
+The Weight is 14,500.
+The Ground Clearance is INA.
+
+Here is Automotive information for the Type 96 Japanese 8x8 Armored Personnel Carrier:
+The Engine Name is Mitsubishi 6D40.
+The Engine Type is 1 x 4-cycle, 6-cyl diesel water-cooled.
+The Engine Power is 360 hp at 2,200 rpm.
+The Transmission is INA.
+The Fuel Capacity is INA.
+The Cruising Range is 500.
+The Speed (Max Road) is 100.
+The Speed (Max Swim) is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.5.
+The Trench is 2.
+The Fording Depths (m) is 1.
+The Suspension is 8x8 ( 8-Wheel drive, 4-wheel steering).
+
+Here is System information for the Type 96 Japanese 8x8 Armored Personnel Carrier of the Main Weapon System:
+The Name is 1 x M2  Browning Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight, Gun with Tripod and T&E is 58.1 kg.
+The Action is Short recoil-operated.
+The Rate of Fire is 450-600 rds/min.
+The Effective Firing Range is 1,800 m.
+The Maximum Firing Range is 7,400 m.
+The Feed System is Belt-fed (M2 or M9 links).
+The Sights is Iron sights.
+
+Here is Ammunition information for the Type 96 Japanese 8x8 Armored Personnel Carrier of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7×99mm NATO.
+The Basic Load is 2,000 Rounds.
+
+Here is Fire Control information for the Type 96 Japanese 8x8 Armored Personnel Carrier:
+The FCS Name is INA.
+The Computerized FCS is No.
+
+Here is Protection information for the Type 96 Japanese 8x8 Armored Personnel Carrier:
+The Armor is All welded steel hull.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is Yes.
+The Smoke Equipment is Four smoke grenade launchers on the roof over the troop compartment..
+The Laser Warning Receiver is Yes.
+

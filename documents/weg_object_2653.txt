@@ -1,0 +1,90 @@
+This document describes the Saxon British 4x4 Armored Personnel Carrier (APC).
+
+The Saxon wheeled APC was developed by GNK Defence to provide a relatively low-cost armored personnel carrier for the British Army. It was an economical supplement to the much more sophisticated and expensive Warrior tracked infantry fighting vehicle. The Saxon is a very basic infantry carrier. It is based on a revised Bedford M series 4x4 truck chassis and other commercially available components such as the engine and transmission. 
+
+The Saxon was intended to act as a cheap but efficient "battle-taxi" for units that would have to make long journeys from the UK to reinforce the British Army of the Rhine. It was made as a relatively low-cost armored personnel carrier based on a revised Bedford M series 4x4 truck chassis and other commercially available components. As a lightly armored wheeled vehicle, it is much faster - especially on roads - and easier to maintain than a tracked vehicle. Indeed, it shares many parts with commercial trucks, reducing the operating cost. It is armored against small-arms fire and shell splinters but is not intended to stand up to any anti-vehicle weaponry. The vehicle has a single machine gun for local air defense.
+
+The Saxon's hull is welded steel with a V-shaped under-chassis plate to deflect mine detonations. Seating is provided in the rear for up to ten troops, although eight is a more comfortable load if all their equipment is included. There is an equipment storage area on the hull roof.
+
+Some Saxon IS, or Saxon Patrol, vehicles were acquired for service in Northern Ireland, serving as ambulances or troop carriers, which had extendible wings that could be used as protective shields during a riot. Compared to the standard model, these have various minor modifications intended for internal security operations, such as searchlights and wire cutters.
+
+This equipment has proliferated into the following countries: Bahrain, CFE Treaty, Malaysia, Mozambique, Nigeria, Somalia, Ukraine.
+
+Here is Variants information for the Saxon British 4x4 Armored Personnel Carrier (APC):
+The Saxon is APC.
+The Saxon, Command vehicle (AT105C) is C2 Vehicle.
+The Saxon Patrol is APC/internal security.
+The Saxon, Ambulance (AT105A) is Ambulance.
+The Saxon, Recovery (ARV) is Armoured recovery.
+The Saxon, 2006 UOR is APC.
+The Saxon Mk 2 is APC.
+
+Here is System information for the Saxon British 4x4 Armored Personnel Carrier (APC):
+The Alternative Designation is Saxon.
+The Type is Armored Personnel Carrier (APC).
+The Manufacturer is GKN Defence/UkrOboronProm.
+The Family is Saxon Series.
+The Configuration is 4x4.
+The Crew is 2.
+The Passenger Capacity is 10.
+
+Here is Dimensions information for the Saxon British 4x4 Armored Personnel Carrier (APC):
+The Length is 5.169 m.
+The Width is 2.489 m.
+The Height is 2.86 m.
+The Wheelbase is 3.073 m.
+The Weight, Standard is 9,940 kg.
+The Weight, Combat is 11,660 kg.
+The Ground Clearance, Hull is 0.41 m.
+The Ground Clearance, Front Axle is 0.29 m.
+
+Here is Automotive information for the Saxon British 4x4 Armored Personnel Carrier (APC):
+The Engine Name is Bedford 500.
+The Engine Type is 6 cylinders, Diesel.
+The Engine Power is 164 hp at 2,800 rpm.
+The Power-to-Weight Ratio is 14.06 hp/t.
+The Fuel Capacity is 153 litres.
+The Electrical System is 24 V.
+The Steering is Burman, power-assisted.
+The Suspension is semi-elliptical springs and hydraulic shock-absorbers.
+The Tires is 14.00 × R20.
+The Angle of Approach is 48°.
+The Angle of Departure is 40°.
+The Gradient is 60%.
+The Vertical Obstacle is 0.41 m.
+The Fording is 1.12 m.
+The Amphibious is No.
+The Turning Radius is 7.57 m.
+
+Here is System information for the Saxon British 4x4 Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 × roof mounted FN MAG 7.62 mm Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,263 mm.
+The Barrel Length is 630 mm.
+The Weight is 11.8 kg.
+The Action is Gas-operated long-stroke piston, open bolt.
+The Rate of Fire is 650–1,000 rounds/min.
+The Muzzle Velocity is 840 m/s.
+The Maximum Firing Range is 3,500 m.
+The Effective Firing Range is 800 m (bipod);
+1,800 m (tripod).
+The Feed System is Non-disintegrating DM1 or disintegrating M13 linked belt.
+The Sights is Folding leaf sight with aperture and notch, front blade.
+
+Here is Ammunition information for the Saxon British 4x4 Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is INA.
+
+Here is Protection information for the Saxon British 4x4 Armored Personnel Carrier (APC):
+The Hull Armor is The Saxon is built from steel, which provides protection from 7.62 mm ball ammunition and 155 mm shell splinters. It is understood that Ukrainian tests of the vehicles showed that the hull could withstand a 7.62 mm round fired from an SVD sniper rifle at a distance of 20 m. The hull has a V-shaped under-chassis plate to deflect mine detonations..
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is No.
+The Smoke Equipment is Smoke=grenade launchers can be fitted if required..
+

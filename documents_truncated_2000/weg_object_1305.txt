@@ -1,0 +1,134 @@
+This document describes the 2S6M Tunguska-M Russian 30mm Self-Propelled Anti-Aircraft System.
+
+The 2S6M Tunguska-M (SA-19) Russian 30mm Self-Propelled Anti-Aircraft System is a gun/missile system for low-level air defense. The system was designed by the KBP Instrument Design Bureau in Tula, Russia, and is manufactured by the Ulyanovsk Mechanical Plant, Ulyanovsk, Russia. It can engage targets while stationary and on the move, using missiles for long-range targets and guns for close-in defense. It is designed for defense against both fixed-wing aircraft and helicopters and can also fire on ground targets.
+
+Tunguska entered service with the Russian army in 1988 and has been exported to Germany, India, Peru, Morocco, and Ukraine.
+
+This equipment has proliferated into the following countries: CFE Treaty, India, Morocco, Russian Federation, Ukraine, Yemen.
+
+Here is Variants information for the 2S6M Tunguska-M Russian 30mm Self-Propelled Anti-Aircraft System:
+The 2S6 is First version of the vehicle with four missiles, two either side of the turret..
+The 2S6M is Main production variant introduced in 1990. Also known as 2K22M. Armed with 9M311M surface to air missiles and based on the GM-352M chassis. Has eight missiles..
+The 2S6M1 is Digital interface Ranzhir automated command-and-control system, new fire control system, new missile 9M311M with a maximum range of 10 km. Existing 2S6M Tunguska to be upgraded to the new standard..
+
+Here is System information for the 2S6M Tunguska-M Russian 30mm Self-Propelled Anti-Aircraft System:
+The Alternative Designation is 2K22M, Tunguska-M; SA-19.
+The Type is tracked self-propelled anti-aircraft weapon armed with a surface-to-air gun and missile system..
+The Family is 2K22 Tunguska.
+The In Service is 1990-Present.
+The Crew is 4.
+The Chassis is GM-352M tracked vehicle.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the 2S6M Tunguska-M Russian 30mm Self-Propelled Anti-Aircraft System:
+The Length is 7.93.
+The Width is 3.24.
+The Height, TAR Up is 4.02.
+The Height, TAR Down is 3.36.
+The Weight, Combat is 34.
+
+Here is Automotive information for the 2S6M Tunguska-M Russian 30mm Self-Propelled Anti-Aircraft System:
+The Engine Name is V-46.
+The Engine Type is Diesel.
+The Engine Power is 780 hp.
+The Cruising Range is 500.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 1 m.
+The Trench is 1 m.
+The Fording Depth is 1 m.
+
+Here is Communications information for the 2S6M Tunguska-M Russian 30mm Self-Propelled Anti-Aircraft System:
+The Tactical Radio is R-173.
+The Digital is Yes.
+The Range is 50 km.
+
+Here is Anti-Aircraft Cannon information for the 2S6M Tunguska-M Russian 30mm Self-Propelled Anti-Aircraft System of the Main Weapon System:
+The Name is 2 x Shipunov 2A38M 30mm Autocannons.
+The Type is Autocannon.
+The Caliber is 30.
+The Length is 3.027.
+The Barrel Length is 2,416.
+The Barrels is Twin barrel,.
+The Weight is 195 kg gun only, without coolant.
+The Action is Gas-operated.
+The Muzzle Velocity is 960 m/s.
+The Rate of Fire is 1,950-2,500 rds./min for each gun.
+The Rifling is Right hand twist.
+The Effective Range is 2,000 m in altitude with a maximum slant range of 4,000 m.
+The Maximum Elevation is +87.
+The Minimum Elevation is -10.
+The Fire on the Move is Yes.
+The Feed System is Belt fed, single belt feed.
+
+Here is Ammunition information for the 2S6M Tunguska-M Russian 30mm Self-Propelled Anti-Aircraft System of the Main Weapon System:
+The Type is 2A42.
+The Caliber is 30 mm.
+The Cartridge is 30 × 165mm.
+The Round Weight is 0.842 kg.
+The Projectile Weight is 0.389 kg.
+The Basic Load is 1,904 Rounds Carried.
+
+Here is Surface-to-Air Missile information for the 2S6M Tunguska-M Russian 30mm Self-Propelled Anti-Aircraft System of the Missile System:
+The Name is 8x 9M311-M1 Missiles, NATO: SA-19 Grison.
+The Type is Surface-to-Air Missile.
+The Length is 2.5 m.
+The Diameter is 0.12 m.
+The Finspan is 0.45 m.
+The Weight is 57 kg.
+The Warhead is Continuous-rod and steel cubes.
+The Warhead Weight is 9 kg.
+The Detonation Mechanism is Laser fuse (Radio fuse for 9M311-M1).
+The Propellant is Solid-fuel Rocket.
+The Steering System is Rocket motor with four steerable control surfaces..
+The Self Destruct is INA.
+The Target Speed is The missile can engage targets travelling at speeds up to 500m/s..
+The Maximum Speed is 900 m/s.
+The Flight Ceiling is 3,500 m.
+The Operational Range, Ground Targets is 15 - 6,000 m.
+The Operational Range, Air Targets is 15 - 10,000 m.
+The Basic Load is 8 x 9M311-M1 Missiles.
+
+Here is Fire Control information for the 2S6M Tunguska-M Russian 30mm Self-Propelled Anti-Aircraft System:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+The IFF is Yes, IFF system (1RL138), operating in C-and D-band.
+The Direct-view Optics (DVO) is Yes.
+The Fire on the Move is No (must be at a halt to fire the missile).
+
+Here is Radar #1 information for the 2S6M Tunguska-M Russian 30mm Self-Propelled Anti-Aircraft System of the Radar System:
+The Name is 1 x 1RL144 Radar.
+The Type is Target Acquisition Radar (TAR).
+The Function is This radar provides primary search capability in addition to measurement of range and bearing.
+The Frequency/Band is E-band.
+The Maximum Range is 20.
+The Antenna Location is The antenna is mounted at the rear of the turret and is folded down when not in use..
+The Antenna Rotation is The antenna rotates at approximately 1 r/s, which gives a rapid update of the airspace around the 2S6M..
+The Fan Beam is The TAR emits a fan beam covering 4.50 in azimuth and 150 in elevation. The beam is pointed at a constant elevation of 7.50 to permit detection of low-altitude targets..
+
+Here is Radar #2 information for the 2S6M Tunguska-M Russian 30mm Self-Propelled Anti-Aircraft System of the Radar System:
+The Name is 1 x 1RL144M.
+The Type is Target Tracking Radar (TTR).
+The Function is The tracking radar constantly relays target range, elevation and bearing to the fire-control computer, and on the basis if these data the computer generated the laying commands for the weapon system..
+The Frequency/Band is J-band.
+The Maximum Range is 18.
+The Antenna Location is The antenna is mounted at the front section of the turret and has two fundamental functions that depend on whether the guns or missiles are selected..
+The Optical Sight is A stabilized optical sight is used as a back up tracking channel, allowing target data to be relayed to the fire-control computer. This sight is also used to calculate the deviation of a missile's flight path from the line-of-sight, these data being automatically relayed to the fire control computer and used to generate correction signals..
+The Gun Engagement is During a gun engagement, the TTR functions as an automatic target tracker, feeding target position data to the fire-control computer..
+The Missile Engagement is During missile engagement, the tracking radar locks onto the target and then lays the optical sight on the target. Subsequently the gunner assumes the target-tracking function with the electro-optic sight, and the radar is used for relaying guidance commands to the SA-19 missile..
+
+Here is Protection information for the 2S6M Tunguska-M Russian 30mm Self-Propelled Anti-Aircraft System:
+The Hull Armor is Protects the vehicle from 7.62 mm small arms fire and shell splinters.
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

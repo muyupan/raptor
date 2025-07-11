@@ -1,0 +1,137 @@
+This document describes the PTL-02 Chinese 6x6 Armored Tank Destroyer.
+
+The PTL02 tank destroyer is based on the Type 92 wheeled armored vehicle and is fielded along with the Type 92 infantry fighting vehicles and Type 92 armored personnel carriers.
+
+This equipment has proliferated into the following countries: China, Myanmar.
+
+Here is Variants information for the PTL-02 Chinese 6x6 Armored Tank Destroyer:
+The WMA301 is The WMA301 is an export version. It can be identified by a wedge-shaped turret. This vehicle is armed with a 105 mm gun, which is compatible with all standard NATO ammunition..
+
+Here is Systems information for the PTL-02 Chinese 6x6 Armored Tank Destroyer:
+The Alternative Designation is PTL-02.
+The Type is Tank Destroyer.
+The Crew is 5.
+The Maximum Effective Range is 800.
+The Night Vision is Yes.
+The Anti-Aircraft is Yes.
+The Firing Ports is 6 Available on each side.
+The Roof hatches is Four (Front an Rear).
+The Commander Periscopes is 3.
+The Gunner Periscopes is 4.
+
+Here is Dimensions information for the PTL-02 Chinese 6x6 Armored Tank Destroyer:
+The Length, Hull is 6.63.
+The Length, Gun Forward is INA.
+The Width is 2.9.
+The Height is INA.
+The Weight, Combat is 19 tons.
+The Ground Pressure is INA.
+
+Here is Automotive information for the PTL-02 Chinese 6x6 Armored Tank Destroyer:
+The Engine Name is BF8L413F 4-stroke, 8-cylinder, turbo-charged, air-cooled diesel.
+The Engine Type is Diesel.
+The Engine Power is 320.
+The Fuel Tank is 90.
+The Gearbox is 5fwd/1rvs 5S-111GPA mechanical gearbox with assisted steering.
+The Cruising Range is 600.
+The Speed, Maximum Road is 85.
+The Speed, Maximum Cross is 80.
+The Tench Cross is 1.2 m wide.
+The Gradient is 60%.
+The Stable, Side Slope is 30%.
+The Platform is Tthe automotive platform is a modified Chinese-made Tiema XC2030 6X6 truck, which is based on the conventional Mercedes-Benz 2026 truck..
+The Suspension is Independent Coil Spring Suspensions.
+The Brakes is Hydraulic Disk Brakes.
+The Tires is Run Flat (capable of 30 kph even if all are damaged)..
+
+Here is Communication information for the PTL-02 Chinese 6x6 Armored Tank Destroyer:
+The Radio is RC-83.
+The Telephone is VIC-83.
+
+Here is System information for the PTL-02 Chinese 6x6 Armored Tank Destroyer of the Main Gun:
+The Name is Type 86.
+The Type is Anti-Tank Gun.
+The Caliber is 100 mm.
+The Length is 9.16 m.
+The Barrel Length is 6.3 m.
+The Width is 1.8 m.
+The Height is 1.5 m.
+The Elevation is −10° to +20°.
+The Traverse is 360°.
+The Rate of Fire is 14 rpm (max possible)
+10 rpm (max likely)
+4 to 6 rpm (typical).
+The Muzlze Velocity is See Ammunition.
+The Maximum Firing Range is See Ammunition.
+
+Here is Ammunition (Option 1) information for the PTL-02 Chinese 6x6 Armored Tank Destroyer of the Main Gun:
+The Name is 3BM-2.
+The Type is APFSDS-T Tungsten.
+The Caliber is 100.
+The Muzzle Velocity is 1,575 m/s.
+The Maximum Range is 3,000 m.
+The Penetration is 230 mm at 500 m (9 in at 550 yd) ;180 mm at 2,000 m (7 in at 2,200 yd); 140 mm at 3,000 m (5.5 in at 3,300 yd)..
+The Basic Load is INA.
+
+Here is Ammunition (Option 2) information for the PTL-02 Chinese 6x6 Armored Tank Destroyer of the Main Gun:
+The Name is 3BM23/3UBM10.
+The Type is APFSDS.
+The Caliber is 100.
+The Muzzle Velocity is 1,548 m/s.
+The Maximum Range is 3,000 m.
+The Penetration is 225 mm at 1000 m.
+The Basic Load is INA.
+
+Here is Ammunition (Option 3) information for the PTL-02 Chinese 6x6 Armored Tank Destroyer of the Main Gun:
+The Name is 3OF12/3OF35.
+The Type is HE-FRAG.
+The Caliber is 100.
+The Muzzle Velocity is 700 m/s.
+The Maximum Range is 8,200 m.
+The Penetration is INA.
+The Basic Load is INA.
+
+Here is System information for the PTL-02 Chinese 6x6 Armored Tank Destroyer of the Auxiliary Weapon System:
+The Name is NSV (Russian НСВ Никитина-Соколова-Волкова).
+The Type is 12.7mm Heavy Machine Gun.
+The Length is 1,560.
+The Diameter is INA.
+The Mass (Gun Only) is 25.
+The Mass (on Tripod) is 41.
+The Mass (50 Round Belt) is 11.
+The Feed System is 50 Round Belt.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the PTL-02 Chinese 6x6 Armored Tank Destroyer of the Auxiliary Weapon System:
+The Type is Heavy Machine Gun.
+The Caliber is 12.7x108.
+The Muzzle Velocity is 845.
+The Number of Rounds is 50 Round Belt.
+The Effective Fire Range (vs. Air Maximum) is 1,500.
+The Effective Fire Range (vs. Ground Targets)) is 2,000.
+The Armor Penetration is Available.
+The Notes is The 12.7×108mm can be used to engage a wide variety of targets on the battlefield, and will destroy unarmored vehicles, penetrate lightly armored vehicles and damage external ancillary equipment (i.e.: searchlights, radar, transmitters, vision blocks, engine compartment covers) on heavily armored vehicles such as tanks.
+
+Here is Fire Control information for the PTL-02 Chinese 6x6 Armored Tank Destroyer:
+The Name is INA.
+The Computerized FCS is Fire control and observation systems of the PTL02 were developed from the Type 88 main battle tank and are rather simple..
+The Thermal Tank Commander is Yes.
+The Thermal Gunner is Yes.
+The Main Gun Stabilization is Yes.
+The Range, Day Sight is INA.
+The Range, Night Sight is INA.
+The IFF is INA.
+The Automatic Fire Suppression System is Yes.
+
+Here is Protection information for the PTL-02 Chinese 6x6 Armored Tank Destroyer:
+The Hull Armor Type is Vehicle has a welded steel armor hull. It provides all-round protection from 12.7 mm machine gun fire..
+The Turret Armor is 10 mm (Against 12.7 mm Rounds).
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Protection is 6 Smoke Grenade launchers.
+The Survivability is Obstacle-Clearing Blade Available.
+

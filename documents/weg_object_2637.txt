@@ -1,0 +1,134 @@
+This document describes the MT-LB Russian Amphibious Armored Personnel Carrier (APC).
+
+The MT-LB is a Soviet multi-purpose fully amphibious auxiliary armored tracked vehicle, which was first introduced in the 1950s. It is also produced in Poland, where (starting mid-1990s) its YaMZ engine was replaced by a Polish one.
+
+In the 1950s, the Soviet Central Auto and Tractor Directorate began a development program to replace the AT-P series of artillery tractors (which were based on the ASU-57 airborne self-propelled gun) with a new generation of vehicles. The MT-L was developed to meet this requirement based on the PT-76 amphibious light tank chassis. The MT-LB is the armored variant of the MT-L. Entering production in the early 1970s, it was cheap to build, is based on many existing components, e.g. the engine, which was originally developed for trucks. It is built at the Kharkiv Tractor Plant and under license in Poland by Huta Stalowa Wola and Bulgaria.
+
+
+The crew, a driver, and a commander/gunner sit in a compartment at the front of the vehicle, with the engine behind them. A compartment at the rear enables up to 11 infantry to be carried or a cargo of up to 2,000 kg. A load of 6,500 kg can be towed. The vehicle is fully amphibious, being propelled by its tracks in the water.
+
+A small turret at the front of the vehicle fits a 7.62 mm PKT machine gun with a 360-degree manual traverse and an elevation of −5 to +30 degrees. The vehicle is lightly armored against small arms and shell splinters with a thickness of 3 to 10 mm of steel with a maximum of 14 mm for the turret front. The infantry compartment has two hatches over the top, which open forwards. There are four firing ports—one on either side of the hull, the other two in the rear twin doors of the infantry compartment.
+
+The driver is provided with a TVN-2 infra-red periscope, which in combination with the OU-3GK infra-red/white light searchlight provides a range of about 40 m. All vehicles include an NBC system.
+
+This equipment has proliferated into the following countries: Angola, Armenia, Azerbaijan, Bangladesh, Bulgaria, CFE Treaty, Eritrea, Finland, Georgia, Iraq, Kazakhstan, Lithuania, Macedonia, Moldova, Montenegro, Myanmar, Nigeria, North Korea (Democratic People's Republic of Korea), Poland, Russian Federation, Serbia, Sweden, Syria, Ukraine, Uruguay, Viet Nam.
+
+Here is Variants information for the MT-LB Russian Amphibious Armored Personnel Carrier (APC):
+The MT-LBM (izdeliye 6M) is MT-LB modernization developed by Muromteplovoz in the 1990s. It can be fitted with several different turrets..
+The MT-LBM (izdeliye 6MA) is MT-LBM fitted with a turret from BTR-80, with a KPVT 14.5mm machine gun and co-axial PKT 7.62mm machine gun..
+The MT-LBM (izdeliye 6MA1) is MA armed with additional AGS-17 30 mm automatic grenade launcher..
+The MT-LBM (izdeliye 6MA4) is MA1 armed with KPVB 23x115 mm instead of KPVT 14.5 mm heavy machine gun..
+The MT-LBM (izdeliye 6MA2) is MA armed with KPVB 23x115 mm instead of KPVT 14.5 mm heavy machine gun..
+The MT-LBM (izdeliye 6MA3) is MT-LBM armed with four 9M133 Kornet ATGM launchers, 7.62 mm PKTM tank machine gun and an AGS-30 30 mm automatic grenade launcher..
+The MT-LBM (izdeliye 6 MB) is MT-LBM fitted with a turret from BTR-80A, using a 2A72 30 mm autocannon and co-axial PKT 7.62mm machine gun..
+The MT-LBM (izdeliye 6MB2) is MB armed with AGS-17 30 mm..
+The MT-LBM (izdeliye 6MB3) is MT-LBM armed with GSh-23V 23 mm, AGS-30 30 mm and "Kord" 12.7 mm..
+The MT-LBM (izdeliye 6MB4) is MT-LBM armed with GSh-30K 30 mm, AGS-30 30 mm and "Kord" 12.7 mm..
+The MT-LBM (izdeliye 6MB5) is MT-LBM armed with twin gun 23 or 30 mm, "Igla" SAM and equipped with improved sights..
+The MT-LBM1 (izdeliye 6M1) is MT-LBM fitted with 300-310 hp engine..
+The MT-LBM2 is MT-LBM upgrade package developed by Kurganmashzavod with new engine and transmission, improved suspension, BMP style side skirts etc. Prototype..
+The 2S24 is Mortar carrier with 2B24 (or 2B14 "Podnos") 82 mm mortar and 83 rounds. The system designator for the carrier vehicle, mortar, and ammunition is 2K32 "Deva". The 2S24 was designed by TsNII "Burevestnik" and has a crew of five. In service with RF Interior Ministry..
+The MT-LBVMK is A modification of MT-LBVM with "Kord" 12.7 mm machine gun instead of NSVT 12.7 mm..
+The MTP-LB is Technical support version with no turret, an A-frame and stowage on the roof..
+The Note: is There are more than 50 additional variants to the MT-LB.  The variants above were chosen because they are linked to the Russian Federation and will likely be the most modern / upgraded..
+
+Here is System information for the MT-LB Russian Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is MT-LB.
+The Type is Armored Personnel Carrier (APC).
+The Manufacturer is Kharkiv Tractor Plant.
+The Crew is 2.
+The Passenger Capacity is 11.
+The Payload Capacity is 2,000 kg.
+The Tow Capacity is 6,500 kg.
+
+Here is Dimensions information for the MT-LB Russian Amphibious Armored Personnel Carrier (APC):
+The Length, Overall is 6.454 m.
+The Length, Hull is 6.454 m.
+The Width is 2.86 m.
+The Height is 1.865 m.
+The Track Width is 350 mm.
+The Track Length is 3.7 m.
+The Weight, Standard is 9,700 kg.
+The Weight, Combat is 11,900 kg.
+
+Here is Automotive information for the MT-LB Russian Amphibious Armored Personnel Carrier (APC):
+The Engine Name is YaMZ 238 V.
+The Engine Type is V-8, diesel.
+The Engine Power is 240 hp at 2,100 rpm.
+The Power-to-Weight Ratio is 20.16 hp/t.
+The Fuel Capacity is 450 liters.
+The Gearbox is Manual, Fwd: 6, Rev: 1.
+The Electrical System is 24 V.
+The Steering is clutch and brake.
+The Suspension is torsion bar.
+The Maximum Land Speed is 61.5 km/h.
+The Maximum Water Speed is 4.5 km/h.
+The Range is 500 km.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Obstacle is 0.61 m.
+The Trench is 2.41 m.
+
+Here is R-173 information for the MT-LB Russian Amphibious Armored Personnel Carrier (APC) of the Communications:
+The Frequency Range is 30.00 - 75.99 MHz.
+The HF Output is 30.
+The Mudulation is FM.
+The Display is Digital.
+The Entry of Frequency is Touchpad.
+The Preset Channels is 10.
+The Digital Transmission is INA.
+The Sensitivity is 1.5 uV.
+The Range is 50.
+The Operational Voltage is 27+-2v.
+The Weight is 43.
+The Dimensions is 428 × 222 × 238.
+
+Here is System information for the MT-LB Russian Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 × Turret-mounted 7.62 mm PKT machine gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,098 mm.
+The Barrel Length is 772 mm.
+The Weight is 7.5 kg.
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 700–800 rounds/min.
+The Muzzle Velocity is 825 m/s.
+The Maximum Firing Range is 4,000 m.
+The Effective Firing Range is 1,500 m.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the MT-LB Russian Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×54mmR.
+The Basic Load is 2,000 Rounds.
+
+Here is Fire Control information for the MT-LB Russian Amphibious Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is No.
+The Thermal Sight Vehicle Commander is N/A.
+The Thermal Sight Gunner is N/A.
+The Main Gun Stabilization is N/A.
+The Range, Day Sight is 1,500.
+The Range, Thermal Sight is N/A.
+The Field of View is 23.
+
+Here is Protection information for the MT-LB Russian Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is The MT-LB is armored according to its role, which means that it is capable of withstanding small arms fire and shell splinters but not much more. The hull has been adapted for high-intensity combat under different variants, but this has not included additional protection. In its basic configuration, the MT-LB is built from welded steel, which is thought to be a maximum of 14 mm thick and a minimum of 7 mm..
+The Turret Armor is 14.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Optional.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The Night Vision Device Capable is Yes.  Some versions have spot lights..
+
+Here is CVI: HATS information for the MT-LB Russian Amphibious Armored Personnel Carrier (APC):
+The Hull is Long rectangular box shaped hull with a low silhouette. Distinct 'frog' face front slope. Twin eyelet windshields for vehicle commander and driver. Engine exhaust located mid-top left side..
+The Armament is Usually features a long barrel heavy machine gun..
+The Turret is Front right side of vehicle. R2D2-shaped. Rotates 360 degrees..
+The Suspension is 6 evenly-space road wheels. Road wheels resemble trash can lids. Unsupported track appears to sag from drive and return sprockets..
+

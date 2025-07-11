@@ -1,0 +1,113 @@
+This document describes the Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST).
+
+The Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST) are Larger than the Russian ALLIGATOR class LSTs, these ships represent the ultimate in Russian LST design. They are typed as BDK bol'shoy desantyy korbal' (large landing ships). The last three ships were of the improved variant Project 775M, also called Ropucha II. These have improved defensive armament and accommodation for an increased number of troops
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST):
+The BDK-11 PERESVET is Commissioned: 1991
+Status: Active.
+The BDK-61 KOROLEV is Commissioned: 1991
+Status: Active.
+The BDK-54 AZOV is Commissioned: 1990
+Status: Active.
+
+Here is System information for the Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST):
+The Alternative Designation is Ropucha II Class; Project 775M Class.
+The Type is Landing Ship, Tank (LST).
+The Builder is Stocznia Polnocna, Gdansk, Poland.
+The Crew is 87 total (8 off. + 79 enl.).
+The Troop Capacity is 230 total.
+The Cargo Capacity is 450 tons, with a usable deck space of 600 square meters..
+The Note is No vehicles can be carried on the main deck..
+
+Here is Dimensions information for the Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST):
+The Length is 112.50 m.
+The Beam is 15.00 m.
+The Draft is 3.70 m.
+The Vehicle Deck, Length is 95 m.
+The Vehicle Deck, Width is 6.5 m.
+The Vehicle Deck, Height is 4.5 m.
+The Displacement, Full Load is 4,100 tons.
+The Displacement, Standard is 3,600 tons.
+
+Here is Propulsion System information for the Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST):
+The Engine Name is 2 x Type Zgoda-Sulzer type 16ZVB 40/48.
+The Engine Type is Diesel.
+The Engine Power is 19,200 total bhp.
+The Maximum Range is 18 knots.
+The Maximum Speed is 3,500 nm at 16 knots; 6,000 nm at 12 knots.
+
+Here is Gun Weapon System #1 information for the Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST) of the Gun Weapon Systems:
+The Name is 1 x AK176M 76.2mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 76.2 mm.
+The Crew is 2 (4 in manual control mode).
+The Length is 4,484 mm.
+The Weight is 16,800 kg.
+The Elevation is -15° to +85°.
+The Traverse is ±175°.
+The Rate of Fire is 120 rds/min.
+The Muzzle Velocity is 980 m/s.
+The Maximum Firing Range is 15.5 km.
+The Effective Firing Range is 10 km.
+The Feed System is 152 ready to fire rounds.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST) of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.2 mm.
+The Shell Weight is 12.4 kg.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST) of the Gun Weapon Systems:
+The Name is 2 x AK630M 30mm CIWS.
+The Type is Close-In Weapon System.
+The Caliber is 30 mm.
+The Main Armament is 1 or 2 AO-18 autocannons.
+The Secondary Armament is 4 x 9A4172 missiles.
+The Crew is 1.
+The Barrel Length is 1,629 mm.
+The Width is 1,240 mm.
+The Weight, Gun Mount is 1,000 kg.
+The Barrels is 6.
+The Action is Gas-operated rotary cannon.
+The Elevation is +88° ... -12° (50°/sec).
+The Traverse is ±180° (70°/sec).
+The Rate of FIre is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880–900 m/s.
+The Maximum Firing Range is The projectiles self-destruct past 5,000 m.
+The Effective Firing Range is 4,000 m (aerial);
+5,000 m (maritime).
+The Feed System is 2,000 rounds (additional 1,000 rounds in reserve feed bin.
+The Sights is Radar / TV-optical.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST) of the Gun Weapon Systems:
+The Type is HEI-Frag, Frag-T.
+The Caliber is 30mm.
+The Shell Weight is 0.39 kg (0.86 lb).
+The Basic Load is INA.
+
+Here is Rocket Weapon Systems information for the Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST):
+The Rocket Launcher is 2 x 122-mm (UMS-73) 40-tubed
+Grad-M bombardment rocket launchers.
+The Rocket Types is BDK-67, BDK-58, BDK-100, BDK-46 and BDK-64 plus.
+The Basic Load is 320 x Rockets.
+
+Here is Mine System information for the Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST):
+The Note is 92 x mines max. total in lieu of amphibious cargo.
+
+Here is Fire Control Systems information for the Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST):
+The FCS Name is 1 x MR-123 Vympel (Bass Tilt**) fire control for guns.
+The Computerized FCS is Yes.
+
+Here is Radar Systems information for the Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST):
+The Surface/Air Search Radar is 1 x MR-352 Pozitiv (Cross Dome) surface/air search radar.
+The Navigation Radar is 2 x DON-2 or 2 x MR-212/201 Vaygach (Palm Frond navigation radar.
+The Optronic Directors is 2 x SQUEEZE BOX optronic directors.
+
+Here is Protection information for the Ropucha II Class (Project 775M Class) Russian Landing Ship, Tank (LST):
+The Hull Armor is The ROPUCHA class has traditional LST (tank landing ship) lines with superstructure aft with bow and stern ramps for unloading vehicles..
+The Countermeasures is 2 x decoy/rocket launchers.
+The NBC Water Washdown System is Yes.
+The NBC Warfare Filters is Yes.
+

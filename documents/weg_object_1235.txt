@@ -1,0 +1,97 @@
+This document describes the NTC VISMOD 9A51 Prima Russian 122mm Multiple Rocket Launcher System.
+
+NTC VISMOD 9A51 Prima Russian 122mm Multiple Rocket Launcher System
+The Prima multiple launch rocket system is an improvement of the BM-21 Grad. It was adopted by the Soviet Army in 1988, however due to budget cuts, only a small number of these artillery systems were ever produced. Some sources claim that it is also in service with Kazakhstan. The Prima MLRS is also referred to as the 9K59, the launching vehicle is 9A51. It has 50 tubes for 122mm rockets. The older Grad has 40 tubes. It can fire all of the rockets developed for the BM-21 Grad, including cluster rockets with anti-tank or anti-personnel sub-munitions. Furthermore, new and more effective rockets have been developed for this system. The new 9M53F rocket with a separable HE-FRAG warhead is standard for this artillery system. The maximum range of fire is 21km. This and other new rockets can also be fired from improved Grad launchers. Rockets can be launched directly from the driver's cab or remotely from the vehicle. A full salvo of the Prima has 7-8 times better coverage and it spends 4-5 times less time in its firing position compared to the Grad.
+
+Here is System information for the NTC VISMOD 9A51 Prima Russian 122mm Multiple Rocket Launcher System:
+The Alternative Designation is NTC VISMOD 9A51 Prima.
+The Type is Multiple Launch Rocket System (MLRS).
+The Caliber is 122 mm.
+The Crew is 3 (section chief, gunner and driver)
+crew can fire entire load from cab
+and can reload MLRS without other help..
+The Chassis is M993 carrier vehicle. The M993 is a modified M2 Bradley armored personnel carrier..
+The Displacement Time is Less than 5 min.
+The Emplacement Time is Less than 5 min.
+
+Here is Dimensions information for the NTC VISMOD 9A51 Prima Russian 122mm Multiple Rocket Launcher System:
+The Length is 6.97 m.
+The Width is 2.97 m.
+The Height, Elevated is 5.93 m.
+The Height, Traveling is 2.62 m.
+The Track Length on Ground is 4.33 m.
+The Track Width is 0.53 m.
+The Ground Clearance is 0.43 m.
+The Combat Weight is 25,191 kg.
+The Unloaded Weight is 20,189 kg.
+The Launch Pad Weight is 2,270 kg.
+
+Here is Automotive information for the NTC VISMOD 9A51 Prima Russian 122mm Multiple Rocket Launcher System:
+The Engine Name is 1 x Cummins VTA-903.
+The Engine Type is 903-cu in (14.8-liter) liquid-cooled, 4-stroke, turbo-charged, V-8 diesel.
+The Engine Power is 500 hp at 2400 rpm.
+The Power-to-Weight Ratio is 19.85 hp/metric ton.
+The Fuel Capacity is 617 liters.
+The Transmission is General Electric HMPT-500 hydro-mechanical; 3 forward/1 reverse range (variable ratios).
+The Suspension is torsion bar, 6 dual road wheels, front drive, rear idler, 2 shock absorbers, 4 return rollers.
+The Maximum Speed is 64 km/h.
+The Maximum Range is 483 km.
+The Vertical Obstacle is 1.00 m.
+The Trench is 2.29 m.
+The Fording is 1.10 m.
+The Gradient is 60 percent.
+
+Here is System information for the NTC VISMOD 9A51 Prima Russian 122mm Multiple Rocket Launcher System of the Main Weapon System:
+The Name is M269 launcher loader module (LLM).
+The Type is Launcher Loader Module.
+The Caliber is 227 mm.
+The Number of Cells is 12.
+The Elevation is 60 deg (1,067 mils).
+The Elevation Rate is 0.9 deg (15.5 mils)/sec.
+The Traverse is +/-194 deg (3,449 mils) each side of centerline.
+The Rate of Fire is less than one minute for 12 missiles.
+The Effective Firing Range is See Ammunition Types.
+The Reload Time is 4 min (M270) 3 min (M270A1).
+
+Here is Ammunition (Option 1) information for the NTC VISMOD 9A51 Prima Russian 122mm Multiple Rocket Launcher System of the Main Weapon System:
+The Name is M26 (Phase I).
+The Length is 3.94 m.
+The Diameter is 227 mm.
+The Weight is 306 kg.
+The Warhead is 156 kg.
+The Maximum Range is 32 km.
+The Basic Load is INA.
+
+Here is Ammunition (Option 2) information for the NTC VISMOD 9A51 Prima Russian 122mm Multiple Rocket Launcher System of the Main Weapon System:
+The Name is AT2 (Phase II).
+The Length is 3.94 m.
+The Diameter is 227 mm.
+The Weight is 259 kg.
+The Warhead is 107 kg.
+The Maximum Range is 40 km.
+The Basic Load is INA.
+
+Here is Ammunition (Option 3) information for the NTC VISMOD 9A51 Prima Russian 122mm Multiple Rocket Launcher System of the Main Weapon System:
+The Name is GMLRS.
+The Length is 3.94 m.
+The Diameter is 227 mm.
+The Weight is 302 kg.
+The Maximum Range is 60 km.
+The Basic Load is INA.
+
+Here is Fire Control information for the NTC VISMOD 9A51 Prima Russian 122mm Multiple Rocket Launcher System:
+The Name is Westinghouse Norden FCS.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The SRP/PDS is Bendix stabilization reference package/position determining system (SRP/PDS).
+
+Here is Protection information for the NTC VISMOD 9A51 Prima Russian 122mm Multiple Rocket Launcher System:
+The Hull Armor is The cab is protected against small-arms fire and shell fragments by aluminum armor and louvred windows..
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The NBC Protection is overpressure protection.
+The Smoke Equipment is INA.
+The EMP is Hardened electronics.
+

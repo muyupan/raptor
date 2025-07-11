@@ -1,0 +1,25 @@
+This document describes the MPB Polish Anti-Tank Mine.
+
+The MPB is a Polish off-route anti-tank mine. It was developed by BELMA (BZE BELMA S.A.) with its partner Military Institute of Engineer Technology. The MPB consists of a metal cylinder filled with explosives, mounted horizontally in an adjustable frame. The mine is intended to be hidden from direct view of the intended target, off to the side of a probable vehicle route, usually a road, to attack the weaker armour on the sides and rear of a vehicle. The mine can be triggered by either a contact fuze (MPB-ZK variant) or an influence fuze (MPB-ZN variant) based on infra-red and acoustic sensors, and is also fitted with an anti-handling device. When used with the passive infrared fuze, an acoustic sensor detects approaching vehicles and activates the infra-red sensor, which triggers the mine at an optimal moment as the target passes. The mine can be programmed to self-destruct after either 1, 10 or 30 days have passed.
+
+The mine uses the Misznay–Schardin effect to project an explosively formed projectile to an effective range of roughly 50 meters, where it can penetrate up to 100 millimeters of rolled homogeneous armour (RHA) plate. The energy carried by the projectile is large enough that it can often significantly damage a vehicle that it hits.
+
+This equipment has proliferated into the following countries: Poland.
+
+Here is System information for the MPB Polish Anti-Tank Mine:
+The Country of Manufacturer is Poland.
+The Emplacement Method is manual.
+The Length is 450.
+The Width is 390.
+The Height is 700.
+The Weight is 45.
+The Armor Penetration (mm)/ Kill Mechanism is EFP.
+The Effective Range is 50.
+The Detectability/ Composition is visual
+metal.
+The Anti-Handling is Yes.
+The Fuze Type/Self Neutralize is Acoustic and Infrared
+Contact (K Model).
+The Explosive Type & Weight/Total Weight (kg) is TNT: 22(est.)
+Total: 45.
+

@@ -1,0 +1,74 @@
+This document describes the SAM-18 (SA-18 Grouse) Iranian Man-Portable Air-Defense Missile System (MANPADS).
+
+The SA-18 Grouse or Igla or 9K38 is a Russian made man-portable infrared homing surface-to-air missile defence system (SAM/MANPAD). This is a third-generation, man-portable, surface-to-air missile system and it is given the Russian industrial index number 9K38, for the complete system. The SA-18 Grouse with its 9M39 missile was accepted into service in the Soviet Army in 1983.
+
+The full-capability 9K38 Igla with its 9M39 missile was finally accepted into service in the Soviet Army in 1983. The main improvements over the Igla-1 included much improved resistance against flares and jamming, a more sensitive seeker, expanding forward-hemisphere engagement capability to include straight-approaching fighters (all-aspect capability) under favourable circumstances, a slightly longer range, a higher-impulse, shorter-burning rocket with higher peak velocity (but approximately same time of flight to maximum range).
+
+
+
+The naval variant of 9K38 Igla has the NATO reporting name SA-N-10 Grouse.
+
+The Igla–1M missile consists of a Ground Power Supply Source (GPSS), Launching Tube, Launching Mechanism & Missile (9M 313–1).
+
+There is also a two-barrel 9K38 missile launcher called Djigit.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of).
+
+Here is Variants information for the SAM-18 (SA-18 Grouse) Iranian Man-Portable Air-Defense Missile System (MANPADS):
+The Igla-1E is Export version..
+The Igla-1M is Improved version of 9K38 Igla. Entered service in Soviet Military during the late 1980s..
+The Igla-1D is Igla-1D.
+The Igla-1V is Air-launched version, mainly for combat helicopters..
+The Igla-1N is A version with heavier warhead at the cost of a slight reduction in range and speed..
+The Igla-1A is Export version.
+The Strelets Igla-S / Igla is The Strelets is designed for remote automated firing of the Igla and Igla-S surface-to-air missile by single shot, ripple or in salvo. In service with Syria.
+The 3M-47 Gibka is A turret for ships that is equipped with Igla missiles.
+The Komar is Another turret for ships that is equipped with Igla missiles.
+
+Here is System information for the SAM-18 (SA-18 Grouse) Iranian Man-Portable Air-Defense Missile System (MANPADS):
+The Alternative Designation is 9K38 Igla; SA18 Grouse.
+The Type of Targets is Tactical aircraft, helicopter, UAV and cruise missile.
+The Family is 9K38 Igla.
+The Crew is 1.
+The Reaction Time is 5-10 Seconds.
+The Note is The Igla–1M missile consists of a Ground Power Supply Source (GPSS), Launching Tube, Launching Mechanism & Missile (9M 313–1).
+
+Here is Dimensions information for the SAM-18 (SA-18 Grouse) Iranian Man-Portable Air-Defense Missile System (MANPADS):
+The Length, Missile is 1.574.
+The Diameter, Missile is 72.
+The Height is INA.
+The Weight, Combat is See Missile Information.
+
+Here is Missile Launcher information for the SAM-18 (SA-18 Grouse) Iranian Man-Portable Air-Defense Missile System (MANPADS) of the Missile System:
+The Name is 9M 313–1 launching mechanism.
+The Type is Portable Air-Defense Missile System (MANPADS).
+The Note is There is also a two-barrel 9K38 missile launcher called Djigit.
+
+Here is Missile information for the SAM-18 (SA-18 Grouse) Iranian Man-Portable Air-Defense Missile System (MANPADS) of the Missile System:
+The Name is 9M39 Missile.
+The Type is Portable Air-Defense Missile System (MANPADS).
+The Engine is Solid Fuel Rocket Motor.
+The Length is 1.574.
+The Diameter is 72.
+The Weight, Full System is 17.9.
+The Weight, Missile is 10.8.
+The Weight, Warhead is 1.7.
+The Warhead Type is Directed-energy
+blast fragmentation.
+The Fuze Type is Delayed impact,
+magnetic and grazing.
+The Target Engagement is 5,200.
+The Speed is 600.
+The Maximum Effective Range is 5,200.
+The Maximum Target Speed, Receding is 360.
+The Maximum Target Speed, Approaching is 320.
+The Seeker Head Type is Nitrogen-cooled,
+Indium antimonide (InSb)
+and
+uncooled lead sulfide (PbS).
+The Seeker Scanning is FM-modulated.
+The Maximum Altitude is 3500.
+The Minimum Altitude is 10.
+The Guidance System is Passive IR homing device and night vision (operating in the medium IR range).
+The NOTE is Missile is pitched by guidance unit over the lead point to avoid premature ground detonation when engaging targets at less than 10m. This slows engagement time..
+

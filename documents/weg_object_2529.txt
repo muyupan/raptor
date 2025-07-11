@@ -1,0 +1,92 @@
+This document describes the Iveco LMV Italian 4x4 Light Multirole Vehicle.
+
+Iveco LMV (Light Multirole Vehicle) is a 4WD tactical vehicle developed by Iveco, and in-service with several countries. After its adoption by the Italian Army as the Veicolo-Tattico-Leggero-Multiruolo (VTLM) Lince ("Light tactical multirole vehicle Lynx"), it won the Future Command and Liaison Vehicle (FCLV) competition of the British Army as the Panther.
+
+It has been adopted by the armies of Albania, Austria, Belgium, Norway, Russia, and Spain. The Italian Army took vehicles to both Afghanistan and Lebanon. In Afghanistan, Lince vehicles have saved passengers' lives in several attacks with IEDs.
+
+The LMV uses modular armor packs to adjust its level of protection to its mission requirements. In regards to mine protection, the vehicle's ground clearance has been increased to 493 mm without increasing the overall height (less than 2 meters); it also uses suspended seats of aeronautical derivation, v-hull underbody, and a collapsible sandwich structure in the floor to deflect and absorb mine blasts. Its exhaust is piped through its C-pillars, and its turbocharger is located underneath the engine to reduce its thermal signature. Mobility is helped by a run-flat system, allowing the vehicle to move even with completely deflated tires.
+
+It is related to the Fiat Oltre concept car unveiled in 2005.
+
+The LMV was designed in the 1990s and the first LMVs were produced in 2001 while the British Panthers were produced between 2006 and 2009
+
+This equipment has proliferated into the following countries: Albania, Austria, Belgium, Brazil, Croatia, Czech Republic, Indonesia, Italy, Lebanon, Norway, Russian Federation, Slovakia, Spain, Tunisia, United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the Iveco LMV Italian 4x4 Light Multirole Vehicle:
+The LMV Ambulance is Ambulance.
+The LMV Command Post is Command Post.
+The LMV SF (Special Forces) is an open-top version of standard LMV especially designed for Special Forces.
+The LMV 2 is is a modernized version of the previous model of LMV. The LMV 2 provides better performance, higher reliability, and increased crew comfort. One of the most important benefits is an increase of payload of some 40% to approximately 1.5 tonnes (800 kg for LMV 1), depending on the vehicle configuration..
+The Panther CLV is The Panther Command and Liaison Vehicle or Panther CLV is the British Army variant of the Iveco LMV. The Panther CLV came from the "Future Command and Liaison Vehicle" (FCLV) project. Design modifications were made by BAE Systems to allow assembly at BAE Systems Land Systems' factory in Newcastle upon Tyne. While the Panther seats four people, the VTLM Lince seats five.
+
+Over 300 Panthers were assembled at BAE Systems factory in Newcastle upon Tyne under a £160 million contract. It was intended that the Panther would replace vehicles including Combat Vehicle Reconnaissance (tracked) (CVRT) family, FV 432, Saxon and Land Rover Truck Utility Medium (TUM).
+
+The armour protection is tunable by the replacement of armour packs within the vehicle's external skin. The basic add-on armour pack provides ballistic protection against small arms fire and a heavier kit provides protection against heavy weapons to including mines.
+
+Panther Command and Liaison Vehicles (CLV) are equipped with Enforcer RCWS weapons stations which were developed by SELEX Galileo. The weapons station can be armed with a 7.62mm general purpose machine gun or 12.7mm heavy machine gun or a 40mm Heckler & Koch GMG automatic grenade launcher]].
+
+The first Panthers were delivered to the 1st Mechanised Brigade and a small number underwent hot weather trials in Afghanistan..
+The Rys (lynx) is is a Russian license-produced version of the LMV..
+
+Here is System information for the Iveco LMV Italian 4x4 Light Multirole Vehicle:
+The Alternative Designation is Iveco LMV.
+The Type is Light Multirole Vehicle.
+The Manufacturer is Iveco;
+BAE Systems (UK only);
+MVPS (Russia only).
+The Configuration is 4x4.
+The Family is LMV Series.
+The Crew is 1.
+The Passenger Capacity is 4.
+The Payload Capacity is 900 kg.
+The Towed Load is 2,000 kg.
+The Winch is A self-recovery winch can be mounted at the front of the vehicle..
+
+Here is Dimensions information for the Iveco LMV Italian 4x4 Light Multirole Vehicle:
+The Length is 4.794 m.
+The Width is 2.20 m.
+The Height is 2.05 m.
+The Wheelbase is 3.23 m.
+The Weight, Empty is 6,200 kg.
+The Weight, Combat is 7,100 kg.
+The Ground Clearance, Rear Axle is 0.345 m.
+The Ground Clearance, Front Axle is 0.345 m.
+The Ground Clearance, Overall is 0.473 m.
+The Payload Capacity is 900 kg.
+The Towed Load is 2,000 kg.
+
+Here is Automotive information for the Iveco LMV Italian 4x4 Light Multirole Vehicle:
+The Engine Name is Iveco F1C, EURO 3, EURO 5.
+The Engine Type is option, in line-4, turbocharged, common rail injection, water cooled, 4 stroke, diesel,.
+The Engine Power is 190 hp at 3,700 rpm.
+The Fuel Capacity is INA.
+The Gearbox is ZF 6HP 26, Automatic. 6 Forward, 1 Reverse.
+The Transfer Box is 2-speed, full-time four-wheel drive.
+The Electrical System is 34 V.
+The Batteries is 2 × 12V, 110Ah.
+The Alternator is 24V, 90A.
+The Suspension is independent with coil springs and shock-absorbers at each wheel station.
+The Steering is LS 2 B power-assisted.
+The Brakes is air-over-hydraulic, inboard discs front and rear, disengageable ABS for off-road operations.
+The Tires is 325/85 R 16 Michelin XML (optional 335/80 R 20).
+The Range is 500 km.
+The Maximum Speed is 110 km/h.
+The Amphibious is No.
+The Angle of Approach is 54°.
+The Angle of Departure is 44°.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Obstacle is 0.45m.
+The Turning Radius is 7.15 m.
+
+Here is Main Weapon System information for the Iveco LMV Italian 4x4 Light Multirole Vehicle:
+The Note is Remote-controlled weapon station armed with weapons up to 12,7 mm in caliber..
+
+Here is Protection information for the Iveco LMV Italian 4x4 Light Multirole Vehicle:
+The Armor is STANAG 4569 Level 1 and 2..
+The Applique Armor is Available.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+

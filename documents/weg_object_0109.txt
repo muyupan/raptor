@@ -1,0 +1,116 @@
+This document describes the K-200 KIFV South Korean Amphibious Infantry Fighting Vehicle (IFV).
+
+The K-200 KIFV (Korea Infantry Fighting Vehicle) is a South Korean armored personnel carrier, originally produced by Daewoo Heavy Industries as a domestic replacement for older armored personnel carriers, such as the M113, in front line service with the Republic of Korea Armed Forces at the time of the K-200's development. Since 2009 the K200 has been supplemented by the K21. A total of 2,383 K-200 vehicles of all configurations were produced between 1985 and 2006, among which are 111 K200A1 vehicles exported to Malaysia.
+
+The K-200 series of vehicles transport mechanized infantry platoon is designed to keep personnel safe from small arms fire. The hull of the KIFV is of all-welded aluminum armor with an additional layer of spaced laminate steel armor bolted to it. This composite armor provides a higher level of protection for less weight. It can protect against 12.7 mm on the side and 7.62 mm on the rear, and against anti-personnel mines. The engine compartment is located at the front right of the vehicle and is separated from the remainder of the vehicle by a bulkhead. The engine compartment is fitted with a fire extinguishing system that can be operated by the driver or from outside the vehicle. 
+The K-200 has six electrically operated smoke grenade launchers mounted across the front of the hull as countermeasures against electro-optical and infrared targeting. If the KIFV variant features a turret, the smoke grenade launchers mounted on the turret (three on each side).
+
+K-200 can provide infantry firepower support with 12.7 mm and 7.62 mm machine guns. Stronger anti-infantry and anti-material firepower can be brought to bear by equipping a 20 mm Vulcan gun, or 81 mm and 107 mm mortars. Anti-tank capability can be added by equipping the Metis-M anti-tank missile system. The K200 is highly modular, and its variants provide additional combat supports such as air defense and vehicle recovery by outfitting many different types of equipment. The vehicles accommodate 12 people including one infantry squad, the driver, and gunners.
+
+In November 2015, Doosan and CMI Defence revealed they had joined to create the Cockerill Protected Weapon Station (CPWS) to increase the firepower of the K200. The turret can support cannons between 20–30 mm, plus a 7.62 mm coaxial machine gun, including the: CPWS20 20 mm; CPWS 25 mm which can be armed with the M242 Bushmaster, Nexter M811, or Oerlikon KBA; and CPWS30 armed with the M230LF.
+
+This equipment has proliferated into the following countries: Malaysia, South Korea (Republic of Korea).
+
+Here is Variants information for the K-200 KIFV South Korean Amphibious Infantry Fighting Vehicle (IFV):
+The K-200 KIFV is Original armored personnel carrier version. Only variant produced with less powerful engine and tillers instead of a steering wheel..
+The K200A1 is Main production variant. Similar to K200, but with improved mobility. Features a more powerful engine, a steering wheel and improved transmission..
+The K200A1 ambulance is Unarmed battlefield ambulance version based on the K200..
+The K261A1 is NBC reconnaissance vehicle based on the K200A1. Features NBC detection equipment at the rear and a specialist crew..
+The K216 is NBC reconnaissance vehicle. Equipped with detection system to trace sources of NBC agents..
+The K221 is Smoke generating vehicle. Produces two types of smoke to protect from visible light for 90 minutes and infrared for 30 minutes..
+The K255 is Proposed ammunition resupply vehicle for 155 mm self-propelled howitzer..
+The K263 SPAAG is KM167A1 20 mm self-propelled anti-aircraft gun variant of K200..
+The K277 is Command post vehicle. The vehicle contains various supplements for commanders..
+The K281 is Carries 81 mm mortar for fire support..
+The K288 is Recovery vehicle. Rescues and repairs damaged military vehicles..
+The K242A1 is Carries 4.2 inch mortar for fire support..
+The K263A1 SPAAG is KM167A1 20 mm M61 Vulcan self-propelled anti-aircraft gun variant of K200A1..
+The K263A3 SPAAG is Improved version of K263A1. A3 features such as improved FCS, electronic protection, safety, etc. All A1 have been upgraded to A3..
+The K281A1 is Carries 81 mm mortar for fire support..
+The K288A1 is Recovery vehicle. Rescues and repairs damaged military vehicles..
+
+Here is System information for the K-200 KIFV South Korean Amphibious Infantry Fighting Vehicle (IFV):
+The Alternative Designations is K-200 KIFV.
+The Type is Amphibious Infantry Fighting Vehicle (IFV).
+The Manufacturer is Hanwha Defense (originally Daewoo Heavy Industries, later renamed as Doosan DST, follow by Hanwha Defense Systems).
+The Crew is 3 (driver, commander, gunner).
+The Layout is The KIFV has the same general layout as the AIFV. The two hatch arangement with the turret on the right is retained. Only several specialist vehicles having a single turret in the middle. The early batch KIFV already had a slightly better mobility than the original AIFV. The improved A1 model is the the standard production variant and introduces a steering wheel instead of tillers, a more power engine and a fully automatic transmission. The KIFV resulted in an entire family of vehicles. All these variants are based on the A1 model..
+
+Here is Dimensions information for the K-200 KIFV South Korean Amphibious Infantry Fighting Vehicle (IFV):
+The Length is 5.49 m.
+The Width is 2.85 m.
+The Height is 2.54 m.
+The Empty Weight is 10.7 tons.
+The Combat Weight is 12.9 tons.
+The Ground Clearance is 0.41 m.
+The Ground Pressure is 0.67 kg/cm2.
+
+Here is Automotive information for the K-200 KIFV South Korean Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is MAN-Doosan D2848T.
+The Engine Type is V-8 Diesel.
+The Engine Power is 350 hp.
+The Power-to-Weight Ratio is 21.7 hp/t.
+The Fuel Capacity is 400 liters.
+The Transmission is Allison Transmission X200-5K.
+The Suspension is Torsion bar.
+The Range is 480 km.
+The Maximum Road Speed is 74 km/h.
+The Maximum Amphibious Speed is 6 km/h.
+The Gradient is 60%.
+The Slope is 30%.
+The Vertical Obstacle is 0.6 m.
+The Fording Depths is Amphibious.
+The Trench is 1.7 m.
+
+Here is System information for the K-200 KIFV South Korean Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Name is 1 x M2 Browning 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight is 38 kg; 58 kg with tripod and T&E..
+The Action is Short recoil-operated..
+The Elevation is INA.
+The Traverse is 360 deg.
+The Rate of Fire is 450–600 rounds/min..
+The Muzzle Velocity is 890 m/s.
+The Maximum Effective Fire is 7,400 m.
+The Feed System is 1,800 m.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the K-200 KIFV South Korean Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7×99mm NATO.
+The Basic Load is INA.
+
+Here is System information for the K-200 KIFV South Korean Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System:
+The Name is 1 x M60 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,105 mm.
+The Barrel Length is 560 mm.
+The Weight is 10.5 kg.
+The Action is Gas-operated, short-stroke gas piston, open bolt..
+The Rate of Fire is 550–650 rounds/min..
+The Muzzle Velocity is 853 m/s.
+The Effective Firing Range is 1,100 m.
+The Feed System is Disintegrating belt with M13 Links.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the K-200 KIFV South Korean Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is INA.
+
+Here is Protection information for the K-200 KIFV South Korean Amphibious Infantry Fighting Vehicle (IFV):
+The Armor is The K-200 series of vehicles transport mechanized infantry platoon is designed to keep personnel safe from small arms fire. The hull of the KIFV is of all-welded aluminum armor with an additional layer of spaced laminate steel armor bolted to it. This composite armor provides a higher level of protection for less weight. It can protect against 12.7 mm on the side and 7.62 mm on the rear, and against anti-personnel mines..
+The Applique Armor is Welded aluminum armor with applique laminated steel plates.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Self-entrenching Blade is No.
+The NBC Protection System is Yes (Details INA).
+The Smoke Equipment is 6 x Smoke grenade launchers.
+The Survivability Equipment is INA.
+

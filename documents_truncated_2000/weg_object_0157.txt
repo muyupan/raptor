@@ -1,0 +1,31 @@
+This document describes the YLC-4 Chinese 2D Long-Range Surveillance Radar.
+
+YLC-4 is a Chinese UHF solid-state, fully coherent 2D long range surveillance radar, which is mainly used for long range surveillance. The radar has the ability to synthesize data from up to four other radars with a large data capacity, and to communicate and display the data and state of the system through the net to realize remote control and detection. When equipped with height-finding radar, it can perform the function of guidance and providing target data for an air traffic control system. With long range detection range, high reliability and easy maintenance, YLC-4 radar is a main radar in air defense network. The manufacturer of the system is Nanjing Research Institute of Electronics Technology (NRIET)/Nanjing Institute No. 1.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the YLC-4 Chinese 2D Long-Range Surveillance Radar:
+The Alternative Designation is YLC-4.
+The Type is 2D Long-Range Surveillance Radar.
+The Crew is INA.
+The Frequency Range is 216~220 MHz.
+The RMAX is 380 km.
+The Coverage Azimuth is 0° < 360°.
+The Coverage Elevation is 0° < 25°.
+The Reliability MTBFC is => 500 hours.
+The Reliability MTTR is <= 0.5 hours.
+The Aperture is 16.5 x 7.12 m Super cosecant square beam in elevation.
+The Peak Power is ~50 kW.
+The Pulse Width/Duty Cycle is 2 usec / 13%.
+The Sweep Rate is ~10 sec.
+The Sideslobes is < -30dB.
+The Processing/MTI Improvement Factor is Digital AMTI / 41 dB.
+The Clutter Rejection is ~45 dB.
+The Power Requirements is 2 x 120 kW diesel generators.
+
+Here is Dimensions information for the YLC-4 Chinese 2D Long-Range Surveillance Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

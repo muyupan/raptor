@@ -1,0 +1,80 @@
+This document describes the JRTC VISMOD: Type 63 Chinese 107mm Multiple Rocket Launcher (MRL).
+
+The Type 63 multiple rocket launcher is a towed, 12-tube, 107mm rocket launcher produced by the People's Republic of China in the early 1960s and later exported and manufactured globally. Although no longer serving with active infantry units, the Type 63 is still in People's Liberation Army service with specialized formations such as mountain infantry units and special forces detachments. The Type 63 was widely used in the PLA until the late 1980s. It was adopted as the successor of the Type 50-5, 102mm.
+
+China has also developed a Type 63 multiple rocket launcher, 130mm. The RPU-14 is a Soviet 140mm MRL of similar design to the Type 63.
+
+The launcher's 12 tubes are arranged in three removable rows of four each, mounted on a single-axle carriage with rubber tires. The Type 63 originally fired an 18.8 kilogram rocket (Type 63-2) with a 1.3 kilogram warhead. 
+ Ammunition for the Type 63 was later improved (Type 75 and Type 81 series), although the overall weight of the rocket remained the same. A fixed amount of propellant is contained in the rocket motor. The steel-cased rocket is stabilized with spin imparted by six angled nozzles in its base. Type 63 rockets may be launched without the launcher; improvised firing can employ tubing, rails or even dirt berms. The Type 63 was distributed on the basis of six per infantry regiment, or 18 per infantry division. For airborne and mountain units the lighter Type 63-I was developed.
+
+Both the Type 63 and its copies can be mounted on different kinds of armored and unarmored vehicles, for example the MT-LB, the Safir, the Mamba, the RG-32 Scout, the GAZ-66 and the M113.
+
+Here is Variants information for the JRTC VISMOD: Type 63 Chinese 107mm Multiple Rocket Launcher (MRL):
+The Type 63 for mountain/airborne warfare is This variant can be disassembled into manpack loads.
+The Type 63 -1 is This variant's launcher is modified to four rows of three tubes; it has smaller road wheels. Tube construction is cast aluminum. The weight of the Type 63 -1 is reduced by 300 lb (136 kg) and it has a covered crew cabin..
+The Type 81 is This variant is a Type 63 on a turntable mounted on rear bed of 4 x 4 truck..
+The Iraqi 107-mm MRS is The version is an Iraqi copy of the Type 63.
+The South African 107-mm MRS is South African 107-mm MRS.
+The VTT-323 is The VTT-323 is the North Korean designation for the weapon..
+The 107MM SP MRL 18 M1992 is North Korea Version.
+The 107MM SP MRL 24 M1992 is North Korea Version.
+The Type 85 is This type incorporates 107-mm rockets mounted on a 0.9 m-long Type 85 single man-portable tripod launcher tube. The Type 85 is used by commandos, special operations troops and guerrillas. It can be engaged and disengaged in 30 seconds and weighs 49.6 lb (22.5 kg)..
+The Single-tube launcher is This was exported to guerrilla groups..
+
+Here is System information for the JRTC VISMOD: Type 63 Chinese 107mm Multiple Rocket Launcher (MRL):
+The Alternative Designations is None.
+The Manufacturer is State Factory 847.
+The Crew is 5.
+The Maximum Range is HE - 8,500m; Incendiary - 7,885m.
+The Emplacement Time is 30.
+The Displacement Time is INA.
+
+Here is Dimensions information for the JRTC VISMOD: Type 63 Chinese 107mm Multiple Rocket Launcher (MRL):
+The Length is 2.90.
+The Width is 1.65.
+The Height is 0.91.
+The Tire Size is 126 mm x 406 mm.
+The Weight, Combat is 602kg, 376kg unloaded.
+
+Here is Automotive information for the JRTC VISMOD: Type 63 Chinese 107mm Multiple Rocket Launcher (MRL):
+The Prime Mover is Anything.
+
+Here is Launcher information for the JRTC VISMOD: Type 63 Chinese 107mm Multiple Rocket Launcher (MRL) of the Multiple Rocket Launcher:
+The Type is Multiple Rocket Launcher.
+The Caliber is 107mm.
+The Number of Tubes is 12.
+The Maximum Elevation is +57.
+The Minimum Elevation is -3.
+The Traverse Range, Total is 32.
+The Traverse Right is 16.
+The Traverse Left is 16.
+The Reload Time is 3 minutes.
+The Carriage is Split trail.
+
+Here is Ammunition (Option 1) information for the JRTC VISMOD: Type 63 Chinese 107mm Multiple Rocket Launcher (MRL) of the Multiple Rocket Launcher:
+The Name is INA.
+The Type is HE Projectile.
+The Length is 0.84.
+The Width is 170mm.
+The Weight, Total is 18.80.
+The Warhead Type is HE.
+The Warhead Weight is 8.33.
+The Maximum Range is 8,500.
+The Maximum Velocity is 372.
+
+Here is Ammunition (Option 2) information for the JRTC VISMOD: Type 63 Chinese 107mm Multiple Rocket Launcher (MRL) of the Multiple Rocket Launcher:
+The Name is INA.
+The Type is Incendiary Projectile.
+The Length is 0.92.
+The Width is 170mm.
+The Weight, Total is 18.74.
+The Warhead Type is Incendiary.
+The Warhead Weight is 7.54.
+The Maximum Range is 7,885.
+The Maximum Velocity is 383.
+
+Here is Fire Control information for the JRTC VISMOD: Type 63 Chinese 107mm Multiple Rocket Launcher (MRL):
+The Name is INA.
+The Computerized FCS is No.
+The Sights is Optical.
+

@@ -1,0 +1,54 @@
+This document describes the Bayraktar Akıncı Turkish Unmanned Aerial Vehicle (UAV).
+
+The Bayraktar Akıncı (Turkish pronunciation: [Bayraktar Akıncı]) is a high-altitude long-endurance unmanned combat aerial vehicle controlled by satellite currently under mass production under Turkish drone manufacturer Baykar Makina. It carries electronic support systems, dual satellite communication systems, air-to-air radar, collision avoidance radar, and synthetic aperture radar. First pictures of the UAV hit media reports in June 2018. Initial media reports described Akinci as a 4.5 ton UCAV capable of deploying about 1.5-ton payload with an airframe equipped with two turboprop engines.
+
+This equipment has proliferated into the following countries: Turkey.
+
+Here is Ground Control Station information for the Bayraktar Akıncı Turkish Unmanned Aerial Vehicle (UAV) of the System:
+The BLOS Operations is BLOS operations can be supported over existing worldwide satellite networks and attendant ground data terminals..
+The SATCOM data terminals is SATCOM data terminals can be supplied.
+The Trailer Type Ground Control Station is Yes.
+The Intercomm Systems and Tactical Radio Systems is Yes.
+The NATO Spec Shelter Systems is Yes.
+The Pilot Console Multi Function is Yes.
+The Payload Operator Console is Yes.
+The Radar Operator Console is Yes.
+The Imagery Analysis Console is Yes.
+The Maintenance Technician Console is Yes.
+The Power Systems is Yes.
+The Air Conditioning is Yes.
+The NBC Filtering System is Yes.
+The Note is The Bayraktar AKINCI uses triple bands for LOS control and video transmission..
+
+Here is Dimensions information for the Bayraktar Akıncı Turkish Unmanned Aerial Vehicle (UAV):
+The Length is 12.2 m.
+The Wingspan is 20 m.
+The Height is 4.1 m.
+The Maximum Takeoff Weight is 5,500 kg.
+
+Here is Automotive information for the Bayraktar Akıncı Turkish Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is 2 x Turboprop.
+The Engine Power is 750 hp.
+The Maximum Speed is 361.14 km/h.
+The Maximum Altitude is 12,192 m.
+The Operational Altitude is 9,144 m.
+The Endurance is Up to 24 hours.
+
+Here is Main Weapon System information for the Bayraktar Akıncı Turkish Unmanned Aerial Vehicle (UAV):
+The Hardpoints is 8.
+The Payload Weapons is Laser Guided Smart Munitions, Missiles & Longe Range Stand off Weapons.
+The Internal Capacity is 400 kg.
+The External Capacity is 950 kg.
+The Note is With its triple redundant electronics hardware and software systems Bayraktar AKINCI is capable of carrying the following payloads:
+
+•    Mini Smart Munition MAM-L;
+•    Mini Smart Munition MAM – C;
+•    Cirit Missile;
+•    L-UMTAS Missile;
+•    Mini Smart Munition Bozok;
+•    MK-81, MK-82, MK-83 Guided Bombs (JDAM);
+•    Wing Assisted Guided Bomb MK-82;
+•    Air to Air Missile Gokdogan and Bozdogan;
+•    Stand-Off Missile SOM-A.
+

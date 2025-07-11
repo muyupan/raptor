@@ -1,0 +1,94 @@
+This document describes the 2K6 Luna (FROG-5) Russian Artillery Rocket System.
+
+The 2K6 Luna (Russian: Луна; English: moon) is a Soviet short-range artillery rocket complex. Luna rockets are solid-fuel, unguided and spin-stabilized. "2K6" is its GRAU designation. Its NATO reporting names are FROG-3 (with 3R9 missile) and FROG-5 (with 3R10 missile). From 1965, the 2K6 Luna was replaced by the far more successful 9K52 Luna-M, which was known in the West as the FROG-7.
+
+The Luna system was developed in NII-1 in 1953, under the supervision of N. P. Mazurov. Luna followed the earlier designs 2K1 Mars and 2K4 Filin. While NII-1 was responsible for the rocket, the launch and transporter-loader vehicles were designed by TsNII-58. The initial system name was S-125A "Pion". In 1957 the prototypes of the launch vehicle (SPU S-123A on Ob'yekt 160 chassis), the transloader (TZM S-124A on Ob'yekt 161 chassis), and the 3R5 rocket were ready for evaluations. These were carried out in 1958 in Kapustin Yar and in 1959 in the Transbaikal Military District. As a result of these evaluations, it was decided to abandon the TZM, to improve the SPU and redesign the rocket. This led to the development of the 3R9 and 3R10 rockets. The decision to start series production was taken on 29 December 1959. The first five systems were ready in January 1960 after which the state acceptance trials were carried out until March of that same year. In 1960 the Luna system entered service with the Soviet Army where it remained until 1982. From 1960 till 1964, a total of 432 SPU 2P16s were produced. In the first year alone, 80 launch vehicles and 365 rockets were finished.
+
+The missile complex consisted of:
+
+* the launch vehicle SPU 2P16 (Ob'yekt 160), based on a modified PT-76B chassis with return rollers and fitted with a launch rail, elevation mechanism, stabilizing jacks, and a generator. Combat weight was 18 t;
+
+* the rocket 3R9 with conventional HE warhead 3N15 and with a range of 12 to 44.6 km,
+
+* the rocket 3R10 with a 400 kg nuclear warhead 3N14 and with a range of 10 to 32.1 km;
+
+* a 2U663 missile transporter, based on the ZiL-157V, with 2 missiles;
+
+* a 2U662 vehicle to transport and store nuclear warheads;
+
+* a mobile crane ADK K52 (on MAZ-502), ADK K61 (on MAZ-200) or 9T31 (on Ural-375);
+
+* sets of maintenance vehicles PRTB-1, 2U659, etc.;
+
+* control and command vehicle PU-2 and
+
+* a training set with training rocket PV-65 or 3R11 with training warhead 3N16.
+
+There have been a couple of variants of the launch vehicle, for example, the 2P21, also known as Br-226-II, on ZiL-134 8x8 truck, but these never entered service.
+
+This equipment has proliferated into the following countries: Afghanistan, Algeria, Cuba, Egypt, Germany, Iraq, Libya, North Korea (Democratic People's Republic of Korea), Poland, Romania, Russian Federation, Syria, Yemen.
+
+Here is Variants information for the 2K6 Luna (FROG-5) Russian Artillery Rocket System:
+The FROG 3 is with 3R9 missile.
+The FROG-7 is From 1965, the 2K6 Luna was replaced by the far more successful 9K52 Luna-M, which was known in the West as the FROG-7..
+
+Here is System information for the 2K6 Luna (FROG-5) Russian Artillery Rocket System:
+The Alternative Designation is 2K6 Luna; FROG-5.
+The Type is Artillery Rocket System.
+The Family is 2K6 Luna.
+The Crew is 5.
+The Chassis is 2P16 TEL.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the 2K6 Luna (FROG-5) Russian Artillery Rocket System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is 18.
+The Ground Pressure is INA.
+
+Here is Automotive information for the 2K6 Luna (FROG-5) Russian Artillery Rocket System:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Cruising Range is INA.
+The Speed, Maximum Road is INA.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is INA.
+
+Here is Launcher information for the 2K6 Luna (FROG-5) Russian Artillery Rocket System of the Main Weapon System:
+The Name is SPU 2P16 (Ob'yekt 160).
+The Type is TEL.
+The Weight is 18.
+
+Here is Missile System information for the 2K6 Luna (FROG-5) Russian Artillery Rocket System of the Main Weapon System:
+The Name is 3R10 Missile (FROG-5).
+The Type is Short-Range  Ballistic Missile.
+The Engine is RDTT 3Zh6.
+The Length is INA.
+The Diameter is INA.
+The Weight is INA.
+The Guidance System is Ballistic.
+The Maximum Effective Range is 45.
+The Warhead Type is High Explosive, Nuclear.
+
+Here is Fire Control information for the 2K6 Luna (FROG-5) Russian Artillery Rocket System:
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Vehicle Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is INA.
+
+Here is Protection information for the 2K6 Luna (FROG-5) Russian Artillery Rocket System:
+The Hull Armor is INA.
+The Turret Armor is NA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

@@ -1,0 +1,90 @@
+This document describes the Nimr Emirati 4x4 Light Utility Vehicle.
+
+The Nimr (Arabic: نمر‎; meaning Tiger) is a family of all-terrain military armored personnel carrier (APC) vehicles, co-developed with GAZ and produced by Nimr LLC in the United Arab Emirates. The Nimr is designed specifically for military operations in the harsh desert climates found in the Middle East.
+
+Currently the Nimr is produced in the UAE by Nimr Automotive, and can be considered as an Emirati vehicle. The company is currently a leading manufacturer of tactical military vehicles in the Middle East and North Africa. In 2012 UAE and Algeria signed an agreement for production of armored version of the Nimr in Algeria. Since 2015 the Nimr Automotive is a part of Emirates Defense Industries Company (EDIC), which incorporates a number of UAE's defense manufacturers.
+
+   In concept the Nimr is similar to the US HMMWV, though there are some differences between the two. Currently newer version of this vehicle are produced.
+
+   The Nimr is a purpose designed military vehicle with good cross-country mobility. In terms of size and payload capacity the Nimr fits the gap between jeeps and light trucks. It can carry loads of up to 2 750 kg, depending on the version. The Nimr can also tow trailers and light artillery pieces.
+
+   The baseline Nimr accommodates driver plus 3 passengers. It has got a cargo area are at the rear. However there are numerous versions of this military vehicle with different cabs, different body types and seating configurations. There is a version that accommodates driver plus 7 passengers. In 2005 a 6x6 version of this tactical vehicle was revealed.
+
+   There are armored versions of the Nimr. These vehicles provide protection for the crew against small arms fire, artillery shell splinters and explosions. An NBC protection system was proposed as an option.
+
+   The Nimr can carry various weapon. Some versions have a universal gun mount ring on top of the roof and can be armed with a 7.62 mm, or 12.7 mm machine gun, or 40 mm automatic grenade launcher.
+
+   The Nimr is powered by a 5.9-liter Cummins ISBe 250 turbocharged diesel engine, developing 250 hp. Vehicle has a permanent all-wheel drive. The Nimr comes as standard with a central tyre inflation system. It improves mobility over difficult terrain, such as sand. It is also fitted as standard with run-flat tyres. Winch was proposed as an option.
+
+   The Nimr can be airlifted by a C-130 Hercules military transport aircraft. The 4x4 version can be also airlifted underslung by a CH-53 helicopter.
+
+This equipment has proliferated into the following countries: Algeria, Egypt, Jordan, Lebanon, Libya, Tunisia, United Arab Emirates.
+
+Here is Variants information for the Nimr Emirati 4x4 Light Utility Vehicle:
+The Armored personnel carrier is Fully enclosed 10-seat armored body..
+The Armored ambulance is .
+The Hafeet 620A is Armor protected version. 
+Length: 6.92m
+Width: 2.35m
+Height: 2.33m
+Wheelbase: 3.92m
+Gross weight: 15mt
+Range: 600km
+Crew: 2
+Operating temps: -19C-+49C
+Turning radius: 20m.
+The Hafeet 620A Water Tank Vehicle is A WEW 2.3m3 water tank with its own pumping and UV radiation module. Introduced in 2017..
+The Hafeet 630A is An armored version configured as artillery support vehicles in both observation and command and control configuration..
+The Hafeet 640A is Armored version with a double cab.
+The Hafeet Air Defense Vehicle (ADV) is Based on the Hafeet 640A. Rear chassis is fitted with the MBDA Multi Purpose Combat System (MPCS), the turret of which comprises a gyro-stabilized day/thermal sensor suite with integrated laser rangefinder and four IR Mistral missiles. Introduced in 2015..
+
+Here is Dimensions information for the Nimr Emirati 4x4 Light Utility Vehicle of the System:
+The Length, is 5.5.
+The Width is 2.2.
+The Height is 2.5.
+The Weight, empty is 6.25.
+The Payload Capacity is 2.75.
+
+Here is Automotive information for the Nimr Emirati 4x4 Light Utility Vehicle:
+The Engine Name is Cummins ISBe 250.
+The Engine Type is Diesel.
+The Engine Power is 250.
+The Maximum Road Speed is 135.
+The Maximum Range is 700.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.5.
+The Trench is 0.5.
+The Fording is 1.2.
+
+Here is System information for the Nimr Emirati 4x4 Light Utility Vehicle of the Main Weapon System:
+The Name is Caracal Assault Rifle 817.
+The Alternative Designation is CAR 817.
+The Date of Introduction is 2016.
+The Country is United Arab Emirates.
+The Manufactuer is Caracal International company.
+The Caliber is 7.62.
+The Length, Stock Extended is 884.
+The Length, Stock Retracted is 802.
+The Barrel Length is 406.
+The Weight, Without Magazine is 3.3.
+The Muzzle Velocity is 750.
+The Cyclic Rate of Fire is 650-750.
+The Practical Rate of Fire is 30-90.
+The Magazine Capacity is 10, 20, 25 rounds.
+The Range of Effective Fire is 600.
+The Sight is Iron.
+
+Here is Ammunition information for the Nimr Emirati 4x4 Light Utility Vehicle of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62x51 mm.
+
+Here is Protection information for the Nimr Emirati 4x4 Light Utility Vehicle:
+The Armor is protection for the crew against small arms fire, artillery shell splinters and explosions..
+The Applique Armor is Option.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The NBC Protection is Optional.
+The Smoke Equipment is Available.
+

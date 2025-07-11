@@ -1,0 +1,74 @@
+This document describes the AZK-7M Russian 6x6 Automatic Sound Ranging System.
+
+The AZK-7M automatic sound-ranging system is intended to locate artillery batteries (guns) and mortars from the sound of gunfire and adjust friendly artillery fire from the sound of shell bursts.
+
+The system provides search, direction-finding, and position-finding of the acoustic signal sources in a given zone of surveillance; display of the surveillance results on the monitor of the system commander’s workstation; transmission of the surveillance information to higher authorities over the radio and wired links.
+
+The AZK-7M consists of one central point (CP) and three base points (BP). Its equipment is installed in four Ural-43203 trucks having special K2.4322M van bodies. Three vehicles accommodate equipment of the base points and one vehicle houses the central point.
+
+The main functions of the central point are: to receive telescope messages with the results of the processing of acoustic signals from all the base points of the system over the radio and wired links; to determine the rectangular coordinates of targets when conducting reconnaissance and the rectangular coordinates of shell bursts when adjusting artillery fire; to provide information and technical exchange over the radio and wired links with two external users.
+
+The main functions of the base point are: to deploy two sound stations (SS) on the terrain, with each SS including three sound locators (SL) and power supply; to survey the SS; to measure the surface meteorological parameters; to receive sound signals and determine the time of their arrival at the center of each SS and bearings of detected objects from the center of each SS; to transmit telescope data messages for each SS to the CP of the system over a radio or wired link.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the AZK-7M Russian 6x6 Automatic Sound Ranging System:
+The Alternative Designation is AZK-7M.
+The Type is Sound Ranging System.
+The Manufacturer is INA.
+The Configuration is 6x6.
+The Chassis is Ural-43203.
+The Mission is The AZK-7M automatic sound ranging system is intended to locate artillery batteries (guns) and mortars from the sound of gunfire and adjust friendly artillery fire from the sound of shell bursts.
+
+The system provides: search, direction finding and position-finding of the acoustic signal sources in a given zone of surveillance; display of the surveillance results on the monitor of the system commander’s workstation; transmission of the surveillance information to higher authorities over radio and wired links..
+The Crew is CPs and CPs: 5 each.
+The AZK-7m Package is The AZK-7M consists of one central point (CP) and three base points (BP). Its equipment is installed in four Ural-43203 trucks having special K2.4322M van bodies. Three vehicles accommodate equipment of the base points and one vehicle houses the central point..
+The Central Points is The main functions of the central point are: to receive telecode messages with the results of the processing of acoustic signals from all the base points of the system over radio and wired links; to determine the rectangular coordinates of targets when conducting reconnaissance and the rectangular coordinates of shell bursts when adjusting artillery fire; to provide information and technical exchange over radio and wired links with two external users..
+The Base Point is The main functions of the base point are: to deploy two sound stations (SS) on the terrain, with each SS including three sound locators (SL) and power supply; to survey the SS; to measure the surface meteorological parameters; to receive sound signals and determine the time of their arrival at the center of each SS and bearings of detected objects from the center of each SS; to transmit telecode data messages from each SS to the CP of the system over a radio or wired link..
+The Localization Range, Mortars is 5-8 km.
+The Localization Range, Artillery Guns is 12-16 km.
+The Localization Range, Ground Burst of Shells fired by 122mm and Larger Caliber Guns is 12 km.
+The Localization Range, Air Bursts is 12-16 km.
+The Surveillance Frontage, Three BPs Deployed is 10-12 km.
+The Surveillance Frontage, Two BPs Deployed is 5-6 km.
+The Time to Locate a Target is No more than 15 seconds.
+The Time to Deploy, using Radio Communications is 1 hour.
+The Time to Deploy, using Wire Communications is 2 hour.
+The Number Of External Subscribers is 2.
+The Range of Robust Wired Communications between CP and BP is Up to 5 km.
+The Range of Robust Radio Communications between CP and BP is On the Move: 1 KM
+At the Halt: 10 km.
+
+Here is Dimensions (Chassis: Ural-43203) information for the AZK-7M Russian 6x6 Automatic Sound Ranging System:
+The Length is 7.37.
+The Width is 2.5.
+The Height is 4.5.
+The Weight, Empty is 8.
+The Payload capacity (on road) is 6.
+The Payload capacity (off road) is 4.5.
+The Maximum Tow Capacity is 12.
+
+Here is Automotive (Chassis: Ural-43203) information for the AZK-7M Russian 6x6 Automatic Sound Ranging System:
+The Engine Name is YaMZ-740.
+The Engine Type is Diesel.
+The Engine Power is 210.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is 50.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 62.
+The Side Slope is 40.
+The Vertical Step is 0.55.
+The Trench is 1.2.
+The Fording Depth is 1.75.
+
+Here is Protection information for the AZK-7M Russian 6x6 Automatic Sound Ranging System:
+The Armor is INA.
+The Applique Armor is Available to protection against small arms fire and artillery shell splinters.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Personal CBRN equipment.
+The Smoke Equipment is No.
+The IR Signature is No.
+

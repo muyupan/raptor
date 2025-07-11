@@ -1,0 +1,88 @@
+This document describes the K1 ARV South Korean Armored Recovery Vehicle.
+
+The K1 ARV operated by a crew of four is equipped with the latest recovery equipment. Its advanced crane, winch and dozer systems allow it to perform damaged vehicle recovery missions, and to provide maintenance service for armored vehicles. The K1 ARV uses common components of the K1 MBT to the maximum extent which provides for effective maintenance and logistic support. It has the same mobility performances to keep up with the K1 main battle tanks so that overturned or partly destroyed armored vehicle can be rapidly recovered or towed to the maintenance units.
+
+This equipment has proliferated into the following countries: South Korea (Republic of Korea).
+
+Here is Variants information for the K1 ARV South Korean Armored Recovery Vehicle:
+The XK1 is Experimental model under the ROKIT (Republic of Korea Indigenous Tank) project..
+The K1 is First production variant. 1,027 units built between 1985 and 1998. To be upgraded to K1E1 by 2026..
+The K1M is Proposed export variant for Malaysia. In 1997, Malaysia expressed great interest in obtaining the K1, and the ROK responded by showing them the concept for K1M, which had several features not present in the baseline K1, including a laser warning system and an air conditioning unit. It was to weigh 49.7 tons, while the total ammunition capacity would have been reduced to 41 rounds. The ROK offered a contract for 210 K1M's, but Malaysia responded that it was too many, and chose to go with Polish PT-91M in 2003..
+The K1 PIP is Upgraded K1. PIP includes changes in SAP to KSAP, GPS to GPTTS, and Nd-Yag to CO2 rangefinder..
+The K1E1 is Further upgraded K1. Production began in December 2013, and the first K1E1 rolled out on 7 July 2014. The upgrade will be similar to that of K1A2. All K1 will be upgraded to K1E1 by 2026.[9] The name was inherited from the K1A1 prototype, the K1E1..
+The K1E2 is As of August 2018, the K1E2 type is planned to be improved. It is expected to be upgraded to a large-scale repair (renovation) in 2024. The main improvement point is the replacement of the new armored upgrading of the protection, installation of the positive pressure device, acceleration of 10% upgrade (1200 hp engine to 1320 hp) or change 1500 hp engine, Introduction of RWS, etc..
+The K1A1 is First major enhanced variant. 484 units built between 1999 and 2010. To be upgraded to K1A2 by 2022..
+The K1A2 is Upgraded K1A1. Originally named as K1A1 PIP. Developed from 2008 to 2010, and mass-production started in 2012. First upgraded vehicle was rolled out on 20 December 2013. Technology benefit from K2 Black Panther has been applied to this model. Upgrades include buoyancy tubes, automatic commanding control with identification friend or foe, GPS and INS position recognition, and digital wireless communications and displays. It also has air conditioning and a soft-kill active protection system to defend against missiles and rockets. The K1A2 project provides upgrade kits for South Korean Army and Marines Corps K1 and K1A1 tanks. All K1A1 will be upgraded to K1A2 by 2022..
+The K1 ARV is The K1 Armored Recovery Vehicle is based on the K1 tank. It has a crane, winch and dozer system built on the vehicle. It was developed with assistance from Krupp Maschinenbau Kiel GmbH (now Rheinmetall Landsysteme GmbH) between 1988 and 1992, with first deployment in 1993..
+The K1 AVLB is The K1 Armored Vehicle-Launched Bridge variant uses a scissor-type bridge system mounted on the chassis. It was developed from 1988 to 1992 with help from Vickers Defense Systems.
+The K1 CEV is The K1 Combat Engineer Vehicle is based on the K1A1/A2 chassis, mounting a mine plough, an excavator arm on the right side, and a lane marking system. Development is expected to be completed in June 2018 and begin production in 2019..
+
+Here is System information for the K1 ARV South Korean Armored Recovery Vehicle:
+The Alternative Designation is K1 ARV.
+The Type is Armored Recovery Vehicle.
+The Manufacturer is Hyundai Rotem.
+The Crew is 4.
+The Winch is 35,000-kg winch with 150 m of cable..
+The Crane Capacity is 25,000-kg crane.
+The Crane Traverse is 270 deg.
+The Crane Elevation is +70 deg.
+The Dozer Blade is A front-mounted dozer blade can move 170 cu m of soft soil per hour with a traction force of 71,120 kg..
+
+Here is Dimensions information for the K1 ARV South Korean Armored Recovery Vehicle:
+The Hull Length is 7.48 m.
+The Length, Gun Forward is 9.67 m.
+The Width is 3.59 m.
+The Height is 2.25 m.
+The Combat Weight is 51,100 kg.
+The Ground Clearance is 460 mm.
+The Ground Pressure is 0.87 kg/sq cm.
+
+Here is Automotive information for the K1 ARV South Korean Armored Recovery Vehicle:
+The Engine Name is 1 x MTU MB871.
+The Engine Type is 1,934-cu in (31.7-liter) liquid-cooled, 8-cyl, multifuel diesel.
+The Engine Power is 1,200 hp at 2,600 rpm.
+The Power-to-Weight Ratio is 23.53 hp/metric ton.
+The Transmission is ZF LSG 3000 automatic transmission w/mechanical lock-up and 4 forward/2 reverse gears.
+The Suspension is Hybrid (torsion bar at wheel stations 3, 4 and 5 and hydro-pneumatic units at wheel stations 1, 2 and 6); 6 road wheels with 19.7-in (500-mm) travel.
+The Maximum Road Speed is 65 kph.
+The Cross-Country Speed is 40 kph.
+The Maximum Range is 500 km.
+The Vertical Obstacle is 1.1 m.
+The Trench is 2.7 m.
+The Fording without Preparation is 1.2 m.
+The Fording with Preparation is 2.2 m.
+The Gradient is 60 percent.
+The Side Slope is 30 percent.
+
+Here is System information for the K1 ARV South Korean Armored Recovery Vehicle of the Main Weapon System:
+The Name is K6.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Quantity is 1.
+The Manufacturer is Daewoo.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Action is Short recoil-operated.
+The Rate of Fire is 1,200–1,300 rounds/min.
+The Muzzle Velocity is 890 m/s.
+The Maximum Firing Range is 7,400 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is Belt-fed.
+
+Here is Ammunition information for the K1 ARV South Korean Armored Recovery Vehicle of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Basic Load is INA.
+
+Here is Protection information for the K1 ARV South Korean Armored Recovery Vehicle:
+The Hull Armor is Chobham-type Special Armor Plate (SAP).
+The Turret Armor is Chobham-type Special Armor Plate (SAP). Chobham-type armor is fitted over the frontal arc, turret front and sides. This provides protection against both kinetic and chemical energy attacks..
+The Applique Armor is Available.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is collective: M13A1 gas-particulate filter.
+The Smoke Equipment is 2 x 6 smoke grenade launchers on either side of turret.
+

@@ -1,0 +1,38 @@
+This document describes the FIM-43 Redeye American Man-Portable Air-Defense Systems (MANPADS).
+
+The General Dynamics FIM-43 Redeye is a man-portable surface-to-air missile system. It uses passive infrared homing to track its target. Production began in 1962 and – in anticipation of the Redeye II, which later became the FIM-92 Stinger – ended in the early 1970s (delivery of the last Redeye for the U.S. Army was completed in July 1971). after about 85,000 rounds had been built. The Redeye was withdrawn gradually between 1982 and 1995 as the Stinger was deployed, though it remained in service with various armed forces of the world until quite recently, being supplied via the Foreign Military Sales program. It was initially banned from being sold overseas, to avoid missiles falling into the hands of terrorist organizations. However, after the export ban was lifted, the weapon was never actually used by terrorists against civil aircraft, in contrast with other MANPADS. While the Redeye and 9K32 Strela-2 (SA-7) were similar, the missiles weren’t identical. Nonetheless, the CIA concluded that the Soviet SA-7 had benefited from the Redeye’s development. 
+
+The missile is fired from the M171 missile launcher. First, the seeker is cooled to operating temperature and then the operator begins to visually track the target using the sight unit on the launcher. Once the target is locked onto by the missile, a buzzer in the launcher hand grip begins vibrating, alerting the operator. The operator then presses the trigger, which fires the initial booster stage and launches the missile out of the tube at a speed of around 80 feet per second (25 m/s). As the missile leaves the tube, spring-loaded fins pop out—four stabilizing tail fins at the back of the missile, and two control surfaces at the front of the missile. Once the missile has traveled six meters, the sustainer motor ignites. The sustainer motor takes the missile to its peak velocity of Mach 1.7 in 5.8 seconds. 1.25 seconds after the sustainer is ignited, the warhead is armed.
+
+The missile's seeker is only capable of tracking the hot exhaust of aircraft, which limits the engagements to tail-chase only. The missile's blast fragmentation warhead is triggered by an impact fuze, requiring a direct hit. As a first-generation missile it is susceptible to countermeasures, including flares and hot brick jammers. Its inability to turn at a rate greater than 3 G means that it can be outmaneuvered, if detected.
+
+This equipment has proliferated into the following countries: Israel, Jordan, Saudi Arabia, South Korea (Republic of Korea), Thailand, Turkey.
+
+Here is Variants information for the FIM-43 Redeye American Man-Portable Air-Defense Systems (MANPADS):
+The Block I FIM-43/XFIM-43A/XMIM-43A is INA.
+The Block II FIM-43BXFIM-43B/XMIM-43B is Fitted with a gas cooled seeker and improved warhead and fuse and modified launcher..
+The XFEM-43B is Experimental missile, with data logging capability.
+The Block III FIM-43C/XFIM-43C is Production version; improved warhead and fuse section, and a new launcher..
+The XFEM-43C is Experimental missile, with data logging capability.
+The FIM-43D is Upgraded missile, with unknown capabilities..
+
+Here is System information for the FIM-43 Redeye American Man-Portable Air-Defense Systems (MANPADS):
+The Alternative Designation is FIM-43 Redeye.
+The Type is Man-Portable Air-Defense Systems (MANPADS).
+The Manufacturer is General Dynamics.
+The Crew is 1.
+The Engine is 1 x two-stage Atlantic Research M115 solid-fuel rocket booster propels the missile out of the tube to about 20 ft (6 m) distance; sustainer motor takes over for rest of flight..
+The Warhead is titanium, 2-kg high-explosive smooth-case fragmentation.
+The Detonation Mechanism is Impact Fuze.
+The Guidance System is Infrared homing.
+The Maximum Speed is Mach 1.6.
+The Maximum Range is 3.2 km.
+The Maximum Altitude is 2,440 m.
+
+Here is Dimensions information for the FIM-43 Redeye American Man-Portable Air-Defense Systems (MANPADS):
+The Length is 1.22 m.
+The Diamter is 70 mm.
+The Wingspan is 140 mm.
+The Missile Weight is 8.2 kg.
+The System Weight is 13.2 kg.
+

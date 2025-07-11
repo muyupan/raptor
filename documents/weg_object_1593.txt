@@ -1,0 +1,129 @@
+This document describes the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer.
+
+Chungmugong Yi Sun-sin class destroyers are multipurpose destroyers of the Republic of Korea Navy. The lead ship of this class, ROKS Chungmugong Yi Sunsin, was launched in May 2002 and commissioned in December 2003. Chungmugong Yi Sun-sin-class destroyers were the second class of ships to be produced in the Republic of Korea Navy's destroyer mass-production program named Korean Destroyer experimental, which paved the way for the navy to become a blue-water navy. Six ships were launched by Hyundai Heavy Industries and Daewoo Shipbuilding & Marine Engineering in four years. The KDX-II is part of a much larger build up program aimed at turning the ROKN into a blue-water navy. It is said to be the first stealthy major combatant in the ROKN and was designed to significantly increase the ROKN's capabilities.
+
+This equipment has proliferated into the following countries: South Korea (Republic of Korea).
+
+Here is Variants information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer:
+The ROKS Chungmugong Yi Sun-sin is Commissioned: 2003
+Status: Active.
+The ROKS Munmu the Great is Commissioned: 2004
+Status: Active.
+The ROKS Dae Jo-yeong is Commissioned: 2005
+Status: Active.
+The ROKS Wang Geon is Commissioned: 2005
+Status: Active.
+The ROKS Gang Gam-chan is Commissioned: 2007
+Status: Active.
+The ROKS Choe Yeong is Commissioned: 2008
+Status: Active.
+
+Here is System information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer:
+The Alternative Designation is Chungmugong Yi Sun-Sin Class (KDX-II Class).
+The Type is Destroyer.
+The Builder is Hyundai Heavy Industries
+Daewoo Shipbuilding & Marine Engineering.
+The Crew is 300.
+
+Here is Dimensions information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer:
+The Length is 154.4 m.
+The Beam is 16.9 m.
+The Draft is 4.3 m.
+The Displacement, Standard is 4,500 tons.
+The Displacement, Full Load is 5,500 tons.
+
+Here is Propulsion System information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer:
+The Engine Name is 2 x General Electric LM-2500.
+The Engine Type is Gas Turbine.
+The Diesel Engine Power is 32,480 shp each.
+The Maximum Speed is 30 knots (56 km/h; 35 mph).
+The Range is 4,500 nmi (8,300 km; 5,200 mi) at 18 kn (33 km/h; 21 mph).
+
+Here is Gun Weapon System #1 information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer of the Gun Weapon Systems:
+The Name is 1 x OTO Melara 127/64.
+The Type is Naval Gun.
+The Caliber is 127 mm.
+The Quantity is 1.
+The Crew is Remote Controlled.
+The Elevation is −15°/+83°.
+The Traverse is 360°
+speed: 40°/s.
+The Rate of Fire is 40 rounds/min.
+The Effective Range is 100 km with guided VULCANO ammunition.
+The Feed System is Magazine capacity:
+66 ready rounds.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 127.
+The INA is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer of the Gun Weapon Systems:
+The Name is 1 x Goalkeeper CIWS.
+The Type is Close-in-Weapon System (CIWS).
+The Caliber is 30 mm.
+The Quantity is 1.
+The Crew is Automated, with human oversight.
+The Barrels is 7-barrel (progressive RH parabolic twist, 14 grooves).
+The Elevation is +85 to −25 degrees at 80 degree/s.
+The Traverse is 360 deg.
+The Rate of Fire is 70 rounds/second (4,200 rounds/minute).
+The Muzzle Velocity is 1,109 m/s.
+The Effective Firing Range is 350 to between 1,500 and 2,000 m.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Shell is 30×173mm TP, HEI, MPDS, or FMPDS.
+The Basic Load is INA.
+
+Here is Launcher information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer of the Missile Weapon System:
+The Name is 1 x 24-cell Doosan K-VLS.
+
+Here is Missile information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer of the Missile Weapon System:
+The Name is Hyunmoo III.
+The Type is Cruise Missile.
+The Manufacturer is Agency for Defense Development (ADD), Seoul, South Korea
+ LIG Nex1, Seoul, South Korea.
+The Length is 6.25 m.
+The Diameter is 0.52 m.
+The Launch Weight is 1,450 kg.
+The Payload Weight is 315 kg.
+The Engine is solid-propellant rocket boost and turbojet.
+The Range, Hyunmoo IIIA is 500 km.
+The Range, Hyunmoo IIIB is 1,000 km.
+The Range, Hyunmoo IIIC is 1,500 km.
+The Circular Error Probable is 5 m.
+
+Here is Torpedo System information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer:
+The Launcher is 2 x triple 324-mm Mark 32 ASW torpedo tubes.
+The Torpedo Name is Blue Shark ASW or Mark 46 Mod 5 torpedoes.
+The Basic Load is 46.
+
+Here is Fire Control Systems information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer:
+The Gun Fire Control System Name is 1 x Thales Goalkeeper Fire Control System.
+The Missile Fire Control System Name is 2 x Thales STIR 2.4 systems fire-control w/OT-134 missile target illuminators..
+The Computerized FCS is Yes.
+The Battle Management System is Yes.
+The Combat Control System is 1 x Samsung Thales KDCOM-2 system.
+
+Here is Radar Systems information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer:
+The Air Search Radar is 1 x Raytheon AN/SPS-49(V)5 radar.
+The Surface Search Radar is 1 x SPS-95K surface search radar.
+The Navigation Radar is 1 x Daewoo DTR-92 navigation.
+
+Here is Sonar Systems information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer:
+The Active and Passive Sonar is 1 x Atlas Elektronik DSQS-23.
+The Towed Linear Passive Sonar is 1 x Daewoo TASS towed passive array.
+
+Here is Aircraft Facilities information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer:
+The Aircraft is 2 x Super Lynx [carries Sea Skua ASM missiles or U.S. Mark 46, Mod. 5 ASW torpedoes]..
+
+Here is Protection information for the Chungmugong Yi Sun-Sin Class (KDX-II Class) South Korean Destroyer:
+The Active Protection System is 2 x 330-340 round Matra-Defense Dagaie Mark 2 decoy rocket launching system.
+The Torpedo Decoy is 1 x SLQ-260K TACM torpedo decoy launcher and 1 x SLQ-25 Nixie towed acoustic decoy system.
+The EW is 1 x LIG Nex1 SLQ-200(V)1K Sonata
+intercept/jamming.
+The NBC Water Washdown System is Yes.
+

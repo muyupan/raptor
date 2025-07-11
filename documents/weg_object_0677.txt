@@ -1,0 +1,41 @@
+This document describes the PL-8 Chinese Air-to-Air Missile.
+
+The PL-8 (Chinese: 霹雳-8; pinyin: Pī Lì-8; literally: 'Thunderbolt-8') is a Chinese air-to-air missile (AAM) originated from the Israeli Python-3 AAM. Experience gained from PL-8/Python-3 had helped China greatly in developing its next missile, the PL-9.
+
+China's PLAAF was quite impressed with this missile, and paid for licensed production as the PL-8 AAM in the 1980s. The program was code named "Number 8 Project" (八号工程) and formally started on September 15, 1983. The major supplier of the missile was Xi'an Eastern Machinery Factory (西安东方机械厂) located in Xi'an. From March 1988 to April 1989, technology transfer to China was complete while license assembly and license built parts continued, and by the spring of 1989, the complete domestic Chinese built missile received state certification.
+
+China has also developed a helmet-mounted sight (HMS) system for the PL-8. Elbit Systems DASH (Display And Sight Helmet) helmet mounted sight (HMS). However, it's not clear that if this was part of the Python-3 deal or a separate deal instead.
+
+The seeker of the original Python-3 AAM was able to be slaved to either the airborne fire control radars or DASH HMS. These capabilities initially did not exist on PL-8 at the earlier stage of its service in Chinese hands, because the missile is only compatible with western radars, but not compatible with Chinese radars. The only exception was that capability of being slaved to airborne fire control radars could be achieved by PL-8 only when it is used in conjunction with the few western radars in Chinese inventory, such as the British GEC-Marconi Skyranger airborne radar and Italian FIAR Grifo series airborne radar on Chengdu J-7, but for most part, the seeker of PL-8 could only be fixed, pointing to the front when deployed on aircraft with domestic Chinese radars. These capabilities would not be fully achieved until the advent of PL-9, the next Chinese AAM, when the missile became compatible not only with western radars, but also Chinese and Russian radars as well, and these capabilities of PL-9 were eventually incorporated to PL-8 AAMs in its upgrades so that PL-8 is fully capable as Python-3.
+
+This equipment has proliferated into the following countries: China, Egypt, North Korea (Democratic People's Republic of Korea).
+
+Here is Variants information for the PL-8 Chinese Air-to-Air Missile:
+The Note is Unlike the conventional Chinese designation practice where a missile is given a Chinese name after at least 70% of it is made in China, Python 3 received a Chinese name at the very beginning, receiving PL-8 when it was purchased. It was speculated that China did so because it did not want to further reveal its tie with Israel, so that the original Israeli name was replaced with a Chinese one to avoid harming the relationship between Chinese and Muslim countries.
+
+As PL-8/Python 3 AAM has wing span much larger than PL-2/PL-5 (which has dimensions close to AIM-9 missiles), Chinese fighter jets were modified to carry extended pylon to carry PL-8 missiles. Wingtip pylon of newly released J-15 carrier based fighter jet is also extended for this purpose, and become a visual signature of J-15 comparing Su-33.
+
+PL-8: Python 3 AAM provided by Israel
+PL-8A: License assembled AAM in China with Israeli supplied components
+PL-8B: Chinese built AAM with 100% domestic Chinese components
+PL-8H: Surface-to-air version with slightly smaller warhead weighing 10 kg
+The surface-to-air version is developed by China National Aero-Technology Import & Export Corporation (CATIC). According to the developers, there are minor improvements incorporated in each version, but they have not specified the exact upgrades..
+
+Here is PL-8 Air-to-Air Missile information for the PL-8 Chinese Air-to-Air Missile of the System:
+The Name is PL-8.
+The Type is Air-to-Air Missile.
+The Manufacturer is Xi'an Eastern Machinery Factory and CATIC.
+The Length is 2.95 m.
+The Diameter is 160 mm.
+The Wingspan is 800 mm.
+The Weight is 115 kg.
+The Warhead is 11 kg high explosive.
+The Detonation Mechansim is Impact / Proximity.
+The Engine is solid rocket.
+The Propellant is solid fuel.
+The Operational Range is 20 km.
+The Flight Ceiling is 21 km.
+The Flight Altitude is 05 km.
+The Maximum Speed is Mach 3.5.
+The Guidance System is passive infrared homing.
+

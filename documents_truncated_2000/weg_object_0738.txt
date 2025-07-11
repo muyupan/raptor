@@ -1,0 +1,47 @@
+This document describes the Skylark II Israeli Unmanned Aerial Vehicle (UAV).
+
+The Skylark II was unveiled in 2006. It has a range of 60 km and is designed to be operated by a two-person crew and to be deployed using HMMWV class field vehicles. In December 2007, South Korea decided to purchase the Skylark II system.  Israel planned to bring the Skylark II into service by mid-2013.
+
+Skylark II is designed to support brigades and divisions. The guidance system is a Starlink air terminal with secure digital data links, redundant avionics, and autonomous flight modes. They are interoperable with other Skylarks with real-time video transfer rate of 1.5 mb per second, encrypted UHF uplink, D/E band downlink. Uses a triple sensor payload that provides high definition optical, thermal imager, and laser capabilities.
+
+This equipment has proliferated into the following countries: Australia, Canada, France, Israel, Mexico, Singapore, South Korea (Republic of Korea), Sweden.
+
+Here is System information for the Skylark II Israeli Unmanned Aerial Vehicle (UAV):
+The Alternative Designation  is None.
+The Ground Crew is 2.
+
+Here is Dimensions information for the Skylark II Israeli Unmanned Aerial Vehicle (UAV):
+The Length, Overall is 3.2.
+The Length, Wing Span is 4.2.
+The Weight, Takeoff is 35.
+The Weight, Maximum Launch is 65.
+
+Here is Automotive / Performance information for the Skylark II Israeli Unmanned Aerial Vehicle (UAV):
+The Altitude, Operating  is 150-1,525.
+The Ceiling, Service  is 4,875.
+The Endurance  is 6.
+The Range of Operation is 50.
+The Speed, Cruising  is 65.
+The Speed, Maximum  is 129.
+The Engine Name is Bental Industries electric motor.
+The Engine Power is 5.4hp, 4kW.
+The Engine Type is Electric, battery.
+The Ground Control is Skylark dual station ground control, color console.
+The Propulsion is Two blade propeller.
+
+Here is Launch and Recovery information for the Skylark II Israeli Unmanned Aerial Vehicle (UAV):
+The Launch Method is HMMWV class vehicle with mounted rail launcher, or can use optional rail launcher trailer.
+The Recovery/Landing Method is Parachute and airbag cushion.
+
+Here is Payload 1 information for the Skylark II Israeli Unmanned Aerial Vehicle (UAV) of the Payload:
+The Description is HD Color CCD 10x zoom lens.
+The Type is Optical Camera.
+
+Here is Payload 2 information for the Skylark II Israeli Unmanned Aerial Vehicle (UAV) of the Payload:
+The Description is Night FLIR thermal imaging.
+The Type is IR Camera.
+
+Here is Payload 3 information for the Skylark II Israeli Unmanned Aerial Vehicle (UAV) of the Payload:
+The Description is Marker.
+The Type is Laser.
+

@@ -1,0 +1,114 @@
+This document describes the TOS-1A Solntsepek Russian 220mm Heavy Flamethrower System.
+
+The TOS-1A Solntsepek Russian 220mm Heavy Flamethrower System is an improved version of the TOS-1. Its launch vehicle is designated BM-1 and is designed to perform the same missions as the original vehicle. However, it has an increased range as a result of longer rockets.The primary effect of the TOS-1A’s rockets is a long-duration high-pressure blast wave which creates a vacuum, then precipitates a reverse wave. These pressure/vacuum surges up to 427 psi = 300,210.392948 kgf/m² (427 pounds per sq inch) cause a ripping effect on soft materials (such as airplane skin, radar surface, human lung tissue). Walls and surfaces within the affected area do not necessarily shield victims, rather cause multiple pressure waves, which amplify the tearing effects and can topple structures. A secondary effect is high-temperature heat at 2,500-3,000° C (4,532- 5,432° F). An incomplete explosion renders a near-devastating effect, with a wide-area long-duration high-temperature flame. Even those outside of the blast area will be rendered ineffective with debilitating mental and physical trauma.
+
+This equipment has proliferated into the following countries: Algeria, Armenia, Azerbaijan, CFE Treaty, Iraq, Jordan, Kazakhstan, Russian Federation, Saudi Arabia, Syria.
+
+Here is Variants information for the TOS-1A Solntsepek Russian 220mm Heavy Flamethrower System:
+The TOS-1 Buratino is The TOS-1 Buratino is the original variant of the TOS family; it is equipped with a 30 tube rocket launcher and based on a T-72 main battle tank. It is designed to provide massed indirect and direct fire support..
+The TZM-T is A support vehicle designed to provide the TOS-1A with rocket reloads on the battlefield. Like the TOS-1A it is based on the hull of a T-72 and carries a full set of rockets..
+The TOS-2 is A newer heavy flamethrower system, based on Ural-63704-0010 military truck with 6x6 configuration..
+
+Here is System information for the TOS-1A Solntsepek Russian 220mm Heavy Flamethrower System:
+The Alternative Designation is TOS-1A Solntsepek.
+The Type is Heavy Flamethrower System.
+The Caliber is 220 mm.
+The Manufacturer is Omsk Transmash Design Bureau.
+The Family is TOS.
+The Crew is 3.
+The Chassis is Modified T-72 main battle tank chassis.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the TOS-1A Solntsepek Russian 220mm Heavy Flamethrower System:
+The Length is 6.86 m.
+The Width is 3.46 m.
+The Height is 2.60 m.
+The Weight, Combat is 44,300 kg.
+
+Here is Automotive information for the TOS-1A Solntsepek Russian 220mm Heavy Flamethrower System:
+The Engine Name is V-84M.
+The Engine Type is Diesel.
+The Engine Power is 840.
+The Fuel Capacity is 1,200.
+The Oil Capacity is 76.
+The Starter Generator is SG-10-1S that can generate 10 kW of energy as a power generator or 19 kW of energy (26 hp) as an auxiliary starter motor..
+The Maximum Range is 550.
+The Speed, Maximum Road is 60.
+The Speed, Maximum Off-Road is 45.
+The Amphibious is No.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.85.
+The Trench is 2.8.
+The Fording Depth is 1.2.
+
+Here is Communications information for the TOS-1A Solntsepek Russian 220mm Heavy Flamethrower System:
+The Primary is R-173 short-wave radio.
+The Secondary is R-168 series of digital radio.
+
+Here is System information for the TOS-1A Solntsepek Russian 220mm Heavy Flamethrower System of the Main Weapon System:
+The Name is TOS 1A Launcher.
+The Type is Heavy Flamethrower system.
+The Number of Tubes is 24.
+The Maximum Firing Range is 6,000 m.
+The Minimum Firing Range is 600 m.
+The Stop to Fire First Round Time is 100 seconds.
+The Note is The launcher vehicle can stop and fire at a visible target within 90 seconds from traveling..
+
+Here is Ammunition (Option 1) information for the TOS-1A Solntsepek Russian 220mm Heavy Flamethrower System of the Main Weapon System:
+The Name is MO-1.01.04M.
+The Type is Heavy Flamethrower.
+The Caliber is 220.
+The Muzzle Velocity is INA.
+The Rocket Length is 3.7.
+The Rocket Weight is 217.
+The Maximum Effective Range is 6.
+The Minimum Effective Range is 600.
+The Warhead Type is Thermobaric warhead (MO.1.01.04.01).
+The Fuze Type is MRV-U1 impact fuze.
+The Engine is Solid propellant rocket motor (MO.1.01.04.02).
+The Temperature at Peak of the Explosion is 3,700 °C.
+The Basic Load is 24 total 220mm Projectiles.
+The Note #1 is A thermobaric warhead is a derivative of a fuel air explosive, both of which are known as volumetric explosives..
+The Note # 2 is A further effect of thermobaric weapons is the consumption of oxygen in the target area..
+
+Here is Ammunition (Option 2) information for the TOS-1A Solntsepek Russian 220mm Heavy Flamethrower System of the Main Weapon System:
+The Name is MO.1.01.04M.OP.
+The Type is Incendiary rocket.
+The Caliber is 220.
+The Rocket Length is 3.7.
+The Rocket Weight is 204.
+The Engine is Solid propellant rocket motor (MO.1.01.04.02).
+The Muzzle Velocity is INA.
+The Fuze Type is INA.
+The Warhead Index Code is MO-1.01.04M.01.02..
+The Maximum Effective Range is 6.
+The Minimum Effective Range is 600.
+The Warhead Type is Incendiary.
+The Basic Load is 24 total 220 mm Projectiles.
+
+Here is Fire Control information for the TOS-1A Solntsepek Russian 220mm Heavy Flamethrower System:
+The Name is INA.
+The Computerized FCS is Yes, A Modern Fire Control System.
+The Time to Identify a Target and Fire is 90.
+The Commander's Day/Night Observation Device is TKN-3A.
+The Driver's Night Vision is 1 x TVNE-4B, an electro-optic binocular, and periscopic heated sight..
+The Ballistic Computer is Yes.
+The Laser Rangefinder is Yes.
+The Combined Sight and Rangefinder is 1 x 1D14 T Range Finder.
+The 1D14 t Sight/Rangefinder Accuracy is 10.
+The Roll and Pitch Sensing Device is PB2.329.04.
+
+Here is Protection information for the TOS-1A Solntsepek Russian 220mm Heavy Flamethrower System:
+The Hull Armor is Steel and composite armor with ERA, equivalent to 500-600 mm of Rolled Homogeneous Armor (RHA)..
+The Turret Armor is Steel and composite armour with ERA, equivalent to 500-600 mm of Rolled Homogeneous Armor (RHA).
+The Applique Armor is Available, Turret top and track skirts. The launcher is fitted with additional protection that is sufficient to stop a B32 armor piercing bullet..
+The Explosive Reactive Armor is Yes, Kontakt-5.
+The Active Protection System is Yes, ZETS11-3 control panel.
+The Mine Clearing is Yes, Roller and plow (optional).
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes, System Sensor Radiation Device and chemical intelligence (PRRM).
+The Smoke Equipment is Yes, Grenade launcher 8x; VESS and The TOS-1 can create a smoke screen by injecting fuel into the exhaust and this effect can be employed for no more than 10 minutes, using 10 litres of fuel per minute when in use..
+The Note is The TOS-1A is based on a T-90 hull, which is understood to carry the same level of protection as the standard T-90 MBT.
+

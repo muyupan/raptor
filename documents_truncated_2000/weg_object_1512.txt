@@ -1,0 +1,95 @@
+This document describes the Tripartite Class Belgian Minehunter.
+
+Originally ten ships were ordered for the Belgian Navy, with the option for five more that was never activated. The Polyship consortium was organized to direct the building program, however, the consortium was dissolved, leading to delays in the construction of the minehunters. This led to the vessels being reordered this time from Béliard Shipyard, which constructed the hulls at their yard in Ostend, Belgium before completing the minehunters at Rupelmonde. Differences between the Belgian and French versions of the class include a smaller displacement at 519 tons (511 long tons) standard and 574 tones (565 long tons) at full load. They are equipped with an Atlas Elektronik IMCMS combat data system. When Minehunting, the Belgian vessels carry six divers and can have a portable decompression chamber installed abaft the forecastle break.
+
+All vessels in the class are named after flowers and are thus sometimes called the "Flower" or Aster class. In 2001 the remaining Belgian minehunters had their engines upgraded. All remaining Belgian vessels have undergone an extensive upgrade during 2004–2008 involving replacement of the anti-mine warfare equipment. This included receiving the same sonar package as the French versions. The complement of the Belgian ships varies between 33 and 46 depending on the mission.
+
+Ships in class (Belgium)
+In 1993, three of the vessels (Iris, Fuschia, and Dianthus) were paid off and laid up until being sold in 1997 to France. Crocus was modified into an ammunition transfer vessel the same year. Myosotis was converted to an ammunition transport before being taken out of service in 2004 and was sold to Bulgaria in 2009.
+
+This equipment has proliferated into the following countries: Belgium.
+
+Here is Variants information for the Tripartite Class Belgian Minehunter:
+The Aster is Commissioned: 1985
+Status: Active.
+The Bellis is Commissioned: 1986
+Status: Active.
+The Crocus is Commissioned: 1987
+Status: Active.
+The Dianthus is Commissioned: 1987
+Status: Laid up 1993, sold to France 1997.
+The Fuschia is Commissioned: 1988
+Status: Laid up 1993, sold to France 1997.
+The Iris is Commissioned: 1988
+Status: 	Laid up 1993, sold to France 1997.
+The Lobelia is Commissioned: 1989
+Status: Active.
+The Myosotis is Commissioned: 1989
+Status: Converted to ammunition transport. Taken out of service in 2004 and sold to Bulgaria in 2009..
+The Narcis is Commissioned: 1990
+Status: Active.
+The Primula is Commissioned: 1991
+Status: Active.
+
+Here is System information for the Tripartite Class Belgian Minehunter:
+The Alternative Designation is Tripartite Class.
+The Type is Minehunter.
+The Builder is Béliard Shipyard.
+The Crew is The complement of the Belgian ships varies between 33 and 46 depending on mission..
+The Mine Warfare System is Mine countermeasures equipment originally included two PAP-104 Mark 4 remote-controlled submersibles, EVEC 20 plot table, autopilot, Toran and Sydelis radio navigation aids, as well as the Decca HiFix Mark 6 precision navigation system. The mine-detection range of the sonar is greater than 1,640 ft (500 m). An autopilot system is provided. Starting in 1999, the class was fitted with new Consilium Selesmar NN 950 navigational radars..
+The Divers is When minehunting, the Belgian vessels carry six divers and can have a portable decompression chamber installed abaft the forecastle break..
+
+Here is Dimensions information for the Tripartite Class Belgian Minehunter:
+The Length is 51.6 m.
+The Beam is 9.0 m.
+The Draft is 2.6 m.
+The Displacement, Standard is 510 tons.
+The Displacement, Full Load is 540 tons.
+
+Here is Propulsion System information for the Tripartite Class Belgian Minehunter:
+The Engine Name is 1 x Brons-Werkspoor A-RUB 215 x 12 diesel.
+The Engine Type is Diesel.
+The Engine Power is 1,900 total bhp; 1 shaft.
+The Auxiliary Power is 2 x 120-shp ACEC active rudders (for minesweeping).
+The Bow-Thrusters is 2 x  75-shp bow-thrusters.
+The Maximum Speed is 15 kts (7 kts hunting).
+The Maximum Range is 3,500 nm at 10 kts.
+The Endurance is 15 days.
+
+Here is Gun Weapon System #1 information for the Tripartite Class Belgian Minehunter of the Gun Weapon Systems:
+The Name is 20 mm modèle F2 gun.
+The Type is Naval Gun.
+The Caliber is 20 mm.
+The Quantity is 1 x 20 mm modèle F2 gun.
+The Length is INA.
+The Weight is 332 kg (732 lb) (without ammunition).
+The Action is Gas unlocked, delayed blowback[1.
+The Elevation is −15° to + 65°.
+The Rate of Fire is 720 round/min.
+The Muzzle Velocity is 1,050 m/s.
+The Effective Firing Range is 1,500 m (4,900 ft) against aerial targets.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Tripartite Class Belgian Minehunter of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 20.
+The Cartridge is 20×139mm.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Tripartite Class Belgian Minehunter:
+The FCS Name is INA.
+The Computerized FCS is No.
+The Combat Data System is They are equipped with an Atlas Elektronik IMCMS combat data system..
+
+Here is Radar Systems information for the Tripartite Class Belgian Minehunter:
+The Navigation Radar is 1 x Decca TM 1229C navigation; or
+1 x Consilium Selesmar NN 950 navigation radar.
+
+Here is Sonar Systems information for the Tripartite Class Belgian Minehunter:
+The Hull Mounted Sonar is 1 x Thales TSM-2022 Mk II hull-mounted HF Sonar.
+The Minehunting Sonar is 1 x Thales PVDS Minehunting Sonar.
+
+Here is Protection information for the Tripartite Class Belgian Minehunter:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

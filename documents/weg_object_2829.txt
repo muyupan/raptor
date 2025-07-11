@@ -1,0 +1,43 @@
+This document describes the R-168-100KAE Russian Portable HF Radio Set.
+
+The R-168-100KAE Russian Portable HF Radio Set provides open and closed radio communication in tactical radio networks by means of an in-built technical masking device at installation on wheeled base objects.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the R-168-100KAE Russian Portable HF Radio Set:
+The Alternative Designation is R-168-100KAE.
+The Type is Portable HF Radio Set.
+The Crew is 1.
+The Operation Types is Telephone with single-band modulation (ОМ); Telephone with voice data technical masking (ТМ); Automatic telegraph FT1-200, FT-500 (DB12, DB2); Telegraph FT-200, FT-500 for auditory reception (FT1, FT2); Amplitude telegraph (АТ); Transmission (sending) and reception of address, circular and tone calls signals; Data transmission in digital form by joint S1-PL using modem R-168 STD3-1, Р-168 STD-2..
+The Operation Modes is Simplex; two-frequency simplex; Frequency hopping (FH) (simplex); Adaptive communication (АС); Scan reception by 2-8 secondary frequencies 2 - 8; Manual and automated radio data record; Stand- by a reception with ban for transmission; Operation on 8 preset frequencies; Control operation from in-built control panel; Control operation from the remote control panel; Control operation from external PC by joint RS-232S using processor R-168 PPTS or modem R-168 STD-2; Automated operability control..
+The Frequency Range is 1,5...29,9999 MHz.
+The Frequency Spacing is 0,1 kHz.
+The Relative Frequency Instability is No more than 3,0*10-7.
+The Peak Transmitter Power (up to Automatic Matching Device) is 10; 100 Вт.
+The Transmitter Frequency Harmonic Components Attenuation is 60 дБ.
+The Receiver Sensitivity, In Telephone Operation Modes is 2,0 microV.
+The Receiver Sensitivity, In Telegraph Operation Modes is 1,5 microV.
+The Susceptibility Level by Blocking at Tuning ±10% is 130 dB/microV.
+The Susceptibility Level by Side Reception Channels is 90 dB/microV.
+The Communication  Range on Move using Antenna PA-4 is 25 km - 60 km.
+The Communication Range at Stop on Antenna is 350 km.
+The Turning Rate in FH Mode is 3 and 22 hops per second.
+The Data Transmission Rate using Modem R-168 STD-1, R-168 STD-2 is 1200, 2400 bit/s.
+The Voltage Supply on-Board Network is 22… 29,7 V.
+The Mean-Time Between Failures is 3000 hrs.
+The Operating Temperature is - 40...+ 60°С.
+
+Here is Dimensions information for the R-168-100KAE Russian Portable HF Radio Set:
+The Transceiver A-100KAE, Width is 410 mm.
+The Transceiver A-100KAE, Depth is 260 mm.
+The Transceiver A-100KAE, Height is 285 mm.
+The Transceiver A-100KAE, Weight is 29 kg.
+The Automated Matching Device АMD-100KА, Width is 446 mm.
+The Automated Matching Device АMD-100KА, Depth is 295 mm.
+The Automated Matching Device АMD-100KА, Height is 250 mm.
+The Automated Matching Device АMD-100KА, Weight is 19 kg.
+The Secondary Power Supply Source SU4-100КА, Width is 175 mm.
+The Secondary Power Supply Source SU4-100КА, Depth is 263 mm.
+The Secondary Power Supply Source SU4-100КА, Height is 285 mm.
+The Secondary Power Supply Source SU4-100КА, Weight is 9 kg.
+

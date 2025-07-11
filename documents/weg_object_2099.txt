@@ -1,0 +1,47 @@
+This document describes the Sounder Norwegian Autonomous Surface Vehicle (ASV).
+
+The Sounder Norwegian Autonomous Underwater Vehicle (AUV) supports quick and easy change of payload and is adaptable for both hull and bow-mounted systems. KONGSBERG’s K-MATE autonomy system provides safe navigation and control of the system, is capable of direct remote control, and supervised or autonomous operation. A robust and reliable propulsion system and hull design ensure safe sailing for up to 20 days.
+
+This equipment has proliferated into the following countries: Norway.
+
+Here is System information for the Sounder Norwegian Autonomous Surface Vehicle (ASV):
+The Alternative Designation is Sounder.
+The Type is Autonomous Underwater Vehicle (AUV).
+The Builder is Kongsberg.
+The Crew is Autonomous.
+The Missions is AUV USBL position aiding; Seismic support; LBL/USBL calibration and position fix MULTIBEAM ECHO SOUNDER; Hydrographic surveys; Harbor surveys; Search.
+The Control System is K-MATE autonomy engine for direct, supervised, and autonomous operation.
+The Containers and Launch and Recovery System is The ability to transport the vessel in standard shipping containers, allowing for efficient deployment anywhere in the world..
+
+Here is Dimensions information for the Sounder Norwegian Autonomous Surface Vehicle (ASV):
+The Length is 8.0 m.
+The Height is 2.3 m / 4.4 m (mast down/up).
+The Beam is 2.2 m.
+The Draft is 0.7 m.
+The Weight is 4,200 kg.
+
+Here is Propulsion System information for the Sounder Norwegian Autonomous Surface Vehicle (ASV):
+The Engine Name is Steyr, Model: INA.
+The Engine Type is Diesel.
+The Engine Power is 125 hp.
+The Propeller is Fixed pitch propeller.
+The Maximum Range is INA.
+The Maximum Speed is 12 knots.
+The Endurance is Up to 20 days @ 4 knots.
+
+Here is Communications information for the Sounder Norwegian Autonomous Surface Vehicle (ASV):
+The Maritime Radio is Maritime Broadband Radio (MBR).
+The Iridium Satellite Communication System is Yes.
+
+Here is Radar Systems information for the Sounder Norwegian Autonomous Surface Vehicle (ASV):
+The Navigation Radar is INA.
+
+Here is Sonar Systems information for the Sounder Norwegian Autonomous Surface Vehicle (ASV):
+The Echo Sounder is 1 x ES80/EK80 echosounder.
+The Fishery Sonar is 1 x SX95 fishery sonar for fish finding.
+
+Here is Protection information for the Sounder Norwegian Autonomous Surface Vehicle (ASV):
+The Hull is The hull shape ensures smooth sailing through the water, eliminating aeration and minimizing drag. A slim bow and the stabilizing fins dampen roll and pitch movement while the three rudders provide exceptional manoeuvrability..
+The Countermeasures is No.
+The NBC Water Washdown System is No.
+

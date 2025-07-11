@@ -1,0 +1,62 @@
+This document describes the R-168-25UE Russian Vehicular VHF Radio Set.
+
+The R-168-25UE radio station and receiver combination provides clear and encrypted communication and is intended for installation in military ground vehicles. VHF R-168-25UE vehicular radio set provides radio communication in tactical radio networks of regiment-battalion-company level.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the R-168-25UE Russian Vehicular VHF Radio Set:
+The R-168-25UE-2 VHF Radio Series is The R-168-25UE-2 has two independent reception and transmission subsystems. Operating modes include fixed frequency (simplex, double-frequency simplex), frequency hopping (simplex) and simultaneous voice and data transmission. The basic building block is the R-168-5UNE-2 radio..
+
+Here is System information for the R-168-25UE Russian Vehicular VHF Radio Set:
+The Alternate Designation is R-168-25UE.
+The Type is Vehicular VHF Radio Set.
+The Manufacturer is Sarapul Radioplant OJSC.
+The Operation Types is Telephone with frequency modulation; 
+Telephone with technical masking of voice information;
+Data transmission..
+The Operation  Modes is Fixed frequency (FF) (simplex, two-frequency simplex); Frequency hopping (FH) (simplex); Adaptive communication (АС) (simplex, two-frequency simplex); Scan reception by 8 preset frequencies; Operation with noise-suppressor; Retransmission; Manual and automated radio data record from radio data input device with optical interface (RDID-О) from external PC (change of frequencies and address); Emergency radio data erasure; Circular, address and tone calls transmission and reception; Operation by 8 preset channels; Control from external PC by joint RS-232S; Voice informer of operator actions; Dialogue mode; Automated operability control..
+The Frequency Range is 30...107,975 MHz.
+The Frequency Spacing is 25 kHz.
+The Data Transmission Rate, Voice is 16 Kbit/s.
+The Data Transmission Rate, Data is 1,2…16 Kbit/s.
+The Receiver Sensitivity, Delivery Set 1 is Up to 256.
+The Receiver Sensitivity, Delivery Set 2,3,4 is 1,4 mV.
+The Tuning Rate in FH Mode is 100 hops per second.
+The Frequencies Quantity used in FH Mode is Up to 256.
+The Side Reception Channels Attenuation is 80 dB.
+The Transmitter Output Power, Delivery Set 1 is 1,0; 8,0; 40,0 W.
+The Transmitter Output Power, Delivery Set 2, 3 is 0,125; 1,5; 4,0; 8,0; 40,0 W.
+The Transmitter Output Power, Delivery Set 4 is 0,125; 1,5; 4,0 W.
+The Transmitter Frequency Harmonic Components Attenuation is 50 dB.
+The Radio Channels Quantity, Delivery Set 1,3 is 1.
+The Radio Channels Quantity, Delivery Set 2,4 is 2.
+The Analog Information Communication Range, using Antenna R-168TWBA is Up to 20 km (analog information during FH operation in all operation modes).
+The Digital Information Communication Range, using Antenna R-168TWBA is Up to 17 km (digital information in all operation modes).
+The Analog Information Communication Range, using Antenna R-168BBMA is Up to 40 km (analog information during FH operation in all operation modes).
+The Digital Information Communication Range, using Antenna R-168BBMA is Up to 35 km (digital information in all operation modes).
+The Mean-Time-Between Failures: Delivery Set 1 is 4,000 hours.
+The Mean-Time-Between Failures: Delivery Set 2,3,4 is 4,500 hours.
+The Operating Temperature is - 40°С...+ 55°С.
+
+Here is Dimensions information for the R-168-25UE Russian Vehicular VHF Radio Set:
+The Delivery Set 1: Transceiver, Width is 394 mm.
+The Delivery Set 1: Transceiver, Depth is 207 mm.
+The Delivery Set 1: Transceiver, Height is 222 mm.
+The Delivery Set 1: Transceiver, Weight is 27 kg.
+The Delivery Set 2,3,4: Transceiver, Width is 205 mm.
+The Delivery Set 2,3,4: Transceiver, Depth is 175 mm.
+The Delivery Set 2,3,4: Transceiver, Height is 95 mm.
+The Delivery Set 2,3,4: Transceiver, Weight is 3 kg.
+The TFACD-25 Unit, Width is 428 mm.
+The TFACD-25 Unit, Depth is 248 mm.
+The TFACD-25 Unit, Height is 239 mm.
+The TFACD-25 Unit, Weight is 19 kg.
+The TFACD -100 Unit, Width is 428 mm.
+The TFACD -100 Unit, Depth is 248 mm.
+The TFACD -100 Unit, Height is 239 mm.
+The TFACD -100 Unit, Weight is 18 kg.
+The Ventilators Unit VU-25, Width is 397 mm.
+The Ventilators Unit VU-25, Depth is 203 mm.
+The Ventilators Unit VU-25, Height is 60 mm.
+The Ventilators Unit VU-25, Weight is 1.7 kg.
+

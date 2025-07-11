@@ -1,0 +1,86 @@
+This document describes the ZPU-1 Russian 14.5mm Towed Anti-Aircraft Gun.
+
+The ZPU (Russian: ЗПУ; зенитная пулемётная установка/zenitnaya pulemotnaya ustanovka, meaning "anti-aircraft machine gun mount") is a family of towed anti-aircraft gun based on the Soviet 14.5×114mm KPV heavy machine gun. It entered service with the Soviet Union in 1949 and is used by over 50 countries worldwide.
+
+Development of the ZPU-2 and ZPU-4 began in 1945, with the development of the ZPU-1 starting in 1947. All three were accepted into service in 1949. Improved optical predicting gunsights were developed for the system in the 1950s.
+
+All weapons in the ZPU series have air-cooled quick-change barrels and can fire a variety of ammunition including API (B32), API (BS41), API-T (BZT), and I-T (ZP) projectiles. Each barrel has a maximum rate of fire of around 600 rounds per minute, though this is practically limited to about 150 rounds per minute.
+
+The quad-barrel ZPU-4 uses a four-wheel carriage similar to that once used by the obsolete 25 mm automatic anti-aircraft gun M1940. In the firing position, the weapon is lowered onto the firing jacks. It can be brought in and out of action in about 15 to 20 seconds and can be fired with the wheels in the traveling position if needed.
+
+The double-barrel ZPU-2 was built in two different versions; the early model has large mudguards and two wheels that are removed in the firing position, and the late model has wheels that fold and are raised from the ground in the firing position.
+
+ZPU-2 turned out to be too heavy for the Airborne Troops, so a new UZPU-2 (later redesignated as ZU-2) was developed from ZPU-1.
+
+The single-barrel ZPU-1 is carried on a two-wheeled carriage and can be broken down into several 80-kilogram pieces for transport over rough ground.
+
+Versions of the weapon are built in China, North Korea, and Romania.
+
+The series was used during the Korean War by Chinese and North Korean forces and was later considered to be the most dangerous opposition to U.S. helicopters in Vietnam. Later it was used by Morocco and the Polisario Front in the Western Sahara War. It was also used by Iraqi forces during Operation Desert Storm and again in Operation Iraqi Freedom. In 1974 the Cyprus National Guard artillery batteries used their ZPU-2s against the Turkish air force. In the Russian military, it was replaced by the newer and more powerful ZU-23 23 mm twin automatic anti-aircraft gun.
+
+During the Lebanese Civil War, the Lebanese militias mounted the ZPU-2 and ZPU-4 on various vehicles, such as M113 armored personnel carriers, to create self-propelled support vehicles.
+
+The ZPU has seen widespread use by both sides in the Libyan Civil War, Syrian Civil War, and Yemeni Civil War, is often mounted on technical pickup trucks. The weapon has also been heavily used in the being installed on pickup trucks and is credited for bringing down several Syrian Air Force helicopters
+
+This equipment has proliferated into the following countries: Afghanistan, Albania, Algeria, Angola, Bangladesh, Benin, Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Chad, China, Congo, Croatia, Cuba, Cyprus, Djibouti, East Timor (Timor-Leste), Egypt, Ethiopia, Ghana, Guinea, Guinea-Bissau, Iran (Islamic Republic of), Iraq, Israel, Kenya, Laos (People's Democratic Republic), Latvia, Lebanon, Libya, Madagascar, Malawi, Mali, Malta, Mauritania, Mongolia, Morocco, Mozambique, Namibia, Nepal, Nicaragua, North Korea (Democratic People's Republic of Korea), Pakistan, Romania, Russian Federation, Seychelles, Somalia, South Korea (Republic of Korea), Sri Lanka, Sudan, Syria, Tanzania, Togo, Uganda, Viet Nam, Zambia, Zimbabwe.
+
+Here is Variants information for the ZPU-1 Russian 14.5mm Towed Anti-Aircraft Gun:
+The ZPU-4 is Type 56 – Chinese-built version.
+MR-4 – Romanian-built version with a two-wheel carriage designed locally..
+The ZPU-2 is Type 58 – Chinese-built version.
+PKM-2 – Polish-built version..
+The ZU-2 is INA.
+The ZPU-1 is Type 75 and Type 75-1 - Chinese built-versions.
+BTR-40A SPAAG – A BTR-40 APC with a ZPU-2 gun mounted in the rear. Entered service in 1950.
+BTR-152A SPAAG – A BTR-152 with a ZPU-2 mounted in the rear. Entered service in 1952..
+
+Here is System information for the ZPU-1 Russian 14.5mm Towed Anti-Aircraft Gun:
+The Alternative Designation is ZPU-1.
+The Type is Towed Anti-Aircraft Gun.
+The Caliber is 14.5 mm.
+The Crew is 4.
+The Carriage is INA.
+The Barrels is 1.
+The Elevation is +88/−8 deg.
+The Traverse is 360 deg.
+The Maximum Firing Range is 8,000 m.
+The Maximum Firing Altitude is 5,000 m.
+The Effective Altitude is 1,400 m.
+The Emplacement Time is INA.
+The Displacement Time is INA.
+
+Here is Dimensions information for the ZPU-1 Russian 14.5mm Towed Anti-Aircraft Gun:
+The Length, Traveling is 3.44 m.
+The Width, Traveling is 1.62 m.
+The Height, Traveling is 1.34 m.
+The Weight, Firing is 413 kg.
+
+Here is Ammunition (Option #1) information for the ZPU-1 Russian 14.5mm Towed Anti-Aircraft Gun of the Ammunition:
+The Name is BS.41.
+The Type is API.
+The Projectile Weight is 64.4 g (2.27 oz).
+The Muzzle Velocity is 1,000 m/s.
+The Armor Penetration is Armor-penetration at 500 m (550 yd) is 32 mm (1.3 in) of RHA at 90 degrees..
+The Note is Full metal jacket bullet round with a tungsten carbide core..
+
+Here is Ammunition (Option #2) information for the ZPU-1 Russian 14.5mm Towed Anti-Aircraft Gun of the Ammunition:
+The Name is BZT.
+The Type is API-T.
+The Projectile Weight is 59.56 g (2.101 oz).
+The Muzzle Velocity is 1,005 m/s.
+The Armor Penetration is INA.
+The Note is Full metal jacket round with a steel core. Tracer burns to at least 2,000 m (2,200 yd)..
+
+Here is Ammunition (Option #3) information for the ZPU-1 Russian 14.5mm Towed Anti-Aircraft Gun of the Ammunition:
+The Name is ZP.
+The Type is I-T.
+The Projectile Weight is 60.0 g (2.12 oz)..
+The Muzzle Velocity is INA.
+The Armor Penetration is INA.
+The Note is "Instantaneous Incendiary" bullet with internal fuze, incendiary in tip, tracer container in base..
+
+Here is Fire Control information for the ZPU-1 Russian 14.5mm Towed Anti-Aircraft Gun:
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is No.
+

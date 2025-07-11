@@ -1,0 +1,32 @@
+This document describes the RGB-3 Russian Remote Sensing System.
+
+Based on the Micro-MCA4 architecture, the RGB+3 is a remote sensing workhorse. This system consists of four cameras: one RGB color camera that senses broad bands of red, green, and blue; and three monochrome cameras that sense the following narrow bands: 680 nm, 700 nm, and 800 nm; these are generally understood as NDVI red, the "red edge," and NDVI NIR, respectively. This configuration allows you the advantage of an RGB color camera as well as very precise analyses, such as NDVI and SAVI, via the narrow bands.
+
+The RGB+3 snap shutter sensors produce crisp images at very short exposures that are ideal for mosaic building or operation aboard fast or low-flying aircraft. The RGB+3 is equipped with standard Micro-MCA interfacing which includes a USB 2.0 interface for rapid system configuration and image transfer, a serial interface for tagging each image with GPS coordinates, live video interfacing, and a multi-IO connector (HDMI) with links to remote controls such as a remote image trigger.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the RGB-3 Russian Remote Sensing System:
+The Alternative Designation is RGB-3.
+The Type is Remote Sensing System.
+The Crew is INA.
+The Power is 9.0 to 16.5 Volts (DC), 500 mA Typical Current Draw.
+The Lenses is Four lenses (9.6 mm focal length each).
+The Effective Sensor Range is 425 nm to 950 nm (Filters field changeable by users).
+The Color Bands is Red: 570 nm – 700 nm, Green: 480 nm – 550 nm and Blue: 400 nm – 470 nm.
+The Narrow Bands is 680 nm (NDVI Red), 700 nm (Red Edge) and 800 nm (NDVI NIR) (each 20 nm wide).
+The Image Memories is Four 16 GB Micro SD cards (up to ~8000 images/card).
+The Control Panel Buttons is Take Picture, Move System Menu Up, Down or Select.
+The Status Indicator is System Ready (Green) / System Busy (Red).
+The Interface Connections is USB: USB 2.0 (Able to transfer images & data @ 60 MB/Second).
+The Video is NTSC
+
+Multi-IO (HDMI-Type Remote trigger, Serial (Receive, Transmit & Sync), NTSC Video.
+The Included Software is Tetracam PixelWrench2.
+
+Here is Dimensions information for the RGB-3 Russian Remote Sensing System:
+The Length is 115.6 mm.
+The Width is 80.3 mm.
+The Height is 50 mm.
+The Weight, Combat is 400 grams.
+

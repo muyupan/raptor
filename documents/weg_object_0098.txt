@@ -1,0 +1,51 @@
+This document describes the Qianlong No. 1 Class Chinese Autonomous Underwater Vehicle (AUV).
+
+The Qianlong No. 1 Chinese Autonomous Underwater Vehicle (AUV) shows safe and smooth deployment and retrieval, and its autonomous movement control, high-preciseness underwater positioning, as well as detection function, proves normal. The Qianlong No. 1 Chinese Autonomous Underwater Vehicle (AUV) achieved breakthroughs in technical difficulties such as overall integration technology, deployment and recycling technology, deep-sea navigation and positioning monitoring technology, high intelligent control technology, deep-sea exploration technology, and multi-acoustic equipment coordination technology. It is the first practical 6,000- meter AUV deep-sea equipment with independent intellectual property rights in China.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Qianlong No. 1 Class Chinese Autonomous Underwater Vehicle (AUV):
+The Qianlong No. 2 is The Qianlong No. 2 Chinese Autonomous Underwater Vehicle (AUV) unlike many submersibles, looks like a fish. It is the first time in the world to apply a non-rotating body flat fish shape design, which is beneficial to reduce the vertical surface resistance, facilitate its vertical climb in complex seabed terrain, and enhance surface navigation. ability. The Qianlong No. 2 is China's most advanced deep-sea autonomous underwater robot, which has reached the international advanced level..
+The Qianlong No. 3 is The first sea trial of the Qianlong No. 3, an upgraded version of the Qianlong No. 2, is expected to be conducted this April of 2018..
+
+Here is System information for the Qianlong No. 1 Class Chinese Autonomous Underwater Vehicle (AUV):
+The Alternative Designation is Qianlong No. 1.
+The Type is Unmanned Cabless Autonomous Underwater vehicle (AUV)..
+The Builder is Shenyang Institute of Automation (SIA).
+The Crew is Autonomous.
+The Mission is Its main task is to discover and find the area where resources are located, to detect the marine elements on the seabed, and to provide a basis for evaluating resource reserves and commercial exploitation value..
+The Maximum Depth is 6,000 m.
+The Sea Condition is Not more than 4 grades.
+The Submersible Body System is The  The Qianlong No. 1 Chinese Autonomous Underwater Vehicle (AUV) consists of a submersible body system, a water surface support system and an acoustic positioning system. The submersible body system is mainly responsible for underwater transportation, controlling the navigation of the submersible and ensuring the final realization of the mission, as well as completing the synchronous coordination of all the acoustic devices of the submersible and the bottom-to-bottom speed measurement, collision avoidance ranging, submarine micro-topography, Fine survey of landforms, judgment of bottom quality, etc. The surface support system is mainly responsible for the deployment and recovery of the submersibles, system technical inspection, mission setting, data post-processing, etc., and is responsible for the safety of the installation, fixation and transportation of the submersibles on the mothership..
+The Water Surface Support System is Yes.
+The Cameras is Yes.
+The Note is The Qianlong No. 1 Chinese Autonomous Underwater Vehicle (AUV) achieved breakthroughs in technical difficulties such as overall integration technology, deployment and recycling technology, deep-sea navigation and positioning monitoring technology, high intelligent control technology, deep-sea exploration technology, and multi-acoustic equipment coordination technology..
+
+Here is Dimensions information for the Qianlong No. 1 Class Chinese Autonomous Underwater Vehicle (AUV):
+The Length is 4.6 m.
+The Diameter is 0.8 m.
+The Draft is Submersible.
+The Displacement, Standard is 1,500 kg.
+The Displacement, Full Load is INA.
+
+Here is Propulsion System information for the Qianlong No. 1 Class Chinese Autonomous Underwater Vehicle (AUV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The 50 m Fixed-High Submarine Distance is 10.5 km.
+The Cruising Speed is 2 knots.
+The Maximum Depth is 6,000 m.
+The Endurance is 24 hours.
+
+Here is Sonar Systems information for the Qianlong No. 1 Class Chinese Autonomous Underwater Vehicle (AUV):
+The Forward Looking Sonar is Yes.
+The Acoustic Positioning System is Yes, The acoustic positioning system is responsible for the underwater positioning and water monitoring of the submersible during the underwater mission..
+The Collision Avoidance Ranging Device is Yes.
+The Side Sonar is INA.
+
+Here is Protection information for the Qianlong No. 1 Class Chinese Autonomous Underwater Vehicle (AUV):
+The Hull Armor is Submersible Body System.
+The Countermeasures is No.
+The NBC Water Washdown System is No.
+The EW Intercept is No.
+

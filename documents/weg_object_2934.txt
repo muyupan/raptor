@@ -1,0 +1,69 @@
+This document describes the R-378A Russian Automated Communications Jammer.
+
+The R-378A is a HF communications jammer designed for detection, direction-finding and jamming of HF radio frequencies operating in fixed frequencies and programmable and automatic frequency tuning modes.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the R-378A Russian Automated Communications Jammer:
+The R-378B is R-378 HF antenna and jamming system mounted on a MTLBu chassis..
+
+Here is System information for the R-378A Russian Automated Communications Jammer:
+The Alternative Designation is R-378.
+The In Service is 1993-Present.
+The Type is High Frequency (HF) Communication Automated Jamming Station.
+The Manufacturer is Ural.
+The Chassis is Ural-43293.
+The Configuration is 6x6.
+The Crew is INA.
+
+Here is Dimensions information for the R-378A Russian Automated Communications Jammer:
+The Length is 7.37.
+The Width is 2.5.
+The Height is 4.5.
+The Weight, Empty is 8.
+The Payload capacity (on road) is 6.
+The Payload capacity (off road) is 4.5.
+The Maximum Tow Capacity is 12.
+
+Here is Automotive information for the R-378A Russian Automated Communications Jammer:
+The Engine Name is YaMZ-740.
+The Engine Type is Diesel.
+The Engine Power is 210.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is 50.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 62.
+The Side Slope is 40.
+The Vertical Step is 0.55.
+The Trench is 1.2.
+The Fording Depth is 1.75.
+
+Here is Jamming Station information for the R-378A Russian Automated Communications Jammer:
+The Operating Frequency Range is 1.5 - 30 MHz.
+The Transmitter Output Power is 1 KW.
+The Quantity of Simultaneously Jammed Frequencies is Up to 5 target target frequencies.
+The Frequency Spacing is kHz - 4,16.
+The Root-mean-square error of direction finding, degree (not more than) is INA.
+The Frequency Range Scanning Rate (without direction finding) is INA.
+The Mean time of station reaction during jamming in autonomous mode (during operation by list of 200 preset frequencies in simultaneous scanning band, not more) is 15 ms.
+The Accuracy of carrier frequency definition (not more) is INA.
+The Relative frequency deviation from the nominal (not more) is INA.
+The Receiver sensitivity (not worse) is INA.
+The Jamming Spectrum Width is Narrowband: 3, 10, 20, and 50 kHz; Barrage: 150–8,000 kHz.
+The Jammed RF Links is Fixed frequency: up to 3; Frequency hop: 1.
+The Frequency Hop Signal Detection is Up to 300 hop/sec.
+The Deployment Time is 40 min.
+The Azimuth Search Coverage is 360 deg.
+The Power Generator is Requires 1 x ED30-T400-1RPM1 electric power generator mounted on a bi-axial trailer.
+
+Here is Protection information for the R-378A Russian Automated Communications Jammer:
+The Armor is INA.
+The Applique Armor is Available to protection against small arms fire and artillery shell splinters.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Personal CBRN equipment.
+The Smoke Equipment is No.
+The IR Signature is No.
+

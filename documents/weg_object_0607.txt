@@ -1,0 +1,56 @@
+This document describes the PL-96 (Type 96) Chinese 122mm Towed Howitzer.
+
+The PL-96 (Type 96) Chinese 122mm Towed Howitzer is a copy of the Soviet D-30 howitzer. It is also referred as Type 96. It is a slightly improved version of the Type 86 howitzer.
+
+This equipment has proliferated into the following countries: Bangladesh, China.
+
+Here is Variants information for the PL-96 (Type 96) Chinese 122mm Towed Howitzer:
+The Type 89 is Type 89 is a tracked 122 mm artillery system with the 122 mm ordnance. Actually it uses ordnance of the older Type 86 howitzer. Since the late 1970s a number of 122 mm self-propelled howitzers were developed in China to meet Chinese Army requirements. The PLA required mobile artillery system to provide medium- to long-range indirect fire support for motorized infantry and armored troops and capable of keeping pace with them. However none of them could meet these requirements. The Type 89, also known as the PLZ89, was developed in late 1980s. It was Chinese attempt to develop indigenous self-propelled howitzer with similar capabilities to the Soviet 2S1 Gvosdika. The Type 89 is currently in service with Chinese Army and Marines. Several hundred of these artillery systems were built. Currently these are being replaced by the PLZ-07 and PLZ-07B self-propelled howitzers..
+The SH-3 is SH-3 is a tracked artillery system. It is an improved version of the Type 89, developed mainly for export. It can be seen as a China's newly-built equivalent to the Soviet 2S1 Gvosdika. It offers greater mobility, improved fire control system and delivers greater firepower than the 2S1 or the Type 89 self-propelled howitzers..
+The PLZ-07 is PLZ-07 is a version of the SH-3, adopted by the Chinese army. It is a successor to the Type 89 self-propelled howitzer. It was adopted in the late 2000s and first publicly revealed in 2009. The PLZ-07 is being fielded by the Chinese army in large numbers. This artillery system is not amphibious, though it seems that it might be fitted with floatation kit in order to ford inland rivers and lakes..
+The PLZ-07B is PLZ-07B is an amphibious self-propelled howitzer, used by China's marine corps. This artillery system is fully amphibious. It has a boat-like hull for improved floatation and is fitted with a trim vane and two waterjets. Though it uses a similar turret as the SH-3 and PLZ-07. The PLZ-07B can be launched at sea from amphibious assault ships and swim over short distances to shore..
+The SH-2 is SH-2 is another truck-mounted howitzer. It is based on a 6x6 light utility truck chassis and uses ordnance of the PL-96. This artillery system was first publicly revealed in 2007. It was aimed mainly at export customers. However it received no production orders..
+The PCL-09 is PCL-09 is a truck-mounted howitzer. It is based on a Shaanxi 6x6 military truck and uses ordnance of the PL-96. This artillery system was adopted in around 2009 and is widely used by Chinese army..
+The PLL-09 is PLL-09 is a self-propelled artillery system, which is based on a ZBL-09 Snow Leopard armored personnel carrier chassis with 8x8 configuration. This self-propelled howitzer is widely used by the China's army. A number of these systems are used by China's marines. It provides indirect fire support for rapid deployment brigades. The PLL-09 has good cross-country mobility and is capable of keeping pace with main battle tanks..
+The CS/SH-1 is CS/SH-1 airport able truck-mounted howitzer, intended for airborne forces. It also utilizes modified ordnance of the PL-96, mounted on an open-top 4x4 truck. This artillery system can be airdropped. It was first publicly revealed in 2014..
+The SH-4 is SH-4 is a recent truck-mounted artillery system, which utilizes modified ordnance of the PL-96 122 mm howitzer, based on a 4x4 military truck chassis with an armored cab..
+
+Here is System information for the PL-96 (Type 96) Chinese 122mm Towed Howitzer:
+The Alternative Designation is PL-96 (Type 96) Chinese 122mm Towed Howitzer.
+The Type is Towed Howitzer.
+The Caliber is 122 mm.
+The Crew is 5.
+The Towing vehicles is This field howitzer is towed by a 6x6 truck. It is typically seen towed by Dongfeng EQ2102 or Shaanxi SX2150 trucks, that also carry crew and ammunition..
+The Displacement Time is 1.5 - 2.5.
+The Emplacement Time is 1.5 - 2.5.
+The Maximum Range of Fire is 18 - 27 km.
+The Maximum Rate of Fire is 6 - 8 rpm.
+The Sustained Rate of Fire is 1 -  2 rpm.
+The Elevation Range is - 7 to + 70 degrees.
+The Traverse Range is 360 degrees.
+
+Here is Dimensions information for the PL-96 (Type 96) Chinese 122mm Towed Howitzer:
+The Length (in traveling order) is 5.4.
+The Barrel Length is 32 calibers.
+The Gun Bore is 122 mm.
+The Weight, Combat is 3.2.
+
+Here is Ammunition information for the PL-96 (Type 96) Chinese 122mm Towed Howitzer:
+The Name is INA.
+The Type is Projectile.
+The Caliber is 122 mm.
+The Basic Load is INA.
+The Types of Projectiles is A whole family of 122 mm ammunition is produced in China for its artillery system. This howitzer fires High Explosive (HE), High Explosive Fragmentation (HE-FRAG), cargo, incendiary, smoke, illumination, and possibly other types of shells..
+The Compatibility is The PCL-09 is compatible with all standard 122 mm ammunition of Russian D-30 howitzer..
+The HE-FRAG Projectile Maximum Range of Fire is 18 km.
+The Extended-Range Projectile Maximum Range of Fire is 21 km.
+The Rocket Assisted Projectile Maximum Range of Fire is 27 km.
+The Laser-Guided Projectile Capable is Yes.
+The HE Projectile Penetration is 180 mm of steel armor.
+The HEAT Projectile Penetration is Around 450-500 mm of steel armor.
+
+Here is Fire Control information for the PL-96 (Type 96) Chinese 122mm Towed Howitzer:
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+

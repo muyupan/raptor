@@ -1,0 +1,53 @@
+This document describes the AM 39 Exocet French Anti-Ship Missile.
+
+The Exocet (French pronunciation: ​[ɛɡzɔsɛ]; French for "flying fish" is a French-built anti-ship missile whose various versions can be launched from surface vessels, submarines, helicopters and fixed-wing aircraft.
+
+
+
+The Exocet is built by MBDA, a European missile company. Development began in 1967 by Nord as a ship-launched weapon named the MM 38. A few years later Aerospatiale and Nord merged. The basic body design was based on the Nord AS30 air-to-ground tactical missile. The air-launched Exocet was developed in 1974 and entered service with the French Navy five years later.
+
+The relatively compact missile is designed for attacking small- to medium-size warships (e.g., frigates, corvettes and destroyers), although multiple hits are effective against larger vessels, such as aircraft carriers. It is guided inertially in mid-flight and turns on active radar late in its flight to find and hit its target. As a countermeasure against air defence around the target, it maintains a very low altitude during ingress, staying one to two meters above the sea surface. Due to the effect of the radar horizon, this means that the target may not detect an incoming attack until the missile is only 6,000 m from impact. This leaves little time for reaction and stimulated the design of close-in weapon systems (CIWS).
+
+Its rocket motor, which is fuelled by solid propellant, gives the Exocet a maximum range of 70 kilometres (43 mi; 38 nmi). It was replaced on the Block 3 MM40 ship-launched version of the missile with a solid-propellant booster and a turbojet sustainer motor which extends the range of the missile to more than 180 kilometres (110 mi; 97 nmi). The submarine-launched version places the missile inside a launch capsule.
+
+This equipment has proliferated into the following countries: Argentina, Brazil, Chile, Egypt, France, India, Indonesia, Kuwait, Pakistan, Peru, Qatar, Saudi Arabia, Singapore, United Arab Emirates, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the AM 39 Exocet French Anti-Ship Missile:
+The MM38 (surface-launched) is deployed on warships. Range: 42 km. No longer produced (1970). A coast defence version known as "Excalibur" was developed in the United Kingdom and deployed in Gibraltar from 1985–1997.
+The AM38 (helicopter-launched) is tested only.
+The AM39 (air-launched) is B2 Mod 2: deployed on 14 types of aircraft (combat jets, maritime patrol aircraft, helicopters). Range between 50 and 70 km, depending on the altitude and the speed of the launch aircraft..
+The SM39 (submarine-launched) is B2 Mod 2: deployed on submarines. The missile is housed inside a watertight launched capsule (VSM or véhicule Sous marin), which is fired by the submarine's torpedo-launch tubes. On leaving the water, the capsule is ejected and the missile's motor is ignited. It then behaves like an MM40. The missile will be fired at depth, which makes it particularly suitable for discreet submarine operations..
+The MM40 (surface-launched) is Block 1, Block 2 and Block 3: deployed on warships and in coastal batteries. Range: 72 km for the Block 2, in excess of 180 km for the Block3..
+The MM40 Block 3 is In February 2004, the Délégation Générale pour l'Armement (DGA) notified MBDA of a contract for the design and production of a new missile, the MM40 Block 3. It has an improved range, in excess of 180 kilometres (97 nautical miles)—through the use of a turbojet engine, and includes four air intakes to provide continuous airflow to the power plant during high-G manoeuvres.
+
+The Block 3 missile accepts GPS guidance system waypoint commands, which allow it to attack naval targets from different angles and to strike land targets, giving it a marginal role as a land-attack missile. The Block 3 Exocet is lighter than the previous MM40 Block 2 Exocet..
+
+Here is System information for the AM 39 Exocet French Anti-Ship Missile:
+The  is .
+The  is .
+The  is .
+
+Here is System information for the AM 39 Exocet French Anti-Ship Missile of the AM 39 Exocet Anti-Ship Missile:
+The Name is AM 39 Exocet.
+The Type is Anti-Ship Missile.
+The Basic Load is 2.
+The Manufacturer is 1979–1999: Aérospatiale
+1999–2001: Aérospatiale-Matra
+2001–present: MBDA.
+The Length is 4.69.
+The Diameter is 348.
+The Wingspan is 1.10.
+The Weight is 655.
+The Configuration is Slim, pointed cylinder cruciform cropped and swept delta mainplanes indexed in line with
+small cruciform tail planes.
+The Propulsion is 2 SNPE double-base Nitramite smokeless solid-propellant rockets
+1 Dondor booster with 2 sec burn
+1 Helios sustainer with 130-150 sec burn.
+The Speed is 1,100 km/h or Mach 0.93.
+The Maximum Range is 50-70 km.
+The Warhead Type is Hexolite blast-fragmentation.
+The Warhead Weight is 165.
+The Senors /Fire Control is "Fire-and-forget" TRT AHV-7 radio altimeter inertial navigation during first part of flight Electronique Marcel Dassault ADAC or Super
+ADAC I/J-band active radar homing in terminal phase that begins search
+approximately 5.4 nm (6.2 mi.; 10 km) from target's estimated position.
+

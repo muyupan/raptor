@@ -1,0 +1,65 @@
+This document describes the Nimr II Emirati 4x4 Light Armored Vehicle.
+
+The NIMR II High Mobility Tactical Vehicle (HMTV) was developed and manufactured by a joint venture between Jordan's King Abdullah II Design and Development Bureau (KADDB) and Bin Jabr Enterprises of the United Arab Emirates (UAE). The original vehicles have been designed to meet the United Arab Emirates Armed Forces stringent requirements and are in series production. There are a number of the NIMR HMTV in production utilising both 4x4 and 6x6 technologies. These high mobility robust vehicles have been designed to out perform other vehicles in their class providing greater power and load-carrying capability whilst being reliable and multi-mission capable. The Nimr II vehicle has been designed to carry out military, police and peacekeeping missions in the Middle East area thanks to a cooling system that allows the vehicle to withstand the desert climate with temperatures ranging from -25 to 55 Celsius. In February 2099, Libyan government has signed an agreement with Bin Jabr Group for 120 NIMRs. Bin Jabr Group will manufacture and deliver 120 NIMR 4x4 multi mission combat platforms to the Libyan Armed Forces, according to local news. A Pro-Gadhafi Libyan Army NIMR II Armored Vehicle was seen in Zawiyah, March 17, 2011, during news of the national Libyan television, which confirms the delivery of NIMR II to the Libyan armed forces.
+
+This military vehicle is available both with 4x4 and 6x6 configurations.
+
+This equipment has proliferated into the following countries: Algeria, Egypt, Jordan, Lebanon, Libya, Tunisia, United Arab Emirates.
+
+Here is Variants information for the Nimr II Emirati 4x4 Light Armored Vehicle:
+The Note is NIMR II vehicles serve as cargo/troop carrier, automatic weapon platform, ambulance, missile carrier, communication/shelter carriers amongst many other roles..
+The NIMRAD (Nimr Air Defense) is NIMRAD (Nimr Air Defense) is an air defense vehicle, based on the Nimr 4x4 armored chassis. The Bin Jabr Group teamed up with MBDA of France and Rheinmetall Defense Electronics of Germany to develop this air defense vehicle. The NIMRAR has a small turret and is armed with four Mistral 2 man-portable surface-to-air missiles. The NIMRAD was first demonstrated in 2007..
+The NIMRAT (Nimr Anti-Tank) is NIMRAT (Nimr Anti-Tank) is an anti-tank vehicle, based on the Nimr 4x4 armored chassis. It was developed to meet Iraqi Army requirement. As well as the NIMRAD, this anti-tank vehicle was also jointly developed by Bin Jabr Group, MBDA and Rheinmetall Defense Electronics. It has a similar turret as the NIMRAD air defense vehicle, but instead is armed with MILAN and MILAN ER anti-tank guided missiles. The NIMRAT can engage armored vehicles, tanks, buildings and field fortifications. Developers claim that within 12 hours a standard NIMRAD can be converted to NIMRAT, or vice versa..
+The 6x6 armored personnel carrier is 6x6 armored personnel carrier. It has a 2-doors for the driver and co-driver, as well as rear door for entry and exit. There are some observation windows, as well as associated firing ports provided for the troops to fire their individual weapons. It was replaced in production by an improved Nimr Hafeet vehicle with 6x6 configuration..
+
+Here is Dimensions information for the Nimr II Emirati 4x4 Light Armored Vehicle of the System:
+The Length, is 5.19.
+The Width is 2.3.
+The Height is 2.21.
+The Weight is 6.7.
+The Payload Capacity is 2.5.
+
+Here is Automotive information for the Nimr II Emirati 4x4 Light Armored Vehicle:
+The Engine Name is MTU.
+The Engine Type is Diesel.
+The Engine Power is 350.
+The Maximum Road Speed is 135.
+The Maximum Range is 800.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.5.
+The Trench is 0.5.
+The Fording is 1.2.
+The Note is Vehicle has a permanent all-wheel drive. The Nimr II comes as standard with a central tyre inflation system. It improves mobility over difficult terrain, such as sand. It is also fitted as standard with run-flat tyres. This protected vehicle is fitted with a front-mounted winch..
+
+Here is System information for the Nimr II Emirati 4x4 Light Armored Vehicle of the Main Weapon System:
+The Name is Caracal Assault Rifle 817.
+The Alternative Designation is CAR 817.
+The Date of Introduction is 2016.
+The Country is United Arab Emirates.
+The Manufactuer is Caracal International company.
+The Caliber is 7.62.
+The Length, Stock Extended is 884.
+The Length, Stock Retracted is 802.
+The Barrel Length is 406.
+The Weight, Without Magazine is 3.3.
+The Muzzle Velocity is 750.
+The Cyclic Rate of Fire is 650-750.
+The Practical Rate of Fire is 30-90.
+The Magazine Capacity is 10, 20, 25 rounds.
+The Range of Effective Fire is 600.
+The Sight is Iron.
+
+Here is Ammunition information for the Nimr II Emirati 4x4 Light Armored Vehicle of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62x51 mm.
+
+Here is Protection information for the Nimr II Emirati 4x4 Light Armored Vehicle:
+The Armor is The Nimr II offers protection for the passengers against small arms fire and some level of protection against mine blasts and improvised explosive devices. The basic armor provides ballistic protection against 7.62x51 mm NATO ball rounds. Mine protection is against 6 kg of TNT under any wheels..
+The Applique Armor is Available, Protection level can be tailored to suit the threat by installing add-on composite armor. With add-on armor kit fitted maximum level of ballistic protection is against 7.62x51 mm NATO armor-piercing rounds. Maximum level of blast protection is against 6 kg of TNT anywhere under the hull. So with maximum armor the Nimr II is better protected than the US M1114 up armored HMMWV. An NBC protection system was proposed as an option..
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The NBC Protection is Optional.
+The Smoke Equipment is Available.
+

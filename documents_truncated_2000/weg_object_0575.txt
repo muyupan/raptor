@@ -1,0 +1,227 @@
+This document describes the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH).
+
+The PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH) is capable of firing all standard types of 152mm rounds. The main armament cannon is based on the Chinese 152mm towed Type 66 mounted on a vehicle hull similar to the Russian 152mm SP gun-howitzer 2S3. The crew communicates with each other using the Type 803 intercom system. There are reports of Type 83 being equipped with an anti-tank rocket launcher referred to as the Type 40. However, it is suspected that the rocket launcher is really the 40mm anti-tank rocket launcher Type 69-1 (an upgraded variant of the Russian RPG-7). Variants of this system are based on Type 66, a Chinese copy of the D-20 howitzer 425mm mine-clearing rocket launcher Type 462: a 2-round rocket launcher for use in clearing minefields. 120mm SP anti-tank gun: the AT gun is fitted with a 120mm smoothbore, mounted inside a turret on Type 83 gun-howitzer chassis 
+ 
+Other ammunition types: HE-I, illumination, smoke
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH):
+The Type 89 Multiple Launch Rocket System is Type 89 multiple launch rocket system. It is based on the same tracked armored chassis. This artillery rocket system was revealed in 1999. It is speculated that this system entered service in the late 1990s and was not offered for export. It replaced in service the ageing Type 70 130 mm artillery rocket systems..
+The 425-mm mine-clearing system is This is a basic vehicle with a limited-traverse launcher that has two cradles, each holding a large rocket with a range of 875-1,090 yds (800-1,000 m). When the rocket lands, it explodes -- clearing an area 140 yds (130 m) long by 13-24 yds (12-22 m) wide.
+The mine-clearance vehicle's combat weight is 59,525 lb (27,000 kg); it is is 23 ft 6 in (7.16 m) long and 10 ft 6 in (3.20 m) tall. Its launcher elevation range is -5 degrees to 45 degrees; traverse is 90 degrees to each side. The vehicle has a crew of five. The mine-clearing rocket weighs 1,675 lb (760 kg) and the warhead -- which is 15 ft 5 in (4.70 m) long -- accounts for 1,320 lb (600 kg) of that total weight..
+The Type 89 Tank Destroyer is The Type 89 is a tank destroyer based on the hull of the Type 83. It features a 120-mm smoothbore anti-tank gun in a new turret..
+The Trench Digger is A trench digger has been developed based on the hull of the Type 83 self-propelled howitzer. The vehicle, fitted with a front-mounted dozer blade, can dig between 8,830 cubic ft (250 cubic m) to 10,590 cubic ft (300 cubic m) of earth per hour using a digging machine carried over the rear of the hull. A crew of three operates the digger from a raised cab at the front of the vehicle.
+
+The trench digger has a combat weight of 66,140 lb (30,000 kg). The vehicle is no longer offered for export by NORINCO..
+
+Here is System information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is PLZ-83; Type 83.
+The Type is Self-Propelled Howitzer (SPH).
+The Caliber is 152 mm.
+The Manufacturer is NORINCO.
+The Family is INA.
+The Crew is 5 (commander, driver, gunner, 2 loaders).
+The Chassis is PLZ-83 (Type 83).
+The Displacement Time is 1.
+The Emplacement Time is 1.
+The Maximum Effective Range is 17.2 - 28.
+The Note is The PLZ-83 (Type 83) has been supplemented by the newer and more capable PLZ05 and will eventually be replaced..
+
+Here is Dimensions information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH):
+The Length (Hull) is 6.41.
+The Length (Gun Foward) is 7.01.
+The Width is 3.24.
+The Height (Turret Top) is 2.68.
+The Height (Overall) is 3.50.
+The Weight, Combat is 30 tons.
+The Ground Pressure is 0.68.
+
+Here is Automotive information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH):
+The Engine Name is Deutz Type 12150L.
+The Engine Type is liquid cooled diesel.
+The Engine Power is 520.
+The Fuel is 885.
+The Cruising Range is 450.
+The Speed, Maximum Road is 55.
+The Speed, Average Cross is 35.
+The Towed Speed is 60.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is 1.3.
+The Wheel Base is Tracked chassis, 6 roadwheels, drive sprocket front, idler rear, 4.61 m length, 0.48 m width, 2.62 m track.
+The Carriage is Split Trail.
+The Trench Digger Capable is Yes, capable of digging 250m to 300m.
+The Fording without Preparation is 1.3.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Obstacle (Forward) is 0.7.
+The Trench is 2.5.
+
+Here is TBR-142 information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH) of the Communications:
+The VHF FM Transceiver is Yes, TBR-142(I).
+The VHF Range is 1 to 50.
+The Megahertz is 40.000 to 59.975.
+The Output Power is 1 to 0.3.
+The Power is 12V Ni-Ca Rechargeable Battery or external 12V DC power source.
+The Dimensions is 217x135x58.
+The Weight is 2.7.
+The Antennas is 3 Total: a 1.3m whip antenna, a 0.3m short antenna, and a 10m  wire antenna.
+The Proliferated is Widely with Artillery/Gun/Missile/Reconnaissance/C2 Units.
+The Control Device is TBR-142(II).
+The Multi-function Field Phone is TBR-142(IIID).
+The Anti-Aircraft Control Unit is TBR-142(IIIG).
+The ZXY88-200 C2 Capable is Yes.
+The Messaging is Limited Capability.
+The Amplifier is Available.
+The Physical Conditions Limitations is Terrain and Weather favorable.
+
+Here is System information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is Type 66, Type 83 (152mm Howitzer).
+The Type is Self-propelled artillery, 152mm Howitzer.
+The Manufacturer is NORINCO.
+The Status is In service. Production complete. No longer marketed..
+The Breech Type is Semi-automatic sliding wedge breech.
+The Length is 9.8.
+The Width is 3.24.
+The Height is 3.50.
+The Loader Type is No ammunition handling system.
+The Max Rate of Fire is 8.
+The Sustain Rate of Fire is 8.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Maximum Range is 30.
+The Minumum Range is 10.
+The Muzzle Brake Type is Double Baffle muzzle brake.
+The Max Elevation is +65.
+The Min Elevation is -5.
+The Traverse Range is 15,600.
+The Traverse Left is 24.
+The Traverse Right is 26.
+The Range Finder Type is Panoramic.
+The Axis of Fire is 1.4.
+
+Here is Ammunition (Option 1) information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is 152mm HE Projectile.
+The Alternative Designation is Type 83.
+The Caliber is 152.
+The Length is 703.
+The Weight is 48.
+The Muzzle Velocity is 655.
+The Effective Range is 17.2.
+The Fuse Type is RGM-2, RGM-2m, D-1U, V-90.
+The Charge Type is Full.
+The Armor Penetration is Yes.
+The Minimum Distance of Jammer Deliver is 4.
+The Maximum Distance of Jammer Deliver is 16.9.
+The Minimum Distance of Detachment Above Target is 1.6.
+The Operation Range is 700.
+The Explosive Filling is 16.4.
+The Weight of Jammer is 3.8.
+The Normal Recoil is 910.
+The Maximum Recoil is 950.
+The Basic Load is 30 rounds total any combination of 152mm Rounds..
+
+Here is Ammunition (Option 2) information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is 152 mm HE-FRAG Projectile.
+The Model is OF-540.
+The Caliber is 152 mm.
+The Length is 703.
+The Weight is 43.6.
+The Muzzle Velocity is 655.
+The Effective Range is 17.2.
+The Basic Load is 30 rounds total any combination of 152mm Rounds..
+
+Here is Ammunition (Option 3) information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is 152mm Cargo Projectile.
+The Model is INA.
+The Caliber is 152.
+The Length is 835.
+The Weight is 43.6.
+The Muzzle Velocity is 655.
+The Effective Range is 17.
+The Basic Load is 30 rounds total any combination of 152mm Rounds..
+
+Here is Ammunition (Option 4) information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is BB-HE Projectile.
+The Model is INA.
+The Caliber is 152.
+The Length is 874.
+The Weight is 43.6.
+The Muzzle Velocity is 660.
+The Effective Range is 22.
+The Basic Load is 30 rounds total any combination of 152mm Rounds..
+
+Here is Ammunition (Option 5) information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is BB-RA/HE Projectile.
+The Model is INA.
+The Caliber is 152.
+The Length is 873.
+The Weight is 43.5.
+The Muzzle Velocity is 674.
+The Effective Range is 28.
+The Basic Load is 30 rounds total any combination of 152mm Rounds..
+
+Here is Ammunition (Option 6) information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is Jamming.
+The Model is INA.
+The Caliber is 152.
+The Length is 713.
+The Weight is 43.6.
+The Muzzle Velocity is 655.
+The Effective Range is 17.2.
+The Basic Load is 30 rounds total any combination of 152mm Rounds..
+
+Here is System information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Name is 1 x Type 54 (DShKM).
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Proliferation is over 1 Million.
+The Length (Total) is 1,625.
+The Barrel Length is 1,070.
+The Weight (Gun Only) is 34.
+The Weight (On Wheeled Mounting) is 157.
+The Action is Gas-Operated, Flapper Locking.
+The Feed System is 50 Round Belt.
+The Sights is Iron/Optical.
+The Max Rate of Fire is INA.
+The Sustain Rate of Fire is 600.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Range Finder Type is INA.
+The Turret is Single seat and located at the rear of the vehicle.
+The Variants is DK, DShKM, DSHKS, Type 54 HMG.
+
+Here is Ammunition information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Type is Heavy machine gun and anti-materiel rifle cartridge.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7x108mm.
+The Muzzle Velocity is 850.
+The Effective Range is 2000-2,500.
+The Armor Penetration is API: 21 at 500 m & 13 at 1000 m (RHA).
+The Basic Load is 1,200 Rounds.
+
+Here is Fire Control information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is INA.
+The Indirect Fire is Yes, Panoramic.
+The Direct Fire is Yes, Type CS-43 (with x5.5 Magnification).
+The Direct Fire Maximum Range is 1,1170.
+The Sight is 1 x Type 58 Panoramic Sight.
+The Sight Magnification is X 3.7 magnification.
+The Collimator is Type 58.
+
+Here is Protection information for the PLZ-83 (Type 83) Chinese 152mm Self-Propelled Howitzer (SPH):
+The Hull Armor is Armored Steel (Protection from shell splinters and small arms).
+The Turret Armor is Armored Steel (Protection from shell splinters and small arms).
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is No.
+The Smoke Equipment is No.
+The IR Signature is INA.
+

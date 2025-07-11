@@ -1,0 +1,133 @@
+This document describes the Sorum-Class (Project 745P Class) Russian Seagoing Tugboat.
+
+Sorum-Class (Project 745P Class) Russian Seagoing Tugboat, is a seagoing tug that is currently in service in the Russian Coast Guard. These vessels will perform the standard missions of a seagoing tug boat with other missions such as protecting and patrolling Russian maritime borders, enforcing navigational rules and law enforcement, search and rescue, and fisheries protection.
+
+The tugs are modified versions of the original Project 745. They are armed with two 30 mm guns giving them the ability to fire on surface, air, and ground targets, and are equipped with the Kolonka-1 fire control system to control these weapons. They are equipped with electric motors and diesel generators.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Sorum-Class (Project 745P Class) Russian Seagoing Tugboat:
+The Sakhalin is Commissioned: 1974
+Status: Active
+Fleet: INA.
+The Kamchatka is Commissioned: 1975
+Status: Decommissioned in 2017
+Fleet: INA.
+The Amur is Commissioned: 1977
+Status: Decommissioned in 2007
+Fleet: INA.
+The Brest is Commissioned: 1978
+Status: Decommissioned in 2019
+Fleet: INA.
+The Ladoga is Commissioned: 1978
+Status: Decommissioned in 2016
+Fleet: INA.
+The Primorye is Commissioned: 1978
+Status: Active
+Fleet: INA.
+The Yan Berzin is Commissioned: 1980 
+Status: Active
+Fleet: INA.
+The Zabaykalye is Commissioned: 1980
+Status: Active
+Fleet: INA.
+The Chukotka is Commissioned: 1982
+Status: Active
+Fleet: INA.
+The Zapolyarlye is Commissioned: 1982
+Status: Active
+Fleet: INA.
+The Kareliya is Commissioned: 1983
+Status: Active
+Fleet: INA.
+The Neman is Commissioned: 1984
+Status: Decommissioned in 1996
+Fleet: INA.
+The Bug is Commissioned:
+Status: Active
+Fleet: INA.
+The Ural is Commissioned: 1986
+Status: Active
+Fleet: INA.
+The Enisey is Commissioned: 1987
+Status: Active
+Fleet: INA.
+The Viktor Kingisepp is Commissioned: 1988
+Status: Active
+Fleet: INA.
+The Taimyr is Commissioned: 1993
+Status: Active
+Fleet: INA.
+The Don is Commissioned: 1997
+Status: Active
+Fleet: INA.
+The Yakutiya is Commissioned: 2006
+Status: Active
+Fleet: INA.
+
+Here is System information for the Sorum-Class (Project 745P Class) Russian Seagoing Tugboat:
+The Alternative Designation is Sorum-Class (Project 745P Class).
+The Type is Seagoing Tugboat.
+The Builder is Yaroslavl Shipyard, Russia.
+The Crew is 47 total (10 off. + 37 enl.).
+
+Here is Dimensions information for the Sorum-Class (Project 745P Class) Russian Seagoing Tugboat:
+The Length is 56.50 m.
+The Beam is 12.64 m.
+The Draft is 4.47 m.
+The Displacement, Standard is 1,092 tons.
+The Displacement, Full Load is 1,452 tons.
+
+Here is Propulsion System information for the Sorum-Class (Project 745P Class) Russian Seagoing Tugboat:
+The Engine Name is 2 x PG-950/170M Electric Motor.
+The Engine Type is Electric Motor.
+The Engine Power is 2 x 1,500 hp.
+The Generators is 2 x 1000 kW DGR-1000/750 diesel-generators and 2 x 100 kW diesel-generators..
+The Range is 8,000 nm at 11 knots; 6,700 nm at 13 knots..
+The Maximum Speed is 13 knots.
+The Endurance is 40 days.
+
+Here is System information for the Sorum-Class (Project 745P Class) Russian Seagoing Tugboat of the Gun Weapon Systems:
+The Name is 2 x AK-230M 30mm CIWS.
+The Type is 2x 30mm NN-30 64-caliber autocannon, Close-In Weapon System (CIWS).
+The Caliber is 30 mm.
+The Crew is 2.
+The Length is 3.11 m.
+The Width is 2.1 m.
+The Height is 1.46 m.
+The Weight is 1.9 tons.
+The Elevation is -5° to +87°.
+The Elevation Rate is 50°/s.
+The Traverse is 360°.
+The Traverse Rate is 70°/s.
+The Muzzle Velocity is 1.050 m/s.
+The Rate of Fire is 2,000 rpm.
+The Maximum FIring Range, Surface Targets is 6.5 km.
+The Maximum FIring Range, Anti-Aircraft is 4 km.
+The Maximum FIring Range, Anti-Missile is 2 km.
+The Feed Mechanism is Single belt feed per gun.
+The Sights is See Fire Control System (FCS).
+The Note is The AK-230M CIWS is a Less magnetized version of the AK-230 CIWS used for minesweepers..
+
+Here is Ammunition information for the Sorum-Class (Project 745P Class) Russian Seagoing Tugboat of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30.
+The Cartridge is The AK-230M fires specially developed 30x210B 30 mm ammunition that is electrically primed..
+The Basic Load is 2,000 Rounds.
+The Note is Two rounds were developed: a high-explosive round with an impact fuze, and an armour-piercing round..
+
+Here is Fire Control Systems information for the Sorum-Class (Project 745P Class) Russian Seagoing Tugboat:
+The AK-230M CIWS FCS is The AK-230M CIWS are controlled by one single SP-521 Rakur (Kolonka-2) manned director Fire Control System (FCS)..
+The Fire Control System Radar is 1 x MR-104 Rys Fire Control Radar..
+The Optronic Director is Optional.
+
+Here is Radar Systems information for the Sorum-Class (Project 745P Class) Russian Seagoing Tugboat:
+The Navigation Radar is 2 x Don-2 navigation radars; 2 x Ayada-5  navigation radars; or 2 x MR-212/201 Vaygach navigation radar..
+The Fire Control System Radar is 1 x MR-104 Rys Fire Control Radar..
+
+Here is Protection information for the Sorum-Class (Project 745P Class) Russian Seagoing Tugboat:
+The Hull is INA.
+The Countermeasures is No.
+The NBC Water Washdown System is Yes.
+The Electronic Warfare is No.
+

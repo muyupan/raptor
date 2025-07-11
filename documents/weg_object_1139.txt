@@ -1,0 +1,94 @@
+This document describes the S-500 Prometheus (Prometey) Russian Mobile Surface-to-Air Missile System (SAM).
+
+The S-500 Prometheus (Prometey) 10x10 Mobile Surface-to-Air Missile System (SAM) is a long-range air defense system designed to engage ballistic missiles, cruise missiles, and low earth orbit satellites with a missile-based interdiction system. It is understood to engage its targets during the mid or terminal flight stage and may have access to multiple missile types depending on its intended target.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the S-500 Prometheus (Prometey) Russian Mobile Surface-to-Air Missile System (SAM):
+The Alternative Designation is S-500 Prometheus; S-500 Prometey; 55R6M Triumfator-M.
+The Type is Mobile Surface-to-Air Missile System (SAM).
+The Manufacturer is Almaz-Antei was established from various component companies in 2002..
+The Mission is The S-500 Prometheus (Prometey) 10x10 Mobile Surface-to-Air Missile System (SAM) is a long-range air defense system designed to engage ballistic missiles, cruise missiles, and low earth orbit satellites with a missile-based interdiction system. It is understood to engage its targets during the mid or terminal flight stage and may have access to multiple missile types depending on its intended target..
+The Crew is INA.
+The Transport Erector Launcher (TEL) is 10 × 10 truck chassis to ensure good off and on-road mobility that has been developed by the Start Joint Stock Concern. There is very little information on any of the TELs that are expected to make up the S-500. The primary vehicle will be a 10 × 10 with a potential weight of 54 tonnes per vehicle. The Transport Erector Launcher (TEL) components are believed to be designated 77P6..
+The Configuration is 10 x 10.
+
+Here is Dimensions information for the S-500 Prometheus (Prometey) Russian Mobile Surface-to-Air Missile System (SAM):
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is There is very little information on any of the TELs that are expected to make up the S-500. The primary vehicle will be a 10 × 10 with a potential weight of 54 tons per vehicle..
+
+Here is Automotive information for the S-500 Prometheus (Prometey) Russian Mobile Surface-to-Air Missile System (SAM):
+The Note is There is very little information on any of the TELs that are expected to make up the S-500..
+
+Here is Communications information for the S-500 Prometheus (Prometey) Russian Mobile Surface-to-Air Missile System (SAM):
+The Command-and Control (C2) System is 1 x 30K6E command-and-control (C2) system, making it interoperable with existing air-defence systems in Russia's multilayered IADA, including the S-400, S-300PMU2, Pantsyr, and Tor..
+The Radio's is 6th Generation.
+
+Here is Missile (Option 1) information for the S-500 Prometheus (Prometey) Russian Mobile Surface-to-Air Missile System (SAM) of the Missile Weapon System:
+The Name is 77N6-N Surface-to-Air Missile.
+The Type is Surface-to-Air Missile.
+The Warhead is Inert hit-to-kill warhead.
+The Flight Speed is 7,000 m/s.
+The Horizontal Engagement Range is 600 km.
+The Intercept Height is 200 km.
+The Maximum Altitude Limit is 100 km.
+The Basic Load is 2 x 77N6-N Surface-to-Air Missiles.
+
+Here is Missile (Option 2) information for the S-500 Prometheus (Prometey) Russian Mobile Surface-to-Air Missile System (SAM) of the Missile Weapon System:
+The Name is 77N6-N1 Surface-to-Air Missile.
+The Type is Surface-to-Air Missile.
+The Warhead is Inert hit-to-kill warhead.
+The Flight Speed is 7,000 m/s.
+The Horizontal Engagement Range is 600 km.
+The Intercept Height is 200 km.
+The Maximum Altitude Limit is 100 km.
+The Basic Load is 2 x 77N6-N1 Surface-to-Air Missiles.
+
+Here is Missile (Option 3) information for the S-500 Prometheus (Prometey) Russian Mobile Surface-to-Air Missile System (SAM) of the Missile Weapon System:
+The Name is 40N6 Surface-to-Air Missile.
+The Type is Surface-to-Air Missile.
+The Warhead is Lethal effect is provided by a 60 kg high explosive blast fragmentation warhead, its fuzing system unknown but likely to be radio frequency-based..
+The Flight Speed is 2,800 m/s.
+The Horizontal Engagement Range is 380 km and up to 15 km against ballistic targets operating at altitudes between 10 m and 35 km, according to TASS..
+The Intercept Height is 10 m - 35 km.
+The Maximum Altitude Limit is 185 km.
+The Seeker is The missile uses a combination of inertial guidance, most likely command guidance and an active radar seeker..
+The Propulsion is The missile employs a two-stage solid-propellant motor..
+The Basic Load is 2 x 40N6 Surface-to-Air Missiles.
+
+Here is Fire Control information for the S-500 Prometheus (Prometey) Russian Mobile Surface-to-Air Missile System (SAM):
+The Fire Control Center is 1 x PBU 85Zh6-2.
+The Battery Command Post is 1 x 55K6MA battery command post (BCP).
+
+Here is Missile Guidance Radar information for the S-500 Prometheus (Prometey) Russian Mobile Surface-to-Air Missile System (SAM) of the Radar Systems:
+The Name is 1 x 91N6A(M) "Big Bird" Missile Guidance Radar, is an upgraded version of the 91N6 Radar..
+The Type is Missile Guidance Radar.
+The Mast is 23 m-high 40V6M mast.
+The Detection Range is 2,000 km (against ballistic missile targets).
+The Scan Rate is 5 rotations per minute.
+
+Here is Target Tracking Radar information for the S-500 Prometheus (Prometey) Russian Mobile Surface-to-Air Missile System (SAM) of the Radar Systems:
+The Name is 1 x 96L6-TsP "Cheese Board" Target Tracking Radar, is an upgraded version of the 96L6E Battery Acquisition radar of the S-400..
+The Type is Target Tracking Radar.
+
+Here is Surveillance Radar #1 information for the S-500 Prometheus (Prometey) Russian Mobile Surface-to-Air Missile System (SAM) of the Radar Systems:
+The Name is 1 x 76T6 Surveillance Radar.
+The Type is Surveillance Radar.
+The Note is The 76T6 is a mobile, multimode engagement radar developed to support the S-500 air defense system against airborne targets. The 76T6 radar system utilizes the chassis of the BAZ-6909-022 8x8 truck system. The new engagement radar is expected to enter service by 2020..
+
+Here is Surveillance Radar #1 information for the S-500 Prometheus (Prometey) Russian Mobile Surface-to-Air Missile System (SAM) of the Radar Systems:
+The Name is 1 x.
+The Type is Surveillance Radar.
+The Note is The 77T6 Mars is a mobile radar system derived from Voronezh-DM missile attack radar system developed by the Mints Radio Engineering Institute. The new radar is intended to detect and track ballistic missiles and airborne threats in support of the S-500 aerospace defense system being developed for the Russian Armed Forces. The 77T6 anti-ballistic missile (ABM) engagement radar will support the 77N6 hypersonic interceptors against the incoming threats. The radar system is mounted on a modified BAZ-69096 10x10 truck system. The Mints Radio Engineering Institute plans to roll out the first production Mars mobile missile attack radar system by 2015 and should enter active duty along with the S-500 missile system by 2020..
+
+Here is Protection information for the S-500 Prometheus (Prometey) Russian Mobile Surface-to-Air Missile System (SAM):
+The Hull Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

@@ -1,0 +1,70 @@
+This document describes the Drone Dome Israeli Counter Unmanned Air System (C-UAS).
+
+Drone Dome is a counter unmanned air system (C-UAS) anti-aircraft system developed by Rafael Advanced Defense Systems. The system was first displayed in 2016 and joins similar protection systems developed by Rafael such as the Iron Dome. The Drone Dome hosts different sensors including a RADA Electronic Industries RPS-42 radar, a CONTROP Precision Technologies imaging system, and radio signal detectors.
+
+An open and modular solution that blocks VHF and UHF drone channels, including GNSS, designed to be used by a single operator. The whole solution is deployed as five elements, including a separate radar, COMMINT/DF RF sensor, an EO/IR sensor, a jammer, and a C2 software/workstation element.
+
+The Drone Dome was thought to have been used during the disruption at Gatwick Airport in December 2018.
+
+The system was reported to have been deployed in Argentina during the 2018 G20 Buenos Aires summit and the 2018 Summer Youth Olympics in Buenos Aires.
+
+DRONE DOME is an end-to-end solution, providing soft and hard-kill, 360° circular coverage, with a quick response time and a high success rate while inflicting minimal collateral damage.
+
+This equipment has proliferated into the following countries: Israel.
+
+Here is System information for the Drone Dome Israeli Counter Unmanned Air System (C-UAS):
+The Alternate Designation is Drone Dome.
+The Type is Counter Unmanned Air System (C-UAS).
+The Manufacturer is Rafael.
+The Crew is INA.
+The Note is The whole solution is deployed as five elements, including a separate radar, COMMINT/DF RF sensor, an EO/IR sensor, a jammer, and a C2 software/workstation element..
+
+Here is Dimensions information for the Drone Dome Israeli Counter Unmanned Air System (C-UAS):
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight is INA.
+
+Here is Radar System information for the Drone Dome Israeli Counter Unmanned Air System (C-UAS):
+The Name is RPS42 and/or RP282 Radar.
+The Band is S band frequency Multi-Mission Hemispheric Radars (MHR).
+The BTBP is 15,500 MTBP.
+The Modular Configuration is Modular Configuration of up to 4 Panels.
+The Algorithm Enabling is Yes.
+The Ethernet Connectivity is Built-in Ethernet connectivity..
+The All Weather is Yes.
+The Doppler Classification is classification Doppler-M.
+
+Here is RF Sensor information for the Drone Dome Israeli Counter Unmanned Air System (C-UAS):
+The Name is COMMINT/DF RF sensor.
+The Wideband Receiver Frequency Range is 70 MHz–6 GHz.
+The Dynamic Range is Less than 60 dB.
+The Sensitivity is Less than 10 dB.
+The Detection Range is 3.5 km.
+The Configuration Options is Stationary DTOA Technology for Site Protection; Fast Deployment -Directional or Omini detection; Updated Database of known threats..
+
+Here is RF sensor information for the Drone Dome Israeli Counter Unmanned Air System (C-UAS):
+The Name is INA.
+The Coverage is Gimbalded EO Sensor enabling 360 degree coverage of detection and identification.
+The Automatic Video Detection (VMD) is Yes.
+The Automatic Tracking (ATR) is Yes.
+The Identification Range is 3 km.
+The Focal Length Enabling is 1,400 mm Focal Length.
+The High Distance Detection is Yes.
+The Low Contrast Identification is Yes.
+The SWIR Lens is Optional.
+
+Here is Jammer information for the Drone Dome Israeli Counter Unmanned Air System (C-UAS):
+The Name is INA.
+The Multiple Targets Capability is Yes.
+The Signal Block Capability is Blocks the signal and commands from the Remote Control.
+The Drone Jamming Capability is James the video transmitted by the drone to the operator and James the GNSS signal to destabilize the Drone.
+
+Here is C4I Center information for the Drone Dome Israeli Counter Unmanned Air System (C-UAS):
+The Name is INA.
+The Multi Sensors is Integrating multi sensors for unified air situational picture.
+The Algorithm Enabling is Yes.
+The Counter Measure Activation is Yes.
+The Open Architecture is Yes.
+The Advanced GUI is Yes.
+

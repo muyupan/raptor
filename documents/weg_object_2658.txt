@@ -1,0 +1,84 @@
+This document describes the Type 73 Japanese Armored Personnel Carrier (APC).
+
+The Type 73 Japanese Armored Personnel Carrier (APC) replaced the Type 60 APC. It is similar in layout to the Type 60 but has a a lower silhouette as well as being faster, larger, and amphibious. The APC was designed by the Technical Research and Development Institution of the Japanese Defense Agency and built by the Mitsubishi Heavy Industries, Tokyo, Japan.
+
+The APC crew consist of 4 (driver, commander, bow gunner, gunner). The APC also carries 8 passengers.
+
+It has an all-welded aluminum armored hull with the driver seated at the right side of the vehicle and the bow gunner on the left with the engine compartment to the rear. The vehicle commander is centered behind the driver and bow gunner. The Gunner is located to the rear of the commander on the right side of the hull. There is no shield for the 12.7mm machine gun.
+
+The Type 73 is due to be replaced by the Type 89 APC.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is Variants information for the Type 73 Japanese Armored Personnel Carrier (APC):
+The Type 75 Japanese Self Propelled Ground Wind Measuring Unit is The variant supports the Type 75 Japanese 130-mm multiple rocket launcher (MRL). It is equipped with a mast that is 12.5 meters long. It is capable of measuring wind velocity in two directions up to a maximum of 30 km/h..
+The Type 92 Japanese Mine Clearing Vehicle (MCV) is The Type 92 MCV is mounted on a Type 73 APC Chassis. There are some Type 73 APC's that mount the Type 70 mine clearing system..
+
+Here is System information for the Type 73 Japanese Armored Personnel Carrier (APC):
+The Alternative Designations is Type 73 APC.
+The Type is Tracked APC with entry and exit through two doors at the rear for troops to dismount. The doors open outward. There are also two single piece hatches over the troop compartment that open on either side of the hull top. There are two small arms firing ports in both sides of the hull behind the commander as well as a firing port on each rear door...
+The Manufacturer is Mitsubishi Heavy Industries, Tokyo, Japan.
+The Crew is 4 (driver, commander, bow gunner, gunner).
+The Passengers is 8.
+
+Here is Dimesions information for the Type 73 Japanese Armored Personnel Carrier (APC):
+The Length is 5.80.
+The Width is 2.80.
+The Height to hull top is 1.70.
+The Height including MG is 2.20.
+The Weight is 13,300.
+The Track Length on ground is 3.67.
+The Track Width is 380.
+The Ground Clearance is 400.
+
+Here is Automotive information for the Type 73 Japanese Armored Personnel Carrier (APC):
+The Engine Name is Mitsubishi 4ZF 524 cubic inch (8.59 liter.
+The Engine Type is Diesel air-cooled, 2-stroke, V-4.
+The Engine Power is 300 hp at 2,200 rpm.
+The Power to Weight Ration is 22.6 hp/metric ton.
+The Fuel Capacity is 450 liters.
+The Fuel Consumption is 1.2 km/liter.
+The Transmission is Automatic; 4 forward gears, 1 reverse gear.
+The Cruising Range is 300.
+The Speed (Max Road) is 70.
+The Speed (Max Off-Road) is INA.
+The Speed (Average cross-country) is INA.
+The Speed (Max Swim) is 7 km/h (track propelled).
+The Gradient is 60.
+The Side Slope is INA.
+The Vertical Step is 0.7.
+The Trench is 2.0.
+The Fording Depths ( is Amphibious with kit.
+The Suspension is Torsion bar, 5 road wheels, front drive, rear idler, hydraulic shock absorber at first wheel station, no return rollers.
+
+Here is Communications information for the Type 73 Japanese Armored Personnel Carrier (APC):
+The Primary is Varies depending on model.
+
+Here is System information for the Type 73 Japanese Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is INA.
+The Type is 12.7mm.
+The Traverse is 360 degrees.
+The Elevation is -10 degrees to 60 degrees.
+The On Board Load is 600.
+
+Here is Bow Machine Gun information for the Type 73 Japanese Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is INA.
+The Type is 7.62mm.
+The Traverse is 30 degrees.
+The Elevation is -30 to 30 degrees.
+The On Board Load is 4,500 rounds.
+
+Here is Fire Control information for the Type 73 Japanese Armored Personnel Carrier (APC):
+The FCS Name is No.
+The Computerized FCS is No.
+
+Here is Protection information for the Type 73 Japanese Armored Personnel Carrier (APC):
+The Armor (turret front) is Protection of the Type 73 was rather limited..
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is Yes.
+The Smoke Equipment is Yes 3 barreled smoke dischargers on either side of the vehicle.
+The Survivability Equipment is No.
+

@@ -1,0 +1,111 @@
+This document describes the A129 Mangusta Italian Attack Helicopter.
+
+The Agusta A129 Mangusta (English: Mongoose) is an attack helicopter originally designed and produced by Italian company Agusta. It is the first attack helicopter to be designed and produced wholly in Europe. It has continued to be developed by AgustaWestland, the successor company to Agusta. The A129 has undergone several combat deployments since entering service with the Italian Army in the 1990s.
+
+A derivative of the A129, the TAI/AgustaWestland T129 ATAK, is being developed by Turkish Aerospace Industries (TAI) in cooperation with AgustaWestland. TAI will produce the T129 for the Turkish Army and potentially export customers.
+
+The A129 Mangusta is the first European attack helicopter; as such it has several original aspects to its design, such as being the first helicopter to make use of a fully computerised integrated management system to reduce crew workload. It was decided that much of the helicopter's functionality was to be automated; as such, parts of the flight and armament systems are monitored and directly controlled by onboard computers. The A129 shares considerable design similarities to Agusta's earlier A109 utility helicopter; the rear section of the A129 was derived from the A109 and incorporated to an entirely new forward section. The A129's fuselage is highly angular and armoured for ballistic protection; the composite rotor blades are also able to withstand hits from 23mm cannon fire. The two man crew, comprising a pilot and gunner, sit in a conventional tandem cockpit.
+
+The A129 can be used in the anti-armour, armed reconnaissance, ground attack, escort, fire support and anti-aircraft roles. For the anti-ground mission the helicopter can employ various armaments, such as up to eight Hellfire missiles. In the air-to-air role, the FIM-92 Stinger missile was certified for use in 2003. The A129 can also be equipped with 81 mm or 70 mm (2.75 in) unguided rockets; a M197 three-barrel 20 mm cannon is also installed onto a nose-mounted Oto Melara TM-197B turret. By 2014, the Spike-ER, a fourth-generation anti-tank missile, had been added to the A129's arsenal.
+
+Power is provided by a pair of Rolls-Royce Gem 2-1004D turboshaft engines, the engines have been designed to incorporate infrared heat signature reduction measures. One of the key protective measures incorporated onto the A129 include the electronic warfare and SIAP (Single Integrated Air Picture) self-protection suite. Elements of the mission interface systems and the onboard software integrated onto later aircraft were produced by Selex Galileo.
+
+The A129 is equipped with infrared night vision systems and is capable of operating at day or night in all-weather conditions. Laser systems are fitted onto newer aircraft for range-finding and target designation purposes, the A129 can laser-designate targets for other friendly aircraft to attack. On the AW129D, Rafael Advanced Defense Systems's Toplite III sight is used as the primary targeting system; it is able to act as a FLIR and has both manual and automatic target tracking modes, Toplite also provides a greater detection and identification range than the 1970s era HeliTOW sensor it replaced. In 1998, Israel Aircraft Industries (IAI) formally partnered with Agusta to offer various avionics and weapons upgrades to potential A129 operators; various IAI technologies have since been proposed and implemented on Italian A129s.
+
+This equipment has proliferated into the following countries: Italy, Turkey.
+
+Here is System information for the A129 Mangusta Italian Attack Helicopter:
+The Alternative Designation is A129 Mangusta; Mongoose.
+The Type is Attack Helicopter.
+The In Service is 1983-Present.
+The Crew is 2 (pilot, co-pilot/gunner).
+The Blades, Main Rotor is 5.
+The Blades, Tail Rotor is 2.
+The Number of Engines is 2.
+The Number of Hard Points is 4, for use with gun pods, rocket pods, missiles.
+
+Here is Dimensions information for the A129 Mangusta Italian Attack Helicopter:
+The Length, Overall is 14.29 m.
+The Length, Fuselage is 12.28 m.
+The Width is 3.60 m.
+The Height is 3.35 m.
+The Rotor Diameter is 11.90 m.
+The Disc Area is 2,529 kg.
+The Weight, Empty is 2,529 kg.
+The Weight, Takeoff Anti-tank is 3,700 kg.
+The Weight, Takeoff Maximum Load is 4,100 kg.
+The Weight, External Load is 1,200 kg.
+
+Here is Automotive information for the A129 Mangusta Italian Attack Helicopter:
+The Engine Name is 2 x Rolls-Royce Gem 2 Mk 1004D turboshaft.
+The Engine Type is Diesel.
+The Engine Power is 825 shaft hp each.
+The Fuel Capacity is 720 kg.
+The Maximum Speed is 265 km/h.
+The Cruise Speed is 250 km/h.
+The Rate of Climb is 637 m/min.
+The Hovering Ceiling is 10,800 ft (3,290 m) in ground effect (IGE) 7,850 ft (2,390 m) out of ground effect (OGE).
+The Maximum Range is 750 km.
+
+Here is Chin Mounted Gun information for the A129 Mangusta Italian Attack Helicopter:
+The Note #1 is 1 x Lucas .50-cal, optional.
+The Note #2 is 1× 20 mm (0.787 in) M197 three-barrel Gatling-type cannon (500 rounds) in a TM197B Light Turreted Gun System (only CBT version).
+
+Here is Rocket System (Option 1) information for the A129 Mangusta Italian Attack Helicopter of the Wing Mounted Weapons:
+The Name is INA.
+The Type is 38× 81 mm (3.19 in) unguided rockets.
+The Basic Load is INA.
+
+Here is Rocket System (Option 2) information for the A129 Mangusta Italian Attack Helicopter of the Wing Mounted Weapons:
+The Name is INA.
+The Type is 6× 70 mm (2.75 in) unguided rockets or.
+The Basic Load is INA.
+
+Here is Missile System (Option 1) information for the A129 Mangusta Italian Attack Helicopter of the Wing Mounted Weapons:
+The Name is AGM-114 Hellfire.
+The Type is Air-to-Surface Missile.
+The Basic Load is 8 x AGM-114 Hellfire Missiles.
+The Length is 1.6 m.
+The Diameter is 180 mm.
+The Wingspan is 0.33 m.
+The Weight is 45–49 kg.
+The Warhead Type is High-explosive anti-tank
+Shaped charge
+Tandem anti-armor
+Metal augmented charge
+Blast fragmentation.
+The Engine is Solid-fuel rocket.
+The Operational Range is 546 yd (0.499 km) to 6.84 mi (11.01 km).
+The Maximum Speed is Mach 1.3.
+The Guidance System is Semi-active laser homing
+millimeter wave radar seeker.
+
+Here is Missile System (Option 2) information for the A129 Mangusta Italian Attack Helicopter of the Wing Mounted Weapons:
+The Name is AIM-92 Stinger.
+The Type is Air-to-Surface Missile.
+The Basic Load is 4-8 x AIM-92 Stinger Missiles.
+The Length is 1.52 m.
+The Diameter is 70 mm.
+The Wingspan is 140 mm.
+The Weight is 16 kg.
+The Guidance System is Fire-and-forget passive infrared seeker for Block I and Fire-and-forget passive IR focal plane array seeker in Block II version.
+The Warhead is 3 kg HE blast fragmentation.
+The Speed is Mach 2.2.
+The Range is 8 km.
+
+Here is Fire Control and Radar System information for the A129 Mangusta Italian Attack Helicopter:
+The Fire Control System Type is INA.
+The Fire Control Radar is Elettronica ELT-156 radar warning receiver.
+The Direct Fire Control is INA.
+The Laser Designator is INA.
+The Automated Helmet is INA.
+
+Here is Protection information for the A129 Mangusta Italian Attack Helicopter:
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW is INA.
+The Jammer is BAE Systems IEWS AN/ALQ-144A infrared jammer.
+The Counter Measures (Chaff/Flares) is Yes.
+

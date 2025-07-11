@@ -1,0 +1,52 @@
+This document describes the Pchela-1T Russian Unmanned Aerial Vehicle (UAV).
+
+The Yakovlev Pchela-1T ("Пчела" meaning bee) is an unmanned aerial vehicle (UAV) manufactured by the Russian Yakovlev Design Bureau. Its primary use is for surveillance and observation in battlefield environments with downlinked video. Other implementations and uses include target designation and as a training target.
+
+The Pchela is launched using rocket assist by two solid-propellant booster rocket engines, and it is recovered via parachute.
+
+The Pchela-1T has a range of 60 km (37 mi), flies at 100–2,500 m (330–8,200 ft) altitude at 120–180 km/h (75–112 mph). The maximum takeoff weight for the vehicle is 138 kg (304 lb). Yak lists the vehicle endurance at two hours.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea), Russian Federation.
+
+Here is Variants information for the Pchela-1T Russian Unmanned Aerial Vehicle (UAV):
+The Pchela-1IK is The Pchela -1 with the "IK" designation is an infrared variant of the same system that also incorporates improved electronics and avionics..
+The Pchela-1K is This variant is designed for round-the-clock operation and improved performance in mountainous terrain. It is fitted with a low-light-level TV camera.
+The Pchela-1PP is The –iPP is a jamming variant of the Pchela UAV. This variant is currently under development..
+The Pchela-1VM is The Pchela-1VM is a target drone version..
+The Pchela-2 is This variant is designed to be powered by the British 60 hp AR-801 engine and to carry a different payload than the Pchela-1. It is expected to have a communications range of up to 62 miles (100 km)..
+
+Here is System information for the Pchela-1T Russian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Pchela-1T.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Yakovlev.
+The Launcher is The Pchela is launched using rocket assist by two solid-propellant booster rocket engines.
+The Landing is Parachute.
+The Time to Deployment is 20 min.
+
+Here is Dimensions information for the Pchela-1T Russian Unmanned Aerial Vehicle (UAV):
+The Length is 2.78 m.
+The Wingspan is 3.25 m.
+The Takeoff Weight is 138 kg.
+The Payload Weight is INA.
+
+Here is Automotive information for the Pchela-1T Russian Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is 32-hp piston prop.
+The Maximum Speed is 180 km/h.
+The Cruise Speed is 120 km/h.
+The Endurance is 2 hours.
+The Rate of Turn is 3 grad/sec.
+The Ceiling is 2,500 m.
+The Optimum Altitude is 100-1,000 m.
+The Uses is 5-10.
+
+Here is Main Weapon System information for the Pchela-1T Russian Unmanned Aerial Vehicle (UAV):
+The Note is The Pchela-1T is a reconnaissance UAV and has no weapons..
+
+Here is Electronics information for the Pchela-1T Russian Unmanned Aerial Vehicle (UAV):
+The Flight Control is automatic flight, programmed; remote, manual.
+The TV Camera Pitch is +5 to -65 deg.
+The Measurement Error of Coordinates, Range is 150 m.
+The Measurement Error of Coordinates, Azimuth is 1 deg.
+

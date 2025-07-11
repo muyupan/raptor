@@ -1,0 +1,138 @@
+This document describes the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate.
+
+Krivak III Class (Project 11351 Nerey Class) lacked the SS-N-14 missile system, which was replaced by a helicopter and hangar, and only one 100 mm gun at the bow of the ship. All ships were built in Kerch and were intended for the Soviet Border Troops under the KGB. Nowadays, 2 ships remain in service with the Russian FSB Coast Guard and 1 ship is in service with the Ukrainian Navy. It is believed that a single incompleted Krivak III hull (Hetman Bayda Vyshnevetsky c. 1995) from Ukraine was transferred to Russia and then to the Korean People's Navy. NATO referred to these ships as Krivak III-class.
+
+This equipment has proliferated into the following countries: Russian Federation, Ukraine.
+
+Here is Variants information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate:
+The MENZHINSKIY is Commissioned: 1982
+Status: Reserve.
+The DZERZHINSKIY is Commissioned: 1982
+Status: Reserve.
+The DZERZHINSKIY is Commissioned: 1984
+Status: Active.
+The OREL is Commissioned: 1986
+Status: Active.
+The PSKOV is Commissioned: 1982
+Status: Stricken.
+The ANADYR is Commissioned: 1989
+Status: Stricken.
+The KEDROV is Commissioned: 1990
+Status: Reserve.
+The VOROVSKIY is Commissioned: 1990
+Status: Active.
+
+Here is System information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate:
+The Alternative designations is Krivak III Class; Project 11351 Nerey Class.
+The Type is Frigate.
+The Builders is Zalyv Shipbuilding Yard.
+The Crew is 193 total (22 off. + 171 enl.).
+
+Here is Dimensions information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate:
+The Length is 122.98 m.
+The Beam is 14.2 m.
+The Draft is 4.8 m.
+The Displacement, Standard is 3,274 tons.
+The Displacement, Fully Loaded is 3,642 tons.
+
+Here is Automotive information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate:
+The Engine Name is COGAG M-7K plant: 2 M-62 cruise gas turbines; 2 M-8K boost gas turbines.
+The Engine Type is Gas Turbines.
+The Engine Power is COGAG M-7K plant: 2 M-62 cruise gas turbines (7,475 shp each); 2 M-8K boost gas turbines (20,000 shp each).
+The Range is 3,636 nm at 14 knots; 1,600 nm at 30 knots.
+The Maximum Speed is 31 knots.
+
+Here is Communications information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate:
+The Note is The communications suite is called Tayfun-3..
+
+Here is Weapon Station # 1 information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate of the Armament:
+The Name is 1x AK-100 100mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 100 mm.
+The Length is INA.
+The Weight is 35,000 kg.
+The Traverse is 360 degrees.
+The Traverse Rate is 35 degrees / sec.
+The Maximum Rate of Fire is 60 rds / min.
+The Maximum Firing Range is INA.
+
+Here is Weapon Station # 1 Ammunition information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate of the Armament:
+The Type is FRAG.
+The Caliber is 100 mm.
+The Cartridge is INA.
+The Basic Load is 2,000 rds.
+
+Here is Weapon Station # 2 information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate of the Armament:
+The Name is 2 x AK-630m CIWS.
+The Type is Close-In Weapon System.
+The Caliber is 30 mm.
+The Quantity is 2 x Close-in Weapon System (CIWS) Turrets.
+The Barrel Length is 1,629 mm (64 in).
+The Height is 1,070 mm (42 in) (above deck).
+The Weight is 1,000 kg (2,200 lb).
+The Barrels is 6.
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880-900 m/s.
+The Feed System is Belt.
+The Sights is Radar / TV-optical.
+The Maximum Effective Range, Aerial Targets is 4,000 m (13,000 ft).
+The Maximum Effective Range, Surface Targets is 5,000 m (16,000 ft).
+
+Here is Weapon Station # 2 Ammunition information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate of the Armament:
+The Shell is HEI-Frag, Frag-T, APDS-T.
+The Caliber is 30.
+The Shell Weight is 0.39 kg (HEIF, FT)
+0.30 kg (APDS-T).
+The Basic Load is 3,000 rds.
+
+Here is Weapon Station # 3 information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate of the Armament:
+The Name is Type 533 Torpedo System.
+The Type is 53 cm (21 inch) torpedoes.
+The Primary Function is ASUW torpedo.
+The Length is 7.2 m.
+The Diameter is 53 cm.
+The Weight is 2,070–2,300 kg.
+The Range is 18,000 meters (20,000 yd).
+The Speed is 45 kn (52 mi/h, 83 km/h).
+The Guidance System is Wake homing.
+The Warhead is 307.6 kilograms (678 lb) high explosive.
+
+Here is Weapon Station # 4 information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate of the Armament:
+The Name is 2 x12 RBU-6000 Smerch-2.
+The Type is Anti-Submarine Rocket Launcher.
+The Weight is 3,100 kg (empty).
+The Length is 2.0 m.
+The Width is 1.75 m.
+The Height is 2.25 m.
+The Elevation is -15 deg to +65 deg.
+The Traverse is 180 deg.
+
+Here is Mine System information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate:
+The Note is These ships can carry 12 KSM, 14 KRAB or 16 IGDM-500 mines..
+
+Here is Aviation Facilities information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate:
+The Onboard Aviation Storage is Yes.
+The Aircraft is 1 x Helix-A (Ka-27PS) helicopter.
+
+Here is Radar Systems information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate:
+The Air and Search Radar is 1 x MR-760 Fregat/Top Plate 3-D air search.
+The Naviation Radar is 1 x MR-212/201 Vaygach-U (Palm Frond**) navigation.
+
+Here is Sonar Systems information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate:
+The Hull-Mounted Low-Frequency Sonar is 1 x MGK-335S Platina-S hull-mounted, low frequency.
+The Low-Frequency VDS Sonar is 1 x MG-345 Bronza low-frequency VDS system.
+
+Here is Fire Control Systems (FCS) information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate:
+The AK-100 100mm Naval Gun FCS is 1 x MR-145 Lev-218-100 fire control system.
+The AK-630M CIWS FCS is 2 x MR-123 Vympel fire control system.
+The RBU-6000 Smerch-2 FCS is 2 x Burya fire control system.
+
+Here is Protection information for the Krivak III-Class (Project 11351 Nerey Class) Russian Frigate:
+The Hull Armor is The superstructure is built of aluminum-magnesium alloy, welded to the hull with bimetallic inserts. There are 14 watertight compartments..
+The Electronic Warfare Suite is 1 x Smerch suite:.
+The EW Radar Intercept/Jammer is 2 x Start-2 (Bell Shroud) Intercept/Jammer.
+The EW Jammer is 2 x MP-401S Start (Bell Squat A/B) Jammers..
+The Decoys is 4 x 16-round PK-16 fixed decoy launchers with a total of 128 rockets carried onboard..
+The Torpedo Decoys is 2 x towed torpedo decoys.
+The Reflector Decoys is 3 x sets corner-reflector decoys.
+

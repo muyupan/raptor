@@ -1,0 +1,70 @@
+This document describes the ZU-23-2 Russian 23mm Towed Anti-Aircraft Gun.
+
+Hezbollah Proliferation. The ZU-23-2 (2A13) mounts two 23 mm autocannons on a small trailer which can be converted into a stationary mount for firing the guns. While in this position the wheels are moved aside. The autocannon can be prepared for firing from the march position in 30 seconds and in an emergency can be fired from the traveling position. The weapon is aimed and fired manually, with the help of the ZAP-23 optical-mechanical sight which uses manually entered target data to provide limited automatic aiming. It also has a straight-tube telescope T-3 for use against ground targets such as infantry as well as unarmored or lightly armored vehicles. The ammo is fed by a conveyor belt from two ammunition boxes. Each of the ammunition boxes is located on the side of the twin autocannon and each carries 50 rounds. The fumes created by firing the weapon are partially removed through the side openings in the barrels.
+
+Normally, once each barrel has fired 100 rounds it becomes too hot and is therefore replaced with a spare barrel. Each weapon is normally provided with two replacement barrels as part of its standard equipment. Tulamashzavod Joint Stock Company is offering to upgrade the 2A14 guns to the 2A14M standard with a barrel life of 10,000 rounds instead of 8,000 rounds.
+
+The cannon carriage is based on the earlier ZPU-2 anti-aircraft twin heavy machine gun, which mounted two KPV 14.5 mm heavy machine guns. ZU-23-2 can be identified by the different placement of the ammunition boxes (at right angles to the gun carriage) and by muzzle flash suppressors. In another similarity to the ZPU series, single-barrel and four-barrel versions of the ZU-23 were also developed. However, these versions never entered service.
+
+The ZU-23-2 can be towed by a number of different vehicles. In USSR and later Russia the most frequently used towing vehicles for it were GAZ-66 4x4 trucks and GAZ-69 4x4 light trucks.
+
+This equipment has proliferated into the following countries: Afghanistan, Algeria, Angola, Armenia, Azerbaijan, Bangladesh, Belarus, Bosnia and Herzegovina, Bulgaria, Burundi, Cambodia, CFE Treaty, Chad, China, Cuba, Djibouti, Ecuador, Egypt, Eritrea, Estonia, Ethiopia, Finland, Gabon, Georgia, Greece, Guinea, Guinea-Bissau, Hungary, India, Indonesia, Iran (Islamic Republic of), Iraq, Israel, Ivory Coast, Laos (People's Democratic Republic), Latvia, Lebanon, Libya, Mali, Mauritania, Moldova, Mongolia, Morocco, Mozambique, Myanmar, Namibia, Nicaragua, Nigeria, Non-State Actors, North Korea (Democratic People's Republic of Korea), Oman, Pakistan, Peru, Poland, Russian Federation, South Africa, South Sudan, Sri Lanka, Sudan, Syria, Tanzania, Uganda, Ukraine, United States of America, Venezuela (Bolivarian Republic of), Viet Nam, Yemen, Zimbabwe.
+
+Here is Variants information for the ZU-23-2 Russian 23mm Towed Anti-Aircraft Gun:
+The ZU-23M is Upgrade package for the ZU-23-2 that automates the aiming of the weapons, allows targets to be engaged under day and night conditions and gives a higher kill probability against faster targets..
+The ZU-23M1 is The ZU-23M1 is an upgrade to the ZU-23M to further improve the air-defense capability of the system. Features a mounted pod of two fire-and-forget SAMs above the left 23 mm cannon. These could be the Kolomna KBM Igla (SA-18 'Grail') and when fitted with these SAMs, targets can be engaged with a speed up to 360 m/s with target effectiveness up to 0.5..
+The 23 ltK 95 is Upgrade package improves the effectiveness and hit probability of the weapon with the addition of a gyro-stabilized gun, an auxiliary power unit (APU) and laser range-finder. The system is known in Finland as the 23 ItK 95 and it is a multi-faceted anti-aircraft platform that can be towed, mounted on wheeled and tracked vehicles as required. The complete 23 ltK 95 upgrade package consists of: The air-defense gun sight (ADGS), a thermal imaging system including monitor, coarse optical sight, 24 V DC all electric laying system, resolvers and control handle..
+The ZU-23-2CP is This is a version of the ZU-23-2 from Poland’s Zaklady Mechaniczne Tarnow that according to the company is designed for users in countries with a dry and tropical climate..
+The ZU-23/ZOM1 is This anti-aircraft gun-missile complex was designed for the protection of stationary and slow-moving objects against strikes of tactical and attack aviation, helicopters, cruise missiles, and unmanned aerial vehicles (UAVs). In a typical target engagement the system's 9M333 SAMs would be used to engage targets at the longer ranges while the twin 23 mm guns are employed against close-in targets. The gun may also be used in the surface role for the protection of troops and above water lightly armored boats in both day and night conditions..
+
+Here is Dimensions information for the ZU-23-2 Russian 23mm Towed Anti-Aircraft Gun:
+The Travel Position Length Overall is 4.57.
+The Firing Position Length Overall is 4.60.
+The Length of Barrel is 2.1.
+The Travel Position Height Overall is 1.87.
+The Firing Position Height Overall is 1.28.
+The Travel Position Width Overall is 1.83.
+The Firing Position Width Overall is 2.41.
+The Weight is 0.95.
+
+Here is Automotive information for the ZU-23-2 Russian 23mm Towed Anti-Aircraft Gun:
+The Primary Mover is MTLB-T, GAZ-69 4 x 4 truck, BMD-2, BMD-3, BTR-3.
+The Max. Towed Speed is 70.
+
+Here is Main Armament information for the ZU-23-2 Russian 23mm Towed Anti-Aircraft Gun:
+The Caliber, Type is 23 mm, gas-operated gun, 2A14 or 2A14M.
+The Number of Barrels is 2.
+The Breech Mechanism is Vertical Sliding Wedge.
+The Cyclic Rate of Fire is 1,600-2,000.
+The Practical Rate of Fire is 400 in 10-30 rd bursts.
+The Feed is 50-rd ammunition canisters fitted on either side of the upper mount assembly.
+The Loader Type is Magazine.
+The Reload Time is 15.
+The Traverse is 360.
+The Traverse Rate is INA.
+The Elevation is -10 to +90.
+The Elevation Rate is 54.
+The Reaction time is 8.
+
+Here is Main Armament Ammunition information for the ZU-23-2 Russian 23mm Towed Anti-Aircraft Gun:
+The Description is Can fire the same ammunition as ZSU-23-4.  Best mix for modern versions (ZU-23M and ZU-23M1) is 1,200 APDS-T and 1,200 FAPDS. Rounds are ballistically matched and no HEI is required..
+The Type is 23x152 HE-I, HEI-T, API-T, TP.
+The Max Effective Range is 2,500+.
+The Max Effective Altitude is 1,500.
+The Projectile Weight is INA.
+The Muzzle Velocity is 970.
+The FUZE TYPE is API-T:  BASE IGNITING.
+The Self-Destruct is 11.
+The Penetration is 19 @ 1000 m API-T INA for APDS-T       
+16+ @ 1500 m, FAPDS-T  (helicopter simulant laminate array).
+The Max Effective Range is 2,500, 2,000 m against light  armored ground targets such as LAVs.
+The HE-I Projectile Weight is 0.18.
+The HEI-T Projectile Weight is 0.19.
+The HE-I Fuze Type is Point detonating.
+The HEI-T Fuze Type is Point detonating.
+
+Here is Fire Control information for the ZU-23-2 Russian 23mm Towed Anti-Aircraft Gun:
+The Sights with Magnification is Optical mechanical sight for AA fire. Straight tube telescope for ground targets..
+The Range is 2,000.
+The Azimuth warning receiver is 1L15-1.
+

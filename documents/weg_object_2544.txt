@@ -1,0 +1,309 @@
+This document describes the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV).
+
+The BMD-4 (Russian: "Боевая Машина Десанта-4"; Boyevaya Mashina Desanta-4 literally "Combat Vehicle of the Airborne") is an amphibious infantry fighting vehicle (IFV) originating from post-Cold War Russia. Originally designated as the BMD-3M, the chassis of the BMD-4 is the same as that of the BMD-3 because it was developed on the same basis. This armored fighting vehicle is one of the lightest and one of the most heavily armed in its class, possessing a substantial amount of firepower in comparison to its counterparts. The vehicle was designed to transport Russian Airborne Troops (VDV); increasing its mobility, armament, and protection on the battlefield.
+
+Many components of the vehicle, such as the ergonomics and positioning of the passengers, remain relatively unchanged. Primary differences between the BMD-4 and its predecessors lie in its armament. The vehicle is fitted with the Bakhcha-U turret, which consists of: a 100 mm 2A70 low-pressure rifled gun, a 30 mm 2A72 coaxial autocannon, and a 7.62 mm PKT coaxial machine gun. The 2A70 rifled cannon is capable of firing high explosive fragmentation rounds and laser-guided anti-tank missiles. It also features secondary weapons designed to engage and destroy enemy infantry and armored fighting vehicles. The automated fire control system of the vehicle is advanced with new features that simplify the use of the vehicle's armament by the gunner and commander.
+
+The vehicle is designed by the Volgograd tractor factory and the armament was developed by the KBP Instrument Design Bureau unitary enterprise located in Tula. Kurganmashzavod is the official manufacturer of the vehicle. The only operator of the BMD-4 is Russia, where it entered service in late 2004 and has been produced ever since then. In 2008, a modernized version, designated as the BMD-4M, was introduced with significant contributions from Kurganmashzavod; the designer of the BMP.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The BMD-4K is The commander variant featuring an additional radio station..
+The BMD-4M is A variant with a modular unification with the BMP-3..
+The BMD-4M Sinitsa is A variant with further modular unification with the BMP-3 and Sinitsa turret..
+The BTR-MDM Rakushka is A armored personnel carrier based on BMD-4M. It can carry 3 crews and 12 troops..
+The 2S25 Sprut-SD- is A new order for 2S25 replacement 125 mm tracked self-propelled guns were made in 2013. These tank destroyers are planned to be made using the chassis of the BMD-4 with the turret being replaced by the 2A46M-5 125 mm gun; the same smoothbore gun used on the T-90.
+The 2S42 Lotus is A self-propelled 120 mm mortar based on BMD-4M.
+The Ptitselov is A self-propelled airdroppable SAM system with twelve 9M337 missiles based on BMD-4M.
+The BMD-4M is The BMD-4M was unveiled by Kurganmashzavod in 2008. This vehicle retains the Bakhcha-U turret with a number of other innovations. Overall bulletproof crew protection is ensured. Special lightweight and durable alloys make this possible without the vehicle losing its ability to swim or be airdropped. The more powerful and compact engine of the BMP-3 is integrated into the BMD-4M; providing 500 hp.In general, the unification of units, plants, and systems of the modernized BMD-4 chassis with the same units, plants and systems of BMP-3 is 80%. This decreases the expenses of the airborne assault vehicle servicing in the army allowing a significant reduction of service maintenance of airborne combat vehicles in the army..
+The BMD-4M Sinitsa is The BMD-4M Sinitsa was unveiled in 2017. This vehicle has the Sinitsa turret combat module fitted with a top-mounted panoramic sight with a thermal imaging channel and housing a 100 mm 2A70 tank gun/ATGM launcher, 30 mm 2A72 autocannon and a 7.62mm PKMS medium machine gun. The original power unit and transmission system are changed to the parts used in the BMP-3 to standardise production and spare parts supply..
+The Kornet-D1 is In January 2019, the Russian MoD announced it would begin state trials of the 9P163 Kornet-D1 anti-tank missile system, a version of the BMD-4M chassis modified to fire Kornet ATGMs..
+
+Here is System information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Alternative Designation is BMD-4.
+The Type is Airborne Infantry Fighting Vehicle.
+The Manufacturer is Volgograd tractor factory.
+The Family is BMD-4.
+The Estimated Service Life is 40.
+The Crew is 3.
+The Passenger Capacity is 6.
+The Amphibious is Yes, The BMD-4 is amphibious and propelled in the water by two water-jets mounted on both sides at the rear of the vehicle.
+The Note is It is reported that the BMD-4 can cause mission system damage to a MBT sized target at 1,500 meters while afloat..
+
+Here is Dimensions information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Length (Gun Forward) is 6.4.
+The Lenght (Hull) is 6.1.
+The Width is 3.1.
+The Height is 2.5.
+The Weight, Combat is 13.5 tons.
+The Ground Pressure is 0.45 kg/cm2.
+
+Here is Automotive information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is UTD-29.
+The Engine Type is Diesel.
+The Engine Power is 500.
+The Cruising Range is 500.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is 40.
+The Speed Maximum Swim is 10.
+The Gradient is 70 %.
+The Side Slope is 30 %.
+The Vertical Step is 0.8.
+The Trench is 1.8.
+The Fording Depth is Amphibious.
+The Note is The engine remains effective in elevations up to 3,000 m above sea level..
+
+Here is Communications information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Primary Radio is R-168-25UE-2 (Digital Radio).
+The R-168-25UE-2 Freauency is 30-107,975 MHz range.
+The R-168-25UE-2 Range is 17-35.
+The Data Transmit is 1, 2 or 16 Kbits/s.
+The Antenna is either the  R-168TWBA or R-168BBMA antenna.
+
+Here is System information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Name is 1 x 2A70 Cannon.
+The Type is Cannon.
+The Caliber is 100.
+The Max Rate of Fire is 10.
+The Loader Type is Automatic loader, manual for gun and ATGMs.
+The Maximum Elevation is +60.
+The Minimum Elevation is -5.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Fire on the Move is Yes.
+The Maximum Aimed Range is 5,000.
+The Maximum Effective Range (Day) is 4,000.
+The Tactical AA Range is 4,000.
+The Armor Penetration is 25mm of RHA.
+
+Here is Ammunition (Option 1) information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Name is 9M117M1 Arkan.
+The Type is Laser beam riding missile.
+The Caliber is 100.
+The Cartridge is 3UBK23-3 cartridge.
+The Muzzle Velocity is 330.
+The Maximum Effective Range is 4,000.
+The Soft Launch is Yes.
+The Warhead Type is HEAT.
+The Motor Type is Rocket.
+The Penetration is 650 mm of rolled homogenous armour (RHA) behind ERA or 750 mm of RHA without ERA and it has a maximum range of 4,000 m.
+The Basic Load is 34 total rounds of any Russian 100mm Projectiles.
+The Note is The gunner can issue corrections whilst the missile is in flight..
+
+Here is Ammunition (Option 2) information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Name is 3OUF19-1.
+The Type is 100.
+The Muzzle Velocity is INA.
+The Penetration is INA.
+The Fuze Type is proximity fuse, designed to detonate the shell 3 meters above ground.
+The Lethal Area is 600 m2 against soft targets..
+The Basic Load is 34 total rounds of any Russian 100mm Projectiles.
+The Note is This type of projectile is used against entrenched infantry and aircraft, but not heavly protected vehicles..
+
+Here is Ammunition (Option 3) information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Name is 3UOF19 Vishnia HE.
+The Type is 100.
+The Muzzle Velocity is 340.
+The Penetration is INA.
+The Fragments is The projectile produces over 3,000 fragments in a butterfly pattern.
+The Lethal Area is 360 m2 lethal area..
+The Basic Load is 34 total rounds of any Russian 100mm Projectiles.
+
+Here is System information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System #1:
+The Name is 1 x Shipunov 2A72, 30mm Autocannon.
+The Type is Autocannon.
+The Caliber is 30 mm.
+The Manufacturer is Tulamashzavod.
+The Length (Total) is 3.027.
+The Barrel Length is 2,416.
+The Weight is 115.
+The Action is Gas-operated.
+The Barrels is 1.
+The Max Rate of Fire (Low) is 200-300.
+The Max Rate of Fire (High) is 550-800.
+The Effective Firing Range is 2,000.
+The Maximum Firing Range is 4,000.
+The Feed System is Twin Feed.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Elevation is +75.
+The Minumum Elevation is -5.
+
+Here is Ammunition (Option 1) information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System #1:
+The Name is 3UOF8.
+The Type is HEI.
+The Caliber is 30.
+The Cartridge is 30 × 165 mm.
+The Muzzle Velocity is 960.
+The Projectile Weight is 389.
+The Bursting Charge is 49.
+The Basic Load is INA.
+The Note is A high-explosive incendiary round with A-670M nose fuze.The fuze produces a 0.15 millisecond delay on impact, and a self-destruct mechanism detonating the projectile after 7.5 to 14.5 seconds of flight (3900–5300 m distance from muzzle)..
+
+Here is Ammunition (Option 2) information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System #1:
+The Name is M929.
+The Type is APFSDS-T.
+The Caliber is 30.
+The Cartridge is 30 × 165 mm.
+The Projectile Weight is 235.
+The Bursting Charge is None.
+The Muzzle Velocity is 1,260.
+The Basic Load is INA.
+The Note is A sub-caliber fin-stabilized discarding sabot round with tracer from Belgian Mecar, with tungsten alloy penetrator. Penetration:
+50 mm RHA steel at 60 degree impact at 1,000 m range.
+
+Here is Ammunition (Option 3) information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System #1:
+The Name is 3UBR8.
+The Type is APDS.
+The Caliber is 30.
+The Cartridge is 30 × 165 mm.
+The Projectile Weight is 304.
+The Bursting Charge is None.
+The Muzzle Velocity is 1,120.
+The Basic Load is INA.
+The Note is A sub-caliber discarding sabot. No tracer. Penetration:
+25mm RHA at flat angle of impact, 1500 m range
+
+25mm thick plate at 60 degree impact, 1500 m.
+
+Here is System information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System #2:
+The Name is 1 x 7.62mm PKT (Kalashnikov's Machine Gun).
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Max Rate of Fire is 650.
+The Effective Rate of Fire is 250-300.
+The Effective Firing Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 4,000.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+The Note is The 7.62 PKT can be controlled remotely and is slaved to the main gun,.
+
+Here is Ammunition (Option 1) information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System #2:
+The Name is 57-N-323S.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 855.
+The Muzzle Energy is 3,509.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 2,500.
+
+Here is Ammunition (Option 2) information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System #2:
+The Name is 7N13 (AP).
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 855.
+The Muzzle Energy is 3,436.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 2,500.
+
+Here is Ammunition (Option 3) information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System #2:
+The Name is 7BZ3 (API).
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 834.
+The Muzzle Energy is 3,613.
+The Accuracy of fire at 300 m is 150.
+The Basic Load is 2,500.
+
+Here is Anti-Tank Guided Weapon (ATGW) information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Name is 1 x 9M113 Konkurs (AT-5 Spandrel).
+The Type is Soviet SACLOS wire-guided anti-tank missile..
+The Manufacturer is Tula Machinery Design Bureau (Tula KBP) – Tulsky Oruzheiny Zavod.
+The In Service is 1974-Present.
+The Proliferation is Algeria– used by mechanized infantry units
+ Armenia
+ Azerbaijan
+ Egypt – mounted on Fahd armoured personnel carriers purchased in 1990s
+ Belarus The launcher is been locally produced and upgraded.
+ Bulgaria
+ Croatia
+ Cuba – not confirmed
+ Czech Republic
+ Eritrea[
+ Finland – known as PstOhj 82M, fired from 9P135M-1 launchers (withdrawn from service)
+ Georgia
+ Guinea
+ Hungary
+ Indonesia – mounted on BVP-2 infantry fighting vehicles operated by the marine corps
+ India – 15,000 Konkurs-M, ordered in 2008 for Rs 1,380-crore. Another 10,000 Konkurs-M ordered for US$250 million in 2012. A new contract was signed in 2019 for USD 110 mln.
+ Iran– produced domestically as Tosan-1
+ Iraq
+ Ivory Coast (reported)
+ Kazakhstan
+ Kyrgyzstan
+ Morocco[
+ Mongolia
+ Moldova– used on BRDM-2
+ North Korea – produced domestically
+ Pakistan – Used on Viper infantry fighting vehicle
+ Peru
+ Romania
+ Russia – about 300 Konkurs-M complexes delivered annually in the last years (2014)
+ Slovakia
+ Turkmenistan
+ Turkey
+ Syria
+ Ukraine
+ Houthis – Tosan version.
+The Varaints is 9M113M,Towsan-1, Tosan, Towsan, or M113, 9N131M1, 9N131M2-1.
+The Length is 1,150.
+The Diameter is 135.
+The Weight (Missile) is 14.6.
+The Weight (9P135 Launching Post) is 22.5.
+The Warhead Weight is 2.7.
+The Detonation Mechanism is Contract.
+The Engine is Solid-fuel rocket.
+The Wingspan is 468.
+The Maximum Operational Range is 4.
+The Minimum  Operational Range is 70.
+The Speed is 208.
+The Guidance system is Wire-guided SACLOS.
+The Steering system is Two control surfaces.
+The Launch platform is Individual, vehicle.
+The Penetration is 600mm of RHA.
+The Basic Load is 1 x 9M113 Konkurs (AT-5 Spandrel).
+
+Here is Fire Control information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Name is 1V539M FCS.
+The Computerized FCS is Yes.
+The Battle Management System is Yes.
+The Thermal Sight Vehicle Commander is Yes, 1PZ-3 with a TNP-165A designator.
+The Thermal Sight Gunner is Yes, BPK-1-42 with a TNPT-1 designator and a TKN-3B binocular sight.
+The Driver Sight is TVNE-1B periscope for night driving.
+The Main Gun Stabilization is 2E52 electro-mechanical stabiliser..
+The Main Gun Stabilization Modes is Three modes of operation: utomatic; semi-automatic; and guidance..
+The Periscopes is TNPO-170A periscopes and the TNPO-350B night vision periscope..
+The Laser Rangfinder is 1D16-3 LRF.
+The GLONASS System is Yes.
+The Gyrocompass is GPK-59 gyrocompass.
+The Note is The 1V539M FCS can process five ballistic setterings and calculate fire solutions at a mazimum distance of 5,000 meters..
+
+Here is Protection information for the BMD-4 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Hull Armor is Hull: Welded Aluminum Alloy with Ceramic plates. Protection to stop up to 12.7mm rounds fired at the hull and 7.72mm rounds fired at the sides.
+The Turret Armor is Turret: welded aluminium  
+Protection to stop up to 12.7mm rounds fired at the hull and 7.72mm rounds fired at the sides.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, 902 toucha smoke grenade launchers.
+The IR Signature is INA.
+The Fire Suppression System is Yes.
+

@@ -1,0 +1,36 @@
+This document describes the JYL-1 Chinese Long-Range 3D Surveillance Radar.
+
+The JYL-1 radar is carried in the 2004 CRIA listing of Chinese indigenous products.
+
+The JYL-1 is a long-range 3D surveillance radar typical of those assets that might be found in a modern air defence network.
+
+It functions in the E/F-band region and might be used as either a military or commercial asset for air traffic control and management purposes.
+
+This equipment has proliferated into the following countries: China, Venezuela (Bolivarian Republic of).
+
+Here is System information for the JYL-1 Chinese Long-Range 3D Surveillance Radar:
+The Alternative Designation is JYL-1.
+The Type is Long-Range 3D Surveillance Radar.
+The Crew is 8.
+The Chassis is INA.
+The Band is It functions in the E/F-band region and might be used as either a military or commercial asset for air traffic control and management purposes..
+The Azimuth Coverage is 0º ~ 360º.
+The Elevation Coverage is 0º ~ 25º.
+The Search Range is 320km.
+The Coverage Height is 25,000m.
+The Measurement Accuracy Range is 100m.
+The Measurement Accuracy Azimuth is 0.3º.
+The Measurement Accuracy Height is 600m @ 200km.
+The Resolution Range is 200m.
+The Resolution Azimuth is 1.5º.
+The Reliability MTBF is ≥ 800hrs.
+The Reliability  MTTR is ≤ 0.5 hrs.
+The Displacement is Under 1 hour.
+The Emplacement is Under 1 hour.
+
+Here is Dimensions information for the JYL-1 Chinese Long-Range 3D Surveillance Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

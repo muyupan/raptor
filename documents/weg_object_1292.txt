@@ -1,0 +1,85 @@
+This document describes the FB-6A Chinese 4x4 Mobile Short-Range Air Defense System.
+
+The FB-6A is a copy of the US Army's AN/TWQ-1 Avenger Short Range Air Defense (SHORAD) system.  The HMMWV copy that carries the pedestal launcher is the Shenyang SFQ2040.
+The main difference between FN-6A and its successor FB-6A is that the SAM system is broken down into two portions in the FB-6A: FB-6A SAM system consists of two vehicles, one carrying the engagement radar, while the other carrying the missile launcher and missiles.
+Although the 12.7 mm heavy machine gun is no longer the standard equipment of FB-6A system, it can be added as an option, and is interchangeable with other machine guns. The total numbers of missiles carried by the launching vehicle of FB-6A remain the same as FN-6A, still totaling eight.
+A command vehicle and 8 launching vehicles form an air defense battery when fighting as a coherent unit, and this in turn can be integrated into larger air defense networks. Alternatively, the launching vehicle can be directly integrated into larger air defense networks without the need of the command vehicle.  The launch vehicle can be task organized to fight alone without the radar however, aircraft acquisition become more difficult and engagement times become longer.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the FB-6A Chinese 4x4 Mobile Short-Range Air Defense System:
+The Alternative Designation is FB-6A Missile Launching Vehicle.
+The Type is Short Range Air Defense System.
+The Crew is 2.
+The Chassis is Shenyang SFQ2040.
+The Maximum Effective Range is 6,000.
+The Minimum Range is 500.
+The Target Altitude (Max) is 4,500.
+The Target Altitude (Min) is 15.
+The Fire on the Move is INA; its parent, the US Avenger can fire on the move so, it is prudent to assume that the FB-6A can also.
+The Reaction Time is 2-3.
+
+Here is Dimensions (Chassis: Shenyang SFQ2040) information for the FB-6A Chinese 4x4 Mobile Short-Range Air Defense System:
+The Length is 4,600.
+The Width is 2,100.
+The Height is 3,000.
+The Weight, Combat is 4.6.
+
+Here is Automotive (Chassis: Shenyang SFQ2040) information for the FB-6A Chinese 4x4 Mobile Short-Range Air Defense System:
+The Engine Name is Cummins 4BTAA-92.
+The Engine Type is Turbo-diesel engine.
+The Engine Power is ~150.
+The Cruising Range is INA.
+The Speed, Maximum Road is 100.
+The Speed, Average Cruising is INA.
+The Fording Depth is ~1.5.
+The Side Slope is ~40.
+The Slope Climbing is ~60.
+
+Here is Communication information for the FB-6A Chinese 4x4 Mobile Short-Range Air Defense System:
+The Radio is Yes; Type INA.
+
+Here is System information for the FB-6A Chinese 4x4 Mobile Short-Range Air Defense System of the Main Weapon System:
+The Name is INA.
+The Type is Pedestal mounted on Shenyang SFQ2040 4x4 tactical vehicle.
+The Basic Load is 8.
+The Traverse Range is 360.
+
+Here is FN-6 (A single source stated that the DY-90 may be found on the FB-6A) information for the FB-6A Chinese 4x4 Mobile Short-Range Air Defense System of the Main Weapon System:
+The Type is Surface to Air Missile.
+The Guidance is Passive IR.
+The Caliber / Length is 1,862.
+The Missile Weight is 20.
+The Missile Diameter is 90.
+The Missile Speed is 2.2.
+The Seeker Field of View is INA.
+The Self-Destruct Time is INA.
+The Maximum Elevation is INA.
+The Minimum Elevation is INA.
+The Proximity Fuze is Yes.
+The Rate of Fire, Sustained is ~1 round every 5 seconds.  Gunner must acquire the target before they can go into the launch sequence.  This process is expedited when the launch vehicle is teamed with the search/acquisition radar vehicle..
+The Missile Stages is A launch motor ejects the missile out of the launch tube; once clear of the vehicle, the flight motor ignites and carries the missile to its target.
+The Probability of Kill is 70.
+The Maximum Target Speed is 300.
+The Maximum Effective Range is 6,000.
+
+Here is Fire Control System information for the FB-6A Chinese 4x4 Mobile Short-Range Air Defense System of the Fire Control / Radar:
+The Name is INA.
+The Computerized FCS is INA.
+The Direct Fire is INA.
+The Acquisition Range is 12.
+
+Here is Radar information for the FB-6A Chinese 4x4 Mobile Short-Range Air Defense System of the Fire Control / Radar:
+The Name is Subsystem to the FB-6A.
+The Type is Planar array or electronically scanned passive phased array.
+The Function is Scan and track.
+The Frequency / Band is INA.
+The Range is >12.
+The Number of Targets System Can Track is INA.
+
+Here is Protection information for the FB-6A Chinese 4x4 Mobile Short-Range Air Defense System:
+The Vehicle Armor is No.
+The Pedistal Armor is No.
+The Applique Armor is No.
+The NBC Protection is Over-pressure in pedestal only.
+

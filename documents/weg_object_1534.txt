@@ -1,0 +1,75 @@
+This document describes the Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat.
+
+Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat.  These are heavily armed river craft, similar in concept to the French and U.S. riverine monitors of the Indochina-Vietnam wars. The craft patrol the Russian rivers that border foreign states.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat:
+The Note is There was a total of 118 vessels built..
+
+Here is System information for the Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat:
+The Alternative Designation is Shmel-Class; Project 1204 Class.
+The Type is Armored Artillery Gunboat.
+The Builder is PSKR-223: Kommunara Zavod, Nikolayev, Russia  Remainder: Zaliv Shipyard, Kerch, Russia.
+The Crew is 14 total (2 off. + 12 enl.).
+
+Here is Dimensions information for the Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat:
+The Length is 27.70 m.
+The Beam is 4.30 m.
+The Draft is 3.30 m.
+The Displacement, Standard is 40 tons.
+The Displacement, Full Load is 77 tons.
+
+Here is Propulsion System information for the Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat:
+The Engine Name is 2 x Type M-50F-4.
+The Engine Type is Diesel.
+The Engine Power is 2,400 total bhp.
+The Maximum Range is 240 nm at 20 knots; 600 nm at 10 knots.
+The Maximum Speed is 24 knots.
+
+Here is Gun Weapon System #1 information for the Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat of the Gun Weapon Systems:
+The Name is 1 x 76.2-mm/48-cal D-56TM low-angle SP.
+The Type is D-56T series rifled tank gun.
+The Caliber is 76.2 mm.
+The Barrel Length is 3.2 m.
+The Weight is INA.
+The Rate of Fire is 6-8 rounds per minute.
+The Maximum Firing Range is 1,500 m.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.2 mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat of the Gun Weapon Systems:
+The Name is 1 x twin 25mm/80 cal. (2M-3M) AA.
+The Type is Anti-Aircraft Gun.
+The Caliber is 25 mm.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 25 mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Rocket #1 information for the Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat of the Rocket Weapon Systems:
+The Name is BP-6.
+The Type is Rocket.
+The Basic Load is 36 rockets carried.
+
+Here is Mine System information for the Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat:
+The Note is Each ship can carry four UDM-500 mines or two UDM-1000 mines or six KPM mines or eight YaM mines..
+
+Here is Fire Control Systems information for the Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat:
+The FCS Name is INA.
+The Computerized FCS is INA.
+
+Here is Radar Systems information for the Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat:
+The Navigation Radar is 1 x Spin Through Navigation Radar.
+
+Here is Protection information for the Shmel-Class (Project 1204 Class) Russian Armored Artillery Gunboat:
+The Hull Armor is They have 10 mm of armor over the pilothouse and gun barbettes, 8 mm over the hull and internal bulkheads and 5 mm of armor over the deck..
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

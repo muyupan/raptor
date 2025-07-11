@@ -1,0 +1,186 @@
+This document describes the Challenger 2 (FV4034) British Main Battle Tank (MBT).
+
+The Challenger 2 (FV4034) British Main Battle Tank (MBT) is a third generation British main battle tank (MBT) in service with the armies of the United Kingdom and Oman. It was designed and built by the British company Vickers Defense Systems (now known as BAE Systems Land & Armaments). Vickers Defense Systems began to develop a successor to Challenger 1 as a private venture in 1986. A £90 million deal for a demonstrator vehicle was finalized in January 1989. In June 1991, the Ministry of Defense placed a £520 million order for 140 vehicles, with a further 268 ordered in 1994. Production began in 1993 and the unit's tanks were delivered in July 1994, replacing the Challenger 1. The tank entered service with the British Army in 1998, with the last delivered in 2002. It is expected to remain in service until 2035. The Royal Army of Oman ordered 18 Challenger 2s in 1993 and a further 20 tanks in November 1997.
+
+The Challenger 2 is an extensive redesign of the Challenger 1. Although the hull and automotive components seem similar, they are of a newer design and build than those of the Challenger 1 and only around 3% of components are interchangeable. A visual recognition feature is the armored housing for the TOGS thermal gunsight; the Challenger 2 has this above the gun barrel, the Challenger 1 has it at the right hand side of the turret. The tank's drive system provides a 550 km range, with a maximum road speed of 59 km/h.  The Challenger 2 main battle tank was developed as a private venture to replace the previous Chieftain MBT in service with British Army.
+
+This equipment has proliferated into the following countries: Oman, United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the Challenger 2 (FV4034) British Main Battle Tank (MBT):
+The Titan is The Titan armored bridge layer is based on aspects of the Challenger 2 running gear and replaced the Chieftain Armored Vehicle Launched Bridge (ChAVLB). The Titan came into service in 2006 with the Royal Engineers, with 33 in service. Titan can carry a single 26-metre-long bridge or two 12-metre-long bridges. It can also be fitted with a bulldozer blade..
+The Trojan is The Trojan Armored Vehicle Royal Engineers is a combat engineering vehicle designed as a replacement for the Chieftain AVRE (ChAVRE). It uses the Challenger 2 chassis, and carries an articulated excavator arm, a dozer blade, and attachment rails for fascines. Entering service in 2007, 33 were produced.
+The Challenger 2E is The Challenger 2E is an export version of the tank. It has a new integrated weapon control and battlefield management system, which includes a gyrostabilised panoramic SAGEM MVS 580-day/thermal sight for the commander and SAGEM SAVAN 15 gyrostabilized day/thermal sight for the gunner, both with eyesafe laser rangefinder. This allows hunter/killer operations with a common engagement sequence. An optional servo-controlled overhead weapons platform can be slaved to the commander's sight to allow operation independent from the turret.
+
+The power pack has been replaced by a new 1,500 hp (1,100 kW) EuroPowerPack with a transversely mounted MTU MT883 diesel engine coupled to Renk HSWL 295TM automatic transmission. The increase in both vehicle performance and durability is significant. The smaller volume but more powerful Europowerpack power pack additionally incorporates as standard a cooling system and air-intake filtration system proved in desert use. The free space in the hull is available for ammunition stowage or for fuel, increasing the vehicle's range to 550 km (340 mi). This power pack was previously installed on the French Leclerc tanks delivered to the UAE as well as the recovery tank version of the Leclerc in service with the French Army. Further developed versions of the Europowerpack have more recently been installed in the latest serial produced Korean K2 Black Panther tank as well as the new Turkish ALTAY tank.
+
+BAES announced in 2005 that development and export marketing of 2E would stop. This has been linked by the media to the failure of the 2E to be selected for the Hellenic Army in 2002, a competition won by the Leopard 2.
+The CRARRV is The Challenger Armored Repair and Recovery Vehicle (CRARRV) is an armored recovery vehicle based on the Challenger 1 hull (with the updated Challenger 2 powertrain) and designed to repair and recover damaged tanks on the battlefield. It has five seats but usually carries a crew of three soldiers from the Royal Electrical And Mechanical Engineers (REME), of the recovery mechanic and vehicle mechanic/technician trades. There is room in the cabin for two further passengers (e.g. crew members of the casualty vehicle) on a temporary basis.
+
+The size and performance are similar to the MBT, but instead of armament it is fitted with:
+A main winch with 50 tones-force pull in a 1:1 configuration or 98 tones-force pull using an included pulley in a 2:1 configuration and anchor point on the vehicle, plus a small auxiliary winch to aid in deploying the main winch rope.
+Atlas crane capable of lifting 6,500 kg (14,300 lb) at a distance of 4.9 m (16 ft) (this is sufficient to lift a Challenger 2 power pack).
+In order to improve flexibility and supplement the transportation of power packs around the battlefield, the British Army procured a quantity of dedicated CRARRV High Mobility Trailers (CRARRV HMT). Each CRARRV HMT enables a CRARRV to transport a single (Challenger, Titan or Trojan) power pack or two Warrior power packs, by altering the configuration of dedicated fixtures and attachment of fittings.
+Dozer blade to use as an earth anchor/stabilizer, or in obstacle clearance and fire position preparation.
+Large set of recovery and heavy repair tools including a man-portable ultrathermic cutting system with an underwater cutting capability and a man-portable welder.
+The design prototype is on display at The REME Museum at MoD Lyneham, Wiltshire..
+
+Here is System information for the Challenger 2 (FV4034) British Main Battle Tank (MBT):
+The Alternative Designation is Challenger 2, FV4034,  CR2 and the retrospective designation CR2 Mk1.
+The Type is Main Battle Tank (MBT).
+The Manufacturer is Alvis plc, BAE Systems Land & Armaments.
+The Status is 1993-2002.
+The Family is 3rd Generation Main Battle Tank (MBT).
+The Crew is 4 (commander, gunner, loader/operator, driver).
+The Passenger Capacity is INA.
+The Maximum Effective Range (Road) is 500.
+The Note is The Challenger 2 main battle tank was developed as a private venture to replace the previous Chieftain MBT in service with British Army..
+
+Here is Dimensions information for the Challenger 2 (FV4034) British Main Battle Tank (MBT):
+The Length (Hull) is 8.33.
+The Length (With Gun Forward) is 11.55.
+The Width (Normal) is 3.5.
+The Width (With Applique Armor) is 4.2.
+The Height is 2.5.
+The Weight, Combat is 62.5.
+The Ground Pressure is 0.97.
+
+Here is Automotive information for the Challenger 2 (FV4034) British Main Battle Tank (MBT):
+The Engine Name is Perkins CV12 TCA Diesel.
+The Engine Type is Diesel.
+The Engine Power is 1,200.
+The Speed, Maximum Road is 59.
+The Cruising Range is 50.
+The Speed, Maximum Off Road is 40.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.9.
+The Trench is 2.34.
+The Fording Depth is 1.07.
+The Suspension is Hydropneumatic suspension.
+
+Here is System information for the Challenger 2 (FV4034) British Main Battle Tank (MBT) of the Main Gun:
+The Name is L30A1 (LFF) Challenger Main Armament or CHARM 120 mm Rifled Gun.
+The Type is 120.
+The Manufacturer is Royal Ordnance Factory.
+The Barrel Length is 6.6.
+The Barrel Material is Electroslag refined (ESR) steel..
+The Max Rate of Fire is 10.
+The Reload Time (1 Round) is 6.
+The Barrel Life is 400 effective full charges.
+The Breach Mechanism is Split sliding-block breech.
+The Maximum Effective Range is 3,000.
+The Range Finder Type is Laser.
+The Loader Type is Manual,  with two-piece ammunition comprising a fully combustible bag charge and projectile..
+The Maximum Elevation is -10.
+The Minimum Elevation is +20.
+The Fire on the Move is Yes.
+The Thermal Jacket is Yes.
+The Muzzle Reference System is Yes.
+The Central Bore Evacuator is Yes.
+The Barrel Lining is Chrome, which extends the life of the barrel.
+The Fume Extractor is Yes.
+The Breach Machanism is split-block sliding breech,  with an elastomeric obturating pad made necessary by the combustible case charges..
+The Note 1 is The Challenger 2 gun claims the longest-distance tank kill in history. During Gulf War it defeated an Iraqi tank at a range of 4 km..
+The Note 2 is The Challenger 2 is one of the few MBTs in the world to carry a 120 mm rifled main gun..
+
+Here is Ammunition (Option 1) information for the Challenger 2 (FV4034) British Main Battle Tank (MBT) of the Main Gun:
+The Type is Armour-piercing fin-stabilized discarding sabot (APFSDS) L23.
+The Caliber is 120.
+The Muzzle Velocity is 1,534.
+The Diameter is 120.
+The Height is 500.
+The Armor Penetration is INA.
+The Effective Range is 3,000.
+The Penetrator is Monobloc tungsten alloy rod.
+The Case Charge is L8 combustible case charge.
+The Basic Load is 50 total rounds of any combination of 120mm Projectiles.
+The Note is Average Projectile Load would consists of the following: 33 L26 APFSDS rounds, 13 L31A7 HESH, and 3 white L34 phosphorous smoke rounds..
+
+Here is Ammunition (Option 2) information for the Challenger 2 (FV4034) British Main Battle Tank (MBT) of the Main Gun:
+The Type is APFSDS L26 (CHARM 1).
+The Caliber is 120.
+The Muzzle Velocity is INA.
+The Effective Range is 2,100.
+The Penetrator is Monobloc tungsten nickel copper long rod.
+The Case Charge is L14A1 or L14A2.
+The Basic Load is 50 total rounds of any combination of 120mm Projectiles.
+The Variant is APFSDS L27A1 (CHARM 3)..
+
+Here is Ammunition (Option 3) information for the Challenger 2 (FV4034) British Main Battle Tank (MBT) of the Main Gun:
+The Type is HESH L31.
+The Caliber is 120.
+The Muzzle Velocity is 670.
+The Effective Range is 2,000 m.
+The Basic Load is 50 total rounds of any combination of 120mm Projectiles.
+
+Here is System information for the Challenger 2 (FV4034) British Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is 1 x L94A1, Hughes EX-34 7.62mm Chain Gun.
+The Type is 7.62mm Chain Gun.
+The Manufacturer is Heckler & Koch.
+The Produced is 1980 to early 1990s, 1996-1998.
+The Max Rate of Fire is 500-600.
+The Range Finder Type is INA.
+The Weight is 17.86.
+The Length (Total) is 1.25.
+The Length (Barrel) is 703.
+The Action is Electrically driven.
+The Feed System is disintegrating link belt.
+The Variants is EX-31, L95A1 (short barreled version).
+
+Here is Ammunition information for the Challenger 2 (FV4034) British Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Chain Gun Ammunition.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO (linked).
+The Muzzle Velocity is 862.
+The Basic Load is INA.
+The Effective Range is 200-3,000.
+The Armor Penetration is No, Low penetration makes it ineffective against armor.
+
+Here is System information for the Challenger 2 (FV4034) British Main Battle Tank (MBT) of the Loader's Weapon System (Operator/Loader's hatch):
+The Name is L37A2 Machine Gun.
+The Type is 7.62 mm.
+The In Service is 1963-present.
+The Length (Overall) is 1,232.
+The Length (Barrel) is 630.
+The Weight is 10.90.
+The Action is Gas-Operated.
+The Max Rate of Fire is 750.
+The Effective Range is 800.
+The Range Finder Type is INA.
+
+Here is Ammunition information for the Challenger 2 (FV4034) British Main Battle Tank (MBT) of the Loader's Weapon System (Operator/Loader's hatch):
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62x51mm NATO.
+The Muzzle Velocity is 840.
+The Effective Range is 800.
+The Armor Penetration is No.
+The Basic Load is INA.
+
+Here is Fire Control information for the Challenger 2 (FV4034) British Main Battle Tank (MBT):
+The Name is Mk5, IFCS Mk 11/12.
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is SAGEM VS 580-10 gyro stabilised sight.
+The Thermal Sight Gunner is Yes, Thales Gunner's Primary Sight.
+The Main Gun Stabilization is Yes, 2-plane.
+The Range Finder is Laser.
+The Infrared is Searchlight.
+The Battle Management System is Yes, similar to that used in the M1A1 Abrams Tank.
+The Gun Control Equipment (GCE) is MIL-STD-1553 databus.
+
+Here is Protection information for the Challenger 2 (FV4034) British Main Battle Tank (MBT):
+The Hull Armor is Chobham / Dorchester Level 2 (classified).
+The Turret Armor is Chobham / Dorchester Level 2 (classified).
+The Applique Armor is Available, The sides of the vehicle are protected by short armoured skirts, which stretch the full length of the vehicle..
+The Explosive Reactive Armor is Available.
+The Active Protection System is Yes, Dorchester level 2 armour.
+The Mine Clearing is Plow Variant.
+The Self-Entrenching Blade is Yes, Pearson Engineering Combat Dozer Blade.
+The NBC Protection is Yes, MDH Defence Vehicle NBC filtration system.
+The Smoke Equipment is Yes, VIRSSS (Visual and Infra-Red Smoke Screening System)..
+The IR Signature is INA.
+The Automatic Fire Suppression Systems is Yes.
+The Meteorological Sensor is Available.
+The Note is It is one of the most protected tanks in the world. This main battle tank provides a very high level of protection against direct fire weapons..
+

@@ -1,0 +1,46 @@
+This document describes the S-13 Russian 122mm Unguided Rocket.
+
+The S-13 is a 122 mm calibre unguided rocket weapon developed by the Soviet Air Force for use by military aircraft. It remains in service with the Russian Air Force and some other countries.
+
+The S-13 rocket was developed in the 1970s to meet requirements for a penetrating weapon capable of cratering runways and penetrating hardened aircraft shelters, bunkers and pillboxes, to fill a gap between 80 mm and 240 mm rockets and fulfill a role similar to the 127 mm Zuni rocket. The S-13 is conventional in layout, with a solid rocket motor and folding tail fins that provide stability after launch.
+
+The first trials were in 1973, but it was introduced only in 1983. S-13 rockets are shot from 5-tube launchers B-13L, that can be carried by most of Soviet and Russian attack and new fighter aircraft, like Sukhoi Su-17/20/22, Sukhoi Su-24, Sukhoi Su-25, Sukhoi Su-27, MiG-23BN, MiG-27, MiG-29. B-13L1 launcher is used by helicopters such as Mil Mi-24, Mil Mi-28, Kamov Ka-29TB, Kamov Ka-50 and Kamov Ka-52.
+
+This equipment has proliferated into the following countries: India, Iraq, Russian Federation.
+
+Here is Variants information for the S-13 Russian 122mm Unguided Rocket:
+The S-13 is Penetrates 3 m of earth and 1 m of reinforced concrete. On runways it produces a demolition area of 20 m². Velocity 650 m/s.
+The S-13B is Penetrates 3 m of earth and 1 m of concrete..
+The S-13T is Combined penetration of 6 m of earth and 1 m of reinforced concrete. Velocity 500 m/s.
+The S-13OF is Produces 450 splinters between 23 and 35 g, capable of penetrating lightly armoured vehicles such as APCs and IFVs. Velocity 530 m/s. Introduced in 1993..
+The S-13D is 35 – 40 kg TNT equivalent. Velocity 530 m/s. Introduced in 1995..
+The S-13DF[ is Up to 40 kg TNT equivalent. Velocity 530 m/s. Ordered upgraded in 2018..
+
+Here is System information for the S-13 Russian 122mm Unguided Rocket:
+The  is .
+The  is .
+The  is .
+
+Here is Rocket Launcher information for the S-13 Russian 122mm Unguided Rocket of the S-13 Russian 122mm Unguided Rocket:
+The Name is B-13L Rocket Pod.
+The Type is Rocket Pod.
+The Basic Load is 2 x Rocket Pods.
+The Length is 3560.
+The Diameter is 410.
+The Unloaded Weight is 160.
+The Number of Rockets per Rocket Pod is 5.
+The Firing Interval is 0.15.
+
+Here is Rocket System Ammunition information for the S-13 Russian 122mm Unguided Rocket of the S-13 Russian 122mm Unguided Rocket:
+The Name is S-13.
+The Type is 122 mm calibre unguided rocket weapon.
+The Proliferation is The S-13 is a 122 mm calibre unguided rocket weapon developed by the Soviet Air Force for use by military aircraft. It remains in service with the Russian Air Force and some other countries..
+The Length is 2.54.
+The Diameter is INA.
+The Muzzle Velocity is INA.
+The Basic Load is 5 Rockets per B-13L.
+The Launch Weight is 57.
+The Warhead Weight is 21.
+The Effective Range is 1.1-3.
+The Penetration is Penetrates 3 m of earth and 1 m of reinforced concrete. On runways it produces a demolition area of 20 m². Velocity 650 m/s..
+

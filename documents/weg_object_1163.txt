@@ -1,0 +1,40 @@
+This document describes the JRTC VISMOD: Type 63-1 Chinese 60mm Mortar.
+
+China produced a version of the US's M2 mortar, which was designated as the Type 31.  Some were supplied to North Korea and North Vietnam.  It was later modified as the Type 63 and then as the Type 63-1.  This latter type has been produced under license by Pakistan Machine Tool Factory Limited in Pakistan and by Helwan Machine Tools Company in Egypt.
+
+This equipment has proliferated into the following countries: China, North Korea (Democratic People's Republic of Korea), Viet Nam.
+
+Here is Variants information for the JRTC VISMOD: Type 63-1 Chinese 60mm Mortar:
+The Type 31 is The Type 31 is the original Chinese "copy" of the US M2, 60mm mortar which is a copy of the French Modele 1935 60mm mortar.  Improvements of the Type 31 became the Type 63..
+The Type 63 is The Type 63 has a rectangular base plate in comparison to the Type 31's oval base plate..
+
+Here is System information for the JRTC VISMOD: Type 63-1 Chinese 60mm Mortar:
+The Crew is 1.
+The Carriage is Man-portable.
+The Emplacement Time is Less than 1 minute.
+The Displacement Time is Less than 1 minute.
+The Maximum Effective Range is 1,550.
+The Action is Manually operated, pin strike.
+The Caliber is 60.
+The Maximum Rate of Fire is 30.
+
+Here is Dimensions information for the JRTC VISMOD: Type 63-1 Chinese 60mm Mortar:
+The Length is 610.
+The Weight is 12.1.
+The Barrel Weight is 4.1.
+The Base Plate Weight is 3.3.
+The Bipod Weight is 4.1.
+The Sight Weight is .6.
+
+Here is Ammunition information for the JRTC VISMOD: Type 63-1 Chinese 60mm Mortar of the Mortar:
+The Type is HE, Illum, Smoke, WP.
+The Caliber is 60.
+The Muzzle Velocity is 152.
+The Effective Range is 95m to 1550m.
+
+Here is Fire Control information for the JRTC VISMOD: Type 63-1 Chinese 60mm Mortar:
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Collimator is Yes.
+The Sights is Adjustable elevation mechanism.
+

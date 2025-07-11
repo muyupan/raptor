@@ -1,0 +1,131 @@
+This document describes the BTR-70 (BTR M1978) Russian 8x8 Amphibious Armored Personnel Carrier (APC).
+
+The BTR-70 is a Russian-made 8x8 armored vehicle personnel carrier which was shown for the first time to the public in November 1980 during a military parade in Moscow. The vehicle was originally developed during the late 1960s under the industrial designator GAZ-4905. The BTR-70 enters in service with the Russian army in August 1972. The BTR-70 was widely used during the Soviet war in Afghanistan and many smaller conflicts in Eastern Europe. After the Cold War these AFV saw service with the UN in the Balkans with high success.
+
+This equipment has proliferated into the following countries: Armenia, Azerbaijan, Bangladesh, Belarus, Bosnia and Herzegovina, CFE Treaty, Georgia, Kazakhstan, Kyrgyzstan, Macedonia, Mali, Mexico, Mongolia, Pakistan, Russian Federation, Sierra Leone, Sudan, Tajikistan, Turkmenistan, Ukraine, Uzbekistan, Zambia.
+
+Here is Variants information for the BTR-70 (BTR M1978) Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The BTR-70 is The BTR-70 is the base variant of the family. It is an APC designed to traverse a fire zone with a section of infantry dismounts and provide them with limited fire support from the rear..
+The BTR-70MB is The BTR-70MB is an upgraded BTR-70 that is in service with an undisclosed country. It is essentially the same as the BTR-70 and designed to perform the same function..
+The BTR-70MB1 is The BTR-70MB1 is based on the BTR-70MB with some modifications for Belarusian service, it is intended to replace older APCs such as the BTR-60PB and the BTR-70..
+The BTR-70V is This variant was also known as the BTR-70 M1986/1 and has a reworked troop compartment that can be used to transport two 30 mm AGS-17 AGLs or stretchers. It can carry a total of 10 infantrymen or eight infantrymen and two 30 mm ASG-17 AGLs..
+The BTR-70MS is This is a turretless communications vehicle with the MS standing for Mashina Svyazi (signals vehicle). Its status is uncertain..
+The BTR-70 KShM is This is a command/staff vehicle. The KShM stands for Komandno-Shtabnaya Mashina. It was originally fitted with the R-145BM communications system but it is unclear if this is retained in any vehicles that remain in service..
+The TAB-77 is The TAB-77 is a license-manufactured version of the BTR-70 manufactured in Romania..
+The BTR-70Kh is This was developed by Russia for the then East German Army and was also referred to as the SPW-70Ch..
+The BTR-70MBP is This was the successor to the escort vehicle BTR-60MBP (Mashina Bojevogo Posta), and was also found in strategic missile units..
+The BTR-70D is The prototypes that used diesel fuel instead of gasoline were designated as the BTR-70D. This is also the
+same designation given to the Ukrainian models with a 300 horsepower diesel engine..
+The BTR-70DI is The BTR-70DI is a Ukrainian BTR-70, but is powered by a Euro II 276 horsepower diesel engine..
+The BTR-70M is Some BTR-70s were modified by adding the rear hull of the BTR-80 to the vehicle and thus received
+were designated as the BTR-70M. Adding to the confusing nomenclature, Ukrainian models with a UTD20 300 horsepower engine also received the same designation..
+The BREM is To create the BREM, the Russians removed the turret from the BTR-70 and add a front-mounted jib
+crane in order to serve as an armored repair and recovery vehicle..
+The BTR-70 MBP is The BTR-70 MBP serves artillery units as a command and control vehicle..
+The BTR-70K is The BTR-70K is a modified version used by commanders..
+The BTR-70KShM is The BTR-70KShM variant carries improved communications and navigation equipment to serve as a command vehicle.
+The BTR-70SM is The BTR-70SM is a Ukrainian variant without any armament used as a battlefield ambulance.
+The BTR-70V is This variant features the BPU-1 turret system, the same system as found on the BTR-80, but without any
+smoke grenade launchers..
+
+Here is System information for the BTR-70 (BTR M1978) Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designations is BTR-70; MTR M1978.
+The Type is Amphibious Armored Personnel Carrier (APC).
+The Configuration is 8x8.
+The Manufacturer is Dedkov Design Bureau in Gorky-Arzamas.
+The Crew is 2.
+The Passengers is 9.
+
+Here is Dimensions information for the BTR-70 (BTR M1978) Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Length is 7.535 m.
+The Width is 2.8 m.
+The Height is 2.235 m.
+The Wheelbase is 4.4 m.
+The Track is 2.38 m.
+The Weight is 11,500 kg.
+The Ground Clearance is 0.475 m.
+
+Here is Automotive information for the BTR-70 (BTR M1978) Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is 2 × ZMZ-4905.
+The Engine Type is 8 cylinders, petrol.
+The Engine Power is 120 hp per engine.
+The Power-to-Weight Ratio is 20.86 hp/t.
+The Fuel Capacity is 350 liters.
+The Gearbox is Manual; Fwd: 4, Rev: 1.
+The Electrical System is 12 V.
+The Transfer Box is 2 speed.
+The Steering is power assisted.
+The Suspension is torsion bar with hydraulic shock-absorbers.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Obstacle is 0.5 m.
+The Trench is 2 m.
+The Turning Radius is 6.3m.
+
+Here is Communications information for the BTR-70 (BTR M1978) Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Radio is INA.
+
+Here is System information for the BTR-70 (BTR M1978) Russian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 × Turret-Mounted 14.5mm KPVT machine gun.
+The Type is Heavy Machine Gun.
+The Caliber is 14.5.
+The Manufacturer is V.A. Degtyarev Plant.
+The In Service is 1949-Present.
+The Length is 1,980.
+The Barrel Length is 1,346.
+The Width is 162.
+The Height is 225.
+The Weight is 49.
+The Action is Short recoil operation.
+The Rate of Fire is 600 rpm.
+The Effective firing range is 3,000.
+The Maximum firing range is 4,000.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+
+Here is Ammunition information for the BTR-70 (BTR M1978) Russian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 14.5.
+The Cartridge is 14.5×114 mm.
+The Muzzle Velocity is 1,005.
+The Armor Penetration is penetrates at 32 mm armored plate at a range of 500 m.
+The Basic Load is 500.
+
+Here is System information for the BTR-70 (BTR M1978) Russian 8x8 Amphibious Armored Personnel Carrier (APC) of the Coaxial Weapon System:
+The Name is 1 × turret-mounted 14.5mm KPVT machine gun
+
+1 × coaxial-mounted 7.62mm PKVT machine gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is Degtyaryov plant.
+The In Service is 1961-Present.
+The Length is 1,203.
+The Barrel Length is 605.
+The Weight is 9.
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 650.
+The Effective Firing Range is 1,000.
+The Maximum Firing Range is 3,800.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Tangent iron sights (default);
+Optical, Night-vision, Thermal and Radar sights.
+
+Here is Ammunition information for the BTR-70 (BTR M1978) Russian 8x8 Amphibious Armored Personnel Carrier (APC) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle velocity is 825.
+The Basic Load is 2,000.
+
+Here is Protection information for the BTR-70 (BTR M1978) Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Armor (turret front) is The maximum thickness of the hull is believed to be 10 mm, and the thinnest sections are thought to be 6 mm. This is sufficient to protect against standard 7.62 mm rounds fired at the front of the vehicle from most ranges and against the same projectiles fired at the sides of the vehicle from a range of 100 m.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is Yes.
+The Smoke Equipment is 6 x Smoke grenade launchers.
+The Survivability Equipment is No.
+The Central Tire Inflation System is Yes.
+The Self-Recovery Winch is Yes, standard.
+

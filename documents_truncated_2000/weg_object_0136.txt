@@ -1,0 +1,35 @@
+This document describes the SBR-3 (IRL 136) Russian Man-Portable Short-Range Ground-Surveillance Radar.
+
+The IRL 136, also known as the SBR-3, is a short-range, ground-surveillance, man portable-Doppler radar used to track moving targets including vehicles and personnel. The system consists of a power and control unit; flat-array antenna/transmitter, which can be remoted from the former during operations; battery pack; a scanning device; headphones; support cabling; and associated mounting frames and devices. The total system, which weighs about 40 lbs (18.3 kg), can be packaged in a backpack, and is capable of being carried by one soldier.
+
+This equipment has proliferated into the following countries: Bulgaria, Russian Federation.
+
+Here is Variants information for the SBR-3 (IRL 136) Russian Man-Portable Short-Range Ground-Surveillance Radar:
+The IRL-136/SBR-3 Fara is Russian-built version..
+The SSBR-3 Fara is Version built by Kintex of Bulgaria..
+
+Here is System information for the SBR-3 (IRL 136) Russian Man-Portable Short-Range Ground-Surveillance Radar:
+The Alternative Designation is SBR-3 Fara; IRL 136.
+The Type is Man-Portable Short-Range Ground-Surveillance Radar.
+The Crew is 1.
+The Manufacturer is Strela Research Institute, Russia (design)
+ Rosvoorouzhenie (IRL-136) (Russian state export company), Russia
+ Kintex, Bulgaria (under license as the Kintex Fara SSBR-3).
+The Band is J (10-20 GHz).
+The Emitted Power is 5 W.
+The Power Consumption is 50 W.
+The Coverage Area is 6 sq km.
+The Detection Range, Personnel is 2 km.
+The Detection Range, Vehicles is 4 km.
+The Moving Target Velocity Range is 0.55 to 13.9 m/sec.
+The Resolution Azimuth is 00-67 mils.
+The Resolution Range is 100 m.
+The Mean Time Between Failure (MTBF) is 1,000 hours.
+
+Here is Dimensions information for the SBR-3 (IRL 136) Russian Man-Portable Short-Range Ground-Surveillance Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is 18.3 kg.
+The Note is can be packaged in a backpack, and is capable of being carried by one soldier..
+

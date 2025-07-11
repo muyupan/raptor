@@ -1,0 +1,32 @@
+This document describes the 9S19 High Screen (9S19M Imbir) Russian Long-Range Sector Surveillance Radar System.
+
+The specialized 9S19 Imbir is a high-power-aperture, coherent, X-band phased array designed for the rapid acquisition and initial tracking of inbound ballistic missiles within a 90-degree sector. To that effect it uses a large passive phase technology transmissive array, using a conceptually similar space feed technique to the MPQ-53 and 30N6 series radars, producing a narrow 0.5º pencil beam main lobe. The primary search waveform is chirped to provide a very high pulse compression ratio intended to provide a very high range resolution of small targets.
+The design uses a 16 kiloWatt ave Travelling Wave Tube (TWT) source, very low sidelobes, and frequency hopping techniques to provide good resistance to jamming.
+
+Three primary operating modes are used. In the first the 9S19 scans a 90º sector in azimuth, between 26º and 75º in elevation, to detect inbound Pershing class IRBMs within a 40 to 95 nautical mile range box, feeding position and kinematic data for up to 16 targets to the 9S457 command post. In this mode, the transmissive array is tilted back to 35º.
+The second mode is intended to detect and track supersonic missiles such as the AGM-69 SRAM, and sweeps a narrower 60º sector in azimuth, between 9º and 50º in elevation, within a range box between 10 and 90 nautical miles, generating target position and velocity updates at 2-second intervals.
+The third mode is intended to acquire aircraft in severe jamming environments, with similar angular and range parameters to the second mode. In this mode, the transmissive array is tilted back to 15º.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the 9S19 High Screen (9S19M Imbir) Russian Long-Range Sector Surveillance Radar System of the System:
+The Name is 9S19 HIGH SCREEN Sector Radar system.
+The Type is Sector Surveillance Radar.
+The Purpose is The HIGH SCREEN sector radar supporst the ATBM role, providing surveillance of anticipated azimuths of threat missiles.
+The Crew is 4.
+The Mission is It is used to detect high speed targets, such as ballistic missile warheads.
+The Mode is Three primary operating modes are used. In the first the 9S19 scans a 90º sector in azimuth, between 26º and 75º in elevation, to detect inbound Pershing class IRBMs within a 40 to 95 nautical mile range box, feeding position and kinematic data for up to 16 targets to the 9S457 command post. In this mode the transmissive array is tilted back to 35º.
+The second mode is intended to detect and track supersonic missiles such as the AGM-69 SRAM, and sweeps a narrower 60º sector in azimuth, between 9º and 50º in elevation, within a range box between 10 and 90 nautical miles, generating target position and velocity updates at 2 second intervals.
+The third mode is intended to acquire aircraft in severe jamming environments, with similar angular and range parameters to the second mode. In this mode the transmissive array is tilted back to 15º..
+The Detection Range is 175.
+The Maximum Targets, Simultaneous is maximum being 16 simultaneous targets.
+The Waveband is Centimetric.
+The Maximum Elevation in Anti-Missile Mode is +73.
+The Minumum Elevation in Anti-Missile Mode is +30.
+The Maximum Elevation in Anti-Aircraft Mode is +50.
+The Minimum Elevation in Anti-Aircraft Mode is 0.
+The Scan Cycle is 12.5-14 seconds.
+The Number of Ballistic Targets tracked Simultaneously is up to 16.
+The Rate of Target Updates fed into the CP is 1-2 seconds.
+The Note is The radar is switches to a tracking mode when high speed targets are detected, automatically transmiting the trajectory parameters to the Command Post Vehicle.
+

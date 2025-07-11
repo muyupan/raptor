@@ -1,0 +1,110 @@
+This document describes the J-11BS (Flanker-L) Chinese Air Superiority Fighter.
+
+J-11BS – A twin-seat version of the J-11B. In 2012, the number of J-11B and J-11BS in service was over 120.
+
+The Shenyang J-11 (Chinese: 歼-11), with NATO reporting name Flanker-L, is a twin-engine jet fighter, whose airframe is based on the Soviet-designed Sukhoi Su-27 air superiority fighter. It is currently manufactured by the Shenyang Aircraft Corporation. The aircraft is operated by the People's Liberation Army Air Force (PLAAF) and the People's Liberation Army Naval Air Force (PLANAF) of China (PRC).
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the J-11BS (Flanker-L) Chinese Air Superiority Fighter:
+The J-11A is Chinese/Russian assembled Su-27SK from Russian-made kits. 104 were built. They were later upgraded with MAWS. Unconfirmed upgrades include improved cockpit displays, and fire control systems for R-77 or PL-10 missiles. It is also called J-11..
+The J-11B is An indigenously produced version using Chinese technology, and the first J-11 variant to use the WS-10A turbofan. The airframe is slightly lighter due to the greater use of composites. It has new avionics, a glass cockpit, MAWS, and an onboard oxygen generator system. Upgrading to AESA radar may have been planned. Photos of China's latest, very long-range PL-15 missile on a J-11B may well indicate the undergoing upgrades of AESA radar to the aircraft. More recently aircraft have been spotted with light grey radomes which may indicate ongoing upgrades..
+The J-11BS is A twin-seat version of the J-11B. In 2012, the number of J-11B and J-11BS in service was over 120..
+The J-11BH is Naval version of the J-11B. It was first sighted in May 2010..
+The J-11BSH is Naval version of the J-11BS..
+The J-15 is Carrier-based version based on the J-11B, incorporating structural elements from the Sukhoi Su-33 prototype purchased from Ukraine in 2001. It uses avionics from the J-11B..
+The J-16 is Twin-seat strike fighter based on Russian Sukhoi Su-30MKK sold to China in 2000. Further development of the J-11BS..
+The J-11D is A variant with fixed electronically scanned array radar, IRST, and the capability to fire heavier imaging/infrared (IIR) air-to-air missiles. The airframe makes greater use of composite materials, especially in the engine intakes for lower radar observability. The wings have three hardpoints each. Unconfirmed reports claim it has a new fly-by-wire control system, glass cockpit, improved EW systems, and an improved version of the WS-10A engine..
+
+Here is System information for the J-11BS (Flanker-L) Chinese Air Superiority Fighter:
+The Alternate Designation(s) is J-11BS (Flanker-L).
+The Primary Function / Type is Air Superiority Fighter.
+The Manufacturer is Shenyang Aircraft Corporation.
+The Crew is 2.
+The Number of Engines is 2.
+The Number of Hard Points is 0: 2 under fuselage, 2 under air ducts, 4 under wings, 2 on wingtips with provisions to carry combinations of:
+Missiles: PL-12; PL-9; PL-8; Vympel R-77; Vympel R-27; Vympel R-73.
+The Note is J-11BS – A twin-seat version of the J-11B..
+
+Here is Dimensions information for the J-11BS (Flanker-L) Chinese Air Superiority Fighter:
+The Length is 21.9 m.
+The Width (Wing Span) is 14.7 m.
+The Height is 5.92 m.
+The Wing Area is 52.84 m2.
+The Empty Weight is 16,380 kg.
+The Gross Weight is 23,926 kg.
+The Max Takeoff Weight is 33,000 kg.
+The Fuel Capacity, Internal Fuel Tank is 9,400 kg.
+
+Here is Automotive information for the J-11BS (Flanker-L) Chinese Air Superiority Fighter:
+The Engine Name is 2 × WS-10A turbofan.
+The Number of Engines is 2.
+The Engine Power is 75.22 / 123 kN (16,910 / 27,650 lbf) dry / afterburning.
+The Maximum Range is 3,530 km.
+The Maximum Speed is Mach 2.1.
+The Service Ceiling is 9,000 m.
+The Combat Range is 1,500 km.
+The G Limits is +9.
+The Rate of Climb is 300 m/s.
+
+Here is System information for the J-11BS (Flanker-L) Chinese Air Superiority Fighter of the Main Gun System:
+The Name is Gryazev-Shipunov GSh-30-1.
+The Type is Autocannon.
+The Caliber is 30.
+The Length is 1,978 mm.
+The Barrel Length is 1,500 mm.
+The Width is 156 mm.
+The Height is 185 mm.
+The Weight is 46 kg.
+The Barrels is 1.
+The Action is Short recoil operated.
+The Rate of Fire is 1,800 rounds/min.
+The Muzzle Velocity is 900 m/s.
+The Maximum Firing Range is 1,800 m.
+The Effective Firing Range is 200-1,800 m.
+
+Here is Ammunition information for the J-11BS (Flanker-L) Chinese Air Superiority Fighter of the Main Gun System:
+The Type is Autocannon.
+The Caliber is 30 mm.
+The Shell is 30×165mm.
+The Basic Load is 150 Rounds.
+
+Here is Main Missile System #1 information for the J-11BS (Flanker-L) Chinese Air Superiority Fighter of the Missile Systems:
+The Name is PL-9.
+The Type is Air-to-Air Missile.
+The Length is 2.9 m.
+The Diameter is 0.157 m.
+The Wingspan is 0.856 m.
+The Weight is 115 kg.
+The Warhead is 11.8 kg blast-frag, or expanding rod (RF-fuse).
+The Detonation Mechanism is laser proximity fuse.
+The Engine is Solid-fuel rocket.
+The Operational Range is 22 km.
+The Flight Altitude is 4.5 km.
+The Maximum Speed is Mach 2.0.
+The Guidance System is multi-element infrared.
+
+Here is Rocket Weapon Systems information for the J-11BS (Flanker-L) Chinese Air Superiority Fighter:
+The Note is Unguided rocket launcher.
+
+Here is Bomb Weapon Systems information for the J-11BS (Flanker-L) Chinese Air Superiority Fighter:
+The Note is Free-fall cluster bombs.
+
+Here is Fire Control / Avionics information for the J-11BS (Flanker-L) Chinese Air Superiority Fighter:
+The Fire Control Radar is NIIP Tikhomirov N001VE Myech coherent pulse Doppler radar. J-11B to be equipped with AESA radar..
+The Laser Desingator is INA.
+The Optic System is OEPS-27 electro-optic system.
+The HUD is NSts-27 helmet-mounted sight (HMS).
+The ECM is Gardeniya ECM pods.
+The Onboard Oxygen Generator System (OBOGS) is An Onboard Oxygen Generator System (OBOGS). Only the most recent Russian variants have an OBOGS..
+The MAWS System is An optical MAWS system claimed to operate in the UV band..
+
+Here is Protection information for the J-11BS (Flanker-L) Chinese Air Superiority Fighter:
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The Cockpit is A unique glass cockpit design, with an asymmetric layout quite different from the Su-30MKK/MK2 and Su-27SMK..
+The NBC Protection is Yes.
+The EW Counter Measures is Yes.
+The Chaffs/Flares is INA.
+

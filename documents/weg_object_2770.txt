@@ -1,0 +1,43 @@
+This document describes the M578 American Tracked Light Recovery Vehicle.
+
+The M578 American Tracked Light Recovery Vehicle is an American Cold War-era armored recovery vehicle.
+
+This equipment has proliferated into the following countries: Bahrain, Botswana, Brazil, Egypt, Iran (Islamic Republic of), Israel, Jordan, Morocco, Norway, Peru, Philippines, Portugal, Saudi Arabia, Spain, Turkey, Viet Nam, Yemen.
+
+Here is System information for the M578 American Tracked Light Recovery Vehicle:
+The Alternative Designation is M578.
+The Type is Light Recovery Vehicle.
+The Manufacturer is FMC Corporation.
+The Configuration is Track.
+The Crew is 3 (Crane operator in cab right front, Rigger in cab left front, Driver in hull left front).
+The Cab Rotation is 360°.
+The Winch is 13,600 kg.
+The Crane is 27,000 kg.
+
+Here is Dimensions information for the M578 American Tracked Light Recovery Vehicle:
+The Length is 5.583 m.
+The Width is 3.15 m.
+The Height is 2.629 m.
+The Weight, Combat is 26.5 tons.
+
+Here is Automotive information for the M578 American Tracked Light Recovery Vehicle:
+The Engine Name is General Motors 8V71T.
+The Engine Type is Supercharged Diesel.
+The Engine Power is 345 hp @ 2,300 rpm.
+The Maximum Range is 724 km.
+The Maximum Speed is 60 km/h.
+The Gradient is INA.
+The Side Slope is INA.
+The Vertical Step is INA.
+The Trench is INA.
+The Fording is INA.
+
+Here is Main Weapon System information for the M578 American Tracked Light Recovery Vehicle:
+The Note is 1 x 12.7 mm Heavy Machine Gun.
+
+Here is Protection information for the M578 American Tracked Light Recovery Vehicle:
+The Armor is 13 mm Steel.
+The Applique Armor is INA.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

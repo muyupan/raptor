@@ -1,0 +1,112 @@
+This document describes the WS-3 Chinese 400mm Guided Multiple Launcher Rocket System.
+
+The WS-3 is a Chinese-made 400mm high-precision guided MLRS / MGLRS (Multiple Launch Rocket System) designed and manufactured by Poly Technologies, based in Beijing, China. The WS-3 was unveiled during the Zhuhai Air Show in 2008. The WS-3 MGLRS is equipped with GPS/INS integrtaed navigation syetm and full range of control equipment to improve the firing accuracy. The canister-launcher system is mounted on a high-mobile cross-country truck chassis with multiple functions of storage, transport and launch. The control system of the WS-3 is composed of navigation controller, GNSS antenna, low noise amplifier, actuator system, onboard battery, power distributor, onboard cable and flight control software. The WS-2 artillery system has a preparation time of less than 7 minutes
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the WS-3 Chinese 400mm Guided Multiple Launcher Rocket System:
+The WS-1 is 100 km of Maximum Range Version..
+The WS-1B is 180 km of Maximum Range Version..
+The WS-2 is Guided MLRS with Range from 70 - 200 km Version..
+The WS-2B is Upgraded version with Long Range Capacity..
+The WS-2C is Upgraded version with GPS Guidance and 350 km Range..
+The WS-2D is Upgraded version with GPS Guidance and 400 km range and ability to launch lethal unmanned aerial vehicles..
+The WS-3A is Upgraded version of WS-3 with GPS/GLONASS.
+
+Here is System information for the WS-3 Chinese 400mm Guided Multiple Launcher Rocket System:
+The Alternative Designation is WS-3.
+The Type is High-Precision Guided Multiple Launch Rocket System
+MGLRS.
+The Crew is 6.
+The Chassis is TA5450 Cross-Country Truck.
+The Displacement Time is 12.
+The Emplacement Time is INA.
+The Time Required to Reload is INA.
+The Maximum Effective Range is 200.
+The Rocket Launcher is 400.
+The Rounds is 6.
+The Note is The WS-3 system is externally very similar to the WS-2 launcher, although the rockets are reportedly more accurate. Their respective ranges are both 40-124 mi (70-200 km). Some sources suggest that the WS-3 may have a range of more than 190 mi (300 km)..
+
+Here is Dimensions information for the WS-3 Chinese 400mm Guided Multiple Launcher Rocket System:
+The Length (WS-3 Only) is 7.15.
+The Diameter (WS-3 Only) is 10.40.
+The Height is INA.
+The Weight, (WS-3 Only) is 11.63.
+
+Here is Automotive information for the WS-3 Chinese 400mm Guided Multiple Launcher Rocket System:
+The NOTE is The WS-3 is mounted on a TA5450 Cross-Country Truck Chassis.
+The Engine Name is Deutz Diesel.
+The Engine Type is Diesel.
+The Engine Power is 517.
+The Cruising Range is 800.
+The Speed, Maximum Road is 80.
+The Speed, Average Cross is 70.
+The Cab is Air-conditioned forward control,
+fully enclosed, four-door cab and
+crew compartment to the rear..
+The Cab Seating is 1-5.
+The Gradient is 45.
+The Side Slope is 0.6.
+The Vertical Step is 2.
+The Fording is 1.1.
+The Variants to the TA5450 Cross Country Truck is Taian TA5350, Taian TA4360, Taian TA4410, Taian TA5690, Taian TA5801, Taian TA5920.
+
+Here is Communications information for the WS-3 Chinese 400mm Guided Multiple Launcher Rocket System:
+The Radio is INA.
+
+Here is System information for the WS-3 Chinese 400mm Guided Multiple Launcher Rocket System of the Main Gun:
+The Name is WS-3.
+The Type is Multiple Launch Rocket.
+The Rocket Length is 7.15.
+The Diameter is 0.40.
+The Number of Tubes is 6.
+The Launch Rate, Single Rocket Interval is 6.
+The Loader Type is Three cells each of two rockets in sealed containers.
+The Max Elevation is INA.
+The Min Elevation is INA.
+The Traverse Range is INA.
+The Traverse Left is INA.
+The Traverse Right is INA.
+
+Here is Ammunition information for the WS-3 Chinese 400mm Guided Multiple Launcher Rocket System of the Main Gun:
+The Type is Rocket.
+The Caliber is 400.
+The Muzzle Velocity is INA.
+The Fuse Type is INA.
+The Warhead Weight is 200.
+The Rocket length is 7.15.
+The Rockets per Launch Truck is 30-40.
+The Max Range is 200.
+The Min Range is 70.
+The Basic Load is 6.
+The Armor Penetration is Yes.
+The Accuracy (CEP) is 300.
+The Accuracy (with Strap-on GPS) is 50.
+The Available Warheads is HE, 540-Boblet Variant and Fuel-Air Explosive, Lethal Blasting, Cluster, And Blasting-Burning..
+
+Here is Fire Control information for the WS-3 Chinese 400mm Guided Multiple Launcher Rocket System:
+The Name is WS-3.
+The Computerized FCS is Yes.
+The Inertial Navigation System is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is INA.
+The Collimator is INA.
+The Position Location System is Yes.
+The Hydraulic Stabilisers is 4 (two on each side).
+The Preparation Time is less than 7.
+The Navigation Controller is Yes.
+The Antenna is GNSS.
+The Amplifier is Low Noise.
+The Actuator System is Yes.
+The Onboard Battery is Yes.
+The Power Distributor is Available.
+The Onboard Cable and Flight Control Software is Available.
+
+Here is Protection information for the WS-3 Chinese 400mm Guided Multiple Launcher Rocket System:
+The Armor is No Armor Protection.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

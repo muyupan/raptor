@@ -1,0 +1,59 @@
+This document describes the M1074 American 10x10 Joint Assault Bridge System (JABS).
+
+The M1074 Joint Assault Bridge System (JABS) is an armored military engineering vehicle based on the Abrams M1A1 main battle tank. The M1074 was designed by Leonardo DRS Technologies to provide deployable bridge capability for units engaged in military operations.
+
+The M1074 Truck, Palletized Loading, 10x10 is one of the US Military family of Palletized Load System (PLS) vehicles. General information about the PLS series is found on the linked page.
+
+The M1074 is equipped with a hydraulic Load Handling System (LHS) capable of self-loading and unloading. It is also equipped with a variable reach Grove PLS Material Handling Crane (MHC) to support forward-deployed artillery units or similar missions. It is equipped with a 20K capacity self-recovery side-mounted winch kit that can be deployed for forward or rearward towing.
+
+The bridge is an Armored vehicle-launched bridge (AVLB) Military Load Class 95 Scissor Bridge (MLC95). After the M1074 has deployed the bridge, assault force vehicles can cross over the bridge. The M1074 can cross over, pick up the bridge on the far bank and continue along in support of assault forces.
+
+The JABS was conceived as a compromise between the M104 Wolverine that was deemed too expensive to operate and the aging M60 AVLB which could not adequately support the Abrams and Bradley vehicles. The vehicle provides the Army Mobility Augmentation Companies supporting Armored Brigade Combat Teams with a survivable, deployable and sustainable heavy-assault-bridging capability. Prototype development began in May 2012 when the U.S. Army Contracting Command awarded General Dynamics Land Systems and Leonardo DRS a $26 million contract to build two Joint Assault Bridge System (JABS) prototypes. The contract supported the engineering and manufacturing development phase, with the GDLS prototype being built in Sterling Heights, Michigan and the Leonardo prototype built in West Plains, Missouri.
+
+The Army wanted the winner of the contract to include Anniston Army Depot's organic industrial base experience in the JAB's production. The XM1074 JABS prototypes were ready in 2014. They were delivered to Anniston Army Depot (ANAD) where they underwent testing and evaluation through 2016 with the Leonardo prototype being accepted as the M1074 in August. Leonardo DRS has a public-private partnership with Anniston Army Depot in Alabama to manage the M1 chassis assembly and worked with Israeli Military Industries (IMI) on the design and engineering of the bridge system, according to a DRS statement. On August 23, 2016, DRS Technologies, Inc., announced that the U.S. Army had awarded it an indefinite quantity contract worth up to $400 million to build the new Joint Assault Bridge System (JABS). The Army has placed an initial order for 168 vehicles and the Marines for 29.
+
+The JABS completed its low-rate production phase from 2016 to 2018 with a total of 51 vehicles. ANAD produced 10 in fiscal year 2016, 14 in 2017 and an additional 27 in 2018. These first JABSs underwent exploitation and fire survivability testing at the Aberdeen Test Center. These tests finalized the current configuration for full-rate production and evaluated some configuration changes in the design for crew protection. United States Army Operational Test Command, Fort Hood began conducting operational testing in April 2019, with the 40th Brigade Engineer Battalion, 2nd Armored Brigade Combat team, 1st Armored Division. Full-rate production is scheduled to start in 2019 and expected to be completed by May 2024. The M1074 JABS will replace the M60 AVLB and M104 Wolverine on a one-for-one basis in the US Army, Army National Guard and the US Marines Corps.
+
+The M1074 Joint Assault Bridge System (JABS) is based on the hull of the M1A1 version of the M1 Abrams main battle tank using the suspension system from the M1A2 and upgraded with the Total InterGrated Engine Revitalization (TIGER). This is projected to lower maintenance costs as well as increased availability and unit readiness with commonality of parts with the Abrams chassis. The unit has a new hydraulic bridge launcher system as well as Embedded Diagnostics (ED). Survivability is enhanced with components of the Tank Urban Survivability Kit (TUSK) including Abrams Reactive Armor Tile (ARAT1), Rear Viewer Sensor System (RVSS) and Tank-Infantry Phone (TIP). Additionally it can employ the AUTOFLUG Driver's Seat and Abrams Lightweight Underbody Kit for situational use.
+
+The Bridge Launcher Mechanism (BLM) was designed by Israel Military Industries in conjunction with Leonardo DRS. The bridging controls are a basic push-button system, similar to the M104 Wolverine, while the computer assembles the bridge and deploys it. The bridge extends its span vertically instead of horizontally as the M104 Wolverine. It can deploy an MLC95 bridge with a gap crossing of 11 meters in approximately 3 minutes.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the M1074 American 10x10 Joint Assault Bridge System (JABS):
+The Alternative Designation is M1074 Joint Assault Bridge System (JABS).
+The Type is Joint Assault Bridge System (JABS).
+The Manufacturer is Leonardo DRS Technologies West Plains, Missouri
+Anniston Army Depot (final assembly).
+The Crew is 2.
+The Payload Capacity is 1× scissors-type folding bridge MLC95.
+The Bridge Type is MLC95.
+
+Here is Dimensions information for the M1074 American 10x10 Joint Assault Bridge System (JABS):
+The Vehicle Length with Bridge is 9.83 m.
+The MLC95 Folding Scissors Bridge Length is 11.7 meters.
+The Width is 3.66 m.
+The Height, Hull is 1.71 m.
+The Height, with Bridge is 3.08 m.
+The Weight is 68.7 tons.
+The Bridge Weight is 15 tons.
+
+Here is Automotive information for the M1074 American 10x10 Joint Assault Bridge System (JABS):
+The Engine Name is Honeywell AGT1500C.
+The Engine Type is Multi-fuel turbine engine.
+The Engine Power is 1,500 shp.
+The Transmission is Allison DDA X-1100-3B (4 forward 2 reverse gears).
+The Maximum Speed, Road is 72 km/h.
+The Maximum Speed, Off-Road is 48 km/h.
+The Operational Range is 418.2 km.
+The Fuel Capacity is 1,900 liters.
+The Suspension is High-hardness-steel torsion bars with rotary shock absorbers.
+The Ground Clearance is 0.48 m.
+
+Here is Protection information for the M1074 American 10x10 Joint Assault Bridge System (JABS):
+The Hull Armor is Burlington composite armor.
+The Applique Armor is INA.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

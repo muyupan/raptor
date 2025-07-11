@@ -1,0 +1,180 @@
+This document describes the Ka-50 Black Shark (Hokum A) Russian Attack Helicopter.
+
+The Ka-50, also nicknamed the Chernaya Akula (Black Shark) was a Soviet attack helicopter. Its NATO reporting name was Hokum. The Ka-50 was planned as a rival to the Mi-28 in a competition to provide the Soviet armed forces with a new battlefield attack helicopter. Kamov opted for a single-crew layout to save weight for more armor, more powerful armament, and a greater number of advanced sensors. The first of three V-80 prototypes made its maiden flight on 17 June 1982. In October 1986 the Ka-50 was selected for production. With the collapse of the Soviet Union, Russia faced military budget cuts. Production of the original Ka-50 was stopped with only around 10 of these helicopters ever built. In 2000 a pair of production Ka-50 helicopters was used during the Second Chechen War, where these gunships were basically tested by the Russian military to evaluate the type. However the original Ka-50 never reached full operational capability.
+
+If the Ka-50 is to operate at night, it must be equipped with a Saturn night targeting pod. This pod takes up one of the underwing pylons.
+
+This Ka-50 never entered full rate production and subsequently never fielded beyond several prototypes delivered for operational testing. Only a handful of prototypes exist and have not yet been approved for additional production. It is assessed the KA-50 prototypes remain in limited service with the Russian Air Force.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Ka-50 Black Shark (Hokum A) Russian Attack Helicopter:
+The Kamov V-80 is Prototype version for Ka-50..
+The Kamov Ka-50 is Single-seat version..
+The Kamov Ka-50N is Ka-50 with night attack capability..
+The Kamov Ka-50Sh is Ka-50 with improved night attack capability..
+The Kamov Ka-50-2 "Erdogan" is Version with a two-seat tandem cockpit..
+The Kamov Ka-52 "Alligator" is Highly upgraded version with a two-seat side-by-side cockpit for the Russian Air Force..
+The Kamov Ka-52K "Katran" is Naval version with folding blade and reinforced landing gear, wing shortened for basing on ships and the possibility of using Kh-35 anti-ship missile..
+
+Here is System information for the Ka-50 Black Shark (Hokum A) Russian Attack Helicopter:
+The Alternative Designation is Kamov Ka-50 "Black Shark", Hokum A.
+The Type is Single-seat attack helicopter.
+The Manufacturer is Kamov.
+The In Service is 1995-Present.
+The Crew is 1.
+The Blades, Main Rotor is Each rotor has three blades with swept tips.
+The Blades, Tail Rotor is No tail rotor necessary in this configuration.
+The Number of Engines is 2.
+The Day/Night Capable is The Ka-50N Night Shark was developed to overcome the challenges of operating at night that the ka-50 has..
+The All Weather Capable is Yes.
+The Takeoff or Landing Limitations is INA.
+The Number of Hard Points is 4 (6 on Ka-52) under-wing hardpoints, plus 2 on wingtips for countermeasures or air-to-air missiles with a capacity of 2,000 kg.
+The Digital Autopilot is Yes.
+The Maximum Pylons Capacity is 2,300 kg.
+The Landing Gear is Two-wheel nose landing gear retracts to the rear under the cockpit.
+The Note #1 is The lack of a tail rotor enables the aircraft to perform flat turns within the entire flight speed range.
+The Note #2 is If the Ka-50 is to operate at night, it must be equipped with a Saturn night targeting pod. This pod takes up one of the underwing pylons.
+
+Here is Dimensions information for the Ka-50 Black Shark (Hokum A) Russian Attack Helicopter:
+The Length with Rotors is 16.
+The Rotor Diameter is 14.50.
+The Wingspan is 7.30.
+The Height is 4.90.
+The Weight, Empty is 7,692.
+The Weight, Takeoff Normal is 9,800.
+The Weight, Takeoff Maximum is 10,800.
+The Disc Area is 330.4 m sq.
+
+Here is Automotive information for the Ka-50 Black Shark (Hokum A) Russian Attack Helicopter:
+The Engine Name is 2 x turboshaft Klimov TV3-117VMA.
+The Engine Type is Turboshaft.
+The Engine Power is 2,200 shaft hp each.
+The Speed, Maximum Level is 315.
+The Speed, Maximum Dive is 350.
+The Speed, Cruise is 270.
+The Speed, Backwards is 90.
+The Speed, Sideways is 70.
+The Range, Combat Radius is 250.
+The Range, Normal Radius is 460.
+The Range, Ferry is 1,160.
+The Climb Rate is 600 m/min.
+The Ceiling Hover is 4,000.
+The Ceiling Service is 5,500.
+The Load Factor is 3.5 g (max vertical).
+The Endurance is 3 Hours.
+
+Here is Communications information for the Ka-50 Black Shark (Hokum A) Russian Attack Helicopter:
+The Radio is INA.
+
+Here is System information for the Ka-50 Black Shark (Hokum A) Russian Attack Helicopter of the Chin Mounted Gun:
+The Name is Shipunov 2A42,.
+The Type is 30mm Autocannon.
+The Manufacturer is Tulamashzavod.
+The In Service is 1980-Present.
+The Length is 3.027.
+The Barrel Length is 2,416.
+The Barrels is 1.
+The Action is Gas-operated.
+The Rate of Fire, Low is 200 to 300 rds/min.
+The Rate of Fire, High is 550-800 rds/min (high).
+The Effective Firing Range (AP-t) is 2,000.
+The Maximum Firing Range (HEI) is 4,000.
+The Feed System is Twin Feed.
+
+Here is Ammunition information for the Ka-50 Black Shark (Hokum A) Russian Attack Helicopter of the Chin Mounted Gun:
+The Name is 3UOF8.
+The Type is HEI.
+The Caliber is 30.
+The Cartridge is 30 × 165.
+The Muzzle Velocity is 960.
+The Basic Load is 2,000.
+The Armor Penetration is INA.
+The Projectile Weight is 389.
+The Bursting Charge is 49.
+The Note is A high-explosive incendiary round with A-670M nose fuse.[10] The fuse produces a 0.15 millisecond delay on impact, and a self-destruct mechanism detonating the projectile after 7.5 to 14.5 seconds of flight (3900–5300 m distance from muzzle)..
+
+Here is Rocket System information for the Ka-50 Black Shark (Hokum A) Russian Attack Helicopter of the Wing Mounted Weapons:
+The Name is S-8 Rocket.
+The Type is Rocket.
+The Rocket Pod Type is B series of rocket pods, carrying either seven or 20 rockets..
+The Number of Rocket Pods is 4.
+The Rocket Length is 1.56.
+The Rocket Diameter is 80.
+The Launch Weight is 11.5.
+The Warhead Type is HEAT.
+The Warhead Weight is 3.6.
+The Basic Load is 80 separate S-80 Rockets in four B-8 Series Rocket Pods.
+The Maximum Effective Range is 4.
+The Minimum Effective Range is 1.3.
+The Speed is 692.
+The Armor Penetration is 350 mm versus RHA.
+The Fuze Type is N-26A fuze.
+The Motor is BIK-2D motor powder.
+
+Here is Missile System information for the Ka-50 Black Shark (Hokum A) Russian Attack Helicopter of the Wing Mounted Weapons:
+The Name is R-60 Missile (AA-8 Aphid").
+The Type is Short-range lightweight infrared homing air-to-air missile.
+The In Service is 1974-Present.
+The Manufacturer is Vympel.
+The Length is 2,090.
+The Diameter is 120.
+The Wingspan is 390.
+The Basic Load is INA.
+The Warhead Type is 3.
+The Detonation mechanism is Proximity.
+The Engine is Solid-fuel rocket engine.
+The Operational Range is 8.
+The Flight Altitude is 20,000.
+The Speed is Mach 2.7.
+The Guidance System is Infrared Homing.
+The Note is The Ka-50 can also carry the   R-73 (AA-11 Archer) Missile.
+
+Here is Anti-Tank Guided Missile System information for the Ka-50 Black Shark (Hokum A) Russian Attack Helicopter of the Wing Mounted Weapons:
+The Name is 9K121 Vikhr (AT-16 Scallion).
+The Type is Laser-Guided ATGM Missile.
+The In Service is 1985-Present.
+The Length is 2.80.
+The Diameter is 130.
+The Wingspan is 380.
+The Missile Weight is 45.
+The Warhead Type is Tandem HEAT charge.
+The Warhead Weight is 8-12.
+The Armor Penetration (ERA) is 1,000.
+The Basic Load is 12.
+The Detonation Mechanism is Proximity and Impact.
+The Engine is Solid-fuel rocket.
+The Propellant is Sold Fuel.
+The Operational Range is 10-12.
+The Speed is 600.
+The Guidance System is Laser beam riding.
+The Note is The Ka-50 can also carry 9M120 Ataka (Spiral-2) ATGMs..
+
+Here is Fire Control information for the Ka-50 Black Shark (Hokum A) Russian Attack Helicopter:
+The Fire Control System Type is INA.
+The Fire Control Radar is Millimeter wave radar.
+The Digital or Analog Cockpit is Digital.
+The Direct Fire Control is Yes.
+The Laser Designator is Yes.
+The Laser Rangefinder is Yes.
+The Night Vision is Electro-optical sight; takes one pylon slot.
+The Position Location System is Yes.
+The IFF is Yes, Slap Shot System.
+The Heads Up Display (HUD) is Yes.
+The Helmet-Mounted Display is Yes.
+The Data Link is Yes, with ground units.
+
+Here is Protection information for the Ka-50 Black Shark (Hokum A) Russian Attack Helicopter:
+The Armor is Protection against 12.7-mm armor-piercing bullets and 23-mm projectile fragments.
+The Cockpit Glass is INA.
+The Stealth Properties is No.
+The Heat Signature Reduction is Yes, Exhaust infrared (IR) suppressors.
+The Add on Armor is INA.
+The NBC Protection is Yes.
+The EW Counter System is Yes.
+The Counter Measures (Chaff/Flares) is Yes, launchers in wingtip pods.
+The Ejection System is K-37-800 rocket-assisted.
+The Automatic Fire Suppression System is Yes.
+The Note #1 is Extensive provision of steel armor adds 770 lb (350 kg) to aircraft weight..
+The Note #2 is Armored, self-sealing composite fuel cells are buried in the fuselage..
+

@@ -1,0 +1,27 @@
+This document describes the SSM-700K Haeseong (C-Star) South Korean Short-Range Anti-Ship Cruise Missile.
+
+The SSM-700K Haeseong (C-Star) Anti-ship Missile is a ship launched sea-skimming surface-to-surface anti-ship cruise missile developed by the South Korean Agency for Defense Development (ADD), LIG Nex1 and the Republic of Korea Navy in 2003. The missiles are deployed on KDX-II and KDX-III destroyers as of 2006, each carrying 8 and 16 of the missiles respectively, and on Ulsan-class frigates.
+
+This equipment has proliferated into the following countries: Colombia, Philippines, South Korea (Republic of Korea).
+
+Here is Variants information for the SSM-700K Haeseong (C-Star) South Korean Short-Range Anti-Ship Cruise Missile:
+The SSM-700K is Initial production model, with imported Ku-band seeker, SS-760K turbojet engine (based on Russian R9TP-300).
+The SSM-710K is Current model with domestic Ku-band seeker, SSE-750K turbojet engine and other upgrades.
+The SSM-750K is Land attack version of the SSM-710K. Ku-band seeker replaced with GPS/INS guidance package.
+
+Here is SSM-700K Haeseong (C-Star) Anti-Ship Cruise Missile information for the SSM-700K Haeseong (C-Star) South Korean Short-Range Anti-Ship Cruise Missile of the System:
+The Name is SSM-700K Haeseong (C-Star).
+The Type is Anti-Ship Cruise Missile.
+The Manufacturer is LIG Nex1
+Hanwha Techwin Samsung.
+The Length is 5.46 m.
+The Width is 0.34 m.
+The Weight is 718 kg (with launcher:1,016kg).
+The Warhead Weight is 250 kg.
+The Detonation Mechanism is Impact fuze.
+The Engine is Samsung Techwin SS-760K turbofan (or a Daewoo or Hyundai alternative motor).
+The Operational Range is 180 km ~ 200 km.
+The Flight Altitude is Sea-skimming.
+The Maximum Speed is 1162.8 km/h (Mach 0.95).
+The Guidance System is Inertial guidance / terminal active radar homing.
+

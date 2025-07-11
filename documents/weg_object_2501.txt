@@ -1,0 +1,67 @@
+This document describes the Eagle II Swiss 4x4 Reconnaissance Vehicle.
+
+The Eagle II Swiss 4x4 Reconnaissance Vehicle is slightly heavier than the Eagle I with a better power-to-weight ratio. The chassis is based on the enhanced capability vehicle (ECV) Humvee. It is fitted with a metal and composite armor shell capable of withstanding NATO Standard Agreement (STANAG) Level II or III threats. A Mowag armored MBk2 observation cupola is fitted.
+
+This equipment has proliferated into the following countries: Switzerland.
+
+Here is Variants information for the Eagle II Swiss 4x4 Reconnaissance Vehicle:
+The Eagle I is INA.
+The Eagle II Reconnaissance Vehicle is This variant is slightly heavier than the Eagle I with a better power-to-weight ratio. The chassis is based on the enhanced capability vehicle (ECV) Humvee. It is fitted with a metal and composite armor shell capable of withstanding NATO Standard Agreement (STANAG) Level II or III threats. A Mowag armored MBk2 observation cupola is fitted..
+The Eagle III Artillery Forward Observation Vehicle is This vehicle is used for target surveillance, acquisition, observation, reconnaissance and patrol missions. It carries a crew of four (driver, surveyor, forward observer and signals operator). Panoramic bulletproof windows ring the vehicle, which is fitted with a raised roof. It is protected by high-hardness armored steel and composite armor. Additional mine protection is available as an option..
+The Eagle IV Military Tactical Vehicle is The military tactical vehicle is suited as a platform for mission roles such as reconnaissance, surveillance, command or military police tasks. It is based on the advanced Mowag Duro 3 chassis technology with roll stabilizer and the De-Dion axle system. Along with the permanent all-wheel drive system, the roll stabilizer and axle system help give the vehicle high off- and on-road mobility..
+The Eagle V is This is a further development of the Eagle IV with a larger payload capacity, internal volume and increased crew protection, while providing the same mobility. The vehicles can be optimized for different missions with the application of modular add-on kits. It is available in 4 x 4 and 6 x 6 variants. The former was made public in 2010 and the latter in 2012. The two variants are about 80 percent common..
+The Eagle BAT ambulance is This ambulance accommodates an emergency doctor, rescue assistant and a driver/paramedic. The vehicle permits patient transport and emergency treatment under protection..
+The Eagle V 6 x 6 is The is a 6 x6 compact off-road vehicle powered by a six-cylinder turbo-diesel engine coupled to a five-speed automatic transmission and a two-stage transfer case..
+The VERO robotics kit is Developed by Ruag Defence in Switzerland, this is a robotics kit that can be retrofitted onto the Eagle IV, among other vehicles..
+
+Here is System information for the Eagle II Swiss 4x4 Reconnaissance Vehicle:
+The Alternative Designation is Eagle II.
+The Type is Reconnaissance Vehicle.
+The Manufacturer is General Dynamics European Land Systems-Mowag, Kreuzlingen, Switzerland
+ General Dynamics European land Systems-Germany, Kaiserslautern, Germany.
+The Family is Eagle Series.
+The Crew is 4 (driver, commander, signals operator, observer).
+The Passenger Capacity is INA.
+
+Here is Dimensions information for the Eagle II Swiss 4x4 Reconnaissance Vehicle:
+The Length is 4.90 m.
+The Width is 2.28 m.
+The Height is 1.75 m.
+The Weight, Combat is 5,500 kg.
+The Weight, Empty is 4,100 kg.
+The Weight, Maximum Axle Load Front is 2,600 kg.
+The Weight, Maximum Axle Load Rear is 3,200 kg.
+The Payload Weight is 1,400 kg.
+
+Here is Automotive information for the Eagle II Swiss 4x4 Reconnaissance Vehicle:
+The Engine Name is 1 x GM LNA.
+The Engine Type is 6.5 liter (397 cu in) turbo four-stroke V8 diesel.
+The Engine Power is 190 hp at 3,400 rpm.
+The Fuel Capacity is 95 liters.
+The Transmission is Hydramatic 4L80E automatic; 4 forward/1 reverse gears.
+The Range is 450.
+The Speed, Maximum Road is 125.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is 0.76 m.
+The Gradient is 60 percent.
+The Side Slope is 40 percent.
+
+Here is Main Gun information for the Eagle II Swiss 4x4 Reconnaissance Vehicle:
+The Note is 1 x 7.62-mm machine gun facing forward in turret. Name of 7.62mm Machine Gun: INA.
+
+Here is Fire Control information for the Eagle II Swiss 4x4 Reconnaissance Vehicle:
+The Name is INA.
+The Computerized FCS is No.
+The Main Gun Stabilization is No.
+
+Here is Protection information for the Eagle II Swiss 4x4 Reconnaissance Vehicle:
+The Hull Armor is Protection against 5.56-mm and 7.62-mm ball ammo from 33 yds (30 m) and up; and protection against 7.62-mm steel jacket ammo from 109 yds (100 m) and up.
+The Turret Armor is Protection against 5.56-mm and 7.62-mm ball ammo from 33 yds (30 m) and up; and protection against 7.62-mm steel jacket ammo from 109 yds (100 m) and up.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is Yes, Overpressure System.
+The Smoke Equipment is INA.
+

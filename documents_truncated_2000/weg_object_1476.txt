@@ -1,0 +1,83 @@
+This document describes the Krabi Class Thai Offshore Patrol Vessel.
+
+The Krabi Class Thai Offshore Patrol Vessel is an offshore patrol vessel (OPV) of the Royal Thai Navy. She is a modified River-class patrol vessel and was built by Mahidol Adulyadej Naval Dockyard, with design and technology transfer support from BAE Systems Surface Ships.
+
+This equipment has proliferated into the following countries: Thailand.
+
+Here is Variants information for the Krabi Class Thai Offshore Patrol Vessel:
+The HTMS Krabi is Commissioned: 2013
+Status: Active.
+The HTMS Prachuap Khiri Khan is Commissioned: 2017
+Status: Active.
+
+Here is System information for the Krabi Class Thai Offshore Patrol Vessel:
+The Alternative Designation is Krabi Class.
+The Type is Offshore Patrol Vessel.
+The Builder is Mahidol Adulyadej Naval Dockyard.
+The Crew is INA.
+
+Here is Dimensions information for the Krabi Class Thai Offshore Patrol Vessel:
+The Length is 90.5 m.
+The Beam is 13.5 m.
+The Draft is INA.
+The Displacement, Standard is INA.
+The Displacement, Fully Loaded is 2,000 tons.
+
+Here is Propulsion System information for the Krabi Class Thai Offshore Patrol Vessel:
+The Engine Name is 2 × MAN 16V28/33D.
+The Engine Type is Diesel.
+The Engine Power is 4,700 kW /1 0,950 HP.
+The Generators is INA.
+The Propellers is 2.
+The Maximum Range is 5,500 nmi (10,200 km).
+The Maximum Speed is 25 kn (46 km/h).
+
+Here is Gun Weapon System #1 information for the Krabi Class Thai Offshore Patrol Vessel of the Gun Weapon Systems:
+The Name is 1 x OTO Melara 76mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 76 mm.
+The Barrel Length is 4,724.4 mm.
+The Weight is 7.5 tons.
+The Crew is Remote Controlled.
+The Elevation is −15°/+85°
+speed: 35°/s (acceleration: 72°/s²).
+The Traverse is 360°
+speed: 60°/s (acceleration: 72°/s²).
+The Rate of Fire is Compact: 85 rounds/min
+Super Rapid: 120 rounds/min.
+The Maximum Firing Range is 915 m/s.
+The Muzzle Velocity is HE-PFF 16,000 m
+SAPOMER 20,000 m
+VULCANO 40,000 m.
+The Feed System is Magazine capacity:
+80 ready rounds on Compact gun mount.
+
+Here is Gun Weapon System #1 Ammunition information for the Krabi Class Thai Offshore Patrol Vessel of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.
+The Shell is 76×636mmR.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Krabi Class Thai Offshore Patrol Vessel of the Gun Weapon Systems:
+The Note is 2 × 30mm MSI guns.
+
+Here is Gun Weapon System #3 information for the Krabi Class Thai Offshore Patrol Vessel of the Gun Weapon Systems:
+The Note is 2 × Machine guns.
+
+Here is Fire Control Systems information for the Krabi Class Thai Offshore Patrol Vessel:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+
+Here is Radar Systems information for the Krabi Class Thai Offshore Patrol Vessel:
+The Surveillance Radar is 1 x Thales Variant surveillance radar.
+
+Here is Aviation Facilities information for the Krabi Class Thai Offshore Patrol Vessel:
+The Aircraft is 1 x   H145M helicopter.
+The Flight Deck is 20 meter flight deck.
+
+Here is Protection information for the Krabi Class Thai Offshore Patrol Vessel:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+The EW is INA.
+

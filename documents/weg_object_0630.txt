@@ -1,0 +1,40 @@
+This document describes the R-187-P1E AZART Russian Handheld Tactical Radio.
+
+The R-187-P1E AZART is a multi-mode tactical team radio with programmable security architecture and provides voice and data communication in VHF and UHF frequency ranges. The radio is a dual channel wideband transceiver that can be integrated with the Terrestrial Trunked Radio (TETRA) communication system allowing it to communicate with external parties in TETRA networks. The R-187-P1E is a software defined radio (SDR) and has frequency hopping capability. It also has embedded GLONASS and GPS capabilities, and can exchange user location information.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the R-187-P1E AZART Russian Handheld Tactical Radio:
+The R-187VE is Next generation radio in the AZART family of handheld tactical radios. The R-187VE is planned to be compatible with the R-187-P1E and provides multi-band High Frequency (HF) communications across a 1.5 megahertz/MHz to 30MHz waveband, Very High Frequency (VHF) communications across a waveband of 30MHz to 180MHz and three Ultra High Frequency (UHF) waveband options of 220MHz to 470MHz, 550MHz to 1.25 gigahertz/GHz and 1.65GHz to 2.5GHz. All of these wavebands are expected to have one kilohertz channel spacing and power output levels between ten watts/W up to 100W, according to the waveband. Similarly data rates differ, with 9.6 kilobits-per-second (kbps) achievable across HF, 255kbps achievable using VHF with between two megabits-per-second (mbps) and 32mbps achievable using UHF. The company’s official literature states that the radio can achieve a range of 500 kilometers/km (310.7 miles) in HF, and between five kilometers (3.1 miles) up to 20km (12.4 miles) using V/UHF. The R-187VE is also expected to perform100 hops-per-second, although rates of up to 20,000 hops-per-second are achievable with V/UHF, and will use proprietary Russian Army waveforms. Other waveforms can be ported into the transceiver including simplex and duplex voice communications, high speed data, video, navigational information and that the radio can support a network hosting up to 16,000 subscribers..
+
+Here is System information for the R-187-P1E AZART Russian Handheld Tactical Radio:
+The Alternate Designation is R-187-P1E Tactical Radio, Squad/Platoon Tactical Radio.
+The Type is Tactical, Handheld, Software-defined Radio (SDR).
+The Family is Ratnik Future Soldier System.
+The Manufacturer is NPO Angstrem.
+The Digital is Yes.
+
+Here is Dimensions information for the R-187-P1E AZART Russian Handheld Tactical Radio:
+The Height is 192 mm (without antenna).
+The Width is 65 mm.
+The Diameter is 37 mm.
+The Weight is 500 g (with battery).
+
+Here is Performance information for the R-187-P1E AZART Russian Handheld Tactical Radio:
+The Waveform is Proprietary (Russian Army).
+The Frequency Range is 27 - 530 Mhz.
+The Operational Range is 5 - 20 Km.
+The Number of Channels is 2.
+The Channel Bandwidth (VHF) is 1, 6.25 or 8.33 kHz.
+The Channel Bandwidth (UHF) is 25 kHz.
+The Data Rate is 256 Kbps (reduced to 28 Kbps in frequency hop mode).
+The Battery is Li-ion battery (2 types: 6 Ah and 12 Ah).
+The Battery Life is 12 hrs.
+The Satellite Receiver is Yes, using GLONASS and GPS.
+The Extended Network is Yes, compatible with TETRA (Terrestrial Trunked Radio) standard using Time Division Multiple Access (TDMA)..
+
+Here is Protection information for the R-187-P1E AZART Russian Handheld Tactical Radio:
+The Encryption is Yes.
+The Frequency Hop is Yes (20,000 hops/s).
+The ECCM Mode is Yes.
+

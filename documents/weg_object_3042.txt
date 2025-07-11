@@ -1,0 +1,46 @@
+This document describes the Ironclad Ukrainian 4x4 Unmanned Ground Vehicles (UGV).
+
+The Ironclad Ukrainian 4x4 Unmanned Ground Vehicles (UGV) comprise two articulated units designed to improve maneuverability in confined environments. Ironclad can be integrated with reconnaissance systems, UAVs, and quadcopters. The platform can also be used to launch UAVs from its tactical drone landing pad.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the Ironclad Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Alternative Designation is Ironclad.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is Roboneers.
+The Configuration is 4x4.
+The Crew is Unmanned.
+The Operator is The UGV’s remote control is enabled via a secure radio control channel but also has a backup fiber-optic line..
+The Software is C4IVISION operates the control and navigation of the system..
+The Cameras is Six cameras are mounted on the chassis of the Ironclad. The platform is also equipped with daylight cameras, a thermal camera, and a laser rangefinder. A mast-mounted 360° elevated camera provides situational awareness..
+The Payload Capacity is 200 kg.
+
+Here is Dimensions information for the Ironclad Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Length is 2.57 m.
+The Width is 1.7 m.
+The Height is 0.95 m.
+The Weight, Combat is 1,100 kg.
+The Ground Clearance is 40 cm.
+
+Here is Automotive information for the Ironclad Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Engine Name is INA.
+The Engine Type is The Ironclad is now fitted with a 15 kWh cooled battery pack to the rear module and 15 kW liquid-cooled diesel generator in the front section..
+The Engine Power is INA.
+The Amphibious is No.
+The Maximum Speed is 20 km/h.
+The Maximum Gradient is 30 deg.
+The Side Slope is 33 deg.
+The Endurance is 10 hours depending on payload.
+
+Here is Communications information for the Ironclad Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Note is Remote control is enabled via a secure radio control channel (BRRS radio) with backup fibre-optic tether. Each Ironclad radio system extends the reach of the network coverage and allows for the connection of additional MESH nodes..
+
+Here is Main Weapon System information for the Ironclad Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Weapon Systems is The prototype Ironclad front unit was shown fitted with a Shablya remote weapon station (RWS) mounted on top, which has an interchangeable weapon cradle that allows for the installation of standard 12.6 and 7.62 caliber machine guns (MGs)..
+The Turret Angle of Elevation is 10 deg to 45 deg.
+The Turret Traverse is 360 deg.
+
+Here is Protection information for the Ironclad Ukrainian 4x4 Unmanned Ground Vehicles (UGV):
+The Armor is The modular layered armour of the vehicle allows quick replacement of damaged parts and offers protection against 7.62 mm bullets. The diesel and battery capsules are both fitted with additional protection..
+The Applique Armor is INA.
+

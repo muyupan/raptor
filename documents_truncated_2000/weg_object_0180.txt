@@ -1,0 +1,42 @@
+This document describes the AN/TPQ-53 (EQ-36) American Counterfire Target Acquisition Radar.
+
+The AN/TPQ-53 (EQ-36) American Counterfire Target Acquisition Radar provides enhanced flexibility by incorporating Battle Command Systems (BCS) and the system is capable of being deployed as part of the Indirect Fire Protection Capability (IFPC) system of systems (SoS) to provide a warning capability for fixed and semi-fixed sites. As such, the radar is equipped with an active-array antenna that the cited sources report as having been based on transmit/receive (T/R) module technology that was developed for SRCʼs Advanced Technology Objective (ATO) radar. TPQ-53 radars consist of 1,024 T/R modules in groups of eight, called an octapack. These modules use gallium arsenide (GaAs) high-power amplifiers.
+
+This equipment has proliferated into the following countries: Romania, Saudi Arabia, Singapore, United States of America.
+
+Here is System information for the AN/TPQ-53 (EQ-36) American Counterfire Target Acquisition Radar:
+The Alternative Designation is AN/TPQ-53; EQ-36.
+The Type is Counterfire Target Acquisition Radar.
+The Manufacturer is Lockheed Martin.
+The Crew is INA.
+The Capabilities is Detects and Classifies Hostile Indirect Fire; Rockets, Artillery and Mortars. • Reports Launch and Impact Point Locations. Provides Friendly Fire Registration. Links to Shooters (through AFATDS and
+FAADC2)..
+The Antenna is Phased-array.
+The Operating Frequency is 2–4 GHz (S-band).
+The Maximum Coverage Range, Rockets at 90° mode is 60 km.
+The Maximum Coverage Range, Artillery at 90° mode is 34 km.
+The Maximum Coverage Range, Mortars at 90° mode is 20 km.
+The Maximum Coverage Range, Rockets, Artillery, and Mortars at 360° mode is 20 km.
+The Azimuth is 90° (sector); 360°.
+The Power is 60 kW (one primary, one backup, nominal, supply).
+The Transmitter is Solid State.
+The Interface is Wireless, fiber optic, AFATDS, FAADC2 capable.
+The Emplacement Time is 5 min.
+The Displacement Time is 2 min.
+
+Here is Dimensions information for the AN/TPQ-53 (EQ-36) American Counterfire Target Acquisition Radar:
+The Length is 6.93 m.
+The Width is 2.43 m.
+The Height is 2.84 m.
+The Weight, Combat is 8,889 kg.
+
+Here is Automotive information for the AN/TPQ-53 (EQ-36) American Counterfire Target Acquisition Radar:
+The Note is The AN/TPQ-53 (EQ-36) American Counterfire Target Acquisition Radar comprises of 2 x M1083 five-ton, 6×6 medium tactical vehicle (MTV) chassis (both equipped with two-man armored cabs and the radar's active-array assembly in one case and an operations shelter in the other) together with a pair of trailer-mounted 60 kW electrical power generators (one primary, one backup). The system is divided into two groups, namely: One MTV truck, the Mission Essential Group, contains the radar antenna and power generator;
+the second truck, the Sustainment Group, carries the operations shelter and back-up power generator..
+
+Here is Protection information for the AN/TPQ-53 (EQ-36) American Counterfire Target Acquisition Radar:
+The Armor is Armor Cab.
+The Applique Armor is No.
+The NBC Protection is INA.
+The Smoke Equipment is NO.
+

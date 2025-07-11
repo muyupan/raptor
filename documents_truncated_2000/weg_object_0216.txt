@@ -1,0 +1,54 @@
+This document describes the H-92 Superhawk American Utility Helicopter.
+
+The H-92 Superhawk is a military version of the S-92 in the utility transport role, capable of carrying 22 troops. The H-92 can also be configured for specific missions, including search and rescue and executive transportation. The CH-148 Cyclone is a shipboard maritime helicopter variant developed for the Royal Canadian Air Force to support the naval operations of the Royal Canadian Navy. The Sikorsky VH-92 is a variant under development to replace the United States Marine Corps Marine One U.S. Presidential transport fleet.
+
+This equipment has proliferated into the following countries: Azerbaijan, Bahrain, Canada, Ireland, Japan, Kuwait, Saudi Arabia, South Korea (Republic of Korea), Thailand, Turkey, Turkmenistan, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the H-92 Superhawk American Utility Helicopter:
+The S-92A is The S-92A is the civilian variant and is available in a number of versions. The civil transport version has an airliner-type interior which seats 19 passengers. The utility transport version has 22 side-facing seats with a full cabin width rear ramp. The 733 sq ft (68.1 m2) interior cabin area can also be configured to accommodate up to three airline-style LD3 cargo containers. Additional stowage space is available in the 140 sq ft (13 m2) area located in the aft ramp compartment. During development it was referred to as the S-92C Helibus..
+The H-92 Superhawk is The H-92 Superhawk is the military variant of the S-92. It has been demonstrated to the U.S. Air Force, Marine Corps and Coast Guard. The H-92 has more powerful GE CT7-8C engines, rated at 3,070 shp (2,290 kW) and, unlike the S-92, has fly-by-wire flight controls. The search and rescue variant provides space for seats, litters, auxiliary fuel cell and SAR emergency equipment..
+The VH-92 is The S-92A variant, designated VH-92 will be used as the next Marine One to fly the U.S. President.
+The CH-148 Cyclone is This is the Canadian maritime variant that is being purchased to replace aging Sea King helicopters. It features a folding tail and rotors for storage aboard warships, anti-submarine warfare electronics, a fully digital fly-by-wire system and a Rockwell Collins glass cockpit. Other systems include a forward-looking infrared sensor; 360-deg search radar; passive and active acoustics systems; threat surveillance and countermeasures; and network link communications..
+
+Here is System information for the H-92 Superhawk American Utility Helicopter:
+The Alternative Designation is H-92.
+The Type is Utility Helicopter.
+The Crew is 2 (pilot and copilot).
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 4.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+The External Load Capacity is 3,630 kg.
+
+Here is Dimensions information for the H-92 Superhawk American Utility Helicopter:
+The Length, Fuselage is 17.10 m.
+The Length, Rotors Turning is 20.88 m.
+The Height is 5.47 m.
+The Rotor Diameter is 17.17 m.
+The Disc Area is 241.8 m sq.
+The Cabin Length is 6.10 m.
+The Cabin Volume is 17 cu m.
+The Empty Weight is 7,362 kg.
+The Maximum Takeoff Weight is 12,837 kg.
+
+Here is Automotive information for the H-92 Superhawk American Utility Helicopter:
+The Engine Name is 2 x General Electric CT7-8A.
+The Engine Type is Turboshaft.
+The Engine Power is 2,043 shp each (1,524 kW).
+The Maximum Fuel Capacity is 2,877 liters.
+The Cruise Speed is 306 km/h.
+The Ceiling is 4,270 m.
+The Hover, in Ground Effect is 2,770 m.
+The Hover, Out of Ground Effect is 1,920 m.
+The Range, no reserve is 1,000 km.
+
+Here is Fire Control and Avionics information for the H-92 Superhawk American Utility Helicopter:
+The Navigation Radar is INA.
+
+Here is Protection information for the H-92 Superhawk American Utility Helicopter:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

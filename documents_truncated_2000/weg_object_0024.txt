@@ -1,0 +1,58 @@
+This document describes the PSNR-5 (1-RL-133) Russian Ground Surveillance Radar.
+
+The PSNR-5 Russian Ground Surveillance Radar is used to search for fixed and moving ground targets and to track their movements when the use of other technical means of reconnaissance (from the vehicle equipment) is excluded or not appropriate.
+It can detect the nature and polar coordinates of the target(s), in this case distance and bearing.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the PSNR-5 (1-RL-133) Russian Ground Surveillance Radar:
+The PSNR-5 is Tripod mounted.
+The PSNR-5K is Mount mast for vehicles (i.e. Russian BRM-1K).
+The PSNR-5M/Kredo-M is Updated PSNR-5K on vehicles with a notebook computer to display, process, transmit; with GPS.
+The Monitor-M is Links up to 4 PSNR-5M radars to provide 360 deg view.
+The Kredo-M1/PSNR-5M Modernized is PSNR-5M with additional upgrades with range of 5 km 8.5 km (personnel); 20 km (tanks); 32 km (trucks); with 12 km (tracking).
+The Strazh-ST is Vehicle sensor pod with Kredo-M1 & EO cameras (PRP-4M uses the PSNR-5M system; the PRP-4MU has an option for the Kredo-M1).
+
+Here is Dimensions information for the PSNR-5 (1-RL-133) Russian Ground Surveillance Radar of the System:
+The Height, Overall  is Varies by vehicle.
+The Length, Chassis Overall  is Varies by vehicle.
+The Width, Overall  is Varies by vehicle.
+The Weight, Combat is 56.0; 50 (including 2 batteries for Kredo-M1).
+
+Here is Automotive information for the PSNR-5 (1-RL-133) Russian Ground Surveillance Radar:
+The Engine Name is Varies by vehicle.
+The Engine Type is Varies by vehicle.
+The Fording Depth  is Varies by vehicle.
+The Range, Cruising  is Varies by vehicle.
+The Speed  is Varies by vehicle.
+
+Here is Radio information for the PSNR-5 (1-RL-133) Russian Ground Surveillance Radar of the Communications:
+The Radio is INA.
+
+Here is Equipment information for the PSNR-5 (1-RL-133) Russian Ground Surveillance Radar:
+The Name is PSNR-1 Kredo-M1 (both C & K used in translations);.
+The Antenna Type is Parabolic dish with cable link.
+The Azimuth coverage is 360; 180 in surveillance sector; +/- 18 (Tripod can be adjusted for more vertical coverage).
+The Console is INA.
+The Radar is Motor-driven for azimuth adjustment with remote control.
+
+Here is Remote information for the PSNR-5 (1-RL-133) Russian Ground Surveillance Radar of the Operation:
+The Display is Monochrome digital readouts; color on Baget-14 notebook computer for Kredo-
+M1
+.
+The Remote Operation is 25 m away for concealed operators.
+The Remote user transmission is INA.
+The Target Acquisition is INA.
+The Tone Signal is INA.
+The TV Monitor is INA.
+
+Here is Performance information for the PSNR-5 (1-RL-133) Russian Ground Surveillance Radar:
+The Countermeasure Resistance is INA.
+The Range, Surveillance  is PSNR-5/5M: 3-5 (personnel); 10-15 (vehicles); range reduced 50% at wind
+speeds more than 5 m/second; 0.2 (minimum)
+.
+The Resolution is 100 m in range; 50 mils in azimuth; 25 m for range & 50 mils for azimuth for
+Kredo-M1
+.
+The Tracking Speed is 2-60 km/hr (more for some targets).
+

@@ -1,0 +1,85 @@
+This document describes the AN-74 (Coaler-B) Ukrainian Transport/Passenger Aircraft.
+
+AN-74 (Coaler-B) is a Ukrainian transport aircraft developed by Antonov. It is a variant of the An-72.
+
+The An-72 and An-74 get their nickname, Cheburashka, from the large engine intake ducts, which resemble the oversized ears of the popular Soviet animated mouse character of the same name. The An-74 was initially an upgrade of the An-72 test aircraft, intended to be used in the Arctic and Antarctica; and had the designation An-72A "Arctic". The aircraft's main purpose is to deliver cargo, equipment, and personnel over short- and medium-range routes in any climatic conditions ranging from −60 to 45 °C (−76 to 113 °F) and at any latitude, including the North Pole, and high altitudes. It can operate to and from low-grade airstrips such as concrete, pebble, ice, and snow aerodromes.
+
+Produced in tandem with the An-72, the An-74 can be fitted with wheel-ski landing gear, de-icing equipment, and a number of other upgrades allowing the aircraft to support operations in the Arctic or Antarctic environments. An unusual design feature of the An-74 (as well as An-72) is the use of the Coandă effect to improve STOL performance, utilizing engine exhaust gases blown over the wing's upper surface to boost lift. The powerplant used is the Lotarev D-36 turbofan engine. The An-74 bears some resemblance to the unsuccessful Boeing YC-14, a prototype design from the early 1970s which had also used overwing engines.
+
+The rear fuselage of the aircraft has a hinged loading ramp with a rear fairing that slides backward and up to clear the opening. The An-74 has a payload of 7.5 tons including up to ten passengers in the cargo version, or up to 52 seats in the passenger version; the operating ceiling is 10,100 meters (33,100 ft), and the cruising speed is 550 to 700 kilometers per hour (300 to 380 kn; 340 to 430 mph).
+
+This equipment has proliferated into the following countries: Egypt, Iran (Islamic Republic of), Russian Federation, Turkmenistan, Ukraine.
+
+Here is Variants information for the AN-74 (Coaler-B) Ukrainian Transport/Passenger Aircraft:
+The An-74 is Arctic/Antarctic support model with room for five crew, increased fuel capacity, larger radar in bulged nose radome, improved navigation equipment, better de-icing equipment, and can be fitted with wheel-skis landing gear..
+The An-74A is Passenger or freighter model..
+The An-74MP is Marine Patrol version. Can transport 44 soldiers, 22 paratroops, 16 stretchers with medical staff, or ten tons of cargo..
+The An-74T is Freighter version equipped with an internal winch, roller equipment, and cargo mooring points, can also be fitted with static lines for paratroops or dropping air cargo..
+The An-74T-100 is Variant of the An-74T fitted with a navigator station..
+The An-74D is INA.
+The An-74-100 is Variant of the An-74T fitted with a navigator station..
+The An-74-200 is Military transport based on the An-74T..
+The An-74TK is Convertible passenger/cargo model that can be equipped for up to 52 passengers, all cargo, or a mix of the two..
+The An-74TK-100 is Variant of the An-74TK fitted with a navigator station..
+The An-74TK-200 is Variant of the An-74TK configured for only two flight crew..
+The An-74TK-200C is Cargo variant of An-74TK-200..
+The An-74T-200 is Military Transport aircraft..
+The An-74T-200A is Military Transport aircraft..
+The An-74TK-300 is An-74TK model primarily for civil customers with more fuel-efficient engines on conventional underwing pylons that gives up the STOL capabilities of earlier models in favor of lower operating cost and higher speed, also incorporates improved avionics and passenger comfort features..
+The An-74TK-300D is An An-74 with engines fitted underneath the wings..
+The An-74-400 is Proposed stretch model of the An-74TK-300 with a fuselage insert to extend its length by 26 ft (8 m), also would be equipped with uprated engines..
+
+Here is System information for the AN-74 (Coaler-B) Ukrainian Transport/Passenger Aircraft:
+The Alternate Designation(s) is An-74; NATO: Coaler-B; Nickname: Cheburashka.
+The Type is Transport Aircraft.
+The Manufacturer is Antonov.
+The Crew is 5 (captain, first officer, navigator, flight engineer, loadmaster).
+The Passengers is 52.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+The Payload Capacity is 10,000 kg.
+The Loading Ramp is The An-74 has a hinged loading ramp at the rear..
+The Landing Gear is Tricycle retractable.
+The Note is The aircraft may also be used for highly specialized operations:
+pilotage and vessel escort;
+establishing and servicing of drifting stations;
+research operations in Arctic or Antarctic regions;
+visual ice patrol;
+fishery reconnaissance..
+
+Here is Dimensions information for the AN-74 (Coaler-B) Ukrainian Transport/Passenger Aircraft:
+The Length is 28.07 m.
+The Height is 8.65 m.
+The Width (Wing Span) is 31.89 m.
+The Wing Area is 98.62 m sq.
+The Cabin Length is 10.50 m.
+The Cabin Height is 2.20 m.
+The Cabin Width is 2.15 m.
+The Maximum Payload is 10,000 kg.
+The Maximum Takeoff Weight is 34,500 kg.
+
+Here is Automotive information for the AN-74 (Coaler-B) Ukrainian Transport/Passenger Aircraft:
+The Engine Name is 2 x Lotarev D-36.
+The Engine Type is Turbofan.
+The Engine Power is 63.9 kN (14,330 lbf) thrust each.
+The Maximum Range is 4,325 km.
+The Maximum Cruise Speed is 700 km/h.
+The Normal Cruise Speed is 550 km/h.
+The Approach Speed is 180 km/h.
+The Ceiling is 10,100 m.
+The Takeoff Roll is 1,170 m to 10.7 m at 34,500 kg.
+
+Here is Communications information for the AN-74 (Coaler-B) Ukrainian Transport/Passenger Aircraft:
+The HF Radio is 1 x "Arlekin" DA HR Radio.
+The VHF Radio is 2 x VHF Radios.
+
+Here is Main Weapon System information for the AN-74 (Coaler-B) Ukrainian Transport/Passenger Aircraft:
+The Note is There are no weapons mounted on the An-74 (Coaler-B) Russian Transport/Passenger Aircraft..
+
+Here is Protection information for the AN-74 (Coaler-B) Ukrainian Transport/Passenger Aircraft:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is No.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

@@ -1,0 +1,107 @@
+This document describes the LD 2000 (LuDun-2000) Chinese 8x8 Mobile Air Defense Gun Missile System.
+
+The LD2000 (LuDun-2000) is a ground-based anti-aircraft air defense weapon system designed, developed, and manufactured by the Chinese Defense Company NORINCO (China North Industries Corporation). The system was unveiled during the defense exhibition IDEX in 2005. Modern critical ground assets are vulnerable to a growing number of precision-guided weapon and aerial threats, and particularly to cruise missiles. In response. China North Industries Corporation (NORINCO) has developed a unique and effective solution to these threats - the LD2000 Ground-Based Close-In Weapon System based on the proven CIWS of naval application. LD2000 is an effective and efficient weapon system for close-in air defense in various scenarios. With highly accurate firepower and multiple target engagement capability. The LD2000 achieves satisfying hit probability to typical low-altitude, high-speed cruise missile targets. The system is also highly capable of intercepting low-altitude aircraft and UAVs. The LD2000 can intercept flying targets at a velocity of Mach 2 or below. It has a reaction time of 9.8 sec and the capability to track up to 48 targets.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the LD 2000 (LuDun-2000) Chinese 8x8 Mobile Air Defense Gun Missile System:
+The LD 2000 with Missiles is Some LD 2000s have up to 6 SAMs attached to the side(s) of the gun mount (see pictures).  Versions with missiles have an additional radar mounted on top of the shelter between the cab of the truck and the gun.  Missile option include: TY-90, DK-9, and HQ-10 SAM.
+The LD 2000 with 11 barreled "Gatling" gun is Has higher rate of fire than the seven-barreled version..
+
+Here is System information for the LD 2000 (LuDun-2000) Chinese 8x8 Mobile Air Defense Gun Missile System:
+The Alternative Designation is HQ-6A, LD2000 Gai,.
+The Chassis is 8 x 8, WS-2400.
+The Manufactuer is NORINCO.
+The Crew is 9.
+The Target is Low altitude, high speed cruise missiles; low altitude aircraft; and UAVs traveling less than Mach 2.
+The Number of Tracks System Can Manage is Up to 48.
+The Reaction Time is 9.8.
+The Range is 2.5 km for gun attacking air threats and 3km attacking ground threats; 6km for SAMs.
+The In Service is 2005-Present.
+The Note is LD2000 includes a combat unit that consists of an Intelligence & Command Vehicle (ICV) and up to eight Combat Vehicles (CV), supported by Ammunition Supply Vehicles (ASV). and other combat support vehicles. Besides the ready-to-service basic configuration and extended configuration, LD2000 also can be upgraded to multi-layer gun-missile integrated air defense system.
+
+Here is Dimensions (Chassis: WS2400) information for the LD 2000 (LuDun-2000) Chinese 8x8 Mobile Air Defense Gun Missile System:
+The Length is 11.44.
+The Width is 3.05.
+The Height is 2.97.
+The Weight, Empty is 19.
+
+Here is Automotive (Chassis: WS2400) information for the LD 2000 (LuDun-2000) Chinese 8x8 Mobile Air Defense Gun Missile System:
+The Engine Name is Deutz Diesel.
+The Engine Type is Diesel.
+The Engine Power is 517.
+The Operational Range is 650.
+The Speed is 75.
+The Payload Capacity is 22.
+
+Here is System information for the LD 2000 (LuDun-2000) Chinese 8x8 Mobile Air Defense Gun Missile System of the Main Weapon System:
+The Name is 1 x Type 730C (Land Based) Gatling Gun.
+The Type is Gatling Gun.
+The Caliber is 30.
+The Crew is Automated, with human oversight.
+The Barrels is 7.
+The Length is INA.
+The Diameter is INA.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Elevation is INA.
+The Fire on Move is No.
+The Minimum Elevation is INA.
+The Reaction Time is 9.8.
+The Rate of Fire is 4,600 - 5,800 cyclic.
+The Maximum Effective Range is 2.5 km attacking air threats and 3km attacking ground threats.
+The Feed System is Two ammunition boxes, each holding 500 rounds (total 1000 rounds).
+The Guidance System is TR47C J-band radar
+OFC-3 electro-optical fire control system.
+The Basic Load is 1,000 rounds (500 rounds in each of two magazines located on either side of the cannons.  Each magazine is loaded with a type of 30mm ammunition, AP, APDS, or HEI).
+
+Here is Ammunitionn information for the LD 2000 (LuDun-2000) Chinese 8x8 Mobile Air Defense Gun Missile System of the Main Weapon System:
+The Name is INA.
+The Type is Sabot Armor-Piercing Rounds.
+The Caliber is 30.
+The Muzzle Velocity is INA.
+The Basic Load is 1,000 rounds (500 rounds in each of two magazines located on either side of the cannons.  Each magazine is loaded with a type of 30mm ammunition, AP, APDS, or HEI).
+The Note is The LD2000 can fire tungsten APDS and HEI ammunitions for improved airborne weapon target destruction. One direct hit of APDS projectile will definitely detonate the warhead of incoming air-to-ground weapon target.
+
+Here is Missile System information for the LD 2000 (LuDun-2000) Chinese 8x8 Mobile Air Defense Gun Missile System of the Auxiliary Weapon System:
+The Name is 6 x TY-90 (Sky Swallow-90) Surface-to-Air Missile.
+The Type is Surface-to-Air Missile.
+The Manufacturer is China Aviation Industry Corporation.
+The Length is 1.9.
+The Diameter is 90.
+The Weight is 20.
+The Warhead Weight is 3.
+The Detonation Mechanism is Impact / proximity.
+The Engine is Solid-fuel rocket motor.
+The Propellant is Solid fuel.
+The Operational Range is 0.5 – 6 km.
+The Flight Ceiling is 6.
+The Flight Altitude is 0 – 6 km.
+The Speed is > Mach 2.
+The Guidance System is ImIR IR.
+The Basic Load is 6 x TY-90 (Sky Swallow-90) Surface-to-Air Missile.
+
+Here is Radar information for the LD 2000 (LuDun-2000) Chinese 8x8 Mobile Air Defense Gun Missile System of the Fire Control System:
+The Name is TR47C.
+The Type is Fire Control Radar.
+The Band is J.
+The CCD Camera is Yes.
+The Laser Rangefinder is Yes.
+The Infrared Thermal Imager is Yes.
+The Detection Range, Small Target is 10.
+The Azimuth Scan is The Azimuth is scanned mechanically, while the elevation is scanned electronically, incorporating a total of 169 transceivers of phased array technology that enables the radar to pick up the splashes of 30 mm rounds..
+The Number of targets is Up to 48.
+The Note is The system can track a sea-skimming target with 0.1 square metre radar cross section at 8 km, extended to 15 km if the radar cross section is increased to 2 square metres, and further extended to 20 km if the radar cross section is increased to 10 square metres, though the targets could not be engaged until much closer (3 km) due to the limited range of the gun.
+
+Here is Protection information for the LD 2000 (LuDun-2000) Chinese 8x8 Mobile Air Defense Gun Missile System:
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

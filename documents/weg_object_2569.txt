@@ -1,0 +1,194 @@
+This document describes the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV).
+
+The ZBD-03 or Type 03 (industrial designation WZ506) is a Chinese airborne infantry fighting vehicle. It features a light-weight chassis and hydro-pneumatic suspension for airborne operations. The ZBD-03 bears some external resemblance to the BMD-3, particularly with regards to its main armament. However, the chassis and internal subsystems possess a different layout. The ZBD-03 retains the Russian parachute system for landing from an Il-76 transport aircraft. The ZBD-03 has a crew of three (a commander, a driver, and a gunner) and is able to carry five infantry passengers in a troop compartment.
+
+The ZBD-03 bears some external resemblance to the BMD-3, particularly with regards to its main armament. However, the chassis and internal subsystems possess a different layout. The ZBD-03 retains the Russian parachute system for landing from an Il-76 transport aircraft. The ZBD-03 has a crew of three (a commander, a driver, and a gunner) and is able to carry five infantry passengers in a troop compartment. The gunner is seated in the single-man turret located in the middle of the chassis. The driver and commander are located in tandem to the left of the power compartment in the front right of the chassis. The troop compartment is located in the rear with two overhead hatches and a rear exit.
+
+The suspension system of ZBD-03 consists of five lightweight road wheels and three return rollers with a front-mounted drive sprocket. The hydro-pneumatic suspension has variable ground clearance, minimum exhibited in the commission of landing the plane in order to reduce the force of impact on the ground.
+
+The ZBD-03 is equipped with a single-man turret with a 30mm gun capable of firing an armor-piercing round. A missile rail launcher at the top of the turret is included as part of the HJ-73C anti-tank guided missile (ATGM). Secondary weaponry includes a coaxial 7.62mm machine gun and three smoke grenade dischargers mounted to each side of the turret.
+
+The ZBD-03 armor protection is limited by the weight restrictions necessary for airdropping. With a combat weight of 8 tonnes, the vehicle’s armor is thin and sloped to maximize resistance to small-caliber weapons.
+
+The gunner has a day/night thermal scope and an emergency backup day sight. The gun system is fully stabilized. The driver and commander have their own observation instruments installed on the hatch.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV):
+The ZLC-2000 is The ZLC-2000 has been in service with the People's Liberation Army Air Force (PLAAF) Airborne Corps since 2003.
+
+China decided to develop the ZLC-2000 in the late 1990s after a failure to reach agreement with Russia over the purchase or licensed-production of BMD-series vehicles. The first prototype is thought to have been delivered in 2003.
+
+Development of the K/STW-17 vehicle air dropping system was completed in 2004. The ZLC-2000 was first seen in operational service in 2005 and was noted as a participant in the Peace Mission 2005 exercise with Russia.
+
+The vehicle was first displayed publicly as part of the Oct. 1, 2010, parade celebrating the 60th anniversary of the founding of the People's Republic of China..
+The ZBD-03 Command Post is The command and control version features a higher rear hull to accommodate staffs..
+The ZBD-03 ATGM Carrier is Armed with the HJ-8 ATGM anti-tank guided missile..
+
+Here is System information for the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV):
+The Alternative Designation is ZBD-2000; Type 03; ZLC-2000; VN-10 (export designation).
+The Type is Airborne Infantry Fighting Vehicle (IFV).
+The Crew is 3.
+The Troop Compartment Capacity is 5.
+The Maximum Effective Range is 500.
+The Amphibious is Yes.
+The Airborne Capable is Yes.
+The Number of Parachutes is Four large parachutes and four smaller parachutes..
+The Parachute Location is parachute system is installed on the roof of the vehicle behind the turret.
+The Total Area, Parachute System is 760 m2.
+The Weight, Parachute System is 100.
+
+Here is Dimensions information for the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV):
+The Length is 6.
+The Width is 2.35.
+The Height (to Turret Roof) is 2.2.
+The Weight is 8,000.
+The Ground Clearance is 0.40.
+
+Here is Automotive information for the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV):
+The Engine Name is INA.
+The Engine Type is Air-cooled Diesel.
+The Engine Power is 350.
+The Power to Weight Ratio is 43.75 hp/ton.
+The Cruising Range is 500.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed, Maximum Swim is 6.
+The Fording Depth is INA.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Obstacle (Forwards) is 0.65.
+The Trench is 1.6.
+The Suspension is Hydro-pneumatic.
+The "Squat" enabled is Yes, (hull lowered fully) or "kneel" (front/rear of the hull lowered)..
+The Running Gear is Tracked.
+The Air Conditioning is Yes.
+
+Here is TBR-121 VHF Radio information for the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV) of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Proliferated is Widely.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is 1 x 2A72 (Shipunov 2A42) 30mm Auto-Cannon.
+The Type is Auto-Cannon.
+The Caliber is 30 mm.
+The Manufacturer is Tulamashzavod.
+The Date of Introduction is 1980.
+The Length, Total is 3.027.
+The Length, Barrel is 2,416.
+The Weight is 115.
+The Action is Gas Operated.
+The Traverse is 360.
+The Rate of Fire (Low) is 200-300.
+The Rate of Fire (High) is 550-800.
+The Barrels is 1.
+The Feed System is Twin Feed.
+
+Here is Ammunition (Option 1) information for the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is Armour Piercing Fin Stabilized Discarding Sabot with Tracer(APFSDS-T).
+The Caliber is 30.
+The Muzzle Velocity  (at 21°) (nominal) is 1,275.
+The Basic Load is 125.
+The Maximum Effective Range is 2,800.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Round Mass (Nominal) is 675.
+The Projectile Mass (Nominal) is 220.
+The Round Length is 280.
+The Tracer is 2.5.
+The Cartridge Case is Steel.
+The Primer is Percussion cap.
+The Penetration at 1,000 is >45mm RHA steel at 60° obliquity.
+The Dispersion is 0.45.
+The Operational temperature is -32°C to +62°C.
+
+Here is Ammunition (Option 2) information for the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is High Explosive Incendiary.
+The USSR Designation is UOF-84.
+The Caliber is 30 mm.
+The Description is Shell filled with 48,5g HEI, with A-670M fuze.
+The Muzzle Velocity is 960.
+The Max Range is 5,000.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Weight, Bullet is 0.39.
+The Basic Load is 225.
+
+Here is System information for the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 1 x Type 80 Chinese Heavy Machine Gun.
+The Type is 7.62mm Heavy Machine Gun.
+The Manufacturer is Norinco.
+The Length, Total is 1,192.
+The Length, Barrel is 658.
+The Diameter is INA.
+The Action is Gas Operated.
+The Rate of Fire is 700-800.
+The Feed System is Belts in 100/200/250 round boxes.
+The Sights is Open sights. Optical/Night vision scope can be outfitted..
+
+Here is Ammunition information for the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Type is 7.62×54mmR.
+The Caliber is 7.62x54.
+The Muzzle Velocity is 840.
+The Basic Load is Belts in 100/200/250 round boxes.
+The Effective Firing Range is 100-1,500.
+The Min Range is 100.
+The Armor Penetration is INA.
+
+Here is System information for the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV) of the Anti-Tank Guided Missile (ATGM):
+The Name is HJ-73 Red Arrow Anti-Tank Missile System.
+The Type is Anti-Tank Missile System.
+The Length, Total is 1,005.
+The Length, Barrel is 860.
+The Rate of Fire is 4.
+The Sights is Integrated Optics.
+
+Here is Ammunition (ATGM) information for the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV) of the Anti-Tank Guided Missile (ATGM):
+The Name is HJ-73 Arrow-73 (Base Series Name; Manual Command-to-Line-Of-Sight. MCLOS).
+The Type is Anti-Tank Missile System.
+The Date of Introduction is 1979.
+The Caliber is 125 mm.
+The Muzzle Velocity is 130.
+The Basic Load is INA.
+The Max Effective Range is 3,001.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Guidance System is SACLOS.
+The TV Goniometer is Yes.
+The Variant 1 is Red Arrow 73B: Armed with a tandem-HEAT warhead, this missile has a maximum range of 2,800 m, a hit probability of 90%, and a penetration probability of 80%. At maximum range the 73B takes around 20 seconds to reach the target at a speed of 120 m/s, and if a hit is achieved is capable of penetrating 200 mm of RHA set at 68° and protected by ERA..
+The Variant 2 is Red Arrow 73D: This missile is much the same as the 73B, however it is slightly longer and capable of penetrating 280 mm of RHA set at 68° and protected by ERA. The flight speed of the missile is increased to 130 m/s..
+The Variant 3 is Red Arrow 73E: The 73E is a further improvement of the above systems. The range is extended to 3,000 m and the RHA penetration increased to 300 mm..
+The Variant 4 is Red Arrow 73F: The 73F is described as a bunker buster. It has a maximum range of 2,800 m and has the same accuracy statistics of the 73B. It is fitted with a fuel air explosive warhead, designed to defeat bunkers and fortifications through overpressure effects..
+
+Here is Fire Control information for the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Vehicle Commander is Yes.
+The Thermal Gunner is Yes, dual-channel sight.
+The Driver Periscopes is 3.
+The Main Gun Stabilization is Yes.
+The Range, Day Sight is INA.
+The Range, Night Sight is INA.
+The Navigation System is Yes, BeiDou Satellite Navigation system.
+The Accuracy is to within several meters.
+The Blue Force Tracking is Yes.
+
+Here is Protection information for the ZBD-03 (Type 03) Chinese Airborne Infantry Fighting Vehicle (IFV):
+The Armor Type is Welded steel protects against small arms and shell splinters..
+The Hull Armor is 12.7 mm Projectiles.
+The Side Armor is 7.62 mm Projectiles.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection Armor is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, The vehicle also carries six smoke grenade launchers that can be used to launch aerosol grenades to obscure the vehicle from targeting lasers, or fragmentation projectiles for close range defense from infantry..
+The Note is The protection is limited by the need for the ZBD-03 to be deployed by parachute; as such it is thought to be focused on countering small arms fire and shell fragments..
+

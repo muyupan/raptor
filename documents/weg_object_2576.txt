@@ -1,0 +1,89 @@
+This document describes the TOS-1 Buratino Russian 220mm Heavy Flamethrower System.
+
+The TOS-1 Buratino Russian 220mm Heavy Flamethrower System is the original variant of the TOS family; it is equipped with a 30 tube rocket launcher and based on a T-72 main battle tank. It is designed to provide massed indirect and direct fire support.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the TOS-1 Buratino Russian 220mm Heavy Flamethrower System:
+The TOS-1A Solntsepek is TOS-1A is the latest variant of the original heavy flamethrower system. It was accepted to service with the Russian Army in 2001. The BM-1 launch vehicle uses longer 220-mm rockets. Also a number of launching tubes was reduced from 30 to 24. New launching tubes are longer in comparison with the previous system. Maximum range of fire was increased to 6 000 m. This heavy flamethrower is supported by a new TZM-T reloading vehicle. It carries two units for 12 rockets each. A crane is mounted between these units. Reloading vehicle also carries 400 liters of fuel for the launch vehicle..
+The TOS-2 is Is a newer heavy flamethrower system, based on Ural-63704-0010 military truck with 6x6 configuration..
+
+Here is System information for the TOS-1 Buratino Russian 220mm Heavy Flamethrower System:
+The Alternative Designation is TOS-1 Buratino.
+The Type is Heavy Flamethrower System.
+The Caliber is 220 mm.
+The Manufacturer is Omsk Transmash Design Bureau.
+The Family is TOS.
+The Crew is 3.
+The Chassis is Modified T-72 main battle tank chassis.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note is The vehicle is fitted with a built-in bulldozer blade. The blade weighs 200 kg and is 2.14 m wide. It takes 1-2 minutes for the blade to be operational from the march and 3-5 minutes to return the blade and tank to a marching state..
+
+Here is Dimensions information for the TOS-1 Buratino Russian 220mm Heavy Flamethrower System:
+The Length is 9.53.
+The Width is 3.37.
+The Height is 3.23.
+The Weight, Combat is 42.
+
+Here is Automotive information for the TOS-1 Buratino Russian 220mm Heavy Flamethrower System:
+The Engine Name is V-84M.
+The Engine Type is V1-2 Diesel.
+The Engine Power is 840 hp at 2,000 rpm.
+The Fuel Capacity is 1,200.
+The Maximum Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Maximum Off-Road is 45.
+The Amphibious is No.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.85.
+The Trench is 2.8.
+The Fording Depth is 1.2.
+
+Here is Communications information for the TOS-1 Buratino Russian 220mm Heavy Flamethrower System:
+The Primary is R-173 short-wave radio.
+The Secondary is R-168 series of digital radio.
+
+Here is System information for the TOS-1 Buratino Russian 220mm Heavy Flamethrower System of the Main Weapon System:
+The Name is TOS 1 Launcher.
+The Type is Heavy flamethrower system.
+The Number of Tubes is 30.
+The Rate of Fire is 30 rounds/15 s.
+The Time to Fire all 30 Rockets is 7.5.
+The Maximum Firing Range is 3,500 m.
+The Minimum Firing Range is 400 m.
+The Note is Reloading is assisted by a TZM reloading vehicle, which also uses chassis of the T-72 main battle tank. It is used to transport and reload rockets..
+
+Here is Ammunition information for the TOS-1 Buratino Russian 220mm Heavy Flamethrower System of the Main Weapon System:
+The Name is MO-1.01.04.
+The Type is Rocket.
+The Caliber is 220.
+The Muzzle Velocity is INA.
+The Rocket Length is 3.3.
+The Rocket Weight is 173.
+The Maximum Effective Range is 3.5.
+The Basic Load is INA.
+The Warhead Type is Thermobaric warhead (MO.1.01.04.01).
+The Fuze Type is MRV-U1 impact fuze.
+The Engine is Solid propellant rocket motor (MO.1.01.04.02).
+
+Here is Fire Control information for the TOS-1 Buratino Russian 220mm Heavy Flamethrower System:
+The Name is INA.
+The Computerized FCS is Yes, A Modern Fire Control System.
+The Time to Identify a Target and Fire is 90.
+The Driver's Periscope is TNPO-168V periscope.
+The Driver's Night Vision is TVNE-4B, an electro-optic binocular, and periscopic heated sight..
+
+Here is Protection information for the TOS-1 Buratino Russian 220mm Heavy Flamethrower System:
+The Hull Armor is Steel and composite armour with ERA, equivalent to 500-600 mm of Rolled Homogeneous Armor (RHA).
+The Turret Armor is Steel and composite armour with ERA, equivalent to 500-600 mm of Rolled Homogeneous Armor (RHA).
+The Applique Armor is Available, Turret top and track skirts.
+The Explosive Reactive Armor is Yes, Kontakt-5.
+The Active Protection System is Yes, ZETS11-3 control panel.
+The Mine Clearing is Yes, Roller and plow (optional).
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes, System Sensor Radiation Device and chemical intelligence (PRRM).
+The Smoke Equipment is Yes, Grenade launcher 8x; VESS and The TOS-1 can create a smoke screen by injecting fuel into the exhaust and this effect can be employed for no more than 10 minutes, using 10 litres of fuel per minute when in use..
+The Note is The TOS-1 is based on a T-72 hull, which is understood to carry the same level of protection as the standard T-72 MBT.
+

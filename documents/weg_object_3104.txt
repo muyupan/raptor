@@ -1,0 +1,140 @@
+This document describes the M60 American Main Battle Tank (MBT).
+
+The M60 is an American second generation main battle tank (MBT). It was officially standardized as the Tank, Combat, Full Tracked: 105-mm Gun, M60 in March 1959. Although developed from the M48 Patton, the M60 series was never officially classified as a member of the Patton tank family, but as a "product-improved descendant" of the Patton tank's design. The United States fully committed to the Main Battle Tank doctrine in 1963 when the Marine Corps retired the last (M103) heavy tank battalion. The M60 tank series became America's primary main battle tank during the Cold War. Over 15,000 M60s were built by Chrysler. Hull production ended in 1983, but 5,400 older models were converted to the M60A3 variant ending in 1990.
+
+It reached operational capability with fielding to US Army units in Europe beginning in December 1960. The first combat usage of the M60 was with Israel during the 1973 Yom Kippur War where it saw service under the "Magach 6" designation, performing well in combat against comparable tanks such as the T-62. In 1982 the Israelis once again used the M60 during the 1982 Lebanon War, equipped with upgrades such as explosive reactive armor to defend against guided missiles that proved very effective at destroying tanks. The M60 also saw use in 1983 with Operation Urgent Fury, supporting US Marines in an amphibious assault into Grenada. M60s delivered to Iran also served in the Iran–Iraq War. The United States' largest deployment of M60s was in the 1991 Gulf War, where the US Marines equipped with M60A1s effectively defeated Iraqi armored forces, including T-72M tanks. The United States readily retired the M60 after Operation Desert Storm, with the last units being retired from active service in 1997. M60-series vehicles continue in front-line service with a number of countries' militaries, though most of these have been highly modified and had their firepower, mobility and protection upgraded to increase their combat effectiveness on the modern battlefield.
+
+The M60 underwent many updates over its service life. The interior layout, based on the design of the M48, provided ample room for updates and improvements, extending the vehicle's service life for over four decades. It was widely used by the US and its Cold War allies, especially those in NATO, and remains in service throughout the world today, despite having been superseded by the M1 Abrams in the US military. The tank's hull also developed a wide variety of prototypical, utility and support vehicles such as armored recovery vehicles, bridge layers and combat engineering vehicles. As of 2015 Egypt is the largest operator with 1,716 upgraded M60A3s, Turkey is second with 866 upgraded units in service, and Saudi Arabia is third with over 650 units.
+
+This equipment has proliferated into the following countries: Israel, Jordan, Singapore, Spain.
+
+Here is Variants information for the M60 American Main Battle Tank (MBT):
+The Note is There are over 50 Variants of the M60 Main Battle Tank.
+
+Here is System information for the M60 American Main Battle Tank (MBT):
+The Alternative Designation is M60 Main Battle Tank.
+The Type is Main Battle Tank.
+The In Service is 1959-Present.
+The Crew is 4 (commander, gunner, loader, driver).
+
+Here is Dimensions information for the M60 American Main Battle Tank (MBT):
+The Length, Hull is 6.95 m.
+The Length, Gun Forward is 9.44 m.
+The Width is 3.63 m.
+The Height is 3.27 m.
+The Tracks, Length on Ground is 4.24 m.
+The Tracks Width is 0.71 m.
+The Ground Pressure is 0.46 m.
+The Weight, Unloaded is 48,680 kg.
+The Weight, Combat is 52,620 kg.
+The Ground Pressure is 0.87 kg/cm sq.
+
+Here is Automotive information for the M60 American Main Battle Tank (MBT):
+The Engine Name is 1 x Continental AVDS-1790-2C.
+The Engine Type is 1,790-cu in (29.34-liter) air-cooled, 4-stroke, V-12 multi-fuel.
+The Engine Power is 750 hp at 2,400 rpm.
+The Power-to-Weight Ratio is 14.24 hp/metric ton.
+The Fuel Capacity is 375 gal (1,420 liters).
+The Transmission is Allison CD-850-6/6A powershift crossdrive; 2 forward/1 reverse gears.
+The Suspension is torsion bar, 6 road wheels, rear drive,
+ front idler, 3 shock absorbers, 3 track
+ return rollers.
+The Range is 480 km.
+The Speed is 48 km/h.
+The Vertical Obstacle is 0.91 m.
+The Trench is 2.59 m.
+The Fording without Preparation is 1.22 m.
+The Fording with Preparation is 2.40 m.
+The Gradiant is 60 %.
+The Side Slope is 30 %.
+
+Here is System information for the M60 American Main Battle Tank (MBT) of the Main Gun:
+The Name is 1 x 105-mm/51-cal M68 rifled gun with fume extractor and thermal sleeve.
+The Type is 105mm Rifled Gun.
+The Caliber is 105mm.
+The Length is 5.89 m.
+The Barrel Length is 52 calibres (5.46 m or 17.9 ft).
+The Weight is 1,282 kg.
+The Rate of Fire is 10 rounds per minute (maximum).
+The Maximum Range is 4,000 m.
+The Elevation is -10/+20-deg.
+The Traverse is 360-deg.
+
+Here is Ammunition information for the M60 American Main Battle Tank (MBT) of the Main Gun:
+The Type is Rifle Projectile.
+The Caliber is 105.
+The Shell is INA.
+The Shell Weight is INA.
+The Basic Load is 63 Rounds.
+
+Here is System information for the M60 American Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is 1 x 7.62mm M240 Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Length is 1,260 mm.
+The Barrel Length is 630 mm.
+The Width is 120 mm.
+The Height is 260 mm.
+The Weight is 12.5 kg.
+The Action is Gas-operated long-stroke piston, open bolt.
+The Rate of Fire is M240, M240E1, M240C, M240D and M240G:
+Gas Setting 1: 650–750 RPM
+Gas Setting 2: 750–850 RPM
+Gas Setting 3: 850–950 RPM
+M240B, M240L and M240H: 550–650 RPM
+Barrett 240LW and 240 LWS: 550–650 RPM.
+The Muzzle Velocity is 853 m/s.
+The Maximum Firing Range is 3,725 m.
+The Effective Firing Range is 800 m (875 yd) (bipod)
+1,100 m (1,203 yd) (tripod).
+The Feed System is Belt-fed using M13 disintegrating links.
+The Sights is Iron sights: front blade and folding rear leaf with aperture and notch.
+
+Here is Ammunition information for the M60 American Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is 6,000 Rounds.
+
+Here is System information for the M60 American Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is M85 Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The In Service is INA.
+The Manufacturer is INA.
+The Proliferation is INA.
+The Length is 1,384.3 mm).
+The Weight is 29.5 kg.
+The Action is Recoil-operated.
+The Rate of Fire is 400-625 rd/min.
+The Muzzle Velocity is 880.0 m/s.
+The Maximum Firing Range is 6,702.6 m.
+The Effective Firing Range is 1,999.8 m.
+The Feed System is Belt Feed, left or right hand.
+The Sights is INA.
+
+Here is Ammunition information for the M60 American Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is 12.7×99mm NATO (.50 BMG).
+The Basic Load is Rifle.
+
+Here is Fire Control information for the M60 American Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is M21 solid-state analog ballistic.
+The Thermal Sight Tank Commander is Texas Instruments AN/VSG-2 tank thermal inder and Mercury-Cadmium-Telluride (HgCdTe) IR detector for passive night and dust vision..
+The Thermal Sight Gunner is Texas Instruments AN/VSG-2 tank thermal inder and Mercury-Cadmium-Telluride (HgCdTe) IR detector for passive night and dust vision..
+The Main Gun Stabilization is INA.
+The Rangefinder is ughes AN/VVG-2 ruby laser rangefinder usable by both commander and gunner.
+
+Here is Protection information for the M60 American Main Battle Tank (MBT):
+The Hull Armor is Upper Glacis: M60: 3.67 in (93 mm) at 65° 8.68 in (220 mm) LoS.
+The Turret Armor is M60: equals 7 in (180 mm).
+The Applique Armor is Available..
+The Explosive Reactive Armor is INA.
+The Active Protection System is No.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is exhaust smoke generating system; 
+6-barrel smoke dischargers on turret sides.
+

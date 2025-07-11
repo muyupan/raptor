@@ -1,0 +1,244 @@
+This document describes the T-72BM Russian Main Battle Tank (MBT).
+
+The T-72BM is an upgraded version of the T-72, fitted with Kontakt-5 explosive reactive armor. This version appeared in 1989. Russia: Widely Proliferated, the T-72BM has become the most numerous tank in the Russian inventory.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the T-72BM Russian Main Battle Tank (MBT):
+The T-72A is Second Russian main variant of the T-72..
+The T-72B1 is In 1986, a limited production variant without an ATGM launch capability. Some do not have ERA..
+The T-72AK is The Commander's variant with additional radios..
+The T-72BM is Russian T-72B upgrade with 2nd gen ERA. The system is fielded, available for export, and upgraded. Tier 2 and some Tier 3 tanks can challenge US forces under favorable conditions when using modern ammunition and employed by well-trained units with sound tactics. A variety of upgrades are available for the T-72B. They include protection upgrades, such as improved ERA, APS, defensive aids suites with IR jammers, plate armor, welded turret, and grill armor around tracks and grill. Mobility upgrades include a new power train, improved steering, improved mine plows and rollers, and electronic mine spoofing system. Fire control system upgrades include new sights, gun, ammunition, and improved stabilization. With the expanding number of upgrades offered by former Warsaw Pact, Asian, Israeli, and other firms, most T-72-type tanks have some level of upgrade from the basic T-72 MBT. The more affordable upgrade approach for most countries is to execute specific upgrades during maintenance work. But this approach may result in only partially modernized tanks at any one point in the life of the vehicle, and which are not as modern as more recent competitors. An alternative is to produce modernized tanks in small numbers, resulting in high per-unit production costs..
+The T-72BU is Upgrade variant with the fire control system from the T-80U as well as well as a variety of other changes..
+The T-72BU renamed T-90 is With the limited market for new tanks, the world tank industry has developed upgrades and whole vehicle upgrade packages to tap into the market. Older T-72 tanks can be brought up to the T-72B standard. Some approach the T-90 standard. Most T-72-type tanks fielded reflect some level of upgrade. Upgrade options are expanding from former Warsaw Pact, Asian, Israeli, and other international firms..
+The T-72S / Shilden is Russian export T-72A upgraded to the T-72B standard. Although visually similar to T-72B, it has slightly less chassis and turret protection. Former Warsaw Pact countries such as Slovakia and Middle Eastern countries like Iran have upgraded their tanks to the T-72S standard..
+The M-84AB1 is Yugoslav upgrade to the M-84, bringing it close to the T-90, and the latest T-72B improved tanks..
+The M-95 Degman is Croatian M-84 upgrade with box composite armor, ERA, 1200hp and thermal FCS. An export upgrade conversion, AKA M-84D, is offered for Kuwaiti M-84A tanks..
+The PT-91 is Polish upgrade tanks with ERA, Drawa improved FCS, Savan-5 thermal sight, improved gun stabilization, and countermeasures..
+The PT-91M is Has a 1000hp engine, new guns and FCS, armor changes, and other improvements. PT-91M exported to Singapore. PT-91P is designed for export to Peru..
+The T-72M1 is Demonstrator with 2nd generation ERA and other upgrades were displayed at military shows..
+The T-72M1M is Includes 3rd generation Relikt ERA and optional Arena Active Protection System (APS). Alternative designations: Rogata and SMT M1988. It is almost the same as the T-72S (Export), except more ERA on the side skirts..
+The AJEYA MK 2 is India is upgrading T-72A tanks close to a Bhishma (T-90S) standard..
+
+Here is System information for the T-72BM Russian Main Battle Tank (MBT):
+The Alternative Designation is Objekt 184;  T-72B obr.1989; T-72B(M).
+The Type is Main Battle Tank (MBT).
+The Manufacturer is Uralvagonzavod.
+The Crew is 3.
+The Note is The T-72BM can be distinguished from the T-72B and T-72B1 by the shape of the ERA, which is arrow-shaped on the turret front and built from larger ERA cassettes..
+
+Here is Dimensions information for the T-72BM Russian Main Battle Tank (MBT):
+The Length (Gun Forward) is 9.53.
+The Length (Hull) is 6.95.
+The Width is 3.59.
+The Height is 2.23.
+The Weight, Combat is 41.
+The Ground Pressure is 0.898 kgf/cm2.
+
+Here is Automotive information for the T-72BM Russian Main Battle Tank (MBT):
+The Engine Name is V-84M.
+The Engine Type is Four stroke, liquid cooled diesel engine with a centrifugal supercharger..
+The Engine Power is 840.
+The Power to Weight Ratio is 18.9.
+The Fuel Capacity is 1,200.
+The Range is 700.
+The Speed, Maximum Road is 60.
+The Speed, Maximum Off-Road is 35-45.
+The Acceleration Speed (0-32 km/h is 18.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.85.
+The Trench is 2.8.
+The Fording Depth is 1.2.
+The Fording (with Preparation) is 5.0.
+The Fording Kit is OPVT deep water fording kit.
+The Transmission is Synchromesh, hydraulically assisted, with 7 forward and 1 reverse gears.
+The Suspension is Torsion bar.
+The Ground Clearance is 0.49.
+The Gyrocompass is GPK-59 gyrocompass.
+The Rechargeable Batteries is four 12ST-85R 34 AMP rechargeable batteries.
+The Starter Generator is SG-10-1S.
+
+Here is Communications information for the T-72BM Russian Main Battle Tank (MBT):
+The Radio #1 is R-173 (Standard Radio for Russian Tanks).
+The R-173 Range is 0-20.
+The Radio #2 is R-168-100U (Standard VHF).
+
+Here is System information for the T-72BM Russian Main Battle Tank (MBT) of the Main Gun:
+The Name is 1 x 2A46M/2A46M-5.
+The Type is Smoothbore Gun.
+The Caliber is 125 mm.
+The Max Rate of Fire is 8.
+The Manually Load Time is 1-2.
+The Barrel Life is 600.
+The Sustain Rate of Fire is INA.
+The Thermal Sleeve is Yes, alloy thermal sleeve.
+The Bore Type is Central Bore Evacuator.
+The Breech Type is semi-automatic horizontal sliding breech block via an interrupted screw thread..
+The Autoloader is Yes,  electromechanical carousel autoloader.
+The Time to reload the Autoloader is 4-5.
+The Fire on the Move is Yes, Main Gun.
+The Maximum Elevation is -6.
+The Minimum Elevation is +14.
+The Traverse Range is 360.
+The Traverse Right is 180.
+The Traverse Left is 180.
+
+Here is Ammunition (Option 1) information for the T-72BM Russian Main Battle Tank (MBT) of the Main Gun:
+The Type is Armor-Piercing Fin-Stabilized Discarding Sabot (APFSDS).
+The Caliber is 125.
+The Muzzle Velocity is 2,050.
+The Effective Range is 2,000-3,000.
+The Armor Penetration is 1,000.
+The Muzzle Energy is 15-24.
+The Projectile Dimension is 900.
+The Projectile Weight is 11.
+The Variants is 1.1	3VBM3/3BM9/10 1.2 3VBM6/3BM12/13 1.3 3VBM7/3BM15/16 1.4 3VBM8/3BM17/18 1.5 3VBM9/3BM22/23 1.6 3VBM10/3BM29/30 1.7 3VBM11/3BM26/27 1.8 3VBM13/3BM32/33 1.9 3VBM17/3BM42 (3BM44 "Mango") 1.10	3VBM19/3BM42M (3BM44M "Lekalo") 1.11	3VBM20/3BM46 (3BM48 "Svinets") 1.12 3VBM22/3BM59 (3BM59 "Svinets-1") 1.13	3VBM23/3BM60 (3BM60 "Svinets-2") 1.14	3VBM?/3BM69 "Vacuum-1" 1.15	3VBM?/3BM70 "Vacuum-2".
+The Basic Load is 45 Total Rounds of any 125mm Russian Projectiles.
+
+Here is Ammunition (Option 2) information for the T-72BM Russian Main Battle Tank (MBT) of the Main Gun:
+The Type is High Explosives (HE).
+The Caliber is 125.
+The Purpose is High explosive fragmentation fin stabilized. General purpose rounds, for use against infantry, bunkers and light vehicles and other "soft" targets..
+The Muzzle Velocity is 850.
+The Max Dispersion is 0.23.
+The Maximum Range is 5,000.
+The Tungsten Rods is 450.
+The Charge is A-IX-2 (73% RDX, 23% aluminium powder, phlegmatized with 4% wax) 3.0 kg.
+The Projectile Weight is 23.
+The Round Weight is 33.
+The Variants is 3VOF22/3OF19, 3VOF36/3OF26, 3VOF128/3OF82.
+The Basic Load is 45 Total Rounds of any 125mm Russian Projectiles.
+
+Here is Ammunition (Option 3) information for the T-72BM Russian Main Battle Tank (MBT) of the Main Gun:
+The Name is 3VBK27/3BK31 "Start".
+The Type is High-Explosive Anti-Tank (HEAT).
+The Caliber is 125.
+The Muzzle Velocity is 915.
+The Max Dispersion is INA.
+The Maximum Range is 3,000.
+The Charge is INA.
+The Charge Weight is 1.62.
+The Projectile Weight is 18.4.
+The Armor Penetration is Estimated at 800 mm triple charge HEAT.
+The Variants is 3VBK7/3BK12, 3VBK10/3BK14, 3BK12M, 3BK14M, 3VBK16/3BK18, 3BK18M, 3VBK17/3BK21, 3BK21B, 3VBK21/3BK25, 3VBK25/3BK29 "Breyk", 3VBK25M/3BK29M.
+The Basic Load is 45 Total Rounds of any 125mm Russian Projectiles.
+
+Here is System information for the T-72BM Russian Main Battle Tank (MBT) of the Anti-Tank Guided Missile:
+The Note is The 9K120 gun-launched missile complex is a two piece guided missile that is loaded and fired from the main gun in the same way as an ordinary round..
+The ATGM System Name is 9K120 gun-launched missile complex.
+The Missile Name is 9K119 SVIR / AT-11.
+The Type is Laser Guided Anti-tank guided missile launcher.
+The Manufacturer is KBP Instrument Design Bureau.
+The Caliber is 125.
+The Round Type is 3UBK20 round.
+The Guidance System is 9M119M Laser Guided Missile.
+The Voltage Converter is 9S831 voltage converter..
+The Tracking System is IK13 tracker.
+The Basic Load is 6.
+The Onboard Guidance System is Yes.
+The Sight Assembly is coded laser guidance beam 1K13-49.
+The Gunner's Night Sight is TPN-1-49 secondary night sight..
+The Fire Control System is 1A40-1.
+The Hit Probability is 80.
+The Penetration is up to 700mm of armor.
+The Warhead Weight (HEAT) is 4.2.
+The Warhead Type is 9N142 shaped charge warhead.
+The Laser Emitter is 1K13 sight's laser.
+The Maximum Effective Range is 4,000.
+The Minimum Effective Range is 100.
+The Elevation Range (Super Elevation) is -7 to +20.
+The Elevation Range (Standard Elevation) is -5 to +15.
+
+Here is System information for the T-72BM Russian Main Battle Tank (MBT) of the Tank Commander’s Weapon System:
+The Name is 1 x NSV (Russian НСВ Никитина-Соколова-Волкова) 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Proliferation is over 1 Million.
+The Manufacturer is "Metallist", Uralsk, Kazakh SSR, Crvena ZastavaSerbia.
+The Weight (Gun Only) is 25.
+The Muzzle Velocity is 845.
+The Length (Total) is 1,560.
+The Max Rate of Fire is 700-800.
+The Weight (On Tripod) is 41.
+The Weight (50-Round Belt) is 11.
+The Action is Gas Operated.
+The Maximum Elevation is +75.
+The Minimum Elevation is -4.
+The Sights is Iron Sights.
+The Feed System is 50-Round Belt.
+
+Here is Ammunition information for the T-72BM Russian Main Battle Tank (MBT) of the Tank Commander’s Weapon System:
+The Type is Rifle.
+The Caliber is 12.7x108.
+The Muzzle Velocity is 845.
+The Armor Penetration is API: 21 at 500 m & 13 at 1000 m (RHA).
+The Effective Firing Range (vs. Air Targets) is 1,500.
+The Effective Firing Range (vs. Ground Targets) is 2,000.
+The Basic Load is 300.
+
+Here is System information for the T-72BM Russian Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is 1 x PKT (Kalashnikov's Machine Gun) 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Function is in use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Max Rate of Fire is 650-750.
+The Effective Rate of Fire is 250.
+The Weight (Gun  Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Length is 1,203.
+The Length (Barrel) is 605.
+The Action is Gas-operated, open bolt.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the T-72BM Russian Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.60.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 825.
+The Effective Range (Iron Sights) is 1,000.
+The Effective Range (with Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 3,800.
+The Basic Load is 2,000.
+
+Here is Fire Control information for the T-72BM Russian Main Battle Tank (MBT):
+The Name is 1A40-1.
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is Yes, 1K13 sight and aiming complex.
+The Thermal Sight Gunner is Gunner's primary sight is the 1A40-1.
+The Main Gun Stabilization is 2E42-2 (Upgrade).
+The Range, Day Sight is 5,000.
+The Range, Thermal Sight is 1,000.
+The Infrared is Yes.
+The Gyrocompass is GPK-59 gyrocompass.
+The Searchlight is L-4A "Luna" IR searchlight.
+The Collimator Sight is K10T collimator sight.
+The Periscopes is two TNPO-160 prismatic periscopes.
+The Note is The Gunner, using the 1A40-1 sight can designate and engage targets out to a mazimum distance of 4,000 meters with APFSDS and HEAR rounds..
+
+Here is Protection information for the T-72BM Russian Main Battle Tank (MBT):
+The Hull Armor is Steel and composite armor with additional plates that provide protection equivalent to 950mm of steel against HEAT projectiles, 440mm resistance to KE rounds, and 500mm against shaped charges. The T-72BM also has a additional twelve separate charges of ERA compared to the T-72B..
+The Turret Armor is Steel and composite armor with ERA, 950 mm against HEAT weapons. The Turret has additional Ceramic or silica inserts to add to the protection level of the T-72BM. Additionally, the T-72BM has arrow-shaped arrays of ERA added to the turret front.
+The Applique Armor is Available, Turret top and track skirts.
+The Explosive Reactive Armor (ERA) is Yes, Kontakt-V (UPGRADE). Additional ERA is added to the Turret, Glacis, and sides of the hull..
+The ERA Explosive Element is 4S22.
+The ERA 4S22 Elements (Plates) is 240.
+The Armor Cassette Type is 4S22 cassette that is filled with an explosive element and steel armoured plate..
+The Number of total Armor Cassettes is 200-300.
+The NBC Protection is Yes, System Sensor Radiation Device and chemical intelligence (PRRM)..
+The Active Protection System is Yes, ZETS11-3 Control System.
+The Self-Entrenching Blade is Yes, built in Dozer Blade.
+The Mine Clearing is KMT-7 Tank-mounted Roller-Plow System   The KMT-7 is similar to the KMT-5 but utilizes a box-channel frame and the rollers are less "cleated". The plows used with the KMT-7 are similar to those used with the KMT-6. The supporting frames for the rollers are L-shaped to allow the rollers to swing past the frame when a mine is detonated. Chains are fitted between the rollers to detonate tilt-mast fuses. As with previous models the rollers are carried on a separate vehicle and are fitted using a crane. The KMT-7 can clear tracks 1.65 meters wide with an intermediate space 2.16 meters wide..
+The Grenade Launcher is Yes, twelve 81 mm Toucha 902B grenade launchers that fire the ZD-6 smoke grenade..
+The Grenade Maximum Effective Range is 200-300.
+The Grenade Smoke Screen Size is 30 m wide and 10 m high for 60 seconds per grenade..
+The Engine Smoke Screen Capable is Yes.
+The IR Signature is INA.
+The Automatic Fire Extinguishing Equipment. is Yes.
+The Note #1 is The base protection of the T-72BM is the same as the T-72B, however the vehicle is upgraded with considerable amounts of additional composite armor and ERA Plates..
+The Note #2 is The additional added armor cassettes reduce penetration by as much as 95%..
+

@@ -1,0 +1,66 @@
+This document describes the EULE German Ground Based SIGINT Light Electronic Support System.
+
+EULE German Ground Based SIGINT Light Electronic Support System
+
+This equipment has proliferated into the following countries: Germany.
+
+Here is System information for the EULE German Ground Based SIGINT Light Electronic Support System:
+The Alternative Designations is Owl (English), (TMS) 210.
+The Description is Transportable Monitoring System.
+The Crew is 2.
+The Receiver is 60.
+The Power Supply is 11/ 32.
+The Designation is ESMB.
+The Power Supply Weight is 36.8.
+The Operational Frequency Ranges is .9 – 3,000.
+The DF and Intercept is 20 - 1300.
+The Intercept only is ≥1300.
+The FM Voice is YES.
+The FM Telegraph / Teletype is YES.
+The FM Facsimile is YES.
+The FM Morse Code is YES.
+The AM Telegraph is YES.
+The AM Voice is YES.
+The AM Morse Code is YES.
+The AM Facsimile is YES.
+The GSM is YES.
+The Fast scan speed is 1.3.
+The Scan Mode is Frequency, memory and radio frequency panorama.
+The Target Data is Identifies and locates LPI, LPD emissions Frequency Hop, and Spread Spectrum.
+The Frequency identification accuracy is ± 30MHz.
+The Accuracy of DF, degrees is 2.
+The ADD 195 is 20-1300.
+The ADD 170 UHF DF antenna for GSM is 800-2,000.
+The HE 500 (MHz) is 20-3,000.
+The Storage is 1.
+The LAN 500 m, (copper pair) is 128.
+The Serial 300m is 20.
+The GSM Link is 10.
+The Operations Time is 12.
+The Operation is 40 °C to +65 °C.
+The Storage is -40 °C to +65 °C.
+The Receiver Frequency Range is .9 – 26,500.
+
+Here is Dimensions information for the EULE German Ground Based SIGINT Light Electronic Support System:
+The Length is 6.6 m.
+The Width is 2.39 m.
+The Height is INA.
+The Weight, Combat is 14 tons.
+
+Here is Automotive information for the EULE German Ground Based SIGINT Light Electronic Support System:
+The Engine Name is Mercedes Benz.
+The Engine Type is Diesel.
+The Engine Power is 306 hp.
+The Maximum Speed is 80 km/h.
+The Maximum Range is 200 km.
+The Fuel Capacity is INA.
+
+Here is Protection information for the EULE German Ground Based SIGINT Light Electronic Support System:
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

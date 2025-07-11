@@ -1,0 +1,82 @@
+This document describes the Matka-Class (Project 206MR Class) Ukrainian Guided Missile Patrol Boat.
+
+The Matka class is the NATO reporting name for a group of hydrofoil missile boats built for the Soviet Navy (Baltic Fleet and Black Sea Fleet). The Soviet designation is Project 206MR Vikhr. Following the 1997 Black Sea Fleet partition treaty all Black Sea Fleet Matka class boats were passed to the Ukrainian Navy.
+
+This equipment has proliferated into the following countries: Russian Federation, Ukraine.
+
+Here is Variants information for the Matka-Class (Project 206MR Class) Ukrainian Guided Missile Patrol Boat:
+The P153 Pryluky is The Pryluky is the last ship active in this class. Due to limited supply of P-25 "Termite" anti-ship missiles, Ukrainian Navy removed the onboard CT-97m missile launch cannisters to make room for future "Neptune" missile launchers. Unknown if Neptune missile launchers were successfully installed and tested..
+
+Here is System information for the Matka-Class (Project 206MR Class) Ukrainian Guided Missile Patrol Boat:
+The Alternative Designation is Matka PTG, Guided Missile Boat, Project 206MR Vikhr.
+The Type is Hydrofoil Guided Missile Patrol Boat.
+The Builder is Sudostroitel'noye Obyedineniye "Almaz" (Sredniy Neva), Kolpino, Russia.
+The Complement is Crew of 30 personnel.
+
+Here is Dimensions information for the Matka-Class (Project 206MR Class) Ukrainian Guided Missile Patrol Boat:
+The Length is 38.6.
+The Beam is 7.6.
+The Draft is 3.26.
+The Displacement, Standard is 233 tons.
+The Displacement, Full Load is 257 tons.
+
+Here is Propulsion System information for the Matka-Class (Project 206MR Class) Ukrainian Guided Missile Patrol Boat:
+The Engine Name is 3 x General Electric LM503 B2 or Zvezda M504.
+The Engine Type is Diesel.
+The Propulsion is Shaft, Propeller.
+The Engine Power is 15,000 hp.
+The Maximum Speed is 42 kts.
+The Maximum Range is 600 nm (1,100 km).
+The Endurance is 5 days.
+
+Here is Weapons System #1 information for the Matka-Class (Project 206MR Class) Ukrainian Guided Missile Patrol Boat of the Weapons Systems:
+The Name is Otobreda Cannon (Italian Manufacturer).
+The Type is Naval Gun /  Deck Gun.
+The Caliber is 76.
+The Maximum Firing Range (High Explosive Cartridge) is 16,000.
+
+Here is Weapons System #2 information for the Matka-Class (Project 206MR Class) Ukrainian Guided Missile Patrol Boat of the Weapons Systems:
+The Name is AK-630 CIWS.
+The Type is Close-In Weapon System.
+The Caliber is 30.
+The Quantity is 1 system turret.
+The Barrel Length is 1,629 mm (64 in).
+The Height is 1,070 mm (42 in) (above deck).
+The Weight is 1,000 kg (2,200 lb).
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880-900 m/s.
+The Feed System is Belt.
+The Sights is Radar / TV-optical.
+The Maximum Effective Range, Aerial Targets is 4,000 m (13,000 ft).
+The Maximum Effective Range, Surface Targets is 5,000 m (16,000 ft).
+
+Here is Weapons System #3 information for the Matka-Class (Project 206MR Class) Ukrainian Guided Missile Patrol Boat of the Weapons Systems:
+The Name is P-15 "Termite".
+The Type is Anti-ship missile.
+The Weight is 2,580 kg (5,690 lb).
+The Length is 5.8 m (19 ft).
+The Diameter is 0.76 m (2 ft 6 in).
+The Warhead is 454 kg (1,001 lb) hollow charge high explosive.
+The Engine is Liquid-propellant rocket, solid-propellant rocket booster.
+The Wingspan is 2.4 m (7 ft 10 in).
+The Operational Range is 40 kilometers (25 mi) / 80 kilometers (50 mi).
+The Flight Altitude is 25 to 100 meters (82 to 328 ft).
+The Speed (Maximum) is Mach 0.95.
+The Guidance System is Autopilot (inertial guidance), active radar homing, supplemented in some with infrared homing.
+
+Here is Fire Control System (FCS) information for the Matka-Class (Project 206MR Class) Ukrainian Guided Missile Patrol Boat:
+The Name is Bass Tilt.
+The Digital FCS is Yes.
+The Combat Management System is Yes.
+The Fire Control Radar is Yes.
+
+Here is Radar Systems information for the Matka-Class (Project 206MR Class) Ukrainian Guided Missile Patrol Boat:
+The Surface Search Radar is Plank Shave Radar.
+The Surveillance Radar is INA.
+The Navigation Radar is SRN-207.
+
+Here is Protection information for the Matka-Class (Project 206MR Class) Ukrainian Guided Missile Patrol Boat:
+The Countermeasures is Offboard Countermeasures Chaff and Decoy Launching System..
+The NBC Water Washdown System is Yes.
+The EW is Yes.
+

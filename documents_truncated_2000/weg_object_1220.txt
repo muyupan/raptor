@@ -1,0 +1,61 @@
+This document describes the NTC VISMOD Hummel (CICADA) German Communications Jamming System.
+
+NTC VISMOD. The Hummel (CICADA) is a tactical Very High Frequency (VHF) jammer with look through jamming capability. It is mainly intended to jam enemy multichannel links.
+The Hummel is the first generation of the Cicada-C family of jammers.
+
+Here is Variants information for the NTC VISMOD Hummel (CICADA) German Communications Jamming System:
+The Fuchs TpZ 1A1 is This version is a Hummel jammer mounted on a HELAS direction-finding vehicle..
+
+Here is System information for the NTC VISMOD Hummel (CICADA) German Communications Jamming System:
+The Alternative Designations is NTC VISMOD Hummel CICADA.
+The Description is Threat multi-range jammer.
+The Vehicle Range is 150-200.
+The Power Supply is 6 / 15.
+The Weight is 8 â 12.
+The Frequency Range is 1.5 - 3,000.
+The Transmit modulation is deception and burn through.
+The FM Voice is YES.
+The FM Telegraph / Teletype is YES.
+The FMFacsimile is YES.
+The AM Telegraph is YES.
+The AM Voice is YES.
+The PRESET FREQ is YES.
+The BROAD JAM is YES.
+The ATTACK JAM is YES.
+The MANUAL JAM is YES.
+The DECEPTION is YES.
+The Broad jam bandwidth is up to 240 MHz, in 0.1 MHz steps, simultaneous generation of up to 16 separate broadband segments.
+The Jamming efficiency is up to 16 simultaneously active radio nets.
+The Mount is Fixed site, vehicle and airborne platforms available..
+The Antenna Type is Omni directional or directional yagi.
+The FM Morse Code is YES.
+The AM Morse Code is YES.
+The Fast scan speed is 250 / 1000 (upgraded variant).
+The Passive Antennas is dipole or monopole antennas 
+vertical or horizontal polarized omnidirectional antennas
+antennas for operation on the move.
+The Amplifier types is broadband, solid-state, liquid cooled.
+The Max output power kW into 50 Î© is 10.
+The Transmitter is Continuous-wave with cable link to antenna.
+The Amplifier Power Consumption is 25.4.
+The Width of radiation pattern lobe is 360.
+The Automatic computer controlled jamming sequences is YES.
+The High power Amplifier MAX is YES.
+The âLook Throughâ Capability ensures jammer is only active when target signal is on the air is YES.
+The Broadband TDM (barrage) jamming against simultaneous spread spectrum transmitters is YES.
+The Programming protected frequencies is YES.
+The Local or remote control is YES.
+The Operation Temp is -25 - + 55.
+The Storage Temp is -40 - +70.
+
+Here is Mission Notes information for the NTC VISMOD Hummel (CICADA) German Communications Jamming System:
+The Disruption Zone Employment is Electronically isolate enemy reconnaissance units..
+The Battle Zone Employment is Electronic denial of enemy avenues of  approach..
+The Crew is 2 - 4 personnel.
+The Jamming Range is Up to 10 Km.
+The Effects is Terrestrial jamming platform including reactive,  manual, and passive scanning up to 16x nets on  HF, SINCGARS, VHF/UHF, BFT/JBC-P, Closed
+Cellular Network (3G and 4G), Wi-Fi (2.4 GHz), and TPQ-49/50..
+The Targeting is Intelligence, Movement and Maneuver, C2, and  Fires assets..
+The Vulnerability is IDF, Direct Fire, and LOS.
+The CBI is 3 systems per DTG.
+

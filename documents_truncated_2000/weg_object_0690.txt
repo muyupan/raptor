@@ -1,0 +1,41 @@
+This document describes the Kh-25 (AS-10 Karen) Russian Air-to-Ground Missile.
+
+The Kh-25/Kh-25M (Russian: Х-25; NATO:AS-10 'Karen') is a family of Soviet lightweight air-to-ground missiles with a modular range of guidance systems and a range of 10 km. The anti-radar variant (Kh-25MP) is known to NATO as the AS-12 'Kegler' and has a range up to 40 km.[2] Designed by Zvezda-Strela, the Kh-25 is derived from the laser-guided version of the Kh-23 Grom (AS-7 'Kerry'). It has now been succeeded by the Kh-38 family, but the Kh-25 remains in widespread use.
+
+Based on an air-to-air missile, the beam-riding Kh-66 had been the Soviet Union's first air-to-ground missile for tactical aircraft, entering service in 1968. However it proved difficult to use in practice as the launch aircraft had to dive towards the target. A version with radio-command guidance, the Kh-23, was first tested in 1968 but problems with the guidance system meant that it would not enter service for another five years. So in 1971 work began on a version with a semi-active laser seeker, which became the Kh-25. This was initially known in the West as the Kh-23L. State testing began on 24 November 1974, and the Kh-25 entered production in 1975.
+
+Work began on an anti-radar missile derived from the Kh-66[5] in 1972, using a passive radar seeker and SUR-73 autopilot. The long-range Kh-31 anti-radar missile came out of the same project. The Kh-27 began state testing on a MiG-27 on 8 August 1975 but did not enter service until 2 September 1980. It was assigned the NATO reporting name AS-12 'Kegler' and in effect it replaced the much heavier Kh-28 (AS-9 'Kyle').
+
+In 1973 Victor Bugaiskii was appointed head engineer of the bureau and he started work on combining the Kh-23M, Kh-25 and Kh-27 into a single modular system to reduce costs and improve tactical flexibility. This was completed by the end of 1978, resulting in the Kh-25MP (anti-radar), Kh-25ML (laser-guided) and Kh-25MR (radio-guided) family. NATO continued to refer to these as the AS-12 and AS-10 respectively, even though they could now be switched by a simple change of seeker head.
+
+This equipment has proliferated into the following countries: Algeria, India, Iran (Islamic Republic of), North Korea (Democratic People's Republic of Korea), Russian Federation, Serbia, Ukraine.
+
+Here is Variants information for the Kh-25 (AS-10 Karen) Russian Air-to-Ground Missile:
+The Kh-25 is original laser-guided variant.
+The Kh-25ML is semi-active laser guidance with tandem warhead that can penetrate 1 metre (39 in) of concrete.
+The Kh-25MA is active radar guidance, first offered for export in 1999.
+The Kh-25MAE is Kh-25MA update announced for export in August 2005 with Ka-band seeker, probably Phazotron's PSM which can detect a tank at 4,000 m (4,370 yd) and which can also be used on the Kh-25MA.
+The Kh-25MS is satellite navigation (GPS or GLONASS)[.
+The Kh-25MSE is export version of Kh-25MS, announced August 2005.
+The Kh-25MT is TV guidance.
+The Kh-25MTP is infra-red guidance variant of Kh-25MT.
+The Kh-25R/Kh-25MR is Radio-command guidance variant, it has a bigger 140 kg (309 lb) warhead..
+The Kh-27 is original anti-radiation missile.
+The Kh-25MP is modular anti-radiation variant.
+The Kh-25MPU is Updated Kh-25MP.
+
+Here is Kh-25 Air-to-Ground Missile information for the Kh-25 (AS-10 Karen) Russian Air-to-Ground Missile of the System:
+The Name is Kh-25; NATO: AS-10 Karen.
+The Type is Air-to-Ground Missile.
+The Manufacturer is Zvezda-Strela.
+The Length is 370.5 cm.
+The Diameter is 27.5 cm.
+The Wingspan is 75.5 cm.
+The Warhead is High explosive, shell-forming.
+The Warhead Weight is 89.6 kg.
+The Operational Range is 11 km.
+The Maximum Speed is 1,370–2,410 km/h.
+The Guidance System is Laser guidance, passive radar, TV guidance, IIR, Satellite guidance, active radar homing depending on varian.
+The Launch Platform is MiG-21, MiG-23/27, MiG-29, Ka-52, Su-17/20/22, Su-24, Su-25, Su-27, Yakovlev Yak-130
+Kh-25MP : MiG-23/27, Su-17/22, Su-24, Su-25.
+

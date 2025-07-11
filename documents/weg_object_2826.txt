@@ -1,0 +1,44 @@
+This document describes the PRC-146 Chinese HF Digital Radio.
+
+The PRC-146 Chinese HF Digital Radio is a DSP-based anti-jamming HF digital radio operating in the 1.6–30 MHz frequency band.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the PRC-146 Chinese HF Digital Radio:
+The Alternate Designation is PRC-146.
+The Type is HF Radio.
+The Manufacturer is China Xinshidai Company.
+The Frequency Range is 1.6–30 MHz in 10 Hz steps.
+The Operating Modes is USB;
+LSB;
+AM;
+CW.
+The Memory Channels is 256.
+The Receiver Sensitivity is <0.35 µV.
+The Transmitter Frequency Stability is 2 × 10-6/day.
+The Transmitter Frequency Accuracy is 2 × 10-6.
+The Output Power is 5, 20 W (manpack); 
+125 W (vehicular with external PA).
+The Operating Temperature is -40 to +65°C.
+The Storage Temperature is -45 to +70°C.
+The Relative Humidity is 95%, +40°C.
+The Environment is waterproof 1 m immersion for 2 h.
+
+Here is 20 W Transceiver information for the PRC-146 Chinese HF Digital Radio of the Dimensions:
+The Height is 210 mm.
+The Width is 75 mm.
+The Depth is 230 mm.
+The Weight is 3.5 kg.
+
+Here is External 125 W PA information for the PRC-146 Chinese HF Digital Radio of the Dimensions:
+The Height is 210 mm.
+The Width is 90 mm.
+The Depth is 230 mm.
+The Weight is 4.5 kg.
+
+Here is External 125 W Antenna Tuner information for the PRC-146 Chinese HF Digital Radio of the Dimensions:
+The Height is 400 mm.
+The Width is 150 mm.
+The Depth is 285 mm.
+The Weight is 9 kg.
+

@@ -1,0 +1,163 @@
+This document describes the Mi-28 (Havoc) Russian Attack Helicopter.
+
+The Mi-28 (Havoc) Russian Attack Helicopter is a twin-engine attack helicopter developed and manufactured by Russian Helicopters in the Russian Federation. Design work began in early 1980 and the initial prototype first flew in 1982, but the program was discontinued due to preference of the Kamov Ka-50 helicopter for the Russian Army's light combat helicopter requirement. The program was re-started with work on the Mi-28N, which was introduced in 2008. The helicopter features a five-blade main rotor and a tail rotor. It has armored, stepped-cockpits for two crew, fixed tricycle type undercarriage, a distinctive nose radome and a chin mounted 30 mm cannon.
+
+
+
+
+This equipment has proliferated into the following countries: Algeria, CFE Treaty, Iraq, Kenya, Russian Federation, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the Mi-28 (Havoc) Russian Attack Helicopter:
+The Mi-28N/MMW Havoc is All weather day-night version adopted by Russian military in 2009. Equipped with a top-mounted millimeter wave radar, thermographic camera-TV, and a laser rangefinder. Powered by two Russian Klimov TV3-117VMA-SB3 engines (2,500 hp each), produced by the Ukrainian Motor-Sich and replaced by Russian-made VK-2500 engines as of 2016. Max takeoff weight: 11,500 kg, max payload: 2,350 kg..
+The Mi-28NE is Export version of the Mi-28N. In service with the Iraqi and Algerian Air Force. In August 2018, the Russian Helicopters unveiled an upgraded Mi-28NE variant, with improvements made in the main rotor system and engine unit and new on-board radio-electronic equipment..
+The Mi-28NM is An upgraded version of the Mi-28N under development since 2009. The helicopter has redesigned nose hull due to removal of its nose antenna, new H025 radar station for all-round visibility, more powerful Klimov VK-2500 engines instead of the previous Klimov TV3-117VMA engines and improved rotor blades to increase its maximum speed by 13% and cruise speed by 10%..
+The Mi-28D is Simplified daylight operation version. Similar to Mi-28N, but without top-mounted radar and FLIR.
+The Mi-28NAe is Export version offered to North Korea.
+The Mi-40 is Proposed armed transport version. Never reached prototype stage..
+The Mi-28UB is Training-and-combat version, designed for training for Mi-28N. Has dual hydromechanical flight controls that can be operated from tandem cockpits, a more spacious lower cockpit to house a flight instructor, a wider pilot canopy, and new energy-absorbing crew seats. Serves as a trainer but can perform attack helicopter tasks..
+The Mi-40 is The Mil Mi-40 was a projected utility version of the Mi-28, first initiated in 1983, announced in 1992 and shown at the Moscow Airshow in 1993. It was primarily intended for the "Aerial Infantry Fighting Vehicle" category as a successor to the Mil Mi-24 and Mi-8 assault helicopters..
+
+Here is Dimensions information for the Mi-28 (Havoc) Russian Attack Helicopter:
+The Length is 16.85.
+The Length, with rotors revolving is 21.16.
+The Width is 4.81.
+The Height is 3.82.
+The Rotor Diameter is 17.20.
+The Weight, Full Load is 11,500.
+The Weight, Normal is 10,400.
+The Weight, Empty is 7,890.
+The Weight, Combat Load is 638.
+The Weight, Maximum Combat Load is 1,605.
+
+Here is Automotive information for the Mi-28 (Havoc) Russian Attack Helicopter:
+The Engine Name is 2 x  Klimov TV3-117.
+The Engine Type is Turboshaft engines.
+The Engine Power is 2,200 hp each.
+The Fuel Capacity, Internal is 1,337.
+The Fuel Capacity, Drop Tanks is 445.
+The Speed, Cruise is 260.
+The Speed, Maximum is 282.
+The Range, Normal Takeoff Weight is 460.
+The Ceiling, Hovering is 3,450.
+The Ceiling, Service is 5,750.
+The Range, Ferry with Drop Tanks is 1,105.
+The Endurance is 2.
+The G Limits is +3.5.
+
+Here is Communications information for the Mi-28 (Havoc) Russian Attack Helicopter:
+The UHF Radio is Yes.
+The VHF Radio is Yes.
+The IFF Capabile is Yes.
+
+Here is System information for the Mi-28 (Havoc) Russian Attack Helicopter of the Chin Mounted Gun:
+The Name is 1 x Shipunov 2A42.
+The Type is Autocannon.
+The Caliber is 30.
+The Manufacturer is Tulamashzavod.
+The Total Length is 3,027.
+The Number of Barrel is 1.
+The Barrel Length is 2,416 mm.
+The Weight is 115.
+The Max Rate of Fire (Low) is 200-300 rds/min.
+The Max Rate of Fire (High) is 550-800 rds/min.
+The Maximum Firing Range is 4,000.
+The Effective Firing Range is 2,000.
+The Action is Gas-operated.
+The Feed System is Twin Feed.
+
+Here is Ammunition (Option 1) information for the Mi-28 (Havoc) Russian Attack Helicopter of the Chin Mounted Gun:
+The Name is M929.
+The Type is APFSDS-T.
+The Caliber is 30.
+The Cartridge is 30mm × 165mm.
+The Muzzle Velocity is 1,260.
+The Basic Load is 300.
+The Note #1 is A sub-caliber fin-stabilized discarding sabot round with tracer from Belgian Mecar, with tungsten alloy penetrator. Penetration: 50 mm RHA steel at 60 degree impact at 1,000 m range.
+The Note #2 is Rounds from High Explosive Incendiary (HEI) to Armour-Piercing Discarding Sabot (APDS) can be used..
+
+Here is Rocket System information for the Mi-28 (Havoc) Russian Attack Helicopter of the Wing Mounted Weapons:
+The Name is 2 x B-13L Rocket Pods.
+The Type is Rocket Pod.
+The Length is 3,560.
+The Diameter is 410.
+The Unloaded Weight is 160.
+The Number of Rockets per Rocket Pod is 5.
+The Firing Interval is 0.15.
+
+Here is Rocket System Ammunition information for the Mi-28 (Havoc) Russian Attack Helicopter of the Wing Mounted Weapons:
+The Name is S-13.
+The Type is 122mm caliber unguided rocket weapon.
+The Length is 2.54.
+The Diameter is INA.
+The Muzzle Velocity is INA.
+The Launch Weight is 57.
+The Warhead Weight is 21.
+The Effective Range is 1.1-3.
+The Penetration is Penetrates 3 m of earth and 1 m of reinforced concrete. On runways it produces a demolition area of 20 m². Velocity 650 m/s..
+The Basic Load is 5 Rockets per B-13L.
+The Note is In total the Mi-28 carries 10 x S-13 Rockets (5 Rockets in each B-13L Rocket Pod)..
+
+Here is Anti-Tank Guided Missile System (Option 2) information for the Mi-28 (Havoc) Russian Attack Helicopter of the Wing Mounted Weapons:
+The Name is 2 x Shturm.
+The Type is ATGM.
+The In Service is 1976-Present.
+The Missile Length is 1,630.
+The Missile Diameter is 130.
+The Fin Span is 360.
+The Missile Weight is 31.4.
+The Guidance System is Radio Guided.
+The Warhead Type is HEAT.
+The Warhead Weight is 5.3.
+The Range of Fire is 5.
+The Basic Load is 8.
+
+Here is Anti-Tank Guided Missile System (Option 2) information for the Mi-28 (Havoc) Russian Attack Helicopter of the Wing Mounted Weapons:
+The Name is 2 x Ataka (AT-9 Spiral-2).
+The Type is ATGM.
+The In Service is 1990-Present.
+The Missile Length is 1.83.
+The Missile Diameter is 0.13.
+The Fin Span is 0.36.
+The Missile Weight is 42.5.
+The Warhead Type is tandem HEAT, fuel-air explosive, expanding rod.
+The Warhead Weight is 7.4.
+The Guidance System is Radio-Guided & Semi-Automatic Command to Line of Sight (SACLOS) guidance.
+The Speed is supersonic.
+The Range of Fire is 6.
+The Basic Load is 8.
+
+Here is Fire Control information for the Mi-28 (Havoc) Russian Attack Helicopter:
+The Fire Control System Type is Integrated surveillance and fire control system.
+The Fire Control Radar is Yes.
+The Digital or Analog Cockpit is Digital.
+The Direct Fire Control is Yes.
+The Laser Designator is Yes.
+The Laser Rangfinder is Yes.
+The Automated Helmet is Yes,  target designation and indication system.
+The Sights is TV Channel, Thermal, EO.
+The GPS is Yes.
+The Navigation is Integrated Inertial Navigation.
+The Night Vision Compatible Cockpit is Yes.
+
+Here is Protection information for the Mi-28 (Havoc) Russian Attack Helicopter:
+The Crew Compartment Armor is It withstands hits from 12.7 mm armor-piercing rounds and 20 mm HE-FRAG rounds. It is claimed that this helicopter can not be defeated by a single short-range anti-aircraft missile..
+The Windsheild is Protection from 7.62 and 12.7 mm armor piercing bullets and 20 mm shell fragments..
+The Warning System is Mak IR Warnign System.
+The NBC Protection is Yes.
+The EW is INA.
+The Counter Measures (Chaff/Flares) is Yes, UV-26 flares.
+The IR Sensors is Yes, 2 x fixed IR sensors.
+The IR Suppressors is Yes.
+The Jammer System is Platan Jammer.
+The Radar Warning System is Yes.
+The Laser Warning System is Yes.
+The Energy Absorbing Seats is Yes.
+The Parachute Escape System is Yes, in a hatch on the port side to the rear of the wing.
+
+Here is CVI: WEFT information for the Mi-28 (Havoc) Russian Attack Helicopter:
+The Wings is Short-sloped wing weapon load mount points..
+The Engine is Engine exhausts on both sides of fuselage.
+Dual air inlets..
+The Fuselage is Mouse nose radar. High accuracy radar navigation system. Armored angular shaped tandem pilot canopies. Fixed-wheeled landing gears. Target sight system. Under mount 30mm chain gun..
+The Tail is Features a stabilizer wing and fin. Tail rotor is on right side..
+

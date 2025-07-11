@@ -1,0 +1,58 @@
+This document describes the 1V14 Russian Artillery Command and Reconnaissance Vehicle.
+
+The 1V14 ACRV is an armored battery command and control vehicle. It is equipped with the 1T121 land navigation system, a 1D15 laser rangefinder, and the 1PN44 day/night sight mounted in a basket turret.  The observer uses an analog coordinate converter to translate the polar location data when determining rectangular target coordinates.  The 1V14 has an internal power generator.  The 1V520 fire direction computer may be transported internally and dismounted at a command observation post.  The artillery commander, assisted by target acquisition, fire direction, and communication personnel mans the vehicle.
+
+This equipment has proliferated into the following countries: Belarus, Bosnia and Herzegovina, CFE Treaty, Czech Republic, Estonia, Hungary, Kazakhstan, Kurdistan, Kyrgyzstan, Romania, Russian Federation, Ukraine, Uzbekistan.
+
+Here is Variants information for the 1V14 Russian Artillery Command and Reconnaissance Vehicle:
+The 1V14M is Modified artillery command and control set featuring the APPK artillery data computation and digital transmission computer system..
+
+Here is System information for the 1V14 Russian Artillery Command and Reconnaissance Vehicle:
+The Alternative Designation is 1V14; M1974-2A.
+The Type is Artillery Command and Reconnaissance Vehicle.
+The Manufacturer is Ob'yekt 10.
+The Chassis is MT-LBu.
+The Crew is 4 - 6 personnel.
+
+Here is Dimensions information for the 1V14 Russian Artillery Command and Reconnaissance Vehicle:
+The Height, Overall is 2.72.
+The Length, Chassis Overall is 7.26.
+The Width, Overall is 2.85.
+The Weight, Combat is 15.7 tons.
+
+Here is Automotive information for the 1V14 Russian Artillery Command and Reconnaissance Vehicle:
+The Engine Name is YaMZ-238.
+The Engine Type is Diesel.
+The Engine Power is 240 hp.
+The Speed, Maximum Road is 60.
+The Speed, Maximum Swim is 4.5.
+The Fording Depth is Amphibious.
+The Speed, Cross is INA.
+
+Here is Radio information for the 1V14 Russian Artillery Command and Reconnaissance Vehicle of the Communications:
+The Name is R-123M (3 each), R-107M (1 each).
+
+Here is System information for the 1V14 Russian Artillery Command and Reconnaissance Vehicle of the Main Weapon System:
+The Name is 1 x PKT 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Range, Direct Fire is 1,500.
+The Range, Maximum Effective, Day is 1,000.
+The Range, Maximum Effective, Night is 1,000.
+The Range, Maximum Effective, On the Move is Yes.
+The Rate of Fire, Cyclic is 650, 2-10 round bursts.
+The Fire on Move is Yes.
+The Sights is Iron Sights.
+
+Here is Sensors / Components information for the 1V14 Russian Artillery Command and Reconnaissance Vehicle:
+The Fire Direction (Automated) is 1V520.
+The Fire Direction (Manual) is PUO-7.
+The Navigation is 1T121-M Navigation System.
+The Other Equipment is 1D15 laser rangefinder, DSP-30 rangefinder, 1PN44 day/night sight, PAB-2AM aiming circle, DS-1 steroscopic rangefinder, VOP-7 vision blocks and driver periscopes..
+
+Here is Protection information for the 1V14 Russian Artillery Command and Reconnaissance Vehicle:
+The Armor, Hull is 15.
+The Armor, Turret Top is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

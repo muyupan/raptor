@@ -1,0 +1,46 @@
+This document describes the MK 48 (Maximi) Belgian 7.62mm Light Machine Gun.
+
+The Mark 48, or Mk 48, or Maximi is a lightweight belt-fed machine gun, firing 7.62×51mm NATO cartridges from a disintegrating belt of ammunition.
+
+It is manufactured by Fabrique Nationale Manufacturing, Inc., a division of FN Herstal based in the United States. The Mk 48 has been developed in conjunction with the U.S. Special Operations Command (USSOCOM), which has adopted the weapon and started its fielding process, beginning with special operations units.
+
+
+The Mk 48 Mod 0 is a gas-operated, air-cooled, fully automatic belt-fed machine gun. The design is based on an early 7.62×51mm NATO prototype of the FN Minimi, modified to be a scaled-up version of the 5.56 mm Mk 46 Mod 0.
+
+Being heavily based on the Mk 46 Mod 0, the Mk 48 Mod 0 features five MIL-STD-1913 Picatinny rails (one on top of the receiver, one on each side of the forearm/handguard, one under the handguard, and one on top of the barrel), an integral folding bipod, and a tripod-mounting lug. The weapon is fitted with the same fixed, polymer buttstock as the M249, although the metallic, collapsible buttstock from the "Para" model can be found in some models. The carrying handle, which had been removed from the Mk 46, was reintegrated on the Mk 48 to assist the replacement of hot barrels without use of other equipment, such as heat-resistant gloves; the handle can be folded down when not in use. As with the Mk 46, the Mk 48 Mod 0 does not have an M249-type magazine feed port, in order to save weight. The weapon can be fed from a loose belt, separate belt boxes, or clip-on ammunition pouches for 100 rounds.
+
+There is a high degree of parts commonality between the Mk48, M249 and Mk46 machine guns, which simplifies maintenance and repair. The use of M1913 "Picatinny" rails allows the fitting of various accessories from the SOPMOD kit, such as the ECOS-N (Enhanced Combat Optical Sight) red dot sight and other sighting or target-designating devices. The Mk 48 can also be fitted with a vertical foregrip for increased controllability during sustained fire. While heavier than the 5.56×45mm NATO M249 due to its larger chambering and heavier barrel, the Mk 48 Mod 0 is still 17% lighter and 8.4% shorter than the M240.
+
+The Mk 48 Mod 0 is currently in service with certain USSOCOM units, such as the U.S. Navy SEALs and Army's 75th Ranger Regiment.
+
+This equipment has proliferated into the following countries: Belgium, United States of America.
+
+Here is Variants information for the MK 48 (Maximi) Belgian 7.62mm Light Machine Gun:
+The Mk 48 Mod 0 is This is a 7.62×51mm NATO version of the Mk 46, used by USSOCOM when a heavier cartridge is required.[3] It is officially classified as an LWMG (light weight machine gun) and was developed as a replacement for the Mk 43 Mod 0/1. The M60-based machine guns are a great deal more portable than the heavier M240-based designs used elsewhere in the U.S. military in the infantry medium machine gun role. The M60-based designs have a long history of insufficient reliability, however. Trials conducted through the mid-1990s led the U.S. Army to replace its M60 with M240B GPMGs. The M240B weighs in at ~27.5 lb and is about 49 inches long with the standard barrel. Due to this extra weight and size NAVSPECWAR was reluctant to give up the increased portability of the M60 (~22.5 lb, 37.7 inches OAL with the shortest "Assault Barrel") designs, despite the M240's increased reliability. A request was put in for a new machine gun in 2001, and FN responded with a scaled-up version of the M249 weighing in at ~18.5 lb with an OAL of ~39.5". This new design achieved much better reliability than the M60-based weapons while bettering its light weight and maintaining the same manual of arms as the already in-use M249. USSOCOM was slated to begin receiving deliveries of the new gun in August 2003..
+The Mk 48 Mod 1 is The Mk 48 Mod 1 is an update of the Mk 48 Mod 0. Like the Mod 0, it is essentially an M249 scaled up to fire the 7.62×51mm NATO round. The Mod 1 utilizes a 19.75-inch barrel, weighs in at 18.37 lb unloaded, and has a rate of fire of 500–625 rpm. Major changes include the use of an adjustable buttstock, modified rail interface system, removal of the original hinged heat guard in favor of M249-style ones attached to the barrel, and modified bipod mount..
+The Mk 48 Mod 2 prototype is At the National Defense Industry Association’s annual Special Operations Forces Industry Conference (SOFIC), which began on May 20 2019, FN has unveiled a prototype of its new Mk 48 Mod 2 machine gun chambered for 6.5mm Creedmoor. It was developed in response to a USSOCOM requirement. American special operations forces are interested in acquiring a lightweight belt-fed "assault" machine gun, which would offer better range than existing weapons..
+
+Here is System information for the MK 48 (Maximi) Belgian 7.62mm Light Machine Gun of the System:
+The Name is Mk 48 Machine Gun.
+The Alternative Designation is Mark 48, or Mk 48, or Maximi.
+The Type is Light Machine Gun.
+The Caliber is 7.62mm.
+The Manufacturer is FN Herstal.
+The In Service is 2003-Present.
+The Length is 1,000 mm.
+The Barrel Length is 502 mm.
+The Weight is 8.2 kg (22.006 lb) empty
+11.2 kg (24.7 lb) w/ 100 rounds.
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 710 (± 50) rounds/min.
+The Maximum FIring Range is 3,600 m.
+The Effective Firing Range is 800 m.
+The Feed System is Disintegrating belt (M13 link).
+The Sights is INA.
+
+Here is Ammunition information for the MK 48 (Maximi) Belgian 7.62mm Light Machine Gun of the System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO (STANAG 2310).
+The Basic Load is 1,200.
+

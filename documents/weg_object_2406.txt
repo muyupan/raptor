@@ -1,0 +1,295 @@
+This document describes the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV).
+
+The BMD-3 (Boyevaya Mashina Desanta, Russian "Боевая Машина Десанта", literally "Combat Vehicle of the Airborne") is an infantry fighting vehicle (IFV) originating from the former Soviet Union. The BMD-3 was designed to address the flaws in the BMD-1 and BMD-2 designs. This armored fighting vehicle is one of the lightest in its class and is intended to be a fire support platform for use by airborne and air assault units. The primary armament is a 30 mm 2A42 autocannon capable of firing different types of ammunition which include high-explosive and armor-piecing. The BMD-3 possesses multiple secondary weapons such as the 9M113 Konkurs missile and the AGS-17 grenade launcher to defeat a wide range of targets from enemy infantry to other armored fighting vehicles.
+
+The development of this 3rd generation airborne combat vehicle was initiated during the same time frame of the development of the BMP-3. However, the results of the development showed that the mass of the BMP-3 with landing facilities will significantly exceed 20 tones limiting an Il-76 to transporting one vehicle. In the early 1980s, the creation of an airborne combat vehicle was initiated. During the design, two options were considered for the BMD-3. The first one included a chassis weighing over 18 tones with a 100 mm 2A70 rifled gun and a coaxial 30 mm 2A72 autocannon. The second option was to use the combat module with a 30 mm 2A42 autocannon. Thus, an IL-76 could be loaded either with two airborne combat vehicles weighing 18 tones, or three airborne combat vehicles weighing 12.5 tones. Research showed that the latter version of the new BMD-3 ran much more efficiently. On the basis of the experience gained and the results of the research, the Council of Ministers of the USSR and the CPSU number 451-159 officially opened the ROC under the code "Bakhcha" on 20 May 1983. Work included the development of an airborne combat vehicle weighing 12.5 tones with the Volgograd tractor factory appointed as the head developer.
+
+One month later, an agreement was made for the tactical and technical requirements for the new BMD as well as a complete technical design stage. When developing the new BMD, the experience gained in the course of work on the BMD-1 and "Object 934" light tank was used. By 1985, the acceptance testing of three new BMD prototypes was completed. The test results revealed that all the samples exceeded the permissible mass by 190–290 kg and that the running vehicle gave numerous failures. The design bureau VgTZ fixed most of the shortcomings and were eliminated. By May 1986, the refined BMD prototypes completed preliminary tests with three more prototypes developed by the Volgograd tractor factory. These were sent to the state test for another evaluation. New samples exceeded the permissible mass by 400 kg, as they were made subject to measures of improving the reliability of the running transmission gears. The BMD state tests took place between 27 October 1986 and 27 October 1987. According to test results, two to three vehicles were completed and sent to the control tests in different climatic zones conducted from 10 July to 19 November 1988. The conclusion for the "Bakhcha" was assessed as positive with the vehicle fulfilling the tactical and technical requirements set by the airborne troops. On 10 February 1990, the USSR adopted the "Object 950" IFV into service under the designation BMD-3. The serial production of the BMD-3 was then initiated and continued until 1997. Excluding six prototypes produced before 1990, 137 BMD-3s were produced from the year of its adoption to the end of its serial production.
+
+This equipment has proliferated into the following countries: Angola, CFE Treaty, China, Russian Federation.
+
+Here is Variants information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The BMD-3K is The commander variant of the BMD-3 adopted by the Russian Army in 1996. Mass production of this vehicle was never initiated..
+The 2S25 Sprut-SD (Object 952) is A self-propelled anti-tank gun that entered service in 2005. This vehicle has the chassis of the BMD-3 and is operated by a crew of three. The main armament is the 125 mm 2A75 smoothbore gun which is a variant of the 2A46 smoothbore gun series used by Soviet main battle tanks since the T-64. It can fire the ammunition of the 2A46 including the 9M119 Svir. The chassis has seven road wheels on each side instead of five and the engine is now the 2V-06-2S with a power of 510 hp..
+The BTR-MD “Rakushka” (Object 955) is A multi-role transport vehicle with bigger hull and no turret. This type can be used to transport troops, fuel, ammunition and wounded personnel. It also serves as the basis for a new range of specialised vehicles for the Russian airborne forces, including a mortar platform and an ambulance..
+The BTR-MDM is A modernized version with the same improvements as the BMD-4M..
+The RKhM-5 (Object 958) is A chemical reconnaissance vehicle introduced in 2011 and is fitted with the same specialized equipment as the BTR-80 version known as the RKhM-4. The turret has been removed; the RKhM-5 has a fixed superstructure with a machine gun turret. The hull is larger allowing it to transport troops, fuel, ammunition and wounded personnel.
+The BMD-4 (Object 960) is Originally designated as the BMD-3M, this vehicle has a modified chassis with new turret known as the "Bakhcha-U". The weaponry bears greater similarity to the BMP-3. This new armament consists of: a 100 mm 2A70 rifled main gun, a 30mm 2A72 autocannon, a 7.62 mm coaxial machine gun, and new "Ramka" fire control system. The bow-mounted AGS-17 has been removed and is replaced with an AGS-30. BMD-4s are newly built or upgraded BMD-3s. The BMD-4 is no longer being purchased for the Russian troops, in favor of the BMD-4M..
+The BMD-4M is The upgraded variant with a new chassis and the 500 hp UTD-29 engine of the BMP-3. This version will be produced by Kurganmashzavod (KTZ) instead of VgTZ. The vehicle was presented to the VDV in March 2008. According to KTZ, series production could have started in 2009. The BMD-4M was evaluated by the VDV.
+The BMM-D is A command post vehicle and a recovery vehicle. Some variants will have a longer chassis with seven road wheels and probably the same 510 hp engine as the 2S25..
+
+Here is Dimensions information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Length, Overall is 6.36 m.
+The Length, Hull is 6.00 m.
+The Width is 3.134 m.
+The Height is 2.17 m.
+The Weight is 13,200 kg.
+The Ground Clearance is 0.45 m.
+The Ground Pressure is 0.54 kg/cm² (52,956 Pa) (7.68 psi).
+
+Here is Automotive information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is 2V-06 (Some models have been replaced with the BMD-4M Engine).
+The Engine Type is Diesel.
+The Engine Power is 450.
+The Fuel Capacity is 450 liters.
+The Power-to-Weight Ratio is .
+The Range, Land is 500.
+The Range, Water is 80 km.
+The Speed, Maximum Road is 71.
+The Speed, Average Cross is 40.
+The Speed Maximum Swim is 10.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.8.
+The Trench is 1.8.
+The Fording Depth is Amphibious.
+
+Here is Communications information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Primary Radio is R-173.
+The Secondary Radio is Digital R-168.
+
+Here is System information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is 1 × turret-mounted 30 mm 2A42 Autocannon.
+The Type is Autocannon.
+The Caliber is 30 mm.
+The Manufacturer is Tulamashzavod.
+The Length (Total) is 3.02.
+The Barrel Length is 2.4.
+The Weight is 115.
+The Action is Gas-operated.
+The Barrels is 1.
+The Max Rate of Fire (Low) is 200-300.
+The Maximum Elevation is +75.
+The Minumum Elevation is -5.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Max Rate of Fire (High) is 550-800.
+The Effective Firing Range is 2,000.
+The Maximum Firing Range is 4,000.
+The Feed System is Twin Feed.
+
+Here is Ammunition (Option 1) information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is 3UOF8.
+The Type is HEI.
+The Caliber is 30.
+The Cartridge is 30 × 165 mm.
+The Projectile Weight is 389.
+The Bursting Charge is 49.
+The Muzzle Velocity is 960.
+The Basic Load is 860 Rounds.
+The Note is A high-explosive incendiary round with A-670M nose fuze.The fuze produces a 0.15 millisecond delay on impact, and a self-destruct mechanism detonating the projectile after 7.5 to 14.5 seconds of flight (3900–5300 m distance from muzzle)..
+
+Here is Ammunition (Option 2) information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is M929.
+The Type is APFSDS-T.
+The Caliber is 30.
+The Cartridge is 30 × 165 mm.
+The Muzzle Velocity is 1,260.
+The Projectile Weight is 235.
+The Bursting Charge is None.
+The Basic Load is 860 Rounds.
+The Note is A sub-caliber fin-stabilized discarding sabot round with tracer from Belgian Mecar, with tungsten alloy penetrator. Penetration:
+50 mm RHA steel at 60 degree impact at 1,000 m range.
+
+Here is Ammunition (Option 3) information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is 3UBR8.
+The Type is APDS.
+The Caliber is 30.
+The Cartridge is 30 × 165 mm.
+The Projectile Weight is 304.
+The Bursting Charge is None.
+The Muzzle Velocity is 1,120.
+The Basic Load is 860 Rounds.
+The Note is A sub-caliber discarding sabot. No tracer. Penetration:
+25mm RHA at flat angle of impact, 1500 m range
+
+25mm thick plate at 60 degree impact, 1500 m.
+
+Here is System information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Grenade Launcher:
+The Name is 1 x AGS-17 Plamya, 30mm Automatic Grenade Launcher.
+The Type is Automatic Grenade Launcher.
+The Caliber is 30 mm.
+The Manufacturer is Molot plant.
+The In Service is 1970-Present.
+The Proliferation is Widely Proliferated.
+The Variants is AG-17A helicopter-mounted version.
+The Length is 840.
+The Weight is 31.
+The Rate of Fire is 400.
+The Effective Firing Range is 8,00 - 1,700.
+The Maximum Effective Range is 1,700.
+The Action is Blowback.
+The Feed system is 29 grenades belt.
+The Sights is Adjustable iron sights, optional mount required for optical sights.
+
+Here is Ammunition (Option 1) information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Grenade Launcher:
+The Name is VOG-17M.
+The Type is 30mm Grenade.
+The Cartridge is 30×29mm grenade.
+The Warhead is High explosive fragmentation warhead..
+The Muzzle velocity is 185.
+The Effective Firing Range is 8,00 - 1,700.
+The Basic Load is 40.
+
+Here is Ammunition (Option 2) information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Grenade Launcher:
+The Name is VOG-30.
+The Type is 30mm Grenade.
+The Cartidge is 30×29mm grenade.
+The Muzzle velocity is 185.
+The Effective Firing Range is 8,00 - 1,700 m.
+The Basic Load is 40.
+
+Here is System information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 1 x PKT 7.62mm (Kalashnikov's Machine Gun) General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Type is General-Purpose Machine Gun.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Max Rate of Fire is 650.
+The Effective Rate of Fire is 250-300.
+The Action is Gas-operated, open bolt.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Effective Firing Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 4,000.
+The Sights is Iron Sights.
+The Note is The 7.62 PKT can be controlled remotely and is slaved to the main gun,.
+
+Here is Ammunition (Option 1) information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 57-N-323S.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54 mm.
+The Muzzle Velocity is 855.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 2,500.
+
+Here is Ammunition (Option 2) information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 7N13 (AP).
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 855.
+The Basic Load is 2,500.
+The Accuracy of fire at 300 m is 90.
+
+Here is Ammunition (Option 3) information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 7BZ3 (API).
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mm.
+The Muzzle Velocity is 834.
+The Basic Load is 2,500.
+The Accuracy of fire at 300 m is 150.
+
+Here is System information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Tank Commander's Weapon System:
+The Name is 1 x RPK-74 (AK-47) General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 5.45.
+The Manufacturer is Vyatskiye Polyany Machine-Building Plant.
+The In Service is 1974-Present.
+The Proliferation is Widely Proliferated.
+The Length is 1,060.
+The Barrel Length is 590.
+The Weight (RPK) is 4.7.
+The Weight (RPKS) is 5.1.
+The Max Rate of Fire is 600.
+The Action is Gas operated, rotating bolt; closed bolt.
+The Effective Firing Range (with sight adjustments) is 100-1,000.
+The Maximum Firing Range is 3,150.
+The Feed system is 30-, 45-round box magazine, 100-round plastic drum magazine, belt ammunition (with side mounted belt feed device).
+The Sights is Iron sights: semi-shrouded front post and rear sliding tangent with an adjustable notch
+Sight radius: 555 mm (21.9 in).
+
+Here is Ammunition information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Tank Commander's Weapon System:
+The Type is Rifle.
+The Caliber is 5.45.
+The Cartridge is 5.45×39mm M74.
+The Muzzle Velocity is 960.
+The Basic Load is 2,500.
+
+Here is Anti-Tank Guided Weapon (ATGW) information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Name is 1 x 9M113 Konkurs (AT-5 Spandrel).
+The Type is Soviet SACLOS wire-guided anti-tank missile..
+The Manufacturer is Tula Machinery Design Bureau (Tula KBP) – Tulsky Oruzheiny Zavod.
+The In Service is 1974-Present.
+The Proliferation is Algeria– used by mechanized infantry units
+ Armenia
+ Azerbaijan
+ Egypt – mounted on Fahd armoured personnel carriers purchased in 1990s
+ Belarus The launcher is been locally produced and upgraded.
+ Bulgaria
+ Croatia
+ Cuba – not confirmed
+ Czech Republic
+ Eritrea[
+ Finland – known as PstOhj 82M, fired from 9P135M-1 launchers (withdrawn from service)
+ Georgia
+ Guinea
+ Hungary
+ Indonesia – mounted on BVP-2 infantry fighting vehicles operated by the marine corps
+ India – 15,000 Konkurs-M, ordered in 2008 for Rs 1,380-crore. Another 10,000 Konkurs-M ordered for US$250 million in 2012. A new contract was signed in 2019 for USD 110 mln.
+ Iran– produced domestically as Tosan-1
+ Iraq
+ Ivory Coast (reported)
+ Kazakhstan
+ Kyrgyzstan
+ Morocco[
+ Mongolia
+ Moldova– used on BRDM-2
+ North Korea – produced domestically
+ Pakistan – Used on Viper infantry fighting vehicle
+ Peru
+ Romania
+ Russia – about 300 Konkurs-M complexes delivered annually in the last years (2014)
+ Slovakia
+ Turkmenistan
+ Turkey
+ Syria
+ Ukraine
+ Houthis – Tosan version.
+The Varaints is 9M113M,Towsan-1, Tosan, Towsan, or M113, 9N131M1, 9N131M2-1.
+The Length is 1,150.
+The Diameter is 135.
+The Weight (Missile) is 14.6.
+The Weight (9P135 Launching Post) is 22.5.
+The Warhead Weight is 2.7.
+The Detonation Mechanism is Contact.
+The Engine is Solid-fuel rocket.
+The Wingspan is 468.
+The Maximum Operational Range is 4.
+The Minimum  Operational Range is 70.
+The Speed is 208.
+The Guidance system is Wire-guided SACLOS.
+The Steering system is Two control surfaces.
+The Launch platform is Individual, vehicle.
+The Penetration is 600mm of RHA.
+The Basic Load is 1 x 9M113 Konkurs (AT-5 Spandrel).
+
+Here is Fire Control information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Vehicle Commander is Yes, 1PZ-3 with a TNP-165A designator.
+The Thermal Sight Gunner is Yes, BPK-1-42 with a TNPT-1 designator and a TKN-3B binocular sight.
+The Main Gun Stabilization is Yes, 2E36-5.
+The Periscopes is TNPO-170A periscopes and the TNPO-350B night vision periscope..
+
+Here is Protection information for the BMD-3 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Hull Armor is The protection offered is thought to be sufficient to stop up to 12.7 mm rounds fired at the front of the hull and at least 7.62 mm rounds fired at the sides..
+The Turret Armor is INA.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, three 81 mm electrically-operated smoke grenade dischargers. The BMD-3 ACV can lay its own smoke screen by injecting diesel fuel into the exhaust..
+The IR Signature is INA.
+The Fire Suppression System is Yes.
+

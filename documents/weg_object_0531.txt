@@ -1,0 +1,37 @@
+This document describes the Vapor 35 American All-Electric Helicopter UAS.
+
+With advanced autopilot and a variety of available sensors, the all-electric VAPOR 35 Helicopter UAS provides the operational flexibility to meet your most demanding missions. Featuring military-grade components, intelligent
+HW/SW system design, and high energy density lithium-polymer battery, VAPOR delivers enhanced flight stability and up to one hour of flight time on a single battery charge. Multi-mission capable, VAPOR 35’s modular payload bay provides access to a variety of available integrated sensors and third party payloads including
+gimbaled EO/IR, survey grade PPK mapping, LiDAR and hyperspectral sensors. VAPOR 35’s economical packout and single case mission configuration enables one-man lift operation. Every VAPOR Helicopter UAS incorporates proprietary HeliSynth™ technology for system level optimization including advanced autopilot, payload control & operation, and mission performance efficiency.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is Variants information for the Vapor 35 American All-Electric Helicopter UAS:
+The Vapor 55 is INA.
+
+Here is System information for the Vapor 35 American All-Electric Helicopter UAS:
+The Alternate Designation is Vapor 35.
+The Type is Unmanned Aircraft Systems (UAS).
+The Manufacturer is AeroVironment.
+The Payload Capacity is 5 lbs (2.27 kg) – 10 lbs (4.5 kg).
+The Payload Options is EO/IR, LiDAR, Hyperspectral, PPK Mapping, Drop Mechanism.
+The Data Links is 900 MHz, 2.4 GHz, 5.8 GHz, Satellite.
+
+Here is Dimensions information for the Vapor 35 American All-Electric Helicopter UAS:
+The Aircraft Length is 1,941 mm.
+The Aircraft Width is 625 mm.
+The Aircraft Height is 493 mm.
+The Rotor Diameter is 1,704 mm.
+The Gross Weight is 14.5 kg.
+
+Here is Automotive information for the Vapor 35 American All-Electric Helicopter UAS:
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Range is 56 km.
+The Operating Altitude is INA.
+The Max Cruise Endurance is 60 minutes with full payload.
+The Max Hover Endurance is 45 minutes with full payload.
+The Max Wind Peak is 20 kts (23 MPH); Gusts 40 kts (45 MPH).
+The Operating Altitude is 0-12,000 MSL.
+

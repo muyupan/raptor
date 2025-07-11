@@ -1,0 +1,140 @@
+This document describes the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft.
+
+Su-27UB ("Flanker-C")
+Initial production two-seat operational conversion trainer.
+
+The Sukhoi Su-27 (Russian: Сухой Су-27; NATO reporting name: Flanker) is a Soviet-origin twin-engine supermaneuverable fighter aircraft designed by Sukhoi. It was intended as a direct competitor for the large United States fourth-generation fighters such as the Grumman F-14 Tomcat and F-15 Eagle, with 3,530-kilometre (1,910 nmi) range, heavy aircraft ordnance, sophisticated avionics and high maneuverability. The Su-27 was designed for air superiority missions, and subsequent variants are able to perform almost all aerial warfare operations. It was designed with the Mikoyan MiG-29 as its complement.
+
+The Su-27 entered service with the Soviet Air Forces in 1985. The primary role was long range air defence against American SAC B-1B and B-52G/H bombers, protecting the Soviet coast from aircraft carriers and flying long range fighter escort for Soviet heavy bombers such as the Tu-95 "Bear", Tu-22M "Backfire" and Tu-160 "Blackjack".
+
+There are several related developments of the Su-27 design. The Su-30 is a two-seat, dual-role fighter for all-weather, air-to-air and air-to-surface deep interdiction missions. The Su-33 'Flanker-D' is a naval fleet defense interceptor for use on aircraft carriers. Further versions include the side-by-side two-seat Su-34 'Fullback' strike/fighter-bomber variant, and the Su-35 'Flanker-E' improved air superiority and multi-role fighter. The Shenyang J-11 is a Chinese licence-built version of the Su-27.
+
+This equipment has proliferated into the following countries: Angola, China, Indonesia, Russian Federation, Viet Nam.
+
+Here is Variants information for the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft:
+The T10 ("Flanker-A") is Initial prototype configuration..
+The T10S is Improved prototype configuration, more similar to production spec..
+The P-42 is Special version built to beat climb time records. The aircraft had all armament, radar and paint removed, which reduced weight to 14,100 kg. It also had improved engines. Similar to the US F-15 Streak Eagle project. Between 1986–1988, it established and took several climb records from the Streak Eagle. Several of these records (such as time to climb to 3000m, 6000m, 9000m, 12000m) still stands current as of 2019..
+The Su-27 is Pre-production series built in small numbers with AL-31 engine..
+The Su-27S (Su-27 / "Flanker-B") is Initial production single-seater with improved AL-31F engine. The "T10P"..
+The Su-27P (Su-27 / "Flanker-B") is Standard version but without air-to-ground weapons control system and wiring and assigned to Soviet Air Defence Forces units. Often designated Su-27 without -P..
+The Su-27UB ("Flanker-C") is Initial production two-seat operational conversion trainer..
+The Su-27SK is Export Su-27S single-seater. Exported to China in 1992-1996 and developed into Shenyang J-11..
+The Su-27UBK is Export Su-27UB two-seater..
+The Su-27K (Su-33 / "Flanker-D") is Carrier-based single-seater with folding wings, high-lift devices, and arresting gear, built in small numbers. They followed the "T10K" prototypes and demonstrators..
+The Su-27KUB (Su-33UB) is Two-seat training-and-combat version based on the Su-27K and Su-27KU, with a side-by-side seating same as Su-34. One prototype built..
+The Su-27M (Su-35/Su-37 / "Flanker-E/F") is Improved demonstrators for an advanced single-seat multi-role Su-27S derivative. These also included a two-seat "Su-35UB" demonstrator..
+The Su-27PU (Su-30) is Two-seat version of the Su-27P interceptor, designed to support with tactical data other single-seat Su-27P, MiG-31 and other interceptor aircraft in PVO service. The model was later renamed to Su-30, and modified into a multi-role fighter mainly for export market, moving away from the original purpose of the aircraft..
+The Su-32 (Su-27IB) is Two-seat dedicated long-range strike variant with side-by-side seating in "platypus" nose. Prototype of Su-32FN and Su-34..
+
+Here is System information for the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft:
+The Alternate Designation(s) is Su-27UB; NATO: Flanker-C.
+The Primary Function / Type is Two Seat Trainer Aircraft.
+The Manufacturer is Sukhoi.
+The Crew is 2.
+The Number of Engines is 2.
+The Number of Hard Points is 10 external pylons with a capacity of up to 4,430 kg (9,770 lb).
+
+Here is Dimensions information for the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft:
+The Length is 21.9 m.
+The Width (Wing Span) is 14.7 m.
+The Height is 5.92 m.
+The Wing Area is 62 m2.
+The Empty Weight is 16,380 kg.
+The Gross Weight is 23,430 kg.
+The Maximum  Takeoff Weight is 30,450 kg.
+
+Here is Automotive information for the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft:
+The Engine Name is 2 × Saturn AL-31F afterburning turbofan engines.
+The Number of Engines is 2.
+The Engine Type is afterburning turbofan engines.
+The Engine Power is 75.22 kN (16,910 lbf) thrust each dry, 122.6 kN (27,600 lbf) with afterburner.
+The Maximum Speed is 2,500 km/h.
+The Range, at Altitude is 3,530 km.
+The Range, at Sea Level is 1,340 km.
+The Service Ceiling is 19,000 m.
+The G Limits is +9.
+The Rate of Climb is 300 m/s.
+The Thrust/Weight is 1.07 with 56% internal fuel; 0.91 with full fuel.
+
+Here is System information for the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft of the Main Gun System:
+The Name is Gryazev-Shipunov GSh-30-1.
+The Type is Autocannon.
+The Caliber is 30mm.
+The Length is 1,978 mm.
+The Barrel Length is 1,500 mm.
+The Width is 156 mm.
+The Height is 185 mm.
+The Weight is 46 kg.
+The Barrels is 1.
+The Action is Short recoil operated.
+The Rate of Fire is 1,800 rounds/min.
+The Maximum Firing Range is 1,800m.
+The Effective Firing Range is 200-1,800m.
+
+Here is Ammunition information for the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft of the Main Gun System:
+The Type is Rifle, Autocannon.
+The Caliber is 30mm.
+The Shell is 30×165mm.
+The Basic Load is 150 Rounds.
+
+Here is Main Missile System #1 information for the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft of the Main Missile Systems:
+The Name is Vympel R-27 (AA-10 Alamo).
+The Type is Air-to-Air Missile.
+The Basic Load is 6 × R-27R/ER/T/ET/P/EP air-to-air missiles.
+
+Here is Main Missile System #2 information for the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft of the Main Missile Systems:
+The Name is R-73E.
+The Type is Air-to-Air Missile.
+The Basic Load is 4 × R-73E AAMs.
+
+Here is Rocket Weapon System #1 information for the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft of the Rocket Weapon Systems:
+The Name is S-8KOM.
+The Type is HEAT Rocket.
+The Length is 1.57 m.
+The Diameter is INA.
+The Weight is 11.3 kg.
+The Warhead Weight is 3.6 kg
+(1.1 kg of Hecphol-5/A-IX-10 explosive).
+The Engine is low smoke motor with powder BN-K..
+The Range is 1.3 to 4 km.
+The Velocity is 400 mm versus RHA..
+The Armor Penetration is Velocity 610 m/s..
+
+Here is Rocket Weapon System #2 information for the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft of the Rocket Weapon Systems:
+The Name is S-13T.
+The Type is Tandem HEAT.
+The Length is 2.99 m.
+The Diameter is INA.
+The Weight is 75 kg.
+The Warhead Weight is 21 kg and 16.3 kg (1.8 kg and 2.7 kg of explosives).
+The Range is 1.1 – 4 km.
+The Velocity is Velocity 500 m/s.
+The Armor Penetration is Combined penetration of 6 m of earth and 1 m of reinforced concrete..
+
+Here is Bomb #1 information for the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft of the Bomb Weapon Systems:
+The Name is RBK-250.
+The Type is Cluster Bomb.
+The Basic Load is INA.
+
+Here is Bomb #2 information for the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft of the Bomb Weapon Systems:
+The Name is RBK-500.
+The Type is Cluster Bomb.
+The Basic Load is INA.
+
+Here is Fire Control / Avionics information for the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft:
+The Fire Control System Type is INA.
+The Fire Control Radar is Phazotron Zhuk-MSE radar.
+The Navigation Radar is N001E radar.
+The Targeting System is OEPS-27 electro-optical targeting system.
+The Radar Warning Receiver is SPO-15 Radar Warning Receiver.
+The IRST is OEPS-27 IRST.
+
+Here is Protection information for the Su-27UB (Flanker-C) Russian Two Seat Combat Trainer Aircraft:
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The NBC Protection is Yes.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

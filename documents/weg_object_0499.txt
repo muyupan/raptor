@@ -1,0 +1,61 @@
+This document describes the PHL-03 (Type 03) Chinese 300mm Multiple Rocket Launcher (MRL).
+
+The PHL-03 Chinese 300mm Multiple Rocket Launcher (MRL) is a replica of the Russian 9K58 Smerch.  The PHL-03 MRL system consists of rockets, launch tube groups, launch vehicles, command vehicles, and transport vehicles.  A reload vehicle carries 12 rockets.  A PHL-03 unit consists of a command vehicle, 4-6 launch vehicles, and 4-6 reload vehicles.
+The PHL-03 launcher can execute fire missions autonomously as each vehicle is equipped with GPS.
+The rockets are not guided however, the munitions are.
+
+This equipment has proliferated into the following countries: Cambodia, China, Ethiopia, Morocco, Tanzania.
+
+Here is Variants information for the PHL-03 (Type 03) Chinese 300mm Multiple Rocket Launcher (MRL):
+The AR2 is Export variant that is similar to its parent..
+The AR1 is Version of the PHL-03 with rearranged rocket tubes.  It was developed especially for export.  This artillery system has a total of 8 launch tubes, arranged in 2 pods with 4 rockets each.  The pods are factory fitted and sealed.  Once all of the rockets are launched the pods are removed and replaced.  Such artillery rocket systems are faster to reload, easier to store, and easier to maintain..
+The AR1A is Has a total of 10 launch tubes arranged in 2 pods of 5 rockets each..
+The AR3 is Has 8 launch tubes for 370mm guided rockets.  These are arranged in 2 pods with 4 rockets each.  These guided rockets have a maximum range of 220km and have capabilities similar to that of a short range ballistic missile..
+
+Here is System information for the PHL-03 (Type 03) Chinese 300mm Multiple Rocket Launcher (MRL):
+The Alternative Designation is PHL-03; Type 03.
+The Type is Multiple Rocket Launcher (MRL).
+The Caliber is 300.
+The Chassis/Carriage is Wanshan WS2400, 8 x 8.
+The Crew is 4.
+The Displacement Time is 1.
+The Emplacement Time is 3.
+The Launch Rate, Full Salvo Time is 30.
+The Range is 70-150.
+The Reload Time is 30.
+The Number of Rockets is 12.
+
+Here is Dimensions information for the PHL-03 (Type 03) Chinese 300mm Multiple Rocket Launcher (MRL):
+The Height is 3.0.
+The Length is 12.0.
+The Width is 3.0.
+The Weight is 43 tons.
+
+Here is Automotive information for the PHL-03 (Type 03) Chinese 300mm Multiple Rocket Launcher (MRL):
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 500.
+The Fording Depth is 1.0.
+The Maximum Range is 650.
+The Maximum Speed is 60.
+The Maximum Grade / Slope is 60.
+The Side Grade / Slope is 30.
+The Vertical Step is 0.6.
+The Maximum Trench Width is 2.0.
+
+Here is System information for the PHL-03 (Type 03) Chinese 300mm Multiple Rocket Launcher (MRL) of the Missile System:
+The Caliber is 300.
+The Length, Rocket is 7.3.
+The Fuel is Solid.
+The Range, Minimum is 20.
+The Range, Maximum is 130.
+The Warheads available is Anti-armor and anti-personnel.  Dual purpose with no less than 500 munitions.  Anti-armor munitions are believed to be able to penetrate armor less than or equal to 50mm.  DP munitions are believed to have a kill radius no less than 7m..
+
+Here is Fire Control System information for the PHL-03 (Type 03) Chinese 300mm Multiple Rocket Launcher (MRL):
+The Fire Control Computer is Digital.
+The GPS is Yes (GLONASS).
+
+Here is Protection information for the PHL-03 (Type 03) Chinese 300mm Multiple Rocket Launcher (MRL):
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

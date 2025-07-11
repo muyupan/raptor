@@ -1,0 +1,132 @@
+This document describes the SH-2 Chinese 122mm Self-Propelled Howitzer (SPH).
+
+The SH2 is a wheeled self-propelled howitzer designed and manufactured by the Chinese Defence Company Norinco. The SH2 artillery system was first unveiled at the Abu Dhabi International Defence Exhibition in 2007 (IDEX 2007) held between 18 and 22 February, and is being actively prompted to the export market. The lightweight and high-mobility features of this artillery system may be of special appeal to the PLA airborne force and marine corps. The SH2 has demonstrated superior performance under all weather conditions and a wide range of altitude, and it can be equipped with special gear as per mission requirement.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the SH-2 Chinese 122mm Self-Propelled Howitzer (SPH):
+The SH1 is The SH-1 self-propelled howitzer was developed by NORINCO for the export market. Development of this artillery system commenced in 2002. It was modeled after a French CASEAR. This Chinese artillery system was first revealed in 2007. Details of this artillery system were released at the same time as were details of the smaller SH-2 122 mm truck-mounted howitzer. Pakistan acquired a total of 90 SH-1 truck-mounted howitzers. Deliveries were completed between 2012 and 2013. This artillery system is also in service with Myanmar. The SH-1 was aimed mainly at export as Chinese army does not use this system..
+The SH3 is The WMZ322 is a 122mm tracked self-propelled howitzer designed and manufactured by the Chinese Defense Company NORINCOP (North Industries Corporation). First information about this artillery systems was released in 2005, but NORINCO has never published technical details about the product. According some Chinese military sources, the WMZ322 is proposed for the export under the name of SH-3..
+
+Here is Dimensions information for the SH-2 Chinese 122mm Self-Propelled Howitzer (SPH):
+The Length is 8.5.
+The Width is 2.5.
+The Height is 2.9.
+The Weight, Combat is 11.5.
+The Ground Pressure is INA.
+
+Here is Automotive information for the SH-2 Chinese 122mm Self-Propelled Howitzer (SPH):
+The Engine Name is INA.
+The Engine Type is Supercharged, water-cooled, diesel engine.
+The Engine Power is 160.
+The Maximum Range is 600.
+The Speed, Maximum Road is 90.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.45 m.
+The Trench is 0.7 m.
+The Fording is 1.0 m.
+
+Here is TBR-142 information for the SH-2 Chinese 122mm Self-Propelled Howitzer (SPH) of the Communications:
+The VHF FM Transceiver is Yes, TBR-142(I).
+The VHF Range is 1 to 50.
+The Megahertz is 40.000 to 59.975.
+The Output Power is 1 to 0.3.
+The Power is 12V Ni-Ca Rechargeable Battery or external 12V DC power source.
+The Dimensions is 217x135x58.
+The Weight is 2.7.
+The Antennas is 3 Total: a 1.3m whip antenna, a 0.3m short antenna, and a 10m  wire antenna.
+The Proliferated is Widely with Artillery/Gun/Missile/Reconnaissance/C2 Units.
+The Control Device is TBR-142(II).
+The Multi-function Field Phone is TBR-142(IIID).
+The Anti-Aircraft Control Unit is TBR-142(IIIG).
+The ZXY88-200 C2 Capable is Yes.
+The Messaging is Limited Capability.
+The Amplifier is Available.
+The Physical Conditions Limitations is Terrain and Weather favorable.
+
+Here is System information for the SH-2 Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is Type-96 (122 mm) towed howitzer.
+The Type is 122mm Self Propelled Howitzer (SPH).
+The Breech Type is INA.
+The Length, Barrel is 32 Calibers.
+The Loader Type is INA.
+The Max Rate of Fire is 6-8.
+The Sustain Rate of Fire is 6.
+The Time the Max Rate of Fire can be Sustained is 50.
+The Muzzle Brake Type is Fume Extractor and Muzzle Brake.
+The Max Elevation is -1.
+The Min Elevation is +79.
+The Traverse Range is INA.
+The Traverse Left is 60.
+The Traverse Right is 60.
+The Range Finder Type is Laser Guided.
+The Note is The SH2 can fire Chinese and Russian 122mm Projectiles, to include the  GP122 laser-homing projectile which has a maximum range of 5 to 14 km..
+
+Here is Ammunition (Option 1) information for the SH-2 Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is High Explosion (HE).
+The Caliber is 22mm/35cal.
+The Diamter is 39.2.
+The Weight is 21.76.
+The Muzzle Velocity is 690.
+The Fuse Type is INA.
+The Effective Range is 18,000 m (High Explosive - HE).
+The Armor Penetration is Yes, up to 85mm of conventional steel armour.
+The Basic Load is 24 total of any projectile combination.
+
+Here is Ammunition (Option 2) information for the SH-2 Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is HE Hollow Base Projectile.
+The Caliber is 122.
+The Diameter is 39.2.
+The Weight is 21.76.
+The Muzzle Velocity is 725.
+The Fuse Type is INA.
+The Effective Range is 18,000.
+The Armor Penetration is Yes, up to 85mm of conventional steel armour.
+The Basic Load is 24 total of any projectile combination.
+
+Here is Ammunition (Option 3) information for the SH-2 Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is HE Base Bleed (BB) Projectile.
+The Caliber is 122.
+The Diameter is 39.2.
+The Weight is 22.5.
+The Muzzle Velocity is 730.
+The Fuse Type is INA.
+The Effective Range is 22,000.
+The Armor Penetration is Yes, up to 85mm of conventional steel armour.
+The Basic Load is 24 total of any projectile combination.
+
+Here is Ammunition (Option 4) information for the SH-2 Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is HE BB Rocket-Assist Projectile Type BEE2.
+The Caliber is 122.
+The Diameter is 39.2.
+The Weight is INA.
+The Muzzle Velocity is INA.
+The Fuse Type is INA.
+The Effective Range is 27,000.
+The Armor Penetration is Yes, up to 85mm of conventional steel armour.
+The Basic Load is 24 total of any projectile combination.
+
+Here is Fire Control information for the SH-2 Chinese 122mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Two hydraulically operated stabilisers.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is INA.
+
+Here is Protection information for the SH-2 Chinese 122mm Self-Propelled Howitzer (SPH):
+The Hull Armor is All-steel frame.
+The Turret Armor is All-steel frame.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Available.
+The Bullet-Proof Windows is Front and Sides.
+

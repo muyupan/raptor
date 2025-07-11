@@ -1,0 +1,49 @@
+This document describes the Tomahawk American Long-Range Cruise Missile.
+
+The Tomahawk (/ˈtɒməhɔːk/) Land Attack Missile (TLAM) is a long-range, all-weather, jet-powered, subsonic cruise missile that is primarily used by the United States Navy and Royal Navy in ship- and submarine-based land-attack operations.
+
+It was designed and initially produced in the 1970s by General Dynamics as a medium- to long-range, low-altitude missile that could be launched from a surface platform. The missile's modular design accommodates a wide variety of warhead, guidance, and range capabilities. At least six variants and multiple upgraded versions have been introduced since then, including air-, sub-, and ground-launched variants and conventional and nuclear-armed ones. As of 2019, only non-nuclear, sea-launched variants are currently in service.
+
+The U.S. Navy launched the BGM-109 Tomahawk project, hiring James H. Walker and a team of scientists at the Applied Physics Laboratory near Laurel, Maryland. Since then, it has been upgraded several times with guidance systems for precision navigation. In 1992–1994, McDonnell Douglas Corporation was the sole supplier of Tomahawk Missiles and produced Block II and Block III Tomahawk missiles and remanufactured many Tomahawks to Block III specifications. In 1994, Hughes outbid McDonnell Douglas Aerospace to become the sole supplier of Tomahawk missiles. It is now manufactured by Raytheon. In 2016, the U.S. Department of Defense purchased 149 Tomahawk Block IV missiles for $202.3 million.
+
+Ground-launched cruise missiles (GLCM) and their truck-like launch vehicles were employed at bases in Europe; they were withdrawn from service to comply with the 1987 Intermediate-Range Nuclear Forces Treaty. Many of the anti-ship versions were converted into TLAMs at the end of the Cold War. The Block III TLAMs that entered service in 1993 can fly 3 percent farther using their new turbofan engines and use Global Positioning System (GPS) receivers to strike more precisely. Block III TLAM-Cs retain the Digital Scene Matching Area Correlation (DSMAC) II navigation system, allowing three kinds of navigation: GPS-only, which allow for rapid mission planning, with some reduced accuracy, DSMAC-only, which take longer to plan but terminal accuracy is somewhat better; and GPS-aided missions that combine DSMAC II and GPS navigation for greatest accuracy.Block IV TLAMs have an improved turbofan engine that allows them to launch more quickly, get better fuel economy, and change speeds in flight. The Block IV TLAMs can loiter better and have a real-time targeting system for striking fleeing targets and electro-optical sensors that allow real-time battle damage assessment. The Block IVs can be given a new target in flight and can transmit an image, via satcom, immediately before impact to help determine whether the missile is on target and the likely damage from the attack.
+
+This equipment has proliferated into the following countries: United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the Tomahawk American Long-Range Cruise Missile:
+The BGM-109A is BGM-109A Tomahawk Land Attack Missile – Nuclear (TLAM-N) with a W80 nuclear warhead. Retired from service sometime between 2010 and 2013. Reports from early 2018 state that the U.S. Navy is considering (re)introducing a (yet unknown type of) nuclear-tipped cruise missile into service..
+The RGM/UGM-109B is RGM/UGM-109B Tomahawk Anti-Ship Missile (TASM) – active radar homing anti-ship missile variant; withdrawn from service in 1994 and converted to Block IV version..
+The BGM-109C is BGM-109C Tomahawk Land Attack Missile – Conventional (TLAM-C) with a unitary warhead. This was initially a modified Bullpup warhead..
+The BGM-109D is BGM-109D Tomahawk Land Attack Missile – Dispenser (TLAM-D) with cluster munitions.
+The RGM/UGM-109E is RGM/UGM-109E Tomahawk Land Attack Missile (TLAM Block IV) – improved version of the TLAM-C..
+The BGM-109G Ground Launched Cruise Missile is BGM-109G Ground Launched Cruise Missile (GLCM) – with a W84 nuclear warhead; withdrawn from service in 1991 to comply with the INF Treaty..
+The AGM-109H/L is AGM-109H/L Medium Range Air-to-Surface Missile (MRASM) – a shorter-range, turbojet powered air-launched cruise missile with cluster munitions; never entered service, cost US$569,000 (1999)..
+
+Here is System information for the Tomahawk American Long-Range Cruise Missile of the System:
+The Name is Tomahawk Missile.
+The Type is Long-Range Cruise Missile.
+The Manufacturer is General Dynamics (initially)
+McDonnell Douglas
+Hughes Aircraft Corporation
+Raytheon.
+The Launcher is 8-tubed Lockheed-Martin Mark 41 VLS system.
+The Missile Basic Load is INA.
+The Length is Without booster: 18 ft 3 in (5.56 m) With booster: 20 ft 6 in (6.25 m).
+The Diameter is 0.52 m.
+The Wingspan is 2.67 m.
+The Weight is 2,900 lb (1,300 kg), 3,500 lb (1,600 kg) with booster.
+The Warhead is Nuclear: W80 warhead (retired)
+Conventional: 1,000 pounds (450 kg) high explosive or submunition dispenser with BLU-97/B Combined Effects Bomb or PBXN.
+The Detonation Mechanism is FMU-148 since TLAM Block III, others for special applications.
+The Engine is Williams International F107-WR-402 turbofan
+using TH-dimer fuel
+and a solid-fuel rocket booster.
+The Operational Range is Block II TLAM-A – 1,350 nmi (1,550 mi; 2,500 km)
+Block III TLAM-C, Block IV TLAM-E – 900 nmi (1,000 mi; 1,700 km)
+
+Block III TLAM-D – 700 nmi (810 mi; 1,300 km).
+The Flight Altitude is 98–164 ft (30–50 m) AGL.
+The Speed is Subsonic; ~Mach 0.74. about 550 mph (480 kn; 890 km/h).
+The Guidance System is GPS, INS, TERCOM, DSMAC, active radar homing (RGM/UGM-109B).
+The Launch Platforms is Vertical Launch System (VLS) and horizontal submarine torpedo tubes (known as TTL (torpedo tube launch)).
+

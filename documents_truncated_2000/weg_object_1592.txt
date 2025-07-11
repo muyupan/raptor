@@ -1,0 +1,154 @@
+This document describes the Type 051B Class (Luhai Class) Chinese Destroyer.
+
+The Type 051B Luhai-class is a class of destroyer built by the People's Republic of China. It consists of only one ship, DD-167 Shenzhen. When Shenzhen was commissioned into the People's Liberation Army Navy Surface Force in 1998, it was then, the largest surface combatant that China had ever built. It resembles in many ways an enlarged version of the Luhu-class destroyer, and is one of the first PLAN ships with a slope-sided hull to reduce radar signature. The 051B was succeeded by the domestic Type 052B, discounting the 4 Soviet built Sovremennyy-class destroyer China purchased in the interim.
+
+Shenzhen was laid down by the Dalian Shipyard in May 1996. The Shenzhen was intended to be an experimental vessel with improvements over the Luhu-class' in terms of modular construction and stealth. The ship is powered by two indigenous steam turbine engines, due to Dalian Shipyard's experience in steam turbine construction and that Chinese domestic research and development on marine gas turbines had not yet matured. The displacement of the Luhai-class is 2,000 tons heavier than the Type 052 destroyer, Luhu-class. Shenzhen was launched in 1997, although official revelation of the ship's existence did not come until the year following its commissioning. The chief designer of this class is academic, Mr. Pan Jingfu (潘镜芙), who is also the designer of both the Type 051B's predecessor and successor.
+
+The main purpose of the Type 051B was to gain experience in modern naval ship design and construction, and refining the knowledge and skills accumulated from the earlier Type 052, such as integrating many different foreign subsystems on the Type 052 more effectively. The ship is powered by steam turbines due to the 1989 western arms embargo and that domestic gas turbines were not ready in time. The Type 051B also employed stealth construction techniques which resulted in a smaller radar cross section in comparison to its predecessor. Analysts speculated that the ship would have been equipped with an VLS system in the forward section for air-defense SAMs. However, when the ship was finally revealed, it was still armed with the 8-cell HQ-7 SAM launcher. These SAMs lack effectiveness against sea skimming missiles with multiple approaching angles. The PLAN was unsatisfied with the design and no further ships of the class were built. At the time, area air defence for the fleet was the PLAN's priority which older systems couldn't sufficiently provide, and since the capability couldn't be served by the final vessel the gap remained open. As a result, the decision to import two pairs of Sovremennyy-class destroyer from Russia was determined to fulfil the role. However, Type 051B does have an advantage over earlier Chinese principle surface combatants and Russian ships in that it is the first Chinese naval ship to be equipped with fleet formation command and control system so it can act as a flagship of the fleet. 
+
+The sole Type 051B destroyer 167 Shenzhen participated in the PLA Navy's first goodwill visit to Africa in 2000, the first visit to Europe in 2001 and the first visit to Japan in 2007. In 2004, the ship received its mid-life modernization refit, with its original 100mm main gun and the HQ-7 air defense missile system being replaced by improved models.
+
+Type 051B destroyer 167 Shenzhen visited Kochi, India for four days in August 2009, after deployment in the Gulf of Aden on anti-piracy operations.
+
+2015 Refit and upgrades:
+In early 2015, the sole Type 051B destroyer was spotted at the Zhanjiang naval base undergoing work. Initially it was unclear whether this was due to a midlife refit program or decommissioning, but pictures revealed in January 2016 that the ship was being refitted with new systems. For self-defense, the four old Type 76A 37 mm AA guns were replaced with two H/PJ-11 eleven-barreled 30 mm CIWS (export designation Type 1130), one covering each side.
+
+Anti-aircraft defense is upgraded from the 8-unit HQ-7 with a 10–15 km (6.2–9.3 mi) range to a 32-cell vertical launch system (VLS) in front of the superstructure for 50–60 km (31–37 mi)-ranged HQ-16s, directed by four Type 345 (Front-Dome type) illuminators, increasing SAM coverage by 16 times. The helicopter hangar was modified to carry a single Ka-28 ASW helicopter in place of the original dual Z-9 hangar, and two new mast structures were fitted; a Type 382 Radar on the forward mast and a Type 364 targeting radar (under dome) on the aft mast. The upgrades give the Type 051B weapon and sensor capabilities similar to the Type 054A frigate. The Type 382 replaced the Type 381 singe-faced phased-array radar, and moved from the aft to the forward mast to remove the blind arc it previously exhibited, the quarterdeck was fully enclosed, and new apertures were added in the transom indicating that torpedo decoy and towed array sonar systems have been added; a variable depth sonar has not been installed. The ship completed the weapon systems upgrade in August 2016.
+
+In May 2020, it was revealed that the Type 051B had its YJ-83 subsonic ASMs replaced with 16 supersonic YJ-12 missiles.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Type 051B Class (Luhai Class) Chinese Destroyer:
+The Shenzhen is Commissioned: 
+Fleet: South Sea Fleet
+Status: Active.
+
+Here is System information for the Type 051B Class (Luhai Class) Chinese Destroyer:
+The Alternative Designation is Type 051B; Luhai Class.
+The Date of Introduction is 1999.
+The Total Built is 1 vessel of this class.
+The Type is Destroyer.
+The Builder is INA.
+The In Service is 1999-Present.
+The Crew is 250 (40 officers).
+
+Here is Dimensions information for the Type 051B Class (Luhai Class) Chinese Destroyer:
+The Length is 155 m.
+The Beam is 17.2 m.
+The Draught is 6 m.
+The Displacement is 6,100 tonnes (6,000 long tons; 6,700 short tons) tons.
+
+Here is Propulsion System information for the Type 051B Class (Luhai Class) Chinese Destroyer:
+The Engine Name is INA.
+The Engine Type is 2 Steam turbines.
+The Engine Power is 94,000 shp (70,100 kW).
+The Maximum Range is 14,000 miles (23,000 km).
+The Maximum Speed is 31 knots (57 km/h; 36 mph).
+The Endurance is INA.
+
+Here is Communications information for the Type 051B Class (Luhai Class) Chinese Destroyer:
+The Information Processing System is Information processing system designed by the 709th Institute (Reported speed: 10 Mbit/s).
+The Data Link is Data link: HN-900 (Chinese equivalent of Link 11 A/B, to be upgraded).
+The Communications is SNTI-240 SATCOM.
+
+Here is Missile Weapon System #1 information for the Type 051B Class (Luhai Class) Chinese Destroyer of the Missile Weapon System:
+The Name is YJ-83.
+The Type is Anti-Ship Missile.
+The Launcher is INA.
+The Length is INA.
+The Diameter is INA.
+The Engine is CTJ-2 turbojet.
+The Warhead is 190 kg high-explosive fragmentation.
+The Operational Range is 180 km.
+The Speed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+The Basic Load is 16.
+
+Here is Missile Weapon System #2 information for the Type 051B Class (Luhai Class) Chinese Destroyer of the Missile Weapon System:
+The Name is HQ-16.
+The Type is Surface-to-Air Missile.
+The Launcher is Vertical Launch System (VLS).
+The Length is INA.
+The Diamter is INA.
+The Operational Range is 40 km.
+The Speed is INA.
+The Note is HQ-16 (Hongqi-16) - Co-developed by China and Russia,believed to be based on either the SA-11 or SA-17.Credited with a range of 40 km. Also known as the HQ-16A..
+
+Here is Gun Weapon System #1 information for the Type 051B Class (Luhai Class) Chinese Destroyer of the Gun Weapon Systems:
+The Name is Type 79A.
+The Type is Naval Gun.
+The Caliber is 100mm.
+The Barrel Length is INA.
+The Weight is INA.
+The Elevation is INA.
+The Traverse is 360.
+The Rate of Fire is INA.
+The Maximum Firing Range is INA.
+The Note is Based on the successful performance of the automated system, the manual backup system was eliminated in this upgrade. As a result, the total weight and size of the gun mount was reduced. Beside the obvious different in size, the most obvious visual external difference between Type 79 and Type 79A is that the Type 79 version has sharp edges, thus a very boxy look like the cars of the 1970s, while Type 79A has round and curved edges, thus a rather smooth look like the cars of the 1990s..
+
+Here is Ammunition Gun Weapon System #1 information for the Type 051B Class (Luhai Class) Chinese Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 100mm.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Type 051B Class (Luhai Class) Chinese Destroyer of the Gun Weapon Systems:
+The Name is Type 730 CIWS.
+The Type is Close-In Weapon System.
+The Caliber is 30mm.
+The Quantity is 2 x  Type 1130 CIWS.
+The Main Armament is 1×30 mm H/PJ-12 or H/PJ-11 Gatling gun.
+The Barrel Length is INA.
+The Diameter is INA.
+The Weight is INA.
+The Barrels is 7-barrel.
+The Crew is Automated, with human oversight.
+The Rate of Fire is 1,200-4,200 rounds/minute.
+The Maximum Firing Range is 3 km.
+The Effective Firing Range is 1–1.5 km.
+The Feed System is Type 730: One ammunition boxes, holding 640 rounds.
+The Guidance System is TR47C J-band radar
+OFC-3 electro-optical fire control system.
+The Radar is The TR47C radar operates in the same way of AN/APY-1/2 radar on board E-3 Sentry in that the azimuth is scanned mechanically, while the elevation is scanned electronically, incorporating a total of 169 transceivers of phased array technology that enables the radar to pick up the splashes of 30 mm rounds. Like the western CIWS, the information is processed on site, via local computers of the radar and the gun mount, thus providing faster reaction time than the Russian design in which the radar and fire control system are separately located.
+
+The system can track a sea-skimming target with 0.1 square metre radar cross section at 8 km, extended to 15 km if the radar cross section is increased to 2 square metres, and further extended to 20 km if the radar cross section is increased to 10 square metres, though the targets could not be engaged until much closer (3 km) due to the limited range of the gun..
+The Fire Control System is The OFC-3 system is modular design that comprises a laser range finder, a color TV camera, and an IR camera, and the laser range finder can be replaced by a laser designator (for a laser beam-riding SAM), the TV camera can be replaced by a night vision camera, and the IR camera can be replaced by an ImIR, at higher cost. Development to incorporate the dual band IR, night vision camera, and the color TV camera is reportedly in progress.
+
+Type 730 CIWS is an autonomous closed-loop system and thus offers faster reaction time than the Russian AK-630. Type 730 CIWS is fully compatible with Chinese and European combat data systems such as ZKJ-1, ZKJ-4, ZKJ-4A-3, ZKJ-5, ZKJ-6, ZKJ-7, H/ZBJ-1, and Thomson-CSF TAVITAC, and can be directly integrated with these combat data systems without any modification..
+
+Here is Ammuntiion Gun Weapon System #2 information for the Type 051B Class (Luhai Class) Chinese Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30mm.
+The Shell is INA.
+The Basic Load is INA.
+
+Here is Torpedo Weapon Systems information for the Type 051B Class (Luhai Class) Chinese Destroyer:
+The Torpedo Tubes is 6 x Torpedo Tubes.
+The Torpedo Name is INA.
+The Torpedo Basic Load is INA.
+
+Here is Onboard Aviation Facilities information for the Type 051B Class (Luhai Class) Chinese Destroyer:
+The Facilities is Hangar accommodating 2 helicopters
+Landing platform for one helicopter
+Helicopter landing system.
+The Helicopters is 2 x  helicopters: (Kamov Ka-28 or Harbin Z-9C).
+
+Here is Fire Control information for the Type 051B Class (Luhai Class) Chinese Destroyer:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+The FCS Radar is Type 344 fire-control radar (for 100 mm gun & SSMs).
+
+Here is Radar Systems information for the Type 051B Class (Luhai Class) Chinese Destroyer:
+The Air and Surface Radar is Type 360S air/surface search radar.
+The Air Search Radar is Sea Eagle 3-D air search radar.
+The Fire Control Radar is Type 344 fire-control radar (for 100 mm gun & SSMs).
+
+Here is Sonar Systems information for the Type 051B Class (Luhai Class) Chinese Destroyer:
+The Hull Mounted Sonar is Yes (Name: INA).
+The Towed ArrayS Sonar is Yes (Name: INA).
+
+Here is Protection information for the Type 051B Class (Luhai Class) Chinese Destroyer:
+The Active Protection System is Yes.
+The Electronic Warfare is INA.
+The Decoys is INA.
+

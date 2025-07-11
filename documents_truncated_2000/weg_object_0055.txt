@@ -1,0 +1,73 @@
+This document describes the AN/TPQ-37 American Firefinder Radar.
+
+The AN/TPQ-37 Firefinder is a mobile radar system developed in the late 1970s by Hughes Aircraft Company, achieving Initial Operational Capability in 1980 and full deployment in 1984. AN/TPQ-36 radar was used to design and develop the AN/TPQ-37 radar. Thus, the AN/TPQ-37, is considered to be a companion of the AN/TPQ-36. They both comprise the U.S. Firefinder artillery, rocket and mortar-locating radar system. The AN/TPQ-37 (unlike the AN/TPQ-36) is capable of locating artillery and rocket launchers at their normal ranges. 
+
+Currently manufactured by Thales Raytheon Systems, the system is a long-range version of an artillery locating radar, designed to detect and track incoming artillery and rocket fire to determine the point of origin for counter-battery fire. It is currently in service at brigade and higher levels in the United States Army and by other countries. A typical AN/TPQ-37 system consists of the Antenna-Transceiver Group, Command or operations Shelter and 60 kW Generator. The radar is trailer-mounted and towed by a 5 ton truck. The 60kW generator is mounted on the truck.  The AN/TPQ-37 operations shelter can be transported on a 1-1/4 ton vehicle such as a High Mobility Multi-purpose Wheeled Vehicle - HMMWV.
+
+The AN/TPQ-37 is an electronically steered radar, meaning the radar does not actually move while in operation. The radar scans a 90-degree sector for incoming rocket, artillery and mortar fire. Upon detecting a possible incoming round, the system verifies the contact before initiating a track sequence, continuing to search for new targets. The incoming round/rocket is tracked during its initial upward/launch trajectory (i.e., the linear portion of its flight path) prior to reaching apogee. A computer program analyzes the track data and then extrapolates the round's point of origin. This calculated point of origin is then reported to the operator with map coordinates, thus allowing friendly artillery to direct counterbattery fire towards the enemy artillery. The system has a reported range of up to 50 kilometers. The system may also be operated in a friendly fire mode to determine the accuracy of counterbattery return fire. 
+
+The system requires only one operator since most of its functions are performed automatically. However, a crew of eight to 12 is needed for mobile 24-hour operation.
+
+This equipment has proliferated into the following countries: Egypt, Greece, Hong Kong, India, Israel, Jordan, Saudi Arabia, Singapore, South Korea (Republic of Korea), United States of America.
+
+Here is Variants information for the AN/TPQ-37 American Firefinder Radar:
+The AN/TPQ-47 is The AN/TPQ-47 artillery locating radar is an product improved version of the AN/TPQ-37 Firefinder radar. The TPQ-47 provides improved range, faster emplace and displace time, and less manpower to operate and maintain..
+
+Here is Radar information for the AN/TPQ-37 American Firefinder Radar of the System:
+The Antenna Type is Phased Array.
+The Antenna Gain is 34.75 dBi.
+The Polarization is Vertical.
+The Scan Method is Electronic.
+The Mode is Search (Both hostile fire and friendly fire modes).
+The Scan Type is Sector.
+The Scan Width is 92.4 deg (Hostile fire mode maximum azimuth sector width).
+The Scan Period is 0.54 sec.
+The Scan Width is 26 deg (Friendly fire mode).
+The Scan Period is 0.15 sec.
+The Mode is Verification (Both hostile and friendly fire modes).
+The Scan Type is Nonscanning.
+The Mode is Track (Both hostile and friendly fire modes).
+The Scan Type is Nonscanning.
+
+Here is Transmitter information for the AN/TPQ-37 American Firefinder Radar of the System:
+The Transmitter Type is Traveling Wave Tube (TWT).
+The Peak Power (at transmitter) is 120 kW.
+The RF (minimum) is 3.11 GHz.
+The RF maximum) is 3.39 GHz.
+The Modulation Type is Pulsed.
+The Pulse Duration is 10.75 microsec.
+
+Here is Receiver information for the AN/TPQ-37 American Firefinder Radar of the System:
+The Noise Figure is 2.8 dB.
+The Single Pulse Processing is Coherent.
+The Multiple Pulse Processing is Doppler Filters.
+The Multiple Pulse Processing is Moving Target Indicator (MTI).
+The Display is Aural/Visual Indicator.
+The Display is B Scope.
+The Display is Moving Map.
+The Control is Keyboard.
+
+Here is ECCM information for the AN/TPQ-37 American Firefinder Radar of the System:
+The Transmit ECCM is Frequency Management.
+The Transmit ECCM is Scan Management.
+The Receive ECCM is Jam Strobe.
+
+Here is System Dimensions information for the AN/TPQ-37 American Firefinder Radar:
+The Length is 4,600 mm.
+The Width is 2.44 m.
+The Height, in Operation is 6.09 m.
+The Height, in Transit is INA.
+The Weight, Combat is 5,742 kg.
+
+Here is Operations Shelter information for the AN/TPQ-37 American Firefinder Radar:
+The Length is 2,692 mm.
+The Width is 2,100 mm.
+The Height is 1,800 mm.
+The Weight is 1,089 kg.
+
+Here is AN/MJQ-25 Generator with Trailer information for the AN/TPQ-37 American Firefinder Radar:
+The Length is 4,350 mm.
+The Width is 2,080 mm.
+The Height is 2,490 mm.
+The Weight is INA.
+

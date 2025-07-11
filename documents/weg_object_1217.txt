@@ -1,0 +1,76 @@
+This document describes the JRTC VISMOD: 9A51 Prima Russian 122mm Multiple Rocket Launcher System.
+
+The Prima multiple launch rocket system is an improvement of the BM-21 Grad.  It was adopted by the Soviet Army in 1988, however, due to budget cuts, only a small number of these artillery systems were ever produced.  Some sources claim that it is also in service with Kazakhstan.
+
+The Prima MLRS is also referred to as the 9K59, the launching vehicle is 9A51.  It has 50 tubes for 122mm rockets.  The older Grad has 40 tubes.  It can fire all of the rockets developed for the BM-21 Grad, including cluster rockets with anti-tank or anti-personnel sub-munitions.  Furthermore, new and more effective rockets have been developed for this system.  The new 9M53F rocket with a separable HE-FRAG warhead is standard for this artillery system.  The maximum range of fire is 21km.  This and other new rockets can also be fired from improved Grad launchers.
+
+Rockets can be launched directly from the driver's cab or remotely from the vehicle.  A full salvo of the Prima has 7-8 times better coverage and it spends 4-5 times less time in its firing position compared to the Grad.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the JRTC VISMOD: 9A51 Prima Russian 122mm Multiple Rocket Launcher System:
+The Alternative Designation  is 9A51.
+The Type is Multiple Rocket Launcher System.
+The Caliber is 122.
+The Crew  is 3.
+The Displacement Time  is 3.
+The Emplacement Time  is 3.
+The Launch Rate, Full Salvo Time  is 50 rounds in 30 seconds.
+The Launch Rate, Singl Rocket Interval is 0.6 seconds per rocket (est).
+The Launcher Name is Prima.
+The Reload Time is 10.
+
+Here is Dimensions information for the JRTC VISMOD: 9A51 Prima Russian 122mm Multiple Rocket Launcher System:
+The Chassis Length, Overall is 7.35.
+The Width is 2.5.
+The Height is 2.5.
+The Combat Weight is 13.9.
+
+Here is Automotive information for the JRTC VISMOD: 9A51 Prima Russian 122mm Multiple Rocket Launcher System:
+The Chassis is Ural 4320.
+The Drive Formula is 6x6.
+The Engine Type is KAMAZ-740, 210 hp, diesel engine.
+The Fording Depth  is 1.5.
+The Range, Cruising  is 990.
+The Speed, Maximum Cross-Country is INA.
+The Speed, Maximum Off-Road is 40.
+The Speed, Maximum On-Road is 85.
+The Fording Depth is 1.5.
+The Trench Clearance is Up to 1.2.
+The Vertical Step is 0.55.
+The Side Slope is 30.
+The Gradient is 30.
+
+Here is Armament information for the JRTC VISMOD: 9A51 Prima Russian 122mm Multiple Rocket Launcher System:
+The Caliber is 122.
+The Quantity, Tubes  is 50.
+The Reload Time  is 10.
+The Traverse, Left  is 58.
+The Traverse, Right  is 58.
+The Elevation is 0 to 55.
+The Loader Type is Transloader, crane hoist.
+
+Here is Munition 1 information for the JRTC VISMOD: 9A51 Prima Russian 122mm Multiple Rocket Launcher System of the Munition:
+The Name is 9M53F.
+The Caliber/Length  is 122.
+The Type is Frag-HE.
+The Fuze Type is Proximity.
+The Length, Rocket  is 3.03.
+The Maximum Velocity  is INA.
+The Range, Maximum  is 21,000.
+The Range, Minimum  is 5,000.
+The Weight  is 70.
+The Warhead Weight is 26.
+
+Here is Radio information for the JRTC VISMOD: 9A51 Prima Russian 122mm Multiple Rocket Launcher System of the Communications:
+The Name is R-173M FM-VHF.
+
+Here is Fire Control Systems information for the JRTC VISMOD: 9A51 Prima Russian 122mm Multiple Rocket Launcher System:
+The Collimator is K-1.
+The Indirect Fire is PG-1M Panoramic Telescope (PANTEL).
+
+Here is Protection information for the JRTC VISMOD: 9A51 Prima Russian 122mm Multiple Rocket Launcher System:
+The NBC Protection is No.
+The Self-Entrenching Blade is No.
+The Smoke Equipment is No.
+

@@ -1,0 +1,61 @@
+This document describes the Type 56 Chinese 85mm Towed Artillery Gun.
+
+The Type 56 85mm Towed Artillery Gun is a Chinese version of the Russian D-44 85mm Towed Artillery Gun, 
+
+The 85-mm divisional gun D-44 was a Soviet divisional 85-mm caliber field artillery gun used in the last action of World War II. It was designed as the replacement for the 76 mm divisional gun M1942 (ZiS-3). The gun is no longer in front-line service with the Russian Ground Forces, although some 200 of the Chinese Type 56 variant are still in service with the Pakistan Army. Wartime service included used by communist forces during the Vietnam War and by Arab forces during their conflicts with Israel.
+
+The design of the D-44 started in 1943 at the design bureau of No.9 factory "Uralmash" and production began in 1944. Its GRAU code was 52-P-367. The SD-44 was a 1950s variant with an auxiliary propulsion unit and ammunition box for 10 rounds, with 697 issued to the airborne forces (VDV) from 1954. The D-44N was a 1960s variant with an APN 3-7 infra-red illumination device for night combat. China received D-44s during the Korean War and began manufacturing a copy, the Type 56, in the early 1960s. Finally, the Polish Army has equipped some of their D-44 guns with electrical subsystems in the early 1980s and designated them D-44M and D-44MN.
+
+The barrel was developed from that of the T-34-85 tank and was capable of firing 20–25 high-explosive (HE), armor-piercing, and high-explosive antitank (HEAT) projectiles per minute. Subcaliber BR-365P HVAP-T (high-velocity armor-piercing-tracer) projectiles were capable of penetrating 100 mm of armor at 1000 meters at a ninety-degree obliquity, and the BR-367P HVAP-T projectile penetrates 180 mm of armor under the same conditions. The post-war round O-365K HE weighed 9.5 kg and packed 741 grams of TNT as its bursting charge, while the BK-2M HEAT-FS (fin-stabilized) projectile can penetrate 300 mm of armor. The HEAT round for the Type 56 has a maximum range of 970 meters and will penetrate 100 mm of armor at an angle of 65 degrees.
+
+This equipment has proliferated into the following countries: China, Pakistan.
+
+Here is System information for the Type 56 Chinese 85mm Towed Artillery Gun:
+The Alternative Designation is Type 56.
+The Type is Towed Artillery Gun.
+The Caliber is 85 mm.
+The Family is INA.
+The Crew is 8.
+The Carriage is Split trail.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the Type 56 Chinese 85mm Towed Artillery Gun:
+The Length is 8.34.
+The Barrel Length is 4.7.
+The Width is 1.78.
+The Height is 1.42.
+The Weight, Combat is 1,725.
+
+Here is System information for the Type 56 Chinese 85mm Towed Artillery Gun of the Main Weapon System:
+The Name is Type 56.
+The Type is Towed Artillery Gun.
+The Caliber is 85 mm.
+The Breech is Semi-automatic vertical sliding-wedge.
+The Recoil is Hydro-pneumatic.
+The Carriage is Split trail.
+The Rate of Fire is up to 20 rounds per minute (burst).
+The Effective Firing Range is 1,150 m (1,257 yds) (HVAP-T).
+The Maximum Firing Range is 15.65.
+The Max Elevation is +35.
+The Min Elevation is -7.
+The Traverse Range is 54.
+The Traverse Right is 27.
+The Traverse Left is 27.
+The Sights is OP-2-7 w/5.5X Magnification.
+
+Here is Ammunition information for the Type 56 Chinese 85mm Towed Artillery Gun of the Main Weapon System:
+The Name is O-365K.
+The Shell is Fixed QF 85×629 mm. R.
+The Caliber is 85.
+The Muzzle Velocity is 1,030.
+The Projectile Weight is 9.5.
+The Maximum Range is 15,650.
+The Basic Load is INA.
+
+Here is Fire Control information for the Type 56 Chinese 85mm Towed Artillery Gun:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+

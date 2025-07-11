@@ -1,0 +1,55 @@
+This document describes the Polyphem German Short-Range Cruise Missile.
+
+The Polyphem was a proposed light-weight fibre-optic wire-guided surface-to-surface missile with a range of 60 km.
+It used a solid propellant booster rocket to launch the missile out of its canister to an initial height so that the wings and control surfaces can unfold and a more fuel economic turbojet cruise engine would kick in to propel the missile.
+
+The missile could be programmed to follow a preset course, using GPS or inertial guidance. An infrared seeker could be used to automatically pick a target and for the terminal guidance phase, but it was also possible to transfer the thermal images back to the launching platform via a 200 MBit/s data link provided by an optical fibre, and manually select the target.
+
+The fibre-optic guided Polyphem missile was intended for two kinds of mission: isolated strikes from light land vehicles against long-range targets or from small ships or helicopters against land-based targets.
+
+The Polyphem program was started in 1994 by Germany, France and Italy. Italy later left the project.
+
+A naval version, called Polyphem-S, was initially selected for the Braunschweig class corvette as anti-ship and land-attack missile, but that has been cancelled.
+
+The Polyphem program as a whole was cancelled in 2003.
+
+This equipment has proliferated into the following countries: France, Germany.
+
+Here is Variants information for the Polyphem German Short-Range Cruise Missile:
+The Polyphem-H is Helicopter launched variant.
+The Polyphem-S is Ship launched variant.
+The Triton is Submarine launched variant.
+
+Here is System information for the Polyphem German Short-Range Cruise Missile:
+The Alternate Designation is Trilateral fibre-optic guided missile system (TRIFOM), Polyphem-S, Polyphem-H, Triton.
+The Basing is Submarine, Ship, Truck.
+The Launch Platform(s) is Braunschweig class corvette, Mercedes TEL.
+The Effective Range is 60.
+The Circular Error Probability is 1.
+
+Here is Dimensions information for the Polyphem German Short-Range Cruise Missile:
+The Length is 2.7.
+The Missile Weight is 130.
+The Diameter is INA.
+The Fin Span is INA.
+
+Here is Payload information for the Polyphem German Short-Range Cruise Missile:
+The Warhead Type is Single.
+The Warhead Options is Conventional.
+The Nuclear Yield is NA.
+The Conventional Warhead Weight is 20.
+The Conventional Warheads Available is Hollow charge with a hull of splinters.
+The Multiple Independently targetable Reentry Vehicle (MIRV) Capable is NA.
+
+Here is Propulsion Characteristics information for the Polyphem German Short-Range Cruise Missile:
+The Engine is Booster for launch and turbo-jet for flight.
+The Propellant is Solid.
+The Speed is 120—180 m/s (around 430—650 km/h).
+The Flight Ceiling is 600.
+The Minimum Altitude is 20.
+The Attack Altitude is INA.
+
+Here is Fire Control information for the Polyphem German Short-Range Cruise Missile:
+The Guidance System is Primary guidance came from fiber optics to send and receive messages to and from the launch site.  
+The missile was also capable of automatic flight using advanced image processing algorithms, electro-optical converters and radio links. The firing station has a global positioning system (GPS) Navstar navigation reference unit, a north-seeking device and a command, control, communications and information (C3I) system interface..
+

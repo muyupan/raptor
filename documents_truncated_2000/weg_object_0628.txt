@@ -1,0 +1,64 @@
+This document describes the 2A72 Russian 30mm Autocannon.
+
+The 2A72 is a late Cold War-era 30mm autocannon of Soviet origin. It was developed as a less complex and lighter alternative to the widely used 2A42. Studies revealed that the 2A42 was virtually always used at the low rate of fire setting. By modifying and simplifying the 2A42 design it could be produced at a lower cost and be used for a wider range of applications. The 2A72 is used both as the main armament and as a coaxial weapon for the 100mm 2A70 low-pressure cannon. The 2A72 is a much-simplified design based on the 2A42 consisting of only 349 parts instead of 578. Unlike the 2A42 it is not gas operated but recoil-operated. Unlike the fixed barrel on the 2A42, the barrel moves rearward upon firing. A new design muzzle brake is used in order to retain enough recoil to cycle the weapon. Since the initial recoil impulse is lower the 2A72 can be fitted to lighter vehicles, such as the BTR-80A.
+
+This equipment has proliferated into the following countries: Azerbaijan, Cyprus, Indonesia, Iraq, Kuwait, Libya, Morocco, Nicaragua, Russian Federation, South Korea (Republic of Korea), Sri Lanka, Turkmenistan, Ukraine, United Arab Emirates, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the 2A72 Russian 30mm Autocannon:
+The 2A42 is standard version..
+The 2A72 is lighter simplified variant with a lower number of parts, a longer barrel, and higher muzzle velocity, but also a lower rate of fire..
+The ABM-M30M3 is remote Weapon Station made by Impulse-2, for Uran-9 or different armored vehicles..
+The ABM-M30M3 Vikhr is another remote weapon station made by Impulse-2..
+The TRT-30 is remote weapon station..
+
+Here is System information for the 2A72 Russian 30mm Autocannon of the System:
+The Alternate Designations is 2A72; ZPT99 (Chinese production);
+ZTM-1 (Ukrainian production); 
+KBA-2 (Ukrainian production).
+The Type is Autocannon.
+The Caliber is 30 mm.
+The Manufacturer is KBP Instrument Design Bureau.
+The Design is The 2A72 is a much-simplified design based on the 2A42 consisting of only 349 parts instead of 578. Unlike the 2A42 it is not gas operated but recoil-operated. Unlike the fixed barrel on the 2A42, the barrel moves rearward upon firing. A new design muzzle brake is used in order to retain enough recoil to cycle the weapon. Since the initial recoil impulse is lower the 2A72 can be fitted to lighter vehicles, such as the BTR-80A..
+The Length Overall is 3.006 m.
+The Barrel Length is 2.416 mm.
+The Weight is 84 kg.
+The Action is Recoil operated, electrically powered.
+The Max Rate of Fire is 330.
+The Firing Modes is Single shot, 10-round burst, or automatic mode..
+The Loader Type is Dual-belt feed.
+The Fire on the Move is Yes.
+The Muzzle Velocity is 960 - 970 m/s;
+1.120 m/s with APDS.
+The Maximum Elevation is -5.
+The Minimum Elevation is +60.
+The Traverse Range is 360.
+The Traverse Right is 180.
+The Traverse Left is 180.
+The Maximum Effective Firing Range (Air Targets) is 4.
+The Maximum Effective Firing Range (Ground Targets) is 2.
+The Maximum Effective Firing Range (Light Armor Vehicles) is 1.5.
+The Feed System is Belt fed, twin feed system, selectable feed.
+The Platforms is The 2A72 is mainly used as a coaxial weapon on the BMP-3 and as main armament for the BTR-80A. Other applications include the BMD-4 and various Chinese combat vehicles..
+
+Here is Ammunition (Option 1) information for the 2A72 Russian 30mm Autocannon of the System:
+The Name is 3UBR8.
+The Type is 195 AP rounds.
+The Caliber is 30 mm.
+The Cartridge is 30 × 165.
+The Muzzle Velocity is 1,120.
+The Basic Load is INA.
+The Penetrator Type is tungsten alloy sub-calibre penetrator.
+The Penetration is can defeat 28 mm of RHA set at a 60° angle from a range of 1,000 m.
+The Note is The 2A42 fires 30x165 ammunition, a cartridge introduced in the 1970s in the Soviet Union to replace previous 30 mm autocannon cartridges. Other weapons using this size of cartridge case include the 2A38, 2A38M, and 2A72 autocannons for various vehicle, helicopter and air defence applications, as well as numerous single-, dual- and six-barrel naval and air force cannons. The 2A42, 2A38, 2A38M, and 2A72 fire percussion-primed ammunition; the naval and aerial cannons use electrical priming, and therefore their ammunition is not interchangeable with the land-based ammunition types, despite the same cartridge case size. Originally three basic types of ammunition were developed in the Soviet Union for the land-based weapons: high-explosive incendiary, high-explosive fragmentation with tracer, and an armour-piercing ballistic capped with tracer. Later a sub-caliber armour-piercing round was introduced, and today also countries other than Soviet Union/Russia manufacture 30 x 165 percussion-primed ammunition..
+
+Here is Ammunition (Option 2) information for the 2A72 Russian 30mm Autocannon of the System:
+The Name is 3UOF8.
+The Type is 305 HE-type rounds.
+The Caliber is 30 mm.
+The Cartridge is 30 × 165.
+The Muzzle Velocity is 960.
+The Basic Load is INA.
+The Lethal Radius is 5.95.
+The Charge Type is A-IX-2.
+The Note is A high-explosive incendiary round with A-670M nose fuze.The fuze produces a 0.15 millisecond delay on impact, and a self-destruct mechanism detonating the projectile after 7.5 to 14.5 seconds of flight (3900–5300 m distance from muzzle)..
+

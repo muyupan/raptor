@@ -1,0 +1,110 @@
+This document describes the Novorossiysk Class (Project 636.3 Class) Russian Diesel-Electric Attack Submarine.
+
+The NOVOROSSIYSK-class subs are an improved version of the Project 877 Kilo-class boats. The Project 636.3 configuration modifies the standard Project 636 Improved KILO-class subs, which have been exported. The subs are designed primarily for anti-shipping and anti-submarine missions in relatively shallow waters.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Novorossiysk Class (Project 636.3 Class) Russian Diesel-Electric Attack Submarine:
+The Novorossiysk is Commissioned: 2014
+Status: Active
+Fleet: Black Sea Fleet.
+The Rostov-on-Don is Commissioned: 2014
+Status: Active
+Fleet: Black Sea Fleet.
+The Stary Oskol is Commissioned: 2015
+Status: Active
+Fleet: Black Sea Fleet.
+The Krasnodar is Commissioned: 2015
+Status: Active
+Fleet: Black Sea Fleet.
+The Velikiy Novgorod is Commissioned: 2016
+Status: Active
+Fleet: Black Sea Fleet.
+The Kolpino is Commissioned: 2016
+Status: Active
+Fleet: Black Sea Fleet.
+The Petropavlovsk-Kamchatsk is Commissioned: 2019
+Status: Active
+Fleet: Pacific Fleet.
+The Volkhov is Commissioned: 2020
+Status: Active
+Fleet: Pacific Fleet.
+The Magadan is Commissioned: 2021
+Status: Fitting out 
+Fleet: Pacific Fleet.
+The Ufa is Commissioned: 2022
+Status: Under Construction 
+Fleet: Pacific Fleet.
+The Mozhaysk is Commissioned: 2023
+Status: Ordered 
+Fleet: INA.
+The Yakutsk is Commissioned: 2024
+Status: Ordered 
+Fleet: INA.
+The Petrozavodsk is Commissioned: 2024
+Status: Ordered 
+Fleet: INA.
+
+Here is System information for the Novorossiysk Class (Project 636.3 Class) Russian Diesel-Electric Attack Submarine:
+The Alternative Designation is Novorossiysk Class; Project 636.3 Class.
+The Type is Diesel-Electric Attack Submarine.
+The Builder is Admiralty Shipyard, St. Petersburg, Russia.
+The Crew is 52 total (13 off. + 12 warrant off. + 12 petty off. + 15 nonrated).
+
+Here is Dimensions information for the Novorossiysk Class (Project 636.3 Class) Russian Diesel-Electric Attack Submarine:
+The Length is 73.8 m.
+The Beam is 9.9 m.
+The Draft is 6.6 m.
+The Displacement, Surface is 2,350 tons.
+The Displacement, Submerged is 3,950 tons.
+
+Here is Propulsion System information for the Novorossiysk Class (Project 636.3 Class) Russian Diesel-Electric Attack Submarine:
+The Engine Name is 2 x Type 4-2AA-42M.
+The Engine Type is Turbocharged Diesel.
+The Engine Power is 2,012 hp (1,500 kW) each at 700 rpm.
+The Electric Motor is 2 x PG-141M electric motors; 5,500 shp.
+The Auxiliary Motor is 1 x MT-140 electric low-speed motor (183 shp) and 2 x MT-168 internal electric maneuvering motors.
+The Maximum Surface Speed is 17 knots.
+The Maximum Submerged Speed is 20 knots.
+The Snorkel Range is 7,500 nm at 7 knots.
+The Submerged Range is 400 nm at 3 knots.
+The Standard Depth is 240 m.
+The Maximum Depth is 300 m.
+The Endurance is 45 days.
+
+Here is Missile Weapon System information for the Novorossiysk Class (Project 636.3 Class) Russian Diesel-Electric Attack Submarine:
+The Name is 8 x SS-N-27 Sizzler Anti-Ship Cruise Missile.
+The Type is Anti-Ship Cruise Missile.
+The Length is 8.22 m.
+The Diameter is 0.645 m.
+The Weight is 1,920 kg.
+The Payload is single conventional warhead.
+The Warhead is 1X200 kg HE.
+The Propulsion is solid propellant, turbojet.
+The Range is 220 km.
+The Basic Load is 8 x SS-N-27 Sizzler Anti-Ship Cruise Missile.
+
+Here is Torpedo System information for the Novorossiysk Class (Project 636.3 Class) Russian Diesel-Electric Attack Submarine:
+The Launcher is 6 x bow 533mm Bow Torpedo Tubes.
+The Torpedo Type is 53-65K, 53-56B, 53-56BA, SET-53M, TEST-71M, USET-80, MG-74..
+The Basic Load is 18 x Torpedoes.
+
+Here is Mine System information for the Novorossiysk Class (Project 636.3 Class) Russian Diesel-Electric Attack Submarine:
+The Name is Type AM-1 Mine.
+The Basic Load is 24 x Type AM-1 mine can be carried in lieu of some torpedoes. Mines can only be laid at depths up to 50 m..
+
+Here is Radar Systems information for the Novorossiysk Class (Project 636.3 Class) Russian Diesel-Electric Attack Submarine:
+The Navigation / Search Radar is 1 x MRK-50 Albatros (Snoop Tray-2) navigation/search.
+
+Here is Sonar Systems information for the Novorossiysk Class (Project 636.3 Class) Russian Diesel-Electric Attack Submarine:
+The Passive Hull Aray Sonar is 1 x MGK-400 Rubikon (Shark Gill) low-frequency active/passive suite w/passive hull array..
+The Object Avoidance Sonar is 1 x MG-519 active object avoidance.
+The Sound-Velocity Measurement Sonar is 1 x MG-553 sound-velocity measurement.
+The Self-Cavitation Measurement Sonar is 1 x MG-512 self-cavitation measurement.
+
+Here is Protection information for the Novorossiysk Class (Project 636.3 Class) Russian Diesel-Electric Attack Submarine:
+The Hull is The bow is reshaped for improved hydrodynamics. The pressure hull with a 7.2 m diameter is lengthened to 53 m to accommodate the rafted main engines. This also provides more space for diesel fuel tanks. The pressure hull is 24-27 mm thick, except in certain reinforced areas, where it is 30-35 mm thick..
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+The EW Intercept is 1 x MRM-25EM (Squid Head) intercept.
+

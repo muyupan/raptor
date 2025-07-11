@@ -1,0 +1,26 @@
+This document describes the TBR-120A (BWT-119) Chinese VHF FM Transceiver.
+
+The TBR-120A (BWT-119) Chinese VHF FM Transceiver is designed to replace Type 73 (Silicon 2W) shortware HF transceiver, 884 FM transceiver, and even in some cases the 10W SSB in PLA infantry units.  It is also used to replace 7 series radio in artillery units
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the TBR-120A (BWT-119) Chinese VHF FM Transceiver:
+The Alternative Designation is TBR-120A; BWT-119.
+The Type is VHF FM Transceiver.
+The Crew is 1.
+The Frequency is 30.00 – 79.975 MHz.
+The Transmit Type is FM.
+The Channel Spacing is 25 KHz.
+The Output Power is 6 W on high and 1 W on low output.
+The Antenna is 1.5 meter wipe antenna; 
+2.9 meter wipe antenna (1.5 meter antenna plus 6 extension sections);
+40 meter wire directional antenna..
+The Power Supply is 24V non-rechargeable or rechargeable unit battery, or 24V external power supply..
+The Note is TBR-120A along with BWT-119 is still the main Regiment-Battalion level general purpose transceiver in PLA infantry units, but is being replaced by TBR-121C frequency agile IP address based networking capable transceiver..
+
+Here is Dimensions information for the TBR-120A (BWT-119) Chinese VHF FM Transceiver:
+The Length is 29 cm.
+The Width is 10.5 cm.
+The Height is 31 cm.
+The Weight, Combat is 5.5 kg without battery, antenna, and handset/handset..
+

@@ -1,0 +1,72 @@
+This document describes the 85V6-V (Orion) Russian Electronic Intelligence System.
+
+Mission: 
+The 85V6-V ELINT system is designed to perform radio reconnaissance and location of ground, surface and airborne radio-emitting sources, disclosure of command, control and communications systems, radio control and detection of radio-emitting sources.
+
+Composition
+• three detection and direction-finding stations providing radio-emitting sources detection, direction finding, classification, analysis and registering
+• central classification and control station 
+
+Each station has autonomous power supply and is accommodated in two air-conditioned box-bodies mounted on KamAZ trucks. The detection and direction-finding station is designed for all-round detection and direction finding
+of radio-emitting sources, radio transmission classification, signal analysis and intercept. Stations can be used both autonomously and make part of the 85V6-V ELINT system. The central automated classification and
+control station is designed to control operation of detection and direction-finding stations, to locate radio-emitting sources, to collect, process and display electronic situation data within coverage of the 85V6-V system. It ensures the system's autonomous operation and integration into other automated SIGINT/EW systems.
+
+The central control station executes the following operations: digital processing of bearings data, determination of radio-emitting sources coordinates, and their mapping on cartographic background; two-way coded voice/data communications between detection/direction-finding stations and SIGINT/EW system control post stationed at the
+range of up to 15 km; mission planning and control for up to three detection/direction finding
+stations; automated ELINT data collecting, processing, classification and database management; comparative electronic situation analysis for different data combinations and change dynamics; recording of operation
+results.
+
+In general, the 85V6-V system provides:
+• automatic panoramic search, detection, measurement of signal parameters and classification of types of radio transmissions;
+• radio-emitting source detection, direction finding and location, and position display against map background;
+• collection, accumulation and comparative analysis of electronic situation data for different combinations and change dynamics;
+• radio intercept with data recording;
+• technical analysis of radio-emitting source signals;
+• automated preparation of standardized messages.
+The 85V6-V system can be used both autonomously and within automated SIGINT/EW systems.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the 85V6-V (Orion) Russian Electronic Intelligence System:
+The Alternative Designation is 85V6-V.
+The Type is Electronic Intelligence System.
+The Crew is INA.
+
+Here is Dimensions (Ural 375) information for the 85V6-V (Orion) Russian Electronic Intelligence System:
+The Length is 7,350 mm.
+The Width is 2,960 mm.
+The Height is 2,980 mm.
+The Curb Weight is 8,400 kg.
+
+Here is Automotive (Ural 375) information for the 85V6-V (Orion) Russian Electronic Intelligence System:
+The Engine Name is 7.0L ZIL-375YA.
+The Engine Type is V-8 Diesel.
+The Engine Power is INA.
+The Transmission is 5-speed manual + 2-speed transfer case.
+The Cruising Range is INA.
+The Speed, Maximum Road is 76 km/h.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fuel Capacity is 79+16 gal. Fuel economy: 4.9 mpg (at 19-25 mph), 2.94 mpg (city cycle)..
+
+Here is System information for the 85V6-V (Orion) Russian Electronic Intelligence System of the Electronic Warfare System:
+The Name is 85V6-A Vega.
+The Type is Electronic Intelligence System.
+The Operating frequency band, is 30 - 1,700.
+The RMS direction-finding instrument error, deg, not more than: in 30-150 MHz range is 3.
+The RMS direction-finding instrument error, deg, not more than: in 150-1,700 MHz range is 2.
+The Operating frequency band scanning period, is not more than 10.
+The Instant scan swathe is 6,0.
+The Number of channels recording LF receiver output signals is 3.
+The Number of listening channels is 1.
+The Power consumption is not more than 5.
+The Continuous operation time, is 24.
+The Station deployment time is 40.
+
+Here is Protection information for the 85V6-V (Orion) Russian Electronic Intelligence System:
+The Armor is INA.
+The Applique Armor is INA.
+The Active Protection System is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

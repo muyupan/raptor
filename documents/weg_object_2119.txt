@@ -1,0 +1,66 @@
+This document describes the PKT Russian 7.62mm General-Purpose Machine Gun.
+
+The PKT is a solenoid-fired coaxial version of PK to replace the SGMT Goryunov vehicle-mounted machine gun. Modifications include the removal of the stock, a longer and heavier barrel, a gas regulator, and an electric solenoid trigger. The PKT is usually fed from 250-round ammunition boxes. The PKT barrel assembly weighs 3.23 kg (7.1 lb) and can fire up to 500 rounds in rapid-fire scenarios before it has to be replaced for another barrel or allowed to cool down to prevent unacceptable wear of the bore.
+
+This equipment has proliferated into the following countries: Afghanistan, Algeria, Angola, Armenia, Azerbaijan, Bangladesh, Belarus, Bosnia and Herzegovina, Bulgaria, Burundi, Cambodia, Central African Republic, Chad, China, Colombia, Croatia, Cuba, Czech Republic, Dominican Republic, Egypt, Eritrea, Ethiopia, Fiji, Finland, Gambia, Georgia, Grenada, Guinea, Guinea-Bissau, Guyana, Hungary, India, Indonesia, Iran (Islamic Republic of), Iraq, Ivory Coast, Kazakhstan, Kenya, Kyrgyzstan, Laos (People's Democratic Republic), Latvia, Lebanon, Libya, Malawi, Mali, Malta, Moldova, Mongolia, Montenegro, Mozambique, Nicaragua, Nigeria, North Korea (Democratic People's Republic of Korea), Panama, Poland, Romania, Russian Federation, Rwanda, Saudi Arabia, Ukraine.
+
+Here is Variants information for the PKT Russian 7.62mm General-Purpose Machine Gun:
+The PKS is For heavier employment, the PKS ("PK Mounted") is based on the Samozhenkov 6T2 tripod mount. The PK and 6T2 tripod weigh 16.5 kg (36.38 lb)..
+The PKM is The PKM (ПК Модернизированный: "Kalashnikov's Machine-gun Modernized"), was adopted into service in 1969. The PKM is a modernized, product-improved version of the PK. The upgrades, primarily aimed at reducing the weight, simplifying production, and facilitating easier operation. The receiver cover became more rigid due to lengthwise ribs..
+The PKMN is The PKMN (ПКМ Ночной: "PKM Night-Vision") is a variant that can mount a night sight for low-visibility operations. The PKMN-1 can thus mount the multi-model NSPU-3 (1PN51) night vision scope while the PKMN-2 can mount the multi-model NSPUM (1PN58) night vision scope. It can also be fitted with the 1PN93 series passive night sights..
+The PKMS is For heavier employment, the PKMS (ПКМ Станковый: "PKM Mounted") is mounted on the Stepanov 6T5 tripod mount. The PKM and 6T5 tripod weigh 12 kg (26.46 lb).
+The PKMSN is The PKMSN (ПКМС Ночной: "PKMS Night-Vision") is similarly to the PKMN a special model of the tripod-mounted variant that can mount night sights for low-visibility operations..
+The PKMT is Modernized version of PKT.
+The PKP Pecheneg is The PKP Pecheneg (6P41) (2001) is a further development and modification of the PKM. It has a heavy fixed barrel encased in a radial cooling sleeve that uses forced-air cooling, much like the Lewis Gun of World War I..
+
+Here is System information for the PKT Russian 7.62mm General-Purpose Machine Gun of the Main Weapon System:
+The Name is PKT (Kalashnikov's Machine Gun) 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Max Rate of Fire is 650.
+The Effective Rate of Fire is 250-300.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+The Effective Firing Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 4,000.
+The Note is The PKT can be controlled remotely and is slaved to the main gun,.
+
+Here is Ammunition (Option 1) information for the PKT Russian 7.62mm General-Purpose Machine Gun of the Main Weapon System:
+The Name is 57-N-323S.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 855.
+The Muzzle Energy is 3,509.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 2,500.
+
+Here is Ammunition (Option 2) information for the PKT Russian 7.62mm General-Purpose Machine Gun of the Main Weapon System:
+The Name is 7N13 (AP).
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 855.
+The Muzzle Energy is 3,436.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 2,500.
+
+Here is Ammunition (Option 3) information for the PKT Russian 7.62mm General-Purpose Machine Gun of the Main Weapon System:
+The Name is 7BZ3 (API).
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 834.
+The Muzzle Energy is 3,613.
+The Accuracy of fire at 300 m is 150.
+The Basic Load is 2,500.
+

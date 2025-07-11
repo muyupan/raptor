@@ -1,0 +1,70 @@
+This document describes the JN-1601 Chinese HF Intercept and Jamming Station.
+
+The Chinese JN-1601 is a high frequency (HF) communications jammer designed for searching, detection, direction-finding, and jamming of HF radio frequencies. The  jammer is produced by China National Electronics Import and Export Corporation (CEIEC). The JN-1601 operates in the HF range of 3–30 MHz. 
+
+The JN-1601 is part of the Chinese JN-Series EW Systems. The JN-Series is an integrated communication countermeasure system designed to search, intercept, monitor, analyze, and jam enemy communication signals. The following are the JN-Series EW platforms: 
+
+JN-1101 Ground Mobile Communications EW complex
+JN-1102 Unmanned Aerial Vehicle (UAV) borne Communications and Radar EW Complex
+JN-1105 Portable Communications EW Complex
+JN-1601 HF Intercept and Jamming Station 
+JN-1602 Heliborne Communications EW Complex
+JN-3103 Expendable Jammer
+Advanced VHF/UHF Vehicular Communications Countermeasure System
+
+The JN-1601 is capable of operating as a stand-alone platform or as part of an integrated countermeasures system and has secondary roles as a communications relay and as a training aid for EW troops.  
+
+Photo is courtesy of CEIEC through Global Mil.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the JN-1601 Chinese HF Intercept and Jamming Station:
+The Alternative Designation is JN-1601.
+The In Service is INA-Present.
+The Type is High Frequency (HF) Communication Intercept and Jamming Station.
+The Manufacturer is China National Electronics Import and Export Corporation (CEIEC).
+The Chassis is INA.
+The Configuration is INA.
+The Crew is INA.
+
+Here is Dimensions information for the JN-1601 Chinese HF Intercept and Jamming Station:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Empty is INA.
+The Payload capacity (on road) is INA.
+The Payload capacity (off road) is INA.
+The Maximum Tow Capacity is INA.
+
+Here is Automotive information for the JN-1601 Chinese HF Intercept and Jamming Station:
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Cruising Range is INA.
+The Speed, Maximum Road is INA.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is INA.
+The Gradient is INA.
+The Side Slope is INA.
+The Vertical Step is INA.
+The Trench is INA.
+The Fording Depth is INA.
+
+Here is Jamming Station information for the JN-1601 Chinese HF Intercept and Jamming Station:
+The Operating Frequency Range is 3–30 MHz.
+The Transmitter Output Power is INA.
+The Quantity of Simultaneously Jammed Frequencies is INA.
+The Frequency Spacing is INA.
+The Root-mean-square error of direction finding, degree (not more than) is INA.
+The Frequency Range Scanning Rate (without direction finding) is INA.
+The Mean time of station reaction during jamming in autonomous mode (during operation by list of 200 preset frequencies in simultaneous scanning band, not more) is INA.
+The Accuracy of carrier frequency definition (not more) is INA.
+The Relative frequency deviation from the nominal (not more) is INA.
+The Receiver sensitivity (not worse) is INA.
+The Jamming Spectrum Width is INA.
+The Jammed RF Links is INA.
+The Frequency Hop Signal Detection is INA.
+The Deployment Time is INA.
+The Azimuth Search Coverage is INA.
+The Power Generator is INA.
+

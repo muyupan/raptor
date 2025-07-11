@@ -1,0 +1,53 @@
+This document describes the SS-N-26 (Strobile) Russian Short-Range Anti-Ship Cruise Missile.
+
+The SS-N-26 Strobile was first developed in 1993 by NPO Mashinostroyenia. In 1999, they developed the ground-launched export version, the Yakhont, and an air-launched version, the Yakhont-M. A sub-launched version has been developed to be fitted to Yasen-class attack submarines, and the Bastion-P and Bastion-S launch systems have since been developed.  The Strobile was first deployed in 2002 on Russia’s Nakat-class missile ship.  Though originally designed to be an anti-ship missile, the Bastion missile launch systems were first deployed in 2015 with the Russian Army and the missiles were used in a surface to surface role.  In 1988, Russia and India collaborated on a joint venture called Brahmos Aerospace Ltd, which produced the Brahmos missile, a supersonic cruise missile based on the Yakhont.
+
+This equipment has proliferated into the following countries: Indonesia, Russian Federation, Syria, Viet Nam.
+
+Here is Variants information for the SS-N-26 (Strobile) Russian Short-Range Anti-Ship Cruise Missile:
+The 3M55 Oniks is Base version for Russia..
+The Oniks-M is Version of Oniks with improved range (up to 800 km), accuracy and ECCM capabilities..
+The P-800 Yakhont is Export version of Oniks..
+The P-800 Bolid is Submarine-launched version of Yakhont..
+The Brahmos is Co-developed by Russia and India, based on Oniks, produced by BrahMos Aerospace Private Limited in India. BrahMos-II, a hypersonic version is also being developed..
+The Bastion-P System is Bastion-P is a coastal defense version of the P-800. It entered Russian service in 2010. The P-800 missile used in the Bastion-P remains essentially unchanged. Its launch platform is based upon a Belarusian MZKT-7930 special wheeled chassis. This gives the Bastion-P excellent mobility, including rough terrain. The Bastion-P launcher vehicle carries two P-800 missiles. 2019 media reporting indicates that the Ministry of Defense of the Russian Federation announced on 12 March that Russia’s Pacific Fleet in the Kamchatka Peninsula had received a new set of the K-300P Bastion-P mobile
+coastal defense missile system as part of a modernization program. Additionally, there is reporting on Bastion-P deployments in the Arctic..
+The Kh-61 is Air launched air to surface version..
+
+Here is System information for the SS-N-26 (Strobile) Russian Short-Range Anti-Ship Cruise Missile:
+The Alternate Designation is Yakhont, 3M55, Ruby, Kh-61, P-800 Oniks, Yakhont-M, Stallion, Bastion-P, Bastion-S,.
+The Class is Anti-Ship, Land Attack.
+The Effective Range is 600km (Export: 300km).
+The Circular Error Probability is 1.5.
+The Basing is Ground, Ship,Submarine, Aircraft.
+The Transporter-Erector-Launcher is K-340P for ground launch can carry two missiles and each missile can be launched 5 seconds apart.
+
+Here is Dimensions information for the SS-N-26 (Strobile) Russian Short-Range Anti-Ship Cruise Missile:
+The Length is 8.6m (8.3m for air to surface version).
+The Missile Weight is 3,000.
+The Diameter is 0.7.
+The Fin Span is 1.7.
+
+Here is Payload information for the SS-N-26 (Strobile) Russian Short-Range Anti-Ship Cruise Missile:
+The Type is Single warhead.
+The Warhead Type is Semi-armor piercing and HE (Export version: HE).
+The Nuclear Warhead Weight is NA.
+The Nuclear Yield is NA.
+The Conventional Warhead Weight is 200kg HE / 250kg Armor Piercing.
+The Conventional Warheads Available is HE sub-munitions, semi-armor piercing.
+
+Here is Propulsion Characteristics information for the SS-N-26 (Strobile) Russian Short-Range Anti-Ship Cruise Missile:
+The Engine is Booster / Ramjet.
+The Propellant is Solid-fuel Booster; Liquid-Fuel Ramjet Sustainer.
+The Speed is 750 m/s (Mach 2.6).
+The Flight Altitude is 10,000–14,000 m.
+The Minimum Altitude is 10.
+The Surface Speed is Mach 2.
+
+Here is Fire Control information for the SS-N-26 (Strobile) Russian Short-Range Anti-Ship Cruise Missile:
+The Guidance System is GPS, mid-course inertial guidance, active radar homing, passive radar seeker head.
+The Radar homing is All-weather monopulse active-passive with frequency hopping.
+The Countermeasures is Active spoofing, dipole clouds.
+The Radar Range is 50.
+The Seeker is Granit-Elektron seeker.
+

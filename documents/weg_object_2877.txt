@@ -1,0 +1,83 @@
+This document describes the FV104 Samaritan British Armored Ambulance.
+
+The FV104 Samaritan is the British Army armoured ambulance variant of the CVR(T) family. It has a capacity for up to 6 casualties.The Samaritan is one of the variants of the Combat Vehicle Reconnaissance (Tracked) family of armoured fighting vehicles developed by Alvis plc for the British military. The FV104  is equipped to fulfil the fire support role with a 76 mm gun, but also capable of fulfilling to a large degree the anti-tank and reconnaissance roles.
+
+This equipment has proliferated into the following countries: United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the FV104 Samaritan British Armored Ambulance:
+The Scorpion (FV101) is Original variant with 3-man crew.
+The Spartan (FV103) is Artillery & engineer vehicle with 3-man crew & 4 dismountable troops; 80 k/hr; 483 km range; 1 7.62-mm MG.
+The Striker (FV102) is AT vehicle with 5 Swingfire CLOS ATGMS (5 reloads) & 1 7.62-mm L37A1 MG.
+The Scorpion 90 is 3-man crew; 73 k/hr; Cockerill Mk IIIK 90-mm gun & 1 7.62-mm MG.
+The Samaritan (FV104) is Ambulance for 4 litter patients, 5 seated patients, or 2 litter/3 seated patients; 2-man crew; 483 km range.
+The Sultan (FV105) is Command vehicle with at least 2 radios; total 5-6 personnel; 483 km range.
+The Samson (FV106) is 483 km range, ARV with internal main winch, tow bars, & tow cables.
+The Scimitar (FV107) is Scorpion with 1 30-mm Rarden L21 rifled gun (165 rounds) & 1 7.62-mm coax MG; 80 k/hr; 644 km range;.
+The Scorpion 2 is Description of late production Scorpions with Perkins engine & other upgrades with 2-man turret with 30-mm, 76-mm, or 90-mm main armament options.
+The Saber is Reconditioned recon vehicle with 30-mm Rarden cannon & Hughes 7.62-mm coaxial chain gun.
+The Scorpion (Jordan) is Upgraded original Scorpion with Perkins engine & other upgrades.
+The Spartan with MILAN ATGM is 2-round turret must be reloaded from outside the vehicle (11 reloads).
+The Scorpion 90 (Venzeula) is Scorpion 90 with Belgain CMI Defence 90-mm Mk II gun & Perkins engine.
+The Sturgeon is OPFOR vehicle used in Suffield, Canada based on the Spartan.
+The Salamander is OPFOR vehicle used in Suffield, Canada based on the 76-mm Scorpion.
+The Scorpion (Malaysia) is Scorpion 90 with 76-mm AGL & Perkins engine.
+The Omani Scorpion is Increased protection package & some received a Cummins diesel engine.
+The Scorpion vehicle-mounted automatic mortar FCS is Fires Denel’s 60-mm or BAE Systems’ 81-mm L16 mortars.
+The CVR(T) Life-Extension Program (LEP) is LEP with diesel engine, better optics & communication.
+
+Here is System information for the FV104 Samaritan British Armored Ambulance:
+The Alternative Designations is FV104 Samaritan.
+The Type is Armored Ambulance.
+The Manufacturer is Alvis Vehicles, Coventry, England.
+The Family is e Combat Vehicle Reconnaissance (Tracked), CVR(T), family.
+The In Service is 1977-Present.
+The Crew is 2.
+The Troops is up to 6 men.
+The Note # 1 is This variant carries four litters, two litters and three sitting cases or five sitting evacuees..
+The Note # 2 is Medical supplies can be carried on top of the hull and at the rear of the vehicle..
+
+Here is Dimensions information for the FV104 Samaritan British Armored Ambulance:
+The Length is 5.07.
+The Width is 2.24.
+The Height is 2.42.
+The Weight is 8.66.
+The Ground Pressure is 0.36 kg/cm sq.
+The Ground Clearance is 0.36.
+
+Here is Automotive information for the FV104 Samaritan British Armored Ambulance:
+The Engine Name is Cummins BTA 5.9-litre (Diesel).
+The Type is Diesel.
+The Engine Power is 195 hp.
+The Cruising Range is 483.
+The Speed, Maximum Road is 72.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 6.4.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.5.
+The Trench is 2.
+The Fording Depth is 1.
+The Fording with Preperation Depth is Amphibious.
+The Transmission is Self Change Gears TN15X.
+The Suspension is torsion bar, 5 road wheels, front drive, rear idler, 2 hydraulic shock absorbers.
+The Fuel Capacity is 423 liters.
+
+Here is Fire Control information for the FV104 Samaritan British Armored Ambulance:
+The Name is INA.
+The Computerized FCS is INA.
+The Commander Periscopes is 7.
+The Roof Mounted Day Sight is Yes, with magnifications of 1x and 10x..
+The Gunner Periscopes is 2.
+The Navigation System is Yes.
+The Night Vision is Rank Precision Industries passive night sight.
+
+Here is Protection information for the FV104 Samaritan British Armored Ambulance:
+The Armor (turret front) is Against 14.5-mm rounds (remainder of the vehicle against 7.62-mm rounds).
+The Applique armor is INA.
+The Explosive reactive armor is INA.
+The Active Protection System is INA.
+The Self-entrenching blade is No.
+The NBC Protection System is Yes.
+The Smoke Equipment is 8 Smoke dischargers.
+The Note is Not Directly armed, the Samaritan is defended by a bank of four smoke grenade dischargers along the front right of the vehicle glacis plate. The Vehicle has not weapons, outside of the Soldier's individual weapons..
+

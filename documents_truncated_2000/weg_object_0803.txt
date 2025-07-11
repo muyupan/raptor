@@ -1,0 +1,46 @@
+This document describes the Anka-S Turkish Unmanned Aerial Vehicle (UAV).
+
+The Anka-S Turkish Unmanned Aerial Vehicle (UAV) is the serial production variant of Anka medium-altitude, long-endurance (MALE) unmanned aerial vehicle (UAV), which was developed by Turkish Aerospace Industries (TAI) for the Turkish Armed Forces.
+
+This equipment has proliferated into the following countries: Pakistan, Tunisia, Turkey.
+
+Here is Variants information for the Anka-S Turkish Unmanned Aerial Vehicle (UAV):
+The Anka +A is On 19 July 2012, the Turkish Defense Industry Executive Committee (SSIK) announced that Turkish Aerospace Industries had commenced research and development for the design and development of a "hunter killer" High-Altitude Long-Endurance version of the Anka UAV, named the Anka +A..
+The Anka-B is On 30 January 2015, the Anka-B completed its maiden flight successfully. Anka Block B is an improved version of the Anka Block A..
+The Anka-I is Anka-I is an electronic warfare and intelligence UAV developed for the National Intelligence Organization..
+The Anka-2 is TAI Aksungur (code name: Anka-2) is a twin engined UAV developed primarily from Anka-S..
+
+Here is System information for the Anka-S Turkish Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Anka-S.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Turkish Aerospace Industries.
+The Autonomy is The Anka-S UAV can be operated in both autonomous and remote control modes. In the autonomous mode, the onboard flight control computer guides the aircraft to each pre-defined waypoint. In the remote control mode, the UAV is flown by its operator from the ground control station using a digital computer..
+The Crew is Unmanned.
+The Payload Capacity is 250 kg.
+The Reconnaissance Equipment is A new-generation electro-optic / infrared (EO / IR) camera is fitted for capturing high-resolution imagery and video in all-weather, day / night conditions. The UAV also features an identification friend or foe (IFF) system, laser designator and laser range finder..
+The Takeoff is Autonomous Takeoff.
+The Landing is Equipped with automatic take-off and landing systems, the air vehicle can perform emergency landings on unprepared surfaces with the support of tri-cycle landing gear..
+The Note is The unmanned aircraft can conduct a range of missions such as real-time intelligence, surveillance and reconnaissance (ISR), communication relay, target acquisition and tracking.
+The operator can send command and control, and mission objectives to six UAVs through the airborne SATCOM antenna and Turkish Armed Forces Communication System (TAFICS). The satellite terminal also allows the operator to alter the flight path during flight mode..
+
+Here is Dimensions information for the Anka-S Turkish Unmanned Aerial Vehicle (UAV):
+The Length is 8.6 m.
+The Wingspan is 17.5 m.
+The Height is 3.25 m.
+The Maximum Takeoff Weight is 1,700 kg.
+
+Here is Automotive information for the Anka-S Turkish Unmanned Aerial Vehicle (UAV):
+The Engine Name is 1 × Tusaş Engine Industries TEI-PD170.
+The Engine Type is 4-cylinder liquid-cooled in-line turbo-charged diesel.
+The Engine Power is 170 hp.
+The Propellers is 3-bladed constant-speed propeller.
+The Maximum Speed is 217 km/h.
+The Cruising Speed is 204 km/h.
+The Service Ceiling is 9,144 m.
+The Maximum Distance is 1,448 km.
+The Data Link (Combat Range) Maximum Distance is 250 km.
+The Endurance is 30 hours.
+
+Here is Main Weapon System information for the Anka-S Turkish Unmanned Aerial Vehicle (UAV):
+The Note is The UAV has two underwing weapon stations, which can carry weapons such as the Rokestan Smart Micro Munition (MAM-L) air-launched missile launcher and the CIRIT 2.75in guided rocket pod to engage light armored vehicles, personnel, military shelters, and ground radar stations..
+

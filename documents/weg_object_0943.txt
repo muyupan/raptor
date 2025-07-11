@@ -1,0 +1,80 @@
+This document describes the JZ-6 Chinese Reconnaissance Fighter Aircraft.
+
+Shenyang JZ-6 – (Jianjiji Zhenchaji – reconnaissance fighter) Dedicated reconnaissance version with fuselage camera pack replacing cannon. As of April 2006, it was reported that the PLAAF 3rd Recon Regiment, 26 Air Division based in Nanjing MR, is the last regiment to actively fly the JZ-6 refusing to convert to JZ-8F. Exported as the Shenyang FR-6.
+
+The Shenyang J-6 (Chinese: 歼-6; designated F-6 for export versions; NATO reporting name: Farmer) is the Chinese-built version of the Soviet MiG-19 'Farmer' fighter aircraft, the world's first mass-produced supersonic aircraft.
+
+Although the MiG-19 had a comparatively short life in Soviet service, the Chinese came to value its agility, turning performance, and powerful cannon armament, and produced it for their own use between 1958 and 1981. While the basic Soviet-built MiG-19 has been retired from all nations, the Shenyang J-6 still flies for nine of its original 15 operators, however, in a very limited capacity. The J-6 airframe contributed to the Chinese ground attack version, the Q-5, which still flies for numerous nations.
+
+The J-6 was considered "disposable" and was intended to be operated for only 100 flight hours (or approximately 100 sorties) before being overhauled. The Pakistan Air Force was often able to extend this to 130 hours with diligent maintenance.
+
+The J-6 has a maximum speed at altitude of 1,540 km/h (960 mph), Mach 1.45. Service ceiling is 17,900 m (58,700 ft). Combat radius with two drop tanks is about 640 km (400 mi). Powerplant is two Liming Wopen-6A (Tumansky R-9) turbojet engines. In addition to the internal cannon armament, most have provision for four wing pylons for up to 250 kg (550 lb) each, with a maximum ordnance load of 500 kg (1,100 lb). Typical stores include unguided bombs, 55 mm rocket pods, or PL-2/PL-5 (Chinese versions of Soviet K-13 (NATO AA-2 'Atoll') air-to-air missiles.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Engines information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the System:
+The 5,732 lbs. thrust Shenyang Wopen-6 turbojets (7,165 lbs. thrust with afterburner) is 2.
+
+Here is Speed (km/h) information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the System:
+The Cruise is 950.
+
+Here is Fuel (liters) information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the System:
+The Internal is 2170.
+The External (2 drop tanks) is 800 or 1,520.
+
+Here is Range (km) information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the System:
+The Normal is 1390.
+The With 2 x 760 L drop tanks is 2200.
+
+Here is Dimensions (m) information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the System:
+The Wingspan is 9.2.
+The Height is 3.9.
+
+Here is Hardpoints information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the System:
+The Underwing is 6.
+
+Here is Survivability/Countermeasures information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the System:
+The Martin-Baker zero/zero ejection seats is Yes.
+The Cockpit is pressurized is Yes.
+The Fluid anti-icing system for windscreen is Yes.
+The Tail warning system is Yes.
+
+Here is Inboard Stations information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the ARMAMENT:
+The 8 x 57-mm rockets, or is 4.
+The 16 x 57-mm rockets, or is 4.
+The 7 x 90-mm rockets, or is 4.
+The Gun pods, or is 4.
+The Practice bomb is 4.
+
+Here is AVIONICS/SENSOR/OPTICS information for the JZ-6 Chinese Reconnaissance Fighter Aircraft:
+The Airborne interception radar is Yes.
+The VHF transceiver is Yes.
+The Blind-flying equipment, is Yes.
+The Radio compass is Yes.
+The Radio altimeter is Yes.
+The Night/Weather Capabilities is No.
+
+Here is J-6 information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the VARIANTS:
+The Description is EQUIVALENT OF THE MIG-19S/SF DAYTIME FIGHTER WITH 3 X 30 MM GUNS, ONE AT EACH WING ROOT AND ONE ON THE FUSELAGE..
+
+Here is J-6A information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the VARIANTS:
+The Description is EQUIVALENT OF THE MIG-19PF ALL-WEATHER FIGHTER. ARMED WITH STANDARD J-6 GUNS AND ROCKETS..
+
+Here is J-6B information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the VARIANTS:
+The Description is EQUIVALENT OF THE MIG-19PM ALL-WEATHER FIGHTER. ARMED WITH THE AA-1 ALKALI RADAR HOMING MISSILES, NO GUNS..
+
+Here is J-6C information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the VARIANTS:
+The Description is SIMILAR TO THE J-6, BUT WITH BRAKE CHUTE HOUSED IN BULLET-FARING AT THE BASE OF TAILFIN. SAME GUNS AS THE J-6A. EXPORT VARIANT WITH MARTIN-BAKER EJECTION SEATS AND AIM-9 SIDEWINDER MISSILES..
+
+Here is J-6XIN information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the VARIANTS:
+The Description is SIMILAR TO J-6A, BUT WITH NOSE-MOUNTED INTERCEPTION RADAR. SAME GUNS AS THE J-6A..
+
+Here is JJ-6 information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the VARIANTS:
+The Description is TRAINER VERSION WITH TANDEM TWO-SEAT COCKPIT. EXPORT VERSIONS ARE FT-6. ARMED WITH ONLY THE FUSELAGE GUN..
+
+Here is JZ-6 information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the VARIANTS:
+The Description is A TACTICAL PHOTO-RECONNAISSANCE VERSION, ARMED WITH WING ROOT GUNS ONLY..
+
+Here is F-6 information for the JZ-6 Chinese Reconnaissance Fighter Aircraft of the VARIANTS:
+The Description is EXPORT VERSIONS..
+

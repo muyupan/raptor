@@ -1,0 +1,62 @@
+This document describes the HJ-73 (Red Arrow-73) Chinese Anti-Tank Guided Missile (ATGM).
+
+The HJ-73 is an anti-tank missile of Chinese origin. While the first model was a direct copy of the Soviet 9M14M Malyutka anti-tank missile, subsequently new models were developed in China. Although considered obsolete, it remains in widespread use while it is cheap and simple to use compared to modern anti-tank-guided weapons.
+
+The HJ-73 started out as a direct copy of the Soviet 9M14M and its associated 9S415 control box. Improved models incorporate some technology from the HJ-8 design program. Early model HJ-73 was a direct copy of the Soviet 9M14M. These suffer from the same drawbacks, such as 400 mm penetration and MCLOS guidance. The HJ-73 was continuously improved but is not as potent as the latest Serbian models. SACLOS guidance became available from the HJ-73B onward. All HJ-73 models have a maximum range of 3 km. The HJ-73 is used from either a manpack launcher or a vehicle installation. Early model manpack launchers were a direct copy of the Soviet control box. Later a domestic SACLOS control station was developed. Recently a lot of modern Chinese vehicles have been fitted with HJ-73C on either side of the turret.
+
+This equipment has proliferated into the following countries: Afghanistan, Algeria, Angola, Azerbaijan, Bangladesh, Bulgaria, Cambodia, China, Cuba, Egypt, Ethiopia, Hungary, India, Iran (Islamic Republic of), Iraq, Kyrgyzstan, Libya, Mozambique, Namibia, Poland, Romania, Russian Federation, Sudan, Syria, Uganda, Venezuela (Bolivarian Republic of), Viet Nam, Zambia.
+
+Here is Variants information for the HJ-73 (Red Arrow-73) Chinese Anti-Tank Guided Missile (ATGM):
+The HJ-73B is USes a more advanced SACLOS interface and a better missile..
+The HJ-73C is removes the joystick contract,
+allowing the operator to keep the target in the crosshairs; adds thermal imaging; and
+is also capable of firing 9M14 Malyutka / AT-3 Sagger missiles.
+The HJ-73D is Syria, Venezuela, and South Sudan version of the HJ-73 Red Arrow.
+
+Here is System information for the HJ-73 (Red Arrow-73) Chinese Anti-Tank Guided Missile (ATGM):
+The Alternative Designation is HJ-73; Red Arrow 73.
+The Manufacturer is NORINCO.
+The Expected out of Service Date is 2040.
+The Type is Short Range, Man Portable Anti-Tank Guided Missile (ATGM) System.
+The Family is The HJ-73 is based of the Russian AT-3 Sagger B (9M114M) Malyutka wire-guided MCLOS.
+The Crew is 1.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Maximum Effective Range is 3.
+The Air to Surface Capable is 220.
+The Surface to Air Capable is 120.
+The Add on Parts is No.
+The Launcher, Man Portable is Yes.
+The SACLOS Guidance Capability is Yes.
+The Platforms is The HJ-73 is used from either a manpack launcher or a vehicle installation. Early model manpack launchers were a direct copy of the Soviet control box. Later a domestic SACLOS control station was developed. Recently a lot of modern Chinese vehicles have been fitted with HJ-73C on either side of the turret..
+The Note #1 is The HJ-73 is the most widely used Antitank System in the People' s Liberation Army..
+The Note #2 is The HJ-73 Red Arrow was built to replace the AT-3 Sagger..
+
+Here is Dimensions information for the HJ-73 (Red Arrow-73) Chinese Anti-Tank Guided Missile (ATGM):
+The Length is 0.85.
+The Diameter is 125.
+The Missile Weight at Launch is 11.
+
+Here is Automotive information for the HJ-73 (Red Arrow-73) Chinese Anti-Tank Guided Missile (ATGM):
+The Prime Mover Required is No.
+The Man Portable is Yes.
+The Infantry Fighting Vehicle Mount is Capable.
+The Armored Personnel Carrier Mount is Capable.
+The Attack Helicopters Mount is Capable.
+
+Here is Ammunition (Option 1) information for the HJ-73 (Red Arrow-73) Chinese Anti-Tank Guided Missile (ATGM) of the Armament and Ammunition:
+The Name is HEAT Projectile.
+The Type is 125 mm.
+The Muzzle Velocity is 115.
+The Armor Penetration is Yes.
+The Fuzing System is 9E212.
+
+Here is Fire Control information for the HJ-73 (Red Arrow-73) Chinese Anti-Tank Guided Missile (ATGM):
+The Name is INA.
+The Computerized FCS is INA.
+The Guidance System is Manual Command Line-Of-Sight (MCLOS).
+The Direct Fire is Yes.
+
+Here is Protection information for the HJ-73 (Red Arrow-73) Chinese Anti-Tank Guided Missile (ATGM):
+The Countermeasures is Immune to Electronic Countermeasures..
+

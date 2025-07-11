@@ -1,0 +1,125 @@
+This document describes the BMPT Terminator Russian Heavy Fire Support Combat Vehicle.
+
+The BMPT "Terminator” is a post-Cold war Armored Fighting Vehicle (AFV), designed and manufactured by the Russian company Uralvagonzavod. This vehicle was designed for supporting tanks and other AFVs in urban areas. The BMPT is unofficially named the "Terminator" by the manufacturers. It is heavily armed and armored to survive in urban combat. This AFV is armed with Ataka-T Guided Weapon System armed with four 9M120 Ataka missile launchers, two 30 mm 2A42 auto-cannons, two AG-17D grenade launchers, and one coaxial 7.62 mm PKTM machine gun.
+
+This equipment has proliferated into the following countries: Algeria, Kazakhstan, Russian Federation.
+
+Here is Variants information for the BMPT Terminator Russian Heavy Fire Support Combat Vehicle:
+The BMPT-72 (Terminator-2) is BMPT on a T-72 chassis.  The BMPT-72 is a little smaller than the BMPT and weights 6 tonnes less.  The crew is 3, 2 less than its parent.  The BMPT-72 can have one of two different engines, either the 840 horsepower V-84MS or the 1,000 horsepower V-92S2.  The -72 version has a 50km shorter range at 500km and does not have the grenade launchers.
+
+This support combat vehicle was first revealed at the Russian Arms Expo (RAE) at Nizhny Tagil, Russia in 2013. The Terminator 2 is being sold as an armor upgrade package, rather than an actual tank, with two engines available. The two engines are the V-84MS (840 hp, 2000 rpm, V12, 4-stroke, multi-fuel, liquid cooling, and gear driven centrifugal type supercharger) and the V-92S2 (1000 hp, 2000 rpm, V12, 4-stroke, multi-fuel, liquid cooling, and turbocharger). These upgrades removed the two frontal 30mm grenade launchers; this reduced the crew from five to three, but also lightened the load from 48 tonnes to 44 tonnes.
+
+The armament of the BMPT-72 Terminator 2 is the same (except for the removal of the two 30mm grenade launchers), however, the armament is better protected and the structural support of the four ATGMs is enhanced and positioned horizontally instead of vertically. The FCS has also gotten an upgrade with a new multi-channel gunner’s sight that is equipped with a thermal channel, night vision, laser range finder, laser guidance system for missiles, and independent 2-plane stabilization of field of view with a sighting range of 5000 meters. The BMPT-72 received a new digital ballistic computer with weather and topographical support and the armament is stabilized on two axes with electromechanical traversing and elevating drives. Lastly, improved NBC protection is provided for the crew..
+The BMPT-72 (Terminator-3) is Will be based on the Armata Universal Combat Platform and ave an automatic gun turret and in the future may have integrated air defense systems and my be fully unmanned..
+
+Here is System information for the BMPT Terminator Russian Heavy Fire Support Combat Vehicle:
+The Alternative Designation is BMPT Terminator.
+The Type is Russian Heavy Fire Support Combat Vehicle.
+The Manufacturer is Uralvagonzavod.
+The Crew is 5.
+
+Here is Dimensions information for the BMPT Terminator Russian Heavy Fire Support Combat Vehicle:
+The Length is 7.2.
+The Width is 3.8.
+The Height is 3.44.
+The Weight, Combat is 48.
+
+Here is Automotive information for the BMPT Terminator Russian Heavy Fire Support Combat Vehicle:
+The Engine Name is V-92S2.
+The Engine Type is V12 multi-fuel.
+The Engine Power is 1,000.
+The Horse Power / Tonne is 20.
+The Cruising Range is 550.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is NA.
+The Fording Depth is 1.2 meters without prep, 1.8 meters with.
+The Obstacle Height Clearance is 0.85 m at 30 degrees.
+The Can Clear Trenches (Width) is 2.8.
+
+Here is System information for the BMPT Terminator Russian Heavy Fire Support Combat Vehicle of the Primary Weapon System:
+The Name is 9M120 Ataka-T.
+The Type is ATGM.
+The Max Rate of Fire is INA.
+The Range Finder Type is Laser.
+The Maximum Elevation is +25.
+The Maximum Depression is -5.
+The Guidance is Laser riding SACLOS.
+
+Here is Ammunition information for the BMPT Terminator Russian Heavy Fire Support Combat Vehicle of the Primary Weapon System:
+The Caliber is 130.
+The Velocity is 550.
+The Basic Load is 4.
+The Max Range is 6.
+The Min Range is INA.
+The Armor Penetration is 950mm of RHA behind ERA.
+The Warhead is Tandem.
+
+Here is System information for the BMPT Terminator Russian Heavy Fire Support Combat Vehicle of the Secondary Weapon System:
+The Name is 2A42.
+The Type is Twin 30mm Cannon.
+The Max Rate of Fire is 600 rounds per minute combined.
+The Sustain Rate of Fire is Gunner can select 200rpm or 300rpm.
+The Range Finder Type is Laser.
+The Maximum Elevation is +45.
+The Maximum Depression is -5.
+The Maximum Effective Range is 4,000.
+
+Here is Ammunition information for the BMPT Terminator Russian Heavy Fire Support Combat Vehicle of the Secondary Weapon System:
+The Type is One cannon fires armor piercing rounds while the other fires anti-personnel rounds.  Rounds available are HE-T, APDS, HE-Frag, and AP-T.
+The Caliber is 30.
+The Muzzle Velocity is 960.
+The Basic Load is 850.
+
+Here is System information for the BMPT Terminator Russian Heavy Fire Support Combat Vehicle of the Additional Weapon System:
+The Name is 1 x PKTM 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Max Rate of Fire is 800.
+The Sustain Rate of Fire is 150.
+The Range Finder Type is Laser.
+
+Here is Ammunition information for the BMPT Terminator Russian Heavy Fire Support Combat Vehicle of the Additional Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Muzzle Velocity is 850.
+The Effective Range is 1,500.
+The Armor Penetration is INA.
+The Basic Load is 2,000.
+
+Here is System information for the BMPT Terminator Russian Heavy Fire Support Combat Vehicle of the Auxiliary Weapon System:
+The Name is 1 x AG-17D or 1 x AGS-30 (one mounted on each side of the BMPT).
+The Type is Grenade Launcher.
+The Caliber is 30 mm.
+The Max Rate of Fire is 400.
+The Sustain Rate of Fire is INA.
+
+Here is Ammunition information for the BMPT Terminator Russian Heavy Fire Support Combat Vehicle of the Auxiliary Weapon System:
+The Type is Anti-personnel.
+The Caliber is 30.
+The Muzzle Velocity is 185.
+The Effective  Range is 1,700.
+The Armor Penetration is NA.
+The Basic Load is 600 total (300 for each launcher).
+
+Here is Fire Control information for the BMPT Terminator Russian Heavy Fire Support Combat Vehicle:
+The Name is VIAM.461112.001.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes.
+The Range, Day Sight is 5.
+The Range, Thermal Sight is 7.
+The Note: is The commander's B07-K1 panoramic sight is located at the top of the BMPT and has a 360° field of view. This panoramic sight has optical, low-level laser rangefinder and television channels. The B07-K2 standard gunner's sight consists of optical and thermal channels and a laser rangefinder. The vehicle also has hunter-killer capabilities with its separate commander's panoramic sight and gunner's sight which can detect both ground and aerial targets. The gunner is able to use the commander's sight to engage targets if his own sight is disabled or destroyed. The commander of the vehicle also has the ability to override the command to take control of the turret and guns from the gunner. The navigation system used by the BMPT is a combined GPS/GLONASS module..
+
+Here is Protection information for the BMPT Terminator Russian Heavy Fire Support Combat Vehicle:
+The Hull Armor is Has additional armor without adding weight because turret is lightly armored.
+The Turret Armor is Unmanned.
+The Applique Armor is Yes.
+The Explosive Reactive Armor is Yes, Relikt.
+The Active Protection System is No.
+The Mine Clearing is Can be added.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+

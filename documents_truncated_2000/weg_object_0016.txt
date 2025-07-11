@@ -1,0 +1,143 @@
+This document describes the ZTD-05 (VN-16) Chinese Amphibious Light Tank.
+
+The ZBD-2000 is a family of Chinese-tracked amphibious assault vehicles. They are designed for beach assault missions and to accompany infantry as ground forces move inland. The vehicle resembles the (now canceled) U.S. Expeditionary Fighting Vehicle (EFV).
+
+The vehicle has a boat-shaped hull with six road wheels and lead return rollers. A welded turret is mounted over the middle of the hull. The commander and gunner sit inside the turret, with the driver at the front, to the left of the engine.
+
+The driver has a single-piece hatch cover that opens to the rear. It can be locked in the vertical position with at least three-day periscopes providing observation of the frontal arc. The middle periscope can be replaced by a passive periscope for driving at night.
+
+The troop compartment is provided with two oblong roof hatches that open outwards and can be locked in the vertical position. The troops enter and leave through a door in the hull rear that opens to the right.
+
+The ZBD-2000 is propelled in the water by a pair of waterjets. Speeds of up to 28 mph (45 kph) can be achieved. The vehicle utilizes hydraulically actuated bow and transom flaps, which are designed to aid the vehicle's hull skimming. The vehicle is able to travel more than 6 mi (10 km) over the water.
+
+The vehicle has all-welded armor over the hull and turret, providing protection against 25-mm armor-piercing rounds over the frontal arc and all-around protection against 7.62-mm armor-piercing rounds.
+
+This version is equipped with a three-man turret armed with a 105-mm gun, a 7.62-mm coaxial machine gun, and a roof-mounted 12.7-mm machine gun. The manually loaded gun can fire a variety of munitions, including gun-launched anti-tank guided missiles.
+The ZTD-05 has a crew of four (commander, driver, gunner, loader), and can carry up to four personnel.
+
+The commander and gunner sit in tandem to the left of the main gun. The loader is to the right and is also responsible for manning the 12.7-mm machine gun.
+
+The rear part of the turret has a storage rack for additional protection against high-explosive anti-tank (HEAT) rounds.
+
+The ZTD-05 is equipped with a computerized fire-control system that includes a fire-control computer, light spot commander sight with laser rangefinder, and light spot gunner sight with passive night vision. It is also fitted with a GPS navigation system and image-intensifier night-vision or thermal-imaging system.
+
+The PLA and marine corps have about 200 and 140 of these vehicles, respectively.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the ZTD-05 (VN-16) Chinese Amphibious Light Tank:
+The PLZ-07B is The PLZ-07B is an SPH designed for the Chinese Marine Corps. It is based on the Type 05 hull and uses the weapon system from the PLZ-07, which is based on a different hull. The vehicle is designed to have the same mobility and protection as the ZBD-05, however, it is equipped with a large-calibre howitzer and attendant FCS so that it can provide organic indirect fire support for ZBD-05 formations..
+The Type 001 is The Type 001 is an APC based on the Type 05 hull. It is believed that the Type 001 is more likely to be found in service with the amphibious elements of the PLA rather than the Marine Corps, as it has been shown on exercises with the 74th Army Group. It is designed to perform as an APC and is capable of carrying a section of equipped infantry into combat alongside other Type 005 variants..
+
+Here is Dimensions information for the ZTD-05 (VN-16) Chinese Amphibious Light Tank:
+The Length is 9.5.
+The Width is 3.36.
+The Height is 3.04.
+The Weight, Combat is 28.5.
+The Ground Pressure is INA.
+
+Here is Automotive information for the ZTD-05 (VN-16) Chinese Amphibious Light Tank:
+The Engine Name is INA.
+The Engine Type is Four-stroke turbocharged water-cooled diesel.
+The Engine Power (Land) is 500.
+The Engine Power (Sea) is 1,577.
+The Transmission is Machanical.
+The Cruising Range (Land) is 500.
+The Cruising Range (Sea) is INA, estimates have it going as far as 2/3 of it's land range..
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is 40.
+The Speed, Maximum Swim is INA.
+The Maximum Distance at Sea is 90.
+The Tracks is Tracks are supported by two return rollers located between the first and last pairs of road wheels..
+The Suspension is Hydropneumatic.
+The Wheels is 6, unevenly-spaced road wheels per side.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Obstacle is 0.6.
+The Trench is 2.9.
+The Fording Depth is Amphibious.
+The Sea State Capable is Sea State 4.
+The Buoyancy Reserve is Yes.
+
+Here is TBR-121 information for the ZTD-05 (VN-16) Chinese Amphibious Light Tank of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the ZTD-05 (VN-16) Chinese Amphibious Light Tank of the Main Gun:
+The Name is INA.
+The Type is 105.
+The Caliber is 44.
+The Rate of Fire is 6-8.
+The Bore evacuator is Yes.
+The Maximum Firing Range is 17.2-22.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Elevation is +18.
+The Minimum Elevation is -5.
+The Muzzle Brake is Yes.
+The Bore Evacuator is Yes.
+The Loading Type is Manual with a hydraulic ram assistance.
+The Note is The primary armament of the ZTD-05 is the 105 mm low-recoil rifled gun, which is stabilised and capable of firing on the move. It is thought that the gun was modified to reduce its recoil, and prevent the system from damaging the hull or affecting the balance of the platform when firing on the move..
+
+Here is Ammunition information for the ZTD-05 (VN-16) Chinese Amphibious Light Tank of the Main Gun:
+The Type  is Projectile .
+The Caliber  is 105 mm.
+The Note is Available ammunition natures include an APFSDS round designated as BTA2, which is capable of penetrating 220 mm of RHA set at 66.4° from a range of 2,000 m. For targets protected by ERA, the DTP1A round armed with a HEAT warhead is used, which is capable of penetrating 180 mm of RHA set at 60° and protected by ERA. To assault fortified positions, the ZTD-05 can employ the BTM1 round, which is capable of penetrating 1 m of reinforced concrete at a range of 1,500 m and provides a 6 m lethal radius. Norinco has also developed a multipurpose round, which can be used for anti-materiel and anti-personnel purposes. The round has a maximum effective range of 3,000 m and a lethal radius of 10 m against personnel. For anti-materiel purposes, the maximum range is 12 km, the lethal radius is 20 m, and the round can penetrate 35 mm of RHA at a range of 300 m. It is also likely that the gun can fire the GP2 gun-launched missile, which is stated to be capable of penetrating 650 mm of armor protected by ERA at a maximum range of 5,000 m..
+
+Here is System information for the ZTD-05 (VN-16) Chinese Amphibious Light Tank of the Auxiliary Weapon System #1:
+The Name is QJZ-89.
+The Type is Heavy Machine Gun.
+The Caliber  is 12.7 mm.
+The Length, Total is 2,119.
+The Length, Barrel is 1,003.
+The Weight (Gun Only) is 17.5.
+The Weight, (Tripod Only) is 8.5.
+The Max Rate of Fire is 600.
+The Sustain Rate of Fire is 400-600.
+The Action is Gas/Recoil.
+The Feed System is Belt.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the ZTD-05 (VN-16) Chinese Amphibious Light Tank of the Auxiliary Weapon System #1:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7x108.
+The Max Effective Range is 1,600.
+The Basic Load is 1,200.
+
+Here is System information for the ZTD-05 (VN-16) Chinese Amphibious Light Tank of the Auxiliary Weapon System #2:
+The Name is 1 x 7.62mm General-Purpose Machine Gun.
+
+Here is Fire Control information for the ZTD-05 (VN-16) Chinese Amphibious Light Tank:
+The Battle Management System is Yes, fitted with the PLA’s version of a generic vehicle architecture (GVA) Battle Management System (BMS). The BMS provides the commander with a 3D map; this can be used to designate assault routes and targets, which are then distributed via data burst to other vehicles..
+The Computerized FCS is Yes, includes an FCS that accounts for the speed of the vehicle and distance to the target to provide ballistic solutions for the main gun..
+The Thermal (Vehicle Commander) is Yes.
+The Thermal (Gunner) is Yes.
+The Main Gun Stabilization is Yes.
+The 3D Map Display is Yes, Standard.
+The Satellite Navigation System is Yes, BeiDou Satellite, which also integrates with the vehicle’s digital radios to provide blue force tracking..
+The Laser Range Finder is Yes.
+
+Here is Protection information for the ZTD-05 (VN-16) Chinese Amphibious Light Tank:
+The Hull Armor Type is The hull of the ZTD-05 is built from welded aluminum to which a modular spaced armor is added, assessed to be composite appliqué armor. At the front of the hull, the bow blade is placed along the glacis and belly plate to provide additional protection from ballistic threats. It is also possible that the front of the hull is used to house a self-sealing fuel tank, which is a method also used on the BMP-3..
+The Hull Armor is 30.
+The Sides and Rear Armor is 14.5.
+The Turret Armor is INA.
+The Applique Armor is Yes.
+The Explosive Reactive Armor is INA.
+The Active Protection System is Yes.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, 8 Total, 4 on each side 76mm.
+The Bow Blade is Yes.
+The Belly Plate is Yes.
+The Self-Sealing Fuel Tank is Yes, capable of stopping a 25 mm APFSDS round at 2,000 m..
+The Automatic Fire Suppression Device. is Yes.
+

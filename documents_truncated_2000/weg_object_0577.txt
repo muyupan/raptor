@@ -1,0 +1,47 @@
+This document describes the Panhard AML-90 French 90mm Self-Propelled Gun (SPG).
+
+The Panhard AML-90 French 90mm Self-Propelled Gun (SPG) is a direct fire support variant of the AML family. It is armed with a large-caliber gun designed to be used against armored vehicles and emplacements.
+
+This equipment has proliferated into the following countries: Argentina, Bahrain, Burkina Faso, Burundi, Cameroon, Chad, Djibouti, Ecuador, El Salvador, Gabon, Guinea, Kenya, Lebanon, Lesotho, Malaysia, Mauritania, Morocco, Niger, Nigeria, Rwanda, Saudi Arabia, Senegal, Somalia, Sudan, Togo, Tunisia, Venezuela (Bolivarian Republic of), Yemen.
+
+Here is System information for the Panhard AML-90 French 90mm Self-Propelled Gun (SPG):
+The Alternative Designation is Panhard AML-90.
+The Type is Self-Propelled Gun (SPG).
+The Caliber is 90 mm.
+The Manufacturer is Panhard.
+The Configuration is 4x4.
+The Crew is 3.
+
+Here is Dimensions information for the Panhard AML-90 French 90mm Self-Propelled Gun (SPG):
+The Length is 5.11 m.
+The Width is 1.97 m.
+The Height is 2.07 m.
+The Weight, Combat is 5,500 kg.
+The Ground Clearance is 0.33 m.
+
+Here is Automotive information for the Panhard AML-90 French 90mm Self-Propelled Gun (SPG):
+The Engine Name is Panhard Model 4 HD.
+The Engine Type is 4 cylinders, air-cooled, petrol.
+The Engine Power is 90 hp at 4,700 rpm.
+The Power-to-Weight Ratio is 16.36 hp/t.
+The Maximum Range is 600 km.
+The Maximum Speed is 90 km/h.
+The Amphibious is No.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.3 m.
+The Trench is 0.8 m.
+
+Here is Main Weapon System information for the Panhard AML-90 French 90mm Self-Propelled Gun (SPG):
+The Note is 1 × turret-mounted 90 mm.
+
+Here is Coaxial Weapon System information for the Panhard AML-90 French 90mm Self-Propelled Gun (SPG):
+The Note is 1 × coaxial-mounted 7.62 mm machine gun.
+
+Here is Protection information for the Panhard AML-90 French 90mm Self-Propelled Gun (SPG):
+The Hull Armor is steel 8 mm.
+The Turret Armor is steel 12 mm.
+The Applique Armor is Yes.
+The NBC Protection is Yes.
+The Smoke Equipment is 4 × turret-mounted 80 mm smoke-grenade launcher (2 × 2).
+

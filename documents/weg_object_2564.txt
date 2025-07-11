@@ -1,0 +1,166 @@
+This document describes the QN-506 Chinese Infantry Fighting Vehicle (IFV).
+
+QN-506 Fire Support Vehicle was developed by Wuhan Guide Infrared and is designed to suppress enemy forces in urban areas and during counterterrorism operations. The base of the QN-506 is a chassis of a Type 59 tank, on which the ZPT99 weapon station is mounted. The crew consists of 3 people - the driver, the commander, and the gunner. The combat weight of the vehicle is 30 tons, while the QN-506 has the possibility to upgrade in the future. Universal ZPT99 weapon station has the following weapons:
+30-mm automatic gun, similar to the Soviet 2A72 (ammunition of 80 armor-piercing tracer and 120 high-explosive fragmentation projectiles)
+
+7.62-mm machine gun ( ammunition of 2000 rounds)
+
+Two modular launchers with ammunition: 4 QN-502 anti-tank guided missiles with a combined control mode (developed by Wuhan Guide Infrared), which have a range of attack speed and air targets of 6 kilometers, and 20 units of 70-mm QN-201 missiles
+
+Four S570 missiles are located in slanted launchers in the rear of the ZPT99 weapon station.
+
+Anti-personnel active protection complex
+
+Integrated drone
+
+Counter-sniper fighting devices
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the QN-506 Chinese Infantry Fighting Vehicle (IFV):
+The Alternative Designation is QN-506.
+The Manufacturer is Wuhan Gaode Infrared.
+The Type is Fire Support Vehicle.
+The Family is Type 79.
+The Crew is 3 (one driver and two controllers for the vehicle's weapon systems).
+The Chassis is Type 59 tank's chassis.
+The Note is The QN-506 can be used as a urban assault vehicle. It has been called the "new king of ground warfare".
+
+Here is Dimensions information for the QN-506 Chinese Infantry Fighting Vehicle (IFV):
+The Length (Overall) is 9.0.
+The Length (Full) is 6.04.
+The Width is 3.27.
+The Height is 2.59.
+The Weight, Combat is 30,000.
+The Ground Clearance is 0.425.
+The Ground Pressure is 0.8 kg/cm².
+The Track (Vehicle) is 2.85.
+The Track (Normal ) is 580.
+The Track Width is 580.
+The Length of track on ground: is 3.84.
+
+Here is Automotive information for the QN-506 Chinese Infantry Fighting Vehicle (IFV):
+The Engine Name is 12150L.
+The Engine Type is V-12, water cooled, diesel.
+The Engine Power is 520.
+The Power to Weight Ratio is 14.44.
+The Maximum Range (Main Fuel Supply) is 720.
+The Maximum Range (Main Fuel Supply with additional fuel tanks)) is 600.
+The Speed, Maximum Road is 50.
+The Speed, Average Cross is 35.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth (Without Preperation) is 1.4.
+The Fording Depth (with Preperation) is 5.5.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Obstacle is 0.79.
+The Trench is 2.7.
+The Suspension is torsion bar.
+The Electrical System is 24.
+
+Here is TB-121 information for the QN-506 Chinese Infantry Fighting Vehicle (IFV) of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Proliferated is Widely.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the QN-506 Chinese Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is Nudelman-Rikhter NR-30.
+The Caliber is 30.
+The Max Rate of Fire is 850-1,000.
+The Maximum Effective Range is 5.
+The Range Finder type is Laser range finder.
+The Maximum Elevation is +53.
+The Minumum Elevation is 0.
+The Weight is 66.
+The Length (Total) is 2,153.
+The Length (Barrel) is 1,600.
+The Width is 181.
+The Height is 186.
+The Barrels is 1.
+The Action is Short Recoil.
+The Variants is Norinco Type 30.
+The Note is The 30mm Chain Gun is similar to the Soviet 2A72..
+
+Here is Ammunition information for the QN-506 Chinese Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is Rifle.
+The Caliber is 30.
+The Cartridge is 30x155mm.
+The Muzzle Velocity is 780.
+The Maximum Effective Range is 5.
+The Armor Penetration is INA.
+The Basic Load is 300.
+
+Here is System information for the QN-506 Chinese Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System:
+The Name is Type 80 Chinese Heavy Machine Gun.
+The Type is 7.62mm Heavy Machine Gun.
+The Manufacturer is Norinco.
+The Date of Introduction is 1985.
+The Max Rate of Fire is 700-800.
+The Length, Total is 1,192.
+The Length, Barrel is 658.
+The Diameter is INA.
+The Weight (Gun Only) is 12.6.
+The Weight (With Tripod) is 17.5.
+The Action is Gas-operated, open bolt.
+The Feed System is Belts in 100/200/250 round boxes.
+The Sights is Open sights. Optical/Night vision scope can be outfitted..
+The Variant 1 is Type 80 - The copy of the PKM GPMG, chambered in 7.62×54mmR.
+The Variant 2 is Type 86 - A machine gun only used for tanks as a secondary weapon..
+The Variant 3 is CF06 - An export-only version of the Type 80, which is chambered for 7.62 NATO ammunition..
+The Variant 4 (Foreign) is BD-14 - A variant of the Type 80 made by Bangladesh Ordnance Factories under license which uses 7.62×51mm NATO instead of 7.62×54mmR.
+
+Here is Ammunition information for the QN-506 Chinese Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System:
+The Type is RIfle.
+The Caliber is 7.62×54mmR.
+The Muzzle Velocity is 840.
+The Effective Range is 1.2.
+The Armor Penetration is Available.
+The Basic Load is 2,000.
+
+Here is Anti-Tank Missiles (Option 2) information for the QN-506 Chinese Infantry Fighting Vehicle (IFV) of the Anti-Tank Missiles (Option 1):
+The Name is QN-201 Rockets.
+The Type is Multipurpose missiles.
+The Caliber is 70.
+The Muzzle Velocity is INA.
+The Effective Range is 4.
+The Basic Load is 20.
+
+Here is Anti-Tank Missiles (Option 3) information for the QN-506 Chinese Infantry Fighting Vehicle (IFV) of the Anti-Tank Missiles (Option 1):
+The Name is S570 missiles.
+The Type is Small Cruise Missiles.
+The Muzzle Velocity is INA.
+The Basic Load is 4.
+The Effective Range is 10.
+
+Here is Unmanned Aerial Vehicle (UAV) information for the QN-506 Chinese Infantry Fighting Vehicle (IFV):
+The Type is Chinese Drone. Name: INA.
+The UAV Range is Reports claim the type of drone assigned to the QN-506 can fly at a maximum range of 10km.
+The Note is A UAV is equipped for situational awareness and battlefield information analysis.
+
+Here is Fire Control information for the QN-506 Chinese Infantry Fighting Vehicle (IFV):
+The Fire Control System is Yes, Name: INA.
+The Computerized Fire Control is Yes.
+The Laser Target Desinator is Yes.
+The Day Camera is Yes.
+The Night Camera is Yes.
+The Thermal Imager is Yes.
+The Panoramic Sight is Yes.
+
+Here is Protection information for the QN-506 Chinese Infantry Fighting Vehicle (IFV):
+The Armor is Classified.
+The Applique Armor is No.
+The Active Protection System is Yes, Anti-personnel active protection complex and a "hard-kill" active protection system.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The IR Signature is INA.
+The Counter-Sniper Fighting Devices is Yes.
+The Laser Warning Receivers is Yes.
+The Electro-Optical Sensors is Yes, mounted on the roof.
+

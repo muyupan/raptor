@@ -1,0 +1,214 @@
+This document describes the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV).
+
+JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV)
+
+The BMP-2 [BMP = Boyevaya Mashina Pyekhota - Infantry Fighting Vehicle] infantry combat vehicle, fielded in the early 1980's [initially designated BMP 1981], is an improved version of the BMP-1 incorporating major armament changes. The new two-man turret mounts a 30-mm automatic gun with a long thin tube and double-baffle muzzle brake that can be used against aircraft and helicopters. The ATGM launcher on top of the turret can employ either AT-4 SPIGOT or AT-5 SPANDREL missiles, though the AT-5 Spandrel canister is normally mounted. Given the enlarged turret, there are two roof hatches in the rear fighting compartment, rather than the four of the BMP-1, and the the BMP-2 accommodates one less passenger. Each side of the troop compartment has three firing ports with associated roof-mounted periscopes.The BMP-2 is the base IFV of the family, it is designed to support MBTs during an assault and is expected to engage vehicles that are in a similar category to itself.
+
+In the centre of the vehicle is the welded steel turret, which seats the commander and gunner, both of whom have hatches. The commander sits to the right and has three day-vision periscopes, a 1PZ-3 day-sight designed for anti-aircraft use with 1Ã, 2Ã and 4Ã magnification, an OU-3GA2 infra-red searchlight, a TNP-165A designator and a TKN-3B binocular sight with 4.75Ã day magnification and 4Ã night-sight magnification.
+
+The gunner sits to the commander's left and has a smaller rectangular hatch with a rearward-facing day periscope, additionally, there are three other day periscopes facing forward and left. The gunner has a BPK-1-42 binocular sight with a moon/starlight vision range of 650 metres, or 350 metres using the infra-red searchlight, and a TNPT-1 designator. An FG-126 infra-red searchlight is mounted coaxially to the 30 mm cannon.
+
+The driver sits in the front left of the vehicle, with the engine in a separate compartment to his right. The driver has his own entry hatch above him, with three day-periscopes. The centre TNPO-170A periscope can be replaced with either a TNPO-350B extended periscope for amphibious operation or a TVNE-1PA night vision scope. An infantryman sits immediately behind the driver, and has a firing port and vision block. TNPO-170A periscopes are used throughout the vehicle and are electrically heated.
+
+In the BMP-1 and BMP-2 ammunition is stored near or even inside the compartment, which can lead to a catastrophic failure in case of a hull breach.
+
+The BMP-1 and BMP-2 share the same chassis and have almost identical road performance. The BMP-2 is heavier, but also has a more powerful engine to compensate.
+
+The BMP-2 is amphibious with little preparation, using hydrodynamic fairings to convert track momentum into water jets. Peacetime regulations require that any BMPs entering water must have a working radio set, since its bearings are not airtight and it can be carried away by currents in case of loss of engine power (the vehicle lacks an anchor).
+
+The main armament is a turret with a stabilized 30 mm 2A42 autocannon with dual ammunition feeds, which provide a choice of 3UBR6 AP-T and 3UOR6 HE-T / 3UOF8 HE-I ammunition and 9M113 Konkurs ATGM. The gun has a selectable rate of fire, either slow at 200 to 300 rounds per minute or fast at 550 rounds per minute. The original stabilization provides reasonable accuracy up to a speed of about 35 kilometres per hour.
+
+The AP-T ammunition can penetrate 15 millimetres of armour at sixty degrees at 1,500 metres, while a new APDS-T tungsten round can penetrate 25 millimetres at the same distance. A typical ammunition load is 160 rounds of AP ammunition and 340 rounds of HE ammunition. The ammunition sits in two trays located on the turret floor rear. The gun can be fired from either the commander's or the gunner's station.
+
+The commander's 1PZ-3 sight is specifically designed for anti-aircraft operation and combined with the high maximum elevation of 74 degrees, it allows the 30 mm cannon to be used effectively against helicopters and slow flying aircraft. The turret traverse and elevation are powered and it can traverse 360 degrees in 10.28 seconds and elevate through 74 degrees in 12.33 seconds.
+
+Reloading the BMP-2's 30 mm cannon can be somewhat problematic and can take up to two hours, even if the ammunition is prepared. Additionally, the cannon is normally only used on the slow rate of fire, otherwise, fumes from the weapon would build up in the turret faster than the extractor fan can remove them.
+
+The effective range of the 30 mm cannon is up to 1,500 metres against armour, 4,000 metres against ground targets, and 2,500 metres against air targets.
+
+A coaxial 7.62 mm PKT machine gun is mounted to the left of the 30 mm cannon, and 2,000 rounds of ammunition are carried for it. On the roof of the turret is an ATGM launcher, on Russian vehicles this fires AT-5 Spandrel missiles, but on export models, it normally fires AT-4 Spigot missiles. A ground-mount for the missile is also carried, allowing it to be used away from the vehicle. The missiles are a substantial improvement on the AT-3 Sagger missiles used on the BMP-1, in both range and accuracy.
+
+Behind the turret is the troop compartment that holds six troops, the seventh sits just behind the driver. The troops sit back to back, along the centre of the vehicle. Down each side of the compartment are three firing ports with periscopes. Access to the compartment is by the two rear doors, which also hold fuel tanks, both doors have integral periscopes and the left door has a firing port.
+
+In addition to the main weapons, it can carry a man-portable surface-to-air missile launcher and two missiles, and an RPG launcher and five rounds. The vehicle is fitted with a PAZ overpressure NBC system and fire suppression system, and carries a GPK-59 gyrocompass.
+
+Here is Variants information for the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV):
+The BMP-2 obr. is Improved version with "kovriki" armour on turret front.
+The BMP-2 obr. 1986 is Late-production model with new BPK-2-42 sight instead of the BPK-1-42..
+The BMP-2D is Fitted with additional spaced type steel appliquÃ© armour on the hull sides, under the driver's and commander's stations, and 6 mm thick appliquÃ© armour on the turret..
+The BMP-2K is Command variant fitted with two whip antennas mounted on the rear of the hull, one behind the turret and one on the right-hand side of the rear of the vehicle, one IFF antenna (pin stick) on the left-hand side of the rear of the vehicle and a support for a telescopic mast in the front of the IFF antenna.
+The BMP-2M is This is the general designator for upgraded (modernizirovannyj) versions.
+The BMP-2M "Berezhok" is Modernized version from KBP. This version has B05Ya01 Berezhok turret equipped with 2A42 30mm autocannon, PKMT 7.62mm coaxial machine gun, AGS-30 grenade launcher, 2+2 launchers for ATGM 9M133M "Kornet-M" and new day/night sights as found on the BMD-4..
+The BMO-1 is Transport vehicle for a flamethrower squad armed with 30 RPO-A "Shmel" 93 mm napalm rocket launchers..
+The BVP-2V or VR 1p is Former Czechoslovakia version.
+The VPV is equipped with a powered crane with 5 tonnes capacity, heavy winch, wider troop compartment etc. Hatches on top of the turret and the troop compartment were removed..
+The BMP-2 "Sarath" is also known as BMP-II â Indian licence-produced variant of the BMP-2,built by Ordnance Factory Medak. The first vehicle, assembled from components supplied by KBP, was ready in 1987..
+The BMP-2 Light Tank is India Version, DRDO developed light tank on BMP-2 Chassis DRDO light tank..
+The BMP-2 UGV "Muntra" â unmanned reconnaissance vehicle, "S" version is fitted with equipment used to detect nuclear, biological and is India Version. unmanned reconnaissance vehicle, "S" version is fitted with equipment used to detect nuclear, biological and chemical contamination while the "M" version is designed to detect mines..
+The BMP-2MD is Finnish modernisation of the BMP-2, which includes thermal camouflage, thermal sights, anti-aircraft sight and new day/night optics for the gunner and commander, heated cabin and seats, new external storage boxes functioning also as spaced armour and new radio and communications systems.
+
+Here is System information for the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Alternative Designation is BMP-2.
+The Type is Amphibious Infantry Fighting Vehicle (IFV).
+The Family is BMP-2.
+The Manufacturer is Kurganmashzavod.
+The Crew is 3.
+The Passenger Capacity is 7.
+
+Here is Dimensions information for the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Length, Overall is 6.735 m.
+The Length, Hull is 6.735 m.
+The Width, Overall is 3.15 m.
+The Width, without Skirts is 2.85 m.
+The Height, Overall is 2.45 m.
+The Height, Transport Configuration is 2.25 m.
+The Track Length is 2.55 m.
+The Track Width is 300 mm.
+The Weight, Combat is 14,300 kg.
+The Ground Clearance is 0.42 m.
+The Ground Pressure is 0.65 kg/cmÂ² (63,743 Pa) (9.25 psi).
+
+Here is Automotive information for the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is UTD-20.
+The Engine Type is in line-6, water-cooled, diesel.
+The Engine Power is 300 hp at 2,600 rpm.
+The Power-to-Weight Ratio is 20.3hp/t.
+The Fuel Capacity is 462 liters.
+The Electrical System is 24V.
+The Batteries is 2 Ã 140 Ah.
+The Gearbox is Manual, Fwd: 5, Rev: 1.
+The Suspension is torsion bar, hydraulic shock-absorbers on 1st, 2nd, and 6th roadwheels.
+The Maximum Land Speed is 65 km/h.
+The Maximum Water Speed is 7 km/h.
+The Range is 550 km.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Obstacle is 0.70 m.
+The Trench is 2.5 m.
+
+Here is Communications information for the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Primary is R-123M transceiver.
+The Secondary is R-173.
+
+Here is System information for the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is 1 Ã turret-mounted 30 mm dual feed 2A42 cannon.
+The Type is Autocannon.
+The Caliber is 30.
+The Length (Total) is 3.027.
+The Barrel Length is 2,416.
+The Weight is 115.
+The Barrels is 1.
+The Action is Gas-operated.
+The Max Rate of Fire (Low) is 200-300.
+The Max Rate of Fire (High) is 550-800.
+The Effective Firing Range is 2,000.
+The Maximum Firing Range is 4,000.
+The Feed System is Twin Feed.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Elevation is +75.
+The Minumum Elevation is -5.
+The Firing Modes is automatic and semi-automatic.
+
+Here is Ammunition (Option 1) information for the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is 3UOF8.
+The Type is HEI.
+The Caliber is 30.
+The Cartidge is 30 Ã 165.
+The Muzzle Velocity is 960.
+The Basic Load is 500 total of any combination 30mm projectile.
+The Note is A high-explosive incendiary round with A-670M nose fuze.The fuze produces a 0.15 millisecond delay on impact, and a self-destruct mechanism detonating the projectile after 7.5 to 14.5 seconds of flight (3900â5300 m distance from muzzle)..
+
+Here is Ammunition (Option 2) information for the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is M929.
+The Type is APFSDS-T.
+The Caliber is 30.
+The Cartridge is 30 Ã 165.
+The Muzzle Velocity is 1,260.
+The Basic Load is 500 total of any combination 30mm projectile.
+The Note is A sub-caliber fin-stabilized discarding sabot round with tracer from Belgian Mecar, with tungsten alloy penetrator. Penetration: 50 mm RHA steel at 60 degree impact at 1,000 m range.
+
+Here is Ammunition (Option 3) information for the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is 3UBR8.
+The Type is APDS.
+The Caliber is 30.
+The Cartridge is 30 Ã 165.
+The Muzzle Velocity is 1,120.
+The Basic Load is 500 total of any combination 30mm projectile.
+The Note is A sub-caliber discarding sabot. No tracer. Penetration: 25mm RHA at flat angle of impact, 1500 m range 25mm thick plate at 60 degree impact, 1500 m.
+
+Here is System information for the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 1 Ã coaxial-mounted 7.62 mm PKT machine gun.
+The Type is 7.62.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Max Rate of Fire is 650.
+The Effective Rate of Fire is 250-300.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Effective Firing Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 4,000.
+The Sights is Tangent iron sights (default); Optical, Night-vision, Thermal and Radar sights.
+The Note is The 7.62 PKT can be controlled remotely and is slaved to the main gun,.
+
+Here is Ammunition information for the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 57-N-323S.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62Ã54mmR km.
+The Muzzle Velocity is 855.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 2,000.
+
+Here is System information for the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV) of the Anti-Tank Guided Missile (ATGM):
+The Name is 1 Ã turret-mounted 9M113 Konkurs (US DoD AT-5, NATO Spandrel) ATGW.
+The Type is Soviet SACLOS wire-guided anti-tank missile..
+The Manufacturer is Tula Machinery Design Bureau (Tula KBP) â Tulsky Oruzheiny Zavod.
+The In Service is 1974-Present.
+The Proliferation is Algeriaâ used by mechanized infantry units Armenia Azerbaijan Egypt â mounted on Fahd armoured personnel carriers purchased in 1990s Belarus The launcher is been locally produced and upgraded. Bulgaria Croatia Cuba â not confirmed Czech Republic Eritrea[ Finland â known as PstOhj 82M, fired from 9P135M-1 launchers (withdrawn from service) Georgia Guinea Hungary Indonesia â mounted on BVP-2 infantry fighting vehicles operated by the marine corps India â 15,000 Konkurs-M, ordered in 2008 for Rs 1,380-crore. Another 10,000 Konkurs-M ordered for US$250 million in 2012. A new contract was signed in 2019 for USD 110 mln. Iranâ produced domestically as Tosan-1 Iraq Ivory Coast (reported) Kazakhstan Kyrgyzstan Morocco[ Mongolia Moldovaâ used on BRDM-2 North Korea â produced domestically Pakistan â Used on Viper infantry fighting vehicle Peru Romania Russia â about 300 Konkurs-M complexes delivered annually in the last years (2014) Slovakia Turkmenistan Turkey Syria Ukraine Houthis â Tosan version.
+The Variants is 9M113M,Towsan-1, Tosan, Towsan, or M113, 9N131M1, 9N131M2-1.
+The Weight (Missile) is 14.6.
+The Weight (9P135 Launching Post) is 22.5.
+The Length is 1,150.
+The Diameter is 135.
+The Warhead Weight is 2.7.
+The Detonation Mechanism is Contact.
+The Engine is Solid-fuel rocket.
+The Wingspan is 468.
+The Maximum Operational Range is 4.
+The Minimum Operational Range is 70.
+The Speed is 208.
+The Guidance System is Wire-guided SACLOS.
+The Steering system is Two control surfaces.
+The Launch platform is Individual, vehicle.
+The Penetration is 600mm of RHA.
+The Basic Load is 4  9M113 Konkurs ATGMs.
+
+Here is Fire Control information for the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Computerized FCS is Yes.
+The Commander Periscopes is two TNPO-170A periscopes, plus a single TKN-3B binocular rear-view prism. Additionally, the Commander has a 1PZ-3 day monocular sight.
+The Thermal Sight Gunner is BPK-1-42 Sight.
+The Driver's Central Day Periscope is TNP-350B.
+The Main Gun Stabilization is Yes, two-plane stabilisation system designated as 2E36-1.
+The Searchlight is OU-3GA2 searchlight and the FG-126 searchlight.
+
+Here is Protection information for the JMRC VISMOD BMP-2 Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Hull Armor is All-welded steel that is believed to be between 5 and 19 mm thick. The front of the hull is also fitted with an aluminum armor late that helps increase protection against heavy machine guns..
+The Turret Armor is 23-33.
+The Applique Armor is Available.
+The Explosive Reactive Armor is Available.
+The Active Protection System is INA.
+The Mine Clearing is KMT-8 mine plow available.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Collective, GO-27 Radioactive and chemical agent detector.
+The Smoke Equipment is 6 x smoke grenade launchers, VEESS.
+The Smoke Screen is TDA System using engine.
+

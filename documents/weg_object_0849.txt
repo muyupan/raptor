@@ -1,0 +1,45 @@
+This document describes the EVO Lite Chinese Unmanned Aerial Vehicle (UAV).
+
+The EVO Lite Chinese Unmanned Aerial Vehicle (UAV) is the only drone of its size to offer an endurance of 40 minutes, giving you 30 percent more flight time than the competition.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the EVO Lite Chinese Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is EVO Nano.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Autel Robotics.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Operating Frequency is 2.400-2.4835GHz，5.725-5.850GHz,5.150-5.250GHz.
+The Transmission Power (EIRP) is FCC: ≤30dBm；CE: ≤20dBm.
+The GNSS is GPS, GLONASS, Galileo.
+The Operating Temperature is 0°C ~ 40°C.
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+
+Here is Dimensions information for the EVO Lite Chinese Unmanned Aerial Vehicle (UAV):
+The Length, Folded is 210 mm.
+The Width, Folded is 123 mm.
+The Height, Folded is 95 mm.
+The Length, Unfolded is 427 mm.
+The Width, Unfolded is 384 mm.
+The Height, Unfolded is 95 mm.
+The Wheelbase is 368 mm.
+The Maximum Takeoff Weight is 835 grams.
+
+Here is Automotive information for the EVO Lite Chinese Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Max Ascent Speed is 5m/s (ludicrous), 4m/s (standard), 3m/s (smooth).
+The Max Descent Speed is 4m/s (ludicrous), 3m/s (standard), 2m/s (smooth).
+The Max Level Flight Speed(no wind, near sea level) is 18m/s (ludicrous), 10m/s (standard), 5m/s (smooth).
+The Max Takeoff Altitude is 4,000 m.
+The Max Flight Time (no wind) is 40 min.
+The Max Hovering Time (no wind) is 38 min.
+The Max  Flight Distance (no wind) is 24 km.
+The Max Wind Resistance is 15 m/s (In flight)12 m/s (Take-off and landing).
+The Max Tilt Angle is 33°(ludicrous), 25°(standard), 25°(smooth).
+The Max Angular Velocity is 200°(ludicrous), 120°(standard), 60°(smooth).
+The Hovering Accuracy is Vertical:±0.1m (when the visual positioning is active), ±0.5m (with GPS positioning); Horizontal:±0.3m (when the visual positioning is active), ±1.5m (with GPS positioning)..
+

@@ -1,0 +1,99 @@
+This document describes the BTR-3DA Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC).
+
+The BTR-3DA is an improved version of the Ukrainian-made BTR-3 8x8 armored vehicle personnel carrier designed and manufactured in Ukraine by the Company Kharkiv Morozov Machine Building Design Bureau. The vehicle is mainly used to transport mechanized infantry troops on the battlefield and to provide fire support in combat actions.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is Variants information for the BTR-3DA Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The BTR-3U "Hunter" is Features a one-person KBA-105 "Shkval" unified fighting module which can accommodate 30mm gun, 7.62mm coaxial machine gun, 30mm automatic grenade launcher and anti-tank guided weapons. This module was developed by the State Scientific Technical Centre of Artillery & Rifle Arms of Ukraine. The Shkval fighting module design is versatile, but can also with another turret..
+The BTR-3U "Guardian" is Version for UAE Marines with "Buran-N1" turret..
+The BTR-3E is Features upgrade install of the UTD-20 engine..
+The BTR-3E1 is Latest version with BM-3 "Shturm" turret and new engine MTU 6R106TD21.
+The BTR-3E ARV is Armored Recovery Vehicle (ARV) with winch, crane and dozer blade..
+The BTR-3E 90 is Heavy fire support vehicle with 90mm Cockerill main gun..
+
+Here is System information for the BTR-3DA Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is BTR-3DA.
+The Type is Amphibious Armored Personnel Carrier (APC).
+The Manufacturer is Company Kyiv Armored Plant.
+The Family is BTR Series.
+The Configuration is Wheeled 8 x 8.
+The Crew is 3.
+The Passenger Capacity is 6.
+
+Here is Dimensions information for the BTR-3DA Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Length is 7.65 m.
+The Width is 2.932 m.
+The Height is 2.84 m.
+The Weight, Combat is 16,400 kg.
+The Ground Clearance is INA.
+
+Here is Automotive information for the BTR-3DA Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is Deutz BF6M 1015CP.
+The Engine Type is 6-cylinder V-Diesel engine.
+The Engine Power is 326.
+The Power-to-Weight Ratio is 25.90 hp/t.
+The Fuel Capacity is INA.
+The Electrical System is 24V.
+The Steering is power-assisted on front four wheels.
+The Maximum Land Speed is 104 km/h.
+The Maximum Water Speed is 8 km/h.
+The Range is 600 km.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Obstacle is 0.70 m.
+The Trench is 1.80 m.
+
+Here is System information for the BTR-3DA Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 x ZTM-1 Autocannon.
+The Type is Autocannon.
+The Turret is BM-3M "Shturm-M" weapon station.
+The Caliber is 30 mm.
+The Length is INA.
+The Barrel Length is INA.
+The Weight is INA.
+The Rate of FIre is 330 rds/min in single-shot, burst, or automatic modes.
+The Maximum Range is 4,000 m with HE Rounds.
+The Penetration is 22 mm of steel set at 40° from a range of 500 m, which is reduced to 14 mm at 1,500 m and so could be considered the maximum effective combat range against armored targets..
+
+Here is Ammunition information for the BTR-3DA Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 30.
+The Cartridge is 30 × 165 mm.
+The Basic Load is 300.
+
+Here is Coaxial Weapon System information for the BTR-3DA Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Note is 1 x 7.62 mm machine gun.
+
+Here is System information for the BTR-3DA Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC) of the Anti-Tank Guided Missile (ATGM):
+The Name is 2 x Baryer Missile.
+The Type is Anti-Tank Guided Missile (ATGM).
+The Mission is The anti-tank long-range guided missile system BARYER, a design by the Kyiv-based State Design Bureau Luch, is intended to defeat armored targets at distances from 100 to 5,000 meters..
+The Manufacturer is Luchs Design Bureau.
+The Length is 1.27 m.
+The Diameter is 0.13m.
+The Weight is 16 kg.
+The Warhead Type is The missiles can be fitted with a tandem HEAT warhead or a HE fragmentation warhead with percussion core penetration..
+The Guidance System is The BARYER missile employs semiautomatic laser (SAL) guidance to enable the target, after being designated and lock-on, to be tracked automatically without further operator’s intervention (no man-in-the-loop scheme). For tracking the target, the operator employs a telescope sight, with the missile in flight being controlled and guided from a ground fi ring post. The target is designated and locked on using an optical tracker and a thermal-imaging sight, which allows 24-h operation in all weathers..
+The Penetration is The missile defeats armored infantry fighting vehicle (AIFV) protection systems of all kinds – be it a composite armor, active protection system, spaced armor or explosive reactive armor (ERA), and is capable of penetrating 800mm of Rolled Homogenous Armor (RHA) behind ERA..
+The Range is 5,000 m.
+
+Here is Fire Control information for the BTR-3DA Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Name is Kashtan FCS.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes,  SVU-500 weapon stabilizer.
+The Laser Range Finder is Yes.
+
+Here is Protection information for the BTR-3DA Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is Protection against 7.62 mm ball rounds and artillery shell splinters. It seems that the front arc withstands 12.7 mm rounds..
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+

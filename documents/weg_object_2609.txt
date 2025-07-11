@@ -1,0 +1,63 @@
+This document describes the BTR-94 Russian 8x8 Amphibious Armored Personnel Carrier (APC).
+
+The BTR-94 Russian 8x8 Amphibious Armored Personnel Carrier (APC) is essentially a Soviet BTR-80 APC with some upgrades.
+
+This equipment has proliferated into the following countries: Iraq, Jordan, Ukraine.
+
+Here is System information for the BTR-94 Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is BTR-94.
+The Type is Amphibious Armored Personnel Carrier (APC).
+The Configuration is 8 X 8.
+The Manufacturer is Malyshev Factory.
+The Crew is 3.
+The Personnel is 10.
+
+Here is Dimensions information for the BTR-94 Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Length is 7.65 m.
+The Width is 2.90 m.
+The Height is 2.46 m.
+The Wheelbase is 4.4 m.
+The Weight, Standard is INA.
+The Weight, Combat is 14 tons.
+The Ground Clearance is 0.475 m.
+
+Here is Automotive information for the BTR-94 Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is YaMZ-238M2.
+The Engine Type is V-8, turbocharged, diesel.
+The Engine Power is 140.
+The Power-to-Weight Ratio is 19.1 hp/t.
+The Fuel Capacity is 300 liters.
+The Gearbox is Manual, Fwd: 5, Rev: 1.
+The Electrical System is 24 V.
+The Transfer Box is 2 speed.
+The Steering is power assisted.
+The Brakes is hydraulic on all wheels.
+The Suspension is torsion bar with hydraulic shock-absorbers.
+The Tires is 13.00 × 18 (tubeless).
+The Maximum Land Speed is 80 km/h.
+The Maximum Water Speed is 9 km/h.
+The Range is 600 km.
+The Angle of Approach is 40°.
+The Angle of Departure is 30°.
+The Gradient is 60%.
+The Side Slope is 42%.
+The Vertical Obstacle is 0.5 m.
+The Trench is 2.0 m.
+The Turning Radius is 13.2 m.
+
+Here is Main Weapons System information for the BTR-94 Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Note is The BTR-94's turret BAU-23x2 is larger than the BTR-80's BPU-1. It is fitted with a twin 23x152mm gun 2A7M with 200 rounds..
+
+Here is Coaxial Weapon System information for the BTR-94 Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Note is 1 x KT-7.62 General-Purpose Machine Gun.
+
+Here is Protection information for the BTR-94 Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is The front of the vehicle is resistant to 12.7 mm rounds from an M2 at a range of 200 m, while the sides of the vehicle are resistant to 7.62 mm AP rounds. The hull is not thought to exceed 10 mm in thickness, however the majority of the armor is sloped, thereby increasing the level of protection offered..
+The Applique Armor is It is possible to fit additional armor to the front of the BTR-80, which provides protection against 14.5 mm rounds and some resistance to blast damage. However this would likely have a significant impact on the platform’s mobility..
+The Explosive Reactive Armor is Available, Other armour kits have included ERA, thought to be added in the field by the crews in an effort to counter the effects of RPGs..
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes, Collective.
+The Smoke Equipment is 6 × 81 mm smoke grenade launcher (2 × 3).
+

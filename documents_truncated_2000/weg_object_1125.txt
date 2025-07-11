@@ -1,0 +1,114 @@
+This document describes the HQ-7 (FM-80) Chinese Short-Range Air Defense Missile System.
+
+The HQ-7 SAM is used by PLA and PLAAF for short-range air-defense. At some PLAAF bases, the HQ-7 is deployed in hardened shelters. The PLA has mounted the HQ-7 on towed trailers.  The HongQi 7 (HQ-7) short-range air defense missile system has been developed in China in the 1980s. It is a reverse engineered copy of the French Crotale.  Sometimes it is referred as Sino Crotale. In 1978-1979 China imported some of the Thomson-CSF Crotale systems for evaluation. These where both land-based and ship-based versions. Some French R-440 Sea Crotale systems were purchased and installed on the Chinese warships. Eventually China reverse engineered this system. First Chinese clone of the ground-based version was produced for testing in 1983. In 1986-1988 it was approved for production. The HQ-7 was also deployed by the Chinese air force and protected the air bases from air attacks. Since 1989 the HQ-7 was proposed for export customers as the FM-80.
+
+This equipment has proliferated into the following countries: Algeria, Bangladesh, China, Pakistan, Turkmenistan.
+
+Here is Variants information for the HQ-7 (FM-80) Chinese Short-Range Air Defense Missile System:
+The FM-80 (Feimeng 80), is export version of the HQ-7. It was revealed in 1989..
+The HHQ-7 is a naval version of the HQ-7. It was introduced in the 1990s. It has a bank of 8 missiles. For over a decade it was the standard Chinese ship-based air defense system. Currently a more capable HQ-9 with a longer range is being fitted on newly-built Chinese warships..
+The Shahab Tagheb is an Iranian short-range air defense missile system. It was revealed in 1999. It was developed with Chinese assistance and by transferring technology of the HQ-7..
+The HQ-7A is improved variant introduced in 1998. It has a maximum range of fire of 15 km. Detection range is 25 km and tracking range is 20 km. Also this missile has a maximum speed of 900 m/s in stead of 750 m/s..
+The HQ-7B is latest variant, based on indigenous 6x6 armored chassis. It was first revealed somewhere in 2009. This air defense system is wisely used by the Chinese armed forces. It is more mobile due to its 6x6 configuration. This vehicle is more suited to follow motorized infantry, or mechanizes armored units..
+
+Here is System information for the HQ-7 (FM-80) Chinese Short-Range Air Defense Missile System:
+The Alternative Designation is HQ-7, FM-80, HongQi 7, Fei Meng, Flying Midge" or Flying Mongoose,.
+The Type is Short-Range Air Defense Missile System.
+The Family is HQ-7.
+The Manufacturer is China, Company: INA.
+The In Service is 1988-Present.
+The Crew is 3.
+The Chassis is Thomson-Hotchkiss P4R chassis.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Fire on the Move is INA.
+The Note #1 is It is a reverse engineered copy of the French Crotale..
+The Note #2 is A battery of HQ-7 consists of one vehicle with acquisition radar and two or three TELAR vehicles. Also each battery is supported by a maintenance group with around 10 support vehicles..
+
+Here is Dimensions (Thomson-Hotchkiss P4R Chassis) information for the HQ-7 (FM-80) Chinese Short-Range Air Defense Missile System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+The Ground Pressure is INA.
+
+Here is Automotive (Thomson-Hotchkiss P4R Chassis) information for the HQ-7 (FM-80) Chinese Short-Range Air Defense Missile System:
+The Engine Name is INA.
+The Engine Type is petrol / diesel.
+The Engine Power is INA.
+The Cruising Range is 600.
+The Speed, Maximum Road is 80.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.5.
+The Trench is 0.5.
+The Fording Depth is 0.5.
+
+Here is Missile Launcher information for the HQ-7 (FM-80) Chinese Short-Range Air Defense Missile System of the Missile System:
+The Name is INA.
+The Type is TELAR vehicle.
+The Firing Interval is 3 seconds.
+The Operational Response Time is 6-10 seconds.
+The Single-Shot Kill Rate is 85-90.
+
+Here is Missile information for the HQ-7 (FM-80) Chinese Short-Range Air Defense Missile System of the Missile System:
+The Name is 4-cel or 8-cel missile launcher.
+The Type is Short-Range Air Defense Missile.
+The Length is 3.
+The Diameter is 0.55.
+The Wingspan is 0.55.
+The Weight is 84.5.
+The Warhead Type is HE-FRAG.
+The Warhead Weight is 15.
+The Maximum Range of Fire is up to 12.
+The Minimum Range of Fire is 500-700.
+The Maximum Altitude of Fire is 5.5.
+The Minimum Altitude of Fire is 15.
+The Basic Load is 4.
+The Speed is Mach 2.3 or 750 m/s.
+The Missile Maneuverability is 20 G.
+The Maximum Kill Distance at 400 m/s is 8.5.
+The Maximum Kill Distance at 300 m/s is 10.
+The Maximum Kill Distance at Helicopter is 12.
+The Minimum Kill Distance is 500.
+The Homing Range is 17.
+The Target Seeking Range is 18.4.
+The Guidance System is Radar.
+The Note is The HQ-7 can engage helicopters, aircraft, cruise missiles, air-to-ground missiles and anti-radiation missiles..
+
+Here is Fire Control System information for the HQ-7 (FM-80) Chinese Short-Range Air Defense Missile System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is No.
+The Indirect Fire is Yes.
+The Fire Control Sensors is Yes.
+The IADS Integration is INA.
+The Optical Aiming System is Yes.
+The Target Processing Unit is Yes, the system can  process 30 targets & track 12 targets simultaneously.
+The Generators is 4 x 40 kW generators.
+The Target Processing Unit is Yes.
+The Network is Wired Network.
+
+Here is Radar #1 information for the HQ-7 (FM-80) Chinese Short-Range Air Defense Missile System of the Fire Control:
+The Name is INA.
+The Type is Doppler Search Radar.
+The Band is E/F Band.
+The Range is 18.4.
+The TV Tracking System is Yes.
+The IR Localiser is Yes.
+
+Here is Protection information for the HQ-7 (FM-80) Chinese Short-Range Air Defense Missile System:
+The Hull Armor is Protection against small arms fire and artillery shell splinters..
+The Turret Armor is Protection against small arms fire and artillery shell splinters..
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The Countermeasures is Resists active and passive jamming and rejects ground and atmospheric clutter.
+The IFF is Yes.
+

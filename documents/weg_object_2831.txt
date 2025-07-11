@@ -1,0 +1,33 @@
+This document describes the R-438M Belozer Russian Mobile Satellite Communication Station.
+
+The station is designed to provide satellite radio communications for units operating detached  from the main forces, as well as for use as a commander’s personal station. It provides a full autonomy of operation transmitting voice, digital, and text messages, automated functional testing, and interface with a wide range of peripheral devices through ports RS-232C, C1-FL-BI. The radio station can be carried by one person.
+
+Mode of work:
+
+Duplex telecommunication;
+
+Simplex data communication;
+
+Formalized service communication mode;
+
+Transfer rates of 1200 bps;
+
+Two channel receiving mode.
+
+As compared to the stations of the previous generation, the data speed has increased by several times. On the move, the station is the size of a school backpack and can be carried by one person; it weighs 16 kg. Set up time is about 30 sec. The station provides formalized service communication and a secure telephone mode. The station operates in the range of 4 GHz to 6 GHz. Data transfer rate is 1200 bps. The advantages of satellite communication are a large range of reliable signals, especially in  areas with difficult terrain, regardless of the weather conditions and time of day and year, and a highly secure protection. Yaroslavl Radio Manufacturing Plant started production of the portable satellite radio station R-438 Barrier-T in 1998-2000 and the R-438M Belozer in 2002-2003.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Radio #6 information for the R-438M Belozer Russian Mobile Satellite Communication Station of the System:
+The Name is R-438M Belozer.
+The Quantity is 1.
+The Type is Portable SATCOM System.
+The Frequency is INA.
+The Capabilities is Voice Data.
+The Maximum Range is 5,000.
+The Mount Type is Manpack.
+The In Service is Yes.
+The Transfer Rates is 1,200.
+The Two Channel Receiving Mode is Yes.
+The Note is There is very little information about the R-438M Belozer.
+

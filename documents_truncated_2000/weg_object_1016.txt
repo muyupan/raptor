@@ -1,0 +1,81 @@
+This document describes the Su-30MKI (Flanker-H) Indian Multirole Fighter.
+
+The Su-30MKI (Flanker-H) Indian Multirole Fighter is a twinjet multirole air superiority fighter developed by Russia's Sukhoi and built under license by India's Hindustan Aeronautics Limited (HAL) for the Indian Air Force (IAF). A variant of the Sukhoi Su-30, it is a heavy, all-weather, long-range fighter.
+
+This equipment has proliferated into the following countries: India.
+
+Here is System information for the Su-30MKI (Flanker-H) Indian Multirole Fighter:
+The Alternate Designation(s) is Su-30MKI; Flanker-H.
+The Primary Function / Type is Multirole Fighter.
+The Manufacturer is Hindustan Aeronautics Limited.
+The Crew is 2.
+The Number of Engines is 3.
+The Number of Hard Points is 12.
+
+Here is Dimensions information for the Su-30MKI (Flanker-H) Indian Multirole Fighter:
+The Length is 21.9 m.
+The Width (Wing Span) is 14.7 m.
+The Height is 6.36 m.
+The Wing Area is 62 m2.
+The Empty Weight is 18,400 kg.
+The Gross Weight is 26,090 kg.
+The Maximum Takeoff Weight is 38,800 kg.
+
+Here is Automotive information for the Su-30MKI (Flanker-H) Indian Multirole Fighter:
+The Engine Name is 2 × Lyulka AL-31FP.
+The Engine Type is Afterburning Turbofan.
+The Engine Power is Each engine generates a full afterburn thrust of 12,500kgf..
+The Maximum Range is 3,000 km The in-flight refuelling system of Su-30MKI provides a maximum range of 8,000km with two refuelings..
+The Maximum Speed is 2,120 km/h.
+The Service Ceiling is 17,300 m.
+The Ferry Range is 8,000 km.
+The Rate of Climb is 300 m/s.
+
+Here is System information for the Su-30MKI (Flanker-H) Indian Multirole Fighter of the Main Gun System:
+The Note is 1 × 30 mm Gryazev-Shipunov GSh-30-1 autocannon.
+
+Here is Rocket Weapon System information for the Su-30MKI (Flanker-H) Indian Multirole Fighter:
+The Option 1 is 4 x S-8 Rockets.
+The Option 2 is 4 x S-13 Rockets.
+
+Here is Air-to-Air Missile System information for the Su-30MKI (Flanker-H) Indian Multirole Fighter of the Missile Weapon System:
+The Option 1 is 6 × R-27ER/ET Missiles.
+The Option 2 is 3 × K-100 Missiles.
+The Option 3 is 10 × Astra Mk1 Missiles.
+The Option 4 is 10 × R-77 Missiles.
+The Option 5 is 2 × R-27R/T Missiles.
+The Option 6 is 10 × I-Derby ER Missiles.
+The Option 7 is 6 × R-73 Missiles.
+
+Here is Anti-Radiation Missiles information for the Su-30MKI (Flanker-H) Indian Multirole Fighter of the Missile Weapon System:
+The Option 1 is 6 × Kh-31P Missiles.
+The Option 2 is 6 × Rudram-1 Missiles.
+
+Here is Air-to-Surface Missiles information for the Su-30MKI (Flanker-H) Indian Multirole Fighter of the Missile Weapon System:
+The Option 1 is 2 × Nirbhay Missiles.
+The Option 2 is 3 × Kh-59ME Missiles.
+The Option 3 is 6 × Kh-29T/L Missiles.
+
+Here is Anti-Ship Missiles information for the Su-30MKI (Flanker-H) Indian Multirole Fighter of the Missile Weapon System:
+The Option 1 is 6 × Kh-31A Missiles.
+The Option 2 is 3 × Kh-59MK Missiles.
+The Option 3 is 1 x BrahMos Missiles.
+The Option 4 is 4 × Kh-35 Missiles.
+
+Here is Bomb Weapon System information for the Su-30MKI (Flanker-H) Indian Multirole Fighter:
+The Option 1 is 8 × KAB-500L laser-guided bombs.
+The Option 2 is 28 × OFAB-250-270 bombs.
+The Option 3 is 3 × Sudarshan laser-guided bombs.
+The Option 4 is 8 × RBK-500 cluster bombs.
+The Option 5 is 20 × DRDO SAAW glide bombs.
+The Option 6 is 32 × OFAB-100-120 bombs.
+The Option 7 is 3 × DRDO Glide Bombs.
+The Option 8 is 3 × KAB-1500L laser-guided bombs.
+The Option 9 is 8 × FAB-500T bombs.
+
+Here is Protection information for the Su-30MKI (Flanker-H) Indian Multirole Fighter:
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The EW Counter Measures is Yes.
+The Chaffs/Flares is Yes.
+

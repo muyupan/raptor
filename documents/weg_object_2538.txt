@@ -1,0 +1,144 @@
+This document describes the AMX-10P French Amphibious Infantry Fighting Vehicle (IFV).
+
+The AMX-10P is a French amphibious infantry fighting vehicle. It was developed after 1965 to replace the AMX-VCI in service with the mechanized regiments of the French Army; the first prototypes were completed in 1968. Production commenced between 1972 and 1973.
+
+The AMX-10P is fully amphibious, being propelled through water at speeds of up to 7 km/h by twin waterjets. It is also fitted as standard with a trim vane and bilge pumps to assist with the flotation process. AMX-10Ps were popular with a number of Arab armies and have been operated by Iraq, Qatar, Saudi Arabia, and the United Arab Emirates.[2] Special marine variants were also developed for Singapore and Indonesia, including a fire support model known as the AMX-10 PAC 90, which mated the AMX-10P chassis to the complete turret and 90 mm gun assembly of the Panhard ERC-90 Sagaie.
+
+AMX-10Ps share a number of common transmission and chassis components with their armored car counterpart, the AMX-10RC.
+
+AMX-10P hulls are fabricated from a welded steel or aluminum alloy[ and notable for their parallel incorporation of the driving and engine compartments. The driver is seated at the front of the vehicle and to the left. An AMX-10P's driving compartment is provided with a single hatch cover opening to the rear and three periscopes intended for observation purposes when the hatch is closed. Night vision equipment was not fitted as standard to the base production model; however, one of the three driving periscopes could be replaced with combined day/night intensification sights as needed. The troop compartment is at the rear of the hull and provided with two roof hatches. Passengers embark and debark from a ramp, which is accessed through two doors at the rear.
+
+The transmission consists of a hydraulic torque converter coupled to a gearbox with one reverse and four forward driving gears. The AMX-10P utilizes a torsion bar suspension, which supports five road wheels with the drive sprocket at the front and idler near the rear. These can be accessed from inside the hull through maintenance panels.
+
+Standard AMX-10P turrets are equipped with a GIAT M693 automatic cannon firing two different types of both high explosive ammunition and armor-piercing ammunition. More than one ammunition type may be loaded at once and fired alternatively. The high explosive rounds have a muzzle velocity of 1,050 m/s, while the latest armor-piercing round has a muzzle velocity of 1,300 m/s and is capable of penetrating 20 mm of rolled homogeneous armor at an incidence of 60°. The autocannon has a cyclic rate of fire of 740 rounds per minute, with the gunner being able to switch between semiautomatic, limited burst, or fully automatic fire as necessary.
+
+This equipment has proliferated into the following countries: Bosnia and Herzegovina, France, Greece, Indonesia, Iraq, Morocco, Qatar, Saudi Arabia, Singapore, South Korea (Republic of Korea).
+
+Here is Variants information for the AMX-10P French Amphibious Infantry Fighting Vehicle (IFV):
+The AMX-10P Marines is The AMX-10P Marines is a variant of the AMX-10P specifically developed to provide improved amphibious capabilities at sea or in rivers of the original AMX-10P..
+The AMX-10 PAC 90 is The primary role of the AMX-10 PAC 90 is that of anti-tank and fire support on the battlefield at ranges between 1,000 and 2,500 m, but it can also be used as a reconnaissance vehicle or as an APC..
+The AMX-10 ECH is The AMX-10 ECH is an ARV based on the hull of the AMX-10P. It is designed to support AMX-10P vehicles in combat and maintain readiness by conducting repairs as close to the battlefield as possible..
+The AMX-10 Ambulance is The AMX-10P is also used to perform as a battlefield ambulance. It is based on the same hull as the AMX-10P to ensure that it can perform alongside other armoured formations..
+The AMX-10PC is The AMX-10PC is an armored command post designed to support the operations of armored formations during combat..
+The AMX-10 HOT is This was the basic AMX-10P, with the Toucan II turret replaced by a new two-man Lancelot turret based on the TH 20, with four ready-to-launch 4,000 m range MBDA HOT missiles and a further 14 missiles carried in the rear of the hull. The crew of five consisted of the commander and gunner in the turret, two missile loaders, and the driver..
+The AMX-10 VOA is This was based on the AMX-10PC command vehicle chassis and has been designed for use by artillery observers. Its crew of four consisted of a commander, observer, radio operator, and driver. The turret, which was manned by one or two men, was provided with equipment for day and night observation and local defence..
+The AMX-10 SOA is The AMX-10 SOA was used for battlefield observation and artillery fire-control. It was essentially an AMX-10P with its Toucan II turret replaced by a new two-man turret armed with an externally-mounted 7.62 mm MG on the right side..
+The AMX-10 SAF is This was also known as the AMX-10PC SAF and was used with the ATILA artillery FCS. It had a crew of five consisting of the radio operator, driver, two warrant officers, and one commanding officer..
+The AMX-10 TM is This model towed a 120 mm TDA Model MO-120-RT-61 muzzle loaded rifled mortar, and carried 60 rounds of ammunition, for the mortar. The AMX-10 TM had a crew of six consisting of commander, aimer, artificer, loader, ammunition carrier and driver, and was fitted with a Toucan I turret..
+The AMX-10 SAT is This was based on the AMX-10 PC command vehicle but had been modified internally to carry a gyro-stabilised theodolite, a topographic survey theodolite, distance measuring equipment, and a navigation system..
+The AMX-10P with RATAC radar is This had no turret and was fitted with a roof-mounted radar for field artillery fire (RATAC) pulse Doppler radar scanner. The vehicle had a crew of five: commander; radar operator; assistant radar operator; radio operator; driver. The radar had four operating modes: ground surveillance; acquisition and identification; angular deviation measurement; automatic tracking..
+The AMX-10P upgrade is The AMX-10P ICV upgrade included the installation of a new passive armor package to the front, sides, rear, and hull top to provide an enhanced level of survivability. Other enhancements included a modified rear power-operated ramp, new torsion bars, and reinforced transmission. The original AMX-10P was fully amphibious, propelled in the water by two water-jets mounted one either side of the hull at the rear. These and the trim vane installed at the front of the hull were removed to save weight but the vehicle retained its fording capability..
+
+Here is System information for the AMX-10P French Amphibious Infantry Fighting Vehicle (IFV):
+The Alternative Designation is AMX-10P.
+The Manufacturer is GIAT Industries.
+The Type is Infantry Fighting Vehicle (IFV).
+The Family is AMX-10.
+The Crew is 3.
+The Passenger Capacity is 8.
+
+Here is Dimensions information for the AMX-10P French Amphibious Infantry Fighting Vehicle (IFV):
+The Length is 5.77.
+The Width is 2.78.
+The Height is 2.57.
+The Weight, Combat is 14.5.
+The Ground Pressure is 0.53 kg/cm2.
+The Ground Clearance is 0.45.
+
+Here is Automotive information for the AMX-10P French Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is Hispano-Suiza HS-115.
+The Engine Type is Diesel.
+The Engine Power is 276.
+The Fuel Capacity is 528.
+The Maximum Range is 600.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is 40.
+The Speed Maximum Swim is 8.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.7.
+The Trench is 1.6.
+The Fording Depth is Amphibious.
+
+Here is System information for the AMX-10P French Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is GIAT M693 (F2) Main Gun, 20mm Duel Feed Cannon.
+The Type is 20.
+The Max Rate of Fire is 900.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Elevation is +50.
+The Minimum Elevation is -8.
+The Length is 2,600.
+The Recoil Stoke is 60.
+The Height is 260.
+The Weight is 71.
+The Maximum Effective Range is 1,500.
+
+Here is Ammunition information for the AMX-10P French Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is Rifle.
+The Caliber is 20.
+The Muzzle Velocity is 1,050.
+The Maximum Effective Range is 1,500.
+The Penetration is 20 mm of armor plating at a range of 1,000 meters.
+The Basic Load is 800.
+
+Here is System information for the AMX-10P French Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is AA-52, 7.62mm Machine Gun.
+The Type is 7.62.
+The Manufacturer is Manufacture d'armes de Saint-Étienne (MAS).
+The Max Rate of Fire is 900.
+The Weight is 9,970.
+The Length is 1,080.
+The Barrel Length is 600.
+The Action is Lever-delayed blowback.
+The Effective Firing Range is 600.
+The Maximum Firing Range is 3,200.
+The Feedd System is Belt.
+The Sights is Iron
+Removable APX (SOM) telescopic sights
+IR scope.
+
+Here is Ammunition information for the AMX-10P French Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.5×54mm French, 7.62×51mm NATO.
+The Muzzle Velocity is 830.
+The Basic Load is 900.
+
+Here is MILAN Anti-Tank Guided Missile (ATGM) information for the AMX-10P French Amphibious Infantry Fighting Vehicle (IFV) of the Anti-Tank Guided Missile (ATGM):
+The Country is France / Germany.
+The Service is 1972-present.
+The Prolferation is Thousands deployed by the French, German, Belgian, and Spanish armies, but Italy and soon India were assembling MILANs under license. All in all, the MILAN’s customer list has reached 41 countries and at least several non-state groups..
+The Range is 2.
+The Basic Load is 10.
+The Armor Penetration is 350.
+The Missile Length is 918.
+The Missile Diameter is 103.
+The Fin Span is 267.
+The Missile Weight is 6.73.
+The Total Weight with Launcher is 24.
+The Warhead Weight is 2.7.
+The Warhead Type is High Explosive.
+The Guidance System is Wire-Guided.
+The Note is The iconic MILAN is the most successful Western European anti-tank missile ever made and is only surpassed by the BGM-71 TOW when it comes to international customers..
+
+Here is Fire Control information for the AMX-10P French Amphibious Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes, M371 day sight with a magnification of ×1 and ×6.
+The Thermal Sight Gunner is Tes, OB-40 day/night periscope.
+The Main Gun Stabilization is Non-stabilized.
+
+Here is Protection information for the AMX-10P French Amphibious Infantry Fighting Vehicle (IFV):
+The Hull Armor is Welded from aluminum armor plates, which protect the vehicle from 14.5mm rounds..
+The Turret Armor is Welded from aluminum armor plates, which protect the vehicle from 14.5mm rounds..
+The Applique Armor is Available.
+The Explosive Reactive Armor is Available.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 4 × turret-mounted 80 mm Smoke grenade launcher..
+The IR Signature is INA.
+

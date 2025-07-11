@@ -1,0 +1,110 @@
+This document describes the Type 66 Chinese 152mm Towed Howitzer.
+
+The Type 66 152mm Towed Howitzer is a Chinese version of the Russian D-20 152mm Towed Howitzer. 
+
+The 152 mm gun-howitzer M1955, also known as the D-20, (Russian: 152-мм пушка-гаубица Д-20 обр. 1955 г.) is a manually loaded, towed 152 mm artillery piece, manufactured in the Soviet Union during the 1950s. It was first observed by the west in 1955, at which time it was designated the M1955. Its GRAU index is 52-P-546.
+
+The D-20 has a 34 caliber (5.195 m) barrel, with a double baffle muzzle brake and a semi-automatic vertical sliding-block breach, with a tied jaw and the block moving down to open. The barrel is mounted in a long ring cradle with the trunnions just forward of the breach. The recoil system (buffer and recuperator) is mounted on the cradle above the barrel. Compression balancing gear is attached behind the saddle support, passing through the complex-shaped saddle to connect to the cradle just forward of the trunnions. This can be manually re-pressured by a pump below the breech. The breach has a projectile retaining catch to prevent the shell from sliding out at higher elevations before it is rammed with a manual rammer.
+
+The top traverse totals 58° and the vertical elevation range is −5° to 45°.
+
+Box girder section split trail legs are hinged to the cradle support, with bolts to lock them into either the open or closed position. The cradle support also has a bolt for locking the barrel in the center for traverse before towing the gun. Large spades are permanently fixed close to the end of each trail; these are hinged and it appears that the gun can be fired with them up or down depending on the terrain, but they are always up when the gun is towed.
+
+To assist with an all-around carriage traverse, there is a pivot jack mounted at the front of the cradle support. The pivot jack is not a soleplate and the gun fires with its foam-filled rubber tired wheels supporting the gun on the ground. When the gun is brought into action, the pivot jack is folded down and adjusted to be on the ground. If a large traverse is required, small jacks on each trail leg are rotated downwards, and the trails jacked up until the main wheels are lifted clear of the ground and the bogey wheels mounted on each trail leg swung downwards and the trail jacks raised, the carriage is then traversed, and the trail jacks re-used to lift the bogey wheels and then place the piece back on its main wheels.
+
+The pivot jack is also used to secure the barrel against vertical movement when the gun is being towed. The barrel is locked in the center for traverse with a bolt-on cradle support. The jack is folded upwards, lugs on the ring cradle engage the jack base, and two tensioners fixed to the saddle support are hooked to the cradle, these are tightened to lock the cradle onto the jack base.
+
+As was normal for the period, the gun has a shield, including a folding piece below the cradle support. The center section of the upper shield slides both up and down and folds to accommodate the barrel at higher elevation angles of fire. The shield may offer some protection against muzzle blast to the sights and layer, although it is usually shown being fired with a long lanyard, but is probably mostly for defense against machine gunfire.
+
+The non-reciprocating sights are standard Soviet patterns, designed for one-man laying. Included are a direct fire anti-tank telescope (OP4M), a panoramic periscopic indirect-fire sight, a dial sight, (PG1M) in a mounting, an angle of sight scale, and a range drum for each charge engraved with the range (distance) scale, coupled to an elevation leveling bubble mounted on dial sight mount. The range drum enables the standard Soviet technique of semi-direct fire when the piece is laid visually on the target and the range set on the range drum.
+
+Like most Soviet artillery, the gun fires separate ammunition using metal cartridge cases that also provide obscuration. The ammunition is interchangeable with that used with other 152 mm guns, although the more modern ones also have a third, much larger cartridge. The D-20 uses two types of cartridges; one has a base charge and up to five increments, the other is a single 'super' charge cartridge. The standard shell weight is 44 kg with a muzzle velocity of 655 m/s, but some projectiles are more or less than this. The basic shell is HE-Fragmentation, other projectiles include smoke, illuminating, chemical, and probably incendiary. Later projectiles include bomblet, anti-personnel mine, flechette, Krasnopol precision munition, communications jammer, and extended range HE using rocket assistance (RAP). The normal maximum range is 17.4 km, RAP being greater. Two direct-fire anti-tank projectiles have been used, HEAT and APHE, the latter being 5.2 kg heavier and with a lower muzzle velocity.
+
+The maximum rate of fire is usually stated as five rounds/minute, and 65 rounds/hour sustained. In Soviet service, the unit of fire was 60 rounds.
+
+The detachment was either 8 or 10 men, probably differing between armies and the time period. In Soviet service, the 5,700 kg gun was usually towed by a URAL-375 6×6 truck or, in some regions, an AT-S or AT-L medium tractor.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Type 66 Chinese 152mm Towed Howitzer:
+The Type 66 is This is the licensed version of the D-20. The improved version is known as the Type 66-1..
+The Type 83 is Self-propelled version of the Type 66, very similar in layout to the 2S3..
+
+Here is System information for the Type 66 Chinese 152mm Towed Howitzer:
+The Family is Type 66.
+The Type is Towed Howitzer.
+The Caliber is 152 mm.
+The Manufactuer is Artillery Plant Number 9, Yekaterinburg.
+The Crew is 8.
+The Emplacement Time is 2.5.
+The Displacement Time is 2.5.
+
+Here is Dimensions information for the Type 66 Chinese 152mm Towed Howitzer:
+The Length, Firing is 8.69.
+The Length, Travel is 8.10.
+The Width, Firing is 2.32.
+The Width, Traveling is INA.
+The Height, Overall is 2.52.
+The Weight, Combat is 5.56.
+
+Here is Automotive information for the Type 66 Chinese 152mm Towed Howitzer:
+The Prime Mover is 6x6 or 8x8 truck.
+The Towing Speed, Road is 60.
+The Towing Speed, Off Road is 30.
+
+Here is System information for the Type 66 Chinese 152mm Towed Howitzer of the Main Weapon System:
+The Name is Type 66.
+The Type is Towed Howitzer.
+The Caliber is 152.
+The Length, Barrel is 5.195.
+The Rate of Fire, Burst is 5-6.
+The Rate of Fire, Normal is INA.
+The Rate of Fire, Sustained is 1.
+The Loader Type is Manual.
+The Breech Type is Vertical semi-automatic sliding-wedge.
+The Muzzle Brake Type is Double flared.
+The Traverse Range is 58.
+The Traverse, Left is 29.
+The Traverse, Right is 29.
+The Maximum Elevation is +45.
+The Minimum Elevation is -5.
+The Maximum Effective Range is 17.4.
+The Sights is PG1M indirect sight and OP4M direct fire sight..
+The Recoil is hydraulic buffer and hydro-pneumatic recuperator.
+
+Here is Ammunition (Option 1) information for the Type 66 Chinese 152mm Towed Howitzer of the Ammunition:
+The Name is OF32.
+The Type is Frag-HE.
+The Caliber is 152 mm.
+The Weight is (OF25) 43.56.
+The Range, Minimum is 4,600.
+The Range is 17,400.
+The Muzzle Velocity is 655.
+The Fuze Type is V-90 PD.
+
+Here is Ammunition (Option 2) information for the Type 66 Chinese 152mm Towed Howitzer of the Ammunition:
+The Name is BP-540.
+The Type is HEAT.
+The Caliber is 152.
+The Weight is 27.
+The Range, Minimum is INA.
+The Range, Maximum is 1,000.
+The Armor Penetration is INA.
+The Muzzle Velocity is 655.
+The Fuze Type is GPV-3 PD.
+
+Here is Ammunition (Option 3) information for the Type 66 Chinese 152mm Towed Howitzer of the Ammunition:
+The Name is OF-96.
+The Type is Frag-HE.
+The Caliber is 152.
+The Weight is (OF-64) 43.56.
+The Range, Minimum is INA.
+The Range, Maximum is 24,400.
+The Muzzle Velocity is INA.
+The Fuze Type is PD.
+
+Here is Fire Control System information for the Type 66 Chinese 152mm Towed Howitzer:
+The Indirect Fire is PG-1M Pantel.
+The Direct Fire is OP 4M.
+The Collimator is K-1.
+

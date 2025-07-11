@@ -1,0 +1,48 @@
+This document describes the P-12 NP (Spoon Rest B) Russian Mobile Early Warning Radar.
+
+The former Soviet Union had considerable successes in the development of VHF- radar units. The assortment of VHF- radar units in the army and the air force sufficed of the P 8 over the P 12 up to the P 18 radar sets. One of them is the mobile variant NP, a version of the P 12 installed into two caravans.
+
+The radar unit also has an E-scope next to the plan position indicator (PPI). The elevation angle measures the goniometer (the green luminescent scale between the maintenance panels) by a phase comparison between the two echo signals received by the both antenna planes.
+
+The Goniometer produced a standing wave of the received RF impulses on two slip rings fed by the two antenna groups. An electrical engine alternately moves a measuring contact on the slip rings and simultaneous a variable resistor delivers the vertical deflecting voltage to the RHI-scope. The voltage difference of the slip rings reaches the value zero in a certain position. The mechanical angle of this position corresponds to the elevation angle of the target. With a nomogram on the screen the shown elevation angle could be converted to a height. But the method reduces, however, the maximum range of the radar unit. Therefore the crew usually switched off the Goniometer.
+
+The radar unit P 12 can be synchronized with other radar units and then the PPI-scope shows both received echos. If two stations working by the same frequency are in a favorable distance to each other, her maximum obtainable range can be increased by interference.
+
+The Goniometer produced a standing wave of the received RF impulses on two slip rings fed by the two antenna groups. An electrical engine alternately moves a measuring contact on the slip rings and simultaneous a variable resistor delivers the vertical deflecting voltage to the RHI-scope. The voltage difference of the slip rings reaches the value zero in a certain position. The mechanical angle of this position corresponds to the elevation angle of the target. With a nomogram on the screen the shown elevation angle could be converted to a height. But the method reduces, however, the maximum range of the radar unit. Therefore the crew usually switched off the Goniometer.
+
+The radar unit P 12 can be synchronized with other radar units and then the PPI-scope shows both received echos. If two stations working by the same frequency are in a favorable distance to each other, her maximum obtainable range can be increased by interference.
+
+The trailer-mounted P-12 NP (1RL 14 PIR) “Spoon Rest B” is a derivative of the truck-mounted P-12 MA “Spoon Rest A”. The later version P-12 NA is a truck-mounted version again.
+
+This equipment has proliferated into the following countries: Kazakhstan, Kyrgyzstan, North Korea (Democratic People's Republic of Korea), Tajikistan, Turkmenistan, Uzbekistan.
+
+Here is Variants information for the P-12 NP (Spoon Rest B) Russian Mobile Early Warning Radar:
+The Spoon Rest A (P-12) is The P-12 "Yenisei" (also referred to by the NATO reporting name "Spoon Rest A" in the west) was an early VHF developed and operated by the former Soviet Union..
+The Spoon Rest B (P-12) is Mast-mounted variant that operates at a lower VHF frequency than Spoon Rest A..
+The Spoon Rest D (P-18) is Mast-mounted variant with eight dipoles; operates in the VHF frequency range (150-170 MHz). Based on the Spoon Rest B. Characteristics include:.
+
+Here is System information for the P-12 NP (Spoon Rest B) Russian Mobile Early Warning Radar:
+The Alternative Designation is P-12 NP; Spoon Rest B.
+The Type is Mobile Early Warning Radar.
+The Manufacturer is INA.
+The Chassis is ZIL Trucks.
+The Crew is INA.
+The Band is 150 - 170 MHz
+(lower VHF-Band).
+The Maximum Range is 275 km.
+The Vertical Beamwidth is 2.5 deg.
+The Horizontal Beamwidth is 7-9 deg.
+The Peak Power is 160 to 250 kW.
+The Pulse Width is 4-6 microseconds.
+The Pulse Repetition Frequency (PRF) is 310-400 Hz.
+The Antenna Rotation is 6 … 30 seconds
+(0 … 10 rpm.).
+The Dead Time is 377 µs.
+The Receive Time is 2.4 milliseconds.
+
+Here is Dimensions information for the P-12 NP (Spoon Rest B) Russian Mobile Early Warning Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

@@ -1,0 +1,134 @@
+This document describes the Type 83 Chinese 122mm Towed Gun Howitzer.
+
+The Type 83 122mm Towed Gun Howitzer is a Chinese version of the D-30 Russian 122mm Towed Gun Howitzer. 
+
+The D-30, also known as the M1963, replaced the older 122mm howitzer M-30 (M1938). The original D-30 was fielded in 1963 and the midlife product improvements occurred in the mid to late 1970s. The original D-30 is in use in at least 50 different countries. The 2A18M, D-30A, and D-30M are midlife product improvements of the D-30 that are currently in production. The D-30 features a unique three-trail carriage, a conspicuous boxy shield for the recuperator above the tube, and a small protective shield between the wheels. The gun has a semiautomatic, vertically sliding, wedge-type breechblock. It is towed muzzle-first by a truck or armored tractor, at speeds up to 80 kilometers per hour, with its trails folded under the barrel.
+
+Distinctive features of the D-30 include its low mobile mounting and above-barrel recoil system. The three-legged mobile mount is unusual for field artillery, with stabilizers that are clamped together for towing and deployed when in action. A large tow linkage is fixed to the muzzle; in transport, the barrel serves as a trail. Similar mounts were a feature of several 76-mm pre-war (1931–1935) universal (both field and anti-aircraft) guns designed by Leningrad's Kirov Plant (L-1, L-2, and L-3). Other examples were the 1939 French 47SA39 APX, and 1943 German 105-mm light field howitzers design by Skoda and Krupp; neither entered service. The Bofors 105 mm L28 Light Field Howitzer 4140 was similarly arranged with four legs and did enter Swedish service. The 1930s-designed British 2-pdr. the anti-tank gun was another piece featuring a three-legged mounting.
+
+Compared to the M-30, the new howitzer had a significantly longer 35 caliber gun barrel, just short of being a gun-howitzer by Soviet definition. Like other guns of the period, it had a high efficiency muzzle brake; this improved muzzle velocity by 175 m/s to a total of 650 m/s for HE, and raised maximum range by 3,500 m beyond the similar M-30. The maximum range was 2 km better than the 76 mm M1942 at 15.3 km. Weight increased by 650 kg over the M-30, to 3,150 kg; the D-30 is over twice the weight of the 76mm M1942. Accuracy improved, with mean error at about 10 km dropping from 35 m with the M-30 to just 21 m.
+
+Effective stabilization length is a fundamental aspect of a gun mount, and legs 120° apart need to be longer than those with a smaller angle. The D-30's design minimizes this problem in several ways. Trunnions are close to the ground, as a result of placing the recoil system and cradle above the barrel. The trunnions are also at the very rear of the breach; this maximizes the recoil space when firing at higher elevation angles. Their rearward position also pushes the recoiling element forward on the mount, maximizing the relative rearward span of the stabilizers and so stability during recoil. Additionally, there is a very efficient muzzle brake, which absorbs about half the recoil. There is no mechanism to reduce recoil length as the angle of elevation increases.
+
+Some of the design decisions have a price. The muzzle brake produces about twice the overpressure in the area around the gun that is acceptable to Western armies and is the reason it is often seen being fired with a long lanyard, which reduces the rate of fire. Furthermore, the maximum elevation angle is restricted to 18° (early versions) or 22° (later versions) when the breach is over a trail leg. This is enforced by a mechanical cam that prevents the piece from firing for about 60% of the total top traverse, and limits the range to about 12 km, with full maximum range only possible in the central arc of about 48° between each pair of legs. The extreme rearward location of the trunnions means the elevating mass is unbalanced, requiring a strong balancing mechanism to enable manual elevation. To do this, the D-30 uses compression balancing gears.
+
+A central jack is powered by hand-operated hydraulics. This jack is lowered while the wheels are raised to permit two of the stabilizer legs to be swung 120° rearwards. The mounting is then lowered and the ends of the legs are spiked to the ground. This mounting provides for quick traversing to fire in any direction.
+
+The pair of large tires are suspended on a single trailing arm; the maximum towing speed is 60 km/h on the road. As was normal in Soviet designs, the tires were filled with foam. Initially, the D-30 had no brakes and no seat for the layer—non-essential luxuries.
+
+A sliding block breech was adopted instead of the M-30's pre-1914 screw pattern, giving a slight increase in the rate of fire. It is a semi-automatic vertical sliding block breech, with a tied jaw; the block moves down to open and opens automatically ejecting the empty cartridge case as the recuperator forces the gun tube back into battery after a round is fired. The design is closely related to those of breeches on another Soviet post–World War II guns and howitzers.
+
+The non-reciprocating sights are standard Soviet patterns, designed for one-man laying. Included are a direct fire anti-tank telescope, a panoramic periscopic indirect-fire sight (dial sight) in a reciprocating mounting, an angle of sight scale, and a range drum for each charge engraved with the range (distance) scale. The elevation leveling bubble is mounted on the dial sight mount. The range drum enables the standard Soviet technique of semi-direct fire when the piece is laid visually on the target and the range set on the range drum.
+
+Soviet 122 mm howitzers used different ammunition to 122 mm guns, although there was some compatibility. In the case of ammunition for the D-30, the standard 122 mm howitzer shell weight of 21.8 kg was retained, with a metal cartridge case holding variable propelling charges. Cartridge and shell are loaded separately; this means that the shells have to be hand-rammed by a man to the right of the breach with a ramming rod. The D-30 could fire the older M-30 ammunition; however, new shells were also introduced, eventually including a rocket-assisted projectile with a range of 21.9 km. The M-30's range of propelling charges, comprising base and eight increments, was replaced by a new set comprising base and four increments; a single base propellant was retained. A more effective High Explosive (HE) shell was developed, as well as smoke, illumination, and chemical-filled projectiles.
+
+In keeping with Soviet doctrine, the anti-tank role is important; there is a HEAT shell capable of penetrating 460 mm of steel armor plate.
+
+The maximum rate of fire of the D-30 is 6–8 rounds per minute and about 75 rounds per hour. There is disagreement as to whether this maximum rate of fire is achievable for indirect fire. Based on reloading speeds of similar guns using separate charges, solo re-laying, and given a stable emplacement, semi-automatic breach, and no long lanyard, (examples are the 25-pdr. and 105mm L118), and assuming concurrent lay adjustment during reloads, then it probably is when in the hands of a competent detachment. However, 5-6 rounds per minute may be more realistic with a poorly trained gun crew.
+
+The D-30 is noted for simplicity of maintenance by its users; reputedly there are no special tools, all jobs can be done with a wrench and large hammer. However, like any other gun, routine maintenance is essential, and western troops in Afghanistan have reported Afghan manned D-30s having problems with shells sticking in the barrel due to lack of cleaning.
+
+A location chosen for emplacement of the D-30 should be as level as reasonably possible. Firstly, the carriage is raised via an internal hydraulic jack located under the cradle of the gun. Once the gun is at the required height, the wheels are raised via the wheel lifting lever; this allows the two split stabilizer legs to be separated from the mono stabilizer leg and brought rearward into firing configuration.
+
+The legs are then locked in place with locking pins. The carriage is lowered via the hydraulic jack so that the legs touch the ground; integral stakes are then hammered into the ground. At this point, the gun is ready for direct fire using the OP4 direct fire sight or can be orientated and have its position fixed via the aiming circles for subsequent indirect fire using the Pantel sight.
+
+This equipment has proliferated into the following countries: Bangladesh, China, North Korea (Democratic People's Republic of Korea), Sri Lanka.
+
+Here is Variants information for the Type 83 Chinese 122mm Towed Gun Howitzer:
+The 2A18M or D-30M is new double baffle muzzle brake, square central base plate, towing lunette assembly..
+The 2A18M-1 or D-30M-1 is with semi-automatic loader. Prototype..
+The D-30A is modified recoil system, new muzzle brake..
+The 2S1 Gvozdika s is self-propelled version..
+The Type 85 or D-30-2 is Chinese self-propelled version of the D-30..
+The D-30-3 is Chinese upgrade of the Type 56 85 mm field gun with 122 mm weapon..
+The Type 86, variously, Type 83, Type 96 is Chinese licence-production or derivative of the D-30..
+The D30 RH M-94 is Croatian built version, new muzzle brake, redesigned trail, improved hydraulic brake..
+The D 30-M is Egyptian licence version of the D-30..
+The SPH 122 is Self-propelled version, mounted on a modified M-109 chassis..
+The T-122 is Self-propelled version, mounted on a modified T-34 chassis..
+The HM 40 is Iranian version..
+The Shafie D-30I or HM-40 is Iranian version..
+The D-30J is Yugoslav version of the D-30 - heavily modified version based on license designed by Military Technical Institute Belgrade.
+The Saddam is Iraqi designation of Yugoslavia D-30J produced on license bought from Yugoslavia..
+The D-30JA1 is Improved Serbian version - further development of D-30J..
+The Sora 122mm is Self-propelled version of D-30J.
+The M-91 "Mona" is Yugoslav variant with the 100 mm ordnance of the MT-12. Prototype only..
+The Khalifa-1 is Sudanese licensed version of the D-30..
+
+Here is System information for the Type 83 Chinese 122mm Towed Gun Howitzer:
+The Alternative Designation is Type 83.
+The Type is Towed Gun Howitzer.
+The Caliber is 122 mm.
+The Manufacturer is INA.
+The In Service is 1963-Present.
+The Crew is 5 (section of 6).
+The Displacement Time is 3.5.
+The Emplacement Time is 1.5.
+The Note is The Type 83 122mm Towed Gun Howitzer is a Chinese version of the D-30 Russian 122mm Towed Gun Howitzer..
+
+Here is Dimensions information for the Type 83 Chinese 122mm Towed Gun Howitzer:
+The Length, Chassis Overall Travel is 5.4.
+The Height, Travel is 1.6.
+The Width, Travel is 1.9.
+The Weight, Combat is 3.2 tons.
+
+Here is Automotive information for the Type 83 Chinese 122mm Towed Gun Howitzer:
+The Prime Mover is MT-LB, Ural-4320.
+The Maximum Towing Speed, Road is 60.
+The Maximum Towing Speed, Off-Road is 25.
+The Fording Depth is 0.5.
+
+Here is Armament information for the Type 83 Chinese 122mm Towed Gun Howitzer:
+The Name is 1 x 2A18M 122mm Towed Gun Howitzer.
+The Type is Towed Gun Howitzer.
+The Caliber is 122.
+The Barrel Length is 38.
+The Rate of Fire – Burst is 8.
+The Rate of Fire – Normal is 6.
+The Rate of Fire – Sust is 4.
+The Loader Type is Semi- Automatic.
+The Breech Type is Vertical Sliding Wedge.
+The Muzzle Brake Type is Multi-baffle.
+The Maximum Elevation is +70.
+The Minimum Elevation is -7.
+The Traverse Range is 360.
+The Traverse Left is 360.
+The Traverse Right is 360.
+
+Here is Ammunition (Option 1) information for the Type 83 Chinese 122mm Towed Gun Howitzer of the Ammunition:
+The Name is OF-81.
+The Type is Frag-HE.
+The Caliber is 122.
+The Range, Minimum is 1000.
+The Range, Maximum is 15,300.
+The Projectile Weight is 21.76.
+The Muzzle Velocity is 680.
+The Fuze Type is RGM-2 PD.
+
+Here is Ammunition (Option 2) information for the Type 83 Chinese 122mm Towed Gun Howitzer of the Ammunition:
+The Name is HEAT-FS.
+The Type is HEAT.
+The Caliber is 122.
+The Range, Minimum is 0.
+The Range, Maximum is INA.
+The Projectile Weight is 21.58.
+The Muzzle Velocity is 740.
+The Fuze Type is GPV-2 PIBD.
+
+Here is Ammunition (Option 3) information for the Type 83 Chinese 122mm Towed Gun Howitzer of the Ammunition:
+The Name is Frag-HE Rocket Assisted.
+The Type is Frag-HE.
+The Caliber is 122.
+The Range, Minimum is INA.
+The Range, Maximum is 21,900 m.
+The Projectile Weight is 21.76.
+The Muzzle Velocity is INA.
+The Fuze Type is PD.
+
+Here is Fire Control System information for the Type 83 Chinese 122mm Towed Gun Howitzer:
+The Indirect Fire is PG-1M Pantel.
+The Direct Fire is OP 4M-45.
+The Collimator is K-1.
+The Fire Control Computer is None.
+The Gun Display Unit is None.
+

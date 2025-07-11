@@ -1,0 +1,158 @@
+This document describes the PHL-90B (Type 90B) Chinese 122mm Multiple Rocket Launcher (MRL).
+
+The PHL-90B (Type 90B) Chinese 122mm Multiple Rocket Launcher (MRL) is the second generation of Type 90 series MLRS (Multiple Launch Rocket System) of 122mm caliber. The weapon system is designed and manufactured by the Chinese Defense Company NORINCO. The first version of Type 90 MLRS was unveiled in the mid-1990s, followed by the Type 90B in 2004. The 122 mm Type 90B multiple launch rocket system is a mobile fire support system for the destruction of a variety of targets by means of multiple barrages of up to 40 rockets at a time. The Type 90B is able to be in combat position, fire, and leave its firing position in less than 7 minutes.
+
+
+A typical Type 90 multiple launch rocket system battalions comprises the battalion headquarters and three firing units (companies). The battalion headquarter is equipped with:
+
+A battalion command truck;
+3 reconnaissance APC;
+A meteorological radar truck;
+A mechanical maintenance truck;
+A electronic maintenance truck
+Each firing unit is equipped with:
+
+A company command truck;
+6 rocket launch trucks
+6 reloading trucks
+
+This equipment has proliferated into the following countries: China, Indonesia, Peru.
+
+Here is Variants information for the PHL-90B (Type 90B) Chinese 122mm Multiple Rocket Launcher (MRL):
+The Type 90A is able to fire unguided rockets, new computerised fire control, command post can lay and control Type 90A launchers units by remote control..
+
+Here is System information for the PHL-90B (Type 90B) Chinese 122mm Multiple Rocket Launcher (MRL):
+The Alternative Designation is PHL-90B; Type 90B.
+The Type is 122 mm Multiple Rocket Launcher.
+The Expected out of Service Date is 2060.
+The Manufacturer is NORINCO.
+The Chassis is Mercedes-Benz 6x6 truck
+chassis.
+The Crew is 5.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The TIme Required to Reload is The electrical firing system fires the rockets either singly or in a salvo with 0.5 second between rounds..
+The Maximum Effective Range is 40.
+The Type 90B Battalion is Three reconnaissance vehicles based on the NORINCO WZ 551 (6 × 6) armoured personnel carrier chassis.
+
+Battalion command vehicle based on a Mercedes-Benz (4 × 4) truck chassis.
+
+Meteorological radar based on two Steyr (4 × 4) truck chassis.
+
+Maintenance vehicles based on Steyr (4 × 4) truck chassis, one would be for mechanical maintenance and the other for electronic maintenance..
+The Type 90B (Batteries, 3ea) is Battery command vehicle on Mercedes-Benz (4 × 4) truck chassis.
+
+Six 122 mm rocket launchers on Mercedes-Benz (6 × 6) truck chassis.
+
+Six 122 mm rocket resupply vehicles based on Mercedes-Benz (6 × 6) truck chassis..
+
+Here is Dimensions information for the PHL-90B (Type 90B) Chinese 122mm Multiple Rocket Launcher (MRL):
+The Length is 9.135.
+The Width is 2.495.
+The Height is 3.028.
+The Weight, Combat is 23.
+
+Here is Automotive information for the PHL-90B (Type 90B) Chinese 122mm Multiple Rocket Launcher (MRL):
+The Chassis is Mercedes-Benz 6x6 truck
+chassis.
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Cruising Range is 800.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is 80.
+The Speed, Maximum Swim is Not Amphibious.
+The Fording Depths is INA.
+The Running Gear is Wheeled.
+The Layout is 6x6.
+The Amphibious is No.
+The Gradiant is 60.
+The Side Slope is 30.
+The Longitudinal and Transversal Slope Sensor is Yes.
+The Gradient Sensors is Yes.
+
+Here is TBR-142 VHF Radio information for the PHL-90B (Type 90B) Chinese 122mm Multiple Rocket Launcher (MRL) of the Communications:
+The VHF FM Transceiver is Yes, TBR-142(I).
+The VHF Range is 1 to 50.
+The Megahertz is 40.000 to 59.975.
+The Power is 12V Ni-Ca Rechargeable Battery or external 12V DC power source.
+The Dimensions is 217x135x58.
+The Weight is 2.7.
+The Antennas is 3 Total: a 1.3m whip antenna, a 0.3m short antenna, and a 10m wire antenna.
+The Proliferated is Widely with Artillery/Gun/Missile/Reconnaissance Units.
+The Control Device is TBR-142(II).
+The Multi-function Field Phone is TBR-142(IIID).
+The Anti-Aircraft Control Unit is TBR-142(IIIG).
+The ZXY88-200 C2 Capable is Yes.
+The Messaging is Capability – Limited.
+The Amplifier is Available.
+The Physical Conditions is Terrain and Weather favorable.
+
+Here is System information for the PHL-90B (Type 90B) Chinese 122mm Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Name is NORINCO 122mm (40-round) Multiple Rocket Launcher.
+The Type is 122mm Multiple Rocket Launcher.
+The Breach Type is INA.
+The Length, Total is 2.75 to 3.03.
+The Length, Barrel is INA.
+The Dimeter is INA.
+The Number of Tubes is 10.
+The Launch Rate, full Salvo is 40 rockets can be loaded in less than 3 minutes..
+The Launch Rate, one missile is The electrical firing system fires the rockets either singly or in a salvo with 0.5 second between rounds..
+The Rate of Fire is 40 rds in 18-20 seconds.
+The Loader Type is Automatic.
+The Max Elevation is 55.
+The Min Elevation is 0.
+The Traverse Range is INA.
+The Traverse Left is 102°  (1813 mils)
+ (left and right).
+The Traverse Right is 102° (1813 mils)
+ (left and right).
+The Traverse Arc is 204.
+The Armament Front is +55° (978 mils) / 0°  (0 mils).
+The Azimuth Range is -102 to +102.
+The Stabilisers is two hydraulically operated stabilisers.
+The Automatic Reloading System is consists of a elevator, rack and feeder with three modes of control.
+
+Here is Ammunition (Option 1) information for the PHL-90B (Type 90B) Chinese 122mm Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Name is Fire Dragon 40.
+The Type is High Explosive (HE) 122mm Rocket.
+The Caliber is 122.
+The Muzzle Velocity is INA.
+The Fuse Type is Radio Proximity Fuze.
+The Weight, Launch is 74.
+The Weight, Warhead is 18.
+The Warhead Type is Steel Ball HE.
+The Lethal Warhead is 60.
+The Rocket Length is 3,040.
+The Min Range is 20.
+The Max Range is 40.
+The Basic load is 40.
+The Circular Error of Probability (CEP) is 25.
+The Armor Penetration is Yes.
+The Inertial Navigation System (INS) is Yes.
+The Global Positioning System (GPS) guidance system is Yes.
+The Variants is High Explosive (HE), High-efficiency HE containing steel balls for greater fragmentation effect, High-efficiency HE Incendiary (HEI), Cargo containing anti-personnel/anti-tank sub-munitions, Mine containing anti-tank mines. The rockets can also be launched by other 122 mm multiple rocket systems..
+
+Here is Fire Control information for the PHL-90B (Type 90B) Chinese 122mm Multiple Rocket Launcher (MRL):
+The Name is HJ-1 Mini-Computer, Electric Firing System.
+The Computerized FCS is Yes, The launcher is controlled by the computer through man/machine interaction.
+The Direct Fire is Yes.
+The Indirect Fire is No.
+The Position Location System is Differential GPS.
+The Automatic Operational and Laying Device is Yes.
+The Awning Device is Semi-Automatic Collapsible.
+The Fire Control Position is Inside the driver's cab or remotely outside the vehicle.
+The Launcher Direction Finder/Display is Yes.
+The Launcher Assembly Elavation Sensor is Yes.
+The Traverse Position Sensors is Yes.
+The Vehicle-Launcher Power Interface. is Yes.
+The Panoramic Sight is Yes, a panoramic sight is placed on the left side of the launcher for manual laying if required..
+
+Here is Protection information for the PHL-90B (Type 90B) Chinese 122mm Multiple Rocket Launcher (MRL):
+The Cab is The cab of the Type 90 provides protection from small arms fire and shell splinters..
+The Applique Armor is INA.
+The Explosie Armor is No.
+The Active Protection System is INA.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

@@ -1,0 +1,123 @@
+This document describes the Ivan Susanin Class (Project 97P Class) Russian Icebreaker.
+
+Ivan Susanin Class (Project 97P Class) Russian Icebreaker was developed as a response to the renewed interest of the Soviet Navy and Border Troops on icebreaking patrol vessels after United States Coast Guard and Canadian Coast Guard icebreakers began appearing more frequently near the country's northern maritime borders. New icebreaking patrol vessels were needed because existing Soviet naval vessels could not operate in ice-covered waters and large icebreakers, in addition to being unarmed and operated by civilians, could not be distracted from their primary mission of escorting merchant ships.
+
+Project 97 was selected as the design basis following positive operational experience and the difficulties associated with developing a new design. The Project 97P design, developed by Central Design Bureau "Iceberg", was slightly longer than the preceding icebreakers, lacked the damage-prone bow propeller, and featured a bigger deckhouse built of aluminum-magnesium alloy to reduce weight. A helideck capable of receiving a Kamov Ka-25 or Ka-27 helicopter was fitted over the aft deck. The armament consisted of a twin 76 mm AK-726 deck gun and two 30 mm AK-630 close-in weapon systems.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Ivan Susanin Class (Project 97P Class) Russian Icebreaker:
+The Ivan Susanin is Commissioned:1973
+Status: Active
+Fleet: Pacific.
+The Aysberg is Commissioned: 1974
+Status: Decommissioned in 2006
+Fleet: Decommissioned.
+The Ruslan is Commissioned: 1975
+Status: Active
+Fleet: Northern Fleet.
+The Anadyr (ex-Dnepr, ex-Imeni XXV syezda KPSS) is Commissioned: 1976
+Status: Decommissioned in 2015 
+Fleet: Decommissioned.
+The Dunay is Commissioned: 1977
+Status: Decommissioned in 2017
+Fleet: Decommissioned.
+The Neva is Commissioned: 1978
+Status: Active
+Fleet: Pacific Fleet.
+The Volga is Commissioned: 1980
+Status: Active
+Fleet: Pacific Fleet.
+The Murmansk (ex-Imeni XXVI syezda KPSS, ex-Irtysh) is Commissioned: 1981
+Status: Decommissioned in 2013
+Fleet: Decommissioned.
+
+Here is System information for the Ivan Susanin Class (Project 97P Class) Russian Icebreaker:
+The Alternative Designations is Ivan Susanin Class; Project 97P Class.
+The Type is Icebreaker.
+The Builder is Admiralty Shipyard, St. Petersburg, Russi.
+The Crew is 140.
+
+Here is Dimensions information for the Ivan Susanin Class (Project 97P Class) Russian Icebreaker:
+The Length is 69.90 m.
+The Beam is 18.10 m.
+The Draft is 6.30 m.
+The Displacement, Standard is 2,785 tons.
+The Displacement, Fully Loaded is 3,525 tons.
+
+Here is Automotive information for the Ivan Susanin Class (Project 97P Class) Russian Icebreaker:
+The Engine Name is 3 x type 13D-100.
+The Engine Type is Diesel.
+The Engine Power is 5,400 total bhp.
+The Maximum Speed is 15 knots.
+The Maximum Range is 10,700 nm at 12.5 knots.
+
+Here is Gun Weapon System #1 information for the Ivan Susanin Class (Project 97P Class) Russian Icebreaker of the Gun Weapon Systems:
+The Name is 2 x AK-630 30mm CIWS.
+The Type is Close-In Weapon System (CIWS).
+The Caliber is 30 mm.
+The Configuration is In "630", "6" means 6 barrels and "30" means 30 mm..
+The Mission is The system's primary purpose is defense against anti-ship missiles and other precision guided weapons. However it can also be employed against fixed or rotary wing aircraft, ships and other small craft, coastal targets, and floating mines..
+The Turret is It is mounted in an enclosed automatic turret..
+The Radar is 1 x MR-123 radar and television detection and tracking..
+The Barrel Length is 1,629 mm (total)
+1,460 mm  (rifled).
+The Width is 1,240 mm  (mount ring).
+The Weight is Gun mount:
+1,000 kg (2,200 lb) (AK-630)
+1,800 kg (4,000 lb) (AK-630M)
+2,500 kg (5,500 lb) (AK-630M-2)
+External nodes:
+800 kg (1,800 lb) (AK-630)
+2000 rounds in belt:
+1,918 kg (4,228 lb).
+The Height is 1,070 mm (42 in) (above deck).
+The Crew is 1.
+The Barrels is 6.
+The Action is Gas-operated rotary cannon.
+The Elevation is +88° ... -12° (50°/sec).
+The Traverse is ±180° (70°/sec).
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Effective Firing Range is 4,000 m  (aerial)
+5,000 m (maritime).
+The Muzzle Velocity is 880–900 m/s.
+The Maximum Firing Range is the projectiles self-destruct past 5,000 m range..
+The Feed System is Belt: 2,000 rounds (additional 1,000 rounds in reserve feed bin..
+The Sights is Radar / TV-optical.
+
+Here is Gun Weapon System #1 Ammunition information for the Ivan Susanin Class (Project 97P Class) Russian Icebreaker of the Gun Weapon Systems:
+The Shell is HEI-Frag, Frag-T.
+The Caliber is 30×165mm AO-18.
+The Shell Weight is 0.39 kg.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Ivan Susanin Class (Project 97P Class) Russian Icebreaker of the Gun Weapon Systems:
+The Name is 1 x AK-726 76.2mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 76.2 mm.
+The Length is INA.
+The Weight is INA.
+The Barrels is 2.
+The Rate of Fire is 45 rounds per minute.
+The Muzzle Velocity is 980 m/s.
+The Maximum Firing Range is 15.7 km.
+
+Here is Gun Weapon System #2 Ammunition information for the Ivan Susanin Class (Project 97P Class) Russian Icebreaker of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.2 mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Aviation information for the Ivan Susanin Class (Project 97P Class) Russian Icebreaker:
+The Aviation Facilities is A helideck capable of receiving a Kamov Ka-25 or Ka-27 helicopter was fitted over the aft deck..
+The Aircraft is INA.
+
+Here is Radar and Fire Control Systems (FCS) information for the Ivan Susanin Class (Project 97P Class) Russian Icebreaker:
+The Air / Surface Search Radar is 1 x MR-302 Rubka (Strut Curve) radar.
+The Navigation Radar is 2 x Volga (Don-Kay) radar.
+The AK-726 FCS is 1 x MR-105' Turel (Owl Screech) FCS.
+
+Here is Protection information for the Ivan Susanin Class (Project 97P Class) Russian Icebreaker:
+The Hull is The Project 97P design, developed by Central Design Bureau "Iceberg", was slightly longer than the preceding icebreakers, lacked the damage-prone bow propeller, and featured a bigger deck house built of aluminum-magnesium alloy to reduce weight..
+The NBC Washdown is Yes.
+

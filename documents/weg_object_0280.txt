@@ -1,0 +1,82 @@
+This document describes the 9P157 Khrizantema-S Russian Anti-Tank Guided Missile System.
+
+The 9P157 Khrizantema-S Russian Anti-Tank Guided Missile System was developed as a launch platform for the 9M123 Khrizantema missile. Although the 9P157 uses a BMP-3 chassis, newer missile, and dual guidance mode its mission and design philosophy is similar to the older 9P149 Shturm-S tank destroyer. The Khrizantema-S is mounted on a BMP-3 chassis, with the complete launch vehicle referred to by either the 9P157 (for the only vehicle in the 9K123 subfamily) or 9P157-2 and 9P157-3 (for vehicles in 9K123-1 Khrizantema-S subfamily) GRAU designations.
+
+This equipment has proliferated into the following countries: Azerbaijan, CFE Treaty, Libya, Russian Federation.
+
+Here is Variants information for the 9P157 Khrizantema-S Russian Anti-Tank Guided Missile System:
+The 9P157 Khrizantema-S is The 9P157 Khrizantema-S is a modern tank destroyer based on the BMP-3 chassis. It is equipped with a retractable pedestal-mounted launcher. Both laser and radar guidance can be used..
+The 9P157-2 Khrizantema-S is The 9P157-2 is the launch vehicle.
+The 9P157-4 Khrizantema-S is The 9P157-4 is a battery command vehicle. The 9P157-4 has a BMP-3 turret without main armament and with additional day and night optical systems and radios..
+
+Here is System information for the 9P157 Khrizantema-S Russian Anti-Tank Guided Missile System:
+The Alternative Designations is Khrizantema AT-15.
+The Type is Anti-Tank Guided Missile System.
+The Manufacturer is KBM (Kolomna).
+The Chassis is BMP-3 chassis,.
+The Crew is 2.
+The Layout is The 9P157 is based on the BMP-3 chassis but is not fitted with a turret. Instead the troop compartment is filled with a twin round retractable pedestal launcher which is connected to an automatic loader. The 9P157 has an optical sight with laser for SACLOS guidance of the laser guided version of the 9M123 missile. Additionally a retractable radar is mounted for detecting targets for the MMW radar version of the 9M123..
+The  is .
+
+Here is Dimensions information for the 9P157 Khrizantema-S Russian Anti-Tank Guided Missile System:
+The Length is 7.14 m.
+The Width is 6.715 m.
+The Height is 2.30 m.
+The Track Length is 4.06 m.
+The Track Width is 380 mm.
+The Weight is 18,700 kg.
+The Ground Pressure is 0.61 kg/cm² (5,9821 Pa) (8.68 psi).
+The Ground Clearance is 0.190 m.
+
+Here is Automotive information for the 9P157 Khrizantema-S Russian Anti-Tank Guided Missile System:
+The Engine Name is UTD-29M.
+The Engine Type is 10 cylinders, water-cooled, diesel.
+The Engine Power is 500 hp.
+The Power-to-Weight Ratio is 26.73 hp/t.
+The Fuel Capacity is INA.
+The Electrical System is 27 V.
+The Steering is differential with hydrostatic drive.
+The Suspension is hydropneumatic shock-absorbers.
+The Maximum Land Speed is 70 km/h.
+The Maximum Amphibious Speed is 10 km/h.
+The Range is 600 km.
+The Amphibious is Yes.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Obstacle is 0.80 m.
+The Trench is 2.5 m.
+
+Here is Main Weapon System information for the 9P157 Khrizantema-S Russian Anti-Tank Guided Missile System:
+The Name is 9K123 Anti-Tank Guided Missile (ATGM).
+The Type is Anti-Tank Guided Missile (ATGM).
+The Launch Platform is 9P157.
+The Missile Length is 2,057 mm.
+The Container Length is 2,300 mm.
+The Missile Diamter is 155 mm.
+The Weight, Missile in Container is 62 kg.
+The Weight, Missile in Flight is 42 kg.
+The Guidance System is Combined automatic radio frequency (RF) command to line-of-sight (LoS) and laser beam-riding SACLOS.
+The Loading System is The automatic loader is a revolver-type, with the missiles all stored horizontally on a rotating carousel..
+The Warhead is Tandem-HEAT or Thermobaric.
+The Maximum Range is 6,000 m.
+The Minimum Range is 400 m.
+The Speed is 400 m/s.
+The Maximum Altitude is 3,000 m.
+The Armor Penetration is >1,100 mm (43.3 in) of conventional armour behind ERA.
+The Basic Load is The 9P157 carries a maximum of 15 missiles..
+
+Here is Fire Control System (FCS) information for the 9P157 Khrizantema-S Russian Anti-Tank Guided Missile System:
+The FCS Name is 9K123.
+The Rangefinder is Laser.
+The Note is A key feature of the Khrizantema-S weapon system is that it has two guidance modes, corresponding to the two target acquisition and guidance systems on the host platform. The primary guidance system consists of a millimetric radar, while the secondary consists of an optical sight and laser beam-riding guidance system..
+
+Here is Protection information for the 9P157 Khrizantema-S Russian Anti-Tank Guided Missile System:
+The Hull Armor is The hull of the 9P157 Khrizantema-S is built from aluminum (possibly the ABT-102 alloy from Nii Stali), which is then covered with bolt-on hardened steel armor. Without the steel, the aluminum protects against small-arms fire and shell splinters, and the additional steel – which is concentrated on the front of the vehicle – is sufficient to stop 30 mm rounds fired at a range of 200 m..
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

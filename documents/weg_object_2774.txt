@@ -1,0 +1,98 @@
+This document describes the M88A2 Hercules American Armored Recovery Vehicle.
+
+The M88A2 HERCULES Hercules [Heavy Equipment Recovery Combat Utility Lift and Evacuation System], formerly the M88A1E1 Improved Recovery Vehicle, addresses a long-standing US Army need to upgrade its recovery vehicles to safely tow and recover battle-damaged, mired or inoperative Abrams tanks. The HERCULES, using M88A1 hulls, modified to specification by Anniston Army Depot, upgrades the basic M88 chassis to meet the increased demands of towing, winching, and lifting the M1, M1A1, and M1A2 tank.
+
+Among the most significant upgrades is its on-board recovery systems. The winch and hoist capacities are greatly increased to enable the vehicle to lift 40% heavier loads and winch 55% higher capacities. HERCULES features a longer 35-ton hoist capability boom, a 140,000 pound (63,504 kg) constant pull main winch with 280 feet (85.3 m) of cable and an auxiliary 3-ton winch to aid main winch cable deployment. The Hercules also incorporates improved hydraulics, enhanced propulsion system, and heavier suspension, along with overlay armor protection and ballistic skirts. The vehicle's enhanced survivability with added armor which brings its weight to more of a match for the Abrams tanks it predominantly supports. The HERCULES upgraded power train which enables it to tow a 25% larger load, with better braking capacity and higher speeds to better enable it to accompany maneuver forces. The crew has been reduced from four to three soldiers. This action results from some of the on-board innovations such as an auxiliary winch to deploy the main winch, chain/davit hoists for heavy equipment/machinery and a grease operated track adjuster.
+
+The HERCULES manufacturer is United Defense, Ground Systems Division located in York, PA. The Low Rate Initial Production (LRIP) awarded 9 Sep 94 with a follow-on award 2 Dec 94. The Hercules M88A1 to M88A2 conversion is a PM Hercules directed program where work is divided between UD and Anniston Army Depot (ANAD) to accomplish the conversion to the M88A2 Hercules Improved Recovery Vehicle.
+
+The M88A2 Hercules Heavy Recovery Vehicle (HRV) is a full-tracked armored vehicle used to perform battlefield recovery missions including towing, hoisting, and winching. It is fully capable of recovery support for Abrams series tanks and future heavy combat vehicles. The M88A2 provides the Force XXI maintainer a recovery platform capable of performing a single vehicle tow for M1 series tanks. HERCULES allows maintenance teams to get to the fight and gives them needed capability to perform their mission.
+
+The HERCULES is the answer to the current recovery deficiency for M1 series tanks and future heavy combat vehicles. HERCULES is a key enabler for the success of the Force XXI concept of operations and has a separate chapter in the Forward Force Modernization Plan. The Force XXI structure, where manpower and armor quantities are reduced, intensifies the need in an extended battlespace for a single system recovery capability that precludes the use of two vehicle and/or like-combat systems recovery. HERCULES provides this recovery capability, preserving resources and combat power/maneuverability. Within Force XXI, HERCULES will operate as part of the Forward Support Company (FSC) Combat Repair Team (CRT) that provides combined organizational and direct support maintenance to each maneuver company. The CRT is the maneuver battalion’s first level of maintenance support. Deployment of the HERCULES is the CRT’s first step towards restoring combat power to maneuver units. HERCULES is the enabling technology which allows the CRT to reach and retrieve disabled combat vehicles, deliver it to a location, based on METT-T, where repair can be performed, either by the Forward Repair System or in the Task Force Support Area (TFSA) Unit Maintenance Collection Point. HERCULES in concert with the FRS optimizes CRT maintenance capability.
+
+The US Army received its first M88A2 on 11 Jul 97 as the first eight vehicles were handed off to units in the 1st Cavalry Division at Ft. Hood, TX. A total of 46 vehicles were fielded to 1CD by 4QFY99. The first units receiving the 70-ton armored recovery vehicles included the 3rd Squadron, 8th Cavalry and the 215th Forward Support Battalion (FSB) receiving seven and one each respectively. Successfully achieving First Unit Equipped (FUE) represents a critical milestone for any materiel development. For the HERCULES, FUE was accomplished on 31 Jul 97 after the units completed a two and a half week operator and maintenance New Equipment Training (NET) course conducted by the Ordnance Center and School (OC&S) from 14-30 Jul 97.
+
+Starting in early April 1999, PM HERCULES initiated total package fielding of 27 vehicles to 4 ID(M), which is receiving HERCULES vehicles over 7 years prior to original fielding plans. HERCULES will be fielded in Armor Bns (7ea), Regimental Cav Sqdn (7ea), Div Cav Sqdn (5ea), Engineer Bns with Grizzly/Wolverine (2ea), and FSB/MSB (1ea). This requires a total of 629 systems. The Force XXI basis of issue is 6 per Forward Support Company (FSC)/Armor Battalion; 4 per Base Support Company (BSC); 1 per Division Support Battalion, 1 per Division Aviation Support Battalion, 7 per Regimental Cavalry Squadron, and 5 per Division Cavalry Squadron. The total Force XXI requirement is 605.
+
+The M88A2 is being fielded after years of research, development and testing to ensure the system is safe, operable, maintainable and meets user requirements. Admittedly, not all technical concerns had been fully addressed at the time of initial fielding. However, those that had only been partially met placed no high risk to the user. Of particular concern was the loss of traction when towing an Abrams vehicle on slopes under wet and muddy conditions. Towing was restricted to the use of a braking vehicle, while the PMO assessed various tracks to enhance system performance, with improvements to be addressed as a vehicle retrofit.
+
+The M88A2 Traction Enhancement Test teamed engineers from the HERCULES Program Managers office, ATC, and United Defense-Limited Partnership (UDLP). The team was tasked to evaluate proposed changes to the vehicle hardware/suspension that could possibly improve traction of the M88A2 HERCULES and to provide data for input into the modeling effort spearheaded by UDLP. The proposed changes included suspension lockout blocks, re-indexing torsion bars and repositioning of the tow pintle. These changes were designed to enhance the track-to-ground contact and also minimize the squatting effect of the rear of the vehicle during uphill towing. Also, selected track and cleat configurations were evaluated to measure their performance while towing on slopes. The traction enhancement demonstration was conducted at ATC’s Churchville Test Area (CTA), which is located approximately 12 miles north of Aberdeen Proving Ground near the town of Churchville, MD. This facility is APG’s hilly cross-country endurance test area and is used to evaluate the durability of power trains, suspensions, and braking systems of test vehicles as they negotiate (ascending and descending) the various steep hills, with grades up to 29 percent. Testing at CTA consisted of operating on various dirt-surfaced longitudinal grades ranging from 20 to 25 percent. The majority of the demonstrations were conducted on the 24 and 25 percent grades. Effective 10 August 1998, the HERCULES was officially approved for single vehicle tow of the Abrams tank and other 70 ton combat vehicles.
+
+As with any new system, there are unforeseen problems, because the M88A2 Heavy Recovery Vehicle System is not the M88A1 Medium Recovery Vehicle System. The HERCULES new main winch has the capabilities of recovering a stuck M1A2, in most cases, using a single line pull. The operating procedures for the main winch are not the same as the M88A1 main winch. Built into the HERCULES main winch are five micro-switches that are designed to protect the main winch from damage. These micro-switches protect the main winch by shutting down the hydraulic system and stopping the winch operations. The PMO was alarmed by a rash of expensive winch failures shortly after fielding at both Ft. Hood and Kuwait. A team of government and contractor experts was assembled to investigate the situation and make recommendations to correct the problem. The root cause of the damage was continued operation of the main winch after the cable mis-wrapped on the drum. The most frequent cause of cable mis-wrap was over-speeding the drum during cable pay out. The variable speed main winch can unwrap the cable faster than the auxiliary winch can pull it out of the vehicle. The team selected four design paths to address the problem. The most promising concept would be to reduce the winch power while in the over-ride mode. It would be better to stall the winch when the cable gets jammed than allow the winch to break itself. The M88A2 road wheel arm hub, bearing and idler arm spindles are built to a closer tolerance than that of the M88A1; therefore, requiring different procedures. As of late 1999 reports from the field indicated that soldiers were ignoring repeated warnings and continue to burn up hub bearings by not following proper procedures.
+
+This equipment has proliferated into the following countries: Australia, Austria, Bahrain, Brazil, China, Egypt, Greece, Iraq, Israel, Jordan, Kuwait, Lebanon, Morocco, Pakistan, Saudi Arabia, South Korea (Republic of Korea), Spain, Sudan, Thailand, Tunisia, Turkey, United Nations, United States of America.
+
+Here is Variants information for the M88A2 Hercules American Armored Recovery Vehicle:
+The M88 is Original production model with Continental AVSI-1790-6A 980-hp V-12 gasoline engine. No NBC protection system. There were 1,075 M88s built from 1961 to 1964 by Bowen-McLaughlin-York (BMY) of York, Pa. All U.S. Army vehicles converted to diesel power..
+The M88A1 is BMY began development of the diesel-powered M88A1 in 1972, eventually converting 875 M88s and building more than 2,100 new M88A1s.
+The M88A2 Hercules Improved Recovery Vehicle (IRV) is This is an improved version capable of hoisting and towing twice weight of an M88A1, including M1 tanks. Production on the M88A2 began in 1994.
+Key upgrades include improved power-assisted braking, steering, winching, hoisting and increased horsepower, according to BAE Systems..
+
+Here is System information for the M88A2 Hercules American Armored Recovery Vehicle:
+The Alternative Designation is M88A2.
+The Type is Armored Recovery Vehicle.
+The Manufacturer is BMY (1961–1994)
+United Defense and Anniston Army Depot (1994–2005)
+BAE Systems Land and Armaments (since 2005).
+The Crew is 3.
+The Left Capability is 31.8 tons.
+The Winch Capability is 63.5 tons.
+The Towed Load is 63 tons.
+The Dozer Blade is The front-mounted dozer blade is used to stabilize the vehicle during craning and winching operations. It can be also used for clearing obstacles and light earth-mowing works, such as covering up of ditches and so on..
+The Welding Equipment is Vehicle has a welding outfit for welding and cutting works in the field. These are carried by one of the crew member. The M88 also has a set of tools for field repairs..
+The Note is With the lowest acquisition, operational and maintenance cost of any 70-ton capable recovery system, HERCULES answers the need for cost-effective, self-supporting heavy recovery performance.
+The HERCULES was the primary 70-ton recovery system during Operation Iraqi Freedom. And, U.S. troops found a few other creative uses for its capabilities when they used it to pull down the Saddam Hussein statue in Baghdad on April 9, 2003. HERCULES utilizes a hull designed for the recovery mission and thoroughly proven by U.S. Army testing. Stability and performance are unmatched by any alternate tank-based design.
+
+HERCULES offers operational and logistics commonality with the existing M88A1 fleet, simplifying training and parts availability. Key upgrades include improved power-assisted braking, improved steering, improved electrical system and increased engine horsepower.
+
+HERCULES features overlay armor protection, ballistic skirts, a longer 35-ton boom, a 140,000-pound (63,504 kg) constant pull main winch with 280 feet of cable, and an auxiliary three-ton winch to aid main winch cable deployment. The M88A2 HERCULES is built and equipped to be the world's recovery champion..
+
+Here is Dimensions information for the M88A2 Hercules American Armored Recovery Vehicle:
+The Length is 8.6 m.
+The Width is 3.7 m.
+The Height is 3.2 m.
+The Weight is 63 tons.
+
+Here is Automotive information for the M88A2 Hercules American Armored Recovery Vehicle:
+The Engine Name is Continental AVDS-1790-8DR.
+The Engine Type is turbocharged diesel engine.
+The Engine Power is 1 050 hp.
+The Transmission is Allison XT-1400-2 transmission.
+The Maximum Speed is 48 km/h.
+The Range is 500 km.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 1.1.
+The Trench is 2.6.
+The Fording without Preparation is 1.4.
+The Fording with Preparation is 2.6.
+The Note is This recovery vehicle was also fitted with auxiliary power unit which powers all systems and add-on equipment when the main engine is turned off..
+
+Here is System information for the M88A2 Hercules American Armored Recovery Vehicle of the Main Weapon System:
+The Name is M2 Browning.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight is 38 kg (83.78 lb)
+58 kg (127.87 lb) with tripod and T&E (Traverse and Elevation Mechanism).
+The Action is Short recoil-operated.
+The Rate of Fire is 450–600 rounds/min.
+The Muzzle Velocity is 890 m/s.
+The Maximum Firing Range is 7,400 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is Belt-fed (M2 or M9 links).
+
+Here is Ammunition information for the M88A2 Hercules American Armored Recovery Vehicle of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Basic Load is 1,300 rounds.
+
+Here is Protection information for the M88A2 Hercules American Armored Recovery Vehicle:
+The Hull Armor is This armored recovery vehicle has improved armored protection over it's predecessor. Armor of the M88A2 and withstands hits from 30 mm projectiles. It also withstands and anti-tank mine blast under the hull. Vehicle is additionally fitted with side skirts..
+The Applique Armor is Available.
+The Mine Clearing is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

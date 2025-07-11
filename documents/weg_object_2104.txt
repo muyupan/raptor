@@ -1,0 +1,30 @@
+This document describes the Kvitok 3IA Russian Radio Navigation Receiver.
+
+The Kvitok 3IA receiver is a radio navigation device that is known to integrate with several legacy hyperbolic navigation system networks such as Loran-C, Chayka, BRAS, and MARS-75. 
+This receiver is widely used on Russian sea-going vessels along the Arctic Northern Sea Route and the Baltic and Azov Sea/Black Sea areas.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Kvitok 3IA Russian Radio Navigation Receiver:
+The Name is Kvitok 3IA Russian Radio Navigation Receiver.
+The Type is Navigation aide; single component for large area radio navigation.
+
+Here is BRAS Network information for the Kvitok 3IA Russian Radio Navigation Receiver:
+The Configuration is Network consists of a master and two slave stations aligned in a "chain." The master station transmits during slots 1 and 3 and the first slave during slot 2, and the second slave during slot 4..
+The Operating Frequency is 1,660 to 2,115 kHz.
+The Transmission Length is Each transmission is approximately 230 mS long, and is followed by a 40mS silence period before the transmission in the next time slot begins..
+The Working Cycle is The working cycle of a chain is just over one second. The cycle is split into 4 periods of approximately 270 mS.
+
+Here is MARS-75 Network information for the Kvitok 3IA Russian Radio Navigation Receiver:
+The Configuration is Wide area network of navigation markers, light buoys, light beacons, radio beacons, radar reflectors, and radio beacon responders..
+The Operating Frequency is 70 kHz.
+The Transmission Length is INA.
+The Working Cycle is INA.
+
+Here is Chayka Network information for the Kvitok 3IA Russian Radio Navigation Receiver:
+The Configuration is Hyperbolic positioning system using time-of-flight of narrow pulses. Stations are organized in chains, and each station may be identified by its Group Repetition Interval (GRI)..
+The Operating Frequency is 100 kHz.
+The Transmission Length is INA.
+The Working Cycle is GRI varies.
+The Note is Similarities to Loran-C system.
+

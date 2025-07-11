@@ -1,0 +1,63 @@
+This document describes the GBL-131 Chinese 6x6 Mine Dispenser.
+
+The GBL-131 Chinese 6x6 Mine Dispenser is a variant of the GBL-130 mounted on a Tiema XC200 Chinese 6x6 Cross Country Truck.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the GBL-131 Chinese 6x6 Mine Dispenser:
+The GBL-130 Chinese Armored Mine Dispenser is The GBL-130 Chinese Armored Mine Dispenser is based on an enlarged ZSD-89 APC hull. It is 0.076m longer and 0.042m wider than the standard ZSD8-9, with the number of road wheels, increased from five to six pairs. This provides the vehicles with extra space for mine dispensing equipment. The vehicle has a stepped rear hull roof to enable six mine dispensers to operate simultaneously. The number of observation ports and roof hatches were reduced, and the rear exit door is smaller in size compared to that of the ZSD-89..
+The GBL-132 Chinese 6x6 Mine Dispenser is The GBL-132 Chinese 6x6 Mine Dispenser is a variant of the GBL-130 mounted on a Dongfeng EQ240/EQ2081 Chinese 6x6 Cross Country Truck..
+
+Here is System information for the GBL-131 Chinese 6x6 Mine Dispenser:
+The Alternative Designation is GBL-131.
+The Type is Mine Dispenser.
+The Manufacturer is Norinco.
+The Chassis is Tiema XC200 Chinese 6x6 Cross Country Truck..
+The Configuration is 6x6.
+The Mission is Anti-tank and anti-personnel mine laying/dispersion.
+The Crew is 3.
+The Seats is 1 + 2.
+
+Here is Dimensions information for the GBL-131 Chinese 6x6 Mine Dispenser:
+The Length is 8.422 m.
+The Width is 2.5 m.
+The Height is 3.2 m.
+The Weight is INA.
+
+Here is Mine Dispenser information for the GBL-131 Chinese 6x6 Mine Dispenser:
+The Mine Dispenser Racks is 288 launch tubes (8 x 36 mine canister).
+The Dispenser Rack Configuration is Racks mounted on the stepped rear hull.
+The Canister Diameter is 122 mm.
+The Number of canisters (per rack) is 36.
+The Rack traverse is 180 deg.
+The Elevation (fixed) is 40 deg.
+The Mine dispensing method is Each dispenser rack projects one mine canister at one time..
+The Mine Capacity in one Load is GBL-240 canisters (Total of 1,440 GLD224 AT mines); GBL-241 canisters (Total of 4,320 GLD125 APers mines); GBL-242 canisters (Total of 12,960 GLD115 APers mines).
+The Distance Mines Launched from Vehicle is 20 to 150 m.
+The Maximum Length of Mindfield with one Load is 2880 m (1 canister every 10 m).
+The Reload Time is 24 min.
+
+Here is Mine Types information for the GBL-131 Chinese 6x6 Mine Dispenser:
+The GBL240 is 5 x Type 224 SATM.
+The GBL241 is 15 x Type 125 SAPM.
+The GBL242 is 45 x Type 115 / GLD-115 SAPEM.
+The GBL243 is 5 x Type 224 INERT Training Mines.
+
+Here is Automotive information for the GBL-131 Chinese 6x6 Mine Dispenser:
+The Engine Name is BF8L413FG.
+The Engine Type is Diesel.
+The Engine Power is 188 kW, 1200 rpm.
+The Transmission is ZF5S-111GPA, 9 forward speeds, 1 reverse.
+The Maximum Speed is 85 km/h.
+The Minefield Dispensing Speed is 5 km/h.
+The Range is INA.
+The Tires is 14.00 x 20.
+
+Here is Main Weapon System information for the GBL-131 Chinese 6x6 Mine Dispenser:
+The Note is There are no weapons mounted on the GBL-131 Chinese 6x6 Mine Dispenser.
+
+Here is Protection information for the GBL-131 Chinese 6x6 Mine Dispenser:
+The Armor is INA.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

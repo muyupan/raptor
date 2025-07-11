@@ -1,0 +1,108 @@
+This document describes the HQ-17A (FM-2000) Chinese Short-Range Air Defense Missile System.
+
+The HQ-17A is a new China's short-range air defense system. It evolved from the HQ-17 (China's copy of the Russian Tor). China imported a total of 35 Tor M1 systems from Russia and offered to co-produce this air defense system in China. However, Russia reportedly refused. Eventually, China copied the Tor M1 and developed its indigenous version - the HQ-17, which featured some improvements, including a modern radar. The HQ-17A is a further development. This could be a good indication of how self-sufficient and advanced is China's weapon industry. The pre-production version of the HQ-17A was first publicly revealed in 2018 in the form of an FM-2000 air defense missile system. Operational HQ-17A systems were first publicly revealed in 2019 during a military parade.
+
+The HQ-17A uses a new wheeled chassis instead of a track. In terms of capabilities, it is broadly similar to the Russian Tor M2 system. Overall it resembles versions of the Tor, based on a Belarusian MZKT-6922 high mobility wheeled chassis. Some components of the HQ-17A, such as the radar, might be actually more advanced than those of the Russian Tor.
+
+The HQ-17A can engage all kinds of modern air targets, including aircraft, helicopters, UAVs, cruise missiles, and precision-guided munitions. Basically, it is intended to destroy targets that long- and medium-range air defense systems failed to hit. The HQ-17A was designed to protect mechanized formations. Though it can be also used to protect important stationary assets, such as military bases, airfields, ports, supply depots, command centers, and so on. For this role, an expensive tracked chassis was not required.
+
+The HQ-17A launcher vehicle carries both radars and missiles. A total of 16 missiles. Missiles are launched vertically. The maximum range of fire is around 15 km. Missiles can reach their targets at an altitude of up to 10 km. Hit probability of a single missile against aircraft is up to around 45-80%.
+
+The HQ-17A uses wheeled chassis with an all-wheel-drive configuration. It seems that this chassis is produced by Dongfeng motor corporation. The vehicle has good cross-country mobility and can travel over difficult terrain. A central tire pressure system is fitted as standard. The cab is lightly armored and provides some degree of protection against small arms fire and shell splinters.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the HQ-17A (FM-2000) Chinese Short-Range Air Defense Missile System:
+The HQ-17 is Tracked variant..
+The HQ-17A is Wheeled variant..
+The FM-2000 is FM-2000 is an export version of the HQ-17A. It was first publicly revealed in 2018. It uses a Dongfeng high mobility chassis with 6x6 configuration..
+The FM-3000 is A 30 km range surface-to-air missile system based on the HQ-17..
+
+Here is System information for the HQ-17A (FM-2000) Chinese Short-Range Air Defense Missile System:
+The Alternative Designation is HQ-17A.
+The Type is Short-Range Air Defense Missile System.
+The Manufacturer is China Precision Machinery Import-Export Corporation (CPMIEC).
+The Status is Operational; Exported to Cyprus, Egypt, Greece, Iran, Ukraine, and Venezuela.
+The Chassis is The HQ-17A uses a new wheeled chassis instead of tracked. In terms of capabilities it is broadly similar to the Russian Tor M2 system. Overall it resembles versions of the Tor, based on a Belarusian MZKT-6922 high mobility wheeled chassis..
+The Crew is 3.
+The Displacement Time is 5.
+The Emplacement Time is 5.
+The Fire on the Move is INA.
+The Note is The HQ-17A launcher vehicle carries both radars and missiles..
+
+Here is Dimensions information for the HQ-17A (FM-2000) Chinese Short-Range Air Defense Missile System:
+The Length is 9.7.
+The Width is 3.1.
+The Height is 3.7.
+The Weight, Combat is 30.
+
+Here is Automotive information for the HQ-17A (FM-2000) Chinese Short-Range Air Defense Missile System:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 400.
+The Range is 800.
+The Speed, Maximum Road is 80.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.4.
+The Trench is 0.5.
+The Fording Depth is 1.2.
+
+Here is Launcher information for the HQ-17A (FM-2000) Chinese Short-Range Air Defense Missile System of the Missile System:
+The Name is INA.
+The Note is Missiles are launched vertically..
+
+Here is Missile information for the HQ-17A (FM-2000) Chinese Short-Range Air Defense Missile System of the Missile System:
+The Name is 9M330 Missile.
+The Type is Surface-to-Air Missile.
+The Length is 2,900 mm.
+The Diameter is 235 mm.
+The Wingspan is 650 mm.
+The Weight is 167 kg.
+The Warhead is Frag-HE (fragmentation high explosives).
+The Warhead Weight is 15 kg.
+The Detonation Mechanism is RF Proximity.
+The Propellant is Solid-fuel rocket.
+The Guidance System is Radio command.
+The Operational Range is 12 km.
+The Flight Ceiling is 6,000 m.
+The Boost Time is Cold launch ejection for 20 m.
+The Speed is 850 m/s.
+The Steering System is Gas dynamic control system, with four control surfaces.
+The Basic Load is 16.
+The Hit Probability is Hit probability of a single missile against aircraft is up to around 45-80%..
+
+Here is Fire Control System information for the HQ-17A (FM-2000) Chinese Short-Range Air Defense Missile System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Targets is Cruise missiles, low-flying aircraft, short-range ballistic missiles.
+
+Here is Detection Radar information for the HQ-17A (FM-2000) Chinese Short-Range Air Defense Missile System of the Fire Control:
+The Name is INA.
+The Type is Detection Radar.
+The Frequency/Band is E/F-Band.
+The Maximum Detection Range is Range of 25 km while moving.
+The Number of Targets System can Track is INA.
+The Note is Some components of the HQ-17A, such as the radar, might be actually more advanced than those of the Russian Tor..
+
+Here is Tracking Radar information for the HQ-17A (FM-2000) Chinese Short-Range Air Defense Missile System of the Fire Control:
+The Name is INA.
+The Type is Tracking Radar.
+The Frequency/Band is G/H-Band.
+The Maximum Tracking Range is Range of 15 km while stopped.
+The Number of Targets System can Track is INA.
+
+Here is Protection information for the HQ-17A (FM-2000) Chinese Short-Range Air Defense Missile System:
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

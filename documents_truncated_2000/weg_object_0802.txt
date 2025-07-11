@@ -1,0 +1,66 @@
+This document describes the ASN-207 Chinese Medium-Altitude Long-Endurance (MALE) Unmanned Aerial Vehicle (UAV).
+
+The ASN-207 Chinese MALE Unmanned Aerial Vehicle (UAV) is a multipurpose military unmanned aerial vehicle developed by the Chinese company Aisheng Technology Group Co.
+
+The project of the Chinese unmanned aerial vehicle Aisheng ASN-207 was created by aircraft builders from the company "Aisheng Technology Group Co." on the basis of the Aisheng ASN-206 unmanned aerial vehicle, so the development process itself did not take much time, and the cost of the drone proved to be very acceptable.
+
+The multi-functional military unmanned aerial vehicle Aisheng ASN-207 is designed to perform tasks closely related to aerial photography and aerial photography, to carry out reconnaissance and patrol-observation flights, conduct monitoring, adjust artillery fire, etc.
+
+The Chinese multi-purpose unmanned aerial vehicle Aisheng ASN-207 was designed by Chinese aircraft builders in an aircraft-type configuration, and in fact, the design of the drone is identical to the design of the Aisheng ASN-206 UAV. The Aisheng ASN-207 is not equipped with its own chassis system, which means the launch of the device is carried out by dispersing the rail guides at the expense of a solid-fuel rocket accelerator. The aircraft itself has relatively small dimensions, in particular, with a fuselage length of 3 meter 54 centimeter, its wingspan is 5 meters 48 centimeters.
+Подробнее на: https://avia-pro.net/blog/aisheng-asn-207-tehnicheskie-harakteristiki-foto
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the ASN-207 Chinese Medium-Altitude Long-Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The ASN-206 is An older version of the ASN-207 with less control range, smaller payload capacity, and shorter endurance.  The ASN-206 is a medium tactical unmanned aerial vehicle (TUAV) in service with the People's Liberation Army (PLA) in China.
+
+The air vehicle is used for day and night reconnaissance; battlefield surveillance; target positioning; artillery shooting adjustment; border patrol; nuclear radiation survey and sample; aerial photography; and disaster surveillance.
+
+The system consists of one air vehicle, a powerplant, and a launch-and-recovery system. Upgrades may include an electronic support measures capability for self-protection.
+
+The air vehicle is launched by a rocket and uses a parachute to land. It does not need a runway.
+
+The ASN-206 has a twin-boom layout with a high-wing configuration and twin tail. This permits the tail-mounted two-blade propeller to be out of the sightline of the sensor package. The ASN-206's electro-optical observation package is believed to be a derivative of an Israeli system.
+
+The air vehicle can be equipped with vertical and panoramic cameras; infrared sensors; television cameras; and positioning correction equipment. It is fitted with a digital control and management system, integrated radio, and advanced mission-control equipment. Some ASN-206s appear to have been fitted with a satellite communication antenna.
+
+Video can be transmitted in real-time to the ground station. The ASN-206 can also determine the position of a ground target in real-time to correct artillery firing.
+
+For electronic warfare missions, the air vehicle can be equipped with a JN-1102 electronic countermeasures suite, which can scan, intercept, analyze, monitor, and jam hostile ground-to-air communications at 20 MHz to 500 MHz. The system consists of a UAV-mounted intercept subsystem, a UAV-mounted jamming subsystem, and a ground-based intercept and jamming control subsystem.
+
+A complete system consists of six to 10 air vehicles and one ground station. The ground station comprises command vehicles, launch vehicles, power supply vehicles, intelligence-processing vehicles, maintenance, and transport vehicles..
+The Navalized ASN-206 is The variant is designed to serves as a communication relay between a supporting surface ship and an amphibious force. It was noted in operation during the Chinese navy's first remote communication support drill with drones on July 10, 2011, at a comprehensive training range of a general communication station of the South China Sea Fleet..
+
+Here is System information for the ASN-207 Chinese Medium-Altitude Long-Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Alternative Designation is ANS-207.
+The Type is Medium-Altitude Long-Endurance (MALE) Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Aisheng Technology Group Co.
+The Intelligence, Surveillance and Reconnaissance (ISR) Role is For intelligence, surveillance and reconnaissance (ISR) roles, the ASN-207 carries a stabilised multi-mission optronic payload, which has a modular design with different combinations of sensors: Monochrome and color CCD, or 3 color CCD's, or 8-12micro-metre infrared and 3-5 mm focal plane array infrared cameras, or Laser range finder and designators..
+The Electronic Warfare and Countermeasures (EW/ECM) role is For electronic warfare and countermeasures (EW/ECM) roles, the UAV is fitted with a JN-1102 EW/ECM suite, which can scan, intercept, analyse, monitor, and jam enemy ground-to-air communications at 20~500MHz. The system consists of a UAV-mounted intercept subsystem, a UAV-mounted jamming subsystem and a ground-based intercept and jamming control subsystem..
+The Launch Method is An accessorial rocket is used when taking-off.
+The Landing Method is Landing by parachute.
+
+Here is Dimensions information for the ASN-207 Chinese Medium-Altitude Long-Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Length is 3.54 m.
+The Wingspan is 5.48 m.
+The Height is INA.
+The Maximum Takeoff Weight is 270 kg.
+
+Here is Automotive information for the ASN-207 Chinese Medium-Altitude Long-Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Engine Name is HS-700.
+The Engine Type is 1 x Piston Engine.
+The Engine Power is 51 hp.
+The Maximum Flight Speed is 250 km/h.
+The Cruising Flight Speed is 150 km/h.
+The Maximum Range is 600 km.
+The Maximum Altitude is 5,100 m.
+The Endurance is 16 hours.
+
+Here is Optronic Payload information for the ASN-207 Chinese Medium-Altitude Long-Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Diameter is 354 mm.
+The Height is 548 mm.
+The Elevation is 15 to -105 degree.
+The Azimuth is 360 degree.
+The Field of View (FoV) is 0.37 degree narrow (CCD), 1.3 to 18.2 degree zoom (CCD); FoV IR (both 8-12 and 3-5 mm): 2.4/8.2/29.2 degree for narrow/medium/wide.
+The Power is 280W 28 V DC.
+

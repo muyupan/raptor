@@ -1,0 +1,42 @@
+This document describes the TBR-119 Chinese SDR Transceiver.
+
+The TBR-119 Chinese SDR Transceiver is a multi-purpose vehicle/backpack tactical radio station with all the functions of traditional ones. It supports SSB, CW, AM, FM, DMR. The radio station is equipped with fully automatic antenna tuner and can use various tactical and static antennas. The protection capability reaches IP67 and military aviation plug is adopted. The system includes a backpack station, a vehicle-mounted dock and a base station dock. When working in a vehicle-mounted or base station mode, the output RF power is short-wave 20W or 100W (100W power amplifier is optional) PEP and UV 20W. It can also be used as a relay.
+
+Based on the new generation SDR software radio technology platform, it can meet the needs of most users and provide digital upgrade options for military and security users: digital voice, digital encryption, frequency hopping and other high-end functions. Meanwhile, Bluetooth module, GPS positioning module, electronic compass module and barometer (altitude meter) module are built in. Optional satellite communication modules: iridium module, maritime satellite module.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the TBR-119 Chinese SDR Transceiver:
+The Alternative Designation is TBR-119.
+The Type is SDR Transceiver.
+The Crew is 1.
+The Frequency is 1.5~74MHz.
+The Package is 1 x TBR-119 Main Unit (Built-in battery);
+ 1 x Backpack Shortwave Antenna;
+ 1 x UV Antenna;
+ 1 x Charger;
+ 1 x Handheld Microphone;
+ 1 x USB Cable.
+The UV Antenna is Model: BF-10; 
+Frequency range: 110~520MHz
+Withstand power: 30W
+VSWR: ≤1.5.
+The Transmitting Mode is FM, DMR, SSB, CW, AM, FSK, RTTY.
+The Output Power is HF: 20W/100W.
+The Number of Channels is 100.
+The Receiving Mode is FM, DMR, SSB, CW, AM, FSK, RTTY.
+The Receiving Frequency Range is 100kHz - 2 GHz.
+The Battery Compartment is The battery pack is separated from the main machine, and the snap-in design makes it quick to replace the battery..
+The Receiving and Transmitting Performance is Large reception dynamic range and extremely high reception sensitivity can help distinguish weaker signals in strong noise. When the power supply is under the condition of 16.8 V, its HF transmission power reaches 20W or 100W (100W power amplifier module is selected) and UV10W, which can significantly enhance the uplink signal of the platform and berth. This means longer communication distance, better signal-to-noise ratio and communication quality..
+The Signal Relay Function is The radio station can be used as a relay to realize signal relay forwarding..
+The Remote Control is The radio station provides a terminal interface, and the console can be installed locally..
+The Satellite Synchronous Frequency Hopping is Frequency hopping is used to resist active jamming and eavesdropping. The frequency hopping function uses (GPS) synchronous mode, with a hopping speed of 1 to 5 hops optional, and can adapt to different antennas by changing the frequency hopping bandwidth..
+The Digital Voice and Digital Encryption is Optional digital voice, vocoder processing speed can be 700/1200/2400 bps, which can complete digital processing of audio signal under the condition of poor signal-to-noise ratio, with short delay, complete noise-free, and encryption based on digital signal..
+The Data Transmission Modem is A variety of built-in or external modem can be selected, and the data throughput exceeds 4800bps..
+
+Here is Dimensions information for the TBR-119 Chinese SDR Transceiver:
+The Length is 320 mm.
+The Width is 240 mm.
+The Height is 80 mm.
+The Weight, Combat is less than 5 kg.
+

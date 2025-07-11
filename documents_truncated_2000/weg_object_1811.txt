@@ -1,0 +1,82 @@
+This document describes the ZIL-131 Russian 6x6 General Purpose Truck.
+
+The ZIL-131 is a general-purpose 3.5 tons 6x6 army truck designed in the Soviet Union by ZIL. The basic model is a general cargo truck. Variants include a tractor-trailer truck, a dump truck, a fuel truck, and a 6x6 for towing a 4-wheeled powered trailer. The ZIL-131 also serves as a platform for the 9P138 rocket launcher, a 30-tube variant of the BM-21 "Grad".
+
+The ZIL-131 was introduced in 1966; it is a military version of the ZIL-130, which was introduced in 1962, and a family of two trucks is sharing identical components. The ZIL-131 6x6 has the same equipment as the GAZ-66 and Ural-375D.
+
+The ZIL-130/131 was in production at the "AMUR" truck plant (as the AMUR 531340), with both gasoline and diesel engines, until 2012 when AMUR shut down and filed for bankruptcy.
+
+This equipment has proliferated into the following countries: Belarus, Bosnia and Herzegovina, Bulgaria, Cambodia, Cuba, Czech Republic, Georgia, Hungary, Kazakhstan, Kosovo, Kurdistan, Kyrgyzstan, Lithuania, Moldova, North Korea (Democratic People's Republic of Korea), Poland, Romania, Russian Federation, Slovakia, Slovenia, Ukraine, Uzbekistan, Viet Nam.
+
+Here is Variants information for the ZIL-131 Russian 6x6 General Purpose Truck:
+The ZiL-131A is this is a truck with a standard ignition system rather than the shielded ignition system as fitted on the standard ZiL-131..
+The ZiL-131D is dump truck..
+The ZiL-131V is for towing semi-trailers..
+The ZiL-131PM is fire engine..
+The ZiL-137 is tractor truck for towing a two-axle powered trailer (the complete unit then becomes a 10 × 10); also used to tow SA-6 ‘Gainful’ SAMs on a single-axle trailer..
+The ARS-14 is decontamination vehicle..
+The ATs 4, 2-131 is 4,200 liter fuel tank truck..
+The ATs 4, 2-131 is 4,100 liter fuel tank truck..
+The ATs 4, 3-131 is 4,400 liter fuel tank truck..
+The ATZ 3, 8-131 is 4,300 liter fuel service truck..
+The ATZ 4, 3-131 is 4,300 liter fuel service truck..
+The AVTs 28-131 is 2,800 liter water tanker..
+The PBU 50M is German well drilling plant..
+
+Here is System information for the ZIL-131 Russian 6x6 General Purpose Truck:
+The Alternative Designation is ZIL-131.
+The Type is General Purpose Truck.
+The Manufacturer is ZIL (Russia).
+The In Service is 1962-Present.
+The Configuration is 6x6.
+The Crew is 1.
+The Seating Capacity, Cab is 3.
+The Passenger Capacity is INA..
+The Cab Design is Forward Engine.
+The Payload, On-Road is 5,000 kg.
+The Payload,  Off-Road is 3,500 kg.
+The Towed Load Capacity, On-Road is 6,500 kg.
+The Towed Load Capacity, Off-Road is 4,000 kg.
+
+Here is Dimensions information for the ZIL-131 Russian 6x6 General Purpose Truck:
+The Length is 7.04.
+The Width is 2.49.
+The Height, Cab is 2.49.
+The Height, Transport Body is 2.97.
+The Wheelbase is 3.30 m.
+The Cargo Area Length is 3.6 m.
+The Cargo Area Width is 2.32 m.
+The Cargo Area Height is 1.43 m.
+The Weight, Unladen is 6,700 kg.
+The Weight, Laden is 10,425 kg.
+The Ground Clearance is 0.330 m.
+
+Here is Automotive information for the ZIL-131 Russian 6x6 General Purpose Truck:
+The Engine Name is ZIL-131.
+The Engine Type is V-8, water cooled, 4 stroke, petrol.
+The Engine Power is 150 hp at 3,200 rpm.
+The Power-to-Weight Ratio is INA.
+The Fuel Capacity is 340 liters.
+The Electrical System is 12 V.
+The Steering is screw and nut with hydraulic booster.
+The Suspension is (front) longitudinal semi-elliptic springs with double acting hydraulic shock-absorbers; (rear) equaliser arm on longitudinal semi-elliptic springs.
+The Brakes is Air.
+The Tires is 12.00 × 20 ND.
+The Angle of Approach is 36°.
+The Angle of Departure is 40°.
+The Gradient is 58%.
+The Vertical Obstacle is INA.
+The Amphibious is No.
+The Turning Radius is 10.1 m.
+
+Here is Main Weapon System information for the ZIL-131 Russian 6x6 General Purpose Truck:
+The Note is There is no crew-served weapon system associated with the ZIL-131..
+
+Here is Protection information for the ZIL-131 Russian 6x6 General Purpose Truck:
+The Hull Armor is None.
+The Applique Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

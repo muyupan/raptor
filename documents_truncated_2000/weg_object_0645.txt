@@ -1,0 +1,59 @@
+This document describes the AGM-65 Maverick American Air-to-Surface Missile.
+
+The AGM-65 Maverick is an air-to-ground missile (AGM) designed for close air support. It is the most widely produced precision-guided missile in the Western world, and is effective against a wide range of tactical targets, including armor, air defenses, ships, ground transportation and fuel storage facilities.
+
+Development began in 1966 at Hughes as the first missile to use an electronic contrast seeker. It entered service with the United States Air Force in August 1972. Since then, it has been exported to more than 30 countries and is certified on 25 aircraft. The Maverick served during the Vietnam, Yom Kippur, Iran–Iraq, and Persian Gulf Wars, along with other smaller conflicts, destroying enemy forces and installations with varying degrees of success.
+
+Since its introduction into service, numerous Maverick versions had been designed and produced using electro-optical, laser, and imaging infrared guidance systems. The AGM-65 has two types of warhead: one has a contact fuze in the nose, the other has a heavyweight warhead fitted with a delayed-action fuze, which penetrates the target with its kinetic energy before detonating. The missile is currently produced by Raytheon Missile Systems.
+
+The Maverick shares the same configuration as Hughes's AIM-4 Falcon and AIM-54 Phoenix, and measures more than 2.4 m (8 ft) in length and 30 cm (12 in) in diameter.
+
+The Maverick has a modular design, allowing for different combinations of the guidance package and warhead to be attached to the rocket motor to produce a different weapon. It has long-chord delta wings and a cylindrical body, reminiscent of the AIM-4 Falcon and the AIM-54 Phoenix.
+
+Different models of the AGM-65 have used electro-optical, laser, and imaging infrared guidance systems. The AGM-65 has two types of warhead: one has a contact fuze in the nose, the other has a heavyweight warhead fitted with a delayed-action fuze, which penetrates the target with its kinetic energy before detonating. The latter is most effective against large, hard targets. The propulsion system for both types is a solid-fuel rocket motor behind the warhead.
+
+The Maverick missile is unable to lock onto targets on its own; it has to be given input by the pilot or weapon systems officer (WSO) after which it follows the path to the target autonomously. In an A-10 Thunderbolt II, for example, the video feed from the seeker head is relayed to a screen in the cockpit, where the pilot can check the locked target of the missile before launch. A crosshair on the heads-up display is shifted by the pilot to set the approximate target, where the missile will then automatically recognize and lock on to the target. Once the missile is launched, it requires no further assistance from the launch vehicle and tracks its target automatically. This fire-and-forget property is not shared by the E version that uses semi-active laser homing.
+
+This equipment has proliferated into the following countries: Australia, Bahrain, Belgium, Canada, Chile, Denmark, Egypt, Greece, Hungary, Indonesia, Iran (Islamic Republic of), Iraq, Israel, Italy, Japan, Jordan, Kenya, Kuwait, Malaysia, Morocco, Netherlands, New Zealand, Oman, Pakistan, Peru, Philippines, Poland, Portugal, Romania, Saudi Arabia, Serbia, Singapore, Spain, Sweden, Switzerland, Thailand, Tunisia, Turkey, United Arab Emirates, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the AGM-65 Maverick American Air-to-Surface Missile:
+The Maverick A is Maverick A is the basic model and uses an electro-optical television guidance system. No longer in U.S. service..
+The Maverick B is Maverick B is similar to the A model, although the B model added optical zooming to lock onto small or distant targets..
+The Maverick C is Maverick C was to be a laser-guided variant for the United States Marine Corps (USMC). It was canceled before production, however its requirement was later met by the Maverick E..
+The Maverick D is Maverick D replaced the electro-optical guidance with an imaging infrared system which doubled the practical firing distance and allowed for its use at night and during bad weather. A reduced smoke rocket engine was also introduced in this model. It achieved its initial operation capability in 1983..
+The Maverick E is Maverick E uses a laser designator guidance system optimized for fortified installations and heavier penetrating blast-fragmentation warhead (140 kg (300 lb) vs. 57 kg (125 lb) in older models). It achieved IOC in 1985 and was used mainly by USMC aviation..
+The Maverick F is Maverick F, designed specially for United States Navy, it uses a modified Maverick D infrared guidance system optimized for tracking ships fitted onto a Maverick-E body and warhead..
+The Maverick G is Maverick G model essentially has the same guidance system as the D with some software modification that enables the pilot to track larger targets. The G model's major difference is its heavier penetrator warhead taken from the Maverick E, compared to the D model's shaped-charge warhead. It completed tests in 1988..
+The Maverick H is Maverick H model is an AGM-65B/D missile upgraded with a new charge-coupled device (CCD) seeker better suited for the desert environment..
+The Maverick J is Maverick J model is a Navy AGM-65F missile upgraded with the new CCD seeker. However, this conversion is not confirmed..
+The Maverick K is Maverick K model is an AGM-65G upgraded with the CCD seeker; at least 1,200, but possibly up to 2,500 AGM-65G rounds are planned for conversion to AGM-65K standard..
+The Maverick E2/L is Maverick E2/L model incorporates a laser-guided seeker that allows for designation by the launch aircraft, another aircraft, or a ground source and can engage small, fast moving, and maneuvering targets on land and at sea..
+
+Here is System information for the AGM-65 Maverick American Air-to-Surface Missile:
+The  is .
+The  is .
+The  is .
+
+Here is Missile information for the AGM-65 Maverick American Air-to-Surface Missile of the AGM-65 Maverick Missile:
+The Name is AGM-65 Maverick.
+The Type is Air-to-Ground Missile.
+The Basic Load is INA.
+The Manufacturer is Raytheon Missile Systems
+Raytheon.
+The Length is 249 cm (8 ft 2 in).
+The Diameter is 30.
+The Warhead is 57 kg (126 lb) WDU-20/B shaped-charge (A/B/C/D/H models)
+136 kg (300 lb) WDU-24/B penetrating blast-fragmentation (E/F/G/J/K models)
+E models utilize FMU-135/B delayed impact fuze.
+The Weight is 210–304 kg.
+The Engine is A/B:Thiokol SR109-TC-1
+D/E/F/G/H/J/K: SR114-TC-1 (or Aerojet SR115-AJ-1) Solid propellant rocket motor via a WPU-4/B or WPU-8/B propulsion section.
+The Wingspan is 710 mm.
+The Propellant is Solid propellant.
+The Operational Range is Greater than 22 km.
+The Speed is 1,150 km/h.
+The Guidance System is system
+A/B/H/J/K:: Electro-optical guidance
+D/F/G: imaging infrared guidance
+E: Laser guidance.
+

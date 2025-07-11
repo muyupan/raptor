@@ -1,0 +1,75 @@
+This document describes the Mahamiru Class Malaysian Minehunter.
+
+The MAHAMIRU-class was designed primarily for minehunting. The ships are also used for patrol duties.
+
+This equipment has proliferated into the following countries: Malaysia.
+
+Here is Variants information for the Mahamiru Class Malaysian Minehunter:
+The MAHAMIRU is Commissioned: 1985
+Status: Active.
+The JERAI is Commissioned: 1985
+Status: Active.
+The LEDANG is Commissioned: 1985
+Status: Active.
+The KINABALU is Commissioned: 1985
+Status: Active.
+
+Here is System information for the Mahamiru Class Malaysian Minehunter:
+The Alternative Designation is Mahamiru Class.
+The Type is Mine Hunting.
+The Builder is Intermarine, Sarzana, Italy.
+The Crew is 43 (5 off. + 37 enl.).
+The Submersible is 2 x PAP-104 remote-operated; or
+1 x ECA Olister remote-operated mine..
+
+Here is Dimensions information for the Mahamiru Class Malaysian Minehunter:
+The Length is 51.0 m.
+The Beam is 9.6 m.
+The Draft is 2.9 m.
+The Displacement, Standard is 470 tons.
+The Displacement, Full Load is 610 tons.
+
+Here is Propulsion System information for the Mahamiru Class Malaysian Minehunter:
+The Engine Name is 2 x MTU 12V396 TC82.
+The Engine Type is Diesel.
+The Engine Power is 2,600 total bhp.
+The Fuel Capacity is INA.
+The Propellers is 2 x KaMeWa controllable-pitch propellers.
+The Maximum Speed is 16 knots.
+The Minehunting Speed is 7 knots.
+The Maximum Range at 14 Knots is 1,400 nm.
+The Maximum Range at 12 Knots is 2,000 nm.
+The Endurance is 14 Days.
+
+Here is System information for the Mahamiru Class Malaysian Minehunter of the Main Weapon System:
+The Name is 1 x Bofors 40 mm gun.
+The Type is Anti-Aircraft Autocannon.
+The Caliber is 40 mm.
+The Length is 6.5 m.
+The Barrel Length is 2.2 m.
+The Width is 1.8 m.
+The Height is 1.9 m.
+The Weight is 1,981 kg.
+The Barrels is 1 or 2.
+The Traverse is 360°.
+The Rate of Fire is 120 round/min.
+The Muzzle Velocity is 881 m/s.
+The Maximum Firing Range is 7,160 m.
+
+Here is Ammunition information for the Mahamiru Class Malaysian Minehunter of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 40 mm.
+The Shell is 40×311mmR.
+The Basic Load is INA.
+
+Here is Radar System information for the Mahamiru Class Malaysian Minehunter:
+The Navigation Radar is 1 x Decca 1226 navigation radar.
+
+Here is Sonar System information for the Mahamiru Class Malaysian Minehunter:
+The Name is 1 x Thales TSM 2022 Mark III.
+The Type is Mine Hunting Sonar.
+
+Here is Protection information for the Mahamiru Class Malaysian Minehunter:
+The Countermeasures is Yes, Feeder ( Countermeasures ) Dagie decoy RL.
+The NBC Water Washdown System is Yes.
+

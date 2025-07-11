@@ -1,0 +1,114 @@
+This document describes the K21 South Korean Amphibious Infantry Fighting Vehicle (IFV).
+
+The K21 is a South Korean infantry fighting vehicle. A replacement for the K200-series, it was formerly designated as K300 or XK21 KNIFV (Korea Next-generation Infantry Fighting Vehicle). The initial production began in 2009, with the Republic of Korea Army planning to field approximately 466 units. It is designed to effectively defeat other IFVs as heavily armed and armored as the BMP-3.
+
+The K21 KNIFV's chassis is constructed entirely out of fiberglass, reducing the weight of the vehicle and enabling it to travel at higher speeds without bulky and powerful engines. The NIFV is to be lighter than other IFVs, including the American Bradley series, increasing both speed and payload.
+
+The design was finally deemed production-ready in 2009, following 10 years in development and a research budget expenditure of approximately USD $80 million. More than 85% of the vehicle's design is domestic. However a redesign is in order following the sinking of two vehicles while engaged in amphibious operations. A board of inquiry found that the problem was a lack of buoyancy, a malfunctioning wave plate, and a technical problem with the drain pump, all of which are to be corrected in the new design.
+
+This equipment has proliferated into the following countries: South Korea (Republic of Korea).
+
+Here is Variants information for the K21 South Korean Amphibious Infantry Fighting Vehicle (IFV):
+The K21-105 is Light Tank version with a 105mm rifled main gun..
+
+Here is System information for the K21 South Korean Amphibious Infantry Fighting Vehicle (IFV):
+The Alternative Designation is K-21; The K21 is a South Korean infantry fighting vehicle. A replacement for the K200-series, it was formerly designated as K300 or XK21 KNIFV (Korea Next-generation Infantry Fighting Vehicle)..
+The Type is Amphibious Infantry Fighting Vehicle.
+The Manufacturer is Hanwha Defense (originally Daewoo Heavy Industries, later renamed as Doosan DST, follow by Hanwha Defense Systems).
+The Family is K200 Series.
+The Configuration is Track.
+The Crew is 3.
+The Passenger Capacity is 9.
+
+Here is Dimensions information for the K21 South Korean Amphibious Infantry Fighting Vehicle (IFV):
+The Length is 6.9 m.
+The Width is 3.4 m.
+The Height is 2.6 m.
+The Weight, Combat is 25 tons.
+The Ground Pressure is INA.
+
+Here is Automotive information for the K21 South Korean Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is Doosan D2848LXE.
+The Engine Type is Diesel.
+The Engine Power is 680.
+The Range is 450.
+The Speed, Maximum Road is 70.
+The Speed Maximum Swim is 6.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.8 m.
+The Trench is 0.8 m.
+The Fording Depth is Amphibious.
+
+Here is System information for the K21 South Korean Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Name is 1 x S&T Dynamics K40 40mm Autocannon.
+The Type is Autocannon.
+The Caliber is 40mm.
+The Quantity is 1.
+The Length is 3,893 mm.
+The Width is 700 mm.
+The Height is 1,343 mm.
+The Weight is 720 k.
+The Maximum Firing Range is 12,000 m.
+The Effective Firing Range is 6,000 m (ground); 4,000 m (air).
+The Rate of Fire is 300 rds/mi.
+The Muzzle Velocity is 1,005 m/s (HE); 1,400 m/s(AP).
+The Feeding is Bottom-up, Multiple, Linkles.
+The Operation is Recoil-Operating.
+The Firing Mode is Safety, Single, Burs.
+The Reloading is Magazine down-docking.
+
+Here is Ammunition information for the K21 South Korean Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Type is PFHE, APFSDS, MMFA, T.
+The Caliber is 40mm.
+The Shell is INA.
+The Basic Load is 40 Rounds.
+
+Here is System information for the K21 South Korean Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System:
+The Name is K12.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is S&T Daewoo.
+The Quantity is 2 x K12 7.62mm General Purpose Machine Guns.
+The Length is 1,234 mm.
+The Barrel Length is 560 mm.
+The Weight is 12 kg.
+The Action is Gas-operated, rotating bolt.
+The Rate of Fire is 650-950 rounds/min (rpm).
+The Effective Firing Range is 800 m.
+The Feed System is Disintegrating M13 belt.
+
+Here is Ammunition information for the K21 South Korean Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is INA.
+
+Here is Anti-Tank Guided Missiles (ATGM) information for the K21 South Korean Amphibious Infantry Fighting Vehicle (IFV):
+The Note is The K-21 also carries two indigenously developed ATGW launchers, but exact details and number of missiles carried are unknown..
+
+Here is Fire Control information for the K21 South Korean Amphibious Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Computerized FCS is Yes, The fire-control system is able to spot and track targets as far away as 6,000 metres (3.7 mi) away and identify them from up to 3,000 metres (1.9 mi) away. IFF sensors are also present. The vehicle also has hunter-killer capabilities with its separate commander's sight (IFV Commander's Panoramic Sight or ICPS) and gunner's sight (IFV Gunner's Primary Sight or IGPS), which can detect both ground and aerial targets. The sights are designed by Samsung Thales..
+The Thermal Sight Vehicle Commander is Yes, The commander's sight is equipped with the same system as the gunner's. This allows the gunner to use the commander's sight to engage targets if his own sight is disabled or destroyed. The commander of the vehicle also has the ability to override the command to take control of the turret and gun from the gunner..
+The Thermal Sight Gunner is Yes, The gunner's sight is equipped with a third generation thermal viewer and a 1.54 μm laser rangefinder. It can detect targets from 6,000 meters away and identify them from 3,000 meters away..
+The Main Gun Stabilization is Yes.
+The IFF is Yes.
+The Battle Management System is Yes, The K21 is able to carry a total of 9 passengers and 3 more vehicle crew members. With the Battle Management System, the vehicle crew and passengers inside the vehicle can be instantly notified about the environment around them, improving their situational awareness. A 15 in (38 cm) screen is installed inside the passenger compartment, which provides various data from the BMS. The vehicle is mounted with an external CCD camera, and the passengers inside can survey the environment using the same screen..
+The Vehicular Information System is Yes.
+
+Here is Protection information for the K21 South Korean Amphibious Infantry Fighting Vehicle (IFV):
+The Hull Armor is 2519 aluminium alloy chassis. Layers consisting of S2 glass fiber reinforced Al2O3 ceramic armor. All round protection against 14.5×114mm API projectiles as well as 20 mm FSP.
+
+Frontal armour is resistant to 30 mm APDS rounds fired from a 2A72 autocannon (standard on BMP-3 turrets).
+
+Roof armour is resistant to 155 mm artillery shell fragments..
+The Turret Armor is All round protection against 14.5×114mm API projectiles as well as 20 mm FSP.
+The Applique Armor is Available.
+The Explosive Reactive Armor is Soft- and hard-kill anti-missile defense systems, ERA, NERA (only for the K21 PIP).
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+

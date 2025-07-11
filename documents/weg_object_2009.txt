@@ -1,0 +1,53 @@
+This document describes the M60 Yugoslavian 82mm Recoilless Gun.
+
+The M60 recoilless gun is an 82-mm antitank recoilless gun developed in the former Yugoslavia. It entered service with the Yugoslav People's Army in the 1960s.
+
+The M60 is mounted on a towing carriage with wheels for transport and firing. Aiming is done with an optical sight. Ammunition for the M60 includes two fin-stabilized HEAT rounds. The first HEAT projectile for the M60 had an effective range of 500 meters. The second was an improved version that used a rocket booster to increase the effective range to 1,000 meters.
+
+The maximum range of the piece is 4,700 meters. Direct fire is limited to 1,500 meters against stationary targets and 1,000 meters against moving targets. The M60 is credited with a 220mm penetration of armor with its HEAT round.
+
+This equipment has proliferated into the following countries: Croatia, Serbia, Syria.
+
+Here is System information for the M60 Yugoslavian 82mm Recoilless Gun:
+The Alternative Designations is M60A.
+The Crew is 7.
+The Weight Firing is 122.
+The Weight Travel is 122.
+The Length Travel is 2.4.
+The Width Travel is 1.
+The Height Travel is 0.83.
+The Rifling is Yes.
+The Feed is Breech load.
+The Breech Mechanism Type is Vertically hinged w/ flanged rotate lock.
+The Emplacement Time is 0.5.
+The Fire from Inside Building is No.
+
+Here is Armament information for the M60 Yugoslavian 82mm Recoilless Gun:
+The Caliber is 82.
+The Rate of Fire is 4.
+The Fire on Move is No.
+The Elevation is -20, +35.
+The Traverse is 360.
+
+Here is M60 information for the M60 Yugoslavian 82mm Recoilless Gun of the Ammunition:
+The Caliber is 82.
+The Type is HEAT.
+The Max Aimed Range is 1500.
+The Max Eff Range, Day is 500.
+The Max Eff Range, Night is .
+The Penetration is 200,C.
+The Combat Load ( is 0 Ready, 36 Stow.
+
+Here is M72 information for the M60 Yugoslavian 82mm Recoilless Gun of the Ammunition:
+The Caliber is 73mm.
+The Type is HEAT Grenade.
+The Max Aimed Range is 1500.
+The Max Eff Range Day is 1000.
+The Max Eff Range, Night is .
+The Penetration is 220, C.
+The Combat Load is 0Ready, 36 Stow.
+
+Here is Sights information for the M60 Yugoslavian 82mm Recoilless Gun:
+The Name is Optical telescopic.
+The Sight Range Direct is 1500.
+

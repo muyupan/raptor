@@ -1,0 +1,58 @@
+This document describes the A400M-180 Atlas French Transport Aircraft.
+
+The Airbus A400M Atlas is a European four-engine turboprop military transport aircraft. It was designed by Airbus Military (now Airbus Defense and Space) as a tactical airlifter with strategic capabilities to replace older transport aircraft, such as the Transall C-160 and the Lockheed C-130 Hercules. Along with the transport role, the A400M can perform aerial refueling and medical evacuation when fitted with appropriate equipment.
+
+
+
+This equipment has proliferated into the following countries: Belgium, Chile, France, Germany, Hungary, Indonesia, Kazakhstan, Luxembourg, Malaysia, South Africa, South Korea (Republic of Korea), Spain, Turkey, United Kingdom of Great Britain and Northern Ireland.
+
+Here is System information for the A400M-180 Atlas French Transport Aircraft:
+The Alternate Designation(s) is A400M-180 Atlas.
+The Primary Function / Type is Transport Aircraft.
+The Manufacturer is Airbus Military / Airbus Defense and Space.
+The Crew is 3 (pilot, co-pilot and loadmaster).
+The Passengers/Cargo Capacity is 116 troops or 9 x 88-in x 108-in pallets.
+The Number of Engines is 4.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the A400M-180 Atlas French Transport Aircraft:
+The Length is 45.10 m.
+The Height is 14.70 m.
+The Width (Wing Span) is 42.40 m.
+The Wing Area is 221.5 m sq.
+The Wheelbase is 13.30 m.
+The Track is 6.20 m.
+The Cargo Area, Flat Floor Length is 17.71 m.
+The Cargo Area, Height is 3.85 m.
+The Cargo Area, Width is 4.00 m.
+The Cargo Area, Ramp Length is 5.40 m.
+The Cargo Area, Floor Area is 92.0 m sq.
+The Cargo Area, Gross Volume is 340.0 cu m.
+The Empty Weight is 59,250 kg.
+The Maximum Takeoff Weight is 141,000 kg.
+The Tactical Takeoff Weight is 116,500 kg.
+The Logistical Takeoff Weight is 130,000 kg.
+The Landing Weight is 123,000 kg.
+The Tactical Payload Weight is 29,500 kg.
+The Logistical Payload Weight is 37,000 kg.
+
+Here is Automotive information for the A400M-180 Atlas French Transport Aircraft:
+The Engine Name is 4 x TP-400 D6.
+The Engine Type is Turboprop.
+The Engine Power is 11,000 shp each.
+The Fuel Capacity is 61,800 liters.
+The Cruise Speed is Mach 0.72.
+The Ceiling is 12,190 m.
+The Maximum Range is 5,100 km.
+The Ferry is 8,700 km.
+The Load Factor is 3 g max.
+The Maximum Roll Rate is 30 deg/sec.
+
+Here is Protection information for the A400M-180 Atlas French Transport Aircraft:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

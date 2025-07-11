@@ -1,0 +1,196 @@
+This document describes the Ka-52 Alligator (Hokum B) Russian Attack Helicopter.
+
+The Kamov Ka-52 "Alligator" (Hokum-B) is an upgraded form of the original Ka-50 "Hokum" attack helicopter line. While the Ka-50 utilized a single-seat cockpit, the most notable difference in the new mark is the twin-seat, side-by-side cockpit. The development of this attack helicopter began in 1994 leading to a first flight recorded on June 25th, 1997. While the Ka-52 includes a radar suite, additional crew member, and all-new designation it more or less retains the same form and function as well as armament capabilities of the original. Additionally, the platform supports all-weather, day/night attack environments due to its various upgrades that include FLIR, TV sighting, helmet-mounted sighting, laser rangefinder, and mast-mounted radar antenna.
+
+The Ka-52 is billed as an armed reconnaissance and combat platform able to take on the roles of assault, Close-Air Support (CAS), convoy protection, and armed patrols. The helicopter maintains its weaponry under its short wing stub assemblies which allow for four underwing hardpoints. Onboard countermeasures, including signature reduction features, chaff/flare dispensers, and crew/critical systems armoring enhances battlefield survivability. Each pilot is also afforded K-37-800M shock-absorbing ejection seats. The twin-seat arrangement sports control redundancy meaning either pilot can manage the flight control aspects of the helicopter. The avionics suite is all-modern (complete with a high level of automation for reduced crew workloads) and the weapons suite flexible to support a broad range of weaponry. Attention has also been given to reduced maintenance and repair times by providing for better accessibility of key systems and components.
+
+The Alligator features the Kamov helicopter trademark coaxial main rotors arrangement (2 x three-bladed systems) which eliminates the need for a countering tail rotor unit (this also increased battlefield survivability to an extent). These main rotors are driven by 2 x Klimov VK-2500 series turboshaft engines which support "hot-and-high" operations as well as cold weather service. Performance includes a maximum speed of 300 km/h with a cruising speed nearing 260 km/h. The ferry range is 1,100 kilometers with a combat radius of about 460 kilometers. Its operational service ceiling reaches 5,500 meters.
+
+The Ka-52 carries a 30mm 2A42-1 cannon along the starboard side of its fuselage. There is limited traversal given which requires the pilots to position the entire aircraft in the direction of fire but overall accuracy is said to be better than that of a turreted chin gun seen in other modern attack helicopters. Beyond this standard installation, the wing stubs of the helicopter support Anti-Tank Guided Missiles (ATGMs), rockets, rocket pods, gun pods, and cannon pods as required.
+
+To date, the Ka-52 has only been adopted by the Russian Air Force with possible plans to feature it in the Russian Navy as well dependent upon successful procurement of a new amphibious warship/helicopter carrier. The Air Force is planning on a Ka-52 stock of 140 helicopters with the Navy adding a possible 40 more units.
+
+This equipment has proliferated into the following countries: CFE Treaty, Egypt, North Macedonia, Russian Federation.
+
+Here is System information for the Ka-52 Alligator (Hokum B) Russian Attack Helicopter:
+The Alternative Designation is Ka-52 Alligator; Kamov Ka-52 Alligator ; NATO: Hokum B.
+The Type is Two-seat version of the Ka-50.
+The Mission is Reconnaissance, target designation and assignment, ground communications and combat support.
+The Manufacturer is Kamov.
+The In Service is 2008-Present.
+The Crew is 2 (pilot, weapons officer).
+The Blades, Main Rotor is Each rotor has three blades with swept tips.
+The Blades, Tail Rotor is No tail rotor necessary in this configuration.
+The Number of Engines is 2.
+The Day/Night Capable is Yes, unlike the Ka-50 which is very restricted when operating at night.
+The All Weather Capable is Yes.
+The Takeoff or Landing Limitations is INA.
+The Number of Hard Points is 6 total (1 inner, 1 middle, 1 tip on each wing).
+The Digital Autopilot is Yes.
+The Maximum Pylons Capacity is 2,300 kg.
+The Landing Gear is Two-wheel nose landing gear retracts to the rear under the cockpit.
+The Autonomous Mode Capable is Yes.
+The Note #1 is The lack of a tail rotor enables the aircraft to perform flat turns within the entire flight speed range.
+
+Here is Dimensions information for the Ka-52 Alligator (Hokum B) Russian Attack Helicopter:
+The Length, with Rotors is 16.
+The Length, without Rotors is 13.53.
+The Rotor Diameter is 14.50.
+The Wingspan is 7.34.
+The Height is 4.95.
+The Weight, Empty is 8,550.
+The Weight, Takeoff Normal is 10,400.
+The Weight, Takeoff Maximum is 12,500.
+The Disc Area is 330.4 m sq.
+The Payload Capacity is 2,800.
+The Rotor Payload is 37.80 kg/sq m.
+The Power Payload is 2.84 kg/hp.
+The Pylons is 6 total (1 inner, 1 middle, 1 tip on each wing).
+The Pylons Maximum Load is 2,000.
+
+Here is Automotive information for the Ka-52 Alligator (Hokum B) Russian Attack Helicopter:
+The Engine Name is 2 x turboshaft Klimov TV3-117VMA-SB3.
+The Engine Type is Turboshaft.
+The Engine Power is 2,400 shaft hp each.
+The Speed, Maximum Level is 310.
+The Speed, Maximum Dive is 350.
+The Speed, Cruise is 270.
+The Speed, Backwards is 90.
+The Speed, Sideways is 80.
+The Range, Combat Radius is 250.
+The Range, Normal Radius is 520.
+The Range, Ferry is 1,200.
+The Climb Rate is 480 m/min.
+The Ceiling Hover is 3,600.
+The Ceiling Service is 5,500.
+The Load Factor is 3.5 g (max vertical).
+The Endurance is INA.
+
+Here is System information for the Ka-52 Alligator (Hokum B) Russian Attack Helicopter of the Side-Mounted Gun:
+The Name is 1 x Shipunov 2A42,.
+The Type is Autocannon.
+The Caliber is 30 mm.
+The Manufacturer is Tulamashzavod.
+The In Service is 1980-Present.
+The Length is 3.027.
+The Barrel Length is 2,416.
+The Barrels is 1.
+The Action is Gas-operated.
+The Rate of Fire, Low is 200 to 300 rds/min.
+The Rate of Fire, High is 550-800 rds/min (high).
+The Effective Firing Range (AP-t) is 2,000.
+The Maximum Firing Range (HEI) is 4,000.
+The Azimuth is -2 deg 30 min to 9 deg.
+The Elevation is -37 deg to 3 deg 30 min.
+The Feed System is Twin Feed.
+
+Here is Ammunition information for the Ka-52 Alligator (Hokum B) Russian Attack Helicopter of the Side-Mounted Gun:
+The Name is 3UOF8.
+The Type is HEI.
+The Caliber is 30.
+The Cartridge is 30 × 165.
+The Muzzle Velocity is 960.
+The Armor Penetration is INA.
+The Projectile Weight is 389.
+The Bursting Charge is 49.
+The Note is armor-piercing and high-fragmentation incendiary, pilot/gunner selectable.
+The Basic Load is 460.
+
+Here is Rocket System information for the Ka-52 Alligator (Hokum B) Russian Attack Helicopter of the Wing Mounted Weapons:
+The Name is S-8 Rocket.
+The Type is Rocket.
+The Rocket Pod Type is B series of rocket pods, carrying either seven or 20 rockets..
+The Number of Rocket Pods is 4.
+The Rocket Length is 1.56.
+The Rocket Diameter is 80.
+The Launch Weight is 11.5.
+The Warhead Type is HEAT.
+The Warhead Weight is 3.6.
+The Motor is BIK-2D motor powder.
+The Fuze Type is N-26A fuze.
+The Maximum Effective Range is 4.
+The Minimum Effective Range is 1.3.
+The Speed is 692.
+The Armor Penetration is 350 mm versus RHA.
+The Basic Load is 80 separate S-80 Rockets in four B-8 Series Rocket Pods.
+
+Here is Missile System information for the Ka-52 Alligator (Hokum B) Russian Attack Helicopter of the Wing Mounted Weapons:
+The Name is R-60 Missile (AA-8 Aphid").
+The Type is Short-range lightweight infrared homing air-to-air missile.
+The In Service is 1974-Present.
+The Manufacturer is Vympel.
+The Length is 2,090.
+The Diameter is 120.
+The Wingspan is 390.
+The Warhead Type is 3.
+The Engine is Solid-fuel rocket engine.
+The Guidance System is Infrared Homing.
+The Detonation mechanism is Proximity.
+The Operational Range is 8.
+The Flight Altitude is 20,000.
+The Speed is Mach 2.7.
+The Basic Load is INA.
+The Note is The Ka-52 can also equip  R-73 X-25ML (AA-11 Archer) missiles.
+
+Here is Anti-Tank Guided Missile System information for the Ka-52 Alligator (Hokum B) Russian Attack Helicopter of the Wing Mounted Weapons:
+The Name is 9K121 Vikhr (AT-16 Scallion).
+The Type is Laser-Guided ATGM Missile.
+The In Service is 1985-Present.
+The Length is 2.80.
+The Diameter is 130.
+The Wingspan is 380.
+The Missile Weight is 45.
+The Warhead Type is Tandem HEAT charge.
+The Warhead Weight is 8-12.
+The Armor Penetration (ERA) is 1,000.
+The Basic Load is 12.
+The Detonation Mechanism is Proximity and Impact.
+The Engine is Solid-fuel rocket.
+The Propellant is Sold Fuel.
+The Operational Range is 10-12.
+The Speed is 600.
+The Guidance System is Laser beam riding.
+
+Here is Fire Control and Electronics information for the Ka-52 Alligator (Hokum B) Russian Attack Helicopter:
+The Fire Control System Type is Samshit-E system.
+The Fire Control Radar is Arbalet Radar.
+The Sighting System is Shkval electro-optical sighting system.
+The Digital or Analog Cockpit is Digital.
+The Direct Fire Control is Yes.
+The Laser Designator is Yes.
+The Laser Rangefinder is Yes.
+The Night Vision is Samshit-E optics.
+The Position Location System is Yes.
+The IFF is Yes, Slap Shot System.
+The Heads Up Display (HUD) is Yes.
+The Helmet-Mounted Display is Yes, TopOwl helmet-mounted sight display.
+The Data Link is Yes, with ground units.
+The Infrared Camera is Yes.
+The Flight Computer is Multi-level digital flight computer.
+The Navigation System is Nadir-10 navigation system.
+The Autonomous Mode Capable is Yes.
+The Radar Warning Receiver is Pastel (L-150) radar warning receiver.
+The Laser Warning System is Mak (L-136) infrared and Otklik (L-140) laser warning systems.
+The Turett Sensor is GOES-451 sensor.
+
+Here is Protection information for the Ka-52 Alligator (Hokum B) Russian Attack Helicopter:
+The Armor is Protection against 12.7-mm armor-piercing bullets and 23-mm projectile fragments.
+The Cockpit Glass is INA.
+The Stealth Properties is No.
+The Heat Signature Reduction is Yes, Exhaust infrared (IR) suppressors.
+The Add on Armor is INA.
+The NBC Protection is Yes.
+The EW Counter System is Yes, passive and active electronic warfare systems.
+The Counter Measures (Chaff/Flares) is Yes, can be loaded on pylons as required.
+The Decoys is 23-mm rejector pods loaded on tip pylons as required, 32 decoys per pod.
+The Ejection System is K-37-800 rocket-assisted.
+The Automatic Fire Suppression System is Yes, autonomous fire-extinguishing system.
+The Blast Proof Fuel Tanks is Yes.
+The Note is Armored, self-sealing composite fuel cells are buried in the fuselage..
+
+Here is CVI: WEFT information for the Ka-52 Alligator (Hokum B) Russian Attack Helicopter:
+The Wings is Coaxial contra-rotating rotor blades. Weapon load mount wings are straight..
+The Engine is Engine vector exhaust, Dual air inlets..
+The Fuselage is 2 x pilots sit side-by-side under wide canopy, Large airplane-type nose to house the radar system, Retractable landing gear. 30mm chain gun mounted on fuselage (right side)..
+The Tail is No tail rotor in this configuration. Single vertical stabilizer..
+

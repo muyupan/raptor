@@ -1,0 +1,123 @@
+This document describes the PLZ-07B (Type 07B) Chinese 122mm Amphibious Self-Propelled Howitzer (SPH).
+
+The PLZ-07B (Type 07B) Chinese 122mm Amphibious Self-Propelled Howitzer (SPH) Chinese 122mm Amphibious Self-Propelled Howitzer (SPH) combines the cannon and fire-control system from the Type 07B howitzer with the ZBD-2000 hull. The weapon enables longer-range fire support farther inshore with heavier ammunition, including laser-guided rounds.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the PLZ-07B (Type 07B) Chinese 122mm Amphibious Self-Propelled Howitzer (SPH):
+The PLZ-05 (Type 05) is a 155 mm self-propelled howitzer developed by the People's Liberation Army of China to replace the Type 59-1 130 mm towed gun and Type 83 152 mm self-propelled gun..
+The PLZ-05A (PLZ-52) is The PLZ-52 is a 155mm / 52 caliber tracked self-propelled howitzer similar in appearance to the PLZ-45, but based on a slightly different hull..
+The PLZ-04 is Self-propelled howitzer with a 54 caliber barrel and apparently offered for export..
+
+Here is System information for the PLZ-07B (Type 07B) Chinese 122mm Amphibious Self-Propelled Howitzer (SPH):
+The Alternative Designation is Type 07B; PLZ 07B.
+The Type is Self-Propelled Howitzer (SPH).
+The Caliber is 122 mm.
+The Manufacturer is Norinco.
+The Family is ZBD-2000.
+The Crew is 5.
+
+Here is Dimensions information for the PLZ-07B (Type 07B) Chinese 122mm Amphibious Self-Propelled Howitzer (SPH):
+The Length is 9.5.
+The Width is 3.36.
+The Height is 3.04.
+The Weight, Combat is 25.
+The Ground Pressure is INA.
+
+Here is Automotive information for the PLZ-07B (Type 07B) Chinese 122mm Amphibious Self-Propelled Howitzer (SPH):
+The Engine Name is INA.
+The Engine Type is Four-stroke turbocharged water-cooled diesel.
+The Engine Power (Land) is 500.
+The Engine Power (Sea) is 1,577.
+The Transmission is Machanical.
+The Cruising Range (Land) is 500.
+The Cruising Range (Sea) is INA, estimates have it going as far as 2/3 of it's land range..
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is 40.
+The Speed, Maximum Swim is 25.
+The Maximum Distance at Sea is 90.
+The Tracks is Tracks are supported by two return rollers located between the first and last pairs of road wheels..
+The Suspension is Hydropneumatic.
+The Wheels is 6, unevenly-spaced road wheels per side.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Obstacle is 0.6.
+The Trench is 2.9.
+The Fording Depth is Amphibious.
+The Sea State Capable is Sea State 4.
+The Buoyancy Reserve is Yes.
+
+Here is TBR-121 information for the PLZ-07B (Type 07B) Chinese 122mm Amphibious Self-Propelled Howitzer (SPH) of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the PLZ-07B (Type 07B) Chinese 122mm Amphibious Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is Version of the PL96.
+The Type is Howitzer.
+The Caliber is 122 mm.
+The Rate of Fire is 6-8.
+The Maximum Firing Range is 27 km with RAP.
+The Traverse Range is 360.
+The Maximum Elevation is 70.
+The Minimum Elevation is -3.
+The Loader is Semi-Automatic.
+
+Here is Ammunition information for the PLZ-07B (Type 07B) Chinese 122mm Amphibious Self-Propelled Howitzer (SPH) of the Main Gun:
+The Note is Can fire all Chines and Russian 122mm artillery ammunition.  Maximum range of fire is 18 km with standard High Explosive Fragmentation (HE-FRAG) projectile, 22 km with extended-range projectile and 27 km with rocket assisted projectile..
+The Basic Load is 40 Rounds.
+
+Here is System information for the PLZ-07B (Type 07B) Chinese 122mm Amphibious Self-Propelled Howitzer (SPH) of the Commander's Weapon System:
+The Name is 1 x QJZ-89 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Manufacturer is NORINCO.
+The Length, Total is 2,119.
+The Length, Barrel is 1,003.
+The Weight (Gun Only) is 17.5.
+The Weight, (Tripod Only) is 8.5.
+The Action is Gas/Recoil.
+The Max Rate of Fire is 600.
+The Sustain Rate of Fire is 400-600.
+The Feed System is Belt.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the PLZ-07B (Type 07B) Chinese 122mm Amphibious Self-Propelled Howitzer (SPH) of the Commander's Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7x108.
+The Max Effective Range is 1,600.
+The Basic Load is 1,200.
+
+Here is Fire Control information for the PLZ-07B (Type 07B) Chinese 122mm Amphibious Self-Propelled Howitzer (SPH):
+The Name is BMS System.
+The Computerized FCS is Yes.
+The Thermal Vehicle Commander is Yes.
+The Thermal Gunner is Yes.
+The Main Gun Stabilization is Yes.
+The 3D Map of the OE is Yes, Standard.
+The Satellite Navigation System is BeiDou Satellite.
+The Battle Management System is Yes.
+The Navigation System is BeiDou satellite navigation system,.
+
+Here is Protection information for the PLZ-07B (Type 07B) Chinese 122mm Amphibious Self-Propelled Howitzer (SPH):
+The Hull Armor Type is The vehicle has all-welded armor over the hull and turret, providing protection against 25-mm armor-piercing rounds over the frontal arc and all-around protection against 7.62-mm armor-piercing rounds..
+The Hull Armor is 30.
+The Sides and Rear Armor is 14.5.
+The Turret Armor is INA.
+The Applique Armor is Yes.
+The Explosive Reactive Armor is INA.
+The Active Protection System is Yes.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, 8 Total, 4 on each side 76mm.
+The Bow Blade is Yes.
+The Belly Plate is Yes.
+The Self-Sealing Fuel Tank is Yes,  capable of stopping a 25 mm APFSDS round at 2,000 m..
+The Automatic Fire Suppression Device. is Yes.
+

@@ -1,0 +1,43 @@
+This document describes the Soras 6 Swedish Sound Ranging System.
+
+This system is not a radar but is a sound-ranging system with the same purpose as counter-battery radar.
+
+Sound ranging system (Soras) 6 is a fully automated, EMP-protected, completely passive sound ranging system capable of accurately locating enemy gun positions. The system is not susceptible to jamming. The system is comprised of a computer terminal, nine microphones, and a meteorological unit. Each microphone is surveyed into position and acoustically designates an azimuth to each firer.  The computer terminal then calculates intersection points with the azimuths for target locations.  The system operates in temperatures ranging from -40° to +55° c.  Normally, it takes between 2 and 45 seconds for the computer terminal to calculate target coordinates.  But, the target coordinate calculation time depends on the number of sound sources within the same interval of time.  Nine microphones are deployed in an area 8 km wide and 1-2 km deep.  The microphone positions are determined by conventional surveying methods or by special equipment.  An alarm on the calculator is automatically triggered if contact is broken with any of the microphones.  The meteorological unit provides air temperature, wind speed, and wind direction. Two people can connect the meteorological unit and raise the mast in 15 to 20 minutes.
+
+The system possesses the ability to detect firing systems by itself and/or act as a passive cueing system when used in conjunction with an artillery location radar. There are no associated vehicles for the Soras 6 however, the Mercedes Benz Unimog U1350L truck (described within the table) provides a representative worldwide transportation capability for the system.
+
+This equipment has proliferated into the following countries: Sweden.
+
+Here is System information for the Soras 6 Swedish Sound Ranging System:
+The Alternative Designation is SORAS-6.
+The Type is Sound Ranging System.
+The Manufacturer is INA.
+The Crew is 2.
+The Weight, Combat is 2.8.
+The Height is 52.
+The Sound Frequency is 2-150.
+The Microphone Cable Length is 1-8.
+The Meteorological Unit, Mast Height is 15.
+The Meteorological Unit, Mast Weight is 40.
+The Maximum Detection Range is 30.
+The Precision Under 10km is 0.5% of the measured distance.
+The Precision Under 30km is 2% of the measured distance.
+The Maximum Number of Targets is 200.
+The Response Time is 2 to 45.
+The Emplacement Time is Varies.
+The Displacement Time is Varies.
+The Number of Microphones is 9.
+
+Here is Automotive: Mercedes Benz Unimog U1350L 4x4 (if used) information for the Soras 6 Swedish Sound Ranging System:
+The Engine Name is OM-352.
+The Engine Type is 6 Cylinder Diesel.
+The Speed, Maximum Road is 80.
+The Speed, Maximum Swim is NA.
+The Speed, Cross is INA.
+The Speed, Maximum Off is INA.
+The Fording Depth is 1.2.
+The Vehicle Length is 5.5.
+The Vehicle Height is 2.5.
+The Vehicle Width is 2.3.
+The Combat Weight is 7.5.
+

@@ -1,0 +1,64 @@
+This document describes the Matador South African 4x4 Armored Mine-Resistant Ambush Protected (MRAP).
+
+The Matador South African 4x4 Armored Mine-Resistant Ambush Protected (MRAP) is an armored personnel carrier (APC) and mine-protected vehicle that is produced by Paramount Group in South Africa. The vehicle was displayed for the first time in 2007, during the International Defense Exhibition and Conference in Abu Dhabi. The Matador was officially launched the following year, at the 2008 African Aerospace and Defense Exhibition in Cape Town, South Africa. The Matador is the base variant of the family, it is an MRAP type platform designed to carry an infantry section for long distances in off-road and urban conditions.
+
+This equipment has proliferated into the following countries: Azerbaijan, CFE Treaty, Congo, Gabon, Kazakhstan, Nigeria, Oman, Qatar, Singapore.
+
+Here is Variants information for the Matador South African 4x4 Armored Mine-Resistant Ambush Protected (MRAP):
+The Matador is The Matador is the base variant of the family, it is an MRAP type platform designed to carry an infantry section for long distances in off-road and urban conditions..
+The Marauder is The Marauder is a more compact version of the Matador, which may indicate that it is designed towards the specific needs of an urban environment, or conversely, to very austere off-road travel..
+The Arlan is The Arlan 4 × 4 MRAP armored wheeled vehicle is based on the Marauder and produced by Kazakhstan Paramount Engineering LLP. The vehicle is intended to operate in extreme geographical and climatic conditions to meet the mission requirements of the Kazakhstan military..
+The Belrex is The Belrex 4 × 4 is a protected combat support vehicle (PCSV) based on the Marauder and produced by ST Kinetics and the Singaporean MoD (MINDEF). It was designed to provide direct logistical support for motorised infantry forces operating the 8 × 8 Terrex ICVs in difficult terrain or high-threat environments..
+
+Here is System information for the Matador South African 4x4 Armored Mine-Resistant Ambush Protected (MRAP):
+The Alternative Designation is Matador.
+The Type is Armored Mine-Resistant Ambush Protected (MRAP).
+The Manufacturer is Paramount Group.
+The Configuration is 4x4.
+The Crew is 2.
+The Passenger Capacity is 12.
+The Payload Capacity is 4,500kg.
+
+Here is Dimensions information for the Matador South African 4x4 Armored Mine-Resistant Ambush Protected (MRAP):
+The Length is 7.28 m.
+The Width is 2.48 m.
+The Height is 2.78 m.
+The Wheelbase is 4.20 m.
+The Weight, Standard is 13,400 kg.
+The Weight, Combat is 17,000 kg.
+The Ground Clearance is 0.34 m.
+
+Here is Automotive information for the Matador South African 4x4 Armored Mine-Resistant Ambush Protected (MRAP):
+The Engine Name is Cummins ISBe4.
+The Engine Type is Diesel.
+The Engine Power is 289 hp at 1,920 rpm.
+The Power-to-Weight Ratio is INA.
+The Fuel Capacity is INA.
+The Electrical System is 24V.
+The Gearbox is Allison SP3000, Fwd: Automatic.
+The Transfer Box is Axletech BT600.
+The Steering is power assisted.
+The Suspension is leaf springs, anti-roll bar, and shock-absorbers.
+The Axles is Axletech.
+The Tires is 14.00 × 20.
+The Brakes is air-operated disc (ABS ready).
+The Angle of Approach is 33°.
+The Angle of Departure is 46°.
+The Gradient is 60%.
+The Side Slope is 35%.
+The Vertical Obstacle is 0.5 m.
+The Trench is 0.85 m.
+The Turning Radius is 18 m.
+
+Here is Main Weapon System information for the Matador South African 4x4 Armored Mine-Resistant Ambush Protected (MRAP):
+The Note is Weapon stations (as per the customer’s requirement), can be mounted on the roof towards the front of the vehicle and include MGs and cannon in a variety of turrets and mounts, including RCWSs..
+
+Here is Protection information for the Matador South African 4x4 Armored Mine-Resistant Ambush Protected (MRAP):
+The Hull Armor is The Matador can provide ballistic protection in both the crew compartment and engine compartment (except grille) against 5.56 mm and 7.62 mm small arm ammunition..
+The Applique Armor is Available, The vehicle has blast protection of STANAG 4569 levels 3A and 3B standards (protection against 8 kg TNT beneath the hull and the wheel and 50 kg of TNT side blast). This could be increased to Level 4 standards with add-on kits. IED protection kits have also been developed and can be rapidly fitted to the vehicles..
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

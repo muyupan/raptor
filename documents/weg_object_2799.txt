@@ -1,0 +1,79 @@
+This document describes the Trojan British Armored Mine Clearning Vehicle.
+
+Trojan British Armored Mine Clearning Vehicle is a combat engineering vehicle of the British Army. It is used to breach minefields and for many other tasks. It is currently in use with the Royal Engineers.
+
+The Trojan Armoured Vehicle Royal Engineers is based on a Challenger 2 tank chassis but lacks the main armament. In place of the turret, it has a large hydraulic excavator arm, which can be used to excavate areas, move obstacles, and deposit the fascine that the Trojan carries at its rear. The Trojan is usually also fitted with a plow on the front, which enables it to clear mines, either detonating them on contact or pushing them out of the way to clear a safe channel for following vehicles.
+
+For self-defense only, it carries a 7.62mm machine gun.
+
+For rapid mine-clearing purposes, the Trojan can also tow a trailer carrying the Python, a rocket-propelled hose similar to the Giant Viper. This allows for a much quicker way of clearing a path for ground forces. The hose, packed with explosives, is launched across a minefield and detonates after it hits the ground, clearing a 7-meter wide path for 230 meters.
+
+The vehicles were built at BAE Systems Land Systems plant in Newcastle upon Tyne. The contract was awarded in 2001 to Vickers Defence Systems, which was bought by BAE Systems in 2004. The project was known as the Future Engineer Tank. 33 have been built.
+
+It was first used on exercise in May 2007 with the 1st Battalion (Mechanised) of the Duke of Lancaster's Regiment.
+
+A number of Trojans are permanently based in Canada at British Army Training Unit Suffield in order to allow the Royal Engineers to support Armoured Battle Groups on major exercises.
+
+Trojans were first deployed operationally by the British Army to Afghanistan in 2009 engaging in their first advance under contact in 2010. During Operation Moshtarak 28 Engineer Regiment operated the Trojan attempting to use its traditional mine clearance equipment in the Counter-IED role in support of a major British Army advance.
+
+Its companion vehicle, developed at the same time, is another variant of the Challenger 2, the Titan armored bridge layer, of which 33 have also been built.
+
+This equipment has proliferated into the following countries: United Kingdom of Great Britain and Northern Ireland.
+
+Here is System information for the Trojan British Armored Mine Clearning Vehicle:
+The Alternative Designation is Trojan.
+The Type is Combat Engineering Vehicle.
+The Manufacturer is BAE Systems Land Systems.
+The Chassis is The Trojan is based on a modified Challenger 2 main battle tank chassis. The turret has been removed and replaced by a new superstructure with special equipment..
+The Crew is 3 (commander, operator, driver).
+The Mine Plough is Yes, The Trojan is fitted with a full-length mine plough, that pushes mines out of the way to clear a safe path for following vehicles.
+The Dozer Blade is Yes.
+The Large Excavator Arm is Yes, The excavator arm is used for earth works, grabbing and moving obstacles, placing fascines. The standard bucket has a 1 m³ capacity. Bucket can be replaced with other attachments. The arm lift capacity is 6.5 tonnes..
+The Minefield Breaching System is This vehicle can carry fascines and drop into ditches. Also it can tow a trailer carrying Python rocket-propelled minefield breaching system..
+
+Here is Dimensions information for the Trojan British Armored Mine Clearning Vehicle:
+The Length is 8.3 m.
+The Width is 3.5 m, 4.2 m with Applique Armor.
+The Height is 2.5 m.
+The Weight, Combat is 62.5 tons.
+
+Here is Automotive information for the Trojan British Armored Mine Clearning Vehicle:
+The Engine Name is Perkins CV12-8A.
+The Engine Type is Diesel.
+The Engine Power is 1,200.
+The Power to Weight Ration is 19.2 hp/t.
+The Transmission is David Brown TN54 epicyclic transmission (6 fwd, 2 rev.).
+The Suspension is Hydropneumatic.
+The Range is 450 km.
+The Speed is 59 km/h (37 mph) 40 km/h (25 mph) off road.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.9.
+The Trench is 2.3.
+The Fording is 1.
+
+Here is System information for the Trojan British Armored Mine Clearning Vehicle of the Main Weapon System:
+The Name is L94A1 Chain Gun.
+The Type is Chain Gun.
+The Caliber is 7.62.
+The Length is 1.25 m.
+The Barrel Length is 703 mm.
+The Weight is 17.86 kg.
+The Action is Electrically driven.
+The Rate of Fire is 520 to 550 rounds per minute.
+The Muzzle Velocity is 862 m/s.
+The Feed System is disintegrating link belt.
+
+Here is Ammunition information for the Trojan British Armored Mine Clearning Vehicle of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm.
+The Basic Load is INA.
+
+Here is Protection information for the Trojan British Armored Mine Clearning Vehicle:
+The Hull Armor is The Trojan combat engineering vehicle has the same level of armor protection as the Challenger 2 MBT. It provides a very high level of protection against direct fire weapons..
+The Applique Armor is If required additional armor can be added. Vehicle also has enhanced protection against landmines..
+The Mine Clearing is This vehicle can carry fascines and drop into ditches. Also it can tow a trailer carrying Python rocket-propelled minefield breaching system..
+The NBC Protection is There is an NBC protection system for the crew, so this engineering vehicle can operate in hazardous environments..
+The Smoke Equipment is INA.
+

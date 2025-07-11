@@ -1,0 +1,99 @@
+This document describes the M1974 North Korea 152mm Self-Propelled Gun-Howitzer System.
+
+The M1974 is a North Korean 152 mm self-propelled gun-howitzer. Its actual designation is unknown. The M1974 designation was allocated by a US Department of Defense. Number in the designation denotes the year when this system was observed by US intelligence. This North Korean artillery system was adopted in the 1970s and is widely used to this day. As far as it is known the M1974 was not exported outside North Korea.
+
+   This artillery system combines a modified version of the Soviet D-20 towed gun-howitzer, mounted on a lightly armored tracked chassis. North Korea manufactured these Soviet howitzers under license. The M1974 can be seen as a North Korean attempt to create a self-propelled artillery system, somewhat equivalent to the Soviet 2S3 Akatsiya. Though the North Korean artillery system was inferior in many respects.
+
+   North Korea produced many examples of self-propelled artillery systems by mating existing towed artillery pieces with various chassis. In many cases these North Korean artillery systems resemble various equivalent Soviet or Chinese systems.
+
+   The D-20 152 mm/L26 gun-howitzer was created during the early 1950s and was one of the most prolific artillery pieces ever. Today it is no longer a modern weapon. It can not match performance of modern 155 mm howitzers used by NATO countries and non-NATO allies, such as Japan and South Korea. Still though the D-20 made its name as a solid, reliable and devastating weapon. It is still used by a number of countries. For some reason the North Korean license-produced version of the D-20, as well as ordnance of the M1974 has a different muzzle brake than that of the D-20 towed gun-howitzer.
+
+ The M1974 is compatible with all standard 152 mm ammunition of the D-20 gun-howitzer. It fires fragmentation, High-Explosive Fragmentation (HE-FRAG), High Explosive (HE), concrete-busting, and illumination rounds. It is also capable of launching Krasnopol laser-guided projectiles, as well as nuclear rounds. Though it is unknown if North Korea obtained any of these rounds from its allies. Maximum range of fire with HE-FRAG round is 17.4 km. The HE round penetrates 250 mm steel plate at a range of 3 km.
+
+   This artillery system has a semi-automatic semi-automatic sliding wedge breech, which improves rate. Maximum rate of fire is around 4 to 6 rounds per minute.
+
+   This artillery system is operated by a crew of 8 or 9 soldiers. The crew prepares the M1974 for firing within around 3 minutes from traveling. Two large stabilizing spades are lowered to the ground at the rear before firing.
+
+   This self-propelled artillery system is based on a lightly armored tracked chassis. Most likely that it is a heavily modified Soviet ATS-59G artillery tractor. The ATS-59G is powered by a 39-liter A-650 diesel engine, developing 300 hp. Actually it is a standard engine of a T-55 medium tank, developing 520 hp. However the ATS-59G has a rate reduced, which reduced the power to 300 hp in order to extend service life of the engine. The M1974 artillery system has a maximum road range of around 350 km on internal fuel and around 500 km with auxiliary fuel tanks.
+
+   The same lightly armored tracked chassis is used by other North Korean artillery systems, including an M1975 130 mm self-propelled gun, M1981 122 mm self-propelled gun and unidentified 100 mm anti-tank gun.
+
+   Armor of the M1974 provides some degree of protection for its crew against small arms fire and artillery shell splinters. The gun-howitzer retains its original splinter shield. Though top of the superstructure is opened. In traveling order it can be covered with bows and canvas cover. This artillery system has no defensive armament, except firearms of its crew members.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is System information for the M1974 North Korea 152mm Self-Propelled Gun-Howitzer System:
+The Alternative Designation is M1974.
+The Type is 152mm Self-Propelled Gun-Howitzer.
+The Crew is 8 ~ 9 men.
+The Chassis is Lightly armored tracked chassis..
+The Displacement Time is INA.
+The Emplacement Time is 3.
+
+Here is Dimensions information for the M1974 North Korea 152mm Self-Propelled Gun-Howitzer System:
+The Length, Hull is 6.3.
+The Length, Gun Foward is 6.5.
+The Width is 2.6.
+The Height is 2.6.
+The Weight, Combat is 25.
+
+Here is Automotive information for the M1974 North Korea 152mm Self-Propelled Gun-Howitzer System:
+The Engine Name is A-650.
+The Engine Type is Diesel.
+The Engine Power is 300.
+The Cruising Range is 500.
+The Speed, Maximum Road is 45.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Trench is 2.85.
+The Fording Depth, without Preperation is 1.1.
+The Fording Depth, with Preperation is 1.5.
+
+Here is System information for the M1974 North Korea 152mm Self-Propelled Gun-Howitzer System of the Main Gun:
+The Name is INA.
+The Type is 152 mm Gun-Howitzer.
+The Caliber is 152.
+The Barrel Length is INA.
+The Breech Type is emi-automatic semi-automatic sliding wedge breech.
+The Weight is INA.
+The Maximum Firing Range is 17.4 km.
+The Maximum Range of Fire is 4-6 rounds per minute.
+The Maximum  Elevation is +45.
+The Minimum Elevation is INA.
+The Traverse Range is INA.
+The Traverse Left is INA.
+The Traverse Right is INA.
+
+Here is Ammunition information for the M1974 North Korea 152mm Self-Propelled Gun-Howitzer System of the Main Gun:
+The Name is INA.
+The Type is Projectile.
+The Caliber is 152.
+The Projectile Weight is 43.56 kg.
+The Basic Load is INA.
+The Armor Penetration is INA.
+The Note is The M1974 is compatible with all standard 152 mm ammunition of the D-20 gun-howitzer. It fires fragmentation, High-Explosive Fragmentation (HE-FRAG), High Explosive (HE), concrete-busting, and illumination rounds..
+
+Here is Secondary Weapon System information for the M1974 North Korea 152mm Self-Propelled Gun-Howitzer System:
+The Note is There is no information about the secondary Weapon System onboard the M1974.
+
+Here is Fire Control information for the M1974 North Korea 152mm Self-Propelled Gun-Howitzer System:
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Vehicle Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is Yes, Two large stabilizing spades are lowered to the ground at the rear before firing..
+
+Here is Protection information for the M1974 North Korea 152mm Self-Propelled Gun-Howitzer System:
+The Hull Armor is Armor of the M1974 provides some degree of protection for its crew against small arms fire and artillery shell splinters..
+The Turret Armor is INA.
+The Applique Armor is Optional.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

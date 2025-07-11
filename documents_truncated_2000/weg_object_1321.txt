@@ -1,0 +1,76 @@
+This document describes the PGZ-88 (Type 88) Chinese 37mm Self-Propelled Anti-Aircraft Gun.
+
+The PGZ-88 (Type 88) Chinese 37mm Self-Propelled Anti-Aircraft Gun, the PLA's first-generation fully automatic self-propelled anti-aircraft artillery [SPAAA] system, features a Type 74 twin-37mm AAA mounted on a Type 69 MBT chassis. The turret is welded and fully enclosed with search radar and fire control equipment on top. The performance of Type 88 was unsatisfactory, and the system never entered production. Development activity subsequently focused on work on the new Type 90II.
+
+Here is System information for the PGZ-88 (Type 88) Chinese 37mm Self-Propelled Anti-Aircraft Gun:
+The Alternative Designation is PGZ-88; Type 88;.
+The Type is 37mm Self-Propelled Anti-Aircraft Gun.
+The Crew is 4.
+The Chassis is The Type 88 SPAAG is mounted on a tracked chassis of the Type 79 main battle tank..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the PGZ-88 (Type 88) Chinese 37mm Self-Propelled Anti-Aircraft Gun:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is 35,000.
+The Ground Pressure is INA.
+
+Here is Automotive information for the PGZ-88 (Type 88) Chinese 37mm Self-Propelled Anti-Aircraft Gun:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 570.
+The Range is 500.
+The Speed, Maximum Road is 50.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 1.
+The Trench is 2.
+The Fording Depth is 1.2.
+
+Here is System information for the PGZ-88 (Type 88) Chinese 37mm Self-Propelled Anti-Aircraft Gun of the Main Weapon System:
+The Name is INA.
+The Type is 2 x 37 mm Guns.
+The Barrel Length is INA.
+The Weight is INA.
+The Rate of Fire is 380 rds/min.
+The Maximum Range of Fire is 7,200 m.
+The Automatic Loader is Yes.
+The Elevation is - 5 to + 85 degrees.
+The Traverse is 360 degrees.
+
+Here is Ammunition information for the PGZ-88 (Type 88) Chinese 37mm Self-Propelled Anti-Aircraft Gun of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 37.
+The Cartridge is INA.
+The Basic Load is 1,000 rounds.
+
+Here is Fire Control information for the PGZ-88 (Type 88) Chinese 37mm Self-Propelled Anti-Aircraft Gun:
+The Name is INA.
+The Computerized FCS is Yes.
+The Main Gun Stabilization is INA.
+The Optical Sights is Yes.
+The Electro-Optical Director is Yes.
+The Ballistic Computer is Yes.
+The Reaction Time is 6-11 seconds.
+
+Here is Radar System information for the PGZ-88 (Type 88) Chinese 37mm Self-Propelled Anti-Aircraft Gun:
+The Name is INA.
+The Type is Surveillance Radar.
+The Maximum Detection Range is 15 km.
+The Maximum Detection Altitude is 3 km.
+
+Here is Protection information for the PGZ-88 (Type 88) Chinese 37mm Self-Propelled Anti-Aircraft Gun:
+The Hull Armor is Protection from small arms fire and shell splinters.
+The Turret Armor is Chassis of the Type 88 is well protected for a SPAAG system, however turret has only thin armor, which protects against small arms fire..
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

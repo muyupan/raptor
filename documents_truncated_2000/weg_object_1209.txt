@@ -1,0 +1,47 @@
+This document describes the NTC VISMOD RPG-7 Russian Rocket-Propelled Grenade Launcher.
+
+NTC VISMOD. The RPG-7 is a rocket-propelled grenade launcher, firing a range of projectiles, however they are primarily anti-tank in nature. The RPG-7 is designed to carried and operated by one user, ammunition is also carried by the user but can be distributed amongst the section. For firing, an expelling charge is screwed to the rocket motor base and the grenade is inserted rearwards into the launcher muzzle where a small crossâcut screw head is mated with an index notch in the muzzle. This lines up the ignition cap with the percussion hammer. The safety pin and the fuse cover on the warhead are then removed. The hammer at the upper rear of the pistol grip is thumbâcocked and, when the trigger is depressed, the hammer rises to strike the primer and fire the grenade.
+
+Here is Variants information for the NTC VISMOD RPG-7 Russian Rocket-Propelled Grenade Launcher:
+The RPG-250 is Prototype and test base for the RPG-7V..
+The RPG-7V1 is Upgrade w/bipod and improved PGO-7V3 sight. This is the standard production ATGL version since the late 1990s..
+The RPG-7B1N3, -7N, and -7N1 is Night site variant.
+The RPG-7D, RPG-7DV1, and RPG- 7D2N3 (night) is Folding variants used by airborne troops. RPG-7D3 is the airborne counterpart to RPG-7V1..
+The Type 69-1, II, III is Chinese upgrades variants with lighter weight, a wide range of munitions, and 3.0 x longer range sights..
+
+Here is System information for the NTC VISMOD RPG-7 Russian Rocket-Propelled Grenade Launcher:
+The Alternative Designation is N/A.
+The Manufacturer is Bazalt and Degtyarev plant (Russian Federation).
+The Crew is RPG-7 is light enough to be carried and fired by one person if needed. With a crew of 2, an assistant grenadier normally deploys left of the gunner to protect him from small arms fire. The full set has two bags: one has two grenades, spare parts, tools and accessories. The other has three more grenades..
+The Effective Firing Range is 330.
+The Maximum Firing Range is 700.
+The Mission Type is Anti-Armor.
+The Effects is Destroy or disable enemy armored vehicles..
+The Targeting is Movement and Maneuver assets..
+The Vulnerability is Death of operator..
+The CBI is Approximately 42x Systems per BTG and 60x per SPF/BFB..
+
+Here is DImensions information for the NTC VISMOD RPG-7 Russian Rocket-Propelled Grenade Launcher:
+The Length is mm.
+The Weight is 6.3 kg (14 lb) (without a telescopic sight).
+
+Here is Production Ammunition information for the NTC VISMOD RPG-7 Russian Rocket-Propelled Grenade Launcher of the Ammunition:
+The PG-7VL is [c.1977] Improved 93 mm HEAT warhead effective against most vehicles and fortified targets..
+The PG-7VR is c.1988] Dual 64 mm/105 mm HEAT warhead for defeating modern armored vehicles equipped with reactive armor blocks. The first warhead (64 mm HEAT) detonates the reactive armor block prematurely and the second warhead (105 mm HEAT) passes through the gap to hit the exposed armor underneath..
+The TBG-7V Tanin is (c.1988] 105 mm Thermobaric warhead for anti-personnel and urban warfare..
+The OG-7V is [c.1999] 40 mm Fragmentation warhead for anti-personnel warfare. Has no sustainer motor..
+The PG-7V is [c.1961] Baseline 85 mm HEAT warhead capable of penetrating 260 mm RHA..
+The PG-7VM is [c.1969] Improved 70 mm HEAT warhead capable of penetrating 300 mm RHA..
+The PG-7VS is [c.1972] Improved 73 mm HEAT warhead capable of penetrating 400 mm RHA..
+The PG-7VS1 is [c.mid-1970s] Cheaper PG-7VS version capable of penetrating 360 mm RHA.
+The GSh-7VT is [c.2013] Anti-bunker warhead with cylindrical follow-through blast-fragmentation munition followed by explosively formed penetrator..
+
+Here is PGO-7V information for the NTC VISMOD RPG-7 Russian Rocket-Propelled Grenade Launcher of the Sights:
+The Type is Optical illuminated.
+The Magnification is 2.7x, 13Â° field of view.
+The Location is Top of launcher/sight-left side.
+The Sighting Range (m) is 500.
+
+Here is UP-7V For RPG-7V1 information for the NTC VISMOD RPG-7 Russian Rocket-Propelled Grenade Launcher of the Sights:
+The Description is a telescopic collimating attachment fits on PGO-7V3 sight and extends sight range for larger munitions.
+

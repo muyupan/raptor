@@ -1,0 +1,110 @@
+This document describes the Su-30K Russian Multirole Fighter Aircraft.
+
+Su-30K
+Export version of the Russian Su-30.
+ India and Irkut renegotiated a deal that would have upgraded the first 18 Su-30K fighters to the Su-30MKI standard. The proposed agreement would limit the modernization to a replacement of the N-001Mech radar with the N-011M Bars and the addition of a glass cockpit with improved avionics.
+
+The Sukhoi Su-30 (Russian: Сухой Су-30; NATO reporting name: Flanker-C) is a twin-engine, two-seat supermaneuverable fighter aircraft developed in the Soviet Union by Russia's Sukhoi Aviation Corporation. It is a multirole fighter for all-weather, air-to-air and air-to-surface deep interdiction missions.
+
+The Su-30 started out as an internal development project in the Sukhoi Su-27 family by Sukhoi. The design plan was revamped and the name was made official by the Russian Defense Ministry in 1996. Of the Flanker family, the Su-27, Su-30, Su-33, Su-34 and Su-35 have been ordered into limited or serial production by the Defense Ministry. The Su-30 has two distinct version branches, manufactured by competing organisations: KnAAPO and the Irkut Corporation, both of which come under the Sukhoi group's umbrella.
+
+KnAAPO manufactures the Su-30MKK and the Su-30MK2, which were designed for and sold to China, and later Indonesia, Uganda, Venezuela, and Vietnam. Due to KnAAPO's involvement from the early stages of developing Su-35, these are basically a two-seat version of the mid-1990s Su-35. The Chinese chose an older but lighter radar so the canards could be omitted in return for increased payload. It is a fighter with both air supremacy and attack capabilities, generally similar to the U.S. F-15E Strike Eagle.
+
+Irkut traditionally served the Soviet Air Defense and, in the early years of Flanker development, was given the responsibility of manufacturing the Su-27UB, the two-seat trainer version. When India showed interests in the Su-30, Irkut offered the multirole Su-30MKI, which originated as the Su-27UB modified with avionics appropriate for fighters. Along with its ground-attack capabilities, the series adds features for the air-superiority role, such as canards, thrust-vectoring, and a long-range phased-array radar. Its derivatives include the Su-30MKM, MKA, and SM for Malaysia, Algeria, and Russia, respectively. The Russian Air Force operates several Su-30s and has ordered the Su-30SM version.
+
+The integrated aerodynamic configuration, combined with the thrust vectoring control ability, results in high manoeuvrability and unique takeoff and landing characteristics. Equipped with a digital fly-by-wire system, the Su-30 is able to perform some very advanced manoeuvres, including the Pugachev's Cobra and the tailslide. These manoeuvers quickly decelerate the aircraft, causing a pursuing fighter to overshoot, as well as breaking a Doppler radar-lock, as the relative speed of the aircraft drops below the threshold where the signal registers to the radar.
+
+The aircraft's powerplant incorporates two Saturn AL-31F afterburning low-bypass turbofan engines, fed through intake ramps. Two AL-31Fs, each rated at 123 kN (28,000 lbf) of full afterburning thrust ensures Mach 2 in level flight, 1,350 km/h speed at low altitude, and a 230 m/s climbing rate.
+
+With a normal fuel reserve of 5,270 kg, the Su-30MK is capable of performing a 4.5-hour combat mission with a range of 3,000 km. An aerial refueling system increases the range to 5,200 km (3,200 mi) or flight duration up to 10 hours at cruise altitudes.
+
+The aircraft features autopilot ability at all flight stages including low-altitude flight in terrain-following radar mode, and individual and group combat employment against air and ground/sea-surface targets. Automatic control system interconnected with the navigation system ensures route flight, target approach, recovery to airfield and landing approach in automatic mode.
+
+This equipment has proliferated into the following countries: Angola, India, Malaysia.
+
+Here is Engines information for the Su-30K Russian Multirole Fighter Aircraft of the System:
+The 16,755 lbs. thrust Saturn AL-31F turbofans, 27,558 lbs. thrust with afterburner is 2.
+
+Here is Weight information for the Su-30K Russian Multirole Fighter Aircraft of the System:
+The Maximum Takeoff is 38,000.
+The Normal Takeoff is 24,140.
+The Empty is 17,900.
+
+Here is Speed information for the Su-30K Russian Multirole Fighter Aircraft of the System:
+The Maximum (at altitude) is 2,125, Mach 2.0.
+The Maximum (sea level) is 1,350.
+
+Here is Fuel (liters) information for the Su-30K Russian Multirole Fighter Aircraft of the System:
+The Internal is 9,400.
+
+Here is Range (km) information for the Su-30K Russian Multirole Fighter Aircraft of the System:
+The Unrefueled is 3,000.
+The One refueling is 5,200.
+The With Aux Fuel is 4,390 (SM).
+The Combat Radius is 1,500.
+
+Here is Dimensions information for the Su-30K Russian Multirole Fighter Aircraft of the System:
+The Length is 21.9.
+The Wingspan is 14.7.
+The Height is 6.4.
+
+Here is Standard Payload information for the Su-30K Russian Multirole Fighter Aircraft of the System:
+The External is 8,000.
+The Hardpoints pylons is 12.
+
+Here is Survivability/Countermeasures information for the Su-30K Russian Multirole Fighter Aircraft of the System:
+The Zero/zero ejection seat is Yes.
+The Infrared and radar jammer is Yes.
+The Radar and missile warning receivers is Yes.
+The Chaff and flares is Yes.
+The Gaseous oxygen for 10 hours of flight is Yes.
+
+Here is 30-mm gun, Gsh-30-1 information for the Su-30K Russian Multirole Fighter Aircraft of the ARMAMENT:
+The Range (m) is (practical) 4,000.
+The Elevation/Traverse is None (rigidly mounted).
+The Ammo Type is HEFI, APT, CC.
+The Rate of Fire (rpm) is 1,500 rounds per minute.
+
+Here is Weapon & Ammunition Types information for the Su-30K Russian Multirole Fighter Aircraft of the ARMAMENT:
+The 30-mm Gsh-30-1 cannon (rnds) is 150 Rounds.
+The Other Loading Options is 2.
+The AA-10A-D/ALAMOAAM is 6.
+The AA-11/ARCHER AAM is 6.
+The AA-12 ADDER AAMs is 6.
+The AS-14/KEDGE ASM is 6.
+The AS-17/KRYPTON ASM is 6.
+The AS-18/KAZOO ASM is 2.
+The Gun pods is 3.
+The 420-mm S-25 rockets (1 each) is .
+The 80-mm S-8 rocket pod (20 ea.) is .
+The 122-mm S-13 rocket pod (5 each) is .
+The 250-kg, or 500-kg unguided and guided bombs is .
+The KAB-500Kr Bombs is 6.
+The KAB-1500Kr Bombs is 2.
+
+Here is Pulse-Doppler look-down/ shoot-down radar information for the Su-30K Russian Multirole Fighter Aircraft of the AVIONICS/SENSOR/OPTICS:
+The Search range (km) is 240.
+The Track range (km) is 185.
+The Multi Target Capability is Yes.
+The IR Sensor is Yes.
+The Laser Designator is yes.
+The Heads Up Display is Yes.
+
+Here is SU-30M information for the Su-30K Russian Multirole Fighter Aircraft of the VARIANTS:
+The Description is THE FIRST REAL MULTI-ROLE AIRCRAFT IN THE SU-27 FAMILY, WITH ALL NECESSARY SUB-SYSTEMS. THESE WERE CONVERTED INTO DEMONSTRATORS FOR EXPORTS..
+
+Here is SU-30MK information for the Su-30K Russian Multirole Fighter Aircraft of the VARIANTS:
+The Description is EXPORT SERIES VERSION. THE SU-30MK2 ANTI-SHIP UPGRADE VERSION HAS BEEN EXPORTED..
+
+Here is SU-30MKK/FLANKER-G information for the Su-30K Russian Multirole Fighter Aircraft of the VARIANTS:
+The Description is MULTI-ROLE UPGRADE UTILIZING AIR-TO-GROUND WEAPONS TO A MORE ADVANCED VERSION INCORPORATING NEW RADAR, CANARDS AND THRUST VECTORING..
+
+Here is JJ-11 information for the Su-30K Russian Multirole Fighter Aircraft of the VARIANTS:
+The Description is CHINESE LICENSE-BUILT VERSION..
+
+Here is SU-30MKI/FLANKER-H information for the Su-30K Russian Multirole Fighter Aircraft of the VARIANTS:
+The Description is VERSION OF THE SU-30MK MADE FOR INDIA. MOST WILL BE PRODUCED BY AN INDIAN FIRM. SOME WESTERN EQUIPMENT REPLACED MUCH OF THE RUSSIAN SYSTEMS..
+
+Here is SU-30MKM information for the Su-30K Russian Multirole Fighter Aircraft of the VARIANTS:
+The Description is VERSION FOR USE BY MALAYSIA..
+

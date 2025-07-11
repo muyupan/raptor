@@ -1,0 +1,35 @@
+This document describes the UBot-SCU B10 Chinese Unmanned Ground Vehicle (UGV).
+
+The UBot-SCU B10 Chinese Unmanned Ground Vehicle (UGV) has been developed as a robotic scout inspection robot. The platform is ideally suited for under-vehicle inspection (UVI) duties. The robot can also be used to check large counters, underneath shelves and containers as well as the bottom of desks and other narrow and low spaces.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the UBot-SCU B10 Chinese Unmanned Ground Vehicle (UGV):
+The Alternative Designation is UBot-SCU B10.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is HRSTEK Co Ltd, China.
+The Configuration is The robot is a flat, square shaped structure with wheels facing outwards at each corner..
+The Mission is The UBot-SCU B10 Chinese Unmanned Ground Vehicle (UGV) has been developed as a robotic scout inspection robot. The platform is ideally suited for under-vehicle inspection (UVI) duties. The robot can also be used to check large counters, underneath shelves and containers as well as the bottom of desks and other narrow and low spaces..
+The Crew is Unmanned.
+The Control is INA.
+The Cameras is A three-channel video system is fitted as well as a HD wide-angle (CCD HD, night vision) camera ..
+The Environmental is IP65.
+
+Here is Dimensions information for the UBot-SCU B10 Chinese Unmanned Ground Vehicle (UGV):
+The Length is 0.38 m.
+The Width is 0.36 m.
+The Height is 0.14 m.
+The Weight is 7 kg.
+
+Here is Automotive information for the UBot-SCU B10 Chinese Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Range is INA.
+The Maximum Land Speed is 4 km/h.
+The Endurance is 5 hours.
+
+Here is Protection information for the UBot-SCU B10 Chinese Unmanned Ground Vehicle (UGV):
+The Armor is INA.
+The Applique Armor is INA.
+

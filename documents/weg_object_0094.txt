@@ -1,0 +1,53 @@
+This document describes the MSTAR (AN/PPS-5C) British Man-portable Surveillance and Target Acquisition Radar.
+
+Man-portable Surveillance and Target Acquisition Radar (MSTAR) is a lightweight all-weather battlefield Doppler radar operating in the J band. It is usually used by artillery observers to acquire and engage targets in bad visibility or at night. It is capable of detecting, recognizing and tracking helicopters, slow moving fixed-wing aircraft, tracked and wheeled vehicles and troops, as well as observing and adjusting the fall of shot.
+
+The radar display is an electro-luminescent screen that can be overlaid with a map grid. It also shows the areas of ground visible to the radar and those that are masked by terrain. Target location can be presented as either map coordinates or bearing and distance (polar coordinates) from the radar.
+
+The complete radar weighs 30 kilograms (66 lb) It can detect targets out to 30 kilometres (19 mi), with a maximum range of 42 kilometres (26 mi).
+
+The radar head (antenna and electronics) are connected by remoting cable to the display. The rotating head can be mounted on either a tripod on the ground or an elevated mast, the latter fitted to the Warrior Artillery Observation Post vehicle (FV514), or the Coyote Reconnaissance Vehicle. When fitted to the mast power is taken from the vehicle supply and the display is inside the vehicle. For dismounted use the radar uses standard military rechargeable dry batteries and is man-carried in three loads. The radar can be set up in under three minutes.
+
+The requirement for MSTAR was developed in the early 1980s by the UK Ministry of Defence as a replacement for Radar GS No 14 (ZB298) that had entered service some 10 years earlier. The primary users of MSTAR, like its predecessor, were and are artillery observation parties, although it may be used by other reconnaissance and surveillance elements as required. MSTAR was developed and produced in UK in the mid 1980s by Thorn EMI Electronics (now part of Thales) and selected by competitive tender.
+
+MSTAR entered UK service in early 1991, slightly accelerated for use in the Gulf War. Its official UK designation is Radar, GS, No 22.
+
+In about 2005 MSTAR underwent an upgrading programme.
+
+MSTAR is used by the US Army as AN/PPS-5C and by the Australian Army as AMSTAR.[1] It is also used for border patrols, airports, coastal patrols, and high security areas. The Canadian Forces use the MSTAR on their Coyote Reconnaissance Vehicles.
+
+MSTAR is now licensed and manufactured by DRS Technologies.
+
+This equipment has proliferated into the following countries: Australia, Canada, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is System information for the MSTAR (AN/PPS-5C) British Man-portable Surveillance and Target Acquisition Radar:
+The Alternate Designation(s) is MSTAR is used by the US Army as AN/PPS-5C and by the Australian Army as AMSTAR..
+The Type is Man-portable Surveillance and Target Acquisition Radar (MSTAR) is a lightweight all-weather battlefield Doppler radar.
+The Manufacturer is MSTAR was developed and produced in UK in the mid 1980s by Thorn EMI Electronics (now part of Thales) and selected by competitive tender. MSTAR is now licensed and manufactured by DRS Technologies..
+The Purpose is It is usually used by artillery observers to acquire and engage targets in bad visibility or at night. It is capable of detecting, recognizing and tracking helicopters, slow moving fixed-wing aircraft, tracked and wheeled vehicles and troops, as well as observing and adjusting the fall of shot..
+The Frequency is J Band.
+The Display is The radar display is an electro-luminescent screen that can be overlaid with a map grid. It also shows the areas of ground visible to the radar and those that are masked by terrain..
+The Target Location is arget location can be presented as either map coordinates or bearing and distance (polar coordinates) from the radar..
+The Target Detection Range is It can detect targets out to 30 kilometres (19 mi), with a maximum range of 42 kilometres (26 mi)..
+The Emplacement is under three minutes..
+The Displacement is under three minutes..
+The Target Location Accuracy, Tange is ±10 m.
+The Target Location Accuracy, Azimuth is ± 5 mils.
+The Radar Controls and Interface is 12.1 inch SVGA flat-panel display, 800 x 600 pixel resolution, PentiumTMclass processor, 20 GB mass storage, 256 MB RAM, AGP high speed
+video graphics, MIL connector panel, full QWERTY keyboard, internal
+3.5 inch FDD, internal PCMCIA interface, communication ports include
+parallel, RS-422, RS-232, Ethernet and USB, XML 2.0 ICD compliant/
+USAF certified..
+The Note is The radar head (antenna and electronics) are connected by remoting cable to the display. The rotating head can be mounted on either a tripod on the ground or an elevated mast, the latter fitted to the Warrior Artillery Observation Post vehicle (FV514), or the Coyote Reconnaissance Vehicle. When fitted to the mast power is taken from the vehicle supply and the display is inside the vehicle..
+
+Here is Dimensions information for the MSTAR (AN/PPS-5C) British Man-portable Surveillance and Target Acquisition Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Aerial head Assembly Weight is 9.6 kg.
+The Main Electronics Assembly Weight is 13.0 kg.
+The Radar Control and Display Unit Weight is 7.4 kg.
+The Tripod Kit Weight is 4.8 kg.
+The Ancillary Equipment Weight is 3.9 kg.
+The Total Weight is 30 kg.
+

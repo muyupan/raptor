@@ -1,0 +1,96 @@
+This document describes the IMR-2 Russian Combat Engineering Vehicle.
+
+The IMR-2 is a combat engineering vehicle built on a T-72 main battle tank basis.
+
+Development of the IMR-2 began in the 1970s and was completed in 1980, while commercial production commenced in 1982. IMR-2 was developed to replace the aging IMR which was built on the basis of the T-54/55 tank. The IMR-2 combat engineering vehicle is in service with the Russian Army and some foreign militaries. It took part in Soviet-Afghan War, First Chechen War, Second Chechen War, and in addition used in relief operations after the Chornobyl disaster.
+
+IMR-2 was derived from the T-72 tank. The turret of the T-72 was replaced with a new rotating multipurpose telescopic crane. The IMR-2 has a bulldozer blade fitted on the front of the hull, which has a V shape and a straight shape and a 200 – 250 m3/h capacity. When not required, the blade is folded upwards. Stone barriers can be cleared at the rate of 280 to 350 meters an hour while trenches and tree barriers can be filled in at the rate of 350 to 400 m3/h. A 12.7 mm NSVT machine gun is mounted on the crew operator/commander cabin, for the self-protection of the vehicle.
+
+The IMR-2 is powered by a multi-fuel water-cooled diesel engine V-84Ms developing 840 hp, the same engine used in the T-72. The IMR-2 can run at a maximum road speed of 50 km/h with a maximum range of 500 km. The IMR-2 uses the same torsion bar suspension as the main battle tank T-72, which consists of six road wheels on each side. This combat engineering vehicle is operated by a 2-man crew.
+
+This equipment has proliferated into the following countries: Russian Federation, Viet Nam.
+
+Here is Variants information for the IMR-2 Russian Combat Engineering Vehicle:
+The IMR is First version of combat engineering vehicle built on T-54/55 medium battle tank chassis, powered by a V-55 diesel engine developing 520 hp.
+IMR-2M1: Simplified model without the mine-clearing system. Entered service in 1982. Based on T-72A tank hull..
+The IMR-2M2 is Improved version that is better suited for operations in dangerous situations, for example in contaminated areas. It entered service in 1990 and has a modified crane arm with bucket instead off the pincers..
+The IMR-2MA is Latest version with bigger operator's cabin armed with a 12.7 mm machine gun NSV..
+The Klin-1 is Remote controlled IMR-2..
+The IMR-3M is Combat engineering vehicle built on the T-90 main battle tank chassis. The vehicle is 9,320 mm long, 3,500 mm wide and 3,430 mm high and weighs 49.5 t with the KMT-RZ minesweeping device. The IMR-3M is powered by an 840-hp V-84MS multifuel diesel engine, producing a maximum speed of 60 km/h and a range of 500 km. The baseline AEV is fitted with a U-type dozer blade, jib-type crane with an excavator bucket, and minesweeping plow. A chemical, biological, radiological and nuclear [CBRN] reconnaissance device, smokescreen generator, advanced signal suite and automatic fire extinguisher are fitted. The IMR-3M is armed with an NSVT 12.7 mm heavy machinegun [HMG] in a remotely controlled station. Production started in 2016 and is currently ongoing.
+
+Here is System information for the IMR-2 Russian Combat Engineering Vehicle:
+The Alternative Designation is IMR-2; IMR.
+The Type is Combat Engineering Vehicle.
+The Family is IMR Series.
+The Chassis is Based on the T-72 main battle tank chassis.
+The Crew is 2.
+The Telescopic Arm (Crane) is Mounted on the superstructure where you would normally see a turret.
+The Telescopic Arm Traverse Range is 360.
+The Telescopic Arm Maximum Lifting Capability is 2.
+The Mine Clearing is Yes, with Mine Clearing attachments.
+The Earth Working Capacity is 200-250 m³/h.
+The Dozer Blade is Available Attachment.
+The Dozer Blade Capacity is 200 - 250 m³/h.
+The Manipulator is Available Attachment.
+The Bucket Loader is Available Attachment.
+The Mine Clearing Ploughs is Available Attachment.
+The Mine Clearing Charges is Yes.
+
+Here is Dimensions information for the IMR-2 Russian Combat Engineering Vehicle:
+The Length is 9.55.
+The Width is 4.35.
+The Height is 3.68.
+The Weight, Combat is 44.3.
+The Ground Pressure is INA.
+
+Here is Automotive information for the IMR-2 Russian Combat Engineering Vehicle:
+The Engine Name is V-84-1.
+The Engine Type is Diesel.
+The Engine Power is 840.
+The Maximum Cruising Range is 500.
+The Speed, Maximum Road is 50.
+The Speed, Average Cross is 35.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 50.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Fording (Without Preparation) is 2.7.
+The Fording (With Preparation) is 5.
+
+Here is Communications information for the IMR-2 Russian Combat Engineering Vehicle:
+The Primary Radio is 1 x R-173 radio.
+The Secondary Radio is 1 x R-168-100U radio.
+
+Here is System information for the IMR-2 Russian Combat Engineering Vehicle of the Main Gun System:
+The Name is 1 x Type 54 (DShKM) Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Proliferation is +1 Million.
+The Variants is DK, DShKM, DSHKS, Type 54 HMG.
+The Length is 1,625.
+The Barrel Length is 1,070.
+The Weight (Gun Only) is 34.
+The Weight (On Wheeled Mounting) is 157.
+The Max Rate of Fire is 600.
+The Action is Gas-Operated, Flapper Locking.
+The Feed System is 50 Round Belt.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the IMR-2 Russian Combat Engineering Vehicle of the Main Gun System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7x108 mm.
+The Muzzle Velocity is 850.
+The Maximum Effective Range is 2,500.
+The Armor Penetration is API: 21 at 500 m & 13 at 1000 m (RHA).
+The Basic Load is 1,200 rounds.
+
+Here is Protection information for the IMR-2 Russian Combat Engineering Vehicle:
+The Hull Armor is Protection from small arms fire and shell splinters.
+The Applique Armor is Available.
+The Mine Clearing is Available Attachment.
+The Self-Entrenching Blade is Available Attachment.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The Automatic Fire Suppression System is Yes.
+

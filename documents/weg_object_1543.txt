@@ -1,0 +1,94 @@
+This document describes the Dokdo Class South Korean Amphibious Assault Ship.
+
+The Dokdo-class amphibious assault ship is a class of landing platform helicopter (LPH) amphibious assault ships operated by the Republic of Korea Navy (ROKN). Designed by Hanjin Heavy Industries (HHIC), the requirements for the amphibious landing ships were to enhance South Korea's current amphibious operation capability, both in terms of assault and military operations other than war (MOOTW) type operations.
+
+This equipment has proliferated into the following countries: South Korea (Republic of Korea).
+
+Here is Variants information for the Dokdo Class South Korean Amphibious Assault Ship:
+The DOKDO is Commissioned: 2007
+Status: Active.
+The MARADO is Commissioned: 2020
+Status: Active.
+
+Here is System information for the Dokdo Class South Korean Amphibious Assault Ship:
+The Alternative Designation is Dokdo Class.
+The Type is Amphibious Assault Ship.
+The Builder is Hanjin Heavy Industries and Construction, Masan, South Korea.
+The Crew is 426.
+The Troop Capacity is 720 Marines.
+The Cargo Capacity is Up to 200 vehicles (including tanks).
+
+Here is Dimensions information for the Dokdo Class South Korean Amphibious Assault Ship:
+The Length is 200.0 m.
+The Beam is 32.0 m.
+The Draft is 6.5 m.
+The Displacement, Standard is 3,181 tons.
+The Displacement, Full Load is 18,860 tons.
+
+Here is Propulsion System information for the Dokdo Class South Korean Amphibious Assault Ship:
+The Engine Name is 4 x Doosan Heavy Industries/SEMT-Pielstick 16PC2.5STCturbines.
+The Engine Type is Diesel.
+The Diesel Engine Power is 32,000 total bhp.
+The Maximum Speed is 22 knots.
+The Range is 10,000 nm at 12 knots.
+
+Here is System information for the Dokdo Class South Korean Amphibious Assault Ship of the Gun Weapon System:
+The Name is 2 x Goalkeeper CIWS.
+The Type is Close-in-Weapon System (CIWS).
+The Caliber is 30 mm.
+The Quantity is 2 x Goalkeeper CIWS.
+The Crew is Automated, with human oversight.
+The Barrels is 7-barrel (progressive RH parabolic twist, 14 grooves).
+The Elevation is +85 to −25 degrees at 80 degree/s.
+The Traverse is 360 deg.
+The Rate of Fire is 70 rounds/second (4,200 rounds/minute).
+The Muzzle Velocity is 1,109 m/s.
+The Effective Firing Range is 350 to between 1,500 and 2,000 m.
+
+Here is Ammunition information for the Dokdo Class South Korean Amphibious Assault Ship of the Gun Weapon System:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Shell is 30×173mm TP, HEI, MPDS, or FMPDS.
+The Basic Load is INA.
+
+Here is Launcher information for the Dokdo Class South Korean Amphibious Assault Ship of the Missile Weapon System:
+The Name is 1 x 21-round RAM launcher.
+
+Here is Missile information for the Dokdo Class South Korean Amphibious Assault Ship of the Missile Weapon System:
+The Name is RIM-116 Rolling Airframe Missile (RAM).
+The Type is Short-Range Surface-to-Air Missile (SAM).
+The Manufacturer is General Dynamics (now Raytheon) / Diehl BGT Defence.
+The Length is 2.79 m.
+The Wingspan is 434 mm.
+The Weight is 5,777 kg.
+The Warhead is 11.3 kg.
+The Engine is Hercules/Bermite Mk. 36 Solid-fuel rocket.
+The Operational Range is 10 km.
+The Maximum  Speed is Mach 2.
+The Accuracy is over 95%.
+The Guidance System is Three modes—passive radio frequency/infrared homing, infrared only, or infrared dual mode enabled (radio frequency and infrared homing).
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Dokdo Class South Korean Amphibious Assault Ship:
+The FCS Name is 2 x Thales Goalkeeper Fire Control System.
+The Computerized FCS is Yes.
+The Battle Management System is Yes.
+
+Here is Radar Systems information for the Dokdo Class South Korean Amphibious Assault Ship:
+The Air Search Radar is 1 x Thales Naval Nederland SMART-L D-band air search.
+The 3D Surface Search Radar is 1 x Thales MW08 G-band 3D surface search.
+The Survveillance Rdar is 1 x Elta Systems ELM-2248 MF-STAR multifunction surveillance.
+
+Here is Sonar Systems information for the Dokdo Class South Korean Amphibious Assault Ship:
+The Active and Passive Sonar is 1 x STN Atlas Elektronik DSQS-21BZ hull-mounted active/passive/search/attack.
+The Towed Linear Passive Sonar is 1 x Thales towed linear passive hydrophone array of undisclosed type.
+
+Here is Aircraft Facilities information for the Dokdo Class South Korean Amphibious Assault Ship:
+The Aircraft is 10 x UH-60 Helicopters; or 5 x AW101 Helicopters.
+
+Here is Protection information for the Dokdo Class South Korean Amphibious Assault Ship:
+The Electronic Warfare System is 1 x LIG SLQ-200(V) SONATA suite.
+The Torpedo Decoy is 1 x STX Radar System SLQ-260X towed torpedo countermeasures system.
+The Chaff Dispenser is 1 x EADS/Lacroix DAGAIE, Mark 2 chaff dispensers.
+The NBC Water Washdown System is Yes.
+

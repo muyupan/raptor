@@ -1,0 +1,76 @@
+This document describes the RM-70/85 (Vampire) Slovakian 122mm Multiple Rocket Launcher (MRL).
+
+The RM-70/85 Vampire is a multiple launch rocket system (MLRS) developed to replace the old RM-51. The vehicle which has the NATO designation of M1972, was first seen in 1972 during a military parade in Czechoslovakia. The RM-70/85 is based on a Tatra 813 (8 × 8) truck chassis with an all-steel forward control cab, which usually has one or two circular observation hatches in the roof. The cab is pressurized and is provided with an effective ventilation system.
+
+This equipment has proliferated into the following countries: Angola, Azerbaijan, Cambodia, CFE Treaty, Congo, Ecuador, Finland, Georgia, Greece, Indonesia, Libya, Nigeria, North Korea (Democratic People's Republic of Korea), Poland, Rwanda, Slovakia, Sri Lanka, Uganda, Zimbabwe.
+
+Here is Variants information for the RM-70/85 (Vampire) Slovakian 122mm Multiple Rocket Launcher (MRL):
+The RM-70/85 is Unarmored version of the RM-70, based on the Tatra T815 VPR9 8x8.1R truck with 265 hp engine T3-930-51. Combat weight: 26.1 t. Sometimes called RM-70M..
+The RM-70/85M is Modernized vehicle with new fire control and navigation equipment, can use a new type of rocket with a range of 36 km. Slovakia has ordered 50 upgrade packages..
+The RM-70 Modular is In December 2000, the Slovak Ministry of Defense and Delta Defence started the RM-70 Modular German-Slovak modernization project. RM-70 Modular allows this artillery system to launch either twenty-eight 122mm rockets, or six 227mm rockets as used on the M270 MLRS. This way the system became fully NATO interoperable. The truck cabin is entirely armored. The Slovak Republic signed for 26 upgraded artillery systems with the first one delivered on May 20, 2005. RM-70 Modular is being offered as an upgrade for RM-70 owners..
+The Vz.92 "Križan" VMZ is Engineer vehicle, based on the Tatra T815 36.265 with a lightly armored cabin. The vehicle comes in different configurations, the standard being a 40-round rocket launcher (for "Kuš" and "Krizhna-R" rockets), a mechanical mine layer for anti-tank mines (PT Mi-U or PT Mi-Ba-III) and two dispensers for anti-personnel mines (PP Mi-S1)..
+The RM-70 Vampire is Upgraded version integrated on a Tatra T-815-7 truck chassis powered by a Tatra T3C V8 engine with 270 kW of output, coupled with a Tatra 10 TS 210 N gearbox, with semi-automatic Tatra Norgen drive system and an additional gearbox Tatra 2.30TRS. It has a range of around 1,000 km (620 mi) and a top speed of 90 km/h (56 mph) with an armored and NBC-protected crew cabin..
+The LRSV-122 M-96 "Tajfun" is Modified version with 4 rows of 8 launch tubes on an unarmored Tatra T813 truck. Like the M-77 Oganj and the Chinese Type 90A, the launcher and reloading pack are covered by a collapsible awning for protection and camouflage when traveling. Combat weight: 23.5 t. Only a very small number was built..
+
+Here is System information for the RM-70/85 (Vampire) Slovakian 122mm Multiple Rocket Launcher (MRL):
+The Alternative Designation is RM-70/85 Vampire, RM-70 (1972).
+The Type is 122mm Multiple Rocket Launcher (MRL).
+The Crew is 4.
+The Mission is Main role of this artillery rocket system is to engage area targets, such as concentrations of troops and armored vehicles, artillery batteries, and other targets..
+The Chassis is Based on a Tatra T815-7 heavy high mobility truck chassis..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note is It takes around 2 minutes to reload all 40 launch tubes. This integral reloading system significantly increases firepower of the vehicle, as the single RM-70 Vampir launcher vehicle can rapidly launch two salvos. The launch tubes can be also reloaded manually by the crew within around 7 minutes. Reloading usually takes remotely from the firing position, in order to avoid counter battery fire..
+
+Here is Dimensions information for the RM-70/85 (Vampire) Slovakian 122mm Multiple Rocket Launcher (MRL):
+The Length is 9.97 m.
+The Width is 2.5 m.
+The Height is INA.
+The Weight, Combat is 25.89 t.
+
+Here is Automotive information for the RM-70/85 (Vampire) Slovakian 122mm Multiple Rocket Launcher (MRL):
+The Engine Name is Tatra T3C.
+The Engine Type is Diesel.
+The Engine Power is 360.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.
+The Fording is 1.5.
+
+Here is System information for the RM-70/85 (Vampire) Slovakian 122mm Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Name is RM-70 Vampir.
+The Type is Multiple launch rocket system.
+The Caliber is 122.
+The Number of Tubes is 40.
+The Firing Range is 20 km.
+The Full Salvo is 30 seconds.
+The Reloading Time is 2 minutes.
+
+Here is Ammunition information for the RM-70/85 (Vampire) Slovakian 122mm Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Type is HE Rocket.
+The Caliber is 122.
+The Rocket Length is 2.87 m.
+The Rocket Weight is 66.35 kg.
+The Warhead Weight is 18.4 kg.
+The Basic Load is 40.
+The Types of Warheads is Rockets with various warheads are available, including incendiary, smoke, illumination warheads. Also there are cluster warheads with anti-tank or anti-personnel submunitions, as well as specialized warheads.
+
+Here is Fire Control information for the RM-70/85 (Vampire) Slovakian 122mm Multiple Rocket Launcher (MRL):
+The Name is INA.
+The Computerized FCS is INA.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+
+Here is Protection information for the RM-70/85 (Vampire) Slovakian 122mm Multiple Rocket Launcher (MRL):
+The Hull Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

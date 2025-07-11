@@ -1,0 +1,50 @@
+This document describes the 9S80 (Dog Ear) Russian Target Acquisition Radar System.
+
+The Dog Ear (with the Russian designation of 9S80) is a Russian ground-based, target-acquisition radar mounted on an MT-LB multi-purpose tracked vehicle or MT-LBu armored command and reconnaissance vehicle (ACRV). It uses an open-mesh, rounded-rectangle parabolic antenna. The radar supplies target alerting information to the SA-13 Gopher (Russian 9K35 Strela-10) surface-to-air missile (SAM) system. Deployment usually involves one system for each air defense battery/battalion.
+
+This equipment has proliferated into the following countries: Angola, Azerbaijan, Belarus, Bosnia and Herzegovina, Croatia, Cuba, Czech Republic, Georgia, India, Jordan, Kazakhstan, Macedonia, North Korea (Democratic People's Republic of Korea), Russian Federation, Serbia, Slovakia, Syria, Turkmenistan, Ukraine.
+
+Here is 9S80 Dog Ear Radar System information for the 9S80 (Dog Ear) Russian Target Acquisition Radar System of the System:
+The Name is 9S80 Dog Ear Radar System.
+The Type is Acquisition Radar.
+The Chassis is MT-LB.
+The Function is The radar supplies target alerting information to the SA-13 Gopher (Russian 9K35 Strela-10) surface-to-air missile (SAM) system..
+The Antenna Type is open-mesh, rounded-rectangle parabolic antenna..
+The Vehicle Mount is The Dog Ear (with the Russian designation of 9S80) is a Russian ground-based, target-acquisition radar mounted on an MT-LB multi-purpose tracked vehicle or MT-LBu armored command and reconnaissance vehicle (ACRV)..
+The Band is F-G (3-6 GHz).
+The Maximum Range, Acquisition is 80.
+The Maximum Range, Tracking is 35.
+The Note #1 is Target acquisition requires a separate vehicle mounting a Dog Ear** forward alerting radar..
+The Note #2 is Deployment usually involves one system for each air defense battery/battalion..
+
+Here is Dimensions (MT-LB) information for the 9S80 (Dog Ear) Russian Target Acquisition Radar System:
+The Length is 6.45 m.
+The Width is 2.85 m.
+The Height is 1.87 m.
+The Ground Clearance is 400 mm.
+The Length of Track on Ground is 3.80 m.
+The Track Width is 350 mm.
+
+Here is Automotive (MT-LB) information for the 9S80 (Dog Ear) Russian Target Acquisition Radar System:
+The Engine Name is 1 x YaMZ 238V.
+The Engine Type is V-8 diesel engine.
+The Engine Power is 240 hp at 2,100 rpm.
+The Transmission is manual w/1 reverse gear and 6 forward gears.
+The Fuel is 450 liters.
+The Suspension is torsion bar, 6 road wheels, front drive, rear idler, 2 shock absorbers, no return rollers.
+The Maximum Speed, Road is 62 km/h.
+The Maximum Speed, Water is 6 km/h.
+The Range is 500 km.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Obstacle is 0.70 m.
+The Trench is 2.70 m.
+The Fording is Amphibious.
+
+Here is Protection information for the 9S80 (Dog Ear) Russian Target Acquisition Radar System:
+The Armor is 7-14 mm maximum.
+The Applique Armor is INA.
+The Active Protection System is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

@@ -1,0 +1,37 @@
+This document describes the 9K116 Bastion (AT-10 Stabber) Russian Anti-Tank Guided Missile (ATGM).
+
+The 9M117 Bastion is a Russian laser beam-riding anti-tank missile. It is used in a number of separate weapon systems, including the 9K116-1 Bastion missile system (AT-10 Stabber), 9K118 Sheksna (AT-12 Swinger), and T-12 antitank gun, and the 3UBK12 fired from the BMP-3. The 100 mm projectile entered service in 1981.
+
+The 100 mm round resembles a normal 100 mm anti-tank round, and is loaded and fired in the same fashion. The round uses a reduced explosive charge to launch the projectile out of the barrel of the gun at around 400 to 500 m/s. After leaving the gun barrel, a small cover falls away from the window on the rear of the missile. The rocket motor ignites 1.5 seconds after firing the missile, and it burns for 6 seconds.
+
+The projectiles use beam-riding laser guidance. A cone of laser light divided into sectors is projected from the launching tank/vehicle/gun, each sector having a different frequency or modulation. The missile has a small window in the rear with a laser sensor to detect the modulation of the light. Using this modulation, the missile steers itself, maintaining its position in the cone. The laser beam is zoomed during the missile flight so it has the same diameter (about 6 meters) throughout the missile flight path. The laser beam-riding guidance system is smaller than a radio command one and cheaper and simpler than semi-active laser guidance. The missile is also not prone to radio or optical jamming. On the other hand, a target has to be tracked by laser sight all the time, and the system can not be reliably used on the move.
+
+The missile's flight time to 4,000 meters is approximately 12 seconds. After 26 to 41 seconds, the missile self-destructs.
+
+This equipment has proliferated into the following countries: Bulgaria, China, Russian Federation, Syria, Turkmenistan, Venezuela (Bolivarian Republic of).
+
+Here is 9M116 Bastion (AT-10) Anti-Tank Guided Missile (ATGM) information for the 9K116 Bastion (AT-10 Stabber) Russian Anti-Tank Guided Missile (ATGM) of the System:
+The Name is 9M116 Bastion; NATO: AT-10 Stabber.
+The Type is Anti-Tank Guided Missile.
+The Caliber is 100.
+The Charge Type is Reduced Explosive Charge.
+The Muzzle Velocity is 400-500.
+The Rocket Motor is Ignites 1.6 seconds after firing the missile and it burns for 6 seconds..
+The Guidance System is beam-riding laser guidance..
+The Steering System is laser sensor to detect the modulation of the light..
+The Flight Time (4,000 meters) is 12.
+The Self Destruct Time is 26-41.
+The Telescopic Sight is 1K13 day/night telescopic sight (with integral 1K13BZ laser emitter)..
+The Stabilising Fins is 4.
+The Searchlight is L4 IR searchlight.
+The Effective Firing Range is 100-4,000.
+The Warhead Type is HEAT.
+The Penetration is 650-750.
+The Note is The 9M116 Bastion (AT-10) is prone to radio or optical jamming..
+
+Here is Dimensions information for the 9K116 Bastion (AT-10 Stabber) Russian Anti-Tank Guided Missile (ATGM):
+The Length is 1,048 mm.
+The Diameter is 100 mm.
+The Weight is 27 kg.
+The Warhead Weight is INA.
+

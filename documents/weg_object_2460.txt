@@ -1,0 +1,69 @@
+This document describes the LUAZ-967 Russian 4x4 Amphibious Vehicle.
+
+The LuAZ-967 (Ukrainian: ЛуАЗ-967) was the Transporter of the Front Line, a small Soviet four-wheel drive amphibious vehicle. Light enough to be air transportable, it had a 400 kg (880 lb) payload over most terrain.
+
+The design originated after the Korean War, when the Soviets saw a need for small off-road vehicles comparable to the American Jeep, to supplement the overly-large and -heavy GAZ-69s then in service. It was to be used by Russian Airborne Troops (VDV) for casualty evacuation, munition supply and the transport of light armaments.
+
+Developed at NAMI (the National Automobile Institute), the prototype, known as NAMI 049, was completed in 1958. Unlike the Jeep, it had a Fibreglass body, four-wheel torsion bar independent suspension, and permanent four-wheel drive with locking hubs. It had a wheelbase of 1,800 mm (71 in), a ground clearance of 280 mm (11 in), and was powered by a 22 hp (16 kW; 22 PS) MD-65 motorcycle engine (copied from an Orbita motorcycle). Trials proved it underpowered, and the body too fragile.
+
+A second prototype, the NAMI 049A, had a 746 cc (45.5 cu in) V4 MeMZ 965 engine (selected for use in the ZAZ-965), steel body, and rear wheel drive (with optional drive to the front wheels). The torsion bars were replaced with a coil spring setup. It weighed 1,350 kg (2,980 lb), with a 37 hp (28 kW; 38 PS) MeMZ 967A engine, and was able to pull a 300 kg (660 lb) trailer; it could cross a 58° gradient, and top speed was 47 mph (76 km/h).
+
+It was produced between 1961-1975 at Lutsk automobile plant - LuAZ. It was succeeded by the LuAZ-969В, LuAZ-969, LuAZ-969М and the LuAZ-1302.
+
+The LuAZ 967M had a MeMZ-967A 887 cc (54 cu in) gasoline engine from the ZAZ automobile. An air-cooled, carbureted ohv V4, it developed 37 hp (28 kW) at 2,250 rpm.
+
+A 4+1 speed transmission has separately engaged crawl gear. Unlike many small military vehicles, it was a front wheel drive 4×2, the rear axle was selectively engaged only when 4×4 was needed.
+
+The watertight steel body had 4-wheel independent suspension with torsion bars and 285 mm (11 in) of ground clearance. The driving controls were on the truck's centerline, both the controls and the windshield could be folded down for a lower profile.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the LUAZ-967 Russian 4x4 Amphibious Vehicle:
+The LuAZ-967A is 37-hp engine with top speed of 75 km/h that can tow trailers & light artillery up to 300 kg.
+The LuAZ-967M is Final production model until 1991 with same engine as the LuAZ-967A.
+The Geolog is 6 X 6 version never produced.
+The Evacuation Role is 2 stretcher & 2 seated.
+
+Here is System information for the LUAZ-967 Russian 4x4 Amphibious Vehicle:
+The Alternative Designations is See Variants.
+The Date of Introduction is 1961.
+The Description is 4 X 4 off-road vehicle similar to the American Jeep.
+The Crew is 1 (Driver) with space up to 4 additional soldiers.
+
+Here is Dimensions information for the LUAZ-967 Russian 4x4 Amphibious Vehicle:
+The Length is 3,682.
+The Width is 1,712.
+The Height is 4,520.
+The Weight is 950.
+
+Here is Automotive information for the LUAZ-967 Russian 4x4 Amphibious Vehicle:
+The Engine Name is MeMZ-965.
+The Engine Type is 27-hp gasoline.
+The Ground pressure (kg/cm2) is INA.
+The Cruising Range is 285.
+The Speed (Max Road) is 65.
+The Speed (Max Off-Road) is INA.
+The Speed (Average cross-country) is INA.
+The Speed (Max Swim) is 3.
+The Fording Depths is Amphibious.
+The Radio is INA.
+
+Here is AGS-17 (Weapons carrier only) information for the LUAZ-967 Russian 4x4 Amphibious Vehicle of the Armament:
+The Caliber/length is 30-mm.
+The Type is Automatic Grenade Launcher (AGL).
+The Ammo is HE; HEDP 
+116 rounds (estimated).
+The Maximum Effective Range is 1700.
+The Armor Penetration is INA.
+The Muzzle Velocity is 185.
+
+Here is Protection information for the LUAZ-967 Russian 4x4 Amphibious Vehicle:
+The Armor (turret front) is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is No.
+The Smoke Equipment is No.
+The Survivability Equipment is 200 kg winch available for self-recovery.
+

@@ -1,0 +1,36 @@
+This document describes the P-12 (Spoon Rest A) Russian Mobile Early Warning Radar.
+
+Spoon Rest is a Russian ground-based, early warning radar that later evolved into the Knife Rest** series. The very high frequency (VHF) radar is widely used with the Fan Song radar associated with the SA-2 Guideline surface-to-air missile (SAM) system.
+
+Spoon Rest A is the original version of the system and is mounted in two trailers. The system's generator is carried in one of the trucks while the radar array and electronics cabinets are in the other. The large antenna is a six-dipole horizontal Yagi array mounted on top of a truck.
+
+The P-12 Yenisei was a development of the earlier P-10 radar, the P-12 being developed between 1954 and 1956. The P-12 was developed by the SKB Design Bureau, a division of State Plant No.197 named after V. I. Lenin who developed the previous P-10, the predecessor of the current Nizhny Novgorod Research Institute of Radio Engineering (NNIIRT). The Yenisei radar was accepted into service in 1956 following the successful completion of the radars test program.
+
+In 1958 a modernized variant of the P-12 passed the testing process and entered into service as the P-12M, the modernized radar featured the ability to shift the radar frequency within a range of 10 MHz. A further modernization came in 1962 in the form of the P-12MP which featured improved reliability, reduced side lobe radiation and the ability to be paired with a centimeter band search radar, in 1970 the radar was provided with flicker equipment to improve immunity to anti-radiation missiles. The final variant of the P-12 was the P-12NP which was also produced as the P-12NA with a different transport chassis. The P-12NP compared with the previous P-12MP featured improved detection ranges and reliability as well as the ability to locate the control cabin up to 500 meters from the antenna to improve crew survivability as a result of attack on the radar.
+
+The main differences between the earlier P-10 and the P-12 included a new antenna feed system with lower side lobes, reduced to 4% of the main lobe. The P-12 also offered a greater frequency range and greater frequency agility, being able to retune to four pre-set frequencies automatically as well as automatic frequency fine tuning. Finally Yenisei had greater accuracy with improved detection range (250 km) and better protection against passive and active interference. In addition to frequency agility the P-12 was the first Russian radar system to use the coherent cancellation moving target indicator (MTI) method to eliminate ground clutter.
+
+The P-12 "Spoon Rest A" was mounted on two Zil trucks, though later with the P-12NP "Spoon Rest B" the radar antenna mast was mounted on a separate trailer cabin to allow for location away from the other components of the radar site, the P-12NA returned to a track based platform. The P-12 used a single antenna accomplishing both transmission and reception, the antenna was composed of twelve Yagi antenna mounted in sets of six with one set above the other. Azimuth was scanned mechanically by the antenna with a rotation of 10 r.p.m, elevation was determined using a Goniometer by comparing the phase comparison between the upper and lower antenna sets, in similar fashion to the original P-3 but since this reduced range it was rarely used. The P-12 used two indicators, a plan position indicator in addition to an E-scope to indicate height, the P-12 could integrate track information from an additional radar with both sets of information appearing on the plan position indicator A secondary radar for IFF was generally used in conjunction with the P-12 such as the NRZ-12 (NATO "Score Board")
+
+This equipment has proliferated into the following countries: Albania, Angola, Armenia, Bosnia and Herzegovina, Bulgaria, Central Asia, Cuba, Egypt, Ethiopia, Georgia, Iran (Islamic Republic of), Libya, Mozambique, North Korea (Democratic People's Republic of Korea), Peru, Romania, Slovakia, Sudan, Syria, Ukraine, Viet Nam, Yemen.
+
+Here is System information for the P-12 (Spoon Rest A) Russian Mobile Early Warning Radar:
+The Alternative Designation is P-12; Spoon Rest A.
+The Type is Mobile Early Warning Radar.
+The Manufacturer is INA.
+The Chassis is ZIL Trucks.
+The Crew is INA.
+The Band is 147-161 MHz.
+The Maximum Range is 275 km.
+The Vertical Beamwidth is 2.5 deg.
+The Horizontal Beamwidth is 7-9 deg.
+The Peak Power is 180-350 kW.
+The Pulse Width is 4-6 microseconds.
+The Pulse Repetition Frequency (PRF) is 310-400 Hz.
+
+Here is Dimensions information for the P-12 (Spoon Rest A) Russian Mobile Early Warning Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

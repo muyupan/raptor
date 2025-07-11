@@ -1,0 +1,153 @@
+This document describes the 2S3 Akatsiya (M1973) Russian 152mm Self-Propelled Howitzer (SPH).
+
+2S3 Akatsiya SO-152 (СО-152) is a Soviet 152.4 mm self-propelled gun developed in 1968. It was a response to the American 155 mm M109. The development started in 1967 according to the Resolution of the Council of Ministers of the Soviet Union on July 4, 1967. In 1968 the SO-152 was completed and in 1971 entered service. Its GRAU designation is 2S3 (2С3). The fighting vehicle also received the additional designation Akatsiya (Акация), which is Russian for acacia. The Akatsiya is armed with a 152.4 mm howitzer based on the Soviet 152.4 mm D-20 howitzer and is sometimes confused with the M109 self-propelled artillery. The artillery system was developed at design bureau No. 9 of Sverdlovsk. The factory designation of the howitzer is D-22 and the GRAU designation, 2A33. The chassis was developed by Uraltransmash.
+
+The driver's and engine-transmission compartments are located in the front part of the hull, and the fighting compartment with a rotatory turret in the middle and rear parts of the hull. The armor is welded rolled steel. The SPG is equipped with an R-123 radio set, an R-124 intercom, an automatic CBRN defense system with a filtration unit, and fire-fighting equipment. The V-59 12-cylinder four-stroke water-cooled diesel engine connects to a mechanical two-gear transmission. The gearbox is combined into one block with planetary steering gear. The 2S3 has self-entrenching equipment which allows it to prepare a trench within 20–40 min.
+
+The crew consists of 4–6 men: a driver, a gunner, a loader, a commander, and two ammunition bearers, which are positioned to the rear of the vehicle feeding rounds through two hatches in the hull rear when in masked firing position.
+
+This equipment has proliferated into the following countries: Algeria, Angola, Armenia, Azerbaijan, Belarus, CFE Treaty, Cuba, Ethiopia, Georgia, Kazakhstan, Laos (People's Democratic Republic), Libya, Russian Federation, Slovakia, Syria, Turkmenistan, Ukraine, Uzbekistan, Viet Nam.
+
+Here is Variants information for the 2S3 Akatsiya (M1973) Russian 152mm Self-Propelled Howitzer (SPH):
+The 2S3 (SO-152) is Basic variant, developed in 1968. Produced in 1970–1975. Two modifications used D-11 and D-11M howitzers..
+The 2S3M (SO-152M) is Equipped with a mechanized drum-type stowage for 12 rounds, the amount of hatches in rear armored plates of the hull and the turret was reduced, the configuration of those hatches was changed, antenna of R-123 radio set was transferred on a turret top. Ammunition was increased from 40 to 46 rounds (usually consists of 42 OF-540 and OF-25 HE-Frag projectiles, and of 4 BP-540 HEAT-FS projectiles). Much more powerful OF-29 HE-Frag projectiles and OF-38 Krasnopol laser-guided rocket-assisted projectiles were developed for SO-152M. The modernized howitzer has a designator 2A33. Produced in 1975–1987..
+The 2S3M1 (SO-152M1) is Equipped with a command data acquisition and display equipment, and with a new SP-538 sight. OF-38 Krasnopol laser-guided rocket-assisted projectiles were added to standard ammunition. Produced in 1987–1993. All 2S3s and 2S3Ms were modernized to 2S3M1 level..
+The 2S3M2 (SO-152M2) is Modernized variant equipped with an automatic fire control system, a satellite navigational system, and smoke grenade launchers. Developed in 2000..
+The 2S3M2-155 is An export-oriented variant of 2S3M2 equipped with a new 155 mm M-385 howitzer. Developed in 2000..
+The 2S3M3 is An experimental variant of 2S3M2 equipped with a further improved fire control system and a modernized howitzer 2A33M that can fire ordnance of a more powerful 2A65 howitzer that equips the 2S19..
+
+Here is System information for the 2S3 Akatsiya (M1973) Russian 152mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is 2S3 Akatsiya, SO-152 (СО-152), Designated M1973 by the U.S. Army.
+The Type is Self-propelled gun.
+The Caliber is 152 mm.
+The Manufacturer is Uraltransmash.
+The Chassis is Object 123 tracked chassis.
+The Crew is 4-6.
+The Family is 2S3 Family.
+The Displacement Time is 3.
+The Emplacement Time is 3.
+The Note is The 2S3 is a Tier 2 weapon because it has been identified as one of the top 52 pieces of Russian Military Equipment..
+
+Here is Dimensions information for the 2S3 Akatsiya (M1973) Russian 152mm Self-Propelled Howitzer (SPH):
+The Length (Overall) is 8.4.
+The Length (Hull) is 7.765.
+The Width is 3.25.
+The Height is 3.05.
+The Weight, Combat is 27,500.
+The Ground Clearance is 0.45.
+The Track Width is 480.
+The Length of track on ground: is 4.94.
+The Ground pressure is 0.59kg/cm² (57859Pa) (8.39psi).
+
+Here is Automotive information for the 2S3 Akatsiya (M1973) Russian 152mm Self-Propelled Howitzer (SPH):
+The Engine Name is V-59.
+The Engine Type is Diesel.
+The Engine Power is 520.
+The Power to Weight Ratio is 17.3.
+The Fuel Capacity is 830.
+The Transmission is Mechanical two-gear transmission.
+The Suspension is Torsion bar.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60 %.
+The Side Slope is 30 %.
+The Vertical Setp is 0.7.
+The Trench is 3.0.
+The Fording Depth is 1.0.
+The Time to dig Trench is 20-40.
+
+Here is Communications information for the 2S3 Akatsiya (M1973) Russian 152mm Self-Propelled Howitzer (SPH):
+The Primary Radio is R-123 radio set.
+The Intercom is R-124 intercom.
+
+Here is System information for the 2S3 Akatsiya (M1973) Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is 1 × turret mounted 152 mm 2A33 howitzer.
+The Type is Howitzer.
+The Caliber is 152 mm.
+The Length, Barrel is 5.2.
+The Loader Type is Semi-automatic.
+The Max Rate of Fire is 3-4.
+The Sustain Rate of Fire is 1.
+The Rapid Fire is 4.
+The Breech  Type is Semi-automatic vertical wedge breechblock and an ejector.
+The Muzzle Brake Type is Double-baffle muzzle brake.
+The Max Elevation is +60.
+The Min Elevation is -4.
+The Traverse Range is 360.
+The Projectile Carousel is Automatically revolves 30 deg.
+The Bore Evacuator is Yes, behind the muzzle brake.
+The Fume Extractor is Yes.
+The Traveling Lock is Gun barrel traveling lock.
+
+Here is Ammunition (Option 1) information for the 2S3 Akatsiya (M1973) Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is OF-540 HE-Frag.
+The Caliber is 152.
+The Muzzle Velocity is 655.
+The Fuse Type is RGM-2 fuze.
+The Maximum Effective Range is 17.4.
+The Projectile Weight is 43.56.
+The Warhead Weight is 7.76.
+The Maximum Range is 18.5.
+The Basic Load is 46 Total, any combination of Russian 152mm Projectiles.
+
+Here is Ammunition (Option 2) information for the 2S3 Akatsiya (M1973) Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is OF-25 HE-Frag.
+The Caliber is 152.
+The Maximum Range is 18.5.
+The Projectile Weight is 43.56.
+The Basic Load is 46 Total, any combination of Russian 152mm Projectiles.
+The Note is The 2S3 Akatsiya can fire the following 152mm Projectiles: 
+BP-540 HEAT-FS (sight distance is 3 km, 250 mm armor penetration), Br-540B and Br-540 AP-T (115–120 mm armor penetration at a 1000 m), OF-38 Krasnopol laser-guided rocket-assisted projectiles, S1 illuminating, ZH3 smoke, nuclear projectiles (with explosive capacity of 2 kt). Secondary armament consists of a remotely controlled 7.62 mm PKT tank machine gun on commander's cupola for anti-aircraft defence and self-defence at close range..
+
+Here is System information for the 2S3 Akatsiya (M1973) Russian 152mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Name is 1 x  PKT (Kalashnikov's Machine Gun) 7.62mm General-Purpose Machine Gun.
+The  is General-Purpose Machine Gun.
+The Type is 7.62.
+The Max Rate of Fire is 650.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Action is Gas-operated, open bolt.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the 2S3 Akatsiya (M1973) Russian 152mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Muzzle Velocity is 825.
+The Effective Range (Iron Sights) is 100-1,000.
+The Effective Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 3,800.
+The Basic Load is 1,000.
+
+Here is Fire Control information for the 2S3 Akatsiya (M1973) Russian 152mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes, PG-4 sight.
+The Thermal Sight Gunner is Yes, OP5-38 gunner's telescope.
+The Main Gun Stabilization is INA.
+The Indirect Fire is PG-4 Panoramic Telescope (PANTEL).
+The Direct Fire is OP 5-38.
+The Collimator is K-1.
+The Commander Cupola Range is 360.
+The Searchlight is OU-3K infra-red/white light searchlight.
+
+Here is Protection information for the 2S3 Akatsiya (M1973) Russian 152mm Self-Propelled Howitzer (SPH):
+The Hull Armor is 15.
+The Turret Armor is 20.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes, Automatic CBRN defense system with filtration unit.
+The Smoke Equipment is No.
+The Fire Suppression System is Yes.
+

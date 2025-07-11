@@ -1,0 +1,115 @@
+This document describes the Gepard (Cheetah) German 35mm Self-Propelled Anti-Aircraft Gun.
+
+The Gepard (Cheetah) German 35mm Self-Propelled Anti-Aircraft Gun entered service with the Bundeswehr in 1973 as the Flakpanzer-1 Gepard. A total of 420 of these vehicles were built for the German Army. Its role is to protect combat units, troops and key installations against air attacks.
+
+This equipment has proliferated into the following countries: Brazil, Chile, Germany, Jordan, Netherlands, Romania.
+
+Here is Variants information for the Gepard (Cheetah) German 35mm Self-Propelled Anti-Aircraft Gun:
+The German version is Search radar: S band, 15 km range
+Tracking radar: Ku band, 15 km range
+Laser rangefinder.
+The Netherland's version is Search radar: X band, 15 km range
+Tracking radar: X/Ka band, 13 km range.
+
+Here is System information for the Gepard (Cheetah) German 35mm Self-Propelled Anti-Aircraft Gun:
+The Alternative Designations is 5PFZ-B2L Upgrade variant known as FlakPz 1A2.
+The Manufacturer is Krauss-Maffei Wegmann.
+The Chassis is Leopard 1 tank chassis.
+The Crew is 3.
+The Targets is Helicopters and Low-Flying Aircraft.
+The Note #1 is The vehicle is based on the hull of the Leopard 1 tank with a large fully rotating turret carrying the armament—a pair of 35 mm Oerlikon KDA autocannons and the two radar dishes—a general search radar at the rear of the turret and the tracking radar, and a laser rangefinder, at the front between the guns..
+The Note #2 is Since the eighties, Stinger teams have been accompanying the Gepard units to take advantage of their long-range scanning capacity. To combine this capacity in a single unit, a missile system upgrade that mounts the NATO ManPad Stinger surface-to-air missile (in twin packs) to the autocannons was developed. The system was tested by the German Bundeswehr but not bought due to budget restrictions and the fielding of the Ozelot Light Flak (leFla) System.
+
+Here is Dimensions information for the Gepard (Cheetah) German 35mm Self-Propelled Anti-Aircraft Gun:
+The Length, With Gun Forward is 7.68.
+The Length, Hull is INA.
+The Width is 3.71.
+The Height, with Radar Lowered is 3.29.
+The Height, With Radar Up is 4.23.
+The Weight is 47.3.
+
+Here is Automotive information for the Gepard (Cheetah) German 35mm Self-Propelled Anti-Aircraft Gun:
+The Engine Name is MTU MB 838 Ca M500 Diesel.
+The Engine Type is Diesel.
+The Engine Power is 830.
+The Fuel Capacity is 985 liters.
+The Maximum Range is 600.
+The Maximum Speed is 65.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 1.15.
+The Trench is 3.0.
+The Fording is 1.2.
+The Combined Operating Time is 48.
+
+Here is Main Weapon System information for the Gepard (Cheetah) German 35mm Self-Propelled Anti-Aircraft Gun:
+The Caliber, Type is 2 x 35mm Anti-Aircraft Gun.
+The Turret is The electrically driven turret is powered by a 40 kW generator driven by a 4-cylinder, 3.8 litre Mercedes-Benz OM 314 multi-fuel engine.
+The Number of Barrels is 2.
+The Rate of Fire is 1,100 rds/min (550/barrel).
+The Ammunition Loader is Twin Belt.
+The Reload Time is INA.
+The Elevation is -10 to +85 deg.
+The Fire on the Move is Yes (est).
+The Basic Load is 680.
+
+Here is Main Weapon System Ammunition information for the Gepard (Cheetah) German 35mm Self-Propelled Anti-Aircraft Gun:
+The Type is Frangible APDS (FAPDS) for upgrades. On impact with the target surface, the penetrator  breaks into several KE fragments.  The round has Frag-HE effects with the higher velocity and flat trajectory of a sabot round..
+The Tactical AA range is 3,500 m (self-destruct).
+The Tracer Range is INA.
+The Effective Altitude is 3,100.
+The Min Altitude is 0.
+The Self-Destruct is 6-12.
+The Range is 4,000.
+The Tactical AA Range is 3,500.
+The Effective is 3,500 m (est).
+The Self-Destruct Time is 6-12.
+The Penetration is 115mm at 1,000 m.
+The Type is APDS-T.
+The Other Ammunition Type is HEI.
+
+Here is Radar 1 information for the Gepard (Cheetah) German 35mm Self-Propelled Anti-Aircraft Gun of the Radar Systems:
+The Name is INA.
+The Type is Search Radar.
+The Location is at the rear of the turret.
+The Band is S band.
+The Maximum Range is 15.
+
+Here is Radar 2 information for the Gepard (Cheetah) German 35mm Self-Propelled Anti-Aircraft Gun of the Radar Systems:
+The Name is INA.
+The Type is Tracking Radar.
+The Location is at the front between the guns.
+The Band is KU Band.
+The Maximum Range is 15.
+
+Here is Fire Control information for the Gepard (Cheetah) German 35mm Self-Propelled Anti-Aircraft Gun:
+The FC System is EADS digital computer-based FCS.
+The Sights With Magnification is Stabilized video sights for -1A2 upgrade.
+The Magnification is INA.
+The Field of View is INA.
+The Night Sights is Thermal for -1A2 upgrade.
+The IFF is Yes, MSR-400.
+The Navigation System is Computerized.
+The Laser Rangefinder is ND Yag.
+The Linked to Air Defense Net is Yes.
+The Radars is INA.
+The Name is INA.
+The Function is Fire Control.
+The Detection Range is 15.
+The Tracking Range is 15.
+The Frequency Band is Ku.
+The Search on the Move is Yes.
+The Other Fire Control is GUNS USE AIR WATCHES AND FORWARD OBSERVERS AND ARE LINKED TO AD NETS.
+
+Here is Protection information for the Gepard (Cheetah) German 35mm Self-Propelled Anti-Aircraft Gun:
+The Armor Type is Conventional steel.
+The Hull Armor is 10–70 mm RHAe.
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

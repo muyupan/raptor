@@ -1,0 +1,52 @@
+This document describes the Credo-1E Russian Unified Moving Target Locating Radar.
+
+The Credo-1E unified moving ground target locating radar is designed to detect moving ground, surface and low-flying targets (man, group of people, vehicles) and to support artillery fire round-the-clock, in any season, and under zero visibility conditions (fog, smoke, and dust).
+
+It can be used as a standalone surveillance asset (with its transceiver and antenna control unit mounted on a tripod) or as part of a variety of artillery reconnaissance and mobile observation posts (on telescopic masts).
+
+The radar has standard interfaces allowing real-time transmission of target coordinates to the user, as well as remote radar control via communication links.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Credo-1E Russian Unified Moving Target Locating Radar:
+The Kredo-1S is Ground recon vehicle with Kredo-1E radar/EO sensor pod on telescoping arm on amphibious BAZ-5921 chassis.
+The TBD is Same telescoping arm as the Kredo-1S, but on the BTR-based UNSh/K1Sh1 chassis.
+The SNAR-10M is Russian upgrade for the SNAR-10 artillery battlefield surveillance radar vehicle (replaces BIG FRED radar with the Kredo-1E).
+
+Here is System information for the Credo-1E Russian Unified Moving Target Locating Radar:
+The Alternative designations is RP-200, IRL-133-3, Kredo-1, Credo-1, Credo-1E, & PSNR-8.
+The Description is Ground Surveillance Radar (GSR) can be operated by a crew of 2 or 3; vehicle pintle or mast-mounted or tripodmounted.
+The Crew is 2-3 (operator; assistants); more for vehicle.
+The Combat weight is 48 kg (up to 97 kg with battery & display).
+The Radio is INA.
+The Protection is N/A.
+
+Here is Equipment information for the Credo-1E Russian Unified Moving Target Locating Radar:
+The Name is Kredo-1E.
+The Console is INA.
+The Radar is Motor-driven for azimuth adjustment.
+The Azimuth coverage (°) is 360 deg; 180 deg in scan sector; 18 in elevation.
+The Antenna type is Slotted wave guide.
+
+Here is Performance information for the Credo-1E Russian Unified Moving Target Locating Radar:
+The Surveillance range is 40 km (detection); 30 km (tracking); 40 km (tanks); 20-40 km (light vehicles & trucks); 35 km (helicopters); 30 km (large
+aircraft); 12 km (ships); 15 km(personnel); 15 km (shell burst-155-mm); 0.2 km (minimum).
+The Tracking speed is 3-72 km/h.
+The Resolution is 50 m range; 1.8° in azimuth.
+The Countermeasure resistance is INA.
+The Transceiver specifications is Multi-mode master oscillator & klystron.
+The Signal is Coherent pulse Doppler J-band (10.00 -19.00 GHz, US Ku band).
+The Power is 250 w (Consumption).
+The Mode is Mono-pulse digital processing.
+The Width of radiation pattern lobe is INA.
+The Accuracy is 10 m in range); 0.12° in azimuth).
+The Emplacement time is 5 minutes.
+The Polarization is INA.
+The Compatibility is Can be used as the base for an integrated digital sensor suite or fused to process data from other sensors.
+The Remote Operation is 25-200 m away from dish.
+The Target acquisition is Automatically detects, tracks, & identifies targets & reads coordinates.
+The TV Monitor is INA.
+The Display is Displays acquisitions on digital map display with various display colors.
+The Tone Signal is INA.
+The Remote user transmission is Transmit data digitally over network via standard interface.
+

@@ -1,0 +1,39 @@
+This document describes the Vapor 55 American All-Electric Helicopter UAS.
+
+The all-electric VAPOR 55 Helicopter UAS delivers flight control performance, endurance, and payload flexibility. Featuring military-grade components, intelligent HW/SW system design, and high energy density lithium-polymer
+battery, VAPOR delivers enhanced flight stability and up to one hour of flight time on a single battery charge.
+With an expansive modular payload bay, and up to 10 lbs. useable payload capacity, VAPOR is multi-mission capable, with access to a variety of available integrated sensors and third party payloads including EO/IR, survey
+grade PPK mapping, LiDAR and hyperspectral sensors, and Drop/Delivery Mechanism. Every VAPOR Helicopter UAS incorporates proprietary HeliSynth™ technology for system level optimization including advanced autopilot,
+payload control & operation, and mission performance efficiency.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is Variants information for the Vapor 55 American All-Electric Helicopter UAS:
+The Vapor 35 is INA.
+
+Here is System information for the Vapor 55 American All-Electric Helicopter UAS:
+The Alternate Designation is Vapor 55.
+The Type is Unmanned Aircraft Systems (UAS).
+The Manufacturer is AeroVironment.
+The Payload Capacity is 10 lbs (4.5 kg).
+The Payload Options is EO/IR, LiDAR, Hyperspectral, PPK Mapping, Drop Mechanism.
+The Data Links is 900 MHz, 2.4 GHz, 5.8 GHz, Satellite.
+
+Here is Dimensions information for the Vapor 55 American All-Electric Helicopter UAS:
+The Aircraft Length is 1,941 mm.
+The Aircraft Width is 672 mm.
+The Aircraft Height is 583 mm.
+The Rotor Diameter is 2,291 mm.
+The Gross Weight is 24.9 kg.
+
+Here is Automotive information for the Vapor 55 American All-Electric Helicopter UAS:
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Range is 56 km.
+The Operating Altitude is INA.
+The Max Cruise Endurance is 60 minutes with full payload.
+The Max Hover Endurance is 45 minutes with full payload.
+The Max Wind Peak is 20 kts (23 MPH); Gusts 40 kts (45 MPH).
+The Operating Altitude is 0-12,000 MSL.
+

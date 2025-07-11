@@ -1,0 +1,79 @@
+This document describes the Type 60 Chinese 122mm Towed Gun.
+
+The 122mm D-74 towed gun is a Soviet-built gun. Developed in the late 1950s it provided direct and indirect fire for the Soviet Army. Today it is in reserve units with the Russian Army.
+
+It is in active service with the Egyptian Army and the Pakistani Army.
+
+The 122 mm (originally 48 lines) caliber has been in Russian service since the early 20th century. After World War II the Soviet Union developed two new long range guns to replace existing 122 mm and 152 mm guns such as 122 mm gun M1931 (A-19), 122 mm gun M1931/37 (A-19), 152 mm gun M1910/30 and 152 mm gun M1935 (Br-2). The two new guns were the 122 mm D-74 and the 130 mm M-46.
+
+The D-74 design was probably initiated in the late 1940s and it was first seen in public in 1955. It was designed by the well established design bureau at Artillery Plant No. 9 in Sverdlovsk (now Motovilikha Plants in Yekaterinburg), led by the eminent artillery designer Fëdor Fëdorovich Petrov who was also responsible for several World War II and later artillery designs. The design team also developed the 152 mm gun howitzer D-20 at much the same time, and both D-74 and D-20 use the same carriage.
+
+Both the 122 mm D-74 and 130 mm M-46 entered Soviet service, but the heavier shell and greater range of the M-46 meant that it outlasted the D-74.
+
+The D-74 has a 52 caliber barrel, with a double baffle muzzle brake and a semi-automatic vertical sliding-block breach, with a tied jaw and the block moving down to open. The barrel is mounted in a long ring cradle with the trunnions just forward of the breach. The recoil system (buffer and recuperator) is mounted on the cradle above the barrel. Compression balancing gear is attached behind the saddle support, passing through the complex shaped saddle to connect to the cradle just forward of the trunnions. This can be manually re-pressured by a pump below the breach. The breach has a projectile retaining catch to prevent the shell sliding out at higher elevations before it is rammed with a manual rammer.
+
+The Type 60 122mm towed gun is the Soviet D-74 122mm gun produced by the Chinese under licence. Developed in the late 1950s, it provided direct/indirect fire for the PLA. It remains in service with reserve units in gun battalions attached to motorized infantry and armored divisions. It is in active service with the Sri Lankan Army, introduced in the early 1990s to replace the Ordnance QF 25 pounder field gun. It has seen action in the Sri Lankan civil war.
+
+Top traverse totals 60° and the vertical elevation range in -5° to 50°.
+
+Box girder section split trail legs are hinged to the cradle support, with bolts to lock them into either the open or closed position. The cradle support also has a bolt for locking the barrel in center for traverse before towing the gun. There are small spades at the end of each trail leg, and fittings for large spades that are carried on the side of each trail leg. The large spades are used on soft ground and are fitted to the trail ends via have a pintle in the same way as the similar spades on M-46. These spades are the main difference from the D-20 carriage.
+
+To assist with all-round carriage traverse, there is a pivot jack mounted at the front of the cradle support. The pivot jack is not a sole plate and the gun fires with its foam filled rubber tyred wheels supporting the gun on the ground. When the gun is brought into action the pivot jack is folded down and adjusted to be on the ground. If the requires large traverse, small jacks on each trail leg are rotated downwards, and the trails jacked up until the main wheels are lifted clear of the ground and the bogey wheels mounted on each trail leg swung downwards and the trail jacks raised, the carriage is then traversed, and the trail jacks re-used to lift the bogey wheels and then place the piece back on its main wheels.
+
+The pivot jack is also used to secure the barrel against vertical movement when the gun is being towed. The barrel is locked in center for traverse with a bolt on the cradle support. The jack is folded upwards, lugs on the ring cradle engage the jack base and two tensioners fixed to the saddle support are hooked to the cradle, these are tightened to lock the cradle onto the jack base.
+
+As was normal for the period the gun has a shield, including a folding piece below the cradle support. The center section of the upper shield both slides up and down and folds to accommodate the barrel at higher elevation angles of fire. The shield may offer some protection against muzzle blast to the sights and layer, although it is usually shown being fired with a long lanyard, but is probably mostly for defense against machine gun fire.
+
+The non-reciprocating sights are designed for one-person laying. Included are a direct fire anti-tank telescope (OP4M), a panoramic periscopic indirect-fire sight, a dial sight, (PG1M), an angle of sight scale, and a range drum for the single charge engraved with the range (distance) scale, coupled to an elevation levelling bubble mounted on dial sight mount. The range drum enables the standard Soviet technique of semi-direct fire when the piece is laid visually on the target and the range set on the range drum.
+
+The gun fires separate ammunition using a metal cartridge case that also provides obscuration. The ammunition is different to that used with 122 mm howitzers. There is a single charge without increments. The shell weight is 25 kg with a muzzle velocity of 900 m/s although the slightly lighter APHE shell has a higher muzzle velocity.
+
+Maximum rate of fire is usually stated as six rounds per minute.
+
+The detachment was either eight or nine men, probably differing between armies and period. In Soviet service the 5,600 kg gun was usually towed by a URAL-375 6×6 truck, AT-S or AT-L medium tractor in some regions.
+
+This equipment has proliferated into the following countries: Cambodia, China, Egypt, Pakistan, Sri Lanka, Sudan, Zimbabwe.
+
+Here is System information for the Type 60 Chinese 122mm Towed Gun:
+The Alternative Designation is Type 60.
+The Type is 122mm Towed Gun.
+The Crew is 7~9.
+The Carriage is Split-trail.
+The Displacement Time is under 2.
+The Emplacement Time is under 2.
+
+Here is Dimensions information for the Type 60 Chinese 122mm Towed Gun:
+The Length is 9.875 m.
+The Barrel Length is 6.45 m.
+The Width is 2.35 m.
+The Height is 2.7 m.
+The Weight is 5,620 kg.
+
+Here is System information for the Type 60 Chinese 122mm Towed Gun of the Main Weapon System:
+The Name is Type 60.
+The Type is Towed Gun.
+The Caliber is 122.
+The Breech is Semi-automatic vertical sliding-wedge.
+The Recoil is Hydro-pneumatic.
+The Carriage is Split-trail.
+The Elevation is +45/−5 degree.
+The Traverse is 45 degree.
+The Rate of Fire is Maximum: 8–10 rpm.
+The Muzzle Velocity is 885 m/s.
+The Maximum Firing Range is 24 km.
+The Effective Firing Range is Indirect: 23.9 km (15 mi)
+Direct: 1,080 m (1,181 yds).
+
+Here is Ammunition information for the Type 60 Chinese 122mm Towed Gun of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 122.
+The Shell is Separate loading charge and projectile.
+The Basic Load is INA.
+
+Here is Fire Control information for the Type 60 Chinese 122mm Towed Gun:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Collimator is INA.
+

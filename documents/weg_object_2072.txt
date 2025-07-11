@@ -1,0 +1,48 @@
+This document describes the Heckler and Koch MG4 German 5.56mm Light Machine Gun.
+
+The Heckler & Koch MG4 (also known as the HK123) is a belt-fed 5.56 mm light machine gun designed and developed by German firearm manufacturer Heckler & Koch. The weapon was developed in the late 1990s and was first seen publicly in September 2001. It has been selected to replace the 7.62 mm MG3 general-purpose machine gun in the Bundeswehr at the squad support level; it will complement the MG3 in other roles. The MG4 will also be the secondary armament of the new Puma infantry fighting vehicle. Overall, it is designed to be light, provide maximum safety to the user and function reliably under adverse conditions using a wide range of ammunition from different manufacturers, without the need to adjust the gas system. The machine gun was initially known as the MG43 prior to its adoption by the Bundeswehr.
+
+The MG4 is an air-cooled, belt-fed gas-operated light machine gun with a positively locked rotary bolt and is somewhat similar in concept to the Belgian Minimi light machine gun. Safety mechanisms on the machine gun includes a manual safety incorporated into the fire mode selector toggle; setting the fire selector lever on the "safe" position blocks the trigger mechanically and locks the bolt in the cocked position. When the bolt is not pulled back completely, accidental firing is prevented by an integral, automatic mechanism that prevents the bolt from traveling forward. In addition, the firing pin cannot reach the cartridge primer until the cartridge has been fully chambered.
+
+The machine gun is fed from a disintegrating belt and is carried out in two stages from the top left using an enhanced pawl mechanism. As on the MG42 family of machine guns, the belt is expelled to the right and spent cases are ejected downwards, although sideways ejection to the right is an option.
+
+The MG4 has a hammer-forged quick-change barrel that can be safely exchanged when hot without the need for protective gloves; the carrying handle serves as the barrel change grip. The barrel assembly weighs 1.80 kg (3.97 lb). To reduce the overall length of the weapon for transport, the butt stock can be folded to the left side of the receiver. With the buttstock folded the MG4 remains fully operable. A field cleaning kit is housed within the stock. The MG4 takes zero shifts between barrel assemblies into account by making the front sight of the assemblies mechanically adjustable. In its standard form, the MG4 is equipped with closed type iron sights with range settings up to 1,000 m (1,094 yd) in 100 m (109 yd) increments. The folding front sight element is mounted on the barrel assembly and is adjustable mechanically for both windage and elevation. The sight line radius is 602 millimeters (23.7 in). Optical or night sights or laser pointers can be mounted on a length of MIL-STD-1913 Picatinny rail located on the receiver feed tray cover. Bundeswehr models are equipped with telescopic sights with 3× magnification.
+
+A folding bipod weighing 0.70 kg (1.54 lb) is provided. Supporting interfaces are integrated into the receiver to allow the MG4 to be mounted on the standard American M122A1 tripod for increased accuracy and stability.
+
+This equipment has proliferated into the following countries: Albania, Brazil, Estonia, Germany, Malaysia, Portugal, Saudi Arabia, Spain, Turkey.
+
+Here is Variants information for the Heckler and Koch MG4 German 5.56mm Light Machine Gun:
+The MG4 (HK123) is The Heckler & Koch MG4 (HK123) light machine gun is chambered in 5.56×45mm NATO cartridge and has been adopted by the Bundeswehr..
+The MG4E (HK123E) is An export variant of the MG4 that has been slightly modified and is slightly lighter. The letter "E" in the designation stands for "Export". It has a different gas assembly that reduces the cyclic rate of fire. In 2007, the Spanish Army adopted this variant as their standard light machine gun. The Spanish Military of Defence ordered 1,800–2,000 of these light machine guns..
+The MG4 Vehicle Weapon (HK123 Vehicle Weapon) is A variant of the MG4 configured for use as a vehicle or coaxial machine gun. It lacks a buttstock, rear sight, cartridge case deflector, handguard, and bipod mount. It can be fitted with a remote firing device and safety/fire selector lever. It can also be fitted for dismounted use.
+The MG4K (HK123K) is A variant of the MG4 with a shorter barrel..
+The MG4KE (HK123KE) is An export variant of the MG4K..
+The MG5 (HK121) is The Heckler & Koch MG5 (HK121) general-purpose machine gun is chambered in 7.62×51mm NATO cartridge and has been adopted by the Bundeswehr. It is based on the MG4, however there are only few parts that are interchangeable due to the machine guns having different calibers and their size differences..
+
+Here is System information for the Heckler and Koch MG4 German 5.56mm Light Machine Gun of the System:
+The Name is Heckler and Koch MG4 (also known as the HK123).
+The Type is Light machine gun.
+The Manufacturer is Heckler & Koch.
+The Length is 1,030 mm (40.6 in) stock extended / 830 mm (32.7 in) stock folded (MG4, MG4E)
+950 mm (37.4 in) stock extended / 750 mm (29.5 in) stock folded (MG4KE).
+The Barrel Length is 450 mm (17.7 in) (MG4, MG4E) 370 mm (14.6 in) (MG4KE).
+The Width is 90 mm (3.5 in).
+The Height is 250 mm (9.8 in).
+The Weight is 8.15 kg (17.97 lb) (MG4)
+7.90 kg (17.4 lb) (MG4E)
+7.70 kg (17.0 lb) (MG4KE).
+The Action is Gas-operated, rotating bolt.
+The Rate of Fire is 890 (± 60) RPM (MG4)
+775 (± 50) RPM (MG4E, MG4K).
+The Effective Firing Range is Approx. 1,000 m (MG4, MG4E) Approx. 900 m (MG4KE).
+The Feed System is M27 linked disintegrating belt.
+The Sights is Iron sights; MIL-STD-1913 rail provided for optics, German Army models are equipped with telescopic sights with 3× magnification..
+
+Here is Ammunition information for the Heckler and Koch MG4 German 5.56mm Light Machine Gun of the System:
+The Type is Rifle.
+The Caliber is 5.56.
+The Cartridge is 5.56 x 45mm NATO.
+The Basic Load is 1,000 rounds ready to fire, 1,000 rounds in
+storage.
+

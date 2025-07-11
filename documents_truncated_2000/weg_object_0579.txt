@@ -1,0 +1,140 @@
+This document describes the Raad-2M Iranian 155mm Self-Propelled Howitzer (SPH).
+
+In early September 1997 it was reported that Iran had successfully tested a locally built rapid fire mobile field gun known as Raad-2 (Thunder-2). 
+It uses a turret that has a similar layout to the M109A1, 155mm/39-cal self-propelled howitzer.  The Iranian Defense Industries Organization claimed that the 155 mm HM44 howitzer manufactured by the Hadid facility of the Iranian Defense Industries Organization had a high firing rate and accuracy. It was described as being able to fire five rounds per minute. The gun's range was reported as 30km (19mi), and it also includes features such as a laser range-finder and a semi-automatic loading system. The gun looks exactly like 155mm/39-cal M185 gun from M109A1 and is fitted with a double baffle muzzle brake, fume extractor, screw breech mechanism, hydro-pneumatic recuperator and a hydraulic recoil brake. It uses the Iranian-made Boragh APC chassis, a conversion of the either the Russian BMP-1 or Chinese Type 86 (WZ-501) IFV. It was described as being able to move with a speed of 70km/h (43mph) on the battlefield.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of).
+
+Here is System information for the Raad-2M Iranian 155mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is Raad-2M.
+The In Service is 1997-Present.
+The Manufacturer is Defense Industries Organization.
+The Type is Self-Propelled Howitzer.
+The Family is Raad Series.
+The Crew is 5 (commander, gunner, driver, 2 loaders).
+The Chassis is chassis is based on the Chinese WZ-501/503 series, itself a copy of the Russian BMP-1 series..
+The Displacement Time is INA.
+The Emplacement Time is Less than 1 min.
+
+Here is Dimensions information for the Raad-2M Iranian 155mm Self-Propelled Howitzer (SPH):
+The Length is 9.14.
+The Width is 3.38.
+The Height to Turret Roof is 2.60.
+The Height to Top of Roof-Mounted Weapon is 3.47.
+The Height, Axis of Fire is 2.24.
+The Weight, Combat is 36,000.
+The Ground Pressure is 0.67.
+
+Here is Automotive information for the Raad-2M Iranian 155mm Self-Propelled Howitzer (SPH):
+The Engine Name is 5TDF.
+The Engine Type is Water-cooled Diesel.
+The Engine Power is 700.
+The Power-to-Weight Radio is 19 hp/ton.
+The Cruising Range is 450.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 45.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Obstacle is 0.80.
+The Trench is 2.40.
+The Fording Depth (Without Preparation) is 1.2.
+The Transmission is SPAT 1200 transmission.
+
+Here is Communications information for the Raad-2M Iranian 155mm Self-Propelled Howitzer (SPH):
+The Digital Communications is Yes.
+The VHF Capable is Yes.
+The HF Capable is Yes.
+
+Here is System information for the Raad-2M Iranian 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is 1 x HM44 155-mm/39-cal howitzer.
+The Type is 155.
+The Breech Type is Screw breech mechanism.
+The Length, Barrel is 39 Calibers.
+The Max Rate of Fire is 4.
+The Recuperator is Hydropneumatic recuperator.
+The Brake Type is hydraulic recoil brake..
+The Fume Extractor is Yes.
+The Muzzle Break Type is Double Baffle Muzzle Break.
+The Max Elevation is +75.
+The Min Elevation is -3.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Effective Firing Range is 30.
+The Barrel Life is 5,000 when firing Charge 8.
+
+Here is Ammunition (Option 1) information for the Raad-2M Iranian 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is M107.
+The Type is High Explosive (HE).
+The Caliber is 39 Caliber.
+The Muzzle Velocity is INA.
+The Basic Load is 30 total of any combination of 155mm Projectiles.
+The Effective Range is 18.1.
+The Note is The Raad-2 can also fire 155mm Smoke, HE Base Bleed, and Illuminating Projectiles..
+
+Here is Ammunition (Option 1) information for the Raad-2M Iranian 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is INA.
+The Type is Base Bleed HE.
+The Caliber is 39 Caliber.
+The Muzzle Velocity is INA.
+The Basic Load is 30 total of any combination of 155mm Projectiles.
+The Maximum Effective Range is 24.
+
+Here is Ammunition (Option 1) information for the Raad-2M Iranian 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is INA.
+The Type is Charge 2.
+The Caliber is 39 Caliber.
+The Muzzle Velocity is INA.
+The Basic Load is 30 total of any combination of 155mm Projectiles.
+The Maximum Effective Range is 3,000.
+
+Here is System information for the Raad-2M Iranian 155mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Name is M2 Browning .50 Caliber Machine Gun.
+The Type is Machine Gun.
+The In Service is 1933-Present.
+The Proliferation is +3 Million.
+The Weight, Gun is 83.78.
+The Weight, Gun with Tripod and T&E is 127.87.
+The Length is 1,654.
+The Barrel Length is 1,143.
+The Action is Short recoil-operated.
+The Rate of Fire is 450-600.
+The Effective Firing Range is 1,800.
+The Maximum Effective Firing Range is 7,400.
+The Feed System is Belt-fed (M2 or M9 links).
+
+Here is Ammunition information for the Raad-2M Iranian 155mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Muzzle Velocity is 890.
+The Basic Load is 2,000.
+
+Here is Fire Control information for the Raad-2M Iranian 155mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is passive night-driving periscope.
+The Main Gun Stabilization is Yes, When deployed in the firing position two spades are lowered either side of the hull rear of Thunder-2 to provide a more stable firing platform..
+The Indirect Fire is indirect fire sight is fitted in the turret roof.
+The Direct Fire is The direct-fire sight is parallel to the main 155-mm cannon.
+The GPS is Yes.
+The Navigation is Yes.
+The Gunner's Control  Panel and Display is Yes.
+The Commander's Control  Panel and Display is Yes.
+The Automatic Gunlaying System is Yes.
+
+Here is Protection information for the Raad-2M Iranian 155mm Self-Propelled Howitzer (SPH):
+The Hull Armor is 20.
+The Turret Armor is all-welded steel armor, providing protection from small-arms fire and shell splinters.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The Automatic Firefighting System is Yes.
+The Air-Conditioner is Yes.
+

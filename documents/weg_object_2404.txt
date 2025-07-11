@@ -1,0 +1,64 @@
+This document describes the FGM-148F Javelin American Anti-Tank Guided Missile (ATGM).
+
+The FGM-148 Javelin is an American man-portable fire-and-forget anti-tank missile fielded to replace the M47 Dragon anti-tank missile in US service. It uses automatic infrared guidance that allows the user to seek cover immediately after launch, as opposed to wire-guided systems, like the Dragon, which require the user to actively guide the weapon throughout the engagement. The Javelin's HEAT warhead is capable of defeating modern tanks by attacking them from above where their armor is thinnest (see top-attack), and is also useful against fortifications in a direct attack flight.
+
+As of January 2019, over 5,000 Javelin missiles have been fired in combat.
+
+Javelin is a fire-and-forget missile with lock-on before launch and automatic self-guidance. The system takes a top-attack flight profile against armored vehicles (attacking the top armor, which is generally thinner), but can also take a direct-attack mode for use against buildings, targets inside the minimum top-attack engagement range, and targets under obstructions. The missile also has the ability to engage helicopters in the direct attack mode. It can reach a peak altitude of 150 m (500 ft) in top-attack mode and 60 m (190 ft) in direct-fire mode. It is equipped with an imaging infrared seeker. The tandem warhead is fitted with two shaped charges: a precursor warhead to detonate any explosive reactive armor and a primary warhead to penetrate base armor.
+
+The missile is ejected from the launcher so that it reaches a safe distance from the operator before the main rocket motors ignite – a "soft launch arrangement". This makes it harder to identify the launcher; however, back-blast from the launch tube still poses a hazard to nearby personnel. Thanks to this "fire-and-forget" system, the firing team may change their position as soon as the missile has been launched, or prepare to fire on their next target while the first missile is still in the air.
+
+The missile system is most often carried by a two-person team consisting of a gunner and an ammunition bearer, although it can be fired with just one person if necessary. While the gunner aims and fires the missile, the ammo bearer scans for prospective targets, watches for threats, such as enemy vehicles and troops, and ensures that personnel and obstacles are clear of the missile's back blast.
+
+This equipment has proliferated into the following countries: Australia, Bahrain, Czech Republic, Estonia, France, Georgia, Indonesia, Ireland, Jordan, Libya, Lithuania, New Zealand, Norway, Oman, Qatar, Saudi Arabia, South Korea (Republic of Korea), Ukraine, United Arab Emirates, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is System information for the FGM-148F Javelin American Anti-Tank Guided Missile (ATGM):
+The Alternative Designation is FGM-148 Javelin.
+The Type is Anti-Tank Guided Missile (ATGM).
+The Crew is 2.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Engine is Solid-fuel rocket.
+The Guidance System is infrared homing.
+The Effective Firing Range is original CLU: 2,500 m (1.6 mi)
+Lightweight CLU: 4,000 m (2.5 mi)
+from vehicle: 4,750 m (2.95 mi.
+The Launch Tube Assembly is Both the gunner and the ammunition bearer carry a disposable tube called the Launch Tube Assembly, which houses the missile and protects the missile from harsh environments. The tube also has built in electronics and a locking hinge system that makes attachment and detachment of the missile to and from the Command Launch Unit a quick and simple process..
+
+Here is Dimensions information for the FGM-148F Javelin American Anti-Tank Guided Missile (ATGM):
+The Length, Launcher is 1.2 m.
+The Length, Missile is 1.1 m.
+The Diameter, Launcher is 142 mm.
+The Diameter, Missile is 127 mm.
+The Carry Weight is 22.3 kg.
+The Detachable Command Launch Unit (CLU) is 6.4 kg.
+
+Here is Ammunition information for the FGM-148F Javelin American Anti-Tank Guided Missile (ATGM):
+The Name is Javelin Missile.
+The Type is HEAT.
+The Warhead is Tandem shaped charge HEAT.
+The Warhead Weight is 8.4 kg.
+The Detonation Mechanism is Impact force.
+The Penetration is 750mm+ RHA.
+The Seeker is As a fire-and-forget missile, after launch the missile has to be able to track and destroy its target without the gunner. This is done by coupling an on-board imaging IR system (different from CLU imaging system) with an on-board tracking system.
+
+The gunner uses the CLU's IR system to find and identify the target then switches to the missile's independent IR system to set a track box around the target and establish a lock. The gunner places brackets around the image for locking.
+
+The seeker stays focused on the target's image continuing to track it as the target moves or the missile's flight path alters or as attack angles change. The seeker has three main components: focal plane array (FPA), cooling and calibration and stabilization..
+The Focal Plane Array (FPA) is The seeker assembly is encased in a dome that is transparent to long-wave infrared radiation. The IR radiation passes through the dome and then through lenses that focus the energy. The IR energy is reflected by mirrors on to the FPA. The seeker is a two-dimensional staring FPA of 64×64 MerCad (HgCdTe) detector elements.[20] The FPA processes the signals from the detectors and relays a signal to the missile's tracker.
+
+The staring array is a photo-voltaic device where the incident photons stimulate electrons and are stored, pixel by pixel, in a readout integrated circuits attached at the rear of the detector. These electrons are converted to voltages that are multiplexed out of the ROIC on a frame-by-frame basis..
+
+Here is Fire Control information for the FGM-148F Javelin American Anti-Tank Guided Missile (ATGM):
+The Name is INA.
+The Computerized FCS is Yes.
+The Guidance System is infrared homing.
+The Direct Fire is Yes.
+The Command Launch Unit is The gunner carries a reusable Command Launch Unit (in addition to the Launch Tube Assembly) more commonly referred to as a CLU (pronounced "clue") and is the targeting component of the two-part system. The CLU has three views which are used to find, target, and fire the missile and may also be used separately from the missile as a portable thermal sight. Infantry are no longer required to stay in constant contact with armored personnel carriers and tanks with thermal sights. This makes infantry personnel more flexible and able to perceive threats they would not otherwise be able to detect. In 2006, a contract was awarded to Toyon Research Corporation to begin development of an upgrade to the CLU enabling the transmission of target image and GPS location data to other units.
+The Day Field of View is The first view is a 4× magnification day view. It is mainly used to scan areas for light during daylight operation, because light is not visible in the thermal views. It is also used to scan following sunrise and sunset, when the thermal image is hard to focus due to the natural rapid heating and/or cooling of the Earth..
+The Wide Field of View is he second view is the 4× magnification night view, and shows the gunner a thermal representation of the area viewed. This is also the primary view used due to its ability to detect infrared radiation and find both troops and vehicles otherwise too well hidden to detect. The screen shows a "green scale" view which can be adjusted in both contrast and brightness. The inside of the CLU is cooled by a small refrigeration unit attached to the sight. This greatly increases the sensitivity of the thermal imaging capability since the temperature inside the sight is much lower than that of the objects it detects. Due to the sensitivity this causes, the gunner is able to "focus" the CLU to show a detailed image of the area being viewed by showing temperature differences of only a few degrees. The gunner operates this view with the use of two hand stations similar to the control stick found in modern cockpits. It is from this view that the gunner focuses the image and determines the area that gives the best heat signature on which to lock the missile..
+The Narrow Field of View is The third field of view is a 12× thermal sight used to better identify the target vehicle. Once the CLU has been focused in WFOV, the gunner may switch to NFOV for target recognition before activating Seeker FOV.
+
+Once the best target area is chosen, the gunner presses one of the two triggers and is automatically switched to the fourth view; the Seeker FOV, which is a 9x magnification thermal view. This process is similar to the automatic zoom feature on most modern cameras. This view is also available along with the previously mentioned views, all of which may be accessed with press of a button. However, it is not as popular as a high magnification view takes longer to scan a wide area. This view allows the gunner to further aim the missile and set the guidance system housed inside the actual missile. It is when in this view that information is passed from the CLU, through the connection electronics of the Launch Tube Assembly, and into the missile's guidance system. If the gunner feels uncomfortable with firing the missile, he can still cycle back to the other views without having to fire the missile. When the gunner is comfortable with the target picture, he pulls the second trigger and establishes a "lock”. The missile launches after a short delay..
+The Lightweight CLU is The US Army is developing a new CLU as an improvement over the Block I version. The new CLU is 70 percent smaller, 40 percent lighter, and has a 50 percent battery life increase. Features of the lightweight CLU are: a long-wave IR sensor; a high-definition display with improved resolution; integrated handgrips; a five megapixel color camera; a laser point that can be seen visibly or through IR; a far target locator using GPS, a laser rangefinder, and a heading sensor; and modernized electronics..
+

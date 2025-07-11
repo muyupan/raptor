@@ -1,0 +1,121 @@
+This document describes the Mohajer-6 Iranian ISTAR Unmanned Aerial Vehicle (UAV).
+
+The Qods Mohajer-6 is an Intelligence, Surveillance, Target Acquisition, and Reconnaissance (ISTAR) UAV capable of carrying a multispectral surveillance payload and/or up to two precision-guided munitions. Ten have been manufactured as of February 2018 for the IRGC Ground Forces, and 40 are planned for the IRGC Navy. The Mohajer-6 complements the larger Shahid 129 operated by the third IRGC branch, the IRGC-ASF. Three have also been delivered to the Iranian Army.
+
+The Mohajer-6 was unveiled in April 2017 and entered serial production in February 2018. As with other members of the Mohajer family, the Mohajer-6 is made of composite.
+
+The Mohajer-6 has a rectangular fuselage, an upwards-sloping nose, twin tail booms, a top-mounted horizontal stabilizer, unwanted wingtips, straight wings mounted high and to the rear of the body, and air intakes on the top and bottom of the engine. The Mohajer-6 is controlled by two elevators on the horizontal stabilizer, rudders on the vertical stabilizers, and two flaps per wing. Unlike other Mohajer variants, it has a three-bladed propeller. The Mohajer-6 has a wingspan of 10 meters and is 5.67 meters long. It is similar in shape to the Selex ES Falco.
+
+The Mohajer-6 has fixed tricycle landing gear, which underwent changes between the unveiling ceremony in 2017 and mass production in 2018, perhaps to accommodate more weight. It is launched and recovered via runway takeoff/landing.
+
+It has a fixed, forward-facing camera for navigation and a gimbal on the chin for a laser range finder and multispectral IR and visible light electro-optical imagery. The Mohajer-6 has three antennas, two on its left-wing and one on its right, and a pitot tube on its nose. The Mohajer-6 has two hardpoints, one under each wing, which can each carry one Qaem TV/IR-guided missile. It has an autopilot system capable of automatic takeoff and landing. In addition, Iran describes it as capable of being fitted with electronic support measures, communications jamming, or electronic warfare payloads.
+
+This equipment has proliferated into the following countries: Ethiopia, Iran (Islamic Republic of), Iraq, Russian Federation.
+
+Here is Variants information for the Mohajer-6 Iranian ISTAR Unmanned Aerial Vehicle (UAV):
+The Mohajer-1 is The Mohajer was Iran's first drone to enter series production and was used during the Iran–Iraq War. The Mohajer-1 was known simply as "Mohajer" through the 80s and 90s, when it was re-designated "Mohajer-1" as other Mohajer variants had been developed..
+The Mohajer-2 is Following the successful use of the Mohajer-1, Iran wanted a version with more range and endurance. This version, which would later be named the Mohajer-2, also had an autopilot system to fly beyond the line of control of its command center..
+The Mohajer-2N is In 2014, Iran introduced the Mohajer-2N, which shares the same design as the Mohajer-2 but has far improved performance. The Mohajer-2N replaces the electronics of the Mohajer-2 with more modern versions and has also improved flight characteristics..
+The Mohajer-3 is The Mohajer-3, also known as the Dorna, was designed with a new airframe for better performance. It had a square body and featured a low-mounted horizontal stabilizer flush with the main wing, the only member of the Mohajer family configured this way..
+The Mohajer-4 is The Mohajer-4 was designed for both the Iranian Army and the IRGC and entered service in late 1997..
+The Mohajer-4B is Also known as the Sadiq, the Mohajer-4B is a significant evolution of the Mohajer-4 platform with a square fuselage, twin tail booms, a top-mounted horizontal stabilizer, unwanted wingtips, new landing skids, and straight wings mounted high and to the mid of the body..
+The Sadegh-1 is The Sadegh-1 ("Honest-1"), also known as the QOM-1, is simply a Mohajer-4B with two MANPADS mounted on pylons. It was tested in late 2014..
+The Mohajer-6 is The Qods Mohajer-6 is a persistent ISTAR UAV capable of carrying a multispectral surveillance payload and/or up to two precision-guided munitions. Ten have been manufactured as of February 2018 for the IRGC Ground Forces, and 40 are planned for the IRGC Navy. The Mohajer-6 complements the larger Shahid 129 operated by the third IRGC branch, the IRGC-ASF. Three have also been delivered to the Iranian Army..
+
+Here is System information for the Mohajer-6 Iranian ISTAR Unmanned Aerial Vehicle (UAV):
+The Alternative Designation is Mohajer-6.
+The Type of UAV is Intelligence, Surveillance, Target Acquisition, and Reconnaissance (ISTAR) UAV.
+The Manufacturer is Qods Aviation, Tehran.
+The Units Manufactured is Total: +50.
+The Family is Mohajer family.
+The In Service is 2017-Present.
+The Day/Night Capable is Yes.
+The All Weather Capable is INA.
+The Takeoff or Landing Limitations is INA.
+The Ground Crew is Crew of 5-7 men, including two operators. Capable of being controlled via land crew or autopilot.
+The Autopilot is Yes, which controls the aircraft via waypoints.
+The Endurance is 12 hours.
+The Range is 200 km.
+The Date Transmit Distance is INA.
+The Location Positioning System is Yes.
+The Launch System is INA.
+The Recovery System is Launched and recovered via runway takeoff/landing..
+The Number of Hard Points is 2.
+The Manned-Unmanned Teaming (MUM-T) Capable is No.
+The Automatic Landing and Takeoff Capability is Yes.
+The Landing Gear is fixed tricycle landing gear.
+The Stabilizer is Horizontal stabilizer.
+The ISAR Capable is Yes.
+The Proliferation is Iran, Syria, Venezuela, Hezbollah.
+
+Here is Dimensions information for the Mohajer-6 Iranian ISTAR Unmanned Aerial Vehicle (UAV):
+The Length is 5.67.
+The Width (Wing Span) is 10.
+The Height is INA.
+The Weight, Maximum Takeoff is 600.
+The Payload Capacity is 40.
+The Tailbooms is Twin tail booms.
+The Wing Type is uncanted wingtips, straight wings mounted high and to the rear of the body.
+The Stabilizer is top-mounted horizontal stabilizer.
+
+Here is Automotive information for the Mohajer-6 Iranian ISTAR Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Maximum Range is 200.
+The Speed, Maximum is 200.
+The Speed, Average is INA.
+The Endurance is 12 hours.
+The Maximum Ceiling is 5,486.
+The Radius is INA.
+The Cargo Capacity (Payload) is 40.
+The Propellers is Three-bladed propeller.
+The Rudders is Twin Rudders.
+
+Here is Communications information for the Mohajer-6 Iranian ISTAR Unmanned Aerial Vehicle (UAV):
+The Radio is INA.
+The Retrans Radio is INA.
+
+Here is Main Weapons System information for the Mohajer-6 Iranian ISTAR Unmanned Aerial Vehicle (UAV):
+The Name is Qaem Air to Ground Bomb.
+The Type is Qaem TV/IR-guided missile.
+The Guidance System is TV/IR-guided.
+The Length is INA.
+The Diameter is INA.
+The Weight is INA.
+The Effective Firing Range is INA.
+The Maximum Firing Range is INA.
+The Speed is INA.
+The Basic Load is 2.
+The Note is The Qaem A2G glide bomb is related to the Sadid-345 glide bomb, but has different wings and size.
+
+Here is Fire Control information for the Mohajer-6 Iranian ISTAR Unmanned Aerial Vehicle (UAV):
+The Fire Control System Type is INA.
+The Fire Control Radar is No.
+The Radar Type is INA.
+The Radar Designator is INA.
+The Laser Rangefinder is Yes.
+The Laser Designator is INA.
+The Full-Motion Video is Yes, video and infrared with 1-m resolution mounted on the forward part of the fuselage.
+The Still Camera is static nose-mounted camera.
+The Thermal Imaging Sensors is Yes, multispectral IR and visible light electro-optical imagery.
+The Electro Optical Pod is INA.
+The Forward-Looking Infrared (FLIR) Sensors. is Yes.
+The Onboard Digital Processor is Yes, which can downlink sensor imagery.
+The Navigation Camera is Fixed forward-facing camera for navigation.
+The Surveillanc Camera is Either a downward-facing camera for aerial surveying or a gimbal-mounted video camera for surveillance.
+The GPS Enabled is Yes.
+The Guidance System is Hyarat 3 guidance and control system.
+The Data Link is Yes, data link that can downlink imagery in real time.
+The Note is The Mohajer-6 has three antennas, two on its left wing and one on its right, and a pitot tube on its nose.
+
+Here is Protection information for the Mohajer-6 Iranian ISTAR Unmanned Aerial Vehicle (UAV):
+The Fuselage is Rectangular fuselage.
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The Add on Armor is No.
+The EW is Yes.
+The EW Counter Measures / CCM is Yes.
+The Counter Measures (Chaffs/Flares) is No.
+The Communication Jamming is Yes.
+

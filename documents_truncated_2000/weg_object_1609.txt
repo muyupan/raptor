@@ -1,0 +1,40 @@
+This document describes the Saw Tiger Chinese 4x4 Unmanned Ground Vehicle (UGV).
+
+The Saw Tiger Chinese 4x4 Unmanned Ground Vehicle (UGV) all-electric controlled, unmanned vehicle that is equipped with a number of sensors including 32-line LIDAR as well as multiple surveillance cameras.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Saw Tiger Chinese 4x4 Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Saw Tiger.
+The Type is Chinese 4x4 Vehicle (UGV).
+The Manufacturer is NORINCO.
+The Configuration is 4x4.
+The Crew is Unmanned.
+The Controls is Control mode: autonomous driving, remote control, manual driving..
+The Cameras is The vehicle is equipped with a number of sensors, including 32-line LIDAR as well as multiple surveillance cameras..
+The Payload Capacity is 800 kg.
+
+Here is Dimensions information for the Saw Tiger Chinese 4x4 Unmanned Ground Vehicle (UGV):
+The Length is 4.8 m.
+The Width is 2.6 m.
+The Height is 1.82 m.
+The Weight is 5,700 kg.
+
+Here is Automotive information for the Saw Tiger Chinese 4x4 Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Range is >10 km.
+The Maximum Speed, Remote Control is 20-30 km/h.
+The Maximum Speed, Autonomous is >10 km/h.
+
+Here is Communications information for the Saw Tiger Chinese 4x4 Unmanned Ground Vehicle (UGV):
+The Note is Control mode: autonomous driving, remote control, manual driving..
+
+Here is Main Weapon System information for the Saw Tiger Chinese 4x4 Unmanned Ground Vehicle (UGV):
+The Note is There are no crew-served weapon systems associated with the Saw Tiger Chinese 4x4 Unmanned Ground Vehicle (UGV)..
+
+Here is Protection information for the Saw Tiger Chinese 4x4 Unmanned Ground Vehicle (UGV):
+The Armor is INA.
+The Applique Armor is INA.
+

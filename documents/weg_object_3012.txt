@@ -1,0 +1,44 @@
+This document describes the Scorpio Ukrainian Tracked Unmanned Ground Vehicle (UGV).
+
+The Scorpio Ukrainian Tracked Unmanned Ground Vehicle (UGV) is mobile multifunctional fire support and reconnaissance asset of troop squadron level for guarding the perimeter and borders. Capabilities include: providing maneuver with fire; used strengthening the platoon (squad) with a machine gun / grenade launcher on a mobile platform; builds a more effective line of fire with active company defense in the presence of three or more units of this equipment.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the Scorpio Ukrainian Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Scorpio.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is Timberland Military Solutions.
+The Configuration is Tracked.
+The Crew is Unmanned.
+The Platform Management System is 2 NVIDIA Jetson on-board computers for: road tracking; processing objects and obstacles by the neural network from all sides.
+
+2 programmable PLC controllers for control: movement of the robotic platform; turret management..
+The Autonomous Control is SMART TRACK
+– movement behind the driving car / object
+by GPS
+– perimeter patrol
+– movement from point to point
+– return “home” when the control channel disappears
+without GPS
+– movement during electronic warfare.
+The Remote Control is Locally (line of sight): gestures, voice, leash remotely: from an operator station, from a tablet, from a Quadro copter..
+The Communication Channel is WiFi 5 GHz.
+The Operating Temperature is – 25 ° to + 60 ° C.
+
+Here is Dimensions information for the Scorpio Ukrainian Tracked Unmanned Ground Vehicle (UGV):
+The Length is 1,320 mm.
+The Width is 860 mm.
+The Height is 1,900 mm.
+The Weight (without Weapons and Ammunition) is 370 kg.
+The Clearance is 140 mm.
+
+Here is Automotive information for the Scorpio Ukrainian Tracked Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is 20 hp.
+The Control Range is 2 km.
+The Maximum Speed is INA.
+
+Here is Protection information for the Scorpio Ukrainian Tracked Unmanned Ground Vehicle (UGV):
+The Armor is IP65; 2 mm steel.
+

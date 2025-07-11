@@ -1,0 +1,41 @@
+This document describes the Groza R-934UM2 Russian 6x6 HF/VHF Electronic Warfare (EW) System.
+
+The R-934UM2 Groza is a jamming stations is part of electronic warfare system developed by “KB Radar”.
+
+The R-934UM2 Groza is a similar to the R-934UM and R-378AM, but it enables higher speed of detecting emission sources, higher direction-finding accuracy, digital jamming signal generation, positioning and jamming of radio lines with programmed operational frequency readjustment or simultaneously 16 radio lines operating at fixed frequencies.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Groza R-934UM2 Russian 6x6 HF/VHF Electronic Warfare (EW) System:
+The R-934UM is INA.
+The R-378AM is INA.
+
+Here is System information for the Groza R-934UM2 Russian 6x6 HF/VHF Electronic Warfare (EW) System:
+The Alternative Designation is Groza R-934UM2.
+The Type is HF/VHF Electronic Warfare (EW) System.
+The Family is R-934 Family.
+The Crew is INA.
+The Purpose is detecting emission sources, higher direction-finding accuracy, digital jamming signal generation, positioning and jamming of radio lines with programmed operational frequency readjustment or simultaneously 16 radio lines operating at fixed frequencies.
+
+Here is Dimensions information for the Groza R-934UM2 Russian 6x6 HF/VHF Electronic Warfare (EW) System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+
+Here is Automotive information for the Groza R-934UM2 Russian 6x6 HF/VHF Electronic Warfare (EW) System:
+The Prime Mover is MT-LB.
+
+Here is System information for the Groza R-934UM2 Russian 6x6 HF/VHF Electronic Warfare (EW) System of the Electronic Warfare System:
+The Name is Groza R-934UM2.
+The Type is Seach, Detection and Jamming.
+The Frequency-Hopping radio Communication Links is Yes.
+The Manufacturer is KB Radar.
+The Radio Lines is 16x radio lines operating at fixed frequencies.
+The VHF/UHF Fixed-Frequency is Yes.
+The Detector/Direction-Finder is Yes, with receiving and direction-finding antenna-feeder system.
+The Workstations is two automated operator workstations.
+The Channel Radio Transmitter is Nine-channel radio transmitter.
+The Transmitting Antenna-Feeder Systems is seven transmitting antenna-feeder systems.
+The Generators is transporter truck with two power generators and shelter.
+

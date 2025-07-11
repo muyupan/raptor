@@ -1,0 +1,182 @@
+This document describes the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer.
+
+The Udaloy class, Russian designations Project 1155 Fregat and Project 11551 Fregat-M (Russian: Фрегат, 'Fregat' meaning Frigate), are a series of anti-submarine guided-missile destroyers built for the Soviet Navy, seven of which are currently in service with the Russian Navy. Twelve ships were built between 1980 and 1991, while the thirteenth ship built to a modified design, known as the Udaloy II class, followed in 1999. They complement the Sovremennyy-class destroyers in anti-aircraft and anti-surface warfare operations. The codename Udaloy comes from an archaic Russian adjective удалой, meaning daring or bold.  The ships were built as general-purpose destroyers with emphasis on ASW. Construction stopped at 12 units. This class saw relatively little operational use during the 1990s because of the difficulty in obtaining spare gas turbines, which had to be imported from Ukraine.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer:
+The Udaloy is Commissioned: 1980
+Status: Decommissioned in 1997
+Fleet: No longer in Service.
+The Vice-Admiral Kulakov is Commissioned: 1981
+Status: Modernization completed in 2010.
+Fleet: Northern Fleet.
+The Marshal Vasilyevsky is Commissioned: 1983
+Status: Decommissioned
+Fleet: No Longer in Service.
+The Admiral Zakharov is Commissioned: 1983
+Status: Caught fire in 1992 and scrapped
+Fleet: No Longer in Service.
+The Admiral Spiridonov is Commissioned: 1984
+Status: Decommissioned in 2001
+Fleet: No Longer in Service.
+The Admiral Tributs is Commissioned: 1985
+Status: Active
+Fleet: Pacific Fleet.
+The Marshal Shaposhnikov is Commissioned: 1985
+Status: Active 
+Fleet: Pacific Fleet.
+The Severomorsk is Commissioned: 1987
+Status: Active
+Fleet: Northern Fleet.
+The Admiral Levchenko is Commissioned: 1988
+Status: Reserve 
+Fleet: Northern Fleet.
+The Admiral Vinogradov is Commissioned: 1988
+Status: Active
+Fleet: INA.
+The Admiral Kharlamov is Commissioned: 1989
+Status: Decommissioned on 1 December 2020
+Fleet: No Longer in Service.
+The Admiral Panteleyev is Commissioned: 1991
+Status: Active
+Fleet: Pacific Fleet.
+
+Here is System information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer:
+The Alternative Designation is Udaloy Class; Project 1155 Fregat Class.
+The Type is Anti-Submarine Guided-Missile Destroyer.
+The Builder is VITSE-ADMIRAL KULAKOV, MARSHAL VASIL'YEVSKIY, ADMIRAL TRIBUTS and ADMIRAL LEVCHENKO: Severnaya Verf 190, St. Petersburg, Russia
+ Remainder: Yantar Zavod 820, Kaliningrad, Russia.
+The Crew is 249 (29 off. + 220 enl.).
+
+Here is Dimensions information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer:
+The Length is 163.50 m.
+The Beam is 19.30 m.
+The Draft is 7.50 m.
+The Displacement, Standard is 6,900 tons.
+The Displacement, Full Load is 8,400 tons.
+
+Here is Propulsion System information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer:
+The Engine Name is COGAG M-9 plant.
+The Engine Type is 2 x Ukraine M-8KF boost gas turbines (22,500 shp each) 2 x Ukraine  M-62 cruise gas turbines (7,500 shp each).
+The Engine Power is 60,000 total shp.
+The Maximum Range is 2,000 nm at 29 knots; 5,700 nm at 18 knots.
+The Maximum Speed is 29.5 knots.
+
+Here is Gun Weapon System #1 information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer of the Gun Weapon Systems:
+The Name is 2 x AK-100 100mm Naval Cannon.
+The Type is Naval Cannon.
+The Caliber is 100 mm.
+The Length is INA.
+The Weight is 35.5 tons.
+The Elevation is -10 / +85 degrees.
+The Rate of Elevation is 30 degrees per second.
+The Traverse is 360 degrees.
+The Rate of Traverse is 35 degrees per second.
+The Rate of Fire is 50 to 60 rounds per minute.
+The Maximum Firing Range is INA.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 100 mm.
+The Shell Weight is 26.8 kg.
+The Basic Load is 1,200 Rounds each.
+
+Here is Gun Weapon System #2 information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer of the Gun Weapon Systems:
+The Name is 4 x AK-630M 30mm CIWS.
+The Type is Close-In Weapon System (CIWS).
+The Caliber is 30 mm.
+The Main Armament is 1 or 2 AO-18 autocannons.
+The Secondary Armament is 4 x 4 9A4172 missiles.
+The Crew is 1.
+The Barrel Length is 1,629 mm.
+The Width is 1,240 mm.
+The Height is 1,070 mm.
+The Weight is 1,000 kg (Gun Mount).
+The Barrels is 6.
+The Action is Gas-operated rotary cannon.
+The Elevation is +88° ... -12° (50°/sec).
+The Traverse is ±180° (70°/sec.
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880–900 m/s.
+The Maximum Firing Range is The projectiles self-destruct past 5,000 m.
+The Effective Firing Range is 4,000 m (aerial);
+5,000 m (maritime.
+The Feed System is 2,000 rounds (additional 1,000 rounds in reserve feed bin..
+The Sights is Radar / TV-optical.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Shell is HEI-Frag, Frag-T[.
+The Shell Weight is 0.39 kg.
+The Basic Load is 12,000 Rounds each.
+
+Here is Missile #1 information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer of the Missile Weapon System:
+The Name is RPK-3 Metel; NATO:  SS-N-14 Silex.
+The Type is Ant-Submarine Missile.
+The Launcher is 2 x quadruple KT-100 VLS launchers.
+The Length is 7.2 m.
+The Weight is INA.
+The Warhead is conventional high-explosive (ASW homing torpedo) or nuclear depth bomb.
+The Propellant is glider initially powered by solid-fuel
+ rocket; water entry slowed by parachute..
+The Guidance System is command radio and inertial; acoustic terminal homing; KARA and KRESTA II classes have Head Lights D/F/G/H-band fire-control radar; UDALOY and KRIVAK classes have Eye Bowl F-band fire-control radar..
+The Maximum Range is 55.6 km.
+The Minimum Range is 7.4 km.
+The Speed is Mach 0.95 at 750 m.
+The Maximum Depth is 20–500 m.
+The Basic Load is 8x RPK-3 Metel (SS-N-14 Silex).
+
+Here is Missile #2 information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer of the Missile Weapon System:
+The Name is 9M-330 Tor M1/Gauntlet missiles.
+The Type is Surface-to-Air Missile (SAM).
+The Launcher is 8 8-round PU 4S-95 VLS system launcher.
+The Length is INA.
+The Weight, Missile is 165 kg.
+The Weight, Warhead is 15 kg.
+The Warhead is Conventional high-explosive.
+The Engine is 1 x solid-fuel rocket.
+The Maximum Range is 12.0 km.
+The Minimum Range is 1.5 km.
+The Altitude is 12,190-18,290 m.
+The Radar is 1 x Cross Sword FCS.
+The Basic Load is 8 x 9M-330 Tor M1/Gauntlet missiles.
+
+Here is Anti-Submarine Weapon (ASW) System information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer:
+The Torpedo Tubes is 2 x quad 533-mm CLTA-53-1155 tubes.
+The Torpedo Name is Type 53 or Type 65 torpedoes.
+The Torpedo Basic Load is 30 x  Type 53 or Type 65 torpedoes.
+The Rocket Launcher is 2 x RBU-6000 rocket launchers.
+The Rocket Name is RGB-12 Rockets.
+The Rocket Basic Load is 96 x RGB-12 Rockets.
+
+Here is Mine System information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer:
+The Mine Launcher is 2 x Rail Launchers.
+The Basic Load is INA.
+
+Here is Aviation Facilities information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer:
+The Facilities is Helipad and hangar.
+The Helicopters is 2 × Ka-27 series helicopters.
+
+Here is Radar and Fire Control Systems information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer:
+The 3-D Air Search Radar is 1 x MR-760MA Fregat MA (NATO: Top Plate) 3D air search..
+The Surface / Air Search Radar is 1 x MR-320M Topaz-V (NATO: Strut Pair) surface/air search..
+The Navigation Radar is 3 x MR-212/201 Vaygach-U (NATO: Palm Frond) navigation..
+The KT-100 VLS Launcher Fire Control System (FCS) is 2 x Drakon (NATO: Eye Bowl) fire control for KT-100 VLS Launcher..
+The PU 4S-95 VLS system Fire Control System (FCS) is 1 x Cross Sword FCS..
+The AK-100 Fire Control System (FCS) is 1 x MR-145 Lev (NATO: Kite Screech-B) fire control for AK-100 guns..
+The AK-630M Fire Control System (FCS) is 2 x MR-123 Vympel (NATO: Bass Tilt) fire control forAK-630M..
+
+Here is Sonar Systems information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer:
+The Sonar Suite is 1 x MGK-355 Polinom Suite..
+The Bow-Mounted Active Low/Medium Frequency Sonar is 1 x Orion (NATO: Horse Jaw) bow-mounted active low/medium frequency..
+The Low-Frequency Variable Depth Sonar is 1 x MGK-335 Platina (NATO: Horse Tail) low-frequency variable depth..
+
+Here is Protection information for the Udaloy Class (Project 1155 Fregat Class) Russian Anti-Submarine Guided-Missile Destroyer:
+The Hull Armor is UDALOYs have a long forecastle with a prominent knuckle extending aft to abaft the second pair of stacks. The bow has a sharp rake and an S-curved sheer line that lowers the extreme bow to provide clearance for low-angle fire from the forward 100-mm mount..
+The Countermeasures is Countermeasures include the IR laser detector array and PK-2 ship-borne decoy launching system. The system includes decoy launchers, decoy rockets, control consoles and radar. It deceives homing anti-ship missiles by dispensing electronic and optronic decoys. The later ships were installed with a PK-10 shipborne decoy launching system..
+The NBC Water Washdown System is Yes.
+The EW Intercept is 2 x Start-2 (NATO: Bell Shroud) w/Wine Glass intercept..
+The Jammer is 2 x Bell Squat jammer..
+

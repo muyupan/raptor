@@ -1,0 +1,38 @@
+This document describes the Type SLR-66 Chinese Over-the-Horizon (OTH) Radar.
+
+The Chinese over-the-horizon (OTH) radar is a high frequency (HF) band (NATO A-band) (6–22 MHz) bistatic system, which is used to detect low-altitude penetrating bombers and has early warning ability against intercontinental ballistic missiles and deployed long-range surveillance ships.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Type SLR-66 Chinese Over-the-Horizon (OTH) Radar:
+The Alternative Designation is Type SLR-66.
+The Type is Over-the-Horizon (OTH) Radar.
+The Crew is INA.
+The Frequency is 6 MHz to 22 MHz (FM/CW waveform).
+The Transmission Beamwidth, Transmit Mode is 5° vertical, 7.5° horizontal (min);
+36° vertical, 7.5° horizontal (max).
+The Transmission Beamwidth, Receive Mode is 5° vertical, 2.5° horizontal (min);
+36° vertical, 2.5° horizontal (max).
+The Maximum Coverage Range is 3,500 km.
+The Minimum Coverage Range is 700 km.
+The Azimuth is 60°.
+The Track Capacity is 100 (target batches per 12–24 s).
+The Polarisation is Vertical.
+The Clutter Rejection Accuracy is 60 dB.
+The Resolution, Azimuth is 2.5°.
+The Resolution, Maximum Range is 40,000 m.
+The Resolution, Minimum Range is 20,000 m.
+The Antenna Gain, Transmit Mode is 18 dB (at 14.5 MHz, transmit).
+The Antenna Gain, Receiver Mode is 26 dB (at 14.5 MHz, receive).
+The Power is 200 kW (min, peak, output);
+1,200 kW (max, peak, output);
+1,000 kW (20 sets of 50 kW transmitters, peak, output).
+The Antenna Type is dipole (8 elements, transmitter; Log periodic (32 elements, receiver)).
+The Note is The radar can counter low-altitude penetrating bombers and has early warning ability against intercontinental ballistic missiles and deployed long-range surveillance ships..
+
+Here is Dimensions information for the Type SLR-66 Chinese Over-the-Horizon (OTH) Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

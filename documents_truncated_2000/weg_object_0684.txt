@@ -1,0 +1,33 @@
+This document describes the R-37M (AA-X-13/AA-13 Arrow) Russian Air-to-Air Missile.
+
+The Vympel R-37M (NATO reporting name: AA-X-13/AA-13 Arrow) is a Russian supersonic air-to-air missile with a very long range. The missile and its variants also had the names K-37, izdeliye 610 and R-VD (Ракета Высокой Дальности (Raketa-Vysokoy Dalnosty), "Very Long Range Missile"). It was developed from the R-33.
+
+It was designed to shoot down tankers, AWACS and other C4ISTAR aircraft whilst keeping the launch platform out of range of any fighters that might be protecting the target. The R-37 is now in production to equip upgraded Russian MiG-31BM interceptors. Despite the early intent to integrate the weapon on the Flanker family, this has yet to be reported.
+
+The R-37 was developed from the R-33. For compatibility with aircraft that did not have the MiG-31's sophisticated radar, the semi-active seeker was replaced with a variant of the Agat 9B-1388 active seeker; mid-body strakes enhance lift and hence range, and folding tail controls allow semi-conformal carriage on planes that are not as big as the MiG-31. According to Defence Today, the range depends on the flight profile, from 80 nautical miles (150 km) for a direct shot to 215 nautical miles (398 km) for a cruise glide profile.  According to Jane's there are two variants, the R-37 and the R-37M; the latter has a jettisonable rocket booster that increases the range to "300-400km" (160–220 nm).
+The R-37M designation has since been used for a modernized variant of the missile, also known as RVV-BD (Raketa Vozduh-Vozduh Bolyshoy Dalnosty, English for Long-Range Air-to-Air Missile). R-37M is hypersonic and has range exceeding 300km. It will be carried by the modernized MiG-31BM interceptors and Su-35S and Su-57 multirole fighters. It is not known if the long range air-to-air missile for the Su-57, designated as Izdeliye 810, is a derivative of the R-37M.
+
+The missile can attack targets ranging in altitude between 15–25,000 meters. Missiles can be guided semi-actively or actively through Agat 9B-1388 system.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the R-37M (AA-X-13/AA-13 Arrow) Russian Air-to-Air Missile:
+The  is .
+The  is .
+The  is .
+
+Here is Missile System information for the R-37M (AA-X-13/AA-13 Arrow) Russian Air-to-Air Missile of the Missile:
+The Name is R-37 (AA-X-13/AA-13) Missile.
+The Type is Supersonic Air-to-Air Missile.
+The Manufacturer is Tactical Missiles Corporation.
+The Length is 4.20 m.
+The Diameter is 38 cm.
+The Wingspan is 0.7 m.
+The Weight is 600 kg.
+The Warhead is HE, fragmenting.
+The Propellant is Boost-Sustain Solid Rocket.
+The Warhead Weight is 60 kg.
+The Operational  Range is 150-398 km.
+The Speed is Mach 5.
+The Guidance System is Inertial with mid-course update, semi-active and active radar homing.
+

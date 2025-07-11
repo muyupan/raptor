@@ -1,0 +1,107 @@
+This document describes the Khordad-3 Iranian Medium-Range Surface-to-Air Missile (SAM) System.
+
+The Khordad-3 Iranian Medium-Range Surface-to-Air Missile (SAM) System is the most advanced version of the Ra'ad air defense system. It has the greatest reported range of any of the variants. Khordad-3 is equipped with Opt-Electronic System and Taer-2 Missile and Sayyad-2C Missile which is also known as Khordad-3 Missile System.
+
+The technical data of the individual Raad versions are based on official Iranian publications. The extent to which the information can be accurate is difficult to verify.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of).
+
+Here is Variants information for the Khordad-3 Iranian Medium-Range Surface-to-Air Missile (SAM) System:
+The Ra'ad is The Ra'ad surface-to-air missile system has been designed to engage targets such as fighter jets, cruise missiles, smart bombs, helicopters, and drones (UAVs)..
+The Khordad-3 is The 3rd Khordad is the most advanced version of the Ra'ad air defense system. It has the greatest reported range of any of the variants..
+The Tabas is The Tabas is a transporter-erector-launcher radar variant of the Ra'ad fitted with a radar similar to the "Fire Dome" radar fitted to the Buk-M1. It can reportedly only engage a single target at a time, while providing guidance to two missiles..
+The Alam al Hoda is The Alam al Hoda is a transporter-erector-launcher in the Ra'ad family. The TEL can carry three missiles..
+The 9 Dey is The 9 Dey system is a variant of the 3 Khordad, which uses a modified version of the latter's TELAR vehicle, and is armed with a shorter-range missile..
+
+Here is System information for the Khordad-3 Iranian Medium-Range Surface-to-Air Missile (SAM) System:
+The Alternative Designation is Khordad-3, 3-Khordad, Ra'ad 3; Sevom Khordad.
+The Type is Surface-to-Air Missile (SAM) System.
+The Manufacturer is IRGC aerospace force.
+The In Service is 2012-Present.
+The Family is Ra'ad.
+The Chassis is MZKT-6922.
+The Crew is INA.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Fire on the Move is No.
+The Note is A Khordad-3 Iranian Medium-Range Surface-to-Air Missile (SAM) System battalion consists of four batteries, each consisting of one 3rd Khordad TELARs linked to two Alam al Hoda TELs for a total of four TELARS and eight TELs. Overall air surveillance is achieved with a Bashir 3D phased array surveillance radar operating in the S-band with a range of 190 mi (350 km)..
+
+Here is Dimensions (Chassis: MZKT-6922) information for the Khordad-3 Iranian Medium-Range Surface-to-Air Missile (SAM) System:
+The Length is 7.5.
+The Width is 3.3.
+The Height is 5.1.
+The Weight, Combat is INA.
+The Ground Pressure is INA.
+
+Here is Automotive (Chassis: MZKT-6922) information for the Khordad-3 Iranian Medium-Range Surface-to-Air Missile (SAM) System:
+The Engine Name is YaMZ-7513.10-02.
+The Engine Type is turbocharged 8-cylinder diesel.
+The Engine Power is 420.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 80.
+The Speed, Off-Road is 30.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is INA.
+The Fuel Endurance is 1,000.
+
+Here is Missile Launcher information for the Khordad-3 Iranian Medium-Range Surface-to-Air Missile (SAM) System of the Missile System:
+The Name is INA.
+The Type is INA.
+
+Here is Missile Set #1 information for the Khordad-3 Iranian Medium-Range Surface-to-Air Missile (SAM) System of the Missile System:
+The Name is Taer-2.
+The Type is Surface-to-Air Missile.
+The Engine is Solid Fuel Rocket.
+The Guidance System is Radar.
+The Speed is Mach 3.5.
+The Maximum Effective Range is 50.
+The Minimum Effective Range is 1,000.
+The Ceiling is 25.
+The Basic Load is 3.
+
+Here is Missile Set #2 information for the Khordad-3 Iranian Medium-Range Surface-to-Air Missile (SAM) System of the Missile System:
+The Name is Sayyad-2C.
+The Type is Surface-to-Air Missile.
+The Engine is Solid Fuel Rocket.
+The Guidance System is Radar.
+The Speed is Mach 4.5.
+The Maximum Effective Range is 75.
+The Minimum Effective Range is INA.
+The Ceiling is 30.
+The Basic Load is 3.
+
+Here is Fire Control System information for the Khordad-3 Iranian Medium-Range Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is No.
+The Indirect Fire is Yes.
+The Fire Control Sensors is Yes.
+The IADS Integration is INA.
+The Camera Optics Range is 80.
+The Note is The system can engage two targets at a time..
+
+Here is Radar #1 information for the Khordad-3 Iranian Medium-Range Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is 1 x Alam-Al-Hoodi Air Defense System.
+The Type is Long-range radar.
+The Band is VHF.
+The Range is INA.
+The Number of Targets System can Track is INA.
+The Note is Very little is written about the radar systems of the Ra'ad..
+
+Here is Radar #2 information for the Khordad-3 Iranian Medium-Range Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is 1 x Bashir 3D array surveillance radar.
+The Type is Air surveillance.
+The Band is S-Band.
+The Maximum Effective Range is 350.
+
+Here is Protection information for the Khordad-3 Iranian Medium-Range Surface-to-Air Missile (SAM) System:
+The Hull Armor is No.
+The Turret Armor is No.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is Thunderbolt Air Defense Systems.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

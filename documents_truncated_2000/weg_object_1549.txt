@@ -1,0 +1,71 @@
+This document describes the Kirovograd-Class (Project 773 Class) Ukrainian Amphibious Warfare Vessel.
+
+The Kirovograd was originally designated a Polnocny-class ship, which are classified as medium landing ships in the Russian Navy and are loosely equivalent to Western tank landing ships. It was launched in 1970 at the Stocznia Polnocna yards in Gdansk, Poland, and is the oldest operational warship ship in the Ukrainian fleet. In service as the DMS-137 for the Russian Navy, the Kirovograd was involved in the Yom Kippur War, and shot down a F-4 Phantom The ship underwent a refit in 2008, and was seized by the Russians in Crimea, and later returned. They are equipped with a bow ramp that allows beach landings. The Polnocny-C version can carry 12 BMP-2 armored personnel carriers, or 4 Main Battle Tanks, or 250 Infantry Soldiers with their weapons like 82 mm Mortars and ATGMs, or 250 tons of rations & stores. Unlike their Western counterparts, these ships can provide substantial fire support for landed troops with their onboard multiple rocket launchers. Other armament consists of anti-aircraft guns and short-range surface-to-air missiles.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is Variants information for the Kirovograd-Class (Project 773 Class) Ukrainian Amphibious Warfare Vessel:
+The Polnocny-A (Project 770), Polnocny-B (Project 771), Polnocny-C (Project 773), Polnocny-D (Project 773U) and the NS-722 class is Landing ships built for the Russian Navy. Built in large quantities, the Polnocny-class ships were once the mainstay of the Soviet amphibious forces, and gave the Soviet naval infantry an effective force projection capability. They were gradually phased out in favor of hovercraft, and few remain active in the Russian Navy..
+
+Here is System information for the Kirovograd-Class (Project 773 Class) Ukrainian Amphibious Warfare Vessel:
+The Alternative Designation is Kirovograd-Class Landing Ship, U-401, Polnocny Class-C (Project 773).
+The Type is Amphibious Warfare Vessel.
+The Builder is Stocznia Północna shipyard at Gdańsk, (Poland), Stocznia Marynarki Wojennej at Gdynia, Poland.
+The Crew is 41.
+The Cargo Capacity is The Polnocny Class can carry 8 x Armored Personnel Carriers, or 250 tons of stores..
+The Bow Ramp is Yes.
+The Stern Ramp is No.
+
+Here is Dimensions information for the Kirovograd-Class (Project 773 Class) Ukrainian Amphibious Warfare Vessel:
+The Length is 73 m.
+The Beam is 9.6 m.
+The Draft is 23 m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 800 tons full load.
+
+Here is Propulsion System information for the Kirovograd-Class (Project 773 Class) Ukrainian Amphibious Warfare Vessel:
+The Engine Name is 2 x Soviet Kolomna 40-D.
+The Engine Type is Two Stroke Diesel.
+The Engine Power is 4,400 bhp.
+The Maximum Range is 1,000 nmi (2,000 km) at 18 kn (33 km/h).
+The Maximum Speed is 18 knots (33 km/h).
+
+Here is Gun Weapon System #1 information for the Kirovograd-Class (Project 773 Class) Ukrainian Amphibious Warfare Vessel of the Gun Weapon Systems:
+The Name is 4 x AK-230 CIWS.
+The Type is Close-In Weapon System.
+The Caliber is 30 mm.
+The Length is 2.140 m.
+The Weight is 156 kg.
+The Muzzle Velocity is 1,050 m/s.
+The Rate of Fire is over 1,000 rounds per minute cyclic..
+The Maximum Firing Range is Ballistic maximum range for the weapon is about 6.7 km, but realistic ranges for engaging air targets are quoted as between 2.5 and 4 km..
+
+Here is Gun Weapon System #1 Ammunition information for the Kirovograd-Class (Project 773 Class) Ukrainian Amphibious Warfare Vessel of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Cartridge is The AK-230 fires specially developed 30x210B 30 mm ammunition that is electrically primed..
+The Basic Load is INA.
+
+Here is Missile #1 information for the Kirovograd-Class (Project 773 Class) Ukrainian Amphibious Warfare Vessel of the Missile Weapon System:
+The Name is 9K32 Strela-2 (SA-7 Grail).
+The Type is Surface-to-Air Missile.
+The Launchers is 4 x Launchers.
+The Length is 1.44 m.
+The Diameter is 72 mm.
+The Wingspan is 0.3 m.
+The Weight is 9.8 kg.
+The Detonation Mechanism is Non-delay impact and grazing fuzes, 14–17 second delay self-destruct..
+The Guidance System is Proportional navigation logic.
+The Maximum Speed is 430 m/s.
+The Flight Altitude is 50–1500 m.
+The Maximum Firing Range is 3,700 m.
+The Basic Load is INA.
+
+Here is Fire Control System (FCS) information for the Kirovograd-Class (Project 773 Class) Ukrainian Amphibious Warfare Vessel:
+The AK-230 FCS is The weapon is remote-directed, typically by a fire-control system linked to either a Drum Tilt or Muff Cobb radar systems..
+
+Here is Protection information for the Kirovograd-Class (Project 773 Class) Ukrainian Amphibious Warfare Vessel:
+The Hull Armor is INA.
+The Countermeasures is No.
+The NBC Water Washdown System is Yes.
+

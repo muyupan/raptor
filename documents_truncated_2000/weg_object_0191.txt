@@ -1,0 +1,108 @@
+This document describes the Handalan Class Malaysian Fast Attack Craft.
+
+The Handalan-class vessels are domestically modified Spica-M fast attack craft, a heavier variant of the Swedish Spica II (Norrkoping) class. Built by Kalskrona Varvet and ordered in 1976, this class replaced the Perkasa-class squadron on a 1:1 basis, including name transfer.
+
+This equipment has proliferated into the following countries: Malaysia.
+
+Here is Variants information for the Handalan Class Malaysian Fast Attack Craft:
+The HANDALAN is Commissioned: 1979
+Status: Active.
+The PERKASA is Commissioned: 1979
+Status: Active.
+The PENDEKAR is Commissioned: 1979
+Status: Active.
+The GEMPITA is Commissioned: 1979 
+Status: Active.
+
+Here is System information for the Handalan Class Malaysian Fast Attack Craft:
+The Alternative Designation is Handalan Class.
+The Type is Fast Attack Craft.
+The Builder is Karlskrona Varvet, Karlskrona, Sweden.
+The Crew is 39 total (5 off. + 34 enl.).
+
+Here is Dimensions information for the Handalan Class Malaysian Fast Attack Craft:
+The Length is 43.60 m.
+The Beam is 7.10 m.
+The Draft is 2.40 m.
+The Displacement, Standard is 240 tons.
+The Displacement, Full Load is 270 tons.
+
+Here is Propulsion System information for the Handalan Class Malaysian Fast Attack Craft:
+The Engine Name is 3 x MTU type 16V538 TB91.
+The Engine Type is Diesel.
+The Engine Power is 9,180 total bhp.
+The Maximum Range is 1,850 nm at 14 knots.
+The Maximum Speed is 34.5 knots.
+
+Here is Gun Weapon System #1 information for the Handalan Class Malaysian Fast Attack Craft of the Gun Weapon Systems:
+The Name is 1 x Bofors 57 mm L/70 naval artillery gun.
+The Type is Naval Artillery Gun.
+The Caliber is 57.
+The Barrel Length is 3,990 mm.
+The Weight is 14,000 kg.
+The Barrels is Single barrel (progressive RH parabolic twist, 24 grooves).
+The Action is Electronic firing.
+The Elevation is −10°/+78° (40°/s).
+The Traverse is Full 360°:.
+The Rate of Fire is 200 rounds/min.
+The Muzzle Velocity is 1,035 m/s.
+The Maximum Firing Range is 17,000 m.
+The Effective Firing Range is 8,500 m.
+The Feed System is 40 ready rounds, 128 rounds in ready racks in mount.
+The Sights is Gyro-stabilized in local control..
+
+Here is Gun Weapon Systems #1 Ammunition information for the Handalan Class Malaysian Fast Attack Craft of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 57.
+The Shell is 57 × 438 mm.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Handalan Class Malaysian Fast Attack Craft of the Gun Weapon Systems:
+The Name is 1 x Bofors 40 mm L/70 Anti-Aircraft Autocannon.
+The Type is Anti-Aircraft Autocannon.
+The Caliber is 40 mm.
+The Length is 6.3 m.
+The Barrel Length is 2.8 m.
+The Width is 2.3 m.
+The Height is 2.4 m.
+The Crew is 4.
+The Elevation is −20°/+80°.
+The Traverse is 360°.
+The Rate of Fire is 330 round/min.
+The Muzzle Velocity is 1,021 m/s.
+The Maximum Firing Range is 12,500 m.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Handalan Class Malaysian Fast Attack Craft of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 40 mm.
+The Shell is 40×365mmR.
+The Shell Weight is 0.9 kg.
+The Basic Load is INA.
+
+Here is System information for the Handalan Class Malaysian Fast Attack Craft of the Missile Weapon System:
+The Name is 2 x MM38 Exocet SSM.
+The Type is Missile.
+The Length is 5.80 m.
+The Diameter is 348 mm.
+The Weight is 666 kg.
+The Engine is 2 x SNPE double-base Nitramite smokeless solid-propellant rockets; 1 x Epervier booster with 2.4 sec burn; 1 x Eole V sustainer with 200-220 sec burn.
+The Warhead is Hexolite blast fragmentation.
+The Maximum Speed is Mach 0.93.
+The Maximum Range is 50 km.
+The Minimum Range is 4 km.
+The Peak Altitude is 50 m.
+
+Here is Fire Control Systems information for the Handalan Class Malaysian Fast Attack Craft:
+The FCS Name is 1 x 1 Celsius Tech 9LV 200 (Mark 2) system (with PEAB 9LV212 tracker and PEAB 9GR600 search radar).
+The Computerized FCS is Yes.
+
+Here is Radar Systems information for the Handalan Class Malaysian Fast Attack Craft:
+The Navigation Radar is 1 x Kelvin-Hughes 1007 radar.
+The Surface Search Radar is 1 x Philips 9GR-600.
+
+Here is Protection information for the Handalan Class Malaysian Fast Attack Craft:
+The Chaff/Flare Launchers is 6 x 103-mm chaff/flare launchers (attached to each side of 57-mm gun) and 4 x 57-mm chaff/flare launchers (attached to each side of gun).
+The NBC Water Washdown System is Yes.
+The EW Intercept is 1 x Thales DR-3000 intercept.
+The TW Analyzer is 1 x MEL SUSIE-1 analyzer.
+

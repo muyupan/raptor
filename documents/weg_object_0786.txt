@@ -1,0 +1,58 @@
+This document describes the Hermes 450 Israeli Unmanned Aerial Vehicle (UAV).
+
+The Hermes 450 is an Israeli medium-sized multi-payload unmanned aerial vehicle (UAV) designed for tactical long endurance missions. Its endurance is 17 hours, with a primary mission of reconnaissance, surveillance, and communications relay. Payload options include electro-optical/infrared sensors, communications, and electronic intelligence, synthetic-aperture radar/ground-moving target indication, electronic warfare, and hyperspectral sensors.
+
+This equipment has proliferated into the following countries: Azerbaijan, Botswana, Brazil, Colombia, Georgia, Israel, Mexico, Philippines, Singapore, Thailand, United States of America, Zambia.
+
+Here is System information for the Hermes 450 Israeli Unmanned Aerial Vehicle (UAV):
+The Alternative Designation is Hermes 450 Israeli Unmanned Aerial Vehicle (UAV or UAS) 450S.
+The Propulsion is 2-blade pusher propeller.
+The Engine Power is 70.
+The Engine Type is Gasoline Rotary.
+The Flight Control is Ground Control Station.
+The Flight Control Method is Preprogrammed/in-flight reprogram.
+The Ground Crew is 2.
+The Weight is 500 kg.
+The Weight (w/ Fuel and Payload) is 655 kg.
+The Runway Requirements is Paved.
+
+Here is Performance information for the Hermes 450 Israeli Unmanned Aerial Vehicle (UAV):
+The Speed (Cruise) is 130 km/h (80 mph, 70 kn).
+The Speed (Max) is 176 km/h (109 mph, 95 kn).
+The Stall Speed is 78 km/h (48 mph, 42 kn).
+The Range is 300 km (190 mi, 160 nmi).
+The Service Ceiling is 5,500 m (18,000 ft).
+The Rate of Climb is 4.6 m/s (900 ft/min).
+The Mission Radius (Max) is 200 km (120 mi; 110 nmi).
+The Endurance is 17-hours.
+
+Here is Launch and Recovery information for the Hermes 450 Israeli Unmanned Aerial Vehicle (UAV):
+The Landing Method is Conventional landing.
+The Launch Method is Wheeled take-off.
+The Recovery Method is 3-wheeled, retractable landing gear..
+The Recovery/Landing Method is 3-wheeled, retractable landing gear..
+The Wind speed at launch is INA.
+
+Here is Gabbiano T200 - Synthetic Aperture Radar information for the Hermes 450 Israeli Unmanned Aerial Vehicle (UAV) of the Payload:
+The Description is Long range surveillance radar, x band (8-12.5 GHz), 407km maritime range, MTI and SAR, >200 target Track-While Scan (TWS).
+The Moving Target Indication is Yes.
+
+Here is DSP-1 Electro Optical Camera information for the Hermes 450 Israeli Unmanned Aerial Vehicle (UAV) of the Payload:
+The Description is Camera.
+The Detection Range is 25.
+The Recognition Range is 10.
+The Swath is 400.
+The FLIR Enabled is Yes.
+The Laser Designator is Yes.
+
+Here is Tadiran SKYFIX / SKYJAM EW Payload information for the Hermes 450 Israeli Unmanned Aerial Vehicle (UAV) of the Payload:
+The Intecept Freq. range is 20-500.
+The Direction Finding Freq. Range is 1.5-1000.
+The Jammer Freq. Range is 20-500.
+
+Here is Emerald AES-210V information for the Hermes 450 Israeli Unmanned Aerial Vehicle (UAV) of the Payload:
+The Description is ELINT.
+
+Here is Elop DCoMPASS information for the Hermes 450 Israeli Unmanned Aerial Vehicle (UAV) of the Payload:
+The Description is Digital compact multi-purpose advanced stabilized system). stabilized turret incorporating thermal imager, color TV, dual-band laser designator rangefinder, inertial measurement unit and laser spot tracker.
+

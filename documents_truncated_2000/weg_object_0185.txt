@@ -1,0 +1,47 @@
+This document describes the 76N6 Clam Shell Russian Low Altitude Acquisition Radar.
+
+The 76N6 Clam Shell** is a ground-based three-dimensional radar that uses frequency-modulated continuous-wave transmission for target acquisition in dense electronic countermeasures (ECM) environments. It is designed to detect and track approaching and receding low radar cross-section targets, such as cruise missiles, at very low altitudes.The fully automatic system provides target track data for the fire-control system of static SA-10a or mobile SA-10b air defense systems. Approaching and receding target velocity, range and bearing are provided, with selectable 1- or 6-degree vertical beamwidths and selectable beam polarization.
+
+The FA-51MU antenna head subsystem combines a transmit and receive antenna, separated by a shielding structure, which prevents spillover from the transmitter into the receiver. The design includes sidelobe suppression features.
+
+The doubly curved transmit and receive reflectors measure about 9 ft 6 in (2.9 m) in each dimension. The manufacturer claims world-class resolution, high rejection of clutter (100 dB) and very accurate pointing.
+
+The antenna head is mounted on a hydraulically elevated mast, which is available in two versions: the 40V6M, which is 77 ft 5 in (23.8 m) tall; or the 40V6M2/40V6MD, which is 127 ft 3 in (38.6 m) tall. The mast and antenna head are mated before elevation on a semi-trailer that is towed by a MAZ-537 tractor. A conventional rotational coupler allows the antenna head to rotate through 360 degrees.
+
+The Clam Shell transmitter, fitted in the FA-52MU transmit/receive module, produces a high-purity continuous wave signal for search operations, with imposed low frequency modulation for ranging to targets. Signal-processing enables the rejection of clutter, terrain, precipitation, high-density chaff and jamming.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the 76N6 Clam Shell Russian Low Altitude Acquisition Radar:
+The 91N6E is This is an upgraded derivative of the 64N6 Big Bird radar system developed for the S-400 surface-to-air missile system. It has a fully digital design with a higher peak power rating than its predecessor to accommodate longer-range 48N6E3 and 40N6E missiles.
+The 91N6E is mounted on the new MZKT-7930 tractor..
+
+Here is System information for the 76N6 Clam Shell Russian Low Altitude Acquisition Radar of the 76N6 Clam Shell:
+The Alternative Designations is 76N6 Clam Shell.
+The Name is 76N6 Clam Shell.
+The Type is Acquisition Radar.
+The Band is I (8-10 GHz).
+The Power is 1.4 kW continuous wave.
+The Turn-on Time is 3 min.
+The Setup Time (40V6M mast) is 1 hour.
+The Detection Range, Target Flying at 500 meters is 90.
+The Detection Range, Target Flying at 1,000 meters is 120.
+The Target Tracking is up to 180.
+The Target Resolution Azimuth is 1.
+The Target Resolution Range is 1.9 km.
+The Target Resolution Velocity is 8.7 kmh.
+The Minimum detectable Radar Cross-Section (RCS) is 0.02 sq m.
+The Maximum Target Speed is Mach 2.1.
+The Average Power is 1.4 kW.
+The Peak Power is 55.0 kW.
+The Mean Time Between Failures is 100 hours.
+The Mount is he 76N6 CLAM SHELL (5N66M etc.) is mounted on a large trailer with a mast which is between 24 and 39 m (79 and 128 ft) tall. Usually is used with a mast..
+
+Here is Automotive information for the 76N6 Clam Shell Russian Low Altitude Acquisition Radar:
+The Mount is Trailer.
+The Primary Mover is MAZ-537 tractor.
+
+Here is Communications information for the 76N6 Clam Shell Russian Low Altitude Acquisition Radar:
+The VHF Radio is R-168 Akveduk.
+The HF Radio is R-161 Poisk.
+

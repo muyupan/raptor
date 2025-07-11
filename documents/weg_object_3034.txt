@@ -1,0 +1,60 @@
+This document describes the Ka-31 (Helix) Russian Airborne Early Warning Helicopter.
+
+The Kamov Ka-31 (NATO reporting name 'Helix') is a military helicopter originally developed for the Soviet Navy and currently in service in Russia, China, and India in the naval airborne early warning and control role.
+
+As with all Kamov helicopters except the Ka-60/-62 family, the Ka-31 has co-axially mounted contra-rotating main rotors. The airframe of the Ka-31 is based on the Kamov Ka-27. One visually distinctive feature of the Ka-31 is the large antenna of the early-warning radar, which is either rotating or folded and stowed under the fuselage. The second is the reduction of the bulky electro-optical sensory suite beneath the cockpit. The landing gear retracts in order to prevent interference with the radar.
+
+The Kamov Joint Stock Company (then, Kamov DB), began development of the Ka-31 medium-weight naval helicopter in 1980 and the first flight took place in 1987. This development was the direct result of the cancellation of the shipborne Antonov An-71 AWACS aircraft. The An-71 was intended to be deployed on the Soviet Navy's first true aircraft carrier, Admiral Kuznetsov (then known as Tbilisi). The An-71 was cancelled in favour of the Yakovlev Yak-44. Though Yak-44 was in development (and not yet cancelled) at that time, the Soviet Navy wanted a stop-gap measure and began investigating other viable platforms to act as AEW at sea.
+
+The Soviet Navy selected the proven Kamov Ka-27 airframe. The Kamov Design Bureau was already in the process of developing the Ka-29. Nizhny Novgorod Radio Engineering Institute was working on a radar design to be used on the An-71; the same design was applied with changes for a rotary wing airframe. Integration was complete by 1980 and the helicopter was given the designation Ka-29RLD. The radar development took time and it was not until 1987 the first flight took place. The production version of the Ka-29RLD/-31 was very different from the Ka-29 from which it was derived.
+
+This equipment has proliferated into the following countries: China, India, Russian Federation.
+
+Here is System information for the Ka-31 (Helix) Russian Airborne Early Warning Helicopter:
+The Alternative Designation is Ka-31; NATO: Helix.
+The Type is Airborne Early Warning Helicopter.
+The Crew is 2.
+The Mission is The main mission of the Ka-31 is a long-range detection airborne and naval threats. This helicopter can track targets over much larger horizon than ship's radars..
+The Blades, Main Rotor is 2.
+The Blades, Tail Rotor is Like other Kamov military helicopters it has coaxial rotors, removing the need for a tail rotor..
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+The Landing Gear is All four landing gear units are retractable.
+The Data Link is datalink to transfer the target tracking data to the command post.
+The GPS is Kronstadt Kabris 12-channel global positioning system.
+The Communication Package is 16-channel digital communication gear with range up to 250 miles (400 km).
+The Modifications is Some of the engineering changes from Ka-29 are the change in powerplant, the addition of the APUs and most importantly the secondary hydraulic system. The radar is the E-801M OKO ("EYE") planar array radar designed by the Nizhny Novgorod Radio Engineering Institute.
+
+The operational variants delivered also had a Flight Information Recorder designed by the St.Petersburg/Leningrad Electrotechnical Institute, fitted in the tailcone. By the time the Yak-44 was canceled, additional responsibility of Command & control fell into the KA-29RLD/Ka-31's hands..
+
+Here is Dimensions information for the Ka-31 (Helix) Russian Airborne Early Warning Helicopter:
+The Length is 12.5 m.
+The Main Rotor Diameter is 15.9 m.
+The Height is 5.6 m.
+The Weight, Empty is INA.
+The Weight, Combat is 12.2 tons.
+
+Here is Automotive information for the Ka-31 (Helix) Russian Airborne Early Warning Helicopter:
+The Engine Name is 2 x Klimov TV3-117VMAR.
+The Engine Type is Turboshaft.
+The Engine Power is INA.
+The Cruising Range is INA.
+The Maximum Speed is 250 km/h.
+The Maximum Range is 600 km.
+The Service Ceiling is 3.5 km.
+The Endurance is 2 hours 30 minutes.
+
+Here is Radar information for the Ka-31 (Helix) Russian Airborne Early Warning Helicopter:
+The Surveillance Radar is E-801E Oko (eye) surveillance radar.
+The Radar Coverage is 360° coverage and can spot aircraft-size target from 150 km range..
+The Radar, Surface Ship Identification Range is 100 - 200 km.
+The Radar Targets is Radar can track 30-40 targets simultaneously.
+
+Here is Protection information for the Ka-31 (Helix) Russian Airborne Early Warning Helicopter:
+The Add on Armor is No.
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The NBC Protection is Yes.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

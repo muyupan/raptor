@@ -1,0 +1,184 @@
+This document describes the Gepard-Class (Project 11661 Class) Russian Frigate.
+
+Gepard Class (Project 11661 Class) Russian Frigateis a class of frigates that were intended as successors to the earlier Koni-class frigates and Grisha, and Parchim-class corvettes. The first unit of the class, Yastreb (Hawk), was laid down at the Zelenodol'sk Zavod shipyard at Tatarstan in 1991. She was launched in July 1993, after which she began fitting out; fitting was nearly completed by late 1995 when it was suspended due to lack of funds. Renamed Tatarstan, the ship was finally completed in July 2002 and became the flagship of the Caspian Flotilla. She has two sister ships, Albatross (renamed Dagestan), and Burevestnik (Storm Petrel), which were still under construction as of 2012.
+
+This equipment has proliferated into the following countries: Russian Federation, Viet Nam.
+
+Here is Variants information for the Gepard-Class (Project 11661 Class) Russian Frigate:
+The Tatarstan (ex-Yastreb) is Commissioned: 2003
+Operator: Russian Navy 
+Status: Active 
+Fleet: Caspian Sea.
+The Dagestan (ex-Albatros) is Commissioned: 2011
+Operator: Russian Navy 
+Status: Active
+Fleet: Caspian Sea.
+The HQ-011 Dinh Tien Hoang is Commissioned: 2010
+Operator: Vietnam People's Navy
+Status: Active
+Fleet: VPN 4th Regional Command.
+The HQ-012 Ly Thai To is Commissioned: 2011
+Operator: Vietnam People's Navy
+Status: Active
+Fleet: VPN 4th Regional Command.
+The HQ-015 Tran Hung Dao is Commissioned: 2018
+Operator: Vietnam People's Navy
+Status: Active
+Fleet: VPN 4th Regional Command.
+The HQ-016 Quang Trung is Commissioned: 2018
+Operator: Vietnam People's Navy
+Status: Active
+Fleet: VPN 4th Regional Command.
+
+Here is System information for the Gepard-Class (Project 11661 Class) Russian Frigate:
+The Alternative Designation is Gepard Class; Project 11661 Class.
+The Type is Frigate.
+The Builder is Zelenodol'sk Zavod, Kazan, Tatarstan, Russia.
+The Crew is 109 (15 off. + 94 enl.).
+The Export Models is The Gepard class was designed from the outset as a lightweight, inexpensive export vessel. The Russians have offered five variants for foreign sale. Gepard 1: Helicopter platform (no hangar), VDS deleted. 
+Gepard 2: Helicopter platform and hangar, VDS and SA-N-4 deleted.
+Gepard 3: Increased beam of 13.8 metres (45 ft 3 in), displacement increased to 2,100 tons full load, single forward-placed Kortik CIWS in place of AK-630s, helicopter hangar above VDS housing.
+Gepard 4: Unarmed version for search-and-rescue, though weapon mountings still in place.
+Gepard 5: helicopter platform (no hangar), increased range to 6,000 nmi (11,000 km) at 10 knots (19 km/h) knots, reduced speed of 23 knots (43 km/h), gas turbines replaced with 2 8,000 bhp (6,000 kW) diesels. 
+The Vietnam People's Navy received in March and August 2011 two Gepard 3.9-class frigates ordered in 2006, built in Russia at Tatarstan's Gorky Shipbuilding Plant. As of 2012 Vietnam was examining a purchase of two more, possibly built in Vietnam under license. In late 2011 Vietnam signed a contract for an additional batch of two ships in an anti-submarine version. A further two ships were ordered in 2014 to bring the total order up to six vessels.
+
+Sri Lanka began talks for the credit purchase of a Gepard 5.1 frigate in 2017 and the Sri Lankan cabinet approved the proposal by President Maithripala Sirisena for the purchase of the ship in September 2017..
+
+Here is Dimensions information for the Gepard-Class (Project 11661 Class) Russian Frigate:
+The Length is 102.2 m.
+The Beam is 13.8 m.
+The Draft is 3.7 m.
+The Displacement, Light is 1,600 tons.
+The Displacement, Fully Loaded is 2,090 tons.
+
+Here is Propulsion System information for the Gepard-Class (Project 11661 Class) Russian Frigate:
+The Engine Name is CODOG.
+The Engine Type is 2 x gas turbines (30,850 shp each); 1 x Type 61D diesel (8,000 bhp); 2 shafts..
+The Generator is 3 x  380 V, 50 Hz a.c. diesel alternator sets.
+The Genetor Power is 1,800 kW total (3 x 600 kW each).
+The Maximum Range is 950 nm at 27 knots; 3,500 nm at 14 knots; 4,000 nm at 10 knots; 5,000 nm at 10 knots..
+The Maximum Speed is 27 knots.
+The Endurance is 15 days.
+
+Here is System information for the Gepard-Class (Project 11661 Class) Russian Frigate of the Gun Weapon System #1:
+The Name is 1 x AK-176 76.2mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 76 mm.
+The Length is INA.
+The Barrel Length is INA.
+The Height is 2.6 m.
+The Weight is 16,800 kg.
+The Crew is 2 (4 in manual control mode).
+The Barrels is 1.
+The Recoil is 380 to 500 mm.
+The Maximum Elevation is +85.
+The Minimum Elevation is -15.
+The Traverse Right is 175.
+The Traverse Left is 175.
+The Rate of Fire is 120 rds/min.
+The Muzzle Velocity is 980 m/s.
+The Maximum Firing Range is 15.5 km.
+The Effective Firing Range is 10 km.
+The Feed System is 152 ready to fire rounds.
+
+Here is Ammunition information for the Gepard-Class (Project 11661 Class) Russian Frigate of the Gun Weapon System #1:
+The Type is Rifle.
+The Caliber is 76.2.
+The Cartridge is INA.
+The Shell Weight is 12.4 kg.
+The Basic Load is INA.
+
+Here is System information for the Gepard-Class (Project 11661 Class) Russian Frigate of the Gun Weapon System #2:
+The Name is 2 x AK-630 30mm CIWS.
+The Type is Close-in Weapon System (CIWS).
+The Caliber is 30 mm.
+The Main Armament is 1 or 2 AO-18 autocannons.
+The Secondary Armament is 4 9A4172 missiles (Vikhr-K upgrade).
+The Barrel Length is 1,629 mm (total)
+1,460 mm (rifled).
+The Width is 1,240 mm (mount ring).
+The Height is 1,070 mm (above deck).
+The Weight is 1,000 kg.
+The Crew is 1.
+The Action is Gas-operated rotary cannon.
+The Elevation is +88° ... -12° (50°/sec).
+The Traverse is ±180° (70°/sec).
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880–900 m/s.
+The Maximum Firing Range is The projectiles self-destruct past 5,000 m..
+The Effective Firing Range is 4,000 m (aerial);
+5,000 m (maritime).
+The Feed System is Belt: 2,000 rounds (additional 1,000 rounds in reserve feed bin..
+The Sights is Radar / TV-optical.
+
+Here is Ammunition information for the Gepard-Class (Project 11661 Class) Russian Frigate of the Gun Weapon System #2:
+The Type is Rifle.
+The Caliber is 30.
+The Shell is HEI-Frag, Frag-T.
+The Shell Weight is 0.39 kg.
+The Basic Load is INA.
+
+Here is Missile Weapon System #1 information for the Gepard-Class (Project 11661 Class) Russian Frigate of the Missile Weapon Systems:
+The Name is 8 x kh-35 Uran Anti-Ship Cruise Missile.
+The Launcher is 2 x quad Kh-35 Uran-E SSM Launchers. The Uran-E shipborne anti-ship missile (ASM) system is designed to destroy missile/torpedo/gun boats, surface ships displacing up to 5,000 tonnes, and seagoing transports..
+The Length is 3.75 m.
+The Diameter is 420 mm.
+The Wingspan is 1.30 m.
+The Weight is 680 kg.
+The Engine is 1 x solid-fuel rocket booster with turbofan sustainer engine..
+The Guidance System is inertial guidance; terminal active radar homing..
+The Warhead is high-explosive; impact fuze.
+The Range is 130 km.
+The Maximum Speed is Mach 1.
+The Basic Load is 8 x kh-35 Uran Anti-Ship Cruise Missile..
+
+Here is Missile Weapon System #2 information for the Gepard-Class (Project 11661 Class) Russian Frigate of the Missile Weapon Systems:
+The Name is 20 x SA-N-4 Gecko Surface-to-Air (SAM) Missiles.
+The Launcher is 1 x twin-rail Osa-MA2 (SA-N-4 Gecko) SAM Launcher.
+The Length is 3.10 m.
+The Diameter is 210 mm.
+The Wingspan is 0.64 m.
+The Weight is 130 kg.
+The Engine is 1 x 2-stage, solid-fuel rocket.
+The Warhead is 18 kg high-explosive.
+The Maximum Range is 12.0 km.
+The Minimum Range is 1.6 km.
+The Maximum Speed is Mach 3.
+The Altitude is 12.2 m.
+The Basic Load is 20 x SA-N-4 Gecko Surface-to-Air (SAM) Missiles.
+
+Here is ASW Weapon Systems information for the Gepard-Class (Project 11661 Class) Russian Frigate:
+The Torpedo Tube is 2 x twin 533-mm.
+The ASW Rocket Launcher is 1 x 12-round RBU-6000 ASW rocket launcher.
+The Rocket Name is RBG-60.
+The Basic Load is 48 x RGB-60 Rockets carried.
+
+Here is Mine System information for the Gepard-Class (Project 11661 Class) Russian Frigate:
+The Launcher is 2 x mine rails.
+The Basic Load is 48 x mines carried.
+
+Here is FIre Control System (FCS) information for the Gepard-Class (Project 11661 Class) Russian Frigate:
+The kh-35 Uran Anti-Ship Cruise Missile FCS is 1 x Monolit (Band Stand) for SS-N-25.
+The SA-N-4 Gecko Surface-to-Air (SAM) Missile FCS is 1 x MPZ-301 Baza (Pop Group) SAM fire control.
+The Target Designator is 1 x Garpun-B SSM target designator.
+The AK-630 CIWS FCS is 2 x MR-123 Vympel (Bass Tilt) for 30mm gun.
+The AK-176 Naval Gun FCS is 1 x MR-123-02/76 Fire Control Radar System.
+
+Here is Radar Systems information for the Gepard-Class (Project 11661 Class) Russian Frigate:
+The Air / Surface Radar is 1 x MR-352 Pozitiv (Cross Dome**) air/surface search radar.
+The Navigation Radar is 1 x MR-312 Nayada navigation radar.
+
+Here is Sonor Systems information for the Gepard-Class (Project 11661 Class) Russian Frigate:
+The Sonor Suite is 1 x Zarnitsa suite.
+The Hull Mounted Sonar is 1 x Ox Yoke medium frequency, hull mounted sonar..
+The Variable Depth Sonar is 1 x Ox Tail medium frequency, variable depth sonar..
+
+Here is Protection information for the Gepard-Class (Project 11661 Class) Russian Frigate:
+The Hull is The hull is made of high-quality steel and the superstructure of seawater-resistant aluminum-magnesium alloy. The hull is partitioned into 10 watertight compartments. Tests show the ship can remain afloat with three midships and two adjacent bow or aft compartments flooded. It can also continue underway with any two adjacent compartments flooded. The hull is equipped with fin stabilizers and has twin rudders..
+The Countermeasures is 1 x ASOR-11661 ECM Electronic Countermeasure System..
+The Decoy is 4 x 16-round PK-16 fixed decoy rocket launchers.
+The NBC Protection is Yes.
+The IFF is 2 x Square Head and 1 x Salt Pot B.
+The EW Intercept is 2 x Bell Shroud intercept.
+The EW Jammer is 2 x Bell Squat jammers.
+

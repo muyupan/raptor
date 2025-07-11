@@ -1,0 +1,93 @@
+This document describes the Gurza-M-Class (Project 58155 Class) Ukrainian Inshore Patrol Boat.
+
+The Project 58155 Gurza-M class is a series of small armored gun boats in service with the Ukrainian Navy. The first two vessels were laid down at the Kuznya na Rybalskomu (previously Leninska Kuznya) shipbuilding plant in October 2012. Originally it was planned to build nine such vessels by 2017. In December 2013 the Ministry of Defense withdrew its contract. In mid-2014 construction of the Gurza-M class was revived and the first two vessels were launched in late 2015. In December 2016 they officially joined the Ukrainian Navy. The new military contract for twenty vessels is to be completed by 2020.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is Variants information for the Gurza-M-Class (Project 58155 Class) Ukrainian Inshore Patrol Boat:
+The BK-01 Akkerman (U174) is Ukrainian Navy. Commissioned: 6 December 2016.
+The BK-02 Berdyansk (U175) is Ukrainian Navy. Commissioned: 6 December 2016.
+The BK-03 Nikopol (U176) is Ukrainian Navy. Commissioned: 1 July 2018.
+The BK-04 Kremenchuk (U177) is Ukrainian Navy. Commissioned: 1 July 2018.
+The BK-05 Lubny (U178) is Ukrainian Navy. Commissioned: 1 July 2018.
+The BK-06 Vyshhorod (U179) is Ukrainian Navy. Commissioned: 1 July 2018.
+The BK-07 Kostopil, P180 is Ukrainian Navy. Commissioned: 6 September 2020.
+
+Here is System information for the Gurza-M-Class (Project 58155 Class) Ukrainian Inshore Patrol Boat:
+The Alternative Designation is Gurza-M Patrol Boat, Gun Boat.
+The Type is Gunboat.
+The Builder is Kuznya na Rybalskomu, Ukraine.
+The Crew is 5 total (1 off. + 4 enl.).
+
+Here is Dimensions information for the Gurza-M-Class (Project 58155 Class) Ukrainian Inshore Patrol Boat:
+The Length is 23.0 m.
+The Beam is 4.8 m.
+The Draft is 1.0 m.
+The Displacement, Standard is 54 tons.
+
+Here is Propulsion System information for the Gurza-M-Class (Project 58155 Class) Ukrainian Inshore Patrol Boat:
+The Engine Name is 2 x Marine Diesel.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Maximum Range is 900 nm.
+The Maximum Speed is 25 knots.
+
+Here is Combat Module Turret information for the Gurza-M-Class (Project 58155 Class) Ukrainian Inshore Patrol Boat of the Weapon Systems:
+The Name is 2 x BM-5M.01 Katran-M Turrets.
+The Type is Remote-Controlled Deck Guns.
+The Main Gun is ZTM-1 Autocannon.
+The Caliber is 30 mm.
+The Maximum Rate of Fire is 330 rds/min.
+The Maximum Effective Range is 4,000 m.
+
+Here is Coaxial Weapon #1 information for the Gurza-M-Class (Project 58155 Class) Ukrainian Inshore Patrol Boat of the Weapon Systems:
+The Name is Grenade Launcher.
+The Type is Coaxial.
+The Caliber is 30 mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Coaxial Weapon #2 information for the Gurza-M-Class (Project 58155 Class) Ukrainian Inshore Patrol Boat of the Weapon Systems:
+The Name is CT Machine Gun.
+The Type is Coaxial.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62 mm x 51 mm.
+The Basic Load is INA.
+The Maximum Effective Range is 1,100 m.
+
+Here is ATGM System information for the Gurza-M-Class (Project 58155 Class) Ukrainian Inshore Patrol Boat:
+The Launcher is Modified Maritime Launcher.
+The Missile is RK-2 Barrier (Bar'er-V).
+The Caliber is 130 mm.
+The Guidance is Semi-automatic command to line-of-sight (SACLOS).
+The Missile Type #1 is Tandem HEAT (RK-2S).
+The Missile Type #2 is HE-FRAG (RK2-OF).
+
+Here is Missiles information for the Gurza-M-Class (Project 58155 Class) Ukrainian Inshore Patrol Boat:
+The Name is 9K34 Strela-3 / SA-14 Gremlin.
+The Type is Man-Portable Air Defense Missile System (MANPADS).
+The Warhead is Frag-HE.
+The Fuse Type is Contact/grazing.
+The Propulsion is 2-stage solid-propellant rocket.
+The Guidance is 1-color passive IR homing.
+The Maximum Range is 6,000 m.
+The Quantity is 2-4 launchers.
+
+Here is Mine System information for the Gurza-M-Class (Project 58155 Class) Ukrainian Inshore Patrol Boat:
+The Note is Assessed limited mine laying capability, exact capability details unknown..
+
+Here is Fire Control Systems information for the Gurza-M-Class (Project 58155 Class) Ukrainian Inshore Patrol Boat:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+
+Here is Sensors and Communications information for the Gurza-M-Class (Project 58155 Class) Ukrainian Inshore Patrol Boat:
+The Navigation Radar is Yes.
+The Optoelectronic monitoring system is Yes.
+The Laser Emission Detection is Yes.
+The Radio is HF/VHF/UHF/Satellite.
+
+Here is Protection information for the Gurza-M-Class (Project 58155 Class) Ukrainian Inshore Patrol Boat:
+The Hull Armor is They 8 mm over the pilot house, hull and internal bulkheads and 5 mm of armor over the deck..
+The Countermeasures is Equipped with the UPPP-20 protection system that consists of four laser warning receivers and three decoy launching systems. Each automatic decoy system consists of a 15 x 50 mm decoy launchers designed to protect the vessel from unexpected attacks. The system works after the signal is received from the laser warning receivers, while the system recognizes the threat and launches the decoys with multispectral smoke projectiles in the direction of the threat movement..
+The NBC Water Washdown System is Yes.
+

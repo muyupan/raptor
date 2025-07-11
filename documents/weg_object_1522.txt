@@ -1,0 +1,80 @@
+This document describes the Ganggyeong-Class South Korean Minehunter.
+
+Ganggyeong-class minehunter  is a ship class of minehunters currently in service on the Republic of Korea Navy.
+
+Because of the improvements in naval mine technology in the 1980s, and the lack of minesweeping ability, the Korean Navy designed their first minehunter ship in 1983 and launched the first minehunter, Ganggyeong, in 1986. Currently, there are six Ganggyeong-class minehunter operating in the Korean Navy.
+
+This equipment has proliferated into the following countries: South Korea (Republic of Korea).
+
+Here is Variants information for the Ganggyeong-Class South Korean Minehunter:
+The Ganggyeong is Commissioned: 1986
+Status: Active.
+The Gangjin is Commissioned: 1991
+Status: Active.
+The Goryeong is Commissioned: 1991
+Status: Active.
+The Gimpo is Commissioned: 1993
+Status: Active.
+The Gochang is Commissioned: 1993
+Status: Active.
+The Gimhwa is Commissioned: 1994
+Status: Active.
+
+Here is System information for the Ganggyeong-Class South Korean Minehunter:
+The Alternative Designation is Ganggyeong Class.
+The Type is Minehunter.
+The Builder is Kangnam Corp.
+The In Service is 1986-Present.
+The Crew is 44 (5 off. + 39 enl.)+ 4 mine disposal divers..
+
+Here is Dimensions information for the Ganggyeong-Class South Korean Minehunter:
+The Length is 50.0 m.
+The Beam is 9.6 m.
+The Draft is 2.6 m.
+The Displacement, Standard is 470 tons.
+The Displacement, Full Load is 520 tons.
+
+Here is Propulsion System information for the Ganggyeong-Class South Korean Minehunter:
+The Engine Name is 2 x MTU Engines (Name: INA).
+The Engine Type is Diesel.
+The Engine Power is 1,600 total bhp.
+The Maximum Range is 2,500 nm at 12 knots.
+The Maximum Speed is 15 knots.
+
+Here is System information for the Ganggyeong-Class South Korean Minehunter of the Gun Weapon System:
+The Name is Oerlikon 20.
+The Type is Autocannon.
+The Caliber is 20 mm.
+The Quantity is 2 x Oerlikon 20mm Stations.
+The Barrel Length is 2,210 mm.
+The Weight is 68.04 kg.
+The Barrels is Single barrel (progressive RH parabolic twist, 9 grooves)..
+The Action is API blowback.
+The Elevation is Manual training, typically able to depress to -15° and elevate to +90°..
+The Traverse is Manual training, full 360°..
+The Rate of Fire is Cyclic: 450 rounds per minute
+Practical: 250-320 rounds per minute..
+The Muzzle Velocity is 820 m/s.
+The Maximum Firing Range is 4,389 m.
+The Effective Firing Range is 914 m.
+The Feed System is Cylindrical magazine holding 60 rounds, Later adjusted to be a belt fed gun..
+
+Here is Ammunition information for the Ganggyeong-Class South Korean Minehunter of the Gun Weapon System:
+The Type is Rifle.
+The Caliber is 20 mm.
+The Shell is 20×110mmRB.
+The Shell Weight is 123 g.
+The Basic Load is INA.
+
+Here is Sonar Systems information for the Ganggyeong-Class South Korean Minehunter:
+The Sonar System is 1 x Thales Type 193M Mod 1 manhunting system.
+
+Here is Radar Systems information for the Ganggyeong-Class South Korean Minehunter:
+The Navigation Radar is 1 x Raytheon AN/SPS-64(V) navigation.
+
+Here is Protection information for the Ganggyeong-Class South Korean Minehunter:
+The Active Protection System is Yes.
+The Electronic Warfare is No.
+The NBC Washdown is Yes.
+The MCM Equipment is 2 x Gaymarine Pluto Plus mine disposal vehicles.
+

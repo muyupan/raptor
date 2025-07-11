@@ -1,0 +1,31 @@
+This document describes the AN/SSQ-47B American Active Non-Directional Sonobuoy.
+
+The AN/SSQ-47B active buoy, also referred to as a ranger buoy, is the predecessor of the AN/ASQ-62 family. It automatically begins pinging upon water entry, and operates from fixed RF frequency channels at an RF power output of 1/4 Watt, depth settings being 60 or 800 feet. The sonic transmissions operate on one of six sonic frequencies in the 13.0 to 19.0 kHz band with an expected life of 30 minutes.
+
+This equipment has proliferated into the following countries: Italy, Japan, Netherlands, Norway, South Korea (Republic of Korea), Spain, United Kingdom of Great Britain and Northern Ireland.
+
+Here is System information for the AN/SSQ-47B American Active Non-Directional Sonobuoy:
+The Alternative Designation is AN/SSQ-47B.
+The Type is Active Non-Directional Sonobuoy.
+The Size is A.
+The Hydrophone Depth is 18.3 or 244 m.
+The Launch Conditions Altitude is 152 m-3,048 m.
+The Launch Conditions Sea State is 5 (maximum).
+The Operating Life is 30 minutes.
+The RF Power is 0.25 W.
+The Sonar Modes is Automatic keyed CW.
+The Sonar Channels is 6 (HF).
+The RF Channels is 12.
+The Power Source is seawater battery.
+The Activation Time is < 30 seconds.
+The Scuttling Time is 1-10 hours after water entry.
+The RF Transmsiion Channels is 12 fixed.
+The Transmitter RF Power is 0.25 watts minimum.
+The Operating Depth is Selectable (60 or 800 feet).
+The Sonar Pulse Repetition Rate is 10 seconds.
+
+Here is Dimensions information for the AN/SSQ-47B American Active Non-Directional Sonobuoy:
+The Length is INA.
+The Diameter is INA.
+The Weight, Combat is 9.5 kg.
+

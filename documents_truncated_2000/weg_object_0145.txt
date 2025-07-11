@@ -1,0 +1,35 @@
+This document describes the Type 306B (LLQ305B) Chinese Self-Propelled 3D Acquisition Radar.
+
+The Type 305B 3D acquisition radar appears to be a variant of the existing NRIET / CEIEC / CETC YLC-2V, which has been photographed as part of a HQ-9 battery, and has been reported as employed to support up to four HT-233 engagement radars, each with four TELs. Chinese sources describe this radar as optimised for search and acquisition of aerial targets.
+
+The principal distinction between the established YLC-2V and the Type 305B would appear to be the absence of the IFF/SSR array mounted across the top of the antenna.
+
+A Chinese language PRC publication has described the Type 305B  as a “ three dimensional radar which has an antenna height of 3.5 metres, and employs sixty 350 mm  waveguide feeds. It operates in the S-band at a wavelength of 11.67 cm.”3
+
+The YLC-2V employs a single 6 x 6 truck carrying the antenna head and turntable, which is hydraulically deployed, and three additional 6 x 6 trucks carrying cabins for electronics and operator stations. None of the latter were displayed with the Type 305B antenna systems.
+
+The hydraulically folded antenna used with the Type 305B has 58 element rows and will employ  frequency scanning like other radars in this family of designs. Row spacing suggests S-band operation, like the YLC-2V.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Type 306B (LLQ305B) Chinese Self-Propelled 3D Acquisition Radar:
+The Alternative Designation is Type 305B; LLQ305B.
+The Type is Self-Propelled 3D Acquisition Radar.
+The Crew is INA.
+The Chassis is Mercedes-Benz NG 80.
+The Mssion is Chinese sources have identified the radar as a long range 3D high altitude acquisition and search design, intended to support missile guidance applications..
+The Maximum Range is 333.4 km.
+The Minimum Range is INA.
+The Maximum Altitude is INA.
+The Minimum Altitude is INA.
+The Band is S-band at a wavelength of 11.67 cm.
+The Waveguide Feeds is employs sixty 350 mm  waveguide feeds.
+The Note is Very little info is released about this radar other than it can also act as Fire-control radar..
+
+Here is Dimensions information for the Type 306B (LLQ305B) Chinese Self-Propelled 3D Acquisition Radar:
+The Length is 12 m.
+The Width is 12 m.
+The Height is INA.
+The Weight, Combat is INA.
+The Antenna Height is 3.5 m.
+

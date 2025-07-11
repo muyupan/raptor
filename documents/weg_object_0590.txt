@@ -1,0 +1,148 @@
+This document describes the 2S3M1 Russian 152mm Self-Propelled Howitzer (SPH).
+
+The 2S3M1 Russian 152mm Self-Propelled Howitzer (SPH) is Equipped with command data acquisition and display equipment, and with a new SP-538 sight. OF-38 Krasnopol laser-guided rocket-assisted projectiles were added to standard ammunition. Produced in 1987–1993. All 2S3s and 2S3Ms were modernized to the 2S3M1 level.
+
+This equipment has proliferated into the following countries: Georgia, Russian Federation.
+
+Here is Variants information for the 2S3M1 Russian 152mm Self-Propelled Howitzer (SPH):
+The 2S3 (SO-152) is Basic variant, developed in 1968. Produced in 1970–1975. Two modifications used D-11 and D-11M howitzers..
+The 2S3M (SO-152M) is Equipped with a mechanized drum-type stowage for 12 rounds, the amount of hatches in rear armored plates of the hull and the turret was reduced, the configuration of those hatches was changed, antenna of R-123 radio set was transferred on a turret top. Ammunition was increased from 40 to 46 rounds (usually consists of 42 OF-540 and OF-25 HE-Frag projectiles, and of 4 BP-540 HEAT-FS projectiles). Much more powerful OF-29 HE-Frag projectiles and OF-38 Krasnopol laser-guided rocket-assisted projectiles were developed for SO-152M. The modernized howitzer has a designator 2A33. Produced in 1975–1987..
+The 2S3M1 (SO-152M1) is Equipped with a command data acquisition and display equipment, and with a new SP-538 sight. OF-38 Krasnopol laser-guided rocket-assisted projectiles were added to standard ammunition. Produced in 1987–1993. All 2S3s and 2S3Ms were modernized to 2S3M1 level..
+The 2S3M2 (SO-152M2) is Modernized variant equipped with an automatic fire control system, a satellite navigational system, and smoke grenade launchers. Developed in 2000..
+The 2S3M2-155 is An export-oriented variant of 2S3M2 equipped with a new 155 mm M-385 howitzer. Developed in 2000..
+The 2S3M3 is An experimental variant of 2S3M2 equipped with a further improved fire control system and a modernized howitzer 2A33M that can fire ordnance of a more powerful 2A65 howitzer that equips the 2S19..
+
+Here is System information for the 2S3M1 Russian 152mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is 2S3M1 (SO-152M1).
+The Manufacturer is Uraltransmash.
+The Type is Self-propelled gun.
+The Crew is 4.
+The Chassis is Object 123 tracked chassis.
+The Family is 2S3 Family.
+The Displacement Time is 3.
+The Emplacement Time is 3.
+
+Here is Dimensions information for the 2S3M1 Russian 152mm Self-Propelled Howitzer (SPH):
+The Length (Overall) is 9.48.
+The Length (Hull) is 7.765.
+The Width is 3.25.
+The Height is 3.05.
+The Weight, Combat is 27,800.
+The Ground Clearance is 0.45.
+The Track Width is 480.
+The Length of track on ground: is 4.94.
+The Ground pressure is 8.39 psi.
+
+Here is Automotive information for the 2S3M1 Russian 152mm Self-Propelled Howitzer (SPH):
+The Engine Name is V-59.
+The Engine Type is Diesel.
+The Engine Power is 520.
+The Power to Weight Ratio is 17.3.
+The Fuel Capacity is 830.
+The Transmission is Mechanical two-gear transmission.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Setp is 0.7.
+The Trench is 3.
+The Time to dig Trench is 20-40.
+The Fording Depth is 1.
+The Suspension is Torsion bar.
+
+Here is Communications information for the 2S3M1 Russian 152mm Self-Propelled Howitzer (SPH):
+The Primary Radio is R-123 radio set.
+The Intercom is R-124 intercom.
+The Data Terminal is Yes.
+
+Here is System information for the 2S3M1 Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is 152.4mm D-22 howitzer L/27.
+The Type is 152 mm howitzer.
+The Breech Type is INA.
+The Length, Barrel is 5.195.
+The Loader Type is semi-automatic.
+The Max Rate of Fire is 3-4.
+The Sustain Rate of Fire is 1.
+The Rapid Fire is 4.
+The Breech  Type is semi-automatic vertical wedge breechblock and an ejector.
+The Muzzle Brake Type is double-baffle muzzle brake,.
+The Max Elevation is +60.
+The Min Elevation is -4.
+The Traverse Range is 360.
+The Loading Carousel is Yes, which makes the weapon fire faster than the S23 Akatsiya (M1973).
+The Bore Evacuator is Yes, Behind the muzzle brake.
+The Fume Extractor is Yes.
+The Traveling Lock is Gun barrel traveling lock.
+
+Here is Ammunition (Option 1) information for the 2S3M1 Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is OF-540 HE-Frag.
+The Caliber is 152.
+The Muzzle Velocity is 655.
+The Fuse Type is RGM-2 fuze.
+The Maximum Effective Range is 20,550 m.
+The Projectile Weight is 43.56.
+The Warhead Weight is 7.76.
+The Maximum Range is 18.5.
+The Basic Load is 40 Total, any combination of Russian 152mm Projectiles.
+
+Here is Ammunition (Option 2) information for the 2S3M1 Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is OF-25 HE-Frag.
+The Caliber is 152.
+The Maximum Range is 23,900 m.
+The Projectile Weight is 43.56.
+The Basic Load is 40 Total, any combination of Russian 152mm Projectiles.
+The Note is The 2S3 Akatsiya can fire the following 152mm Projectiles: 
+BP-540 HEAT-FS (sight distance is 3 km, 250 mm armor penetration), Br-540B and Br-540 AP-T (115–120 mm armor penetration at a 1000 m), OF-38 Krasnopol laser-guided rocket-assisted projectiles, S1 illuminating, ZH3 smoke, nuclear projectiles (with explosive capacity of 2 kt). Secondary armament consists of a remotely controlled 7.62 mm PKT tank machine gun on commander's cupola for anti-aircraft defence and self-defence at close range..
+
+Here is System information for the 2S3M1 Russian 152mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Name is 1 x 7.62mm PK (Kalashnikov's Machine Gun) General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Max Rate of Fire is 650.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Action is Gas-operated, open bolt.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the 2S3M1 Russian 152mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Muzzle Velocity is 825.
+The Effective Range (Iron Sights) is 100-1,000.
+The Effective Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 3,800.
+The Basic Load is 1,000.
+
+Here is Fire Control information for the 2S3M1 Russian 152mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is Yes, automatic Fire Display.
+The Thermal Sight Vehicle Commander is Yes, PG-4 sight and IP-5 sight.
+The Thermal Sight Gunner is Yes, OP5-38 gunner's telescope.
+The Main Gun Stabilization is INA.
+The Indirect Fire is PG-4 Panoramic Telescope (PANTEL).
+The Direct Fire is OP 5-38.
+The Collimator is K-1.
+The Commander Cupola Range is 360.
+The Searchlight is OU-3K infra-red/white light searchlight.
+
+Here is Protection information for the 2S3M1 Russian 152mm Self-Propelled Howitzer (SPH):
+The Hull Armor is 15.
+The Turret Armor is 20.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes, Automatic CBRN defense system with filtration unit.
+The Smoke Equipment is No.
+The Fire Suppression System is Yes.
+

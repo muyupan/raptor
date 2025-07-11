@@ -1,0 +1,145 @@
+This document describes the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette.
+
+Indonesia's SIGMA-class (or DIPONEGORO-class) corvettes are based on a Dutch modular design to produce three different sizes of naval patrol vessels. SIGMA is an acronym for "ship integrated geometrical modularity approach." The ships are based on a common design defined by a set of geometric parameters, which are applied throughout the entire range of the class and which provide a repetition of identical units, both in the dimensions of the ship's spaces and in the layout. The corvettes for Indonesia cost an estimated $212 million for the first two and $339 million for the second two
+
+This equipment has proliferated into the following countries: Indonesia.
+
+Here is Variants information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette:
+The DIPONEGORO is Commissioned: 2007
+Status: Active.
+The HASANUDDIN is Commissioned: 2007
+Status: Active.
+The SULTAN ISKANDER MUDA is Commissioned: 2008
+Status: Active.
+The FRANS KAISIEPO is Commissioned: 2009
+Status: Active.
+
+Here is System information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette:
+The Alternative Designation is Diponegoro Class; SIGMA 9113 Class.
+The Type is Corvette.
+The Builder is Schelde Naval Shipbuilding, Vlissingen, Netherlands
+   (a subsidiary of Damen Shipyards Group).
+The Crew is 80.
+
+Here is Dimensions information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette:
+The Length is 90.71 m.
+The Beam is 13.02 m.
+The Draft is 3.60 m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 1,692 tons.
+
+Here is Propulsion System information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette:
+The Engine Name is 2 x SEMT Pielstick 20PA6B STC diesels.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Generators is 4 x Caterpillar 3460C diesel generators.
+The Propellers is 2 x Rolls Royce KaMeWa controllable-
+pitch propellers.
+The Maximum Range is 3,600 nm at 18 knots; 4,800 nm at 14 knots.
+The Maximum Speed is 28 knots.
+
+Here is Gun Weapon System #1 information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette of the Gun Weapon Systems:
+The Name is OTO Melara.
+The Type is Naval Gun.
+The Caliber is 76 mm.
+The Quantity is 1 x OTO Melara Naval Gun.
+The Barrel Length is 4,724.4 mm.
+The Weight is 7.5 tons.
+The Crew is Remote Controlled.
+The Elevation is −15°/+85°
+speed: 35°/s (acceleration: 72°/s²).
+The Traverse is 360°
+speed: 60°/s (acceleration: 72°/s²).
+The Rate of Fire is Compact: 85 rounds/min
+Super Rapid: 120 rounds/min.
+The Maximum Firing Range is 915 m/s.
+The Muzzle Velocity is HE-PFF 16,000 m
+SAPOMER 20,000 m
+VULCANO 40,000 m.
+The Feed System is Magazine capacity:
+80 ready rounds on Compact gun mount.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.
+The Shell is 76×636mmR.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette of the Gun Weapon Systems:
+The Name is 2 x 20 mm modèle F2 Naval Guns.
+The Type is Naval Gun.
+The Caliber is 20 mm.
+The Quantity is 2 x 20 mm modèle F2 Naval Guns.
+The Length is INA.
+The Weight is 332 kg (732 lb) (without ammunition).
+The Action is Gas unlocked, delayed blowback.
+The Elevation is −15° to + 65°.
+The Rate of Fire is 720 round/min.
+The Muzzle Velocity is 1,050 m/s.
+The Effective FIring Range is 1,500 m (4,900 ft) against aerial targets.
+
+Here is Gun Weapon System #2 Ammunition information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 20 mm.
+The Cartridge is 20×139mm.
+The Basic Load is INA.
+
+Here is Missile #1 information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette of the Missile Weapon System:
+The Name is SM 39 Exocet.
+The Type is Anti-Ship Missile.
+The Launchers is 2 x twin MM40 Exocet Block II SSM launchers.
+The Length is 5.80 m.
+The Diameter is 348 mm.
+The Wingspan is 1.14 m.
+The Weight is 666 kg.
+The Engine is 2 x SNPE double-base Nitramite smokeless solid-propellant rockets; 1 x Epervier booster with 2.4 sec burn; 1 x Eole V sustainer with 200-220 sec burn.
+The Warhead is 165 kg Hexolite blast fragmentation.
+The Speed is 1,100 kph, Mach 0.93.
+The Maximum Range is 50 km.
+The Minimum Range is 4 km.
+The Peak Altitude is 50 m.
+The Sensors/Electronics is TRT AHV-7 radio altimeter inertial navigation during first part of flight
+ Electronique Marcel Dassault ADAC or Super ADAC I/J-band active radar homing in terminal phase that begins search approx.
+ 5.4 nm (6.2 mi, 10 km) from target's estimated position..
+The Basic Load is INA.
+
+Here is Missile #2 information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette of the Missile Weapon System:
+The Name is Mistral.
+The Type is MANPAD.
+The Launchers is 2 x quad Tetral SATCP Mistral SAM launchers (1 forward, 1 aft).
+The Length is 1.86 m.
+The Diameter is 90 mm.
+The Weight is INA.
+The Crew is 1.
+The Engine is Solid Rocket Motor.
+The Warhead is High Explosive with high density tungsten balls.
+The Warhead Weight is 2.95 kg.
+The Detonation Mechansim is Laser proximity or impact triggered.
+The Maximum Speed is 800 m/s.
+The Effective Firing Range is up to 6 km.
+The Guidance System is Infrared homing.
+The Basic Load is INA.
+
+Here is Torpedoes information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette:
+The Note is 2 x triple 324-mm B-515 torpedo launchers [unknown no. of EuroTorp A244S Mod 3 torpedoes carried].
+
+Here is Fire Control Systems information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette:
+The FCS Name is 1 x LIROD Mark 2 tracking-surveillance fire-control.
+The Computerized FCS is Yes.
+
+Here is Radar Systems information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette:
+The Surveillance Radar is 1 x Thales MW 08 3D multi-beam surveillance.
+The Navigation Radar is 1 x Sperry Marine BridgeMaster-E ARPA
+                              navigation.
+
+Here is Sonar Systems information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette:
+The Name is 1 x Thales Kingklip medium frequency active.
+The Type is Hull Mounted.
+
+Here is Protection information for the Diponegoro Class (SIGMA 9113 Class) Indonesian Corvette:
+The Active Protection System is INA.
+The Countermeasures is Yes.
+The NBC Water Washdown System is Yes.
+The EW is 1 x Thales DR3000 system; 1 x Racal Scorpion 2L system jammer; 2 x 12-barreled PK-16 chaff decoy rocket
+launchers.
+

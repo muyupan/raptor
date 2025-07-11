@@ -1,0 +1,76 @@
+This document describes the Type 73 Chinese Armored Recovery Vehicle.
+
+The Type 73 Chinese Armored Recovery Vehicle is built on a Type 59 hull and was the first ARV the Chinese ever built for their Type 59 in the 1970s.
+
+The recovery equipment includes a recovery winch, which can provide a pulling capacity of 25 tons, or 50 tons when used in conjunction with two pulleys, and a manually operated hoist boom with a max lifting capacity of 1,000 kg. A spade can provide a maximum of 54 tones of support.
+
+This means that the vehicle can winch to safety, tow, and replace the engine of a damaged or stuck tank in the field.
+
+Armament on the Type 73 includes a roof-mounted Type 59 12.7mm antiaircraft machine gun (AAMG) with 500 rounds.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Type 73 Chinese Armored Recovery Vehicle:
+The Alternate Designation is Type 73.
+The Type is Armored Recovery Vehicle.
+The Manufacturer is INA.
+The Chassis is Type 59.
+The Crew is 4.
+
+Here is Recovery Equipment information for the Type 73 Chinese Armored Recovery Vehicle:
+The Winch Cable Length is 130 m (main winch); or 260 m (auxiliary winch).
+The Main Recovery Winch Capacity is 32-35 tons (without pulley); or 64-70 tons (with pulley).
+The Boom Capacity is 1,000 kg.
+The Boom Max Lift Height is 3.2 m.
+The Boom Elevation Range is 0-60 deg.
+The Boom Azimuth Range is 200 deg.
+
+Here is Dimensions information for the Type 73 Chinese Armored Recovery Vehicle:
+The Length is 7.16 m.
+The Width is 3.27 m.
+The Height is 2.125 m.
+The Weight, Combat is 31 tons.
+The Wheelbase is Tracked chassis, 5 roadwheels, drive sprocket front, idler rear, 3.84 m length, 0.58 m width, 2.86 m track.
+
+Here is Automotive information for the Type 73 Chinese Armored Recovery Vehicle:
+The Engine Name is 12150L.
+The Engine Type is Diesel.
+The Engine Power is 580 hp.
+The Power-to-Weight Ratio is 16.8 hp/t.
+The Maximum Fuel Capacity is 790 liters.
+The Transmission is Manual, 5 forward, 1 reverse.
+The Range is 435.
+The Speed, Maximum Road is 50.
+The Speed, Average Cross is 25.
+The Speed, Average Road is 30.
+The Gradient is 58.
+The Trench is 2.7.
+The Fording Depth is 1.4.
+
+Here is System information for the Type 73 Chinese Armored Recovery Vehicle of the Main Weapon System:
+The Name is 1 x Type 54.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Length is 1,625 mm.
+The Barrel Length is 1,070 mm.
+The Weight is 34 kg.
+The Action is Gas-operated, flapper locking.
+The Rate of Fire is 600 rounds/min.
+The Muzzle Velocity is 850 m/s.
+The Maximum Firing Range is 2,500 m.
+The Effective Firing Range is 2,000 m.
+The Feed System is 50 round belt.
+The Sights is Iron/optical.
+
+Here is Ammunition information for the Type 73 Chinese Armored Recovery Vehicle of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7×108mm.
+The Basic Load is 500 Rounds.
+
+Here is Protection information for the Type 73 Chinese Armored Recovery Vehicle:
+The Hull Armor is 20–203 mm.
+The Applique Armor is INA.
+The NBC Protection is No.
+The Smoke Equipment is Yes, exhaust diesel injection.
+

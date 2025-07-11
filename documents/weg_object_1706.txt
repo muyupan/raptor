@@ -1,0 +1,56 @@
+This document describes the HUGIN Endurance Norwegian Autonomous Underwater Vehicle (AUV).
+
+The HUGIN Endurance Norwegian Autonomous Underwater Vehicle (AUV)  is the newest member of the HUGIN AUV family and enables unsupervised shore-to-shore operations over long ranges. HUGIN Endurance can be configured with a range of sensors focused on mission capabilities and situational awareness. This includes the proven hydro-acoustic instruments for mapping and inspection purposes, such as the KONGSBERG HISAS family of synthetic aperture sonars and the EM family of multi beams. Both underwater and surface awareness sensors are used for autonomous decision-making.
+
+This equipment has proliferated into the following countries: Norway.
+
+Here is Variants information for the HUGIN Endurance Norwegian Autonomous Underwater Vehicle (AUV):
+The HUGIN is The HUGIN Norwegian Autonomous Underwater Vehicle (AUV) is the most successful commercial AUV available. It is the most capable AUV combining IHO quality positioning with the highest resolution sensors on the market. HUGIN collects data from many different sensors concurrently, providing a complete data product from a single mission. Hugin is available in several configurations and depth ratings. The main depth ratings are 3,000 meters; 4,500 meters; 6,000 meters..
+The HUGIN Superior is The HUGIN Superior Norwegian Autonomous Underwater Vehicle (AUV) is the most capable commercially available AUV. It offers the best data quality and coverage coupled with the most accurate navigation and positioning solution there is. Packaged as a complete system, HUGIN Superior carries more sensors than ever before over greater distances enhancing productivity and cost-effectiveness. HUGIN Superior is simply the best AUV you can get..
+
+Here is System information for the HUGIN Endurance Norwegian Autonomous Underwater Vehicle (AUV):
+The Alternative Designation is HUGIN Endurance.
+The Type is Autonomous Underwater Vehicle (AUV).
+The Builder is Kongsberg.
+The Crew is Autonomous.
+The Mission is HUGIN Endurance enables low carbon shore-to-shore operations for the commercial survey. The entire HUGIN family of AUVs provides the opportunity to gather more data, at high resolution and with consistent accuracy and HUGIN Endurance adds to that with the introduction of long-range fully autonomous operations.
+The Operating Station is The autonomy system controls mission execution, handles unexpected events and failure modes and switches between redundant modes of operation. On the surface, the vehicle uses its Maritime Broadband Radio (MBR), satellite communication system and surface awareness sensors to safely communicate with the remote operating center to report status and receive mission updates..
+The Navigation System is Sunstone Inertial Navigation system with HISAS micronavigation, HUGIN Endurance can collect more consistent, high-quality data than any other commercially available AUV.KONGSBERG’s advanced underwater navigation system Sunstone, HUGIN Endurance collects consistent, high-resolution data without the need for in-mission supervision. This level of autonomy and accuracy reduces the carbon footprint of survey operations by removing the need for a dedicated support vessel..
+The Camera is Yes.
+The Payload Capacity is HUGIN Endurance can be fitted with a variety of sensors for different applications, including HISAS1032 dual receiver and EM2040 dual receiver for accurate seabed mapping and inspection. Environmental sensors and 3rd party sensor integrations are also available..
+The Containers and Launch and Recovery System is Transportable with a standard shipping container. L&R from shore or ship of opportunity..
+
+Here is Dimensions information for the HUGIN Endurance Norwegian Autonomous Underwater Vehicle (AUV):
+The Length is 10 m.
+The Outer Diameter is 1.2 m.
+The Draft is Submersible.
+The Weight is INA.
+The Weight in Water is Neutrally Buoyant.
+
+Here is Propulsion System information for the HUGIN Endurance Norwegian Autonomous Underwater Vehicle (AUV):
+The Engine Name is INA.
+The Propellers is The tail section of the vehicle consists of contra-rotating dual propellers and fins which wrap over the ends of the blades to offer protection..
+The BatteryType is Pressure tolerant Li-Ion battery.
+The Power Packs is INA.
+The Charge Time is INA.
+The Range is 2,200 km.
+The Operating Speed is INA.
+The Maximum Depth is 6,000 m.
+The Endurance is Uninterrupted shore-to-shore operations; up to 15 days mission duration..
+
+Here is Communications information for the HUGIN Endurance Norwegian Autonomous Underwater Vehicle (AUV):
+The Maritime Radio is Maritime Broadband Radio (MBR).
+The Iridium Satellite Communication System is Yes.
+The Encrypted Data is HUGIN Endurance collects vast amounts of data and operate unsupervised for long periods of time. The collected data is stored on redundant media with the possibility to encrypt the data at rest. Secure communication with the remote operating center is handled through the Kognifai infrastructure. This enables remote-control, mission updates and transfer of information from the AUV to the cloud in a secure and reliable fashion. Customers can further integrate with other platforms to support their own data-driven value creation..
+
+Here is Sonar Systems information for the HUGIN Endurance Norwegian Autonomous Underwater Vehicle (AUV):
+The Synthetic Aperture SOnar is HISAS1032 dual receiver synthetic aperture sonar.
+The Echo Sounder is EM2040 multi-beam echo sounder, which provides unparalleled seabed mapping efficiency with up to 1,000 m of continuous bathymetric swath..
+The Sidescan Sonar is Yes.
+The Sub-Bottom Profiler System is Yes.
+
+Here is Protection information for the HUGIN Endurance Norwegian Autonomous Underwater Vehicle (AUV):
+The Hull is INA.
+The Countermeasures is No.
+The NBC Water Washdown System is No.
+

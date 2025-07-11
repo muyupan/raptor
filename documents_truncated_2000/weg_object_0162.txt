@@ -1,0 +1,42 @@
+This document describes the 9S18M1 Snow Drift Russian Mobile 3D Coherent-Pulse Target Acquisition Radar.
+
+The 9S18M1 radar (NATO name: SNOW DRIFT) is a 3-D acquisition radar operating in the centimetric
+Band. The 9S18M1 SNOW DRIFT is a mobile 3-D radar that uses an electronically steered pencil beam. The
+system incorporates frequency agility, giving it enhanced resistance to ECM. The SNOW DRIFT generally receives
+early warning from brigade-level surveillance radars such as the SPOON REST before acquiring the target. The radar
+can track up to 50 targets at a time, and provide target designation on six targets. Weapon systems associated with the
+9S18M1 SNOW DRIFT include the SA-11 GADFLY and the SA-17 GRIZZLY.
+
+This equipment has proliferated into the following countries: Azerbaijan, Belarus, Cyprus, Egypt, Finland, Georgia, Russian Federation, Syria, Ukraine.
+
+Here is Variants information for the 9S18M1 Snow Drift Russian Mobile 3D Coherent-Pulse Target Acquisition Radar:
+The 9S18M1-1 is This variant offers increased detection range of 86 nm (99 mi, 160 km) and has a scan rate of 4.5 and 6 s..
+
+Here is System information for the 9S18M1 Snow Drift Russian Mobile 3D Coherent-Pulse Target Acquisition Radar:
+The Alternative Designation is 9S18M1 Snow Drift.
+The Type is Mobile 3D Coherent-Pulse Target Acquisition Radar.
+The Manufacturer is NIIP (Measuring Instruments Research Bureau), Novosibirsk, Russia
+ Rosoboronexport, Moscow, Russia (export).
+The Chassis is The radar is vehicle-mounted and can become operational, once positioned, in less than 5 minutes..
+The Crew is INA.
+The Detection Range High-Altitude Target is 85 km.
+The Detection Range 100 meter Altitude Target is 35 km.
+The Detection Range Nap-of-Earth (NOE) Target is 23 km.
+The Tracking Range High-Altitude Target is 70 km.
+The Tracking Range Nap-of-Earth (NOE) Target is 20 km.
+The Emplacement Time is Less than 5 min.
+The Displacement Time is Less than 5 min.
+The Coverage Azimuth Ballistic Missile Targets is 120 deg.
+The Coverage Azimuth Aircraft Targets is 360 deg.
+The Coverage Elevation Aircraft Targets is 40 deg.
+The Coverage Elevation Ballistic Missile Targets is 55 deg.
+The Accuracy is 150 m.
+The Scan Rate is 6-18 sec (deployment on operating mode).
+The Targets Located per Scan is 100.
+
+Here is Dimensions information for the 9S18M1 Snow Drift Russian Mobile 3D Coherent-Pulse Target Acquisition Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

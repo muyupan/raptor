@@ -1,0 +1,47 @@
+This document describes the Bumbar (Bumble Bee) Serbian Anti-Tank Guided Missile (ATGM).
+
+Bumbar is an anti-tank/anti bunker weapon from Serbia. The Bumbar is a wire-guided, man-portable, short-range missile system. The missile has a soft launch capability, which means that the main motor fires after the missile have left the launcher, which allows for the missile to be fired from confined spaces, which is a necessity in urban warfare. During its flight, the rocket is maneuvered by a system of thrust vectoring. The missile is propelled by two main rocket motor exhaust vanes located at mid-body. As the missile rotates the launch units send signals commanding the correction by one of the two vanes to move against the missile motors thrust. For example, if the missile has to move to the left, the right thrust vector vane will actuate at the correct time. It is protected against electronic countermeasures through the use of CCD matrix sensors, fast image processing computers, and a robust missile tracer recognition algorithm.
+Its general design is similar to the French/Canadian Eryx MBDA anti-tank missile.  All key components of the Bumbar system are indigenously developed by VTI - Military Technical Institute Belgrade Serbia.
+Can be vehicle-mounted.  The primary purpose is to be deployed forward with infantry forces.
+The weapon can be fired remotely offering protection to the crew.  The launcher is reusable.
+Some sources state that the PH is 90% against moving targets under all conditions up to 600m.
+
+This equipment has proliferated into the following countries: Serbia.
+
+Here is System information for the Bumbar (Bumble Bee) Serbian Anti-Tank Guided Missile (ATGM):
+The Alternative Designation is Bumbar; Bumble Bee.
+The Type is Anti-Tank Guided Missile (ATGM).
+The Manufacturer is The missile system is designed by Serbian military equipment designer Military Technological Institute (VTI) and produced by Serbian arms manufacturer Krušik..
+The Crew is 2.
+The Man Portable is Yes.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Prime Mover Required is Not required.
+The Night Firing Capable is Yes.
+The Maximum Speed is 245 meters per second (18 mps at launch).
+The Time Required for Launch Sequence is 6.
+
+Here is Dimensions information for the Bumbar (Bumble Bee) Serbian Anti-Tank Guided Missile (ATGM):
+The Length is 0.9.
+The Diameter is 136.
+The Height is INA.
+The Weight, Missile is 10.
+The Weight, Launch Tube is 2.
+The Weight, Firing Post is 4.
+The Weight, Tripod is 2.
+The Weight, Combat is 18.
+
+Here is Missile information for the Bumbar (Bumble Bee) Serbian Anti-Tank Guided Missile (ATGM):
+The Engine is The Bumbar weapon system is powered by a solid propellant rocket motor consisting of two phases, which are boost and sustain. The boost phase develops enough thrust to propel the missile with high speed, while the sustain stage provides high thrust and flight velocity, allowing the missile to reach its target with minimum endurance.
+
+The thrust vectoring system employs two thrust vector vanes to provide increased manoeuvrability during the flight..
+The Caliber is 120.
+The Secondary Missile Caliber is 55.
+The Time of Flight to Target at 600m is 4.6.
+The Warhead Penetration is Over 1000mm RHA behind ERA.
+The Range is 60 to 600 m.
+The Warhead Type is Tandem, shape charge.
+
+Here is Fire Control information for the Bumbar (Bumble Bee) Serbian Anti-Tank Guided Missile (ATGM):
+The Guidance System is SACLOS wire guided.
+

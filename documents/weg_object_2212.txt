@@ -1,0 +1,50 @@
+This document describes the TM-62 Russian Anti-Tank Mine.
+
+TM-62 is the designation for a series of Soviet anti-tank blast mines. The mines have a central fuze and typically have a 7.5 kg explosive charge, however, they vary greatly in detail. The mines can be laid manually or automatically from a mine laying machine including the PMR-1, PMR-2 wheeled towed mine layers, the GMZ tracked minelaying vehicle, and the VMR-2 helicopter mine laying system.
+
+In a static test, the TM-62M proved capable of penetrating the hull of a Centurion tank, killing the simulated crew of animals inside.
+
+The TM-62 series of mines can be fitted with the same fuzes as the TM-72 series of mines, which include MVN-72 and MVN-80 fuzes which are vibration and magnetism sensitive.
+
+Variants 
+TM-62M - The TM-62M uses a circular metal case. It is the most widely employed of the TM-62 series of mines.
+TM-62B - The TM-62B paper or cardboard case and is basically a block of cast explosive with a fuze set into the center.
+TM-62D - The TM-62D uses a wooden case.
+TM-62P, TM-62P2, TM-62P3 - all 3 types use plastic cases. However, the TM-62P and TM-62P2 mine cases have ribbed sides, whereas the TM-62P3 has a smooth casing.
+TM-62T - The TM-62T has a fabric and epoxy casing, with a central fuze.
+
+Fuzes 
+MVZ-62
+MVCh-62 - The MVCh-62 uses a clockwork arming delay of 30 to 120 seconds.
+MVN-62
+MVN-72 - The MVN-72 fuze uses a combination of electronics and clockwork, after an initial arming delay the magnetic influence fuze is enabled, powered by a 1.5 V battery.
+MVN-80 - The MVN-80 is an improved version of the MVN-72 fuze.
+VM-62Z
+MVP-62 - The MVP-62 uses a pneumatic bellows arming delay of 20 to 300 seconds. The delay mechanism uses a minimum of metal making it difficult to detect when used with one of the minimum metal cases.
+MVP-62M
+ZN-97 - magnetic influence fuze (made in Poland).
+Note: magnetic influence fuzes give full-width attack i.e. any part of the target vehicle passing over the mine will trigger detonation, not just the track or wheels. However, since magnetic fuzes are electronic, their operational life relies on battery power. Ultimately the battery will run down, after which the mine no longer functions. In contrast, a purely mechanical fuze (usually triggered via a belleville spring) gives a much longer operational life e.g. mines planted 50 years previously will still detonate if a target vehicle drives over them.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the TM-62 Russian Anti-Tank Mine:
+The TM-62M is Metallic case.
+The TM-62P is Plastic case.
+The TM-62B is Caseless.
+The TM-62D is Wooden.
+
+Here is Performance information for the TM-62 Russian Anti-Tank Mine:
+The Armor Penetration is 27.
+The Effect is Blast.
+The Effective Range is 1.
+The Self-Destruct is No.
+The Underwater Emplacement is Yes.
+The Remotely detonated is Yes.
+The Detonation Height is N/A.
+
+Here is Explosive Composition information for the TM-62 Russian Anti-Tank Mine:
+The Type is Pentryt.
+The Weight is 7.5 to 8.3.
+The Booster is Yes.
+The Weight- is 0.75.
+

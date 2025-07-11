@@ -1,0 +1,36 @@
+This document describes the Heron (Machatz-1) Israeli Unmanned Aerial Vehicle (UAV).
+
+The Heron (Machatz-1) Israeli Unmanned Aerial Vehicle (UAV) is a medium-altitude long-endurance unmanned aerial vehicle (UAV) developed by the Malat (UAV) division of Israel Aerospace Industries.
+
+This equipment has proliferated into the following countries: Azerbaijan, Brazil, Canada, Ecuador, Germany, Greece, India, Israel, Malta, Morocco, Singapore, South Korea (Republic of Korea), Turkey, United States of America, Viet Nam.
+
+Here is Variants information for the Heron (Machatz-1) Israeli Unmanned Aerial Vehicle (UAV):
+The Heron TP (Eitan) Israeli Unmanned Aerial Vehicle (UAV) is The Heron TP is a multi-role, advanced, long-range Medium Altitude Long Endurance (MALE) Unmanned Aerial System (UAS) for strategic missions. It is equipped with automatic taxi-takeoff and landing systems (ATOL), satellite communication (SATCOM) for extended range, fully redundant avionics, and more. The Heron TP was designed as a multi-mission platform to address local and international customers' needs and to perform a variety of strategic missions, including intelligence gathering, surveillance, target acquisition, and reconnaissance, using various payloads, with a high level of reliability..
+
+Here is System information for the Heron (Machatz-1) Israeli Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Heron; Machatz-1.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Israel Aerospace Industries.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Payload Capacity is 250 kg.
+The Reconnaissance Equipment is The Heron capable of carrying and operating up to six sensors simultaneously, with the range being listed as including EO sensors (combined TV/IR and TV/IR/laser designation equipment's), search and rescue (SAR) and maritime patrol radars, communications relay equipment, SIGINT sensors, and customer-specified custom payloads..
+The Launching System is The Heron is launched by means of automatic wheeled take-offs..
+The Recovery System is The Heron is recovered by means of automatic wheeled landings..
+
+Here is Dimensions information for the Heron (Machatz-1) Israeli Unmanned Aerial Vehicle (UAV):
+The Length is 8.5 m.
+The Wingspan is 16.6 m.
+The Height is INA.
+The Maximum Takeoff Weight is 1,150 kg.
+
+Here is Automotive information for the Heron (Machatz-1) Israeli Unmanned Aerial Vehicle (UAV):
+The Engine Name is 1 × Rotax 914.
+The Engine Type is 4-cylinder air and water cooled horizontally-opposed piston engine.
+The Engine Power is 115 hp.
+The Maximum Speed is 207 km/h.
+The Service Ceiling is 10,000 m.
+The Rate of Climb is 2.5 m/s.
+The Maximum Distance is INA.
+The Endurance is 52 hours.
+

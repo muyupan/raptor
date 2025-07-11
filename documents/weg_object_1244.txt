@@ -1,0 +1,29 @@
+This document describes the NTC VISMOD 1D14-1 Russian Laser Rangefinder.
+
+NTC VISMOD 1D14-1 Russian Laser Rangefinder
+
+Here is System information for the NTC VISMOD 1D14-1 Russian Laser Rangefinder:
+The Alternative Designation is NTC VISMOD 1D14-1 Russian Laser Rangefinder.
+The Type is Laser Rangfinder.
+The Manufacturer is INA.
+The Crew is 1 x Operator.
+The Model is HTI SG FLIR.
+The Detector is CMT PV.
+The Spectral Range is 8 to 12 Âµm.
+The Field of View, Wide is 8.0Â°Ã4.5Â°.
+The Field of Veiw, Narrow is 2.6Â°Ã1.5Â°.
+The Day Video Camera Field of View, Wide is 6.0Â°Ã4.5Â°.
+The Day Video Camera Field of View, Narrow is 2.0Â°Ã1.5Â°.
+The Laser Rangefinder Type is Eye-safe.
+The Laser Rangefinder Accuracy is Â±5 m.
+The Interfaces is MIL-STD-1553, RS-170, compressed digital video port.
+The Electronic Zoom is Ã2 and Ã4.
+The Long Range Target Location, Accuracy of 20 m CEP is <15 m at 5 km.
+The Long Range Target Location, Accuracy of 30 m CEP is <25 m at 10 km.
+
+Here is DImensions information for the NTC VISMOD 1D14-1 Russian Laser Rangefinder:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight is INA.
+

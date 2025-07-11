@@ -1,0 +1,70 @@
+This document describes the BTR-3U Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC).
+
+The BTR-3U Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC) was jointly developed in 2000 by Ukrainian and Emirati companies as a private venture. It can be seen as an improved variant of the Soviet BTR-80 APC.
+
+This equipment has proliferated into the following countries: Azerbaijan, Chad, Ecuador, Iraq, Kazakhstan, Myanmar, Nigeria, Thailand, Ukraine, United Arab Emirates.
+
+Here is Variants information for the BTR-3U Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The BTR-3E1K is Command Vehicle..
+The BTR-3E is With UTD-20 engine..
+The BTR-3E1 is Export variant, fitted with BM-3 Shturm turret and new engine..
+The BTR-3E ARV is Recovery vehicle with winch, crane and dozer blade..
+The BTR-3E 90 is Heavy fire support vehicle with 90mm Cockerill main gun..
+The BTR-3E1D is Is an improved Ukrainian version..
+The BTR-3EU1 is A version developed for Ukrainian Armed Forces..
+The BTR-3E is Fire support vehicle, fitted with turret-mounted Cockerill 90 mm gun..
+The BTR-3BR is Armored recovery vehicle..
+The BTR-3K is A command post carrier..
+The BTR-3S is Armored ambulance..
+The BTR-3RK is Anti-tank missile carrier..
+The BTR-3M1 is Is a 81/82 mm mortar carrier..
+The BTR-3M2 is Is a 120 mm mortar carrier..
+The BTR-3DA is A version with improved protection..
+The BTR-3DA70 is A version which used automotive components from the older BTR-70 APC..
+
+Here is System information for the BTR-3U Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is BTR-3U.
+The Type is Amphibious Armored Personnel Carrier (APC).
+The Manufacturer is Kharkiv Morozov Machine Building Design Bureau.
+The Family is BTR Series.
+The Configuration is Wheeled 8 x 8.
+The Crew is 3.
+The Passenger Capacity is 6.
+
+Here is Dimensions information for the BTR-3U Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Length is 7.65 m.
+The Width is 2.932 m.
+The Height is 2.84 m.
+The Weight, Combat is 16,400 kg.
+The Ground Clearance is INA.
+
+Here is Automotive information for the BTR-3U Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is BF6M1015.
+The Engine Type is Diesel.
+The Engine Power is 326.
+The Power-to-Weight Ratio is 25.90 hp/t.
+The Fuel Capacity is INA.
+The Electrical System is 24V.
+The Steering is power-assisted on front four wheels.
+The Maximum Land Speed is 95 km/h.
+The Maximum Water Speed is 8-10 km/h.
+The Range is 600 km.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Obstacle is 0.70 m.
+The Trench is 1.80 m.
+
+Here is Main Weapon System information for the BTR-3U Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Armament Module is 1 x Shkval Armament Module. The Shkval is an integrated, modular weapon station intended for application on a wide range of armored vehicles. It was developed by the State Scientific Technical Centre of Artillery & Rifle Arms of Ukraine. The Shkval turret includes KBA-2/ZTM-1 30mm cannon, KT-7.62 7.62mm coaxial machine gun, AGS-17 30mm automatic grenade launcher, and anti-tank missile launchers. Optionally its modular design allows replacement of guns, grenade launchers and missiles by others that better suit the customer's requirements. This weapon station has been designed for operation by a single person. The rotating Shkval weapon station carries 350 30mm rounds, 2,500 7.62mm rounds and 29 ready-to-fire grounds for the 30mm grenade launcher with an 89 additional rounds in reserve. The weapon station also carries two side-mounted wire-guided Red Arrow 8 (HJ-8) or Konkurs anti-tank missiles. The module is fitted with an stabilized fire control system with an operating range of 4,000 or 700 meters at daylight or night respectively. as well as six (3+3) 81mm smoke/aerosol grenade launchers..
+
+Here is Protection information for the BTR-3U Ukrainian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is Protection against 7.62 mm ball rounds and artillery shell splinters..
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

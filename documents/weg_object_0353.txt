@@ -1,0 +1,45 @@
+This document describes the HD2-S Mastiff American Unmanned Ground Vehicle (UGV).
+
+The HD2-S Mastiff American Unmanned Ground Vehicle (UGV) features a tracked design that allows it to climb over most obstacles including stairs. It features a 20x zoom camera with 360 degree pan and -15/+90 degree tilt. It also has IR capability so you can see in any lighting condition. With all the features of the HD2-S Doberman, the addition of a multi-axis arm makes this robot even more versatile.
+
+The multi-axis arm allows the operator to open doors, provides assistance in scaling obstacles, moving debris, inspecting suspicious items, and Explosive Ordnance Disposal (EOD) at a safe distance. The strong arm is capable of lifting 20 pounds fully extended. The Mastiff can be equipped with an available 5th axis allowing the base to rotate 400 degrees, and the optional 6th axis allows the wrist to tilt 160 degrees. With this very agile and strong arm, this robot makes a very versatile tool.
+
+This equipment has proliferated into the following countries: Ukraine, United States of America.
+
+Here is System information for the HD2-S Mastiff American Unmanned Ground Vehicle (UGV):
+The Alternative Designation is HD2-S Mastiff.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is SDR Tactical Robots.
+The Configuration is Track.
+The Crew is Unmanned.
+The Operator Control Unit (OCU) is Designed for long range transmission, the 2.4GHz high power digital radio system provides secure two-way encrypted transmission between the control system and the robot. Additional OCU features include:• Rugged Pelican case enclosure with 12” LCD touch screen.• 11.1V 10Ah Lithium-Ion battery system.• Integrated joysticks with intuitive controls for drive, stabilizer arm, manipulator arm, and camera.• Preset arm positions for multi-axis arm to allow for easier operation and stowing.• Kinematic model: 3D model with live positioning of the multi-axis arm. Additional collision detection.• Record video and take snapshots.• 2-way audio system for hostage negotiation.• Quad view display of camera views.• Additional control modes - Cartesian and Joint mode allow for intuitive manipulator control..
+The Multi-Axis Manipulator Arm is This multi-axis arm system allows for the robot to interact with it’s environment. Improved payload capacity allows for the robot to transporter manipulate heavier objects..
+The Camera is Strategically placed cameras for ease of use and effective surveillance. All cameras work in low light using either IR or LED lights.• 360° pan/tilt IR camera with 20x zoom and LED lights.• IR camera attached to gripper arm.• Fixed front IR camera.• Rear/view backup IR camera..
+
+Here is Dimensions information for the HD2-S Mastiff American Unmanned Ground Vehicle (UGV):
+The Length is 965.2 mm.
+The Width is 508 mm.
+The Height is 660.4 mm.
+The Weight, Combat is 49.90 - 69.4 kg depending on configuration.
+
+Here is Automotive information for the HD2-S Mastiff American Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Maximum Range is INA.
+The Maximum Speed is 33.52 meters per minute.
+The Amphibious is No.
+The Gradient is INA.
+The Side Slope is INA.
+The Vertical Step is INA.
+The Trench is INA.
+The Fording is INA.
+The Ground Clearance is 63.5 mm.
+The Endurance is 8 hours.
+
+Here is Protection information for the HD2-S Mastiff American Unmanned Ground Vehicle (UGV):
+The Armor is Durable aluminum chassis with a rugged outer coating.
+The Applique Armor is INA.
+The NBC Protection is No.
+The Smoke Equipment is No.
+

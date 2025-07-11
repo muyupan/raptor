@@ -1,0 +1,116 @@
+This document describes the WMZ-322 (SH-3) Chinese 122mm Self-Propelled Howitzer (SPH).
+
+The WMZ-322 (SH-3) Chinese 122mm Self-Propelled Howitzer (SPH) is designed and manufactured by the Chinese defense company NORINCO (North Industries Corporation). The first information about this artillery system was published in 2005, but NORINCO never officially provided technical information about this product. According to some Chinese military sources, WMZ322 is offered for export under the name SH3.
+
+WMZ322 has high mobility and firepower, which is provided by a computerized fire control system. WMZ322 is in the service of the Chinese army. In November 2017, the office of the President of Rwanda, Paul Kagame, published a photo on his Flickr account, which showed SH-3, which participated in military exercises in Rwanda, code-named "Hard Punch II".
+
+Layout and protection
+The layout of the WMZ322/SH3 is very similar to the PLZ-89, especially in terms of the turret design, most of the differences in the suspension. Another feature of WMZ322 is that the driver is in the front left part of the hull, but the PLZ-89 has two hatches, the driver is in the same place, and the commander's seat is behind him. The WMS322 has a crew of five people. The turret is installed in the rear part of the hull, it has one door, rear located. The hull and the turret provide protection from small arms firing and fragments of artillery shells.
+
+Mobility
+The WMZ322/SH3 is powered by a Deutz BF8M 1015CP water-cooled diesel engine with a power of 450 hp. It provides a maximum speed of 60 km/h and a maximum range of up to 500 km. On the sides there are six paired rubberized road wheels, having a torsion suspension, sprocket wheels in front, guide wheels at the rear, and three supporting rollers.
+
+Armament
+WMZ322/SH3 is equipped with a turret very similar to PLZ-89, an older version of the 122-mm Chinese-made tracked self-propelled howitzer. It uses the same type of the main armament that consists of one Type 89 122/32-mm cal howitzer borrowed from a Type 85 towed howitzer that has a box screen for a recoil mounted above the barrel and a muzzle brake. The gun is equipped with a semi-automatic loading system that provides a rate of fire from 6 to 8 rounds per minute. The maximum range of standard ammunition is 18 km, for EFRB (Extend Range Full Bore) - up to 22 km and 27 km - for projectiles with Rocket Assisted Projectiles (RAP). The vehicle has ammunition total of 40 rounds. The 12.7-mm machine gun is mounted on the roof of the turret, near the commander's hatch. On the sides of the turret, there are also four smoke grenade launchers.
+
+Equipment
+Standard equipment WMZ322/SH3 includes an infrared night vision device, a meteorological sensor, an NBC protection, an automatic fire-extinguishing system, and a GPS navigation system. WMZ322 is also equipped with an automatic fire control system that includes a digital ballistic computer, an optical sight for day and night vision and a laser range finder installed at the top of the turret.
+
+This equipment has proliferated into the following countries: China, Rwanda.
+
+Here is Variants information for the WMZ-322 (SH-3) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Type 89 is The Type 89/PLZ-89 is a 122 mm self-propelled howitzer used by the People's Liberation Army of China to replace Type 85 and Type 70 122 mm self-propelled howitzer. PLZ-89 was first unveiled to the public during 1999 National Day military parade..
+The PLZ-07 is is a successor of the Type 89. This artillery system is widely used by the China's army. It utilizes a similar 122 mm howitzer, but has a new tracked chassis. It has greater mobility, improved fire control system and delivers greater firepower than its predecessor. This artillery system was adopted by the Chinese army in the late 2000s and is fielded in large numbers..
+The PLZ-07B i is is a version of the PLZ-07, developed for China's marine corps. This artillery system is fully-amphibious and can be launched at sea from amphibious assault ships and swim over short distances to shore..
+
+Here is System information for the WMZ-322 (SH-3) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is WMZ-322; SH-3.
+The Type is 122mm Self-Propelled Howitzer.
+The Crew is 5.
+The Chassis is The SH-3 uses a new chassis, which is based on the Type 89 chassis, but has numerous improvements..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the WMZ-322 (SH-3) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Length is 6.6 m.
+The Width is 3.28 m.
+The Height is 2.5 m.
+The Weight, Combat is 24.5 tons.
+
+Here is Automotive information for the WMZ-322 (SH-3) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Engine Name is BF8M1015CP.
+The Engine Type is Diesel.
+The Engine Power is 590.
+The Cruising Range is 500.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is The SH-3 can be fitted with floatation kit for amphibious operation. Once the kit is fitted it can ford water obstacles such as lakes and rivers..
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.8 m.
+The Tench is 2.5 m.
+The Fording, without Preparation is 1 m.
+The Fording, with Preparation is Amphibious.
+
+Here is System information for the WMZ-322 (SH-3) Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Weapon System:
+The Name is L32 Howitzer.
+The Type is Howitzer.
+The Caliber is 122 mm.
+The Barrel Length is 32 calibers.
+The Barrel Weight is INA.
+The Elevation is INA.
+The Traverse is 360 deg.
+The Loader Type is The SH-3 is fitted with a semi-automatic loader..
+The Maximum Firing Range is 18 - 21 km.
+The Maximum Rate of Fire is 6 - 8 rpm.
+The Note is This artillery system is compatible with Chinese and Russian 122 mm ammunition..
+
+Here is Ammunition information for the WMZ-322 (SH-3) Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Weapon System:
+The Type is Projectile.
+The Caliber is 32.
+The Basic Load is INA.
+The Note is This artillery system is compatible with standard Chinese and Russian 122 mm ammunition. It fires separate-loaded ammunition. NORINCO developed a whole family of 122 mm ammunition..
+
+Here is System information for the WMZ-322 (SH-3) Chinese 122mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Name is QJC88.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Date of Introduction is 1985.
+The Manufacturer is Norinco.
+The Proliferation is China: INA.
+The In Service is 1985-Present.
+The Length is 1.5 m.
+The Barrel Length is 1 m.
+The Height is INA.
+The Weight is 18.5 kg plus 15.5 kg mount.
+The Fire Selector is 0-F.
+The Action is Gas operated, open bolt.
+The Rate of Fire is 540 - 600 rpm.
+The Muzzle Velocity is 850 m/s.
+The Maximum Firing Range is INA.
+The Magazine is Belt fed, 50 rounds.
+The Sights is Iron sights, optional optical sights.
+
+Here is Ammunition information for the WMZ-322 (SH-3) Chinese 122mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7x108mm Soviet.
+The Basic Load is 2,000.
+
+Here is Fire Control information for the WMZ-322 (SH-3) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Vehicle Commander is INA.
+The Main Gun Stabilization is Yes.
+
+Here is Protection information for the WMZ-322 (SH-3) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Hull Armor is Armor of the SH-3 provides protection against small arms fire and artillery shell splinters..
+The Turret Armor is Armor of the SH-3 provides protection against small arms fire and artillery shell splinters..
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

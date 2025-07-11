@@ -1,0 +1,75 @@
+This document describes the R-17 Elbrus (R-300 Scud B) Russian Close-Range Ballistic Missile.
+
+The Scud is a mobile, Russian-made, short-range, tactical ballistic surface-to-surface (hence the nomenclature abbreviation SS) missile system. The SCUD-series guided missiles are single-stage, short-range ballistic missiles using storable liquid propellants. The Scud is derived from the World War II-era German V-2 rocket. Unlike the FROG series of unguided missiles, the SCUDs have movable fins. Warheads can be HE, chemical, or nuclear, and the missile launched vertically from a small platform, has a range of 300 km. Unsophisticated gyroscopes guided the missile only during powered flight - which lasts about 80 seconds. Once the rocket motor shut down, the entire missile with the warhead attached coasted unguided to the target area. Consequently, Scuds had notoriously poor accuracy, and the farther they flew, the more inaccurate they became. SCUD missiles are found in SSM (SCUD) brigades at the front/army level. The SCUD series of missiles gave the Soviet front and army commanders an integral nuclear weapons capability. Non-nuclear variants of the SCUD missiles have been exported to both Warsaw Pact and non-Warsaw Pact nations.
+
+The longer-range SCUD B, also known as SS-1c, can be distinguished by the one-meter greater length of the missile and the presence of two air bottles on the side of the superstructure in place of the single bottle used for the "SCUD A" missile. The SCUD B used unsymmetrical dimethylhydrazine (UDMH), a more powerful (and toxic) fuel than the kerosene used on the SCUD A, which required an engine redesign. They were transported originally on a heavy-tracked vehicle based on the JS heavy-tank chassis. This vehicle serves also as an erector and launcher for the missiles. The SCUD-B was introduced on the JS-3 tracked chassis in 1961 and appeared on the MAZ-543 wheeled chassis in 1965. The "SCUD B" missile has appeared on a new transporter-erector launcher based on the MAZ-543 (8x8) truck. The introduction of this new powerful cross-country wheeled vehicle gave this missile system greater road mobility, reduces the number of support vehicles required, and still preserves a great choice in selecting off-road firing positions. The same basic chassis also has been used for the transporter-erector-launcher for the "SCALEBOARD" surface-to-surface guided missile. In the early 1980s, the SCUD-B was replaced by the SS-23, which has greatly improved range (500 km), increased accuracy, and reduced reaction and refire times.
+
+
+At launch, a basic Scud contains about 3,500 kilograms (7,700 pounds) of IRFNA and about 1,000 kilograms (2,200 pounds) of fuel. Most of the IRFNA and fuel is used within the first 80 seconds of flight when the missile is gaining enough speed to reach its target. When this speed is reached, the Scud is designed to shut off its engine by shutting off the propellant tanks (a fuel tank and an oxidizer tank). The unused propellants—roughly 150 kilograms (330 pounds) of RFNA and 50 kilograms (110 pounds) of fuel—remain on board for the remainder of the flight.
+In the early 1970s, the Soviet Army sought a replacement for the 9K72 Elbrus (SS-1C `Scud B') system, which had a very slow reaction time [around 90 minutes to prepare and fire] and poor accuracy when using conventional warheads. The replacement system, codename 9K714 Oka [SS-23 Spider], was developed by KB Mashinostroyenia (Machine Industry Design Bureau) in Kolomna. This system was phased out in compliance with the INF Treaty in the late 1980s. Russia’s TBM inventory is limited to thousands of SS-1c/Scud B and SS-21/Scarab SRBMs as a result of the Intermediate Nuclear Force (INF) Treaty, which required the elimination of the FSU’s extensive stocks of MRBMs.
+A second SCUD-follow-on effort began in the form of the SS-26, which apparently entered service by 1999. The SS-26 SRBM is expected to be both a replacement for the SS-1c/Scud B and an export. By the early 1990s, the `Scud' system was unquestionably obsolete and many of the 9P117 launcher vehicles were retired due to age.
+
+This equipment has proliferated into the following countries: Congo, Egypt, Kazakhstan, Libya, North Korea (Democratic People's Republic of Korea), Oman, Russian Federation, Syria, United States of America, Viet Nam, Yemen.
+
+Here is Variants information for the R-17 Elbrus (R-300 Scud B) Russian Close-Range Ballistic Missile:
+The SS-1D or Scud-C is SS-1D or Scud-C, an extended-range version. It had a maximum range of 500-600 km. However warhead size and accuracy were greatly reduced. It was not adopted by the Soviet Army, as a more capable TR-1 Temp (Western reporting name SS-12 or Scaleboard) was selected.
+The 9K720 Aerofon (SS-1E or Scud-D) is 9K720 Aerofon (SS-1E or Scud-D). It had a warhead that separated from the missile body. Missile was also fitted with terminal guidance system and was much more accurate and had a CEP of 50 m. The systems was not acquired by the Soviet Army. As at the time more advanced ballistic missiles, such as the Tochka (SS-21 Scarab) were used. Instead in the 1990s it was proposed for export customers as an upgrade for their Scud-B systems..
+The Barkan-1 is Barkan-1 is a Yemeni version of the "Scud" series. Yemeni modifications resulted in an 800 km range..
+The Hwasong-6 is Hwasong-6 is a North Korean variant of the "Scud". It was introduced in 1991. The Hwasong-6 has a range of 500 km. It is also launched using a TEL, and has been exported to several other nations, some of which produce it under license..
+
+Here is System information for the R-17 Elbrus (R-300 Scud B) Russian Close-Range Ballistic Missile:
+The Alternate Designation is the R-17 (SS-1C Scud-B), renamed R-300 in the 1970s.
+The Basing is Ground.
+The Launch Platform(s) is TEL, MAZ-543A (8x8).
+The Chassis is The Scud-B is based on a MAZ-543A heavy high-mobility wheeled chassis..
+The Crew is 8.
+The Effective Range is 300.
+The Circular Error Probability is 450.
+The Emplacement TIme is 4.
+The Displacement Time is INA.
+The Note is Each launcher vehicle is escorted by a whole host of support vehicle. It is escorted by reloading vehicle, fuel tanker, crane, command vehicle, positioning vehicle, and some other support vehicles. Also there is a vehicle which carries warhead for the missile. During the cold war Scuds were also escorted by decontamination vehicles..
+
+Here is Dimensions (Chassis: MAZ-543A) information for the R-17 Elbrus (R-300 Scud B) Russian Close-Range Ballistic Missile:
+The Length is 12.
+The Width is 3.0.
+The Height is 3.5.
+The Weight is 37.4.
+
+Here is Automotive (Chassis: MAZ-543A) information for the R-17 Elbrus (R-300 Scud B) Russian Close-Range Ballistic Missile:
+The Engine Name is D12A-525.
+The Engine Type is Diesel.
+The Engine Power is 525.
+The Maximum Range is 450.
+The Maximum Road Speed is 45.
+The Maximum Off-Road Speed is 15.
+The Gradient is 60.
+The Vertical Step is 0.6.
+The Side Slope is 30.
+The Trench is 2.0.
+The Fording Depth is 1.3.
+
+Here is Launcher information for the R-17 Elbrus (R-300 Scud B) Russian Close-Range Ballistic Missile of the Missile System:
+The Name is 9P117 Uragan.
+The Type is Transporter Erector Launcher (TEL).
+The Launch Sequence is The launch sequence could be conducted autonomously, but was usually directed from a separate command vehicle..
+The Note #1 is The missile is raised to a vertical position by means of hydraulically powered cranes, which usually takes four minutes, while the total sequence lasts about one hour..
+The Note #2 is carry nuclear, chemical, conventional or fragmentation weapons..
+
+Here is Missile information for the R-17 Elbrus (R-300 Scud B) Russian Close-Range Ballistic Missile of the Missile System:
+The Name is R-17 Elbrus (SCUD-B).
+The Type is Short-Range Ballistic Missile.
+The Length is 11.6.
+The Diameter is 0.8.
+The Engine is Liquid Fuel.
+The Missile Weight is 0.98.
+The Warhead Type is These missiles have nuclear (100 kT), high explosive (1 016 kg), chemical (985 kg) and thermobaric warheads..
+The Maximum Range of Fire is 300.
+The Minimum Range of Fire is 50.
+The CEP is 450.
+The Launch to Target Time is within 5 minutes.
+The Guidance System is Inertial Guidance.
+The Note is By modern standards this missile is inaccurate. Its CEP is about 450 m..
+
+Here is Fire Control information for the R-17 Elbrus (R-300 Scud B) Russian Close-Range Ballistic Missile:
+The Guidance System is Inertial guidance system, IR homing.
+

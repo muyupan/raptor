@@ -1,0 +1,78 @@
+This document describes the J-20 (FAGIN) Chinese Stealth Air Superiority Fighter.
+
+The J-20 (FAGIN) Chinese Stealth Air Superiority Fighter is a single-seat, multirole stealth fighter aircraft, the Chengdu J-20 is manufactured by Chengdu Aircraft Industry Group (CAIG) of China.
+
+It is a fifth-generation aircraft being built for the People’s Liberation Army Air Force (PLAAF). The J-20 is designed to execute ground attack missions even in hostile environments. The aircraft can reach higher altitudes with its delta wings in supersonic speeds.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Dimensions information for the J-20 (FAGIN) Chinese Stealth Air Superiority Fighter:
+The Length is 20.4 m.
+The Width (Wing Span) is 13.5 m.
+The Wing Area is 78 m2.
+The Empty Weight is 19,391 kg.
+The Gross Weight is 32,092 kg.
+The Maximum Takeoff Weight is 37,013 kg.
+
+Here is Main Gun System information for the J-20 (FAGIN) Chinese Stealth Air Superiority Fighter:
+The Note is The J-20 is reported to lack an internal autocannon or rotary cannon, suggesting the aircraft is not intended to be used in short range dogfight engagements with other aircraft but engage them with from long standoff ranges with missiles such as the PL-15 and PL-21..
+
+Here is Main Missile System #1 information for the J-20 (FAGIN) Chinese Stealth Air Superiority Fighter of the Main Missile Systems:
+The Name is PL-15.
+The Type is Active Radar-Guided Very Long-Range Air-to-Air Missile.
+The Manufacturer is 607 (Air-to-Air Missile Research Institute).
+The Length is 4.0 m.
+The Diameter is INA.
+The Wingspan is INA.
+The Engine is Pulsed solid-propellant rocket.
+The Operational Range is 300+ km.
+The Maximum Speed is Mach 4.
+The Guidance System is Active Radar-Guided.
+
+Here is Main Missile System #2 information for the J-20 (FAGIN) Chinese Stealth Air Superiority Fighter of the Main Missile Systems:
+The Name is PL-21.
+The Type is Active Radar-Guided Long Range Air-to-Air Missile.
+The Manufacturer is China Aerospace Science and Technology Corporation.
+The Length is 5.5 m.
+The Diameter is 250–300 mm.
+The Engine is Ramjet.
+The Guidance System is active radar with AESA.
+
+Here is Bomb #1 information for the J-20 (FAGIN) Chinese Stealth Air Superiority Fighter of the Bomb Weapon Systems:
+The Name is LS-6.
+The Type is Precision-Guided Bomb.
+The Manufacturer is Luoyang Electro-Optics Technology Development Centre (EOTDC).
+The Length is INA.
+The Diameter is INA.
+The Weight is 50 kg version and a 100 kg version.
+The Warhead is Various gravity bombs.
+The Detonation Mechanism is Impact or Proximity.
+The Maximum Speed is Free-fall.
+The Guidance System is INS with GPS or laser guidance.
+
+Here is Fire Control / Avionics information for the J-20 (FAGIN) Chinese Stealth Air Superiority Fighter:
+The Fire Control Radar is INA.
+The Active Electronically Scanned Array is Type 1475 (KLJ-5) active electronically scanned array.
+The Optical Targeting System is EOTS-86 electro-optical targeting system (EOTS).
+The Infrared Search and Track System is EORD-31 infrared search and track.
+The Targeting and Communication is Prototypes after application "2011" and production models feature revised nose section with an electro-optical/infra-red targeting system and an advanced communications suite on top of the aircraft enables it to datalink with other friendly platforms in service, such as airborne early warning drones. Six electro-optic sensors called Distributed Aperture System[a] similar to EODAS can provide 360-degree coverage for pilot with sensor fusion system combing radar signal with IR image in order to provide better situational awareness. The combination of an integrated targeting pod with spherically located passive-optical tracking system is reported similar to the design concept of Lockheed Martin F-35's avionic suite. Beijing A Star Science and Technology has developed the EOTS-86 electro-optical targeting system and Electro-Optical Distributed Aperture System for the J-20 and potentially other PLAAF fighters to detect and intercept stealth aircraft..
+The Cockpit, Helmet and Displays is The aircraft features a glass cockpit, with one primary large color liquid crystal displays (LCD) touchscreen, three smaller auxiliary displays, and a wide-angle holographic head-up display (HUD). The size of the primary LCD screen is 24 x 9 inches (25.63 by the diagonal) with two systems for redundant illumination..
+
+Here is Radar information for the J-20 (FAGIN) Chinese Stealth Air Superiority Fighter:
+The Note is Official information on the type of radar that J-20s use have not yet been released publicly. Some analysts believed that J-20s used Type 1475 (KLJ-5) active electronically scanned array (AESA) radar with 1856 transmit/receive modules, but more recent information's revealed that this radar was designed for upgraded versions of J-11D. Other analysts point out that, based on nose cross-section of J-20 and known data about a single transmit/receive module surface in the J-16's AESA radar-system, J-20s likely fit 2000–2200 transmit/receive modules.
+
+Here is Protection information for the J-20 (FAGIN) Chinese Stealth Air Superiority Fighter:
+The Stealth Properties is Yes, 
+Analysts noted that the J-20's nose and canopy use a similar stealth shaping design as the F-22, yielding similar signature performance in a mature design at the front, while the aircraft's side and axi-symmetric engine nozzles may expose the aircraft to radar. One prototype has been powered by WS-10G engines equipped with different jagged-edge nozzles and tiles for greater stealth.
+
+Others have raised doubts about the use of canards on a low-observable design, stating that canards would guarantee radar detection and a compromise of stealth. However, canards and low-observability are not mutually exclusive designs. Northrop Grumman's proposal for the U.S. Navy's Advanced Tactical Fighter (ATF) incorporated canards on a stealthy airframe. Lockheed Martin employed canards on a stealth airframe for the Joint Advanced Strike Technology (JAST) program during early development before dropping them due to complications with aircraft carrier recovery. McDonnell Douglas and NASA's X-36 featured canards and was considered to be extremely stealthy.[80] Radar cross-section can be further reduced by controlling canard deflection through flight control software, as is done on the Eurofighter.
+
+The diverterless supersonic inlet (DSI) enables an aircraft to reach Mach 2.0 with a simpler intake than traditionally required, and improves stealth performance by eliminating radar reflections between the diverter and the aircraft's skin. Analysts have noted that the J-20 DSI reduces the need for application of radar absorbent materials.
+
+In May 2018, Indian Air Chief Marshal B.S. Dhanoa claimed that Su-30MKI fighters could detect J-20 from "several kilometers away" amid reports from the Indian media that the J-20 is undetectable. Analyst Justin Bronk from Royal United Services Institute noted that Chinese are possibly flying the J-20 with radar reflectors during peacetime for safety and training purposes due to the potential for accidents and identification from other aircraft or ground installations.[.
+The Heat Signature Reduction is Yes.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is Yes.
+

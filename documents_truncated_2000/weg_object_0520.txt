@@ -1,0 +1,71 @@
+This document describes the AH-1/AH-1A Chinese 155mm Towed Howitzer.
+
+The AH-1/AH-1A Chinese 155mm Towed Artillery is a variant of the PLL-01 Chinese 155mm Towed Artillery that is equipped with a APU. The APU provides limited self-propulsion to move into or out of the firing position and enables powered deployment in the firing position. The difference between the AH1 and the AH1A is a conventional screw breechblock on the AH1 and a laterally sliding wedge breech block on the AH1A.
+
+This equipment has proliferated into the following countries: Algeria, China, Ethiopia.
+
+Here is Variants information for the AH-1/AH-1A Chinese 155mm Towed Howitzer:
+The AH-1 is AH-1 is an improved version of the PLL-01, manufactured in China by NORINCO. It has a more powerful auxiliary power unit, consisting of an air-cooled diesel engine, developing 110 hp. This howitzer has a maximum auto-propulsion speed of 20 km/h. Reportedly, the AH1 is in service with Ethiopia..
+The AH-2 is AH2 is a 52-caliber version of the AH1 towed howitzer. It has a longer range..
+The GM-45 is Same cannon fit onto a lighter carriage.  This allows the system to be easier to maneuver but provides less stability to the system..
+
+Here is System information for the AH-1/AH-1A Chinese 155mm Towed Howitzer:
+The Alternative Designation is AH-1/AH-1A.
+The Type is Towed Howitzer.
+The Caliber is 155 mm.
+The Manufacturer is Norinco.
+The Crew is 6.
+The Displacement Time is 1.5.
+The Emplacement Time is 1.5.
+The Range with standard ammunition is 24.
+The Range with ERFB is 30.
+The Range with ERFB-BB is 39.
+The Minimum Range is 5,400.
+
+Here is Dimensions information for the AH-1/AH-1A Chinese 155mm Towed Howitzer:
+The Length (in Travelling Order) is 7.0.
+The Length (in Combat Order) is 11.4.
+The Width (in Travelling Order) is 2.5.
+The Width (in Combat Order) is 9.3.
+The Height is INA.
+The Weight, Combat is 12.5.
+The Turning Radius is 7.0.
+
+Here is Auxiliary Power Unit (APU) information for the AH-1/AH-1A Chinese 155mm Towed Howitzer of the Automotive Requirement:
+The Engine is 493Q diesel.
+The Engine Power is 110.
+The Auto-propulsion Speed is 20.
+The Auto-propulsion Range (on roads) is 80-100.
+The Maximum Range without Refuelling is 100.
+
+Here is System information for the AH-1/AH-1A Chinese 155mm Towed Howitzer of the Main Weapon System:
+The Type is Howitzer.
+The Caliber is 155.
+The Barrel Length is INA.
+The Breech Type is The difference between the AH1 and the AH1A is a conventional screw breechblock on the AH1 and a laterally sliding wedge breechblock on the AH1A..
+The Muzzle Velocity, Max is 903.
+The Max Range is 39.
+The Min Range is 5,400.
+The Armor Penetration is INA.
+The Fuse Type is INA.
+The Loader Type is Semi-Automatic.
+The Muzzle Brake Type is Multi-slotted.
+The Max Elevation is 72.
+The Min Elevation is -5.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Rate of Fire, Burst is 4.
+The Rate of Fire, Sustain is 2.
+The Rate of Fire, Normal is INA.
+The SP Capable is Yes.
+The Pneumatic Rammer is Yes.
+The ERFB/HE is Yes.
+The ERFB-BB/HE is Yes.
+The ERFB-BB/RA is Yes.
+The ERFB/WP is Yes.
+The ERFB/Illumination is Yes.
+The ERFB/Smoke is Yes.
+The ERFB-BB/Cargo is Yes.
+The Laser Guided Munitions is Yes.
+

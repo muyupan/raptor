@@ -1,0 +1,144 @@
+This document describes the 50R6 Vityaz (S-350E) Russian Medium-Range Air Defense Missile System.
+
+The S-350 Vityaz is an advanced mobile medium-range air defense system being developed by Almaz-Antey Concern as the replacement for the S-125 Pechora (SA-3 Goa) and Buk-M1/2 (SA-11 Gadfly and SA-17 Grizzly) missile systems by 2015/2016 as well as aging S-300PS air defense systems. The missile weapon system consists of a command post, an X-band multi-functional fire control, tracking, and surveillance radar, and up to three missile launchers with 12, originally 10, 9M96E missiles or two 9M100 short-range missiles replacing one 9M96E missile. The rotating phased array X-band radar has been designed for operations in high clutter and heavy jamming environments. All the Vityaz components are mounted on 8x8 all-terrain trucks or similar vehicles. The weapon system is designed to engage a wide spectrum of threats at ranges of up to 40 kilometers such as fixed- and rotary-wing aircraft, Unmanned Aerial Vehicles (UAVs), cruise missiles, and tactical ballistic missiles. The Vityaz is able to detect and track up to 40 targets simultaneously while engaging eight of them with two missiles per target. Its development started in 2007.
+
+A Russian press article, released in August 2011, stated that the Vityaz leveraged some technology from the S-300 air defense system family but with each launch vehicle carrying 16 missiles instead of only four. The new air defense system combat capabilities also surpass largely those of the S-300 family. The Russian Armed Forces expect to deploy the Vityaz medium-range air defense system along with the Morfei, S-400, and S-500 air defense systems to produce a highly effective multi-layered air defense network capable to shoot down targets flying from altitudes of five kilometers to near space.
+
+The 50R6A Vityaz missile system consists of:
+
+* 1-2 50N6A multifunctional passively electronically scanned array radar stations. 360° coverage for early detection, target illumination, and missile guidance.
+
+* 1 50K6A command post, fully autonomous combat work with interaction with other remote systems.
+* 1-8 50P6 launcher (12-96 missiles).
+
+* 9M96/9M96E(E2) guided missiles; passive guidance and other missiles with active homing guidance. 12– 
+  120 km (7.5–74.6 mi) range, aerodynamic control surfaces, and jet engines of control surfaces.
+
+* 9M100 guided missiles; 10–15 km (6.2–9.3 mi) range; infrared passive homing; aerodynamic control surfaces and jet engines of control; maximum maneuver 60 G-20 surfaces.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the 50R6 Vityaz (S-350E) Russian Medium-Range Air Defense Missile System:
+The S-350E is S-350E is a downgraded export version..
+
+Here is System information for the 50R6 Vityaz (S-350E) Russian Medium-Range Air Defense Missile System:
+The Alternative Designation is S-350 Knight.
+The Type is Medium-Range Air Defense Missile System.
+The Family is S-350.
+The Manufacturer is Northwest Regional Center of Almaz-Antey (GOZ, ZRTO).
+The In Service is 2019-Present.
+The Crew is The TEL vehicle has a crew of three..
+The Chassis is BAZ-6909.
+The Displacement Time is 5.
+The Emplacement Time is 5.
+The Fire on the Move is No.
+The Note is The S-350 Vityaz (knight) is a short-to-mid range air defense missile system. It was developed by Almaz-Antey company as a replacement for the ageing S-300PS, which was developed back in the early 1980s, and Buk M1-2 system, which is now over 20 years old..
+
+Here is Dimensions (BAZ-6909 Launcher Vehicle) information for the 50R6 Vityaz (S-350E) Russian Medium-Range Air Defense Missile System:
+The Length is 11.3.
+The Width is 2.75.
+The Height is 2.85.
+The Weight, Empty is 22.
+The Weight, Combat is INA.
+The Ground Pressure is INA.
+The Payload Capacity is 18-20.
+
+Here is Automotive (BAZ-6909 Launcher Vehicle) information for the 50R6 Vityaz (S-350E) Russian Medium-Range Air Defense Missile System:
+The Engine Name is YaMZ-8424.10.
+The Engine Type is Diesel.
+The Engine Power is 470.
+The Maximum Range is 1,000.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Sidel Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.
+The Fording Depth is 1.2.
+
+Here is Launcher information for the 50R6 Vityaz (S-350E) Russian Medium-Range Air Defense Missile System of the Missile System:
+The Name is 50P6 Launcher Vehicle.
+The Chassis is BAZ-6909 special wheeled chassis with 8x8 configuration..
+The Maximum Elevation is +90 deg.
+The Minimum Elevation is INA.
+The Traverse Range is INA.
+The Traverse Left is INA.
+The Travese Right is INA.
+
+Here is Missile (Option 1) information for the 50R6 Vityaz (S-350E) Russian Medium-Range Air Defense Missile System of the Missile System:
+The Name is 9M96E.
+The Type is Vertically-launched Direct Impact missile.
+The Basic Load is 12.
+The Length is 4.75.
+The Diameter is 240.
+The Weight is 333.
+The Warhead Weight is 24.
+The Speed is INA.
+The Kill Probability vs. Aircraft is 90.
+The Kill Probability vs Harpoon Missiles is 70.
+The Maximum Range is 60.
+The Minimum Range is 1.
+The Maximum Altitude is 20.
+The Minimum Altitude is 5.
+The Note is he 9M96E is a variant of the 9M96 active radar-homing interceptor missile..
+
+Here is Missile (Option 2) information for the 50R6 Vityaz (S-350E) Russian Medium-Range Air Defense Missile System of the Missile System:
+The Name is 9M96E2.
+The Type is Vertically-launched Direct Impact missile.
+The Basic Load is 12.
+The Length is 5.65.
+The Diameter is 240.
+The Weight is 420.
+The Warhead Weight is 24.
+The Speed is 1,800.
+The Kill Probability vs. Aircraft is 90.
+The Kill Probability vs Harpoon Missiles is 70.
+The Maximum Range is 120.
+The Minimum Range is 1.
+The Maximum Altitude is 30.
+The Minimum Altitude is 5.0.
+
+Here is Fire Control System information for the 50R6 Vityaz (S-350E) Russian Medium-Range Air Defense Missile System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Number of Targets is This air defense system can engage 12 to 16 targets simultaneously, including aircraft and ballistic missiles..
+
+Here is Radar Vehicle information for the 50R6 Vityaz (S-350E) Russian Medium-Range Air Defense Missile System of the Fire Control:
+The Name is 50N6A.
+The Number of Radar Vehicles is 1 - 2.
+The Type is The 50N6A is the MFMTR Multi-Function Mobile Tracking Radar which is used with the Vityaz 50R6 ground-to-air defense missile system..
+The Chassis is BAZ-69092 with 6x6 configuration..
+The Function is Designed for the rapid acquisition and initial tracking of inbound ballistic missiles within a 90 degree sector..
+The Frequency/Band is X Band.
+The Range is INA.
+The Number of Targets System can Detect is The roof-mounted MFMTR X-band phased array radar of the fire-control system can detect and track up to 40 targets simultaneously..
+The Number of Targets System can Engage is The Radar can engage eight tragets typically using two missiles per target to ensure a high-kill probability..
+The Search Sector is 90.
+The Maximum Elevation is +45.
+The Minimum Elevation is INA.
+The Tracking Error Range is 250.
+The Simultaneous Target Detection is Yes.
+The Multiple Target Tracking is Yes.
+The Missile Up-Link is Yes.
+The Note is The radar contains a Rotating phased-array antenna (60 rpm) with Full electronic scanning, with large deflection (+/- 45° in elevation and bearing)..
+
+Here is Command Post Vehicle information for the 50R6 Vityaz (S-350E) Russian Medium-Range Air Defense Missile System of the Fire Control:
+The Name is 50K6A.
+The Number of Command Vehicles is 1.
+The Type is Command Post Vehicle.
+The Coverage is Fully autonomous combat work with interaction with other remote systems..
+The Note is Command post can target up to 32 missiles on various targets at once..
+
+Here is Protection information for the 50R6 Vityaz (S-350E) Russian Medium-Range Air Defense Missile System:
+The Hull Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

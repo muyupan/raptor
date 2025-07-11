@@ -1,0 +1,130 @@
+This document describes the HMS Tyne British River-Class Offshore Patrol Vessel.
+
+HMS Tyne is the sixth Royal Navy ship to carry the name Tyne. She is a River-class offshore patrol vessel built by Vosper Thornycroft in Southampton to serve as a fishery protection unit within the United Kingdom's waters along with her two sister ships Mersey and Severn. All three were commissioned into service in 2003 to replace the five older Island-class patrol vessels.
+
+
+Tyne was featured in the first episode of the BBC series Empire of the Seas, "How the Navy Forged the Modern World, Heart of Oak", presented by Dan Snow.
+
+The ships have large working decks to allow the vessels to cope in several roles, such as disaster relief, fire fighting, rescue work, and interception of other vessels. For this purpose a crane capable of lifting 25 tonnes (28 tons) is fitted, to enable standard containers to be used. The deck is also large enough to permit the transport of other craft such as oil spill recovery tractors and landing craft.
+
+Her affiliations included North Tyneside Council, St Catherines Primary School, Hadrian Special Needs Primary School, TS Caledonia (Peterhead Sea Cadets unit), TS Tyne (Newburn Sea Cadets unit), and the Worshipful Company of Butchers.
+
+Aside from her day to day fishery protection duties, Tyne was occasionally been called upon to undertake escort roles in the UK Area of Interest, two such examples occurred in the autumn of 2016 when Tyne was twice assigned to escort Russian warships through the English Channel.
+
+In March 2017 it was announced that Tyne would be manned by personnel usually assigned to Hunt-class mine countermeasures vessel; this would allow her crew to transfer to the Batch 2 River class HMS Forth in build in Glasgow.
+
+This equipment has proliferated into the following countries: United Kingdom of Great Britain and Northern Ireland.
+
+Here is System information for the HMS Tyne British River-Class Offshore Patrol Vessel:
+The Alternative Designation is HMS Tyne (P281).
+The Class is River-Class.
+The Type is Patrol Vessel.
+The Date Ordered is April 2001.
+The Builder is Vosper Thornycroft.
+The Commissioned is 4 July 2003.
+The Launched is 27 April 2002.
+The Homeport is Portsmouth.
+The IMO Number is 9261322.
+The MMSI Number is 234605000.
+The Callsign is GAAD.
+The Pennant Number is P281.
+The Status is In active Service.
+The Troops is 20.
+The Complement is 30.
+The Crane is Yes, 25 Tonne Crane.
+
+Here is Dimensions information for the HMS Tyne British River-Class Offshore Patrol Vessel:
+The Length is 79.5.
+The Beam is 13.5.
+The Height is INA.
+The Draught is 3.8.
+The Displacement is 1,700.
+
+Here is Propulsion System information for the HMS Tyne British River-Class Offshore Patrol Vessel:
+The Engine Name is 2 x Ruston 12RK 270.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Maximum Range is 5,500 nmi (10,200 km).
+The Maximum Speed is 20 kn (37 km/h).
+The Endurance is 21.
+
+Here is System information for the HMS Tyne British River-Class Offshore Patrol Vessel of the Main Armament:
+The Name is 1 x Oerlikon 20 mm cannon.
+The Type is Autocannon.
+The Place of Origin is Switzerland.
+The In Service is 1937-Present.
+The Manufacturer is Oerlikon.
+The Proliferation is 124,734.
+The Variants is Oerlikon FF
+MG FF cannon.
+The Barrel Length, Overall is 2,210.
+The Barrel Length, Bore is 1,400.
+The Barrel Length, Rifling is 1,246.
+The Number Of Barrels is Single barrel (progressive RH parabolic twist, 9 grooves).
+The Action is API Blowback.
+The Maximum Elevation is +90.
+The Minimum Elevation is -15.
+The Traverse Range is 360.
+The Traverse Right is 360.
+The Traverse Left is 360.
+The Rate of Fire is 450 rounds per minute.
+The Muzzle Velocity is 820.
+The Effective Firing Range is 914 m against low-flying aircraft.
+The Maximum Firing Range is 4,389 m, HE round at 45 deg.
+
+Here is Ammunition information for the HMS Tyne British River-Class Offshore Patrol Vessel of the Main Armament:
+The Type is Rifle.
+The Caliber is 20.
+The Cartridge is 20×110mmRB.
+The Muzzle Velocity is 820.
+The Basic Load is INA.
+
+Here is System information for the HMS Tyne British River-Class Offshore Patrol Vessel of the Auxiliary Weapon Systems:
+The Name is FN MAG.
+The Type is 7.62 mm General-Purpose Machine Gun.
+The Place of Origin is Belgium.
+The In Service is 1958-Present.
+The Manufacturer is Fabrique Nationale (FNH / FNH UK) and U.S. Ordnance.
+The Proliferation is over 200,000.
+The Length is 1,263.
+The Barrel Length is 630.
+The Width is 118.7.
+The Height is 263.
+The Weight is 11.8.
+The Action is Gas-operated long-stroke piston, open bolt.
+The Muzzle Velocity is 840.
+The Rate of Fire is 650–1,000 rounds/min.
+The Effective Firing Range, Bipod is 800.
+The Effective Firing Range, Tripod is 1,800.
+The Maximum Firing Range is 3,500.
+The Feed System is Non-disintegrating DM1 or disintegrating M13 linked belt.
+The Sights is Folding leaf sight with aperture and notch, front blade.
+
+Here is Ammunition information for the HMS Tyne British River-Class Offshore Patrol Vessel of the Auxiliary Weapon Systems:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Muzzle Velocity is 840.
+The Basic Load is INA.
+
+Here is Boat and Landing Craft Carried information for the HMS Tyne British River-Class Offshore Patrol Vessel:
+The Name is INA.
+The Type is Rigid Inflatable Boats.
+The Amount is 2.
+
+Here is Radar #1 information for the HMS Tyne British River-Class Offshore Patrol Vessel of the Radar Systems:
+The Name is Kelvin Hughes Ltd SharpEye.
+The Type is Navigation Radar.
+The Band is INA.
+
+Here is Radar #2 information for the HMS Tyne British River-Class Offshore Patrol Vessel of the Radar Systems:
+The Name is Terma Scanter 4100 2D radar
+BAE CMS-1.
+The Type is Surveillance Radar.
+The Band is INA.
+
+Here is Protection information for the HMS Tyne British River-Class Offshore Patrol Vessel:
+The Active Protection System is INA.
+The NBC Water Wash down System is Yes.
+The EW is INA.
+

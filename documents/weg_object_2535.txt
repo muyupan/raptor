@@ -1,0 +1,91 @@
+This document describes the Sayyad Iranian Light Armored Vehicle.
+
+The Sayyad AFV is an Iranian light, multi-purpose, tracked armored vehicle, sometimes described as a "quick reaction tank". The Sayyad AFV is very similar to British Striker.
+
+The overall design is similar to that of the British FV102 Striker, and it is often mistaken for the Tosan tank. However, there are some major differences between the Sayyad and the Striker. The Sayyad is shorter in length than the Striker, and it has one less road wheel. The hull is slightly redesigned and storage baskets have also been added.
+
+There are two variants of the Sayyad. One with either a single or a double Toophan anti-tank missile launcher, with six, reload missiles in storage baskets. The other is a multiple rocket launcher variant with two 23 tube launchers for 77mm rockets.
+
+The vehicle is intended to be used to provide a fast platform for anti-tank missiles and small artillery rockets. It entered service in 2010.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of).
+
+Here is System information for the Sayyad Iranian Light Armored Vehicle:
+The Alternative Designation is Sayyad, Sayyad AFV.
+The Type is Light Armored Vehicle.
+The Family is Sayyad.
+The Manufacturer is Defense Industries Organization.
+The Crew is 3.
+The Note #1 is The Sayyad AFV is an Iranian light, multi-purpose, tracked armored vehicle, sometimes described as a "quick reaction tank".
+The Note #2 is There is very little unclassified information about the Sayyad.
+The Note #3 is The Sayyad AFV is very similar to British Striker..
+
+Here is Dimensions information for the Sayyad Iranian Light Armored Vehicle:
+The Length is 4.9.
+The Width is 2.2.
+The Height is 2.1.
+The Weight, Combat is INA.
+The Ground Pressure is INA.
+
+Here is Automotive information for the Sayyad Iranian Light Armored Vehicle:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Cruising Range is INA.
+The Speed, Maximum Road is INA.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is INA.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.5.
+The Trench is 2.
+The Fording Depth is 1.
+The Note is The overall design is similar to that of the British FV102 Striker, and it is often mistaken for the Tosan tank..
+
+Here is System (Option 1) - Single/Double Toophan Anti-Tank Missile Launcher information for the Sayyad Iranian Light Armored Vehicle of the Main Gun:
+The Name is Single Toophan.
+The Type is Single Toophan Anti-Tank Missile Launcher.
+The Numbe of Tubes is Single: 1, Double: 2.
+The Basic Load is 6.
+The Maximum Firing Range is 3,500–3,750 m.
+The Guidance System is Wire-guidance. Laser guidance for some variants.
+
+Here is System (Option 2) -  Multiple Toophan Anti-Tank Missile Launcher information for the Sayyad Iranian Light Armored Vehicle of the Main Gun:
+The Name is Double Toophan.
+The Type is Double Toophan Anti-Tank Missile Launcher.
+The Number of Tubes is 2 x 23 Tubes, 46 Tubes in Total.
+The Basic Load is 46.
+The Maximum Firing Range is 3,500–3,750 m.
+The Guidance System is Wire-guidance. Laser guidance for some variants.
+
+Here is Ammunition information for the Sayyad Iranian Light Armored Vehicle of the Main Gun:
+The Name is Toophan 1.
+The Type is 77mm Anti-Tank Missile.
+The Caliber is 77.
+The Length is 1160.
+The Weight is 18.5.
+The Muzzle Velocity is 310.
+The Guidance System is Wire-guidance. Laser guidance for some variants.
+The Maximum Effective Range is 3,500-3,750.
+The Penetration is 550.
+The Warhead Types is HE, HEAT, or thermobaric.
+The Note is Toophan missiles can often be identified by their turquoise bands installed by Iran's Defense Industries Organization or by a faint black band on the rear end of the launcher..
+
+Here is Fire Control information for the Sayyad Iranian Light Armored Vehicle:
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is INA.
+
+Here is Protection information for the Sayyad Iranian Light Armored Vehicle:
+The Hull Armor is Steel, protection from small arms fire and projectile splinters.
+The Turret Armor is Steel, protection from small arms fire and projectile splinters.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

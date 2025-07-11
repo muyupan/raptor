@@ -1,0 +1,100 @@
+This document describes the Type 212 Class (Todaro Class) German Diesel-Electric Submarine.
+
+The German Type 212 class, also Italian Todaro class, is a non-nuclear submarine developed by Howaldtswerke-Deutsche Werft AG (HDW) for the German and Italian navies. It features diesel propulsion and an additional air-independent propulsion (AIP) system using Siemens proton exchange membrane (PEM) compressed hydrogen fuel cells. The submarines can operate at high speed on diesel power or switch to the AIP system for silent slow cruising, staying submerged for up to three weeks with little exhaust heat. The system is also said to be vibration-free, extremely quiet and virtually undetectable.
+ 
+Type 212 is the first fuel cell propulsion system equipped submarine series.
+
+This equipment has proliferated into the following countries: Germany, Italy.
+
+Here is Variants information for the Type 212 Class (Todaro Class) German Diesel-Electric Submarine:
+The S181 (U-31) is Commissioned:19  October 2005: Active
+Navy: Germany.
+The S182 (U-32) is Commissioned: 19 October 2005: Active
+Navy: Germany.
+The S183 (U-33) is Commissioned: 13 June 2006: Active
+Navy: Germany.
+The S184 (U-34) is Commissioned: 3 May 2007: Active
+Navy: Germany.
+The S185 (U-35) is Commissioned: 23 March 2015: Active
+Navy: Germany.
+The S186 (U-36) is Commissioned: 10 October 2016: Active
+Navy: Germany.
+The S187 (U37) is Not commissioned:  In planning stage
+Navy: Germany.
+The S188 (U-38) is Not commissioned:  In planning stage
+Navy: Germany.
+The S526 (Salvatore Todaro) is Commissioned: 29 March 2006: Active
+Navy: Italy.
+The S527 (Scire) is Commissioned: 19 February 2007: Active
+Navy: Italy.
+The S528 (Pietro Venuti) is Commissioned: 6 July 2016: Active
+Navy: Italy.
+The S529 (Romeo Romei) is Commissioned: 11 May 2017: Active
+Navy: Italy.
+The  is Note 1:  The Italian Navy has several other variants approved and financed as of 2019.  These vessels have yet to be deployed into the fleet..
+
+Here is System information for the Type 212 Class (Todaro Class) German Diesel-Electric Submarine:
+The Alternative Designation is German: Type 212 Class; Italian: Todaro Class.
+The Type is Diesel-Electric Submarine.
+The Builder is Howaldtswerke-Deutsche Werft GmbH (HDW) - Fincantieri SpA.
+The Crew is 27 men, 5 officers and 22 men.
+
+Here is Dimensions information for the Type 212 Class (Todaro Class) German Diesel-Electric Submarine:
+The Length is 56.
+The Beam is 6.8.
+The Draft is 6.4.
+The Displacement, Surfaced is 1500 tons.
+The Displacement, Submerged is 1800 tons.
+
+Here is Propulsion System information for the Type 212 Class (Todaro Class) German Diesel-Electric Submarine:
+The Engine Name is Siemens Permasyn electric motor.
+The Engine Type is FR6439-3900KW.
+The Engine Power is 1 x MTU-396 16V.
+The Maximum Range is 15,000.
+The Maximum Speed, surfaced is 22 km/h (12 knots).
+The Maximum Speed, submerged is 37 km/h (20 knots).
+
+Here is Gun Weapon System information for the Type 212 Class (Todaro Class) German Diesel-Electric Submarine of the Main Weapon Systems:
+The Name is Muräne.
+The Type is Auto-cannon.
+The Caliber is 30.
+The Quantity is 1.
+
+Here is Gun Weapon Systems Ammunition information for the Type 212 Class (Todaro Class) German Diesel-Electric Submarine of the Main Weapon Systems:
+The Type is INA.
+The Caliber is INA.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Torpedoes information for the Type 212 Class (Todaro Class) German Diesel-Electric Submarine:
+The Name is DM2A4 Seehecht ("Seahake") heavyweight torpedoes.
+The Type is Fiber-optic guided torpedo.
+The Length is 6.6.
+The Diameter is 533.
+The Warhead is PBX.
+The Warhead weight is 260.
+The Engine is Electrical silver-zinc oxide batteries.
+The Maximum Speed is 92 km/h (50 knots).
+The Guidance system is Wire-guided with autonomous active terminal homing sonar.
+
+Here is Fire Control Systems information for the Type 212 Class (Todaro Class) German Diesel-Electric Submarine:
+The FCS Name is INA.
+The Computerized FCS is INA.
+The Battle Management System is INA.
+
+Here is Radar Systems information for the Type 212 Class (Todaro Class) German Diesel-Electric Submarine:
+The Name is ISUS90-20.
+The Type is Surface Search.
+The Frequency is INA.
+The Range is INA.
+
+Here is Sonar Systems information for the Type 212 Class (Todaro Class) German Diesel-Electric Submarine:
+The Name is CSU 90 (DBQS-40FTC.
+The Type is Sonar.
+
+Here is Protection information for the Type 212 Class (Todaro Class) German Diesel-Electric Submarine:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is INA.
+The Electronic Warfare is EADS FL 1800U suite.
+

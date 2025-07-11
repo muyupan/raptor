@@ -1,0 +1,137 @@
+This document describes the JJ-7 Chinese Two Seat Combat Trainer Aircraft.
+
+JJ-7/FT-7
+This tandem two-seat trainer version was developed well after the single-seat fighters. It has an additional vertical fin to improve stability. An enlarged dorsal spine carries additional fuel.
+First flight took place on July 5, 1985. The export model is known as the FT-7. Production of the JJ-7 was launched in late 1987.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the JJ-7 Chinese Two Seat Combat Trainer Aircraft:
+The Note is The Following is a list of the J-7 Variants:
+	Type 1962/62 series
+	J-7 series
+	J-7I series
+	J-7II series
+	J/F-7M Air Guard series
+	F-7MP/P Sky Bolt series
+	J-7III series
+	F-7C series
+	J-7E series
+	J/F-7F series
+	MiG-21 upgrade subcontract
+	J/F-7MG series
+	J/F-7PG series
+	J/F-7G series
+	F-7BGI
+	JJ-7 trainer series
+	FT-7 trainer series.
+
+Here is System information for the JJ-7 Chinese Two Seat Combat Trainer Aircraft:
+The Alternative Designations is JJ-7.
+The Manufacturer is Chengdu Aircraft Corporation/Guizhou Aircraft Industry Corporation.
+The Crew is 2.
+The Seat Capacity is Two seats, one for the student and one from the instructor..
+The Harpoints is 5 in total – 4× under-wing, 1× centreline under-fuselage with a capacity of 2,000 kg maximum (up to 500 kg each.
+
+Here is Dimensions information for the JJ-7 Chinese Two Seat Combat Trainer Aircraft:
+The Length is 14.86 m.
+The Height is 4.10 m.
+The Wingspan is 7.15 m.
+The Wing Area is 23 sq m.
+The Empty Weight is 5,145 kg.
+The Maximum Payload is 1,800 kg.
+The Maximum Takeoff is 7,372 kg.
+
+Here is Automotive information for the JJ-7 Chinese Two Seat Combat Trainer Aircraft:
+The Engine Name is 1 x Liyang Wopen 7 turbojet.
+The Engine Power, Dry is 9,700 lb (4,400 kg) static thrust.
+The Engine Power, with Afterburner is 13,500 lb (6,124 kg) static thrust.
+The Internal Fuel Capacity is 2,385 liters.
+The Maximum Speed is 2,175 km/h.
+The Touchdown Speed is 310-330 km/h.
+The Ceiling is 18,800 m.
+The Climb Rate is 9,000 m/min.
+The Radius is 370 km.
+
+Here is Main Gun System #1 information for the JJ-7 Chinese Two Seat Combat Trainer Aircraft of the Main Gun System:
+The Name is Gryazev-Shipunov GSh-30-1.
+The Type is Autocannon.
+The Caliber is 30.
+The Length is 1,978 mm.
+The Barrel Length is 1,500 mm.
+The Width is 156 mm.
+The Height is 185 mm.
+The Weight is 46 kg.
+The Barrels is 1.
+The Action is Short recoil operated.
+The Rate of Fire is 1,800 rounds/min.
+The Muzzle Velocity is 900 m/s.
+The Maximum Firing Range is 1,800m.
+The Effective Firing Range is 200-1,800m.
+
+Here is Main Gun System #1 Ammunition information for the JJ-7 Chinese Two Seat Combat Trainer Aircraft of the Main Gun System:
+The Type is Autocannon.
+The Caliber is 30.
+The Shell is 30×165mm.
+The Basic Load is 1,000 Rounds.
+
+Here is Missile Weapon System (Option #1) information for the JJ-7 Chinese Two Seat Combat Trainer Aircraft of the Missile Weapon Systems:
+The Name is PL-5.
+The Type is Air-to-Air Missile.
+The Length is 3.128 m.
+The Diameter is 0.127m.
+The Wingspan is 0.657m.
+The Weight is 148 kg.
+The Warhead is 6kg blast-frag, or expanding rod (RF-fuse).
+The Detonation Mechanism is Active infrared, laser proximity fuse(PL-5EII).
+The Engine is Solid-fuel rocket.
+The Operational Range is 1.3–16km.
+The Maximum Speed is Mach 2.5.
+The Guidance System is Infrared homing, multi-element, dual band detector(PL-5EII).
+
+Here is Missile Weapon System (Option #2) information for the JJ-7 Chinese Two Seat Combat Trainer Aircraft of the Missile Weapon Systems:
+The Name is PL-8.
+The Type is Air-to-Air Missile.
+The Manufacturer is Xi'an Eastern Machinery Factory and CATIC.
+The Length is 2.95 m.
+The Diameter is 160 mm.
+The Wingspan is 800 mm.
+The Weight is 115 kg.
+The Warhead is 11 kg high explosive.
+The Detonation Mechansim is Impact / Proximity.
+The Engine is solid rocket.
+The Propellant is solid fuel.
+The Operational Range is 20 km.
+The Flight Ceiling is 21 km.
+The Flight Altitude is 05 km.
+The Maximum Speed is Mach 3.5.
+The Guidance System is passive infrared homing.
+
+Here is Missile Weapon System (Option #3) information for the JJ-7 Chinese Two Seat Combat Trainer Aircraft of the Missile Weapon Systems:
+The Name is PL-9.
+The Type is Air-to-Air Missile.
+The Manufacturer is Luoyang Electro-Optics Technology Development Centre (EOTDC),
+Hanzhong Nanfeng Machine Factory.
+The Length is 2.9m.
+The Diameter is 0.157m.
+The Wingspan is 0.856m.
+The Warhead is 11.8kg blast-frag, or expanding rod (RF-fuse).
+The Detonation Mechanism is laser proximity fuse.
+The Engine is Solid-fuel rocket.
+The Operational Range is 22km.
+The Flight Altitude is 4.5km.
+The Maximum Speed is Mach 2+.
+The Guidance System is multi-element infrared.
+
+Here is Rocket Weapon Systems information for the JJ-7 Chinese Two Seat Combat Trainer Aircraft:
+The Rocket Weapon System (Option #1) is 55 mm rocket pod (12 rounds).
+The Rocket Weapon System (Option #2) is 90 mm rocket pod (7 rounds).
+
+Here is Bomb Weapon System information for the JJ-7 Chinese Two Seat Combat Trainer Aircraft:
+The Bomb Capacity is 50 kg to 500 kg unguided bombs.
+
+Here is Avionics / Fire Control System information for the JJ-7 Chinese Two Seat Combat Trainer Aircraft:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+The Radar is 1 x Skyranger.
+

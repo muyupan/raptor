@@ -1,0 +1,83 @@
+This document describes the Mi-14 (Haze) Russian Anti-Submarine Warfare (ASW) Helicopter.
+
+The Mi-14 (Haze) Russian Anti-Submarine Warfare (ASW) Helicopter is a naval land-based helicopter, derived from the Mi-8 Hip, which is configured primarily for anti-submarine warfare (ASW). It also serves in minesweeping and search-and-rescue (SAR) roles. 
+
+Modifications from the basic Mi-8 configuration include the provision of a hull that has an upturned, scalloped front; a tail boom float; retractable landing gear; port-side anti-torque rotor; and shortened engine nacelles. A large radome holding a search radar is located under the nose and is fully submerged when afloat. The ventral weapons bay is enclosed by two sets of split doors separated by a narrow central keel.
+
+Formal development of anti-submarine warfare (ASW) version of the Mil Mi-8 transport helicopter was authorized by the Soviet Communist Party Central Committee and Council of Ministers in April 1965, with the objective of replacing the Mil Mi-4 in the short-range, shore-based anti-submarine role. The new helicopter was required to have an endurance of 2 hours on station at a radius of 222 kilometers (120 nmi; 138 mi) from the base.
+
+The new design (with the internal designation V-14) differed from the Mi-8 in having a boat-like hull similar to the Sea King, allowing it to operate off the water, and a retractable four-point undercarriage,[N 1] with the mainwheels retracting into large sponsons on the rear of the fuselage. The helicopter was to be powered by two Klimov TV3-117MT turboshaft engines. A watertight weapons bay is fitted to the centreline of the fuselage allowing internal carriage of a single torpedo or eight depth charges, while a radome housing a search radar is fitted beneath the nose.
+
+The first prototype V-14, converted from a Mi-8 and powered by the older and less powerful Klimov TV2-117 engines, flew on 1 August 1967. Development was slowed by problems with the helicopter's avionics and due to reliability problems with the TV3-117 engines, with production at Kazan not starting until 1973, and the helicopter (now designated Mi-14) entering service on 11 May 1976.
+
+In January 2016, Russian Helicopters confirmed to Russian News Agency TASS that no final decision to revive production had been taken, but market demand, feasibility studies – including with Moscow's defense ministry – and funding sources were under review. The program remains a “priority” for Russian Helicopters. The company suggested the Mi-14 would appeal to civil operators in Russia's far north and those supplying the oil and gas industry, alongside the nation's armed forces. Out of the almost 300 Mi-14s produced at Kazan Helicopters between 1973 and 1986, it is estimated that just 44 examples remain in active service.
+
+This equipment has proliferated into the following countries: Congo, Georgia, Libya, North Korea (Democratic People's Republic of Korea), Poland, Syria, Ukraine, Yemen.
+
+Here is Variants information for the Mi-14 (Haze) Russian Anti-Submarine Warfare (ASW) Helicopter:
+The V-14 is Prototype of the Mi-14 helicopter..
+The Mi-14PL Haze-A is This is the anti-submarine warfare version. See above for electronics fits. It has an internal weapons bay that can carry a single AT-1 torpedo, PLAB series depth bombs, APR-2 high-speed torpedoes or nuclear weapons (the last two are only carried in Russian Mi-14s)..
+The Mi-14BT Haze-B is This is a mine countermeasures version, with a fuselage strake and pod on the starboard side of cabin..
+The Mi-14PS Haze-C is This search-and-rescue variant has an enlarged entry door on the left side of the cabin; strake and fuselage pod; retractable rescue hoist; and a large retractable searchlight on the starboard side of the nose (some have a second central nose-mounted searchlight)..
+The Mi-1413T Haze-B is This variant was designed for mine countermeasures. Initial operational capability was reached in the early 1980s..
+The Mi-14PL/R is This is a conversion to the Mi-14PL helicopter conducted by the Polish navy to adopt it for the search-and-rescue role..
+
+Here is System information for the Mi-14 (Haze) Russian Anti-Submarine Warfare (ASW) Helicopter:
+The Alternative Designation is Mi-14; NATO: Haze.
+The Type is Anti-Submarine Warfare (ASW) Helicopter.
+The Flight Crew is 2 (pilot, co-pilot).
+The ASW Crew is 2 (sonar operator, MAD operator, as needed).
+The Passengers is 20 (during rescue operations, no ASW crew).
+The Blades, Main Rotor is 5.
+The Blades, Tail Rotor is 3.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the Mi-14 (Haze) Russian Anti-Submarine Warfare (ASW) Helicopter:
+The Length is 25.30 m.
+The Height is 6.90 m.
+The Main Rotor Diameter is 21.29 m.
+The Disc Area is 356 m sq.
+The Empty Weight is 11,750 kg.
+The Maximum Takeoff Weight is 14,000 kg.
+
+Here is Automotive information for the Mi-14 (Haze) Russian Anti-Submarine Warfare (ASW) Helicopter:
+The Engine Name is 2 x Klimov TV3-117MT.
+The Engine Type is Turboshaft.
+The Engine Power is 1,950 shaft hp each.
+The Maximum Speed is 230 km/h.
+The Cruise Speed is 205 km/h.
+The Ceiling Hover Out of Ground Effect is 3,500 m.
+The Ceiling Hover In Ground Effect is 1,600 m.
+The Maximum Range with Maximum Payload is 305 km.
+The Cruise Range is 800 km.
+The Maximum Range with Maximum Fuel is 1,135 km.
+
+Here is Communications information for the Mi-14 (Haze) Russian Anti-Submarine Warfare (ASW) Helicopter:
+The HF Radio is 1 x R-842-M HF receiver.
+The VHF Receiver is 1 x R-860 VHF receiver.
+
+Here is Anti-Submarine Warfare (ASW) System information for the Mi-14 (Haze) Russian Anti-Submarine Warfare (ASW) Helicopter:
+The Sonobouys is 1 x Baku system (up to 36 RGB-NM buoys).
+The Magnetic Anomaly is 1 x APM-60 detector.
+The ASW Equipment is Hydro-acoustic buoys and dye packs can be carried in the bomb bay and radar beacon buoys.
+
+Here is Torpedo System information for the Mi-14 (Haze) Russian Anti-Submarine Warfare (ASW) Helicopter:
+The Torpedoes is 1 x AT-1 or APR-2 torpedoes.
+
+Here is Bombing System information for the Mi-14 (Haze) Russian Anti-Submarine Warfare (ASW) Helicopter:
+The Bombs is 1 x nuclear depth bomb or 8 x depth charges in place of torpedoes.
+
+Here is Radar Systems information for the Mi-14 (Haze) Russian Anti-Submarine Warfare (ASW) Helicopter:
+The Navigation Radar is 1 x Initziativa-2M/ME Doppler navigation in radome underneath nose.
+
+Here is Sonor System information for the Mi-14 (Haze) Russian Anti-Submarine Warfare (ASW) Helicopter:
+The Dipping Sonar is 1 x Oka-2 dipping sonar.
+
+Here is Protection information for the Mi-14 (Haze) Russian Anti-Submarine Warfare (ASW) Helicopter:
+The Stealth Properties is None.
+The Add on Armor is INA.
+The Heat Signature Reduction is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

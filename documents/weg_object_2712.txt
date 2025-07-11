@@ -1,0 +1,74 @@
+This document describes the BREM-84 (Atlet) Ukrainian Armored Recovery Vehicle.
+
+The BREM-84 (Atlet) Ukrainian Armored Recovery Vehicle is designed to repair and recover damaged infantry fighting vehicles (IFVs) and combat equipment on the battlefield. It is also used to tow damaged vehicles to the maintenance depots.
+
+The first prototype was built in 1997 and the vehicle was accepted for service with the Ukrainian Army in November 2008. Serial production of the vehicle began in April 2018 to meet the requirements of the Armed Forces of Ukraine.
+
+This equipment has proliferated into the following countries: Pakistan, Thailand, Ukraine.
+
+Here is System information for the BREM-84 (Atlet) Ukrainian Armored Recovery Vehicle:
+The Alternative Designation is BREM-84; Atlet.
+The Type is Armored Recovery Vehicle.
+The Manufacturer is Kharkiv Morozov Design Bureau (KMDB).
+The Crew is 3.
+The Crane is The crane is installed on a rotary platform. It is capable of lifting the turret of most main battle tanks. When not required the crane lays along the right side of the hull..
+The Lifting Capability is 25 tons.
+The Winch Capacity is 25-75 tons.
+The Towing Capacity is 50 tons.
+The Earth Working Capacity is 120 m³/h.
+
+Here is Dimensions information for the BREM-84 (Atlet) Ukrainian Armored Recovery Vehicle:
+The Length is 8.89 m.
+The Width is 3.56 m.
+The Height is 2.74 m.
+The Ground Clearance is 0.515 m.
+The Track Length is 2.80 m.
+The Track Width is 580 mm.
+The Length of Track on Ground is 4.29 m.
+The Ground Pressure is 0.93kg/cm² (13.23psi).
+The Weight, Combat is 46,000 kg.
+
+Here is Automotive information for the BREM-84 (Atlet) Ukrainian Armored Recovery Vehicle:
+The Engine Name is 6TF series.
+The Engine Type is 6 cylinders, water cooled, 2 stroke, multifuel.
+The Engine Power is 1,000 hp.
+The Power-to-Weight Ratio is 21.74 hp/t.
+The Fuel Capacity is 1,300 liters.
+The Electrical System is 27 V.
+The Steering is Clutch and brake.
+The Maximum Range is 450 km.
+The Maximum Speed is 60 km/h.
+The Amphibious is No.
+The Gradient is 63%.
+The Side Slope is 36%.
+The Vertical Obstacle is 1.0 m.
+The Trench is 2.85 m.
+
+Here is System information for the BREM-84 (Atlet) Ukrainian Armored Recovery Vehicle of the Main Weapon System:
+The Name is 1 x NSVT 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Length is 1,560 mm.
+The Barrel Length is 1,100 mm.
+The Weight is 24.8 kg.
+The Action is Gas operated.
+The Elevation is 66 mils.
+The Traverse is 360 mils.
+The Maximum Effective Firing Range is 2,000 m.
+The Maximum Rate of Fire is 700-800 rpm.
+The Belt is 50 rounds.
+The Sights is Iron sights.
+
+Here is Ammunition information for the BREM-84 (Atlet) Ukrainian Armored Recovery Vehicle of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7x108mm.
+The Basic Load is INA.
+
+Here is Protection information for the BREM-84 (Atlet) Ukrainian Armored Recovery Vehicle:
+The Hull Armor is Steel. Front arc withstands small-caliber projectile hits, while all-round protection is against heavy machine gun fire and artillery shell splinters..
+The Applique Armor is Available.
+The Mine Clearing is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is 8 × hull mounted 81mm smoke grenade launcher.
+

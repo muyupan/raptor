@@ -1,0 +1,83 @@
+This document describes the GCT (AUF1) French 155mm Self-Propelled Gun (SPG).
+
+The AUF1 is a French self-propelled gun vehicle currently in use by the armies of France, Saudi Arabia, Iraq, and Kuwait. It replaced the Mk F3 155mm in French army service. The AUF1 primary advancement is that it incorporates and provides full armor and nuclear-biological-chemical (NBC) protection for its crew of four, while the Mk F3 155mm offered no protection and could carry only two of its four crew members.  The AUF1 saw combat with the Iraqi Army in the Iran–Iraq War.
+A four-man gun crew can reload the AUF1 in 15 minutes. A two-man gun crew can reload the AUF1 in 20 minutes.
+The AUF1T is fitted with the "Sagem Cita 20" inertial navigation system as well as a 20-24 HP gas turbine auxiliary power unit (APU). 
+The production ended in 1995, and the 155 GCT (standing for “Grande Cadence de Tir”, which can be translated to High Rate of Fire), like its predecessor, was largely exported to Iraq, Kuwait, and Saudi Arabia, with 427 built-in total. The 155 GCT saw service during the Iran-Iraq war, the invasion of Kuwait, both Gulf Wars, and in Yugoslavia.
+
+This equipment has proliferated into the following countries: France, Kuwait, Saudi Arabia.
+
+Here is Variants information for the GCT (AUF1) French 155mm Self-Propelled Gun (SPG):
+The AUF1T is Fitted with the "Sagem Cita 20" inertial navigation system as well as a 20-24 HP gas turbine auxiliary power unit (APU)..
+The AUF2 is Created in the 90s, based on the AMX-30B2 chassis, 70 of which were bought by the French Army..
+
+Here is System information for the GCT (AUF1) French 155mm Self-Propelled Gun (SPG):
+The Alternative Designation is AMX-30 AuF1.
+The Type is Self-Propelled Gun (SPG).
+The Caliber is 155 mm.
+The Manufacturer is Nexter.
+The Chassis is Modified AMX-30.
+The Crew is 4.
+The Emplacement Time is Less than 2 min.
+The Displacement Time is Less than 2 min.
+
+Here is Dimensions information for the GCT (AUF1) French 155mm Self-Propelled Gun (SPG):
+The Chassis Length, Overall is 10.25.
+The Height, Overall is 3.25.
+The Width, Overall is 3.15.
+The Weight, Combat is 42 tons.
+
+Here is Automotive information for the GCT (AUF1) French 155mm Self-Propelled Gun (SPG):
+The Engine Type is Hispano-Suiza HS110, water-cooled, multi fuel.
+The Engine Power is 720.
+The Range, Cruising is 450.
+The Speed, Maximum On is 60 km/h.
+The Speed, Maximum Cross is 40 km/h.
+The Speed, Maximum, Swim is Not Amphibious.
+The Fording Depth is 2.1.
+
+Here is Communication information for the GCT (AUF1) French 155mm Self-Propelled Gun (SPG):
+The Radio is 1 x TRC 559 (VHF-FM) radio.
+
+Here is Ammunition (Option 1) information for the GCT (AUF1) French 155mm Self-Propelled Gun (SPG) of the Main Weapon System:
+The Name is OE-155-56/69.
+The Type is Frag-HE.
+The Caliber is 155 mm.
+The Projectile Weight is 43.75 kg.
+The Muzzle Velocity is 810 m/s.
+The Maximum Range is 23,000 m.
+The Minimum Range is 9,600 m.
+
+Here is Ammunition (Option 2) information for the GCT (AUF1) French 155mm Self-Propelled Gun (SPG) of the Main Weapon System:
+The Name is RAP H3.
+The Type is Frag-HE.
+The Caliber is 155 mm.
+The Projectile Weight is INA.
+The Muzzle Velocity is 830 m/s.
+The Maximum Range is 31,500.
+The Minimum Range is INA.
+
+Here is Auxiliary Weapon System information for the GCT (AUF1) French 155mm Self-Propelled Gun (SPG):
+The Name is 1 x M2HB 12.7mm Heavy Machine Gun.
+The Type is Heavy machine gun.
+The Caliber is 12.7 mm.
+The Mount Type is Cupola AA mount.
+The Direct Fire Range is 7,400.
+The Max Effective Range is 1,000.
+The Fire on Move is Yes.
+The Rate of Fire is 450-500 cyclic rate of fire.
+
+Here is Fire Control System information for the GCT (AUF1) French 155mm Self-Propelled Gun (SPG):
+The Indirect Fire is 1 x M589 Optical Goniometer.
+The Direct Fire is Yes.
+The Collimator is Yes.
+The Fire Control Computer is None.
+The Gun Display Unit is ATILA Fire Direction System.
+
+Here is Protection information for the GCT (AUF1) French 155mm Self-Propelled Gun (SPG):
+The Armor Hull is INA.
+The Turret Armor is INA.
+The Self Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 4 x Grenade Launchers.
+

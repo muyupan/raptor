@@ -1,0 +1,56 @@
+This document describes the P-35/P-37 (Bar Lock) Russian towed Two-Dimensional Target Acquisition and Ground Control Intercept (GCI) Radar.
+
+P-35/37 / BAR LOCK
+Radar Station or Radio-location Station (RLS) P-35 has a large tactical radius. It insures a circular scanning of the air space, detects the planes which are located in its operational zone and calculates their coordinates. The station P-35 has the following basic tactical and technical characteristics: Maximum range, depending on the type of plane and height of the flight-from 150 to 350 km. For example, the plane TU-104 which flies at an altitude of from 8,000 to 10,000 meters is detected at a distance of 350 km; the scanning zone: in altitude-up to 25,000m, in angle of location-up to 30 degrees; errors while determining the coordinates: in distance plus of minus 500m, in azimuth plus of minus 0.5 degrees; partitioning ability: in distance-500m, in azimuth-1.5 degrees; time for one circular scanning of the space is 20 or ten seconds, in accordance with a speed of rotation of the antenna-3 or 6 turns per minute. RLS P-35 has 6 channels. The 6 channels have frequencies in the the centimeter range.
+
+At the end of the 1950s, a circular review station (range finder) was developed and put into service - P-35 radar with enhanced power characteristics, with a smaller number of failures in the detection zone, with increased accuracy in determining the elevation angle (height) of the target. Just like the P-30 radar, the station was used in the country's Air Defense Forces, in the Air Force, in the air defense units of the Navy and in the radio engineering formations of the air defense forces of the Air Force. The station was developed at the plant number 37 GKRE. In contrast to the P-30 radar, in the P-35 station, the upper antenna mirror was installed horizontally with a certain inclination in the elevation plane, the available decimeter channel was replaced by a centimeter channel.
+
+The first serious Western attempt to measure the radiated power of a radar for intelligence purposes was made by CIA in 1958 on the Soviet early-warning radar known as BAR LOCK. The BAR LOCK was a new version of the Soviet multi-beam S-band family of radars which had undergone a rapid and widespread deployment in East Germany and other areas peripheral to the USSR. Intelligence indicated this new radar was deployed to detect and track the U-2 aircraft which were just beginning to make deep penetrations over the Soviet Union.
+
+Estimates of the BAR LOCK's radiated power output, based largely upon photographic evidence, ranged as high as 5 megawatts peak pulse power from each of its 5 transmitters. With 5 megawatts in each beam the BAR LOCK would have had ten times the power of previous similar radars and would have significantly improved the detection and tracking capabilities of the Soviet air defense system. To meet this threat to the U-2, those responsible for the reconnaissance program demanded firmer information on the BAR LOCK's power output and radiation pattern coverage.
+
+A laboratory that provided scientific back-up to the U-2 program assembled power-measurement equipment, crude by present-day standards, and installed it in a C-119 aircraft. With little advance testing, a series of flights was made through the air corridors to Berlin, where BAR LOCK signals were easily intercepted. The resulting power measurements at various vertical angles in the antenna pattern were not of high accuracy because of uncontrolled errors in the equipment. The data did indicate, however, somewhat less than one megawatt of peak power for each BAR LOCK transmitter, and this was later confirmed by other sources. Although not entirely successful in power measurement, this project suggested solutions to many technical problems and opened the way for follow-on developments.
+
+BAR LOCK, first sighted in late 1958, represented a major modification in Soviet early warning/GCI radar. The early multi-frequency, multi-beam Token was the forerunner for Big Bar in 1959. BAR LOCK was found to have evolved away from these radars. BAR LOCK is similar to Cross Out and Strike Out in that it has two horizontal reflectors, but the structural details were found to be entirely different. The power is believed to have been much higher than that for previously developed Soviet radars and it apparently had better capabilities for aircraft detection and tracking than previous Soviet EW/GCI radars.
+
+The introduction of BAR LOCK again evidenced that the Soviets were continuously increasing their ECCM capability with each new member of the GCI family. BAR LOCK provided the capability to shut off individual beams in order to overcome the effects of spot jamming and retained all ECCM circuitry incorporated in Big Mesh.
+
+BAR LOCK proved to be the primary, long range, high performance radar in use by the Soviets at GCI sites. BAR LOCK’s van mounted antennas were comprised of truncated parabolic mesh reflectors with clipped corners measuring 10 x 32 feet. These reflectors were also used in configuring the Big Bar radar system in 1959. Four beams emanated from the lower reflector and two from the upper. BAR LOCK was one of the more capable EW radars in the Soviet inventory and when collocated with height finders such as Side Net it was highly functional in a GCI role. It was put to wide spread use and was most likely the primary EW component at EW/GCI sites.
+
+This equipment has proliferated into the following countries: Hungary, Lithuania, North Korea (Democratic People's Republic of Korea), Slovakia.
+
+Here is Variants information for the P-35/P-37 (Bar Lock) Russian towed Two-Dimensional Target Acquisition and Ground Control Intercept (GCI) Radar:
+The ELSYS P-37 upgrade is This variant, developed by ELSYS in Ukraine, replaces the existing traveling wave tube components with the MSHB 37R1 low-noise microwave amplifier and the SG-01-01 and VSS-1 units with the ELP-2 microwave receiver module..
+The JSC Lemz P-37 upgrade is This modernization includes replacement of the magnetron and thyratron in the transmitting system, improving frequency stability and extending service life; replacing the vacuum-based traveling wave tube with a solid-state low-noise amplifier and other receiving system components; addition of bearings and separators in the antenna turntable to increase shelf-life by more than 50,000 hours; and installing digital processing equipment, including VP-118 systems designed to extract radar data from IFF, ADF for tracking processing and for information transmission in code that can be used by air traffic controllers..
+The RETIA P-37 upgrade is Developed by Czech firm RETIA, this upgrade includes a new transmitter chain; new radio frequency block; new extractor; new display and communications unit; and built-in test equipment. It is designed to improve the radar's overall performance; ability to disseminate digital data; counter-countermeasures performance; and reliability and service life..
+The HM Arzenal upgrade is Hungarian firm HM Arzenal developed this modernization for Hungary's P-37 radars. The first upgraded radar was delivered in 1999.
+Transmitter upgrades replaced the magnetron and thyratron blocks with improved versions. Transmitter protection systems and internal cabling was modified for various subsystems..
+The LOBB Banksa Bystrica upgrade is This modernization was developed by Slovak firm LOBB Banksa Bystrica in cooperation with Lemz. It primarily focused on converting the radar to 3D and integrating the MSR 2000 IFF. The transmitting and receiving cabin, indication cabin, source trailer and transportation trailer were also updated..
+
+Here is System information for the P-35/P-37 (Bar Lock) Russian towed Two-Dimensional Target Acquisition and Ground Control Intercept (GCI) Radar:
+The Alternative Designation is P-35/P-37; NATO: Bar Lock.
+The Type is Towed Two-Dimensional Target Acquisition and Ground Control Intercept (GCI) Radar.
+The Crew is INA.
+The Band is E-F (2-4 GHz).
+The Frequency is stacked beams
+                              2,695-2,715 MHz
+                              2,715-2,750 MHz
+                              2,815-2,835 MHz
+                              2,900-2,990 MHz
+                              2,990-3,025 MHz
+                              3,080-3,125 MHz.
+The Maximum Range is 390 km.
+The Accuracy Angular is 0.5 deg.
+The Accuracy Range is 900 m.
+The Power is 650 kW each beam.
+The Beamwidth Transmit is 0.7 deg.
+The Pulse Repetition Frequency is 375 Hz.
+The Pulse Width is 1.83-3.1 microseconds.
+The Azimuth Scanning Rate is 3 or 6 rpm.
+
+Here is Dimensions information for the P-35/P-37 (Bar Lock) Russian towed Two-Dimensional Target Acquisition and Ground Control Intercept (GCI) Radar:
+The Antenna Length is INA.
+The Antenna Height is 11 m.
+The Antenna Width is 3.0 m.
+The Weight is INA.
+

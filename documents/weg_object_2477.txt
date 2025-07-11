@@ -1,0 +1,127 @@
+This document describes the 2S34 Hosta/Chosta Russian 120mm Self-Propelled Mortar.
+
+The 2S34 "Chosta" or "Hosta" is a 120mm self-propelled mortar carrier designed and manufactured in Russia. The 2S34 was first revealed at the TVM-2014 Moscow Defense exhibition, in August 2014. The vehicle is an evolution of the Soviet-made 2S1 "Gvozdika". While the chassis stays the same as the 2S1, the main evolution is the replacement of the 122mm 2A31 series main gun by an upgrade of the 120mm 2A80 mortar gun, the 2A80-1. The 2S34 is produced by the Motovilikha Plants Corporation of Perm, in Russia, which also produces, or has produced, the 2S9 and the 2S31. In February 2014, approximately 30 2S34 are in service with the Russian army and could be in service with the 21st Mechanized Brigade, in Totskoye.
+
+Accessories:
+
+Standard equipment includes infra-red night vision lights (mounted at the commander's hatch) and an NBC system. 2S34, like 2S1, is fully amphibious, being propelled in the water by its tracks. Before entering the water the bilge pump is switched on, the trim vane is erected at the front of the hull, shrouds are fitted to the hull above the drive sprocket and front road wheels and water deflectors on the rear track covers are lowered. Any water that enters the hull during amphibious operations is removed via the exhaust outlet using the bilge pump. Russian sources state that the 2S1, so probably also the 2S34, takes 20 minutes to be prepared for amphibious operations.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the 2S34 Hosta/Chosta Russian 120mm Self-Propelled Mortar:
+The Alternative Designation is 2S34 "Chosta" or "Hosta".
+The Type is Self-Propelled Mortar.
+The Manufacturer is Motovilikha Plants Corporation.
+The Family is 2S34.
+The Chassis is The same chassis as the 2S1 Gvasdika.
+The Crew is 4.
+The Note is This self-propelled howitzer can be airlifted by An-12, Il-76 or C-130 transport aircraft..
+
+Here is Dimensions information for the 2S34 Hosta/Chosta Russian 120mm Self-Propelled Mortar:
+The Length (Gun Forward) is 7.57.
+The Lenght (Hull) is 7.26.
+The Width is 2.85.
+The Height is 2.83.
+The Weight, Combat is 16.
+The Ground Pressure is INA.
+
+Here is Automotive information for the 2S34 Hosta/Chosta Russian 120mm Self-Propelled Mortar:
+The Engine Name is YaMZ-238N.
+The Engine Type is Diesel.
+The Engine Power is 300.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 40.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.6.
+The Trench is 2.4.
+
+Here is Communications information for the 2S34 Hosta/Chosta Russian 120mm Self-Propelled Mortar:
+The Primary Radio is R-173 (Standard Radio for Russian Tanks).
+The Secondary Radio is R-168-100U (Standard VHF).
+
+Here is System information for the 2S34 Hosta/Chosta Russian 120mm Self-Propelled Mortar of the Main Weapon System:
+The Name is 1 x 2A80-1 120mm Rifled Mortar.
+The Type is Rifled Mortar.
+The Caliber is 120 mm.
+The Max Rate of Fire is 8-10.
+The Evacuator Type is powered bore evacuator.
+The Breech Mechanism is semi-automatic wedge breach mechanism with a plastic obturator.
+The Maximum Firing Range is 7.2-13 km.
+The Muzzle Brake Type is INA.
+The Max Elevation is +80.
+The Min Elevation is -2.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Recoil System is Hydraulic recoil system.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Note is The 2A80-1 120mm Rifled Gun/Mortar can fire all types of Russian and foreign 120mm mortar shells as well as Nato standard mortar mines..
+
+Here is Ammunition (Option 1) information for the 2S34 Hosta/Chosta Russian 120mm Self-Propelled Mortar of the Main Weapon System:
+The Name is VOF-110.
+The Type is HE.
+The Caliber is 120.
+The Muzzle Velocity is INA.
+The Projectile Weight is 17.3.
+The Maximum Range is 13.
+The Lethal Area Size is 2,800 m² in size..
+The Basic Load is 40 Rounds.
+
+Here is Ammunition (Option 2) information for the 2S34 Hosta/Chosta Russian 120mm Self-Propelled Mortar of the Main Weapon System:
+The Name is Kitolov-2M.
+The Type is Laser Guided 120mm Round.
+The Caliber is 120.
+The Muzzle Velocity is INA.
+The Maximum Range is 13.
+The Basic Load is 40 Rounds.
+The Note is The round is guided by tripod or sensor suite-mounted laser designators.
+
+Here is System information for the 2S34 Hosta/Chosta Russian 120mm Self-Propelled Mortar of the Coaxial Weapon System:
+The Name is 1 x 7.62mm PKT (Kalashnikov's Machine Gun) General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Length ,Overall is 1,203.
+The Barrel Length is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Max Rate of Fire is 650.
+The Effective Rate of Fire is 200-300.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the 2S34 Hosta/Chosta Russian 120mm Self-Propelled Mortar of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Muzzle Velocity is 855.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 1,500 Rounds.
+
+Here is Fire Control information for the 2S34 Hosta/Chosta Russian 120mm Self-Propelled Mortar:
+The Name is INA.
+The Computerized FCS is Yes, The 2A80-1 is equipped with a new fire control system that improved accuracy, rate-of-fire and allow the gun to shoot all types of 120mm shells from a distance of 500m to 14km..
+The Thermal Sight Vehicle Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is INA.
+The Infra-Red Night Vision Lights is Yes.
+
+Here is Protection information for the 2S34 Hosta/Chosta Russian 120mm Self-Propelled Mortar:
+The Hull Armor is The Hosta uses the same chassis as the 2S1 Gvosdika. It is based on a modified MT-LB multi-purpose tracked armored vehicle chassis. The vehicle has a welded steel armor hull and turret. It provides protection against small arms fire and artillery shell splinters.
+The Turret Armor is The vehicle has a welded steel armor hull and turret. It provides protection against small arms fire and artillery shell splinters..
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is two banks of three 81 mm electrically operated 81 mm smoke grenade dischargers ar.
+The IR Signature is INA.
+

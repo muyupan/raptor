@@ -1,0 +1,33 @@
+This document describes the TAPAS-BH-201 (Rustom II) Indian Unmanned Aerial Vehicle (UAV).
+
+The TAPAS-BH-201 (Rustom II) Indian Unmanned Aerial Vehicle (UAV) is a Medium Altitude Long Endurance (MALE) unmanned aerial vehicle (UAV) developed in India by the Aeronautical Development Establishment (ADE) on the lines of General Atomics MQ-1 Predator.
+
+This equipment has proliferated into the following countries: India.
+
+Here is System information for the TAPAS-BH-201 (Rustom II) Indian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is TAPAS-BH-201; Rustom II.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Bharat Electronics
+Hindustan Aeronautics Limited.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Payload Capacity is 350 kg.
+The Payload Capacity with Fuel is 1,000 kg.
+
+Here is Dimensions information for the TAPAS-BH-201 (Rustom II) Indian Unmanned Aerial Vehicle (UAV):
+The Length is 9.5 m.
+The Wingspan is 20.6 m.
+The Height is INA.
+The Empty Weight is 720 kg.
+The Maximum Takeoff Weight is 1,800 kg.
+
+Here is Automotive information for the TAPAS-BH-201 (Rustom II) Indian Unmanned Aerial Vehicle (UAV):
+The Engine Name is 2 × VRDE indigenous Engines.
+The Engine Type is Turboprop.
+The Engine Power is 180 hp each.
+The Maximum Speed is 224 km/h.
+The Cruising Speed is 174 km/h.
+The Service Ceiling is 10,600 m.
+The Ferry Range is 1,000 km.
+The Endurance is 24 hours.
+

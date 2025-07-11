@@ -1,0 +1,55 @@
+This document describes the Dozer-B Ukrainian 4x4 Armored Personnel Carrier (APC).
+
+The Dozer-B Ukrainian 4x4 Armored Personnel Carrier (APC) is privately developed by Kharkiv Morozov Machine-Building Design Bureau (KMDB) in Ukraine. This tactical utility vehicle can carry three crew members and eight troops.
+
+This equipment has proliferated into the following countries: Poland, Senegal, Ukraine.
+
+Here is Variants information for the Dozer-B Ukrainian 4x4 Armored Personnel Carrier (APC):
+The Dozor-A is Unarmored off-road general purpose vehicle..
+The Oncilla is Polish produced version..
+The Mission Variants is The 4×4 variant is designed to suit a variety of missions. It can be used as an ambulance, a command vehicle, a patrol vehicle and a nuclear, biological and chemical (NBC) reconnaissance vessel..
+
+Here is System information for the Dozer-B Ukrainian 4x4 Armored Personnel Carrier (APC):
+The Alternative Designation is Dozer-B.
+The Type is Armored Personnel Carrier (APC).
+The Manufacturer is Kharkiv Morozov Machine-Building Design Bureau (KMDB).
+The Configuration is 4x4.
+The Crew is 3.
+The Passengers is 8.
+The Winch is WARN XD 9000i winch for self recovery..
+The Satellite Navigation System is The GPS NAVSTAR and GLONASS satellite navigation systems determine the location and speed of the vehicle..
+
+Here is Dimensions information for the Dozer-B Ukrainian 4x4 Armored Personnel Carrier (APC):
+The Length is 5.4 m.
+The Width is 2.4 m.
+The Height is 2.28.
+The Weight, Combat is 7.3 tons.
+
+Here is Automotive information for the Dozer-B Ukrainian 4x4 Armored Personnel Carrier (APC):
+The Engine Name is The Dozor B is powered by a single 112hp or 136hp or 197hp turbocharged intercooled diesel engine. It can use either of the four-stroke, four-cylinder engines the DEUTZ BF 4M 1013 FC and IVECO 8142.38.11..
+The Engine Type is Diesel.
+The Engine Power is 112hp or 136hp or 197hp turbocharged intercooled diesel engine..
+The Maximum Range is 700 km.
+The Maximum Speed is 120 km/h.
+The Amphibious is No.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Step is 0.4 m.
+The Trench is 0.5 m.
+The Fording is 1.0 m.
+
+Here is Communications information for the Dozer-B Ukrainian 4x4 Armored Personnel Carrier (APC):
+The External Communication System is The external communication devices include an R-173M radio set and an R-173PM radio receiver with an operating frequency range of 30,000kHz-75,999kHz. The radio communication range in rugged terrains is 20km..
+The Internal Communications System is Internal communication is via an AVSK-1 crew intercom system..
+
+Here is Main Weapon System information for the Dozer-B Ukrainian 4x4 Armored Personnel Carrier (APC):
+The Note is The Dozor-B is armed with a remote controlled 12.7mm NSBT-12.7 machine gun with a PZU-7 optical monocular periscopic sight.
+
+It has an ammunition capacity of 450 rounds. It can fire within an elevation range of – 3° to +68°. The roof-mounted anti-aircraft machine gun can be rotated 360°..
+
+Here is Protection information for the Dozer-B Ukrainian 4x4 Armored Personnel Carrier (APC):
+The Armor is The Dozor-B is designed for protection against anti-tank mines and small arms fire. It has an armored hull for protection of the crew and internal equipment against 7.62mm bullets. The cylindrical armored steel bottom provides protection against mines. The windows of the APC are also armored to the level of the main armor. The armored glass windows provide clear vision during the day. Night driving aids can be installed during poor visibility..
+The Applique Armor is Additional protection against powerful mines and larger calibre bullets can be achieved by installing additional removable protection components to the hull. The ventilating and filtering unit purifies the air in the compartments for protection against NBC attacks. Dazzle paint also reduces the detection range of the vehicle..
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

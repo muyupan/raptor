@@ -1,0 +1,74 @@
+This document describes the Tabas Iranian Medium-Range Air Defense Missile System.
+
+Tabas missile radar system is similar to the Russian Buk Missile System.
+Tabas radar system. The Tabas missile defense system has been designed and traced for destruction targets in the medium range and medium to high. The radar of this system is flat-panel, and it seems that it has the ability to change the mechanical angle in 2 horizontal and vertical directions. Although Tabas is designed to achieve less costly systems than the 3rd Khordad missile system, it has fewer targets for fighting, but due to the firing of missiles from the TAERER-2 family by the Tabas radar, it is naturally high and at least about 100 km is estimated.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of).
+
+Here is Variants information for the Tabas Iranian Medium-Range Air Defense Missile System:
+The Sevom Khordad is Sevom Khordad (also known as 3rd Khordad) is a further improved version of the Tabas. It uses an active phased array radar. It is capable of reaching targets within range of up to 105 km and at an altitude of up to 30 km altitude. This system was officially displayed in 2016. By 2019 it was the most advanced and powerful Iranian medium-range air defense missile system..
+
+Here is System information for the Tabas Iranian Medium-Range Air Defense Missile System:
+The Alternative Designation is Tabas.
+The Type is Medium-Range Air Defense Missile System.
+The Crew is 3.
+The Chassis is It was officially displayed in 2016. It uses a 6x6 wheeled chassis, based on IVECO commercial truck, though with many design changes..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note #1 is A battery contains 1 Transporter Erector Launcher and Radar (TELAR) and 2 Transporter Erector Launcher (TEL) vehicles. These are based on a heavily modified IVECO 6x6 commercial  truck chassis. Each vehicle carrier 3 missiles. So a single battery has 9 ready-to-fire missiles. A battalion has 4 batteries with 4 TELARs and 8 TELs and can engage multiple targets simultaneously.
+The Note #2 is Each battalion additionally includes a Bashir S-band 3D phased array surveillance radar which has a detection range of 350 km. The battalion also has a command and control (C2) unit, based on IVECO truck chassis. The C2 unit provides communication between Tabas batteries. Furthermore, the C2 unit can connect other air defense systems of the Raad family, including the older Raad and further improved Sevom Khordad, into a single air defense network. This allows to cover large area and targets can be engaged with a wide range of missiles from the cheapest Taer-1 missiles to the most capable Taer-2s. This adds the capability of facing different types of threats with different types of interceptors. In case of heavy jamming when even the X-band engagement radar can’t handle its duty, the C2 unit can provide an additional data link, connecting the system to electro-optical engagement systems of Raad batteries, in order to guide missiles toward targets..
+The Note #3 is The Tabas missile radar system is similar to the Russian Buk Missile System..
+
+Here is Dimensions information for the Tabas Iranian Medium-Range Air Defense Missile System:
+The Length is 7.5 m.
+The Width is 3.3 m.
+The Height is 5.1 m.
+The Weight, Combat is INA.
+
+Here is Automotive information for the Tabas Iranian Medium-Range Air Defense Missile System:
+The Engine Name is IVECO.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Cruising Range is 500.
+The Speed, Maximum Road is 65 km/h.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+
+Here is Missile System information for the Tabas Iranian Medium-Range Air Defense Missile System:
+The Missile Name is This system uses Taer-1 and Taer-2 missiles.
+The Type is Surface-to-Air Missile.
+The Missile Diameter is INA.
+The Missile Length is INA.
+The Missile Maximum Range is 75 km.
+The Missile Maximum Altitude is 25 km.
+The Note #1 is This air defense system can engage aircraft and helicopters. Most likely that Tabas can also engage ballistic missiles, cruise missiles, anti-radiation missiles, smart bombs and unmanned aerial vehicles..
+The Note #2 is There is very little unclassified information online about the Tabas..
+
+Here is Fire Control System information for the Tabas Iranian Medium-Range Air Defense Missile System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Note is It can reportedly only engage a single target at a time, while providing guidance to two missiles..
+
+Here is Radar information for the Tabas Iranian Medium-Range Air Defense Missile System of the Fire Control:
+The Name is Bashir S-band 3D phased array surveillance radar.
+The Type is Phased Array Radar.
+The Frequency/Band is S-Band.
+The Range is 350 km.
+The Note is Bashir Radar
+Bashir radar systemThis radar was seen at the 2017 IRGC Aerospace Force Exhibition, and then images of its close-up were displayed in the national media. The Bashir radar has a flat antenna based on a base that has a 360 degree rotation and looks like a phased array type. In fact, the Bashir radar scans the environment on the horizon with the mechanical rotation of the antenna, which is a common structure in many radars. In addition, in advanced radars, the ambient scanning is carried out in altitude with a change in the angle of the waves, which is also commonly used in the Bashir radar.
+
+The antenna shape also shows that the radar uses smaller wavelengths such as L and S bands that have a higher accuracy in determining the position of targets compared to the HF / VHF / UHF bands, but still to search for and track radar targets in and out. Medium and long rackets are used.
+
+In the Bashir radar, similar to the overall design of the radar, its antenna and its base, and the location and shape of the antenna of the friend recognition system from the enemy, there are significant differences in these parts and the lateral components as compared to similar radars. The integrated antenna level, the difference in the number of antenna elements in the IFF system and the 3 components mounted on the back and on the sides of the antenna are among these differences, which indicate the native design of the Bashir radar, while modeling the successful and successful foreign radars..
+
+Here is Protection information for the Tabas Iranian Medium-Range Air Defense Missile System:
+The Hull Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

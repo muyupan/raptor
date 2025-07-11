@@ -1,0 +1,35 @@
+This document describes the Sapsan-Bekas Russian Mobile Anti-Drone System.
+
+Avtomatika Concern (part of Rostec) has presented the Sapsan-Bekas mobile system for detecting and disabling unmanned aerial vehicles (UAVs) at the International Military-Technical Forum ARMY-2019. The system can detect an UAV at a distance of 10 km, track its movement and disable it at a distance of over 6 km by suppressing communications and control of the UAV. The design has much better tactical and technical characteristics compared to all similar Russian and foreign systems that are currently available.
+
+The device consists of three subsystems: signals detection and direction finding of drones, active radar, video and optoelectronic tracking, as well as a subsystem of radio suppression. Sapsan-Bekas is capable of round-the-clock monitoring of the airspace and recognizing airborne objects using video and thermal imaging tools.
+
+“This new system by the Avomatika Concern will become a part of Rostec’s products intended for countering both civilian and military UAVs. Sapsan-Bekas is capable of countering UAVs both in manual and automatic modes in a wide frequency range — from 400 MHz to 6 GHz. The system is highly maneuverable since it is installed on an automobile chassis — this is a key requirement for various security agencies. Mobility is also important for civilian customers, since it allows you to quickly move the system from one facility to another”, said the Executive Director of Rostec, Oleg Evtushenko.
+
+The UAV radio suppression subsystem used in the Sapsan-Bekas is called Luch (Russian: ray, beam), which will also be presented for the first time in ARMY-2019. It affects the drone’s channels of navigation, control and transmission of information, simultaneously blocking eleven wave frequency bands. The system works on the “friend or foe” principle and does not affect UAVs, information about which is entered into the system’s database in advance. The subsystem can also work autonomously outside the system configuration due to a separate control panel.
+
+“One of the main advantages of the Sapsan-Bekas is its versatility and flexibility. The functionality of the system is easy to adapt to the needs of customers. For example, civilian companies, including energy companies, are mostly interested in signals intelligence equipment, and often don’t need radiolocation capabilities — the concern is ready to make a product for them in the required configuration”, said Vladimir Kabanov, CEO of the Avtomatika Concern.
+
+The company is already prepared to deliver Sapsan-Bekas to civilian customers. Before supplying to security agencies is possible, the system must first pass the testing scheduled for autumn 2019.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Sapsan-Bekas Russian Mobile Anti-Drone System:
+The Alternative Designation is Sapsan-Bekas.
+The Type is Mobile Anti-Drone System.
+The Operation is Sapsan-Bekas mobile system for detecting and disabling unmanned aerial vehicles (UAVs).
+The Crew is 1.
+The Chassis is The system is highly maneuverable since it is installed on an automobile chassis — this is a key requirement for various security agencies. Mobility is also important for civilian customers, since it allows you to quickly move the system from one facility to another.
+The Maximum Range is The system can detect an UAV at a distance of 10 km, track its movement and disable it at a distance of over 6 km by suppressing communications and control of the UAV..
+The Subsystems is The device consists of three subsystems: signals detection and direction finding of drones, active radar, video and optoelectronic tracking, as well as a subsystem of radio suppression..
+The Monitoring is Sapsan-Bekas is capable of round-the-clock monitoring of the airspace and recognizing airborne objects using video and thermal imaging tools..
+The Modes of Operation is Sapsan-Bekas is capable of countering UAVs both in manual and automatic modes.
+The Frequency Range is from 400 MHz to 6 GHz..
+The Friend or Foe is The system works on the “friend or foe” principle and does not affect UAVs, information about which is entered into the system’s database in advance. The subsystem can also work autonomously outside the system configuration due to a separate control panel..
+
+Here is Dimensions information for the Sapsan-Bekas Russian Mobile Anti-Drone System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

@@ -1,0 +1,45 @@
+This document describes the Vera-E Czech Republic Electronic Support Measures System.
+
+VERA-E is the export version of the military ESM version of the system, also referred to as the VERA-S/M in its national mobile version. In addition, the shorter range VERA-P3D system is marketed for highly accurate monitoring of transponder-equipped ground vehicle movement at airports. The manufacturers also market an ESM triangulation system known as BORAP.
+
+VERA -VERA passive radar (in Czech known as Věra) is an electronic support measures (ESM) system that uses measurements of time difference of arrival (TDOA) of pulses at three or four sites to accurately detect and track airborne emitters. It is reportedly able to detect military "invisible aircraft".
+
+This equipment has proliferated into the following countries: Czech Republic, Estonia, Indonesia, Malaysia, Pakistan, United States of America, Viet Nam.
+
+Here is Variants information for the Vera-E Czech Republic Electronic Support Measures System:
+The Tactical PSS VERA-E is This is a variant of the export VERA-E PSS. System components are housed in a vehicle for faster cell transfer and implementation hiding.
+The system usually comprises three ESM receivers arranged in an equilateral triangle, with each station covering a 120-degree, fan-shaped area, for a total of 360 degrees..
+The VERA-Next Generation (VERA-NG) is This is the successor system to the VERA-E. VERA-NG utilizes new ESM technology that uses the combined time difference of arrival (TDOA) features of the VERA-E with user-friendly features providing faster deployment, according to Jane's Defence Weekly for May 6,2009..
+The VERA-P3D is The VERA-P3D is a commercialized variant with a shorter range. Its primary use is to monitor the response of the transmitter ground facilities at airports..
+The VERA-AP is The VERA-AP is a commercialized variant used in long-range surveillance for air traffic and civil works. It operates in the band range from 1030-1090 Mhz..
+The VERA S/M is The first of two mobile VERA S/M systems was delivered on Dec. 7, 2004, to the 53rd Passive Surveillance Center at the ceremony in Ceske Budejovice, Czech Republic. In 2006, the system joined a spearhead within the NATO Response Force (NRF) that is known as a Very High Readiness Joint Task Force (VJTF).
+It also serves as a back-up for radar systems of the Air Traffic Control Center of the Czech Republic, according to the Czech Ministry of Defense..
+
+Here is System information for the Vera-E Czech Republic Electronic Support Measures System:
+The Alternative Designation is Vera-E.
+The Type is Electronic Support Measures System.
+The Crew is INA.
+The Maximum Range is 450 km.
+The Power COnsumption is 250 W.
+The Field of View is 120-deg 360-deg (option).
+The Frequency Range is 1-18 GHz, 0.1-1 GHz (option),  18-40 GHz (option).
+The Mode Of Operation is The deployed system typically comprises a central site (containing the signal processing equipment and an ESM receiver) and two or three side sites containing only an ESM receiver. The side sites relay the signals received to the central site over a point-to-point microwave link. The central site uses the known propagation delay from the side sites to estimate the TDOA of the pulses at each site.
+
+The TDOA of a pulse between one side site and the central site locates the target on a hyperboloid. A second side site provides a second TDOA and hence a second hyperboloid. The intersection of these two hyperboloids places the target on a line, providing a 2D measurement of the target's location (no height).
+
+A third side-site provides a third hyperboloid, which, when intersected with the line provided by the other two side sites, provides a full 3D location of the target. This process is known as multilateration.
+
+The height of a target with an SSR Mode C or Mode S transponder can also be provided by decoding the Mode C or Mode S response directly, which is the normal mode of operation for the civilian VERA-AP system..
+The System Accuracy is System accuracy is typically better than a microwave surveillance radar, and is a function of the deployment geometry, the inherent timing accuracy of the central site, the bandwidth of the pulse being detected and the signal-to-noise ratio. Wider separations of the side sites from the central site provide better accuracies – but at the expense of a reduced area of common coverage. Typically side sites are deployed 15-40 km from the central site, providing a reasonable compromise of coverage and accuracy.
+
+The system is generally line-of-sight limited, with a nominal range of 450 km, the normal radio horizon. Detection of targets is within a sector of approximately 120 degrees, although IFF and SSR targets are detected using a dedicated omnidirectional antenna, and hence may be seen over 360 degrees. Up to 200 targets can be automatically tracked simultaneously, with an output rate adjustable from 1 to 5 seconds..
+The Exploited Emitters is The current generation sensor can only detect and track pulsed emissions, due to the requirement to measure the time of arrival of pulses. The receivers operate in the frequency range of 1-18 GHz and typically exploit secondary surveillance radar (SSR) transponders, identify friend or foe (IFF) transponders, airborne radars, weather radars, tactical air navigation (TACAN) transponders, distance measurement equipment (DME) beacons, digital communications signals and pulsed jamming signals..
+
+Here is Dimensions information for the Vera-E Czech Republic Electronic Support Measures System:
+The Receiving Station Length is 1.3 m.
+The Receiving Station Width is 0.9 m.
+The Antenna Unit Length is 2.0 m.
+The Antenna Unit Width is 0.9 m.
+The Receiving Station Weight is 120 kg.
+The Antenna Unit Weight is 300 kg.
+

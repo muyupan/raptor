@@ -1,0 +1,82 @@
+This document describes the NTC VISMOD Zala 421-21 Russian Micro Unmanned Aerial Vehicle (UAV).
+
+NTC VISMOD Zala 421-21 Russian Micro Unmanned Aerial Vehicle (UAV)
+The unmanned complex based on the helicopter UAV ZALA 421-21 is designed for remote landing and monitoring at altitude 10-1000m at a distance of 5km from the ground control station with maximum endurance of 25 minutes. The unique design permits the UAV to be extremely quiet in any environment. UAV transmits real-time video and photographs. The UAV is fully autonomous which requires minimal operator input for any mission and semi-autonomous without GPS mode is available for use inside buildings. The UAV can land on structures to preserve power while still monitoring and listening in on the target. Easy application and transportations are key elements that this platform offers. Payload capacity of 0.5 kilograms offers the VTOL ability to integrate payloads of small UAVs but at much closer range and zero movement. Infrared payloads are currently being implemented for night time reconnaissance. Future developments are being focused on increasing endurance to around 40 minutes and increasing the range to around 15km. Payload modification include combining day video camera and infrared camera for multi-purpose missions. New model is due to be released before the end of the year.
+
+Here is System information for the NTC VISMOD Zala 421-21 Russian Micro Unmanned Aerial Vehicle (UAV):
+The Alternative Designation is NTC VISMOD Zala 421-21 Russian Micro Unmanned Aerial Vehicle (UAV).
+The Type is Micro Unmanned Aerial Vehicle (UAV).
+The Mission Type is DZ: Reconnoiter LP/OP positions and initial DZ movements
+BZ: Identify composition/disposition, support BTG and BilusavarFreedom Brigade (BFB) attacks, propaganda, information operations (IO), and counter-mobility.
+SZ: Improvised explosive device (IED), propaganda operations, and support BFB operations..
+The Crew is 2x Personnel Max (1xPilot and 1x Mission Commander) within 1-2 km of aircraft..
+The Range is Max Range: 7 km;
+Max Effective Range: 5 km;
+Max AGL: 19,000 ft.;
+Max Effective AGL: 1,500 ft..
+The Effects is Passive: Reconnaissance of enemy positions and propaganda for IO
+Kinetic: Anti-tank/anti-personnel, chemical, biological, radioactive, nuclear, and high-yield explosives (CBRNE), and cyberspace electro-magnetic activities (CEMA).
+With TOS 20-30x minutes..
+The Targeting is Primarily Movement and Maneuver, but capable of targeting all WFFs..
+The Vulnerability is Minimum 900x rounds (5.56-.50 cal) massed against aircraft from personnel within 150 feet. RTU will fire 200x rounds to replicate. Minimum of 3x rounds (120mm canister). RTU will expend 3x MGSS rounds..
+The CBI is 16xAircraft per DTG fielded to guerilla and local insurgent forces..
+
+Here is Dimensions information for the NTC VISMOD Zala 421-21 Russian Micro Unmanned Aerial Vehicle (UAV):
+The Length is INA.
+The Width is 0.4 m.
+The Height is 0.22 m.
+The Rotor Diameter is 0.6 m.
+The Weight is 1.5 kg.
+
+Here is Automotive information for the NTC VISMOD Zala 421-21 Russian Micro Unmanned Aerial Vehicle (UAV):
+The Engine Name is 4 two blade propeller, Vertical Take Off and Landing (VTOL), Electric.
+The Engine Power is 15.2 V.
+The Engine HP is INA.
+The Maximum Speed is 50 km/h.
+The Endurance is 30 min.
+The Mission Radius is 15 km.
+
+Here is Payload information for the NTC VISMOD Zala 421-21 Russian Micro Unmanned Aerial Vehicle (UAV):
+The Gimbal Stabilized is Yes.
+The Camera Mega Pixel is 12.4.
+The Camera Range Video is 100-3200.
+The Camera Range Still is 100-1600.
+The Photography Modes: is INA.
+The Single Shot is Yes.
+The 3 Burst is Yes.
+The 5 Burst is Yes.
+The 7 Burst is Yes.
+The Time Lapse is Yes.
+The Video Modes: is INA.
+The Ultra High Def is Yes.
+The Full High Def is Yes.
+The High Def is Yes.
+The Secure Digital Card Max is 64.
+The Video Bitrate Max is 60.
+The File Formats: is INA.
+The FAT 32 is Yes.
+The esFAT is Yes.
+The Photo Format is JPG, DNG.
+The Video Format is MP4, MOV.
+The Wind speed at launch is INA.
+The GPS / GLONASS Enabled is Yes/Yes.
+The Recovery Method is INA.
+The Dimensions is 35.
+The Height is INA.
+
+Here is Controller information for the NTC VISMOD Zala 421-21 Russian Micro Unmanned Aerial Vehicle (UAV):
+The Operating Frequency is 2.400-2.483.
+The Power CONUS is 20.
+The Power OCONUS is 16.
+The Endurance is 10%.
+
+Here is Mobile Application information for the NTC VISMOD Zala 421-21 Russian Micro Unmanned Aerial Vehicle (UAV):
+The Name is DJI Go.
+The EIRP is 100.
+The Third Party Applications is Yes.
+The Live View Working Frequency is 24.
+The Latency is 220.
+The Required Operating System: is INA.
+The iOS 8.0 or later is Yes.
+The Android 4.1.2 or later is Yes.
+

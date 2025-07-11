@@ -1,0 +1,117 @@
+This document describes the Model 1981 "Shin'heung" (PT-85) North Korean Light Amphibious Tank.
+
+The Model 1981 "Shin'heung" (Rise) is a North Korean amphibious light tank. Its common western designation is PT-85. It is built for the needs of their army, with around 500 examples operated. The Model 1981 "Shin'heung is based on the lengthened VTT-323 APC chassis, and although the turret appears similar to PT-76, the PT-85 has a higher horseshoe-shaped turret, with an 85 mm gun and hatches similar to those of a T-54.
+
+Early examples of the Model 1981 "Shin'heung" tank have shown a 9M14 Malyutka (AT-3 "Sagger") anti-tank guided missile installed on top of the turret directly above the main gun, and with two lights on the front of either side of the hull. In recent parades, the Model 1981 "Shin'heung" has been observed with a large IR projector (possibly a reverse engineered copy of a L-2 Luna IR spotlight on the turret, linked to the gun with a brace for elevation, as on the Russian T-55/62 tanks.
+
+The arrangement of the lights on the hull has also changed: there are three lights on the right side of the front glacis (two black ones and one white), plus one on the left side plate; sometimes some of these lights are omitted. The AT-3 "Sagger" missile is also now absent on the PT-85; it's unclear if these new or upgraded variants can be armed with that missile, and if so where the launcher would be installed.
+
+In 2015, Model 1981 "Shin'heung" tanks in parades have also been observed with a Manpad SAM installed on the rear of the turret, as well as three smoke mortars on each side of the turret.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is System information for the Model 1981 "Shin'heung" (PT-85) North Korean Light Amphibious Tank:
+The Alternative Designation is Model 1981 "Shin'heung"; PT-85.
+The Type is Light Amphibious Tank.
+The Crew is 4.
+The In Service is 1981-Present.
+
+Here is Dimensions information for the Model 1981 "Shin'heung" (PT-85) North Korean Light Amphibious Tank:
+The Length, Gun Forward is 9.4 m.
+The Width is 3.1.
+The Height is 2.8.
+The Weight, Combat is 20.
+The Ground Pressure is INA.
+
+Here is Automotive information for the Model 1981 "Shin'heung" (PT-85) North Korean Light Amphibious Tank:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Operational Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 10.
+The Fording Depth is INA.
+
+Here is System information for the Model 1981 "Shin'heung" (PT-85) North Korean Light Amphibious Tank of the Main Gun:
+The Name is D-44.
+The Type is 85mm Divisional Gun.
+The Caliber is 85.
+The Length is 8.34.
+The Barrel Length is 4.7.
+The Width is 1.78.
+The Height is 1.42.
+The Weight is 1,725.
+The Breech is Semi-automatic vertical sliding-wedge.
+The Recoil is Hydro-pneumatic.
+The Carriage is Split trail.
+The Maximum Elevation is +35.
+The Minimum Elevation is -7.
+The Traverse Range is 54.
+The Traverse Left is 27.
+The Travere Right is 27.
+The Rate of Fire is up to 20 rounds per minute (burst).
+The Muzzle Velocity is 1,030.
+The Effective Firing Range is 1,150.
+The Maximum Firing Range is 15.65.
+The Sights is OP-2-7 w/5.5X Magnification.
+
+Here is Ammunition information for the Model 1981 "Shin'heung" (PT-85) North Korean Light Amphibious Tank of the Main Gun:
+The Name is BR-365P.
+The Type is HVAP.
+The Caliber is 85.
+The Weight is 5 kg.
+The Shell is 85×629 mm.
+The Basic Load is 25.
+The Maximum Range is INA.
+The Armor Penetration is 107 mm (4 in) at 1,000 m (1,094 yd).
+
+Here is System information for the Model 1981 "Shin'heung" (PT-85) North Korean Light Amphibious Tank of the Anti-Aircraft Weapon System:
+The Name is KPV.
+The Type is Heavy Machine Gun.
+The Caliber is 14.5mm.
+The Length is 1,980 mm.
+The Barrel Length is 1,346 mm.
+The Width is 162mm.
+The Height is 225mm.
+The Weight is 49 kg.
+The Action is Short recoil operation.
+The Rate of Fire is 600 rpm.
+The Muzzle Velocity is 1,005.
+The Effective Firing Range is 3,000.
+The Maximum Firing Range is 4,000.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+
+Here is Ammunition information for the Model 1981 "Shin'heung" (PT-85) North Korean Light Amphibious Tank of the Anti-Aircraft Weapon System:
+The Name is B-32.
+The Type is Armor-piercing incendiary full metal jacket round with a tungsten-carbide core..
+The Caliber is 14.5.
+The Cartridge is 14.5×114 mm.
+The Basic Load is 200.
+The Armor Penetration is Armour penetration at 500 m is 32 mm of rolled homogeneous armour (RHA) at 90 degrees..
+The Other Ammunition Types is B-32 - Armor-piercing incendiary full metal jacket round with a tungsten-carbide core. Projectile weight is 64.4 g and muzzle velocity is 976 m/s. Armour penetration at 500 m is 32 mm of rolled homogeneous armour (RHA) at 90 degrees.
+BZT - Armor-piercing incendiary tracer full metal jacket round with a steel core. Projectile weight is 59.56 g and muzzle velocity is 1,005 m/s. Tracer burns to at least 2,000 m.
+MDZ - High-explosive incendiary bullet of instant action. Projectile weight is 59.68 g..
+
+Here is Anti-Tank Guided Missile information for the Model 1981 "Shin'heung" (PT-85) North Korean Light Amphibious Tank:
+The Note is 1 x 9M14 Malyutka launcher ATGM.
+
+Here is Fire Control information for the Model 1981 "Shin'heung" (PT-85) North Korean Light Amphibious Tank:
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Tank Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is INA.
+
+Here is Protection information for the Model 1981 "Shin'heung" (PT-85) North Korean Light Amphibious Tank:
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

@@ -1,0 +1,84 @@
+This document describes the F-5A Freedom Fighter American Supersonic Light Fighter Aircraft.
+
+F-5A
+Single-seat fighter version of F-5, originally without radar, but was later equipped with AN/APQ-153 radar during upgrades.
+
+The Northrop F-5 is a family of supersonic light fighter aircraft initially designed as a privately funded project in the late 1950s by Northrop Corporation. There are two main models, the original F-5A and F-5B Freedom Fighter variants and the extensively updated F-5E and F-5F Tiger II variants. The design team wrapped a small, highly aerodynamic fighter around two compact and high-thrust General Electric J85 engines, focusing on performance and a low cost of maintenance. Smaller and simpler than contemporaries such as the McDonnell Douglas F-4 Phantom II, the F-5 cost less to procure and operate, making it a popular export aircraft. Though primarily designed for a day air superiority role, the aircraft is also a capable ground-attack platform. The F-5A entered service in the early 1960s. During the Cold War, over 800 were produced through 1972 for U.S. allies. Though at the time the United States Air Force (USAF) did not have a need for a light fighter, it did procure approximately 1,200 Northrop T-38 Talon trainer aircraft, which was based on Northrop's N-156 fighter design.
+
+After winning the International Fighter Aircraft Competition, a program aimed at providing effective low-cost fighters to American allies, in 1970 Northrop introduced the second-generation F-5E Tiger II in 1972. This upgrade included more powerful engines, larger fuel capacity, greater wing area and improved leading edge extensions for better turn rates, optional air-to-air refueling, and improved avionics including air-to-air radar. Primarily used by American allies, it remains in US service to support training exercises. It has served in a wide array of roles, being able to perform both air and ground attack duties; the type was used extensively in the Vietnam War. A total of 1,400 Tiger IIs were built before production ended in 1987. More than 3,800 F-5s and the closely related T-38 advanced trainer aircraft were produced in Hawthorne, California. The F-5N/F variants are in service with the United States Navy and United States Marine Corps as adversary trainers. Approximately 500 aircraft were in service as of 2014.
+The F-5 was also developed into a dedicated reconnaissance version, the RF-5 Tigereye. The F-5 also served as a starting point for a series of design studies which resulted in the Northrop YF-17 and the F/A-18 naval fighter aircraft. The Northrop F-20 Tigershark was an advanced variant to succeed the F-5E which was ultimately canceled when export customers did not emerge.
+
+This equipment has proliferated into the following countries: Botswana, Turkey, Yemen.
+
+Here is System information for the F-5A Freedom Fighter American Supersonic Light Fighter Aircraft:
+The Alternate Designation(s) is F-5A Freedom Fighter.
+The Type is Supersonic Light Fighter Aircraft.
+The Manufacturer is Northrop Corporation.
+The Crew is 1.
+The Number of Engines is 2.
+The Number of Hard Points is 7 total (only pylon stations 3, 4 and 5 are wet-plumbed): 2× wing-tip AAM launch rails, 4× under-wing & 1× under-fuselage pylon stations with a capacity of 3,200 kg..
+
+Here is Dimensions information for the F-5A Freedom Fighter American Supersonic Light Fighter Aircraft:
+The Length is 14.38 m.
+The Width (Wing Span) is 7.70 m.
+The Wing Area is 15.79 m sq.
+The Height is 4.06 m.
+The Empty Weight is 3,667 kg.
+The Maximum Weapons Load is 2,810 kg.
+The Maximum Takeoff Weight is 9,333 kg.
+
+Here is Automotive information for the F-5A Freedom Fighter American Supersonic Light Fighter Aircraft:
+The Engine Name is 2 x General Electric J85-GE-13.
+The Engine Type is Turbojet.
+The Engine Power, Dry is 1,234 kg static thrust each.
+The Engine Power, Afterburner is 1,851 kg static thrust each.
+The Fuel Capacity is 2,207 liters.
+The Maximum Speed is 1,489 kph.
+The Cruise Speed is 904 kph.
+The Stall Speed is 237 kph.
+The Climb Rate is 8,748 m/min.
+The Ceiling is 15,789 m.
+The Ferry Range is 2,519 km tanks dropped.
+The Radius is 314 km hi-lo-hi with max payload and combat reserves.
+
+Here is System information for the F-5A Freedom Fighter American Supersonic Light Fighter Aircraft of the Main Gun System:
+The Name is 1 x M39 Autocannon.
+The Type is Single-Barrel Autocannon.
+The Caliber is 20 mm.
+The Length is 1.83 m.
+The Weight is 80.9 kg.
+The Barrels is Single barrel (progressive RH parabolic twist, 9 grooves).
+The Action is Five-chamber revolver.
+The Rate of Fire is 1,500 rpm.
+The Muzzle Velocity is 1,030 m/s.
+
+Here is Ammunition information for the F-5A Freedom Fighter American Supersonic Light Fighter Aircraft of the Main Gun System:
+The Type is Rifle.
+The Caliber is 20 mm.
+The Cartridge is 20×102 mm.
+The Basic Load is 280 Rounds.
+
+Here is Main Missile Systems information for the F-5A Freedom Fighter American Supersonic Light Fighter Aircraft:
+The Note is 2 x AIM-9 Sidewinder AAM on wingtip launchers.
+
+Here is Rocket Weapon Systems information for the F-5A Freedom Fighter American Supersonic Light Fighter Aircraft:
+The Option 1 is 2× LAU-61/LAU-68 rocket pods (each with 19× /7× Hydra 70 mm rockets, respectively).
+The Option 2 is 2× LAU-5003 rocket pods (each with 19× CRV7 70 mm rockets).
+The Option 3 is 2× LAU-10 rocket pods (each with 4× Zuni 127 mm rockets).
+The Option 4 is 2× Matra rocket pods (each with 18× SNEB 68 mm rockets).
+
+Here is Bomb Weapon Systems information for the F-5A Freedom Fighter American Supersonic Light Fighter Aircraft:
+The Note is 9 x 500-lb (227-kg) bombs.
+
+Here is Fire Control / Avionics information for the F-5A Freedom Fighter American Supersonic Light Fighter Aircraft:
+The Fire Control Radar is AN/APQ-153 Radar.
+The Navigation Radar is INA.
+
+Here is Protection information for the F-5A Freedom Fighter American Supersonic Light Fighter Aircraft:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

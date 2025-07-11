@@ -1,0 +1,73 @@
+This document describes the OTR-21 Tochka (SS-21 Scarab) Russian Close-Range Ballistic Missile.
+
+First operationalized in 1975, the road-mobile Scarab-A variant was designed to be deployed alongside conventional forces, maintain flexibility on the battlefield, and attack tactical targets such as bridges, storage facilities, troop concentrations, and airfields.  It is a single-stage, single warhead, solid-fueled battlefield short-range ballistic missile (BSRBM) with a range of 70 km and inertial guidance to achieve an accuracy of 150 m Circular Error Probable (CEP). It has a 482 kg warhead that can be equipped with conventional, chemical, or nuclear munitions; the nuclear warhead is believed to have a selectable yield of 10 or 100 kT. If fitted with fragmentation or submunition conventional warheads, the Scarab’s blast radius is increased increasing its lethality against military units and troop concentrations.  The missile can also be fitted with an Electromagnetic Pulse (EMP) warhead that can be calibrated for air burst to maximize effectiveness.
+
+The Scarab-B (also known as the Tochka-U), with an extended range of 120 km, was developed in the mid-1980s and began replacing the A variant in 1989. While the B variant employs inertial guidance for targeting, it also utilizes GPS and radar—or optical terminal correlation system—to increase its accuracy to 95 m CEP. Like the Scarab-A, the Scarab-B is also capable of being tipped with conventional and nuclear payloads, however, increased in-flight maneuverability allows the B version to better avoid missile defenses. All versions use a road-mobile Transporter-Erector-Launcher (TEL) which makes them highly mobile and able to quickly redeploy after launch. The Scarab is gradually being phased out by the more capable Iskander SRBM, which has a longer range, improved accuracy, and can carry multiple warheads.
+
+The missile has been proliferated to numerous Warsaw Pact countries and former Soviet allies. According to the Russian RIA news agency, the conventionally-equipped Scarab has been employed a total of 60 times in combat. Ukraine is believed to possess around 500 Scarab missiles and has purportedly exported the Russian BSRBM to countries such as Syria and Yemen. Reports speculate that Syria received around 40 Scarab BSRBMs and 12 corresponding TEL vehicles from Ukraine. In the mid-1990s, Syria provided North Korea with a Scarab-A prototype, which the Koreans reverse engineered and domestically produced and deployed as the KN-02 BSRBM.  Yemen was also a recipient of the Scarab, obtaining an estimated 40 missiles from Ukraine. In December 2015, Houthi rebels in Yemen used the Scarab to carry out devastating strikes on the Arab coalition operating within the country, killing hundreds.  Armenia, Belarus, and Kazakhstan are also believed to be in possession of the Scarab.
+
+This equipment has proliferated into the following countries: Armenia, Azerbaijan, Belarus, Bulgaria, Kazakhstan, North Korea (Democratic People's Republic of Korea), Russian Federation, Syria, Ukraine, Yemen.
+
+Here is Variants information for the OTR-21 Tochka (SS-21 Scarab) Russian Close-Range Ballistic Missile:
+The Tochka-U (SS-21 Scarab-B), is improved variant of the Tochka with a maximum range of 120 km. and improved CEP. It entered service in 1989..
+The SS-21 Scarab-C is Its Russian designation is unknown. This missile system was developed in the 1990s. Range was increased to 185 km and CEP was further improved..
+The Oka (SS-23 Spider), is essentially a longer version of the Tochka, with a maximum range of 480 km. The SS-23 Spider was eliminated due to the 1987 Intermediate-Range Nuclear Forces Treaty (or INF treaty) during the late 1980s..
+The KN-02, is North Korean reversed-engineered and upgraded version of the Scarab-A, with a longer range and improved CEP..
+
+Here is Dimensions information for the OTR-21 Tochka (SS-21 Scarab) Russian Close-Range Ballistic Missile:
+The Length is 9.48.
+The Width is 2.78.
+The Height is 2.35.
+The Weight, Combat is 18.15.
+The Ground Pressure is INA.
+
+Here is Automotive information for the OTR-21 Tochka (SS-21 Scarab) Russian Close-Range Ballistic Missile:
+The Engine Name is 5D20B-300.
+The Engine Type is Diesel.
+The Engine Power is 300.
+The Cruising Range is 650.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 40.
+The Speed Maximum Swim is 8.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.5.
+The Trench is 1.2.
+The Fording Depth is Amphibious.
+
+Here is Missile information for the OTR-21 Tochka (SS-21 Scarab) Russian Close-Range Ballistic Missile of the Missile System (Transporter/Erector/Launcher):
+The Type is 9M79 Tactical Ballistic Missile.
+The Missile Length is 6.4.
+The Missile  Diameter is 0.65.
+The Missile Weight is 2,000.
+The Warhead Weight is 480.
+The Engine Type is Single-stage Solid-fuel rocket
+96kN.
+The Warhead Type is conventional, chemical, nuclear.
+The Guidance System is inertial guidance system.
+The Fuse Type is INA.
+The Missile Velocity is 1.8 km/h (Mach 5.3).
+The Maximum Effective Range is 70.
+The Minimum Effective Range is INA.
+The Accuracy is 150.
+The Circular Error Probable (CEP) is 160.
+
+Here is Fire Control System information for the OTR-21 Tochka (SS-21 Scarab) Russian Close-Range Ballistic Missile of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is INA.
+The Indirect Fire is Yes.
+The Fire Control Sensors is Yes.
+The IADS Integration is Yes.
+
+Here is Protection information for the OTR-21 Tochka (SS-21 Scarab) Russian Close-Range Ballistic Missile:
+The Hull Armor is INA.
+The Turret Armor is No.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

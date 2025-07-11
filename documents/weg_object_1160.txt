@@ -1,0 +1,40 @@
+This document describes the JRTC VISMOD: UMZ Russian 6x6 Scatterable Minelaying System.
+
+The UMZ has been disclosed as the likely replacement for the GMZ-series. The UMZ consists of three launchers mounted on each side of the vehicle for a total of six mine launchers per vehicle. each full turn launcher is hexagonally shaped and contains 30 launch tubes totaling 180. It can fire the mines to one or both sides, or to the rear. Both AP and AT mines are launched from the 140-mm launch tubes.  The UMZ uses the same mine canisters as the PKM system. Depending on the position of the launch tubes, one-, two-, or three-lane mine fields can be laid. Minefield (m): length: 1,000 to 1,200. Depth (m): 30 to 120. Max length of minefield with one basic load (m): AP, PFM-1s: 3,200. AP, POM-2: 5,000. AT, PTM-3: 600. Mine capacity: from 180 to 11,520 depending on the type of mine number of mines in one basic load: AP PFM-1s: 11,520. AP POM-2: 720. AT PTM-3: 180. Variants: although primarily mounted on the ZIL-131B, the UMZ minelaying system has been observed mounted on several different carriers such as a modified MT-Blue chassis or on a PT-S tracked amphibious personnel carrier and most recently on the KamAZ-63501 in the UMZ-K Variant.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Dimensions information for the JRTC VISMOD: UMZ Russian 6x6 Scatterable Minelaying System of the System:
+The Height, Overall  is 2.5.
+The Length, Overall  is 7.1.
+The Width, Overall  is 3.0.
+The Weight is 10.
+
+Here is Automotive information for the JRTC VISMOD: UMZ Russian 6x6 Scatterable Minelaying System:
+The Engine Power  is 150.0.
+The Engine Type is Gasoline.
+The Fording Depth  is 1.4.
+The Range, Cruising  is 525.0.
+The Speed, Maximum Off-Road is 30.0.
+The Speed, Maximum Road  is 80.0.
+The Speed, Maximum Swim  is INA.
+The Speed, Operating Minimum is 10.0.
+The Speed, Operating Maximum is 40.0.
+The Minefield Spacing Depth (m) is 15.0.
+The Speed, Operating Surface Laying  is 40.0.
+
+Here is Radio information for the JRTC VISMOD: UMZ Russian 6x6 Scatterable Minelaying System of the Communications:
+The Name is R-168.
+
+Here is Mines information for the JRTC VISMOD: UMZ Russian 6x6 Scatterable Minelaying System:
+The Combat Load  is AP, PFM-1S: 3,200. AP, POM-2: 5,000. AT, PTM-3: 600.
+The Minelaying Pattern is Scattered.
+The Time Required to Load Minelayer  with  One  Basic Mine Load  is 60-90.
+The Time Required to Load Minelayer with Crew only  is INA.
+The Type is AP, PFM-1S; AP, POM-2; AT, PTM-3.
+The Payload Weight  is 15000.0.
+
+Here is Protection information for the JRTC VISMOD: UMZ Russian 6x6 Scatterable Minelaying System:
+The NBC Protection is INA.
+The Smoke Screening System is No.
+

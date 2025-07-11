@@ -1,0 +1,65 @@
+This document describes the ZIL-135LM Russian 8x8 Special Wheeled Chassis.
+
+The ZIL-135 is a large, eight-wheeled military transport and self-propelled artillery truck produced in the Cold War by the Soviet Union starting in 1959. Its purpose was to carry and launch an artillery missile, specifically a FROG-7, from surface to surface. The ZIL-135 was widely exported to other communist countries, most notably North Korea, where it is a common sight in films and military marches. It also served as the TEL for the BM-27 Uragan artillery rocket system.
+
+This vehicle has two gasoline engines that power its 20 tons to a maximum speed of 65 kilometers per hour. One engine drives the four wheels on the left of the truck, while the other engine drives the four wheels on the right. The ZIL-135 has eight-wheel drive, but only the front and rear axles are used for steering. It has a maximum cruising range of 500 kilometers.
+
+The cab of the ZIL-135 is NBC protected, allowing the rockets to be fired without exposing the crew to possible contaminants. The six-man crew can emplace or displace the system in three minutes.
+
+This equipment has proliferated into the following countries: Eastern Europe.
+
+Here is Variants information for the ZIL-135LM Russian 8x8 Special Wheeled Chassis:
+The Note is *ZIL-135 (9P113): launcher for FROG-7 (Luna-M) missile (1959)
+*ZIL-135B: amphibious version of ZIL-135 (1959)
+*ZIL-135e: non-amphibious version of ZIL-135B (1960)
+*ZIL-135E: Diesel-electric transmission (1965)
+*ZIL-135K: launcher for C-5 missile (1961)
+*ZIL-135KM: launcher for SS-N-3 Shaddock missile (1962, prototype for BAZ)
+*ZIL-135KP: land train (1969)
+*ZIL-135L: improved suspension (1961)
+*ZIL-135LM: ZIL-135L with manual transmission (1964)
+*ZIL-135LN: chassis-cab based on ZIL-135K
+*ZIL-135P: amphibious landing transport (landing barge) (1965)
+*ZIL-135SH: zero-turn radius (1967).
+
+Here is System information for the ZIL-135LM Russian 8x8 Special Wheeled Chassis:
+The Alternative Designation is ZiL-135LM.
+The Type is Special Wheeled Chassis.
+The Manufacturer is ZiL; BAZ.
+The Crew is 1.
+The Passenger Capacity is 2.
+The Payload Capacity is up to 9.4 tons.
+
+Here is Dimensions information for the ZIL-135LM Russian 8x8 Special Wheeled Chassis:
+The Length is 9.26 m.
+The Width is 2.8 m.
+The Height is 2.53 m.
+The Weight, Combat is 10.9 tons.
+The Payload Capacity is up to 9.4 tons.
+
+Here is Automotive information for the ZIL-135LM Russian 8x8 Special Wheeled Chassis:
+The Engine Name is 2 x ZiL-375Ya.
+The Engine Type is Petrol.
+The Engine Power is 2 x 180 hp.
+The Range is 590.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 50.
+The Side Slope is 40.
+The Vertical Step is 0.9.
+The Trench is 2.0.
+The Fording Depth is 1.2.
+
+Here is Main Weapon System information for the ZIL-135LM Russian 8x8 Special Wheeled Chassis:
+The Note is There are no crew-served weapons mounted on the ZIL-135LM Russian 8x8 Special Wheeled Chassis.
+
+Here is Protection information for the ZIL-135LM Russian 8x8 Special Wheeled Chassis:
+The Armor is Protection from small arms and shell splinters.
+The Applique Armor is INA.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

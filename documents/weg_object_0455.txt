@@ -1,0 +1,68 @@
+This document describes the BM-21UM Berest Ukrainian 122mm Multiple Rocket Launcher.
+
+The BM-21UM Berest Ukrainian 122mm Multiple Rocket Launcher can be seen as a further development of the Ukrainian BM-21U. Essentially it is a modernized version of the venerable BM-21 Grad.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the BM-21UM Berest Ukrainian 122mm Multiple Rocket Launcher:
+The Alternative Designation is BM-21UM Berest.
+The Type is Multiple Rocket Launcher.
+The Caliber is 122 mm.
+The Manufacturer is KrAZ.
+The Configuration is 4x4.
+The Chassis is KrAZ-5401NE.
+The Crew is 5.
+The Cabin is The cabin is fitted with four doors that allow the crew to enter and exit the vehicle. It offers sufficient space to house the computation and fire control equipment..
+The Emplacement Time is The MRLS can be prepared for firing in 30 seconds and the crew can fire all 50 rockets within 25 seconds without the need for leaving the cabin..
+The Displacement Time is INA.
+
+Here is Dimensions information for the BM-21UM Berest Ukrainian 122mm Multiple Rocket Launcher:
+The Length is 7.4 m.
+The Width is 2.5 m.
+The Height is 2.9 m.
+The Weight, Empty is 15 tons.
+
+Here is Automotive information for the BM-21UM Berest Ukrainian 122mm Multiple Rocket Launcher:
+The Engine Name is INA.
+The Engine Type is 238D diesel.
+The Engine Power is 330.
+The Maximum Range is 600 km.
+The Maximum Speed is 95 km/h.
+The Amphibious is No.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Step is 0.5 m.
+The Trench is 0.6 m.
+The Fording is 1.2 m.
+
+Here is System information for the BM-21UM Berest Ukrainian 122mm Multiple Rocket Launcher of the Main Weapon System:
+The Name is INA.
+The Type is Multiple Rocket Launcher.
+The Caliber is 122 mm.
+The Number of Tubes is 50.
+The Maximum Firing Range is 20 - 40 km.
+The Full Salvo Duration is 25 seconds.
+The Reloading Time is 10 - 15 minutes.
+The Note #1 is The rear hull of the truck is mounted with a launcher with 50 3m-long tubes in five rows, delivering 25% more capacity when compared to the 40-tube BM-21 Grad MRLS..
+The Note #2 is The rectangular-shaped launcher can be rotated away from the cab towards the direction of the designated targets. Each rocket fired by Berest can engage targets at a range of more than 50km. It can be armed with different types of warheads including high-explosive fragmentation, incendiary, and chemical, or anti-tank submunitions..
+
+Here is Ammunition information for the BM-21UM Berest Ukrainian 122mm Multiple Rocket Launcher of the Main Weapon System:
+The Name is INA.
+The Type is HE-FRAG Rocket.
+The Rocket Length is INA.
+The Rocket Diameter is INA.
+The Rocket Weight is 66 kg.
+The Warhead Weight is 18 kg.
+The Basic Load is 50.
+
+Here is Fire Control System (FCS) information for the BM-21UM Berest Ukrainian 122mm Multiple Rocket Launcher:
+The FCS is The new digital fire control system installed in the cabin allows the crew to safely handle the firing sequence..
+The Battlefield Information System is The new battlefield information system on board the MRLS enables the crew to collect and analyse the real-time information sourced by multiple platforms such as unmanned aerial vehicles (UAVs), counter-battery radars, and surveillance systems..
+The Artillery Guidance System is The onboard fire control system in combination with artillery guidance system ensures superior firepower, highly accurate firing and reduced preparation time when compared to the Grad MRLS..
+
+Here is Protection information for the BM-21UM Berest Ukrainian 122mm Multiple Rocket Launcher:
+The Armor is INA.
+The Applique Armor is INA.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

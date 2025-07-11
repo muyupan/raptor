@@ -1,0 +1,211 @@
+This document describes the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser.
+
+The Slava class, Soviet designation Project 1164 Atlant, is a class of guided missile cruisers designed and constructed in the Soviet Union for the Soviet Navy, and currently operated by the Russian Navy.
+
+The design started in the late 1960s, based around the use of the P-500 Bazalt missile, and was intended as a less expensive conventionally powered alternative to the nuclear-powered Kirov-class battlecruisers. Moskva is armed with P-1000 Vulkan AShM missiles, developed in the late 1970s to late 1980s. It is not known which Slava-class cruisers carry P-1000s other than Moskva. There was a long delay in this program, while the problems with the Bazalt were resolved. These ships acted as flagships for numerous task forces. All ships were built at the 61 Kommunar yard, in Mykolaiv (Nikolaev), Ukrainian SSR. The class was a follow-up to the Kara-class cruiser which the Soviet Navy typed as a Large Anti-submarine Ship (Russ. BPK), constructed at the same shipyard and appears to be built on a stretched version of the Kara-class hull.
+
+The Slava class was initially designated BLACKCOM 1 (Black Sea Combatant 1) and then designated the Krasina class for a short period until Slava was observed at sea. The SS-N-12 launchers are fixed facing forward at around 8° elevation with no reloads available. As there was nothing revolutionary about the design of the class western observers felt they were created as a hedge against the failure of the more radical Kirov class. The helicopter hangar deck is located 1/2 deck below the landing pad with a ramp connecting the two.
+
+Originally 10 ships were planned, but with the collapse of the Soviet Union, only three were completed. A fourth vessel was launched, but final construction remains incomplete and the ship has not been commissioned into service.
+
+Following the collapse and the re-emergence of the nation of Russia, the three finished ships serve in the Russian Navy and the uncompleted fourth vessel renamed Ukrayina, is owned by Ukraine. Efforts have been made to complete and update the unfinished ship; in 2010, Ukrainian President Viktor Yanukovych stated that Russia and Ukraine would work together on the project. Russia has also expressed interest in purchasing the vessel, which Ukraine had previously offered for sale. However, as of early 2011, no final agreement has been concluded between the two countries, on this matter. The Russian navy has plans for extensive upgrades of all their Slava-class vessels during the 2010s; completing work on Ukrayina may serve as a testbed for this. As of mid-2016, the fourth hull remains afloat in the shipyard uncompleted.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser:
+The Moskva (ex-Slava) is Commissioned: 1982
+Status: Active 
+Fleet: Black Sea Fleet.
+The Marshal Ustinov (ex-Admiral Lobov) is Commissioned: 1986
+Status: Active
+Fleet: Northern Fleet.
+The Varyag (ex-Chervona Ukraine) is Commissioned: 1989
+Status: Active
+Fleet: Pacific Fleet.
+The Ukrayina (ex-Komsomolets, ex-Admiral Flota Lobov) is Commissioned: Unfinished 
+Status: Unfinished 
+Fleet: INA.
+The Oktyabrskaya Revolutsiya is Commissioned: Cancelled and disassembled on the way in 1990 
+Status: Cancelled and disassembled on the way in 1990
+Fleet: INA.
+The Admiral Flota Sovetskovo Soyuza Gorshkov is Commissioned: Cancelled
+Status: Cancelled
+Fleet: INA.
+The Varyag is Commissioned: Cancelled
+Status: Cancelled
+Fleet: INA.
+The Sevastopol is Commissioned: Cancelled
+Status: Cancelled
+Fleet: INA.
+
+Here is System information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser:
+The Alternative Designation is Slava-Class; Project 1164 Atlant Class.
+The Type is Guided Missile Cruiser.
+The Builder is 61 Communards Shipyard.
+The Crew is 485 (66 Off, 419 WO/Enl), alternate information 476-529 (84 Off, 75 WO, 370 Enl)..
+
+Here is Dimensions information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser:
+The Length is 186.0 m.
+The Beam is 21.5 m.
+The Draught is 7.6 m.
+The Displacement, Standard is 10,000 tons.
+The Displacement, Full Load is 12,500 tons.
+
+Here is Propulsion System information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser:
+The Engine Name is GTU M21 2x M70 cruise gas turbines and 4x M90 boost gas turbines , 2 cruise steam turbines, 2 exhaust gas boilers, 4 x M8KF Gas turbines.
+The Engine Power is 130,000 shp (97,000 kW).
+The Shafts is 2.
+The Speed is 32 knots (59 km/h).
+The Range is 5,560 km at 18 knots.
+The Endurance is INA.
+
+Here is Gun System #1 information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser of the Gun Weapon Systems:
+The Name is 1 x AK-130 130mm  Automatic Naval Cannon.
+The Type is Automatic Naval Cannon.
+The Caliber is 130 mm.
+The Quantity is 1 x AK-130 Automatic Naval Cannon Stations.
+The Length is 9100 mm (70 calibers).
+The Barrel Length is INA.
+The Weight is 8 tons.
+The Maximum Elevation is +85.
+The Minimum Elevation is INA.
+The Traverse Range is INA.
+The Rate of Fire is 90 rds/min.
+The Maximum Firing Range is 23,000 m (surface targets);
+15,000 m (aircraft);
+8,000 m (missiles).
+The Autoloader is The autoloader removed the need of a loader and allows for continuous firing until the ammo storage is emptied..
+The Fire Control System is The fire control system has sight correction devices for bursts of falling shells and a target post for firing at coastal targets. Its high rate of fire, when provided with adequate types of shells, allows the cannon to serve as anti-aircraft artillery. The cartridges include charges with remote and radar detonators..
+The Radar is It uses the MR-184 radar, a dual-band radar. It can track and target two targets. Its range is 75 km with a tracking range of 40 km..
+The Guidance System is The Lev-218 (MR-184) guidance system was developed by KB Ametist on the basis of Lev-114: (MR-114 from the AK-100). According to some reports, Lev-214 (MR-104) was used instead on Project 956 destroyers. The system includes a target tracking radar, a TV-sight, the DVU-2 laser rangefinder, a ballistic computer, equipment selection system and counter-jamming. The system is able to receive target designation from detection equipment on the ship, movement parameters, elevate the cannons and can adjust shooting bursts as well as track projectiles automatically. The DVU-2 , along with the software, was developed by TsNIIAG and PO LOMO, using an autonomous indirectly stabilized laser beam in 1977..
+
+Here is Gun System #1 Ammunition information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 130.
+The Basic Load is INA.
+
+Here is Gun System #2 information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser of the Gun Weapon Systems:
+The Name is 6 × AK-630 Close-In Weapons Systems (CIWS).
+The Type is Close-In Weapons Systems (CIWS).
+The Caliber is 30 mm.
+The Main Armament is 1 or 2 AO-18 autocannons.
+The Secondary Armament is 4 x  9A4172 Missiles.
+The Barrel Length is 1,629 mm.
+The Barrels is 6.
+The Width is 1,240 mm.
+The Height is 1,070 mm (above deck).
+The Weight is 1,000 kg (gun mount).
+The Crew is 1.
+The Action is Gas-operated rotary cannon.
+The Elevation is +88° ... -12° (50°/sec).
+The Traverse is ±180° (70°/sec).
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880–900 m/s.
+The Maximum Firing Range is the projectiles self-destruct past 5,000 m.
+The Effective Firing Range is 4,000 m (aerial)
+5,000 m (maritime).
+The Feed System is Belt: 2,000 rounds (additional 1,000 rounds in reserve feed bin..
+The Sights is Radar / TV-optical.
+
+Here is Gun System #2 Ammunition information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Shell is HEI-Frag, Frag-T.
+The Shell Weight is 0.39 kg.
+The Basic Load is 4,000.
+
+Here is Missile Weapon System #1 information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser of the Missile Weapon Systems:
+The Name is 16 x P-1000 Vulkan Anti-Ship Missile Cruise Missile.
+The Type is Anti-Ship Missile Cruise Missile.
+The Manufactuer is P.A. Strela.
+The In Service is 1982-Present.
+The Proliferation is The P-1000 has been installed on the Slava class cruiser Varyag, and some sources report P-1000 missiles on her sister ship Moskva..
+The Length is 11.7 m.
+The Diameter is 0.88 m.
+The Wingspan is 2.6 meters.
+The Weight is 2 tons.
+The Warhead is High explosive or nuclear.
+The Warhead Weight is 1,000 kg.
+The Blast Yield is 350 kt.
+The Engine is Turbojet.
+The Guidance System is Semi-active radar homing, terminal active radar homing..
+The Operational Range is 800 km.
+The Flight Altitude is 50–5,000 m.
+The Speed is Mach 2.5.
+The Basic Load is 16 x P-1000 Vulkan Anti-Ship Missile Cruise Missile.
+
+Here is Missile Weapon System #2 information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser of the Missile Weapon Systems:
+The Name is 16 x S-300F (SA-N-6 Grumble) Cruise Missiles.
+The Type is Naval Surface-to-Air Missile.
+The In Service is 1984-Present.
+The Missile Name is 5V55RM missile.
+The Launcher is Vertical Launching System.
+The Length is 7 m.
+The Diameter is 450mm.
+The Weight is 1,450 kg.
+The Warhead is 100 kg.
+The Target Acquisition Radar #1 is MR-750 Top Steer target acquisition radar, D/E band, range 300 km.
+The Target Acquisition Radar #2 is Top Pair target acquisition radar, C/D band, range 200 km..
+The Target Tracking Radar is 3R41 Volna Top Dome target tracking radar, I/J band, range 100 km..
+The Speed is 6,120 kph (3,800 mph).
+The Maximum Range is 90 km.
+The Minimum Range is 7.00 km.
+The Floor is 25 m.
+The Basic Load is 16 x S-300F (SA-N-6 Grumble) Cruise Missiles.
+
+Here is Missile Weapon System #3 information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser of the Missile Weapon Systems:
+The Name is 40 x 4K33 OSA-M (SA-N-4 Gecko) Navel Surface-to-Air Missiles.
+The Type is Navel Surface-to-Air Missile.
+The In Service is 1974-Present.
+The Missile Name is 9M33M3 Missile.
+The Length is 3158 mm.
+The Diameter is 209.6 mm.
+The Weight is 170 kg.
+The Warhead is Frag-HE.
+The Warhead Weight is 16 Kg.
+The Detonation Mechanism is Contact and proximity.
+The Propellant is Solid propellant rocket motor.
+The Operational Range is 15 km.
+The Flight Altitude is 12,000 m.
+The Boost TIme is 2 s boost, then 15 s sustain.
+The Speed is 1020 m/s.
+The Guidance System is RF CLOS.
+The Accuracy is 5 m.
+The Basic Load is 40 x 4K33 OSA-M (SA-N-4 Gecko) Navel Surface-to-Air Missiles.
+
+Here is Torpedo System information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser:
+The Torpedo Tubes is 10 (2 x 5) 533mm torpedo tubes.
+The Torpedo Name is INA.
+The Basic Load is 20 x torpedoes.
+
+Here is Anti-Submarine Mortars information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser:
+The Name is 2 x RBU-6000 Smerch-2 Anti-Submarine Rocket Launcher.
+The Type is Anti-Submarine Rocket Launcher.
+The Morar Name is RGB-60 Projectile.
+The Mortar Range is Ballistic 1 - 350 m to 1700 m, Ballistic 2 - 1500 m to 5500 m.
+The Mortar Depth is 10 to 500 m.
+The Sink Rate is 11.6m/s.
+The Mortar Basic Load is +24 Mortars.
+
+Here is Aircraft Facilities information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser:
+The Helicopter is 1 Kamov Ka-25 or Kamov Ka-27 Helicopter.
+
+Here is Fire Control System information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser:
+The FCS #1 is 1 x 3R41 Volna/Top Dome SA-N-6 SAM control..
+The FCS #2 is 1 x MPZ-301 Baza/Pop Group SA-N-4 SAM control..
+The SSM Control is Argument/Front Door-C SSM control..
+
+Here is Radar Systems information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser:
+The Long-Range Air Search Radar is 1 x  MR-800 Voshkod/Top Pair 3-D long range air search..
+The Secondary Air Search Radar is 1 x MR-700 Fregat/Top Steer (first two) or 1 x MR-710 Fregat-MA/Top Plate (second two) 3-D air search..
+
+Here is Sonar Systems information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser:
+The Bow Sonar is 1 x MG-332 Tigan-2T/Bull Nose hull-mounted LF..
+The Stern Sonar is 1 x Platina/Horse Tail MF VDS..
+
+Here is Protection information for the Slava-Class (Project 1164 Atlant Class) Russian Guided Missile Cruiser:
+The Hull is Splinter plating.
+The Electronic Warfare is 1 x Kol'cho suite with Gurzhor-A&B/Side Globe intercept and the.
+The Decoys is 2 x PK-2 decoy RL, 12 PK-10 decoy RL (in last two units only) Bell Crown intercept.
+The Jammers is 1 x MR-404/Rum Tub jammers.
+

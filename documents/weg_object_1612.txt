@@ -1,0 +1,51 @@
+This document describes the Shanyi 30 Chinese Amphibious Tracked Unmanned Ground Vehicle (UGV).
+
+The Shanyi 30 Chinese Tracked Unmanned Ground Vehicle (UGV) has been developed for urban counter-terrorism, CBRNE, CASEVAC, fire support for dismounted troops, and ISTAR. The platform can operate in a swarm with other Shanyi 30 UGVs either co-operatively or independently to complete different missions.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Shanyi 30 Chinese Amphibious Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Shanyi 30.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is Zhong Tian Guide Control Technology Co Ltd.
+The Configuration is Tracked.
+The Mission is The platform has been developed for urban counter-terrorism, CBRNE, CASEVAC, fire support for dismounted troops, and ISTAR..
+The Crew is Unmanned.
+The Control is Control of the unit is carried out by a standard portable control unit or by command vehicle..
+The Software is The Shanyi 30 platform can be used as part of a swarming operability to allow a number of UGVs to operate together..
+The Camera is The unit can be equipped with a PTZ camera..
+The Maximum Payload on Ground is 30 kg.
+The Maximum Payload on Water is 15 kg.
+The Environmental is IP67.
+
+Here is Dimensions information for the Shanyi 30 Chinese Amphibious Tracked Unmanned Ground Vehicle (UGV):
+The Length is 1.12 m.
+The Width is 0.62 m.
+The Height is 0.34 m.
+The Track Width is 110 mm.
+The Weight is 50 kg.
+The Ground Clearance is 85 –170 mm.
+
+Here is Automotive information for the Shanyi 30 Chinese Amphibious Tracked Unmanned Ground Vehicle (UGV):
+The Main Power is 24 V/40 Ah polymer lithium battery.
+The Auxiliary Power is 12 V/5 A, 5 V/8 A.
+The Motor is 350 W.
+The Range is INA.
+The Maximum Land Speed is 35 km/h.
+The Maximum Amphibious Speed is 3 km/h.
+The Maximum Gradient Climb is 35˚.
+The Side Slope is 25˚.
+The Vertical Obstacle Avoidance is 240 mm.
+The Trench Crossing Width is 450 mm.
+The Endurance is 2 hours.
+
+Here is Manipulator Arm information for the Shanyi 30 Chinese Amphibious Tracked Unmanned Ground Vehicle (UGV):
+The Note is Robotic arms can be mounted to the upper part of the robot..
+
+Here is Main Weapon System information for the Shanyi 30 Chinese Amphibious Tracked Unmanned Ground Vehicle (UGV):
+The Note is Shanyi 30 can be armed with a 12.7 mm MG or individual heavy weapons such as anti-tank missiles and rockets..
+
+Here is Protection information for the Shanyi 30 Chinese Amphibious Tracked Unmanned Ground Vehicle (UGV):
+The Armor is INA.
+The Applique Armor is INA.
+

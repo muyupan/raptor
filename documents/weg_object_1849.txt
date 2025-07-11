@@ -1,0 +1,112 @@
+This document describes the BLG-60 Polish Armored Vehicle-Launched Bridge (AVLB).
+
+This system is mounted on the adapted chassis of a T55, where a launching unit replaces a combat turret.
+
+The BLG- 60 armored bridge-layer was a joint development between the former East Germany and Poland. The bridge is launched in a similar fashion to the Csechoslovakia MT-55.  The BLG 60 and BLG 67 armored bridge-layers were used by the East German Army and other countries.
+
+The bridge initiating equipment is controlled by a system of hydraulic cylinders; the allocation of hydraulic oil can be controlled both manually by mechanical levers and automatically. The pressure of the liquid is provided by high-pressure piston pumps motorized by the tank engine. All mechanisms of the MT-55A used for laying and recovering of the bridge can be controlled by the crew from the inside of the tank, with hatch covers closed. To begin the launching process, the vehicle stops short of the gap; then, the bridge swings ahead and down while its two sections open like scissors.
+
+The MT-55A span is 18 meters long and can hold up loads up to 50 tons. Later the MT-55A was modified with gap measuring mechanism and infrared equipment for bridge laying at darkness. 
+
+The MT-55A was designed and produced by TS Martin from 1962 (the former Czechoslovakia was one of the countries that build the T-54/55 series under licence). The development phase ended in 1967 after which 5 pre-series vehicles were built. Series production started in 1969.
+
+The transformed T-55A chassis differs only by the arrangement of the compartments in the hull. The bridge tank is proposed for an easy and swift crossing of antitank barriers (trenches) and other obstacles with the purpose of facilitating the passage of mechanized and tank units.
+
+The bridge initiating equipment is controlled by a system of hydraulic cylinders; the allocation of hydraulic oil can be controlled both manually by mechanical levers and automatically. The pressure of the liquid is provided by high-pressure piston pumps motorized by the tank engine. All mechanisms of the MT-55A used for laying and recovering of the bridge can be controlled by the crew from the inside of the tank, with hatch covers closed. To begin the launching process, the vehicle stops short of the gap; then, the bridge swings ahead and down while its two sections open like scissors.
+
+The MT-55A span is 18 meters long and can hold up loads up to 50 tons. Later the MT-55A was modified with gap measuring mechanism and infrared equipment for bridge laying at darkness. Of the MT-55A, a total of 1,762 were produced between 1969 and 1983, including 183 export versions MT-55KS (from 1971) and 301 hulls for East Germany's BLG-60 program.
+
+This equipment has proliferated into the following countries: Eastern Europe, Northern Europe, Western Europe.
+
+Here is Variants information for the BLG-60 Polish Armored Vehicle-Launched Bridge (AVLB):
+The BLG-60 Trainer is Modified training bridge..
+The BLG-60M is Improved BLG-60 that makes it possible to attach 2 bridges together to bridge gaps of up to 36 m. Entered service in 1973..
+The BLG-60M2 is The M2 variant compensates for wider tanks crossing gaps, requiring BLG-60M's bridges to be widened by 20 cm. In addition, the BLG-60M2 can attach 3 bridges together to bridge gaps of up to 52 m..
+
+Here is System information for the BLG-60 Polish Armored Vehicle-Launched Bridge (AVLB):
+The Alternative Designation is BLG 60.
+The Manufacturer is KhPZ, UVZ (Soviet Union)
+Bumar-Łabędy (Poland)
+ZTS Martin (Czechoslovakia).
+The Type is Armored Vehicle-Launched Bridge (AVLB).
+The Chassis is T-55.
+The Crew is 2.
+The MT-55A is The MT-55A span is 18 meters long and can hold up loads up to 50 tons. Later the MT-55A was modified with gap measuring mechanism and infrared equipment for bridge laying at darkness. Of the MT-55A, a total of 1,762 were produced between 1969 and 1983, including 183 export versions MT-55KS (from 1971) and 301 hulls for East Germany's BLG-60 programme..
+
+Here is Dimensions information for the BLG-60 Polish Armored Vehicle-Launched Bridge (AVLB):
+The Chassis Length is 9.8 m.
+The Chassis Width is 3.37 m.
+The Chassis Height is 2.40 m.
+The Chassis Weight, Combat is 36 tons.
+The MT-55A Bridge Length is 18 m.
+The MT-55A Bridge Width is INA.
+The MT-55A Bridge Weight is INA.
+The MT-55A Bridge Cargo Capacity is up to 50 Tons.
+
+Here is Automotive information for the BLG-60 Polish Armored Vehicle-Launched Bridge (AVLB):
+The Engine Name is Model V-55.
+The Engine Type is V-12 water-cooled. 38.88-l diesel.
+The Engine Power is 500.
+The Power-to-Weight Ratio is 14.6 hp (10.4 kW) / tonne.
+The Transmision is Mechanical [synchromesh], 5 forward, 1 reverse gears.
+The Fuel Capacity is 580 l internal, 320 l external (less on early T54), 400 l jettisonable rear drums.
+The Cruising Range is INA.
+The Speed, Maximum Road is 48.
+The Speed, Average Cross is 25.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is 1.4 unprep; 5.5 snorkel.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Trench is 2.85.
+
+Here is System information for the BLG-60 Polish Armored Vehicle-Launched Bridge (AVLB) of the Tank Commander's Weapon System:
+The Name is QJZ-89.
+The Type is 12.7mm Heavy Machine Gun.
+The Manufacturer is NORINCO.
+The Cartridge is 12.7x108.
+The Weight, Gun Only is 17.5.
+The Weight,Tripod is 8.5.
+The Length, Total is 2,119.
+The Length, Barrel is 1,003.
+The Barrels is 1.
+The Action is Gas/Recoil.
+The Rate of Fire is 450-600.
+The Muzzle Velocity is 850.
+The Feed System is Belt.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the BLG-60 Polish Armored Vehicle-Launched Bridge (AVLB) of the Tank Commander's Weapon System:
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Muzzle Velocity is 850.
+The Basic Load is INA.
+The Max Range is 1,600.
+The Min Range is INA.
+The Armor Penetration is Yes.
+
+Here is Fire Control information for the BLG-60 Polish Armored Vehicle-Launched Bridge (AVLB):
+The Name is INA.
+The Computerized FCS is INA.
+The Laser Rangefinder is KTD-1 or KTD-2.
+The Night Sight is TPN-1-22-11 night sight.
+
+Here is Protection information for the BLG-60 Polish Armored Vehicle-Launched Bridge (AVLB):
+The Hull Armor is 120 mm hull front at 60° (100 mm after 1949)
+79 mm hull upper sides
+20 mm hull lower sides
+60 mm at 0° hull rear
+20 mm hull bottom
+33-16 mm hull roof.
+The Turret Armor is 205 mm turret front
+130 mm turret sides
+60 mm turret rear
+30 mm turret roof.
+The Applique Armor is Available.
+The Explosive Reactive Armor is Available.
+The Active Protection System is INA.
+The Mine Clearing is Roller-plow available, In 1959, some tanks received mountings for the PT-55 mine clearing system or the BTU/BTU-55 plough..
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes, PAZ (Protivoatomnaya Zashchita) NBC protection system.
+The Smoke Equipment is grenlaunch/eng smk sys.
+

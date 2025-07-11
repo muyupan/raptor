@@ -1,0 +1,66 @@
+This document describes the Hanchon Class North Korean Landing Craft Utility (LCU).
+
+Little is confirmed about these utility landing craft except that they have a bow ramp, two machine guns, and are believed capable of carrying two tanks or up to 200 troops for a short distances. Characteristics are estimated.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is System information for the Hanchon Class North Korean Landing Craft Utility (LCU):
+The Alternative Designation is Hanchon Class.
+The Type is Landing Craft Utility.
+The Builder is North Korea; Shipyard: INA.
+The Crew is 16.
+The Troop Capacity is up to 200 troops for a short distances..
+The Cargo Capacity is Two tanks.
+
+Here is Dimensions information for the Hanchon Class North Korean Landing Craft Utility (LCU):
+The Length is 35.70 m.
+The Beam is 7.90 m.
+The Draft is 1.20 m.
+The Displacement, Full Load is 145 tons full load.
+
+Here is Propulsion System information for the Hanchon Class North Korean Landing Craft Utility (LCU):
+The Engine Name is 3 x Russian type 3D12.
+The Engine Type is Diesel.
+The Engine Power is 600 total bhp.
+The Maximum Range is 600 nm at 12 knots.
+The Maximum Speed is 10 knots.
+
+Here is Gun Weapon System #1 information for the Hanchon Class North Korean Landing Craft Utility (LCU) of the Gun Weapon Systems:
+The Name is KPV.
+The Type is Heavy Machine Gun.
+The Caliber is 14.5.
+The Quantity is 2 x KPV 14.5 Heavy Machine Gun.
+The Length is 1,980 mm.
+The Barrel Length is 1,346 mm.
+The Width is 162mm.
+The Height is 225mm.
+The Action is Short recoil operation.
+The Rate of Fire is 600 rpm.
+The Muzzle Velocity is 1,005 m/s.
+The Maximum Firing Range is 4000m.
+The Effective Firing Range is 3000m.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Hanchon Class North Korean Landing Craft Utility (LCU) of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 14.5.
+The Cartridge is 14.5×114 mm.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Hanchon Class North Korean Landing Craft Utility (LCU):
+The FCS Name is INA.
+The Computerized FCS is No.
+The Battle Management System is No.
+
+Here is Radar Systems information for the Hanchon Class North Korean Landing Craft Utility (LCU):
+The Name is 1 x Zarnitsa (Skin Head**).
+The Type is Surface Search Radar.
+The Frequency is INA.
+The Range is INA.
+
+Here is Protection information for the Hanchon Class North Korean Landing Craft Utility (LCU):
+The Active Protection System is No.
+The Countermeasures is INA.
+The NBC Water Washdown System is INA.
+

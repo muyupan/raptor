@@ -1,0 +1,39 @@
+This document describes the KH-35 Russian Short-Range Anti-Ship Cruise Missile.
+
+The Zvezda Kh-35 (Russian: Х-35 , AS-20 'Kayak') is a Soviet turbojet subsonic cruise anti-ship missile. The same missile can also be launched from helicopters, surface ships, and coastal defense batteries with the help of a rocket booster, in which case it is known as Uran ('Uranus', SS-N-25 'Switchblade', GRAU 3M24) or Bal ('Ball', SSC-6 'Sennight', GRAU 3K60). It is designed to attack vessels up to 5,000 tonnes.
+
+This equipment has proliferated into the following countries: Algeria, Azerbaijan, India, Iran (Islamic Republic of), Myanmar, North Korea (Democratic People's Republic of Korea), Russian Federation, Ukraine, Venezuela (Bolivarian Republic of), Viet Nam.
+
+Here is Variants information for the KH-35 Russian Short-Range Anti-Ship Cruise Missile:
+The Kh-35 (3M-24) is Base naval version for Russia (2003)..
+The Kh-35E (3M-24E) is Export version of Kh-35 (1996)..
+The Kh-35U is Base upgrade unified missile (can be used with any carrier), version for Russia in production (as of July 1, 2015).[12][22] Capable of striking land targets..
+The Kh-35UE is Export version of Kh-35U, in production..
+The Kh-35V is Version for Russia, launched from a helicopter..
+The 3M-24EMV is Export version of Kh-35 missile-target without warhead for Vietnam..
+The Kh-35 Uran/Uran-E is (SS-N-25 'Switchblade', 3M-24) - Shipborne equipment of the control system with a missile Kh-35/Kh-35E.
+The Bal/Bal-E is Coastal (SSC-6 Sennight) missile complex with Kh-35/Kh-35E missiles (2008)..
+The KN-09 Kumsong/GeumSeong-3 is (Venus 3 금성3호 金星3号) - KN0v 0x 01, KN19 Reported North Korean copy of the Kh-35U. Kumsong-3 is North Korean domestic variant/clone of Kh-35 likely based on Kh-35U due to range.[25] Demonstrated range in 2017, June 8 test is 240 km..
+The Kh-37 or Kh-39 is possible name for nuclear-tipped variant..
+The KCT-15 is License-produced Kh-35E by Vietnam..
+The Neptune is Ukrainian derivative.
+
+Here is KH-35 Anti-Ship Cruise Missiles information for the KH-35 Russian Short-Range Anti-Ship Cruise Missile of the System:
+The Name is KH-35.
+The Type is Anti-Ship Cruise Missiles.
+The Manufacturer is Tactical Missiles Corporation.
+The Length is 385 cm.
+The Diameter is 42.0 cm.
+The Weight is 520 kg.
+The Wingspan is 133 cm.
+The Warhead is HE fragmentation shaped charge.
+The Warhead Weight is 145 kg.
+The Engine is R95TP-300 Turbojet Kh-35 / Turbofan Kh-35U
+360 kgf.
+The Propellant is kerosene.
+The Operational Range is 130 km.
+The Flight Altitude is 10-15 m en route and about 4 m at terminal area.
+The Speed is Mach 0.8–Mach 0.95 (609–723 mph; 980–1,164 km/h).
+The Guidance System is inertial guidance and ARGS-35E X-band terminal active radar homing.
+The Launch  Platform is Tupolev Tu-142, Su-24, MiG-29M/K, Sukhoi Su-35, Su-27SM, Su-30MKI//SM, Su-34, HAL Tejas, Ka-27, Ka-28, Ka-52, T-50, also ships and boats, coastal, LACM, TEL variants.
+

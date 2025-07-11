@@ -1,0 +1,93 @@
+This document describes the AH-64DJP Apache Japanese Attack Helicopter.
+
+The AH-64DJP is the Fuji Heavy Industries licensed version of the U.S. twin-turboshaft AH-64D Apache Attack Helicopter. It has the capability of mounting the Raytheon air-to-air Stinger missile, new navigation and communications equipment and the option to fit a ski landing gear.
+
+The aircraft is powered by a pair of upgraded T700-GE-701C engines. It features a nose-mounted sensor suite for target acquisition and night vision systems. It is armed with a 30 mm (1.18 in) M230 chain gun carried between the main landing gear, under the aircraft's forward fuselage, and four hardpoints mounted on stub-wing pylons for carrying armament and stores, typically a mixture of AGM-114 Hellfire missiles and Hydra 70 rocket pods. The AH-64DJP has significant systems redundancy to improve combat survivability.
+
+It is equipped with a glass cockpit and advanced sensors, the most noticeable of which being the AN/APG-78 Longbow millimeter-wave fire-control radar (FCR) target acquisition system and the Radar Frequency Interferometer (RFI), housed in a dome located above the main rotor. The radome's raised position enables target detection while the helicopter is behind obstacles (e.g. terrain, trees or buildings). The AN/APG-78 is capable of simultaneously tracking up to 128 targets and engaging up to 16 at once; an attack can be initiated within 30 seconds. A radio modem integrated with the sensor suite allows data to be shared with ground units and other Apaches, allowing them to fire on targets detected by a single helicopter.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is Variants information for the AH-64DJP Apache Japanese Attack Helicopter:
+The Note is There are no variants of the Japanese AH-64DJP.
+
+Here is System information for the AH-64DJP Apache Japanese Attack Helicopter:
+The Alternative Designation is AH-64DJP Apache Attack Helicopter.
+The Type is Attack Helicopter.
+The Crew is 2.
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 2.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+The Note is The Japanese Ground Self Defense Force (JGSDF) is the primary operator of the AH-64DJP..
+
+Here is Dimensions information for the AH-64DJP Apache Japanese Attack Helicopter:
+The Length is 17.7 m.
+The Main Rotor Diameter is 14.6 m.
+The Height is 5 m.
+The Weight, Combat is 10.43 tons.
+
+Here is Automotive information for the AH-64DJP Apache Japanese Attack Helicopter:
+The Engine Name is 2 x General Electric T700-GE-701D turboshafts.
+The Engine Type is Turboshaft.
+The Engine Power is 2x1 994.
+The Cruising Range is 476.
+The Speed, Maximum is INA.
+The Speed, Average is 275.
+The Maximum Altitude is 6.4.
+
+Here is System information for the AH-64DJP Apache Japanese Attack Helicopter of the Main Gun System:
+The Name is 1 x M230.
+The Type is Chain Gun.
+The Caliber is 30.
+The Barrel Length is INA.
+The Weight is 56.
+The Muzzle Velocity is 805.
+The Rate of Fire is 625 +/- 25.
+The Maximum Firing Range is 4,000.
+The Effective Firing Range is 1,500.
+
+Here is Ammunition information for the AH-64DJP Apache Japanese Attack Helicopter of the Main Gun System:
+The Name is M789.
+The Type is HEDP.
+The Caliber is 30.
+The Cartridge is INA.
+The Basic Load is INA.
+The Armor Penetration is INA.
+The Bursting Charge is 21.5.
+
+Here is Missile System information for the AH-64DJP Apache Japanese Attack Helicopter of the Missile Weapon Systems:
+The Name is Rockwell AGM-114 Hellfire laser-guided anti-tank missiles.
+The Type is Air-to-surface and surface-to-surface missile.
+The Length is 1.6.
+The Weight is 45-49.
+
+Here is Rocket System information for the AH-64DJP Apache Japanese Attack Helicopter of the Rocket Weapon Systems:
+The Name is Hydra 70 2.75-in (70-mm) rocket pods.
+The Type is air-to-ground.
+The Length is 1,060.
+The Diameter is 70.
+The Weight is 6.2.
+The Muzzle Velocity is 700.
+The Effective Firing Range is 8,000.
+The Maximum Firing Range is 10,500.
+The Maximum Speed is 739.
+The Guidance System is Unguided.
+The Basic Load is INA.
+
+Here is Fire Control and Avionics information for the AH-64DJP Apache Japanese Attack Helicopter:
+The Fire Control System Type is AN/APG-78 Longbow.
+The Fire Control Radar is Longbow Fire Control Radar.
+The Navigation Radar is It performs  wide area search, precise detection, location and classification of up to 256 simultaneous moving and stationary targets. From these, the system then prioritizes the top 16 targets for immediate evaluation and, if desired, engagement by the aircrew..
+The Digital or Analog Cockpit is INA.
+The Direct Fire Control is INA.
+The Laser Designator is INA.
+
+Here is Protection information for the AH-64DJP Apache Japanese Attack Helicopter:
+The Add on Armor is INA.
+The Stealth Properties is None.
+The Heat Signature Reduction is INA.
+The NBC Protection is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

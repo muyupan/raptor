@@ -1,0 +1,74 @@
+This document describes the 1L262E Rtut-BM (SPR-2) Russian Mobile Electronic Warfare (EW) System.
+
+The Rtut-BM, 'Mercury-BM' in English, is electronic warfare (EW) system intended to protect troops and equipment from artillery rockets and shells equipped with proximity fuses that explode at 3-5 meters of altitude. The Rtut-BM affects the proximity/radio-controlled fuse making it explode at higher altitudes keeping the troops and equipment safe. Besides, the system is able to neutralize radio frequencies employed by the enemy's communications. The Rtut-BM system is deployed on an MT-LB armored vehicle fitted with a television antenna which provides coverage for an area of 50 hectares (500,000 square meters) or a semi-sphere of 400 meters radius. The antenna can rotate -/+150-degree and its jamming signal can last for six minutes. This EW system requires a crew of two-man and can be ready for jamming within 10 minutes. The KRET corporation has been manufacturing and delivering KRET systems to the Russian Armed Forces since 2011.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation.
+
+Here is Dimensions information for the 1L262E Rtut-BM (SPR-2) Russian Mobile Electronic Warfare (EW) System:
+The Length is 6.45.
+The Width is 2.86.
+The Height is 1.86.
+The Weight, Combat is 11,000.
+The Ground Pressure is 0.46 standard track / 0.28 wide track.
+
+Here is Automotive information for the 1L262E Rtut-BM (SPR-2) Russian Mobile Electronic Warfare (EW) System:
+The Engine Name is YaMZ 238 (Newer versions have the KamAZ-740.50 engine / 360 horsepower).
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 30.
+The Speed Maximum Swim is 5.
+The Fording Depth is Amphibious.
+
+Here is Electronic Warfare System information for the 1L262E Rtut-BM (SPR-2) Russian Mobile Electronic Warfare (EW) System:
+The Coverage Radius is 400 m.
+The Continuous Operation Time is 6 min.
+The Television Antenna Coverage is 500,000 square meters or a semi-sphere of 400 meters radius..
+The Antenna Rotation is -/+150-degree.
+The Frequency Range is 90–420 MHz.
+The Coverage Area is 400 m in radius.
+The Jamming Signalo Duration is 6 min (continuous).
+
+Here is System information for the 1L262E Rtut-BM (SPR-2) Russian Mobile Electronic Warfare (EW) System of the Primary Weapon System on Most Variants:
+The Name is 1 x PKT 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,098 mm.
+The Barrel Length is 772 mm.
+The Weight is 10.5 kg (empty).
+The Action is Gas operated, long stroke gas piston.
+The Rate of Fire is 750 rpm.
+The Muzzle Velocity is 855 m/s.
+The Maximum Firing Range is 4,000 m.
+The Effective FIring Range is 1,500 m.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes..
+The Sights is Iron Sights.
+
+Here is Ammunition information for the 1L262E Rtut-BM (SPR-2) Russian Mobile Electronic Warfare (EW) System of the Primary Weapon System on Most Variants:
+The Type is API, API-T.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Armor Penetration is 8 mm of RHA at 500 m.
+The Basic Load is 1,500 rounds.
+
+Here is Fire Control information for the 1L262E Rtut-BM (SPR-2) Russian Mobile Electronic Warfare (EW) System:
+The Name is INA.
+The Computerized FCS is INA.
+The Main Gun Stabilization is INA.
+The Range, Day Sight is 1,500.
+The Range, Thermal Sight is N/A.
+The Field of View is 23.
+
+Here is Protection information for the 1L262E Rtut-BM (SPR-2) Russian Mobile Electronic Warfare (EW) System:
+The Hull Armor is 14.
+The Turret Armor is 14.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Optional.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The Night Vision Device Capable is Yes.  Some versions have spot lights..
+

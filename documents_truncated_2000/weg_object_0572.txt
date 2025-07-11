@@ -1,0 +1,151 @@
+This document describes the PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH).
+
+The PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH) is a Chinese tracked self-propelled howitzer armored vehicle designed and manufactured by the China North Industries Group Corporation (NORINCO). The PLZ-07 self-propelled howitzer was presented for the first time to the public during the military parade in Beijing for the 60th anniversary of the Chinese army (PLA), 01 October 2009. The PLZ-07 has been in service with PLA (People's Liberation Army), Chinese Army. The PLZ-07 was developed to replace the older 122 mm self-propelled howitzers in service with the People's Liberation Army, which includes the Type 89, Type 85, and Type 70/70-1 system.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH):
+The SH3 is Is a forerunner of the PLZ-07. It is a similar 122 mm self-propelled howitzer, which was developed mainly for export. It emerged a couple of years before the PLZ-07. Known operators of the SH3 include Rwanda..
+The PLZ-07B is Is an amphibious self-propelled howitzer, used by China's marine corps. This artillery system is fully amphibious. It has a boat-like hull for improved floatation and is fitted with a trim vane. Though it uses the same turret as the PLZ-07. On the water, this artillery system is propelled by two waterjets. The PLZ-07B can be launched at sea from amphibious assault ships and swim over short distances to shore..
+
+Here is System information for the PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is PLZ-07; Type 07.
+The Type is Self-propelled howitzer.
+The Family is PLZ-07 Family.
+The Crew is 5.
+The Chassis is Modified Chassis of the Type 97 Infantry Fighting Vehicle.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Amphibious is No.
+The Note is The PLZ-07 was developed to replace the older 122mm self-propelled howitzer in service with the PLA, which include the Type 89, Type 85, and Type 70/70-1 Systems..
+
+Here is Dimensions information for the PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Length is 6.66.
+The Width is 3.28.
+The Height is 2.5.
+The Weight, Combat is 24,500.
+The Ground Pressure is INA.
+
+Here is Automotive information for the PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Engine Name is BF8M1015CP.
+The Engine Type is Diesel.
+The Engine Power is 600.
+The Cruising Range is 500.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is 55.
+The Amphibious is No.
+The Suspension is Torsion Bar.
+The Track Support is Rollers on each side.
+The Gradient is 60.
+The Side Slope is 30.
+The Fording Depth is 1.0.
+The Vertical Step is 0.8.
+The Trench is 2.5.
+
+Here is TBR-142 information for the PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH) of the Communications:
+The VHF FM Transceiver is Yes, TBR-142(I).
+The VHF Range is 1 to 50.
+The Megahertz is 40.000 to 59.975.
+The Output Power is 1 to 0.3.
+The Power is 12V Ni-Ca Rechargeable Battery or external 12V DC power source.
+The Dimensions is 217x135x58.
+The Weight is 2.7.
+The Antennas is 3 Total: a 1.3m whip antenna, a 0.3m short antenna, and a 10m  wire antenna.
+The Proliferated is Widely with Artillery/Gun/Missile/Reconnaissance/C2 Units.
+The Control Device is TBR-142(II).
+The Multi-function Field Phone is TBR-142(IIID).
+The Anti-Aircraft Control Unit is TBR-142(IIIG).
+The ZXY88-200 C2 Capable is Yes.
+The Messaging is Limited Capability.
+The Amplifier is Available.
+The Physical Conditions Limitations is Terrain and Weather favorable.
+
+Here is System information for the PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is PLZ-07.
+The Type is 122.
+The Loader Type is Semi-automatic.
+The Length, Barrel is 32 Caliber.
+The Max Rate of Fire is 6-8.
+The Sustain Rate of Fire is 6.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Muzzle Brake Type is INA.
+The Max Elevation is +70.
+The Min Elevation is -3.
+The Traverse Range is 360.
+The Range Finder Type is Laser.
+The Ammo Compatible is Russia and China.
+
+Here is Ammunition (Option 1) information for the PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is Standard High Explosive (HE).
+The Caliber is 122.
+The Diameter is 39.2.
+The Muzzle Velocity is 690.
+The Fuse Type is INA.
+The Maximum Firing Range is 18.
+The Armor Penetration is Yes, up to 85mm of conventional steel armour.
+The Projectile Weight is 14-22.
+The Basic Load is 40 Total of any combination of projectiles.
+
+Here is Ammunition (Option 2) information for the PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is Base Bleed.
+The Caliber is 122.
+The Diameter is 39.2.
+The Muzzle Velocity is 730.
+The Fuse Type is INA.
+The Maximum Firing Range is 22.
+The Armor Penetration is Yes, up to 85mm of conventional steel armour.
+The Basic Load is 40 Total of any combination of projectiles.
+
+Here is Ammunition (Option 3) information for the PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is HE BB Rocket-Assist Projectile Type BEE2.
+The Caliber is 122.
+The Diameter is 39.2.
+The Muzzle Velocity is INA.
+The Fuse Type is INA.
+The Maximum Firing Range is 27.
+The Armor Penetration is Yes, up to 85mm of conventional steel armour.
+The Basic Load is 40 Total of any combination of projectiles.
+
+Here is System information for the PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH) of the Vehicle Commander's Weapon System:
+The Name is QJC88.
+The Type is 12.7mm Anti-Aircraft Machine Gun.
+The Caliber is 12.7 x 108.
+The Max Rate of Fire is 500-600.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Feed System is Belt.
+The Sights is Iron/Optical.
+The Operation is Gas Operated, Open Belt.
+The Traverse is 360.
+The Elevation is 90.
+The Note is There is no overhead protection for the Gunner..
+
+Here is Ammunition information for the PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH) of the Vehicle Commander's Weapon System:
+The Type is Type 54 Round.
+The Caliber is 12.7.
+The Muzzle Velocity is 850.
+The Effective Range is 2.5.
+The Armor Penetration is Yes.
+The Basic Load is 1,000 (50 Round Belts).
+
+Here is Fire Control information for the PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is INA.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is INA.
+
+Here is Protection information for the PLZ-07 (Type 07) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Hull Armor is High hardness armor steel, which protections the vehicle from small arms firing and shell splinters..
+The Turret Armor is High hardness armor steel, which protections the vehicle from small arms firing and shell splinters..
+The Applique Armor is Yes.
+The Explosive Reactive Armor is INA.
+The Active Protection System is Yes, Automatic Fire Suppression System.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, two lines of four smoke grenade launchers are mounted to each side of the turret..
+The IR Signature is INA.
+The Day/Night Driving Vision is Yes.
+

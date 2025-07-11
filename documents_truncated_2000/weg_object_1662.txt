@@ -1,0 +1,122 @@
+This document describes the Sejong the Great Class (KDX-III Class) South Korean Destroyer.
+
+The Sejong the Great-class, also known as KDX-III, are three guided missile destroyers of the Republic of Korea Navy (ROKN). The ROKN has deployed three ships with an option for three more which was taken up in December 2013.
+
+This equipment has proliferated into the following countries: South Korea (Republic of Korea).
+
+Here is Variants information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer:
+The Sejong the Great is Commissioned: 2008
+Status: Active.
+The Yulgok Yi I is Commissioned: 2010
+Status: Active.
+The Seoae Ryu Seong-ryong is Commissioned: 2012
+Status: Active.
+
+Here is System information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer:
+The Alternative Designation is Sejong the Great Class; KDX-III Class.
+The Type is Destroyer.
+The Builder is Hyundai Heavy Industries
+Daewoo Shipbuilding & Marine Engineering.
+The Crew is 350.
+
+Here is Dimensions information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer:
+The Length is 135.9 m.
+The Beam is 21.0 m.
+The Draft is 10.5 m.
+The Displacement, Standard is 7,773 tons.
+The Displacement, Full Load is 10,455 tons.
+
+Here is Propulsion System information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer:
+The Engine Name is 4 x General Electric LM-2500.
+The Engine Type is Gas Turbine.
+The Diesel Engine Power is 106,560 total shp.
+The Maximum Speed is 30 knots (56 km/h; 35 mph).
+The Range is 5,000 nm at 14 knots; 4,500 nm at 20 knots.
+
+Here is Gun Weapon System #1 information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer of the Gun Weapon Systems:
+The Name is 1 x OTO Melara 127/64.
+The Type is Naval Gun.
+The Caliber is 127 mm.
+The Quantity is 1.
+The Crew is Remote Controlled.
+The Elevation is −15°/+83°.
+The Traverse is 360°
+speed: 40°/s.
+The Rate of Fire is 40 rounds/min.
+The Effective Range is 100 km with guided VULCANO ammunition.
+The Feed System is Magazine capacity:
+66 ready rounds.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 127.
+The INA is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer of the Gun Weapon Systems:
+The Name is 1 x Goalkeeper CIWS.
+The Type is Close-in-Weapon System (CIWS).
+The Caliber is 30 mm.
+The Quantity is 1.
+The Crew is Automated, with human oversight.
+The Barrels is 7-barrel (progressive RH parabolic twist, 14 grooves).
+The Elevation is +85 to −25 degrees at 80 degree/s.
+The Traverse is 360 deg.
+The Rate of Fire is 70 rounds/second (4,200 rounds/minute).
+The Muzzle Velocity is 1,109 m/s.
+The Effective Firing Range is 350 to between 1,500 and 2,000 m.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Shell is 30×173mm TP, HEI, MPDS, or FMPDS.
+The Basic Load is INA.
+
+Here is Launcher information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer of the Missile Weapon Systems:
+The Name is 2 x Mark 41 VLS (80 Cells).
+
+Here is Missile System #1 information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer of the Missile Weapon Systems:
+The Name is Hyunmoo III.
+The Type is Cruise Missile.
+The Manufacturer is Agency for Defense Development (ADD), Seoul, South Korea
+ LIG Nex1, Seoul, South Korea.
+The Length is 6.25 m.
+The Diameter is 0.52 m.
+The Launch Weight is 1,450 kg.
+The Payload Weight is 315 kg.
+The Engine is solid-propellant rocket boost and turbojet.
+The Range, Hyunmoo IIIA is 500 km.
+The Range, Hyunmoo IIIB is 1,000 km.
+The Range, Hyunmoo IIIC is 1,500 km.
+The Circular Error Probable is 5 m.
+
+Here is Torpedo System information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer:
+The Launcher is 2 x triple 324-mm Mk 32 tubes.
+The Torpedo Name is Blue Shark ASW or Mark 46 Mod 5 torpedoes.
+The Basic Load is 46.
+
+Here is Fire Control Systems information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer:
+The Gun Fire Control System Name is 1 x Mark 160 gun fire control systems.
+The Missile Fire Control System Name is 3 x Raytheon SPG-62 MFCR systems.
+The Computerized FCS is Yes.
+The Battle Management System is Yes.
+
+Here is Radar Systems information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer:
+The Multi-Phased Radar is 1 x Lockheed-Martin AN/SPY-1D(V) Aegis multi-phased radar.
+The Air Search Radar is 1 x STX Radar SPS-95K air search; 1 x Northrop Grumman SPW-9B air/surface search; 1 x Thales Nederland MW-08 air/surface search.
+The Surface Search Radar is 1 x DRS SPS-67(V) surface search.
+The Navigation Radar is 1 x Daewoo DTR-92 navigation.
+
+Here is Sonar Systems information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer:
+The Active and Passive Sonar is 1 x Lockheed Martin SQQ-89(V) underwater combat system w/SQS-53C bow-mounted.
+
+Here is Aircraft Facilities information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer:
+The Aircraft is 2 x Super Lynx [carries Sea Skua ASM missiles or U.S. Mark 46, Mod. 5 ASW torpedoes]..
+
+Here is Protection information for the Sejong the Great Class (KDX-III Class) South Korean Destroyer:
+The Active Protection System is 2 x 330-340 round Matra-Defense Dagaie Mark 2 decoy rocket launching system.
+The Torpedo Decoy is 1 x AN/SLQ-25 Nixie torpedo decoy system and 1 x Prairie/Masker noise suppression system.
+The EW is 1 x SLQ-200(V) SONATA EW system.
+The NBC Water Washdown System is Yes.
+The Chaff/Flares is 4 x Mark 36 SRBOC chaff/flare launchers (6-barrel).
+

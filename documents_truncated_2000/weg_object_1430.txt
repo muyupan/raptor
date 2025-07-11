@@ -1,0 +1,103 @@
+This document describes the Igor Belousov-Class (Project 21300 Class) Russian Rescue Ship.
+
+Igor Belousov-Class (Project 21300 Class) Russian Rescue Ship was developed by the Almaz Central Naval Design Bureau. Initially, plans call for two ships -- one for the Northern and one for the Pacific Fleet. Two more may be built, which would equip all four fleets with a unit. The ships may have secondary roles as research ships.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Igor Belousov-Class (Project 21300 Class) Russian Rescue Ship:
+The Igor Belousov is Commissioned: 2015
+Status: Active
+Fleet: Northern Fleet.
+
+Here is System information for the Igor Belousov-Class (Project 21300 Class) Russian Rescue Ship:
+The Alternative Designation is Igor Belousov-Class; Project 21300 Class.
+The Type is Russian Rescue Ship.
+The Builder is Admiralty Shipyard, St. Petersburg, Russia (construction);
+Almaz Central Naval Design Bureau, St. Petersburg, Russia (design)..
+The Crew is 96.
+The Passengers is 120.
+The Underwater Vehicles is 1 x Project 18271 deep-diving autonomous underwater vehicle and 2 x ARS-600 deep-diving autonomous underwater vehicles..
+The Rescue Complex is 1 x  "Panther Plus" underwater rescue complex.
+The Dive Complex is 1 GVK-450 dive complex (450 meters)..
+The Decompression Chamber is 5 x Decompression Chambers.
+
+Here is Dimensions information for the Igor Belousov-Class (Project 21300 Class) Russian Rescue Ship:
+The Length is 105.10 m.
+The Beam is 17.20 m.
+The Draft is 8.10 m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 5,310 tons.
+
+Here is Propulsion System information for the Igor Belousov-Class (Project 21300 Class) Russian Rescue Ship:
+The Engine Name is 2 x KL6538В-AS06 Electric Motors.
+The Engine Type is Electric Motor.
+The Engine Power is 2 x 3,265.
+The Bow Thrusters is 2 x Bow Thrusters.
+The Generators is 4x1680 кkW VA-1680 diesel generators and 2x1080 kW VA-1080 diesel generators..
+The Maximum Range is 3,000 nm at 12 knots.
+The Maximum Speed is 15 knots.
+The Endurance is INA.
+
+Here is Communications information for the Igor Belousov-Class (Project 21300 Class) Russian Rescue Ship:
+The Communication Complex is 1 x R-779-16 Ruberoid communication complex..
+The Underwater Communication System is 1 x Struktura-SVN underwater communication system..
+
+Here is System information for the Igor Belousov-Class (Project 21300 Class) Russian Rescue Ship of the Main Weapon System:
+The Name is 12 x 9K38 Igla (SA-18 Grouse) Man-Portable Surface-to-Air Missile System.
+The Type is Man-Portable Surface-to-Air Missile System.
+The Length is 1.574 m.
+The Diameter is 72 mm.
+The Weight is Missile weight: 10.8 kg;
+Full system: 17.9 kg..
+The Warhead is 1.17 kg.
+The Detonation Mechanism is Contact and grazing fuze.
+The Engine is Solid fuel rocket motor.
+The Guidance System is Dual waveband infra-red.
+The Operational Range is 5.2 km.
+The Flight Ceiling is 3.5 km.
+The Maximum Speed is 570m/s.
+The Basic Load is 12 x 9K38 Igla (SA-18 Grouse) Man-Portable Surface-to-Air Missile System.
+
+Here is System information for the Igor Belousov-Class (Project 21300 Class) Russian Rescue Ship of the Auxiliary Weapon Systems:
+The Name is 2 x DP-65, 55mm Small-Size Remotely Controlled Anti-Saboteur System.
+The Type is Small-Size Remotely Controlled Anti-Saboteur System.
+The Caliber is 55 mm.
+The Composition is The grenade launcher system comprises the launcher, remote control, power unit, and RG-55 grenades. The DP-65 is made of aluminium alloys. The system incorporates two packs of five launch tubes, while the launcher is fitted with electric drives of the elevating and the traversing gear, allowing the DP-65 to be controlled either remotely (at a range of up to 100 m) with the help of the remote control or manually..
+The Features is The control panel allows the operator to operate up to four DP-65 grenade launchers in turn. When combined with the Anapa-ME underwater anti-saboteur detection sonar, the grenade launcher can automatically detect, acquire, track, and kill the target. Based on sonar data, the launcher fires a salvo, or each launch tube independently. In the manual control mode, grenades are launched with the help of the autonomous power unit.
+
+The grenade launcher is equipped with locking devices, ensuring loading and unloading safety and blocking fire circuits in fire-free areas. The launcher is loaded manually.
+
+The DP-65 grenade launcher is mounted on large-displacement surface ships and vessels, as well as various coastal facilities. It can efficiently engage all types of contemporary frogman hardware.
+
+The DP-65 ammunition allowance includes the GRS-55 signal flare, and the RG-55M high-explosive grenade. The GRS-55 is designed to indicate the location of combat divers detected. It has the same weight, dimensions, and range of fire as the RG-55M. When hitting the water surface, the flare, pushed out of the body by a spring arrangement, surfaces and blazes for at least 50 seconds. RG-55M grenades are then launched at frogmen spotted, using the blazing flare as a reference point..
+The Length is INA.
+The Weight, Grenade Launcher Mount is 77 kg.
+The Weight, launch Tubes is 55 kg.
+The Weight, Control Panel is 30 kg.
+The Weight, Power Unit is 46 kg.
+The Number of Launch Tubes is 10.
+The Range of Fire is 500 m.
+
+Here is Ammunition information for the Igor Belousov-Class (Project 21300 Class) Russian Rescue Ship of the Auxiliary Weapon Systems:
+The Name is RG-55M.
+The Type is Grenade.
+The Caliber is 55.
+The Cartridge is INA.
+The Basic Load is 560 x RG-55M Grenades.
+
+Here is Radar Systems information for the Igor Belousov-Class (Project 21300 Class) Russian Rescue Ship:
+The Navigation Radar is 1 x MR-231 navigation radar and 1 x PAL-N3 navigation radar..
+
+Here is Sonar Systems information for the Igor Belousov-Class (Project 21300 Class) Russian Rescue Ship:
+The Mine Detection Sonar is 1 x Livadiya sonar..
+The Search Sonar is 1 x Folklor sonar..
+The Anti-Saboteur Sonar is 1 x  MG-757 Anapa-M anti-saboteur sonar..
+
+Here is Aviation information for the Igor Belousov-Class (Project 21300 Class) Russian Rescue Ship:
+The Aviation Facility is 1 x Helipad..
+
+Here is Protection information for the Igor Belousov-Class (Project 21300 Class) Russian Rescue Ship:
+The Hull is INA.
+The Countermeasures is No.
+The NBC Water Washdown System is Yes.
+

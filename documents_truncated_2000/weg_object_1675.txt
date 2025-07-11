@@ -1,0 +1,104 @@
+This document describes the Zumwalt Class American Guided Missile Destroyer.
+
+The Zumwalt-class destroyer is a class of three United States Navy guided missile destroyers designed as multi-mission stealth ships with a focus on land attack. It is a multi-role class that was designed for secondary roles of surface warfare and anti-aircraft warfare and originally designed with a primary role of naval gunfire support. It was intended to take the place of battleships in meeting a congressional mandate for naval fire support. The ship is designed around its two Advanced Gun Systems, their turrets and magazines, and unique Long Range Land Attack Projectile (LRLAP) ammunition. LRLAP procurement was cancelled, rendering the guns unusable, so the Navy re-purposed the ships for surface warfare. Procurement was halted after the first three Zumwalts, and the Navy reverted to building more Arleigh Burke destroyers. A National Review article by Mike Fredenburg calls the Zumwalts "an unmitigated disaster". The class design emerged from the DD-21 "land attack destroyer" program as "DD(X)".
+ 
+These ships are classed as destroyers, but they are much larger than any other active destroyer or cruiser. The vessels' distinctive appearance results from the design requirement for a low radar cross-section (RCS). The Zumwalt-class has a wave-piercing tumblehome hull form whose sides slope inward above the waterline, which dramatically reduces RCS by returning much less energy than a conventional flare hull form. The appearance has been compared to that of the historic USS Monitor and her famous antagonist CSS Virginia.
+
+The class has an integrated power system that can send electricity from its turbo-generators to the electric drive motors or weapons, the Total Ship Computing Environment Infrastructure (TSCEI), automated fire-fighting systems, and automated piping rupture isolation. The class is designed to require a smaller crew and to be less expensive to operate than comparable warships.
+ 
+The lead ship is named Zumwalt for Admiral Elmo Zumwalt and carries the hull number DDG-1000. Originally, 32 ships were planned, with $9.6 billion research and development costs spread across the class. As costs overran estimates, the quantity was reduced to 24, then to 7, and finally to 3, significantly increasing the cost per ship to $4.24 billion (excluding R&D costs) and well exceeding the per-unit cost of a nuclear-powered Virginia-class submarine ($2.688 billion). The dramatic per-unit cost increases eventually triggered a Nunn–McCurdy Amendment breach and cancellation of further production. In April 2016, the total program cost was $22.5 billion, with an average cost of $7.5 billion per ship.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the Zumwalt Class American Guided Missile Destroyer:
+The Alternative Designation is Zumwalt Class.
+The Type is Guided Missile Destroyer.
+The Builder is Bath Iron Works.
+The Crew is 175 (vessel - 147; Aviation - 28).
+The Note: is Original plan was for.
+
+Here is Dimensions information for the Zumwalt Class American Guided Missile Destroyer:
+The Length is 610.
+The Beam is 24.6.
+The Draft is 8.4.
+The Displacement, Standard is 15,656.
+
+Here is Propulsion System information for the Zumwalt Class American Guided Missile Destroyer:
+The Engine Name is 2 x Rolls Royce MT30.
+The Engine Type is 2 x Gas Turbine.
+The Engine Power is Rolls Royce RR4500 Turbine Generators.
+The Maximum Range is INA.
+The Maximum Speed is 56.
+The Note: is The "Zumwalts" use an Integrated Power System (IPS), which is a modern version of a Turbo-electric drive system. The IPS is a dual system, with each half consisting of a gas turbine prime mover directly coupled to an electrical generator, which in turn provides power for an electric motor that drives a propeller shaft. The system is "integrated" because the turbo-generators provide electrical power for all ship systems, not just the drive motors. The system provides much more available electrical power than is available in other types of ship..
+
+Here is Gun Weapon System #1 information for the Zumwalt Class American Guided Missile Destroyer of the Gun Weapon Systems:
+The Name is Mark 51.
+The Type is Advanced Gun System.
+The Caliber is 155.
+The Quantity is 300 rounds carried in each magazine.
+The Note: is This weapon system was halted in 2018 due the high cost of the ammunition..
+
+Here is Gun Weapon Systems #1 Ammunition information for the Zumwalt Class American Guided Missile Destroyer of the Gun Weapon Systems:
+The Type is LRLAP.
+The Caliber is 155.
+The Cartridge is INA.
+The Basic Load is 300.
+
+Here is Missile #1 information for the Zumwalt Class American Guided Missile Destroyer of the Missile Weapon System:
+The Name is Mark 57 Vertical Launch System (VLS).
+The Type is Surface-to-Air.
+The Launcher is Peripheral Vertical Launching System (PVLS).
+The Length is 4.33.
+The Height is 7.93.
+The Weight is 15240.
+The Note: is This launch system can also be used for the RIM-162 Evolved Sea Sparrow Missile, the RGM-109 Tomahawk and the RUM-139 VL-ASROC..
+
+Here is Missile #2 information for the Zumwalt Class American Guided Missile Destroyer of the Missile Weapon System:
+The Name is RIM-162 Evolved Sea Sparrow Missile (EMMS).
+The Type is Surface-to-Air.
+
+Here is Torpedoes information for the Zumwalt Class American Guided Missile Destroyer:
+The Name is Mark 32 Anti-Submarine Warfare.
+The Type is Torpedo.
+The Warhead is PBXN-103.
+The Weight is 43.9.
+The Range is 10.
+The Speed is 74.1.
+
+Here is Fire Control Systems information for the Zumwalt Class American Guided Missile Destroyer:
+The FCS Name is Naval Surface Fire Support Weapon Control System (NWCS).
+The Computerized FCS is INA.
+The Battle Management System is INA.
+
+Here is Aircraft information for the Zumwalt Class American Guided Missile Destroyer:
+The Helicopter is 2 x  Sikorsky MH-60R/S Seahawk.
+The Helicopter is 3 x  Northrup Grumman MQ-8 Fire Scout.
+
+Here is Radar Systems information for the Zumwalt Class American Guided Missile Destroyer:
+The Name is 1 x Raytheon AN/SPY-3 Multi-Function System.
+The Type is Navigation and Targeting.
+The Frequency is X-band (8-12 GHz Freq Range).
+The Range is 320.
+
+Here is AN/SQS-90 information for the Zumwalt Class American Guided Missile Destroyer of the Sonar Systems:
+The Name is AN/SQS-90.
+The Type is Dual Frequency, Hull-mounted suite sonar.
+
+Here is AN/SQS-60 information for the Zumwalt Class American Guided Missile Destroyer of the Sonar Systems:
+The Name is AN/SQS-60.
+The Type is Hull-mounted, Medium frequency sonar.
+
+Here is AN/SQS-61 information for the Zumwalt Class American Guided Missile Destroyer of the Sonar Systems:
+The Name is AN/SQS-61.
+The Type is Hull-mounted, High frequency sonar.
+
+Here is AN/SQR-20 information for the Zumwalt Class American Guided Missile Destroyer of the Sonar Systems:
+The Name is AN/SQR-20.
+The Type is Multifunction Towed Array sonar.
+
+Here is Protection information for the Zumwalt Class American Guided Missile Destroyer:
+The Active Protection System is INA.
+The Countermeasures #1 is 1 x AN/SLQ-25A Nixie Towed Torpedo Decoy.
+The Countermeasures #2 is 4 x Loral-Hycor MK 36 SRBOC Decoy Rocket Launchers (140 rounds).
+The Countermeasures #3 is 2 x MK 53 Nulka Automated Decoy Rocket Launching Systems using MK 137 Rocket Launchers.
+

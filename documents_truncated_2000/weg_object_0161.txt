@@ -1,0 +1,71 @@
+This document describes the SLC-2 Chinese Mobile Counter-Battery Radar.
+
+The SLC-2 Radar is a Chinese active electronically scanned array counter-battery radar designed to locate hostile artillery, rocket, and ground-to-ground missile launchers immediately after firing, and to support friendly artillery by guiding counter-battery fire.
+
+SLC-2 radar can also be applied in adjusting the firing of friendly weapons or rockets. With slight modification to software parameters, the radar can also be used to detect and track low flying targets such as light aircraft, helicopters, and RPVs.
+
+SLC-2 systems have sometimes been mounted on a Dongfang EQ2102 3.5-ton truck.
+
+Four AN/TPQ-37 Firefinder radars were sold to China, and these became the foundation of SLC-2 radar development. Aside from political reasons, the US$10 million plus unit price tag of TPQ-37 (including after-sale logistic support) was simply too costly for the Chinese. The decision was made to develop a domestic equivalent after mastering the technologies of TPQ-37. After the initial test of TPQ-37 in Tangshan (汤山) Range near Nanjing in 1988, and in Xuanhua District in October of the same year, several shortcomings of TPQ-37 were discovered and further intensive tests were conducted and completed 1994.
+
+The requirement of the Chinese domestic equivalent was subsequently modified to address these issues revealed in trials. Due to the limitation of the Chinese industrial capability at the time, the decision was made to develop the Chinese domestic equivalent in several steps. The first step was to develop a smaller one, which would result in the Chinese equivalent of AN/TPQ-36 Firefinder radar, and based on the experience gained from this program, a more capable larger version in the same class of AN/TPQ-37 Firefinder radar would be developed, which eventually resulted in SLC-2 series.
+
+As Chinese capability in microelectronics matured, an updated version of passive phased array Type 373 radar is developed, designated as SLC-2. This is a fully solid-state, highly digitized version that adopts a planar active phased array antenna.
+
+One of the shortcomings of TPQ-37 revealed in tests was in its multi-targeting capability. When enemy artillery batteries located more than two hundred meters apart fire simultaneously, TPQ-37 could provide accurate coordinates for distance, but coordinates for positions were less accurate. This would not be a problem for most users because TPQ-37 can be used in pairs in conjunction, providing accurate coordinates for locations. However, these costly radars could not be purchased in large numbers and China thus developed the capability for SLC-2 to provide accurate coordinates for both distance and position. Bangladesh Bought two in 2012.  Pakistan also operates a significant number of SLC-2 radars.
+
+This equipment has proliferated into the following countries: Bangladesh, China.
+
+Here is System information for the SLC-2 Chinese Mobile Counter-Battery Radar:
+The Alternative Designation is SLC-2.
+The Type is Mobile Counter-Battery Radar.
+The Manufacturer is Norinco.
+The In Service is 1994-Present.
+The Mission is SLC-2 radar can also be applied in adjusting firing of friendly weapons or rockets. With slight modification to software parameters the radar can also be used to detect and track low flying targets such as light aircraft, helicopters and RPVs..
+The Chassis is Dongfang EQ2102.
+The Crew is 1.
+The Configuration is 6x6.
+The Load is 5,000 kg (road); 3,500 kg (cross-country).
+The Towed Load is 4,800 kg.
+
+Here is Radar System information for the SLC-2 Chinese Mobile Counter-Battery Radar:
+The Bande is S - band.
+The Detection Range for Artillery is 35 km.
+The Detection Range for Rockets is 50 km.
+The Accuracy is 0.35% of range (for range more than 10 km); 35 m (for range less than 10 km).
+The Peak Power is 45 kW.
+The Noise is 3 dB.
+The Clutter Improvement Factor is 55 dB.
+The Additional Features is *Active phased array antenna with electronic scanning both in azimuth and elevation
+*Sophisticated computer-controlled digital signal processing
+*Comprehensive online or offline BITE
+*Automatic/manual height correction with digital/video map
+*Various effective ECCM
+*Tracking while scanning.
+
+Here is Dimensions information for the SLC-2 Chinese Mobile Counter-Battery Radar:
+The Length is 7,495mm.
+The Width is 2.470mm.
+The Height is 3.240m (with canvas and bow kit).
+The Weight, Without Winch is 6,920 kg.
+The Weight, With Winch is 7,120 kg.
+The Wheelbase is 3,475mm / 1,250mm.
+The Ground Clearance is 305mm.
+
+Here is Automotive information for the SLC-2 Chinese Mobile Counter-Battery Radar:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Cruising Range is INA.
+The Speed, Maximum Road is 90.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+
+Here is Protection information for the SLC-2 Chinese Mobile Counter-Battery Radar:
+The Armor is Protection from small arms and shell splinters.
+The Applique Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

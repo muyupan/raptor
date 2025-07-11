@@ -1,0 +1,66 @@
+This document describes the V-200 (Polonez) Belarusian Multiple Launch Rocket System (MLRS).
+
+The V-200 combat vehicle is armed with eight ready-to-launch 301 mm rockets in two four-cell containers. The vehicle's launching unit is based on an MZKT-7930-family 8x8 wheeled tractor developed by the Minsk Wheeled Tractor Plant (MZKT or Volat). The tractor has a crew of three and a maximum speed of 70 km/h. The system incorporates the V-200BM combat vehicle, the V-200TZM transport-loader and the V-200BMU upgraded command-and-control (C2) vehicle.
+
+This equipment has proliferated into the following countries: Belarus, CFE Treaty, Russian Federation.
+
+Here is Variants information for the V-200 (Polonez) Belarusian Multiple Launch Rocket System (MLRS):
+The V-200 (Polonez) is Base model with A200 rockets.
+The V-200M (Polonez-M) is Features A300 rockets and includes GPS/INS guidance and nose-mounted seeker for precision guidance at terminal phase, providing a CEP of 30 m and a range of 120 km to 290 km..
+The V-200BM (Polonez-BM) is Improvements to rocket range and performance..
+
+Here is System information for the V-200 (Polonez) Belarusian Multiple Launch Rocket System (MLRS):
+The Alternative Designation is V-200 Polonez.
+The Type is Special Wheeled Chassis.
+The Manufacturer is BelSpeltsVneshTechnika, Belarus and the Minsk Wheeled Tractor Plant (chassis build).
+The Crew is 4.
+The Chassis is MZKT-7930.
+
+Here is Dimensions information for the V-200 (Polonez) Belarusian Multiple Launch Rocket System (MLRS):
+The Length is 12.7.
+The Width is 3.00.
+The Height is 3.29.
+The Weight, Combat is 20.5.
+The Ground Pressure is INA.
+
+Here is Automotive information for the V-200 (Polonez) Belarusian Multiple Launch Rocket System (MLRS):
+The Engine Name is TMZ-8493.10.
+The Engine Type is Diesel.
+The Engine Power is 500.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 70.
+The Speed, Off Road is 35.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.
+The Fording Depth is 1.4.
+
+Here is System information for the V-200 (Polonez) Belarusian Multiple Launch Rocket System (MLRS) of the Missile:
+The Caliber is 301 mm.
+The Number of Tubes is 8.
+The Rocket Weight is 750 kg.
+The Warhead Weight is 100-150 kg.
+The Firing Range is 200 km (~290 km w/A300 rocket).
+The Full Salvo Duration is 50 sec.
+The Reloading Time is ~8 minutes.
+
+Here is Ammunition information for the V-200 (Polonez) Belarusian Multiple Launch Rocket System (MLRS) of the Missile:
+The A200 is The two-stage A-200 301 mm solid propellant rockets can be fitted with three different types of warheads, each weighing 140 kg. These warheads are HE, HE-frag, and fragmentation armor-piercing cluster (FSPC)..
+The A300 is The A300 rockets include GPS/INS guidance and nose-mounted seeker for precision guidance at terminal phase, providing a CEP of 30 m and a range of 120 km to 290 km..
+
+Here is Fire Control information for the V-200 (Polonez) Belarusian Multiple Launch Rocket System (MLRS):
+The Fire Control Computer is Digital.
+The GPS is Yes (GLONASS).
+
+Here is Protection information for the V-200 (Polonez) Belarusian Multiple Launch Rocket System (MLRS):
+The Hull Armor is It provides protection for the crew against small arms fire and artillery shell splinters. This vehicle lacks any defensive armament..
+The Applique Armor is Avaialble.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

@@ -1,0 +1,16 @@
+This document describes the DIM Russian Vehicle Mounted Mine Detector.
+
+The DIM is a large pulse-induction mine-detection device mounted to a light 4x4 truck.  The detection element fastens to a frame on the front of the vehicle.  When a mine is detected, the vehicle braking system is engaged and the clutch is disengaged.  The full-width detection head, located 2.6 meters from the vehicle’s front wheels to provide stopping distance, is divided into six components to pinpoint mine location.  The electronic system also displays which component of the mine-detector head the mine is under.  It also has attached rollers so that the head does not come in contact with ground objects.  Cross-country capability is very limited; therefore the DIM is generally used for clearing prepared surfaces.  The detection equipment swings upward to ride on the top of the vehicle cab for traveling.  When needed it is swung forward to rest on two wheels.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the DIM Russian Vehicle Mounted Mine Detector:
+The Alternative Designation is DIM.
+The Type is Vehicle Mounted Mine Detector.
+The Chassis is Used on a UAZ-469 or other light 4x4 vehicle.
+The Crew is 2.
+The Depth is 25ncm; 70ncm while fording.
+The Detection Ability is Can detect metallic mines in roadways, airfields, and other flat terrain..
+The Mounting/dismounting Time is Up to 7 min.
+The Operating Speed is 10.
+

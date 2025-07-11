@@ -1,0 +1,44 @@
+This document describes the ZALA VTOL Russian Unmanned Aerial Vehicle (UAV).
+
+The new unmanned system ZALA VTOL combines the best qualities of an airplane and tiltrotor drones. It has the ability to change the configuration depending on the conditions of the task being performed and provides a huge potential for monitoring and aerial photography of any hard-to-reach places and areal objects.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the ZALA VTOL Russian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is ZALA VTOL.
+The Type is Unmanned Aerial Vehicle UAV).
+The Manufacturer is Zala Aero Group.
+The Mission is The new unmanned system ZALA VTOL combines the best qualities of an airplane and tiltrotor drones. It has the ability to change the configuration depending on the conditions of the task being performed and provides a huge potential for monitoring and aerial photography of any hard-to-reach places and areal objects..
+The On-Board Computer is The computing power of the ZX1 on-board computer based on artificial intelligence makes it possible to process data in Full HD and transmit HD video and photos over encrypted communication channels to the ground control station, ensuring the effectiveness of monitoring even before the aircraft lands.
+The UAV of this class uses a built-in onboard computer that provides:
+video transmission in HD;
+the ability to record 3 channels of video in Full HD simultaneously;
+the ability to transmit 2 video streams simultaneously (VC+IR);
+automatic target tracking (AI)
+digital image stabilization;
+holding the position in space by video image in automatic mode without the presence of SNS;
+transfer photos (24 MP) or video of the report card in Full HD to the ground control station at the operator's command;
+500 GB encrypted solid-state drive..
+The Navigation System is Inertial navigation system with SNS correction (GPS/GLONASS) and two independent radio-range finders..
+The Operating Temperature is -40°С … +50°С.
+The Maximum Payload Capacity is 1.5 kg.
+The Launch Method is Pneumatic/mechanic catapult / Automatic.
+The Landing Method is Parachute, airbag / Automatic.
+
+Here is Dimensions information for the ZALA VTOL Russian Unmanned Aerial Vehicle (UAV):
+The Length is INA.
+The Wingspan is 2,815 mm.
+The Height is INA.
+The Takeoff Weight is 10.5 kg.
+The Maximum Payload Capacity is 1.5 kg.
+
+Here is Automotive information for the ZALA VTOL Russian Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Maximum Speed is 110 km/h.
+The Maximum Range is 50 + km.
+The Maximum Altitude is 2,000 km.
+The Operational Altitude is 100 - 2000 m.
+The Endurance is 4 hours.
+

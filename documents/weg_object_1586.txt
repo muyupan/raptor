@@ -1,0 +1,100 @@
+This document describes the Balzam-Class (Project 1826 Class) Russian Intelligence Collection Ship.
+
+Balzam-Class (Project 1826 Class) Russian Intelligence Collection Ship is a class of intelligence collection ships built in the Soviet Union for the Soviet Navy during the 1980s. They are also known as the Lira class, after the first vessel of the class.
+
+Built by the Yantar shipyard in Kaliningrad, they the first Soviet vessels specifically designed to gather SIGINT and COMINT electronic intelligence via an extensive array of sensors. The data could be transmitted to shore via satellite link antennas housed in two large radomes. They were the first Soviet AGIs to be armed, carrying one AK-630 CIWS gun system and Strela anti-aircraft missiles.
+
+The last remaining Balzam class ship in active service is 344 ft in length, mounting a Medium Frequency sonar, High Frequency dipping sonar, Electronic warfare gear to include jammers, interception devices, and code-breaking software. These ships were revolutionary when built-in that they carried not only intercept and direction-finding electronics but also the necessary computing power to feed raw signal data into onboard information processing computers.
+
+The ships have an underway replenishment system same as two four-round Strela-2M (SA-N-5 Grail) IR-Guided SAM's and a single six-barrelled 30 mm gun installed. The weapons rely on a single remote Kolonka pedestal director instead of fire control radars, presumably to avoid interfering with the electronic support suite.[
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Balzam-Class (Project 1826 Class) Russian Intelligence Collection Ship:
+The Lira is Commissioned: 1980
+Status: Decommissioned in 1997
+Fleet: Northern Fleet.
+The Azia is Commissioned: 1981
+Status: In Reserve 
+Fleet: Pacific Fleet.
+The Pribaltica is Commissioned: 1984
+Status: Active
+Fleet: Pacific Fleet.
+The Belomore is Commissioned: 1987
+Status: Active
+Fleet: Northern Fleet.
+
+Here is System information for the Balzam-Class (Project 1826 Class) Russian Intelligence Collection Ship:
+The Alternative Designation is Balzam-Class; Project 1826 Class.
+The Type is Intelligence Collection Ship.
+The Builder is Yantar Zavod 820, Kaliningrad, Russia.
+The Crew is 189.
+The Passengers is 31.
+
+Here is Dimensions information for the Balzam-Class (Project 1826 Class) Russian Intelligence Collection Ship:
+The Length is 105.0 m.
+The Beam is 15.5 m.
+The Draft is 5.6 m.
+The Displacement, Standard is 3,100 tons.
+The Displacement, Full Load is 4,900 tons.
+
+Here is Propulsion System information for the Balzam-Class (Project 1826 Class) Russian Intelligence Collection Ship:
+The Engine Name is 2 x Type 58E.
+The Engine Type is Diesel.
+The Engine Power is 9,000 total bhp.
+The Maximum Range is 7,000 nm at 16 knots; 10,000 nm at 14 knots.
+The Maximum Speed is 22 knots.
+The Sustained Speed is 20 knots.
+The Endurance is 60 days.
+
+Here is Communications information for the Balzam-Class (Project 1826 Class) Russian Intelligence Collection Ship:
+The Satellite Transmitting and Receiving Antennas is Two large radomes are thought to house satellite transmitting and receiving antennas..
+The Note is The ships are equipped with an array of intercept and direction-finding antennas that provide raw intelligence data to onboard analysis and processing equipment. Processed information are sent via the two satellite transmitting and receiving antennas to shore stations or the flagships of surface battle groups for immediate action..
+
+Here is Gun Weapon System #1 information for the Balzam-Class (Project 1826 Class) Russian Intelligence Collection Ship of the Gun Weapon Systems:
+The Name is 1 x AK-306 30mm Automatic Naval Gun.
+The Type is Automatic Naval Gun.
+The Caliber is 30 mm.
+The Barrel Length is INA.
+The Weight is 1,100 kg.
+The Barrels is 6.
+The Elevation is -12 deg to +85 deg.
+The Traverse is -180 deg to +180 deg.
+The Rate of Fire is 1,000 rounds a minute.
+The Maximum Firing Range is 5,000 m.
+The Feed System is Continuous, belt loading. 500 Round (in magazine)..
+
+Here is Gun Weapon Systems #1 Ammunition information for the Balzam-Class (Project 1826 Class) Russian Intelligence Collection Ship of the Gun Weapon Systems:
+The Type is HEI-Frag, Frag-T.
+The Caliber is 30 mm.
+The Shell Weight is 0.39 kg.
+The Basic Load is INA.
+
+Here is Missile #1 information for the Balzam-Class (Project 1826 Class) Russian Intelligence Collection Ship of the Missile Weapon System:
+The Name is 16 x 9K34 Strela-3 Surface-to-Air Missile System.
+The Type is Surface-to-Air Missile System.
+The Launcher is 2 x Quad SA-N-5 Grail Missile  Launchers.
+The Length is 1.47 m.
+The Weight is 10.3 kg.
+The Operational Range is 4,500 m.
+The Maximum Speed is 470 m/s.
+The Flight Altitude is 1,800 meters vs jets;
+3,000 meters vs slow moving targets..
+The Basic Load is 16 x Strela-3 Surface-to-Air Missile System.
+
+Here is Radar Systems information for the Balzam-Class (Project 1826 Class) Russian Intelligence Collection Ship:
+The Navigation Radar is 2 x Volga (Don-Kay) navigation radars..
+
+Here is Sonar Systems information for the Balzam-Class (Project 1826 Class) Russian Intelligence Collection Ship:
+The Medium-Frequency Hull-Mounted Sonar is 1 x UZH MG-349 Medium-Frequency Hull-Mounted Sonar..
+The High-Frequency Dipping Sonar is 1 x UZH High-Frequency Dipping Sonar..
+
+Here is Protection information for the Balzam-Class (Project 1826 Class) Russian Intelligence Collection Ship:
+The Hull is INA.
+The Countermeasures is No.
+The NBC Water Washdown System is Yes.
+The EW Radio Direction Finding Systems is 1 x Twin Wheel direction-finding system and 1 x Log Maze** direction-finding system..
+The EW Medium-Frequency Direction Finding System is 1 x Cross Loop A MFD/F System..
+The EW High-Frequency Direction Finding System is 1 x High Ring-C HFD/F System..
+The EW Very High-Frequency Direction Finding System is 1 x Park Plinth** VHFD/F System.
+

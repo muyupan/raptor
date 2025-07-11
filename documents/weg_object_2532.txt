@@ -1,0 +1,62 @@
+This document describes the SandCat Gen 2 Israeli 4x4 Light Armored Vehicle.
+
+SandCat, Plasan’s family of 4X4 armored vehicles, offers the flexibility and robustness needed for every defense and security mission. While providing high-end protection, SandCat maintains its maneuverability and agility, even when equipped with surveillance and communications systems. The SandCat family has been designed to support a wide range of challenges and missions including: law enforcement, Special Forces, homeland security, border patrol and armed conflicts. SandCats are also used to transport troops, as a command and control centers, and to transport VIPs though conflict zones. To date, there are over 15 variants of SandCats, tailored to meet specific field conditions.
+
+This equipment has proliferated into the following countries: Azerbaijan, Bulgaria, Canada, CFE Treaty, Colombia, Israel, Kazakhstan, Mexico, Nigeria, Poland, Romania, South Korea (Republic of Korea), Sweden, Ukraine, United States of America.
+
+Here is Variants information for the SandCat Gen 2 Israeli 4x4 Light Armored Vehicle:
+The SandCat Gen 1 is The SandCat Gen 1 is the original variant of the SandCat family. Very few of the vehicles were produced and the main users are the Swedish police and some elements of Israel’s special forces and border forces..
+The SandCat Gen 2 is The SandCat Gen 2 series was really the first production standard SandCat. It is similar to the Gen 1 and features moderate changes to the automotive components and external appearance..
+The SandCat Gen 3 is The SandCat Gen 3 followed an upgrade to the commercial chassis and was originally aimed at police force, it improves on the payload of the Gen 2 platforms and mobility and the chassis can be used to accommodate alternative weapon systems..
+The SandCat, Tank Destroyer is The SandCat Gen 3 can be configured – in its flatbed configuration – to perform as a tank destroyer. For this the rear of the vehicle is modified to accommodate a guided missile launcher and storage for additional missiles..
+The SandCat, Indirect fire support is The SandCat Gen 3 can also be configured – in its flatbed configuration – as an indirect fire support vehicle. For this role it is fitted with a mortar that is mounted on the flatbed at the rear of the hull. The mortar fires over the rear of the vehicle and the cab is retained from the Gen 3 design..
+The SandCat Granite is The IDF’s SandCat Granite is a Gen2 SandCat fitted out with an ELTA-supplied intelligence gathering sensor suite..
+
+Here is System information for the SandCat Gen 2 Israeli 4x4 Light Armored Vehicle:
+The Alternative Designation is SandCat Stormer; Caracal.
+The Type is Light Armored Vehicle.
+The Manufacturer is Plasan / Oshkosh Corporation / IBN Industrias Militares/IBN Military Industries.
+The Configuration is 4x4.
+The Family is SandCat.
+The Crew is 2+3 (can be 2+6 in transport configuration).
+The Payload Capacity is 2,109 kg.
+
+Here is Dimensions information for the SandCat Gen 2 Israeli 4x4 Light Armored Vehicle:
+The Length is 5.046 m.
+The Width is 2.16 m.
+The Height is 2.251 m.
+The Wheelbase is 2.946 m.
+The Weight, Standard is 6,033 kg.
+The Weight, Combat is 8,845 kg.
+
+Here is Automotive information for the SandCat Gen 2 Israeli 4x4 Light Armored Vehicle:
+The Engine Name is INA.
+The Engine Type is 6.7 L Power Stroke diesel.
+The Engine Power is 325.
+The Power-to-Weight Ratio is 37hp/t.
+The Fuel Capacity is 120 liters.
+The Gearbox is TorqShift, Automatic Fwd: 5, Rev: 1.
+The Differentials is optional front ARB air-locking differential and with limited slip differential on rear as standard.
+The Steering is hydraulic power-assistance, re-circulating ball steering.
+The Brakes is ventilated discs front and rear with ABS.
+The Suspension is coil springs and shock-absorbers (front); leaf springs and shock-absorbers (rear); uprated as required.
+The Electrical System is 12V (24 V as an option).
+The Alternator is 1 × 12V (and 1 × 24 V).
+The Maximum Speed is 100 km/h.
+The Range is 500 km.
+The Angle of Approach is 38°.
+The Angle of Departure is 30°.
+The Gradient is 60%.
+The Side Slope is 39%.
+The Vertical Obstacle is 0.457m.
+The Turning Radius is 6.5m.
+
+Here is Main Weapon System information for the SandCat Gen 2 Israeli 4x4 Light Armored Vehicle:
+The Note is A variety of weapon systems are available for the Gen 2 vehicles, the Bulgarian vehicles are thought to have a roof hatch and swivel mounted PKM MG for instance. Whereas other Bulgarian vehicles are fitted with an Elbit ROWS, which can accommodate either a 12.7 mm M2HB heavy MG or a 7.62 mm general-purpose MG..
+
+Here is Protection information for the SandCat Gen 2 Israeli 4x4 Light Armored Vehicle:
+The Hull Armor is With the armor kits, the vehicle can provide protection equivalent to NATO Standard Agreement (STANAG) level 4 for improvised explosive device (IED) fragments; level 3+ for kinetic energy; and level 2a for mine-blast protection..
+The Applique Armor is Additional protection can be provided in the form of Ultra Fence textile RPG armour, which is compatible with all SandCat variants, however it is unclear if it is in use..
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

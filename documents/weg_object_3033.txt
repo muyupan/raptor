@@ -1,0 +1,32 @@
+This document describes the MARS A-800 Russian Unmanned Ground Logistics Vehicle.
+
+MARS A-800 (Mobile Autonomous Robotic System) is the tracked Unmanned Ground Vehicle. For the first time it was presented at the RAE-2015 exhibition within the framework of the stand organized by the Skolkovo Foundation.
+
+MARS A-800 is designed to support infantry, carry out transport and logistics and other missions. The system can carry up to 6 people, transport a different cargo, including ammunition. MARS A-800 can be equipped with various special equipment and weapons.
+
+Key scenarios:
+"Follow me". Operator MARS A-800 fixes on its equipment an active mark. The platform tracks the movement of the label and follows it. The settings select the nature of the movement and the distance to the master. During the movement, the system independently routes the route, circling the obstacles encountered.
+"Track". It is carried out by target designation on a map or by pre-stored points. In this mode, the MARS A-800 can autonomously deliver cargo (food, ammunition), evacuate the wounded, conduct reconnaissance.
+"Cyclic Incoming". Cyclical movement along a predetermined route, observation and detection of targets, tracking of data from video cameras and radar.
+"Telecontrol". The platform can be remotely controlled by the operator from the console. This possibility is necessary in a number of situations, such as training, overcoming complex obstacles, loading/unloading, etc.
+
+MARS A-800 is created on the Russian manufactured tracked floating chassis. The platform has an engine capacity of up to 65 hp, which allows to reach speeds of up to 35 km/h and carry up to 500 kg of payload. Power reserve as standard - up to 200 km. If the fuel tank is equipped with an increased capacity, the power reserve may increase to 500 km. It is possible to drop the UGV with a parachute system.
+
+The built-in generator can be used to supply power to the camp or to recharge the batteries of special equipment.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Dimensions information for the MARS A-800 Russian Unmanned Ground Logistics Vehicle of the System:
+The Length is 3000 mm.
+The Width is 2150 mm.
+The Height is 1270 mm.
+The Weight is 1450 kg.
+
+Here is Automotive information for the MARS A-800 Russian Unmanned Ground Logistics Vehicle:
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is 65 hp.
+The Maximum Road Speed is 35 km/h.
+The Maximum Water Speed is 5 km/h.
+The Maximum Range is 200 km.
+

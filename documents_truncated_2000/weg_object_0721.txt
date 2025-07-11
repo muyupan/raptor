@@ -1,0 +1,107 @@
+This document describes the WZ-523 (Type 93) Chinese 6x6 Amphibious Armored Personnel Carrier (APC).
+
+The WZ-523 (NATO reporting name M1984) is a six-wheeled Chinese armored personnel carrier designed to be amphibious. Built on the chassis of the Hanyang HY472 truck, it can carry a crew of three and seat up to eight additional passengers. Two primary models were produced—one with a roof-mounted 12.7mm heavy machine gun, and the other with a small turret armed with a 35mm grenade launcher and a 7.62mm co-axial general purpose machine gun. An export model that entered service in 2008 as a fire support vehicle was also marketed successfully to the Namibian Army; this is armed with a 73mm 2A28 Grom smoothbore cannon in exactly the same turret as used on the Soviet BMP-1 infantry fighting vehicle.
+
+The WZ-523 was unveiled at a military parade in Beijing in October 1984, gaining the NATO designation M1984, although it was destined for export and did not enter large scale service with the People's Liberation Army (PLA). An internal security vehicle based on the WZ-523, the ZFB-91, which has a turret armed with a 35 mm grenade launcher and a 7.62 mm machine gun replacing the roof mounted 12.7 mm anti-aircraft machine gun of the WZ-523, is in service with PLA units in Hong Kong and Macau.
+
+When the WZ-523 was first exhibited publicly, there were many observations by international defence analysts regarding its design origins. Although the hull design resembled that of the South African Sandock-Austral Ratel infantry fighting vehicle, subsequent studies have found that while there may have been some South African influence the WZ-523 has many unique characteristics in overall dimensions and technical features. For example, its driving compartment is somewhat reminiscent of the BTR-60, with a single passenger seated next to the driver.The location of the turret ring is also similar that of the BTR-60 series rather than the Ratel, being located near the hull center.
+
+The People's Liberation Army has deployed the WZ-523 primarily for reconnaissance purposes, and for specialized tasks involving artillery and combat support units. Despite being designed as an armored personnel carrier, it was not adopted by Chinese mechanized or motorized infantry forces.
+
+Outside of China, Sudan's Military Industry Corporation also produces the WZ-523 under license.
+
+This equipment has proliferated into the following countries: Chad, China, Ethiopia, Gabon, Ghana, Namibia, Niger, Sudan.
+
+Here is Variants information for the WZ-523 (Type 93) Chinese 6x6 Amphibious Armored Personnel Carrier (APC):
+The Type 91 (ZFB-91) is This internal security vehicle variant was developed in 1991. It is fitted with a one-man turret, 35-mm automatic grenade launcher with tear gas grenades, coaxial 7.62-mm machine gun, flash lights, searchlight and siren. An obstacle-clearing blade is mounted at the front of the hull..
+The Type 93 (ZSL-93) is This was a finalized version of the WZ 523 proposed for the PLA. It was not accepted into service..
+The Type 05P is This is an upgraded variant being marketed by Beijing-headquartered PolyTechnologies. It has been shown armed with a one-man turret equipped with a 12.7-mm machine gun..
+
+Here is System information for the WZ-523 (Type 93) Chinese 6x6 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is NATO Reporting Name M1984.
+The Type is Armored Personnel Carrier (APC).
+The Crew is 2.
+The Troop Compartment Capacity is 10.
+The Maximum Effective Range is 600.
+The Water Jets is 2.
+The Undercarriage is Six tires with a two-tire axle at the front below the driver's compartment and a group of four tires at the rear below the troop bay..
+The Front-Mounted Trim Vane is Yes.
+
+Here is Dimensions information for the WZ-523 (Type 93) Chinese 6x6 Amphibious Armored Personnel Carrier (APC):
+The Length is 6.02.
+The Width is 2.55.
+The Height is 2.73.
+The Weight, Combat is 11,700.
+
+Here is Automotive information for the WZ-523 (Type 93) Chinese 6x6 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is Water-Cooled YC6A240-10 Diesel Engine.
+The Engine Type is Diesel.
+The Engine Power is 214.
+The Power to Weight Ration is 18.29.
+The Fuel Capacity is 255.
+The Cruising Range is 600.
+The Speed, Maximum Road is 90.
+The Speed, Average Cross is 80.
+The Speed, Maximum Swim is 4.
+The Fording is Amphibious.
+The Suspension is Wheeled 6x6.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical step is 0.5.
+The Trench is 0.6.
+
+Here is Communications information for the WZ-523 (Type 93) Chinese 6x6 Amphibious Armored Personnel Carrier (APC):
+The Primary Radio is A220.
+The Secondary Radio is VRC 83.
+The Intercom System is Type 803.
+
+Here is System information for the WZ-523 (Type 93) Chinese 6x6 Amphibious Armored Personnel Carrier (APC) of the Main Gun:
+The Name is Type 54 (DShKM).
+The Type is 12.7 mm Type 54 Heavy Machine Gun.
+The Proliferation is over 1 Million.
+The Length is 1,625.
+The Barrel Length is 1,070.
+The Weight (Gun Only) is 34.
+The Weight (On Wheeled Mounting) is 157.
+The Rate of Fire is 600.
+The Action is Gas-Operated, Flapper Locking.
+The Feed System is 50 Round Belt.
+The Sights is Iron/Optical.
+The Variants is DK, DShKM, DSHKS, Type 54 HMG.
+The Turret is Single seat and placed at the rear of the vehicle roof. It is sharp-pointed at the front..
+
+Here is Ammunition information for the WZ-523 (Type 93) Chinese 6x6 Amphibious Armored Personnel Carrier (APC) of the Main Gun:
+The Type is Heavy machine gun and anti-materiel rifle cartridge.
+The Caliber is 12.7x108.
+The Muzzle Velocity is 850.
+The Number of Rounds is 1,200.
+The Max Range is 2,500.
+The Effective Firing Range is 2,000.
+The Armor Penetration is API: 21mm at 500 m & 13mm at 1000 m (RHA).
+
+Here is Fire Control information for the WZ-523 (Type 93) Chinese 6x6 Amphibious Armored Personnel Carrier (APC):
+The Computerized FCS is INA.
+The Thermal Driver is Yes.
+The Thermal Tank Commander is Yes.
+The Thermal Gunner is Yes.
+The Main Fun Stabilization is INA.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is INA.
+The IFF is INA.
+The Periscope is Image-Intensification.
+
+Here is Protection information for the WZ-523 (Type 93) Chinese 6x6 Amphibious Armored Personnel Carrier (APC):
+The Armor Type is Welded Steel.
+The Hull Armor (Front) is 20.
+The Hull Armor (Sides) is 14.
+The Hull Armor (Rear) is 6.
+The Front Hull Type is Bulldozer Blade.
+The Explosive Reactive Armor is No.
+The Applique Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 3 each side.
+The Hinged Armoured Shutters is Yes.
+

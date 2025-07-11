@@ -1,0 +1,96 @@
+This document describes the Matrice 300 RTK Chinese Unmanned Aerial Vehicle (UAV).
+
+The Matrice 300 RTK is a new commercial DJI drone. It is the top of the line of DJI Matrice series professional and commercial drones. It establishes a high standard for performance and capability in industrial and public safety applications by combining intelligence with high-performance and unrivaled reliability. The Matrice 300 RTK uses advanced ai capabilities and 6 Directional Sensing & Positioning for superb functionality and usability.
+
+This equipment has proliferated into the following countries: China, Ukraine.
+
+Here is System information for the Matrice 300 RTK Chinese Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Matrice 300 RTK.
+The Type is Vertical Take-Off and Landing (VTOL).
+The Manufacturer is DJI.
+The Crew is Unmanned.
+The Single Gimbal Damper’s Max Payload is 930 g.
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+The Operating Frequency is 2.4000-2.4835 GHz
+5.725-5.850 GHz.
+The EIRP is 2.4000-2.4835 GHz:
+29.5 dBm (FCC); 18.5dBm (CE)
+18.5 dBm (SRRC); 18.5dBm (MIC)
+
+5.725-5.850 GHz:
+28.5 dBm (FCC); 12.5dBm (CE)
+28.5 dBm (SRRC).
+The Hovering Accuracy (P-mode with GPS) is Vertical:
+±0.1 m (Vision System enabled)
+±0.5 m (GPS enabled)
+±0.1 m (RTK enabled)
+
+Horizontal:
+±0.3 m (Vision System enabled)
+±1.5 m (GPS enabled)
+±0.1 m (RTK enabled).
+The RTK Positioning Accuracy is When RTK enabled and fixed:
+1 cm+1 ppm (Horizontal)
+1.5 cm + 1 ppm (Vertical).
+The GNSS is GPS+GLONASS+BeiDou+Galileo.
+The Operating Temperature is -20°C to 50°C (-4°F to 122° F).
+The Supported DJI Gimbals is Zenmuse XT2/XT S/Z30/H20/H20T/DJI P1/DJI L1.
+The Supported Gimbal Configurations is Single Downward Gimbal, Dual Downward Gimbals, Single Upward Gimbal, Upward and Downward Gimbals, Triple Gimbals.
+The Ingress Protection Rating is IP45.
+
+Here is Remote Controller information for the Matrice 300 RTK Chinese Unmanned Aerial Vehicle (UAV):
+The Operating Frequency is 2.4000-2.4835 GHz; 
+5.725-5.850 GHz.
+The Max Transmitting Distance (unobstructed, free of interference) is NCC/FCC: 15 km;
+CE/MIC: 8 km;
+SRRC: 8 km.
+The EIRP is 2.4000-2.4835 GHz:
+29.5 dBm (FCC) 18.5dBm (CE)
+18.5 dBm (SRRC); 18.5dBm (MIC).
+The External battery is Name: WB37 Intelligent Battery
+Capacity: 4920 mAh
+Voltage: 7.6V
+Type: LiPo
+Energy: 37.39Wh
+Charging time (using BS60 Intelligent Battery Station): 70 minutes (15°C to 45°C); 130 minutes (0°C to 15°C).
+The Built-in battery is Type: 18650 lithium ion battery (5000 mAh @ 7.2 V)
+Charging: Use a USB charger with specification of 12V / 2A
+Rated power: 17 W
+Charging time: 2 hours and 15 minutes (Using a USB charger with specification of 12V / 2A).
+The Battery Life is Built-in battery: Approx. 2.5h
+Built-in battery+External battery: Approx. 4.5h.
+The USB Power Supply is 5 V / 1.5 A.
+The Operating Temperature is -20°C to 40°C (-4 °F to 104 °F).
+
+Here is Unfolded information for the Matrice 300 RTK Chinese Unmanned Aerial Vehicle (UAV) of the Dimensions:
+The Length is 810 mm.
+The Width is 670 mm.
+The Height is 430 mm.
+
+Here is Folded information for the Matrice 300 RTK Chinese Unmanned Aerial Vehicle (UAV) of the Dimensions:
+The Length is 430 mm.
+The Width is 420 mm.
+The Height is 430 mm.
+
+Here is Weight information for the Matrice 300 RTK Chinese Unmanned Aerial Vehicle (UAV) of the Dimensions:
+The Weight (with single downward gimbal) is 3.6 kg (without batteries); 6.3 kg (with two TB60 batteries).
+The Maximum Takeoff Weight is 9 kg.
+
+Here is Automotive information for the Matrice 300 RTK Chinese Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Max Angular Velocity is Pitch: 300°/s, Yaw: 100°/s.
+The Max Pitch Angle is 30° (P-mode, Forward Vision System enabled: 25°).
+The Max Ascent Speed is S mode: 6 m/s
+P mode：5 m/s.
+The Max Descent Speed (vertical) is S mode: 5 m/s
+P mode：4 m/s.
+The Max Descent Speed (tilt) is S Mode: 7 m/s.
+The Max Speed is S mode: 23 m/s
+P mode：17 m/s.
+The Service Ceiling Above Sea Level is 5000 m (with 2110 propellers, takeoff weight ≤ 7 kg) / 7000 m (with 2195 propellers, takeoff weight ≤ 7 kg).
+The Max Wind Resistance is Max Wind Resistance 15 m/s (12 m/s when taking off or landing).
+The Max Flight Time is 55 min.
+

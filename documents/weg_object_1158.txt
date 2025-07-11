@@ -1,0 +1,58 @@
+This document describes the JRTC VISMOD: Ural-375 Russian 6x6 Fuel Truck.
+
+The Ural-375 is a general purpose 4.5 ton 6Ã6 truck, produced at the Ural Automotive Plant in the Russian SFSR since 1961. The Ural 375 replaced the ZIL-157 as the standard Soviet Army truck in 1979. It was itself replaced by the Ural-4320.
+
+The Soviets found the trucks an ideal platform for the BM-21 Grad rocket launcher. Other modes for the Ural-375D included troop carrier, supply carrier, etc.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea), Russian Federation.
+
+Here is Variants information for the JRTC VISMOD: Ural-375 Russian 6x6 Fuel Truck:
+The Ural-375A is Ural-375A has a fully enclosed all-steel cab, was a chassis for wagon-style body, payload 12,787 lb (5,800 kg), framework shortened to 13.2'.
+The Ural-375D is Ural-375D Most produced 375..
+The Ural-375E KET-L is Ural-375E KET-L was a recovery vehicle equipped a front-mounted and a rear-mounted winch along with a jib crane..
+The Ural-375S is Ural-375S was a tractor-trailer truck with framework shortened to 5.3'..
+The Ural-377 is Ural-377-civilian 6Ã4 truck.
+The Ural-377S is Ural-377S was a civilian 6Ã4 tractor-trailer..
+
+Here is System information for the JRTC VISMOD: Ural-375 Russian 6x6 Fuel Truck:
+The Alternative Designation is NA.
+The Type is 6x6 General-Purpose Cargo Truck.
+The Manufacturer is Ural Automobile Plant, Miass.
+The Cab Capacity is 1 driver, 1 passenger.
+The Passenger Capacity is INA.
+The Payload Capacity is 4500 kg (plus trailer: 22,050 lb, 10,002 kg).
+
+Here is Dimensions information for the JRTC VISMOD: Ural-375 Russian 6x6 Fuel Truck:
+The Length is 7.35.
+The Width is 2.96.
+The Height is 2.98.
+The Weight, Empty is 8.
+The Payload Capacity is 5.
+The Ford is 1.5.
+The Ground Clearance is INA.
+
+Here is Automotive information for the JRTC VISMOD: Ural-375 Russian 6x6 Fuel Truck:
+The Engine Name is 7.0L ZIL-375YA V8.
+The Engine Type is Petrol.
+The Engine Power is 180.
+The Cruising Range is 750.
+The Speed, Maximum Road is 76.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 65%.
+The Side Slope is 40%.
+The Vertical Step is 0.8.
+The Trench is 0.7.
+The Fording Depth is 1.2.
+The Suspension is Solid axles, leaf springs, rear wheels at balance-cart..
+The Fuel Capacity is 79 gallon tank and 16 gallon tank.
+The Fuel Economy is 4.9 mpg (19-25 mph), 2.94 mpg (city).
+
+Here is Protection information for the JRTC VISMOD: Ural-375 Russian 6x6 Fuel Truck:
+The Armor is Protection from small arms fire and shell splinters.
+The Applique Armor is INA.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

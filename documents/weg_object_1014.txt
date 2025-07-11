@@ -1,0 +1,79 @@
+This document describes the Mirage III French Fighter Aircraft.
+
+The Dassault Mirage III (French pronunciation: ​[miʁaʒ]) is a family of single-seat, single-engine, fighter aircraft developed and manufactured by French aircraft company Dassault Aviation. It was the first Western European combat aircraft to exceed Mach 2 in horizontal flight.
+
+During 1952, the French government issued its specification, calling for a lightweight, all-weather interceptor. Amongst the respondents were Dassault with their design, initially known as the Mirage I. Following favourable flight testing held during 1954, in which speeds of up to Mach 1.6 were attained, it was decided that a larger follow-on aircraft would be required to bear the necessary equipment and payloads. An enlarged Mirage II proposal was considered, as well as MD 610 Cavalier (3 versions), but was discarded in favour of a further-developed design, powered by the newly developed Snecma Atar afterburning turbojet engine, designated as the Mirage III. During October 1960, the first major production model, designated as the Mirage IIIC, performed its maiden flight. Initial operational deliveries of this model commenced during July 1961; a total of 95 Mirage IIICs were obtained by the French Air Force (Armée de l'Air, AdA). The Mirage IIIC was rapidly followed by numerous other variants.
+
+The Mirage III was produced in large numbers for both the French Air Force and a wide number of export customers. Prominent overseas operators of the fighter included Argentina, Australia, South Africa, Pakistan and Israel, as well as a number of non-aligned nations. Often considered to be a second-generation fighter aircraft, the Mirage III experienced a lengthy service life with several of these operators; for some time, the type remained a fairly maneuverable aircraft and an effective opponent when engaged in close-range dogfighting. During its service with the French Air Force, the Mirage III was normally armed with assorted air-to-ground ordnance or R.550 Magic air-to-air missiles. Its design proved to be relatively versatile, allowing the fighter model to have been readily adapted to serve in a variety of roles, including trainer, reconnaissance and ground-attack versions, along with several more extensive derivatives of the aircraft, including the Dassault Mirage 5, Dassault Mirage IIIV and Atlas Cheetah. Some operators have undertaken extensive modification and upgrade programmes of their flights, such as Project ROSE of the Pakistan Air Force.
+
+The Mirage III has been used in active combat roles in multiple conflicts by a number of operators. The Israeli Air Force was perhaps the most prolific operator of the fighter outside of France itself; Israel deployed their Mirage IIIs during both the Six-Day War, where it was used as both an air superiority and strike aircraft, and the Yom Kippur War, during which it was used exclusively in air-to-air combat in conjunction with the IAI Nesher, an Israeli-built derivative of the Mirage 5. Ace of ace Giora Epstein achieved all of his kills flying either the Mirage III or the Nesher. During the South African Border War, the Mirage III formed the bulk of the South African Air Force's fleet, comprising a cluster of Mirage IIICZ interceptors, Mirage IIIEZ fighter-bombers and Mirage IIIRZ reconnaissance fighters; following the introduction of the newer Mirage F1, the type was dedicated to secondary roles in the conflict, such as daytime interception, base security, reconnaissance and training. The Argentine Air Force utilised the Mirage IIIEA during the Falklands War, but their lack of an aerial refueling capability limited their usefulness in the conflict. Even using drop tanks, the Mirages only had an endurance of five minutes within the combat area around the British fleet.
+
+This equipment has proliferated into the following countries: Pakistan.
+
+Here is Engines information for the Mirage III French Fighter Aircraft of the System:
+The 6,200 lbs. thrust SNECMA Atar 9C turbojet with afterburner (Mirage III/5) is 1.
+The 7,200 lbs. thrust SNECMA Atar 9K50 turbojet, afterburner (Mirage 50) is 1.
+
+Here is Weight (kg) information for the Mirage III French Fighter Aircraft of the System:
+The Max Takeoff is 13,500.
+The Empty is 7,050.
+
+Here is Speed (km/h) information for the Mirage III French Fighter Aircraft of the System:
+The Max (at altitude) is 2,350, Mach 2.2.
+The Max (sea level) is 1,390, Mach 1.1.
+
+Here is Ceiling (m) information for the Mirage III French Fighter Aircraft of the System:
+The Mirage III is 17,000.
+The Mirage 5 is 17,000.
+The Mirage 50 is 18,000.
+
+Here is Fuel (liters) information for the Mirage III French Fighter Aircraft of the System:
+The Internal is 3,330.
+The External (III/5/50) is 1,700/ 1,200/ 1,700.
+
+Here is Range (km) information for the Mirage III French Fighter Aircraft of the System:
+The Ferry is 4,000.
+
+Here is Dimensions (m) information for the Mirage III French Fighter Aircraft of the System:
+The Wingspan is 8.3.
+The Height (gear extended) is 4.3.
+
+Here is Survivability/Countermeasures information for the Mirage III French Fighter Aircraft of the System:
+The Martin-Baker zero/267 km/h ejection seat is Yes.
+The Separate cockpit and avionics air conditioning systems is Yes.
+The Radar warning receiver is Yes.
+
+Here is Weapon & Ammunition Types information for the Mirage III French Fighter Aircraft of the ARMAMENT:
+The 30-mm cannon is 125.
+The Bombs is 12.
+The 125 kg /250 kg is 6.
+The 440 kg is 10.
+The Rocket Pods is 1,967.
+The 68-mm or 100-mm is 2.
+The 2 x 30-mm Cannon Pods (rnds ea.) is 250.
+
+Here is Night/Weather Capabilities information for the Mirage III French Fighter Aircraft of the AVIONICS/SENSOR/OPTICS:
+The All-weather, day and night capable is (III/5).
+The Clear-weather day fighter is (50).
+
+Here is MIRAGE IIIA information for the Mirage III French Fighter Aircraft of the VARIANTS:
+The Description is HIGH ALTITUDE INTERCEPTOR AND STRIKE AIRCRAFT FITTED WITH ROCKET MOTOR FOR TAKE-OFF..
+
+Here is MIRAGE IIIB information for the Mirage III French Fighter Aircraft of the VARIANTS:
+The Description is TWO-SEAT TRAINER VERSION OF IIIA WITH STRIKE CAPABILITY RETAINED NO INTERNAL CANNON..
+
+Here is MIRAGE IIIC information for the Mirage III French Fighter Aircraft of the VARIANTS:
+The Description is MAJOR PRODUCTION VARIANT OF IIIA. FITTED WITH ATAR 9B3 ENGINE, CYRANO II INTERCEPT AND GROUND-MAPPING RADAR..
+
+Here is MIRAGE IIID information for the Mirage III French Fighter Aircraft of the VARIANTS:
+The Description is TWO-SEAT TRAINER/STRIKE AIRCRAFT. NO INTERNAL CANNON..
+
+Here is MIRAGE IIIE information for the Mirage III French Fighter Aircraft of the VARIANTS:
+The Description is MAJOR PRODUCTION VARIANT. FITTED WITH ATAR 9C ENGINE, CYRANIO IIBIS RADAR, AND EXTRA AVIONICS BAY..
+
+Here is MIRAGE IIIEA/EO information for the Mirage III French Fighter Aircraft of the VARIANTS:
+The Description is AUSTRALIAN LICENSE-BUILT AIRCRAFT. (52 ATTACK AND 48 INTERCEPTOR AIRCRAFT).
+
+Here is MIRAGE 5 information for the Mirage III French Fighter Aircraft of the VARIANTS:
+The Description is GROUND ATTACK VARIANT ORIGINALLY DEVELOPED FOR THE ISRAELI AIR FORCE. FITTED WITH TWO EXTRA FUSELAGE STORES STATIONS, FIRE CONTROL RADAR DELETED OR REPLACED BY RANGING RADAR. PERFORMANCE IDENTICAL TO MIRAGE III EXCEPT FOR LONGER RANGE ON INTERNAL FUEL.
+

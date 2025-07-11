@@ -1,0 +1,94 @@
+This document describes the G-5 South African 155mm Towed Howitzer.
+
+The APU, combined with the tandem walking beam suspension, gives the G5 excellent self-propelled mobility over short distances. The four wheels are all powered and give the gun excellent traction over most terrain. But, the APU serves purposes other than mobility. It provides power to open and close the trails, raise and lower the trail wheels, and raise and lower the firing platform. However, there is no power traverse or elevation. Although designed for an eight-man section, the South African defense force normally operates the G5 with a five-man section. However, the G5 can operate with a minimum of two people when all of the powered systems are working. The G-5 MKIII includes 35 reliability modifications and performance improvements. The improvements include the addition of the AS2000 gun monitor, an improved braking system, bigger diameter and wider trail wheels (specifically designed for sand), and incorporation of the Reutech ACV 58 communication system.
+The cannon is ballistically matched to the 2S3M self-propelled howitzer thus, it can generally fire the same ammunition to the same range.
+
+This equipment has proliferated into the following countries: Chile, Iran (Islamic Republic of), Malaysia, Qatar, South Africa.
+
+Here is Variants information for the G-5 South African 155mm Towed Howitzer:
+The G5 Mk I is INA.
+The G5 Mk II is INA.
+The G5 Mk III is INA.
+The G5 Mk IIIA is INA.
+The G5-2000 is INA.
+
+Here is System information for the G-5 South African 155mm Towed Howitzer:
+The Alternative Designation is GV, G5, Leopard.
+The Type is Towed Howitzer.
+The Caliber is 155 mm.
+The Prime Mover is Samil 100 6x6 or equiv.
+The Crew is 8.
+The Emplacement Time is 2.
+The Displacement Time is 1.
+The Range, Maximum is 30.
+The Range, Minimum is 3.
+
+Here is Dimensions information for the G-5 South African 155mm Towed Howitzer:
+The Length, Overall Firing is 11.
+The Length, Overall Travel is 12.1.
+The Height, Overall is 2.3.
+The Width, Firing is 8.7.
+The Width, Travel is 3.3.
+The Weight, Combat is 13.75 tons.
+
+Here is Auxiliary Propulsion information for the G-5 South African 155mm Towed Howitzer:
+The Engine Type is 76 hp, air-cooled diesel.
+The Range is 100.
+The Speed, Maximum On is 16.
+The Speed, Maximum Off is INA.
+The Swim is Not Amphibious.
+
+Here is Automotive (Samil 100 6x6) information for the G-5 South African 155mm Towed Howitzer:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 76.
+The Towing Speed, Maximum On is 90.
+The Towing Speed, Maximum Off is 50.
+The Fording Depth is 0.6.
+
+Here is Cannon information for the G-5 South African 155mm Towed Howitzer of the Main Weapon System:
+The Name is G-5.
+The Type is Howitzer.
+The Caliber is 155.
+The Length, Barrel is 45.
+The Rate of Fire, Burst is 3.
+The Rate of Fire, Normal is 2.
+The Rate of Fire, Sustained is 2.
+The Loader Type is Semi-Automatic.
+The Breech Type is Interrupted Screw.
+The Muzzle Brake Type is Single Baffle.
+The Traverse Left is 41.
+The Traverse Right is 41.
+The Traverse Total is 82.
+The Elevation (-/+) is -3/+75.
+
+Here is Option 1 information for the G-5 South African 155mm Towed Howitzer of the Ammunition:
+The Name is M1 HE.
+The Type is Frag-HE.
+The Caliber is 155.
+The Range, Minimum is 3,000.
+The Range, Maximum is 30,000.
+The Projectile Weight is 8.7.
+The Muzzle Velocity is 897.
+The Fuze Type is PD M841.
+
+Here is Option 2 information for the G-5 South African 155mm Towed Howitzer of the Ammunition:
+The Name is M1 HE.
+The Type is HE BB.
+The Caliber is 155.
+The Range, Minimum is INA.
+The Range, Maximum is 39,000.
+The Projectile Weight is 8.7.
+The Muzzle Velocity is INA.
+The Fuze Type is PD M841.
+
+Here is Other Ammunition Options information for the G-5 South African 155mm Towed Howitzer of the Ammunition:
+The Note is DPICM, DPICM-BB, Incendiary, Expendable Jammer, Chemical, Flechette, Semi-Active Laser Guided Krasnopol-M Frag-HE..
+
+Here is Fire Control System information for the G-5 South African 155mm Towed Howitzer:
+The Indirect Fire is Digital Panoramic Telescope.
+The Direct Fire is Trunnion Mounted Telescopic.
+The Collimator is INA.
+The Fire Control Computer is None.
+The Gun Display is None.
+

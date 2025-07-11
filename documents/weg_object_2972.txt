@@ -1,0 +1,100 @@
+This document describes the M60A3 Patton American Main Battle Tank (MBT).
+
+The M60A3 Patton American Main Battle Tank (MBT) appearance is almost indistinguishable from the M60A1. Two key indicators are a crosswind sensor (a small mast mounted atop the turret bustle), a cluster of smoke mortars on either side of the glacis plate, and a thermal sleeve (a pipe-like structure wrapped around the gun tube in front of the fume extractor). 
+
+This equipment has proliferated into the following countries: Bahrain, Egypt, Morocco, Saudi Arabia, Taiwan, Thailand, Turkey.
+
+Here is System information for the M60A3 Patton American Main Battle Tank (MBT) of the Main Gun:
+The Name is 1 x M68 105mm/L52 Rifled Gun.
+The Type is Rifled Gun.
+The Caliber is 105 mm.
+The Length is 5.89 m.
+The Barrel Length is 52 calibres (5.46 m or 17.9 ft).
+The Weight is 1,282 kg.
+The Rate of Fire is 10 rounds per minute (maximum).
+The Maximum Range is 4,000 m.
+The Elevation is -10/+20-deg.
+The Traverse is 360-deg,  an improved electro-mechanical traverse assembly.
+The Fume Extractor is A mushroom-shaped fume extractor was placed at the rear left of the turret bustle to vent smoke produced from firing the main or coax guns out of the vehicle..
+
+Here is Ammunition information for the M60A3 Patton American Main Battle Tank (MBT) of the Main Gun:
+The Type is Rifle Projectile.
+The Caliber is 105.
+The Shell is INA.
+The Shell Weight is INA.
+The Basic Load is The ammunition load for the main gun was increased to 63 rounds. Round storage was distributed between the turret bustle, with 15 ready rounds of various types were stowed and accessible for the loader, and the rest are stored inside safe containers on the hull floor..
+
+Here is System information for the M60A3 Patton American Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is 1 x 7.62mm M240 Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Length is 1,260 mm.
+The Barrel Length is 630 mm.
+The Width is 120 mm.
+The Height is 260 mm.
+The Weight is 12.5 kg.
+The Action is Gas-operated long-stroke piston, open bolt.
+The Rate of Fire is M240, M240E1, M240C, M240D and M240G:
+Gas Setting 1: 650–750 RPM
+Gas Setting 2: 750–850 RPM
+Gas Setting 3: 850–950 RPM
+M240B, M240L and M240H: 550–650 RPM
+Barrett 240LW and 240 LWS: 550–650 RPM.
+The Muzzle Velocity is 853 m/s.
+The Maximum Firing Range is 3,725 m.
+The Effective Firing Range is 800 m (875 yd) (bipod)
+1,100 m (1,203 yd) (tripod).
+The Feed System is Belt-fed using M13 disintegrating links.
+The Sights is Iron sights: front blade and folding rear leaf with aperture and notch.
+
+Here is Ammunition information for the M60A3 Patton American Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is 6,000 Rounds.
+
+Here is System information for the M60A3 Patton American Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is M85 Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The In Service is INA.
+The Manufacturer is INA.
+The Proliferation is INA.
+The Length is 1,384.3 mm.
+The Weight is 29.5 kg.
+The Action is Recoil-operated.
+The Rate of Fire is 400-625 rd/min.
+The Muzzle Velocity is 880.0 m/s.
+The Maximum Firing Range is 6,702.6 m.
+The Effective Firing Range is 1,999.8 m.
+The Feed System is Belt Feed, left or right hand.
+The Sights is INA.
+
+Here is Ammunition information for the M60A3 Patton American Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is 12.7×99mm NATO (.50 BMG).
+The Basic Load is Rifle.
+
+Here is Fire Control information for the M60A3 Patton American Main Battle Tank (MBT):
+The Name is M19 FCS.
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is Texas Instruments AN/VSG-2 tank thermal inder and Mercury-Cadmium-Telluride (HgCdTe) IR detector for passive night and dust vision..
+The Thermal Sight Gunner is Texas Instruments AN/VSG-2 tank thermal inder and Mercury-Cadmium-Telluride (HgCdTe) IR detector for passive night and dust vision..
+The Main Gun Stabilization is Add-On Stabilization (AOS) that was introduced in late 1972. This was an add-on kit made to fit with minimum modifications to the existing hydraulic gun control system. The add-on-stabilization system provides stabilization control for both gun elevation and turret traverse. It provides the gunner with the capability of aiming and target tracking and also improved surveillance of the battlefield terrain by the gunner while the tank is moving. It may be used in any one of three modes of control: (1) power-with-stabilization-on, (2) power-with-stabilization-off, and (3) manual. In the power-with-stabilization-on mode, the gunner's aim on target is automatically retained while the vehicle is in motion. This mode provides a fire-on the-move capability. The power-with-stabilization-off option eliminates needless exercise of the stabilization system and provides a back up power mode..
+The Rangefinder is M17A1 coincidence rangefinder.
+The Searchlight is AN/VSS-1(V)1 IR searchlight above the gun shield..
+The Ballistic Drive is M10A1 ballistic drive.
+The Ballistic Gunner is mechanical M19E1 ballistic computer for the gunner..
+
+Here is Protection information for the M60A3 Patton American Main Battle Tank (MBT):
+The Hull Armor is The hull's upper glacis armor was increased from 3.67 inches to 4.29 inches at 65 degrees while the turret sides went from 1.9 inches to 2.9 inches at their apex. This brought the frontal armor up to the same 10" line of sight armor standard of the M103 heavy tank..
+The Turret Armor is M60: equals 7 in (180 mm).
+The Applique Armor is Available..
+The Explosive Reactive Armor is INA.
+The Active Protection System is No.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is exhaust smoke generating system; 
+6-barrel smoke dischargers on turret sides.
+

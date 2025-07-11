@@ -1,0 +1,79 @@
+This document describes the Iron Dome Israeli Missile Defense System.
+
+Iron Dome (Hebrew: כִּפַּת בַּרְזֶל, kippat barzel) is a mobile all-weather air defense system developed by Rafael Advanced Defense Systems and Israel Aerospace Industries. The system is designed to intercept and destroy short-range rockets and artillery shells fired from distances of 4 kilometers (2.5 mi) to 70 kilometers (43 mi) away and whose trajectory would take them to an Israeli populated area. Israel hopes to increase the range of Iron Dome's interceptions, from the current maximum of 70 kilometers (43 mi) to 250 kilometers (160 mi) and make it more versatile so that it could intercept rockets coming from two directions simultaneously.
+
+Iron Dome was declared operational and initially deployed on 27 March 2011 near Beersheba. On 7 April 2011, the system successfully intercepted a BM-21 Grad launched from Gaza for the first time. On 10 March 2012, The Jerusalem Post reported that the system shot down 90% of rockets launched from Gaza that would have landed in populated areas. By November 2012, official statements indicated that it had intercepted over 400 rockets. By late October 2014, the Iron Dome systems had intercepted over 1,200 rockets.
+
+In addition to their land-based deployment, Iron Dome batteries will in the future be deployed at sea, where they will protect off-shore gas platforms in conjunction with Israel's Barak 8 missile system.
+
+Iron Dome is part of a future multi-tiered missile defense system that Israel is developing, which includes Arrow 2, Arrow 3, Iron Beam, Barak 8 and David's Sling.
+
+The system is designed to counter short-range rockets and 155 mm artillery shells with a range of up to 70 kilometers. According to its manufacturer, Iron Dome will operate day and night, under adverse weather conditions, and can respond to multiple threats simultaneously.
+
+Iron Dome has three central components:
+
+*Detection & Tracking Radar: the radar system is built by Elta, an Israeli defense company and subsidiary of Israel Aerospace Industries, and by the IDF.
+
+*Battle Management & Weapon Control (BMC): the control center is built for Rafael by mPrest Systems, an Israeli software company.
+
+*Missile Firing Unit: the unit launches the Tamir interceptor missile, equipped with electro-optic sensors and several steering fins for high maneuverability. The missile is built by Rafael.
+
+The system's radar is referred to as EL/M-2084. It detects the rocket's launch and tracks its trajectory. The BMC calculates the impact point according to the reported data, and uses this information to determine whether the target constitutes a threat to a designated area. Only when that threat is determined, is an interceptor missile fired to destroy the incoming rocket before it reaches the predicted impact area.
+
+This equipment has proliferated into the following countries: Israel.
+
+Here is Variants information for the Iron Dome Israeli Missile Defense System:
+The C-Dome is This is a proposed naval variant of the Iron Dome system..
+
+Here is System information for the Iron Dome Israeli Missile Defense System:
+The Alternative Designation is Iron Dome.
+The Type is The Iron Dome is a mobile short-range defense system designed to shoot down rockets, artillery and, potentially, mortar rounds in all weather conditions. It is intended to serve as part of a two-tiered missile defense system along with the Stunner (David's Sling) interceptor system. The Iron Dome is aimed at defeating Kassam and Katyusha rockets fired by militants from the Gaza Strip and Lebanon..
+The Crew is INA.
+The Chassis is Components including the launcher and battle management shelter are based on flatracks. These are transported by heavy military trucks, fitted with palletized loading systems. Radar is also carried on a flatbed truck and can be dismounted prior to operation. So all components can be picked-up, transported and unloaded in a different site by heavy military trucks. It seems that all components of the Iron Dome system can be used while still on the trucks..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note #1 is A battery of the Iron Dome consists of 3 to 4 launchers, radar, and battle management and missiles control unit..
+The Note #2 is The system can operate day and night and in adverse weather conditions..
+
+Here is Dimensions information for the Iron Dome Israeli Missile Defense System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+
+Here is Automotive information for the Iron Dome Israeli Missile Defense System:
+The Note is Components including the launcher and battle management shelter are based on flatracks. These are transported by heavy military trucks, fitted with palletized loading systems. Radar is also carried on a flatbed truck and can be dismounted prior to operation. So all components can be picked-up, transported and unloaded in a different site by heavy military trucks. It seems that all components of the Iron Dome system can be used while still on the trucks.
+
+Here is Missile System information for the Iron Dome Israeli Missile Defense System:
+The Name is Tamir interceptor missiles.
+The Type is Surface-to-Air Missile.
+The Basic Load is 20 x Tamir interceptor missiles.
+The Length is 3 m.
+The Diameter is 0.16 m.
+The Weight is 90 kg.
+The Steering Fins is Yes.
+The Warhead Type is Fragmentation.
+The Warhead Weight is INA.
+The Estimate Effectiveness is 75 to 95%.
+The Missile Reload Vehicle is Reload missiles are carried by another military truck, fitted with a crane..
+The Note is The launcher unit is deployed and operated remotely via a secure wireless connection..
+
+Here is Fire Control System information for the Iron Dome Israeli Missile Defense System of the Fire Control and Radar Systems:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is INA.
+The Battle Management System is A battery of the Iron Dome consists of 3 to 4 launchers, radar, and battle management and missiles control unit. Components including the launcher and battle management shelter are based on flatracks..
+
+Here is Radar information for the Iron Dome Israeli Missile Defense System of the Fire Control and Radar Systems:
+The Name is INA.
+The Note is Radar of the Iron Dome detects targets and monitors their trajectory. It is deployed and operated remotely via a secure wireless connection. This missile defense system also acquires preliminary information from other Israeli radars..
+
+Here is Protection information for the Iron Dome Israeli Missile Defense System:
+The Hull Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The NBC Protection is No.
+The Smoke Equipment is INA.
+

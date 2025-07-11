@@ -1,0 +1,73 @@
+This document describes the YPR-765 PRGWT Dutch Armored Medical Evacuation Vehicle (AMEV).
+
+YPR-765 PRGWT — armored medical evacuation vehicle (AMEV); unarmed; crew of three plus five passengers; rear compartment has two forward-facing seats on the left, bins for the personal equipment of the wounded on either side, and can hold two stretchers on either side, suspended from chains. The vehicle is equipped with a diesel-heater.
+
+The AIFV (Armored Infantry Fighting Vehicle) is a tracked light armored vehicle that serves as an infantry fighting vehicle (IFV) in the armies of several countries. It is a development of the M113A1 armored personnel carrier.
+
+The hull of the vehicle is made of welded aluminum, with spaced steel laminate armor bolted onto the side and front. The voids of the armor are filled with polyurethane foam, which gives the vehicle extra buoyancy when travelling in the water. Original production AIFV's can swim without deploying flotation curtains, using only a large front-mounted trim vane; they are propelled in the water by their tracks.
+
+The engine sits on the front right of the hull, behind a hatch that can be used to remove the complete powerpack. The powerpack is similar to the M113A1, except for a larger radiator capacity and turbocharger. The transmission is also fitted with heavy duty components from the M548 tracked cargo carrier. Immediately to the left of the engine is the driver, above whom is a hatch that opens to the right. The driver has four M27 day periscopes. The driver's center periscope can be replaced by a passive infra-red periscope for night driving. The commander sits immediately behind the driver, and has a cupola that can be completely traversed. The cupola has five periscopes, four of which are M17 day periscopes, the fifth has 1x to 6x variable magnification.
+
+The turret is fitted on the right side of the hull behind the engine. The turret, which has electro-hydraulic traverse, can elevate from -10 to +50° and can traverse and elevate at a speed of 60°/sec. The turret mounts an Oerlikon Contraves 25 mm KBA-B02 cannon with a dual ammunition feed and 180 rounds of ready use ammo, with another 144 rounds stored in the hull. Mounted to the left of this gun is a 7.62 mm FN MAG machine gun, which has 230 rounds of ready ammo, with a further 1,610 in the hull. There is a six-barrel smoke discharger mounted at the front, just above the large trim vane.
+
+The troop compartment is at the rear of the hull; a large power operated ramp allows access through the rear of the vehicle, a door is also provided in the ramp. Additionally a single piece hatch covers the top of the troop compartment. The compartment contains seven troops in the Dutch variant, with six sitting back to back facing outwards and a single passenger sitting between the command and the turret facing backwards. There are two firing ports in each side of the hull and a single firing port in the rear. The side firing ports are provided with M17 periscopes, the rear one is fitted with an M27 periscope.
+
+This equipment has proliferated into the following countries: Bahrain, Belgium, Chile, Egypt, Jordan, Lebanon, Malaysia, Morocco, Philippines, Turkey, United Arab Emirates.
+
+Here is Variants information for the YPR-765 PRGWT Dutch Armored Medical Evacuation Vehicle (AMEV):
+The EIFV is Holds only 6 soldiers that can dismount; M242 Bushmaster 25-mm gun with 900 rounds of ammo; BGM-71 TOW AT weapon with 6 rounds; M240 Machine Gun with 4400 rounds.
+The Mortar Prime Move (Netherlands: YPR 765 PRMR) is Tows the 120-mm Thomson-Brandt mortar with crew of 7.
+The Cargo Carrier  (Netherlands:  YPR 765 PRVR-A/B) is Crew of 2 can carry cargo into the combat zone.
+The TOW Missile Carrier  (Netherlands: YPR 765 PRAT) is Similar to the US M901 ITOW variant of the M113 with an Emerson TOW AT system.
+The Ambulance (Netherlands: YPR 765 PRGWT) is Unarmed variant with a crew of 4.
+The Bn Command (Netherlands: YPR 765 PRCO-C1) is Specialized for infantry battalion commanders.
+The Bn Gunnery Center  (Netherlands PRCO-C2) is Specialized for use by artillery battalions.
+The Mortar Fire-Control Vehicle (Netherlands PRCO-C3) is Specialty vehicle to control indirect mortar fire.
+The Anti-Aircraft Control Vehicle (Netherlands PRCO-C4) is Specially designed for air defense command & control.
+The YPR 765 PRCO-C5 (Netherlands) is Observation vehicle with only a 4-man crew.
+The YPR 765 PRRDR (Netherlands) is Operated the British ZB 298 battlefield surveillance radar.
+The YPR PRRDR-C (Netherlands) is Radar/Command Vehicle.
+The YPR 765 PRI/I (Netherlands) is Squad vehicle with M113 cupola, M2 HB MG, 9 soldiers, & driver.
+The YPR 806 PRBRG (Netherlands) is Recovery vehicle with HIAB crane, crew of 4, & 8 smoke grenade launchers.
+The YPR-2000 (Netherlands) is Upgrade included more storage containers.
+The Command Vehicle is Room for 9-man crew with additional communication equipment.
+The AIFV-B (Belgium) is 40-caliber MG, NBC protection, & Halon fire-extinguishing system.
+The AIFV-B-CP (Belgium) is Pintle-mounted 12.7-mm MG, crew of 7, NBC protection, & Halon fire-extinguishing system.
+The Philippine Variant is Converted to accept 50-caliber MG ILO 25-mm cannon.
+The YPR-765 KMAR Military Police Vehicle is YPR-765 PRI/I modified for use by military police.
+The Turkish ACV is See separate vehicle for the FNSS IFV.
+
+Here is System information for the YPR-765 PRGWT Dutch Armored Medical Evacuation Vehicle (AMEV):
+The Alternative Designations is Egyptian Infantry Fighting Vehicle (EIFV); See Variants.
+The Description is IFV modified from the M113 with exit ramp in the rear with space for 7 soldiers; 2 firing ports on each side & 1 firing port in the left of the ramp.
+
+Here is Specifications information for the YPR-765 PRGWT Dutch Armored Medical Evacuation Vehicle (AMEV):
+The Crew is 3 (driver, commander, gunner).
+The Combat Weight is 13.7.
+The Chassis Length Overall is 5.26.
+The Height Overall is 2.79 (2.01 hull top).
+The Width Overall is 2.82.
+The Ground Pressure is 0.67.
+The Automotive Performance is 6V-53T.
+The Engine Type is Water-cooled, turbocharged, 2-stroke, V-6 diesel Allison.
+The Cruising Range is 490 (483-EIFV).
+The Speed (Max Road) is 61 (66-EIFV).
+The Speed (Max Off-Road) is INA.
+The Speed (Average Cross-Country) is INA.
+The Speed (Max Swim) is 7.
+The Fording Depths is Amphibious .
+The Radio is INA.
+
+Here is Armament information for the YPR-765 PRGWT Dutch Armored Medical Evacuation Vehicle (AMEV):
+The Note is Unarmed.
+
+Here is Protection information for the YPR-765 PRGWT Dutch Armored Medical Evacuation Vehicle (AMEV):
+The Armor (turret front) is INA (sides on EIFV protected against 14.5-mm AP rounds).
+The Applique Armor is Aluminum hull with spaced laminate steel on front & sides.
+The Explosive Reactive Armor is INA.
+The Active Protection System is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is Yes (Details INA).
+The Smoke Equipment is 6 Smoke grenade launchers.
+The Survivability Equipment is INA.
+

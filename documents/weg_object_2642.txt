@@ -1,0 +1,130 @@
+This document describes the NZLAV New Zealand Armored Personnel Carrier (APC).
+
+The NZLAV or New Zealand Light Armored Vehicle is a variant of the General Dynamics LAV III, which in turn is a license-produced version of the MOWAG Piranha IIIH. Since 2003 New Zealand acquired over 100 of these armored vehicles, including variants, to replace the aging M113 family. Currently, the New Zealand Defense Forces are the only operator of this personnel carrier. The standard armored personnel carrier is used in reconnaissance and forward observation roles. The NZLAV provides New Zealand with a world-class vehicle capable of providing protected mobility to soldiers on the battlefield. The NZLAV is highly mobile and comes equipped with a lethal arsenal of weapons and systems making it an ideal vehicle for combat, peace, and peace support operations.
+
+This equipment has proliferated into the following countries: New Zealand.
+
+Here is Variants information for the NZLAV New Zealand Armored Personnel Carrier (APC):
+The Recovery (LAV-R) is Armored recovery vehicle, fitted with a winch..
+
+Here is System information for the NZLAV New Zealand Armored Personnel Carrier (APC):
+The Alternative Designation is NZLAV.
+The Type is Armored Personnel Carrier (APC).
+The Manufacturer is The New Zealand Light Armoured Vehicle (NZLAV) is based on the General Dynamics Land Systems – Canada. Australia; Company: INA.
+The Configuration is 8x8.
+The Crew is 3.
+The Passenger Capacity is 8.
+The Airlift Capability is The NZLAV can be airlifted by the C-130 Hercules military transport aircraft..
+The Future Upgrades is Future upgrades for NZLAV will include upgraded mobility and payload/storage capacity; enhanced power generation and management; optimised ergonomics for crew and dismounts, and improved tactical utility and versatility through the provision of NZLAV variants..
+
+Here is Dimensions information for the NZLAV New Zealand Armored Personnel Carrier (APC):
+The Length is 6.98 m.
+The Width is 2.83 m.
+The Height is 1.955 m.
+The Weight, Standard is 18,373 kg.
+The Weight, Combat is 20,459 kg.
+The Ground Clearance is 0.595 m.
+
+Here is Automotive information for the NZLAV New Zealand Armored Personnel Carrier (APC):
+The Engine Name is Caterpillar 3126 HEUI.
+The Engine Type is Diesel.
+The Engine Power is 350.
+The Power-to-Weight Ratio is 17.1 hp/t.
+The Fuel Capacity is 300 liters.
+The Electrical System is 24 V.
+The Suspension is independent hydropneumatic with height control.
+The Tires is 12.00 × 20.
+The Brakes is power brakes.
+The Range is 500 km.
+The Speed, Maximum Road is 109 km/h.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.6 m.
+The Trench is 2 m.
+The Fording is 1.2 m.
+
+Here is System information for the NZLAV New Zealand Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 × turret-mounted 25mm M242 Chain-Driven Autocannon.
+The Type is Chain-Driven Autocannon.
+The Caliber is 25 mm.
+The Length is 2,672 mm.
+The Barrel Length is 2,175 mm.
+The Width is 318 mm.
+The Height is 373 mm.
+The Weight is 119 kg.
+The Barrels is Single barrel (progressive RH parabolic twist).
+The Action is Open bolt.
+The Rate of Fire is Cyclic: 200rpm with 1hp or 500rpm with 8hp.
+The Muzzle Velocity is 1,100 m/s.
+The Maximum Firing Range is 6,800 m.
+The Effective Firing Range is 3,000 m.
+The Sights is The NZLAV is equipped with a daytime optical Thermal Imaging System (TIS) and Generation III Image Intensification. The NZLAV  is equipped with a Tactical Navigation System (TacNav) to assist in navigation and target location tasks. The NZLAV  is equipped with an LCD monitor directly connected to the vehicle's external cameras, providing real-time images of the battlefield for the passengers..
+
+Here is Ammunition information for the NZLAV New Zealand Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 25 mm.
+The Shell is 25×137 mm.
+The Basic Load is 420 Rounds.
+
+Here is System information for the NZLAV New Zealand Armored Personnel Carrier (APC) of the Coaxial Weapon System:
+The Name is 1 × coaxial-mounted 7.62 mm 	
+C6A1 FLEX machine gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is INA.
+The Length is 1,260 mm.
+The Barrel Length is 630 mm.
+The Weight, Unloaded is 11.8 kg.
+The Action is Gas-operated long-stroke piston, open bolt.
+The Cyclic Rate of Fire is 750–1,100 rds/min.
+The Maximum Firing Range is 3, 725 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is M13 linked belt.
+The Sights, is Folding leaf sight with aperture and notch, front blade.
+The Note is The C6A1 FLEX is the Canadian manufactured upgrade of the C6 GPMG. It is manufactured under license specifically for the Canadian Armed Forces, and primarily features upgrades to the furniture of the weapon. The weapon was first delivered in 2018..
+
+Here is Ammunition information for the NZLAV New Zealand Armored Personnel Carrier (APC) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62 × 51 mm NATO.
+The Basic Load is 1,740 Rounds.
+
+Here is System information for the NZLAV New Zealand Armored Personnel Carrier (APC) of the Auxiliary Weapon System:
+The Name is 1 × roof-mounted 5.56 mm C9A2 machine gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 5.56 mm.
+The Manufacturer is FN Manufacturing LLC.
+The Length is Long barrel: 1,016 mm; 
+Short Barrel: 916 mm (36 in).
+The Barrel Length is Long barrel: 523 mm; Short barrel:
+424 mm (16.69 in).
+The Width is 143 mm (buttstock and bipod folded).
+The Height is 270 mm.
+The Weight is Long barrel: 7.49 kg; Short barrel:
+7.35 kg.
+The Action is Gas, long-stroke piston.
+The Mode of Fire is Fully-automatic only.
+The Cyclic Rate of Fire is Long barrel: 650-800 rds/min; Short barrel.
+The Maximum Firing Range is 1,000 m.
+The Effective Firing Range is 500 m.
+The Feed System is Dual feed. The C9A2 will accept either a disintegrating link belt, or a STANAG box magazine feed.
+STANAG box magazin.
+The Sights is Rear aperture, front post.
+
+Here is Ammunition information for the NZLAV New Zealand Armored Personnel Carrier (APC) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 5.56 mm.
+The Cartridge is 5.56 × 45 mm NATO.
+The Basic Load is 3,300 Rounds.
+
+Here is Protection information for the NZLAV New Zealand Armored Personnel Carrier (APC):
+The Hull Armor is The armor of the NZLAV provides all-around protection against 7.62 mm rounds..
+The Turret Armor is Basic armor provides all-round protection against 7.62 mm rounds..
+The Applique Armor is The vehicle can be fitted with add-on ceramic armor, which provides protection against 14.5 mm machine gunfire. Some sources claim that this add-on armor can withstand 30 mm hits. The NZLAV can be also fitted with slat armor, which provides protection against RPG rounds. This armored vehicle has a strengthened undercarriage for improved mine protection..
+The Explosive Reactive Armor is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 8 × turret-mounted 76 mm smoke-grenade launcher (2 × 4).
+

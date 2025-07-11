@@ -1,0 +1,52 @@
+This document describes the Qianlong No. 2 Class Chinese Autonomous Underwater Vehicle (AUV).
+
+The Qianlong No. 2 Chinese Autonomous Underwater Vehicle (AUV) unlike many submersibles, looks like a fish.  It is the first time in the world to apply a non-rotating body flat fish shape design, which is beneficial to reduce the vertical surface resistance, facilitate its vertical climb in complex seabed terrain, and enhance surface navigation. ability. The Qianlong No. 2 is China's most advanced deep-sea autonomous underwater robot, which has reached the international advanced level.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Qianlong No. 2 Class Chinese Autonomous Underwater Vehicle (AUV):
+The Qianlong No.1 is “Qianlong No.1” is a “Twelfth Five-Year” project relying on the China Ocean Mineral Resources Research and Development Association. It was led by Shenyang Automation Institute and jointly developed by the Institute of Acoustics of the Chinese Academy of Sciences and Harbin Engineering University. "Qianlong No.1" is domestically-developed deep-sea exploration equipment. Its main task is to discover and find the area where resources are located, to detect the marine elements on the seabed, and to provide a basis for evaluating resource reserves and commercial exploitation value. Maximum Depth 6,000 m..
+The Qianlong No. 3 is The first sea trial of the Qianlong No. 3, an upgraded version of the Qianlong No. 2, is expected to be conducted this April of 2018..
+
+Here is System information for the Qianlong No. 2 Class Chinese Autonomous Underwater Vehicle (AUV):
+The Alternative Designation is Qianlong No. 2.
+The Type is Autonomous Underwater Vehicle (AUV).
+The Builder is Shenyang Institute of Automation (SIA).
+The Crew is Autonomous.
+The Mission is Operating without monitoring from its mother vessel, taking multiple acquisition sensor modules onboard during the dives, and for the exploration operations of deep-sea mineral resources such as polymetallic sulfides..
+The Maximum Depth is 4,500 m.
+The Ballast System is It has sinking ballast iron and floating ballast iron installed on it. After launching, it dives under its own gravity. After descending to a predetermined depth, it automatically throws away the sinking ballast iron and then starts the operation. After completing the operation, It will automatically throw away the floating ballast iron to achieve automatic floating, and the staff will then recover it to the mother ship by remote control hook or rope throwing..
+The Cameras is Yes..
+The Magnetic Detector is Located on the stern..
+The Magnetometer is Yes, used to detect magnetic anomalies and Polymetallic Sulfide..
+The Note is Qianlong No. 2 is China's most advanced deep-sea autonomous underwater robot, which has reached the international advanced level..
+
+Here is Dimensions information for the Qianlong No. 2 Class Chinese Autonomous Underwater Vehicle (AUV):
+The Length is 3.5 m.
+The Height is 1.3 m.
+The Beam is 0.7 m.
+The Draft is Submersible.
+The Displacement, Standard is 1.5 tons.
+The Displacement, Full Load is INA.
+
+Here is Propulsion System information for the Qianlong No. 2 Class Chinese Autonomous Underwater Vehicle (AUV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Thrusters is 4 rotatable thrusters.
+The Engine Power is INA.
+The Maximum Range is INA.
+The Maximum Speed is INA.
+The Maximum Depth is 4,500 m.
+The Endurance is 30 hours.
+
+Here is Sonar Systems information for the Qianlong No. 2 Class Chinese Autonomous Underwater Vehicle (AUV):
+The Forward Looking Sonar is Yes.
+The Collision Avoidance Control Device is Yes, which can covert the acoustic data into an image to identify obstacles and the surrounding environment. The vehicle can rotate autonomously to avoid obstacles and ensure the safety of the vehicle during normal operations..
+The Side Sonar is Yes, Sonars on each side o9f the vehicle that continuously collects geomorphological data, performs real-time signal processing, Collects Terrain data, and sweeps across the seabed along the planned route..
+
+Here is Protection information for the Qianlong No. 2 Class Chinese Autonomous Underwater Vehicle (AUV):
+The Hull Armor is INA.
+The Countermeasures is No.
+The NBC Water Washdown System is No.
+The EW Intercept is No.
+

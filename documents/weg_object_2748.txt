@@ -1,0 +1,113 @@
+This document describes the Husky 2G South African 4x4 Vehicle-Mounted Mine Detection (VMMD).
+
+This variant has an enlarged driver's cab that can accommodate two people. The driver focuses on maneuvering the vehicle and spotting IEDs visually, while the commander handles the sensors.
+The driver's workload is reduced two ways. First, several functions are transferred to the commander, who oversees both the ground-penetrating radar as well as the sensor systems. In addition to vision system upgrades, the driver can use a back-up camera.
+
+The Husky 2G features the FASCAN interrogation arm, which is used to investigate suspected mines and roadside bombs. The upgraded system has additional power to operate additional sensors and enhancements, such as the NIITEK ground-penetrating radar. It is also equipped with the TORC Robotics 360 situational awareness camera system and the QinetiQ North America QNET system, which provides lightweight protection against rocket-propelled grenades.
+
+Active self-defense is available from the Common Remotely Operated Weapon Station (CROWS), which is handled by the commander from within the cab. In addition to the machine gun, the CROWS includes a large 15-inch (381-mm) color monitor that shows live video from the turret's cameras in the daytime and a second-generation forward-looking infrared (FLIR) camera at night. The commander can operate the cameras and a built-in laser rangefinder without having to use the gun.
+
+The Husky VMMD (vehicle-mounted mine detection) family of vehicles are blast-survivable, mission-configurable wheeled platforms employed around the world by specialized route clearance teams operating in high-explosive threat areas. Defined by their unique design characteristics of survivability, frangibility, and reparability, Husky vehicles enable personnel and payloads to safely operate in close proximity to sub-surface explosive hazards.
+
+The Husky is manufactured in South Africa by DCD Protected Mobility and then integrated with clearance payloads, provided, and supported by U.S.-based C-IED solutions company, Critical Solutions International.
+
+The current iteration of the Husky is part of a class of MRAP vehicles developed from a South African blast protection design. The basic v-hull concept of modern MRAP vehicles, and the Husky, was an architectural innovation that fundamentally recast the nature of the vehicle’s resistance to explosive threats. As clearance techniques matured along with emerging technologies in order to respond to evolving threats, the unique tenants of the Husky design have endured.
+
+Survivability: The sharp V-hull of the Husky dramatically reduces blast effect by increasing ground clearance and standoff from the blast, increasing structural hull rigidity, and diverting blast energy and fragmentation away from the platform and its occupants.
+
+Frangibility: With three main components (a center cab with front and rear wheel modules) connected by sheering pins, the Husky is designed to break apart in a blast event, allowing energy to transfer to the detachable front and rear modules rather than transferring stress to the critical components of the vehicle or the occupants located in the cab.
+
+Repairability: Critical components have been engineered to break apart in a predictable fashion, preventing catastrophic damage and enabling users to quickly replace modules on site. This approach increases the lifespan of the vehicle, maintains mission readiness, and limits the need for recovery teams to evacuate the vehicle to intermediate- or depot-level maintenance facilities.
+
+The Husky VMMD Mk III and 2G are powered by a Mercedes Benz OM 906 LA 6.4L six-cylinder turbo diesel engine coupled with an Allison 2500 SP 5-speed automatic transmission. The operating weight of vehicle is 8,350kg, and the Husky can reach a maximum speed of 72km/h and has a range of 400km or 200km when equipped with mine-detonation trailer (MDT). The cabin of the Husky is fitted with bullet-proof glass windows and an entry hatch on the roof.
+
+The Husky’s versatility for application in dynamic clearance missions comes from both the vehicle design and the modularity provided by easy integration of tailored payloads.
+
+This equipment has proliferated into the following countries: South Africa, United States of America.
+
+Here is Variants information for the Husky 2G South African 4x4 Vehicle-Mounted Mine Detection (VMMD):
+The Husky Mk I is The Husky Mk I was developed in the 1970s, for land mine detection..
+The Husky Mk II is DCD introduced Husky Mk II and Husky Mk III as upgraded versions of the basic variant..
+The Husky Mk III is The current Program of Record (M1231) for the U.S. Army. The Mk III is the modern single-occupant Husky model. The platform is integrated with pulse induction metal detector panels and overpass tires that enable operators to regulate tire air pressure in order to reduce the risk of initiating victim-operated, pressure-fused, anti-vehicle landmines without causing detonation. As with all Husky platforms, the Mk III has been engineered in a unique modular, frangible configuration. In the event of a mine or improvised explosive device detonation, vehicle components break apart in a predictable fashion, reducing damage to the platform and occupants, as well as facilitating fast in-field repairs using the system’s RedPack, a towable asset comprising front and rear modules as well as a battle damage repair tool kit..
+The Husky 2G is A two-occupant version of the Husky MK III vehicle. Development of the Husky 2G was prompted by the need to effectively conduct longer missions and employ multiple advanced detection systems. The Husky 2G was designed with the same protection, survivability, and mobility characteristics as the original Husky MK III, but integration of more sophisticated high sensitivity detectors, ground-penetrating radar, and video optics suites, and remote weapon stations created the need for a second operator to manage the additional workload..
+
+Here is System information for the Husky 2G South African 4x4 Vehicle-Mounted Mine Detection (VMMD):
+The Alternative Designation is Husky 2G.
+The Type is Vehicle-Mounted Mine Detection (VMMD).
+The Family is Husky.
+The Manufacturer is VMMD vehicle is marketed in the US by Critical Solutions International (CSI), who are also responsible for the international marketing and field support of the vehicle..
+The Crew is 2.
+The Hull is The Husky VMMD incorporates a V-shaped hull offering optimum protection against blasts..
+The Cabin is The cabin is fitted with a bullet-proof glass window and a single hatch is provided on the top..
+The Mission is The vehicle is designed to detect landmines and improvised explosive devices (IEDs) with high probability of detection (Pd) and low false alarm rate (FAR). The height of the sensor installed on the Husky can be controlled automatically to adjust in various terrains. The Husky is also attached with the Mine Detonation Trailer (MDT) set to detonate any left out mines..
+The Backup Camera is Yes.
+
+Here is Dimensions information for the Husky 2G South African 4x4 Vehicle-Mounted Mine Detection (VMMD):
+The Length is 7.34.
+The Width is 2.53.
+The Height is 3.54.
+The Wheel Base is 5.23 m.
+The Curb Weight is 8,350 kg.
+The Operating Weight is 8,700 kg.
+The Gross Overpass Mode Weight is 8,700 kg.
+The Gross Non-Overpass Weight is 12,000 kg.
+The Ground Clearances, Hull is 590 mm.
+The Ground Clearances, Overpass Mode is 360 mm.
+The Ground Clearances, Non-Overpass Mode is 415 mm.
+
+Here is Automotive information for the Husky 2G South African 4x4 Vehicle-Mounted Mine Detection (VMMD):
+The Engine Name is 1 x MTU 6R106TD20 6-liter (366 cu in), 6-cylinder,water-cooled, direct-injection diesel.
+The Engine Type is Diesel.
+The Engine Power is 201 hp (150 kW).
+The Transmission is Allison 2500 SP 5-speed automatic (4 x 4).
+The Fuel Capacity is 40 gallons (150 liters).
+The Tire Size is 450/80 R20.
+The Maximum Speed, Detection is 50 kph.
+The Maximum Sustaned Road Speed is 72 kph.
+The Maximum Speed, on 20% Grade is 17 kph.
+The Maximum Speed, on 60% Grade is 7 kph.
+The Maximum Speed, on 70% Grade is 5 kph.
+The Angle of Approach is 50 deg.
+The Angle of Departure is 43 deg.
+The Range, Daily Operating is 200 km.
+The Range, Max Fuel is 800 km.
+The Endurance is 6 hours.
+
+Here is Radar information for the Husky 2G South African 4x4 Vehicle-Mounted Mine Detection (VMMD):
+The Radar Name is The Husky vehicle is equipped with NIITEK’s VISOR™ 2500 Ground Penetrating Radar (GPR), with four panelled 3.2m array at the front..
+The Detection is The Husky is most commonly configured with payloads that enable operators to identify threats through visual scans and the focused application of optics and sensors..
+The Pulse Induction Metal Detectors is Yes.
+The Non-Linear Junction Detectors is Yes.
+The Gunshot Detection is Yes.
+
+Here is Interrogation information for the Husky 2G South African 4x4 Vehicle-Mounted Mine Detection (VMMD):
+The Attachments is Husky vehicles are frequently integrated with attachments that enhance clearance units’ ability to confirm and classify a detected threat using remote, mechanical, or explosive means..
+The Interrogation Arm is Yes.
+The Blowers is Yes.
+The Water Diggers is Yes.
+The Thermal Cameras is Yes.
+The Optics Suite is Yes.
+The Disruption is The Husky can be equipped with payloads to deliberately initiate or interrupt a suspected threat systems’ ability to function as intended by mechanical, electrical, or explosive means.
+
+Launched line charges Mine-clearing line charge.
+The Mitgation is The Husky are often equipped with payloads designed to limit the severity of damage caused by undetected threats on friendly follow on elements through standoff subsystems and disruptive proofing
+
+*Mine Roller Mine rollers
+*Passive Infrared Disruption Rhino *Passive Infrared Defeat System
+*Rake
+*Proofing Roller
+*Electrostatic Discharge.
+The Interrogation Arm is The Husky 2G features the FASCAN interrogation arm, which is used to investigate suspected mines and roadside bombs..
+The Situational Camera is TORC Robotics 360 situational awareness camera system and the QinetiQ North America QNET system, which provides lightweight protection against rocket-propelled grenades..
+
+Here is Protection information for the Husky 2G South African 4x4 Vehicle-Mounted Mine Detection (VMMD):
+The Hull Armor is The v-shaped hull of Husky VMMD can protect the vehicle and crew from blasts.It can withstand up to STANAG 4569 level 4a & 4b blasts on field and is also capable of withstanding STANAG 4569 level 3 (standard) ballistic explosion. The vehicle is designed to withstand high detonation and can be brought to operating conditions within two hours after an explosion..
+The Cabin Armor is The cabin is fitted with a bullet-proof glass window and a single hatch is provided on the top..
+The Applique Armor is INA.
+The EFP Armor is Yes,  Explosively Formed Penetrator.
+The RPG Netting is Rocket-propelled grenade.
+The RPG Bare Armor is Yes.
+The Smoke Launchers is Yes.
+The NBC Protection is Yes.
+The Electronic Countermeasures is Yes.
+

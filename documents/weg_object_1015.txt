@@ -1,0 +1,84 @@
+This document describes the Mitsubishi F-2 Japanese Strike Fighter Aircraft.
+
+The Mitsubishi F-2 is a multirole fighter derived from the General Dynamics F-16 Fighting Falcon, and manufactured by Mitsubishi Heavy Industries and Lockheed Martin for the Japan Air Self-Defense Force, with a 60/40 split in manufacturing between Japan and the United States. The basis of the F-2's design is the F-16 Agile Falcon, an offer by General Dynamics to provide a low-cost alternative for the Advanced Tactical Fighter (ATF) competition. Production started in 1996 and the first aircraft entered service in 2000. The first 76 aircraft entered service by 2008, with a total of 98 airframes produced. The first active electronically scanned array (AESA) radar on a combat aircraft was the J/APG-1 introduced on the Mitsubishi F-2 in 1995. The F-2 is nicknamed "Viper Zero", a reference to the F-16's semi-official nickname of "Viper" and the Mitsubishi A6M Zero.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is Variants information for the Mitsubishi F-2 Japanese Strike Fighter Aircraft:
+The XF-2A is Single seat prototype.
+The XF-2B is Two-seat prototype.
+The F-2A is Single seat fighter version.
+The F-2B is Two-seat training version.
+
+Here is System information for the Mitsubishi F-2 Japanese Strike Fighter Aircraft:
+The Alternate Designation(s) is F-2 Strike Fighter "Viper Zero".
+The Type is Multi-role Fighter Aircraft.
+The Manufacturer is Mitsubishu Heavy Industries / Lockheed Martin.
+The Crew is 1 or 2 (variant dependent).
+The Number of Engines is 1.
+The Number of Hard Points is 2 × wing-tip air-to-air missile launch rails, 6 × under-wing, and 3 × under-fuselage pylon (2 of 3 for sensors) stations with a capacity of up to 7,700 kg of stores..
+
+Here is Dimensions information for the Mitsubishi F-2 Japanese Strike Fighter Aircraft:
+The Length is 15.52.
+The Width (Wing Span) is 9.45.
+The Height is 5.09.
+The Wheelbase is 4.00.
+The Wheel Track is 2.38.
+The Tail Plane Span is 5.58.
+The Wing Area is 27.87.
+The Taileron Area is 5.92.
+The Fin Area is 4.00.
+The Empty Weight is 8,432.
+The Combat Weight is 12,292.
+
+Here is Automotive information for the Mitsubishi F-2 Japanese Strike Fighter Aircraft:
+The Engine Name is 1 × General Electric F110-IHI-129.
+The Engine Type is Afterburning Turbofan.
+The Engine Power is 17,000 lbf (76 kN) thrust dry / 29,500 lbf (131 kN) with afterburner.
+The Internal Fuel Capacity is 4,637.
+The External Fuel Capacity is 5,678.
+The Maximum Speed is 2,124 (Mach 2+).
+The Ceiling is 18,000.
+The Radius, CAP is 1,605 (Basic air-to-air missile load and max internal and external fuel).
+The Radius, CAS is 1,200 (Basic air-to-air and ground support load, max internal fuel).
+The Ferry Range is 4,215.
+The Load Limit is 634.
+
+Here is System information for the Mitsubishi F-2 Japanese Strike Fighter Aircraft of the Main Gun System:
+The Name is 1 x JM61A1 Vulcan.
+The Type is Rotary Cannon.
+The Caliber is 20 mm.
+The Length is 1.827 m.
+The Weight is 112 kg.
+The Barrels is 6-barrel (progressive RH parabolic twist, 9 grooves).
+The Action is Hydraulically operated, electrically fired, rotary cannon.
+The Rate of Fire is 6,000 rounds per minute.
+The Muzzle Velocity is 1,050 m/s.
+The Feed System is Belt or linkless feed system.
+
+Here is Ammunition information for the Mitsubishi F-2 Japanese Strike Fighter Aircraft of the Main Gun System:
+The Type is Rifle.
+The Caliber is 20 mm.
+The Cartridge is 20×102 mm.
+The Basic Load is 515 Rounds.
+
+Here is Pylons information for the Mitsubishi F-2 Japanese Strike Fighter Aircraft:
+The Wingtip Rails is 2 x stations, 318 kg each, AAMs only.
+The Middle Wing is 2 x stations, 1,588 kg each.
+The Indoor Wing is 2 x stations, 2,041 kg each.
+The Inlet is 2 x stations, 250 kg each for EW or navigation/targeting pods.
+The Centerline is 1 x hardpoint, 998 kg.
+
+Here is Fire Control / Avionics information for the Mitsubishi F-2 Japanese Strike Fighter Aircraft:
+The Fire Control Radar is J/APG-2 Mitsubishi active electronically scanned array radar system.
+The Target and Navigation Pods is J/AAQ-2 FLIR, AN/AAQ-33.
+The IFF is AN/APX-113(V) BAE combined interrogator/transponder.
+
+Here is Protection information for the Mitsubishi F-2 Japanese Strike Fighter Aircraft:
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The Add on Armor is No.
+The NBC Protection is INA.
+The EW Counter Measures is J/ASQ-2 Mitsubishi Electric integrated Electronic Warfare System.
+The Chaffs/Flares is AN/ALQ-119; AN/ALQ-131; AN/ALQ-165; AN/ALQ-184; AN/ALQ-162.
+

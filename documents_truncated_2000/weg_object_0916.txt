@@ -1,0 +1,148 @@
+This document describes the AH-1J SeaCobra American Attack Helicopter.
+
+The USMC desired a twin engine AH-1G, based on a desire for improved safety and redundancy for over-water operation, which would become a hallmark of all subsequent USMC AH-1 types. The AH-1J "Sea Cobra" was developed and the USMC ordered this version of the Cobra in May 1968. Featuring the Pratt and Whitney Twinpac T400 engine (two 900-hp turboshaft engines coupled together) giving an overall increase in installed power, the AH-1J Sea Cobra included a new nose turret gun, with the three barrel XM197 20mm cannon, as well as other improvements. While development and production of the first 49 ordered were under way, the Marines obtained 38 AH-1Gs from the Army.
+
+This equipment has proliferated into the following countries: CFE Treaty, Iran (Islamic Republic of), Turkey, United States of America.
+
+Here is Variants information for the AH-1J SeaCobra American Attack Helicopter:
+The AH-1J International is Export version of the AH-1J SeaCobra..
+The AH-1T Improved SeaCobra is Improved version with extended tail boom and fuselage and an upgraded transmission and engines..
+The AH-1(4B)W Viper is "Four-Bladed Whiskey" test version with a four-bladed bearingless composite main rotor based on Bell 680 rotor. A prototype was converted from AH-1T 161022.
+The AH-1Z Viper is A new variant nicknamed "Zulu Cobra", and developed in conjunction with the UH-1Y Venom for the H-1 upgrade program. The variant includes an upgraded four-blade main rotor and adds the Target Sight System (TSS)..
+The Bell 309 KingCobra is Experimental all-weather version based on the AH-1G single-engine and AH-1J twin-engine designs. Two Bell 309s were produced; the first was powered by a PW&C T400-CP-400 Twin-Pac engine set and the second was powered by a Lycoming T-55-L-7C engine..
+The CobraVenom is Proposed version for the United Kingdom..
+The AH-1Z King Cobra is AH-1Z offered for Turkey's ATAK program; selected for production in 2000, but later canceled when Bell and Turkey could not reach an agreement on production..
+The Panha 2091 is Unlicensed Iranian upgrade of AH-1J International..
+The IAIO Toufan is Iranian copy / re-manufactured AH-1J International by Iran Aviation Industries Organization, with locally sourced avionics, and weapons..
+
+Here is System information for the AH-1J SeaCobra American Attack Helicopter:
+The Alternative Designation is PANHA 2091 (Toufan),  IAIO Toufan or Toophan.
+The Type is Attack Helicopter.
+The In Service is 1970-Present.
+The Manufacturer is Bell Helicopter.
+The Capabilities is Ground Attack; Close-Air Support; Navy/Maritime.
+The Crew is 2.
+The Blades, Main Rotor is 2.
+The Blades, Tail Rotor is 2.
+The Number of Engines is 1.
+The Day/Night Capable is Yes.
+The All Weather Capable is INA.
+The Takeoff or Landing Limitations is INA.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the AH-1J SeaCobra American Attack Helicopter:
+The Length, Total is 16.26.
+The Length, Fuselage is 13.59.
+The Rotor Diameter is 13.41.
+The Height is 4.
+The Weight, Combat is 5,534.
+The Weight, Empty is 3,294.
+The Disc Area is 141.3 m sq.
+
+Here is Automotive information for the AH-1J SeaCobra American Attack Helicopter:
+The Engine Name is 2 x Pratt & Whitney T400-CP-400 turboshaft.
+The Engine Type is Turboshaft Engine.
+The Engine Power is 1,800.
+The Cruising Range is 620.
+The Speed, Maximum is 333.
+The Speed, Average is INA.
+The Ceiling is 3,215.
+The Rate of Climb is 494.
+The Fuel Capacity is 305 Gallons.
+The Hover IGE is 3,794 m.
+The Hover OGE is 1,097 m.
+
+Here is Communications information for the AH-1J SeaCobra American Attack Helicopter:
+The Radio is INA.
+
+Here is System information for the AH-1J SeaCobra American Attack Helicopter of the Chin Mounted Gun:
+The Name is M197 electric cannon.
+The Type is 20mm three-barreled electric Gatling-type rotary cannon.
+The In Service is 1967-Present.
+The Manufactuer is General Dynamics Armament Systems.
+The Barrels is 3-barrel (progressive RH parabolic twist, 9 grooves).
+The Rate of Fire is Up to 1500 rpm.
+The Maximum Effective Range is INA.
+
+Here is Ammunition information for the AH-1J SeaCobra American Attack Helicopter of the Chin Mounted Gun:
+The Name is M53.
+The Type is API.
+The Caliber is 20.
+The Cartidge is 20 × 102 mm.
+The Muzzle Velocity is 1,030.
+The Basic Load is 2,000.
+The Bursting Charged is 4.2 g incendiary.
+The Penetration is Penetration 20mm at 25-degree impact and 100 meter range, 6.3mm RHA at 0-degree impact and 1000-m range..
+The Basic Load is 750.
+
+Here is Rocket System (Option 1) information for the AH-1J SeaCobra American Attack Helicopter of the Wing Mounted Weapons:
+The Name is Hyrda 70.
+The Type is 70mm Fin-stabilized unguided rocket.
+The In Service is 1980s-Present.
+The Manufacturer is United States of America.
+The Length is 1,060.
+The Diameter is 70.
+The Muzzle Velocity is 700.
+The Effective Firing Range is 8,000.
+The Maximum Firing Range is 10,500.
+The Speed is 739.
+The Guidance System is Unguided.
+The Basic Load is 14.
+
+Here is Rocket System (Option 2) information for the AH-1J SeaCobra American Attack Helicopter of the Wing Mounted Weapons:
+The Name is Zuni 5-inch Folding-Fin Aircraft Rocket (FFAR).
+The Type is 5in unguided rocket.
+The In Service is 1957-Present.
+The Manufacturer is United States.
+The Length is 2,000.
+The Diameter is 130.
+The Warhead Type is Various.
+The Engine is Solid-fuel rocket.
+The Operational Range is 8.
+The Speed is Mach 2.1.
+The Guidance System is Unguided.
+The Basic Load is 8.
+
+Here is Missile System information for the AH-1J SeaCobra American Attack Helicopter of the Wing Mounted Weapons:
+The Name is AIM-9 Sidewinder.
+The Type is Short-range air-to-air missile.
+The In Service is 1956-Present.
+The Manufacturer is Raytheon Company[1]
+Ford Aerospace
+Loral Corp..
+The Length is 3.02.
+The Diameter is 127.
+The Wingspan is 279.4.
+The Weight is 85.3.
+The Warhead is WDU-17/B annular blast-frag.
+The Warhead Wieght is 9.4.
+The Detonation Mechanism is IR Proximity Fuze.
+The Engine is Hercules/Bermite Mk. 36 Solid-fuel rocket.
+The Operational Range is 1-35.4.
+The Speed is Mach 2.5.
+The Guidance system is Infrared homing (most models)
+semi-active radar homing (AIM-9C).
+
+Here is Fire Control information for the AH-1J SeaCobra American Attack Helicopter:
+The Fire Control System Type is Rocket-launching digital control system.
+The Fire Control Radar is Yes.
+The Digital or Analog Cockpit is Digital.
+The Direct Fire Control is Yes.
+The Laser Designator is Yes.
+The Automated Helmet is INA.
+The Sensor Suite(s) Available is Yes.
+The Position Location System is Yes.
+The Central Smart Arms Management System is Yes.
+The Multi-Display Monitor, is Yes.
+
+Here is Protection information for the AH-1J SeaCobra American Attack Helicopter:
+The Fuselage is INA.
+The Cockpit Glass is INA.
+The Stealth Properties is INA.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The NBC Protection is Yes.
+The EW is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is Yes.
+

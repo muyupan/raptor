@@ -1,0 +1,117 @@
+This document describes the M1985 North Korea Light Amphibious Battle Tank.
+
+The M1985 is a North Korean light tank that is based on the designs of the Russian PT-76 and the Chinese Type 63 amphibious light tanks.
+
+The M1985 hull is similar in size and appearance to the Type 63 but has a turret resembling the PT-76. The hull is probably based on the same chassis as the VTT-323 armored personnel carrier (see separate record).
+
+The North Korean turret does differ in several aspects. On the forward edge of the turret, in line with the main gun, is an anti-tank guided missile rail. The commander's hatch has a semi-circle shape, unlike the Soviet-era oval hatch, and is located on the top left side of the turret. The hatch opens to the front, rather than to the rear as in the PT-76.
+
+The hull is all-welded steel. The driver sits to the front left. Ammunition is stored to his right. The engine and transmission are in the rear.
+
+The M1985 probably does not have any horizontal or vertical gun stabilizers; that, however, is unconfirmed. It may come equipped with a night-vision system and nuclear, biological, and chemical (NBC) warfare protection.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is System information for the M1985 North Korea Light Amphibious Battle Tank:
+The Alternative Designations is M1985.
+The Type is Light Amphibious Battle Tank.
+The Crew is 3.
+The Combat Weight is 19.0.
+The Length is 7.0.
+The Height is 2.6.
+The Width is 3.2.
+
+Here is Automotive information for the M1985 North Korea Light Amphibious Battle Tank:
+The Engine Type is 320-hp Diesel.
+The Cruising Range is 500.
+The Max On-Road is 60.
+The Max Off-Road is INA.
+The Max Cross-Country is INA.
+The Max Swim is 10.
+The Fording Depths is Amphibious.
+
+Here is Protection information for the M1985 North Korea Light Amphibious Battle Tank:
+The Radio is INA.
+The Armor (turret front) is 30.
+The Applique Armor is N/A.
+The Explosive Reactive Armor is N/A.
+The Mobility (mine clearing, self-entrenching) is N/A.
+The NBC Protection System is INA.
+The Smoke Equipment is INA.
+
+Here is Fire Control information for the M1985 North Korea Light Amphibious Battle Tank:
+The FCS Name is INA.
+The Main Gun Stabilization is No.
+The Rangefinder is None.
+The Infrared Searchlight is Yes.
+
+Here is Type 62/63 information for the M1985 North Korea Light Amphibious Battle Tank of the Armament:
+The Caliber (mm) is 85.
+The Type is Rifled gun.
+The Rate of Fire is 6.
+The Rate of Fire is 8.
+The Fire on Move is Yes.
+The Elevation is -4, + 30.
+
+Here is Type 54/DShKM information for the M1985 North Korea Light Amphibious Battle Tank of the Armament:
+The Caliber (mm) is 12.7.
+The Type is HMG.
+The Rate of Fire is 250.
+The Rate of Fire is 650.
+The Fire on Move is Yes.
+
+Here is PKT information for the M1985 North Korea Light Amphibious Battle Tank of the Armament:
+The Caliber is 7.62.
+The Type is Machinegun.
+The Rate of Fire is 250.
+The Rate of Fire is 650.
+The Fire on Move is Yes.
+
+Here is 9P111 information for the M1985 North Korea Light Amphibious Battle Tank of the Armament:
+The Type is ATGM.
+The Rate of Fire is 2.
+The Rate of Fire is 2.
+The Fire on Move is .
+
+Here is BR-365PK information for the M1985 North Korea Light Amphibious Battle Tank of the Ammunition:
+The Caliber (mm) is 85.
+The Type is HVAP-T.
+The Max Aimed Range is 1500.
+The Max Eff Range, Day is 1150.
+The Max Eff Range, Night is 800.
+The Penetration is 130, KE.
+
+Here is Type 367 information for the M1985 North Korea Light Amphibious Battle Tank of the Ammunition:
+The Caliber (mm) is 85.
+The Type is APC-T.
+The Max Aimed Range is 1500.
+The Max Eff Range, Day is 1150.
+The Max Eff Range, Night is 800.
+The Penetration is 120, CE.
+
+Here is BK-2M information for the M1985 North Korea Light Amphibious Battle Tank of the Ammunition:
+The Caliber is 85.
+The Type is HEAT-FS.
+The Max Aimed Range is 1500.
+The Max Eff Range, Day is 1150.
+The Max Eff Range, Night is 800.
+The Penetration is 100, KE.
+
+Here is AT-3 information for the M1985 North Korea Light Amphibious Battle Tank of the Ammunition:
+The Type is ATGM.
+The Max Aimed Range is 1500.
+The Penetration is 410, CE.
+The Warhead Type is Tandem HEAT.
+
+Here is Red Arrow-73A (CHN) information for the M1985 North Korea Light Amphibious Battle Tank of the Ammunition:
+The Type is ATGM.
+The Max Aimed Range is 3000.
+The Penetration is 580, CE.
+The Warhead Type is HEAT.
+
+Here is Malyutka-2 information for the M1985 North Korea Light Amphibious Battle Tank of the Ammunition:
+The Type is ATGM.
+The Max Aimed Range is 3000.
+The Penetration is INA.
+The Warhead Type is Frag-HE.
+

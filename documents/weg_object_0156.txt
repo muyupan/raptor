@@ -1,0 +1,39 @@
+This document describes the YLC-2 (LLQ303) Chinese 3D Air Surveillance and Acquisition Radar.
+
+The YLC-2 radar (domestic designation: LLQ303, formerly known as 385) is a three-dimensional main guidance and surveillance radar developed by the Nanjing Research Institute of Electronics Technology.
+
+In the mid-2000s, an improved version labeled YLC-2A was deployed to the PLA. Equipped with a new Giga-flops digital signal processor, it is capable of Digital Moving Target Indication (DMTI) and Constant false alarm rate (CFAR) processing. An S-band variation called YLC-2U with similar capabilities was also developed for SAM guidance. Both of these advanced YLC-2 radars have been specifically designed to counter stealth fighters such as F-22, with a claimed range of up to 200km even in heavy ECM environment.
+
+This equipment has proliferated into the following countries: China, Myanmar, Pakistan.
+
+Here is Variants information for the YLC-2 (LLQ303) Chinese 3D Air Surveillance and Acquisition Radar:
+The YLC-2A is Upgraded version..
+The YLC-2V is Self-Propelled Version..
+
+Here is System information for the YLC-2 (LLQ303) Chinese 3D Air Surveillance and Acquisition Radar:
+The Alternative Designation is YLC-2.
+The Type is 3D Air Surveillance and Acquisition Radar.
+The Crew is INA.
+The Chassis is INA.
+The Band is L - band.
+The Power Output is 5.5 KW.
+The Peak Power is 85 KW.
+The Detection Range is >500 km.
+The Accuracy Range is 200 m.
+The Azimuth is 3600.
+The Resolution Range is <100 m.
+The MTI Improvement Factor is 44 dB.
+The Antenna Sidelobe Level is -35 dB.
+The Additional Features is *Phased array system and pencil beam scan technology
+*Wide band low sidelobe planar array antenna
+*Monopulse angle measurement
+*Frequency diversity
+*Distributed high power solid-state transmitter
+*Advanced programmable digital signal processing.
+
+Here is Dimensions information for the YLC-2 (LLQ303) Chinese 3D Air Surveillance and Acquisition Radar:
+The Length is 9.0 m.
+The Width is 7.0 M.
+The Height is INA.
+The Weight, Combat is INA.
+

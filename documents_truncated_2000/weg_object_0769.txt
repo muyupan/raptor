@@ -1,0 +1,37 @@
+This document describes the ZALA 421-16E5G HD Russian Unmanned Aerial Vehicle (UAV).
+
+The new unique unmanned aerial system ZALA 421-16E5G is airdrome-free, equipped with a serial hybrid powerplant that provides a guaranteed flight time of more than 12 hours. The unmanned system is designed for long-distance flights and is capable of providing aviation monitoring at a distance of more than 100 kilometers.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the ZALA 421-16E5G HD Russian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is ZALA 421-16E5G HD.
+The Type is Unmanned Aerial Vehicle UAV).
+The Manufacturer is Zala Aero Group.
+The Mission is The unmanned system is designed for long-distance flights and is capable of providing aviation monitoring at a distance of more than 100 kilometers..
+The Airframe Design is Two removable consoles and fuselage.
+The Navigation System is Inertial navigation system with SNS correction (GPS/GLONASS) and two independent radio-range finders.
+The Onboard Computer is A built-in onboard computer of this UAV provides: operation of an encrypted solid-state drive with 500 GB of memory; HD video transmission; the ability to record 3 channels of video in Full HD simultaneously; automatic target tracking; 
+retention of position in space without the presence of SNS by video image in automatic mode; digital image stabilization; "virtual horizon" mode..
+The Operating Temperatures is -40°С … +50°С.
+The Takeoff is Trailer-based pneumatic system.
+The Landing is Trailer-based pneumatic system.
+The Payload is The ZALA 421-16E5G is equipped with a combined payload with an HD thermal imager and a 60x Full HD video camera. The video stream is broadcast in HD format, which allows the operator of the ground station to see the streaming image in the smallest detail. Optionally, the UAV can be equipped with a laser scanning module, a set of cameras for aerial photography, or other equipment that requires power on board..
+
+Here is Dimensions information for the ZALA 421-16E5G HD Russian Unmanned Aerial Vehicle (UAV):
+The Length is INA.
+The Wingspan is 4,640 mm.
+The Height is INA.
+The Weight is INA.
+
+Here is Automotive information for the ZALA 421-16E5G HD Russian Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Hybrid, The power plant is equipped with a buffer storage battery, which ensures the operation of the UAV in "electric" mode for an hour..
+The Engine Power is INA.
+The Recharge Time is A full recharge of the buffer battery in the air will take 2 hours..
+The Flight Speed is 65-110 km/h.
+The Maximum Range is 1200+ km.
+The Maximum Altitude is 3,600 m.
+The Effective Application Height is 200-2000 m.
+The Endurance is 12+ hr.
+

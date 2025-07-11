@@ -1,0 +1,88 @@
+This document describes the Borisoglebsk-2 (RB-301B) Russian Amphibious Multipurpose Jamming Complex.
+
+Borisoglebsk 2 is a Russian, MT-LB ground vehicle-mounted, multi-functional electronic warfare (EW) weapon system. It was developed by Sozvezdie over a six-year period, from 2004 to 2010. The system was however not ordered, or for other reasons not manufactured or delivered, at once to the Russian military. Starting in February 2015, it has been manufactured and delivered by UIMC to the Russian armed forces. It is designed to disrupt communications and GPS systems. Borisoglebsk 2 achieved initial operating capability in 2010 but was not ordered and delivered to the Russian military until February 2015. Rossiyskaya Gazeta reported that Borisoglebsk 2 was the core system for electronic warfare in the Russian Army, controlling four types of jamming units from a single point. Experimentation and testing were conducted after the first deliveries to the Russian armed forces. The system was in active use by the summer of 2015, in eastern Ukraine. It has been claimed that the system has caused difficulties for NATO, supposedly defeating GPS and mobile telephony systems in parts of that country. The United States military commander in Europe, general Frederick Hodges stated to Defense News, that Russia is conducting electronic warfare in eastern Ukraine that even NATO would have difficulties resisting, but did not mention Borisoglebsk 2. US advisers sent to Ukraine have learned about Russian electronic warfare from the Ukrainian Army, though Ukraine never has had access to this new EW technology. The American advisers are nevertheless impressed even with earlier Russian EW technology in the hands of the Ukrainian Army.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Borisoglebsk-2 (RB-301B) Russian Amphibious Multipurpose Jamming Complex:
+The Alternative Designation is Borisoglebsk-2; RB-301B.
+The Type is Multi-Functional Electronic Warfare (EW) Weapon System.
+The Family is Armored Multi-Functional Electronic Warfare (EW) Weapon System.
+The Mission is The Borisoglebsk-2 EW system is designed to jam satellite communication and radio navigation systems and detect, locate and jam tactical-level command and control radio networks and communication lines..
+The Chassis is MT-LB.
+The Borisoglebsk-2 Complex is The Borisoglebsk-2 complex consists of a control post and four EW systems mounted on nine MT-LBu armored tracked vehicles. 1 x R-330KMV Command-and-Control Station; 2 x R-325UMV Jamming Station; 2 x R-934BMV Jamming Station; 2 x R-378BMV Jamming Station; 2 x R-220BMV Jamming Station..
+The Capability is A motorized rifle unit has received the Borisoglebsk-2 electronic warfare(EW) complex which compromises several stations based on a multi-purpose armored all-terrain vehicle. Compared with its predecessors, it has an extended frequency range of radio intelligence and electronic jamming. More powerful EW stations EW can more effectively influence various types of radio-controlled objects. The Borisglebsk-2 can jam control channels of unmanned aerial vehicles, radio-controlled landmines of the adversary. The personnel of the unit has already been trained on the new EW system..
+The Crew is INA.
+The Passenger Capacity is INA.
+
+Here is Dimensions (Chassis: MT-LB) information for the Borisoglebsk-2 (RB-301B) Russian Amphibious Multipurpose Jamming Complex:
+The Length is 6.45.
+The Width is 2.86.
+The Height is 1.86.
+The Weight, Combat is 11,000.
+The Ground Pressure is 0.46 standard track kg/cm2 / 0.28 kg/cm2wide track..
+The Antenna Height is INA.
+
+Here is Automotive (Chassis: MT-LB) information for the Borisoglebsk-2 (RB-301B) Russian Amphibious Multipurpose Jamming Complex:
+The Engine Name is YaMZ 238.
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 30.
+The Speed Maximum Swim is 5.
+The Fording Depth is Amphibious.
+
+Here is R-173 information for the Borisoglebsk-2 (RB-301B) Russian Amphibious Multipurpose Jamming Complex of the Communications:
+The Frequency Range is 30.00 - 75.99 MHz.
+The HF Output is 30.
+The Mudulation is FM.
+The Display is Digital.
+The Entry of Frequency is Touchpad.
+The Preset Channels is 10 channels.
+The Digital Transmission is INA.
+The Sensitivity is 1.5 uV.
+The Range is 50.
+The Operational Voltage is 27+-2v.
+The Weight is 43.
+The Dimensions is 428mm × 222mm × 238mm.
+
+Here is System information for the Borisoglebsk-2 (RB-301B) Russian Amphibious Multipurpose Jamming Complex of the Primary Weapon System on Most Variants:
+The Name is 1 x PKT.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+
+Here is Ammunition information for the Borisoglebsk-2 (RB-301B) Russian Amphibious Multipurpose Jamming Complex of the Primary Weapon System on Most Variants:
+The Type is API, API-T.
+The Caliber is 7.62.
+The Muzzle Velocity is INA.
+The Max Effective Range (Day) is 1,000.
+The Max Effective Range (On the move) is 500.
+The Maximum Aimed Range is 1,500.
+The Min Range is INA.
+The Armor Penetration is 8 mm of RHA at 500m.
+The Other Ammunition Types is Light Ball, Ball-T, Heavy Ball, Incendiary.
+The Basic Load is 1,500.
+
+Here is Fire Control information for the Borisoglebsk-2 (RB-301B) Russian Amphibious Multipurpose Jamming Complex:
+The Name is PP-61AM, 2.6x.
+The Computerized FCS is N/A.
+The Thermal Sight Vehicle Commander is N/A.
+The Thermal Sight Gunner is N/A.
+The Main Gun Stabilization is N/A.
+The Range, Day Sight is 1,500.
+The Range, Thermal Sight is N/A.
+The Field of View is 23.
+
+Here is Protection information for the Borisoglebsk-2 (RB-301B) Russian Amphibious Multipurpose Jamming Complex:
+The Hull Armor is 14.
+The Turret Armor is 14.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Optional.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The Night Vision Device Capable is Yes. Some versions have spot lights..
+

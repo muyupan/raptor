@@ -1,0 +1,31 @@
+This document describes the AN/TAS-8 (LRAS3) American Long-Range Advanced Scout Surveillance System.
+
+The LRAS3 is a forward observation system designed to give the US Army real-time acquisition, target detection, recognition, identification, and long-distance target rangefinding capabilities.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the AN/TAS-8 (LRAS3) American Long-Range Advanced Scout Surveillance System:
+The Alternative Designation is AN/TAS-8; LRAS3.
+The Type is Long-Range Advanced Scout Surveillance System.
+The Manufacturer is Raytheon Missile Systems (formerly Raytheon Network Centric Systems), McKinney, Texas.
+The Crew is 1 x Operator.
+The Model is HTI SG FLIR.
+The Detector is CMT PV.
+The Spectral Range is 8 to 12 µm.
+The Field of View, Wide is 8.0°×4.5°.
+The Field of Veiw, Narrow is 2.6°×1.5°.
+The Day Video Camera Field of View, Wide is 6.0°×4.5°.
+The Day Video Camera Field of View, Narrow is 2.0°×1.5°.
+The Laser Rangefinder Type is Eye-safe.
+The Laser Rangefinder Accuracy is ±5 m.
+The Interfaces is MIL-STD-1553, RS-170, compressed digital video port.
+The Electronic Zoom is ×2 and ×4.
+The Long Range Target Location, Accuracy of 20 m CEP is <15 m at 5 km.
+The Long Range Target Location, Accuracy of 30 m CEP is <25 m at 10 km.
+
+Here is DImensions information for the AN/TAS-8 (LRAS3) American Long-Range Advanced Scout Surveillance System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight is INA.
+

@@ -1,0 +1,101 @@
+This document describes the Sierra II-Class (Project 945A Kondor) Russian Nuclear-Powered Attack Submarine.
+
+The Project 945A Kondor class (NATO designation Sierra II) is a follow-on to the Sierra I class. It was a small and expensive project. As well as its predecessors, the Sierra II class boats had titanium hulls. It has a considerably larger sail than the Sierra I class. Masts are offset on the starboard side to make way for two escape pods in the sail instead of one on the previous Sierra I class. The Project 945A has a considerably larger sail which is 5 m (16.4 ft) longer than the Sierra I class. The sail also has a curiously flat, square leading edge. The masts are offset on the starboard side to make way for two escape pods in the sail. The starboard side also has a 10-point environment sensor fitted at right angles to the front end of the sail. Also, the Sierra II class has a much larger pod on its after fin. The pod houses the Skat 3 passive very low frequency towed sonar array.
+
+Two titanium-hulled SIERRA-II nuclear-powered attack submarines serve with Russia’s Northern Fleet stationed near the Arctic Circle. The last Titanium-Hulled attack submarines completed, represent a premium design compared to the more numerous AKULA Class.
+
+The first of the original Project-945 SIERRA-I Class boats were laid down in 1979 and joined the Navy in 1984. Two SIERRA-Is were joined by two of the improved Project-945A SIERRA-II Class in 1986 and 1989. A single further improved Project-945AB SIERRA-III was laid down but abandoned at the end of the Cold War. Compared to the SIERRA-I, the -II model featured an enlarged sail with two rather than one escape pod in it. One of the pods is offset to port and the other to starboard. A more subtle improvement is an enlarged main sonar, the same MGK-501 Skat passive array fitted to the larger AKULA Class. The increased size of the sonar means that the large-diameter 650mm torpedo tubes had to be replaced by regular 533mm tubes.
+
+Like most modern SSNs the class is covered in sonar absorbing Anechoic tiles. These often fall off creating a pockmarked surface and disheveled appearance. The SIERRAs suffer from this more than most other classes, possibly due to difficulty attaching the tiles to the titanium hull.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Sierra II-Class (Project 945A Kondor) Russian Nuclear-Powered Attack Submarine:
+The NIZHNIY NOVGOROD   (ex-ZUBATKA) is Commissioned: 1988
+Status: Active
+Fleet: Northern Fleet.
+The PSKOV is Commissioned: 1992
+Status: Active 
+Fleet: Northern Fleet.
+
+Here is System information for the Sierra II-Class (Project 945A Kondor) Russian Nuclear-Powered Attack Submarine:
+The Alternative Designation is Sierra II Class; Project 945A Kondor Class.
+The Type is Nuclear-Powered Attack Submarine.
+The Builder is Krasnoye Sormovo Zavod 112, Nizhniy Novogord, Russia.
+The Crew is Total 61 (31 off. + 30 enl.).
+
+Here is Dimensions information for the Sierra II-Class (Project 945A Kondor) Russian Nuclear-Powered Attack Submarine:
+The Length is 110.5 m.
+The Beam is 14.2 m.
+The Draft is 8.8 m.
+The Displacement, Surface is 7,722 tons.
+The Displacement, Submerged is 9,246 tons.
+
+Here is Propulsion System information for the Sierra II-Class (Project 945A Kondor) Russian Nuclear-Powered Attack Submarine:
+The Engine Name is 1 x VM-5.
+The Engine Type is Pressurized-water nuclear reactor.
+The Engine Power is 48,000 total shp.
+The Auxiliary Power is 2 x 496 shp auxiliary propulsion motors; 2 x 185 shp retractable electric maneuvering propulsors.
+The Maximum Surface Speed is 10 knots.
+The Maximum Submerged Speed is 32 knots.
+
+Here is Communication information for the Sierra II-Class (Project 945A Kondor) Russian Nuclear-Powered Attack Submarine:
+The Communications Suite is The class is fitted with the Omnibus combat system, Molnaya-MTs communications suite and the Symfoniya navigation suite..
+
+Here is Missile #1 information for the Sierra II-Class (Project 945A Kondor) Russian Nuclear-Powered Attack Submarine of the Missile Weapon System:
+The Name is SS-N-21 Sampson Cruise Missile.
+The Type is Sea-Launched Cruise Missile.
+The Manufacturer is Novator Design Bureau, Yekaterinburg, Russia
+ Raduga Mechanical Design Bureau, Russia.
+The Length is 8.1 m.
+The Diameter is 510 mm.
+The Wingspan is 3.3 m.
+The Launch Weight is 1,700 kg.
+The Engine is turbofan w/solid-fuel booster.
+The Warhead is 200 kt nuclear; or 400 kg high-explosive or submunitions.
+The Guidance System is Sprut inertial with terrain contour matching homing.
+The Radar is Teraprom active.
+The Maximum Speed is 390 knots (720 km/h).
+The Range is 2,400 km.
+The Circular Error Probable is 150 m.
+The Basic Load is 40 x SS-N-21 Sampson Cruise Missile.
+
+Here is Missile #2 information for the Sierra II-Class (Project 945A Kondor) Russian Nuclear-Powered Attack Submarine of the Missile Weapon System:
+The Name is 1 x Man-portable SAM system.
+The Type is Strela-2M missiles.
+The Length is 1.44 m.
+The Diameter is 72 mm.
+The Weight is 9.8 kg.
+The Wingspan is 0.3 m.
+The Warhead is 1.15 kg directed-energy blast fragmentation warhead.
+The Guidance System is Proportional navigation logic.
+The Detonation Mechanism is Non-delay impact and grazing fuzes, 14–17 second delay self-destruct..
+The Maximum Speed is 430 m/s.
+The Flight Altitude is 50–2300 m.
+The Range is 4,200 m.
+The Basic Load is 12 x Strela-2M missiles.
+
+Here is Torpedo System information for the Sierra II-Class (Project 945A Kondor) Russian Nuclear-Powered Attack Submarine:
+The Torpedo Launcher is 6 x 533-mm bow.
+The Torpedo Name is USET-80 torpedo.
+The Basic Load is 40 x  USET-80 torpedoes carried].
+
+Here is Mine System information for the Sierra II-Class (Project 945A Kondor) Russian Nuclear-Powered Attack Submarine:
+The Note is 42 x mines max in lieu of torpedoes and/or other weapons.
+
+Here is Radar Systems information for the Sierra II-Class (Project 945A Kondor) Russian Nuclear-Powered Attack Submarine:
+The Surface Search / Navigation Radar is 1 x MRK-50 Albatros' series (Snoop Pair) surface search/navigation.
+
+Here is Sonar Systems information for the Sierra II-Class (Project 945A Kondor) Russian Nuclear-Powered Attack Submarine:
+The Passive Flank Array Sonar is 1 x MGK-540 Skat-3 (Shark Gill) low frequency suite that includes Shark Rib passive flank arrays.
+The Mine-Avoidance Sonar is 1 x MG-519 (Mouse Roar) active high-frequency mine-avoidance system.
+The Towed Passive Array Sonar is 1 x large aperture towed passive hydrophone array.
+
+Here is Protection information for the Sierra II-Class (Project 945A Kondor) Russian Nuclear-Powered Attack Submarine:
+The Hull Armor is The Project 945A nuclear-powered submarine is the sole submarine in the world with a titanium hull, which reduces its radar signature considerably. The boats have seven watertight compartments in the pressure hull, rather than six in the earlier Project 945 variant, to incorporate improved sound quieting and crew amenities. The titanium pressure hull has a yield strength of 70-72 kg/mm2 and a hemispheric end cap. The use of titanium for the pressure hull was intended to reduce the magnetic signature and to permit a lighter, river-transportable submarine. A solid-fuel pyrotechnic gas generator system can be used to blow the two main ballast tanks in an emergency..
+The Sonar Absorbing Anechoic Tiles is Like most modern SSNs the class is covered in sonar absorbing Anechoic tiles. These often fall off creating a pockmarked surface and disheveled appearance. The SIERRAs suffer from this more than most other classes, possibly due to difficulty attaching the tiles to the titanium hull..
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+The EW Intercept is 1 x Rim Hat intercept.
+The EW Direction-Finding is 1 x Park Hat direction-finding.
+

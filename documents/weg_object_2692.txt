@@ -1,0 +1,107 @@
+This document describes the Red Arrow AFT-10 Chinese Anti-Tank Guided Missile Carrier.
+
+Red Arrow AFT-10 Chinese Anti-Tank Guided Missile Carrier is developed by Norinco. The AFT-10 multi-purpose missile system with HJ-10 anti-tank guided missile (ATGM) is designed to engage modern armored vehicles, including equipped with dynamic protection, fortifications, and engineering structures, low-speed air, and surface targets at any time, under severe weather conditions.
+
+The HJ-10 ATGM was adopted by the People's Liberation Army of China in 2012. It is used to equip combat helicopters, unmanned aerial vehicles and to mount on self-propelled chassis of various types. According to published information, the missile nearest analog is the Israeli Spike-ER. The main element of the complex is the guided-missile HJ-10 (红箭-10, Hong Jian - 10, "Red Arrow -10"). The missile (see photo) has a cylindrical body of large elongation and a hemispherical head cowl. It is made according to the normal aerodynamic scheme, in the middle part of the hull, there are X-shaped wings, which are unfolded after leaving the TIC. Two pairs of rudders are located in the tail part. The rocket is equipped with the solid propellant launch and marching engines. Recessed taper-type marching engine nozzles are located on the side surface of the rocket in front of the rudder.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Red Arrow AFT-10 Chinese Anti-Tank Guided Missile Carrier:
+The VN-1 Red Arrow 10 ATGM Carrier is Red Arrow 10 ATGM system mounted on a VN-1 8x8 wheeled chassis..
+
+Here is System information for the Red Arrow AFT-10 Chinese Anti-Tank Guided Missile Carrier:
+The Alternative Designation is Red Arrow AFT-10; HJ-10 Mounted; ZBD-04A ATGM.
+The Type is Anti-Tank Guided Missile System Carrier.
+The Manufacturer is NORINCO.
+The Status is In Service.
+The Production is 2011 - present.
+The Family is Red Arrow Missile and ZBD Track Vehicle Families.
+The Emplacement Time is INA.
+The Crew is 3 Personnel.
+The Displacement Time is INA.
+The Maximum Effective Range (Missile System) is 8 - 10.
+The Amphibious is Yes; however, as a result of the additional armor, the ZBD-04A tracked chassis has a reduced amphibious capability and is only able to cross inland rivers and streams at a maximum speed of 6 km/h. It is is not fitted with water jets for propulsion while afloat. It has a reduced amphibious performance and is powered by its tracks with limited control as a result..
+The Maximum Range (Tracked Carrier) is 400.
+The Note is Assessed to be task organized to fight along with China's mechanized infantry brigades..
+
+Here is Carrier Dimensions information for the Red Arrow AFT-10 Chinese Anti-Tank Guided Missile Carrier:
+The Length is 7.52 m.
+The Width is 3.4 m.
+The Height is 2.7 m.
+The Weight (Combat) is 24,000 kg.
+
+Here is Automotive information for the Red Arrow AFT-10 Chinese Anti-Tank Guided Missile Carrier:
+The Engine Name is 404 kW (541 bhp) six-cylinder, water-cooled turbo-diesel.
+The Engine Type is Turbo-diesel.
+The Engine Power is 590 hp.
+The Engine Location is Front Right.
+The Cruising Range is 400.
+The Maximum Road Speed is 60.
+The Average Cross Speed is 45.
+The Maximum Swim Speed is 6.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.7.
+The Trench is 2.7.
+The Fording Depth is 1.4.
+The Suspension is Traditional torsion bar configuration, with each side having six dual rubber tire road wheels and a driver sprocket at the front, idler at the rear and track return rollers. Only the upper part of the suspension is covered..
+
+Here is Missile information for the Red Arrow AFT-10 Chinese Anti-Tank Guided Missile Carrier:
+The Name is HJ-10 Red Arrow.
+The Type is Tandem HEAT.
+The Caliber is 170 mm.
+The Diameter is 170 mm.
+The Length is 1,775 mm.
+The Engine Propellant is Solid Fuel.
+The Muzzle Velocity is Supersonic.
+The Guidance System is Fiber-optic wire-guided missile.
+The Loading Type is Manual Loading.
+The Minimum Range is 2,000.
+The Maximum Range is 8,000.
+The Effective Range is 10.
+The Warhead Type is Tandem HEAT.
+The Warhead Weight is INA.
+The Self-Destruct is INA.
+The Armor Penetration is 1,400 mm of conventional Steel Armor protected by Explosive Reactive Armor (ERA).
+The Rapid Firing is 47.
+The Basic Load is The Red Arrow 10 ATGW system uses eight missiles launched from cannisters.
+
+Here is Fire Control information for the Red Arrow AFT-10 Chinese Anti-Tank Guided Missile Carrier:
+The Name is Norinco Advanced FCS.
+The Note is Enabling the FCS is an optical mast mounted above the missile cannisters that can be extended above the vehicle to observe the effect on target as well as identify targets. The optical suite is equipped with a camera as well as an IR channel. The system can also process targets designated and selected by networked ground surveillance radar..
+The Design is IR TV Wire Guidance System.
+The Guidance System is Fiber-optic cable.
+The TV (Sensor Pod) is Yes.
+The IR (Sensor Pod) is Yes.
+The Night IR Detection Range is 6,000.
+The Identification Range is 5,000 - 8,000.
+The Day time TV Detection Range is 10,000.
+The LRF is Yes.
+
+Here is TBR-121 information for the Red Arrow AFT-10 Chinese Anti-Tank Guided Missile Carrier of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1-50 km.
+The Proliferated is Widely.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Note: is Similar to US SINCGARS ASIP Radio systems.
+
+Here is Protection information for the Red Arrow AFT-10 Chinese Anti-Tank Guided Missile Carrier:
+The Armor Material is Welded steel and modular armor panels.
+The Hull Armor (Front) is The hull is built from welded steel and modular armor panels, believed to be composite based on the weight of the vehicle are added to the sides and front. The front of the hull is believed to provide protection against 30 mm projectiles fired from a range of 500 m and the sides of the platform are resistant to 14.5 mm projectiles fired from 200 m. Protection against 14.5mm projectiles at a distance of 200 meters..
+The Hull Armor (Side) is Modular armor, assessed to be composite..
+The Hull Armor (Rear) is The rear and roof are thought to provide protection from only 7.62 mm AP projectiles and artillery fragments..
+The Under the Hull Armor is The bottom of the hull is reinforced, and it is believed to provide protection from small anti-tank mines. Protection from 7.62mm AP projectiles and artillery fragments. Withstands mine blasts equivalent to 10 kg of TNT anywhere under the hull..
+The Applique Armor is Yes, added to the front and sides of the hull.
+The Explosive Reactive Armor is Yes.
+The Active Protection System is Yes, some fielded feature a multi-spectral IR countermeasures package mounted on the mast above the cannisters. Technical capability details unknown..
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, includes a bank of seven electrically operated smoke grenade launchers mounted in front of the canister turret..
+The Automatic Fire Suppression System is Yes.
+The Battle Management System is Yes.
+The Navigation Suite is Yes, Beidou satellite navigation system.
+The Firing Port is The vehicle features firing and viewing ports on each side toward the rear of the hull. Crew members can also fire out of rear hatches, using the hatch covers locked vertically as shields..
+

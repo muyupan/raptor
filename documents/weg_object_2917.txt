@@ -1,0 +1,30 @@
+This document describes the Groza-R2 Belarusian Counter-UAS Jammer.
+
+The “Groza-R2” counter-UAS jammer is a man portable system designed for short range jamming of ground to UAS uplinks and onboard UAS navigation receiver downlinks from both GPS and GLONASS satellites.
+
+This equipment has proliferated into the following countries: Belarus.
+
+Here is System information for the Groza-R2 Belarusian Counter-UAS Jammer:
+The Alternative Designation is Groza-R2 Unmanned Aerial System (UAS) Jammer.
+The Type is Short-range UAS Man-portable Jammer.
+The Manufacturer is KB Radar Design Bureau in Minsk, Belarus.
+The Crew is 1.
+The Frequency Bands of Control Channels Jammed is 2400-2480 MHz
+5725-5850 MHz.
+The Frequency Band of Satellite Radio Navigation Systems Jammed is 1570-1610 MHz.
+The Jamming Range of UAS Satellite Radio Navigation Systems is minimum 1 km.
+The Jamming Range of UAS Control Channel is up to 1 km (when a UAS is at least
+200 m away from the operator’s control console).
+The Output Power at Frequencies of 2.4 GHz is minimum 4 W.
+The Output Power at Frequencies of 5.8 GHz is minimum 3 W.
+The Output Power at Frequencies of GPS and GLONASS Satellite Radio Navigation Systems is minimum 1 W.
+The Continuous radiation time is minimum 30 min..
+The Power supply is storage battery.
+The Protection rating IP is IP54.
+
+Here is Dimensions information for the Groza-R2 Belarusian Counter-UAS Jammer:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is maximum 6.5 kg.
+

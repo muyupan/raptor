@@ -1,0 +1,72 @@
+This document describes the Eagle IV Swiss 4x4 Reconnaissance Vehicle.
+
+The Eagle IV Swiss 4x4 Reconnaissance Vehicle is suited as a platform for mission roles such as reconnaissance, surveillance, command or military police tasks. It is based on the advanced Mowag Duro 3 chassis technology with roll stabilizer and the De-Dion axle system. Along with the permanent all-wheel drive system, the roll stabilizer and axle system help give the vehicle high off- and on-road mobility.
+The Eagle IV is also capable of carrying a high payload with a low gross vehicle weight. It can be equipped with an NBC overpressure system, central tire inflation system (CTIS), winch, mission-specific cargo module and an optional EURO IV engine. The vehicle can also be fitted with an overhead weapon station.
+
+This equipment has proliferated into the following countries: Denmark, Germany, Switzerland.
+
+Here is Variants information for the Eagle IV Swiss 4x4 Reconnaissance Vehicle:
+The Eagle I is INA.
+The Eagle II Reconnaissance Vehicle is This variant is slightly heavier than the Eagle I with a better power-to-weight ratio. The chassis is based on the enhanced capability vehicle (ECV) Humvee. It is fitted with a metal and composite armor shell capable of withstanding NATO Standard Agreement (STANAG) Level II or III threats. A Mowag armored MBk2 observation cupola is fitted..
+The Eagle III Artillery Forward Observation Vehicle is This vehicle is used for target surveillance, acquisition, observation, reconnaissance and patrol missions. It carries a crew of four (driver, surveyor, forward observer and signals operator). Panoramic bulletproof windows ring the vehicle, which is fitted with a raised roof. It is protected by high-hardness armored steel and composite armor. Additional mine protection is available as an option..
+The Eagle IV Military Tactical Vehicle is The military tactical vehicle is suited as a platform for mission roles such as reconnaissance, surveillance, command or military police tasks. It is based on the advanced Mowag Duro 3 chassis technology with roll stabilizer and the De-Dion axle system. Along with the permanent all-wheel drive system, the roll stabilizer and axle system help give the vehicle high off- and on-road mobility..
+The Eagle V is This is a further development of the Eagle IV with a larger payload capacity, internal volume and increased crew protection, while providing the same mobility. The vehicles can be optimized for different missions with the application of modular add-on kits. It is available in 4 x 4 and 6 x 6 variants. The former was made public in 2010 and the latter in 2012. The two variants are about 80 percent common..
+The Eagle BAT ambulance is This ambulance accommodates an emergency doctor, rescue assistant and a driver/paramedic. The vehicle permits patient transport and emergency treatment under protection..
+The Eagle V 6 x 6 is The is a 6 x6 compact off-road vehicle powered by a six-cylinder turbo-diesel engine coupled to a five-speed automatic transmission and a two-stage transfer case..
+The VERO robotics kit is Developed by Ruag Defence in Switzerland, this is a robotics kit that can be retrofitted onto the Eagle IV, among other vehicles..
+
+Here is System information for the Eagle IV Swiss 4x4 Reconnaissance Vehicle:
+The Alternative Designation is Eagle IV.
+The Type is Reconnaissance Vehicle.
+The Manufacturer is General Dynamics European Land Systems-Mowag, Kreuzlingen, Switzerland
+ General Dynamics European land Systems-Germany, Kaiserslautern, Germany.
+The Family is Eagle Series.
+The Crew is 4 (driver, commander, signals operator, observer).
+The Passenger Capacity is INA.
+
+Here is Dimensions information for the Eagle IV Swiss 4x4 Reconnaissance Vehicle:
+The Length is 5.40 m.
+The Width is 2.16 m.
+The Height is 2.40 m.
+The Weight, Combat is 7,400 kg.
+The Weight, Empty is 5,000 kg.
+The Weight, Gross is 8,500 kg.
+The Payload is 2,200 kg.
+
+Here is Automotive information for the Eagle IV Swiss 4x4 Reconnaissance Vehicle:
+The Engine Name is 1 x Cummins ISBe.
+The Engine Type is 5.9 liter (360 cu in) turbo common
+rail 4-stroke diesel.
+The Engine Power is 250 hp (184 kW).
+The Fuel Capacity is 180 liters.
+The Transmission is Allison 1000 5-speed automatic.
+The Acceleration is 11 sec (0-50 kph, 0-31 mph).
+The Range is 480.
+The Speed, Maximum Road is 120.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is 0.8 m.
+The Gradient is 60 percent.
+The Side Slope is 40 percent.
+The Vertical Step is 0.5 m.
+The Trench is 0.5 m.
+The Turning Diameter is 16.5 m.
+
+Here is Main Gun information for the Eagle IV Swiss 4x4 Reconnaissance Vehicle:
+The Note is 1 x 7.62-mm machine gun facing forward in turret. Name of 7.62mm Machine Gun: INA.
+
+Here is Fire Control information for the Eagle IV Swiss 4x4 Reconnaissance Vehicle:
+The Name is INA.
+The Computerized FCS is No.
+The Main Gun Stabilization is No.
+
+Here is Protection information for the Eagle IV Swiss 4x4 Reconnaissance Vehicle:
+The Hull Armor is Protection against 5.56-mm and 7.62-mm ball ammo from 33 yds (30 m) and up; and protection against 7.62-mm steel jacket ammo from 109 yds (100 m) and up.
+The Turret Armor is Protection against 5.56-mm and 7.62-mm ball ammo from 33 yds (30 m) and up; and protection against 7.62-mm steel jacket ammo from 109 yds (100 m) and up.
+The Applique Armor is Available, The Eagle IV is armored with composite plates mounted to the inner face of aluminum plates to provide a high-level of ballistic protection. A non-armored version is also available..
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is Yes, Overpressure System.
+The Smoke Equipment is Yes, 6 x smoke-grenade launchers facing rear from turret.
+

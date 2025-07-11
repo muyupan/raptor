@@ -1,0 +1,79 @@
+This document describes the M113AS4 Australian Armored Personnel Carrier (APC).
+
+The M113AS4 is an Australian-made upgrade of the old M113AS1 and M113AS3 which are based on the American M113A1 tracked armoured personnel carrier (APC), one of the most popular light tracked APC in the world. The project of Australian M113 upgrade was leaded by BAE Systems. The decade long project to upgrade 433 M113 vehicles began in 2002, with the first completed vehicle delivered to the customer in January 2007. While the upgraded Australian M113s look similar to how they would have in the 1970’s, they are ‘a generational leap ahead’ with improved firepower, protection and habitability from the original M113 A1 vehicle. The finished vehicles are also more reliable and faster following the upgrade. The Australian Army operates a fleet of some 800 members of the M113 series of full-tracked armoured personnel carriers in different variants including ambulance, fire support, command post, mortar carrier, recovery and load carrier vehicles. The M113AS4 is currently the standard tracked APC of Australian armed forces. The M113 Armoured Personnel Carrier (APC) is an all-terrain vehicle designed to protect and transport its crew and up to ten Infantry personnel. In September 1996, the Australian Department of Defence selected the now Tenix Defence Systems Pty Ltd, Australia to upgrade 364 of the Australian Army's fleet of M113A1 series of full-tracked Armoured Personnel Carriers (APCs) to extend their operational life through to the year 2010.
+
+This equipment has proliferated into the following countries: Australia.
+
+Here is Variants information for the M113AS4 Australian Armored Personnel Carrier (APC):
+The M113AS4 AF is armored fitted, fitted with a Hiab crane. A total of 38 of these vehicles will be delivered..
+The M113AS4 ARVL is armored recovery vehicle, fitted with a 13 t capacity winch. A total of 12 of these vehicles will be delivered..
+The M113AS4 AA is armored ambulance. A total of 15 of these vehicles will be delivered..
+The M113AS4 ACV is armored command vehicle. A total of 43 of these vehicles will be delivered..
+The M113AS4 ALV is armored logistics vehicle. It can take all types of combat supplies and carry them under armor. A total of 50 of these vehicles will be delivered..
+
+Here is System information for the M113AS4 Australian Armored Personnel Carrier (APC):
+The Alternative Designation is M113AS4.
+The Type is Armored Personnel Carrier (APC).
+The Manufacturer is Australia. Company: INA.
+The Crew is 2.
+The Passenger Capacity is 10.
+
+Here is Dimensions information for the M113AS4 Australian Armored Personnel Carrier (APC):
+The Length is 6 m.
+The Width is 2.62 m.
+The Height is 2.6 m.
+The Weight, Combat is 18 tons.
+
+Here is Automotive information for the M113AS4 Australian Armored Personnel Carrier (APC):
+The Engine Name is MTU 6V199TE.
+The Engine Type is Diesel.
+The Engine Power is 350.
+The Cruising Range is 500.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.6.
+The Trench is 1.8 ~ 1.9.
+The Fording Depth is 1.6.
+
+Here is System information for the M113AS4 Australian Armored Personnel Carrier (APC) of the Main Gun:
+The Name is M2 Browning.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight is 38 kg (83.78 lb)
+58 kg (127.87 lb) with tripod and T&E (Traverse and Elevation Mechanism).
+The Action is Short recoil-operated.
+The Rate of Fire is 450–600 rounds/min.
+The Muzzle Velocity is 890 m/s.
+The Maximum Firing Range is 7,400 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is Belt-fed (M2 or M9 links).
+
+Here is Ammunition information for the M113AS4 Australian Armored Personnel Carrier (APC) of the Main Gun:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Basic Load is 2,000.
+
+Here is Fire Control information for the M113AS4 Australian Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is No.
+The Thermal Sight Vehicle Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is INA.
+
+Here is Protection information for the M113AS4 Australian Armored Personnel Carrier (APC):
+The Hull Armor is Vehicle's hull provides protection against up to 14.5 mm rounds..
+The Turret Armor is INA.
+The Applique Armor is Protection of the upgraded APC was enhanced by add-on ceramic armor tiles. Hull was reinforced for additional protection against landmines and IED blasts. Interior was fitted with spall liner..
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

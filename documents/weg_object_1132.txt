@@ -1,0 +1,117 @@
+This document describes the R440 Crotale French 4x4 Short-Range Air Defense Missile System.
+
+The Crotale EDIR is an all-weather short-range anti-air missile, which can be used to intercept low-flight anti-ship missiles and aircraft. It has been developed by Thomson CSF Matra and exists in two versions, a mobile land-based version and a ship-launched one.
+
+Originally the Crotale R440 system was developed by Rockwell International and Thomson-Houston (and Mistral) in France for South Africa, where it was named Cactus. However, the achievements of the system impressed the French Armed Forces, who purchased the system both for the air force and for the navy.
+
+The firing system includes the main sensors of the ship, the firing system of the turret, and a central coordination system. The turret holds eight missiles ready for launch in watertight containers. The magazine behind the turret holds 18 missiles.
+
+The French army first utilized a 4x4 wheeled vehicle, armed with four launchers. In order to ensure higher mobility, it was decided to mount the system on the chassis of the French AMX-30 main battle tank. At the same time, the number of launchers were increased to six. In Finnish Army service, the Crotale NG system has been mounted on Sisu Pasi vehicles. Here the number of launchers is eight.
+
+The Crotale system has also been installed on various military ships. For instance the French Navy La Fayette class frigates have a Crotale 8-tubed launcher near the helicopter flight deck.
+
+This equipment has proliferated into the following countries: Bahrain, Egypt, Finland, France, Greece, Iran (Islamic Republic of), Morocco, Oman, Pakistan, Saudi Arabia, South Korea (Republic of Korea), United Arab Emirates.
+
+Here is Variants information for the R440 Crotale French 4x4 Short-Range Air Defense Missile System:
+The R440 Crotale is The original Crotale SAM system, with both land and sea (Sea Crotale) systems. Over 330 systems and several thousand missiles were produced and exported to more than 15 countries..
+The HQ-7 is China developed the HQ-7 system partly from reverse-engineering Crotale. An improved version, the HQ-7A/FM-90, is known to exist..
+The Shahab Thaqeb is In 2002 Iran revealed details concerning a domestically produced surface-to-air missile system, named Shahab Thaqeb. The system, mounted on a 4-wheel trailer, closely resemembled the Chinese HQ-7/FM-80/90 series which Iran had already received. It was unclear whether these systems were actually manufactured in Iran, or whether some portion of the assembly had been conducted domestically..
+The R460 SICA (Shahine) is Thomson-CSF (now Thales) developed a specific version of the Crotale known as "Shahine" for Saudi Arabia. The system became operational in 1980. The main visible differences are mainly the carrier (an AMX 30 armoured carrier instead of the non protected classic carrier), and that it carries a six missile firing unit (instead of four). The purpose of the changes was to allow the Shahine firing and acquisition units to follow and protect the armoured units of the Saudi Armed Forces on the battlefield. The Shahine units were among the first vehicles to liberate Kuwait City in February 1991 – a picture taken of the scene was widely publicised by Newsweek magazine..
+The Liberty Forward Area Air Defense System is Developed in conjunction with LTV for the US Army's Line of Sight-Forward Heavy competition, the Liberty air defense system consisted of either 6 R460 SICA or 6 VT-1 missiles mounted on an M1A1 Abrams chassis along with a pair of 25mm cannons.
+The Crotale NG (VT-1) is An updated version, New Generation. Finland was the first operator of the system. The cost of the system is roughly 8 million euros (excluding the vehicle). Greece is another user, and paid 1 Billion French Francs in 1998 for 11 systems: 9 for the Hellenic Air Force and 2 for the Hellenic Navy. In 2002 euros, that would have amounted up to 12 million euros per unit..
+The Crotale Mk.3 (system) is In January 2008, France test-fired the new Crotale Mk.3 system at the CELM missile launch test center in Biscarrosse. The Crotale Mk.3 system's VT1 missile successfully intercepted a Banshee target drone at 970 metre altitude and 8 km range in 11 seconds on 15 January 2008. Later, on 31 January 2008, the system successfully intercepted another target drone at a 500-metre altitude and 15 km range in 35 seconds..
+
+Here is System information for the R440 Crotale French 4x4 Short-Range Air Defense Missile System:
+The Alternative Designation is R440 Crotale.
+The Type is French Short-Range Air Defense Missile System.
+The Family is Crotale.
+The Function is The Crotale is a point defense system, designed to protect high value targets, such as airfields, military bases, ammunition depots, and so on. The original design aim of the Crotale was to engage supersonic low-flying aircraft..
+The Chassis is Thomson-Hotchkiss P4R 4x4 armored chassis.
+The Crew is 3.
+The Displacement Time is 5.
+The Emplacement Time is 5.
+The Fire on the Move is No, it takes 5 minutes to launch the missiles from travelling..
+The Note #1 is The Crotale is one of the most successful SAM design ever built. This air defense system still evolves and remains in production for more than 40 years. A wide range of its variants have been built. It is in service with 15 countries..
+The Note #2 is A typical battery of the Crotale consists of two or three TELAR vehicle and one vehicle with acquisition radar. TELARs and acquisition and coordination unit are connected with cables. These are supported by a host of maintenance and support vehicles. It takes 2 minutes to reload all four missiles..
+
+Here is Dimensions information for the R440 Crotale French 4x4 Short-Range Air Defense Missile System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+The Ground Pressure is INA.
+The Note is There is no available information on the dimensions of the Thomson-Hotchkiss P4R 4x4 armored chassis..
+
+Here is Automotive information for the R440 Crotale French 4x4 Short-Range Air Defense Missile System:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Cruising Range is 600.
+The Speed, Maximum Road is 80.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.5.
+The Trench is 0.5.
+The Fording Depth is 0.8.
+The Note is mobility of this vehicle is rather limited. It was developed as a point defense system, rather than operate alongside land force maneuver elements. It takes about 5 minutes to launch missiles from travelling. There is also a towed variant, that is less mobile..
+
+Here is Communications information for the R440 Crotale French 4x4 Short-Range Air Defense Missile System:
+The Tactical Radio is INA.
+
+Here is Missile System information for the R440 Crotale French 4x4 Short-Range Air Defense Missile System:
+The Name is VT-1.
+The TELAR is Thomson-Hotchkiss P4R 4x4 armored chassis.
+The Length is 3.
+The Diameter is 0.55.
+The Engine is solid-propellant fuel.
+The Missile Weight is 84.5.
+The Basic Load is 4.
+The Warhead Type is HE-FRAG.
+The Warhead Weight is 15.
+The Max Elevation is INA.
+The Min Elevation is INA.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Range Of Fire is up to 12 km.
+The Minimum Range of Fire is 500-700.
+The Guidance System is semi-active radar homing
+electro-optical sensors
+Infra-red search and track..
+The Maximum Altitude of Fire is 5.5.
+The Detonation Mechansim is infrared fuse, radio fuse.
+The Speed is 1,200.
+The Hit Probability, 1 Missile is 80.
+The Hit Probability, 2 Missile is 96.
+The Additional Missiles is VT-1 or the Mk3 Missiles can be fired from the R440 Crotale.
+
+Here is Fire Control System information for the R440 Crotale French 4x4 Short-Range Air Defense Missile System of the Fire Control:
+The Name is Crotale Acquisition and Coordination Unit (ACU).
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Optical Aiming System is Yes.
+
+Here is Radar information for the R440 Crotale French 4x4 Short-Range Air Defense Missile System of the Fire Control:
+The Name is INA.
+The Type is Engagement Radar.
+The Frequency/Band is INA.
+The Maximum Detection Range is 18.4.
+The Maximum Tracking Range is 17.
+The Number of Targets System can Detect is 30.
+The Number of Targets System can Track is 12.
+The Note is This vehicle detects targets, tracks them, identifies targets, identifies weather it is friend or foe..
+
+Here is Protection information for the R440 Crotale French 4x4 Short-Range Air Defense Missile System:
+The Hull Armor is Armor of this vehicle provides protection against small arms fire and artillery shell splinters..
+The Turret Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

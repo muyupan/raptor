@@ -1,0 +1,138 @@
+This document describes the Caesar French 155mm Self-Propelled Howitzer (SPH).
+
+The CAESAR 8x8 self-propelled howitzer was developed by Nexter. Sometimes this artillery system is referred as CAESAR 2. The acronym CAESAR stands for CAmion Equipe d'un Systeme d'ARtillerie, or truck equipped with an artillery system. It is based on the original CAESAR, which first appeared back in 1994 and was the first mass produced truck-mounted howitzer. Prototype of the CAESAR with 8x8 configuration was revealed in 2015. The new artillery system, which emerged more than 20 years after its predecessor, is based on an 8x8 chassis. Gun of the new artillery system remains without significant changes, however weapon control systems have been updated. So the CAESAR 8x8 can shoot faster and is more accurate than its predecessor. In 2017 Denmark selected this artillery system to replace their old M109 howitzers that are in service since 1965.
+
+This equipment has proliferated into the following countries: France, Indonesia, Lebanon, Saudi Arabia, Thailand.
+
+Here is System information for the Caesar French 155mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is Caesar 8x8 French 155mm Self-Propelled Howitzer (SPH).
+The Manufacturer is Nexter Systems.
+The Type is Self-Propelled Howitzer (SPH).
+The Family is Caesar Family of SPH.
+The Configuration is 8x8.
+The Crew is 4.
+The Chassis is Mercedes-Benz (6 × 6) truck.
+The Displacement Time is 1.
+The Emplacement Time is 1.
+
+Here is Dimensions information for the Caesar French 155mm Self-Propelled Howitzer (SPH):
+The Length is 12.3.
+The Width is 2.8.
+The Height is 3.1.
+The Weight, Combat is 17.7.
+The Ground Pressure is INA.
+
+Here is Automotive information for the Caesar French 155mm Self-Propelled Howitzer (SPH):
+The Engine Name is 366 LA 6.
+The Engine Type is Diesel.
+The Engine Power is 400.
+The Fuel Capacity is 230.
+The Maximum Range is 600.
+The Speed, Maximum Road is 100.
+The Speed, Average Cross is 50.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 40.
+The Side Slope is 30.
+The Vertical Step is 0.6.
+The Trench is 2.1.
+The Fording Depth is 1.2.
+The Ground Clearance is 0.40.
+
+Here is Communications information for the Caesar French 155mm Self-Propelled Howitzer (SPH):
+The Radio is Thales PR4G radios.
+
+Here is System information for the Caesar French 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is 155 mm/L52 howitzer.
+The Type is 155.
+The Breech Type is Screw breech block.
+The Length, Barrel is 52 calibers.
+The Loader Type is Manual.
+The Max Rate of Fire is 6.
+The Rate of Fire Burst is 3.
+The Rate of Fire Sustained is 6.
+The Muzzle Brake Type is Double baffle.
+The Max Elevation is +72.
+The Min Elevation is -4.
+The Traverse Range is 34.
+The Traverse Left is 17.
+The Traverse Right is 17.
+The Maximum Firing Range is 42-55.
+The Charge System is Conventional Bag Charges or the Modular Charge System (MCS).
+The Top Charge System (TCS) is Yes.
+The Top Charge Modules (TCM) is Yes.
+The Bottom Charge System (BCS) is Yes.
+The Bottom Charge Modules (BCM) is Yes, 2 each.
+The Note is In addition to firing the standard French Army LU122 high-explosive base bleed (BB) and Hollow Base (HB) projectile CAESAR has also fired the Rheinmetall Denel Munitions Velocity enhanced Long range Artillery Projectile (VLAP) which achieved a maximum range of 58 km..
+
+Here is Ammunition (Option 1) information for the Caesar French 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is Frag-HE, Extended Range Full-Bore/Base Bleed.
+The Caliber is 155.
+The Muzzle Velocity is 895.
+The Fuse Type is PD.
+The Minimum Effective Range is 4,500.
+The Maximum Effective Range is 35,000 m ERFB, 42,000 m ERFB-BB m.
+The Penetration is INA.
+The Projectile Weight is 43.7.
+The Basic Load is 18 Total of any 155mm projectile combination.
+
+Here is Ammunition (Option 2) information for the Caesar French 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is Ogre, Cargo (DPICM) with 63 submunitions.
+The Caliber is 155.
+The Muzzle Velocity is 897.
+The Fuse Type is Proximity on submunitions.
+The Minimum Effective Range is 4,500.
+The Maximum Effective Range is 35,000.
+The Penetration is 90.
+The Projectile Weight is 43.1.
+The Basic Load is 18 Total of any 155mm projectile combination.
+
+Here is System information for the Caesar French 155mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Name is 1 x M2 HB Anti-Aircraft Machine Gun.
+The Type is 12.7.
+The In Service is 1933-Present.
+The Manufacturer is Current: General Dynamics, Fabrique Nationale.
+The Proliferation is Over 3 Million.
+The Max Rate of Fire (M2HB Version) is 450-600.
+The Max Rate of Fire (AN/M2 Version) is 750-850.
+The Max Rate of Fire (AN/M3 Version) is 1,200-1,300.
+The Weight (Gun Only) is 38.
+The Weight (Gun and Tripod) is 58.
+The Length (Total) is 1,654.
+The Length (Barrel) is 1,143.
+The Action is Short recoil-operated.
+
+Here is Ammunition information for the Caesar French 155mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Muzzle Velocity is 450-1,200.
+The Effective Range is 1,800-2,000.
+The Basic Load is 2,000.
+
+Here is Fire Control information for the Caesar French 155mm Self-Propelled Howitzer (SPH):
+The Name is FAST-Hit computer FCS with Sagem Signal 30 and GPS navigation, aiming, and command net combined. In French forces, it will link to the Atlas artillery C2 net..
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is No.
+The Thermal Sight Gunner is No.
+The Main Gun Stabilization is Yes, large spade is hydraulically lowered at the rear to provide a more stable firing platform.
+The Data System is SAFRAN SIGMA 30 onboard Reference Package/Position Data System (RP/PDS).
+The GPS is Yes.
+The Muzzle Velocity Radar is RDB4 muzzle velocity radar.
+The Fire Control System is CS 2002-G onboard fire-control computer.
+The 3-D Display is Yes.
+The Ammunition Status Management System (ASMS) is Yes.
+The Ammunition Resupply Management System (ARMS) is Yes.
+The Gun Status Management System (GSMS) is Yes.
+The Note is The system can fire six 155mm projectiles in under 2 minutes.
+
+Here is Protection information for the Caesar French 155mm Self-Propelled Howitzer (SPH):
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is No.
+The Smoke Equipment is INA.
+The IR Signature is INA.
+

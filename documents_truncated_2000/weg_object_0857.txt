@@ -1,0 +1,42 @@
+This document describes the ROTEM L Israeli Expendable Quad-copter Loitering Munition Unmanned Air System (UAS).
+
+The ROTEM Aerial Vehicle (AV) is a tactical, loitering munition based on a light multi-rotor platform that delivers excellent capabilities against low signature enemy systems in complex environments. This lightweight and compact AV can be assembled in seconds and operated by a single soldier. The AV is capable of lethal precision strikes on stationary and mobile targets with abort/safe capability and is recoverable.
+
+ROTEM is an extremely versatile platform. It can perform squad-level ISR and attack missions with minimal planning and operational focus from the operator. The backpacked system is a tactical kit of two AVs with all peripherals to allow an operational unit to use it organically as a part of their standard gear. The exceptional capability to hover allows the VTOL platform to see targets and engage within seconds, which makes the ROTEM a game-changer for its operators.
+
+This equipment has proliferated into the following countries: Israel.
+
+Here is System information for the ROTEM L Israeli Expendable Quad-copter Loitering Munition Unmanned Air System (UAS):
+The Alternate Designation is ROTEM L.
+The Type is Expendable Quad-copter Loitering Munition Unmanned Air System (UAS).
+The Manufacturer is Israel Aerospace Industries.
+The Crew is Single soldier borne backpack containing 2 AVs, 1 GCS, data link, spare batteries and charger.
+The Roles is Ground Attack, Close-Air Support (CAS), Reconnaissance (RECCE), Special Forces, Unmanned.
+The Optical/Digital Zoom is With its low noise signature and 13x continuous optical/digital zoom (EO @ 720p) capability, combined with a 2x 640x480 IR, it can clearly identify, track and engage a potential threat on the move while undetected.
+The Open Architecture is Yes.
+The Obstacle Avoidance is Obstacle avoidance for urban operations.
+The Modes is Autonomous modes e.g. Emergency Return Home, Nav-to-Route, Observation, Attack, Abort and ATOL (Auto Takeoff & Landing).
+The Take off is The vehicle takes off vertically, and ascends toward the area of interest, where the operator can scan and observe the area using its forward looking slanted camera..
+The Autonomous Flight is Yes.
+The EO/IR Real Time HD Video is Yes.
+
+Here is Dimensions information for the ROTEM L Israeli Expendable Quad-copter Loitering Munition Unmanned Air System (UAS):
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Empty is 4.5 kg.
+
+Here is Automotive information for the ROTEM L Israeli Expendable Quad-copter Loitering Munition Unmanned Air System (UAS):
+The Engine Name is INA.
+The Engine Type is Electric Motor Driving a quad-copter arrangement.
+The Engine Power is INA.
+The Maximum Speed is 92 km/h.
+The Range is 10 km.
+The Maximum Altitude is INA.
+The Endurance is 30 minutes with 1.2 Kg warhead capsule; 45 minutes with ISR capsule; 
+Up to 180 minutes for soldier borne backpack system.
+
+Here is Main Weapon System information for the ROTEM L Israeli Expendable Quad-copter Loitering Munition Unmanned Air System (UAS):
+The Note is 2 x Internal 2 kg warheads. This can be substituted for ISR equipment for reconnaissance missions..
+The Precision Strike is Less than 1-meter precision strike with 1.2 Kg warhead.
+

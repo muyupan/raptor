@@ -1,0 +1,98 @@
+This document describes the Oerlikon GDF-003 Swiss 35mm Towed Anti-Aircraft Gun.
+
+GDF-003: Minor enhancements including protective covers and automatic weapon lubrication.
+
+
+The Oerlikon GDF or Oerlikon 35 mm twin cannon is a towed anti-aircraft gun made by Oerlikon Contraves (renamed as Rheinmetall Air Defence AG following the merger with Rheinmetall in 2009). The system was originally designated as 2 ZLA/353 ML but this was later changed to GDF-001. It was developed in the late 1950s and is used by around 30 countries.
+
+The system uses twin autocannons, firing 35×228mm NATO-standard ammunition. It was originally designated 353 MK and is now designated as the KD series. The same KD series 35mm cannons are used in the Leopard 1 based Gepard and Type 74 tank based Type 87 SPAAG and Marksman self-propelled anti-aircraft guns (SPAAG). The system could be paired with the off-gun (remote) Super Fledermaus fire control radar, which in the late 1970s was upgraded to the Skyguard system. The weapons was aimed either directly, by way of an advanced sighting system, or automatically, by locking onto the target with radar. Early models carried 112 rounds ready to fire, and an additional 126 stored on the chassis as reloads. Later versions with automated reloading carry 280 rounds total. A typical engagement burst is 28 rounds
+
+This equipment has proliferated into the following countries: Ecuador, Egypt, Iran (Islamic Republic of), Oman, Romania, South Korea (Republic of Korea), Turkey.
+
+Here is Variants information for the Oerlikon GDF-003 Swiss 35mm Towed Anti-Aircraft Gun:
+The Skyguard is SYSTEM/COMPLEX DESCRIBED FOR THE OPFOR HAS A RADAR, 2 ASPIDE MISSILE LAUNCHERS AND
+GENERATORS. AD COMPLEXES CAN VARY WIDELY. SINCE THEY ARE ORGANIZED AROUND THE SKYGUARD RADAR/CP
+UNIT, THEY MAY BE GUNS ONLY OR MISSILE LAUNCHERS ONLY. THE MOST EFFECTIVE AD ARRANGEMENT IS THE ONE
+NOTED ABOVE, AS A GUN/MISSILE SYSTEM..
+The GDF-001 is SYSTEM HAS A SIMPLE SIGHT..
+The GDF-002 is SYSTEM LINKS TO SKYGUARD..
+The GDF-003 is ADDS GUN SYSTEM UPGRADES..
+The GDF-005 is UPGRADE (FOR -003 WITH NDF-C KIT) HAS GUN KING 3-D AUTONOMOUS SIGHT SYSTEM, ONBOARD POWER
+SUPPLY AND AUTO-LOADER. CAN FIRE AHEAD ROUNDS..
+
+Here is System information for the Oerlikon GDF-003 Swiss 35mm Towed Anti-Aircraft Gun:
+The Alternative Designations is GDF-003.
+The Crew is 3.
+The Carriage is 4-wheeled/2-axle towed chassis.
+The Emplacement is 1.5 minutes.
+The Displacement is 1.5 minutes.
+
+Here is Dimensions information for the Oerlikon GDF-003 Swiss 35mm Towed Anti-Aircraft Gun:
+The Length, Traveling is 7.80 m.
+The Length, Firing is 8.83 m.
+The Barrel Length is 3.15 m.
+The Width, Traveling is 2.26 m.
+The Width, Firing is 4.49 m.
+The Height, Traveling is 2.60 m.
+The Height, Firing is 1.72 m.
+The Ground Clearance is 330 mm.
+The Weight, Traveling is 6,700 kg.
+The Weight, Without Ammunition is 6,300 kg.
+
+Here is System information for the Oerlikon GDF-003 Swiss 35mm Towed Anti-Aircraft Gun of the Main Weapon System:
+The Name is KDC-002 gun.
+The Type is Towed Anti-Aircraft Gun.
+The Caliber is 35.
+The Bore is 35-mm/90-cal, rifled.
+The Elevation is -5 deg to 92 deg (-89 mils to 1,634 mils).
+The Elevation Rate is 56 deg (1,000 mils)/sec.
+The Traverse is 360 deg (6,400 mils).
+The Traverse Rate is 112 deg (2,000 mils).
+The Breech Type is gas-operated positive lock.
+The Recoil System is hydromechanical.
+The Maximum Range is 4,000 m.
+The Muzzle Velocity is 1,175 mps.
+The Rate of Fire is 550 rounds/min per barrel.
+
+Here is Ammunition (Option 1) information for the Oerlikon GDF-003 Swiss 35mm Towed Anti-Aircraft Gun of the Main Weapon System:
+The Type is HE-T/HEI-T.
+The Caliber is 35.
+The Projectile Length is 387 mm.
+The Projectile Weight is 535 g.
+The Explosive is 98 g.
+The Propellant is 330 g.
+The Weight of Complete Round is 1,565 g.
+
+Here is Ammunition (Option 2) information for the Oerlikon GDF-003 Swiss 35mm Towed Anti-Aircraft Gun of the Main Weapon System:
+The Type is HE/HEI.
+The Caliber is 35.
+The Projectile Length is 387 mm.
+The Projectile Weight is 550 g.
+The Explosive is 112 g.
+The Propellant is 330 g.
+The Weight of Complete Round is 1,552 g.
+
+Here is Ammunition (Option 3) information for the Oerlikon GDF-003 Swiss 35mm Towed Anti-Aircraft Gun of the Main Weapon System:
+The Type is HEI(BF).
+The Caliber is 35.
+The Projectile Length is 387 mm.
+The Projectile Weight is 550 g.
+The Explosive is 70 g.
+The Propellant is 330 g.
+The Weight of Complete Round is 1,552 g.
+
+Here is Fire Control System information for the Oerlikon GDF-003 Swiss 35mm Towed Anti-Aircraft Gun:
+The FCS Name is INA.
+The Computerized FCS is INA.
+The Sight is Ferranti sight.
+The Note is Most GDF mounts are integrated with an external fire-control system, usually the Super Fledermaus or Skyguard system..
+
+Here is Radar System information for the Oerlikon GDF-003 Swiss 35mm Towed Anti-Aircraft Gun:
+The Radar Vehicle Name is Skyguard Radar Fire-Control System..
+The Skyguard Radar Details is The Skyguard system is contained within a towed trailer, mounted on the roof of which is a pulse doppler search radar, a pulse doppler tracking radar and a co-axial television camera. The trailer also houses the crew of two and a small petrol generator. Skyguard is an all-weather air defense system for the control of aircraft at low altitude and at low and medium altitude range up to 3,000 m. The maximum effective distance is given as 4,000 m. The system takes the air surveillance, target acquisition, calculation of the derivative-action values and the control of two Oerlikon 35 mm anti-aircraft guns. Skyguard is served by four people.
+
+It was created by Oerlikon-Buehrle. The weapon was introduced in the 1960s in the Swiss Army and got updates in 1975, 1995 and 2010. They are still in use. It had replaced the system Contraves Super Fledermaus in the Swiss Air Force. The Skyguard radar system was used in the German Air Force for surveillance of low-altitude flight zones. The radar unit is readied quickly through the use of hydraulic systems for antenna erection and leveling after deployment. A typical fire unit using the Skyguard consists of two twin 35 mm gun platforms with a single Skyguard fire control radar.
+
+Skyguard systems can also incorporate an optional SAM module based on the GDF's mount and radar system but with the guns replaced by four missile canisters. It can be armed with either Aspide or RIM-7 Sea Sparrow missiles. In Greek service the Skyguard system with RIM-7M is known as the VELOS..
+The Note is Typical battery includes two gun mounts with separate generators, single Skyguard..
+

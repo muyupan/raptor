@@ -1,0 +1,78 @@
+This document describes the Searcher Mk III Israeli Reconnaissance Unmanned Aerial Vehicle (UAV).
+
+Searcher Mk III is a multi-mission tactical unmanned aerial system (UAS) used for surveillance, reconnaissance, target acquisition, artillery adjustment, and damage assessment.
+
+The Searcher Mk III Unmanned Aerial System (UAS) is a compact system designed for use in military, law enforcement, and homeland security missions. The Searcher Mk III enables high-quality real-time intelligence gathering and transmission while operating at a distance from the mission region.
+
+Here is Variants information for the Searcher Mk III Israeli Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Searcher Mk II is The Mk II is the fourth in a line of UAVs that began development as the Scout (the Searcher was the third generation). The Searcher Mk II is slightly larger, measuring 19 ft 2 in (5.85 m) in height and 28 ft 1 in (8.55 m) in diameter; it has higher maximum takeoff weight and payload at 939 lb (426 kg) and 220 lb (100 kg), respectively. The main benefit of these updates is greater flight endurance at higher altitudes..
+The Searcher Mk III is The most recent variant, the Mk III was launched in 2010 and has over twice the range of the Mk II with two more hours of endurance and a higher ceiling. It is equipped with a four-stroke silent engine, along with a maximum takeoff weight of 961 lb (436 kg) and higher maximum payload weights of 264 lb (120 kg).
+The Searcher Mk III has an aerial data relay capability for beyond line-of-sight operations. Two simultaneous automatic takeoff and landing systems improve safety..
+The Forpost is This is the Russian designation for Searcher Mk II UAVs being produced domestically. According to the Urals Civil Aircraft Plant, which builds the systems, the Forpost has a flight endurance of 17.5 hours, maximum takeoff weight of 1,000 lb (454 kg) and a max payload of 130 lb (60 kg). The air vehicle has a top speed of 130 mi (210 kmh) and a ceiling of 11,800 ft (3,600 m)..
+
+Here is System information for the Searcher Mk III Israeli Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Alternative Designation is Searcher III, Searcher Mk III, Searcher III.
+The Type of UAV is Unmanned Reconnaissance Drone.
+The Date of Introduction is 2010.
+The Manufacturer is IAI.
+The In Service is 2110-Present.
+The Primary Function is Long Endurance Reconnaissance Drone.
+The Day/Night Capable is Yes.
+The All Weather Capable is Yes.
+The Ground Crew is 4 (external pilot, internal pilot, observer and commander).
+The Endurance is 20.
+The Launch System is Runway (Fully Automatic).
+The Recovery System is Runway (Fully Automatic).
+The Number of Hard Points is INA.
+The Manned-Unmanned Teaming (MUM-T) Capable is No.
+The Automatic Landing and Takeoff Capability is Yes, Automatic Takeoff and Landing (ATOL) systems.
+The Electro-Optical and Infrared Sensors (EO/IR) is Yes.
+The Real-Time Imagery is Yes.
+The Synthetic Aperture Radar (SAR) is Yes.
+The SIG/INT Capable is Yes.
+The EO/IR Capable is Yes.
+The Global System Mobile (GSM) is Yes.
+The Electronic Support Measures /Electronic intelligence (ESM/ELINT) is Yes.
+The Maritime Patrol Radar (MPR) is Yes.
+The Landing Gear Type is Fixed with a arresting hook.
+The Note #1 is The IAI Searcher Mk III is built from composite materials to reduce radar detection.
+
+Here is Dimensions information for the Searcher Mk III Israeli Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Length is 5.15.
+The Width (Wing Span) is 8.55.
+The Height is 1.16.
+The Weight, Payload is 120.
+The Weight, Maximum Takeoff is 436.
+
+Here is Automotive information for the Searcher Mk III Israeli Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Engine Name is AR 682 rotary engine.
+The Engine Type is 1 x flat-twin, 2-stroke AR 682 rotary gasoline engine.
+The Engine Power is INA.
+The Endurance is 18.
+The Propeller is driving 2-blade pusher propeller.
+The Fuel is 130.
+The Maximum Speed is 104.
+The Dash Speed is 185.
+The Cruise Speed is 111.
+The Ceiling is 7,010.
+The Endurance is 16.
+The Maximum Range is 350.
+
+Here is Communications information for the Searcher Mk III Israeli Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Line of Sight Radio (UAV & Ground Crew) is Direct Line-of-Sight (LOS) data link.
+The Beyond Line of Sight Radio (UAV & Ground Crew) is UAV airborne data relay for beyond LOS missions & Ground-based data relay for beyond LOS missions.
+The HR Capable is Yes.
+The VHF Capable is Yes.
+The UHF/DF Capable is Yes.
+The Note is In the event of communications via datalink are lost the air vehicle will return automatically to its base..
+
+Here is Protection information for the Searcher Mk III Israeli Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The EW is No.
+The EW Counter Measures / CCM is No.
+The Counter Measures (Chaffs/Flares) is No.
+The Electronic Support Measures /Electronic intelligence (ESM/ELINT) is Yes.
+The IFF Capable is Yes.
+

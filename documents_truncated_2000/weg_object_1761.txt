@@ -1,0 +1,61 @@
+This document describes the Shaanxi SX250 Chinese 6x6 General Utility Truck.
+
+The SX-250 was developed and built by Shaanxi Automobile Works as a cross country vehicle in the 1960s and loosely based on the Soviet Ural-375 and the cab/cargo-bed designs of the French Berliet GBU 15. It was renamed by the Shaanxi Automobile Corporation Limited and used by the People's Liberation Army of the People's Republic of China for various uses (crane truck, transport cab, transport, etc.)
+
+This equipment has proliferated into the following countries: China, Myanmar.
+
+Here is Variants information for the Shaanxi SX250 Chinese 6x6 General Utility Truck:
+The SX2150 is Shaanxi SX2150K is a an improved second-generation version. It entered service with the mid 1990s and was produced in large numbers. This truck is fitted with an Austrian Steyr WD615.71 turbocharged diesel engine as well as 9-speed transmission. The engine develops 256 hp. This truck is significantly faster and has a top speed of 87 km/h, opposed to 70 km/h of the original SX250 and SX2150. It is 60 kg lighter than the baseline SX2150, but otherwise has similar dimensions and payload capacity. This truck can be recognized by headlights relocated to the front bumper..
+The SX2190 is The SX2190 is a 7.5 ton 6x6 special heavy duty truck developed and built by Shaanxi Automobile Group and used by the People's Liberation Army of the People's Republic of China. 
+It is the licensed production version of the Steyr-Daimler-Puch (now part of General Dynamics European Land Combat Systems) Steyr 91 and replacing the older JN252, CQ261 and SX250 heavy duty trucks in the 1990s. It is one of the most popular military trucks in China..
+The SX161 is The Shaanxi SX161 was a 6x4 version of the SX250..
+
+Here is System information for the Shaanxi SX250 Chinese 6x6 General Utility Truck:
+The Alternative Designation is Shaanxi 6x6 Military Truck.
+The Type is Truck.
+The Chassis is Shaanxi 6x6 Military Truck.
+The Crew is 1+3 men.
+The Emplacement Time is 1.5 - 2.5 minutes.
+The Displacement Time is 1.5 - 2.5 minutes.
+The Note #1 is This truck is a modified version of the Hanyang CQ260..
+
+Here is Dimensions information for the Shaanxi SX250 Chinese 6x6 General Utility Truck:
+The Length is 7.12 m.
+The Width is 2.52 m.
+The Height is 3.05 m.
+The Weight, empty is 9.49 tons.
+The Payload Capacity (on road) is 10 tons.
+The Payload Capacity (off road) is 5 tons.
+The Wheel base is 3.125 m.
+The Track (front/rear) is 2.080 m.
+The Ground clearance is 355 mm.
+
+Here is Automotive information for the Shaanxi SX250 Chinese 6x6 General Utility Truck:
+The Engine Name is Wei Chai WD615.77.
+The Engine Type is Diesel with 5-speed gear shift.
+The Engine Power is 280.
+The Fuel tank capacity is 280 litres.
+The Cruising Range is 70.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 58.
+The Side Slope is 30.
+The Vertical Step is 0.58.
+The Fording Depth, without Preparation is 1.2.
+The Fording Depth, with Preparation is 1.2.
+The Trench is 0.7.
+The Turning Radius is 9.0.
+The Note #1: is This military truck can tow artillery pieces or semi trailers with a maximum weight of 6 500 kg..
+
+Here is Protection information for the Shaanxi SX250 Chinese 6x6 General Utility Truck:
+The Hull Armor is This truck has an armored cab. It provides protection against small arms fire and artillery shell splinters..
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

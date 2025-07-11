@@ -1,0 +1,80 @@
+This document describes the Orlan-10 Russian Unmanned Aerial Vehicle (UAV).
+
+Orlan-10 is a medium-range, multi-purpose unmanned aerial vehicle (UAV) developed by Russian firm Special Technology Center LLC  in St Petersburg. The UAV is in service with the Ministry of Defense of the Russian Federation.
+
+It is intended for a variety of missions including aerial reconnaissance, observation, monitoring, search and rescue, combat training, jamming, detection of radio signals, and target tracking. The drone is usually used in a group of two or three, where the first one is used for reconnaissance in a height of 1-1.5 km, the second one for electronic warfare and the third one as a transponder that transmits intelligence information to the control center
+
+This equipment has proliferated into the following countries: Belarus, Myanmar, Russian Federation, Syria, Ukraine.
+
+Here is System information for the Orlan-10 Russian Unmanned Aerial Vehicle (UAV):
+The Alternative Designation is STC Orlan-10.
+The Type is Medium-range, multi-purpose unmanned aerial vehicle (UAV).
+The Manufacturer is Special Technology Center LLC.
+The Primary Function is The Orlan-10  is intended for a variety of missions including aerial reconnaissance, observation, monitoring, search and rescue, combat training, jamming, detection of radio signals, and target tracking..
+The Cost is US $87,000 and US $120,000.
+The Day/Night Capable is Yes.
+The All Weather Capable is Yes.
+The Ground Crew is MP32M1 command and control vehicle. The ground segment can control up to four aerial vehicles simultaneously..
+The Endurance is 16.
+The Range is 150.
+The Autopilot Capabile is Yes, operates autonomously based on pre-defined waypoints.
+The Command and Control Modes is Both autonomous and remote control modes.
+The Location Positioning System is Yes.
+The Launch System is Folding catapult.
+The Recovery System is Via Parachute Recovery.
+The Number of Hard Points is INA.
+The Manned-Unmanned Teaming (MUM-T) Capable is No.
+The Automatic Landing and Takeoff Capability is No.
+The Landing Gear is None.
+The Transmit Telemetry Data Range is 120 km and 600 km from the launch station.
+The Note is The Orlan-10 complex consists of unmanned aerial vehicles, launch and recovery systems, ground control segment, and swappable payloads..
+
+Here is Dimensions information for the Orlan-10 Russian Unmanned Aerial Vehicle (UAV):
+The Length (Fuselage) is 2.0.
+The Width (Wing Span) is 3.1.
+The Height is INA.
+The Weight, Empty is 12.5.
+The Weight, Maximum Takeoff is 16.5.
+The Weight, Payload is 6.
+The Note is The UAV’s modular design is provided with a number of interchangeable payloads allowing for greater mission flexibility..
+
+Here is Automotive information for the Orlan-10 Russian Unmanned Aerial Vehicle (UAV):
+The Engine Name is 1 x A-95 Engine.
+The Engine Type is Gasoline-Fueled Engine.
+The Engine Power is INA.
+The Cruising Range is 150.
+The Speed, Maximum is 150.
+The Speed, Cruising is 110.
+The Ceiling is 5,000.
+The Endurance is 16.
+The Number of Blades is 2.
+The Maximum Wind Speed at the Start is 10.
+The Operating Temperatures is −30 to +40 °C.
+
+Here is Communications information for the Orlan-10 Russian Unmanned Aerial Vehicle (UAV):
+The Radio is INA.
+The Retrans Radio is INA.
+
+Here is Fire Control information for the Orlan-10 Russian Unmanned Aerial Vehicle (UAV):
+The Fire Control System Type is INA.
+The Fire Control Radar is No.
+The Radar Type is INA.
+The Radar Designator is INA.
+The Laser Rangefinder is INA.
+The Day Light Camera is Yes.
+The Video Camera is Yes.
+The Gyro Stabilized Camera Pod is Yes.
+The Thermal Imaging Sensors is Yes.
+The Thermal Imaging Camera is Yes.
+The Real-time Intelligence Capable is Yes.
+The 3D Maps is Yes.
+The Note is The imagery, video and other sensor data collected by the payloads is transmitted to the ground control station in real-time, through a data link..
+
+Here is Protection information for the Orlan-10 Russian Unmanned Aerial Vehicle (UAV):
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The Add on Armor is No.
+The EW is Equipment Available.
+The EW Counter Measures / CCM is Equipment Available.
+The Counter Measures (Chaffs/Flares) is INA.
+

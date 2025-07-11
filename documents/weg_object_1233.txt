@@ -1,0 +1,55 @@
+This document describes the JRTC Prizrak-19 Russian Unmanned Robotic Vehicle (R2FU).
+
+Prizrak-19 Russian Unmanned Robotic Vehicle (R2FU) s an 8-wheeled, unmanned robotic vehicle, capable of land and water mobility, with multiple functions available for use to a ground maneuver element. Primary 
+tasks include: Establish an OP, Defend, Establish an SBF/ABF, Conduct an Ambush, Secure Perimeter, conduct logistics resupply point operations; The R2FU is not limited to these tasks.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the JRTC Prizrak-19 Russian Unmanned Robotic Vehicle (R2FU):
+The Alternative Designation is Prizrak-19.
+The Type is Unmanned Robotic Vehicle (R2FU).
+The Configuration is 8x8.
+The Manufacturer is INA.
+The Crew is 1 x primary operator and 1 x alternate operator..
+The Controller is Dismount (backpack) controller..
+The Full Autonomy is Full autonomy can navigate with or 
+without communication to the 
+operator along pre-recorded or set 
+waypoints (distance of 10 miles)..
+The Cargo Capacity is 680 kg (1,500 pounds)..
+The Back-Hoe is Towable electric back-hoe can dig a 
+standard fighting position in 40 
+minutes with minimal noise.
+The UAS is Yes.  Tethered UAS.
+The T-UAS is Can move 2KM and fly the tethered UAS for up to eight hours on electric power for silent operations. T-UAS has a day camera with 10x optical zoom and a thermal camera with only digital zoom..
+
+Here is Dimensions information for the JRTC Prizrak-19 Russian Unmanned Robotic Vehicle (R2FU):
+The Length is 127.
+The Width is 64.
+The Height is 42.
+The Payload is 1,200.
+
+Here is Automotive information for the JRTC Prizrak-19 Russian Unmanned Robotic Vehicle (R2FU):
+The Primary Engine Type is 48V LiFePO4 Battery.
+The Secondary Engine Type is Diesel Generator (6 gal).
+The Engine Power is INA.
+The Battery Recharge Time is 3 hours.
+The Maximum Speed is 16.1 km/h (10 mph).
+The Range is 16.1 km (10 miles) [Battery] [34 Mi Battery and Generator].
+The Endurance is 16.1 km (10 miles) on one charge.
+The Amphibious is Unknown.
+The Fording is Can ford up to 24".
+
+Here is Main Weapon System information for the JRTC Prizrak-19 Russian Unmanned Robotic Vehicle (R2FU):
+The CROWS is Available in M240 (7.62) and M2 (50 Cal).
+The Javelin is Available. Javelin (Javelin mount is present but not currently functional)..
+
+Here is Protection information for the JRTC Prizrak-19 Russian Unmanned Robotic Vehicle (R2FU):
+The Hull Armor is INA.
+The Applique Armor is Available.
+The Mine Clearing is INA.
+The NBC Protection is Unknown.
+The Smoke Equipment is Yes, 12 minutes of on-board smoke 
+generation..
+The Counter-UAS is Unknown.
+

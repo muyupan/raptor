@@ -1,0 +1,124 @@
+This document describes the Vasily Bykov Class (Project 22160 Class) Russian Corvette.
+
+The Vasily Bykov Class (Project 22160 Class) Russian Corvette s a series of large patrol ships being constructed for the Russian Navy. The vessels are primarily intended for duties such as patrol, monitoring, and protection in open and closed seas. The first ship was laid down in February 2014 and by December 2016 five ships were under construction. The first ship joined the Russian Navy in December 2018.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Vasily Bykov Class (Project 22160 Class) Russian Corvette:
+The Vasily Bykov is Commissioned: 2018
+Status: Active 
+Fleet: Black Sea Fleet.
+The Dmitriy Rogachev is Commissioned: 2019
+Status: Active 
+Fleet: Black Sea Fleet.
+The Pavel Derzhavin is Commissioned: 2020
+Status: Active 
+Fleet: Black Sea Fleet.
+The Sergey Kotov is Commissioned: 2021
+Status: Fitting Out
+Fleet: Black Sea Fleet.
+The Viktor Velikiy is Commissioned: 2021
+Status: Under Construction 
+Fleet: Black Sea Fleet.
+The Nikolay Sipyagin is Commissioned: 2023
+Status: Under Construction 
+Fleet: Black Sea Fleet.
+
+Here is System information for the Vasily Bykov Class (Project 22160 Class) Russian Corvette:
+The Alternative Designation is Vasily Bykov Class; Project 22160 Class.
+The Type is Corvette.
+The Builder is Zelenodolsk Shipbuilding Plant, Zelenodolsk, Tatarstan, Russia (construction)
+Severnoye Design Bureau, St. Petersburg,  Russia (design).
+The Crew is 80.
+The Vessel Stern Launcher is 1 x Project 02800 assault boat.
+The Vessel Davit Launcher is 2 x RHIBs.
+
+Here is Dimensions information for the Vasily Bykov Class (Project 22160 Class) Russian Corvette:
+The Length is 94 m.
+The Beam is 14.2 m.
+The Draft is 4.2 m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 1,700 tons.
+
+Here is Propulsion System information for the Vasily Bykov Class (Project 22160 Class) Russian Corvette:
+The Engine Name is 2x Kolomna 16D49.
+The Engine Type is Diesel.
+The Engine Power is 6,000 hp.
+The Gas Turbines is 2 x boost Gas Turbines (M70FRU or M90FRU).
+The Generators is Electric unit (4 x Diesel Generators, 1 x emergency DG).
+The Maximum Range is 6,000 nm (11,110 km).
+The Maximum Speed is 41 km/h.
+The Cruise Speed is 22 km/h.
+The Endurance is 60 days.
+
+Here is Gun Weapon System #1 information for the Vasily Bykov Class (Project 22160 Class) Russian Corvette of the Gun Weapon Systems:
+The Name is 1 x AK-176MA 76.2mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 76.2 mm.
+The Crew is 2 (4 in manual control mode).
+The Length is 4,484 mm.
+The Weight is 16,800 kg.
+The Barrels is 1.
+The Elevation is -15° to +85°.
+The Traverse is ±175°.
+The Rate of Fire is 120 Rounds Per Minute.
+The Muzzle Velocity is 980 m/s.
+The Maximum Firing Range is 15.5 km.
+The Effective Firing Range is 10 km.
+The Feed System is 152 ready to fire rounds.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Vasily Bykov Class (Project 22160 Class) Russian Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.2 mm.
+The Shell Weight is 12.4 kg.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Vasily Bykov Class (Project 22160 Class) Russian Corvette of the Gun Weapon Systems:
+The Name is 2 x KPVT 14.5mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 14.5 mm.
+The Length is 1,980 mm.
+The Barrel Length is 1,346 mm.
+The Width is 162 mm.
+The Height is 225 mm.
+The Weight is 49 kg.
+The Action is Short recoil operation.
+The Rate of Fire is 600 rpm.
+The Muzzle Velocity is 1,005 m/s.
+The Maximum Firing Range is 4,000 m.
+The Effective Firing Range is 3,000 m.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+
+Here is Gun Weapon System #2 Ammunition information for the Vasily Bykov Class (Project 22160 Class) Russian Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 14.5 mm.
+The Cartridge is 14.5×114 mm.
+The Basic Load is INA.
+
+Here is Missile Weapon System information for the Vasily Bykov Class (Project 22160 Class) Russian Corvette:
+The Note is 1 x Gibka air defense missile turret mount, armed with 8 x Igla man-portable air defense systems. It is optionally offered with one Club-N integrated missile system as well as one Shtil-1 air defense system with 2 x  3S90E.1 modular launcher. Additionally, the following are proposed weapon systems 1 x VLS cells with Kalibr-NK system; or 1 x
+3S90M VLS air defense system..
+
+Here is Grenade Launcher System information for the Vasily Bykov Class (Project 22160 Class) Russian Corvette:
+The Note is 2 x DP-64 or 2 x DP-65 Anti-Saboteur Grenade Launchers..
+
+Here is Aviation information for the Vasily Bykov Class (Project 22160 Class) Russian Corvette:
+The Aviation Facilities is There are a hangar, a helipad for a 12 ton helicopter and two UAVs..
+The Helicopters is 1 x Ka-27 helicopter or 1 x Ka-29 helicopter..
+
+Here is Radars and Fire Control Systems information for the Vasily Bykov Class (Project 22160 Class) Russian Corvette:
+The Surface Search Radar is 1 x Pozitiv-ME1 I-band radar.
+The Nafivation Radar is 1 x Pal-N I-band radar.
+The FIre Control Radar is 1 x Bass Tilt H/I-band radar.
+
+Here is Sonar Systems information for the Vasily Bykov Class (Project 22160 Class) Russian Corvette:
+The Active / Passive Sonar is 1 x Vinyetka-EM sonar.
+The Diver Detection Sonar is 1 x Pallad sonar.
+The Hull-Mounted Sonar is 1 x  MGK-335EM sonar.
+
+Here is Protection information for the Vasily Bykov Class (Project 22160 Class) Russian Corvette:
+The Hull is INA.
+The Countermeasures is The onboard PK-10 close-range decoy dispensing system offers protection against electro-optical guided weapons and radars. A TK-25 ship-based electronic countermeasure system is used to deceive sonar, radar, and lasers..
+The NBC Water Washdown System is Yes.
+

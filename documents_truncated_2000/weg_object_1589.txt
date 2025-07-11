@@ -1,0 +1,70 @@
+This document describes the Dupuy De Lome Class French Intelligence Collection Ship.
+
+Dupuy de Lôme (A759), named after the 19th century engineer Henri Dupuy de Lôme, is a ship designed for the collection of signals and communications beyond enemy lines, which entered the service of the French Navy in April 2006. In contrast to Bougainville, the ship that she replaced, Dupuy de Lôme was specifically designed for sea intelligence, pursuant to the MINREM project (Moyen Interarmées Naval de Recherche ElectroMagnétique, "Joint Naval Resources for Electromagnetic Research").
+
+Dupuy de Lôme was designed and built by Royal Niestern Sander shipyards in Delfzijl, The Netherlands with yard number 816. The Thales Naval France designed the electromagnetic intellegence part of the vessel. She provides a 350-day-operational availability a year, out of which 240 can be spent at sea. The ship is operated by two naval crews, each composed of thirty-three sailors and another thirty-three technicians, and an optional complement of up to thirty-eight specialists, depending on the mission. The specialised personnel operates under the Direction du renseignement militaire.
+
+On 21 June 2015, Dupuy de Lôme entered the Black Sea along with USS Laboon as part of NATO's presence missions following the Annexation of Crimea by the Russian Federation.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Dupuy De Lome Class French Intelligence Collection Ship:
+The Alternative Designation is Dupuy de Lôme (A759).
+The Total Built is 1 Ship Built.
+The Type is Intelligence Collection Ship.
+The Builder is France.
+The In Service is 2006-Present.
+The Crew is 30 total (8 off. + 22 enl.) + 80 technicians.
+
+Here is Dimensions information for the Dupuy De Lome Class French Intelligence Collection Ship:
+The Length is 101.75 m.
+The Beam is 15.85 m.
+The Draft is 4.91 m.
+The Height to Main Deck is 7.70 m.
+The Displacement, Full Load is 3,600 tons.
+The Displacement, Standard is 3,150 tons.
+
+Here is Propulsion System information for the Dupuy De Lome Class French Intelligence Collection Ship:
+The Engine Name is 2 x MaK 9M25 diesels.
+The Engine Type is Diesel.
+The Engine Power is 7,965 total bhp.
+The Maximum Range is 3,400 nm at 16 knots.
+The Maximum Speed is 16 knots.
+The Endurance is 30 days.
+
+Here is Communications information for the Dupuy De Lome Class French Intelligence Collection Ship:
+The Radio is 1 x MINREM (HF/VHF/UHF analysis of communications).
+
+Here is System information for the Dupuy De Lome Class French Intelligence Collection Ship of the Main Weapon System:
+The Name is 2 x M2 Browning.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight is 38 kg (83.78 lb)
+58 kg (127.87 lb) with tripod and T&E (Traverse and Elevation Mechanism).
+The Action is Short recoil-operated.
+The Rate of Fire is 450–600 rounds/min.
+The Muzzle Velocity is 890 m/s.
+The Maximum Firing Range is 7,400 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is Belt-fed (M2 or M9 links).
+
+Here is Ammunition information for the Dupuy De Lome Class French Intelligence Collection Ship of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Basic Load is 2,000 each.
+
+Here is Radar Systems information for the Dupuy De Lome Class French Intelligence Collection Ship:
+The Navigation Radar is 2 x DRBN38A navigation radars.
+The Radar Warning Receiver is 1 x ARBR-21 radar warning receiver (D-K bands).
+
+Here is Protection information for the Dupuy De Lome Class French Intelligence Collection Ship:
+The Active Protection System is INA.
+The Decoys is INA.
+The Interceptor #1 is 1 x interceptor-goniometer satellite transmissions.
+The Interceptor #2 is 1 x Elite interceptor-goniometer transmissions.
+The Interceptor #3 is 1 x Egide Naval interceptor-goniometer transmissions.
+The NBC Protection is Yes.
+

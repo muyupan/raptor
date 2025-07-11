@@ -1,0 +1,56 @@
+This document describes the Prizrak-19 Russian Unmanned Robotic Vehicle (R2FU).
+
+Prizrak-19 Russian Unmanned Robotic Vehicle (R2FU) s an 8-wheeled, unmanned robotic vehicle, capable of land and water mobility, with multiple functions available for use to a ground maneuver element. Primary 
+tasks include: Establish an OP, Defend, Establish an SBF/ABF, Conduct an Ambush, Secure Perimeter, conduct logistics resupply point operations; The R2FU is not limited to these tasks.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Prizrak-19 Russian Unmanned Robotic Vehicle (R2FU):
+The Alternative Designation is Prizrak-19.
+The Type is Unmanned Robotic Vehicle (R2FU).
+The Configuration is 8x8.
+The Manufacturer is INA.
+The Crew is 1 x primary operator and 1 x alternate operator..
+The Controller is Dismount (backpack) controller..
+The Full Autonomy is Full autonomy can navigate with or 
+without communication to the 
+operator along pre-recorded or set 
+waypoints (distance of 10 miles)..
+The Cargo Capacity is 680 kg (1,500 pounds)..
+The Back-Hoe is Towable electric back-hoe can dig a 
+standard fighting position in 40 
+minutes with minimal noise.
+
+Here is Dimensions information for the Prizrak-19 Russian Unmanned Robotic Vehicle (R2FU):
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight is INA.
+
+Here is Automotive information for the Prizrak-19 Russian Unmanned Robotic Vehicle (R2FU):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Battery Recharge Time is 3 hours.
+The Maximum Speed is 16.1 km/h (10 mph).
+The Range is 16.1 km (10 miles).
+The Endurance is 16.1 km (10 miles) on one charge.
+The Amphibious is Amphibious capable - can swim 
+with full mission equipment load of 
+680 kg (1,500 pounds)..
+
+Here is Main Weapon System information for the Prizrak-19 Russian Unmanned Robotic Vehicle (R2FU):
+The CROWS is Available.
+The Javelin is Available. Javelin (Javelin mount is present but not functional)..
+
+Here is Protection information for the Prizrak-19 Russian Unmanned Robotic Vehicle (R2FU):
+The Hull Armor is INA.
+The Applique Armor is Available.
+The Mine Clearing is INA.
+The NBC Protection is CBRN with JCAD detector.
+The Smoke Equipment is Yes, 12 minutes of on-board smoke 
+generation..
+The Counter-UAS is Counter-UAS for commercial 
+drones (also capable of jamming S 
+and C band communications)..
+

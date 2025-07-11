@@ -1,0 +1,135 @@
+This document describes the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat.
+
+The Svetlyak class, Russian designation Project 10410 Svetlyak, is a class of patrol boats designed and built in the Soviet Union and later in Russia, and currently being used primarily by the Russian Navy and Russian Coast Guard. The patrol boats of the class are designed to carry out a variety of missions, from patrol missions to prevent violations of the maritime state border, to protect friendly vessels and facilities from the enemy surface and air attacks. The patrol boats are constructed with a steel hull and aluminum superstructure. The boats have NBC warfare protection and can survive with two compartments flooded. The patrol boat engine room is coated with a vibration-damping material.
+
+This equipment has proliferated into the following countries: Russian Federation, Viet Nam.
+
+Here is Variants information for the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat:
+The KIZLAR is Commissioned: Dec. 23, 1997.
+The PSKR-922 is Commissioned: June 12, 2000.
+The PSKR-914 is Commissioned: 1991.
+The SYKTYVKAR is Commissioned: Nov. 22, 1995.
+The NEVEL'SK is Commissioned: 1992.
+The YUZHNO-SAKHALINSK is Commissioned: Oct. 22, 1994.
+The SOCHI is Commissioned:  Feb. 8, 1992.
+The PODOL'SK is Commissioned: March 25, 1993.
+The NEPTUN is Commissioned: July 28, 1995.
+The PSKR-908 is Commissioned:1991.
+The PSKR-907 is Commissioned: 1990.
+The DERBENT is Commissioned:1995.
+The KHOLMSK is Commissioned:1989.
+The STAVROPOL' is Commissioned: April 1, 1990.
+The KIZLYAR is Commissioned: Dec. 23, 1997.
+The ANATOLIY KOROLYOV is Commissioned: 1994.
+The RASUL GAMZATOV is Commissioned:1991.
+The BRIZ is Commissioned:Dec. 10, 1992.
+The PSKR-916 is Commissioned: 1994.
+The VYBORG is Commissioned:July 31, 1992.
+The ALMAZ is Commissioned: Oct. 15, 1993.
+The PSKR-904 is Commissioned:  April 9, 1989.
+The PSKR-923 is Commissioned:2003.
+The VALENTIN PIKUL' is Commissioned: June 25, 2001.
+The PSKR-927 is Commissioned: INA.
+The PSKR-928 is Commissioned:Dec. 15, 2007.
+The PSKR-929 is Commissioned: April 21, 2010.
+
+Here is System information for the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat:
+The Alternative Designation is Svetlyak Class; Project 10410 Svetlyak Class.
+The Type is Patrol Boat.
+The Builder is PSKR-909, -912, -913, -917, -919/921, -924, -925 and PSKR-927: Sudostroitel'noye Obyedineniye "Almaz," Petrovskiy Shipyard, St. Petersburg, Russia
+PSKR-902, -905/906, -910/911, -916, -928 plus one other unit: Yaroslavskiy Shipbuilding, Yaroslavl, Russia.
+The Crew is 28 total (4 off. + 24 enl.).
+
+Here is Dimensions information for the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat:
+The Length is 49.50 m.
+The Beam is 9.20 m.
+The Draft is 2.40 m.
+The Displacement, Standard is 333 tons.
+The Displacement, Full Load is 381 tons.
+
+Here is Propulsion System information for the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat:
+The Engine Name is 3 x Zvezda M-520B.
+The Engine Type is Diesel.
+The Engine Power is 16,200 total bhp.
+The Maximum Range is 2,200 nm at 12-13 knots; 1,500 nm at 12 knots.
+The Maximum Speed is 32 knots.
+
+Here is Gun Weapon System #1 information for the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat of the Gun Weapon Systems:
+The Name is 1 × AK-176M Naval Gun.
+The Type is Naval Gun.
+The Caliber is 76.2 mm.
+The Crew is 2 (4 in manual control mode).
+The Length is 4,484 mm.
+The Weight is 16,800 kg.
+The Fire Control System is R-123-02, television targeting and a laser rangefinder.
+The Barrels is 1.
+The Recoil is 380 to 500 mm.
+The Elevation is -15° to +85°.
+The Traverse is ±175°.
+The Rate of Fire is 120 rds/min.
+The Muzzle Velocity is 980 m/s.
+The Maximum Firing Range is 15.5 km.
+The Effective Firing Range is 10.
+The Feed System is 152 ready to fire rounds.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.2.
+The Shell Weight is 12.4 kg.
+The Basic Load is 2,000 Rounds.
+
+Here is Gun Weapon System #2 information for the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat of the Gun Weapon Systems:
+The Name is 1 x AK-630m 30mm CIWS.
+The Type is Close-in Weapon System (CIWS).
+The Caliber is 30 mm.
+The Main Armament is 1 or 2 AO-18 autocannons.
+The Secondary Armament is 4 x 4 9A4172 missiles.
+The Crew is 1.
+The Barrel Length is 1,629 mm.
+The Width is 1,240 mm.
+The Height is 1,070 mm.
+The Gun Mount Weight is 1,000 kg.
+The Barrels is 6.
+The Action is Gas-operated rotary cannon.
+The Elevation is +88° ... -12° (50°/sec).
+The Traverse is ±180° (70°/sec).
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880–900 m/s.
+The Maximum Firing Range is the projectiles self-destruct past 5,000 m.
+The Feed System is 2,000 rounds (additional 1,000 rounds in reserve feed bin.
+The Sights is Radar / TV-optical.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Shell is HEI-Frag, Frag-T.
+The Shell Weight is 0.39 kg.
+The Basic Load is 3,000 Rounds.
+
+Here is Missile #1 information for the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat of the Missile Weapon System:
+The Name is 2 x Igla-1M shoulder-launched SAM missile systems.
+The Type is Surface-to-Air Missile (SAM).
+The Basic Load is 16 Missile Carried.
+
+Here is ASW Weapon System information for the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat:
+The ASW Tubes is 2 fixed 400-mm OTA-40-204A ASW tubes [4 SET-40 torpedoes carried].
+The Depth Charge Racks is 2 depth charge racks [12 total BB-1 depth charges carried].
+
+Here is Fire Control Systems information for the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat:
+The FCS Name is 1 x MR-123 Vympel-A (Bass Tilt).
+The Computerized FCS is Yes.
+The Battle Management System is INA.
+
+Here is Radar Systems information for the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat:
+The Surface Search / Navigation Radar is 1 Reyd (Peel Cone**) surface search/navigation and/or 1 Mius (Spin Trough**) surface search/navigation.
+The Gun Fire Control Radar is 1 x MR-123 Vympel-A (Bass Tilt) for guns.
+The Ringsight Backup Director Radar is 1 x SP-521 Rakurs (Kolonka-2) ringsight backup director.
+
+Here is Sonar Systems information for the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat:
+The Name is 1 x MG-349 Uzh high-frequency helicopter dipping sonar.
+
+Here is Protection information for the Svetlyak Class (Project 10410 Svetlyak Class) Russian Patrol Boat:
+The Hull Armor is INA.
+The Countermeasures is 2 x 16-tubed PK-16 decoy rocket launchers.
+The NBC Water Washdown System is Yes.
+

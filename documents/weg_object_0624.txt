@@ -1,0 +1,66 @@
+This document describes the M1942 (ZiS-3) Russian 76mm Towed Anti-Tank Gun.
+
+The M1942 (ZiS-3) Russian 76mm Towed Anti-Tank Gun was a Soviet 76.2 mm divisional field gun used during World War II. ZiS was a factory designation and stood for Zavod imeni Stalina ("factory named after Stalin"), the honorific title of Artillery Factory No. 92, which first constructed this gun.
+
+Artillery Factory No. 92 began designing the ZiS-3 at the end of 1940. The ZiS-3 combined the light carriage from the 57 mm ZiS-2 anti-tank gun and the powerful 76.2 mm barrel from the F-22USV, the previous divisional field gun. The addition of a muzzle brake reduced recoil and prevented damage to the light carriage upon firing. Producing ZiS-3 costs only a third of the time and two-thirds of the money of an F-22USV by making greater use of casting, stamping, and welding.
+
+V. G. Grabin, the chief designer of Soviet medium-caliber guns, initiated the gun's development without state approval, and the prototype was hidden from the state. Marshal Grigory Kulik, commander of Soviet artillery, had ordered a halt to the production of light 45 mm anti-tank guns and 76.2 mm divisional field guns in the belief that they were inadequate; the Soviets overestimated the armor protection of the latest German heavy tanks from propaganda about the Neubaufahrzeug multi-turreted prototype tank.
+
+The beginning of the Great Patriotic War revealed that the pre-war 76 mm guns overmatched German armor; in some cases even 12.7 mm DShK machine guns were adequate. Most of the 76 mm guns were lost early in the war; some captured examples armed German Panzerjäger self-propelled guns. Marshal Kulik ordered the F-22USV back into production. At Artillery Factory No. 92, Grabin put the ZiS-3 into mass production in December 1941.
+
+The factory's ZiS-3 stockpile grew and went unused as the Red Army refused to accept the guns without the usual acceptance trials. Grabin convinced the army to issue the guns for impromptu testing at the front, where they proved superior to existing divisional field guns. A subsequent demonstration impressed Joseph Stalin, who praised the weapon as "a masterpiece of artillery systems design." The ZiS-3 underwent an official five-day acceptance trial in February 1942 and was then accepted into service as a divisional field gun model in 1942 (full official name).
+
+Grabin worked to increase production at Artillery Factory No. 92. Conveyor assembly lines admitted the use of low-skilled labor without significant quality loss. Experienced laborers and engineers worked on complicated equipment and served as brigade leaders; they were replaced on the production line by young factory workers who were exempt from conscription, producing a new generation of skilled laborers and engineers. More than 103,000 ZiS-3s were produced by the end of the war, making it the most numerous Soviet field gun during the war.
+
+Mass production of the ZiS-3 ceased after the war. It was replaced by the 85 mm D-44 divisional field gun. The D-44 had better anti-armor capabilities, but inferior mobility due to its increased weight.
+
+The Finns captured 12 units and designated them 76 K 42.
+
+At least one ZiS-3 was produced at the Reșița Works in Reșița, Romania, in 1943. This Romanian-produced copy was tested against several Romanian-designed prototypes as well as some foreign models until eventually one of the Romanian prototypes was selected for production as the Tunul antitank DT-UDR 26, cal. 75 mm, md. 1943, commonly shortened to 75 mm Reşiţa Model 1943. This gun had the muzzle brake, split-trail carriage, and recoil/firing mechanisms of the ZiS-3. At least 375 DT-UDR guns were produced by Romania, including three prototypes.
+
+This equipment has proliferated into the following countries: Afghanistan, Albania, Angola, Belarus, Bulgaria, Cambodia, China, Egypt, Ethiopia, Germany, Hungary, Mongolia, Mozambique, Namibia, Nicaragua, North Korea (Democratic People's Republic of Korea), Poland, Romania, Russian Federation, Sudan, Syria, Tanzania, Ukraine, Viet Nam, Zimbabwe.
+
+Here is Variants information for the M1942 (ZiS-3) Russian 76mm Towed Anti-Tank Gun:
+The Type 54 is Chinese Version..
+
+Here is System information for the M1942 (ZiS-3) Russian 76mm Towed Anti-Tank Gun:
+The Alternative Designation is ZiS-3; M1942.
+The Type is Towed Anti-Tank Gun.
+The Caliber is 76 mm.
+The Manufacturer is Artillery Factory No. 92.
+The Carriage is Split trail.
+The Crew is 7.
+The Displacement Time is Under 2.
+The Emplacement Time is Under 2.
+
+Here is Dimensions information for the M1942 (ZiS-3) Russian 76mm Towed Anti-Tank Gun:
+The Length is INA.
+The Barrel Length is 3.4 m.
+The Width is 1.6 m.
+The Height is 1.37 m.
+The Weight, Combat is 1,116 kg.
+
+Here is System information for the M1942 (ZiS-3) Russian 76mm Towed Anti-Tank Gun of the Main Weapon System:
+The Name is ZiS-3.
+The Type is Towed Field Gun.
+The Caliber is 76.
+The Breech is Semi-automatic vertical sliding-wedge.
+The Recoil is Hydro-pneumatic.
+The Carriage is Split trail.
+The Elevation is −5° to +37°.
+The Traverse is 54°.
+The Rate of Fire is up to 25 rounds per minute.
+The Maximum Firing Range is 13.29 km.
+
+Here is Ammunition information for the M1942 (ZiS-3) Russian 76mm Towed Anti-Tank Gun of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 76.
+The Shell is Fixed QF 76.2 × 385 mm. R.
+The Basic Load is INA.
+
+Here is Fire Control information for the M1942 (ZiS-3) Russian 76mm Towed Anti-Tank Gun:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+

@@ -1,0 +1,223 @@
+This document describes the RKhM-6 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle.
+
+RKhM-6 "Povozka" – the latest version with state-of-the-art detection systems, including the PRKhDD-2B with a detection range of about 3 km. Furthermore, the RKhM-6 is equipped with an SN-RKhM inertial navigation system and a 14Ts834 satellite navigation system. In service since 2011. Deployed to Syria in November 2018. It is an advanced variant of the RKhM-4-01 CBRN vehicle. The 8×8 CBRN vehicle is designed to conduct chemical, radiological, biological, and nuclear reconnaissance missions for CBRN reconnaissance elements of the Russian Armed Forces. It can transmit reconnaissance data to reconnaissance devices and command control centers.
+
+The Russian Army RKhM-6 is an advanced Nuclear, Bacteriological, and Chemical (NBC) reconnaissance vehicle derived from the BTR-80 armored vehicle. The vehicle is provided with a satellite navigation system and can cover an area of four square miles. The crew can transmit the result of their analysis to remote command and control centers without leaving the vehicle. The RKhM-6 vehicle is expected to enter service with the Russian Army in early 2016.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation, Syria.
+
+Here is Variants information for the RKhM-6 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The RKhM-4 is The RKhM-4 (Razvedyvatelnaya Khimicheskaya Mashina) chemical reconnaissance vehicle is fitted with various detection devices for the detection of radiation, biological and chemical agents..
+The RKhM-4-01 is The RKhM-4-01 vehicle is an updated version of the RKhM-4. Biological, chemical and radiological detection equipment fitted to the RKhM-4-01 vehicle..
+The RKhM-4-02 is The RKhM-4-02 is another incremental update to the base vehicle..
+The RKhM-6 is The RKhM-6, is another incremental update of the RKhM-4..
+The RPM-2 is The RPM-2 (Razvedivatelno-Poiskovaya Mashina) radiation survey/reconnaissance vehicle is based on the RKhM-4..
+
+Here is System information for the RKhM-6 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The Alternative Designation is RKhM-6.
+The Type is CBRN Reconnaissance Vehicle.
+The Manufacturer is Arzamas Machinery Plant of Military Industrial Company (VPK).
+The Description is The vehicle is based on the hull of BTR-80 armoured personnel carrier (APC). The conventional layout accommodates the driver’s compartment at forward hull, NBC laboratory in the middle and engine at the rear..
+The Configuration is 8x8.
+The Crew is 3.
+
+Here is Dimensions information for the RKhM-6 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The Length is 7.7.
+The Width is 2.9.
+The Height is 2.41.
+The Weight, Combat is 13.6.
+
+Here is CBRN Equipment information for the RKhM-6 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The Chemical Agent Detector is GSA-14 automatic chemical agent detector, one set.
+The Dose Rate Meter #1 is IMD-23 dose rate meter, one set.
+The Dose Rate Meter #2 is IMD-2NM dose rate meter, one set.
+The Never Agent Gas Alarms is PKhRDD-2B automatic nerve agent gas alarm and KPKhR-3 automatic nerve agent gas alarm.
+The Aerosolized Particulate Matter Detector is ASP-13 aerosolized particulate matter detector, one set.
+The Sampler Sets is KPO-1 sampler, one set and the 
+APSO sampler, one set..
+The Meteorological Kit is AMK meteorological kit, one set.
+The Navigation System is 14TS834 navigation system and the
+SN-RKhR navigation system.
+The Data Processing Device is UIK-RKhB data processing device and the T-236-V data processing device.
+The Note is The RKhM-6 is equipped with a more advanced NBC laboratory. The fully automated system is controlled by single personnel and enables the automatic detection of chemical and radioactive substances, with alarms ringing inside the vehicle if any such contamination is found.
+
+The sensors aboard the vehicle can detect any type of radioactive contamination from inside the vehicle, and the crew can test the samples from within the vehicle.
+
+The vehicle lacks special suits for dismounting troops in a radiation environment but carries three sets of MOPP suits and filters. The biological sensors on the vehicle can detect biological molecules such as viruses, while the chemical detection optical devices use the onboard computer for analysis.
+
+The vehicle can detect vapors and aerosols of toxic and hazardous substances in a contaminated environment of 10m² a minute. The vehicle runs at a speed of 20km/h-50km/h in accordance with the level and complexity of contamination.
+
+The RKhM-6 is equipped with battlefield management systems (BMS), and Perunit-V satellite navigation system based on GLONASS. The advanced meteorological suite provides coverage across 4km² of the area or accurate direction up to 6km. It measures wind speed and direction, air samples, weather conditions, rain, and snow..
+
+Here is Automotive information for the RKhM-6 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The Engine Name is KamAZ Series, Model: INA.
+The Engine Type is Water-cooled, V8 Diesel.
+The Automotive Performance is 300.
+The Range, Cruising is 600.
+The Speed, Maximum Road is 80.
+The Speed, Maximum Off-Road is 60.
+The Speed, Maximum Swim is 9.
+The Speed, Radiological Reconnaissance is Less than 50 km/h.
+The Speed, Chemical Reconnaissance is Less than 50 km/h.
+The Speed, Biological Reconnaissance is Less than 0 km/h.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.5.
+The Trench is 2.0.
+The Fording Depth is Amphibious.
+The Note is The vehicle is equipped with a central tyre inflation system and run-flat tyres for high mobility over different terrains.
+
+Here is Communications information for the RKhM-6 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The Primary is R-163-50U VHF radio communications set.
+The Secondary is R-163-UP VHF radio communications set..
+The Intercome is R-174.
+
+Here is System information for the RKhM-6 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle of the Main Weapons System:
+The Name is 1 x KPVT 14.5mm Heavy Machine Gun (KPV).
+The Type is Heavy Machine Gun (KPV).
+The Caliber is 14.5 mm.
+The Manufacturer is V.A. Degtyarev Plant.
+The In Service is 1949-Present.
+The Proliferated is Widely Proliferated 
+ Afghanistan
+ Albania
+ Algeria
+ Angola
+ Armenia
+ Bangladesh
+ Benin
+ Bulgaria: locally produced
+ Cambodia
+ Cameroon
+ Congo
+ China: Type 56 machine gun, produced by Norinco
+ Cuba
+ Czechoslovakia (ex)
+ Egypt
+ Eritrea
+ Estonia
+ Ethiopia
+ Finland (KPVT)
+ Georgia
+ Guinea-Bissau
+ Hungary
+ India - Manufactured at Ordnance Factory Tiruchirappalli
+ Iraq- Iraqi Armed Forces
+Popular Mobilization Forces
+ Iraqi Kurdistan
+ Iran
+ Islamic State
+ Ivory Coast
+Izz ad-Din al-Qassam Brigades
+ Laos
+ Lebanon
+ Libya
+ Malawi
+ Mali - Armed and Security Forces of Mali
+ Malta - North Korea-made KPVs
+ Mongolia
+ Mozambique
+ Myanmar
+ North Korea
+ Nicaragua
+ Pakistan: Used by the Pakistan Army.
+ Panama
+ Poland
+ Romania: KPV and KPVT built under license
+ Russia
+ Sahrawi Arab Democratic Republic
+ São Tomé and Príncipe
+ Serbia (KPVT)
+ Sierra Leone: Chinese QJG56 and Polish KPVT
+ Slovenia (KPVT)
+ Somalia
+ South Africa
+ Sudan
+ Syria
+ Togo
+ Ukraine
+ Yemen
+ Vietnam
+ Tanzania
+ Zimbabwe.
+The Length, Total is 1.980.
+The Barrel Length is 1,346.
+The Width is 162.
+The Height is 225.
+The Weight is 49.
+The Rate of Fire is 600.
+The Maximum Firing Range is 4,000.
+The Effective Firing Range is 3,000.
+The Fire on the Move is Yes.
+The Maximum Elevation is +60.
+The Minimum Elevation is -4.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+
+Here is Ammunition information for the RKhM-6 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle of the Main Weapons System:
+The Name is INA.
+The Type is API-T.
+The Caliber is 14.5.
+The Cartridge is 14.5×114 mm.
+The Muzzle Velocity is 1,005.
+The Effective Range (Day) is 2,000.
+The Effective Range (Night) is INA.
+The Tactical Range is 1,500-2,000.
+The Armor Penetration is 20mm at 1,000 m/ 30mm at 500 m.
+The Basic Load is 500.
+The Note is Additional Ammo includes: API, I-T.
+
+Here is System information for the RKhM-6 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle of the Auxiliary Weapon System:
+The Name is 1 x 7.62mm PKT (Kalashnikov's Machine Gun) General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Length, Total is 1,203.
+The Length, Barrel is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Max Rate of Fire is 650.
+The Effective Rate of Fire is 250-300.
+The Effective Firing Range (With Sight Adjustments) is 100-1,500.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the RKhM-6 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle of the Auxiliary Weapon System:
+The Name is 57-N-323S.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR km.
+The Muzzle Velocity is 855.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 2,500.
+
+Here is Fire Control information for the RKhM-6 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Vehicle Commander is INA.
+The Thermal Sight Gunner is INA.
+The Gunner Day Sights is 1P3-6, 1.2x/4x.
+The Main Gun Stabilization is No.
+The Infrared Searchlight is OU-3GA2M.
+The Forward-Looking Infrared (FLIR) Capable is Yes.
+The Battlefield Management Systems (BMS) is Yes.
+The Navigation System is Perunit-V satellite navigation system based on GLONASS.
+The Meteorological Suite is Yes, Provides coverage across 4km² of area or accurate direction up to 6km. It measures wind speed and direction, air samples, weather conditions, rain and snow..
+
+Here is Protection information for the RKhM-6 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The Hull Armor is Front armor of the RKhm-6 protects against 12.7 mm rounds. All-round protection is against 7.62 mm rounds and artillery shell splinters. It features spaced and heavier armour at the forward hull, while the sides and turret are hinged with aluminium and steel plates..
+The Turret Armor is Protection against 12.7mm and shrapnel.
+The Applique Armor is Available.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Mine Protection is The vehicle also integrates a reinforced roof and blast-resistant floor for protection against mine explosions..
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes, Collective & a advanced NBC laboratory.
+The Smoke Equipment is 6 x 81-mm smoke grenade launchers.
+The Note is The vehicle also integrates a reinforced roof and blast-resistant floor for protection against mine explosions..
+

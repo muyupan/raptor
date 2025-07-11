@@ -1,0 +1,55 @@
+This document describes the 9K34 Strela-3 (SA-14 Gremlin) Russian Man-Portable Air Defense Missile System (MANPADS).
+
+Hezbollah Proliferation. The 9K34 Strela-3, NATO reporting name: SA-14 Gremlin is a man-portable air defense missile system (MANPADS) developed in the Soviet Union as a response to the poor performance of the earlier 9K32 Strela 2 (SA-7 Grail) system. The missile was largely based on the earlier Strela 2, and thus development proceeded rapidly. The new weapon was accepted into service in the Soviet Army in January 1974.
+
+The most significant change over the Strela 2 was the introduction of an all-new infra-red homing seeker head. The new seeker worked on FM modulation (con-scan) principle, which is less vulnerable to jamming and decoy flares than the earlier AM (spin-scan) seekers, which were easily fooled by flares and even the most primitive infrared jammers. The new seeker also introduced detector element cooling in the form of a pressurized nitrogen bottle attached to the launcher.
+
+The effect of cooling was to expand the seeker's lead sulphide detector element's sensitivity range to longer wavelengths (slightly over 4 µm as opposed to 2.8 µm of uncooled PbS elements). In practice this made possible the tracking of cooler targets over longer ranges, and enabled forward-hemisphere engagement of jets under favourable circumstances. The seeker also had better tracking rate, enabling the missile to track maneuvering of fast and approaching targets.
+
+A negative side effect from the aforementioned improvements was increased missile weight, which caused a slight decrease in the kinematic performance of the original Strela-2 (SA-7). Against relatively slow, low-altitude battlefield air threats the overall effectiveness was much improved.
+Strela-3 missiles have been exported to over 30 countries.
+
+The original Strela-3 missile was the 9M36. The follow-on to the Strela-3 was Igla.
+
+The naval version of this missile has the NATO reporting name of SA-N-8.
+
+This equipment has proliferated into the following countries: Afghanistan, Algeria, Angola, Armenia, Azerbaijan, Bosnia and Herzegovina, Bulgaria, Cambodia, Croatia, Cuba, Cyprus, Egypt, Ethiopia, Georgia, Ghana, Indonesia, Iran (Islamic Republic of), Iraq, Jordan, Kazakhstan, Kurdistan, Laos (People's Democratic Republic), Lebanon, Libya, Morocco, Myanmar, Nicaragua, Non-State Actors, North Korea (Democratic People's Republic of Korea), Pakistan, Peru, Russian Federation, Serbia, Sierra Leone, Sudan, Turkmenistan, Ukraine, Viet Nam.
+
+Here is Armament information for the 9K34 Strela-3 (SA-14 Gremlin) Russian Man-Portable Air Defense Missile System (MANPADS):
+The Launcher Name is 9K34 Strela-3 (SA-14 Gremlin).
+The Missile Name is 9M36 or 9M36-1.
+The Length is 1.4.
+The Diameter is 75.
+The Warhead Weight is 1.0.
+The Weight is 10.3.
+The Reaction Time is 25.
+The Fire on the Move is Yes, in short halt.
+The Max Range is 6,000.
+The Min Range is 600.
+The Max Altitude is 6,000.
+The Min Altitude is 10; 0 with degraded Ph.
+The Fin Span is INA.
+The Missile Speed is 600.
+The Propulsion is 2-stage solid-propellant rocket.
+The Guidance is 1-color passive IR homing.
+The Seeker Field of View is INA.
+The Tracking Rate is INA.
+The Warhead Type is Frag-HE.
+The Fuze Type is Contact/grazing.
+The Probability of Hit is 50 FW/50 heli.
+
+Here is Weapons and Ammunition Types information for the 9K34 Strela-3 (SA-14 Gremlin) Russian Man-Portable Air Defense Missile System (MANPADS):
+The Ready missiles is Typical Combat Load 
+One-man   1 
+Normal Dismount    2 
+From AD Vehicle    5.
+
+Here is Fire Control information for the 9K34 Strela-3 (SA-14 Gremlin) Russian Man-Portable Air Defense Missile System (MANPADS):
+The Sights with magnification is Launch tube has simple sights.
+The Gunner is INA.
+The Gunner Field of View is INA.
+The Gunner Acquisition Range is INA.
+The Gunner Night Sight is None standard, but available.
+The Acquisition Range is 6,000.
+The IFF is Yes.
+

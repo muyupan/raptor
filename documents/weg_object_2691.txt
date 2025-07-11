@@ -1,0 +1,118 @@
+This document describes the M901 ITV American Anti-Tank Guided Missile Carrier.
+
+The M901 ITV (Improved TOW Vehicle) is an American armored vehicle introduced into service in 1979 and designed to carry a dual M220 TOW launcher. It is based on the ubiquitous M113 Armored Personnel Carrier chassis. The M901 ITV is no longer in service with the United States Army, its primary user.
+
+The M901 ITV provides the crew and weapon system protection from small-arms fire and artillery fragments. The squad leader has a 270-degree range of view through the squad leader's periscope (SLP). The turret launcher has the capability for day and night acquisition and tracking of targets, and it provides firing coverages of 360 degrees in azimuth and +35 to −30 degrees in elevation. The ITV has stowage provisions for tripod-mounted TOW components configured so the ground system can be dismounted and set up in three to five minutes. In addition, the ITV is completely amphibious and is air transportable. It has the following characteristics:
+
+* A hydraulically and electrically powered "hammerhead" turret, attached to a modified M27 cupola, that can be operated manually.
+
+* A complete M220-series TOW weapon system stowed and strapped in fixed mounting brackets. The day sight tracker and night sight (AN/TAS-4 or AN/TAS-4a) are mounted in a ready state at the head of the turret. The missile guidance system is also connected at the base of the turret.
+
+* A dual M220 TOW launcher.
+
+* M243 smoke grenade launchers.
+
+* A 3x acquisition sight with a 25-degree field of view.
+
+* Remote actuators that allow day sight tracker and night sight adjustments.
+
+* A machine gun mounted on a traversing rail.
+
+The system is capable of firing two missiles without reloading and carries ten TOW rounds in the missile rack. Reloading is performed under armor protection and is accomplished by tilting the launching apparatus back so that the crew can reach the turret through the carrier's rear roof hatch. The missile launcher targeting head is at the end of a pivoting arm which raises the launcher assembly for firing. When stowed, the turret is aimed down and to the rear of the vehicle. A major limitation of the M901 is that it is practically unable to move while the turret is in a firing position and unable to fire while it is in the stowed position. A common workaround is to move the vehicle while the turret is in the loading position, thereby reducing the amount of time to get the turret in a fire position as opposed to the stow position. Moving from the firing to the stowed position is a procedure that takes several seconds and some skill on the part of the operator.
+
+This equipment has proliferated into the following countries: Bahrain, Egypt, Greece, Jordan, Kuwait, Morocco, Pakistan, Portugal, Thailand, Tunisia.
+
+Here is Variants information for the M901 ITV American Anti-Tank Guided Missile Carrier:
+The M901 is employs the M220A1 TOW.
+The M901A1 is employs the M220A2 TOW 2.
+The M901A3 is employs the M220A2 TOW 2 and incorporates the RISE powerpack and improved driver controls of the M113A3..
+
+Here is Dimensions information for the M901 ITV American Anti-Tank Guided Missile Carrier of the System:
+The Height  is 2.91.
+The Length  is 4.9.
+The Width  is 2.7.
+The Weight is 11.79 tons.
+
+Here is System #1 information for the M901 ITV American Anti-Tank Guided Missile Carrier of the Main Weapon System:
+The Name is M27.
+The Type is ATGM.
+The Elevation, Maximum  is 34.
+The Elevation, Minimum  is 30.
+The Loader Type is Manual.
+The Rate of Fire, Cyclic  is 2.0.
+The Rate of Fire, Practical  is 2.0.
+
+Here is System #2 information for the M901 ITV American Anti-Tank Guided Missile Carrier of the Main Weapon System:
+The Name is INA.
+The Caliber is 7.62.
+The Type is General-Purpose Machine Gun.
+
+Here is Automotive information for the M901 ITV American Anti-Tank Guided Missile Carrier:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power  is 212.
+The Fording Depth  is Amphibious.
+The Range, Cruising  is 483.0.
+The Speed , Maximum Road  is 64.0.
+The Speed, Maximum Cross-Country is INA.
+The Speed, Maximum Off-Road is INA.
+The Speed, Maximum Swim  is 5.8.
+
+Here is Radio information for the M901 ITV American Anti-Tank Guided Missile Carrier of the Communications:
+The Type is Various, including intercom.
+
+Here is Day Sight information for the M901 ITV American Anti-Tank Guided Missile Carrier of the Fire Control System:
+The Acquisition Range  is INA.
+The Field of View  is 5.5.
+The Magnification is Day sight/tracker, 13x.
+
+Here is Night Sight information for the M901 ITV American Anti-Tank Guided Missile Carrier of the Fire Control System:
+The Acquisition Range  is INA.
+The Field of View  is INA.
+The Name is AN/TAS-4 thermal sight.
+
+Here is Weapon 1 Munition 1 information for the M901 ITV American Anti-Tank Guided Missile Carrier of the Ammunition:
+The Name is BGM-71 (TOW).
+The Type is Shaped Charge (HEAT).
+The Penetration  is 600.
+The Range, Maximum  is 65.
+The Range, Maximum  is 3,750.
+The Weight  is INA.
+
+Here is Weapon 1 Munition 2 information for the M901 ITV American Anti-Tank Guided Missile Carrier of the Ammunition:
+The Name is BGM-71C (ITOW).
+The Type is HEAT.
+The Penetration  is 800.
+The Weight  is 25.7.
+The Range, Maximum  is 3,750.
+The Range, Minimum  is 65.0.
+
+Here is Weapon 1 Munition 3 information for the M901 ITV American Anti-Tank Guided Missile Carrier of the Ammunition:
+The Name is BGM-71D (Tow2).
+The Type is HEAT.
+The Penetration  is 900 mm.
+The Weight  is 28.
+The Range, Maximum  is 3,750.
+The Range, Minimum  is 65.
+
+Here is Weapon 1 Munition 4 information for the M901 ITV American Anti-Tank Guided Missile Carrier of the Ammunition:
+The Name is BGM-71E.
+The Type is Tandem Shaped Charge (Large HEAT, long probe).
+The Weight  is 22.65.
+The Penetration  is 900.
+The Range, Maximum  is 3,750.
+The Range, Minimum  is 65.
+
+Here is Weapon 1 Munition 5 information for the M901 ITV American Anti-Tank Guided Missile Carrier of the Ammunition:
+The Name is BGM-71F (TOW 2B).
+The Type is Dual explosive-formed penetrators (EFP),top-attack.
+The Weight  is 22.6.
+The Range, Maximum  is 3,750.
+The Range, Minimum  is 200.
+The Penetration  is 900 mm.
+
+Here is Protection information for the M901 ITV American Anti-Tank Guided Missile Carrier:
+The Armor, Turret Front  is INA.
+The NBC Protection is None.
+The Smoke Equipment is 8 x smoke grenade launchers.
+

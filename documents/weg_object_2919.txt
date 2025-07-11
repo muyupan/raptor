@@ -1,0 +1,74 @@
+This document describes the Infauna (RB-531B) Russian 8x8 Amphibious Electronic Warfare System.
+
+The Infauna (RB-531B) 8x8 Amphibious Electronic Warfare System is used to detect and jam the enemy communications, and to protect its own forces from the radio-controlled explosives. This happens through detection of the dangerous signal and jamming of that signal, by overpowering it. The system has been based on the K1SZ1 universal platform, derived from the BTR-80 APC.
+
+“Infauna” is mainly becoming a part of the inventory of the Russian VDV airborne component. The first four examples of this suite have been handed off to the Western and Southern Military Districts at the beginning of the year 2012, with another two being delivered in 2014 and subsequent six systems received in 2015.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Infauna (RB-531B) Russian 8x8 Amphibious Electronic Warfare System:
+The Alternative Designation is Infauna; RB-531B.
+The Type is Amphibious Electronic Warfare System.
+The Configuration is 8X8.
+The Chassis is BTR-80.
+The Manufacturer is Arzamas Machine-Building Plant, Nizhniy Novgorod.
+The Mission is The main tasks of the Infauna vehicle is the protection of road, combat vehicles and personnel against radio-controlled mines and explosive devices, and providing jamming against radio communication systems of enemy at the battalion level. The Infauna can produce aerosol interference which is used for protection against high precision weapons with laser and video-management systems..
+The Crew is 3.
+The Personnel is INA.
+The Jamming Range is 20 × 2,020 MHz.
+The Disruption Range is 3 km.
+The Output Power is 60 W.
+The Power Supply is 12.6 v.
+The Optical Sensors is The Infauna features an optical sensor placed on the sides of the vehicle, which detects flashes of shots and give the command to set up a smoke screen covering the system from fire.
+
+Here is Dimensions (Chassis: BTR-80) information for the Infauna (RB-531B) Russian 8x8 Amphibious Electronic Warfare System:
+The Length is 7.65 m.
+The Width is 2.90 m.
+The Height is 2.46 m (Chassis only).
+The Wheelbase is 4.4 m.
+The Weight, Standard is INA.
+The Weight, Combat is 13,614 kg.
+The Ground Clearance is 0.475 m.
+
+Here is Automotive  (Chassis: BTR-80) information for the Infauna (RB-531B) Russian 8x8 Amphibious Electronic Warfare System:
+The Engine Name is YaMZ-238M2.
+The Engine Type is V-8, turbocharged, diesel.
+The Engine Power is 140.
+The Power-to-Weight Ratio is 19.1 hp/t.
+The Fuel Capacity is 300 liters.
+The Gearbox is Manual, Fwd: 5, Rev: 1.
+The Electrical System is 24 V.
+The Transfer Box is 2 speed.
+The Steering is power assisted.
+The Brakes is hydraulic on all wheels.
+The Suspension is torsion bar with hydraulic shock-absorbers.
+The Tires is 13.00 × 18 (tubeless).
+The Maximum Land Speed is 80 km/h.
+The Maximum Water Speed is 9 km/h.
+The Range is 600 km.
+The Angle of Approach is 40°.
+The Angle of Departure is 30°.
+The Gradient is 60%.
+The Side Slope is 42%.
+The Vertical Obstacle is 0.5 m.
+The Trench is 2 m.
+The Turning Radius is 13.2 m.
+
+Here is Communications information for the Infauna (RB-531B) Russian 8x8 Amphibious Electronic Warfare System:
+The Primary is R-173.
+The Secondary is R-163.
+The Intercome is R-174.
+
+Here is Main Weapons System information for the Infauna (RB-531B) Russian 8x8 Amphibious Electronic Warfare System:
+The Note is There are no crew-served weapons mounted on the  Infauna (RB-531B) 8x8 Amphibious Electronic Warfare System.
+
+Here is Protection information for the Infauna (RB-531B) Russian 8x8 Amphibious Electronic Warfare System:
+The Hull Armor is The front of the vehicle is resistant to 12.7 mm rounds from an M2 at a range of 200 m, while the sides of the vehicle are resistant to 7.62 mm AP rounds. The hull is not thought to exceed 10 mm in thickness, however the majority of the armor is sloped, thereby increasing the level of protection offered..
+The Applique Armor is It is possible to fit additional armor to the front of the  Infauna (RB-531B) 8x8 Amphibious Electronic Warfare System, which provides protection against 14.5 mm rounds and some resistance to blast damage. However, this would likely have a significant impact on the platform’s mobility..
+The Explosive Reactive Armor is Available, Other armour kits have included ERA, thought to be added in the field by the crews in an effort to counter the effects of RPGs..
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes, Collective.
+The Smoke Equipment is 6 × 81 mm smoke grenade launcher (2 × 3).
+

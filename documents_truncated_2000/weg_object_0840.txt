@@ -1,0 +1,118 @@
+This document describes the Arpia Venezuela Tactical Unmanned Aerial Vehicle (UAV).
+
+In 2007, Venezuela signed an agreement with Iran to assemble 12 Mohajer-2 UAVs from knock-down kits supplied by Quds. Venezuelan state-owned defense contractor CAVIM began assembling the drones by 2009. US satellite imagery revealed the facility manufacturing the drones in 2010, and they were unveiled to the public as the CAVIM Arpia in 2012.
+
+This equipment has proliferated into the following countries: South America.
+
+Here is Variants information for the Arpia Venezuela Tactical Unmanned Aerial Vehicle (UAV):
+The Mohajer-1 is The Mohajer was Iran's first drone to enter series production and was used during the Iran–Iraq War. The Mohajer-1 was known simply as "Mohajer" through the 80s and 90s, when it was re-designated "Mohajer-1" as other Mohajer variants had been developed..
+The Mohajer-2 is Following the successful use of the Mohajer-1, Iran wanted a version with more range and endurance. This version, which would later be named the Mohajer-2, also had an auto pilot system to fly beyond the line-of-control of its command center..
+The Mohajer-2N is In 2014, Iran introduced the Mohajer-2N, which shares the same design as the Mohajer-2 but has far improved performance. The Mohajer-2N replaces the electronics of the Mohajer-2 with more modern versions and has also has improved flight characteristics. T.
+The Mohajer-3 is The Mohajer-3, also known as the Dorna, was designed with a new airframe for better performance. It had a square body and featured a low-mounted horizontal stabilizer flush with the main wing, the only member of the Mohajer family configured this way..
+The Mohajer-4 is The Mohajer-4 was designed for both the Iranian Army and the IRGC and entered service in late 1997..
+The Mohajer-4B is Also known as the Sadiq, the Mohajer-4B is a significant evolution of the Mohajer-4 platform with a square fuselage, twin tail booms, a top-mounted horizontal stabilizer, uncanted wingtips, new landing skids, and straight wings mounted high and to the mid of the body.
+The Sadegh-1 is The Sadegh-1 ("Honest-1"), also known as the QOM-1, is simply a Mohajer-4B with two MANPADS mounted on pylons.It was tested in late 2014.
+The Mohajer-6 is The Qods Mohajer-6 is a persistent ISTAR UAV capable of carrying a multispectral surveillance payload and/or up to two precision-guided munitions. Ten have been manufactured as of February 2018 for the IRGC Ground Forces, and 40 are planned for the IRGC Navy.The Mohajer-6 complements the larger Shahed 129 operated by the third IRGC branch, the IRGC-ASF. Three have also been delivered to the Iranian Army..
+
+Here is System information for the Arpia Venezuela Tactical Unmanned Aerial Vehicle (UAV):
+The Alternative Designation is CAVIM Arpia, Arpia.
+The Type of UAV is Tactical Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Qods Aviation, Tehran.
+The Family is Mohajer family.
+The In Service is 2009-Present.
+The Flight Control Method is controlled by hobby-class radio, which was easily jammed.
+The Day/Night Capable is INA.
+The All Weather Capable is INA.
+The Takeoff or Landing Limitations is INA.
+The Ground Crew is Capable of being controlled via land crew or autopilot.
+The Autopilot is Yes, which controls the aircraft via waypoints.
+The Endurance is 90 min.
+The Range is 30.
+The Date Transmit Distance is INA.
+The Location Positioning System is Yes.
+The Launch System is PL3 pneumatic catapult.
+The Recovery System is Skid Landing or Parachute.
+The Number of Hard Points is 6.
+The Manned-Unmanned Teaming (MUM-T) Capable is No.
+The Automatic Landing and Takeoff Capability is No.
+The Landing Gear is three fixed landing gear for launch and recovery.
+The Stabilizer is Horizontal stabilizer.
+The Antenna Type is two stub antenna in the under 10 GHz range, one on each wing, for real-time control..
+The Note #1 is Designed for surveillance use.
+The Note #2 is the Arpia lacks over-the-horizon guidance.
+The Proliferation is Valenzuela.
+
+Here is Dimensions information for the Arpia Venezuela Tactical Unmanned Aerial Vehicle (UAV):
+The Length is 2.9.
+The Width (Wing Span) is 3.8.
+The Height is INA.
+The Weight, Maximum Takeoff is 83.
+The Weight, Empty is 70.
+The Tailbooms is Twin.
+The Wing Type is Mid-mounted, untapered wings.
+The Tail Type is Horizontal tail.
+
+Here is Automotive information for the Arpia Venezuela Tactical Unmanned Aerial Vehicle (UAV):
+The Engine Name is WAE-342 Engine.
+The Engine Type is Single Engine.
+The Engine Power is 25.
+The Cruising Range is 30.
+The Speed, Maximum is 200.
+The Speed, Average is INA.
+The Endurance is 90 min.
+The Maximum Ceiling is 4,820.
+The Radius is 50.
+The Cargo Capacity (Payload) is 15.
+The Propellers is 2-bladed.
+The Rudders is Twin Rudders.
+The Belly Skid is Yes, The belly skids are non-retractable, but can compress on landing to reduce shock.
+
+Here is Communications information for the Arpia Venezuela Tactical Unmanned Aerial Vehicle (UAV):
+The Radio is INA.
+The Retrans Radio is INA.
+
+Here is Main Weapons System information for the Arpia Venezuela Tactical Unmanned Aerial Vehicle (UAV):
+The Name is RPG-7.
+The Type is Rocket-propelled grenade launcher[.
+The In Service is 1961-Present.
+The Manufacturer is Bazalt and Degtyarev plant (Russian Federation).
+The Proliferation is + 9 Million.
+The Length is 950.
+The Cartridge is 85.
+The Caliber is 40.
+The Weight is 6.3.
+The Muzzle Velocity, Boost is 115.
+The Muzzle Velocity, Flight is 300.
+The Effective Firing Range is 300.
+The Maximum Firing Range is 700 m (OG-7V)
+(self detonates at ≈920 m (1,000 yd)).
+The Sights is PGO-7 (2.7×), UP-7V Telescopic sight and 1PN51/1PN58 night vision sights
+Red dot reflex sight.
+The Basic Load is 12.
+
+Here is Fire Control information for the Arpia Venezuela Tactical Unmanned Aerial Vehicle (UAV):
+The Fire Control System Type is INA.
+The Fire Control Radar is No.
+The Radar Type is INA.
+The Radar Designator is INA.
+The Laser Rangefinder is INA.
+The Laser Designator is INA.
+The Full-Motion Video is Yes, video and infrared with 1-m resolution mounted on the forward part of the fuselage.
+The Still Camera is static nose-mounted camera.
+The Thermal Imaging Sensors is No infrared camera installed.
+The Electro Optical Pod is INA.
+The Forward-Looking Infrared (FLIR) Sensors. is Yes.
+The Onboard Digital Processor is Yes, which can downlink sensor imagery.
+The Navigation Camera is fixed forwards-facing camera for navigation.
+The Guidance System is GPS Guidance System.
+The Note is A line-scanner is provided, which reportedly can provide 3-ft (1-m) resolution at an altitude of 16,400 ft (5,000 m).
+
+Here is Protection information for the Arpia Venezuela Tactical Unmanned Aerial Vehicle (UAV):
+The Fuselage is Bullet-shaped fuselage.
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The Add on Armor is No.
+The EW is No.
+The EW Counter Measures / CCM is No.
+The Counter Measures (Chaffs/Flares) is No.
+

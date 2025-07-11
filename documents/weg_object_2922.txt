@@ -1,0 +1,40 @@
+This document describes the KRTP-91 Tamara (Trash Can) Czechoslovakian Electronic Support Measures System.
+
+Tamara was the third generation Czechoslovak electronic support measures (ESM) system that used measurements of time difference of arrival (TDOA) of pulses at three or four sites to accurately detect and track airborne emitters by multilateration. Tamara's designations were KRTP-86 and KRTP-91 and it carried the NATO reporting name of Trash Can. The designation was derived from the Czech phrase "Komplet Radiotechnického Průzkumu" meaning "Radio Technical Reconnaissance Set". It was claimed to be the only one in the world able to detect military "invisible aircraft".
+
+This equipment has proliferated into the following countries: Czech Republic.
+
+Here is System information for the KRTP-91 Tamara (Trash Can) Czechoslovakian Electronic Support Measures System:
+The Alternative Designation is KRTP-91 Tamara; NATO: Trash Can.
+The Type is Czechoslovakian Electronic Support Measures System.
+The Crew is INA.
+The Chassis is Tatra T815.
+The Appearance is Unlike its predecessors, Tamara was a mobile system deployed on eight large Tatra T815 trucks and mounted upon a powerful 25 m hydraulic mast. Setup was completely automated and claimed to be of the order of twenty minutes from the moment of arrival at a site..
+The Unit is A single system is carried by eight Tatra 815 8x8 trucks (Equivalent to the MAZ-543), comprising three RS-AJ/M receiver systems with telescoping masts, and a mix of RS-KB hardware containers, RS-KM signal processing equipment container and a ZZP-5 command van..
+The Band is INA.
+The Band Coverage is Cited band coverage is 820 MHz to 18 GHz..
+The Mode of Operation is The deployed system typically comprises a central site (containing the signal processing equipment and an ESM receiver) and two or three side sites containing only an ESM receiver. The side sites relay the signals received to the central site over a point-to-point microwave link. The central site uses the known propagation delay from the side sites to estimate the TDOA of the pulses at each site. The TDOA of a pulse between one side site and the central site locates the target on a hyperboloid. A second side site provides a second TDOA and hence a second hyperboloid. The intersection of these two hyperboloids places the target on a line, providing a 2D measurement of the target's location (no height). A third site provides a third hyperboloid and hence a measurement of height.
+
+Tamara could automatically track 23 radar and 48 IFF targets simultaneously. Its frequency band is 0.8-18 GHz. The nominal range of the system is 450 km, and it is generally limited by the radio horizon. It provides surveillance over a sector of approximately 100 degrees, with the later KRTP-91 system offering a wider 120 degree sector of surveillance..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Deployment Distance is In a typical deployment the receivers are stationed at distances of 5 to 20 NMI..
+The Cited Maximum Range is cited range limit being 240 NMI and limited primarily by the curvature of the earth..
+The Tracked Targets is Russian sources claim that 72 targets can be tracked within a 100° angular sector, these including emitting JTIDS/Link-16 terminals. In 1991 the baseline KRTP-86 was superceded in production by improved the KRTP-91 Tamara-M..
+
+Here is Dimensions information for the KRTP-91 Tamara (Trash Can) Czechoslovakian Electronic Support Measures System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+
+Here is Automotive information for the KRTP-91 Tamara (Trash Can) Czechoslovakian Electronic Support Measures System:
+The Note is Tamara was a mobile system deployed on eight large Tatra T815 trucks and mounted upon a powerful 25 m hydraulic mast..
+
+Here is Protection information for the KRTP-91 Tamara (Trash Can) Czechoslovakian Electronic Support Measures System:
+The Armor is INA.
+The Applique Armor is No.
+The Active Protection System is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

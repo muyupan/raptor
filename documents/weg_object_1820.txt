@@ -1,0 +1,71 @@
+This document describes the AN/PED-1 American Lightweight Laser Designator Rangefinder (LLDR).
+
+The Lightweight Laser Designator Rangefinder AN/PED-1 provides a unique capability to Forward Observers, Forward Air Controllers and Naval Gunfire Spot Teams. The system can recognize targets in day/night/obscurant conditions, range to the target at an eye safe wavelength, and calculate grid coordinates with its own GPS/Elevation/Azimuth capability. The system then provides this information to other members of the Digital Battlefield. Also included is a NATO coded laser designator for use with Semi-Active Laser Guided Missiles and Laser Spot Trackers.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is Variants information for the AN/PED-1 American Lightweight Laser Designator Rangefinder (LLDR):
+The AN/PED-1A LLDR 2 is A reduced weight version that uses the AN/PSD-1A TLM II and the AN/PEQ-9A diode compact laser designator module.
+The AN/PED-1B LLDR 2H is Uses the AN/PSD-1B TLM IIH (with celestial navigation integrated with the digital magnetic compass) and the AN/PEQ-9A diode laser designator module.
+The AN/PED-1 LLDR 3 is A development on the previous LLDR versions that adds precision azimuth vertical angle module technology, which enables improved 24/7 all-weather precision targeting capability..
+
+Here is System information for the AN/PED-1 American Lightweight Laser Designator Rangefinder (LLDR):
+The Alternative Designation is AN/PED-1.
+The Type is Lightweight Laser Designator Rangefinder (LLDR).
+The Manufacturer is Northrop Grumman Electronics System.
+The Crew is 1.
+The Components is The AN/PED-1 LLDR consists of two primary subsystems: the AN/PSD-1 Target Location Module (TLM) and the AN/PEQ-9 Laser Designation Module (LDM)..
+
+Here is Dimensions information for the AN/PED-1 American Lightweight Laser Designator Rangefinder (LLDR) of the AN/PSD-1 Target Locator Module (TLM):
+The Length is 429 mm.
+The Width is 244 mm.
+The Height is 140 mm.
+The Weight is 5.8 kg.
+
+Here is Thermal Sight information for the AN/PED-1 American Lightweight Laser Designator Rangefinder (LLDR) of the AN/PSD-1 Target Locator Module (TLM):
+The Detector is InSb staring FPA.
+The Spectral Range is 3 to 5 µm (with laser spot viewing).
+The Array Format is 640×480.
+The Cooling is Closed-cycle Stirling.
+The Field-of-View, Wide is 8.2°×6.6°.
+The Field-of-View, Narrow is 3.5°×2.8°.
+The Field-of-View, E-Zoom is 0.9°×0.7°.
+
+Here is Day Sight information for the AN/PED-1 American Lightweight Laser Designator Rangefinder (LLDR) of the AN/PSD-1 Target Locator Module (TLM):
+The Type is High-resolution staring CCD.
+The Field-of-View, Wide is 4.5°×3.8°.
+The Field-of-View, Narrow is 1.2°×1.0°.
+The Field-of-View, E-Zoom is 0.6°×0.5°.
+
+Here is Laser Rangefinder information for the AN/PED-1 American Lightweight Laser Designator Rangefinder (LLDR) of the AN/PSD-1 Target Locator Module (TLM):
+The Type is Nd:YAG with KTP OPO converter.
+The Classification is Class 1 (eye-safe).
+The Pulse Rate is Single shot or 1 Hz continuous.
+The Range is 100 to 19,995 m (in 5 m increments).
+The Accuracy is ±5 m.
+
+Here is GPS Receiver information for the AN/PED-1 American Lightweight Laser Designator Rangefinder (LLDR) of the AN/PSD-1 Target Locator Module (TLM):
+The Type is Embedded PLGR.
+The Accuracy is <16 m SEP (PPS).
+The Security is Selective Availability/Anti-Spoofing Module (SAASM) -enabled.
+
+Here is System information for the AN/PED-1 American Lightweight Laser Designator Rangefinder (LLDR) of the AN/PEQ-9 Laser Designator Module (LDM):
+The Type is Nd:YAG.
+The Range is >5 km.
+The Codes is All NATO Band I & II plus A-Code.
+
+Here is Dimensions information for the AN/PED-1 American Lightweight Laser Designator Rangefinder (LLDR) of the AN/PEQ-9 Laser Designator Module (LDM):
+The Length is 274 mm.
+The Width is 274 mm.
+The Height is 170 mm.
+The Weight is 4.85 kg.
+
+Here is AN/PED-1 system information for the AN/PED-1 American Lightweight Laser Designator Rangefinder (LLDR):
+The Operation is Menu-driven software.
+The Display is Monocular high-resolution flat panel display.
+The Data Interface is RS-485/RS-232 compliant to Joint Technical Architecture.
+The Video Interface is RS-170.
+The Main Battery is BA-5699 (full system); BA-5590 (TLM).
+The Auxiliary Battery is BB-390 (full system or TLM).
+The Operating Temperature is -37° to +49° C.
+

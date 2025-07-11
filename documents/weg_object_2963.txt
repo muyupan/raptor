@@ -1,0 +1,93 @@
+This document describes the M88 American Armored Recovery Vehicle.
+
+The M88 armored recovery vehicle was designed for medium and heavy recovery operations. Typical tasks of this support vehicle include recovery of damaged, stuck, swamped or overturned armored vehicles on the battlefield. It also provides maintenance service or tows them to maintenance units. The M88 was accepted to service with the US Army in 1959. Deliveries commenced in 1961 and over 1 000 of these armored recovery vehicles were produced until 1964. This ARV saw action during a number of wars, noticeably in Vietnam and both Iraq wars. The upgraded M88 armored recovery vehicles are still in service with the US military. This vehicle was also exported to a number of countries.
+
+   The M88 armored recovery vehicle is based on the suspension and running gear of the M48A2 and M60 tanks. Vehicle is fitted with "A" frame-type hoisting boom, winch and a front-mounted dozer. It was designed to support the Patton series tanks.
+
+   The crane has a 22.3 t capacity. It is used to lift disabled vehicles, turrets, powerpacks, or other loads. If repairs are required to a vehicle's suspension, the crane raises the front of back of the vehicle to allow access to the damaged system. When not required the crane lays on top of the roof.
+
+   The main winch has a 40.8 t capacity. It is used for recovery of damaged, stuck, sunken and overturned vehicles. There is also an auxiliary winch. It is used for delivery of the main winch rope and other cargo handling operations.
+
+   The front-mounted dozer blade is used to stabilize the vehicle during craning and winching operations. It can be also used for clearing obstacles and light earth-mowing works, such as covering up of ditches and so on.
+
+   Vehicle has a welding outfit for welding and cutting works in the field. These are carried by one of the crew member. The M88 also has a set of tools for field repairs.
+
+   The M88 ARV tows damaged, faulty or uncontrolled tanks or armored vehicles using rigid or non-rigid hitches. Damaged vehicles are towed to the nearest shelters, assembly points of repair depots.
+
+   The superstructure of this armored recovery vehicle is composed of a single large armor casting. It provides protection against machine gun fire and artillery shell splinters. Hull bottom armor is similar to that of medium tanks and withstands anti-tank mine blast. The original M88 lacks NBC protection system, which later models are equipped with.
+
+   The M88 is armed with a single roof-mounted 12.7 mm machine gun for self-defense. This weapon is operated by the vehicle commander. A total of 1 300 rounds are carried.
+
+   This support vehicle has as crew of four, including commander, driver, mechanic and rigger. All crew members have their separate hatches in the roof of the superstructure. There is also a door in each side.
+
+   The original M88 was powered by a petrol engine. With the introduction of the M1 Abrams two M88 recovery vehicles were required to tow this MBT, due to it's weight. To address this shortcoming a more powerful version of the M88 was introduced in the early 1990s. In case of emergency this recovery vehicle can refuel main battle tanks from it's own fuel tank. The M88 can be fitted with a deep wading kit. After preparation it can ford water obstacles up to 2.6 m deep.
+
+This equipment has proliferated into the following countries: Australia, Austria, Bahrain, Brazil, Egypt, Greece, Iraq, Israel, Jordan, Kuwait, Lebanon, Morocco, Pakistan, Poland, Portugal, Saudi Arabia, Spain, Sudan, Taiwan, Thailand, Tunisia, Turkey, Ukraine, United States of America.
+
+Here is Variants information for the M88 American Armored Recovery Vehicle:
+The M88 is Original production model with Continental AVSI-1790-6A 980-hp V-12 gasoline engine. No NBC protection system. There were 1,075 M88s built from 1961 to 1964 by Bowen-McLaughlin-York (BMY) of York, Pa. All U.S. Army vehicles converted to diesel power..
+The M88A1 is BMY began development of the diesel-powered M88A1 in 1972, eventually converting 875 M88s and building more than 2,100 new M88A1s.
+The M88A2 Hercules Improved Recovery Vehicle (IRV) is This is an improved version capable of hoisting and towing twice weight of an M88A1, including M1 tanks. Production on the M88A2 began in 1994.
+Key upgrades include improved power-assisted braking, steering, winching, hoisting and increased horsepower, according to BAE Systems..
+
+Here is System information for the M88 American Armored Recovery Vehicle:
+The Alternative Designation is M88.
+The Type is Armored Recovery Vehicle.
+The Manufacturer is BMY (1961–1994)
+United Defense and Anniston Army Depot (1994–2005)
+BAE Systems Land and Armaments (since 2005).
+The Crew is 4.
+The Left Capability is 22.7 tons.
+The Winch Capability is 40.8 tons,  It is used for recovery of damaged, stuck, sunken and overturned vehicles. There is also an auxiliary winch. It is used for delivery of the main winch rope and other cargo handling operations..
+The Towed Load is 55 tons.
+The Dozer Blade is The front-mounted dozer blade is used to stabilize the vehicle during craning and winching operations. It can be also used for clearing obstacles and light earth-mowing works, such as covering up of ditches and so on..
+The Welding Equipment is Vehicle has a welding outfit for welding and cutting works in the field. These are carried by one of the crew member. The M88 also has a set of tools for field repairs..
+
+Here is Dimensions information for the M88 American Armored Recovery Vehicle:
+The Length is 8.27 m.
+The Width is 3.43 m.
+The Height is 3.13 m.
+The Weight is 50.8 tons.
+
+Here is Automotive information for the M88 American Armored Recovery Vehicle:
+The Engine Name is INA.
+The Engine Type is Petrol.
+The Engine Power is INA.
+The Transmission is INA.
+The Maximum Speed is 40 km/h.
+The Range is 300 km.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 1.1.
+The Trench is 2.6.
+The Fording without Preparation is 1.4.
+The Fording with Preparation is 2.6.
+
+Here is System information for the M88 American Armored Recovery Vehicle of the Main Weapon System:
+The Name is M2 Browning.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight is 38 kg (83.78 lb)
+58 kg (127.87 lb) with tripod and T&E (Traverse and Elevation Mechanism).
+The Action is Short recoil-operated.
+The Rate of Fire is 450–600 rounds/min.
+The Muzzle Velocity is 890 m/s.
+The Maximum Firing Range is 7,400 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is Belt-fed (M2 or M9 links).
+
+Here is Ammunition information for the M88 American Armored Recovery Vehicle of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Basic Load is 1,300 rounds.
+
+Here is Protection information for the M88 American Armored Recovery Vehicle:
+The Hull Armor is The superstructure of this armored recovery vehicle is composed of a single large armor casting. It provides protection against machine gun fire and artillery shell splinters. Hull bottom armor is similar to that of medium tanks and withstands anti-tank mine blast. The original M88 lacks NBC protection system, which later models are equipped with..
+The Applique Armor is Available.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

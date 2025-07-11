@@ -1,0 +1,130 @@
+This document describes the Neustrashimy-Class (Project 11540 Class) Russian Frigate.
+
+Neustrashimy Class (Project 11540 Class) Russian Frigate was originally designed as the successor to the GRISHA class, but due to weakness in the Russian economy, only two were completed. The Neustrashimy class (Russian: Неустрашимый, alternate English spelling Neustrashimyy), Soviet designation Project 11540 Yastreb (hawk), is a series of large frigates built for the Soviet Navy and currently in service with the Russian Navy. Seven ships were planned for the Soviet Navy, but the fall of the Soviet Union disrupted those plans. Two ships were completed, both currently in active service with the Russian Baltic Fleet.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate:
+The NEUSTRASHIMYY is Commissioned: 1993
+Status: Active 
+Fleet: Baltic Fleet.
+The YAROSLAV MUDRYY is Commissioned: 2009
+Status: Active 
+Fleet: Baltic Fleet.
+
+Here is System information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate:
+The Alternative Designation is Neustrashimy Class; Project 11540 Class.
+The Type is Frigate.
+The Builder is Yantar Zavod 820, Kaliningrad, Russia.
+The Crew is 210 total (35 off. + 175 enl.).
+
+Here is Dimensions information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate:
+The Length is 129.6 m.
+The Beam is 15.6 m.
+The Draft is 8.4 m.
+The Displacement, Standard is 3,210 tons.
+The Displacement, Full Load is 4,350 tons.
+
+Here is Propulsion System information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate:
+The Engine Name is 2 x M-70 cruise gas turbines and 2 x M-90 boost gas turbines.
+The Engine Type is Cruise Gas Turbine and Boost Gas Turbines.
+The Engine Power is M-70: 9,000 shp each; M-90: 19,500 shp each.
+The Maximum Range is 2,900 nm at 18 knots or 700 nm at 30 knots.
+The Maximum Speed is 30 knots.
+
+Here is Gun Weapon System # 1 information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate of the Gun Weapon Systems:
+The Name is 1 x AK-100 100mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 100 mm.
+The Length is INA.
+The Weight is 35.5 tons.
+The Elevation is -10 / +85 degrees.
+The Traverse is 360 degrees.
+The Rate of Fire is 50 to 60 rounds per minute.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 100 mm.
+The Shell Weight is 26.8 kg.
+The Basic Load is 350 Rounds.
+
+Here is Gun Weapon System # 2 information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate of the Gun Weapon Systems:
+The Name is 2 x Kortik CIWS (CADS-N-1 Kashtan).
+The Type is Close-In Weapon System.
+The Caliber is 30 mm.
+The Main Armament is 8 x 9M311 Missile.
+The Secondary Armament is 2 × AO-18K autocannon.
+The Length is INA.
+The Height is 2,250 mm above deck.
+The Weight is 15,500 kg.
+The Barrels is 2 × 6 (guns); 2 × 4 launch tubes.
+The Action is Gas-operated rotary cannon.
+The Rate of Fire is 9,000 rounds/min (guns) and 1–2 (salvo) missiles per 3–4 sec..
+The Warhead is Continuous-rod w/ frag layer.
+The Muzzle Velocity is 860 m/s.
+The Effective Firing Range, Missiles is 1,500–8,000 m.
+The Effective Firing Range, Autocannon is 500–4,000 m.
+The Feed System is Link-less, helical; 1000 rounds.
+The Sights is INA.
+
+Here is Gun Weapon Systems # 2 Ammunition information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Shell is HEI-Frag, Frag-T, APDS-T.
+The Shell Weight is 0.39 kg (HEIF, FT)
+0.30 kg (APDS-T).
+The Basic Load is 64 x 9M311 Missiles and 3,000 30mm Rounds..
+
+Here is System information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate of the Missile Weapon System:
+The Name is 4 x Kinzhal (NATO SA-N-9) SAM system fired from 4 x 8-round PS-4S-95 VLS systems.
+The Type is Surface-to-Air (SAM) Missile System.
+The Length is 3.5 m.
+The Diameter is 0.235 m.
+The Wingspan is 0.35 m.
+The Weight is 165 kg.
+The Warhead is HE-Frag.
+The Engine is Single-stage solid propellant rocket motor plus ejection motor.
+The Range is 12 km.
+The Maximum Speed is 700 - 800 m/s.
+The Maximum Altitude is 6.0 km.
+The Basic Load is 32 x 9M330 Missiles.
+
+Here is Anti-Submarine Weapon (ASW) System information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate:
+The Torpedo Tubes is 6 x fixed 533mm tubes.
+The Torpedo Name is Type SET-65 and Type 53-65K torpedoes.
+The Torpedo Basic Load is INA.
+The Rocket Launcher is 2 x 12-round RBU-6000 ASW rocket launchers.
+The Rocket Name is RGB-60 rockets.
+The Rocket Basic Load is 96 x RGB-60 rockets.
+
+Here is Mine System information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate:
+The Mine Launcher is 2 x rails.
+The Mine Basic Load is 16-20 mines.
+
+Here is Fire Control Systems (FCS) information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate:
+The Target Designator is 1 x MR-352 Pozitiv (Cross Dome) target designator..
+The Kinzhal (NATO SA-N-9) SAM System FCS is 1 x MR-360 Podkat (Cross Sword) SAM fire control.
+The AK-100 FCS is 1 x MR-145 Lev (Kite Screech) B 100mm gun fire control..
+The Kortik CIWS FCS is 2 x 3P87 Kortik (Hot Flash) CIWS fire
+control..
+
+Here is Aviation information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate:
+The Aviation Facilities is Helipad and Hangar.
+The Aircraft is 1 x Ka-27PL Helix-A Helicopter.
+
+Here is Radar Systems information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate:
+The 3D Air Search Radar is 1 x MR-760MA Fregat-MA (Top Plate) 3D air search.
+The Navigation Radar is 2 x MR-312 Nayada navigation radar and 1 x MR-212/201 Vaygach-U (Palm Frond) navigation radar..
+
+Here is Sonar Systems information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate:
+The Sonars is 1 x MGK-365 Zvezda M-1 suite w/ Ox Yoke bow-mounted, low-frequency and MGK-345 Bronza (Rat Tail) variable depth..
+
+Here is Protection information for the Neustrashimy-Class (Project 11540 Class) Russian Frigate:
+The Hull Armor is INA.
+The NBC Water Washdown System is Yes.
+The EW Suite is MR-407 Vympel-R2 suite.
+The EW Interceptors is 2 x Foot Ball-A interceptors; 2 x Half Hat-B interceptors; 2 x Cage Flask interceptors..
+The EW Jammer is 2 x Bell Squat jammers.
+The Decoy is 2 x 16-round PK-16 fixed decoy rocket
+launchers [400 rockets carried] and 8 x 10-round fixed decoy rocket launchers..
+

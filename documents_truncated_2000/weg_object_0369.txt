@@ -1,0 +1,51 @@
+This document describes the Xiaomi CyberDog Chinese Unmanned Ground Vehicle (UGV).
+
+The Xiaomi CyberDog Chinese Unmanned Ground Vehicle (UGV) is a bio-inspired quadruped robot that is powered by NVIDIA’s Jetson Xavier NX AI Supercomputer for Embedded and Edge Systems which includes 384 CUDA Cores, 48 Tensor Cores, a 6 Carmel ARM CPU, and 2 deep learning acceleration engines. Xiaomi CyberDog is paired with 128GB of near-industrial grade SSD. With its in-house developed high-performance servo motor, Xiaomi CyberDog has a wide range of movements including running, jumping, and turning left or right. and leaning forward. The CyberDog can also do a backflip, roll around, and stand on its hind legs.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Xiaomi CyberDog Chinese Unmanned Ground Vehicle (UGV):
+The Alternate Designation is Xiaomi CyberDog.
+The Type is Robotic Dog Unmanned Ground Vehicle (UGV).
+The Manufacturer is Xiaomi.
+The Crew is Unmanned.
+The Operating System is Ubuntu 18.04 + ROS 2.
+The Supported Movement Modes is Standing movement, lie down slowly, jogging, trotting, jumping.
+The Additional Abilities is Rolling, shaking hands, dancing, turning in a circle, back flip.
+The Maximum Cargo Capacity is 3 kg.
+The Features is Indoor mapping, autonomous positioning (refers to indoor positioning based on SLAM technology), navigation planning, automatic obstacle avoidance, face recognition, human tracking, high definition image transmission, video recording..
+The Cameras is Depth camera: Intel Realsense D450;
+AI Interactive Camera: 13MP;
+Binocular wide-angle camera: 2 MP.
+The Voice System is Voice interaction: XiaoAI voice technology; 
+Microphone Array: 6 Microphone Ring Array; 
+Voice commands for action: get up, go down, step back, turn around, dance, shake hands.
+The Processor is NVIDIA Carmel ARM v8.2 6-core 64-bit processor.
+The GPU is 84-core NVIDIA Volta GPU with 48 Tensor Cores.
+The RAM is 8 GB 128-bit LPDDR4x.
+The eMMC is 16GB eMMC 5.1.
+The SSD is 128 GB.
+The Sensors is Intel Realsense D450 Depth Camera / AI Interactive Camera / Binocular Wide Angle Camera / TOF Sensor / Ambient Light Sensor / Ultrasonic Sensor / Inertial Measurement Unit / GPS Module / Geomagnetic Sensor / Optical Flow Meter / 6MIC Ring Matrix / Touch Sensor.
+The Wireless Configuration is Wi-Fi: IEEE 802.11 a / b / n / g / ac;
+Bluetooth: Bluetooth 4.2.
+The Interfaces is HDMI x 1, Type-C × 3 (Fast Charge, Boot, Peripheral Expansion Port).
+The Operational Termperature is 0 ℃ - 40 ℃.
+
+Here is Dimensions information for the Xiaomi CyberDog Chinese Unmanned Ground Vehicle (UGV):
+The Length Standing is 77.1 cm.
+The Width Standing is 35.5 cm.
+The Height Standing is 40 cm.
+The Length Crouched is 80.7 cm.
+The Width Crouched is 40.6 cm.
+The Height Crouched is 20.6 cm.
+The Weight is 14 kg.
+
+Here is Automotive information for the Xiaomi CyberDog Chinese Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Li-ion battery.
+The Engine Power is INA.
+The Maximum Speed is 11.52 km/h.
+The Charging Time is 160 min.
+The Battery Protection is equalize charge / overvoltage protection / undervoltage protection / overcurrent protection / short circuit protection / overheat protection.
+The Endurance is 1 hour.
+

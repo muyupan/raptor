@@ -1,0 +1,49 @@
+This document describes the RQ-7B Shadow American Unmanned Aerial Vehicle (UAV).
+
+The RQ-7 Shadow is an American unmanned aerial vehicle (UAV) used by the United States Army, Australian Army and Swedish Army for reconnaissance, surveillance, target acquisition and battle damage assessment. The Shadow is operated in the U.S. Army at brigade-level.
+Launched from a trailer-mounted pneumatic catapult, it is recovered with the aid of arresting gear similar to jets on an aircraft carrier. Its gimbal-mounted, digitally stabilized, liquid nitrogen-cooled electro-optical/infrared (EO/IR) camera relays video in real time via a C-band line-of-sight data link to the ground control station (GCS). 
+Production of Shadow aircraft shifted to a generally improved RQ-7B variant in the summer of 2004. The RQ-7B features new wings increased in length to 14 ft (4.3 m). The new wings are not only more aerodynamically efficient, they are "wet" to increase fuel storage up to 44 liters for an endurance of up to 6 hours. The payload capability has been increased to 45 kilograms (99 pounds). After reports from Iraq that engines were failing, in 2005, the Army's UAV project manager called for the use of 100LL, an aviation fuel, rather than the conventional 87 octane MOGAS. Avionics systems have been generally improved, and the new wing is designed to accommodate a communications relay package, which allows the aircraft to act as a relay station. This allows commanders or even the aircraft operators themselves to communicate via radio to the troops on ground in locations that would otherwise be "dead" to radio traffic.
+
+Other incremental improvements to the system include replacing the AR741-1100 engine with the AR741-1101 which increases reliability through the use of dual spark plugs as well as limiting the fuel to 100LL. Also, the older POP200 payload was replaced with the newer POP300 system. In February 2010, AAI began a fleet update program to improve the Shadow system. The improvements include installing the wiring harnesses and software updates for IAI's POP300D payload which includes a designator for guiding laser-guided bombs. Other improvements in the program will include an electronic fuel injection engine and fuel system to replace the AR741-1101's carbureted engine. The most visible improvement to the system will be a wider wing of 20 feet (6.1 m) in span which is designed to increase fuel capacity and allow for mission endurance of almost 9 hours. The new wings will also include hardpoints for external munitions.
+
+This equipment has proliferated into the following countries: Australia, Italy, Romania, Sweden, United States of America.
+
+Here is Variants information for the RQ-7B Shadow American Unmanned Aerial Vehicle (UAV):
+The RQ-7A Shadow is The RQ-7A was the initial version of the Shadow 200 UAS developed by AAI. The first low-rate initial-production systems were delivered to the US Army in 2002 with the first full-scale production systems being delivered in September 2003. The RQ-7A was 11 ft 2 in (3.40 m) long and had a wingspan of 12 ft 9 in (3.89 m) with a 327 lb (148 kg) max takeoff weight. The aircraft's endurance ranged between 4 and 5.5 hours depending on mission. The "A" model aircraft also had the AR741-1100 engine which could use either 87 octane automotive gasoline or 100LL aviation fuel. The "A" model also featured IAI's POP200 payload..
+The RQ-7B Shadow is Production of Shadow aircraft shifted to a generally improved RQ-7B variant in the summer of 2004. The RQ-7B features new wings increased in length to 14 ft (4.3 m). The new wings are not only more aerodynamically efficient, they are "wet" to increase fuel storage up to 44 liters for an endurance of up to 6 hours. The payload capability has been increased to 45 kilograms (99 pounds). After reports from Iraq that engines were failing, in 2005, the Army's UAV project manager called for the use of 100LL, an aviation fuel, rather than the conventional 87 octane mogas. Avionics systems have been generally improved, and the new wing is designed to accommodate a communications relay package, which allows the aircraft to act as a relay station. This allows commanders or even the aircraft operators themselves to communicate via radio to the troops on ground in locations that would otherwise be "dead" to radio traffic..
+The Armed Shadow is On 19 April 2010 the Army issued a "solicitation for sources sought" from defense contractors for a munition for the Shadow system with a deadline for proposals due no later than 10 May 2010. Although no specific munition has been chosen yet, some possible munitions include the Raytheon Pyros bomb, the General Dynamics 81 mm 4.5 kg (10-pound) air-dropped guided mortar, as well as the QuickMEDS system for delivering medical supplies to remote and stranded troops. The Army subsequently slowed work, and the Marine Corps then took the lead on arming the RQ-7 Shadow. Raytheon has conducted successful flight tests with the Small Tactical Munition, and Lockheed Martin has tested the Shadow Hawk glide weapon from an RQ-7. On 1 November 2012, General Dynamics successfully demonstrated their guided 81 mm Air Dropped Mortar, with three launches at 7,000 ft hitting within seven meters of the target grid.
+
+As of August 2011, the Marine Corps has received official clearance to experiment with armed RQ-7s, and requires AAI to select a precision munition ready for deployment. AAI was awarded $10 million for this in December 2011, and claims a weapon has already been fielded by the Shadow. In 2014, Textron launched the Fury precision weapon from a Shadow 200.
+
+By May 2015, the Marine Corps had run out of funding for weaponizing the RQ-7, and the Army had shown little interest in continuing the effort. The Army's stance is that the Shadow's primary capability is persistent surveillance, while there are many other ways to drop bombs on targets and adding that to the Shadow would add weight and decrease endurance..
+The Nightwarden is A test version called STTB flew in summer 2011. AAI is developing a bigger version called M2 with a blended wing to include a 3-cylinder 60 hp Lycoming heavy fuel engine, and began flight testing in August 2012. The Shadow M2 has a conformal blended body that reduces drag, wingspan increased to 25 ft (7.6 m), and is 120 lb (54 kg) heavier. It can fly for 16 hours at altitudes up to 18,000–20,000 ft (5,500–6,100 m); its endurance and service ceiling are comparable to Group 4 UASs like the MQ-1 Predator, so the company is pitching the M2 as a budget-conscious alternative to larger unmanned aircraft. It has a greater payload to carry synthetic aperture radar (SAR), wide-area surveillance, navigation, signals intelligence, and electronic warfare packages. It also has the ability to be controlled beyond line-of-sight through a SATCOM link. Although the M2 uses the same internal components as the RQ-7B Shadow 200 and is compatible with existing support equipment and ground infrastructure, its greater weight necessitates changes to the existing launcher. The Shadow M2 uses 80-85 percent of the components of the Shadow V2, while allowing for an additional 100 lb (45 kg) of capability with total airframe weight increased to 720 lb (330 kg)..
+The Shadow 600 is AAI has also built a scaled-up Pioneer derivative known as the "Shadow 600". It also resembles a Pioneer, except that the outer panels of the wings are distinctively swept back, and it has a stronger Wankel engine, the UAV EL 801, with 52 hp (39 kW). A number of Shadow 600s are in service in several nations, including Romania..
+The SR/C Shadow is AAI, in conjunction with Textron sister company Bell Helicopter, intends to modify two Shadows with a Carter rotor on top for vertical take-off and landing, eliminating the need for the recovery and pneumatic launcher systems, while increasing payload and endurance. As of August 2011, it is expected to fly in 2012. AAI also expected to use the SR/C technology for the Shadow Knight, a powered-rotor two-propeller surveillance aircraft for the US Navy MRMUAS program; however, the MRMUAS program was cancelled in 2012..
+
+Here is System information for the RQ-7B Shadow American Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is RQ-7B Shadow.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is AAI Corporation.
+The Mission is Tactical reconnaissance UAS for ground maneuver forces;
+unmanned combat aerial vehicle (optional).
+The Payload Capability is 45 kg.
+The Communications is Avionics systems have been generally improved, and the new wing is designed to accommodate a communications relay package, which allows the aircraft to act as a relay station. This allows commanders or even the aircraft operators themselves to communicate via radio to the troops on ground in locations that would otherwise be "dead" to radio traffic..
+The Maximum Speed is 130 mph (200 km/h, 110 kn).
+The Cruising Speed is 81 mph (130 km/h, 70 kn).
+The Range is 68 mi (109.5 km, 59 nmi).
+The Service Ceiling is 4,600 m (15,000 ft); must maintain ELOS (Electronic Line Of Sight).
+The Endurance is 9 hours.
+
+Here is Dimensions information for the RQ-7B Shadow American Unmanned Aerial Vehicle (UAV):
+The Length is 11 ft 2 in (3.41 m).
+The Wingspan is 14 ft 0 in (3.87 m).
+The Height is 3 ft 4 in (1.0 m).
+The Airfoil is 4415 (NACA Parameters).
+The Empty Weight is 186 lb (77 kg).
+The Gross Weight is 375 lb (170 kg).
+
+Here is Automotive information for the RQ-7B Shadow American Unmanned Aerial Vehicle (UAV):
+The Engine Name is 1 × AR741-1101.
+The Engine Type is Eccentric Rotary Design.
+The Engine Power is 38 hp.
+

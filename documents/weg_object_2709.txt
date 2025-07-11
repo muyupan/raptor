@@ -1,0 +1,115 @@
+This document describes the BMR-3M Russian Mine Clearing Vehicle.
+
+The Russian BMR-3M is a T-90 hull with the turret replaced with a superstructure housing the crew and other mine-clearing equipment. Attached to the front of the vehicle are two arms each with solid steel wheels that whilst driving over mines, their weight detonates them and thanks to their thickness are not damaged, allowing the vehicle to continue along its path with other tanks such as the T-90 following it. The new mine-clearing vehicle is mainly intended for road mine-clearing while escorting convoys.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the BMR-3M Russian Mine Clearing Vehicle:
+The BMR-3MA; Vepr is The modern BMR-3MA demining machine is another version of the development of a design created several decades ago. In the past, similar machines BMR-3 and BMR-3M were developed and produced, and in the tenth years, the Vepr product was developed to replace them. At the same time, the development of the direction did not stop, and the BMR-3MA has already become the basis for the engineering robotic complex. Date of introduction of the BMR-3A is 2017. Since entering service, the BMR-3MA has repeatedly participated in various exercises of the ground forces and demonstrated their capabilities.
+
+The vehicle is fitted with a new one-piece mine sweep, an enhanced climate control unit and a modern communication system with the crew compartment protected by composite materials. The BMR-3MA is based on the T-90 main battle tank. The BMR-3MA has passed all the qualification trials in accordance with the technical requirements. The BMR-3MA is fitted with Explosive Reactive Armor (ERA); anti-mine armored bottom protection; Chemical, Biological, Radiological and Nuclear (CBRN); and ballistic protection provided by the steel hull.
+
+The crew of the BMR-3MA consists of two people, a driver, and a commander. When demining, three sappers are in the car.
+
+The BMR-3MA is equipped with a turret with a Kord heavy machine gun. There is also a set of smoke grenade launchers for firing into the front hemisphere.
+
+The BMR-3MA was demonstrated at exhibitions with a modern TMT-S type trawl. The same product is used during real demining in the Donbass. The TMT-S tank minesweeper is compatible with all modern domestic MBTs and engineering vehicles. On the trawl frame there are two rows of metal rollers for impact on mines with a push fuse. There is also an electromagnetic prefix for initiating the detonation of mines with a magnetic target sensor and a device for combating anti-aircraft mines. The TMT-S can destroy anti-personnel and anti-tank mines. The rollers withstand up to 10 explosions of TM-62 type mines..
+The BMR-3MS is The BMR-3MS is the export variant. It’s a heavy MCV that features an extremely high level of anti-mine protection compared with the mine clearance platforms based on armored personnel carriers (such as the M1132 ESV by General Dynamics) or mine-resistant ambush-protected (MRAP) vehicles such as Husky 2G route clearance system by South Africa`s DCD. It features a protection level like the one of the T-90 MBT and reinforced with the Kontakt-1 explosive reactive armor.
+
+The vehicle is especially effective against remote control improvised explosive devices (IED), owing to an integrated wide-band jammer and a portable one. The BMR-3MS can transport up to three engineer dismounts.
+
+According to UVZ, the BMR-3MS can eliminate all types of anti-tank, track- and belly-mounted mines fitted with contact mechanical, remote magnetic and remote-controlled fuzes. 
+
+The combination of the KMT-7 mine plow with an electromagnetic unit, two jammers and a heavy belly protection allows route clearance at a speed of 12 km/h.
+
+The vehicle is armed with a 12.7 mm Kord heavy machinegun and carries a number of subsystems including a manual smoke screening system, a collective nuclear, biological, chemical and radiological (NBCR) protection system, a smoke generating system, a deep water fording kit, a self-digging system and a climate control unit.
+
+The BMR-3MS is believed to reflect the best experience of counter-mine activities. It provides extremely efficient protection to both crew and dismounts, being able to deactivate almost all types of mines on the modern battlefield..
+
+Here is System information for the BMR-3M Russian Mine Clearing Vehicle:
+The Alternative Designation is BMR-3M.
+The Type is Mine Clearing Vehicle.
+The Manufacturer is Uralvagonzavod Production Association State Unitary Enterprise.
+The Family is BMR-3M.
+The In Service is 2000-Present.
+The Crew is 2 (Driver and Commander).
+The Passenger Capacity is 3.
+
+Here is Mine Roller System information for the BMR-3M Russian Mine Clearing Vehicle:
+The Mine Roller is KTM-7 Mine Rollers.
+The Chains is Chains are fitted between the rollers to detonate tilt-mast fuzes.
+The Single Roller Path is A single roller clears 0.8 m wide track.
+The Electromagnetic Countermine System is Yes, which detonates magnetically fuzed mines.
+The Pressure Activated Fuse Mines Capable is Yes, Clears Pressure Activated Fuse Mines.
+The Bottom Mines fitted with Rod-type Fuses Capable is Yes, Clears Bottom Mines fitted with Rod-type Fuses.
+The Magnetic Proximity Fuses Capable is Yes, Clears Magnetic Proximity Fuses.
+The Soil Planted Mines Capable is yes, Clears Soil Planted Mines.
+The Mine Clearing Speed is up to 12 km/h.
+The Mine Detection Set (Hand-held) is 2.
+
+Here is Dimensions information for the BMR-3M Russian Mine Clearing Vehicle:
+The Length is 6.93.
+The Width is 3.78.
+The Height is 2.93.
+The Weight, Combat is 48.
+
+Here is Automotive information for the BMR-3M Russian Mine Clearing Vehicle:
+The Engine Name is V-84MS.
+The Engine Type is Diesel.
+The Engine Power is 840.
+The Range is 500.
+The Speed, Maximum Road is 50.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Mine Clearing Speed is up to 12 km/h.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Trench is 2.8.
+The Fording Depth (Without Preparation) is 1.2.
+The Fording Depth (With Preparation) is 5.
+
+Here is Communications information for the BMR-3M Russian Mine Clearing Vehicle:
+The Primary Radio is INA.
+The Radio Jammer is Yes, which prevents detonation of radio-controlled explosives.
+
+Here is System information for the BMR-3M Russian Mine Clearing Vehicle of the Main Gun:
+The Name is 1 x NSV (Russian НСВ Никитина-Соколова-Волкова).
+The Type is Anti-Aircraft Machine Gun.
+The Caliber is 12.7.
+The Manufacturer is "Metallist", Uralsk, Kazakh SSR, Crvena ZastavaSerbia.
+The Length (Total) is 1,560.
+The Weight (Gun Only) is 25.
+The Weight (On Tripod) is 41.
+The Weight (50-Round Belt) is 11.
+The Action is Gas Operated.
+The Max Rate of Fire is 700-800.
+The Feed System is 50-Round Belt.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the BMR-3M Russian Mine Clearing Vehicle of the Main Gun:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7×108mm.
+The Muzzle Velocity is 845.
+The Effective Firing Range (vs. Air Targets) is 1,500.
+The Effective Firing Range (vs. Ground Targets) is 2,000.
+The Basic Load is 500.
+
+Here is Fire Control information for the BMR-3M Russian Mine Clearing Vehicle:
+The Laser Target Desinator is INA.
+
+Here is Protection information for the BMR-3M Russian Mine Clearing Vehicle:
+The Armor, Hull is New all-welded superstructure as well as ERA Blocks. The superstructure provides protection against small arms fire, artillery shell splinters and mine fragment debris.
+The Armor, Belly is Composite construction, the belly of the BMR-3M can withstand anti-tank mine blast anywhere under the hull.
+The Applique Armor is Avaialble.
+The Active Protection System is Yes.
+The Mine Clearing is Yes.
+The Explosive Reactive Armor (ERA) is Yes.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 2 x  banks of 81 mm electrically operated, forward-firing smoke dischargers are mounted either side of the superstructure..
+The Blast-Suppressing Seats is Yes, for the Commander and Driver.
+The Life Support System is Yes. It is reported that the crew along with 3 passengers can stay inside the BMR-3M for 2 days.
+The Note is The BMR-3M is based on the T-90 main battle tank chassis. The turret has been removed and new all-welded superstructure has been fitted. This mine clearing vehicle is fitted with Explosive Reactive Armor (ERA) blocks..
+

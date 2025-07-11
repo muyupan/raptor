@@ -1,0 +1,112 @@
+This document describes the 9A52-4 Russian 300mm Multiple Rocket Launcher.
+
+The 9A52-4 is Russia's newest universal multiple rocket launcher. It was designed as a lightweight and universal version of the BM-30 Smerch, dubbed 9A52-2. It was first unveiled in 2007 as a more strategically and tactically mobile launcher, albeit at the expense of a slight reduction in firepower. This model is aimed at replacing the previous generation of Russian multiple rocket launchers, including BM-21 Grad, BM-27 Uragan, and BM-30 Smerch. Currently, the sole operator is Russian Ground Forces. A version will be approved for export.
+
+The 9A52-4 Tornado system is based on the chassis of the KamAZ-63501 8x8 military truck, which provides good tactical mobility. It is equipped with a single container with six launcher tubes for 300-mm rockets, which can fire all current Smerch rockets, including HE-FRAG, incendiary, thermobaric, and cluster with anti-personnel or anti-tank mines. Cluster rounds may also carry self-targeting anti-tank munitions. The 800 kg standard rocket has a maximum range of 90 km. A range and direction correction system provide better accuracy compared to its predecessors.
+
+The 9A52-4 can launch rockets singularly, by a partial ripple or by a full salvo, which can cover an area of 32 hectares. A full salvo can be fired within 20 seconds. The 9A52-4 launching vehicle can be reloaded within 8 minutes. Launcher pods are designed for use with 122-mm and 220-mm rockets.
+
+The weapons system is equipped with an automated laying and fire control system, along with autonomous satellite navigation and positioning system. Positioning and firing data are exchanged between the launch vehicle and the command vehicle.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation.
+
+Here is Variants information for the 9A52-4 Russian 300mm Multiple Rocket Launcher:
+The 9A52-4 Tornado is The 9A52-4 Tornado system is a lightweight rocket launcher. There are two other systems; a modular MLRS based on the MZKT-79306 truck, which can carry two BM-27 Uragan or BM-30 Smerch launcher modules, and one based on the Kamaz 6x6 truck. The "Tornado-G" system is an upgrade package for the existing BM-21 Grad. The Russian government ordered 36 new "Tornado-G" based on the Kamaz 6x6 chassis, instead of the old systems based on the Ural-4320 truck..
+The 9A53-G Tornado is 9A53-G Tornado (2x15 1x40 122mm Upgraded BM-21 Grad Multiple Rocket Launcher Module, based on a Kamaz Truck or on a Ural-4320)..
+The 9A53-U Tornado is 9A53-U Tornado (2x8 2x6 220mm Upgraded BM-27 Uragan Multiple Rocket Launcher Modules, based on a MZKT-79306)..
+The 9A53-S Tornado is 9A53-S Tornado (2x6 2x4 300mm Upgraded BM-30 Smerch Multiple Rocket Launcher Modules, based on a MZKT-79306)..
+
+Here is System information for the 9A52-4 Russian 300mm Multiple Rocket Launcher:
+The Alternative Designation is 9A52-4, T-300 Kamaz.
+The Type is Multiple Rocket Launcher.
+The Family is Tornado.
+The Crew is 2.
+The Chassis is KamAZ-63501.
+The Displacement Time is 3.
+The Emplacement Time is 2.
+The Note is The 9152-4 Tornado comes in a 15 Barrel, 122mm Rocket Launcher; a 8 Barrel 220mm Rocket Launcher; and a 6 Barrel 300mm Rocket Launcher..
+
+Here is Dimensions information for the 9A52-4 Russian 300mm Multiple Rocket Launcher:
+The Length is 11.2.
+The Width is 2.5.
+The Height is 3.15.
+The Weight, Combat is 24.65.
+
+Here is Automotive information for the 9A52-4 Russian 300mm Multiple Rocket Launcher:
+The Engine Name is KamAZ-740.50.360.
+The Engine Type is Diesel.
+The Engine Power is 360.
+The Range is 1,000.
+The Speed, Maximum Road is 95.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 1.4.
+The Fording is 1.75.
+
+Here is System information for the 9A52-4 Russian 300mm Multiple Rocket Launcher of the Launcher:
+The Name is 9A52-4.
+The Type is Multiple Rocket Launcher.
+The Caliber is 122mm.
+The Barrels is 15.
+The Maximum Firing Range is 90 km.
+The Note is The 9A52-4 can launch rockets singularly, by a partial ripple or by a full salvo, which can cover an area of 32 hectares. A full salvo can be fired within 20 seconds. The 9A52-4 launching vehicle can be reloaded within 8 minutes. Launcher pods are designed for use with 122-mm and 220-mm rockets..
+
+Here is Ammunition (Option 1) information for the 9A52-4 Russian 300mm Multiple Rocket Launcher of the Launcher:
+The Name is 9M55K Rocket.
+The Type is Cluster munition, anti-personnel.
+The Caliber is 122.
+The Length is 7.6 m.
+The Weight is 800 kg.
+The Warhead Weight is 243 kg.
+The Submunition is 72 × 1.75 kg, each with 96 fragments (4.5 g each).
+The Self Destruct Time is 110 s.
+The Maximum Range is 70 km.
+The Minimum Range is 20 km.
+The Basic Load is 15.
+
+Here is Ammunition (Option 2) information for the 9A52-4 Russian 300mm Multiple Rocket Launcher of the Launcher:
+The Name is 9M55K1 Rocket.
+The Type is Cluster munition, self-guided anti-tank.
+The Caliber is 122mm.
+The Length is 7.6 m.
+The Weight is 800 kg.
+The Warhead Weight is 243 kg.
+The Submunition is 5 × 15 kg.
+The Self Destruct Time is INA.
+The Maximum Range is 70 km.
+The Minimum Range is 20.
+The Basic Load is 15.
+
+Here is Ammunition (Option 3) information for the 9A52-4 Russian 300mm Multiple Rocket Launcher of the Launcher:
+The Name is 9M55K4.
+The Type is Cluster munition, AT minelets..
+The Caliber is 122mm.
+The Length is 7.6 m.
+The Weight is 800 kg.
+The Warhead Weight is 243 kg.
+The Submunition is 25 × 5 kg mines.
+The Self Destruct Time is 24 hour.
+The Maximum Range is 70 km.
+The Minimum Range is 20 km.
+The Basic Load is 15.
+
+Here is Fire Control information for the 9A52-4 Russian 300mm Multiple Rocket Launcher:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is No.
+The Indirect Fire is Yes.
+The Note is The weapons system is equipped with an automated laying and fire control system, along with an autonomous satellite navigation and positioning system. Positioning and firing data are exchanged between the launch vehicle and the command vehicle..
+
+Here is Protection information for the 9A52-4 Russian 300mm Multiple Rocket Launcher:
+The Hull Armor is Protection from small arms and shell splinters..
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

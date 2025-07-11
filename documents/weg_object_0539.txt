@@ -1,0 +1,122 @@
+This document describes the M110A1 American 203mm Self-Propelled Howitzer (SPH).
+
+The M110A1 American 203mm Self-Propelled Howitzer (SPH), is a variant of the M110 American 203mm Self-Propelled Howitzer. Versions of the M110 with the longer barrel are the M110A1 (no muzzle brake) and the M110A2 (fitted with muzzle brake). In 1977, the first M110A1s entered service; these were armed with the longer 8" howitzer M201. The M201 allowed greater range over the shorter M2A2 howitzer. The M110A1s had been limited to zone 8 of the M188A1 propelling charge, but the muzzle brake alleviated excessive recoil forces and allowed the howitzer to fire zone 9, which permitted greater range.  The M110A1 replaced both the M110 and M107, which were phased out of service with the US Army in Europe by 1980. It then cost less than USD100,000 to convert the M107/M110 to the M110A1/M110A2 standard.
+
+Here is Variants information for the M110A1 American 203mm Self-Propelled Howitzer (SPH):
+The M110A2 is improved variant of the M110A1. It entered service in 1978 and was fitted with double muzzle brake. Maximum range of fire was increased to 29 km..
+
+Here is System information for the M110A1 American 203mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is M110A1.
+The Manufacturer is General Motors Corp..
+The In Service is 1977-Present.
+The Family is M110 Series.
+The Crew is 5 (commander, driver, 3 gunners).
+The Resupply Vehicle is + 8 in the associated M548 ammunition resupply vehicle..
+The Chassis is chassis identical to the M110's.
+The Displacement Time is 1.
+The Emplacement Time is 1.
+The Note is Support crew of 8 men are carried by an escorting armored personnel carrier, which also transports ammunition for this SPH..
+
+Here is Dimensions information for the M110A1 American 203mm Self-Propelled Howitzer (SPH):
+The Length, with Gun Forward is 10.72.
+The Length, Hull is 5.72.
+The Barrel Length is 8.36.
+The Width is 3.15.
+The Height (To the Top of the Barrel) is 3.15.
+The Weight, Combat is 31.2.
+The Weight, Unloaded is 28.1.
+The Ground Pressure is 0.76 kg/sq cm.
+The Length of Track on the Ground is 3.94.
+The Track Width is 0.39.
+
+Here is Automotive information for the M110A1 American 203mm Self-Propelled Howitzer (SPH):
+The Engine Name is 1 x Detroit Diesel 8V-71T Engine.
+The Engine Type is Detroit Diesel 8V-71T 569-cu in (9.32-liter) liquid-cooled, 2-stroke, turbocharged V-8 diesel.
+The Engine Power is 805.
+The Power-to-Weight Ratio is 14.28 hp/metric ton.
+The Cruising Range is 523.
+The Speed, Maximum Road is 55.
+The Speed, Average Cross is 15.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 1.
+The Trench is 2.3.
+The Fording Depth is 1.2.
+The Fuel Capacity is 1,137.
+The Suspension is Torsion bar, 5 road wheels, front drive, last road wheel acts as rear idler, shock absorber on each road wheel, no return rollers ability to lock suspension out when firing rear-mounted hydraulic spade for bracing firing platform..
+
+Here is Communications information for the M110A1 American 203mm Self-Propelled Howitzer (SPH):
+The Primary Radio is INA.
+The Secondary Radio is INA.
+
+Here is System information for the M110A1 American 203mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is M201 Howitzer, 203mm Howitzer.
+The Type is 203.
+The Length, Barrel is 8.24.
+The Breech Type is Interrupted Screw.
+The Recoil Type is Hydro-pneumatic.
+The Max Rate of Fire is 2+ rd/min.
+The Normal Rate of Fire is 1 rd/2 min.
+The Muzzle Brake Type is No Muzzle Break, which allows the M110A1 to fire further than the M110..
+The Max Elevation is +65.
+The Min Elevation is -2.
+The Traverse Range is 60.
+The Traverse Left is 30.
+The Traverse Right is 30.
+
+Here is Ammunition (Option 1) information for the M110A1 American 203mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is M650.
+The Type is HERA.
+The Caliber is 203.
+The Projectile Length is 1,116.
+The Projectile Weight is 90.78.
+The Muzzle Velocity is 710.
+The Maximum Effective Range is 30,000.
+The Basic Load is 2.
+The Fuse Type is INA.
+
+Here is Ammunition (Option 2) information for the M110A1 American 203mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is M509.
+The Type is DPICM.
+The Caliber is 203.
+The Projectile Length is 1,115.
+The Projectile Weight is 96.6.
+The Muzzle Velocity is 711.
+The Maximum Effective Range is 22,500.
+The Basic Load is 2.
+The Fuse Type is INA.
+
+Here is Ammunition (Option 3) information for the M110A1 American 203mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is M106.
+The Type is HE.
+The Caliber is 203.
+The Projectile Length is 871.
+The Projectile Weight is 92.53.
+The Muzzle Velocity is 713.
+The Maximum Effective Range is 21,300.
+The Basic Load is 2.
+The Fuse Type is INA.
+The Note is The M110 can also fire the following types of 203mm projectiles: M404 HE, M426 CHEM..
+
+Here is Fire Control information for the M110A1 American 203mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Vehicle Commander is Infrared night-vision equipment.
+The Thermal Sight Gunner is Infrared night-vision equipment.
+The Main Gun Stabilization is INA.
+The Direct Fire Telescope is Direct Dire Elbow Telescope.
+
+Here is Protection information for the M110A1 American 203mm Self-Propelled Howitzer (SPH):
+The Hull Armor is 20-mm maximum (estimated).
+The Turret Armor is 20-mm maximum (estimated).
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The IR Signature is INA.
+The Note is This artillery system carries no defensive armament, except individual weapons carried by the crew..
+

@@ -1,0 +1,86 @@
+This document describes the M1129 (Stryker MC) American Armored Mortar Carrier.
+
+The M1129 Stryker MC (Mortar Carrier Vehicle) is part of a family of eight-wheeled armored fighting vehicles derived from the Canadian LAV III. Stryker vehicles are produced by General Dynamics Land Systems for the United States Army. It has 4-wheel drive (8×4) and can be switched to all-wheel drive (8×8).
+
+This equipment has proliferated into the following countries: CFE Treaty, United States of America.
+
+Here is Variants information for the M1129 (Stryker MC) American Armored Mortar Carrier:
+The M1126 ICV is Armored personnel carrier version that provides protected transport for 2 crew and a 9 man infantry squad..
+The M1127 (RV) is Reconnaissance Vehicle. used by RSTA (Reconnaissance, Surveillance, and Target Acquisition) Squadrons and battalion scouts, moving throughout the battlefield to gather and transmit real-time intelligence/surveillance for situational awareness.
+The M1128 (MGS) is Mobile Gun System. Version armed with a 105 mm M68A1 rifled cannon (M68A1E4).
+The M1129 (MC) is Mortar Carrier. armed with Soltam 120 mm Mortar supports infantry with screening obscurants, suppressive forces and on-call supporting fires (HE, illumination, IR illumination, smoke, precision-guided, and DPICM cluster bombs)..
+The M1130 (CV) is Command Vehicle, provides commanders with communication, data, and control functions to analyze and prepare information for combat missions; can also link to aircraft antenna/power for planning missions..
+The M1131 (FSV) is Fire Support Vehicle is organic to maneuver companies and provides surveillance and communications (4 secure combat radio nets), with target acquisition identification tracking, the designation being transmitted automatically to the shooting units..
+The M1132 (ESV) is Engineer Squad Vehicle (ESV) provides mobility and limited counter mobility support. Integrated into the ESV are obstacle neutralization and lane marking systems and mine detection devices..
+The M1133 (MEV) is Medical Evacuation Vehicle (MEV) is the Battalion Aid Station for brigade units, providing treatment for serious injury and advanced trauma..
+The M1134 (ATGM) is Anti-Tank Guided Missile Vehicle is armed with the TOW missile to reinforce the brigade's infantry and reconnaissance, providing long-range antitank fires against armor beyond tank gun effective range..
+The M1135 (NBC RV) is Nuclear, Biological, Chemical Reconnaissance Vehicle automatically integrates contamination information from detectors with input from navigation and meteorological systems and transmits digital NBC warning messages to warn follow-on forces..
+
+Here is System information for the M1129 (Stryker MC) American Armored Mortar Carrier:
+The Alternative Designation is M1129 Stryker MC, Mortar Carrier.
+The Type is 8x8 Wheeled Armored Mortar Carrier Vehicle.
+The Manufacturer is General Dynamic Land Systems, USA and Canada.
+The Family is Stryker.
+The Configuration is The Stryker is based on the LAV III light armored vehicle, which in turn was based on the LAV-25 series.
+
+The vehicle comes in several variants with a common engine, transmission, hydraulics, wheels, tires, differentials and transfer case..
+The Crew is 5 Personnel.
+
+Here is Dimensions information for the M1129 (Stryker MC) American Armored Mortar Carrier:
+The Length is 6.95.
+The Width is 2.72.
+The Height is 2.64.
+The Weight, Combat is 19,000.
+The Ground Pressure is 2.10 kg / square centimeter.
+
+Here is Automotive information for the M1129 (Stryker MC) American Armored Mortar Carrier:
+The Engine Name is Caterpillar C7.
+The Engine Type is 7.2-liter Turbo Diesel.
+The Engine Power is 350.
+The Cruising Range is 500.
+The Speed, Maximum Road is 100.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is 1.3.
+
+Here is 120mm Mortar information for the M1129 (Stryker MC) American Armored Mortar Carrier of the Weapon Systems:
+The Name is Cardom Mobile Mortar System.
+The Type is Computerized Recoil Mortar System (RMS).
+The Manufacturer is Soltam Systems (Israeli).
+The Caliber is 120 mm.
+The Quantity is 1.
+The Length is 1,654 mm.
+The Fire Mission First Shot Time is 30.
+The Mount is Traversable plane.
+The Fire Control is Automatic aiming and fire adjustments performed through the fire control computer or via communications..
+The Traverse is 360.
+The Elevation is +30 / +80.
+The Maximum Rate of Fire is 16 rds/min.
+The Maximum Effective Firing Range is 8000.
+The Ammunition is Standard 120mm NATO mortar round.
+The Mission Support Types is Supports infantry with screening obscurants, suppressive forces and on-call supporting fires (HE, illumination, IR illumination, smoke, precision-guided, and DPICM)..
+
+Here is Machine Gun (Roof Mounted) information for the M1129 (Stryker MC) American Armored Mortar Carrier of the Weapon Systems:
+The Name is M240.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,260 mm.
+The Barrel Length is 630 mm.
+The Action is Open-Bolt Fired, Gas-Operated, Long-Stroke Piston.
+The Rate of Fire is 650-750 rds/min.
+The Maximum Effective Range is 1,100 m.
+The Feed System is Belt-Fed.
+
+Here is Protection information for the M1129 (Stryker MC) American Armored Mortar Carrier:
+The Hull Armor is Constructed from high-hardness steel which offers a basic level of protection against 14.5mm rounds on the frontal arc, and all-around protection against 7.62mm ball ammunition..
+The Applique Armor is Equipped with bolt-on ceramic armor which offers all-around protection against 14.5mm, armor-piercing ammunition, and artillery fragments from 152mm rounds..
+The Explosive Reactive Armor is No.
+The Active Protection System is Yes.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+
+Here is Command & Control information for the M1129 (Stryker MC) American Armored Mortar Carrier:
+The Battle Management System is FBCB2 (Force XXI battle command brigade and below).
+The Digital is Yes, Utilizes digital communications system that allows comms between vehicles and higher headquarters through text messaging and a map network..
+

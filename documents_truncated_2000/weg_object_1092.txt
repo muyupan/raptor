@@ -1,0 +1,89 @@
+This document describes the Tu-22M3 (Backfire-C) Russian Long-Range Strategic Bomber.
+
+Tu-22M3 Backfire-C
+This version first flew on June 20, 1977, and entered serial production that same year. A total of 268 were completed when production ended in 1993.
+The Tu-22M3 completed state acceptance trials in 1981 but was not formally commissioned into service until March 1989.
+
+This upgrade resulted in a lengthened nose profile upturned lower line, possibly representing a new radar and different engine intakes.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation.
+
+Here is Variants information for the Tu-22M3 (Backfire-C) Russian Long-Range Strategic Bomber:
+The Tu-22Mo Backfire-A is The first bombers received the designation Tu-22Mo. Development began in 1964-65 to meet a joint requirement by the former Soviet air force and navy for a replacement for the Tu-22/Tu-16..
+The Tu-22M Backfire-A is This was a pre-production series of an estimated 12 aircraft placed in operational service with Soviet naval aviation..
+The Tu-22M1 Backfire-A is This version first flew on July 1, 1971. Nine were built; a 10th was for static testing..
+The Tu-22M2 Backfire-B is This was the initial production model, which differed from the Tu-22M3 Backfire-C. It was developed for the long-range strategic bombing role in the early 1970s..
+The Tu-22M2Ye Backfire-B is his variant was equipped with the new NK-25 engines and an advanced flight-control system. However, it did not achieve improved flight characteristics..
+The Tu-22M3 Backfire-C is This version first flew June 20, 1977, and entered serial production that same year. A total of 268 were completed when production ended in 1993..
+The Tu-22MR Backfire reconnaissance variant is This variant entered made its first flight on Dec. 6, 1985. About a dozen were built between 1989 and 1993..
+The Tu-22MP escort jammer is This variant, equipped with the Myass jamming system, was developed in the mid-1980s. The program ultimately did not progress due to problems with onboard systems..
+The Tu-22ME Backfire naval reconnaissance variant is This version is thought to have been under development since 1990..
+The Tu-22M5 is This was a modest upgrade program offered by Tupolev. It added a new attack radar with automatic terrain-avoidance capabilities and a new GPS/inertial navigation system-based capability..
+The Tu-22M3M Backfire is This program to upgrade the Backfire-C began in 1990 as Isdeliye 45.03M. The design went through many variations, with little progress, until it was finally authorized in 2010..
+The Tu-22M3 with SVP-24-22 is By 2014, at least three Tu-22M3s had received a lower-cost upgrade that centered on replacing the old Orbita-10 flight computer with a variant of the SVP-24 (SVP-24-22) originally developed for the Su-24 Fencer attack aircraft..
+
+Here is System information for the Tu-22M3 (Backfire-C) Russian Long-Range Strategic Bomber:
+The Alternate Designation is Tu-22M; NATO: Backfire.
+The Type is Long-Range Strategic Bomber.
+The Manufacturer is Tupolev.
+The Crew is 4.
+The Hardpoints is Wing and fuselage pylons and internal weapons bay with a capacity of 24,000 kg..
+
+Here is Dimensions information for the Tu-22M3 (Backfire-C) Russian Long-Range Strategic Bomber:
+The Length is 42.46 m.
+The Wingspan is 34.28 m.
+The Wing Area is 183.6 m2.
+The Height is 11.05 m.
+The Empty Weight is 58,000 kg.
+The Gross Weight is 112,000 kg.
+The Maximum Takeoff Weight is 126,000 kg.
+
+Here is Automotive information for the Tu-22M3 (Backfire-C) Russian Long-Range Strategic Bomber:
+The Engine Name is 2 × Kuznetsov NK-25.
+The Engine Type is Afterburning Turbofan.
+The Engine Power is 247.9 kN (55,700 lbf) with afterburner.
+The Fuel Capacity is 54,000 kg.
+The Maximum Speed is 2,300 km/h.
+The Range is 6,800 km.
+The Combat Range is 2,410 km.
+The Ferry Range is 7,000 km.
+The Service Ceiling is 13,300 m.
+The Rate of Climb is 15 m/s.
+
+Here is System information for the Tu-22M3 (Backfire-C) Russian Long-Range Strategic Bomber of the Main Gun System:
+The Name is 1 × 23-mm GSh-23 cannon in the Remotely Controlled Tail Turret.
+The Type is Autocannon.
+The Caliber is 23 mm.
+The Length is 1,387 mm.
+The Barrel Length is 1,000 mm.
+The Weight is 49.2 kg.
+The Barrels is 2.
+The Action is Gast principle.
+The Rate of Fire is 3,400–3,600 rounds/min.
+The Muzzle Velocity is 715 m/s.
+
+Here is Ammunition information for the Tu-22M3 (Backfire-C) Russian Long-Range Strategic Bomber of the Main Gun System:
+The Type is Rifle.
+The Caliber is 23 mm.
+The Cartridge is 23x115 mm.
+The Basic Load is INA.
+
+Here is Missile System information for the Tu-22M3 (Backfire-C) Russian Long-Range Strategic Bomber:
+The Note is 1-3 x Kh-22MA (NATO AS-4 Kitchen) air-to- surface; or 10 x Kh-15 (NATO AS-6 Kickback) air-to-surface (4 externally and 6 internally on rotary launchers)..
+
+Here is Bomb System information for the Tu-22M3 (Backfire-C) Russian Long-Range Strategic Bomber:
+The Note is 24,000 kg (half internal, half on external racks). The standard load is
+69 x FAB-250 or 8 FAB-1500 bombs..
+
+Here is Avionics information for the Tu-22M3 (Backfire-C) Russian Long-Range Strategic Bomber:
+The Search and Target Radar is 1 x PNA (Isdeliya 030A) Down Beat I-band for AS-4.
+The Fire Control System is 1 x Fan Tail FCS for 23-mm guns.
+The Radar Warning System is 1 x Bee Hind I-band radar warning system in the tail.
+The Target Navigation Radar is 1 x MTN missile system with integral TV-optical bomb sight, integrated with search radar..
+
+Here is Protection information for the Tu-22M3 (Backfire-C) Russian Long-Range Strategic Bomber:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The EW Countermeasures is INA.
+The Chaffs/Flares is INA.
+

@@ -1,0 +1,56 @@
+This document describes the Bittium Tough SDR Finnish Handheld VHF/UHF Software Defined Radio (SDR).
+
+The Bittium Tough SDR Finish Handheld VHF/UHF Software Defined Radio (SDR) is the next generation software-defined tactical radio for dismounted soldiers, such as squad or platoon leaders. With the radio, it is possible to bring broadband data transfer and voice to mobile troops across the battlefield. This improves the performance and the effectiveness of the tactical troops, and leading the troops is easier based on up-to-date situational awareness and more reliable connections. 
+
+With Bittium Tough SDR Handheld troops can communicate securely over narrowband and wideband waveforms. The radio can flexibly use the best-performing waveform considering the conditions and the mission. The uniquely wide range of frequency bands in the radios improves combat survivability. Using several waveforms improves compatibility and enables operations on different levels and missions. Also, legacy and national proprietary waveforms can be seamlessly ported to the radio with national COMSEC and TRANSEC.
+
+The Tough SDR radios provide a uniquely wide frequency range, 30-2500 MHz, across several frequency bands. Together with flexible configuration options and routing networks, even thousands of radios in one network are supported.
+
+Connectivity Across the Battlefield
+The Handheld radio is compatible with Bittium Tough SDR Vehicular™, which belongs to the same product family, and Bittium Tactical Wireless IP Network™ (TAC WIN) system.
+
+With the Tough SDR radios, the TAC WIN system, and the related waveforms, it is possible to bring broadband data and voice to all mobile troops starting from brigade level and all the way across the battlefield.
+
+This equipment has proliferated into the following countries: Finland.
+
+Here is System information for the Bittium Tough SDR Finnish Handheld VHF/UHF Software Defined Radio (SDR):
+The Alternative Designation is Bittium Tough SDR.
+The Type is Handheld VHF/UHF Software Defined Radio (SDR).
+The Crew is 1.
+The Frequency is The Tough SDR radios provide a uniquely wide frequency range, 30-2500 MHz, across several frequency bands..
+The Frequency Agility is Uniquely wide frequency range providing frequency agility and less interference.
+The Several Routing Networks is Support for several routing networks and even thousands of radios in one network.
+The Support for Different Waveforms is Support for several different waveforms with seamless porting also for legacy and national proprietary waveforms. Bittium Narrowband Waveform (25 kHz);
+Bittium TAC WIN Waveform (5/10 MHz) with data throughput up to 25 Mbps;
+ESSOR High Data Rate Waveform (1.25 MHz) with data throughput up to 1 Mbps at the radio link;
+Supports porting of legacy and national proprietary waveforms.
+The Flexible Integration of Applications is Application sandbox for flexible integration of C2 applications, such as BMS and blue force tracking.
+The Easy Operation is Best-in-class user interface and usability for easy operation.
+The Secure is Access to information security implementation and certification both nationally and internationally.
+The Channel Bandwidth is 25 kHz to 10 MHz.
+The Interfaces is Antenna: Antenna port (TNC) for variety of antenna options;
+Audio: Analog audio interface port to connect e.g. headset and external PTT device. Interface includes additional HMI USB support;
+Data: I/O interface with combined 10/100M Ethernet and USB 2.0 (Device and Host mode);
+GPS;
+WLAN 802.11 b/g/n;
+BT 4.0.
+The Monitoring & Control (M&C) is Web user interface for device configuration;
+Remote software update;
+Software upgrade through web-based management.
+The Display is Transflective TFT LCD (320 x 426).
+The Battery is 70 Wh rechargeable Li-ion battery.
+The Operating Temperature is -20° to +55°C (radio with battery);
+-40° to +55°C (radio with remote battery pack).
+The Storage Temperature is -40° to+ 85°C (radio);
+-40° to+ 70°C (radio with battery).
+The Environment is MIL-STD-810G w/CHANGE1.
+The EMC is MIL-STD-461G.
+The Output Power is 5 W.
+The Power Supply is 8.5–12.6 V DC with 10.8 V DC nominal operating voltage.
+
+Here is Dimensions information for the Bittium Tough SDR Finnish Handheld VHF/UHF Software Defined Radio (SDR):
+The Length is 246 mm.
+The Width is 79 mm.
+The Height is 48 mm.
+The Weight, Combat is 0.95 kg.
+

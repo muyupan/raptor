@@ -1,0 +1,77 @@
+This document describes the Chong Jin Class North Korean Patrol Boat.
+
+The CHONG JIN class is an improved version of the CHAHO class, with the same hull and propulsion, but with different armament and surface search radar. Construction of the class began in 1975. By about 1985, this class was replaced in construction by the larger CHONG JU class. At least 52 units of this class were built.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is System information for the Chong Jin Class North Korean Patrol Boat:
+The Alternative Designation is Chong Jin.
+The Type is Patrol Boat.
+The Builder is North Korea; Shipyard: INA.
+The Crew is 24.
+
+Here is Dimensions information for the Chong Jin Class North Korean Patrol Boat:
+The Length is 27.7 m.
+The Beam is 6.1 m.
+The Draft is 1.8 m.
+The Displacement, Full Load is 82 tons.
+
+Here is Propulsion System information for the Chong Jin Class North Korean Patrol Boat:
+The Engine Name is 4 x Russian M-50.
+The Engine Type is Diesel.
+The Engine Power is 4,800 bhp tota.
+The Maximum Range is 325 nm at 19 knots.
+The Maximum Speed is 40 knots.
+
+Here is Gun Weapon System #1 information for the Chong Jin Class North Korean Patrol Boat of the Gun Weapon Systems:
+The Name is D-44.
+The Type is Naval Gun.
+The Caliber is 85 mm.
+The Quantity is 1 x D-44 85mm Naval Gun.
+The Length is 8.34 m.
+The Barrel Length is 4.7 m.
+The Width is 1.78 m.
+The Height is 1.42 m.
+The Weight is 1,725 kg.
+The Elevation is -7° to 35°.
+The Traverse is 54°.
+The Rate of Fire is up to 20 rounds per minute (burst).
+The Muzzle Velocity is 1,030 m/s.
+The Maximum Firing Range is 15.65 km.
+The Effective Firing Range is 1,150 m.
+The Sights is OP-2-7 w/5.5X Magnification.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Chong Jin Class North Korean Patrol Boat of the Gun Weapon Systems:
+The Type is Projectile.
+The Caliber is 85.
+The Shell is Fixed QF 85×629 mmR.
+The Basic Load is INA.
+
+Here is Gun Weapon Systems #2 information for the Chong Jin Class North Korean Patrol Boat of the Gun Weapon Systems:
+The Name is INA.
+The Type is Heavy Machine Gun.
+The Caliber is 14.5mm.
+The Quantity is 2 x twin 14.5mm  Heavy Machine Guns.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Chong Jin Class North Korean Patrol Boat of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 14.5 mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Chong Jin Class North Korean Patrol Boat:
+The FCS Name is INA.
+The Computerized FCS is INA.
+The Battle Management System is No.
+
+Here is Radar Systems information for the Chong Jin Class North Korean Patrol Boat:
+The Name is 1 x Zarnista (Skin Head) or 1 xType 351 (Pot Head).
+The Type is Surface Search Radar.
+The Frequency is INA.
+The Range is INA.
+
+Here is Protection information for the Chong Jin Class North Korean Patrol Boat:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is INA.
+

@@ -1,0 +1,69 @@
+This document describes the Hantae Class North Korean Landing Craft Utility (LCU).
+
+These landing craft were constructed during 1983-1984. Very little information has been confirmed on these craft.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is System information for the Hantae Class North Korean Landing Craft Utility (LCU):
+The Alternative Designation is Hantae Class.
+The Type is Landing Craft Utility.
+The Builder is North Korea; Shipyard: INA.
+The Crew is 36.
+The Troop Capacity is 350.
+The Cargo Capacity is up to three tanks.
+
+Here is Dimensions information for the Hantae Class North Korean Landing Craft Utility (LCU):
+The Length is 48.00 m.
+The Beam is 6.50 m.
+The Draft is 2.00 m.
+The Displacement, Standard is 200 tons standard.
+The Displacement, Full Load is 350 tons full load.
+
+Here is Propulsion System information for the Hantae Class North Korean Landing Craft Utility (LCU):
+The Engine Name is INA.
+The Engine Type is 2 x Diesel Engines.
+The Engine Power is 4,350 total bhp.
+The Maximum Range is 2,000 nm at 12 kts..
+The Maximum Speed is 18 knots.
+
+Here is Gun Weapon System #1 information for the Hantae Class North Korean Landing Craft Utility (LCU) of the Gun Weapon Systems:
+The Name is 2M-3M.
+The Type is Naval Gun.
+The Caliber is 25.
+The Quantity is 2 x 2M-3M Naval Guns.
+The Length is 1.50 m.
+The Bore is 25.
+The Weight is 1,361 kg.
+The Projectile Weight is 340 g.
+The Maximum Range, Surface is 4,000 m.
+The Effective Range, Anti-Air is 3,000 m.
+The Effective Range, Surface is 2,300 m.
+The Rate of Fire is 150-200 rpm per barrel.
+The Muzzle Velocity is 900 mps.
+The Elevation is 85 deg.
+The Traverse is varies.
+The Sights is open sight.
+The Armor is mounts may be open, shielded or    fully enclosed.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Hantae Class North Korean Landing Craft Utility (LCU) of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 25.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Hantae Class North Korean Landing Craft Utility (LCU):
+The FCS Name is INA.
+The Computerized FCS is No.
+The Battle Management System is No.
+
+Here is Radar Systems information for the Hantae Class North Korean Landing Craft Utility (LCU):
+The Name is INA.
+The Type is Surface Search.
+The Frequency is INA.
+The Range is INA.
+
+Here is Protection information for the Hantae Class North Korean Landing Craft Utility (LCU):
+The Active Protection System is No.
+The Countermeasures is INA.
+The NBC Water Washdown System is INA.
+

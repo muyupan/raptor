@@ -1,0 +1,87 @@
+This document describes the Yevgenya-Class (Project 1258 Class) Russian Inshore Minesweeper.
+
+The Yevgenya class are a series of minesweepers built for the Soviet Navy and export customers between 1967 and 1980. The Soviet designation was Project 1258 Korund. These small minesweepers built for inshore work. The hulls were constructed of glass-reinforced plastic.
+
+This equipment has proliferated into the following countries: Angola, Azerbaijan, Bulgaria, Cuba, India, Iraq, Mozambique, Nicaragua, Russian Federation, Syria, Ukraine, Viet Nam, Yemen.
+
+Here is Variants information for the Yevgenya-Class (Project 1258 Class) Russian Inshore Minesweeper:
+The Azerbaijan: 2 ships is M327 (till 3.07.1992 RT-473), M328 (till 3.07.1992 RT-136).
+The Angola: 2 ships is Project 1258E in 09.1987.
+The Bulgaria: 4 ships is №401, from 1983 №65 23.10.1976, №402, from 1983 №66 23.10.1976, №4013, from 1983 №67 23.10.1976, №68 in 1988 (2 units Project 1258E, 2 units Project 1258).
+The Vietnam: 3 ships is Project 1258E: HQ-816 in 10.1979, HQ-871 (till 08.1986 RT-189), HQ-872 (till 08.1986 RT-190).
+The India: 6 ships is Project 1258Э Mahe М83 16.05.1983 decommissioned 15.05.2007, Malvan М84 16.05.1983 decommissioned 5.01.2003, Mangrol М85 16.05.1983 decommissioned 7.04.2004, Malpe М86 10.05.1984 decommissioned 4.12.2006, Mulki М87 10.05.1984 decommissioned 7.04.2004, Magdala М88 10.05.1984 decommissioned 31.10.2001..
+The Iraq: 3 ships is In 1975 №421, 423, 425 (former №120-122). Re-equipped into a hydrographic vessels..
+The Cuba: 12 ships is In 1977-85 (5 units Project 1258E, 7 units Project 1258) №501 decomm. 2018, 502 decomm. 2012, 504 decomm. 2014, 507 decomm. 2013, 509-514, 531 decomm. 2016, 538. (2 units in 1978, 1 unit in 1979, 2 units in 1980, №173, 174, 178 in 1985).
+The Kazakhstan: 2 ships is Dostyk sunk in 2007. From 17.11.1997 - Coast guard patrol boats..
+The Mozambique: 3 ships is Project 1258E in 09.1986.
+The Nicaragua: 4 ships is Project 1258E BM-501 in 1984 decomm. 2013, BM-503 in 1984, sunk in 1989 under storm, BM-508 in 1986, BM-510 in 1986 decomm. 2013. (№172 in 1985).
+The Yemen: 6 ships is Project 1258E №11, 12 in 02.1982, №15 in 11.1987. Project 1258E in 12.1989: №20..
+The Syria: 4 ships is 3 units Project 1258E, 1 unit Project 1258: №6-507 in 1985, №7-507 in 1985, №8-507 in 1986, 1 unit in 1978.
+The Ukraine: 1 ship is Genichensk U360 (till 27.03.1996 RT-214).
+
+Here is System information for the Yevgenya-Class (Project 1258 Class) Russian Inshore Minesweeper:
+The Alternative Designation is Yevgenya class (Project 1258).
+The Type is Inshore Minesweeper.
+The Builder is Nevskiy Morskoy Zavod, Leningrad - 1 ship; Sredne-Nevskiy Shipyard, Pontonny - 51 ships; Sredne-Nevskiy Shipyard, Pontonny, 1975-85 - 40 ships;.
+The Crew is 10 (1 Off. + 12 enl.).
+
+Here is Dimensions information for the Yevgenya-Class (Project 1258 Class) Russian Inshore Minesweeper:
+The Length is 26.13 m.
+The Beam is 5.9 m.
+The Draft is 1.35 m.
+The Displacement, Standard is 89.9 tons.
+The Displacement, Full Load is 96 tons.
+
+Here is Propulsion System information for the Yevgenya-Class (Project 1258 Class) Russian Inshore Minesweeper:
+The Engine Name is INA.
+The Engine Type is 2 x Diesel (2 shafts).
+The Engine Power is 850 bhp.
+The Maximum Range is 300 nm.
+The Maximum Speed is 12 kts.
+The Endurance is 3 days.
+
+Here is Minesweeping Equipment information for the Yevgenya-Class (Project 1258 Class) Russian Inshore Minesweeper:
+The Sonar is MG-7 sonar.
+The Contact Sweep Equipment is Neva-1 mine-search device or IU-2 mine search-and-removal device or MT-3U contact sweep or or SEMT-1 magnetic sweep, AT-2 acoustic sweep..
+The Automated Mine Warfare System is Yes.
+
+Here is Gun Weapon System information for the Yevgenya-Class (Project 1258 Class) Russian Inshore Minesweeper of the Gun Weapon Systems:
+The Name is KPVT Machine Gun.
+The Type is Naval Pedestal Machine Gun.
+The Caliber is 14.5 mm.
+The Crew is 1.
+The Barrel Length is 2,800 mm.
+The Width is 865 mm.
+The Height is 1,800 mm.
+The Weight, Gun Mount is 350 kg.
+The Barrels is 1.
+The Action is Gas-operated cannon.
+The Elevation is INA.
+The Traverse is INA.
+The Rate of Fire (Max) is 450 rds/min.
+The Muzzle Velocity is 880–900 m/s.
+The Maximum Firing Range is 5,000 m.
+The Effective Firing Range is 1,500 m (aerial);
+2,000 m (maritime).
+The Feed System is Magazine (50 rounds).
+The Sights is INA.
+
+Here is Ammunition information for the Yevgenya-Class (Project 1258 Class) Russian Inshore Minesweeper of the Gun Weapon Systems:
+The Type is HEI-Frag, Frag-T, API.
+The Caliber is 14.5 mm.
+The Shell Weight is INA.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Yevgenya-Class (Project 1258 Class) Russian Inshore Minesweeper:
+The FCS Name is INA.
+The Computerized FCS is INA.
+The Integrated Bridge System is INA.
+
+Here is Radar Systems information for the Yevgenya-Class (Project 1258 Class) Russian Inshore Minesweeper:
+The Navigation Radar is Kivach navigation radar.
+
+Here is Protection information for the Yevgenya-Class (Project 1258 Class) Russian Inshore Minesweeper:
+The Hull Armor is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

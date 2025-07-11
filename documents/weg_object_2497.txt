@@ -1,0 +1,128 @@
+This document describes the BRM-3K Rys Russian Amphibious Combat Reconnaissance Vehicle (CRV).
+
+The new version of the Russian BRM-3K combat reconnaissance vehicle is equipped with a new turret armed with a 57mm automatic cannon AU-220M. This new version is based on the chassis of BRM-3K Rys fitted with a new turret armed with a 57mm automatic cannon using gun mount module AU-220M “Baikal”. AU-220M Remote Controlled Weapon Station armed with BM-57 57mm automatic cannon, developed by CRI BUREVESTNIK and proposed by Uralvagonzavod. It has the capacity to be used against ground and aerial targets as helicopter and drones. The 57mm gun with the AP round has a penetration capability of 130 mm of Steel at a range of 1,000 m. A 7,62mm coaxial machine gun is mounted to the right side of the main armament. A bank of four smoke grenade dischargers is mounted on each side of the turret. The BRM-3K Rys (lynx) was developed in the early 1990s. It was intended to supplement and replace the BRM-1K reconnaissance vehicle. It is based on the BMP-3 infantry fighting vehicle chassis. The hull and turret of the BRM-3K are of all-welded aluminum armor construction providing the crew with protection from small arms fire and shell splinters. The turret is in the center of the vehicle with the commander seated on the right and the gunner on the left. The vehicle can carry a total of 12 military personnel including driver, gunner, and commander. The troop compartment is at the rear of the hull with entry via two doors in the hull rear opening left and right, with the left door having a firing port.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation.
+
+Here is Variants information for the BRM-3K Rys Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The BRM-3K / Kredo-1 is BRM-3K CRV with 2-3m mast with a Kredo-1 radar system.  Catherine 2nd generation thermal sight night range to 5-7 km.  1D22 LTD ranges to 7 km..
+
+Here is System information for the BRM-3K Rys Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The Alternative Designation is BRM-3K Rys; Rys, Lynx, Model 501.
+The Type is Amphibious Combat Reconnaissance Vehicle (CRV).
+The Description is BMP-1 modified for reconnaissance with space for 3 passengers.
+The Manufacturer is Russian UralVagonZavod company.
+The Crew is 6 (commander, gunner, driver, navigator/computer operator, wireless operator and reconnaissance group commander).
+
+Here is Dimesions information for the BRM-3K Rys Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The Length is 7.0.
+The Width is 3.15.
+The Height is 2.37.
+The Weight is 18.7.
+
+Here is Automotive information for the BRM-3K Rys Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The Engine Name is UTD-29 Diesel.
+The Engine Type is Diesel.
+The Engine Power is 500.
+The Cruising Range is 600.
+The Maximum Road Speed is 70.
+The Maximum Swim Speed is 10.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Trench is 2.5.
+The Fording is Amphibious.
+The Note is On water the BRM-3K is propelled by two waterjets.
+
+Here is Communications information for the BRM-3K Rys Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The Radio UHF is R-163-50U UHF.
+The Radio HF is R-163-50K HF; R-163-10U (dismounts).
+The Note is Communication aids ensure data and radio links at a maximum range of 350 km.
+
+Here is System information for the BRM-3K Rys Russian Amphibious Combat Reconnaissance Vehicle (CRV) of the Main Weapon System:
+The Type is 1 x BM-57, 57mm Autocannon.
+The Type is Autocannon.
+The Caliber is 57.
+The Length is 5,820.
+The Width is 2,100.
+The Height is 1,300.
+The Weight is 3,200.
+The Rate of Fire is 120.
+The Maximum Firing Range is 1,000.
+The Maximum Elevation is +75.
+The Minimum Elevation is -5.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+
+Here is Ammunition (Option 1) information for the BRM-3K Rys Russian Amphibious Combat Reconnaissance Vehicle (CRV) of the Main Weapon System:
+The Name is 53-UBR-281U Armor-piercing Tracer Round.
+The Caliber is 57.
+The Type is Projectile.
+The Muzzle Velocity is 1,000.
+The Basic Load is 200 Rounds.
+The Note is Ammunition includes armor-piercing, high-explosive rounds and guided missiles.
+
+Here is Ammunition (Option 2) information for the BRM-3K Rys Russian Amphibious Combat Reconnaissance Vehicle (CRV) of the Main Weapon System:
+The Name is 53-ERM-281U Fragmentation Tracer Round.
+The Caliber is 57.
+The Type is Projectile.
+The Muzzle Velocity is 1,000.
+The Basic Load is 200.
+
+Here is System information for the BRM-3K Rys Russian Amphibious Combat Reconnaissance Vehicle (CRV) of the Auxiliary Weapon System:
+The Name is 1 x PK Machine Gun, "Kalashnikov's Machine Gun").
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Manufacturer is Degtyaryov plant.
+The In Service is 1961-Present.
+The Length is 1,203.
+The Barrel Length is 605.
+The Weight, Gun and Integral Bipod is 9.
+The Weight, Tripod is 7.7.
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 650 rounds/min.
+The Effective Firing Range is 100-1,500.
+The Maximum Firing Range is 3,800.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Tangent iron sights (default);
+Optical, Night-vision, Thermal and Radar sights.
+
+Here is Ammunition information for the BRM-3K Rys Russian Amphibious Combat Reconnaissance Vehicle (CRV) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 825.
+The Basic Load is 2,000 Rounds.
+
+Here is Anti-Tank Guided Missile (ATGM) information for the BRM-3K Rys Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The Note is Provision is made for an ATGW launcher and four missiles. The ATGW system can be dismounted and fired remotely from the vehicle..
+
+Here is Fire Control information for the BRM-3K Rys Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The FCS Name is INA.
+The Computerized FCS is Yes, The FCS controls the operations of target detection and identification, gun laying and firing of the 57mm automatic gun and 7.62mm machine-gun when firing from a halt, on the move and on the float in any combat environment.
+The Main Gun Stabilization is Yes, The fire control system with two-plane stabilization.
+The Laser Range Finder is Yes.
+The Fire on the Move is Yes.
+The Fire on the Water is Yes.
+The Radar Type is Mast-mounted-1RL-133-1 radar.
+The Maximum Radar Range, Vehicles is 8-10.
+The Maximum Radar Range, Person is 4.
+The Radar Traverse Left is 120.
+The Radar Traverse Right is 120.
+The Navigation System is Yes.
+The Note #1 is The FCS is equipped with a sight unit, comprising a combined sight with thermal-imaging and TV channels, a laser-finder and independent dual-axis field of view stabilization.
+The Note #2 is A portable Reconnaissance equipment can be fitted to the vehicle to enable a remote connection with the vehicle up to 6km away.
+
+Here is Protection information for the BRM-3K Rys Russian Amphibious Combat Reconnaissance Vehicle (CRV):
+The Front Arc Armor is Front arc - protection against 30mm bullets (~Level 5 acc. to STANAG 4569).
+The Hull Armor is All-around fire - protection against 7.62mm bullets (~Level 3 acc. to STANAG 4569).
+The Turret Armor is The turret is in the centre of the vehicle with the commander seated on the right and the gunner on the left.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Smoke Equipment is INA.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+

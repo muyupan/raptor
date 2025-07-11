@@ -1,0 +1,91 @@
+This document describes the M1064 American Self-Propelled Mortar.
+
+The M1064 mortar carrier is an American tracked, self-propelled artillery vehicle, consisting of the M121 mortar - a version of the M120. Mounted on an M113A2 or M113A3 chassis.
+
+This equipment has proliferated into the following countries: CFE Treaty, Chile, Egypt, Israel, Lithuania, Thailand, United States of America.
+
+Here is System information for the M1064 American Self-Propelled Mortar:
+The Alternative Designation is M1064.
+The Type is Self-Propelled Mortar System.
+The Caliber is 120 mm.
+The Manufacturer is FMC Corp..
+The Chassis is M113A2 or M113A3.
+The Crew is 4 - 6 personnel.
+The Emplacement Time is 1 minute.
+The Displacement Time is 1 minute.
+
+Here is Dimensions information for the M1064 American Self-Propelled Mortar:
+The Length is 5.30 m.
+The Width is 2.69 m.
+The Height is 2.53 m.
+The Weight, Combat is 12,809 kg.
+
+Here is Automotive information for the M1064 American Self-Propelled Mortar:
+The Engine Name is Detroit Diesel Model 6V-53T.
+The Engine Type is Diesel, V-6, turbocharged, water cooled.
+The Engine Power is 275 hp.
+The Fuel Capacity is 360 liters.
+The Range is 483 km.
+The Speed, Maximum Road is 66 km/h.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Amphibious, 5.8 km/h (inland lakes, rivers and streams only).
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Step is 0.61 m.
+
+Here is System information for the M1064 American Self-Propelled Mortar of the Main Weapon System:
+The Name is 1 x M121.
+The Type is Smooth Bore Mortar.
+The Length, Barrel is 120 mm.
+The Weight is 144.7 kg.
+The Muzzle Velocity is 318 m/s.
+The Maximum Rate of Fire is 16 rds/min.
+The Elevation is 45 deg / -85.2 deg.
+The Traverse Left is 90 deg.
+The Traverse Right is 90 deg.
+The Maximum Firing Range is 7,239 m.
+The Minimum Firing Range is 200 m.
+The Sights is INA.
+
+Here is Ammunition information for the M1064 American Self-Propelled Mortar of the Main Weapon System:
+The M929 is Smoke cartridge (White Phosphorus).
+The XM930 is Illumination.
+The M933 (HE) is High Explosive.
+The M934 (HE) is Improved High Explosive.
+
+Here is System information for the M1064 American Self-Propelled Mortar of the Auxiliary Weapon System:
+The Name is 1 x M2 Browning 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun (Roof Mounted).
+The Caliber is 12.7 mm.
+The Length is 1,654 mm.
+The Length, Barrel is 1,143 mm.
+The Action is Short, Recoil-Operated.
+The Rate of Fire is 450 - 600 rds/min.
+The Maximum Effective Firing Range is 1,800 m.
+The Feed System is Belt.
+
+Here is Ammunition information for the M1064 American Self-Propelled Mortar of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7×99mm.
+The Basic Load is INA.
+
+Here is Fire Control System information for the M1064 American Self-Propelled Mortar:
+The Name is INA.
+The Computerized FCS is Yes, aiming and fire adjustments performed through the fire control computer or via communications..
+The Mount is Traversable Plane.
+The Fire Mission First Shot Time is 30 sec.
+The Direct Fire is INA.
+The Indirect Fire is INA.
+The Mission Support Type is Supports infantry with screening obscurants, suppressive forces and on-call supporting fires (HE, illumination, IR illumination, smoke, precision-guided, and DPICM)..
+
+Here is Protection information for the M1064 American Self-Propelled Mortar:
+The Hull Armor is 5083 Aluminum.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

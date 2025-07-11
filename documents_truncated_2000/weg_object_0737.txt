@@ -1,0 +1,158 @@
+This document describes the S-125 Neva/Pechora (SA-3 Goa) Russian 6x6 Surface-to-Air Missile System.
+
+The S-125 Neva/Pechora, NATO reporting name SA-3 Goa) Soviet surface-to-air missile system was designed by Aleksei Isaev to complement the S-25 and S-75. It has a shorter effective range and lower engagement altitude than either of its predecessors and also flies slower, but due to its two-stage design, it is more effective against more maneuverable targets. It is also able to engage lower-flying targets than the previous systems, and being more modern it is much more resistant to ECM than the S-75. The 5V24 (V-600) missiles reach around Mach 3 to 3.5 in flight, and both stages are powered by solid-fuel rocket motors. The S-125, like the S-75, uses radio command guidance.
+
+The launchers are accompanied by a command building or truck and three primary radar systems:
+
+*  P-15 "Flat Face" or P-15M "Squat Eye" 380 kW C-band target acquisition radar (also used by the SA-6 
+   and SA-8, range 250 km/155 miles)
+
+*  SNR-125 "Low Blow" 250 kW I/D-band tracking, fire control, and guidance radar (range 40 km/25 miles, 
+   second mode 80 km/50 miles)
+
+*  PRV-11 "Side Net" E-band height finder (also used by SA-2, SA-4 and SA-5, range 28 km/17 miles, max height 32 km/105,000 ft)
+
+The S-125 system uses 2 different missile versions. The V-600 (or 5V24) had the smallest warhead with only 60 kg of high explosive. It had a range of about 15 km.
+
+The later version is named V-601 (or 5V27). It has a length of 6.09 m, a wing span of 2.2 m, and a body diameter of 0.375 m. This missile weighs 953 kg at launch and has a 70 kg warhead containing 33 kg of HE and 4,500 fragments. The minimum range is 3.5 km, and the maximum is 35 km (with the Pechora 2A). The intercept altitudes are between 100 m and 18 km.
+
+The S-125M (1970) system uses 5V27. The intercept altitudes are between 20 m and 14 km. The minimum range is 2.5 km, and the maximum is 22 km. The S-125M1 (1978) system uses 5V27D. In the early 1980s established for each system 1-2 radar simulators (against anti-radar missiles were assigned). The S-125 is somewhat mobile, an improvement over the S-75 system. The missiles are typically deployed on fixed turrets containing two or four but can be carried ready-to-fire on ZIL trucks in pairs. Reloading the fixed launchers takes a few minutes.
+
+This equipment has proliferated into the following countries: Algeria, Angola, Armenia, Azerbaijan, Bulgaria, Cuba, Egypt, Ethiopia, Georgia, India, Kazakhstan, Laos (People's Democratic Republic), Libya, Moldova, Mongolia, Mozambique, Myanmar, North Korea (Democratic People's Republic of Korea), Peru, Poland, Serbia, South Sudan, Syria, Tanzania, Turkmenistan, Uganda, Ukraine, Venezuela (Bolivarian Republic of), Viet Nam, Zambia.
+
+Here is Variants information for the S-125 Neva/Pechora (SA-3 Goa) Russian 6x6 Surface-to-Air Missile System:
+The SA-3A:  is Two-rail launcher.  Missiles without interstage fins..
+The SA-3B (GOA MOD 1) is SA-3B (GOA Mod 1): two-rail launcher. Missiles have inter-stage fins. SA-3C:  four-rail launcher..
+The NEWA SC is Polish modernized system..
+The PECHORA-M  is Upgrade fielded in 1994 and used in at least 3 countries. It has digitized FCS, and laser/EO/thermal auto-tracker for use without a radar. It added the Kasta-2E2 TA EW radar..
+The PECHORA-2/UNV MODEL 1999  is Further upgrade with truck-mounted low blow FC radar), tracks 2 targets.  It is resistant to aircraft ECM..
+The PECHORA-2M is Russian mobile variant of -2, with the launcher, mounted on a truck chassis modified into a transporter-erector-launcher (TEL). Other changes: the 2-rail launcher has a storage compartment underneath for support and test equipment. Navigation and automated fire control terminals are mounted onboard. The cab has room for two or three crew members..
+
+Here is System information for the S-125 Neva/Pechora (SA-3 Goa) Russian 6x6 Surface-to-Air Missile System:
+The Alternative Designation is NICKNAMES
+SA-3 Goa (NATO reporting name for S-125)
+SA-N-1 Goa (NATO reporting name for Volna)
+M-1 Volna (naval version of S-125)
+Neva (Soviet service nickname)
+Pechora (export model nickname)
+ItO 79 (Finnish service).
+The Type is Russian Surface-to-Air Missile System.
+The Manufacturer is JSC Defense Systems (Pechora-M).
+The In Service is 1961-Present.
+The Crew is INA.
+The Chassis is The S-125 is normally transported from battalion storage areas on modified ZIL-131 (6 x 6) or ZIL-157 (6 x 6) trucks and loaded onto the launchers..
+The Emplacement Time is Approximately one minute is required to load the missiles onto the launch rails, but nearly an hour is required between missile launches due to missile preparation, truck transit and other reloading procedures..
+The Displacement Time is See Emplacement.
+The Target Types is FW, heli, CM; Also ASMs, UAVs Pechora-M.
+
+Here is Dimensions (Chassis: ZIL-131) information for the S-125 Neva/Pechora (SA-3 Goa) Russian 6x6 Surface-to-Air Missile System:
+The Length is 7.04.
+The Width is 2.49.
+The Height, Cab is 2.49.
+The Height, Transport Body is 2.97.
+The Wheelbase is 3.30.
+The Curb Weight is 6,700.
+
+Here is Automotive (Chassis: ZIL-131) information for the S-125 Neva/Pechora (SA-3 Goa) Russian 6x6 Surface-to-Air Missile System:
+The Engine Name is INA.
+The Engine Type is V8 gasoline (carburetor).
+The Engine Power is INA.
+The Maximum Road Distance is INA.
+The Maximum Speed is 80.
+The Seating Capacity is 3.
+The Payload is 5000 kg plus trailer 5000 kg (on road), or 3,500 kg plus trailer 4000 kg off road..
+
+Here is Missile Launcher information for the S-125 Neva/Pechora (SA-3 Goa) Russian 6x6 Surface-to-Air Missile System of the Main Weapon System:
+The Description is Towed twin or quad-rail launcher.
+The Reaction Time  is 8.
+The Reload Time  is 50 min (quad launcher).
+
+Here is Missile (Option 1) information for the S-125 Neva/Pechora (SA-3 Goa) Russian 6x6 Surface-to-Air Missile System of the Main Weapon System:
+The Name is V-600 (5V24).
+The Type is SAM.
+The Length  is 6.1.
+The Diameter  is 550.0.
+The Propulsion  is Solid fuel booster.
+The Altitude, Maximum  is 18,300.
+The Altitude, Minimum  is 20.
+The Combat Load  is 2 or 4.
+The Fuze Type is Proximity RF, 20 m detection.
+The Guidance is Command RF.
+The Kill Radius  is 12.5.
+The Probability of Hit is 70 FW, 70 heli; 80 Pechora-M, -2M.
+The Range, Maximum  is 25,000.
+The Range, Minimum  is 2400.
+The Simultaneous  Missiles is 2 per target.
+The Speed  is 650-1,150.
+The Warhead Type is Fragmenting Rod-HE.
+The Velocity  is 4321.0.
+The Weight is 946.0.
+
+Here is Missile (Option 2) information for the S-125 Neva/Pechora (SA-3 Goa) Russian 6x6 Surface-to-Air Missile System of the Main Weapon System:
+The Name is V-601 (or 5V27).
+The Type is SAM.
+The Length is 6.09 m.
+The Diameter is 0.375.
+The Wing Span is 2.2 m.
+The Weight is 953.
+The Warhead Weight is 70 kg warhead containing 33 kg of HE and 4,500 fragments.
+The Propellant is Solid propellant rocket motor.
+The Minimum Range is 3.5.
+The Maximum Range is 35.
+The Intercept Altitudes is 00 m and 18 km.
+
+Here is Radar #1 information for the S-125 Neva/Pechora (SA-3 Goa) Russian 6x6 Surface-to-Air Missile System of the Fire Control System:
+The Name is FLAT FACE (P-15) Radar.
+The Function is Target Acquisition.
+The Range is 200-250 km.
+The Frequency is C band (UHF).
+The Associated Weapon System is SA_3 GOA possibly SA-8 GECKO SAM, LOW BLOW missile control radar.
+The Number of Missiles is Can guide three missiles simultaneosly.
+The Power is 380 kw.
+The PRF is 200-700 pps.
+The Vehicle Mount is Long-range surveillance and target acquisition is handled by the van-mounted P-15 FLAT FACE) radar..
+The Parabolic Reflectors is Two eliptical parabolic reflectors measuring 11x5.5 m.
+Reflectors arranged one above the other on van roof..
+The Note #1 is The P-15 radar has been replaced in many S-125 units by the P-15M SQUAT EYE radar..
+The Note #2 is Target data generated by these tracking radars is passed to the battalion's LOW BLOW trailer-mounted fire control radar..
+
+Here is Radar #2 information for the S-125 Neva/Pechora (SA-3 Goa) Russian 6x6 Surface-to-Air Missile System of the Fire Control System:
+The Name is LOW BLOW.
+The Function is A Fire Control, Trk/FC, and Missile Guidance Radar.
+The Frequency, Fire Control is I band.
+The Range, Fire Control is 40.
+The Scan, Fire Control is Scan (trough) 16HZ.
+The Frequency, Trk/FC is I band.
+The Range, Trk/FC is 40-85.
+The Scan, Trk/FC is Scan (Para) 25HZ.
+The Frequency, Missile Guidance is D band.
+The Range, Missile Guidance is 29.
+The Mount is Four-wheeled trailer-mounted.
+The Parabolic Dishes is Two scanning parabolic dishes one above the other.
+The Associated Weapon System is SA-3 GOA SAM, FLAT FACE, SQUAT EYE acquisition radar..
+
+Here is Radar #3 information for the S-125 Neva/Pechora (SA-3 Goa) Russian 6x6 Surface-to-Air Missile System of the Fire Control System:
+The Name is SIDE NET (PRV-11).
+The Function is Height Radar.
+The Frequency is E band, 2.7 GHz.
+The Pulse Repetition Time (PRT) is 3 and 1,3 ms.
+The Pulsewidth is 3 and 1.5 µs.
+The Pulse Repetition Frequency (PRF) is 330 and 730 Hz.
+The Peak Power is 1.2 MW.
+The Average Power is 1.3 kW.
+The Maximum Range is 28.
+The Maximum Altitude is 32.
+The Associated Weeapon System is SA-2/3/5.
+
+Here is Radar Upgrade (SQUAT EYE would replace the FLAT FACE (P-15 Radar) information for the S-125 Neva/Pechora (SA-3 Goa) Russian 6x6 Surface-to-Air Missile System of the Fire Control System:
+The Name is SQUAT EYE ( P-15M(2)).
+The Function is Target Acquisition.
+The Maximum Range is 128.
+The Frequency is C-band.
+The Power is 380kw.
+The Associated Weapon System is SA-3/5.
+
+Here is Protection information for the S-125 Neva/Pechora (SA-3 Goa) Russian 6x6 Surface-to-Air Missile System:
+The Hull Armor is INA.
+The Turret Armor is INA.
+

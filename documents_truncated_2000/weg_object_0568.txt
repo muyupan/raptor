@@ -1,0 +1,159 @@
+This document describes the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH).
+
+The PLL-09 is a Chinese 122 mm self-propelled howitzer. Currently, this howitzer is widely used by China's army. This artillery system is also used by China's marines.
+The PLL-09 provides indirect fire support for rapid deployment brigades. These Chinese brigades are similar in concept to the US Stryker brigades. These military units are equipped with lightly armored, but highly mobile 8x8 armored personnel carriers of all variants. Each rapid reaction brigade has numerous armored vehicles of all variants, including armored personnel carriers, reconnaissance vehicles, 105 mm fire support vehicles, command vehicles, engineer vehicles, and some other specialized vehicles. These brigades can be briefly redeployed over significant distances. Also, the PLL-09 SPH has good cross-country mobility and is capable of keeping pace with main battle tanks.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH):
+The ZBL-09 is ZBL-09 or Type 07P is a wheeled infantry armoured fighting vehicle designed and manufactured by the Chinese Defense Company NORINCO China North Industries Corp. The ZBD-09 was presented for the first during the military parade in Beijing for the 60th anniversary of the Chinese army (PLA), the 01 October 2009. The ZBD-09 was based to the chassis of the VN1 8x8 wheeled chassis..
+
+Here is System information for the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is PLL-09, Type 09.
+The Manufactuerer is NORINCO.
+The Type is 122mm Self-Propelled Howitzer (SPH).
+The Family is PLL Family.
+The Crew is 3-4.
+The Chassis is based on a ZBL-09 Snow Leopard armored personnel carrier chassis.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Maximum Effective Range (Road) is 800.
+The Maximum Effective Range (Howitzer) is 27.
+
+Here is Dimensions information for the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Length is 8.
+The Width is 3.
+The Height is 3.
+The Weight, Combat is 21.
+The Ground Pressure is INA.
+
+Here is Automotive information for the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Engine Name is Deutz BF6M1015C.
+The Engine Type is Diesel.
+The Engine Power is 440.
+The Cruising Range is 800.
+The Speed, Maximum Road is 62.
+The Speed, Average Cross is 50.
+The Speed Maximum Swim is 6-8.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.55.
+The Trench is 1.8.
+The Fording Depth is Amphibious.
+
+Here is TBR-142 information for the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH) of the Communications:
+The VHF FM Transceiver is Yes, TBR-142(I).
+The VHF Range is 1 to 50.
+The Megahertz is 40.000 to 59.975.
+The Output Power is 1 to 0.3.
+The Power is 12V Ni-Ca Rechargeable Battery or external 12V DC power source.
+The Dimensions is 217x135x58.
+The Weight is 2.7.
+The Antennas is 3 Total: a 1.3m whip antenna, a 0.3m short antenna, and a 10m  wire antenna.
+The Proliferated is Widely with Artillery/Gun/Missile/Reconnaissance/C2 Units.
+The Control Device is TBR-142(II).
+The Multi-function Field Phone is TBR-142(IIID).
+The Anti-Aircraft Control Unit is TBR-142(IIIG).
+The ZXY88-200 C2 Capable is Yes.
+The Messaging is Limited Capability.
+The Amplifier is Available.
+The Physical Conditions Limitations is Terrain and Weather favorable.
+
+Here is System information for the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is Type 96 Howitzer.
+The Type is 122mm Self-Propelled Howitzer (SPH).
+The Length, Barrel is 32 Caliber.
+The Loader Type is Semi-automatic loader.
+The Max Rate of Fire is 6-8.
+The Sustain Rate of Fire is 6.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Muzzle Brake Type is INA.
+The Max Elevation is +70.
+The Min Elevation is -3.
+The Traverse Range is 360.
+The Range Finder Type is Laser.
+
+Here is Ammunition (Option 1) information for the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is High Explosion (HE).
+The Caliber is 122.
+The Projectile Weight is 14-22.
+The Diameter is 39.2.
+The Fuse Type is INA.
+The Muzzle Velocity is 690.
+The Maximum Effective Range is 18-27.
+The Armor Penetration is Yes, up to 85mm of conventional steel armour.
+The Basic Load is 40 Rounds total of any 122mm combination projectiles.
+
+Here is Ammunition (Option 2) information for the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is HE Hollow Base Projectile.
+The Caliber is 122.
+The Weight is 21.76.
+The Diameter is 39.2.
+The Muzzle Velocity is 725.
+The Fuse Type is INA.
+The Maximum Effective Range is 18.
+The Armor Penetration is Yes, up to 85mm of conventional steel armour.
+The Basic Load is 40 Rounds total of any 122mm combination projectiles.
+
+Here is Ammunition (Option 3) information for the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is HE Base Bleed (BB) Projectile.
+The Caliber is 122.
+The Weight is 22.5.
+The Diamter is 39.2.
+The Muzzle Velocity is 730.
+The Fuse Type is INA.
+The Maximum Effective Range is 22.
+The Armor Penetration is Yes, up to 85mm of conventional steel armour.
+The Basic Load is 40 Rounds total of any 122mm combination projectiles.
+
+Here is Ammunition (Option 4) information for the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is HE BB Rocket-Assist Projectile Type BEE2.
+The Caliber is 122.
+The Weight is INA.
+The Diameter is 39.2.
+The Muzzle Velocity is INA.
+The Fuse Type is INA.
+The Maximum Effective Range is 27.
+The Armor Penetration is Yes, up to 85mm of conventional steel armour.
+The Basic Load is 40 Rounds total of any 122mm combination projectiles.
+
+Here is System information for the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Name is Type 54 (DShKM copy).
+The Type is Anti-Aircraft Machine Gun.
+The Max Rate of Fire is INA.
+The Range Finder Type is Iron/Optics.
+The Armor Shield is Yes.
+The Traverse Range is 360.
+The Elevation is 90.
+
+Here is Ammunition information for the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH) of the Coaxial Weapon System:
+The Type is 1120 Rounds: APDS (Tungsten Core); API, API-T,.
+The Caliber is 12.7.
+The Muzzle Velocity is 850.
+The Basic Load is 500.
+The Effective Range is 2,000.
+The Armor Penetration is Yes, API: 21 at 500 m & 13 at 1000 m (RHA).
+
+Here is Fire Control information for the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is Yes.
+The Digital Ballistic Computer is Yes.
+The Digital Battlefield Management System is Yes, standard.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is INA.
+The Indirect Fire Support is Yes.
+
+Here is Protection information for the PLL-09 (Type 09) Chinese 122mm Self-Propelled Howitzer (SPH):
+The Front Arc Armor is Welded steel hull, Front arc can withstand 12.7mm armor piercing rounds..
+The All Around Armor is Welded steel hull, Protection from 7.62mm armor-piercing rounds..
+The Automatic Fire Suppression Systems is Yes.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is Yes.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, 12 Smoke Grenades on Turret.
+The IR Signature is INA.
+

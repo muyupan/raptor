@@ -1,0 +1,30 @@
+This document describes the BL755 British Cluster Bomb.
+
+BL755 is a cluster bomb. Its primary targets are armoured vehicles and tanks with secondary soft target (anti personnel) capabilities. The BL755 looks like a standard 450-kilogram (1,000 lb) general-purpose bomb but with a hard "saddle" on the spine for ejector release and crutching pad loads and a distinctive large turbine-like air arming vane on the nose. The four rear fins are squared off in appearance, but on closer inspection can be seen to be hollow and telescopic. A central extruded aluminum skeleton is divided into seven bays, each containing 21 submunitions (147 total). The submunitions are ejected by means of a central cartridge and individual inflatable bladders for each bay, operating in a similar manner to a car airbag. Ejection on the original BL755 bomb is triggered by the rotation of the arming vane, driven by the airflow.
+
+Each submunition is contained within its own SAFU (safety and arming unit) and is telescoped shut. Upon release, the submunition is expanded by a spring. A focal distance stand off and detonating device deploys at the front and a fan of stabilising fins at the rear. Each has a shaped charge HEAT warhead for armour penetration, the casing of which is constructed from wound tessellated square wire, which produces around 1,400 anti-personnel fragments. A single cluster bomb produces a total of more than two hundred thousand fragments.
+
+The weapon was developed in the early 1970s by Hunting Engineering, Ltd. of Ampthill, Bedfordshire but manufactured elsewhere at their production facility.
+
+The original BL755 has been updated twice. IBL755 is a bomblet update, increasing its reliability and armour penetration.
+
+RBL755 is the BL755 weapon fitted with a radar altimeter that acts as a proximity fuze, triggering bomblet ejection at the optimum altitude whilst allowing the bomb to be released from a safe height and distance. This was in response to the dangers illustrated by low-level Panavia Tornado missions in the 1991 Gulf War; the original vane-armed BL755 had to be released at a predetermined low altitude, with the attacking aircraft exposed to ground fire and shoulder-launched surface-to-air missiles such as the 9K34 Strela-3 and its variants.
+
+This equipment has proliferated into the following countries: Germany, India, Saudi Arabia, Serbia, United Arab Emirates, United Kingdom of Great Britain and Northern Ireland.
+
+Here is System information for the BL755 British Cluster Bomb:
+The  is .
+The  is .
+The  is .
+
+Here is Bomb information for the BL755 British Cluster Bomb of the BL755 Cluster Bomb:
+The Name is BL755.
+The Type is Cluster Bomb.
+The Manufacturer is Hunting Engineering, Ltd..
+The Proliferation is Widely Proliferated.
+The Length is 2,451.
+The Diameter is 419.
+The Weight is 264.
+The Warhead is Shaped charge HEAT warhead.
+The Fragments is 1,400 anti-personnel fragments.
+

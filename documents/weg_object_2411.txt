@@ -1,0 +1,81 @@
+This document describes the HJ-8 (Red Arrow 8) Chinese Anti-Tank Guided Missile (ATGM).
+
+The HJ-8 or Hongjian-8 ( literally: 'Red Arrow-8') is a second-generation tube-launched, optically-tracked, wire-guided anti-tank missile system which was originally deployed by China's People's Liberation Army in the late 1980s.
+
+The HJ-8 series can be considered the Chinese equivalent of the US BGM-71 TOW and Franco-German MILAN / Euromissile HOT anti-tank missiles. HJ-8 is a tube-launched, optically tracked, and wire-guided missile system armed with a HEAT anti-tank warhead. The HJ-8 is a combination many experts believe of three Western antitank missile systems obtained from nations in the Middle East and Asia that were then examined and reverse engineered and modified: the tripod from the US BGM-71 TOW; the tracker-control unit from the French/German MILAN; and the missile from the UK Swingfire.
+
+There are numerous improved models following the original HJ-8, designated HJ-8A to HJ-8H, each incorporating improved features over the previous model. HJ-8E entered service in mid-1990. The HJ-8E anti-tank missile weighs 24.5 kg, has a range of up to 4,000 m, and can also defeat explosive reactive armor (ERA). The latest variant is the HJ-8H.
+
+Designed to be both dependable and accurate, HJ-8 is now the standard anti-tank armament of the WZ-9, Mi-17, and Gazelle (replacing the original Euromissile HOT first carried) helicopter gunships of the PLA.
+
+Turret launch platform
+
+A launching platform that can be installed on armored fighting vehicles has been developed by Norinco for use as an HJ-8 launching platform, the SW-1 one-man turret. The all-steel welded SW-1 turret weighs 1,750 kg and can be installed on various tracked or wheeled vehicles. The turret is stated to be immune to 0.50 caliber armor-piercing rounds at close range (100 meters) and protection is further increased when add-on armor is installed. The turret can traverse 360 degrees and be elevated -40 to +60 degrees. The fire-control system, based on that of HJ-8H, is internally mounted.
+
+The primary armament of SW-1 includes four HJ-8H ATGM, with two mounted in the rear location on each side of the turret. The secondary armament comprises a 30 mm main gun and a coaxial 0.30 caliber machine gun. A variety of ammo can be used and the maximum rate of fire of the main gun is around 6 rounds per second, and automatic fire can be selected at various rates. The 30-mm gun is claimed to be effective against ground targets up to 4 km away and aerial targets at 2 km, while the HJ-8H missile is effective against ground targets at ranges of 4 km away, and against low and slow aerial targets at the same range. A follow-on model that is remotely operated weighing 1.4 ton has completed its development and entered Chinese service, designed by the same designer, Wu Lixin (吴立辛). Like its predecessor, this unmanned model was also first tested by using HJ-73C ATGM. The unmanned version carries 160 rounds of 30 mm ammunition.
+
+This equipment has proliferated into the following countries: Albania, Bangladesh, Bolivia (Plurinational State of), Bosnia and Herzegovina, China, Ecuador, Egypt, Kenya, Malaysia, Morocco, Pakistan, Peru, Sri Lanka, Sudan, Syria, United Arab Emirates, Uruguay, Venezuela (Bolivarian Republic of), Zimbabwe.
+
+Here is System information for the HJ-8 (Red Arrow 8) Chinese Anti-Tank Guided Missile (ATGM):
+The Alternative Designations is Hongjian-8, RA-8, HJ-8.
+The Type is Anti-Tank Guided Missile (ATGM).
+The Manufacturer is NORINCO (Factory 282, Factory 5618).
+The Crew is 4.
+The Engine is Solid-fuel rocket.
+The Guidance System is SACLOS wire guidance.
+The Feed is Disposable Launch Canister.
+The Operational Range is 3,000–4,000 m.
+The Speed is 220.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Launch Platform is Tripod, vehicle, aircraft.
+
+Here is Dimensions information for the HJ-8 (Red Arrow 8) Chinese Anti-Tank Guided Missile (ATGM):
+The Length is 1,566.
+The Diameter is 120.
+The Weight Travel is 25.
+
+Here is Armament information for the HJ-8 (Red Arrow 8) Chinese Anti-Tank Guided Missile (ATGM):
+The Caliber is 120.
+The Rate of Fire is 2, 3.
+The Fire on Move is INA.
+The Elevation (deg min, max) is -7, + 12.
+
+Here is Red Arrow-8A information for the HJ-8 (Red Arrow 8) Chinese Anti-Tank Guided Missile (ATGM) of the Ammunition:
+The Type is ATGM.
+The Max Range is 3,000.
+The Minimum Range is 100.
+The Penetration is 800 mm.
+The Warhead Type is Shaped Charge HEAT.
+The Missile Diameter is INA.
+The Missile Weight is 22.5.
+The Total Weight is 22.5.
+The Average Velocity is 220.
+
+Here is Red Arrow-8E information for the HJ-8 (Red Arrow 8) Chinese Anti-Tank Guided Missile (ATGM) of the Ammunition:
+The Type is ATGM.
+The Max Range is 4,000.
+The Minimum Range is 100.
+The Penetration is 900.
+The Warhead Type is Tandem Shaped Charge HEAT.
+The Missile Diameter is INA.
+The Missile Weight is 22.5.
+The Total Weight is 24.5.
+The Average Velocity is 210.
+
+Here is Red Arrow-8F information for the HJ-8 (Red Arrow 8) Chinese Anti-Tank Guided Missile (ATGM) of the Ammunition:
+The Type is ATGM.
+The Max Range is 4,000.
+The Minimum Range is 100.
+The Penetration is 1,100.
+The Warhead Type is Tandem Shaped Charge HEAT.
+The Total Weight is 25.
+The Average Velocity is 220.
+
+Here is 12x Magnification information for the HJ-8 (Red Arrow 8) Chinese Anti-Tank Guided Missile (ATGM) of the Fire Control:
+The Type is Day Sight.
+
+Here is PTI-32 information for the HJ-8 (Red Arrow 8) Chinese Anti-Tank Guided Missile (ATGM) of the Fire Control:
+The Type is Night Sight.
+The Acquisition Range is 2,000.
+

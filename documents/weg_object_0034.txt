@@ -1,0 +1,107 @@
+This document describes the PT-76 Russian Light Amphibious Tank.
+
+The PT-76 is a Soviet amphibious light tank designed in 1948 which saw service from 1952 up until its gradual retirement from 1967 onwards, partly replaced by the more versatile BMP-1 APC. Characterized by a wide hull and water jet propulsion, the PT-76 offered excellent amphibious capabilities. It was, however, plagued by a large silhouette, weak armor protection, and an underpowered 76 mm gun. Despite these flaws, the PT-76 enjoyed a long service life within the Soviet and Russian armed forces, which only placed it into its reserves in 2006. Comparable to other Soviet Cold War vehicles, it has seen combat in several wars and is still in use within smaller armies. Russia is attempting to replace them with BMP-3F amphibious IFVs.
+
+This equipment has proliferated into the following countries: Benin, Cambodia, Congo, Guinea, Guinea-Bissau, Indonesia, Laos (People's Democratic Republic), Madagascar, Nicaragua, North Korea (Democratic People's Republic of Korea), South Korea (Republic of Korea), Uganda, Viet Nam, Zambia.
+
+Here is Variants information for the PT-76 Russian Light Amphibious Tank:
+The PT-76A is This variant is equipped with a D-56T gun with a multi-slotted muzzle brake..
+The PT-76B is This version features the D-56TS gun with a double-baffle muzzle brake, fume extractor and two-axis stabilizer system. Two auxiliary fuel tanks, each with 25 gal (95 liters), were also fitted, increasing overall weight by 440 lb (200 kg). Speed is increased to 37 mph (60 kmh).
+The hull was raised by 5 in (130 mm), the bow lengthened and the stern given a slightly steeper reverse angle to enhance buoyancy..
+The PT-76C is This variant is fitted with a 12.7-mm air defense machine gun..
+The PT-76(M) is NIMDA, an Israeli company, designed an upgrade package for the PT-76. This included a new Detroit Diesel 6V-92T engine developing 300 hp at 2,100 rpm coupled to the original transmission and a new clutch; a Cockerill Mk 3M-A2 90-mm main gun; and a new fire-control system with a laser rangefinder. The 90-mm barrel measures 10 ft 8 in (3.25 m).
+The upgrade kit also includes a new alternator; new cooling and electrical system; and fuel, exhaust, air inlet, hull and top deck modifications..
+The PT-76 with AU-220M 57-mm turret is First shown in 2005 as an export-oriented upgrade, the AU-220M replaces the existing PT-76 two-man turret with the AU-220M two-man turret equipped with a 57-mm automatic gun and a 7.62-mm machine gun. The fully stabilized main gun, equipped with a muzzle brake, fires a 57 x 347 SR round. Its ammunition-handling system manages the 20 ready rounds stored in the turret and replaces them with 70 more in the vehicle..
+The Chinese Type 63 is he Chinese Type 63 is a modification of the PT-76 design..
+
+Here is System information for the PT-76 Russian Light Amphibious Tank:
+The Alternative Designation is PT-76.
+The Type is Light Amphibious Tank.
+The Manufacturer is VTZ, Kirov Factory.
+The In Service is 1951-Present.
+The Crew is 3 (commander, gunner, driver).
+
+Here is Dimensions information for the PT-76 Russian Light Amphibious Tank:
+The Length, Hull is 6.91.
+The Length, with Gun Forward is 7.63.
+The Width is 3.14.
+The Height is 2.26.
+The Weight, Combat is 14,000.
+The Ground Pressure is 0.48 kg/sq cm.
+The Track Length on the Ground is 4.08.
+The Track Width is 0.36.
+The Ground Clearance is 0.37.
+
+Here is Automotive information for the PT-76 Russian Light Amphibious Tank:
+The Engine Name is 1 x Model V-6B.
+The Engine Type is water-cooled, in-line six-cyl diesel.
+The Engine Power is 240 hp at 1,800 rpm.
+The Main Fuel Capacity is 380 liters.
+The Auxiliary Fuel Capacity is 190 liters.
+The Speed, Road is 44 kph.
+The Speed, Water is 10 kph.
+The Maximum Road Range is 370 km.
+The Maximum Road Range with Aux Fuel Tanks is 480 km.
+The Maximum Water Range is 120 km.
+The Gradient is 70.
+The Vertical Obstacle is 1.10 m.
+The Trench is 2.80 m.
+The Fording is Amphibious w/hydrojet.
+The Suspension is torsion bar, 6 road wheels, rear drive, front idler, no return rollers.
+
+Here is System information for the PT-76 Russian Light Amphibious Tank of the Main Gun:
+The Name is D-56T.
+The Type is Rifled Anti-Tank Gun.
+The Caliber is 76.2.
+The Length is 3.2 meters.
+The Carriage is Vehicle Mount.
+The Rate of Fire is 6-8 rounds per minute.
+The Maximum Firing Range is 1,500 metres.
+The Maximum Elevation is +30.
+The Minimum Elevation is -4.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+
+Here is Ammunition information for the PT-76 Russian Light Amphibious Tank of the Main Gun:
+The Name is BM-354P.
+The Type is High Velocity Armor Piercing (HVAP).
+The Caliber is 76.2.
+The Cartridge is INA.
+The Maximum Effective Range is 650 meters by day and 600 meters at night..
+The Other Types of Ammunition is BM-354P High Velocity Armor Piercing (HVAP); BK-350M High Explosive Anti Tank or HEAT; OF-350 Frag-HE.
+The Basic Load is 40 Rounds.
+
+Here is Coaxial Weapon System information for the PT-76 Russian Light Amphibious Tank:
+The Note is The PT-76 has been seen with the following types of secondary weapons:
+* 1 x 7.62 mm SGMT,
+* 1 x PKT machine gun,
+* 1 x 12.7mm DSHKM Machine Gun.
+
+Here is Fire Control information for the PT-76 Russian Light Amphibious Tank:
+The Name is INA.
+The Computerized FCS is INA.
+The Night Vision is Only the driver had a night vision device.
+The Main Gun Stabilization is Stabilized in both planes.
+
+Here is Protection information for the PT-76 Russian Light Amphibious Tank:
+The Hull Armor is front upper: 11 mm at 80 deg;
+front lower: 14 mm at 45 deg;
+side: 14 mm at 0 deg;
+rear upper: 7 mm at 0 deg;
+rear lower: 7 mm at 45 deg;
+top: 7 mm;                        
+belly: 5 mm.
+The Turret Armor is front: 17 mm at 35 deg;
+sides: 16 mm at 35 deg;
+rear: 11 mm at 35 deg;
+top: 8 mm;
+mantlet: 11 mm at 33 deg.
+The Applique Armor is Available.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Only with the PT-76B and later.
+The Smoke Equipment is Diesel fuel injected into exhaust system.
+

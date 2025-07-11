@@ -1,0 +1,101 @@
+This document describes the MR-SAM Indian Medium-Range Air Defense Missile System.
+
+The Medium-Range Surface-to-Air Missile (MRSAM) is being developed by India’s Defence Research and Development Organisation (DRDO) in collaboration with Israel Aerospace Industries (IAI). It is expected to enter service with the Indian Air Force (IAF) in 2017.
+
+The missile is designed to provide the armed forces with air defence capability against a variety of aerial threats at medium ranges.
+
+Each MRSAM weapon system comprises of one command and control system, one tracking radar, missiles, and mobile launcher systems.
+
+The mobile launcher is used to transport, emplace and launch up to eight canisterised missiles in two stacks. It can fire the missiles in single or ripple firing modes from the vertical firing position.
+
+The combat management system simplifies the process of engaging a variety of threats. It identifies and tracks the threat using tracking radar. The system calculates the distance between the target and the launcher, and then determines if the identified target is a friend or a foe. The target information is, then, transmitted to the mobile launcher.
+
+The weapon is 4.5m-long, weighs approximately 276kg, and is equipped with canards and fins for control and manoeuvrability.
+
+This equipment has proliferated into the following countries: Azerbaijan, India, Israel.
+
+Here is System information for the MR-SAM Indian Medium-Range Air Defense Missile System:
+The Alternative Designation is MR-SAM.
+The Type is Medium-Range Air Defense Missile System.
+The Mission is The MR-SAM system was designed to intercept enemy aircraft, missiles, helicopters and drones at a range of up more than 70 km..
+The Crew is INA.
+The Chassis is INA.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note is Three launcher units will comprise a battery. These will be supported by a control and management unit, radar unit, associated reloading vehicles and maintenance vehicles..
+
+Here is Dimensions information for the MR-SAM Indian Medium-Range Air Defense Missile System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+
+Here is Automotive information for the MR-SAM Indian Medium-Range Air Defense Missile System:
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Cruising Range is INA.
+The Speed, Maximum Road is INA.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is INA.
+The Fording Depth is INA.
+
+Here is Missile System information for the MR-SAM Indian Medium-Range Air Defense Missile System:
+The Name is Barak 8 Missile.
+The Type is Surface-to-Air Missile.
+The Basic Load is 8 x Barak 8 Missiles.
+The Length is 4.5 m.
+The Diameter is 0.54 m.
+The Fin Span is 0.94 m.
+The Missile Weight is 274 kg.
+The Warhead Type is Fragmentation with proximity fuse.
+The Warhead Weight is 60 kg.
+The Speed is Mach 2.
+The Maximum Range of Fire is more than 70 km.
+The Maximum Altitude is 16 km.
+The Note #1 is The missiles are fired vertically from the canister-launchers and provide 360 degree coverage. The vertical launch systems holds 2 stacks of 4 ready-to-fire missiles..
+The Note #2 is All missiles can be fired within 20 seconds.
+
+Here is Fire Control System information for the MR-SAM Indian Medium-Range Air Defense Missile System of the Fire Control and Radar Systems:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+
+Here is Radar information for the MR-SAM Indian Medium-Range Air Defense Missile System of the Fire Control and Radar Systems:
+The Name is EL/M-2084.
+The Type is Target and Tracking Radar.
+The Frequency/Band is INA.
+The Range is 470 km.
+The Note is The ELM-2084 is an Israeli ground-based mobile 3D AESA multi-mission radar (MMR) family produced by ELTA, a subsidiary of Israel Aerospace Industries.
+
+The radar is capable of detecting and tracking both aircraft and ballistic targets and providing fire control guidance for missile interception or artillery air defense.
+
+As a tactical radar, the ELM 2084 is a mobile system consisted of the radar unit, a control module, a cooling unit and a power generator. It can be mounted on a variety of transport platforms.
+
+The radar was designed to accommodate medium range operational needs in the battlefield: detection, classification and tracking of targets.
+
+The Radar's main missions are:
+
+*Hostile weapon location – detection and tracking of hostile ballistic projectiles, calculating enemy launchers or artillery position.
+*Early warning – impact point calculation for warning of civil population and military rear units.
+*Friendly fire ranging – tracking of friendly artillery and providing corrections to the firing unit.
+*Aerial surveillance – detecting and tracking aircraft, maintaining continuous aerial picture.
+*Firing control radar – for various air defense systems, including Iron Dome, David's Sling, Skyhunter, and SPYDER-MR (Medium Range).
+
+Notable features of the radar:
+
+*Advance technology AESA radar
+*Extensive operational experience, due to participation in large number of interceptions
+*Interoperability with modern battle management systems and several different interceptor missiles.
+*The radar is advertised as capable of processing all types of threats – aerial and ballistic including low radar cross-section (RCS) targets..
+
+Here is Protection information for the MR-SAM Indian Medium-Range Air Defense Missile System:
+The Hull Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

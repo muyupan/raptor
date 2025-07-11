@@ -1,0 +1,47 @@
+This document describes the Mohajer-2 Iranian Unmanned Aerial Vehicle (UAV).
+
+The Mohajer-2 Iranian Unmanned Aerial Vehicle (UAV) The Mohajer-2 has a bullet-shaped fuselage, mid-mounted, untampered wings, twin tail booms, twin rudders, belly skids, and a horizontal tail.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of), Libya, Syria, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the Mohajer-2 Iranian Unmanned Aerial Vehicle (UAV):
+The Raad-85 is Comparable to the similarly equipped Ababil-2 variant..
+The Mohajer-2N is The M2N (the 'N' stands for 'new') was unveiled during the 2014 Kish Airshow..
+The Arpia is Venezuela version of the Mohajer-2..
+
+Here is System information for the Mohajer-2 Iranian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Mohajer-2.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Qods Aviation Industry Company, Tehran.
+The Autonomy is Manual: The operator controls all aspects of UAV flight by using the real-time feed from the onboard cameras. This mode relies on high and low bandwidth communication between the UAV and GCS.
+Semi-automatic: The operator determines the UAV's flight path, but does not control the flight itself. This mode relies on the lower bandwidth control and telemetry channels, which have a longer range than the higher frequency channels used for imagery downlinks.
+Automatic: The UAV follows a preset flight path and executes commands using GPS and INS-cued waypoints. This mode does not require any uplink/downlink between the UAV and the GCS..
+The Crew is Unmanned.
+The Payload Capacity is 15 kg.
+The Reconnaissance Equipment is The Mohajer-2 can be fitted with three different optical payloads: a) a gimbaled EO-system for surveillance, b) a fixed downward-facing still camera for aerial surveying, and c) a fixed forward-facing camera in the nose for flight. The gimbaled imager is used for real-time surveillance and is limited to light-weight models by the M2's relatively small payload. In practice, only daylight cameras, such as the IEI's Oghab 11, have been fitted. Early-production M2s lacked the forward-facing camera..
+The Launching System is The Mohajer-2 is dependent on pneumatic or rocket assisted launch (usually the former)..
+The Recovery System is skid landing gear only..
+
+Here is Dimensions information for the Mohajer-2 Iranian Unmanned Aerial Vehicle (UAV):
+The Length is 2.91 m.
+The Wingspan is 3.8 m.
+The Height is INA.
+The Empty Weight is 70 kg.
+The Maximum Takeoff Weight is 85 kg.
+
+Here is Automotive information for the Mohajer-2 Iranian Unmanned Aerial Vehicle (UAV):
+The Engine Name is WAE-342.
+The Engine Type is Twin-cylinder piston engine.
+The Engine Power is 25 hp.
+The Propellers is 2 bladed.
+The Maximum Speed is 200 km/h.
+The Ceiling is 3,500 m.
+The Maximum Range is 50 km.
+The Endurance is 1.5 hours.
+
+Here is Communications information for the Mohajer-2 Iranian Unmanned Aerial Vehicle (UAV):
+The Note is The Mohejer-2 is fitted with two stub antenna, one on either wing. These support the higher frequency datalinks that allow for real-time control (under 10 ghz).Like the Ababil family, the lack of OTOH control is unlikely to be a significant problem given its short range. Although exact details are scant, export brochures indicate that it is fitted with control software that allows the Mohajer to be flown in one of three modes: manual, semi-automatic, and automatic..
+
+Here is Armament information for the Mohajer-2 Iranian Unmanned Aerial Vehicle (UAV):
+The Note is The Mohajer-2 Iranian Unmanned Aerial Vehicle (UAV) is not equipped with any weapon systems..
+

@@ -1,0 +1,100 @@
+This document describes the KamAZ-53949 Typhoon-K Russian 4x4 Armored Mine-Resistant Ambush Protected (MRAP).
+
+The Kamaz-53949 Typhoon-K is a 4×4 mine-protected armored vehicle manufactured by Remdiesel, a subsidiary of KAMAZ, to meet the requirements of armed forces and special units worldwide.
+
+The vehicle was recently displayed at the International Military-Technical Forum ARMY-2017 held in Moscow, Russia, in August.
+
+Russian state-owned arms exporter Rosoboronexport and Remdiesel signed an agreement to promote the vehicle in export markets across North Africa, the Middle East, Central, and Southeast Asia, Latin America, and Commonwealth of Independent States (CIS) regions.
+
+The Typhoon-K is primarily used to safely transport troops and military cargoes in mine-inflated zones. It can also be configured as a command post vehicle, ambulance, and logistics support vehicle.
+
+Kamaz-53949 design
+The Typhoon-K is based on the common chassis utilized by the Kamaz family of all-wheel drive medium and heavy-duty vehicles. The vehicle also shares most of the components and assemblies with the other platforms in the family.
+
+The vehicle accommodates two crew members and eight fully equipped troops. The hull features four side doors and a rear door. The roof is fitted with two hatches for observation, firing, and emergency exit purposes.
+
+The Kamaz-53949 vehicle measures 6.7m-long, 2.5m-wide, and 2.8m-high. It has a curb weight of 13,700kg and can carry a payload of 2,000kg.
+
+The vehicle also features a signature reduction package, an all-around video surveillance system, and an automatic fire-extinguishing unit.
+
+Armament of Kamaz-53949 Typhoon-K
+The Kamaz-53949 is fitted with a stabilized remotely controlled weapon station (RCWS). The RCWS can be armed with medium-to-heavy machine guns, including a 7.62mm medium machine gun (MMG) or a 12.7mm / 14.5mm heavy machine gun (HMG).
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the KamAZ-53949 Typhoon-K Russian 4x4 Armored Mine-Resistant Ambush Protected (MRAP):
+The Linza Armored Ambulance is Armored Ambulance..
+The Command Post Vehicle is C2 version..
+
+Here is System information for the KamAZ-53949 Typhoon-K Russian 4x4 Armored Mine-Resistant Ambush Protected (MRAP):
+The Alternative Designation is Kamaz-53949 Typhoon-K.
+The Type is Armored Mine-Resistant Ambush Protected (MRAP).
+The Manufacturer is Remdiesel.
+The Configuration is 4x4.
+The Crew is 2.
+The Passenger Capacity is 8.
+The Payload Capacity is 2,000kg.
+
+Here is Dimensions information for the KamAZ-53949 Typhoon-K Russian 4x4 Armored Mine-Resistant Ambush Protected (MRAP):
+The Length is 6.7m.
+The Width is 2.5m.
+The Height is 2.8m.
+The Curb Weight is 13,700kg.
+The Ground Clearance is The ground clearance of the vehicle can be automatically adjusted in line with the speed, surface and person-specific driving style..
+
+Here is Automotive information for the KamAZ-53949 Typhoon-K Russian 4x4 Armored Mine-Resistant Ambush Protected (MRAP):
+The Engine Name is Cummins 6ISBe 350 P-6.
+The Engine Type is Diesel.
+The Engine Power is The engine generates a maximum power of 350hp at a maximum torque of 1,090Nm..
+The Power-to-Weight Ratio is The power-to-weight ratio of the vehicle is 20.2hp/t..
+The Transmission is six-speed automatic transmission system..
+The Range is 1,000.
+The Speed, Maximum Road is 100 km/h.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Suspension is The Typhoon-K is equipped with a hydro-pneumatic independent suspension system with ride height adjustment according to the requirements of the users..
+The Central Tire Inflation System is Yes.
+The Vertical Step is 0.6 m.
+The Trench is 0.5 m.
+The Fording is 1.5 m without preparation.
+
+Here is System information for the KamAZ-53949 Typhoon-K Russian 4x4 Armored Mine-Resistant Ambush Protected (MRAP) of the Main Weapon System:
+The Name is 1 x NSV 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Length is 1,560 mm.
+The Barrel Length is INA.
+The Weight is 25 kg (gun only)
+41 kg on tripod
+11 kg (50-round belt).
+The Action is Gas-operated.
+The Rate of Fire is 700–800 rounds/min.
+The Muzzle Velocity is 845 m/s.
+The Effective Firing Range is 1500 m vs. air (maximum)
+2000 m vs. ground targets.
+The Feed System is 50-round belt.
+The Sights is Iron sights.
+
+Here is Ammunition information for the KamAZ-53949 Typhoon-K Russian 4x4 Armored Mine-Resistant Ambush Protected (MRAP) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7×108mm.
+The Basic Load is 2,000 Rounds.
+
+Here is Fire Control information for the KamAZ-53949 Typhoon-K Russian 4x4 Armored Mine-Resistant Ambush Protected (MRAP):
+The Name is INA.
+The Computerized FCS is No.
+The Thermal Sight Vehicle Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is No.
+
+Here is Protection information for the KamAZ-53949 Typhoon-K Russian 4x4 Armored Mine-Resistant Ambush Protected (MRAP):
+The Hull Armor is The vehicle protects the occupants from 14.5mm-calibre ammunition, armour-piercing rounds and incendiary rounds. It can withstand the impact of 8kg TNT explosion under the floor and 10kg TNT explosion under the wheels. The vehicle offers STANAG 4569 level III protection against anti-personnel and anti-tank mines, as well as improvised explosive devices (IEDs). The V-shaped hull reduces the blast impact by deflecting the kinetic objects away from the hull in the event of TNT device explosion anywhere under the bottom of the vehicle. The hull is hinged with sandwich armour, comprising conventional internal steel armour and new-generation external ceramic armour..
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

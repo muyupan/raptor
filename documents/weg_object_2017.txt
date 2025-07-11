@@ -1,0 +1,73 @@
+This document describes the AT-4 Swedish 84mm Single-Use Anti-Tank Recoilless Rifle.
+
+The AT4 (also AT-4) is an 84-mm unguided, portable, single-shot recoilless smoothbore weapon built in Sweden by Saab Bofors Dynamics (previously Bofors Anti-Armor Systems). Saab has had considerable sales success with the AT4, making it one of the most common light anti-tank weapons in the world.  It was and remains one of the world's premier expendable infantry anti-tank weapons
+
+The AT4 is intended to give infantry units a means to destroy or disable armored vehicles and fortifications, although it is generally ineffective against current modern main battle tanks (MBT). The launcher and projectile are manufactured prepacked and issued as a single unit of ammunition, with the launcher discarded after a single use.
+
+The AT4 may be considered a disposable, low-cost alternative to a Carl Gustaf recoilless rifle. The AT4 took many of its design features from the Carl Gustaf, which operates on the principle of a recoilless weapon, where the forward inertia of the projectile is balanced by the inertia of propellant gases ejecting from the rear of the barrel. But unlike the Carl Gustaf, which uses a heavier and more expensive steel tube with rifling, the disposable AT4 design greatly reduces manufacturing costs by using a reinforced smoothbore fiberglass outer tube. Being a disposable gun also allows for lighter and cheaper construction. In a single-use disposable gun, the barrel only needs to be able to contain a single pressure spike when firing, when it can be disposed of, even if it is ruined, burnt-out, and strained, unlike traditional guns which are required to survive many pressure spikes without failure and thus need to be strongly overbuilt and made of heat-proof materials. Pressures are also kept quite low compared to many traditional guns. This lightweight and thin barrel and low pressure, combined with the almost complete lack of recoil, means that relatively large projectiles (comparable to those found in mortars and artillery systems) can be utilized, which would otherwise be impossible in a man-portable weapon.
+
+In the system originally developed by FFV for the Carl Gustaf, a plastic blowout plug is placed at the center rear of the shell casing containing the projectile and propellant, which itself is enclosed in the AT4 outer tube. When the gases build up to the correct pressure level, the blowout plug disintegrates, allowing the proper amount of gases to be vented to the rear, balancing the propellant gases and pushing the projectile forward.
+
+The AT4 uses a unique method developed earlier by FFV and adopted for the AT4: the spring-loaded firing rod is located down the side of the outer tube, with the firing pin at the rear of the tube. When released, the firing pin strikes a primer located on the side of the casing's rim.
+
+The disadvantage of the recoilless design is that it creates a large backblast area behind the weapon, which can cause severe burns and overpressure injuries to friendly personnel in the vicinity of the user and sometimes even to the users themselves, especially in confined spaces. The backblast may also reveal the user's position to the enemy. The problem of backblast was solved with the AT4-CS (Confined Space) version, specially designed for urban warfare. This version uses a saltwater counter mass in the rear of the launcher to absorb the backblast; the resulting spray captures and dramatically slows down the pressure wave, allowing troops to fire from enclosed areas. The AT4-CS version also reduced its muzzle velocity from the original 290 m/s to 220 m/s as part of its effort to be user-safe in a confined space, making the AT4-CS version more difficult to use as the drop is more pronounced. The effectiveness of the HEAT warhead is not dependent on speed.
+
+To fire, the gunner first removes the safety pin located at the rear of the tube, which unblocks the firing rod. He then takes a firing position ensuring that no one is present in the backblast area. If firing from the prone position, he must also place his legs well to the side to avoid burning himself. Then the gunner moves back the front and rear sight covers, allowing the sights to pop up into their firing positions. The AT4 has iron sights that were originally developed for the canceled Viper, and are similar in concept and use to those on assault rifles. He then removes the first of two safeties by moving the firing rod cocking lever (located on the left side) forward and then over the top to the right side. The gunner takes aim, while at the same time holding down the red safety lever located in front of the cocking lever, and then fires by pressing forward the red firing button with his right thumb. Both the red safety lever and the firing button must be pressed down at the same time to fire the AT4. The red firing button has a similar resistance to the trigger pull of a rifle, so the gunner does not have to jab at the firing button, which could throw his aim off.
+
+After firing, the AT4 is discarded. Unlike the heavier Carl Gustaf, the AT4 outer tube is built to take the stress of just one firing; it is not reusable and cannot be reloaded.
+
+The AT4 can mount an optical night sight on a removable fixture. In US military use, the launcher can be fitted with the AN/PAQ-4C, AN/PEQ-2, or the AN/PAS-13 night sights.
+
+The AT4 requires little training and is quite simple to use, making it suitable for general issues. However, as the cost of each launcher makes regular live-fire training very expensive, practice versions exist that are identical in operation but fire reloadable 9×19mm or 20mm tracer ammunition. Both practice cartridges are unique to their respective weapons, with their trajectory matched to that of the live round. The 20mm version also has a recoilless weapon effect with the same high noise and backblast as the AT4 firing and is favored by the Swedish army because of the added realism of the backblast as compared to the "plonk" sound of the 9mm round (similar to the sound of a finger tapping on an empty can).
+
+This equipment has proliferated into the following countries: Albania, Argentina, Bosnia and Herzegovina, Brazil, Canada, Chile, Colombia, Croatia, Denmark, Dominican Republic, France, Georgia, Greece, India, Indonesia, Iraq, Ireland, Latvia, Lebanon, Lithuania, Malaysia, Netherlands, Poland, Sweden, Syria, United Kingdom of Great Britain and Northern Ireland, United States of America, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the AT-4 Swedish 84mm Single-Use Anti-Tank Recoilless Rifle:
+The M136 AT4 is American version with modified launch tube bumpers, sights and slings..
+The AT8 (Bunker-Busting) is A version of the AT4 where the standard HEAT projectile is replaced with the bunker-busting warhead developed for the SMAW. No orders were ever placed.
+The AT12-T is In the early 1990s, there were tests of a tandem charge 120-mm version (Bofors AT 12-T) that would be able to penetrate the front armour of any modern main battle tank..
+
+Here is System information for the AT-4 Swedish 84mm Single-Use Anti-Tank Recoilless Rifle:
+The Alternative Designation is AT-4; AT4.
+The Type is 84mm Single-Use Anti-Tank Recoilless Rifle.
+The Family is AT-4.
+The Manufacturer is Saab Bofors Dynamics.
+The In Service is 1984-Present.
+The Crew is 1.
+The Note is It was and remains one of the world's premier expendable infantry anti-tank weapons.
+
+Here is Dimensions information for the AT-4 Swedish 84mm Single-Use Anti-Tank Recoilless Rifle:
+The Length is 1.02.
+The Diameter is 84.
+The Height is INA.
+The Weight, AT4 is 6.7.
+The Weight, AT4-CS is 8.
+
+Here is Launcher information for the AT-4 Swedish 84mm Single-Use Anti-Tank Recoilless Rifle of the Weapon System:
+The Name is AT-4.
+The Type is The AT-4's gun tube is long and cylindrical, with numerous external fixtures.
+The Note #1 is A long tube covered by a conformal housing (which contains a cable used to fire the weapon) runs from the trigger mechanism to the breech along the top of the tube.
+The Note #2 is the launcher can be fitted with the AN/PAQ-4C, AN/PEQ-2, or the AN/PAS-13 night sights.
+
+Here is Projectile information for the AT-4 Swedish 84mm Single-Use Anti-Tank Recoilless Rifle of the Weapon System:
+The Name is INA Depends on the type of projectile warhead.
+The Type is See Projectile Types.
+The Projectile Types is The AT-4 can fire several types of 84mm Projectiles:
+1. HEAT (High Explosive Anti-Tank)
+2. HEDP 502 (High Explosive Dual Purpose)
+3. HP (High Penetration)
+4. AST (Anti Structure Tandem-warheads)
+5. ER (Extended Range)
+6. HE (High Explosive).
+The Length is 462.
+The Bore Diameter is 84.
+The Muzzle Velocity is 290.
+The Effective Firing Range, Point Target is 300.
+The Maximum Firing Range, Area Target is 500.
+The Maximum Firing Range, Maximum is 2,100.
+The Sights is Iron sights, optional night vision unit.
+The Armor Penetration (RHA) is 420.
+The Projectile Weight is INA.
+The Time of Flight to 250 meters is less than 1 second.
+The Operating Temperatures is −40 to +60 °C (−40 to +140 °F).
+

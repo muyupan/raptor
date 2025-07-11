@@ -1,0 +1,66 @@
+This document describes the AH-4 Chinese 155mm Towed Howitzer.
+
+The AH-4 is a Chinese clone of the US, M777, lightweight towed howitzer. It is intended mainly for export. The AH-4 was revealed in 2014. Soon after its introduction this howitzer reportedly received its first export order from Middle East.
+Can fire all of the western-made 155mm/39 caliber rounds.
+
+The towed AH4 howitzer is a Chinese artillery system manufactured by Norinco. Its main characteristic is that it has been designed to be lightweight, which allows greater tactical mobility. The weight of 4,500 kg, compared to a traditional system that can weigh 18,000 kg, allows the system to be airlifted via heavy-lift helicopters like the CH-47 or Mi-26, or transport aircraft like a C-130 or Y-8. Also, as a modern howitzer system, it possesses a range of engagement of up to 40 km using rocket-assisted projectiles.
+
+Because of its weight, the AH4 can be used in mountain warfare, which traditionally had to use pack howitzers like the OTO Melara Mod 56.
+
+This equipment has proliferated into the following countries: China, United Arab Emirates.
+
+Here is Variants information for the AH-4 Chinese 155mm Towed Howitzer:
+The SH-11 is Self-propelled artillery piece based upon an 8x8 armored personnel carrier and uses a modified 155mm/L39 round.  First seen in public in 2018..
+The AHS-4 is 3 ton version designed to use in mountain warfare..
+
+Here is System information for the AH-4 Chinese 155mm Towed Howitzer:
+The Alternative Designation is AH-4.
+The Type is Howitzer.
+The Caliber is 155 mm.
+The Manufacturer is Norico.
+The Carriage is split trail.
+The Crew is 7.
+The Emplacement Time is 3.
+The Displacement Time is 2.
+The Maximum Effective Range is 25,000.
+
+Here is Dimensions information for the AH-4 Chinese 155mm Towed Howitzer:
+The Length, Travelling is 9.5.
+The Length, Ready to Fire is 10.2.
+The Weight, Combat is 4,500.
+
+Here is Automotive Requirement information for the AH-4 Chinese 155mm Towed Howitzer:
+The Towing Vehicle is 6x6 or 4x4.
+The Speed limit, Road is 70.
+The Speed limit, Cross Country is 25.
+The Primary Air Lift Aircraft is Z-18A.
+
+Here is System information for the AH-4 Chinese 155mm Towed Howitzer of the Main Weapon System:
+The Name is AH-4.
+The Type is Howitzer.
+The Breech Type is INA.
+The Caliber / Length is 155mm / 39 caliber.
+The Muzzle Velocity is INA.
+The Max Range, Standard Round is 25,000.
+The Max Range, RAP is 40,000.
+The Barrel Length is INA.
+The Max Elevation is 72.
+The Min Elevation is -3.
+The Traverse Range is 44.
+The Traverse Left is 22.
+The Traverse Right is 22.
+The Rate of Fire, Burst is 4.
+The Rate of Fire, Sustain is 2.
+The Carriage is 2 sub assemblies, the body and the saddle.  The body includes 2 forward stabilizers and 2 split trails fitted with self digging spades and dampers..
+
+Here is Ammunition information for the AH-4 Chinese 155mm Towed Howitzer of the Main Weapon System:
+The Weight of Round is 46..7.
+The ERFB-HB/HE is 25,000.
+The ERFB-BB/HE is INA.
+The ERFB-BB-RA/HE is 40,000.
+The Range is 25,000.
+The Probability of hit is 90.
+
+Here is Protection information for the AH-4 Chinese 155mm Towed Howitzer:
+The Note is This artillery piece has no organic protection..
+

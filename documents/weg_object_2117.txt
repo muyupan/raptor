@@ -1,0 +1,41 @@
+This document describes the PKMB Russian 7.62mm General-Purpose Machine Gun.
+
+The 7.62mm Kalashnikov modernized PKMB armored personnel carrier (APC) machine gun is a heavy automatic weapon designed to engage enemy manpower, fire weapons, and air targets.
+
+The modernized PKMB APC machine gun is fed from a 250-round non-disintegrating belt stowed in a portable box.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the PKMB Russian 7.62mm General-Purpose Machine Gun:
+The PKS is For heavier employment, the PKS ("PK Mounted") is based on the Samozhenkov 6T2 tripod mount. The PK and 6T2 tripod weigh 16.5 kg.
+The PKM is The PKM (ПК Модернизированный: "Kalashnikov's Machine-gun Modernized"), was adopted into service in 1969..
+The PKMN is The PKMN (ПКМ Ночной: "PKM Night-Vision") is a variant that can mount a night sight for low-visibility operations..
+The PKMS is For heavier employment, the PKMS (ПКМ Станковый: "PKM Mounted") is mounted on the Stepanov 6T5 tripod mount. The PKM and 6T5 tripod weigh 12 kg.
+The PKMSN is The PKMSN (ПКМС Ночной: "PKMS Night-Vision") is similarly to the PKMN a special model of the tripod-mounted variant that can mount night sights for low-visibility operations..
+The PKT is The PKT (ПК Танковый, "PK Tank") (1968) is a solenoid-fired coaxial version of PK to replace the SGMT Goryunov vehicle-mounted machine gun..
+The PKMT is Modernized version of PKT..
+The PKB is Version on which a set of spade grips replace the stock, for mounting on roofs of vehicles..
+The PKBM is Modernized version of PKB..
+The PKP Pecheneg is The PKP Pecheneg (6P41) (2001) is a further development and modification of the PKM. It has a heavy fixed barrel encased in a radial cooling sleeve that uses forced-air cooling, much like the Lewis Gun of World War I..
+
+Here is PKMB 7.62mm General-Purpose Machine Gun information for the PKMB Russian 7.62mm General-Purpose Machine Gun of the System:
+The Name is PKMB 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is Degtyaryov plant.
+The Length is 1,203 mm.
+The Weight is 7.5 kg.
+The Action is Gas-operated, open bolt.
+The Muzzle Velocity is 825 m/s.
+The Rate of Fire is 600-800 rounds per minute.
+The Effective Rate of Fire is 250 rounds per minute.
+The Sighting Range of FIre is 1,500 m.
+The Belt is 250 Rounds.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the PKMB Russian 7.62mm General-Purpose Machine Gun of the System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×54mmR.
+The Basic Load is 1,000 Rounds.
+

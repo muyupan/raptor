@@ -1,0 +1,99 @@
+This document describes the AV8 (Gempita) Malaysian 8x8 Amphibious Armored Personnel Carrier (APC).
+
+The DefTech AV8 Gempita (Thunder) is an amphibious multirole armoured vehicle developed by Malaysian defence company DefTech with the assistance of Turkey defence company FNSS. The Gempita resembles some of the Turkey FNSS Pars design and technology. The vehicle has a modular design which allows the fitting of different turrets, weapons, sensors, and communications systems on the same vehicle.
+
+The vehicle has 12 variants, including the armored personnel carrier, infantry fighting vehicle, tank destroyer, signals intelligence vehicle and recovery vehicles.
+
+The AV8 is manufactured by DefTech in Pahang, Malaysia.
+
+This equipment has proliferated into the following countries: Malaysia, Turkey.
+
+Here is Variants information for the AV8 (Gempita) Malaysian 8x8 Amphibious Armored Personnel Carrier (APC):
+The AV8 Infantry Fighting Vehicle is This IFV variant is armed with a one-man FNSS Sharpshooter turret equipped with a stabilized ATK M242 25-mm cannon and an FN MAG 58M 7.62-mm coaxial machine gun..
+The AV8 Armored Fighting Vehicle is This version for Malaysia's armored corps is equipped with a Denel Systems two-man LCT-30 turret. This is armed with the Denel stabilized 30-mm GI-30 external, dual-feed, linkless cannon and an FN MAG 58M 7.62-mm coaxial machine gun..
+The AV8 AFV with Ingwe anti-tank missiles is This variant is equipped with an LCT-30 turret with a bank of two Denel Ingwe anti-tank guided missiles on each side. The Ingwe has a range of about 5,470 yd (5,000 m) with a tandem shaped-charge warhead that can penetrate up to 39 in (1,000 mm) of homogenous steel armor protected by reactive armor ..
+The AV8 surveillance vehicle is This variant is equipped with a Rheinmetall Vingtaqs mast-mounted long-range target acquisition and surveillance system, which includes a Thales Squire battlefield surveillance radar..
+The AV8 command vehicle is INA.
+The AV8 mortar carrier is This variant is armed with a TDA 120-mm 2R2M mortar..
+
+Here is System information for the AV8 (Gempita) Malaysian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is AV8; Gempita.
+The Type is 8x8 Amphibious Armored Personnel Carrier (APC).
+The Manufacturer is DRB-HICOM Defence Technologies (Deftech), Nilai, Malaysia.
+The Crew is 3.
+The Passenger Capacity is 11.
+
+Here is Dimensions information for the AV8 (Gempita) Malaysian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Length is 7.96 m.
+The Width is 2.70 m.
+The Height is 2.17 m.
+The Ground Clearance is 150-600 mm.
+The Gross Vehicle Weight is 24,000 kg.
+
+Here is Automotive information for the AV8 (Gempita) Malaysian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is 1 x Deutz TCD 2015.
+The Engine Type is V6 Diesel.
+The Engine Power is 523 hp.
+The Power-to-Weight Ratio is 21.8 hp/metric ton.
+The Fuel Capacity is 400 liters.
+The Maximum Speed is 100 km/h.
+The Range, Road is 700 km.
+The Range, Cross-Country is 350 km.
+The Vertical Obstacle is 0.7 m.
+The Trench is 2.0 m.
+The Gradient is 60 percent.
+The Side Slope is 30 percent.
+
+Here is System information for the AV8 (Gempita) Malaysian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Gun:
+The Name is 1 x M242.
+The Type is Chain Gun.
+The Caliber is 25.
+The Length is 2.58 m.
+The Width is 318 mm.
+The Height is 373 mm.
+The Weight is 119 kg.
+The Range is 2,000 m.
+The Muzzle Velocity is 1,345 mps.
+The Rate of Fire is 100, 200, or 500 rpm, cyclic.
+
+Here is Ammunition information for the AV8 (Gempita) Malaysian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Gun:
+The Type is Rifle.
+The Caliber is 25.
+The Cartridge is INA.
+The Basic Load is 240 Rounds.
+
+Here is System information for the AV8 (Gempita) Malaysian 8x8 Amphibious Armored Personnel Carrier (APC) of the Auxiliary Weapon System:
+The Name is 1 x M240.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Length is 1,260 mm.
+The Barrel Length is 630 mm.
+The Width is 120 mm.
+The Height is 260 mm.
+The Weight is 12.5 kg.
+The Action is Gas-operated long-stroke piston, open bolt.
+The Rate of Fire is 650–750 RPM.
+The Muzzle Velocity is 853 m/s.
+The Maximum Firing Range is 3,725 m.
+The Effective Firing Range is 1,100 m.
+The Feed System is Belt-fed using M13 disintegrating links.
+The Sights is Iron sights: front blade and folding rear leaf with aperture and notch.
+
+Here is Ammunition information for the AV8 (Gempita) Malaysian 8x8 Amphibious Armored Personnel Carrier (APC) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is 400 Rounds.
+
+Here is Protection information for the AV8 (Gempita) Malaysian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is The hull consists of all-welded steel armor. Applique plates are available to increase protection to NATO Standard Agreement (STANAG) 4569 Level II, which defends against 7.62-mm armor-piercing rounds.
+
+The 60-degree frontal arc is protected against 14.5-mm armor-piercing rounds, while the roof is armored against 155-mm artillery fragments. The AV8 provides underbelly protection against a 13-lb (6-kg) anti-tank mine or 18 lb (8 kg) under the wheels. Spall liners are fitted..
+The Turret Armor is INA.
+The Applique Armor is The applique armor is modular, enabling it to be easily upgraded or replaced..
+The Explosive Reactive Armor is No.
+The Active Protection System is In addition to the standard 76-mm grenade launchers on the turret, four banks of 76-mm grenade launchers, each with four grenades, are mounted on each side of the front and rear of the vehicle to provide 360-degree protection. The launchers can be armed with different types of screening and fragmen tation grenades. The launchers can be activated manually in response to the vehicle's laser warner, which can display up to three targets simultaneously..
+The Mine Clearing is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, 8 x 76-mm smoke/fragmentation grenade launchers.
+

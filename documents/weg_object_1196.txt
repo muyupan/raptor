@@ -1,0 +1,47 @@
+This document describes the JMRC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV).
+
+JMRC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV)
+
+Here is Variants information for the JMRC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Skylark I LE Block II is Hydrogen fueld cell propulstion engine, 7 hrs or greater endurance..
+The Skylark I-LEX Mini Unmanned Aircraft System (UAS) is Skylark I-LEX is a new generation, man-portable, electric-propelled, mini unmanned aircraft system (UAS) manufactured by Elbit Systems..
+
+Here is System information for the JMRC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Alternative Designation  is JMRC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV).
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Elbit Systems.
+The Flight Control is GPS positioning, autonomous preprogrammed flight.
+The Flight Control Method is Sprectralink data link.
+The Ground Crew is 2, backpack (30-40 kg each).
+The Ground Control is Handheld, Mini Ground Control Unit, color console.
+
+Here is Dimensions information for the JMRC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Length, Overall is 2.2.
+The Length, Wing Span is 2.4.
+The Weight, Maximum Launch is 5.5.
+
+Here is Launch and Recovery information for the JMRC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Launch Method is Hand or bungee launched.
+The Recovery/Landing Method: is One button auto return, steep stall, inflatable cushion.
+
+Here is Automotive information for the JMRC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric, battery powered.
+The Engine Power is INA.
+The Propulsion is Two blade propeller.
+The Radius of Operation  is 10.
+The Ceiling, Maximum (normal)  is 455.
+The Endurance  is 1 hr, 30 min.
+The Speed, Maximum  is 111.
+The Speed, Cruising  is 65.
+The Maximum Range is 40 km.
+The Ceiling, Service  is 5.
+
+Here is Payload information for the JMRC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Description is Color CCD 10x zoom lens.
+The Payload Downlink is D/E-band telemetry/video.
+The Payload Uplink is Analog, encrypted, UHF.
+The Payload User Image Capabilities is All images can be overlaid on a downlinked integrated map.
+The Type is Optical Camera.
+The Type is User Image Capabilities.
+

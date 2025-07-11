@@ -1,0 +1,37 @@
+This document describes the R-23 (AA-7 Apex) Russian Air-to-Air Missile.
+
+The Vympel R-23 (NATO reporting name AA-7 Apex) is a medium-range air-to-air missile developed by Vympel in the Soviet Union for fighter aircraft. An updated version with greater range, the R-24, replaced it in service. It is comparable to the American AIM-7 Sparrow, both in terms of overall performance as well as role.
+
+Design of a new missile to arm the MiG-23 fighter started in the mid-1960s under the direction of V.A. Pustyakov's design team. Known as the K-23 during its design, the new weapon was intended for use against bomber-sized targets, with "snap-up" capability to attack targets at higher altitude than the launch aircraft. It originally was intended to have a dual-mode seeker using both semi-active radar homing and infrared guidance, but this proved unfeasible, and separate SARH and IR models (Izdeliye (Product) 340 and 360, respectively) were developed instead. Test firings were carried out in 1967, although the SARH missile's seeker head proved to be extremely problematic.
+
+In 1968 the Soviets acquired an AIM-7 and a Vympel team started copying it as the K-25. A comparison of the two led to the K-23 entering production, based largely on its better range and countermeasures resistance. The K-25 work ended in 1971. Nevertheless, several features of the Sparrow were later used in the Vympel R-27 design.
+
+The missile, designated R-23, entered service in January 1974, the SARH version as the R-23R, the IR version R-23T. Both versions used the same motor and warhead, which had a lethal radius of 8 m (26 ft). In the west these were known as the AA-7A and AA-7B, respectively. An inert training round, the R-23UT, was also developed.
+
+The airframe featured four delta wings arranged cruciform just behind the midpoint of the fuselage, and cropped-delta control surfaces at the extreme rear in-line with the wings. Smaller cropped-triangular surfaces are mounted in-line near the nose : known as "destabilizers", they serve to improve the rudders' efficiency at high angles of attack (the R-60 missile uses the same feature). The only external difference between the two versions was the nose cone, which was an ogive for the SARH seeker, and shorter (by 30 cm) and more rounded for the IR version.
+
+Maximum range for the R-23R is 35 km, and for the infrared version R-23T is 15 km.
+
+Large numbers of R-23s were built., both by Molniya (ex OKB-4) as well as Vympel (ex OKB-134).
+
+Starting in 1975 an improved version of the weapon was developed to arm the MiG-23ML/MLD. The resultant SARH R-24R had lock-on after launch capability and expanded range (up to 50 km) and altitude capability (up to 25,000 m/82,000 ft), while the IR R-24T had a much improved seeker with greater sensitivity. Both versions had a larger motor, a heavier warhead, and a greatly reduced minimum range of 500 m (1,600 ft) for a rear-quarter engagement. They also could be used by or against aircraft maneuvering at up to 7g. The missiles were known officially as izdeliye (Product) 140 and 160 in the USSR, and AA-7C and AA-7D in the west. The R-23/24 was also produced under license in Romania as the A-911/A901.
+
+The R-24 remained in at least limited Russian service until the withdrawal of the last Russian MiG-23s in 1997.
+
+This equipment has proliferated into the following countries: Algeria, Cuba, India, North Korea (Democratic People's Republic of Korea), Romania, Russian Federation, Syria, Yemen.
+
+Here is R-23 Air-to-Air Missile information for the R-23 (AA-7 Apex) Russian Air-to-Air Missile of the System:
+The Name is R-23; NATO: AA-7 Apex.
+The Type is Air-to-Air Missile.
+The Manufacturer is Vympel NPO.
+The Length is 4.50 m.
+The Diameter is 223 mm.
+The Weight is 222 kg.
+The Warhead Type is expanding-rod high explosive.
+The Warhead Weight is 25 kg.
+The Engine is solid fuel rocket.
+The Propellant is 1.04 m.
+The Operational Range is 35 km.
+The Maximum Speed is Mach 3.
+The Guidance System is Semi-active radar homing.
+

@@ -1,0 +1,131 @@
+This document describes the JZ-8F (Finback-B) Chinese Reconnaissance Fighter Aircraft.
+
+JZ-8F
+A reconnaissance version of the J-8F with internal camera in the forward fuselage replacing the cannon.
+
+The Shenyang J-8 (Chinese: 歼-8; NATO reporting name: Finback) is a high-speed, high-altitude Chinese-built single-seat interceptor fighter aircraft. The effort to develop an all-weather interceptor began in full in 1964 and this produced the first Chinese-designed and built jet fighter to combat new, high altitude threats such as the B-58 Hustler bomber, F-105 Thunderchief fighter-bomber and Lockheed U-2 spy plane. In 1964 the People's Liberation Army Air Force requested an aircraft from Shenyang Aircraft Corporation and the 601 Institute to develop a fighter/interceptor to counter bombers and spy planes as the newly introduced Chengdu J-7 (a reverse-engineered MiG-21) was incapable of doing so.
+
+The prototype took its maiden flight in 1969. Despite the mid-1960s origins of the J-8, due to the political turmoil of the Great Proletarian Cultural Revolution, the J-8 was not produced until 1979 and entered service in 1980. Its basic configuration resembles an enlargement of the delta-winged J-7, utilizes two Liyang (LMC) Wopen-7A turbojet engines, and features a maximum speed of Mach 2.2. The twin-engined J-8 competed with rival Chengdu Aircraft Industry Group's single turbofan engine, canard-delta J-9 project and ultimately emerged as the victor largely due to the existing availability of the former's MiG-21 based powerplant and proven layout, while the J-9 project was cancelled in 1980 due to difficulty in creating a suitably powerful engine.
+
+In order to house a large radar set, the design called for a solid nose and variable geometry side air intakes. However, the lack of familiarity with this type of intake meant the J-8 had to settle for a MiG-21 style nose intake. The solid nose J-8 was finally realized in the J-8II (Finback-B), which was based on the layout of the J-8I (same improvement is like the J-6 to Q-5). The radar chosen for the J-8 was the Type 204 mono-pulse fire-control radar, a primitive ranging radar for daylight within-visual-range operations. The performance of the radar fell well short of the PLAAF's requirements as research into a more capable fire control radar and power source proved difficult and time-consuming. The aircraft was originally armed with cannons and seven hardpoints for missiles, bombs, rockets or fuel tanks. The original weapons layout of the J-8 was two 30 mm Type 30-1 cannons after initial problems with the 30 mm Type 30-II four-barrel Gatling gun. The J-8 was also planned to be armed with the experimental PL-4 medium ranged missile but technical issues and political upheavals prevented any in-depth development and the project was cancelled in 1985 citing unsatisfactory performance. Therefore, the PL-2 IR-homing short-range air-to-air missile (SRAAM) was used instead. Unguided bombs and rockets can also be carried on the J-8. And nowadays with the development of light-weight military nuclear weaponry, the J-8II will now be able to carry missiles with nuclear warheads.
+
+Despite entering service relatively recently, it was comparable to many older Soviet fighter designs, with limited maneuverability. The original combat avionics package was soon replaced with an all-weather capability in aircraft designated J-8I (Finback-A). The J-8I (later redesignated as the J-8A) received a new gun sight, onboard computer, new cockpit design and redesigned ejection escape system and oxygen supply system. The gun armament was also changed from two 30 mm cannons to a single 23 mm twin-barreled cannon and the PL-5 short ranged AAM was also equipped. The later J-8E featured improved electronic warfare systems. The unsatisfactory performance of the J-8I led to a very short production run of 20–50 aircraft and the J-8I has slowly began being phased out as early as the 1990s. A tactical reconnaissance variant of the J-8, known as the JZ-8 was developed in the mid 1980s to take advantage of the J-8s few favourable qualities, most notably its capability of reaching high speeds and altitudes to replace the Shenyang JZ-6 in the tactical reconnaissance role. Using an under-fuselage reconnaissance pod with a KA-112A long focal-length optical camera, the JZ-8 usually operates at heights ranging from ~9,500m-15,000m during reconnaissance missions. By 1982 work began to replace the unimpressive J-8I type with a new design known as the J-8II. The new 1982 requirements from the PLAAF demanded being capable of beyond visual range combat (BVR) with the use medium ranged missiles (MRAAM) and secondary ground attack capabilities. In terms of performance, the aircraft was expected to have better aerodynamic performance at medium to low altitudes and at transonic speeds.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the JZ-8F (Finback-B) Chinese Reconnaissance Fighter Aircraft:
+The J-8 (Finback-A) Series is J-8
+First flew on 5 July 1969. Initial day fighter variant, resembles an enlarged MiG-21. Equipped with 2 x WP-7A turbojet engines, SR-4 ranging radar 2 x Type 30-I 30mm cannon (200 rounds each), and 2 x PL-2 IR-guided AAMs. Limited production.
+
+J-8I
+First flew on 24 April 1981. Improved all-weather version with SL-7A fire-control radar (40 km range), twin-barrel Type 23-III 23 mm cannon, & up to 4 AAMs (or rockets/bombs). Limited production.
+
+J-8E
+Final version of the J-8I series. J-8E is equipped with a type 204 (JL-7) mono-pulse fire-control radar with look down shot down capability, SM-8A aeronautical optical gun-sight, onboard computer, new cockpit panel, and redesign ejection escape system and oxygen supply system. The original two Type 30-I 30mm cannons were replaced by two Type 23-III 23mm cannons. The four under-wing stores stations are capable of carrying the more advanced PL-5 series short-range AAM. These aircraft were also fitted with an improved electronic countermeasures (ECM) suite including KJ-8602B all-aspect radar warning receiver (RWR).
+
+JZ-8 (J-8R)
+Reconnaissance version of J-8 or J-8I.
+
+J-8ACT
+First flew on 24 June 1990, fly-by-wire testbed aircraft..
+The J-8II (Finback-B) Series is J-8II (Finback-B)
+First flown on 12 June 1984, the improved J-8I prototype with redesigned nose/front section and fuselage. replacing the nose air inlet with a solid nose and lateral air intakes, similar to those of the MiG-23. China received several MiG-23s in the late 1970s from Egypt and the hinged ventral fin and lateral intakes indicate probable reverse engineering from the MiG-23. Equipped with Type 208 (SL-4A) monopulse radar (40 km range).
+
+J-8II Batch 02 (J-8IIB)
+
+First flew in November 1989, improved J-8II with SL-8A (Type 208?) PD radar (70 km range). Powered by 2 x WP-13AII turbojet engines. Armed with twin-barrel 23mm Type 23-III cannon (copy of GSh-23L) and up to 4 PL-5 or PL-8 AAMs (or rockets/bombs). No BVR capability.
+
+Peace Pearl J-8 (J-8II)
+During the Sino-US cooperation era, up to 50 J-8IIs were to be delivered to the US for upgrades and installation of AN/APG-66(v) radar and fire control system for US$500 million, under the Peace Pearl programme. However, the project was cancelled and only about 24 J-8II were produced. USAF Air Force Flight Test Center (6510 Squadron) took the task of test flight of modified J-8II.
+
+-8IIACT (J-8II-BW2.
+First flew in 1988, fly-by-wire testbed and technology demonstrator.
+
+J-8IID (J-8D)
+First flew on 21 November 1990, modified J-8B with fixed refuelling probe and updated avionics such as TACAN navigation system.
+
+F-8IIM
+Unveiled in Zhuhai Air Show 1996, export version of J-8B with Russian Phazotron Zhuk-8II PD radar (75 km range, and able to track up to ten airborne targets and attack two of them simultaneously), R-27R1 (AA-10) AAM and Kh-31P anti-radiation missile. The F-8IIM was to be powered by two, more powerful WP-13B turbojet engines. This aircraft is often mistakenly referred to as the "J-8IIM" with Kh-31A anti-ship missile (ASM) capability, but its radar lacked sea search mode for anti-shipping role. The F-8IIM failed to attract any export customers and no domestic orders. Conversion from older airframe was reportedly much fewer than the 100 units of Zhuk-8II radar delivered, and the conversion might have only been an experimental programme with none entering service.
+The F-8IIM fighter will probably be equipped with Russia's or China's helmet sight and advanced PL-9 and P-73 missiles. Phazotron, a Russian firm, has signed contracts with China to provide 150–200 improved Zhuk radars mainly in support of China's new F-8II fighter.
+
+J-8III (J-8C)
+Upgraded J-8II with FBW system and 2 x WP-14 power plants. Compared to the J-8II, the J-8C had a number of improvements including a new multi-mode pulse Doppler radar which was reportedly based on the Israeli Elta EL/M 2035 radar technology. The aircraft was also equipped with a digital fire-control system and a new 'glass' cockpit with multifunctional displays (MFD). The J-8C programme entered full scale development around 1991 and the aircraft first flew successfully on 12 December 1993. Development halted in favour of other version described below, but was used to test new radars such as Type 1471 (KLJ-1) and other avionics associated with FBW system. From this version on, electronic warfare pods such as BM/KG300G and KZ900, as well as navigational / targeting pods including Blue Sky navigation pod and FILAT become operational on J-8II.
+Canceled after 2nd testbed had crashed.
+
+J-8IIF (J-8F)
+It is reported that during 2006–2008, J-8II production suffered major setback due to engine problem.
+
+J-8IIG
+Modified J-8II with tail hook and other improvements for developmental work on ship-borne aircraft for carrier operations, such as in April 1987, evaluating & testing the Chinese reverse-engineered steam catapult from that of HMAS Melbourne (R21), which was finally confirmed 27 years later in April 2014 by CCTV-13. Both the take-off and landing were conducted on land with the reverse engineered steam catapult installed on the beach, and the test pot was PLANAF pilot Li Guoqiang (李国强). Experience gained was applied to Shenyang J-15.
+
+J-8G
+An advanced modified variant of the J-8II tasked with the suppression of enemy air defence (SEAD) mission was said to have been developed by the SAC in the 2000s. The aircraft, reportedly designated J-8G, was said to be capable of carrying two indigenous YJ-91 anti-radiation missile and electronic warfare suite to attack enemy radar stations.
+
+J-8IIM (2006)
+At Zhuhai Air Show 2006, a new variant "J-8IIM" was put on display with upgraded systems similar to the J-8H. The most significant improvement is the radar upgrade with a new Type 1471 domestic radar used by the J-8H. In comparison to F-8IIM's Russian Zhuk-8II radar, the Type 1471 radar has a number of performance enhancements:
+Type 1471 radar has 75 km maximum range for targets with 3 square meters RCS, in comparison to Zhuk-8II's 70 km maximum range against target of 5 square meters RCS.
+Additional ability to handle sea-borne targets that Zhuk-8II does not have. For sea targets with 50 square metres RCS, the max range is greater than 100/80 km for sea state 1/2.
+Simultaneously tracking 10 targets and display 8 most threatening ones out of the 10 on displays, engaging 2 out the 8.
+Air-to-Air modes: VS (Velocity Search), RWS (Recon./Search while Scan), TWS (Track While Scan), STT (Single Target Tracking), Air Combat Mode (ACM). AMTI, (aerial moving target indication) mode which is used to discover hovering helicopters can be added upon customer request, though this does not come as standard feature.
+Air-to-Ground modes: Mapping (Real Beam Mapping RBM), Mapping Expansion/Freezing (EXP/FRZ), Doppler Beam Sharpening (DBS), Ground Moving Target Indication (GMTI), Sea Single Target Tracking (SSTT), Air-to-Ground Ranging (AGR).
+An improved beacon navigation (BCN) and weather (WX) capability.
+
+JZ-8F
+A reconnaissance version of the J-8F with internal camera in the forward fuselage replacing the cannon.
+
+J-8T
+Upgraded J-8 with JL-10A X-band radar. Export variant, F-8T, has WP-13B-II engines. China National Aero-Technology Import & Export Corporation claims J-8T is equipped with improved integrate avionic and various guided weapons. J-8T can carry out air-to-air BVR intercepting mission, air-to-ground precise attacking mission and stand-off attacking mission.
+
+J-8DF
+
+J-8D upgraded to J-8F standard. Lack of cooling duct below intake. Can fire PL-12 and PL-8 missiles..
+
+Here is System information for the JZ-8F (Finback-B) Chinese Reconnaissance Fighter Aircraft:
+The Alternate Designation(s) is JZ-8F; NATO: Finback-B.
+The Primary Function / Type is Reconnaissance Fighter Aircraft.
+The Manufacturer is Shenyang Aircraft Corporation.
+The Crew is 1.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the JZ-8F (Finback-B) Chinese Reconnaissance Fighter Aircraft:
+The Length is 21.39 m.
+The Width (Wing Span) is 9.344 m.
+The Height is 5.41 m.
+The Wing Area is 42.2 m2.
+The Airfoil is TsAGI S-12 (4.2%) ; tip: TsAGI S-12 (5%).
+The Empty Weight is 10,371 kg.
+The Gross Weight is 15,288 kg.
+The Maximum Takeoff Weight is 18,879 kg.
+
+Here is Automotive information for the JZ-8F (Finback-B) Chinese Reconnaissance Fighter Aircraft:
+The Engine Name is 2 × Guizhou WP-13B afterburning turbojet engines.
+The Number of Engines is 2.
+The Engine Type is Afterburning Turbojet Engine.
+The Engine Power is 47.1 kN (10,580 lbf) thrust each dry, 68.6 kN (15,430 lbf) with afterburner.
+The Maximum Speed is 2,300 km/h.
+The Combat Range is 1,000 km (620 mi, 540 nmi) radius with 3x drop tanks.
+The Combat Radius is 900 km.
+The Service Ceiling is 18,000 m.
+The G LImits is +4.7 sustained at 5,000 m.
+The Unstick Speed is 330 km/h.
+The Take-Off Run is 630 m.
+The Touchdown Speed is 224 km/h.
+The Landing Speed is 900 m.
+
+Here is Main Gun System information for the JZ-8F (Finback-B) Chinese Reconnaissance Fighter Aircraft:
+The Note is A reconnaissance version of the J-8F with internal camera in the forward fuselage replacing the cannon..
+
+Here is Fire Control / Avionics information for the JZ-8F (Finback-B) Chinese Reconnaissance Fighter Aircraft:
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Navigation Radar is INA.
+
+Here is Protection information for the JZ-8F (Finback-B) Chinese Reconnaissance Fighter Aircraft:
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

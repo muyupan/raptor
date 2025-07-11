@@ -1,0 +1,53 @@
+This document describes the Haiyan (Petrel II HUG) Chinese Autonomous Underwater Glider (AUG).
+
+This underwater glider of Tianjin University is called Haiyan (Petrel II HUG) Chinese Autonomous Underwater Glider (AUG), which uses the latest hybrid propulsion technology and can work continuously for about 30 days. Compared with the traditional unmanned cableless submersible (AUV), the "Haiyan" is light and thin. It is shaped like a torpedo, 1.8 meters in length, 0.3 meters in diameter, and weighs about 70 kilograms. It combines buoyancy drive and propeller propulsion technology, not only can achieve the same turning and horizontal movement as AUV, but also has the ability of traditional glider profile gliding (that is, performing zigzag movement).
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Haiyan (Petrel II HUG) Chinese Autonomous Underwater Glider (AUG):
+The Petrel I is INA.
+
+Here is System information for the Haiyan (Petrel II HUG) Chinese Autonomous Underwater Glider (AUG):
+The Alternative Designation is Haiyan; Petrel II HUG.
+The Type is Autonomous Underwater Glider (AUG).
+The Builder is Scientific Research Team of Tianjin University, China..
+The Crew is Autonomous.
+The Components is The Haiyan (Petrel II HUG) Chinese Autonomous Underwater Glider (AUG) consists of two parts: the mechanical part and the electrical control part..
+The Mechanical Parts is The mechanical part can be functionally divided into five subsystems: the pressure hull, the buoyancy regulating unit, the attitude regulating unit, the propeller unit, wings, tail antenna, and the emergency unit..
+The Electrical Control Parts is The electrical control part of Petrel-II has the following subsystems: the processing unit, the navigation unit, the energy unit, the communication and position unit, and the scientific sensor suites..
+The Modes of Operation is The Haiyan (Petrel II HUG) Chinese Autonomous Underwater Glider (AUG) has two working modes, buoyancy-driven gliding, and propeller-driven level flight. Petrel-II can automatically switch between the two modes according to commands or environmental circumstances..
+The Maximum Depth is 1,500 m.
+
+Here is Dimensions information for the Haiyan (Petrel II HUG) Chinese Autonomous Underwater Glider (AUG):
+The Length is 2.2 m.
+The Diameter is 0.22 m.
+The Wingspan is 1.2 m.
+The Draft is Submersible.
+The Antenna Mast is 1 meter long.
+The Weight is 70 kilograms.
+The Note is The wings and the antenna mast can be easily removed, and the entire vehicle can be loaded into a small box for transportation..
+
+Here is Propulsion System information for the Haiyan (Petrel II HUG) Chinese Autonomous Underwater Glider (AUG):
+The Engine Name is INA.
+The Engine Type is A compact Propeller Unit.
+The Engine Power is INA.
+The Maximum Range is 1,200 - 1,500 km.
+The Maximum Propeller Speed is 3 knots.
+The Maximum Gliding Speed is 0.8 knots.
+The Active Buoyancy Unit is Yes.
+The Maximum Depth is 1,500 m.
+The Pitch and Roll Regulating Unit is Yes.
+The Endurance is 30 days.
+
+Here is Communications information for the Haiyan (Petrel II HUG) Chinese Autonomous Underwater Glider (AUG):
+The Note is The communication and position unit consists of wireless, Iridium and GPS modules..
+
+Here is Sonar Systems information for the Haiyan (Petrel II HUG) Chinese Autonomous Underwater Glider (AUG):
+The Name is INA.
+The Type is INA.
+
+Here is Protection information for the Haiyan (Petrel II HUG) Chinese Autonomous Underwater Glider (AUG):
+The Hull Armor is The Haiyan (Petrel II HUG) Chinese Autonomous Underwater Glider (AUG) appears to look like a miniaturized torpedo, with a pair of the swept wings at 45 degrees attached to a cylindrical body..
+The Countermeasures is No.
+The NBC Water Washdown System is No.
+

@@ -1,0 +1,41 @@
+This document describes the Switchblade 300 American Loitering Munition Unmanned Aerial Vehicle (UAV).
+
+The Switchblade 300 American Loitering Munition Unmanned Aerial Vehicle (UAV) is the ideal loitering missile for use against beyond-line-of-sight targets. Backpackable and rapidly deployable from air, sea or ground platforms, Switchblade 300 delivers increased warfighter lethality with real-time GPS coordinates and video for precise targeting with low collateral effects.
+
+Switchblade Sensor to Shooter (S2S) combines the superior ISR capabilities of AeroVironment’s small unmanned aircraft systems (SUAS) with the precision strike capabilities of the Switchblade loitering missile system. Through S2S software, target coordinates are instantly transferred from the SUAS to Switchblade via machine-to-machine communication, reducing engagement timelines and operator cognitive load. S2S provides Switchblade operators with real-time video downlinks for a centralized view of the area of operation and the ability to scene-match SUAS ISR and Switchblade 300 camera feeds on one screen.
+
+This equipment has proliferated into the following countries: Ukraine, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the Switchblade 300 American Loitering Munition Unmanned Aerial Vehicle (UAV):
+The Switchblade 600 is The larger Switchblade 600 loitering munition weighs 23 kg, is man-portable and can be set up in 10 minutes..
+The Blackwing is The Blackwing is an unarmed variant of the Switchblade 300 with similar weight and dimensions. It was developed for the United States Navy to provide rapid ISR (Intelligence, surveillance and reconnaissance) as well as command and control relay operations among surface and undersea manned and unmanned vessels..
+
+Here is System information for the Switchblade 300 American Loitering Munition Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Switchblade 300.
+The Type is Loitering Munition Unmanned Aerial Vehicle (UAV).
+The Manufacturer is AeroVironment.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Payload Capacity is The Switchblade 300 is fitted with a warhead developed by the American company Northrop Grumman which has the size of a 40mm grenade. The warhead is specifically designed for controlled firepower to reduce collateral damage through a focused blast. It has a forward-firing shotgun-blast effect rather than a 360-degree blast, throwing pellets on the same vector that the missile itself is traveling. It can be fused to detonate at a predetermined height, which can be adjusted in-flight. When diving, the air vehicle gives the operator the opportunity to wave off until four seconds from impact. The warhead can be detonated in flight to destroy it..
+The Ground Control Station is The Switchblade uses the same Ground Control Station (GCS) as other AeroVironment UAVs including the Wasp, RQ-11 Raven, and RQ-20 Puma..
+The Launching System is Portable tube; multipack; assorted vehicles.
+The Recovery System is INA.
+The Accessories is The Switchblade 300 loitering munition is designed to attack military personnel or light combat vehicles. It is a single-use drone and carries cameras, guidance systems, and explosives to dive-bomb into its target. The drone uses a tablet-based touch screen fire-control system with the option to pilot the loitering missile manually. The operator can also disengage or abort a mission at any time, and then recommit to another target depending on what the operator commands. This aims to ensure that strikes are precise and can be called off at the very last minute if they endanger civilians or properties nearby. Aside from use against ground targets, AeroVironment has written software to combine the Switchblade with sensors to be able to intercept hostile UAVs. The Switchblade is used alongside an existing counter-artillery radar and IED jamming system, all of which can be towed by Humvees. Interception of an enemy drone occurs in layers of defenses: if a drone gets through covering jet fighters or is too small to be targeted by them, it is picked up by the fire-finding radar. Once detected, the jammer performs electronic warfare to break its data link. If the drone resists EW, the Switchblade is launched to physically impact and destroy it. A Multi-Pack Launcher (MPL) was also developed carrying six Switchblade 300 munitions and having a fully-loaded weight of 73 kg. The design is scalable from 2 to 20 rounds and enables rapid reloading of fewer than 30 seconds per round. The MPL can be deployed on the ground or can be operated from a combat vehicle..
+
+Here is Dimensions information for the Switchblade 300 American Loitering Munition Unmanned Aerial Vehicle (UAV):
+The Length is 49.5 cm.
+The Diameter is 76 mm.
+The Height is INA.
+The Wingspan is INA.
+The Maximum Takeoff Weight is 2.5 kg.
+
+Here is Automotive information for the Switchblade 300 American Loitering Munition Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Maximum Speed is 161 km/h.
+The Cruising Speed is 101 km/h.
+The Service Ceiling is 150 m.
+The Maximum Range is 10 km.
+The Endurance is 15 min.
+

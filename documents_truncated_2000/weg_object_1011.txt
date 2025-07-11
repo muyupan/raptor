@@ -1,0 +1,100 @@
+This document describes the MiG-23UM (Flogger-C) Russian Fighter Aircraft.
+
+MiG-23UM Flogger-C (trainer)
+This tandem two-seat trainer with a Tumansky engine has an enlarged dorsal fairing aft of the rear cockpit.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is System information for the MiG-23UM (Flogger-C) Russian Fighter Aircraft:
+The Alternate Designation(s) is MiG-23UM; Flogger-C.
+The Primary Function / Type is Fighter Aircraft (Trainer).
+The Manufacturer is Mikoyan-Gurevich / Mikoyan.
+The Crew is 2.
+The Number of Engines is 1.
+The Number of Hard Points is 2 × fuselage, 2 × wing glove and 2 × wing pylons with a capacity of up to 3,000 kg (6,600 lb) of stores.
+The Note is It was based on the MiG-23S, but featured a lengthened cockpit with a second crew station behind the first..
+
+Here is Dimensions information for the MiG-23UM (Flogger-C) Russian Fighter Aircraft:
+The Length is 15.88 m.
+The Wingspan, Extended is 13.95 m.
+The Wingspan, Swept is 7.77 m.
+The Wing Area is 27.3 m sq.
+The Height is 4.80 m.
+The Weight, Empty is 10,000 kg.
+The Weight, Weapons Loaded is 3,000 kg.
+The Weight, Normal Takeoff is 16,100 kg.
+The Weight, Maximum Takeoff is 18,900 kg.
+
+Here is Automotive information for the MiG-23UM (Flogger-C) Russian Fighter Aircraft:
+The Engine Name is 1 x upgraded Tumansky engine.
+The Number of Engines is 1.
+The Engine Type is Turbojet.
+The Engine Power, Dry is 8,006 kg.
+The Engine Power, Afterburner is 12,474 kg.
+The Fuel Capacity is INA, One forward fuel tank was removed to accommodate an extra seat; this was compensated for by adding a new fuel tank in the rear fuselage..
+The Speed at Altitude is 2,443 km/h, Mach 2.3.
+The Speed at Sea Level is 1,468 km/h, Mach 1.2.
+The Service Ceiling is 18,300 m.
+The G Limits is +8.5.
+The Rate of Climb is 230 m/s.
+The Take-Off Distance is 500 m.
+The Landing Distance is 750 m.
+
+Here is System information for the MiG-23UM (Flogger-C) Russian Fighter Aircraft of the Main Gun System:
+The Name is Gryazev-Shipunov GSh-23.
+The Type is Autocannon.
+The Caliber is 23mm.
+The Quantity is 1 × 23 mm Gryazev-Shipunov GSh-23L autocannon.
+The Length is 1,387 mm.
+The Barrel Length is 1,000 mm.
+The Weight is 49.2 kg.
+The Barrels is 2.
+The Action is Gast principle.
+The Rate of Fire is 3,400–3,600 rounds/min.
+The Muzzle Velocity is 715 m/s.
+
+Here is Ammunition information for the MiG-23UM (Flogger-C) Russian Fighter Aircraft of the Main Gun System:
+The Type is Rifle.
+The Caliber is 23mm.
+The Cartridge is 23x115 mm.
+The Basic Load is 260 rounds.
+
+Here is Missile System #1 information for the MiG-23UM (Flogger-C) Russian Fighter Aircraft of the Missile Systems:
+The Name is R-23; NATO: AA-7 Apex.
+The Type is Air-to-Air Missile.
+The Manufacturer is Vympel NPO.
+The Length is 4.50 m.
+The Diameter is 223 mm.
+The Weight is 222 kg.
+The Warhead Type is expanding-rod high explosive.
+The Warhead Weight is 25 kg.
+The Engine is solid fuel rocket.
+The Propellant is 1.04 m.
+The Operational Range is 35 km.
+The Maximum Speed is Mach 3.
+The Guidance System is semi-active radar homing.
+
+Here is Rocket System #1 information for the MiG-23UM (Flogger-C) Russian Fighter Aircraft of the Rocket Systems:
+The Name is S-5.
+The Type is Rocket.
+The Note is The S-5 is a 55 mm (2.2 in) calibre unguided rocket fired from a 57 mm calibre tube. It is used by fighter bombers and helicopters. It consists of a steel body containing a solid fuel rocket, and a high-explosive warhead with a mechanical impact fuse. At the rear of the rocket is an elongated exhaust nozzle, with eight attached forward folding wings. The fins fold around the rocket when it is stowed in its launch tube, springing back as soon as it leaves the launch tube. In flight, the fins provide a stabilizing spin to the rocket, turning at approximately 750 rpm. The solid rocket motor burns for just 1.1 seconds, during which time it covers about 300 meters (985 ft).
+
+The S-5 is carried in rocket pods, with 4–32 rockets. The first were ORO-57 launchers, made in variants with capacity of 4, 8 and 16 rockets. Most typical became ORO-57K for 8 rockets, used especially with MiG-19. Then, beginning in the early 1960s, the typical launcher became UB-16-57, with 16 rockets, developed in several variants, for helicopters and planes. UB stands for "universal block", as it could be carried on conventional bomb hardpoints, "57" refers to the actual diameter of the launch tube (the diameter of the rocket plus 2 mm). The first variant and UB-16-57U had a conical forward part while the next variant UB-16-57D had a blunt forward part. Starting in 1968, a variant UB-16-57UMP was produced, with a conical forward part and five protruding inner tubes.[1] In the 1970s, UB-32 was developed with 32 rockets, carried by heavier aircraft. In Poland, Mars-2 launcher was developed for 16 rockets, and in Romania, LPR 57 launchers for 16 rockets..
+
+Here is Bomb Weapon Systems information for the MiG-23UM (Flogger-C) Russian Fighter Aircraft:
+The Note is Bombs: Up to 500 kg (1,100 lb) bombs per hardpoint.
+
+Here is Fire Control / Avionics information for the MiG-23UM (Flogger-C) Russian Fighter Aircraft:
+The Search/Track Radar is High Lark J-band.
+The Infrared is IRST with IR sensor.
+The Laser Desingator is INA.
+The Radar Warning is Sirena 3.
+
+Here is Protection information for the MiG-23UM (Flogger-C) Russian Fighter Aircraft:
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

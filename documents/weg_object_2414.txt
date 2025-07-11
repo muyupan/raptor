@@ -1,0 +1,63 @@
+This document describes the HOT French Anti-Tank Guided Missile (ATGM).
+
+The HOT (French: Haut subsonique Optiquement Téléguidé Tiré d'un Tube, or High Subsonic, Optical, Remote-Guided, Tube-Launched) is a second-generation long-range anti-tank missile system developed originally as an effort to meet a joint German-French Army requirement, by the then German firm Bölkow and the French firm Nord, to replace the older SS.11 wire guided missile which was in service with both nations. A few years later, Bölkow and Nord merged into MBB and Aérospatiale respectively, both of which firms later formed Euromissile to design and produce the MILAN, Roland and HOT.
+
+This firm (now MBDA), is a joint corporation of French and German defense firms. The HOT has become one of the most successful missiles of its class, with tens of thousands of missiles produced, used by no fewer than a dozen countries worldwide, and validated in combat in several wars. The missile system is also commonly mounted on light and medium armored vehicles, and attack helicopters.
+
+HOT entered limited production in 1976, with mass production of 800 missiles a month reached in 1978. HOT initially became operational with the German and French armies fitted to specialized armored antitank vehicles. In addition, Euromissile was in the enviable position of having large export orders from Middle East nations at the start of mass production. This was likely due to the situation in the late 1970s where many nations did not want to rely solely on arms purchases from the Soviets combined with the U.S. Congress restrictions on the export sales of the TOW antitank missile.
+
+In Europe, the end of the service life of the HOT missile system is in sight with the French opting to purchase Hellfire II missiles for their Tiger-HAD attack helicopters and the Germans planning to transition to the PARS 3 LR. Austria has decommissioned its HOT-carrying tank destroyers, while Spain is transitioning to Spike missiles to replace their HOT missile inventory. The HOT missile continues to be in widespread use in other areas of the world.
+
+Project studies by both firms started in 1964, at about the same time the US Army started a project that resulted in the TOW missile. Unlike TOW, which entered service in 1973, the development and testing phase for HOT took considerably longer. The design goal was to produce an antitank missile that could be fired from both vehicles and helicopters; that employed the SACLOS guidance system instead of the less reliable MCLOS system used by the SS.11; had a longer range combined with a better minimum engagement range; had a higher missile speed than the SS.11 resulting in a shorter flight time; and packed in a sealed container that also served as the launcher.
+
+The HOT missile is tube-launched and optically tracked using the SACLOS guidance system with command link through trailing wires which steers the missile using thrust vector controls on the sustainer motor during the missile's flight. When the gunner fires the HOT missile, the missile activates a thermal battery, flares and a small gas generator spins up the gyro. The same gases for the gyro pop the covers off both ends of the cylindrical container the HOT missile comes packed in. Moments later, both the sustainer motor and the booster are fired, ejecting the missile from the container.
+
+Unlike most antitank missiles, in which the booster burns completely before leaving the container and then the missile coasts a safe distance before the sustainer motor ignites, HOT's booster burns both inside the container and outside the container for approximately one second giving the missile a high speed. The sustainer motor burns for 17 seconds, a flight time whose path exceeds the length of the trailing wires which dictate the maximum range of the missile. Because of the more powerful booster and sustainer motor that burns during its complete flight, the HOT missile had a much shorter flight time than any other wire guided antitank missiles when it was introduced. The booster's four nozzles are located at the roots of the four spring out fins. The sustainer motor's single exhaust is located in the rear of the missile body, where a vane controls the missile through thrust vector control as it rotates in flight.
+
+After the missile is fired, all the gunner has to do is keep the target in the sight's cross hairs, and the system will automatically track the missile's rear-facing flares, gather the missile into the gunner's sight, and send commands to steer the missile into the gunner's line of sight. Approximately 50 meters after ejecting from the container, the safety system arms the HEAT warhead's fuze and will detonate when the outer skin of the two-layer nose cone is crushed to contact with the inside skin, completing an electrical circuit. With this type of fuzing system, the missile does not have to hit the tip of the missile's nose to detonate the HEAT warhead. The HOT 1 and HOT 2 use the warhead fuzing system previously described.
+
+The latest version of the HOT family, the HOT 3, uses tandem charge feature to defeat tanks fitted with explosive reactive armor. A laser-proximity fuze located in the front half of the nose measures the distance between the target and the missile. At the correct range, the small nipple on the front nose containing a small HEAT warhead is ejected forward from the missile body to pre-detonate the reactive armor followed by the detonation of main HEAT warhead.
+
+This equipment has proliferated into the following countries: Angola, Austria, Cameroon, China, Ecuador, Egypt, France, Germany, Iraq, Kuwait, Lebanon, Morocco, Qatar, Saudi Arabia, Spain, Syria, Tunisia, United Arab Emirates.
+
+Here is Variants information for the HOT French Anti-Tank Guided Missile (ATGM):
+The HOT or HOT-1 is the original model. Introduced in 1978, it can penetrate a maximum of 850 millimeters of armor..
+The HOT-2 is introduced in 1985. The HOT-2 is an improved version of the original HOT, with a larger warhead and lighter body. The HOT-2 has the same range of 4 kilometers, but can penetrate up to 1 250 millimeters of Rolled Homogeneous Armor (RHA)..
+The HOT-2MP is introduced in 1986. This variant features a fragmentation warhead with 1 000 steel balls in it. This weapon is highly useful against reinforced structures, infantry, and light vehicles. Penetration is about 350 mm of RHA. The HOT-2MP is not useful against tanks due to its low penetration..
+The HOT-3 is sometimes know as the HOT-2T, the HOT-3 was introduced in 1993. It features a 6.48-kilogram tandem HEAT warhead. The HOT-3 can penetrate 1 250 mm of RHA behind Explosive Reactive Armor (ERA). The range is also increased to 300 meters. The HOT-3 is nearly invulnerable to infrared jamming..
+
+Here is System information for the HOT French Anti-Tank Guided Missile (ATGM):
+The Alternative Designation is HOT.
+The Type is Anti-Tank Guided Missile.
+The Crew is 1.
+The Displacement Time is Under 2 min.
+The Emplacement Time is Under 2 min.
+The Prime Mover Required is No.
+The Man Portable is Yes.
+The Note is Despite its numerous advantages, the HOT can only be used on vehicles and helicopters, and it has a sluggishly slow speed compared to weapons like the TOW..
+
+Here is Dimensions information for the HOT French Anti-Tank Guided Missile (ATGM):
+The Launcher Length is INA.
+The Launcher Weight is INA.
+
+Here is Missile information for the HOT French Anti-Tank Guided Missile (ATGM):
+The Name is HOT.
+The Type is Anti-Tank Guided Missile.
+The Missile Length is 1.27 m.
+The Missile Diameter is 0.14 m.
+The Wingspan is 0.31 m.
+The Missile Weight is 23.5 kg.
+The Warhead Type is HEAT.
+The Warhead Weight is 5 kg.
+The Maximum Range of Fire is 4,000 m.
+The Minimum Range of Fire is 75 m.
+The Speed is 240 m/s.
+The Guidance System is Wire-guided.
+The Penetration is 850 millimeters of armor..
+
+Here is Fire Control information for the HOT French Anti-Tank Guided Missile (ATGM):
+The Name is INA.
+The Computerized FCS is Yes.
+The Guidance System is Wire-guided.
+The Direct Fire is Yes.
+

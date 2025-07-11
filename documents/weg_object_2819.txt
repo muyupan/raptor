@@ -1,0 +1,26 @@
+This document describes the BT-1 (ZT-1) Chinese VHF Radio.
+
+The BT-1 (ZT-1) Chinese VHF Radio manpack FH radio is designed for combat operations. The contractor says the radio provides reliable voice and data communication in various operational modes in demanding environments. Matched with a 50 W power amplifier, the radio can also be used for vehicular or fixed communication.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the BT-1 (ZT-1) Chinese VHF Radio:
+The Alternate Designation is BT-1 (ZT-1).
+The Type is VHF Radio.
+The Manufacturer is China Xinshidai Co , Beijing..
+The Frequency Range is 30-88 MHz.
+The Channel Spacing is 50 kHz/25 kHz.
+The Number of Channels is 1,160/2,320.
+The Preset Channels is 11.
+The Power Output is 4 W/0.2 W; vehicular with PA, 50 W/4 W.
+The Modulation Mode is FM.
+The Frequency Stability is 2 × 10-6.
+The Sensitivity is <= -115 dBm.
+The Environment is -40 to +60°C operating; -50 to +70°C storage; RH +40°C, 95%; 1 m immersion for 2 h.
+
+Here is Dimensions information for the BT-1 (ZT-1) Chinese VHF Radio:
+The Length is 240 mm.
+The Width is 86 mm.
+The Height is 325mm.
+The Weight is 5.8 kg.
+

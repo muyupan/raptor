@@ -1,0 +1,37 @@
+This document describes the ZALA 421-21 Russian Micro Unmanned Aerial Vehicle (UAV).
+
+On Tuesday 8st June 2010 ZALA AERO officially launched its new ZALA 421-21 with its unique six-rotor design. The unmanned complex based on the helicopter UAV ZALA 421-21 is designed for remote landing and monitoring at altitude 10-1000m at a distance of 5km from the ground control station with a maximum endurance of 25 minutes. The unique design permits the UAV to be extremely quiet in any environment. UAV transmits real-time video and photographs. The UAV is fully autonomous which requires minimal operator input for any mission and semi-autonomous without GPS mode is available for use inside buildings. The UAV can land on structures to preserve power while still monitoring and listening in on the target. Easy application and transportations are key elements that this platform offers.
+
+The payload capacity of 0.5 kilograms offers the VTOL ability to integrate payloads of small UAVs but at a much closer range and zero movements. Infrared payloads are currently being implemented for nighttime reconnaissance.
+
+Future developments are being focused on increasing endurance to around 40 minutes and increasing the range to around 15km. Payload modifications include combining day video cameras and infrared cameras for multi-purpose missions. The new model is due to be released before the end of the year.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Speed information for the ZALA 421-21 Russian Micro Unmanned Aerial Vehicle (UAV) of the System:
+The Maximum (level) is 40.
+
+Here is Dimensions (cm) information for the ZALA 421-21 Russian Micro Unmanned Aerial Vehicle (UAV) of the System:
+The Wing Span is INA, See picture for est. scale.
+The Length (fuselage) is INA.
+The Height is INA.
+
+Here is Payload Types information for the ZALA 421-21 Russian Micro Unmanned Aerial Vehicle (UAV):
+The Description is All imagery is real-time transfer to ground control.
+The Photo camera is Single frame photo (color).
+The Color Video Camera is INA.
+The Infrared Camera (Optional) is INA.
+
+Here is System Components information for the ZALA 421-21 Russian Micro Unmanned Aerial Vehicle (UAV):
+The Number of UAVs is (2 X) UAVs.
+The Number of transport cases is (2x) transport cases.
+The Ground Control Station (GCS) is (1x) hand-held, ruggedized.
+The GCS Power Supply is Independent 6 hour battery.
+The Setup Time is 5-10 min..
+The Control Capability is UAV and payload controlled independently by GCS.
+The Roll-stabilized cameras is (2x) Video and photo camera.
+The Infrared Camera (optional) is (1X) IR Camera.
+
+Here is Notes information for the ZALA 421-21 Russian Micro Unmanned Aerial Vehicle (UAV):
+The Description is PAYLOADS FIT IN THE STANDARD MOUNTING BLOCK THAT IS INTERCHANGEABLE WITH OTHER PAYLOADS. MULTI-SINGLE PHOTO/VIDEO/IR CAMERA SENSOR PAYLOAD IN DEVELOPMENT. 12/220 VOLT EXTERNAL CONNECTION FOR OPTIONAL POWER SOURCE FOR THE GCS..
+

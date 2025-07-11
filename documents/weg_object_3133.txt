@@ -1,0 +1,155 @@
+This document describes the K1 South Korean Main Battle Tank (MBT).
+
+The K1 is a South Korean main battle tank in use with the Republic of Korea Armed Forces, developed by Hyundai Precision (later Hyundai Rotem). The vehicle's early design work was based on General Dynamics' M1 Abrams, with some noticeable differences including a combined system of hydropneumatics suspension and torsion bars, and a river-crossing fording kit, to meet the required operational capability that was specific to combat operations in the mountainous and swampy terrain of the Korean Peninsula. The K1A1 entered service in 1999, upgraded with a 120 mm smoothbore gun, and outfitted with more modern electronics, ballistic computers, and fire control systems developed by Samsung Electronics. Hyundai Rotem produced 1,511 K1 and K1A1 tanks between 1985 and 2010.
+
+In the 1970s, South Korea was desperately in need of additional main battle tanks. The M4A3E8 "Easy Eight" variant of Sherman tanks, dating back to World War II, had been retired from service by the South Korean army, and the backbone of the South Korean armored forces were M47 and M48 Patton tanks. Meanwhile, North Korea had both numerical and technological advantages over the South Korean armor with their T-62 main battle tanks.
+
+At first, attempts were made to obtain the United States' M60A1 Pattons, but they ended in failure. It was deemed that, even if the M60A1s were obtainable, there would not be enough of them to give the South Korean forces a significant advantage over existing North Korean tanks. A number of other plans were also devised, such as upgrading the existing M48 Pattons to the M48A3 and A5 standard, as well as obtaining the license to domestically produce Germany's Leopard 1 main battle tank. Only the upgrades to the Pattons were carried out, with the results being the M48A3K and M48A5K, while producing Leopard 1s was deemed counterproductive, as a newer generation of main battle tanks were already being developed and tested in both the U.S. and Germany, namely the M1 Abrams and Leopard 2.
+
+In light of this, the Park Chung-hee administration announced plans to domestically produce main battle tanks that were comparable to the newer generation of main battle tanks. However, having no experience in the design, development and manufacture of main battle tanks, the task assigned to South Korean industry was impossible without foreign assistance. Upon realization of this, foreign designs were considered and evaluated, on condition that the winning design be licensed and produced domestically. The winning design was based on the XM1, the prototype of M1 Abrams, by Chrysler Defense, the company which was later sold to General Dynamics and renamed General Dynamics Land Systems. Soon afterwards, South Korean officials were dispatched to General Dynamics Land Systems for supervision of the design, which would spawn the XK1.
+
+With its design being based on XM1, the XK1 shared various similarities with it. However, upon closer inspection, numerous differences can be found. The differences included the weight (55-ton XM1 versus 51-ton XK1), height (2.37 m versus 2.25 m), engine (1,500 hp Honeywell AGT1500C for XM1 versus 1,200 hp Teledyne Continental AVCR-1790, also used on Merkava 3, for XK1, although the XK1's engine will later be replaced with MTU MB Ka-501, a compact version of the 1,500 hp MB-873 Ka-503 used on Leopard 2), transmission (Allison DDA X-1100-3B for XM1 versus ZF LSG 3000 for XK1), and several other components used in the vehicles.
+
+The XK1 retained the XM1's M68E1 105 mm rifled main gun, which would also be domestically produced under license with the designation KM68, as well as a fire control system by Hughes Aircraft Company and the Nd:YAG laser rangefinder. One of the major differences was the addition of tank commander's independent panoramic sights on the XK1, which was missing on XM1, giving the XK1 the capability to utilize the FCS more effectively, notably by engaging in hunter-killer tactics, which the M1 series could not do until the introduction of the M1A2. The tank commander's panoramic sights were not, however, equipped with light amplification or thermal optics, which led to the tank commander having to rely on personal night vision goggles to operate his sights, while the gunner's sights were equipped with a thermal observation device, which meant that the XK1 had superior sensors until the introduction of the M1A2.
+
+XK1 tanks are also equipped with a hybrid suspension system consisting of hydropneumatics system on road wheels 1, 2 and 6, while 3, 4 and 5 are equipped with torsion bars, a feature not present on the XM1, granting the XK1 greater stability and ability to elevate and depress the main gun nearly twice as much as tanks equipped with torsion bars alone (+20 to -9.7 degrees for the XK1 versus +10 to -5 for the XM1).
+
+The development of the vehicle was completed in 1983, with a prototype being delivered to the South Korean government in the same year. As mentioned above, however, the AVCR-1790 used for the design was replaced by MTU MB Ka-501 just prior to mass production, which resulted in the K1's engine deck and exhaust grilles becoming cosmetically similar to the Leopard 2's. And officially, in 1984, the development of Korean K1 tanks was completed. For reference, K1 tanks and K1A1 tanks developed in 1997 were mentioned in the history of Hyundai Rotem.
+
+Hyundai Precision, now known as Hyundai Rotem, took responsibility for manufacturing the tanks, and the mass production began in 1985, with deployment lasting until 1987. The vehicle was not, however, unveiled until 1987 for security purposes. Foreign journalists were invited to the unveiling ceremony, and a massive training exercise using the new tanks took place during the event for publicity.
+
+After the production of approximately 450 K1s, the Gunner's Primary Sights (GPS) designed by Hughes was replaced by the Gunner's Primary Tank Thermal Sights (GPTTS) by Texas Instruments. The new system also replaced the Nd:YAG laser rangefinder used in the Hughes unit with a CO2-based one, which has proven to be safer to the users' eyes, although having less effective range than the former in foul weather.
+
+This equipment has proliferated into the following countries: Malaysia, South Korea (Republic of Korea).
+
+Here is Variants information for the K1 South Korean Main Battle Tank (MBT):
+The XK1 is Experimental model under the ROKIT (Republic of Korea Indigenous Tank) project..
+The K1 is First production variant. 1,027 units built between 1985 and 1998. To be upgraded to K1E1 by 2026..
+The K1M is Proposed export variant for Malaysia. In 1997, Malaysia expressed great interest in obtaining the K1, and the ROK responded by showing them the concept for K1M, which had several features not present in the baseline K1, including a laser warning system and an air conditioning unit. It was to weigh 49.7 tons, while the total ammunition capacity would have been reduced to 41 rounds. The ROK offered a contract for 210 K1M's, but Malaysia responded that it was too many, and chose to go with Polish PT-91M in 2003..
+The K1 PIP is Upgraded K1. PIP includes changes in SAP to KSAP, GPS to GPTTS, and Nd-Yag to CO2 rangefinder..
+The K1E1 is Further upgraded K1. Production began in December 2013, and the first K1E1 rolled out on 7 July 2014. The upgrade will be similar to that of K1A2. All K1 will be upgraded to K1E1 by 2026.[9] The name was inherited from the K1A1 prototype, the K1E1..
+The K1E2 is As of August 2018, the K1E2 type is planned to be improved. It is expected to be upgraded to a large-scale repair (renovation) in 2024. The main improvement point is the replacement of the new armored upgrading of the protection, installation of the positive pressure device, acceleration of 10% upgrade (1200 hp engine to 1320 hp) or change 1500 hp engine, Introduction of RWS, etc..
+The K1A1 is First major enhanced variant. 484 units built between 1999 and 2010. To be upgraded to K1A2 by 2022..
+The K1A2 is Upgraded K1A1. Originally named as K1A1 PIP. Developed from 2008 to 2010, and mass-production started in 2012. First upgraded vehicle was rolled out on 20 December 2013. Technology benefit from K2 Black Panther has been applied to this model. Upgrades include buoyancy tubes, automatic commanding control with identification friend or foe, GPS and INS position recognition, and digital wireless communications and displays. It also has air conditioning and a soft-kill active protection system to defend against missiles and rockets. The K1A2 project provides upgrade kits for South Korean Army and Marines Corps K1 and K1A1 tanks. All K1A1 will be upgraded to K1A2 by 2022..
+The K1 ARV is The K1 Armored Recovery Vehicle is based on the K1 tank. It has a crane, winch and dozer system built on the vehicle. It was developed with assistance from Krupp Maschinenbau Kiel GmbH (now Rheinmetall Landsysteme GmbH) between 1988 and 1992, with first deployment in 1993..
+The K1 AVLB is The K1 Armored Vehicle-Launched Bridge variant uses a scissor-type bridge system mounted on the chassis. It was developed from 1988 to 1992 with help from Vickers Defense Systems.
+The K1 CEV is The K1 Combat Engineer Vehicle is based on the K1A1/A2 chassis, mounting a mine plough, an excavator arm on the right side, and a lane marking system. Development is expected to be completed in June 2018 and begin production in 2019..
+
+Here is System information for the K1 South Korean Main Battle Tank (MBT):
+The Alternative Designation is The K1 or Type 88 main battle tank (MBT) is the first MBT to be series produced in South Korea. It was previously known as the XK-1 Republic of Korea Indigenous Tank (ROKIT)..
+The Type is Main Battle Tank (MBT).
+The Manufacturer is Hyundai Rotem.
+The Crew is 4 (commander, driver, gunner, loader).
+
+Here is Dimensions information for the K1 South Korean Main Battle Tank (MBT):
+The Hull Length is 7.48 m.
+The Length, Gun Forward is 9.67 m.
+The Width is 3.59 m.
+The Height is 2.25 m.
+The Combat Weight is 51,100 kg.
+The Ground Clearance is 460 mm.
+The Ground Pressure is 0.87 kg/sq cm.
+
+Here is Automotive information for the K1 South Korean Main Battle Tank (MBT):
+The Engine Name is 1 x MTU MB871.
+The Engine Type is 1,934-cu in (31.7-liter) liquid-cooled, 8-cyl, multifuel diesel.
+The Engine Power is 1,200 hp at 2,600 rpm.
+The Power-to-Weight Ratio is 23.53 hp/metric ton.
+The Transmission is ZF LSG 3000 automatic transmission w/mechanical lock-up and 4 forward/2 reverse gears.
+The Suspension is Hybrid (torsion bar at wheel stations 3, 4 and 5 and hydro-pneumatic units at wheel stations 1, 2 and 6); 6 road wheels with 19.7-in (500-mm) travel.
+The Maximum Road Speed is 65 kph.
+The Cross-Country Speed is 40 kph.
+The Maximum Range is 500 km.
+The Vertical Obstacle is 1.1 m.
+The Trench is 2.7 m.
+The Fording without Preparation is 1.2 m.
+The Fording with Preparation is 2.2 m.
+The Gradient is 60 percent.
+The Side Slope is 30 percent.
+
+Here is System information for the K1 South Korean Main Battle Tank (MBT) of the Main Weapon System:
+The Name is 1 x KM68A1.
+The Type is Rifled Tank Gun.
+The Caliber is 105mm.
+The Length is 5.89 m.
+The Barrel length is 5.46 m.
+The Weight is 1,282 kg.
+The Rate of Fire is 10 rounds per minute (maximum).
+The Maximum Firing Range is 4,000 m.
+The Fume Extractor is Yes.
+The Thermal Sleeve is Yes.
+The Muzzle Reference System is YEs.
+The Elevation is -7 deg to 20 deg (when the tank is pitched forward the gun can reportedly be depressed to -10 deg.
+The Traverse is 360 deg.
+The Note is KM68A1is a license-produced variant of the US M68A1 gun for the South Korean Army. Used on the South Korean variant of the M48, the M48A5K and K1 Type 88 tanks..
+
+Here is Ammunition information for the K1 South Korean Main Battle Tank (MBT) of the Main Weapon System:
+The Name is Type 91 HEAT-MP.
+The Type is Fin Stabilized Projectile.
+The Caliber is 105.
+The Shell is INA.
+The Basic Load is 47 Rounds.
+The Armor Penetration is INA.
+
+Here is System information for the K1 South Korean Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is M60E1.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Quantity is 1.
+The Manufacturer is Saco Defense.
+The Length is 1,105 mm.
+The Barrel Length is 560 mm.
+The Weight is 10.5 kg.
+The Action is Gas-operated, short-stroke gas piston, open bolt.
+The Rate of Fire is 550–650 RPM.
+The Muzzle Velocity is 853 m/s.
+The Effective Firing Range is 1,100 m.
+The Feed System is Disintegrating belt with M13 Links.
+The Sights is Iron sights.
+
+Here is Ammunition information for the K1 South Korean Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is INA.
+
+Here is System information for the K1 South Korean Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is K6.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Quantity is 1.
+The Manufacturer is Daewoo.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Action is Short recoil-operated.
+The Rate of Fire is 1,200–1,300 rounds/min.
+The Muzzle Velocity is 890 m/s.
+The Maximum Firing Range is 7,400 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is Belt-fed.
+
+Here is Ammunition information for the K1 South Korean Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Basic Load is INA.
+
+Here is Fire Control System information for the K1 South Korean Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is Yes.
+The Main Gun Stabilization is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Commander's Panoramic Sight is The commander is provided with a Sagem (formerly SFIM) two-axis, independent, stabilized 360-deg panoramic sight, which has 3x and 10x magnification.
+
+Here is Protection information for the K1 South Korean Main Battle Tank (MBT):
+The Hull Armor is Chobham-type Special Armor Plate (SAP).
+The Turret Armor is Chobham-type Special Armor Plate (SAP). Chobham-type armor is fitted over the frontal arc, turret front and sides. This provides protection against both kinetic and chemical energy attacks..
+The Applique Armor is Available.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is collective: M13A1 gas-particulate filter.
+The Smoke Equipment is 2 x 6 smoke grenade launchers on either side of turret.
+

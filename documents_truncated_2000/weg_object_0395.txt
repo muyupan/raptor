@@ -1,0 +1,63 @@
+This document describes the R-142 NSA Russian 4x4 Command and Control Vehicle.
+
+The R-142 NSA Russian 4x4 Command and Control Vehicle are a complete mobile HF and VHF radio system, developed in the USSR and used in the Warsaw Pact countries during the Cold War, consisting of a fairly large metal rack with a number of radio transceivers, intercoms, interfaces, control units, and encryption devices. The radio station was generally housed inside a communications shelter mounted on a GAZ-66 truck.
+
+The van body is divided into forwarding and rear sections. The forward section houses most of the radios and has 2 radio operator stations. The rear section has a table with cushioned bench seats capable of seating 3 on each side. The Erika UHF and the ICOM VHF aviation band radio are located in the rear along with 2 intercom/switching units allowing the use of the R-168 series radios.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the R-142 NSA Russian 4x4 Command and Control Vehicle:
+The Alternative Designations is R-142.
+The Type is Command and Control Vehicle.
+The Manufacturer is Gor'kiy Automobile Plant (GAZ).
+The Chassis is GAZ-66 truck.
+The Configuration is 4x4.
+The Crew is 3-5.
+The Maximum Cargo Capacity is 2 tons.
+
+Here is Dimensions information for the R-142 NSA Russian 4x4 Command and Control Vehicle:
+The Length is 5.65 m.
+The Width is 2.34 m.
+The Height is 2.44 m.
+The Weight, Empty is 3.4 tons.
+
+Here is Automotive information for the R-142 NSA Russian 4x4 Command and Control Vehicle:
+The Engine Name is ZMZ.
+The Engine Type is 4.2 liter petrol.
+The Engine Power is 115 hp.
+The Maximum Range is 875 km.
+The Maximum Speed is 95 km/h.
+The Amphibious is No.
+The Gradient is 67%.
+The Side Slope is 44%.
+The Vertical Step is 0.6 m.
+The Trench is 0.6 m.
+The Fording is 0.8 m.
+
+Here is R-173M Standard VHF Radio information for the R-142 NSA Russian 4x4 Command and Control Vehicle of the Communications:
+The Frequency Range is 0-80.
+The Transmission Range is 32.
+
+Here is R-171M  Full duplex, voice/digital VHF Radio information for the R-142 NSA Russian 4x4 Command and Control Vehicle of the Communications:
+The Frequency Range is 30-76.
+The Transmission Range is 35-80.
+
+Here is R-163-50K HF telephone and telegraph radio communication information for the R-142 NSA Russian 4x4 Command and Control Vehicle of the Communications:
+The Frequency Range is 30-80.
+The Frequency Spacing is INA.
+The TransmissionRange is 20-60.
+The Weight of Transceiver is 35.
+The Antennas is 2m and 4 m whip.
+The Input of Frequency, Setting of Modes is keypad controlled.
+The Tuning Time is 15.
+The Retuning Time Between preset Frequencies is 1,5.
+The The number of preset frequencies is 16.
+The Power Supply is 27.
+
+Here is R-163-10V voice/telegraph HF/VHF Radio information for the R-142 NSA Russian 4x4 Command and Control Vehicle of the Communications:
+The Frequency Range is 2-30.
+The Transmission Range is 10-30.
+
+Here is R-438 Barrier-T Satellite Radio information for the R-142 NSA Russian 4x4 Command and Control Vehicle of the Communications:
+The Transmission Range is 5,000.
+

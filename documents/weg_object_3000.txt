@@ -1,0 +1,76 @@
+This document describes the UH-60JA Black Hawk Japanese Utility Helicopter.
+
+The UH-60JA Black Hawk is a variant of the American UH-60L for employment by the Japanese Ground Self Defense Force. It is licensed by United Technologies for production by Mitsubishi Heavy Industries. The Japan Maritime Self Defense Force operates the SH-60J.
+
+The UH-60JA is powered by two GE T700-IHI-701A turboshaft engines. The SH-60J is powered by two GE T700-IHI-7401C turboshaft engines. Both engine types are licensed for production by Ishikawajima-Harima Heavy Industries in Japan. Both versions includes an improved durability gearbox and updated flight control system. The UH-60 JS is fitted with an external tank system (ETS), carrying two fuel tanks on the stub wings
+
+
+The UH-60JA features four-blade main and tail rotors like the UH-60L. The main rotor is fully articulated and has elastomeric bearings in the rotor head. The tail rotor is canted and features a rigid crossbeam. The aircrafts critical components are armored or redundant and its airframe is designed to protect the crew and passengers by crushing progressively on impact.
+
+
+The UH-60JA is capable of performing a wide array of missions it can transport a squad of 11 combat troops or reposition a 105 mm M119 howitzer with 30 rounds ammunition, and a six-man crew in a single lift. It is equipped with advanced avionics and electronics for increased survivability and capability, such as the Global Positioning System (GPS), forward looking infrared radar (FLIR), color weather radar, and a wire cutter.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is Variants information for the UH-60JA Black Hawk Japanese Utility Helicopter:
+The SH-60J Black Hawk is Variant for the Japanese Maritime Self Defense Force produced under license by Mitsubishi Heavy Industries..
+
+Here is System information for the UH-60JA Black Hawk Japanese Utility Helicopter:
+The Alternative Designation is UH-60JA Black Hawk.
+The Type is Utility Helicopter.
+The Manufacturer is Mitsubishi Heavy Industries licensed by United Technologies.
+The Crew is 4 (pilot, co-pilot, and 2 crew chiefs).
+The Passengers is 11.
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 4.
+The Number of Engines is 2.
+The Number of Hard Points is 4 Total, 2 per External Stores Support System (ESSS) stub wings.
+
+Here is Dimensions information for the UH-60JA Black Hawk Japanese Utility Helicopter:
+The Length, Fuselage is 15.26 m.
+The Length, Rotors Turning is 19.8 m.
+The Length, Rotors folded is 12.60 m.
+The Maximum Height is 5.1 m.
+The Fuselage Width is 2.36 m.
+The Cabin Length is 3.84 m.
+The Cabin Height is 1.37 m.
+The Cabin Width is 1.88 m.
+The Cabin Volume is 11.6 m cu.
+The Wheel Base is 8.83 m.
+The Wheel Track is 2.70 m.
+The Main Rotor Diameter is 16.36 m.
+The Main Rotor Disc Area is 210.15 m sq.
+The Tail Rotor Diameter is 3.35 m.
+The Empty Weight is 5,263 kg.
+The Gross Mission Weight is 7,950 kg.
+The Maximum  Takeoff Weight is 11,113 kg.
+
+Here is Automotive information for the UH-60JA Black Hawk Japanese Utility Helicopter:
+The Engine Name is 2 x GE T700-IHI-701A.
+The Engine Type is Turboshaft.
+The Engine Power is 1,800 shaft hp each.
+The Transmission Power is 3,400 shp.
+The Fuel Capacity is 1,361 liters internal.
+The Never Exceed Speed is 361 kph.
+The Cruising Speed at Sea Level is 296 kph.
+The Single Engine Maximum  Speed is 195 kph.
+The Maximum Range with Internal Fuel is 584 km.
+The Maximum Range with External Fuel is 1,630 km w 1,741 liters of external fuel.
+The Rate of Climb is 472 m/min.
+The Ceiling is 5,837 m.
+
+Here is Main Gun System information for the UH-60JA Black Hawk Japanese Utility Helicopter:
+The Note is 2 x pintle mounts for 7.62-mm M60D or 2.7-mm GECAL 50 or 7.62-mm M134 mini-Gatling guns.
+
+Here is Fire Control and Avionics information for the UH-60JA Black Hawk Japanese Utility Helicopter:
+The Fire Control Radar is INA.
+The Navigation Radar is INA.
+
+Here is Protection information for the UH-60JA Black Hawk Japanese Utility Helicopter:
+The Add on Armor is INA.
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The NBC Protection is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is Yes.
+

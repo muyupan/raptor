@@ -1,0 +1,68 @@
+This document describes the BM-24 (Katyusha) Russian 240mm Multiple Rocket Launcher.
+
+The BM-24 is a multiple rocket launcher designed in the Soviet Union. It is capable of launching 240mm rockets from 12 launch tubes. Versions of the BM-24 have been mounted on the ZIL-151 6x6 Truck chassis and the AT-S tracked artillery tractor, forming the BM-24T from the latter. Production began out of Automotive Factory no. 2 in 1947 Moscow. Israel operated one battalion, consisting of vehicles captured from Egypt in the Six-Day War. The battalion took part in the Yom Kippur War and the 1982 Lebanon War.
+
+The Soviet Army was equipped with BM-24 after WWII. The BM-24 multiple launch rocket system fired the powerful M-24F 240mm rockets, each carrying 27,4 kg of the explosive. In addition to the M-24F, the system could also fire the M-24FUD, having the lighter 18,4 kg shell, but with a longer 10600m range. The MS-24 and MS-24D, loaded with P-35 poison-gas, were also available. The system had 12 launch tubes located on a rotary frame, disposed on a stub pole at the vehicle rear. The lining and turning mechanisms were hand-driven. The cabin and fuel tanks were protected from rocket exhaust by steel skin plates. Two jacks were set against the soil before shooting to discharge the back axles springs and to stabilize the platform. The 95 hp engine permitted the BM-24 to reach a speed of 55km/h on the highway and to have a range of up to 600 km.
+
+This equipment has proliferated into the following countries: Algeria, Angola, North Korea (Democratic People's Republic of Korea), Yemen.
+
+Here is Variants information for the BM-24 (Katyusha) Russian 240mm Multiple Rocket Launcher:
+The BM-24 (8U31) is Basic model, mounted on a ZiS-151 chassis..
+The BM-24M (2B3) is Modified model, mounted on a ZIL-157 chassis.
+The BM-24T is Tracked model, mounted on an AT-S chassis.
+The Israeli upgraded variant is .
+
+Here is System information for the BM-24 (Katyusha) Russian 240mm Multiple Rocket Launcher:
+The Alternative Designation is BM-24.
+The Type is Multiple Rocket Launcher.
+The Family is INA.
+The Crew is 6.
+The Chassis is ZiS-151 chassis.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the BM-24 (Katyusha) Russian 240mm Multiple Rocket Launcher:
+The Length is 6.7.
+The Width is 2.3.
+The Height is 2.91.
+The Weight, Combat is 9,200.
+The Ground Pressure is INA.
+
+Here is Automotive information for the BM-24 (Katyusha) Russian 240mm Multiple Rocket Launcher:
+The Engine Name is 1 x Zil-151.
+The Engine Type is Gasoline Fueled Engine.
+The Engine Power is 109.
+The Maximum Range is 430.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is INA.
+
+Here is System information for the BM-24 (Katyusha) Russian 240mm Multiple Rocket Launcher of the Main Weapon System:
+The Name is M-24FUD Rockets.
+The Types is HE, Smoke, Chemical.
+The Shell Weight is 18.4.
+The Maximum Effective Range is 10.6.
+The Launch Tubes is 12.
+The Elevation is INA.
+The Traverse is INA.
+The Basic Load is 12.
+The Note is Two jacks were set against the soil before shooting to discharge the back axles springs and to stabilize the platform..
+
+Here is Fire Control information for the BM-24 (Katyusha) Russian 240mm Multiple Rocket Launcher:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is INA.
+The Indirect Fire is Yes.
+The Position Location System is INA.
+
+Here is Protection information for the BM-24 (Katyusha) Russian 240mm Multiple Rocket Launcher:
+The Hull Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

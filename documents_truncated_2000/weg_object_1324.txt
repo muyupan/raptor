@@ -1,0 +1,86 @@
+This document describes the Type 55 Chinese 37mm Towed Anti-Aircraft Gun.
+
+The Type 55 37mm Towed Anti-Aircraft Gun is a Chinese version of the Russian  M1939 (61-K) 37mm Anti-Aircraft Gun. 
+
+The 37 mm automatic air defense gun M1939 (61-K)(61-К)) is a Soviet 37 mm caliber anti-aircraft gun developed during the late 1930s and used during World War II. The land-based version was replaced in Soviet service by the ZSU-57-2 during the 1950s. Guns of this type were successfully used throughout the Eastern Front against dive bombers and other low- and medium-altitude targets. It also had some usefulness against lightly armored ground targets. Crews of the 37 mm AD guns shot down 14,657 Axis planes. The mean quantity of 37 mm ammunition to shoot down one enemy plane was 905 rounds.
+
+The Soviet Navy purchased a number of Bofors 25 mm Model 1933 guns in 1935, trials of the weapon were successful and it was decided to develop a 45 mm version of the weapon designated the 49-K. The development under the guidance of leading Soviet designers M. N. Loginov, I. A. Lyamin and L. V. Lyuliev was successful, but the army thought that the 45 mm caliber was a little too large for an automatic field weapon. In January 1938 the Artillery Factory Number 8 in Sverdlovsk was ordered to develop a 37 mm weapon based on the same design. The task was fulfilled by the chief designer of the factory, Mikhail Loginov, and his assistant Lev Loktev. Firing trials of the new 61-K were conducted in October 1938.
+
+Competitive firing trials were conducted in 1940 between the 61-K and the Bofors 40 mm/56. There were no substantial differences found between them.
+
+The weapon was initially installed as a single-barrel weapon on a four-wheeled ZU-7 carriage, and was soon ready for service. An initial order for 900 units was placed. The gun was operated by a crew of eight men. A total of 200 rounds of ammunition were carried which were fed into the gun in five-round clips. Total Soviet production was around 20,000 units, ending in 1945. However, it has also been produced in Poland, China and North Korea.
+
+Armor penetration of the armor-piercing (AP) rounds is reported as 37 millimeters of rolled homogeneous armor (RHA) at 60°at 500 meters range and 28 millimeters of RHA at 90° at 1,500 meters range.
+
+This equipment has proliferated into the following countries: China, Pakistan, Tunisia.
+
+Here is Variants information for the Type 55 Chinese 37mm Towed Anti-Aircraft Gun:
+The Type 63 is Twin 37 mm guns with vertical stabilization mounted on a T-34 chassis..
+The Type 65 is Copy of the twin barreled 37 mm.
+The Type 74 is Upgraded version of the Type 65 with a greater rate of fire.
+The Type 74SD is Type 74 with servo system removed for operation with Type 800 laser course director system..
+The Type 79-III is Upgraded version of the Type 74 with electro-optical director, and powered traverse and elevation..
+The Type 76 is Naval version of the twin 37 mm..
+The P793 is Advanced twin-barrel version, with electro-optical predicting sight and higher rate of fire and lengthened barrels giving a higher muzzle velocity (1,000 m/s). Operated by a crew of 5 or 6..
+
+Here is System information for the Type 55 Chinese 37mm Towed Anti-Aircraft Gun:
+The Alternative Designations is Type 55.
+The Description is 37 mm Towed Anti-Aircraft Gun.
+The Crew is 8, 4 (est) while traveling.
+The Carriage is Four Wheels.
+The Emplacement Time (sec) is 8.5 while traveling. Gun can be fired from a halt without dropping trails.  30 full emplace, to drop trails..
+The Displacement Time (sec) is 8 sec while traveling.  
+30 from full emplacement.
+
+Here is Dimensions information for the Type 55 Chinese 37mm Towed Anti-Aircraft Gun:
+The Length Overall is 6.04.
+The Length of Barrel is 2.73.
+The Height Overall is 2.11.
+The Width Overall is 1.95.
+The Combat Weight is 2,050.
+
+Here is Automotive information for the Type 55 Chinese 37mm Towed Anti-Aircraft Gun:
+The Prime Mover is Utility Vehicles, Small, and Medium Trucks.
+The Max Towed Speed is 60.
+The Cross Country is 25.
+The Fording Depth is 0.7.
+
+Here is Main Armament information for the Type 55 Chinese 37mm Towed Anti-Aircraft Gun:
+The Caliber, Type is Rifled.
+The Caliber is 37mm.
+The Number of Barrels is 1.
+The Breech Mechanism is Rising Block.
+The Cyclic Rate of Fire is 180.
+The Practical Rate of Fire is 80.
+The Clip Capacity is 5 rounds, gun magazine holds 2 clips for 10 rounds.
+The Loader Type is Manual Gravity Feed.
+The Reaction Time is 4.5 sec, 4 to stop and fire during a move (without radar).
+The Reload Time is 2 seconds per clip.
+The Traverse is 360.
+The Traverse Rate is 61.
+The Elevation is -5 to +85.
+The Elevation Rate: is 22.
+
+Here is Ammunition information for the Type 55 Chinese 37mm Towed Anti-Aircraft Gun:
+The Type is HE, HE-FRAG-T, AP, AP-T, HVAP, HVAP-T, HEI-T.
+The Max Range is 8,500.
+The Max Effective Range (slant) is 3,500.
+The Max Effective (ground targets) is 3,500.
+The Max Altitude is 6,000.
+The Max Effective Altitude is 3,000.
+The Armor Penetration is 55 mm @ 500m.
+The HE Projectile Weight is 0.74.
+The AP Projectile Weight is ,77.
+The HE-FRAG-T Projectile Weight is 0.73.
+The HVAP Projectile Weight is 0.62.
+The HEI-T  Projectile Weight is INA.
+The HE Muzzle Velocity is 880.
+The AP Muzzle Velocity is 880.
+The HE-FRAG-T Muzzle Velocity is 880.
+The HVAP Muzzle Velocity is 960.
+The Self-Destruct is 8 to 12.
+The Self-Destruct Range is 3,700 to 4,700.
+
+Here is Weapons and Ammunition Types information for the Type 55 Chinese 37mm Towed Anti-Aircraft Gun:
+The 1 x 37-mm AA gun  HE   HE-FRAG-T  AP    AP-T           HVAP          HVAP-T         HEI-T is Typical Combat Load 500.
+

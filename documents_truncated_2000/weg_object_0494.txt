@@ -1,0 +1,96 @@
+This document describes the T-12 (2A19) Russian 100mm Towed Anti-Tank Gun.
+
+2A19 or T-12 is a Soviet smoothbore 100-mm anti-tank gun, which served as the primary towed anti-tank artillery in the Soviet and Bulgarian armies from the early 1960s to the late 1980s.
+
+The T-12 entered service in 1961, replacing the BS-3 100 mm field gun. It was typically deployed in the anti-tank units of armored and motor rifle regiments to protect flanks against counter-attacks during rapid advances.
+
+In 1970, it was replaced in production by the T-12A or MT-12 "Rapira", which features a new smoothbore gun, the 100 mm 2A29 gun, as well as a redesigned carriage and gun shield to protect the crew from machine-gun fire and shell splinters. Thanks to the redesigned carriage, which has a bigger wheelbase, the MT-12 can be towed by the MT-LB, at speeds up to 60 km/h on-road or 25 km/h cross-country.
+
+The 2A29R "Ruta" or MT-12R is a version with an RLPK-1 radar for engaging targets in a poor visibility environment (smoke/fog). From 1981, the gun could fire laser beam-riding guided missiles 9M117 Kastet (weapon system 9K116) and carried the new designator 2A29K "Kastet" or MT-12K.
+
+The weapon was planned to be superseded by the 2A45 Sprut-B 125 mm smoothbore anti-tank gun. Modern western tanks' frontal armor protection is in excess of what can be penetrated by a 100 mm gun from anything but a point-blank range – even using the most modern APFSDS round. For a tank that can maneuver to take advantage of the enemy's weaknesses, this is less of a problem – but for a weapon that is primarily defensive, this is a serious problem. Today, the T-12 is applied mostly in the role of ordinary artillery, using FRAG-HE shells.
+
+In 2017, the Algerian military displayed a locally developed variant mounted on a Mercedes-Benz Zetros truck. It includes four stabilization legs to absorb firing impacts.
+
+The gun requires a crew of six: commander, driver of the towing vehicle, gun layer, loader, and two ammunition crewmen. When the MT-LB is used as the transporter, 20 rounds are typically carried (10 APFSDS, 4 HE-Frag, 6 HEAT). Since the weapon is a smoothbore, all the ammunition is finned for accuracy during flight.
+
+The standard equipment consists of the panoramic PG-1M sight for indirect fire and an OP4M-40U telescope for direct fire. The APN-5-40 or APN-6-40 are used for direct fire by night.
+
+The gun can be fitted with the LO-7 ski gear for travel across snow or swampy ground.
+
+This equipment has proliferated into the following countries: Algeria, Bosnia and Herzegovina, Bulgaria, Cambodia, CFE Treaty, China, Croatia, Cuba, Ethiopia, Georgia, Hungary, Kazakhstan, Kyrgyzstan, Moldova, Mongolia, Montenegro, Russian Federation, Serbia, Turkmenistan, Ukraine, Uzbekistan, Viet Nam.
+
+Here is Variants information for the T-12 (2A19) Russian 100mm Towed Anti-Tank Gun:
+The T-12 is Anti-tank gun and suppressive artillery fire. The T-12 comprises of the 100 mm barrel and breech ring, semi-automatic breech, top carriage with sight and lower carriage. The actual mount used in the T-12 is the same as that used in the D-48 rifled ATG..
+The MT-12 is The main difference between the T-12 and the MT-12 is the new carriage. The former was normally towed by a truck whereas the MT-12 is towed by a MT-LB multipurpose tracked armoured vehicle..
+The MT-12R/MT-12K is The MT-12R was equipped with a RLPK-1 radar for engaging targets in low visibility conditions. The ATG got its alternative designation as MT-12K because of its ability to fire the 9M117 Kastet missile..
+
+Here is System information for the T-12 (2A19) Russian 100mm Towed Anti-Tank Gun:
+The Alternative Designation is T-12; 2A19.
+The Type is Towed Anti-Tank Gun.
+The Caliber is 100 mm.
+The Crew is 6 (commander, driver, gunner, loader,
+2 ammunition handlers).
+The Carriage is split trail.
+The Tires is 9.00 × 20.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the T-12 (2A19) Russian 100mm Towed Anti-Tank Gun:
+The Length, Transport Mode is 9.48 m.
+The Width, Transport Mode is 1.795 m.
+The Height, Overall is 1.565 m.
+The Height, Transport Mode is 1.565 m.
+The Track is 1.465 m.
+The Weight is 2,750 kg.
+The Ground Clearance is 0.380 m.
+
+Here is System information for the T-12 (2A19) Russian 100mm Towed Anti-Tank Gun of the Main Weapon System:
+The Name is 1 × carriage mounted 100mm smoothbore gun.
+The Type is Towed Anti-Tank Gun.
+The Caliber is 100.
+The Carriage is split trail.
+The Barrel Length is 6.30 m.
+The Breech Mechanism is vertical sliding block.
+The Muzzle Brake is pepperpot.
+The Loading System is semi-automatic loading system.
+The Elevation is +20° (356mils)/-6° (-107mils).
+The Traverse is 27° (480 mils).
+The Maximum Range is The T-12 can engage targets at a maximum range of 8,200 m high explosive (HE) in indirect fire mode.
+The Rate of Fire is 14rds/min.
+The Armor Penetration is Using armour-piercing fin-stabilised discarding sabot (APFSDS) rounds can penetrate 140 mm armour at 3,000 m..
+
+Here is Ammunition (Option 1) information for the T-12 (2A19) Russian 100mm Towed Anti-Tank Gun of the Main Weapon System:
+The Type is APFSDS.
+The Caliber is 100 mm.
+The Weight is 19.34 kg.
+The Muzzle Velocity is 1,575 m/s.
+The Maximum Range is 3,000 m (direct).
+The Armor Penetration is 140 mm armour at 3,000 m..
+
+Here is Ammunition (Option 2) information for the T-12 (2A19) Russian 100mm Towed Anti-Tank Gun of the Main Weapon System:
+The Type is HEAT.
+The Caliber is 100 mm.
+The Weight is 23.00 kg.
+The Muzzle Velocity is 975 m/s.
+The Maximum Range is 5,955 m (direct).
+The Armor Penetration is he 100 mm high-explosive anti-tank (HEAT) round will penetrate 350 mm of RHA at 90°..
+
+Here is Ammunition (Option 3) information for the T-12 (2A19) Russian 100mm Towed Anti-Tank Gun of the Main Weapon System:
+The Type is HE.
+The Caliber is 100 mm.
+The Weight is 18.6 kg.
+The Muzzle Velocity is 700 m/s.
+The Maximum Range is 8,200 m (indirect).
+The Armor Penetration is INA.
+
+Here is Fire Control System information for the T-12 (2A19) Russian 100mm Towed Anti-Tank Gun of the Fire Control:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Sights is The standard equipment consists of the panoramic PG-1M sight for indirect fire, and an OP4M-40U telescope for direct fire. The APN-5-40 or APN-6-40 are used for direct fire by night..
+
+Here is Protection information for the T-12 (2A19) Russian 100mm Towed Anti-Tank Gun:
+The Shield is Shields provide some protection against shell splinters, small arms fire, and muzzle blasts..
+

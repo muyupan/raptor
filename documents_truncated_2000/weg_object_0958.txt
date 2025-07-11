@@ -1,0 +1,123 @@
+This document describes the JH-7A (Flounder) Chinese Fighter/Bomber.
+
+When the PLA examined the future role of air forces, it identified a need for precision air-to-surface capability. An improved JH-7, the JH-7A, was designed to meet this requirement. The JH-7A's general and deputy general designers were Tang Changhong (唐长红) and Wu Jieqin (吴介琴) respectively.
+
+The JH-7A had a lighter and stronger airframe than the JH-7, allowing the newer aircraft to carry a maximum ordnance load of 9,000 kg. In PLANAF, this allowed four YJ-82 anti-ship missiles to be carried, compared to the two on the JH-7.
+
+The JH-7A is equipped with domestic Chinese helmet mounted sight (HMS) for evaluation, and this HMS currently being tested is developed by Xi'an Optronics Group (Xi Guang Ji Tuan 西光集团), a member of Northern Electro-Optic Co. Ltd (北方光电股份有限公司), the wholly owned subsidiary of Norinco, and the HMS on JH-7A was developed from the helicopter HMS manufactured by the same company, thus both share many common components. HMS tested on JH-7A is compatible with air-to-air/surface missiles, and it is also compatible with airborne sensors such as radars and electro-optics so that the sensors are slaved to HMS, enabling the fast tracking and aiming of the weaponry. The cockpit of JH-7A still retains some traditional single function dial indicators, but there are two large color liquid crystal display multi-function displays which can be monochrome if pilots choose. Other avionic upgrades of JH-7 include: replacing Type 960-2 noise jammer with BM/KJ-8605, replacing Type 265A radar altimeter with Type 271 radar altimeter, fully digitized fly-by-wire flight control system, and in addition, Type 232H airborne radar is replaced by JL-10A pulse-Doppler radar, enabling JH-7A to fire laser-guided bombs and Kh-31P anti-radiation missiles. The existing JH-7s were upgraded with JH-7A electronics. Two additional hardpoints increased the total to 6 from the original 4, and one-piece windscreen replaced the original three-piece windscreen.
+
+The JH-7A was the first Chinese aircraft to use paperless design, and the software used was CATIA V5.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the JH-7A (Flounder) Chinese Fighter/Bomber:
+The JH-7 is Initial production version of the PLANAF anti-shipping fighter-bomber..
+The JH-7A is Later production utilising composite structure to reduce weight, improved flying control system and improved avionics including the JL10A Shan Ying J-band pulse-Doppler radar. Weapon loads increased by the addition of two more wing hardpoints and two hardpoints under the intake trunking for mission pods such as targeting pods..
+The JH-7E is Possibly export variant, shown at 2018 Zhuhai Airshow..
+The FBC-1 Flying Leopard is Export version of the JH-7..
+The FBC-1A Flying Leopard II is Export version of the JH-7A..
+
+Here is System information for the JH-7A (Flounder) Chinese Fighter/Bomber:
+The Alternate Designation(s) is JH-7A; FBC-1 Flying Leopard II.
+The Primary Function / Type is Fighter-Bomber.
+The Manufacturer is Xi'an Aircraft Industry Corporation.
+The Crew is 2.
+The Number of Engines is 2.
+The Number of Hard Points is 11 in total (8× under-wing, 2× wing-tip, 1× under-fuselage) with a capacity of 9,000 kg (20,000 lb) external fuel and ordnance,.
+
+Here is Dimensions information for the JH-7A (Flounder) Chinese Fighter/Bomber:
+The Length is 21.00 m.
+The Height is 6.22 m.
+The Wingspan is 12.80 m.
+The Wing Area is 52.3 m sq.
+The Wheel Base is 7.80 m.
+The Wheel Track is 3.06 m.
+The Empty Weight is INA.
+The Takeoff Weight is 27,415 kg.
+
+Here is Automotive information for the JH-7A (Flounder) Chinese Fighter/Bomber:
+The Engine Name is 2 x Xian WS9 turbofan.
+The Number of Engines is 2.
+The Engine Type is licensed Rolls Royce Spey Mk 202.
+The Engine Power, Dry is 55.83 kN each.
+The Engine Power, Afterburner is 91.26 kN each.
+The Maximum Speed at Altitude is 1,808 km/h at 1,000 m max.
+The Cruise Speed is 903 km/h.
+The Maximum Range is 3,100 km w/full internal fuel, full external fuel, no weapons.
+The Radius is 900 km.
+The Ceiling is 16,000 m.
+The Takeoff Roll is 920 m.
+The Landing Roll is 1,050 m.
+
+Here is System information for the JH-7A (Flounder) Chinese Fighter/Bomber of the Main Gun System:
+The Name is Gryazev-Shipunov GSh-23.
+The Type is Autocannon.
+The Caliber is 23mm.
+The Length is 1,537 mm.
+The Barrel Length is 1,000 mm.
+The Weight is 50 kg.
+The Barrels is 2.
+The Action is Gast principle.
+The Rate of Fire is 3,400–3,600 rounds/min.
+The Muzzle Velocity is 715 m/s.
+
+Here is Ammunition information for the JH-7A (Flounder) Chinese Fighter/Bomber of the Main Gun System:
+The Type is Autocannon.
+The Caliber is 23mm.
+The Cartridge is 23x115 mm.
+The Basic Load is 1,500 Rounds.
+
+Here is Main Missile System #1 information for the JH-7A (Flounder) Chinese Fighter/Bomber of the Main Missile Systems:
+The Name is C-802.
+The Type is Anti-Ship Cruise Missile.
+The Manufacturer is China Aerospace Science and Industry Corporation.
+The Length is INA.
+The Diameter is INA.
+The Weight is INA.
+The Warhead is 190 kg high-explosive fragmentation.
+The Engine is French TRI 60-2 turbojet.
+The Operational Range is 125 km.
+The Maximum Speed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+
+Here is Main Missile System #2 information for the JH-7A (Flounder) Chinese Fighter/Bomber of the Main Missile Systems:
+The Name is C-801.
+The Type is Anti-Ship Cruise Missile.
+The Length is 5.81 m.
+The Diameter is INA.
+The Weight is 815 kg.
+The Warhead Weight is 165 kg.
+The Engine is Rocket.
+The Propellant is solid rocket.
+The Operational Range is 42 km.
+The Flight Altitude is 5-7 m.
+The Maximum Speed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+
+Here is Bomb Weapon Systems information for the JH-7A (Flounder) Chinese Fighter/Bomber:
+The Laser Guided Bombs (Options) is GB1; GB5.
+The Satellite Guided Bombs is LS-6; FT-12; GB6; FT-2; FT-3; FT-6.
+
+Here is Fire Control / Avionics information for the JH-7A (Flounder) Chinese Fighter/Bomber:
+The Radar is L-10A multi-mode pulse-Doppler radar.
+The Fire Control Radar is Upgraded Fire Control Radar System, name: INA..
+The Laser Desingator is INA.
+The Autopilot is triplex digital-analog.
+The Air Data Computer is Type 8145.
+The Radio Altimeter is WG-5A.
+The Navigation is the Blue Sky low-altitude navigational pod (similar to LANTIRN).
+The EW Radar Warning is RW1045 receiver.
+The Active Jamming is 960-2 noise system.
+The Passive Jamming is 914-4G system.
+The Fly-By-Wire Controls is digital fly-by-wire (FBW) controls.
+The Combat Avionics Detection Range is The combat avionics can reportedly detect targets at a range of 54 nm (62 mi, 100 km), simultaneously track 14 targets and attack four to six..
+The Note is A laser designation pod may be under the port engine intake to pain targets for LGBs..
+
+Here is Protection information for the JH-7A (Flounder) Chinese Fighter/Bomber:
+The Stealth Properties is INA.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The NBC Protection is Yes.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

@@ -1,0 +1,155 @@
+This document describes the LAV-25 Canadian 8x8 Amphibious Armored Reconnaissance Vehicle.
+
+The LAV-25 (Light Armored Vehicle) is an eight-wheeled amphibious armored reconnaissance vehicle built by General Dynamics Land Systems and used by the United States Marine Corps and the United States Army. The standard LAV is fitted with a turret with 360° traverse, armed with an M242 25 mm chain gun with 420 rounds of 25 mm ammunition, both M791 APDS-T (Armor Piercing Discarding Sabot-Tracer) and M792 HEI-T (High Explosive Incendiary-Tracer), of which half is ready for use.
+
+This equipment has proliferated into the following countries: Canada, United States of America.
+
+Here is Variants information for the LAV-25 Canadian 8x8 Amphibious Armored Reconnaissance Vehicle:
+The LAV-A1 is IFV.
+The LAV-25 is IFV.
+The LAV-M is Fire support.
+The LAV-AT is Tank destroyer.
+The LAV-AD is Air defence.
+The LAV-EW is EW.
+The LAV-25, logistics is Logistics.
+The LAV-25, recovery is ARV.
+The LAV, C2 is Command and information.
+The LAV-A2 is IFV.
+The LAV-A2M is Fire support.
+The LAV-A2AT is Tank destroyer.
+The LAV-A2, NBC is NBC reconnaissance.
+The LAV-A2, C2 is Command and information.
+The LAV-A2, logistics is Logistics.
+The Bison, ambulance is Medical.
+The Bison, C3I is Command and information.
+The Bison, EW is EW.
+The Bison, Mobile repair team is Repair.
+The Bison, Maintenance and recovery is ARV.
+The Coyote is Reconnaissance.
+The Coyote, fixed brigade is Reconnaissance.
+The Coyote, battle group is Reconnaissance.
+The LAV Roadrunner is Prototype.
+The LAV, Hydra is IFV.
+
+Here is System information for the LAV-25 Canadian 8x8 Amphibious Armored Reconnaissance Vehicle:
+The Alternative Designation is LAV-25.
+The Type is Amphibious Armored Reconnaissance Vehicle.
+The Manufacturer is Originally manufactured by General Motors (GM) in Canada under licence. GM later acquired MOWAG, before General Dynamics purchased the company and became General Dynamics Land Systems - Canada..
+The Family is LAV Series.
+The Configuration is 8x8.
+The Crew is 3-5.
+
+Here is Dimensions information for the LAV-25 Canadian 8x8 Amphibious Armored Reconnaissance Vehicle:
+The Length is 6.393 m.
+The Width is 2.499 m.
+The Height, Overall is 2.692 m.
+The Height, Transport Configuration is 2.565 m.
+The Weight, Standard is 10,932 kg.
+The Weight, Combat is 12,792 kg.
+The Ground Clearance is INA.
+
+Here is Automotive information for the LAV-25 Canadian 8x8 Amphibious Armored Reconnaissance Vehicle:
+The Engine Name is Detroit Diesel 6V-53T.
+The Engine Type is V-6, diesel.
+The Engine Power is 275 hp at 2,800 rpm.
+The Power-to-Weight Ratio is 21.49hp/t.
+The Fuel Capacity is 300 liters.
+The Gearbox is Allison MT-653.
+The Electrical System is 24V.
+The Steering is power assisted on front 2 axles.
+The Suspension is independent torsion bars and shock-absorbers.
+The Brakes is 8-wheel dual air-hydraulic drum brake.
+The Tires is 11.00 × 16 with RFIs.
+The Maximum Land Speed is 100 km/h.
+The Maximum Water Speed is 9.66 km/h.
+The Range is 668 km.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Obstacle is 0.5 m.
+The Trench is 2.057 m.
+The Turning Radius is INA.
+
+Here is System information for the LAV-25 Canadian 8x8 Amphibious Armored Reconnaissance Vehicle of the Main Weapon System:
+The Name is 1 × turret mounted 25mm M242 Bushmaster Chain Gun.
+The Type is Chain Gun.
+The Caliber is 25 mm.
+The Length is 2,672 mm.
+The Barrel Length is 2,175 mm.
+The Width is 318 mm.
+The Height is 373 mm.
+The Weight is 119 kg.
+The Elevation is +60° (1067mils)/-10° (-178mils).
+The Traverse is 360°.
+The Barrels is Single barrel (progressive RH parabolic twist).
+The Action is Open bolt.
+The Rate of Fire is Cyclic: 200rpm with 1hp or 500rpm with 8hp.
+The Maximum Firing Range is 6,800 m.
+The Effective Firing Range is 3,000 m.
+
+Here is Ammunition information for the LAV-25 Canadian 8x8 Amphibious Armored Reconnaissance Vehicle of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 25 mm.
+The Shell is 25×137 mm.
+The Basic Load is 630 Rounds.
+
+Here is System information for the LAV-25 Canadian 8x8 Amphibious Armored Reconnaissance Vehicle of the Coaxial Weapon System:
+The Name is 1 × coaxial mounted 7.62mm M240 machine gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,260 mm.
+The Barrel Length is 630 mm.
+The Width is 120 mm.
+The Height is 260 mm.
+The Weight is 12.5 kg.
+The Action is Gas-operated long-stroke piston, open bolt.
+The Rate of Fire is 650–750 rounds/min.
+The Muzzle Velocity is 853 m/s.
+The Maximum Firing Range is 3,725 m.
+The Effective Firing Range is 800 m.
+The Feed System is Belt-fed using M13 disintegrating links, 50-round ammo pouch.
+The Sights is Iron sights: front blade and folding rear leaf with aperture and notch.
+
+Here is Ammunition information for the LAV-25 Canadian 8x8 Amphibious Armored Reconnaissance Vehicle of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartrdige is 7.62×51mm NATO.
+The Basic Load is 1,600 Rounds.
+
+Here is System information for the LAV-25 Canadian 8x8 Amphibious Armored Reconnaissance Vehicle of the Auxiliary Weapon System:
+The Name is 1 × roof mounted 7.62mm M60 machine gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,105 mm.
+The Barrel Length is 560 mm.
+The Weight is 10.5 kg.
+The Action is Gas-operated, short-stroke gas piston, open bolt.
+The Rate of Fire is 550–650 Rounds per minute.
+The Muzzle Velocity is 853 m/s.
+The Maximum Firing Range is INA.
+The Effective Firing Range is 1,100 m.
+The Feed System is Disintegrating belt with M13 Links.
+The Sights is Iron sights.
+
+Here is Ammunition information for the LAV-25 Canadian 8x8 Amphibious Armored Reconnaissance Vehicle of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is 1,600 Rounds.
+
+Here is Fire Control information for the LAV-25 Canadian 8x8 Amphibious Armored Reconnaissance Vehicle:
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes.
+
+Here is Protection information for the LAV-25 Canadian 8x8 Amphibious Armored Reconnaissance Vehicle:
+The Hull Armor is The hull in its base configuration provides protection from small arms fire up to 7.62 mm rounds fired at almost point-blank range or AP rounds fired horizontally from a distance of 30 m. The hull also protects the inhabitants from shell fragments..
+The Turret Armor is Protection from small arms fire and shell splinters..
+The Applique Armor is Additional armour may be fitted to the hull and turret in the form of Light Appliqué System Technique (LAST) armour, which increases ballistic protection to 12.7 mm AP rounds fired from a distance of 100 m..
+The Explosive Reactive Armor is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 8 × turret mounted M257 smoke grenade launcher (2 × 4).
+

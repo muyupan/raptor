@@ -1,0 +1,113 @@
+This document describes the Hadid HM20 Iranian 122mm Multiple Launch Rocket System (MLRS).
+
+The 122mm HADID rocket launcher system is a 40-round launcher assembly system mounted on the rear of a Mercedes-Benz 2624 (6 × 6) truck chassis. These chassis are also used for the Fadjr 333mm (4-round) and Fadjr 240mm (12-round) artillery rocket systems that are covered in a separate entry. The technology has certain operational characteristics that are similar to the NORINCO (China North Industries Corporation) 122mm (40-round) Type 81 MRS and the Russian 122mm (40-round) BM-21 systems, both of which are covered in detail in a separate entry.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of).
+
+Here is Variants information for the Hadid HM20 Iranian 122mm Multiple Launch Rocket System (MLRS):
+The Note is 122 mm rocket launcher system can be mounted on a variety 6x6 vehicles such as MAN, Mercedes-Benz and more.
+
+Here is System information for the Hadid HM20 Iranian 122mm Multiple Launch Rocket System (MLRS):
+The Alternative Designation is Hadid HM20, Hadid.
+The Type is 122mm Multiple Rocket Launcher (MRL).
+The Manufacturer is Aerospace Industries Organisation (AIO).
+The In Service is 1980s-Present.
+The Family is Hadid.
+The Crew is INA.
+The Chassis is Mercedes-Benz 2624 (6 × 6) truck chassis.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions (Chassis: Mercedes-Benz 2624, 6x6 truck) information for the Hadid HM20 Iranian 122mm Multiple Launch Rocket System (MLRS):
+The Length is 10.4.
+The Width is 2.5.
+The Height is 3.3.
+The Weight, Combat is 15.
+
+Here is Automotive (Chassis: Mercedes-Benz 2624, 6x6 truck) information for the Hadid HM20 Iranian 122mm Multiple Launch Rocket System (MLRS):
+The Engine Name is Mercedes-Benz, model: INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Cruising Range is 600.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is INA.
+The Side Slope is INA.
+The Vertical Step is 0.5.
+The Trench is 0.5.
+The Fording Depth is 1.
+
+Here is Communications information for the Hadid HM20 Iranian 122mm Multiple Launch Rocket System (MLRS):
+The Primary is INA.
+
+Here is Launcher information for the Hadid HM20 Iranian 122mm Multiple Launch Rocket System (MLRS) of the Rocket System:
+The Name is INA.
+The Type is 122.
+The Guidance System is unguided rockets.
+The Basic Load is 40.
+The Full Salvo is 20 seconds.
+The Firing Operations is the firing operations conducted either from the vehicle cab or from a ground position situated at a safe distance from the launcher..
+The Reloadidng is Manually.
+The Sighting System is The sighting system is mounted on the left side of the launcher at the rear..
+The Maximum Elevation is +55.
+The Minimum Elevation is -1.
+The Traverse Range is 174.
+The Traverse Left is INA.
+The Traverse Right is INA.
+The Note is The launcher assembly has two banks of 20 122 mm barrels in a side-by-side 4 × 5 row arrangement and is mounted on a rotating cradle fitted to the rear of the truck.
+
+Here is Rocket (Option 1) information for the Hadid HM20 Iranian 122mm Multiple Launch Rocket System (MLRS) of the Rocket System:
+The Name is Arash 1.
+The Type is Rocket Artillery.
+The Caliber is 122.
+The Length is 2.815.
+The Basic Load is Any combination of 122mm Arash series projectile..
+The Muzzle Velocity is 710.
+The Maximum Range is 21.5.
+
+Here is Rocket (Option 2) information for the Hadid HM20 Iranian 122mm Multiple Launch Rocket System (MLRS) of the Rocket System:
+The Name is Arash 2.
+The Type is Rocket Artillery.
+The Caliber is 122.
+The Length is 2.815.
+The Basic Load is Any combination of 122mm Arash series projectile..
+The Muzzle Velocity is 1050.
+The Maximum Range is 30.
+
+Here is Rocket (Option 3) information for the Hadid HM20 Iranian 122mm Multiple Launch Rocket System (MLRS) of the Rocket System:
+The Name is Arash 3 (Noor Rocket).
+The Type is Rocket Artillery.
+The Caliber is 122.
+The Length is 2.050.
+The Basic Load is Any combination of 122mm Arash series projectile..
+The Muzzle Velocity is 720.
+The Maximum Range is 18.
+
+Here is Rocket (Option 4) information for the Hadid HM20 Iranian 122mm Multiple Launch Rocket System (MLRS) of the Rocket System:
+The Name is Arash 4.
+The Type is HE Fragmentation Rocket Artillery.
+The Caliber is 122.
+The Length is 2.890.
+The Basic Load is Any combination of 122mm Arash series projectile..
+The Muzzle Velocity is INA.
+The Maximum Range is 40.
+
+Here is Fire Control information for the Hadid HM20 Iranian 122mm Multiple Launch Rocket System (MLRS):
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is INA.
+The Indirect Fire is Yes.
+The Position Location System is INA.
+
+Here is Protection information for the Hadid HM20 Iranian 122mm Multiple Launch Rocket System (MLRS):
+The Hull Armor is Protection from small arms fire and projectile splinters..
+The Turret Armor is Protection from small arms fire and projectile splinters..
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

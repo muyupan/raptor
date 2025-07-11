@@ -1,0 +1,122 @@
+This document describes the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper.
+
+Zhotvi Vodi-Class (Former Russian Natya-I-Class) is a Ukrainian designation after transfer from the Russian Navy in 1997. Only two ships were transferred to Ukraine. The Natya-I class ships have aluminum-steel alloy, long-forecastle hulls with a short, raked bow with sheer extending to abaft the forward 30-mm twin gun mount. The superstructure is set well forward and has a tall, quadruped mast stepped abaft the bridge. The single, capped stack rises out of the main deck above the superstructure. The Cheraski (U-311) was placed in commission upon transfer, but Zhotvi Vodi (U-310) was not commissioned until mid-2000. Both are equipped to serve as anti-submarine warfare (ASW) escorts, with the RBU-1200 launchers also used for detonating mines.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is Variants information for the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper:
+The Cheraski (U-311) is Ukrainian sister ship to the Vhotvi Vodi (U-310).
+
+Here is System information for the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper:
+The Alternative Designation is Zhovti Vodi U-310, Project 266M.
+The Type is Mine Countermeasures Ship.
+The Builder is Sudostroitel'noye Obyedineniye "Almaz" (Sredniy Neva), Kolpino, Russia.
+The Crew is 68 total (6 Off. + 62 Enl.).
+
+Here is Dimensions information for the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper:
+The Length is 61.0 m.
+The Beam is 10.2 m.
+The Draft is 3.6 m.
+The Displacement, Standard is 750 tons.
+The Displacement, Full Load is 873 tons.
+
+Here is Propulsion System information for the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper:
+The Engine Name is M503-3E.
+The Engine Type is 2 x Diesel (2 shafts).
+The Engine Power is 5,000 bhp.
+The Propellers is 2 x shrouded, controllable-pitch propellers.
+The Maximum Range is 5,200 nm.
+The Maximum Speed is 18 kts.
+The Endurance is 3 days.
+
+Here is Minesweeping Equipment information for the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper:
+The Sonar is 1 x MG-7 and 1 x MG-69 Lan-2.
+The Contact Sweep Equipment is 1 x VKT-1 mechanical sweep; 1 x AT-2 acoustic sweep; 1 x .SEMT-1 solenoid coil sweep.
+The Automated Mine Warfare System is Yes.
+The Mine Disposal Charges is Yes, 32 mine-disposal charges in lieu of mines..
+The Mine Trawler Net is Yes, net trawl deployed over the stern ramp.
+
+Here is Gun Weapon System #1 information for the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper of the Gun Weapon Systems:
+The Name is 2 x AK-230 30mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 30 mm.
+The Crew is 1.
+The Barrel Length is 2,140 mm.
+The Width is 865 mm.
+The Height is INA.
+The Weight, Gun Mount is 156 kg.
+The Barrels is 2.
+The Action is Gas-operated revolver cannon.
+The Elevation is +87° to -12° (50°/sec).
+The Traverse is ±180° (35°/sec).
+The Rate of Fire (Max) is 1,000 rounds/min (Cyclic).
+The Muzzle Velocity is 1,050 m/s.
+The Maximum Firing Range is 5,000 m.
+The Effective Firing Range is 2,500 m (aerial); 4,000 m (maritime).
+The Feed System is Belt-fed.
+The Sights is The weapon is remote-directed, typically by a fire-control system linked to either a Drum Tilt or Muff Cobb radar systems..
+
+Here is Gun Weapon System #1 Ammunition information for the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper of the Gun Weapon Systems:
+The Type is HEI-Frag, Frag-T, API.
+The Caliber is 30 mm.
+The Shell Weight is 0.39 kg.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper of the Gun Weapon Systems:
+The Name is 2 x 2M-3M Naval dual-purpose gun.
+The Type is Naval dual-purpose gun.
+The Caliber is 25 mm.
+The Crew is 1.
+The Barrel Length is 2.0 m.
+The Height is INA.
+The Weight, Gun Mount is 110 kg.
+The Barrels is 2.
+The Action is Gas-operated.
+The Elevation is -10 / +85 degrees.
+The Traverse is 360 degrees.
+The Rate of Fire is 450 rds/min (Cyclic).
+The Muzzle Velocity is 900 m/s.
+The Effective Firing Range is 2,800 m.
+The Feed System is Belt-fed (65 rd belts).
+The Sights is Optical.
+
+Here is Gun Weapon System #2 Ammunition information for the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper of the Gun Weapon Systems:
+The Type is HE-FRAG, AP, Tracer, Bursting Charge.
+The Caliber is 25 mm.
+The Shell Weight is 0.644 - 0.672 kg.
+The Basic Load is INA.
+
+Here is Missiles information for the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper:
+The Name is SA-N-5 Grail [9M32M].
+The Type is Surface to Air Missile.
+The Length is 1.42 m.
+The Weight is 9.0 kg.
+The Purpose is Anti-air, Stern Chase.
+The Guidance is IR Seeker.
+The Range (Maximum) is 18 km.
+
+Here is Rockets information for the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper:
+The Name is 2 x RBU-1200.
+The Type is Subsurface Rocket.
+The Purpose is Anti-submarine Warfare (ASW).
+The Length is 1.24 m.
+The Weight is 72.0 kg.
+The Wing Span is 0.25 m.
+The Quantity is 5 Rockets (standard loadout).
+
+Here is Fire Control Systems information for the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+The Integrated Bridge System is Yes.
+
+Here is Radar Systems information for the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper:
+The Navigation Radar is Kivach navigation radar.
+The Fire Control Radar is Drum Tilt.
+The Surface Search is Don 2.
+The Radar Warning Receiver is Bell Tap.
+
+Here is Protection information for the Zhotvi Vodi-Class (Project 266M Class) Ukrainian Coastal Minesweeper:
+The Hull is The hull was built of low magnetic steel..
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

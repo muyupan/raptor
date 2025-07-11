@@ -1,0 +1,238 @@
+This document describes the T-64BM Bulat Ukrainian Main Battle Tank (MBT).
+
+The T-64BM “Bulat” started as the Obyekt 447AM-1, this tank presented itself as a modernized version of the T-64BM. After studies of modernization in the early 2000s, work started at the Kharkiv Malyshev Factory design bureau by the first batch of 10 T-64B tanks converted to the BM “Bulat” standard in 2010. These were followed by 19 in 2011 and others in 2012, for a total of 76. The BM Bulat is the most comprehensive upgrade of the T-64B, it gives the T-64B the technology required to perform on a modern battlefield. Significant enhancements include the installation of an APU, increased thermal protection for the power pack, and an upgraded air-conditioning system.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is Variants information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT):
+The T-64B is The T-64 MBT was, at the time it entered service, the third generation of tanks to be produced by factories and design bureaus in Ukraine. It was the first Soviet tank to assume the mantel of an MBT, finally expelling the notion of light, medium, and heavy tanks..
+The T-64BK is Command tank version, with 10-m whip antenna..
+The T-64B1 is Variant has partial era mounted; the few original t-80s retained were upgraded to this standard.
+The T-64BV is Variant has Kontakt ERA mounted. Combat weight (mt): 42.5 for t-64bv with explosive reactive armor (mm): standard on t-64bv.
+The T-64U/T-64BM2 is Upgrade series marketed by ukrainian malyshev in 2001. T-64u prototype featured 2nd gen era, composite armor, and fire suppression equipment. Variant added t-80u fire control (1a42 gunner day sight) and thermal night sight-permits it to replace rf-guided at-8/kobra atgm with better refleks series (svir/invar) laser-beam rider ATGMs. Ukrainian-developed lbr-guided ATGM kombat similar to refleks. A later variant changed the fcs to t-80ud/t-90 type, with 1a45 day sight, and AGAT thermal night sight.
+The BM BULAT is This 45 mt upgrade variant is currently being advertised. It includes an 850-hp engine, fcs with 1g46m lrf-based sight and Catherine-based thermal night sight. Remote fired 12.7-mm mg and 5,000 m.
+
+Here is System information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT):
+The Alternative Designation is T-64 BM Bulat.
+The Type is Main Battle Tank.
+The Family is T-64 Family.
+The Crew is 3.
+The Maximum Effective Range (Road) is 312.
+The Maximum Effective Range (Main Gun) is 5,000.
+The Maximum Operation Duration is 10.
+
+Here is Dimensions information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT):
+The Length (Gun Forward) is 9.23.
+The Length (Hull) is 6.54.
+The Width is 3.41.
+The Height is 2.17.
+The Weight, Combat is 45.
+The Ground Pressure is INA.
+
+Here is Automotive information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT):
+The Engine Name is 5TDFM Diesel.
+The Engine Type is Two-stroke multifuel, 5-cylinder diesel with gas turbine supercharged.
+The Engine Power is 850.
+The Maximum RPM's is 2,800.
+The Power to Weight Ratio is 18.9.
+The Fuel Tank is 1,270.
+The Range is 312.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is 37.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.8.
+The Trench is 2.72.
+The Fording Depth (Without Preparation) is 1.4.
+The Fording Depth (With Preparation) is 5.0.
+
+Here is System information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT) of the Main Gun:
+The Name is 1 x KBA-3125 mm smoothbore gun.
+The Type is 125 mm smoothbore gun.
+The Max Rate of Fire is 8.
+The Length (Barrel) is 6.
+The Weight (Barrel) is 2,500.
+The Manual Load Time is 1-2.
+The Autoloader is Yes, Carousel-Type Autoloader.
+The Fire on the Move is Yes, Main Gun.
+The Maximum Penetration is 750.
+The Rate of Fire is 6-8.
+The Maximum Elevation is +14.
+The Minimum Elevation is -6.
+The Traverse Range is 360.
+The Automatic Loader is Yes.
+The Thermal Sleeve is Yes.
+The Guidance System is TAK0-621 Guided Weapon Complex.
+The Evacuator Type is Central bore evacuator.
+The Effective Full Charge (EFC) Life is 600.
+The Breech Type is semi-automatic horizontal sliding breech block.
+The Loading System is Korzina electric and hydraulic automatic loading system.
+The Carousel is The carousel can accommodate 28 two-piece rounds of ammunition, and rotates automatically after each round is fired.
+The Carousel Load Time is 13-15.
+The Basic Load Time is 27.
+The Muzzle Reference System is Yes.
+The Maximum Effective Range (Day) is 2,300-2,500.
+The Maximum Effective Range (Night) is 1,500.
+
+Here is Ammunition (Option 1) information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT) of the Main Gun:
+The Type is Armour-Piercing Fin-Stabilized Discarding Sabot ((APFSDS)).
+The Caliber is 125.
+The Muzzle Velocity is 2,050.
+The Effective Range is 2,000-3,000.
+The Maximum Range is 4,000.
+The Armor Penetration is 1,000.
+The Muzzle Energy is 15-24.
+The Projectile Dimension is 900.
+The Projectile Weight is 11.
+The Basic Load is 36 Total Rounds any combination of 125mm Projectiles.
+The Note is Entered service in 2005[5] Utilising a new sabot. Reported to be uranium alloy. For 2A82/2A82-1M cannon on T-80UM-2/T-14s..
+
+Here is Ammunition (Option 2) information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT) of the Main Gun:
+The Type is High Explosives (HE).
+The Purpose is High explosive fragmentation fin stabilised. General purpose rounds, for use against infantry, bunkers and light vehicles and other "soft" targets..
+The Caliber is 125.
+The Muzzle Velocity is 850.
+The Max Dispersion is 0.23.
+The Maximum Effective Range is 5,000.
+The Tungsten Rods is 450.
+The Charge is A-IX-2 (73% RDX, 23% aluminium powder, phlegmatized with 4% wax) 3.0 kg.
+The Proectile Weight is 23.
+The Round Weight is 33.
+The Basic Load is 36 Total Rounds any combination of 125mm Projectiles.
+The Variants is 3VOF22/3OF19, 3VOF36/3OF26, 3VOF128/3OF82.
+
+Here is Ammunition (Option 3) information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT) of the Main Gun:
+The Type is High-Explosive Anti-Tank (HEAT).
+The Name is 3VBK27/3BK31 "Start".
+The Caliber is 125.
+The Muzzle Velocity is 915.
+The Max Dispersion is INA.
+The Maximum Range is 3,00.
+The Charge is INA.
+The Charge Weight is 1.62.
+The Projectile Weight is 18.4.
+The Basic Load is 36 Total Rounds any combination of 125mm Projectiles.
+The Armor Penetration is Estimated at 800 mm triple charge HEAT.
+
+Here is System information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT) of the Anti-Tank Guided Missile:
+The Name is Kobra (AT-8 Songster).
+The Type is SACLOS Anti-Tank Missile System.
+The Caliber is 125.
+The Manufacturer is KB Tochmash.
+The In Service is 1976-present.
+The Proliferation is Widely Proliferated throughout Armenia, Azerbaijan, Belarus, India Iran, Russia, Ukraine, and Uzbekistan.
+The Basic Load is 4-6.
+The Weight is 23.2.
+The Warhead Weight is 4.5.
+The Guidance System is SACLOS.
+The Effective Firing Range is 100-4,000.
+The Muzzle Velocity is 125 m/s, which increases to 800m/s at its peak m/s.
+The Flight Time to a 4,000 Meter Target is 9-10 seconds.
+The Armor Penetration is 600mm of RHA.
+The Hit Probability is 80.
+The Maximum Chamber Pressure is 6,500.
+The Horizontal and Vertical Dispersion is 0.2.
+The Kombat Gun-Launched Missile Capable is Yes.
+The Variants is 9M112M, 9M112M2, 9M124.
+The Note is Fired from the T-64 and T-80 Family of Russian Tanks.
+
+Here is System information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT) of the Tank Commander’s Weapon System:
+The Name is 1 x Type 54 DShK 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Proliferation is over 1 Million.
+The Length (Total) is 1,625.
+The Length (Barrel) is 1,070.
+The Weight (Gun Only) is 34.
+The Weight (on Wheeled Mounting) is 157.
+The Max Rate of Fire is 600.
+The Range Finder Type is Optical.
+The Action is Gas-Operated, Flapper Locking.
+The Sights is Iron/Optical.
+The Feed System is 50 Round Belt.
+The Turret is single seat and placed at the rear of the vehicle roof. It is sharp-pointed at the front..
+The Variants is DK, DShKM, DSHKS, Type 54 HMG.
+The Fire on the Move is Yes.
+
+Here is Ammunition information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT) of the Tank Commander’s Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7x108.
+The Muzzle Velocity is 850.
+The Effective Range is 2,500.
+The Armor Penetration is API: 21 at 500 m & 13 at 1000 m (RHA).
+The Basic Load is 300.
+
+Here is System information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT) of the Coaxial Weapons System:
+The Name is 1 x  PK (Kalashnikov's Machine Gun) 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Function is in use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Max Rate of Fire is 650.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Action is Gas-operated, open bolt.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Tangent iron sights (default); Optical, Night-vision, Thermal and Radar sights.
+
+Here is Ammunition information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT) of the Coaxial Weapons System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 825.
+The Effective Range (Iron Sights) is 100- 1,000.
+The Effective Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 3,800.
+The Basic Load is 250.
+
+Here is Fire Control information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT):
+The Name is 1V528-2 fire-control compute.
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is Yes, TKN-4S combination day/night binocular periscopic. Additionally, the T-64U is equipped with the PZU-7 Anti-aircraft Sight.
+The Gunner's Aiming System is 1G46M Aiming System.
+The Thermal Sight Gunner is Yes, T01-K01ER Night Sight.
+The 1G46 Magnification is 2.7 and ×12 magnification.
+The Rangefinder is IG46 Gunner Sight, Laser.
+The Sighting and Observation System is TKN-4CR, also known as the PNK-4SR.
+The IG46 Rangefinder Maximum Range is 400.
+The IG46 Rangefinder Minumum Range is 5,115.
+The Vision Blocks is 1 x TPNO-16, 2 x TPNA-65 day vision blocks.
+The Fire on the Move is Yes.
+The Main Gun Stabilization is 2-Plane, 2E42M Stabilization System.
+The Rangefinder is two-axis stabilized IG42 laser rangefinder sight.
+The 2E42M Stabilization System (Horizontal Error) is 0.4.
+The 2E42M Stabilization System (Vertical Error) is .03.
+The Ballistic Computer is 1B528-1 Ballistic Calculator..
+The PZU-5 Monocular Periscopic Sight is Available.
+The Searchlight is L-4 searchlight..
+The Wind Sensor is DVE-BS wind sensor.
+The Guidance System is TAK0-621 Guided Weapon Complex.
+
+Here is Protection information for the T-64BM Bulat Ukrainian Main Battle Tank (MBT):
+The Hull Armor is Cast and welded steel armour.
+The Turret Armor is Cast armour welded together.
+The Turret Type is ROM-7 commander's cupola.
+The Armor Protection (Front) is 370-440 mm of RHA against KE rounds and 500 mm to 575 mm of RHA against HEAT rounds.
+The Applique Armor is Available.
+The Self-Entrenching Blade is KMT-4 roller or the KMT-6 track width mine plough,.
+The Explosive Reactive Armor is Nozh ERA system.
+The Explosive Reactive Armor Weight is 3.5.
+The Explosive Reactive Armor Install Time is 6.
+The Nozh ERA Strength is 1.5-2.5 times more effective than exiating ERA Designs..
+The Noza ERA Compatability is interchangeable with the Russian-developed 4C20 and 4C22 ERA systems..
+The Active Protection System (APS) is Zaslon APS.
+The Doppler Radar is Yes.
+The Mine Clearing is Roller-plow available.
+The NBC Protection is Yes.
+The Smoke Equipment is 902A "Tucha-1" smoke grenade launcher in two groups of four, on each side of the gun.
+The IR Signature is INA.
+The Automatic Fire Suppression Systems. is Yes, PPA Fire Suppression System.
+The Zaslon APS is Available.
+The Note is The Explosive Reactive Armor (ERA) protects the T-64 BM Bulat against attacks by 220% and against Kinetic Energy Attacks by 190%.
+

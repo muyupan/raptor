@@ -1,0 +1,72 @@
+This document describes the Meerkat-SA British Electronic Support Measures (ESM) and Electronic Intelligence (ELINT) System.
+
+Meerkat-SA is a network of high reliability ESM-ELINT sensors under remote control that detects, identifies and locates all radar emissions.
+It provides a fully automatic, real-time national air and surface picture of radar activity
+
+Meerkat-SA consists of a number of remote fixed site sensors that connect to a central command & control site via a national Wide Area Network. At this site operators control the remote sensors and local processors that identify the intercepts, fuse the data and maintain a dynamic Electronic Order Of Battle picture.
+
+This equipment has proliferated into the following countries: South Africa, United Kingdom of Great Britain and Northern Ireland.
+
+Here is System information for the Meerkat-SA British Electronic Support Measures (ESM) and Electronic Intelligence (ELINT) System:
+The Alternative Designation is Meerkat-SA.
+The Type is Electronic Support Measures (ESM) and Electronic Intelligence (ELINT) System.
+The Family is INA.
+The Crew is INA.
+The System Features is 24hr, 365 days/year strategic 
+ Surveillance and Analysis
+
+·Complements Radar Recognised Air 
+ and Surface picture: Identifies targets
+
+·Early warning: Much longer detection 
+ range than target radars
+
+·Automatic update of EOB
+
+·Effective under local EMCON 
+ conditions
+
+·Very high reliability + no on-site 
+ operators = low through-life costs
+
+·Scaleable: up to 12 sensors.
+The Sensor Features is ·Dual receivers and antennas for 
+ concurrent Surveillance and Analysis
+
+·Optional digital receiver for increased 
+ sensitivity and in-depth ELINT 
+ collection & analysis.
+The Surveillance Objectives is ·Monitoring cross-border activity:
+ -assess possible military or political 
+ change
+
+
+-identify enemy weaknesses
+
+-counter intentions of enemies
+
+-detect incursions into EEZs
+
+·Technical ELINT Collection (Digital 
+ Receiver Option) - precision 
+  parameter measurement,including 
+  “fingerprinting”
+
+-track movements, and/or assess the 
+  maintenance states of, specific 
+  instances of selected emitters
+
+-maintain national EW Intelligence 
+  Library Data Base for programming 
+  own Radar Warning, ESM and ECM 
+  systems (land, sea and air)..
+
+Here is Dimensions information for the Meerkat-SA British Electronic Support Measures (ESM) and Electronic Intelligence (ELINT) System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+
+Here is Automotive information for the Meerkat-SA British Electronic Support Measures (ESM) and Electronic Intelligence (ELINT) System:
+The Prime Mover is INA.
+

@@ -1,0 +1,45 @@
+This document describes the PTS-4 Russian Amphibious Cargo Vehicle.
+
+The PTS-4 Russian Amphibious Cargo Vehicle follows the same basic design outlines as the preceding machines in this series, but it is larger and more capable overall than the preceding models.
+
+This equipment has proliferated into the following countries: Cambodia, Russian Federation.
+
+Here is Variants information for the PTS-4 Russian Amphibious Cargo Vehicle:
+The PTS and PTS-M is These two vehicles are essentially similar and are based on the elongated chassis of the ATS-59 tracked artillery tractor, full details of which can be found in the All-Terrain Carriers And Prime Movers section..
+The PTS-2 is Introduced in 1985, the PTS-2 is based on the chassis of the MT-T heavy tracked transporter, which uses suspension components of the T-64 MBT..
+The PTS-3 is The PTS-3 is a variant of the PTS-2 that has higher sides for better performance in rough water..
+
+Here is System information for the PTS-4 Russian Amphibious Cargo Vehicle:
+The Alternative Designation is PTS-4.
+The Type is Amphibious Cargo Vehicle.
+The Manufacturer is JSC Omsk Transport Machine-Building Plant (KBTM).
+The Configuration is Tracked.
+The Crew is 2.
+The Cargo Capacity on Land is 12 tons.
+The Cargo Capacity on Water is 18 tons.
+
+Here is Dimensions information for the PTS-4 Russian Amphibious Cargo Vehicle:
+The Length is 8.3 m.
+The Width is 3.3 m.
+The Height is 3.2 m.
+The Weight, Empty is 33.1 tons.
+
+Here is Automotive information for the PTS-4 Russian Amphibious Cargo Vehicle:
+The Engine Name is V-84MS.
+The Engine Type is Diesel.
+The Engine Power is 840 hp.
+The Maximum Range is 600 km.
+The Maximum Speed on Land is 60 km/h.
+The Maximum Speed on Water is 15 km/h.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Step is 0.65 m.
+The Trench is 2.5 m.
+The Fording is Amphibious.
+
+Here is Protection information for the PTS-4 Russian Amphibious Cargo Vehicle:
+The Armor is The PTS-4 has a fully-enclosed armored cab. It provides protection against small arms fire and artillery shell splinters. Armored forward control cab also provides some degree of protection for the troops or vehicles carried in the rear cargo area..
+The Applique Armor is No.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

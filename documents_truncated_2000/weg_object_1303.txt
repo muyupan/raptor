@@ -1,0 +1,91 @@
+This document describes the Pantsir-S2 Russian 8x8 Self-Propelled Anti-Aircraft System.
+
+The Pantsir-S2 Russian 8x8 Self-Propelled Anti-Aircraft Weapon System is an improved version of the Pantsir-S1 which uses the same missile launcher and anti-aircraft cannons.
+
+This equipment has proliferated into the following countries: Algeria, Equatorial Guinea, Ethiopia, Iran (Islamic Republic of), Jordan, Myanmar, Oman, Russian Federation, Serbia, Syria, Ukraine, United Arab Emirates, Viet Nam.
+
+Here is Variants information for the Pantsir-S2 Russian 8x8 Self-Propelled Anti-Aircraft System:
+The Pantsir-S2 is A modernized system for the Russian Armed Forces and for export..
+The Pantsir-SM is INA.
+The Pantsir-SA is Artic Version.
+
+Here is System information for the Pantsir-S2 Russian 8x8 Self-Propelled Anti-Aircraft System:
+The Alternative Designation is Pantsir-S2.
+The Type is Self-Propelled Anti-Aircraft System.
+The Manufacturer is Ulyanovsk Mechanical Plant.
+The Configuration is 8x8.
+The Chassis is KAMAZ 656.
+The Crew is 3.
+
+Here is Dimensions information for the Pantsir-S2 Russian 8x8 Self-Propelled Anti-Aircraft System:
+The Length is 10.3 m.
+The Width is 2.5 m.
+The Height is 3.27 m.
+The Wheelbase is 3.6 m.
+The Weight, Combat is 14,850 kg.
+
+Here is Automotive information for the Pantsir-S2 Russian 8x8 Self-Propelled Anti-Aircraft System:
+The Engine Name is YaMZ-5367.
+The Engine Type is Diesel.
+The Engine Power is 400 hp.
+The Maximum Range is 800 km.
+The Maximum Speed is 90 km/h.
+The Amphibious is No.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Step is 0.6 m.
+The Trench is 2.0 m.
+The Fording is 1.8 m.
+
+Here is System information for the Pantsir-S2 Russian 8x8 Self-Propelled Anti-Aircraft System of the Gun Weapon System:
+The Name is 2 x 2A38M 30mm Anti-Aircraft Guns.
+The Type is Anti-Aircraft Guns.
+The Caliber is 30 mm.
+The Length is INA.
+The Barrel Length is INA.
+The Weight is 195 kg gun only.
+The Action is Gas Operated.
+The Rate of Fire is INA.
+The Burst Length is 83 - 250 rounds.
+The Muzzle Velocity is 960 - 980 m/s.
+The Maximum Firing Range is 200 to 2,000 m in altitude with a maximum slant range of 4,000 m..
+The Cooling System is Water cooled.
+The Feed System is Belt fed, single belt feed.
+
+Here is Ammunition information for the Pantsir-S2 Russian 8x8 Self-Propelled Anti-Aircraft System of the Gun Weapon System:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Cartridge is 30x165mm.
+The Basic Load is INA.
+
+Here is Missile Weapon System information for the Pantsir-S2 Russian 8x8 Self-Propelled Anti-Aircraft System:
+The Name is 12 x 57E6-E Surface-to-Air Missiles.
+The Type is Surface-to-Air Missiles.
+The Length is INA.
+The Missile Weight is 74.5 kg.
+The Warhead Type is INA.
+The Warhead Weight is 20.
+The Number of Stages is 2.
+The Minimum Range is 1,200 m.
+The Maximum Range is 20,000 m.
+The Target Maximum Altitude is 10,000 m.
+The Target Maximum Speed is 1,000 mps.
+
+Here is Radar System information for the Pantsir-S2 Russian 8x8 Self-Propelled Anti-Aircraft System:
+The Name is 1 x SOT Target and Fire Control Radar.
+The Type is Target and Fire Control Radar.
+The Band is S-Band.
+The Number of Targets is 40.
+The Search Azimuth is 90°.
+The Coverage is 360° coverage.
+The Maximum Detection Range is 40 km.
+The Maximum Engagement Speed is 1,200 mps.
+The Note is The shape of the new antenna has change and is mounted at the top of the turret..
+
+Here is Protection information for the Pantsir-S2 Russian 8x8 Self-Propelled Anti-Aircraft System:
+The Armor is None.
+The Turret Armor is INA.
+The Applique Armor is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

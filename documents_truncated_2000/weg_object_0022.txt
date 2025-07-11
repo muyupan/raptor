@@ -1,0 +1,153 @@
+This document describes the 2S35-1 Koalitsiya-SV-KSh Russian 152mm Self-Propelled Howitzer (SPH).
+
+The 2S35-1 Koalitsiya-SV KSh is a new Russian 152mm Self-Propelled Howitzer. Developed by JSC Central Research Institute Burevestnik, the 2S35-1 Koalitsiya-SV KSh is mounted on an 8x8 KAMAZ-6560 truck chassis and has the same turret and fires the same ordinance as its predecessor the 2S35-1 Koalitsiya-SV. 
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the 2S35-1 Koalitsiya-SV-KSh Russian 152mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is 2S35-1 Koalitsiya-SV KSh.
+The Manufacturer is Burevestnik Central Scientific Research Institute.
+The Type is Self Propelled Howitzer (SPH).
+The Family is 2S35.
+The Crew is 3.
+The Chassis is The KamAZ-6560 is a heavy-duty military truck..
+The Chassis Configuration is 8x8.
+The Estimated Service Life is 30.
+The Emplacement Time is 1.5.
+The Displacement Time is less than 1.
+The Note is This artillery system can be seen as a less expensive and more mobile alternative to the tracked version..
+
+Here is Dimensions information for the 2S35-1 Koalitsiya-SV-KSh Russian 152mm Self-Propelled Howitzer (SPH):
+The Length (Truck Only) is 10.3.
+The Width  (Truck Only) is 2.5.
+The Height  (Truck Only) is 3.27.
+The Weight, Combat is 48-55.
+The Ground Pressure is INA.
+The Note is Chassis is based off the The KamAZ-6560.
+
+Here is Automotive information for the 2S35-1 Koalitsiya-SV-KSh Russian 152mm Self-Propelled Howitzer (SPH):
+The Engine Name is KamAZ-740.35.
+The Engine Type is Diesel.
+The Engine Power is 400.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 90.
+The Speed, Maximum Off-Road is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.0.
+The Fording Depth is 1.8.
+
+Here is Communications information for the 2S35-1 Koalitsiya-SV-KSh Russian 152mm Self-Propelled Howitzer (SPH):
+The Name is R-168-25U-2.
+The Type is VHF.
+The Quantity is 2.
+The Frequency is 30-180 MHz.
+The Capabilities is FH Voice Data Retrans.
+The Maximum Range is 25-40 km.
+The Mount Type is Vehicle.
+The Length is 205.
+The Width is 175.
+The Height is 95.
+The Weight is 3.
+
+Here is System information for the 2S35-1 Koalitsiya-SV-KSh Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is 152 mm/L52 2A88 Howitzer.
+The Type is 152.
+The Breech Type is Vertical sliding wedge.
+The Length, Barrel is INA.
+The Loader Type is Automated with a pneumatic rammer.
+The Max Rate of Fire is 16.
+The Normal Rate of Fire is 12.
+The Muzzle Brake is Double baffle.
+The Recoil System is Yes.
+The Bore Evacuator is Yes.
+The Max Elevation is +70.
+The Min Elevation is -7.
+The Traverse Range is 360.
+The Maximum Firing Range (Precision-Guided Rounds) is 80.
+The Maximum Firing Range (Standard Rounds) is 40.
+The Time to Fully Reload is 15.
+The Ignition System is Microwave ignition system.
+The Note is The Koalitsiya-SV KSh is also capable of firing older Krasnopol precision guided munitions with a range of 20 km..
+
+Here is Ammunition (Option 1) information for the 2S35-1 Koalitsiya-SV-KSh Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is 152-mm Frag-HE, OF-72.
+The Caliber is 152.
+The Muzzle Velocity is 864.
+The Fuse Type is RGM-2 PD.
+The Basic Load is 65 Total Rounds of any 152mm combination projectile.
+The Effective Range is 24.
+The Projectile Weight is 43.
+
+Here is Ammunition (Option 2) information for the 2S35-1 Koalitsiya-SV-KSh Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is 152-mm Frag-HEAT, BP-540.
+The Caliber is 152.
+The Muzzle Velocity is 655.
+The Fuze Type is GPV-3 PD.
+The Basic Load is 65 Total Rounds of any 152mm combination projectile.
+The Maximum Effective Range is 27.
+The Complete Projectile Weight is 27.
+
+Here is Ammunition (Option 3) information for the 2S35-1 Koalitsiya-SV-KSh Russian 152mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is 152-mm Frag-HE BB, OF-91.
+The Caliber is 152.
+The Muzzle Velocity is 828.
+The Fuze Type is KZ-88 PD.
+The Basic Load is 65 Total Rounds of any 152mm combination projectile.
+The Maximum Effective Range is 29.
+The Complete Projectile Weight (OF-61) is 42.86.
+The Note is The 2S19 can fire the additional 152mm projectiles: 9K25 Krasnopol guided projectile and the 3-RB-30 radio jamming round.
+
+Here is System information for the 2S35-1 Koalitsiya-SV-KSh Russian 152mm Self-Propelled Howitzer (SPH) of the Auxiliary Weapon System:
+The Name is 12.7×108mm ZiD Kord Remote weapon station.
+The Type is 12.7.
+The Manufacturer is V.A. Degtyarev Plant.
+The In Service is 1998-Present.
+The Length is 1,980.
+The Max Rate of Fire is 650-600.
+The Sustain Rate of Fire is 550-600.
+The Action is Gas-operated, rotating bolt.
+The Feed System is 50-round linked belt.
+The Sights is Iron Sights with two sighting options, known as CAM and CAM1.
+The CAM 1 Capability is TV/IR camera and a laser rangefinder.
+The CAM 2 Capability is TV camera, Thermal Camera and laser rangefinder.
+The Variants is 6P50-1, 6P50-2, 6P50-3, 6P49.
+The Note is Remote weapon cocking capability.
+
+Here is Ammunition information for the 2S35-1 Koalitsiya-SV-KSh Russian 152mm Self-Propelled Howitzer (SPH) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7×108.
+The Muzzle Velocity is 860.
+The Basic Load is 2,500.
+The Effective Range is 2,000.
+
+Here is Fire Control information for the 2S35-1 Koalitsiya-SV-KSh Russian 152mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is Yes, with Automatic targeting and charge selection system..
+The Thermal Sight Vehicle Commander is Yes, CAM 1 (TV/IR camera, Thermal Camera and a laser rangefinder).
+The Thermal Sight Gunner is Yes, CAM 2 (TV/IR camera, Thermal Camera and a laser rangefinder).
+The Main Gun Stabilization is INA.
+The Multiple Round, Simultaneous Impact (MRSI) Capable is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Radars is 2.
+The Radar Type is Doppler.
+
+Here is Protection information for the 2S35-1 Koalitsiya-SV-KSh Russian 152mm Self-Propelled Howitzer (SPH):
+The Hull Armor is composite laminate design up to 200 mm thick.
+The Turret Armor is composite laminate design up to 200 mm thick. The Turret is not heavily Armored.
+The Applique Armor is Available.
+The Explosive Reactive Armor is Available, the Kontakt-V Explosive Reactive Armour..
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Yes,  can dig 12 m × 5.5 m × 1.5 m entrenchment in sandy soil within 12 to 15 minutes..
+The NBC Protection is Reported to be the GO-27 PRKhR (NBC) System.
+The Fire Suppression System is Reported to be the Raduga-2 Fire Suppression System.
+The Smoke Equipment is Yes, 2 bundles of 902B Tucha smoke grenade launchers.
+The Smoke Grenade Range is 250-300.
+The Smoke Screen is 30 m wide and 10 m high for 60 seconds per grenade.
+The IR Signature is INA.
+

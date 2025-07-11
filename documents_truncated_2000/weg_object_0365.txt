@@ -1,0 +1,73 @@
+This document describes the M-1985 North Korean 57mm Self-Propelled Anti-Aircraft Gun.
+
+This twin 57mm automatic AA gun, which is evidently without a formal designation in the open literature, [though possibly designated M-1985] is a DPRK-produced system mounted on a modified YW 531 APC. It is generally similar to, but distinct from, the Russian ZSU-57-2 system.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is System information for the M-1985 North Korean 57mm Self-Propelled Anti-Aircraft Gun:
+The Alternative Designations is M-1985.
+The Description is Self-propelled anti-aircraft gun (SPAAG), armed with two 57 mm autocannons.
+The Crew is 6.
+The Chassis is YW 531 APC.
+The Emplacement Time (min) is N/A.
+The Displacement Time (min) is N/A.
+
+Here is Dimensions information for the M-1985 North Korean 57mm Self-Propelled Anti-Aircraft Gun:
+The Length, Hull is 5.476 m.
+The Length, with Gun Forward is 8.46.
+The Width is 2.978 m.
+The Weight is 12.6.
+The Ground Clearance is 425.
+
+Here is Automotive information for the M-1985 North Korean 57mm Self-Propelled Anti-Aircraft Gun:
+The Engine Name is KHD BF8L 413F.
+The Engine Type is 8-cylinder air-cooled, turbo-charged diesel.
+The Engine Power is 320.
+The Suspension is individual torsion bar with hydraulic shock absorbers on the first and last road wheels.
+The Fuel Capacity is INA.
+The Operational Range, Road is 500.
+The Speed, Road is 65.
+The Speed, Off-Road is 46.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Trench is 2.7.
+The Fording is 1.4.
+
+Here is Main Weapon System information for the M-1985 North Korean 57mm Self-Propelled Anti-Aircraft Gun:
+The Gun, Caliber, Type is 57-mm recoil-operated air-cooled cannons,.
+The Number of Barrels is 2.
+The Rate of Fire is 150-180 rds/min per barrel.
+The Loader Type is Two 5-round clips,     manual, 10 rds.
+The Reload Time is 4-8.
+The Traverse is 360.
+The Traverse Rate is 30.
+The Elevation is 0 to 87 degrees.
+The Elevation Rate is 20.
+The Basic Load is 300.
+The Azimuth is Unlimited.
+
+Here is Main Weapon System Ammunition information for the M-1985 North Korean 57mm Self-Propelled Anti-Aircraft Gun:
+The Type is 57 x 348 SR  APHE, Frag-T, APC-T, HVAP-T, HE-T.  Uses same ammo as the towed single S-60.
+The Max Effective Range is 4,000.
+The Max Effective Altitude is 4,237 at 65o.
+The Min Altitude is 0.
+The Frag-T  Projectile Weight is 2.81.
+The APC-T Projectile Weight is 2.82.
+The HE-T Projectile Weight is 2.85.
+The Muzzle Velocity is 1,000.
+The Frag-T Fuze Type is Point Detonating.
+The APC-T Fuze Type is Base Detonating Fuze.
+The HE-T Fuze Type is (Yugoslavian, impact [super quick] action with pyrotechnical self-destruct).
+The Self-Destruct Time is 13-17.
+The Armor Penetration is 130  at 1,000m, APHE 96 APC-T at 1,000 m.
+
+Here is Fire Control System information for the M-1985 North Korean 57mm Self-Propelled Anti-Aircraft Gun:
+The Computerize FCS is Optical mechanical computing sight.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+
+Here is Protection information for the M-1985 North Korean 57mm Self-Propelled Anti-Aircraft Gun:
+The Armor Type is Welded-Stell.
+The Armor is 14 mm maximum, welded steel.
+

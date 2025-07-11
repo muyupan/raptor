@@ -1,0 +1,34 @@
+This document describes the MP007 American Man-Portable Direction Finding System.
+
+The R&S MP007 direction finding system is based on the R&S DDF007 portable direction finder upgrade kit in combination with the R&S®ADDx07 compact DF antennas. The result is a unique combination of functionality and performance in a system of this size. It can be used as a stationary or mobile DF station or as a portable manual direction finder, and can be reconfigured within minutes to meet the requirements of the current situation. The R&S®MP007 comes with a wide range of powerful software options and add-ons, making it an excellent choice for all applications that call for a compact and flexible yet powerful DF system.
+
+Key Facts
+
+Outstanding DF accuracy in compact design due to use of the correlative interferometer DF method in the range above 173 MHz
+Wide frequency range from 20 MHz to 6 GHz (DF mode)
+Realtime position fixing for detected transmitters through networking of multiple R&S®MP007 systems
+Extended operating time thanks to high-power battery and optional solar module
+Integration into existing Rohde & Schwarz DF systems
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the MP007 American Man-Portable Direction Finding System:
+The Alternative Designation is MPOO7.
+The Type is Man-Portable Direction Finding System.
+The Crew is 1.
+The DF Accuracy is Outstanding DF accuracy in compact design due to use of the correlative interferometer DF method in the range above 173 MHz.
+The Frequency Range is Wide frequency range from 20 MHz to 6 GHz (DF mode).
+The Position Fixing is Realtime position fixing for detected transmitters through networking of multiple R&S®MP007 systems.
+The Operation is Extended operating time thanks to high-power battery and optional solar module.
+The Intergration is Integration into existing Rohde & Schwarz DF systems.
+The Software is Tried and tested R&S®RAMON control software.
+The Web-Based Interface is Special web-based user interface for tablets and touchscreen operation.
+The Wireless Communications is Networking via wireless communications.
+The Transmitters is Master/slave position fixing of fixed-frequency transmitters. Integration of R&S®MP007 into existing Rohde & Schwarz radiolocation systems.
+
+Here is Dimensions information for the MP007 American Man-Portable Direction Finding System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

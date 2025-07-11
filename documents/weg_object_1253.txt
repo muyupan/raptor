@@ -1,0 +1,99 @@
+This document describes the Sevom Khordad (3rd Khordad) Iranian Long-Range Air Defense Missile System.
+
+The Sevom Khordad, also known as the 3rd Khordad is the most advanced version of the Ra'ad air defense system. It has the greatest reported range of any of the variants.
+
+It employs a phased-array radar on its transporter-erector-launcher radar (TELAR) that is visually similar to the Chair Back radar on the Buk-M2. The phased-array radar can reportedly provide guidance for up to two additional Alam al Hoda transporter-erector-launchers.
+
+The system can employ Taer-2B missiles as well as the Sayyad-2C missile which is based on the American SM-1R. The Sayyad-2C has a reported range of 46 miles and a maximum intercept altitude of 100,000 ft. The missile has a maximum speed of Mach 4.5. When fitted on the 3rd Khordad, the Sayyad missiles are not carried in canisters.
+
+The system can engage two targets at a time.
+
+The name comes from the Persian date (May 24) that Iran recaptured Khorramshahr in 1982 during the Iran-Iraq war.
+
+A 3rd Khordad battalion consists of four batteries, each consisting of one 3rd Khordad TELARs linked to two Alam al Hoda TELs for a total of four TELARS and eight TELs. Overall air surveillance is achieved with a Bashir 3D phased array surveillance radar operating in the S-band with a range of 190 mi (350 km).
+
+The 3rd Khordad is a specialised variant of the Iranian Raad medium range air defence system which entered service in the mid 2010s, and deploys Taer-2B missiles from mobile transporter erector launchers. The missile systems have been mass produced and are heavily relied on today by the country’s air defence forces - complementing longer ranged platforms acquired from Russia including the S-200 and the S-300PMU-2. The 3rd Khordad is the longest ranged variant of the Raad system, and reportedly retains an engagement range of up to 200km. The platform can engage up to four targets with up to eight missiles simultaneously, and makes use of a powerful phased array radar. The successful testing of the missile system against a high end American drone is likely to have significant consequences for the balance of power in the Middle East - with Iran’s adversaries likely to be more wary about the risks of engaging the country’s indigenous defence systems. Iran itself may well speed up development of new long range missile platforms domestically - and the incident may also affect the military's decision making regarding the need to import more sophisticated foreign weapons systems such as the Russian S-400 which is reportedly currently under consideration.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of).
+
+Here is Variants information for the Sevom Khordad (3rd Khordad) Iranian Long-Range Air Defense Missile System:
+The Note is The Raad (Thunder) family contains 3 different systems which came into service one after another. The original Raad air defense missile system was officially displayed in 2012. It was a medium-range system of new design. It uses two electro-optical systems to provide both detection and engagement coverage. Each launcher vehicle carrier 3 missiles, plus and additional passive radar.
+
+   The second member of the family was Tabas. Its name refers to the desert of Tabas incident in 1980. This improved air defense missile system was officially displayed in 2014. Tabas is equipped with a mechanical radar and also carries 3 missiles. It can reach targets at a maximum range of up to 75 km.
+
+   The third, so far the most advanced member of Raad family is the Sevom Khordad. (Sevom - Third, Khordad - third month of Iranian calendar). The name "Sevom Khordad" refers to the 3rd day of 3rd month of the Iranian calendar, which coincides with the liberation of the city of Khorramshahr during Iran–Iraq War..
+
+Here is System information for the Sevom Khordad (3rd Khordad) Iranian Long-Range Air Defense Missile System:
+The Alternative Designation is Sevom Khordad; 3rd Khordad.
+The Type is Medium-Range Air Defense Missile System.
+The Crew is INA.
+The Chassis is The Sevom Khordad uses the same 6x6 wheeled chassis as Raad and Tabas systems..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note #1 is The 3rd Khordad is the most advanced version of the Ra'ad air defense system. It has the greatest reported range of any of the variants..
+The Note #2 is A battery contains 1 TELAR and 2 TEL vehicles. So a single battery has 9 ready-to-fire missiles. A battalion has 4 batteries with 4 TELARs and 8 TELs and can engage 16 targets simultaneously. Each battalion additionally includes a Bashir S-band 3D phased array surveillance radar which has a detection range of 350 km. The battalion also has a command and control (C2) unit, based on IVECO truck chassis. The C2 unit provides communication between Sevom Khordad batteries. Furthermore, the C2 unit can connect other air defense systems of the Raad family, including Raad and Tabas, into a single air defense network. This allows to cover large area and targets can be engaged with a wide range of missiles from the cheapest Taer-1 missiles to the most capable Taer-2s. This adds the capability of facing different types of threats with different types of interceptors. In case of heavy jamming when even the X-band engagement radar can’t handle its duty, the C2 unit can provide an additional data link, connecting the system to electro-optical engagement systems of Raad batteries, in order to guide missiles toward targets..
+
+Here is Dimensions information for the Sevom Khordad (3rd Khordad) Iranian Long-Range Air Defense Missile System:
+The Length is 7.5 m.
+The Width is 3.3 m.
+The Height is 5.1 m.
+The Weight, Combat is INA.
+
+Here is Automotive information for the Sevom Khordad (3rd Khordad) Iranian Long-Range Air Defense Missile System:
+The Engine Name is IVECO, Model: INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Cruising Range is 500 km.
+The Speed, Maximum Road is 65 km/h.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+
+Here is Missile (Option 1) information for the Sevom Khordad (3rd Khordad) Iranian Long-Range Air Defense Missile System of the Missile System:
+The Name is Taer-2B Missile.
+The Type is Surface-to-Air Missile.
+The Diameter is INA.
+The Length is INA.
+The Maximum Effective Range is 105 km.
+The Maximum Intercept Altitude is 25,000 m.
+The Speed is INA.
+The Guidance System is Radar, mid-course update.
+
+Here is Missile (Option 2) information for the Sevom Khordad (3rd Khordad) Iranian Long-Range Air Defense Missile System of the Missile System:
+The Name is Sayyad-2C Missile.
+The Type is Surface-to-Air Missile.
+The Diameter is INA.
+The Length is INA.
+The Maximum Effective Range is up to 75 km.
+The Maximum Intercept Altitude is up to 30 km.
+The Speed is Mach 4.5+.
+The Guidance System is Radar, mid-course update.
+
+Here is Fire Control System information for the Sevom Khordad (3rd Khordad) Iranian Long-Range Air Defense Missile System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+
+Here is Internal Radar information for the Sevom Khordad (3rd Khordad) Iranian Long-Range Air Defense Missile System of the Fire Control:
+The Name is INA.
+The Type is Phased Array Engagement Radar.
+The Frequency/Band is X-Band.
+The Target Identification is Each Sevom Khorad TELAR can detect 100 targets at once..
+The Target Engagement is It can engage 4 targets simultaneously and guide 2 missiles on each target..
+The Note is It employs a phased-array radar on its transporter-erector-launcher radar (TELAR) that is visually similar to the Chair Back radar on the Buk-M2. The phased-array radar can reportedly provide guidance for up to two additional Alam al Hoda transporter-erector-launchers..
+
+Here is External Radar Vehicle information for the Sevom Khordad (3rd Khordad) Iranian Long-Range Air Defense Missile System of the Fire Control:
+The Name is Bashir.
+The Type is 3D phased Array Surveillance Radar.
+The Frequency/Band is S-band.
+The Maximum Detection Range is 350 km.
+
+Here is Protection information for the Sevom Khordad (3rd Khordad) Iranian Long-Range Air Defense Missile System:
+The Hull Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

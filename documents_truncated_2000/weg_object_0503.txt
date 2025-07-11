@@ -1,0 +1,94 @@
+This document describes the Kung Feng VI Taiwanese 117mm Multiple Launch Rocket System.
+
+The Kung Feng (Chinese: 工蜂; pinyin: Gōngfēng; literally: 'worker bee') MLR series is a family of multiple rocket launcher systems used by the Republic of China (Taiwan).
+
+Of these weapon systems, the latest variant is the Kung Feng VI, which commenced development in 1975, and was formally revealed to the public during the Taiwan National Day Parade in 1981.
+
+The Kung Feng IV features two compartments of 20 launchers, adding to a total of 40 launchers altogether, and is able to fire all rockets within 16 seconds. Its 126mm rockets weigh 24.4 kilograms, are 0.91 metres long, and have a range of 10,500 metres.
+
+The Kung Feng VI resembles the Soviet BM-21 Grad, albeit with a smaller diameter size and greater number of launcher tubes. Each of the 45 117mm launcher tubes houses an A-type rocket, and the tubes are capable of firing all rockets within 22.5 seconds, with a destructive area of 800 by 600 metres. The A-type rockets are 2.166 metres long, weigh 42.64 kilograms, have a maximum range of 15,000 metres, and can be fitted with either high explosive or white phosphorus payloads.
+
+The Kung Feng IV began development in 1960 and was completed in 1975, and were placed atop M113 armored vehicles. Towed and self-propelled variants of the Kung Feng IV entered service in 1972 and 1976 respectively; the towed variants were initially attached to the chemical weapons artillery division.
+
+Because the Kung Feng IV launchers were comparatively small, they were modified to be placed atop various different vehicles, such as the M151 jeep and LVTP5-RL. By the year 2000, only the LVTP5-RL variants of the marine corps were in service.
+
+During the 1970s, the earlier developmental models of the Kung Feng VI rocket launchers only had a range of 10 kilometres, which made them less effective than the older Kung Feng IV launchers. Unsatisfied with the range of the launchers being inferior to that of those from other countries, chief of staff of the artillery forces Hau Pei-tsun requested that the Academia Sinica research and development division increase the range of the rockets to 22 kilometres, and develop designs that allow for the implementation of cluster bombs and airburst fuses. This development led to the B-type rockets which were completed but never entered service. As other countries further continued to improve their rocket systems, with post-Cold War 122mm rocket models pushing beyond ranges of 20 kilometres, the weapons development of the ROC armed forces gradually fell behind.
+
+Within the development process, the Kung Feng VI was initially planned to be placed on top of an M42 Duster chassis, however due to difficulties in procurement the M113 chassis was used instead, which was unable to properly bear the weight of the rocket system. Henceforth, the ROC army gave up on the prospects of implementing the Kung Feng VI on caterpillar tracks, and began working on placing them on M809 five tonne wheeled trucks, in addition to implementing the FAC-202R fire control apparatus in order to improve precision.
+
+The ROC armed forces quickly retired its Kung Feng IV launchers and replaced them with the newer VI model as it entered service, however at the same time the launchers were incapable of fast reloading and had no dedicated transport trailer. Upon firing, it took soldiers 15 minutes to manually load the next rockets before the Kung Feng VI could fire again. Because the Kung Feng VI had logistical requirements greater than that of non-traditional artillery units, not many units were manufactured.
+
+As of present the Kung Feng VI is still in service, however there are plans for the units to be mass-replaced by the Thunderbolt-2000 systems.
+
+This equipment has proliferated into the following countries: Taiwan.
+
+Here is Variants information for the Kung Feng VI Taiwanese 117mm Multiple Launch Rocket System:
+The Kung Feng I is Prototype only. Never entered service..
+The Kung Feng II is Prototype only. Never entered service..
+The Kung Feng III is 126mm x 40 round launcher mounted on trailer..
+The Kung Feng IV Army is 126mm x 40 (2x20 round) launcher mounted on CM-21 APC used by the ROC Army..
+The Kung Feng IV Marines is 126mm x 40 (2x20 round) launcher mounted on LVTP-5 used by the ROC Marines.[.
+The Kung Feng V is Experimental version that did not enter service..
+The Kung Feng VI is 117mm x 45 round launcher mounted on M52A1 truck. 2 types of rockets, A version carries either HE warhead or WP. B version came with air burst fuse and 6,400 6.4mm size steel balls, covering 30,000 sq meters..
+The Kung Feng Sea is Naval version, mounted on destroyers to launch ECM chaff..
+
+Here is System information for the Kung Feng VI Taiwanese 117mm Multiple Launch Rocket System:
+The Alternative Designation is Kung Feng VI.
+The Type is Multiple launch rocket system.
+The Crew is 6.
+The Chassis is M52A1 military truck..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Reload Time is Rockets are reloaded manually by the crew within 15 minutes. Reload rockets are carried by escorting truck..
+
+Here is Dimensions information for the Kung Feng VI Taiwanese 117mm Multiple Launch Rocket System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+The Ground Pressure is INA.
+
+Here is Automotive information for the Kung Feng VI Taiwanese 117mm Multiple Launch Rocket System:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Cruising Range is 600.
+The Speed, Maximum Road is 80.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.5 m.
+The Trench is 0.5 m.
+The Fording is 0.5 m.
+
+Here is System information for the Kung Feng VI Taiwanese 117mm Multiple Launch Rocket System of the Main Weapon System:
+The Name is Kung Feng VI.
+The Type is Multiple launch rocket system.
+The Number of Rocket Cells is 45.
+The Full Salvo Duration is 23 sec.
+The Reload Time is 15 min.
+The Elevation is INA.
+The Traverse is INA.
+
+Here is Ammunition information for the Kung Feng VI Taiwanese 117mm Multiple Launch Rocket System of the Main Weapon System:
+The Type is Rocket.
+The Rocket Caliber is 117 mm.
+The Rocket Length is 1.80 m.
+The Rocket Weight is 60 kg.
+The Rocket Maximum Range is 15 km.
+
+Here is Fire Control information for the Kung Feng VI Taiwanese 117mm Multiple Launch Rocket System:
+The Name is INA.
+The Computerized FCS is INA.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+
+Here is Protection information for the Kung Feng VI Taiwanese 117mm Multiple Launch Rocket System:
+The Hull Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

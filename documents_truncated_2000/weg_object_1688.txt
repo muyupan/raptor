@@ -1,0 +1,160 @@
+This document describes the Bung Tomo Class Indonesian Corvette.
+
+The Bung Tomo class is a class of three Indonesian multi role patrol corvettes. They were originally built for the Royal Brunei Navy and named Nakhoda Ragam-class corvettes but were ultimately bought by Indonesia and renamed. The class is named after Bung Tomo, a noted leader of Indonesia's independence movement.
+
+The three vessels were built by BAE Systems Marine (now BAE Systems Maritime - Naval Ships). The contract was awarded to GEC-Marconi in 1995 and the ships, a variant of the F2000 design, were launched in January 2001, June 2001 and June 2002 at the then BAE Systems Marine yard at Scotstoun, Glasgow. The customer refused to accept the vessels and the contract dispute became the subject of arbitration. When the dispute was settled in favour of BAE Systems, the vessels were handed over to Royal Brunei Technical Services in June 2007.
+
+In 2007, Brunei contracted the German Lürssen shipyard to find a new customer for the three ships; in November 2012, it was announced that Indonesia had signed a memorandum of understanding with Britain to acquire the vessels for one-fifth of the original unit cost. The ships are now in service with the Indonesian Navy.
+
+The ships were originally armed with MBDA Exocet Block II anti-ship missiles and MBDA Seawolf air defence missiles. The main gun is an Oto Melara 76 mm; the ship also carries two torpedo tubes, two 30 mm remote weapon stations and has a landing spot for a helicopter. As 2018 the MBDA Seawolf missile was out of service due to expired and there was plan to replace it with VL Mica.
+
+In late December 2014, KRI Bung Tomo was involved in search and recovery operations of the Indonesia AirAsia Flight 8501 which crashed off the Java Sea between the islands of Belitung and Borneo. Later in early January 2015, KRI Usman Harun was deployed to search for the black boxes as the ship is equipped with the Thales Underwater Systems TMS 4130C1 hull-mounted sonar.
+
+KRI Bung Tomo is named after Sutomo, the leader of Indonesian guerrillas during the Battle of Surabaya. The naming of KRI John Lie memorializes the first Chinese Indonesian to be honored as National Hero of Indonesia, who was also one of the first high ranking navy commanders during the Indonesian National Revolution. The naming of KRI Usman-Harun memorializes Harun Said and Osman Hj Mohd Ali, who were executed by Singapore after the MacDonald House bombing, creating a controversy between the two nations.
+
+This equipment has proliferated into the following countries: Indonesia.
+
+Here is Variants information for the Bung Tomo Class Indonesian Corvette:
+The KRI Bung Tomo (ex KDB Jerambak) is Commissioned: 2014
+Status: Active.
+The KRI John Lie (ex KDB Bendahara Sakam) is Commissioned: 2014
+Status: Active.
+The KRI Usman-Harun (ex KDB Nakhoda Ragam) is Commissioned: 2014
+Status: Active.
+
+Here is System information for the Bung Tomo Class Indonesian Corvette:
+The Alternative Designation is Bung Tomo Class';  They were originally built for the Royal Brunei Navy and named Nakhoda Ragam-class corvettes but were ultimately bought by Indonesia and renamed..
+The Total Built is 3 ships built.
+The Type is Corvette.
+The Builder is BAE Systems Marine.
+The In Service is 2014-Present.
+The Crew is 79 men (up to 24 passengers).
+The Note is The ships were originally armed with MBDA Exocet Block II anti-ship missiles and MBDA Seawolf air defence missiles. The main gun is an Oto Melara 76 mm; the ship also carries two torpedo tubes, two 30 mm remote weapon stations and has a landing spot for a helicopter. As 2018 the MBDA Seawolf missile was out of service due to expired and there was plan to replace it with VL Mica..
+
+Here is Dimensions information for the Bung Tomo Class Indonesian Corvette:
+The Length is 95 m.
+The Beam is 12.8 m.
+The Draft is 3.6 m.
+The Displacement, Standard is 1,500 tons.
+The Displacement, Full Load is 2,000 tons.
+The Note is The ship has 12,572 cubic ft (356 cubic m) of ballast. A total of 4,767 cubic ft (135 cubic m) of fresh water and 24,791 cubic ft (702 cubic m) of fuel can be carried. Two bow thrusters permit precise maneuvering. Fin stabilizers are fitted..
+
+Here is Propulsion System information for the Bung Tomo Class Indonesian Corvette:
+The Engine Name is 4 x MAN B&W diesel engines.
+The Engine Type is Diesel.
+The Engine Power is 40,500 shp.
+The Propellers is 2 controllable-pitch propellers.
+The Maximum Range is 5 000 nm at 12 knots.
+The Maximum Speed is 30 knots.
+The Endurance is 14 days.
+
+Here is Communications information for the Bung Tomo Class Indonesian Corvette:
+The Radio is Classified.
+
+Here is Missile System #1 information for the Bung Tomo Class Indonesian Corvette of the Missile Weapon System:
+The Name is Exocet Missile.
+The Type is Anti-Ship Missile.
+The Quantity is 2 × 4 Exocet MM40 Block II missile launchers..
+The Launcher is MM40 Block II missile launchers..
+The Missile Basic Load is 8.
+The Length is 6 m.
+The Diameter is 34.8 cm.
+The Wingspan is 1.35 m.
+The Weight is 780 km.
+The Warhead is 165 km.
+The Engine is Solid propellant engine
+turbojet (MM40 Block 3 version).
+The Operational Range is 180 km.
+The Flight Altitude is Sea-skimming.
+The Speed is Mach 0.93
+1,148 kilometres per hour (713 mph; 319 m/s).
+The Guidance System is Inertial guidance and terminal active radar homing.
+The Launch Platform is multi-platform:
+*MM38 surface-launched
+*AM39 air-launched
+*SM39 submarine-launched
+*MM40 surface-launched.
+
+Here is Missile Weapon System #2 information for the Bung Tomo Class Indonesian Corvette of the Missile Weapon System:
+The Name is Sea Wolf Missile.
+The Type is Surface-to-Air Missile.
+The Quantity is 1 x VLS for Seawolf SAM Launcher.
+The Launcher is Vertical Launching System.
+The Missile Basic Load is 16 x Sea Wolf Missile.
+The Length is 1.9 m.
+The Diameter is 180 mm.
+The Wingspan is 450 mm.
+The Weight is 82 kg.
+The Warhead is 14 kg (30.9 lb) HE Blast-Fragmentation.
+The Detonation Mechanism is Direct contact/Proximity fuse activated.
+The Engine is Blackcap solid fuel sustainer.
+The Operational Range is 1–10 km.
+The Flight Ceiling is 3,000 m.
+The Speed is Mach 3 (3,675 km/h; 2,284 mph).
+The Guidance System is Automatic Command to Line-Of-Sight (ACLOS).
+The Steering System is Control surfaces.
+
+Here is System information for the Bung Tomo Class Indonesian Corvette of the Gun Weapon Systems:
+The Name is OTO Melara 76mm.
+The Type is Naval Gun.
+The Caliber is 76mm.
+The Quantity is 1 x 76-mm/62-cal Oto Melara Super Rapid DP.
+The Barrel Length is 4,724.4 mm.
+The Weight is Empty: 7.5 tonnes (17,000 lb).
+The Crew is Remote Controlled.
+The Elevation is −15°/+85°.
+The Traverse is 360°.
+The Rate of Fire is 85 rounds/min.
+The Muzzle Velocity is 915 m/s.
+The Maximum Firing Range is 16,000 m.
+The Feed System is Magazine capacity:
+80 ready rounds on Compact gun mount.
+
+Here is Ammunition information for the Bung Tomo Class Indonesian Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.
+The Shell is 76×636mmR
+cartridge weight 12.5 kilograms (28 lb)
+shell weight 6.3 kilograms (14 lb)
+propellant weight 2.35 kilograms (5.2 lb).
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Bung Tomo Class Indonesian Corvette of the Gun Weapon Systems:
+The Name is DS30M Mark 2 Automated Small Calibre Gun.
+The Type is Naval Gun.
+The Caliber is 30mm.
+The Quantity is 2 x 30-mm/75-cal DS 30B AA.
+The Note is The DS30M Mark 2 system consists of a 30mm Mark 44 Bushmaster II on a fully automated mount or manual controlled with an off-mount electro-optical director (EOD). The gun and the EOD are controlled from a remote operator console elsewhere on the ship. The "mount is a single cannon naval mount that is gyro stabilized, electrically operated and self contained gun mounting featuring a choice of cannon, control mode and sights. It has low magnetic, radar and IR signatures and excellent ergonomic availability, reliability and maintainability (ARM)." In theory "the unique dual feed system of the Bushmaster series allows the operator to select different types of ammunition for use against a variety of targets. The safety, reliability and low life-cycle costs of the Bushmaster system added to its overall value." However, photographs show only a single ammunition feed..
+
+Here is Ammuntion Gun Weapon System #2 information for the Bung Tomo Class Indonesian Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30mm.
+The Shell is INA.
+The Basic Load is INA.
+
+Here is Torpedo Weapon System information for the Bung Tomo Class Indonesian Corvette:
+The Torpedo Tubes is 2 x triple BAE Systems 324-mm Mark 32 ASW.
+The Torpedo Name is Mark 46 Torpedo.
+The Torpedo Basic Load is 6 x Mark 46 Torpedo.
+
+Here is Onboard Aviation Facilities information for the Bung Tomo Class Indonesian Corvette:
+The Facilities is Flightdeck, no hangar.
+The Helicopter is 1 x Eurocopter AS565 Panther[.
+
+Here is Fire Control information for the Bung Tomo Class Indonesian Corvette:
+The Gun and Missile FCS is 2 x AMS-1802SW gun/missile fire control.
+The Weapons Tracking System is 1 x Rademac 2500 surveillance and tracking system.
+
+Here is Radar Systems information for the Bung Tomo Class Indonesian Corvette:
+The Navigation Radar is 1 x Thales Scout navigation.
+The Air Search Radar is 1 x Alenia Marconi Systems (AMS) AWS-9 3-D air-search radar.
+
+Here is Sonar Systems information for the Bung Tomo Class Indonesian Corvette:
+The Hull-Mounted Sonar is 1 x Thales TMS-4130C1 hull-mounted sonar.
+
+Here is Protection information for the Bung Tomo Class Indonesian Corvette:
+The Active Protection System is Yes.
+The Electronic Warfare is 1 x Racal Cutlass 242 intercept and Scorpion Jammer.
+The Decoy is 1 x Super Barricade decoy rocket launcher.
+The NBC Protection is Yes.
+

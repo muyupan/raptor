@@ -1,0 +1,100 @@
+This document describes the BOV-M Slovenian 4x4 Armored Personnel Carrier (APC).
+
+The BOV (Serbian: Борбено оклопно возило (БОВ) / Borbeno oklopno vozilo, literally "Combat Armored Vehicle"), is an all-wheel-drive armored vehicle manufactured in the former Yugoslavia and today in Serbia. Currently in development is second generation BOV.
+
+The BOV has a capacity of 10, including a driver, gunner, and eight infantrymen. The vehicle has four-wheel drive and is powered by the Deutz type F 6L 413 F six-cylinder diesel engine developing 150 hp (110 kW) at 2650 rpm's.
+
+This equipment has proliferated into the following countries: Bangladesh, Bosnia and Herzegovina, Croatia, Montenegro, Serbia, Slovenia.
+
+Here is Variants information for the BOV-M Slovenian 4x4 Armored Personnel Carrier (APC):
+The BOV-M (Slovenia) is Some built with 12.7-mm MGs.
+The BOV-VP is Security version with swing out gates to direct crowds.
+The BOV-1/Polo M-83 is Sans troop compartment with 2 ATGM launcher pods with 3 AT-3 launchers each with machine gun mounted before the two AT-3s.
+The BOV-3 is 3 turret-mounted 20-mm cannons for air defense.
+The BOV-30 is 2 turret-mounted 30-mm cannons for air defense.
+The LOV (Croatia) is No raised compartment, increased hull protection, but with a 12.7-mm machine gun.
+The BOV-SN is Ambulance.
+The Yugo import BOV variants is Serbia has a variants that include SP AA vehicles with the Igla or Stinger missiles or the ZU-23; AT vehicles with the AT-5 Spandrel; or an armored reconnaissance vehicle with a 20-mm M55 cannon, 7.62-mm PKT machine gun with twin AT-3 Sagger AT launchers or a single Spandrel system.
+
+Here is System information for the BOV-M Slovenian 4x4 Armored Personnel Carrier (APC):
+The Alternative Designations is See Variants.
+The Description is 4 X 4 APC built originally by Yugoslavia with space for 8 soldiers to exit through side doors: 3 firing ports on each side & an additional one to the right of the commander’s vision block.
+The Manufacturer is TAM Complex Battle System factory in Velika Plana, Serbia.
+The Crew is 2 (driver, commander).
+The Passengers is 8.
+
+Here is Dimensions information for the BOV-M Slovenian 4x4 Armored Personnel Carrier (APC):
+The Length is 5.79.
+The Width is 2.53.
+The Height, Hull Roof is 2.34.
+The Height, Hull Top is 1.99.
+The Ground Clearance is 0.33.
+The Track is 1.90.
+The Wheelbase is 2.75.
+
+Here is Automotive information for the BOV-M Slovenian 4x4 Armored Personnel Carrier (APC):
+The Engine Name is 1 x German Deutz F 6L 413 F 6-cylinder diesel.
+The Engine Type is Diesel.
+The Engine Power is 150.
+The Transmission is 1 reverse gear, 5 forward gears.
+The Cruising Range (km) is 500.
+The Speed (Max Road) (km/h) is 95.
+The Speed (Max Off-Road) (km/h) is INA.
+The Speed (Average cross-country) (km/h) is 40.
+The Speed (Max Swim) is INA.
+The Fuel Capacity is 220 liters.
+The Gradient is 55.
+The Side Slope is 30.
+The Vertical Obstacle is 0.54.
+The Trench is 0.64.
+The Fording Depths is 1.10.
+The Turning Radius is 10.0.
+The Brakes is air-hydraulic with a hand-operated parking brake.
+The Suspension is front and rear suspension consists of leaf-type springs with telescopic shock-absorbers.
+
+Here is Communications information for the BOV-M Slovenian 4x4 Armored Personnel Carrier (APC):
+The Radio is INA.
+The Intercom is INA.
+
+Here is System information for the BOV-M Slovenian 4x4 Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 x NSV 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The In Service is 1971-Present.
+The Length is 1,560.
+The Weight, Gun Only is 25.
+The Weight, On Tripod is 41.
+The Weight, 50 round belt is 11.
+The Action is Gas-operated.
+The Rate of Fire is 700–800 rounds/min.
+The Effective Firing Range, vs. Air Targets is 1,500.
+The Effective Firing Range, vs. Ground Targets is 2,000.
+The Feed System is 50-round belt.
+The Sights is Iron sights.
+
+Here is Ammunition information for the BOV-M Slovenian 4x4 Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7×108mm.
+The Muzzle Velocity is 845.
+The Basic Load is 2,000.
+
+Here is Fire Control information for the BOV-M Slovenian 4x4 Armored Personnel Carrier (APC):
+The Fire Control System is No.
+The Periscope is Single forward-facing day periscope in the roof.
+The Passive Periscope is Yes.
+The Searchlight is Yes.
+The Firing Ports is three on each side.
+The Night Vision is Yes.
+
+Here is Protection information for the BOV-M Slovenian 4x4 Armored Personnel Carrier (APC):
+The Armor (turret front) (mm) is 6-10-mm (defeats 7.l62-mm AP at 300 m).
+The Applique Armor (mm) is Available on sides for variants.
+The Explosive Reactive Armor (mm) is No.
+The Active Protection System is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is Available.
+The Smoke Equipment is 6 x Smoke grenade launchers.
+The Survivability Equipment is Grill armor over windows.
+The Central Tire Inflation System is Yes.
+

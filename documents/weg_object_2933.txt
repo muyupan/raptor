@@ -1,0 +1,61 @@
+This document describes the R-330K Russian Mobile Automated Control Station.
+
+The R-330K Russian Mobile Automated Control Station is designed for automated centralized control of automated jamming stations (AJS) such as R-325U, R-330T(B), R-378A(B), and R-934B. It also coordinates the use of AJS thereby increasing the efficiency of jamming HF and VHF/UHF communication lines and networks.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the R-330K Russian Mobile Automated Control Station:
+The RP-330KPK: VHF Automated Command Post is The RP-330KPK: VHF Automated Command Post is a command vehicle variant that has an onboard automated control station computer (Name: INA) that assists with tipping and cueing to other collection vehicles. No further information available..
+
+Here is System information for the R-330K Russian Mobile Automated Control Station:
+The Alternative Designation is R-330K.
+The Type is Mobile Automated Control Station.
+The Manufacturer is INA.
+The In Service is 1998-Present.
+The Chassis is Ural-43203.
+The Configuration is 6x6.
+The Crew is 4.
+
+Here is Dimensions information for the R-330K Russian Mobile Automated Control Station:
+The Length is 7.37.
+The Width is 2.5.
+The Height is 4.5.
+The Weight, Empty is 8.
+The Payload capacity (on road) is 6.
+The Payload capacity (off road) is 4.5.
+The Maximum Tow Capacity is 12.
+
+Here is Features and Capabilities information for the R-330K Russian Mobile Automated Control Station of the Automated Jamming Station:
+The Frequency Assignment is Automatic assignment of frequency bands.
+The ELINT Sectors is ELINT sectors based on tactical situation and automatic gathering of ELINT data (about RF emitters) from the controlled AJS..
+The Target Distribution is Automatic target distribution of the detected radio emitting sources between automated jamming stations considering their frequency and energy capabilities.
+The Jamming is Transfer of target designation data to the AJS for narrowband jamming.
+The Communication is Automatic disclosure of communication lines, networks and nodes and their display on personal computer monitor against topographic map background.
+
+Here is Automotive information for the R-330K Russian Mobile Automated Control Station:
+The Engine Name is YaMZ-740.
+The Engine Type is Diesel.
+The Engine Power is 210.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is 50.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 62.
+The Side Slope is 40.
+The Vertical Step is 0.55.
+The Trench is 1.2.
+The Fording Depth is 1.75.
+
+Here is Main Weapon System information for the R-330K Russian Mobile Automated Control Station:
+The Note is There are no crew-served weapons mounted on the R-330K Russian Mobile Automated Control Station.
+
+Here is Protection information for the R-330K Russian Mobile Automated Control Station:
+The Armor is Protection against small arms fire and artillery shell splinters.
+The Applique Armor is Available.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Personal CBRN equipment.
+The Smoke Equipment is No.
+The IR Signature is No.
+

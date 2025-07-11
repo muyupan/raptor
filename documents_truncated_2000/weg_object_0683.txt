@@ -1,0 +1,36 @@
+This document describes the R-27 (AA-10 Alamo) Russian Air-to-Air Missile.
+
+The Vympel R-27 missile (NATO reporting name AA-10 Alamo) is a medium-to-long-range air-to-air missile developed by the Soviet Union. It remains in service with the Russian Air Force and air forces of the Commonwealth of Independent States.
+
+The R-27 is manufactured in infrared-homing (R-27T), semi-active-radar-homing (R-27R), and active-radar-homing (R-27EA) versions, in both Russia and Ukraine. The R-27 missile is carried by the Mikoyan MiG-29 and Sukhoi Su-27 fighters, and some of the later-model MiG-23MLD fighters have also been adapted to carry it. The R-27 missile is also license-produced in China, though the production license was bought from Ukraine instead of Russia.
+
+This equipment has proliferated into the following countries: Algeria, Azerbaijan, Bangladesh, Belarus, Bulgaria, China, Cuba, Eritrea, Ethiopia, Georgia, India, Indonesia, Kazakhstan, Malaysia, Myanmar, North Korea (Democratic People's Republic of Korea), Peru, Poland, Russian Federation, Serbia, Slovakia, Sudan, Ukraine, Venezuela (Bolivarian Republic of), Viet Nam, Yemen.
+
+Here is Variants information for the R-27 (AA-10 Alamo) Russian Air-to-Air Missile:
+The R-27R is AA-10 Alamo-A, semi-active radar homing. Missile can be used at 20 to 25,000 meters altitude (launch platform or target). Effective kill range for a target at same altitude: 2 to 42.5 km head-on, 0.7 to 7.5 km tail-on. Maximum range: 73 km. Maximum allowed vertical separation between target and launch platform: +/− 10 km..
+The R-27T is AA-10 Alamo-B, infrared homing, passive homing using the Avtomatika 9B-1032 (PRGS-27) IR seeker head. Missile can be used at 20 to 25,000 meters altitude. Effective kill range for a target at same altitude: 2 to 33 km head-on, 0 to 5.5 km tail-on. Maximum range: 63 km. Maximum allowed vertical separation: +/−10 km..
+The R-27ER is AA-10 Alamo-C, the semi-active-radar homing extended-range version. Missile can be used at 20 to 27,000 meters altitude. Effective kill range for a target at same altitude: 2 to 65.5 km head-on, 0.7 to 16.5 km tail-on. Missile cannot be fired at altitude less than 3 km against a target with background earth, if launch range is less than 6 kilometers. Maximum range: 117 km. Maximum allowed vertical separation: 12 km.[.
+The R-27ET is AA-10 Alamo-D, the infrared-homing extended-range version, Weight 348 kg. Missile can be used at 20 to 27,000 meters altitude. Effective kill range: 2 to 52.5 km head-on, 0.7 to 12.5 tail-on. Maximum range: 104 km. Maximum allowed vertical separation: 12 km..
+The R-27P is AA-10 Alamo-E, passive radar homing with a range of up to 72 km..
+The R-27EP is AA-10 Alamo-F, a longer range passive anti-radiation missile with a range of up to 70 nm (110 km).
+The R-27EA is active radar homing with 9B-1103K active seeker, range of >130 km..
+The R-27EM is active radar homing with 9B-1103K active seeker, range of >170 km..
+
+Here is R-27 Missile information for the R-27 (AA-10 Alamo) Russian Air-to-Air Missile of the System:
+The Name is R-27.
+The Type is Air-to-Air Missile.
+The Manufacturer is Vympel.
+The Length is 4.08 m.
+The Diameter is 230 mm.
+The Wingspan is 772 mm.
+The Weight is 253 kg.
+The Warhead Type is blast/fragmentation, or continuous rod.
+The Warhead Weight is 39 kg.
+The Detonation Mechanism is radar-proximity and impact fuzes.
+The Engine is High performance, w. directed-rocket motor
+Solid-fuel rocket motor.
+The Operational Range is up to 40 km.
+The Flight Altitude is INA.
+The Maximum Speed is Mach 4.5.
+The Guidance System is semi-active radar homing (A/C), active-radar-homing (R-27EA), infrared homing (B/D), passive radar (E/F).
+

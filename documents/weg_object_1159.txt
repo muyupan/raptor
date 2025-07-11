@@ -1,0 +1,34 @@
+This document describes the JRTC VISMOD: UR-77 Meteorit Russian Mine Clearing Vehicle.
+
+The UR-77 Meteorit (Russian: Ð£Ð -77 ÐÐµÑÐµÐ¾ÑÐ¸Ñ, lit. 'Meteorite') is a Soviet mine clearing vehicle, based on a variant of the 2S1 Gvozdika chassis. The vehicle is armed with a launcher and two mine-clearing line charges. When launched, a charge causes a shock wave that destroys or disables all the shells or mines along the area of the line charge. (with a width of 6 metres and length up to 90 metres).
+
+The vehicle has also been used offensively, where its line charge has been used to destroy entire streets in urban combat.
+
+This equipment has proliferated into the following countries: Azerbaijan, Russian Federation, Syria, Ukraine.
+
+Here is Dimensions information for the JRTC VISMOD: UR-77 Meteorit Russian Mine Clearing Vehicle of the System:
+The Height, Overall  is 3.1.
+The Length, Overall  is 8.4.
+The Width, Overall  is 2.8.
+The Weight, Combat is 15.5.
+
+Here is Automotive information for the JRTC VISMOD: UR-77 Meteorit Russian Mine Clearing Vehicle:
+The Engine Name is YaMZ-238N.
+The Engine Type is Diesel.
+The Engine Power  is 300.
+The Fording Depth  is INA.
+The Range, Cruising  is 500.
+The Speed, Maximum Road  is 60.0.
+The Speed, Maximum Off-Road is 30.
+The Speed, Maximum Swim  is 4.5.
+The Vertical Step  is INA.
+
+Here is Radio  information for the JRTC VISMOD: UR-77 Meteorit Russian Mine Clearing Vehicle of the Communications:
+The Name is INA.
+
+Here is Mine Clearning Equipment information for the JRTC VISMOD: UR-77 Meteorit Russian Mine Clearing Vehicle of the Mines:
+The Breaching Time  is 3 to 5.
+The Charges is UZP-77, UZ-67.
+The Length, Charge  is 93.0.
+The Type is Explosive line.
+

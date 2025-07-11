@@ -1,0 +1,105 @@
+This document describes the HQ-7B (FM-90) Chinese 6x6 Short-Range Air Defense Missile System.
+
+The original HongQi 7 (HQ-7) short-range air defense missile system has been developed in China in the 1980s. It was a copy of the French Crotale. In 1978-1979 China imported some of the Thomson-CSF Crotale systems for evaluation and reverse-engineered them. The first Chinese clone was produced for testing in 1983. Its production commenced in the late 1980s. Sometimes it is referred to as Sino-Crotale. Its improved variant, the HQ-7A, was introduced in 1998.
+
+   The HQ-7B is the latest version, based on an indigenous 6x6 armored chassis. It was first revealed somewhere in 2009. This air defense system is widely used by the Chinese armed forces. It is also being proposed for export customers as the FM-90. This air defense system has been exported to Pakistan.
+
+   A TELAR vehicle carries four missiles and is fitted with engagement radar. It appears that the engagement radar is similar to that of the previous HQ-7A.
+
+This equipment has proliferated into the following countries: Bangladesh, China, Pakistan, Turkmenistan.
+
+Here is Variants information for the HQ-7B (FM-90) Chinese 6x6 Short-Range Air Defense Missile System:
+The HQ-7B is The HQ-7B is an upgraded version of the HQ-7 designed to provide improved performance against advanced maneuvering targets flying a terrain following profile..
+The HQ-7A is The HQ-7A is thought to be the original designation for the upgraded HQ-7 that was unveiled in 1998. It introduced changes to the radar and improved tracking and engagement range over the original HQ-7..
+
+Here is Radar #1 information for the HQ-7B (FM-90) Chinese 6x6 Short-Range Air Defense Missile System of the System:
+The Name is Mirador IV pulse doppler.
+The Function is Target acquisition, surveillance.
+The Detection Range is 18.5.
+The Antenna Rotation Rate is 60.
+The Altitude Coverage is 0-4,500.
+The Target Detection is 30 targets per rotation.
+The Multiple Target Tracking is 12 targets.
+The Frequency Band is E Band.
+The Note is According to CPMIEC an operational HQ-7B unit consists of a single search and command vehicle, three missile launch vehicles carrying a total of 12 missiles, and three transport and loading vehicles each carrying four missiles for a total of 24 missiles per unit..
+
+Here is Radar #2 information for the HQ-7B (FM-90) Chinese 6x6 Short-Range Air Defense Missile System of the System:
+The Name is INA, located on launcher vehicle.
+The Function is Fire control.
+The Targets Tracked is 1.
+The Missile Guidance, Simultaneous is 2.
+The Detection Range is 17.
+The Altitude Coverage is 0-5,000.
+The Frequency is 12-18.
+The Frequency Band is J-monopulse.
+The Associated Radar is I-band (8-10 GHz) cmd.
+
+Here is Dimensions information for the HQ-7B (FM-90) Chinese 6x6 Short-Range Air Defense Missile System:
+The Length is 6.22 m.
+The Width is 2.72 m.
+The Height is 3.41 m.
+The Weight is 15 tons.
+
+Here is Automotive information for the HQ-7B (FM-90) Chinese 6x6 Short-Range Air Defense Missile System:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Range, Cruising is 600.
+The Max Road Speed is 90.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.5.
+The Trench is 0.6.
+The Fording is 0.8.
+
+Here is Launcher information for the HQ-7B (FM-90) Chinese 6x6 Short-Range Air Defense Missile System of the Main Weapon System:
+The Name is The launch vehicle is fitted with a new dual-band monopulse tracking radar with both frequency diversity and agility abilities..
+The Type is TELAR Vehicle.
+The Fire on the Move is Yes.
+The Reaction Time is 6.5.
+The Reload Time is 2.
+
+Here is Missile information for the HQ-7B (FM-90) Chinese 6x6 Short-Range Air Defense Missile System of the Main Weapon System:
+The Name is HQ-7 Missile.
+The Type is All-weather short-range anti-air missile.
+The Purpose is can be used to intercept low-flight anti-ship missiles and aircraft.
+The Manufacturer is Thales Group
+Samsung Group.
+The Length is 2.35.
+The Diameter is 0.166=5.
+The Missile Weight is 76.
+The Warhead Type is HE-FRAG.
+The Warhead Weight is 13.
+The Detonation Mechanism is infrared fuse
+radio fuse.
+The Engine is solid-propellant fuel.
+The Operational Range is 11.
+The Flight Ceiling is 6,000.
+The Speed is 1,200.
+The Guidance System is semi-active radar homing
+electro-optical sensors
+Infra-red search and track.
+The Hit Probability is single shot is more than 85%.
+The Basic Load is 4 x HQ-7 Missiles.
+
+Here is Day Camera information for the HQ-7B (FM-90) Chinese 6x6 Short-Range Air Defense Missile System of the Fire Control System:
+The Specification is TV tracker, low elevation, range: 14km.
+
+Here is Optical Sight information for the HQ-7B (FM-90) Chinese 6x6 Short-Range Air Defense Missile System of the Fire Control System:
+The Specification is Back-up binocular tracker.
+
+Here is Day / Night Camera information for the HQ-7B (FM-90) Chinese 6x6 Short-Range Air Defense Missile System of the Fire Control System:
+The Specification is Thermal sight.
+The Field of View is 8.1 / 2.7.
+The Elevation is 5.4 / 1.8.
+The Range is 19.
+
+Here is Protection information for the HQ-7B (FM-90) Chinese 6x6 Short-Range Air Defense Missile System:
+The Hull Armor is Armor of this vehicle provides protection against small arms fire and artillery shell splinters..
+The Turret Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

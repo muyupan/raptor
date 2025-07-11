@@ -1,0 +1,246 @@
+This document describes the NTC VISMOD T-90 Russian Main Battle Tank (MBT).
+
+NTC VISMOD T-90 Russian Main Battle Tank (MBT)
+
+The T-90 is a third-generation Russian battle tank that entered service in 1993. The tank is a modern variation of the T-72B and incorporates many features found on the T-80U. Originally called the T-72BU, but later renamed to T-90, it is an advanced tank in service with Russian Ground Forces and the Naval Infantry. The T-90 uses a 125 mm 2A46 smoothbore main gun, the 1A45T fire-control system, an upgraded engine, and gunner's thermal sight. Standard protective measures include a blend of steel and composite armor, smoke grenade dischargers.
+
+Here is Variants information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT):
+The T-90K is Commander's version of the T-90, with additional communication (station R-163-50K) and navigation equipment (TNA-4-3).
+The T-90A is Russian army version with welded turret, V-92S2 engine and ESSA thermal viewer. Sometimes called T-90 Vladimir, in honor of its chief designer Vladimir Potkin.
+The T-90AK is Command version of T-90A..
+The T-90AM is Latest version of the T-90A.[77] The main features include the modernisation of the old turret design, which is equipped with a new advanced fire control system "Kalina" (with integrated combat information and control systems), a new automatic loader and a new upgraded gun 2A46M-5, as well as a remote-controlled anti-aircraft gun "UDP T05BV-1". The new version also includes the Relikt (Ð ÐµÐ»Ð¸ÐºÑ (Ð´Ð¸Ð½Ð°Ð¼Ð¸ÑÐµÑÐºÐ°Ñ Ð·Ð°ÑÐ¸ÑÐ°) ERA bricks instead of the Kontakt-5 ERA bricks..
+The Ð¢-90M is New modernized version of Ð¢-90Ð. It's a program of modernization of Vladimir tanks and will include 400 tanks currently in service. Tanks will receive 2Ð82-1Ð gun (same as in T-14) and fire control system Kalina. They will be upgraded with Afghanit APS and Relikt ERA. The upgrades are also aimed at improving network-centric warfare capabilities and coordination with Armata project vehicles. The first contract was signed in 2017 and serial production started in 2018..
+The T-90S is Export version of the T-90, later adopted by the Russian Armed Forces as the T-90A. These tanks were made by Uralvagonzavod and were updated with 1,000 hp (750 kW) engines made by Chelyabinsk Tractor Plant. These tanks carry a leaner version of the Shtora-1 passive/active protection system which lacks the infra-red dazzlers carried on the turret. Sometimes called T-90C (Cyrillic letter es looks like a Latin c). These were initially supplied with cast turrets of the early T-90, and when stocks were depleted, new, welded turrets were fabricated..
+The T-90SK is Commander's version of the T-90S, with additional communication and navigation equipment. It differs in radio and navigation equipment and Ainet remote-detonation system for HEF rounds..
+The T-90S is "Bhishma" â modified T-90S in Indian service..
+The T-90MS is Also known as T-90SM is an updated version of the T-90S. It is equipped with a 1,130 hp engine, a PNM Sosna-U gunner view. a UDP T05BV-1 RWS with a 7.62 mm machine gun, GLONASS, inertial navigation systems, new Relikt explosive reactive armour (ERA) that covers more of the tank, and a steering wheel. A new removable turret bustle is included, which provides storage for eight additional rounds. The T-90MS is ready for serial production.[88] 4 video cameras provide a 360Â° view of the environment, while the tank is more connected to command. The T-90MS has an upgraded thermal imager that can detect tanks over 3300 meters away..
+The BREM-1M is Armoured recovery vehicle..
+The IMR-3M is Combat engineer vehicle..
+The MTU-90 is Bridge layer tank with MLC50 bridge..
+The BMR-3M is Mine clearing vehicle..
+The MTU-2020 is Bridge layer tank based on the T-90A whose chassis has been extended, along with the addition of a road wheel..
+
+Here is System information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT):
+The Alternative Designation is NTC VISMOD T-90 Russian Main Battle Tank (MBT).
+The Type is Main Battle Tank.
+The Family is T-90 Family of Main Battle Tanks.
+The Manufacturer is Uralvagonzavod.
+The Mission Type is Operates in all three zones and is the primary system for Armor Troops comprising MiBNs.
+The Crew is 3x Crew Members (Commander, Driver, and Gunner).
+The Range is Max Speed: 67km/h;
+Main Armament:
+125mm Cannon;
+Rate of Fire per min: 5-8x Rounds;
+Maximum Effective Range: 2,500m â3,000m (MILES);
+Secondary Armament:
+7.62mm, Coax MG (2,000x);
+Thermals: Night (2,000m) and regular Day sights (4,000m).
+The Effects is Inflicts 630mm armor penetration at 2000mwith APFSDS-T, can fire APFSDS-T, HEAT,HE-Shrapnel, HE-T andAT-11B/ATGM has 900mm armor penetration..
+The Targeting is Movement and Maneuver assets..
+The Vulnerability is Direct Fire Engagement by Tanks,Javelins, ATGMs, and HIMARS..
+The CBI is 3x MBTs in1x MIC, 6x MBTs in 1x MiBN, 3x MiBNs in a BTG, and composition changes based on rotational design..
+
+Here is Dimensions information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT):
+The Length is 9.63.
+The Width is 3.78.
+The Height is 2.2.
+The Weight, Combat is 46.
+The Ground Pressure is INA.
+
+Here is Automotive information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT):
+The Engine Name is V-92S2.
+The Engine Type is V-12 Diesel.
+The Engine Power is 1,000.
+The Power to Weight Ratio is 18.2.
+The Fuel Capacity is 1,200.
+The Auxiliary Power Unit is Yes.
+The Gas Turbocharger is Yes.
+The Transmission is Mechanical.
+The Cruising Range is 550.
+The Speed, Maximum Road is 60.
+The Speed Maximum Swim is Not Amphibious.
+The Speed, Average Cross is 50.
+The Suspension is Torsion bar.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.8.
+The Trench is 2.85.
+The Fording Depth (No Preparation) is 1.2.
+The Fording Depth (With Preparation) is 5.
+
+Here is R-168-100U information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT) of the Communications:
+The Name is R-168-100U.
+The Family is AKVEDUK R-168 Series.
+The Type is VHF.
+The Frequency is 30-108.
+The Capabilities is FH, Voice, Data.
+The Range is 30-60.
+The Mount is Vehicle.
+The Status is In Service.
+The Echelon is DIV, BDE, BN.
+The Automated Control Communication is Yes.
+
+Here is System information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT) of the Main Gun:
+The Name is 1 x 2A46M.
+The Type is 125 mm Smoothbore Gun.
+The In Service is 1970 to present.
+The Weight  (2A46 125mm Gun) is 2,675.
+The Length  (2A46 125mm Gun) is 6,350.
+The Max Rate of Fire (Autoloader) is 7.
+The Max Rate of Fire (Manaul) is 2-3.
+The Sustain Rate of Fire is 5-7.
+The Range Finder Type is INA.
+The Maximum Elevation is +14.
+The Minimum Elevation is -6.
+The Traverse Range is 360.
+The Loader Type is Carousel-type autoloader.
+The Minimum Cycle time for the Autoloader is 6.5.
+The Thermal Sleeve is Light Allow.
+The Bore Evacuator is Yes.
+The Breech Type is semi-automatic horizontal sliding breech block via an interrupted screw thread.
+The Breech Maximum Chamber Pressure is 6,500 bar over the 5,100 bar.
+The Max Cycle time for a Round 180deg from the Start Position is 15.
+The Carousel Reloading Time is 15.
+
+Here is Ammunition (Option 1) information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT) of the Main Gun:
+The Type is 3BM42M/3BM44M, 125mm Armour-piercing fin-stabilized discarding sabot (APFSDS).
+The Caliber is 125.
+The Muzzle Velocity is 125.
+The Effective Range (Day) is 2,000-3,000.
+The Effective Range (Night) is 2,000-2,600.
+The Armor Penetration is Yes, 590-630mm at a range of 2000m.
+The Shell Weight is 20.4.
+The Projectile Weight is 7.5.
+The Charge Weight is 5.3.
+The Penetration is 270/60.
+The Basic Load is 44 Total rounds of any combination of 125mm Projectiles.
+
+Here is Ammunition (Option 2) information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT) of the Main Gun:
+The Type is 3BM9/3BM10, 125mm Armour-piercing discarding sabot (APDS).
+The Caliber is 125.
+The Muzzle Velocity is 1,715-1,800.
+The Effective Firing Range is 3,000.
+The Shell Weight is 19.6.
+The Projectile Weight is 5.67.
+The Charge Weight is 5.
+The Penetration is 140/60.
+The Basic Load is 44 Total rounds of any combination of 125mm Projectiles.
+
+Here is Ammunition (Option 3) information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT) of the Main Gun:
+The Type is 3BK12M, 125mm (HEAT).
+The Caliber is 125.
+The Muzzle Velocity is 905-950.
+The Effective Firing Range is 4,000.
+The Shell Weight is 29.
+The Projectile Weight is 19.
+The Charge Weight is 5.
+The Penetration is 220/60.
+The Basic Load is 44 Total rounds of any combination of 125mm Projectiles.
+
+Here is Ammunition (Option 4) information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT) of the Main Gun:
+The Type is 3OF19, 125mm (HE).
+The Caliber is 125.
+The Muzzle Velocity is 760.
+The Effective Firing Range is 4,000.
+The Shell Weight is 33.
+The Projectile Weight is 23.
+The Charge Weight is 5.0.
+The Penetration is INA.
+The Basic Load is 44 Total rounds of any combination of 125mm Projectiles.
+
+Here is System information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT) of the Anti-Tank Guided Missile:
+The Name is 9M119 Svir, 9M119M Refleks(NATO designation AT-11 Sniper-B).
+The Type is Laser Beam Anti-Tank Guided Missiles.
+The In Service is 1980's to present.
+The Manufacturer is Degtyarev plant.
+The Variants is 9M119M.
+The Guidance System is Laser Beam Riding.
+The Mass is 17.2.
+The Diameter is 125.
+The Warhead Type is Tandem hollow-charge.
+The Warhead Weight is 4.5.
+The Max Rate of Fire is INA.
+The Operational Range is 4,000-5,000.
+The Speed is Subsonic.
+The Basic Load is 6.
+
+Here is System information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT) of the Tank Commander's Weapon System:
+The Name is 1 x 12.7mm Kord Heavy Machine Gun,.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Manufacturer is V.A. Degtyarev Plant.
+The In Service is 1998-Present.
+The Weight is 25.5.
+The Length is 1,980.
+The Max Rate of Fire is 650-750.
+The Sustain Rate of Fire is 550-600.
+The Action is Gas-operated, rotating bolt.
+The Feed System is 50-round linked belt.
+The Sights is Iron Sights.
+The Variants is 6P50-1, 6P50-2, 6P50-3, 6P49.
+
+Here is Ammunition information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT) of the Tank Commander's Weapon System:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is 12.7Ã108mm.
+The Muzzle Velocity is 860.
+The Effective Range is 2,000.
+The Basic Load is 300.
+
+Here is System information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT) of the Loader's Weapon System:
+The Name is 1 x 7.62mm PK (Kalashnikov's Machine Gun).
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62mm.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Max Rate of Fire is 650.
+The Sustain Rate of Fire is 500.
+The Range Finder Type is INA.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Length (Total) is 1,203.
+The Length (Barrel) is 605.
+The Action is Gas-operated, open bolt.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Tangent iron sights (default); Optical, Night-vision, Thermal and Radar sights.
+
+Here is Ammunition information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT) of the Loader's Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62Ã54mm.
+The Muzzle Velocity is 825.
+The Effective Range (Iron Sights) is 1,000.
+The Effective Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 3,800.
+The Basic Load is 1,500.
+
+Here is Fire Control information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is No.
+The Thermal Sight Gunner is No.
+The Panoramic Commander's Sight is No.
+The Main Gun Stabilization is Yes, 2E42-4 Zhasmin System.
+The Note is The Fire Control System is outdated and is from the late 1990s..
+
+Here is Protection information for the NTC VISMOD T-90 Russian Main Battle Tank (MBT):
+The Hull Armor is Steel-composite-reactive blend APFSDS: 550 mm + 250â280 mm with Kontakt-5 = 800â830 mm HEAT: 650â850 mm + 500â700 mm with Kontakt-5 = 1,150â1,550 mm.
+The Turret Armor is Steel-composite-reactive blend APFSDS: 550 mm + 250â280 mm with Kontakt-5 = 800â830 mm HEAT: 650â850 mm + 500â700 mm with Kontakt-5 = 1,150â1,550 mm.
+The Applique Armor is Available.
+The Explosive Reactive Armor is Yes, Kontakt-5 explosive reactive armor blocks, equivalent to up to 500mm of steel armor.
+The Active Protection System is Yes, the Shtora-1 countermeasures system.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes, GO-27 PRKhR radiation and chemical agent detection system..
+The Deep Wading Kit is Available.
+The Jammer is Yes,  TShU1-7 IR jammers located either side of the main gun.
+The Laser Radiation Sensors is Yes.
+The IR dazzlers is Yes.
+The Nakidka Signal Reduction Kit is Available.
+The Smoke Equipment is Yes, banks of 81 mm Toucha 902B grenade launchers that fire the ZD-6 smoke grenade..
+The Grenade Maximum Range is 250-300.
+The Smoke Screen is 30 m wide and 10 m high for 60 seconds per grenade..
+The Fire Suppression System is Yes, the Raduga-2 fire-suppression system.
+

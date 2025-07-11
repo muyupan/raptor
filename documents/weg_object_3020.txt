@@ -1,0 +1,50 @@
+This document describes the Phantom 2 Ukrainian 8x8 Unmanned Ground Vehicles (UGV).
+
+The Phantom 2 Ukrainian 8x8 Unmanned Ground Vehicles (UGV) has an elongated chassis in comparison to its predecessor, the Fantom, to provide stability for more powerful weaponry.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the Phantom 2 Ukrainian 8x8 Unmanned Ground Vehicles (UGV):
+The Alternative Designation is Phantom 2; Fantom 2.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is SpetsTechnoExport (part of Ukroboronprom).
+The Configuration is 8x8.
+The Crew is Unmanned.
+The Operator is The vehicle is operated from a remote control station..
+The Software is The vehicle can autonomously avoid obstacles, use waypoint navigation as well as returning to base..
+The Cameras is The sensor package includes a visual odometry system using several cameras (with two FoV wide and narrow), thermal camera, and a laser rangefinder..
+The Payload Capacity is 850 kg.
+
+Here is Dimensions information for the Phantom 2 Ukrainian 8x8 Unmanned Ground Vehicles (UGV):
+The Length is 4.20 m.
+The Width is 1.84 m.
+The Height is 1.20 m.
+The Wheelbase is INA.
+The Weight, Combat is 1,600 kg.
+The Weight, Empty is INA.
+The Ground Clearance is 40 cm.
+
+Here is Automotive information for the Phantom 2 Ukrainian 8x8 Unmanned Ground Vehicles (UGV):
+The Engine Name is Deutz BF 4M 1013 FC.
+The Engine Type is 4 cylinders, turbocharged, diesel.
+The Engine Power is 191 hp at 2,300 rpm.
+The Amphibious is No.
+The Maximum Speed is 58 km/h.
+The Maximum Gradient is 60%.
+The Side Slope is 40%.
+The Suspension is Independent hydraulic.
+The Fording is 50 cm.
+The Endurance is 10 h.
+
+Here is Communications information for the Phantom 2 Ukrainian 8x8 Unmanned Ground Vehicles (UGV):
+The Maximum Radio Operating Range is 20 km.
+The Maximum Tethered Operating Range is 5 km.
+The Maximum Satellite Operating Range is Unlimited.
+
+Here is Main Weapon System information for the Phantom 2 Ukrainian 8x8 Unmanned Ground Vehicles (UGV):
+The Note is A number of weapon tests were carried out on the Phantom 2 Ukrainian 8x8 Unmanned Ground Vehicles (UGV), which include: A Block B-8V20A launcher;  ‘Stugna-P' ATGM system; Korsar ‘Corsair' light, portable anti-tank system; 60 mm mortar system; and a 120 mm mortar system..
+
+Here is Protection information for the Phantom 2 Ukrainian 8x8 Unmanned Ground Vehicles (UGV):
+The Armor is Steel hull.
+The Applique Armor is INA.
+

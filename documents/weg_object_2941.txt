@@ -1,0 +1,28 @@
+This document describes the SkyWiper (EDM4S) Lithuanian Anti-Drone Weapon.
+
+The SkyWiper (EDM4S) Lithuanian Anti-Drone Weapon is a portable electronic warfare anti-drone device made by the Lithuanian company NT Service.
+
+This equipment has proliferated into the following countries: Lithuania, Ukraine.
+
+Here is System information for the SkyWiper (EDM4S) Lithuanian Anti-Drone Weapon:
+The Alternate Designation is SkyWiper; EDM4S.
+The Type is Lithuanian Anti-Drone Weapon.
+The Manufacturer is NT Services.
+The Activation is Manual or Automatic.
+The Remote Management is Via WEB Interface.
+The Coverage is 1 – 10 km depending on configuration and regulation requirements..
+The Radar Detectors is A passive detection system with automated spectrum monitoring and identification features. RF detectors listen for patterns of known radio signals emitted by drone video, control, and telemetry transmission. Radio detectors are passive devices that do not emit radio signals – an ideal solution when it’s important to maintain radio silence in hostile areas. RF detectors allow not only to detect but also identify radio protocols used by drones, and minimize false-positive alarms. Using multisector systems allows to find direction of drone and its controller. The multi-site system is able to perform triangulation and detect the position of the drone and its controller..
+The Handheld Radio Detectors is A wearable personal drone alarm system, capable of detecting and identifying drones. Wearable devices are ideal for low enforcement or SOF units, that need early warning and protection from hostile drones during mobile operations..
+The Radars is Active detection systems that allow precise detection and tracking of flying objects. Advanced technologies allow to identification size of flying objects and depending on behavior distinguish drones from birds and planes. Another advantage – radars can detect uncontrolled drones with pre-programmed flight, that do not send video, telemetry, and other radio signals during the mission..
+The Antenna is High gain omni and sector antenna configuration depending on required system coverage..
+The Audio Sensors is A multimicrophone array system that can detect and track the acoustic noise source. Systems are able to establish azimuth and elevation to the target in real-time using advanced digital signal processing and identify sounds that are unique for drones..
+The Video Detection is A additional layer of security that compliments radars systems with video confirmation and tracking. Location data from radars are used for PTZ positioning. Advanced AI processing allows to classify and identify moving object and record video of flight path for later analysis or for manual activation of mitigation systems..
+The Battery is 24 V.
+The Endurance is 35 min.
+
+Here is Dimensions information for the SkyWiper (EDM4S) Lithuanian Anti-Drone Weapon:
+The Length is 1,050 mm.
+The Width is 220 mm.
+The Height is 360 mm.
+The Weight is 5.5 kg.
+

@@ -1,0 +1,40 @@
+This document describes the Aerosky Israeli Unmanned Aerial Vehicle.
+
+Description
+The Aerosky is a short-range Israel-made unmanned aerial vehicle (UAV) that has served with the United States and Israel. It is used for tactical reconnaissance, surveillance and target acquisition.
+
+The UAV is used as the baseline vehicle for other Aeronoautics aircraft; the Aerosky has a twin tail-boom and a pusher-propeller.
+
+It has two radio frequency command uplinks and a real-time imagery downlink. It carries Tamam's POP 200 EO/IR payload and is controlled by UMAS avionics, including full autonomous navigation, camera-guided navigation and MCS ground enhancement.
+
+Status
+The Aerosky was marketed internationally through IAI and obtained by the U.S. Navy and the Israel Defense Forces. The IDF began operating it in March 2002 on "pay-by-the-hour" basis over the Gaza Strip and West Bank.
+
+While the vehicle may still be operational, as suggested in Armada International’s Compendium UAVs: Time to Get Real (2015), there has been little unclassified information regarding the Aerosky since 2008.
+
+As of 2017, there was no open-source information available about its status with the U.S. Navy or the IDF. The manufacturer did not respond to inquiries by the time of this update.
+
+This equipment has proliferated into the following countries: Israel, United States of America.
+
+Here is Variants information for the Aerosky Israeli Unmanned Aerial Vehicle:
+The Aerosky 2 is The Aerosky 2 variant was designed with a hybrid battery/piston engine developed by Zanzottera Technologies, Italy. The first flight took place on June 2, 2008.
+Its maximum takeoff weight is 176 lb (80 kg), with a flight endurance of 10 hours. It has a small noise signature at a low-altitude while operating with electrical propulsion, according to Flight International (April 22, 2008)..
+
+Here is System information for the Aerosky Israeli Unmanned Aerial Vehicle:
+The Alternate Designation is Aerosky.
+The Type is UAV.
+
+Here is Dimensions information for the Aerosky Israeli Unmanned Aerial Vehicle:
+The Length is 3.05.
+The Wingspan is 4.50.
+The Takeoff Weight is 70.
+The Payload Weight is 40.
+
+Here is Automotive information for the Aerosky Israeli Unmanned Aerial Vehicle:
+The Engine Name is INA.
+The Engine Type is Combustion.
+The Engine Power is 10.
+The Maximum Speed is 185 km/h.
+The Maximum Distance is 200 km.
+The Maximum Altitude is 3,050 m.
+

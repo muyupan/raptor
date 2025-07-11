@@ -1,0 +1,53 @@
+This document describes the MV3 Chinese 6x6 General Utility Truck.
+
+The MV3 Chinese 6x6 General Utility Truck was developed by First Automobile Works (FAW) to meet a Chinese army requirement for a general utility truck with a payload capacity of up to 10 tons. The MV3 will be the next generation universal transport/cargo truck, replacing Dongfeng EQ240/EQ2081 and Dongfeng EQ245/EQ2100.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the MV3 Chinese 6x6 General Utility Truck:
+The CTM-131 is Chinese military designation. 6x6 configuration with double cab. 5 ton payload capacity..
+The CTM-132 is Chinese military designation. 6x6 configuration with single cab. 5 ton payload capacity..
+The CTM-133 is Chinese military designation. 4x4 configuration with double cab. 3.5 ton payload capacity..
+The CTM-134 is Chinese military designation. 4x4 configuration with single cab. 3.5 ton payload capacity..
+The PCL-161 is 122 mm truck-mounted howitzer (self-propelled howitzer, SPH) capable of rapid deployment, based on CTM-133 chassis..
+The SR-7 is Modular multiple launch rocket system based on CTM-133 chassis..
+The AFT-10 Carrier is Two HJ-10 missiles and electro-optical sensor fitted on CTM-133 chassis.
+
+Here is System information for the MV3 Chinese 6x6 General Utility Truck:
+The Alternative Designation is FAW MV3.
+The Type is General Utility Truck.
+The Manufacturer is First Automobile Works (FAW).
+The Configuration is 6x6.
+The Crew is 1.
+The Cab Seating is 1 + 1.
+The Maximum Cargo Capacity is 10 tons.
+
+Here is Dimensions information for the MV3 Chinese 6x6 General Utility Truck:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Empty is 10 tons.
+
+Here is Automotive information for the MV3 Chinese 6x6 General Utility Truck:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 350 hp.
+The Range is 1,000.
+The Speed, Maximum Road is 90.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.5.
+The Trench is 0.6.
+The Fording Depth is 1.2.
+
+Here is Main Weapon System information for the MV3 Chinese 6x6 General Utility Truck:
+The Note is There are no crew-served weapons mounted on the FAW MV3 Chinese 6x6 General Utility Truck..
+
+Here is Protection information for the MV3 Chinese 6x6 General Utility Truck:
+The Armor is INA.
+The Applique Armor is Available.
+The Mine Clearing is No.
+The NBC Protection is No.
+The Smoke Equipment is No.
+

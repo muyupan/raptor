@@ -1,0 +1,181 @@
+This document describes the MiG-21PF (Fishbed-E) Russian Fighter/Intercept Aircraft.
+
+MiG-21PF Fishbed-E
+This is thought to be the principal PF production variant. It has a broader fin and parachute brake housing relocated as bullet fairing below rudder. Later aircraft have a 13,670-lb (6,200-kg) static thrust RD-11-F2S-300 engine. The final, broad version of the fin has no dorsal fillet. A GP-9 23-mm gun pack was carried and it had provision for rocket-assisted take-off, ground (RATOG).
+Variants designated MiG-21PFS have boundary-layer blowing (known as SPS = sduva porgranichnovo sloya) over plain flaps in place of the earlier Fowler flaps.
+
+The Mikoyan-Gurevich MiG-21 (Russian: Микоян и Гуревич МиГ-21; NATO reporting name: Fishbed) is a supersonic jet fighter and interceptor aircraft, designed by the Mikoyan-Gurevich Design Bureau in the Soviet Union. Its nicknames include: Balalaika, because its planform resembles the stringed musical instrument of the same name; Ołówek, Polish for "pencil", due to the shape of its fuselage, and; Én bạc, meaning "Silver Swallow", in Vietnamese.
+
+Approximately 60 countries over four continents have flown the MiG-21, and it still serves many nations six decades after its maiden flight. It made aviation records, became the most-produced supersonic jet aircraft in aviation history, the most-produced combat aircraft since the Korean War and previously the longest production run of a combat aircraft (now exceeded by both the McDonnell Douglas F-15 Eagle and General Dynamics F-16 Fighting Falcon). It's also one of the earliest examples of planes capable of performing the Cobra maneuver.
+
+The MiG-21 was the first successful Soviet aircraft combining fighter and interceptor characteristics in a single aircraft. It was a lightweight fighter, achieving Mach 2 with a relatively low-powered afterburning turbojet, and is thus comparable to the American Lockheed F-104 Starfighter and Northrop F-5 Freedom Fighter and the French Dassault Mirage III. Its basic layout was used for numerous other Soviet designs; delta-winged aircraft included Su-9 interceptor and the fast E-150 prototype from MiG bureau while the mass-produced successful front fighter Su-7 and Mikoyan's I-75 experimental interceptor combined a similar fuselage shape with swept-back wings. However, the characteristic layout with the shock cone and front air intake did not see widespread use outside the USSR and finally proved to have limited development potential, mainly because of the very small space available for the radar.
+
+Like many aircraft designed as interceptors, the MiG-21 had a short range. This was exacerbated by the poor placement of the internal fuel tanks ahead of the centre of gravity. As the internal fuel was consumed, the center of gravity would shift rearward beyond acceptable parameters. This had the effect of making the plane statically unstable to the point of being difficult to control, resulting in an endurance of only 45 minutes in clean condition. This can be somewhat countered by carrying fuel in external tanks closer to the center of gravity. The Chinese variants somewhat improved the internal fuel tank layout (also second generation of Soviet variants), and also carry significantly larger external fuel tanks to counter this issue.
+
+Additionally, when more than half the fuel was used up, violent maneuvers prevented fuel from flowing into the engine hereby causing it to shut down in flight. This increased the risk of tank implosions (MiG-21 had tanks pressurized with air from the engine's compressor), a problem inherited from the MiG-15, MiG-17 and MiG-19. The short endurance and low fuel capacity of the MiG-21F, PF, PFM, S/SM and M/MF variants—though each had a somewhat greater fuel capacity than its predecessor—led to the development of the MT and SMT variants. These had an increased range of 250 km (155 mi) compared to the MiG-21SM, but at the cost of worsening all other performance figures, such as a lower service ceiling and slower time to altitude.
+
+The delta wing, while excellent for a fast-climbing interceptor, meant any form of turning combat led to a rapid loss of speed. However, the light loading of the aircraft could mean that a climb rate of 235 m/s (46,250 ft/min) was possible with a combat-loaded MiG-21bis, not far short of the performance of the later F-16A. Mig-21's Tumansky R-25 jet engine's specialty was the addition of a second fuel pump in the afterburning stage. Activating the ЧР (rus. "чрезвычайный режим" - emergency mode) booster feature allows the engine to develop 97.4 kilonewtons (21,896 lbf) of thrust under 4,000 meters (13,000 ft) of altitude. The limit of operation is 1 minute for dogfight practice and 3 minutes for an actual wartime emergency, as further use causes the engine to overheat. Use of this "diamond regime" provided a massive 97.4 kN of thrust for no more than 3 minutes in actual wartime use. Use of this temporary power gave the MiG-21bis slightly better than 1:1 thrust-to-weight ratio and a climbing rate of 254 meters/second, equalling the F-16's nominal capabilities in close-quarters dogfight. In air combat practice with the MiG-21bis, use of WEP thrust was limited to 1 minute, to spare on the engines' 800 flight hours lifetime, since every second of super-afterburner use counted as several minutes of regular power run due to extreme thermal stress. When WEP was on, the MiG-21bis's R-25 engine produced a huge 5 meter long blowtorch exhaust - the six or seven brightly glowing rhomboid "shock diamonds" visible inside the flames gave the emergency-power setting its "diamond regime" name. Given a skilled pilot and capable missiles, it could give a good account of itself against contemporary fighters. Its G-limits were increased from +7Gs in initial variants to +8.5Gs in the latest variants. It was replaced by the newer variable-geometry MiG-23 and MiG-27 for ground support duties. However, not until the MiG-29 would the Soviet Union ultimately replace the MiG-21 as a maneuvering dogfighter to counter new American air superiority types.
+
+The MiG-21 was exported widely and remains in use. The aircraft's simple controls, engine, weapons, and avionics were typical of Soviet-era military designs. The use of a tail with the delta wing aids stability and control at the extremes of the flight envelope, enhancing safety for lower-skilled pilots; this in turn enhanced its marketability in exports to developing countries with limited training programs and restricted pilot pools. While technologically inferior to the more advanced fighters it often faced, low production and maintenance costs made it a favorite of nations buying Eastern Bloc military hardware. Several Russian, Israeli and Romanian firms have begun to offer upgrade packages to MiG-21 operators, designed to bring the aircraft up to a modern standard, with greatly upgraded avionics and armaments.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is Variants information for the MiG-21PF (Fishbed-E) Russian Fighter/Intercept Aircraft:
+The Note is MiG-21 Fishbed-A/Ye-50
+MiG-21 Fishbed-B/Ye-6
+MiG-21F Fishbed-C
+MiG-21PF Fishbed-D
+MiG-21PF Fishbed-E
+MiG-21FL Fishbed-E
+MiG-21PFM Fishbed-F
+MiG-21 Fishbed-G
+MiG-21R Fishbed-H
+MiG-21PFMA Fishbed-J
+MiG-21MF Fishbed-J
+MiG-21M Fishbed-J
+MiG-21SMB Fishbed-K
+MiG-21bis Fishbed-L
+MiG-21bis Fishbed-N
+MiG-21-93 Fishbed-N
+MiG-21-2000
+MiG-21 Lancer
+MiG-21 Bison
+MiG-21U Mongol-A**
+MiG-21US Mongol-B
+MiG-21UM Mongol-B
+J-7 (Jianjiji-7)
+Also See: https://en.wikipedia.org/wiki/List_of_Mikoyan-Gurevich_MiG-21_variants.
+
+Here is System information for the MiG-21PF (Fishbed-E) Russian Fighter/Intercept Aircraft:
+The Alternate Designation(s) is MiG-21PF; NATO: Fishbed-E.
+The Primary Function / Type is Fighter/Interceptor.
+The Manufacturer is Russia.
+The In Service is 1961-Present.
+The Crew is 1.
+The Number of Engines is 1.
+The Number of Hard Points is 4.
+The Rocket-Assisted Take-Off, Ground (RATOG) Capable is Yes.
+The Note is It has a broader fin and parachute brake housing relocated as bullet fairing below rudder..
+
+Here is Dimensions information for the MiG-21PF (Fishbed-E) Russian Fighter/Intercept Aircraft:
+The Length is 15.76.
+The Width (Wing Span) is 7.5.
+The Height is 4.1.
+The Weight, Empty is 5.46.
+The Weight, Maximum Take Off is 10.1.
+
+Here is Automotive information for the MiG-21PF (Fishbed-E) Russian Fighter/Intercept Aircraft:
+The Engine Name is 1 x RD-11-F2S-300 turbojet.
+The Number of Engines is 1.
+The Static Thrust is 6,200-kg static thrust.
+The Traction (dry / with afterburning) is 40.2 / 67.2 kN.
+The Maximum Range is 1,225.
+The Maximum Range with external Fuel Tanks is 1,470.
+The Maximum Speed is 2,230 km/h.
+The Cruising Speed is 1,000 km/h.
+The Service Ceiling is 19.
+The Time to Altitude is 17,000 m (55,774 ft) in 8 minutes 30 seconds.
+The Fuel is 2,885 liters.
+
+Here is System information for the MiG-21PF (Fishbed-E) Russian Fighter/Intercept Aircraft of the Main Gun System:
+The Name is 1 × internal 23 mm Gryazev-Shipunov GSh-23L autocannon.
+The Type is 23mm Autocannon.
+The Caliber is 23mm.
+The Basic Load is 200.
+The Length is GSh-23: 1,387 mm (4 ft 7 in)
+GSh-23L: 1,537 mm (5 ft 1 in).
+The Barrel Length is 1,000.
+The Weight is GSh-23: 49.2 kg (108 lb)
+GSh-23L: 50 kg (110 lb).
+The Barrels is 2.
+The Action is Gast principle.
+The Rate of Fire is 3,400–3,600 rounds/min.
+The Muzzle Velocity is 715.
+
+Here is Ammunition information for the MiG-21PF (Fishbed-E) Russian Fighter/Intercept Aircraft of the Main Gun System:
+The Type is Rifle, Autocannon.
+The Caliber is 23.
+The Cartridge is 23x115 mm.
+The Basic Load is 200.
+
+Here is Missile System (Option 1) information for the MiG-21PF (Fishbed-E) Russian Fighter/Intercept Aircraft of the Wing Mounted Weapon Systems:
+The Name is R-77 (AA-12 Adder).
+The Type is Medium-range, active radar homing air-to-air missile..
+The Basic Load is INA.
+The Production history Manufacturer is Vympel.
+The In Service is 2002-Present.
+The Proliferation is The Russian Air Force finally entered the R-77-1 (AA-12B) into service in 2015.[5][6] It was subsequently deployed by Su-35S fighters in Syria on combat air patrols..
+The Length is 3.6 m (R-77), 3.71 m (R-77-1).
+The DIameter is 200.
+The Warhead is 22.5 kg HE fragmenting (R-77).
+The Detonation Mechanism is laser proximity fuse.
+The Engine is Solid fuel rocket motor (R-77), air-breathing ramjet (R-77-PD).
+The Wingspan is 700.
+The Operational Range is 80–100 km (R-77), 110 km (R-77-1) 193 km (R-77M).
+The Flight Altitude is 5-25.
+The Speed is Mach 4,Mach 5 for K-77PD (RVV-AE-PD)[.
+The Guidance System is Inertial with mid-course update and terminal active radar homing/infrared homing (R-77T).
+The Launch Platforms is Mikoyan-Gurevich MiG-21-93/LanceR/Bison, Mikoyan-Gurevich MiG-23, Mikoyan-Gurevich MiG-25, Mikoyan-Gurevich MiG-27, Mikoyan MiG-29, Mikoyan MiG-31, Mikoyan MiG-35, Sukhoi Su-27, Sukhoi Su-30, Sukhoi Su-33, Sukhoi Su-34, Sukhoi Su-35, HAL Tejas, Yakovlev Yak-141, Chengdu J-10.
+
+Here is Missile System (Option 2) information for the MiG-21PF (Fishbed-E) Russian Fighter/Intercept Aircraft of the Wing Mounted Weapon Systems:
+The Name is KH-31 (AS-17 Krypton).
+The Type is Medium-range air-to-surface.
+The Basic Load is INA.
+The Manufacturer is Tactical Missiles Corporation
+(Zvezda-Strela before 2002).
+The In Service is 1988-Present.
+The Proliferation is INA.
+The Length is Mod 1 : 4.700 m (15 ft 5.0 in)[3]
+Mod 2 (AD/PD) : 5.3 m (17 ft 5 in).
+The Diameter is 360 mm.
+The Weight is Kh-31A :610 kg (1,340 lb)
+Kh-31P :600 kg (1,320 lb).
+The Warhead is HE shaped charge.
+The Detonation Mechanism is Impact.
+The Warhead Weight is Kh-31A :94 kg (207 lb)
+Kh-31P :87 kg (192 lb.
+The Engine is Solid fuel rocket in initial stage, ramjet for rest of trajectory.
+The Wingspan is 914.
+The Propellant is kerosene.
+The Operational Range is Kh-31A: 25 km–103 km (13.5–55.6 nmi; Kh-31P: up to 110 km (60 nmi; 70 mi).
+The Speed is Kh-31A/P: 2,160–2,520 km/h (1,340–1,570 mph)
+MA-31: Mach 2.7 (low), Mach 3.5 (high).
+The Guidance System is Kh-31A: inertial guidance with active radar homing
+Kh-31P: inertial with passive radar.
+The Launch Platform is Both : Su-27SM, Su-30MKI, Su-25, Su-34, Su-35, MiG-29M, HAL Tejas Mk1 and Mk2, MiG-29K
+Kh-31A only : Su-33
+Also : Su-24M.
+
+Here is Bomb Weapon System information for the MiG-21PF (Fishbed-E) Russian Fighter/Intercept Aircraft of the Wing Mounted Weapon Systems:
+The Name is KAB-500Kr.
+The Type is Electro-optical TV-guided fire and forget bomb.
+The Basic Load is INA.
+The Manufacturer is Russia.
+The Proliferation is INA.
+The Length is 3.05.
+The Diameter is INA.
+The Warhead Type is Hardened, armor-piercing warhead.
+The Weight is 520.
+The Warhead Weight is 380.
+The Penetration is up to 1.5 metres (4 feet 11 inches) of reinforced concrete..
+The Effective Range is he weapon's seeker can lock onto a target at ranges of up to 15 to 17 km (9.3 to 10.6 mi), depending on visibility..
+The Note is It uses a standard Soviet/Russian FAB-500 general-purpose bomb, with a nominal weight of 500 kg (1,100 lb), as a warhead, adding a low-light television seeker and guidance fins to turn it into a guided, unpowered glide bomb..
+
+Here is Fire Control / Avionics information for the MiG-21PF (Fishbed-E) Russian Fighter/Intercept Aircraft:
+The Radio is RSIU-5V.
+The IFF is SRZO-2 Khrom-Nikel'.
+The ADF is ARK-54I.
+The Radar Warning Receiver is SPO-2 Sirena-2.
+The Gunsight is PKI.
+The Radar is RP-9-21 (batch 1–6); RP-21 (7 on).
+The ATC Transponder is SOD-57M Globus-2.
+The Command Link is ARL-S Lazur'.
+
+Here is Protection information for the MiG-21PF (Fishbed-E) Russian Fighter/Intercept Aircraft:
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The Add on Armor is No.
+The NBC Protection is Yes.
+The EW Counter Measures is INA.
+The Chaffs/Flares is BVP-1F 120 x 26-mm cartridge dispenser.
+

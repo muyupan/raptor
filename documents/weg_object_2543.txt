@@ -1,0 +1,144 @@
+This document describes the BMD-2 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV).
+
+The BMD-2 is a Soviet-era airborne infantry fighting vehicle, introduced in 1985. It is a variant of BMD-1 with a new turret and some changes done to the hull. BMD stands for Boyevaya Mashina Desanta (Боевая Машина Десанта, which literally translates to "Airborne Combat Vehicle"). It was developed as a replacement for BMD-1 but it failed to replace it completely because of the downfall of the Soviet economy in the 1980s.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation, Ukraine, Uzbekistan.
+
+Here is Variants information for the BMD-2 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The BMD-2 is The BMD-2 has a box-shaped hull with a gently-sloped glacis and steep belly plate from an angular nose. The sides of the hull are vertical and there is a turret mounted in the middle of the hull roof. The front compartment of the vehicle houses the driver and a passenger; the middle turret and the rear provides space for dismounts..
+The BMD-2K is The BMD-2K is a variant of the BMD-2 designed to perform as a command vehicle. It carries additional communications equipment so that it can command units at the platoon and company level..
+The BMD-2-KU is The BMD-2-KU is an improved C2 vehicle based on the BMD-2K. It is designed to provide a modernised vehicle that can be used to better control a battalion-sized formation..
+The BMD-2K-AU is The BMD-2K-AU is a modified command vehicle based on the BMD-2K..
+The BMD-2M is The BMD-2M is an upgraded BMD-2. It is a vehicle modernized with improved mission systems so that the vehicle’s combat capabilities can be improved without replacing the turret..
+
+Here is System information for the BMD-2 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Alternative Designation is BMD-2.
+The Type is Airborne Amphibious Infantry Fighting Vehicle (IFV).
+The Manufacturer is Volgograd Tractor Plant.
+The Crew is 3.
+The Passengers is 4.
+The Chassis is S-120 and based on the aluminum hull of the BTR-D airborne multi-purpose tracked armored personnel carrier.
+The Airborne Capable is Yes.
+The Parachute System is PRSM-916 parachute system, or the PRSM-925 for combat deployments.
+
+Here is Dimensions information for the BMD-2 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Length is 5.91 m.
+The Width is 2.63 m.
+The Height is 2.175 m.
+The Track Length is 2.84 m.
+The Track Width is 230 m.
+The Weight, Combat is 8,225 kg.
+The Ground Clearance is 0.45 m.
+The Ground Pressure is 0.53kg/cm² (51975Pa) (7.54psi).
+
+Here is Automotive information for the BMD-2 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is 5D20.
+The Engine Type is V-6, water cooled, Diesel Engine.
+The Engine Power is 240.
+The Power-to-Weight Ratio is 29.19hp/t.
+The Fuel Capacity is 300 liters.
+The Suspension is hydropneumatic.
+The Electrical System is 24V.
+The Maximum Speed, Land is 61 km/h.
+The Maximum Speed, Water is 10 km/h.
+The Range is 450 km.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Obstacle is 0.60 m.
+The Trench is 1.2 m.
+
+Here is System information for the BMD-2 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is 1 × turret mounted 30mm 2A42 cannon.
+The Type is Cannon.
+The Caliber is 30 mm.
+The Manufacturer is Tulamashzavod.
+The Length is 3.027 m.
+The Barrel Length is 2,416 mm.
+The Weight is 115 kg.
+The Barrels is 1.
+The Action is Gas-operated.
+The Elevation is -5° to +75.
+The Rate of Fire is 200 to 300 rds/min (low)
+550-800 rds/min (high).
+The Muzzle Velocity is 960 m/s.
+The Maximum Firing Range is 4,000 m.
+The Effective Firing Range is 2,000 m.
+The Feed System is Twin Feed.
+
+Here is Ammunition information for the BMD-2 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Cartridge is 30 × 165 mm.
+The Basic Load is A total of 300 rounds are carried in a large container on the right of the turret. A typical combat load may consist of 180 HE-I rounds and 120 APDS.
+
+Here is System information for the BMD-2 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 1 x  PKT (Kalashnikov's Machine Gun).
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Max Rate of Fire is 650.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces.
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+The Note is The  PKT can be controlled remotely.
+
+Here is Ammunition information for the BMD-2 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Muzzle Velocity is 825.
+The Maximum Effective Range (With Sight Adjustments) is 100-1,500.
+The Basic Load is 1,500.
+
+Here is Anti-Tank Guided Weapons (ATGW) information for the BMD-2 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Name is 1 × 9M113 Konkurs (AT-5 Spandrel).
+The Type is SACLOS Wire-Guided Anti-Tank Missile.
+The Length is 1,150 mm.
+The Diameter is 135 mm.
+The Wingspan is 468 mm.
+The Weight is 14.6 kg.
+The Warhead is 2.7 kg HEAT.
+The Detonation Mechanism is Contact.
+The Maximum Range is 4 km.
+The Minimum Range is 70 m.
+The Maximum Speed is 208 m/s.
+The Guidance System is Wire-guided SACLOS.
+The Steering System is Two control surfaces.
+The Basic Load is 1 × 9M113 Konkurs (AT-5 Spandrel).
+
+Here is Fire Control information for the BMD-2 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes, with three day vision devices.
+The Thermal Sight Gunner is Yes, dual-mode 1PN22M1 monocular periscopic sight mounted on the left side of the turret roof..
+The Driver Sight is TNPO-170 periscope.
+The Main Gun Stabilization is Yes.
+The Land Navigation is Yes.
+The Searchlight is IR searchlight.
+
+Here is Protection information for the BMD-2 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Hull Armor is Aluminum 15mm thick.  The front of the hull and turret consequently provide protection against 12.7 mm rounds fired from 200 m as well as 23 mm rounds fired from over 500 m. The sides protect against 7.62 mm rounds as well as shell splinters from 155 mm shells..
+The Turret Armor is 23 mm at 42° turret front; 
+19 mm at 36° turret side; 
+13 mm at 30° turret rear ;
+6 mm turret top.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Available,.
+The NBC Protection is PAZ NBC system.
+The Smoke Equipment is INA.
+The Fire-Extinguishing System. is PPO centralized ethylene-bromide fire-extinguishing system.
+
+Here is CVI: HATS information for the BMD-2 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Hull is Arrow-shaped front edge with trim vane folded on top and a sloped rear end. Distinct truck bed appearance in the rear. Bow features a gunner's MG port. Hull has bullet deflectors. Engine exhaust ports on top rear of vehicle, left and right sides. Hydro propulsion system jets visible on rear of vehicle..
+The Armament is Long, narrow 30mm autocannon with a barrel tip muzzle brake. Low profile 7.62mm coaxial machine gun. Optional ATGM missile cannister..
+The Turret is One-man small turret, shape of a frying pan..
+The Suspension is 5 evenly-spaced road wheels. Rear sprocket drive supported track with 4 track support rollers..
+

@@ -1,0 +1,73 @@
+This document describes the Type 70-I Chinese 122mm Self-Propelled Howitzer (SPH).
+
+It is estimated that no more than 200 Type 70-Is were ever manufactured.  It was build to fill a gap in self propelled artillery in the Chinese army.  It is believed that the Soviet Union assisted in the development and manufacture of the Type 70-I because of the use of the Type 54 cannon which is similar to the M1938 / M-30.
+The vehicle has no roof and thus no overhead protection for the crew of 6-7 soldiers.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Type 70-I Chinese 122mm Self-Propelled Howitzer (SPH):
+The Type 85 is The Type 85 self-propelled 122mm howitzer has a turretless design, based on the YW531H APC chassis. It has the Soviet D-30 howitzer. The maximum range of fire is 21 km. The Type 85 is a significant improvement to its predecessor, however it still lacks gun enclosure..
+
+Here is System information for the Type 70-I Chinese 122mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is Type 70-I.
+The Type is Self-Propelled Howitzer (SPH).
+The Caliber is 122 mm.
+The Chassis is Based on the Type 63-I (YW531 / Type B531) APC.
+The Crew is 6-7.
+The Emplacement Time is INA.
+The Displacement Time is INA.
+
+Here is Dimensions information for the Type 70-I Chinese 122mm Self-Propelled Howitzer (SPH):
+The Length is 5.6.
+The Width is 3.07.
+The Height is 2.69.
+The Weight, Combat is 15.3.
+
+Here is Automotive information for the Type 70-I Chinese 122mm Self-Propelled Howitzer (SPH):
+The Engine Name is 6150L.
+The Engine Type is Diesel.
+The Engine Power is 260.
+The Cruising Range is 450.
+The Speed, Maximum Road is 56.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is INA.  Can be fitted with a swim kit.  Propulsion is provided by the track rotation..
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.6.
+The Fording Depth is 1.0.
+
+Here is System information for the Type 70-I Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Weapon System:
+The Name is Type 54.
+The Type is Howitzer.
+The Caliber is 122.
+The Maximum Rate of Fire is 6.
+The Maximum Elevation is 63.
+The Minimum Elevation is -2.5.
+The Traverse Range is 45.
+The Traverse Left is INA.
+The Traverse Right is INA.
+The Maximum Firing Range is 11.8.
+The Sights is Basic.
+The Direct Fire Capable is Yes.
+The Basic Load is 40.
+
+Here is Ammunition information for the Type 70-I Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Weapon System:
+The Note is Compatible with 122mm projectiles of the M-30. The Type 70-I is also capable of direct firing..
+
+Here is System information for the Type 70-I Chinese 122mm Self-Propelled Howitzer (SPH) of the Auxiliary Weapon System:
+The Type is 7.62 mm Machine Gun.
+
+Here is Fire Control System information for the Type 70-I Chinese 122mm Self-Propelled Howitzer (SPH):
+The Note is There is no fire control system.  Basic sights are used for aiming the cannon..
+
+Here is Protection information for the Type 70-I Chinese 122mm Self-Propelled Howitzer (SPH):
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

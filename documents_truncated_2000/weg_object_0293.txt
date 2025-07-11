@@ -1,0 +1,79 @@
+This document describes the Orion Russian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV).
+
+The Orion Russian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV) is a military drone, reconnaissance, and drone for long-duration flight. The Orion is being developed for the Russian Aerial Forces, the Navy, and the Special Forces. Moreover, it has a civilian modification. Its military characteristics are classified, however, some basic civilian data was shared by the developers of the drone.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Orion Russian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Orion is Original Version..
+The Orion-E is Export version of the Orion..
+The Orion-2 is Also known as Helios, the Orion-2 is a larger version of the original Orion, with a bigger payload. It is classified as a high-altitude long-endurance (HALE) UAV, instead of the medium-altitude long-endurance (MALE) classification of the original Orion. It weighs 5-tonne (11,000-pound) with a wingspan of 30 meters (98.42 feet). It is intended to have an autonomy of 30 hours and fly at altitudes above 10,000 m. A first full-scale mock-up was unveiled on August 27, 2020, at the Kronstadt pilot plant. The first flight is planned for 2023. An export version of the Orion-2 exists as well..
+The Inokhodets-RU (Sirius) is Also known as Sirius, the Inokhodets-RU is an upgraded variant of the Orion with a bigger and different design, the key particularity being mounted with two engines instead of one. The Sirius is a medium-altitude long-endurance (MALE) attack UAV from, with a wingspan of 30m, a length of 9m and a height of 3.3m, a maximum combat load of 450kg, a cruise speed of 295 km/h, a maximum altitude of 12,000m, and an endurance of 40 hours. A full-size mock-up of the 5t drone was presented for the first time at the MAKS-2019 International Aviation and Space Salon held at Zhukovsky International Airport near Moscow, Russia. The first flight is expected for 2022, to enter service in 2023..
+
+Here is System information for the Orion Russian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Orion; (Export Version: Orion-E).
+The Type is Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Kronstadt Technologies - Russia.
+The Mission is Ground Attack UAV, Close-Air Support (CAS); Reconnaissance.
+The Crew is Unmanned.
+The Operator is 1.
+The Range is 700 km.
+The Thermal Imagers is Yes, 2 x Thermal Images.
+The Camera is wide-angle TV camera.
+The Laser Rangefinder is Yes, laser rangefinder/target designator.
+The Payload Capacity is Orion can carry four guided bombs or four missiles and has maximum payload of 200 kg..
+The Hardpoints is 4.
+
+Here is Dimensions information for the Orion Russian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Length is 8.0 m.
+The Width is 16.0 m.
+The Height is 2.0 m.
+The Empty Weight is 500 kg.
+The Maximum Take-off Weight is 1,000 kg.
+The Payload Capacity is 200 kg.
+
+Here is Automotive information for the Orion Russian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Engine Name is 1 x conventional Engine of unknown make, model and power output..
+The Engine Type is INA.
+The Engine Power is INA.
+The Propellers is Two-bladed propeller unit at the rear of the fuselage in pusher arrangement..
+The Maximum Speed is 200 km/h.
+The Range is 700 km.
+The Maximum Altitude is 7,500 m.
+The Endurance is 24 hours.
+
+Here is Guided Missile System information for the Orion Russian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV) of the Armament:
+The Name is Kh-50.
+The Type is Guided Missile for UAV Application.
+The Manufacturer is The kh-50 has been developed by a wide range of companies, including the Tactical Missiles Corporation (KTRV) and the Central Research and Scientific Institute of Chemical Machine-building (TsNIIKhM)..
+The Location is Wing Mounted.
+The Length is 1.8 m.
+The Diameter is 180 mm.
+The Fins is 300 mm.
+The Weight is 50 kg.
+The Range is INA.
+The Warhead Type is High Explosive Fragmentation  (HE-FRAG).
+The Warhead Weight is 10-20 kg.
+The Basic Load is INA.
+
+Here is Guided Bomb information for the Orion Russian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV) of the Armament:
+The Name is KB-20.
+The Type is Guided Bomb.
+The Manufacturer is The KB-20 has been developed by a wide range of companies, including the Tactical Missiles Corporation (KTRV) and the Central Research and Scientific Institute of Chemical Machine-building (TsNIIKhM)..
+The Location is Wing Mounted.
+The Length is 900 mm.
+The Diameter is 130 mm.
+The Fins is 350 mm.
+The Weight is 21 kg.
+The Range is INA.
+The Warhead Type is High Explosive Fragmentation  (HE-FRAG).
+The Warhead Weight is 7 kg.
+The Basic Load is INA.
+The Note is The munition is designed to engage personnel and soft skinned targets..
+
+Here is Protection information for the Orion Russian Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Fuselage is Monoplane design utilizes a single primary wing main plane; which represent the most popular main plane arrangement..
+The Stealth Properties is None.
+The Add on Armor is No.
+The Counter Measures (Chaffs/Flares) is INA.
+

@@ -1,0 +1,74 @@
+This document describes the Kfir (Lion Cub) Israeli Multi-Role Fighter.
+
+The Israel Aircraft Industries Kfir (Hebrew: כְּפִיר, "Lion Cub") is an Israeli-built all-weather multirole combat aircraft based on the French Dassault Mirage 5, with Israeli avionics and an Israeli-built version of the General Electric J79 turbojet engine.
+
+The Kfir programme originated in the quest to develop a more capable version of the IAI Nesher, which was already in series production. After General De Gaulle embargoed the sale of arms to Israel, the IAF feared that it might lose qualitative superiority over its adversaries in the future, which were receiving increasingly advanced Soviet aircraft. The main and most advanced type of aircraft available to the IAF was the Mirage, but a severe problem developed due to the Mirage fleet's depletion due to attrition after the Six-Day War. Domestic production would avoid the problem of the embargo completely; efforts to reverse engineer and reproduce components of the Mirage were aided by Israeli espionage efforts to obtain technical assistance and blueprints from third party Mirage operators.
+
+Two power plants were initially selected for trials, the General Electric J79 turbojet and the Rolls-Royce Spey turbofan. In the end, the J79 was selected, not least because it was the same engine used on the McDonnell Douglas F-4 Phantom II, which the Israelis began to acquire from the United States in 1969, along with a license to produce the J79 themselves. The J79 was clearly superior to the original French Atar 09, providing a dry thrust of 49 kN (11,000 lbf) and an afterburning thrust of 83.4 kN (18,750 lbf).
+
+In order to accommodate the new powerplant on the Mirage III's airframe, and to deliver the added cooling required by the J79, the aircraft's rear fuselage was slightly shortened and widened, its air intakes were enlarged, and a large air inlet was installed at the base of the vertical stabilizer, so as to supply the extra cooling needed for the afterburner. The engine itself was encased in a titanium heat shield.
+
+A two-seat Mirage IIIBJ fitted with the GE J79 made its first flight in September 1970, and was soon followed by a re-engined Nesher, which flew in September 1971.
+
+An improved prototype of the aircraft, with the name Ra'am B ("Ra'am" means "Thunder"; the "Ra'am A" was the Nesher),[6] made its first flight in June 1973. It had an extensively revised cockpit, a strengthened landing gear, and a considerable amount of Israeli-built avionics. The internal fuel tanks were slightly rearranged, their total capacity being increased to 713 US gal (2,700 l).
+
+There were unconfirmed reports that a number of the original Mirage IIICs, re-engined with the J79 and given the name Barak ("Lightning"), took part in the Yom Kippur War of 1973, but some sources point out that there is no evidence that these aircraft ever existed.
+
+This equipment has proliferated into the following countries: Colombia, Sri Lanka.
+
+Here is Variants information for the Kfir (Lion Cub) Israeli Multi-Role Fighter:
+The Kfir C1: is Initial production model, leased to the US Navy and Marine Corps and re-designated F21A..
+The F-21A: is Slightly modified C1, used to train us combat pilots in adversary tactics. Used by US Navy from 1985 to May 1988. Used by USMC from 1987 to Sep 1989..
+The Kfir C2: is Revised airframe with foreplanes and nose strake added..
+The Kfir C7: is Upgraded version with new avionics: wdns-391 weapons control system with stores management display, uprated GE J79-1JE engine and greater internal fuel capacity..
+The Kfir-2000: is Designed as a cost-effective multi-role aircraft..
+
+Here is System information for the Kfir (Lion Cub) Israeli Multi-Role Fighter:
+The Alternative Designations is See Variants.
+The Crew is 1.
+The Engines is General Electric J79-GE-1JE Turbojet.  17,750lbs thrust in the C2; 18,750lbs thrust in the C7..
+The Maximum take off weight is 16,500.
+The Empty weight is 7,285.
+The Ferry Range is C2: 2,991km
+C7: 3,232km.
+The Combat Radius': is INA.
+The Intercept Mission is C2: 347km
+C7: 776.
+The Combat Air Patrol is C2: 699km
+C7: 882.
+The Ground Attack is C2: 768
+C7: 1,186.
+The Takeoff Run / Landing Roll (With Max Load) is C2: 1,455m
+C7: 1,555m.
+The Wingspan is 8.2m.
+The Height is 4.6m.
+The Standard External Payload is C2: 4,277
+C7: 5,775.
+The Hardpoints is C2: 7
+C7: 9.
+The Max Speed at Altitude is 2,440; Mach 2.3.
+The Max Speed at Sea Level is 1,389; Mach 1.
+The Takeoff / Landing Speed is 220.
+The Maximum G Forces is 7.5 g's.
+The Ceiling is 17,680 m.
+The Vertical Climb Rate is 233 m/s.
+The Fuel is Internal: 3,243 liters; External: 4,700 liters.
+The Cockpit pressurized, heated, and air conditioned is Yes.
+The Martin-Baker zero / zero ejection seat is Yes.
+The In-flight refueling is Yes.
+The IFF, ECM pods is Yes.
+The Radar warning reciever is Yes.
+The Chaff and Flares is Yes.
+
+Here is Weapons and Ammunition Types information for the Kfir (Lion Cub) Israeli Multi-Role Fighter:
+The Cannon is 2x internal 30mm cannons.
+The Other payload options is Python / Shafrir / AIM-9: 2 each
+AGM-45 Shrike ARM: 2 each
+AGM-65 Maverick: 1 each
+Bombs:
+GBU-15 glide bomb: 1 each
+227kg: 6 each
+363kg or 454kg: 2 each
+1,361kg: 1 each
+Fuel Tanks: Multiple options.
+

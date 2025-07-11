@@ -1,0 +1,63 @@
+This document describes the Shipunov 2A42 Russian 30mm Autocannon.
+
+The Shipunov 2A42 is a Soviet/Russian 30 mm autocannon. It is built by the Tulamashzavod Joint Stock Company. The 2A42 is a late Cold War-era 30mm autocannon of Soviet origin. It was developed somewhere in the 1970s and was selected to arm the new BMP-2. The 2A42 autocannon significantly improved the lethality and combat range of the BMP-2 compared to the BMP-1 with its 73mm low-pressure cannon. The 2A42 has also been used on a variety of other platforms and its 30x165mm ammunition is used by various other Soviet autocannon. The 2A42 is a gas double belt feed gas-operated weapon. It is electrically powered and requires external power. The long barrel is rifled and has a double baffle muzzle brake. The rate of fire is selectable to low and high. Due to its significant recoil, the strength requirements on the mount are high. There are no variants of the 2A42, although the design of the newer lightweight 2A72 shares some design features.
+
+This equipment has proliferated into the following countries: Kazakhstan, Kurdistan, Kyrgyzstan, Russian Federation, Tajikistan, Turkmenistan, Ukraine.
+
+Here is Variants information for the Shipunov 2A42 Russian 30mm Autocannon:
+The 2A42 is standard version..
+The 2A72 is lighter simplified variant with a lower number of parts, a longer barrel, and higher muzzle velocity, but also a lower rate of fire..
+The ABM-M30M3 is remote Weapon Station made by Impulse-2, for Uran-9 or different armored vehicles..
+The ABM-M30M3 Vikhr is another remote weapon station made by Impulse-2..
+The TRT-30 is remote weapon station..
+
+Here is Shipunov 2A42 30mm Autocannon information for the Shipunov 2A42 Russian 30mm Autocannon of the System:
+The Name is Shipunov 2A42.
+The Type is Autocannon.
+The Caliber is 30 mm.
+The Design is The 2A42 is a gas double belt feed gas-operated weapon. It is electrically powered and requires external power. The long barrel is rifled and has a double baffle muzzle brake. The rate of fire is selectable to low and high. Due to its significant recoil, the strength requirements on the mount are high. There are no variants of the 2A42, although the design of the newer lightweight 2A72 shares some design features..
+The Manufacturer is Tulamashzavod.
+The Length, Total is 3.027.
+The Length, Barrel is 2,416.
+The Weight is 115.
+The Action is Gas operated, electrically powered.
+The Barrels is 1.
+The Recoil Force is 30 to 50 kN.
+The Cage Cooling Sleeve is Yes.
+The Muzzle Velocity is 960 - 970 m/s.
+The Elevation is INA.
+The Traverse is 360.
+The Rate of Fire (Low) is 200-300.
+The Rate of Fire (High) is 550-800.
+The Feed System is Belt fed, twin feed system, selectable feed.
+The Platforms is The main use of the 2A42 is as main armament of the BMP-2 mechanized infantry combat vehicle. Other vehicles that use the 2A42 are the BMD-2, BMD-3 and BTR-90. The 2A42 is also used on the Mi-28 Havoc and Ka-50 Hokum helicopters, making it one of the most powerful helicopter guns in use..
+
+Here is Ammunition (Option 1) information for the Shipunov 2A42 Russian 30mm Autocannon of the System:
+The Type is Armour Piercing Fin Stabilized Discarding Sabot with Tracer(APFSDS-T).
+The Caliber is 30.
+The Muzzle Velocity is 1,275.
+The Maximum Effective Range is 2,800.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Round Mass (Nominal) is 675.
+The Projectile Mass (Nominal) is 220.
+The Round Length is 280.
+The Tracer is 2.5.
+The Cartridge Case is Steel.
+The Primer is Percussion cap.
+The Penetration at 1,000 is >45mm RHA steel at 60° obliquity.
+The Dispersion is 0.45.
+The Operational temperature is -32°C to +62°C.
+The Note is The 2A42 fires the now common 30x165mm round that was specifically developed for this weapon. Several types of ammunition are available..
+
+Here is Ammunition (Option 2) information for the Shipunov 2A42 Russian 30mm Autocannon of the System:
+The Type is High Explosive Incendiary.
+The USSR Designation is UOF-84.
+The Caliber is 30 mm.
+The Description is Shell filled with 48,5g HEI, with A-670M fuze.
+The Muzzle Velocity is 960.
+The Max Range is 5,000.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Weight, Bullet is 0.39.
+

@@ -1,0 +1,173 @@
+This document describes the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV).
+
+The BMD-1 is an airborne infantry-tracked armored vehicle, which entered the service of the Russian army airborne units in 1969 and was first shown to the public during a parade held in Moscow in November 1973. The vehicle was called the M1970 before its Russian designation became known. Development started in 1965 and limited production began in 1968 and ended in 1969. After operational trials, it was deployed in limited numbers by 1969 and the serial production started in 1970, although the vehicle weight 500 kg more than what the requirements stated (7.5 tonnes and 13.3 tonnes when loaded with equipment). In the late 1970s, a new modernized vehicle received the designation BMD-1P following the adoption of the new 9P135M-1 ATGM launcher instead of 9S428 ATGM launcher, firing the 9M113 "Konkurs" (AT-5 Spandrel). In 1983, based on the combat experience in Afghanistan a decision was made to produce a new variant of the BMD with a weapon capable of engaging targets such as those faced by the airborne troops in that conflict. This resulted in "Ob'yekt 916" which later became BMD-2. A lengthened chassis of BMD-1 served as a basis for the BTR-D airborne multi-purpose tracked APC which itself served as a basis for many specialized airborne vehicles. The BMD-1 is always currently used by the Russian airborne troops. BMD-1 and BMD-1PK IFVs are used by Russian airborne units of KFOR. BMD-1 IFVs were used by Russian airborne units of SFOR.
+
+This equipment has proliferated into the following countries: Angola, Armenia, Azerbaijan, Belarus, CFE Treaty, India, Kazakhstan, Kyrgyzstan, Moldova, Russian Federation, Turkmenistan, Ukraine, Uzbekistan, Viet Nam.
+
+Here is Variants information for the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The BMD-1 is First production model..
+The BMD-1K is (K stands for komandirskaya – command) – Command variant fitted with R-126 and R-107 transceivers, two Clothes Rail antennas and a generator box. It's sometimes called BMD-K..
+The BMD-1P is BMD-1 modernization with its 9S428 ATGM launcher replaced by pintle-mounted 9P135M-1 ATGM launcher capable of firing 9M113 "Konkurs" (AT-5 Spandrel), 9M113M "Konkurs-M" (AT-5B Spandrel B), 9M111 "Fagot" (AT-4 Spigot) and 9M111-2 "Fagot" (AT-4B Spigot B) ATGMs. Entered service in 1977..
+The 2S9 NONA Russian 120mm Self-Propelled Mortar (SPM) is The 120 mm SO-120 2S9 Anona (Anemone) self-propelled gun/mortar (SPG/M) was first seen in public in May 1985 and is an airborne artillery assault vehicle that was developed to carry out two tactical functions..
+The 2S9-1 Russian 120mm Self-Propelled Mortar (SPM) is 120mm Self-Propelled Mortar (SPM).
+The 2S9-1M is The 2S9-1M is an upgraded variant of the baseline SO-120 2S9 Anona-S. The upgraded vehicle is designed to maintain the battlefield viability of the original SO-120 until a replacement - likely to be the Lotus fire support vehicle based on the BMD-4M - can be developed and introduced into service..
+The BMD-1PK is (K stands for komandirskaya – command) – Command variant of BMD-1P. It is fitted with an additional R-123M radio set, a generator, the GPK-59 gyroscopic compass, the PRKhR radiation and chemical reconnaissance unit and two attachable tables. The machine gun mounted in the left corner of the bow of the hull has been eliminated as well as one of the seats. The crew consists of 6 men. The ammo load was reduced by one 9M113 "Konkurs" (AT-5 Spandrel) ATGM and 250 7.62 mm machine gun rounds.
+The BMD-1M is BMD-1 with smoke grenade launchers on the rear of the turret, improved ventilation and road wheels..
+The BMD-2 (Ob'yekt 916) is BMD-1 variant with a new one-man turret armed with stabilized 30 mm 2A42 multi-purpose autocannon and 7.62 mm PKT coaxial tank machine gun (mounted on the right hand side of the main gun). The vehicle carries 300 rounds for the main gun (180 AP and 120 HE) and 2,940 rounds for the machine gun. The gun has a maximum elevation of 75° and can be used to fire at air targets. The turret is also armed with pintle-mounted 9P135M launcher, on the right hand side of the roof of the turret, with semi-automatic control capable of firing SACLOS guided 9M113 "Konkurs" (AT-5 Spandrel) and 9M113M "Konkurs-M" (AT-5B Spandrel B) ATGMs. The new turret seats the gunner on the left hand side of the main gun. On top of the turret there's one single piece circular hatch opening to the front. Located in front of the said hatch is the gunner's sight which is the same one as the one used in BMP-2. Another gunner's sight is located on the left hand side of the main gun and moves in vertical planes along with it. It is a high angle of fire sight used when the gunner is aiming at air targets. The vehicle also has additional periscopes that provide it with vision on the sides. A white searchlight is mounted in front of the turret. The amount of bow mounted tank machine guns decreased from two to one. The right hand side bow mounted machine gun was preserved. NATO gave it the designation BMD M1981/1..
+The BTR-D (Ob'yekt 925) is Lengthened variant (with 6 rather than 5 road wheels), slightly up-armoured at the front. The BTR-D has no turret, but is armed with two bow-mounted machine guns PKB and can be fitted with pintle-mounted automatic grenade launchers (AGS-17, AGS-30 or AGS-57) and/or machine guns (PKM, 6P41, "Utyos" or "Kord"). Entered service in 1974 and can carry 10 passengers. Combat weight: 8.5 tons..
+The BMD-KShM is The BMD-KShM is a long-range C2l vehicle for use with the VDV. It is also used as the control centre for unmanned aerial systems (UAS) to conduct battlefield reconnaissance..
+The BMD-1 R-440 ODB is This is the BTR-D fitted with the R-440 SATCOMs system. The vehicle is believed to be a mobile version of the R-440 (NATO codename 'Park Drive') and is also known as Kristall-BDS..
+The 1V119 Spektr is This is normally deployed at battery level and is designed to be used as an artillery fire-detection centre. It is used alongside the SO-120 to co-ordinate return fire and improve the efficacy of the system when the wider framework of Russian artillery support platforms is not available..
+
+Here is System information for the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Alternative Designation is BMD-1.
+The Manufacturer is Volgograd Tractor Plant.
+The Type is Airborne Amphibious Infantry Fighting Vehicle (IFV).
+The Chassis is S-120 and based on the aluminium hull of the BTR-D airborne multi-purpose tracked armoured personnel carrier.
+The Crew is 3.
+The Passengers is 4.
+The Displacement Time is 30.
+The Emplacement Time is 30.
+The Airborne Capable is Yes.
+The Parachute System is PRSM-916 parachute system, or the PRSM-925 for combat deployments.
+The Airdrop Height is 500-1,500.
+The Note is The BMD-1 can be distinguished from all other BMD variants firstly by the large gun that is its main armament, and secondly by its road wheels that have a star-shaped centre and dual rims..
+
+Here is Dimensions information for the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Length, Overall is 5.40 m.
+The Length, Hull is 5.40 m.
+The Width is 2.63 m.
+The Height is 1.62 m.
+The Weight, Combat is 7,500 kg.
+The Ground Pressure is 0.57 kg/cm² (55,898 Pa) (8.11 psi).
+The Ground Clearance is 0.45 m.
+
+Here is Automotive information for the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is 5D20.
+The Engine Type is V-6, water cooled, Diesel Engine.
+The Engine Power is 240.
+The Fuel Capacity is 300 liters.
+The Suspension is hydropneumatics.
+The Cruising Range is 320.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is 40.
+The Speed Maximum Swim is 10.
+The Graident is 60.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Trench is 1.6.
+The Fording Depth is Amphibious.
+
+Here is Communications information for the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Type is R-173.
+
+Here is System information for the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is 1 x 2A28 Grom 73mm smooth bore semi-automatic gun.
+The Type is Smoothbore Gun.
+The Caliber is 73.
+The Manufacturer is KBP.
+The Length, Barrel is 1,195.
+The Height is 322.
+The Weight is 115.
+The Width is 218.
+The Electric Motor is Yes, with a manual mechanical backup.
+The Magazine Type is forty-round mechanized conveyor double-row magazine.
+The Max Rate of Fire is 8-10.
+The Loader Type is M3 electromechanical autoloader with ammunition conveyor.
+The Max Elevation is +33.
+The Min Elevation is -4.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Note is The BMD-1 can also fire ATGM launcher (three 9M14M or 9M113 or 9M111M ATGMs).
+
+Here is Ammunition (Option 1) information for the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is OG-15V HE-Frag.
+The Caliber is 73.
+The Muzzle Velocity is 290.
+The Weight is 4.57.
+The Shell is OG-9 shell with a 0.73 kg (1 lb 10 oz) TNT bursting charge.
+The Basic Load is 16 Total OG-15V HE-Frag Projectiles.
+
+Here is Ammunition (Option 2) information for the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is PG-15V (HEAT).
+The Caliber is 73.
+The Muzzle Velocity is 400.
+The Stabilizer Type is fixed fin-stabilized rocket-assisted round..
+The Weight is 3.47.
+The Shell is 2.6.
+The Explosive Type is RDX explosive charge in the warhead.
+The Explosive Weight is 0.322.
+The Penetration is 280-350.
+The Basic Load is 24 Total PG-15V Projectiles.
+The Note is Once the projectile has travelled 10–20 m (33–66 ft), the rocket motor starts and accelerates it to 700 m/s (2,300 ft/s)..
+
+Here is Anti-Tank Guided Weapons (ATGW) information for the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Name is Kolomna Malyutka (Baby) 9M14.
+The Type is wire-guided ATGW.
+The Minimum Range is 500.
+The Maximum Range is 3,000.
+The Maximum Speed (throughout the Flight) is 130.
+The Flight Time is 25.
+The Warhead Type is HEAT Warhead.
+The Penetration is 400.
+
+Here is System information for the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 1 x  PKT (Kalashnikov's Machine Gun) 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Manufacturer is Degtyaryov plant.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces.
+The In Service is 1961-present.
+The Max Rate of Fire is 650.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+The Note is The PKT can be controlled remotely.
+
+Here is Ammunition information for the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Muzzle Velocity is 825.
+The Maximum Effective Range (With Sight Adjustments) is 100-1,500.
+The Basic Load is 1,500.
+
+Here is Fire Control information for the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes, with three day vision devices.
+The Thermal Sight Gunner is Yes, dual-mode 1PN22M1 monocular periscopic sight mounted on the left side of the turret roof..
+The Driver Sight is TNPO-170 periscope.
+The Main Gun Stabilization is INA.
+The Indirect Fire is Yes.
+The Direct Fire is INA.
+The Land Navigation is Yes.
+The Searchlight is IR searchlight.
+
+Here is Protection information for the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Armor Type is The BMD-1 is built from welded aluminum armor and the turret from welded steel..
+The Hull Armor is It is thought to be capable of stopping 12.7 mm rounds fired at the front of the vehicle from a range of 200 m. The sides are likely to provide protection from 7.62 mm rounds fired at typical combat ranges. 15 mm at 50° lower hull front, 10 mm rest of the hull.
+The Turret Armor is 23 mm at 42° turret front; 
+19 mm at 36° turret side; 
+13 mm at 30° turret rear ;
+6 mm turret top.
+The Gun Mantlet is 33.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Available, The BMD-1 carries the ubiquitous un-ditching beam that is present on most Soviet tracked vehicles..
+The NBC Protection is PAZ NBC system.
+The Smoke Equipment is INA.
+The Fire-Extinguishing System. is PPO centralised ethylene-bromide fire-extinguishing system.
+
+Here is CVI: HATS information for the BMD-1 Russian Airborne Amphibious Infantry Fighting Vehicle (IFV):
+The Hull is Arrow-shaped front edge with trim vane folded on top and a sloped rear end. Distinct truck bed appearance in the rear. Bow features a gunner's MG port. Hull has bullet deflectors. Engine exhaust ports on top rear of vehicle, left and right sides. Hydro propulsion system jets visible on rear of vehicle..
+The Armament is 73mm cannon, may include rail on top for AT-3 "Sagger" ATGM. 7.62 coaxial machine gun..
+The Turret is One-man small turret, shape of a frying pan..
+The Suspension is 5 evenly-spaced road wheels. Rear sprocket drive supported track with 4 track support rollers..
+

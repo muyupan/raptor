@@ -1,0 +1,65 @@
+This document describes the 9S737 Ranzhir Russian 6x6 Mobile Command Center.
+
+The Ranzhir series of mobile command posts was originally developed for the PVO-SV to provide a tracked and hardened ADCP for batteries of point defence weapons, such as SPAAGs and SAM systems. 
+9S737 vehicle was designed by Belarusian scientific and research institute of automatization technologies (NIISA), currently "AGAT–Control Systems". A. V. Shershnev was appointed chief designer of 9S737 vehicle.
+
+State trials of the system were held from August 1987 till June 1988 at Embi testing range (nowadays at Kazakhstan). In 1989 it was approved for military.
+
+Mass production was started at Minsk NPO Agat, but later transferred to Radiozavod (Penza)
+
+Early variants were deployed to provide battery C3 for the SA-15, SA-17, SA-19 systems. More recent variants are used with the SA-13, replacing legacy ADCPs, and the new wheeled SA-15 and SA-22, in a wheeled configuration. A single Ranzhir usually supports 4 to 6 TELARs, SPAAGMs or SPAAGs.
+
+This equipment has proliferated into the following countries: Belarus, Russian Federation.
+
+Here is Variants information for the 9S737 Ranzhir Russian 6x6 Mobile Command Center:
+The 9S737М Ranzhir-M is INA.
+
+Here is System information for the 9S737 Ranzhir Russian 6x6 Mobile Command Center:
+The Alternative Designation is 9S737 Ranzhir.
+The Type is Russian 6x6 Mobile Command Center.
+The Manufacturer is AGAT–Control Systems.
+The Family is Ranzhir.
+The In Service is 1989-Present.
+The Chassis is Tata LPK 2518.
+The Crew is INA.
+The Passenger Capacity is INA.
+The Note #1 is There is very little unclassified information about the 9S737 Ranzhir.
+The Note #2 is The Ranzhir E/M is also available in a lower cost truck variant, intended for applications where high road mobility is important. For instance a wheeled Tor M2E or Pantsir S1 battery would used the wheeled variant to match the high road speed of the TELARs..
+
+Here is Dimensions information for the 9S737 Ranzhir Russian 6x6 Mobile Command Center:
+The Length is 7.18 m.
+The Width is 3.35 m.
+The Height is INA.
+The Ground Clearance is 0.25 m.
+The Weight, Combat is 25000 kg.
+
+Here is Automotive information for the 9S737 Ranzhir Russian 6x6 Mobile Command Center:
+The Engine Name is CUMMINS ISBe5.9 180 40.
+The Engine Type is Diesel.
+The Engine Power is 134 Kw@ 2500 r/min.
+The Gear Box is 6 Speed.
+The Cruising Range is INA.
+The Speed, Maximum Road is 65 kph.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is No Amphibious.
+The Fuel Capacity is 300 liters.
+
+Here is Communications information for the 9S737 Ranzhir Russian 6x6 Mobile Command Center:
+The Note is Either the Azart-P (4km), Azart-N (12km), and Azart-BM (40km).
+
+Here is Fire Control information for the 9S737 Ranzhir Russian 6x6 Mobile Command Center:
+The Laser Target Desinator is INA.
+The Quantity of tracked air objects  (using data from the HCP, combat vehicles, radar) is up to 80.
+The Rate of Data exchange with combat vehicles is 1.
+The Rate of Data issue to the higher command post is 5.
+The Time for mission setting, in Automatic Mode is 1.
+The Time for mission setting, in Manual Mode is 5.
+
+Here is Protection information for the 9S737 Ranzhir Russian 6x6 Mobile Command Center:
+The Armor is Protection from small arms fire and shell splinters.
+The Applique Armor is INA.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

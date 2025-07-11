@@ -1,0 +1,55 @@
+This document describes the NTC VISMOD Orlan-10 Russian Unmanned Aerial Vehicle (UAV).
+
+NTC VISMOD Orlan-10 Russian Unmanned Aerial Vehicle (UAV).
+Orlan-10 is a medium-range, multi-purpose unmanned aerial vehicle (UAV) developed by Russian firm Special Technology Center LLC in St Petersburg. The UAV is in service with the Ministry of Defense of the Russian Federation. It is intended for a variety of missions including aerial reconnaissance, observation, monitoring, search and rescue, combat training, jamming, detection of radio signals, and target tracking. The drone is usually used in a group of two or three, where the first one is used for reconnaissance in a height of 1-1.5 km, the second one for electronic warfare and the third one as a transponder that transmits intelligence information to the control center
+
+Here is System information for the NTC VISMOD Orlan-10 Russian Unmanned Aerial Vehicle (UAV):
+The Alternative Designation  is NTC VISMOD Orlan-10 Russian Unmanned Aerial Vehicle (UAV).
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Special Technology Center (STC).
+The Mission Type is DZ: Reconnoiter LP/OP positions and initial DZ movements.
+BZ: Identify composition/disposition, support BTG attacks, target acquisition, and Battle Damage Assessments (BDA).
+SZ: Identify Assembly Areas (AAs) and supply lines..
+The Crew is Unmanned.
+The Range is Max Range: 220 km;
+Max Effective Range: 75-100 km;
+Max AGL: 16,000 ft.;
+Max Effective AGL: 9,000 ft.;
+Dual Electro-Optical (EO) and Infrared (IR) Camera;
+SIGINT capabilities package optional.
+The Effects is Intelligence, Surveillance, and Reconnaissance (ISR), Command and Control (C2), and Jamming (capability to relay GPS and FM denial).Able to operate in layered groups of 2-3x UAVs due to altitude de-confliction with TOS being 6x hours..
+The Targeting is Primarily Movement and Maneuver, but capable of targeting all war fighting functions (WFF)..
+The Vulnerability is ADA Systems and poor weather conditions..
+The CBI is 8xAircraft per DTG.
+
+Here is Dimensions information for the NTC VISMOD Orlan-10 Russian Unmanned Aerial Vehicle (UAV):
+The Length, Overall is 3.2.
+The Length, Wing Span is 4.2.
+The Weight, Takeoff is 35.
+The Weight, Maximum Launch is 65.
+
+Here is Automotive information for the NTC VISMOD Orlan-10 Russian Unmanned Aerial Vehicle (UAV):
+The Engine Name is Bental Industries electric motor.
+The Engine Type is Electric, battery.
+The Engine Power is 5.4hp, 4kW.
+The Propulsion is Two blade propeller.
+The Endurance  is 6 hours.
+The Maximum Range is 220 km.
+The Maximum AGL is 4.8 km.
+
+Here is Payload 1 information for the NTC VISMOD Orlan-10 Russian Unmanned Aerial Vehicle (UAV) of the Payload:
+The Type is Optical Camera.
+The Description is HD Color CCD 10x zoom lens.
+
+Here is Payload 2 information for the NTC VISMOD Orlan-10 Russian Unmanned Aerial Vehicle (UAV) of the Payload:
+The Type is IR Camera.
+The Description is Night FLIR thermal imaging.
+
+Here is Payload 3 information for the NTC VISMOD Orlan-10 Russian Unmanned Aerial Vehicle (UAV) of the Payload:
+The Type is Laser.
+The Description is Marker.
+
+Here is Launch and Recovery information for the NTC VISMOD Orlan-10 Russian Unmanned Aerial Vehicle (UAV):
+The Launch Method is HMMWV class vehicle with mounted rail launcher, or can use optional rail launcher trailer.
+The Recovery/Landing Method is Parachute and airbag cushion.
+

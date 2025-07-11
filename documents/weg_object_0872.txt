@@ -1,0 +1,52 @@
+This document describes the ZALA 421-12 Russian Unmanned Aerial Vehicle (UAV).
+
+ZALA 421-12 is a micro, miniature, UAV developed and produced by the Izhevsk-based company ZALA Aero. It is a small, portable and reliable UAV platform. ZALA 421-12 is designed for front-line reconnaissance, overground and overseas surveillance. It takes 3 minutes to prepare ZALA for launching. The UAV is operated in autonomous or semi-autonomous mode.
+Payloads fit in the standard mounting block that is interchangeable with other payloads and is a dual-axis, gyro-stabilized payload. GLONASS/GPS satellite navigation with the capability of autonomous operation.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the ZALA 421-12 Russian Unmanned Aerial Vehicle (UAV):
+The Alternative designations is ZALA 421-12; 421-4M.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is China Academy of Aerospace Aerodynamics, an entity under the China Aerospace Science and Technology Corporation (CASC).
+The Ground Crew is 2.
+
+Here is Dimensions information for the ZALA 421-12 Russian Unmanned Aerial Vehicle (UAV):
+The Wing Span is 1.6.
+The Length (fuselage) is 0.62.
+The Takeoff Weight is 3.9.
+The Max Takeoff Weight is 4.8.
+The Max Payload is 1.0.
+
+Here is Automotive information for the ZALA 421-12 Russian Unmanned Aerial Vehicle (UAV):
+The Engine is Electric, battery powered.
+The Propulsion is 2-blade propeller.
+The Max Speed is 130.
+The Cruise Speed is 65-120.
+The Maximum Ceiling is 3,600 m Above Sea Level.
+The Minimum Ceiling is 15.
+The Operating Ceiling is 100 - 700.
+The Endurance is 130.
+The RPV Mode Range is 25.
+The Pre-programmed Mode Range is 40.
+The Launch Method is Elastic or pneumatic catapult.
+The Wind speed at launch is 10 m/s.
+The Recovery Method is Parachute (non-steerable).
+
+Here is Payload information for the ZALA 421-12 Russian Unmanned Aerial Vehicle (UAV):
+The Photo camera is 10 Mpx.
+The Color Video Camera is 550 TVL.
+The Infrared Camera is 320x240 px.
+The Hazard Gas Analysis Module is Hazardous Gas (Optional).
+
+Here is System Components information for the ZALA 421-12 Russian Unmanned Aerial Vehicle (UAV):
+The Number of UAVs is 2 UAVs.
+The Number of transport cases is 2 transport cases.
+The Ground Control Station (GCS) is 1 man-pack, ruggedized.
+The GCS Power Supply is 120/220 V, 6 hour battery.
+The Setup Time (min) is 5-10 min..
+The Control Capability is UAV and payload controlled independently by GCS.
+The Video roll-stabilized cameras is 2 Video cameras.
+The Infrared Camera (optional) is 1 IR Camera.
+The Elastic or Pneumatic Launcher is 1 (optional).
+

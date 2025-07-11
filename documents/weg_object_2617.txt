@@ -1,0 +1,93 @@
+This document describes the Condor Germany 4x4 Amphibious Armored Personnel Carrier (APC).
+
+The Condor is a 4×4 wheeled armored personnel carrier originally designed by Thyssen-Henschel of Germany and manufactured by Henschel Wehrtechnik GmbH. The first prototype was completed in 1978. The Condor was designed as a successor to its UR-416 APC. The upgraded Condor 2 was first sold in 2004. Today, the Condor is considered a legacy product of Rheinmetall MAN Military Vehicles, part of Rheinmetall's Vehicle Systems Division. The nearest vehicle to the Condor in RMMV's current product range is the Survivor R.
+
+This equipment has proliferated into the following countries: Kuwait, Malaysia, Portugal, South Korea (Republic of Korea), Thailand, Turkey, Uruguay.
+
+Here is System information for the Condor Germany 4x4 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is Condor.
+The Type is Amphibious Armored Personnel Carrier (APC).
+The Manufacturer is Rheinmetall Landsysteme, Kiel, Germany (formerly Thyssen Henschel).
+The Configuration is 4x4.
+The Crew is 2.
+The Passenger Capacity is 12.
+The Payload Capacity is 3,200 kg.
+
+Here is Dimensions information for the Condor Germany 4x4 Amphibious Armored Personnel Carrier (APC):
+The Length, Hull is 6.47 m.
+The Width is 2.47 m.
+The Height, Hull Top is 2.18 m.
+The Height, Turret Top is 2.79 m.
+The Wheel Base is 3.28 m.
+The Tire Size is 330 x 507 mm.
+The Ground Clearance, Below Axles is 480 mm.
+The Ground Clearance, Below Vehicle is 520 mm.
+The Empty Weight is 9,200 kg.
+The Combat Weight is 12,400 kg.
+
+Here is Automotive information for the Condor Germany 4x4 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is 1 x Daimler-Benz OM 352A.
+The Engine Type is liquid-cooled, turbocharged, in-line 6-cyl diesel.
+The Engine Power is 168 hp at 2,800 rpm.
+The Power-to-Weight Ratio is 13.55 hp/metric ton.
+The Fuel Capacity is 280 liters.
+The Transmission is manual; 8 forward, 4 reverse gears.
+The Suspension is 4 x 4 (4-wheel drive; 2-wheel steering)
+rigid axles, coil springs, double-acting.
+The Road Speed is 100 kph.
+The Amphibious Speed is 8 kph.
+The Range is 900 km.
+The Vertical Obstacle is 0.55 m.
+The Fording is Amphibious w/steerable propeller.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Angle of Approach is 45 deg.
+The Angle of Departure is 52 deg.
+
+Here is System information for the Condor Germany 4x4 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 x Oerlikon KAA.
+The Type is Autocannon.
+The Caliber is 20 mm.
+The Length is 2,210 mm.
+The Barrel Length is 1,400 mm.
+The Weight is 68.4 kg.
+The Barrels is Single barrel (progressive RH parabolic twist, 9 grooves).
+The Action is API blowback.
+The Elevation is Manual, -15°/+90°.
+The Traverse is Manual, full 360°.
+The Rate of Fire is 450 rounds per minute.
+The Maximum Firing Range is 4,389 m.
+The Effective Firing Range is 914 m.
+The Feed System is Cylindrical magazine holding 60 rounds, Later adjusted to be a belt fed gun.
+
+Here is Ammunition information for the Condor Germany 4x4 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 20.
+The Shell is 20×110mmRB.
+The Basic Load is 220 Rounds.
+
+Here is System information for the Condor Germany 4x4 Amphibious Armored Personnel Carrier (APC) of the Coaxial Weapon System:
+The Name is INA.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+
+Here is Ammunition information for the Condor Germany 4x4 Amphibious Armored Personnel Carrier (APC) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Basic Load is 500 Rounds.
+
+Here is Fire Control information for the Condor Germany 4x4 Amphibious Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is No.
+
+Here is Protection information for the Condor Germany 4x4 Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is Armor proof against shell splinters, 5.56-mm ball and 7.62-mm armor-piercing rounds, and anti-personnel mines..
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 2 x 4-barrel smoke dischargers on hull sides.
+

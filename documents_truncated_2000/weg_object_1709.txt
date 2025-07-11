@@ -1,0 +1,61 @@
+This document describes the Orca Class American Extra Large Unmanned Undersea Vehicle (XLUUV).
+
+The US Navy plans to use the Orca American Extra Large Unmanned Undersea Vehicle (XLUUV)  for potential capabilities such as mine countermeasures, anti-surface warfare (ASuW), anti-submarine warfare (ASW), electronic warfare (EW), and strike missions. The XLUUV is a migration from the Echo Voyager from Boeing, with a mission module placed in the middle of it, to initially carry mines. The Orca American Extra Large Unmanned Undersea Vehicle (XLUUV) is an open-architecture, reconfigurable UUV that will be modular in construction and have a modular payload bay. The underwater vehicles are expected to be delivered by June 2022 under a program to address a Joint Emergent Operational Need (JEON).
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the Orca Class American Extra Large Unmanned Undersea Vehicle (XLUUV):
+The Alternative Designation is Orca.
+The Type is American Extra Large Unmanned Undersea Vehicle (XLUUV).
+The Builder is Lockheed Martin.
+The Crew is Autonomous.
+The Mission is The US Navy plans to use the Orca American Extra Large Unmanned Undersea Vehicle (XLUUV)  for potential capabilities such as mine countermeasures, anti-surface warfare (ASuW), anti-submarine warfare (ASW), electronic warfare (EW), and strike missions. The long-range underwater vehicle is being developed to perform critical missions with reliability. It is expected to provide the ability to launch, recover, operate and establish communications with the vehicle from a home base away from the area of operation without the need for navy personnel..
+The Force Multiplier is Key attributes include extended vehicle range, autonomy, and persistence. Orca XLUUV will transit to an area of operation; loiter with the ability to periodically establish communications, deploy payloads, and transit home..
+The Navigation System is Kalman filtered Inertial Navigation Unit (INU).
+The GPS is Yes, equipped with GPS to support its operations on or near the surface..
+The Launch and Recovery is The vehicle can be launched and recovered without the requirement of support ships..
+The Modular Payload Bay is Yes,  The payload bay will have interfaces to support requirements for existing and future payloads..
+The Payload Capacity is The modular payload bay will have the capacity to hold 8t of dry weight and the bay is powered by an 18kW battery..
+
+Here is Dimensions information for the Orca Class American Extra Large Unmanned Undersea Vehicle (XLUUV):
+The Length is 26 m.
+The Beam is 2.6 m.
+The Draft is Submersible.
+The Displacement, Standard is 50 tons in the air.
+The Displacement, Full Load is INA.
+
+Here is Propulsion System information for the Orca Class American Extra Large Unmanned Undersea Vehicle (XLUUV):
+The Engine Name is INA.
+The Engine Type is Hybrid rechargeable power system.
+The Engine Power is INA.
+The Active Buoyancy Control System is An Active buoyancy control system aboard will mainly provide capabilities, including autonomous buoyancy control, seafloor mooring and forward and aft trim control..
+The Range is 6,500 nm.
+The Maximum Speed is 8 knots.
+The Optimal Speed is 2.5-3 knots.
+The Minimum Speed is 2.5 knots.
+The Endurance is The submersible can carry out operations for months..
+
+Here is Communications information for the Orca Class American Extra Large Unmanned Undersea Vehicle (XLUUV):
+The Inmarsat IV is Yes, Encrypted Inmarsat IV.
+The Iridium  Global Satellite Communications is Yes.
+The Wi-Fi is Yes.
+The FreeWave Enabled Communications is Yes, FreeWave enabled communications are used for command, control and mission re-planning, while the vehicle performs near-surface operations..
+The Note is The submersible uses acoustic communications for command and control during submerged operations..
+
+Here is Armament information for the Orca Class American Extra Large Unmanned Undersea Vehicle (XLUUV):
+The Note is The Navy is developing new types of mines: the cylindrical-shaped Clandestine Delivered Mine and the Hammerhead, an encapsulated torpedo designed to lie in wait for submarines. The capsule for the torpedo would be anchored to the ocean floor, much like the Mk60 CAPTOR mine of Cold War vintage that housed a Mk46 antisubmarine torpedo. (The CAPTOR was withdrawn from the Navy’s inventory in 2001.) The Hammerhead is designed to have modular architecture to allow for technology insertion..
+
+Here is Sonar Systems information for the Orca Class American Extra Large Unmanned Undersea Vehicle (XLUUV):
+The Forward-Looking Sonar (FLS) is Yes.
+The Doppler Velocity Logs (DVLs) is Yes, The FLS and the DVL facilitate terrain-following capability at the seabed..
+The Autonomous Obstacle Avoidance System is Yes.
+The Depth Sensors is Yes.
+The Seafloor Long Baseline (LBL) is Yes.
+The Synthetic Aperture Sonar System is Available, Raytheon PROSAS PS60-6000 synthetic aperture sonar for improved ocean floor mapping..
+
+Here is Protection information for the Orca Class American Extra Large Unmanned Undersea Vehicle (XLUUV):
+The Hull Armor is INA.
+The Countermeasures is No.
+The NBC Water Washdown System is No.
+The EW Intercept is No.
+

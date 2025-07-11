@@ -1,0 +1,212 @@
+This document describes the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC).
+
+The ZBL-09 (Type 09) Chinese 8x8 Amphibious Armored Personnel Carrier (APC)is the latest wheeled platform series to enter service with the People's Liberation Army (PLA) of China. The family was designed by China North Industries Corporation (NORINCO) and is expected to replace obsolete wheeled vehicles in service with the PLA. The family bears some resemblance to the US Stryker Brigade Combat Team concept and may reflect recent shifts in China's doctrine to mimic the rapidly deployable and mobile formations used by the US and Russia. The ZBL-09 is the most numerous variant of the Type 09 family, which as a result it is often the designation used to describe the entire genus of Type 09 variants. It is designed as an IFV, armed and protected to provide an equipped infantry section with the necessary fire support and shelter needed to effectively influence a battle.
+
+This equipment has proliferated into the following countries: China, Gabon, Nigeria, Thailand, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC):
+The ZBL-09 is APC.
+The PLL-09 is Fire Support.
+The ZTL-11 is Fire Support.
+The ZBL-09 SHORAD is Air Defense.
+The ZZH-09 C2 is C2.
+The ZBL-09 Communication Platform is Communication Platform.
+The ZBL-09 ARV is ARV.
+The ZBL09 ABV is Combat Engineering.
+The ZBL-09 Ammunition Resupply Vehicle is Ammunition Resupply Vehicle.
+The ZBL-09 35 mm Air-Defense Platform is Air-Defense Platform.
+The ZBL-09 Ambulance is Ambulance.
+The ZBL-09 Bridging Platform is Mechanized Bridge.
+The ZBL-09 Combat Engineering Platform is Combat Engineer.
+The ZBL-09 EW Platform is EW.
+The ZBL-09 Medevac Variant is Ambulance.
+The ZBL-09 Reconnaissance Platform is Reconnaissance.
+The ZBL-09, Artillery Reconnaissance is Reconnaissance.
+The ZBL-09, CBRN is CBRN.
+The VN1C is IFV.
+The Type 09, Assault Gun is Fire Support.
+
+Here is System information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is Type 09; ZBL-09; VN1.
+The Manufacturer is NORINCO.
+The Estimated out of Service Date is 2039.
+The Family is Snow Leopard.
+The Cost is $1.8 Million.
+The Type is 8x8 Wheeled Amphibious Fighting Vehicle.
+The Crew is 3.
+The Troop Compartment Capacity is 7.
+
+Here is Dimensions information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC):
+The Length is 8.0.
+The Width is 3.0.
+The Height is 2.1.
+The Weight, Combat is 21,000.
+The Ground Pressure is INA.
+
+Here is Automotive information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is DEUTZ BF6M1015 CP.
+The Engine Type is Water-cooled Diesel.
+The Engine Power is 440hp at 2,100 rpm.
+The Power to Weight Ratio is 16.5.
+The Maximum Range is 800.
+The Speed, Maximum Road is 100.
+The Speed, Average Cross is 50.
+The Speed, Maximum Swim is 8.
+The Propellers is 2.
+The Transmission is Manual.
+The Suspension System is Independent.
+The Axels is Differential Lock Enabling.
+The Slope is 30.
+The Vertical Obstacle is 0.55.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.55.
+The Fording Depth is Amphibious.
+The Trench is 1.8.
+
+Here is TBR-121 VHF Radio information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC) of the Communcations:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Proliferated is Widely.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Gun:
+The Name is 1 x 2A72 (Shipunov 2A42).
+The Type is Autocannon.
+The Caliber is 30 mm.
+The Alternate Designation is Shipunov 2A42.
+The Date of Introduction is 1980.
+The Length, Barrel is 2,416.
+The Length, Total is 3.027.
+The Weight is 115.
+The Action is Gas Operated.
+The Barrels is 1.
+The Rate of Fire (Low) is 200-300.
+The Rate of Fire (High) is 550-800.
+The Cage Cooling Sleeve is Yes.
+The Traverse is 360.
+The Cage Cooling Sleeve is Yes.
+The Feed System is Twin Feed.
+
+Here is Ammunition (Option 1) information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Gun:
+The Type is Armour Piercing Fin Stabilized Discarding Sabot with Tracer(APFSDS-T).
+The Caliber is 30.
+The Muzzle Velocity is 1,275.
+The Basic Load is 125.
+The Maximum Effective Range is 2,800.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Round Mass (Nominal) is 675.
+The Projectile Mass (Nominal) is 220.
+The Round Length is 280.
+The Tracer is 2.5.
+The Cartridge Case is Steel.
+The Primer is Percussion cap.
+The Penetration at 1,000 is >45mm RHA steel at 60° obliquity.
+The Dispersion is 0.45.
+The Operational temperature is -32°C to +62°C.
+
+Here is Ammunition (Option 2) information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Gun:
+The Type is High Explosive Incendiary.
+The USSR Designation is UOF-84.
+The Caliber is 30 mm.
+The Description is Shell filled with 48,5g HEI, with A-670M fuze.
+The Muzzle Velocity is 960.
+The Basic Load is 225.
+The Max Range is 5,000.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Weight, Bullet is 0.39.
+
+Here is HJ-73 or Red Arrow 73 Missiles (Option 1) information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC) of the Anti-Tank Guided Missiles (ATGM):
+The Name is Red Arrow 73B.
+The Type is Anti-Tank Missile System.
+The Muzzle Velocity is 120.
+The Maximum Range is 2,800.
+The Warhead Type is Tandem-HEAT.
+The Hit Probability is 90.
+The Penetration Probability is 80.
+The Penetration is 200 mm of RHA set at 68° and protected by ERA.
+
+Here is HJ-73 or Red Arrow 73 Missiles (Option 2) information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC) of the Anti-Tank Guided Missiles (ATGM):
+The Name is Red Arrow 73D.
+The Type is Anti-Tank Missile System.
+The Muzzle Velocity is 130.
+The Maximum Range is 2,800.
+The Warhead Type is Tandem-HEAT.
+The Hit Probability is 90.
+The Penetration Probability is 80.
+The Penetration is 280 mm of RHA set at 68° and protected by ERA.
+
+Here is HJ-73 or Red Arrow 73 Missiles (Option 3) information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC) of the Anti-Tank Guided Missiles (ATGM):
+The Name is Red Arrow 73E.
+The Type is Anti-Tank Missile System.
+The Muzzle Velocity is 135.
+The Maximum Range is 3,000.
+The Warhead Type is Tandem-HEAT.
+The Hit Probability is 90.
+The Penetration Probability is 80.
+The Penetration is 300 mm of RHA set at 68° and protected by ERA.
+
+Here is HJ-73 or Red Arrow 73 Missiles (Option 4) information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC) of the Anti-Tank Guided Missiles (ATGM):
+The Name is Red Arrow 73F.
+The Type is Anti-Tank Missile System (Bunker Buster).
+The Muzzle Velocity is 130.
+The Maximum Range is 2,800.
+The Warhead Type is Fuel Air Explosive Warhead.
+The Hit Probability is 90.
+The Penetration Probability is 80.
+The Penetration is 300 mm of RHA set at 68° and protected by ERA.
+
+Here is System information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC) of the Auxiliary Weapon System:
+The Name is Type 80 Chinese Heavy Machine Gun.
+The Manufacturer is Norinco.
+The Type is 7.62mm Heavy Machine Gun.
+The Length, Total is 1,192.
+The Length, Barrel is 658.
+The Diameter is INA.
+The Action is Gas Operated.
+The Rate of Fire is 700-800.
+The Feed System is Belts in 100/200/250 round boxes.
+The Sights is Open sights. Optical/Night vision scope can be outfitted..
+
+Here is Ammunition information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC) of the Auxiliary Weapon System:
+The Type is 7.62×54mmR.
+The Caliber is 7.62x54.
+The Muzzle Velocity is 840.
+The Basic Load is Belts in 100/200/250 round boxes.
+The Effective Firing Range is 100-1,500.
+The Min Range is 100.
+The Armor Penetration is INA.
+
+Here is Fire Control information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC):
+The Name is Yes, fitted with the PLA’s version of a generic vehicle architecture (GVA) Battle Management System (BMS)..
+The Computerized FCS is Yes, the turret includes an FCS that accounts for the speed of the vehicle and distance to the target to provide ballistic solutions for the main gun..
+The Optics is The commander and gunner are both provided with sights, but it is unclear if either of the sights are panoramic. They are protected by armored screens and the gunner’s sight includes a control channel for the HJ-73 missile system. Both commander and gunner also have a number of periscopes to improve situational awareness..
+The Thermal (Vehicle Commander) is Yes.
+The Thermal (Gunner) is Yes.
+The Main Gun Stabilization is INA.
+The Firing Ports is Yes.
+The Winch is Available.
+The Satellite Navigation System is BeiDou Satellite, which also integrates with the vehicle’s digital radios to provide blue force tracking..
+The Laser Range Finder is Yes.
+
+Here is Protection information for the ZBL-09 (Type 09/VN1) Chinese 8x8 Amphibious Armored Personnel Carrier (APC):
+The Hull and Turret Armor is High hardness armor steel, which provide a protection against 12.7mm armour-piercing incendiary (API) strikes frontally at 100m,.
+The Side Armor is 7.62mm API on the sides at 100m.
+The Rear Armor is 7.62mm ball at the rear..
+The Applique Armor is Available, the ZBD-09 can also be fitted with add-on armor package enables the vehicle to survive 25 mm API frontally at 1,000m and 12.7mm API on the sides at 100m..
+The Explosive Reactive Armor is INA.
+The Active Protection System is Yes.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, 12 Smoke Grenade Launchers (6 on each side).
+The Central Tire Inflation System is Yes, The tires are fitted with a CTIS and RFIs, which means that the tyres will continue to support the vehicle once punctured for 100 km at a speed of 40 km/h..
+The Automatic Fire Extinguishing System is Yes.
+The Air Conditionning System, is Yes.
+

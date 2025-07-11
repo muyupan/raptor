@@ -1,0 +1,44 @@
+This document describes the UR-15 Meteor Russian Tracked Demining Unmanned Ground Vehicle (UGV).
+
+The UR-15 Meteor Tracked Demining Unmanned Ground Vehicle (UGV) is designed to clear lanes through minefields by means of a line charge. A base vehicle is used to carry the launcher and five mine-clearing line charges, which use jet engines to fly over the minefield.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the UR-15 Meteor Russian Tracked Demining Unmanned Ground Vehicle (UGV):
+The Alternative Designation is UR-15 Meteor.
+The Type is Demining Unmanned Ground Vehicle (UGV).
+The Manufacturer is ROSOBORONEXPORT Federal State Unitary Enterprise.
+The Configuration is Tracked.
+The Crew is Unmanned.
+The Operator is INA.
+
+Here is Dimensions information for the UR-15 Meteor Russian Tracked Demining Unmanned Ground Vehicle (UGV):
+The Length is 7.14 m.
+The Width is 3.23 m.
+The Height is 2.02 m.
+The Weight, Combat is 22 tons.
+
+Here is Automotive information for the UR-15 Meteor Russian Tracked Demining Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is The platform features a new hybrid electric drive system..
+The Engine Power is INA.
+The Maximum Land Speed is 60 km/h.
+The Maximum Amphibious Speed is 5 km/h.
+The Operating Range is On batteries the vehicle can travel a distance up to 3 km..
+The Batteries is Batteries enable driving in silent mode and without the use of the diesel engine..
+
+Here is Main Weapon System information for the UR-15 Meteor Russian Tracked Demining Unmanned Ground Vehicle (UGV):
+The Note is A remote-controlled weapon station is located on the roof of the hull (above the control compartment) and can be equipped with a 7.62×54 mm PKT machine gun..
+
+Here is Mine Clearing Equipment information for the UR-15 Meteor Russian Tracked Demining Unmanned Ground Vehicle (UGV):
+The Launch Tubes is Launch tubes feature on the upper frontal part and on the roof of the hull, which are likely for the Afghanit active protection system (APS)..
+The Type of Line Charge is Razrez.
+The Charge Range is >500 m.
+The Length of Line Charge is >93 m.
+
+Here is Protection information for the UR-15 Meteor Russian Tracked Demining Unmanned Ground Vehicle (UGV):
+The Armor is The UR-15 Meteor retains its aluminum-steel armored body to protect against small-caliber artillery from the front angles..
+The Applique Armor is Additional protection is offered, on the lower frontal plate, there are two electromagnetic attachments for protection against mines with magnetic target sensors..
+The Active Protection is Afghanit active protection system (APS).
+The Smoke is On the sides of the hull at the top, on the sides of the launcher, there are two blocks of six smoke grenade launchers..
+

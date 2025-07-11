@@ -1,0 +1,79 @@
+This document describes the K263A1 South Korean 20mm Amphibious Self-Propelled Anti-Aircraft Gun.
+
+The K263A1 is part of the KIFV family of fighting vehicles. It is based on the hull of the K200A1. The K263A1 is fitted with a turret which was originally developed for use on the American M163 Vulcan self-propelled anti-aircraft gun.
+
+This equipment has proliferated into the following countries: Malaysia, South Korea (Republic of Korea).
+
+Here is System information for the K263A1 South Korean 20mm Amphibious Self-Propelled Anti-Aircraft Gun:
+The Alternative Designation is K263A1.
+The Type is Self-Propelled Anti-Aircraft Gun.
+The Caliber is 20 mm.
+The Manufacturer is Daewoo Heavy Industries and Machinery, South Korea.
+The Chassis is Korean infantry fighting vehicle (KIFV).
+The Crew is 4 (commander, driver, gunner, assistant).
+
+Here is Dimensions information for the K263A1 South Korean 20mm Amphibious Self-Propelled Anti-Aircraft Gun:
+The Length is 5.37 m.
+The Width, Overall is 2.85 m.
+The Width, Hull is 2.55 m.
+The Height, Turret Roof is 2.92 m.
+The Ground Clearance is 0.41 m.
+The Track Width is 0.38 m.
+The Ground Pressure is 0.64 kg/sq cm.
+The Standard Weight is 11,000 kg.
+The Combat Weight is 13,200 kg.
+
+Here is Automotive information for the K263A1 South Korean 20mm Amphibious Self-Propelled Anti-Aircraft Gun:
+The Engine Name is 1 x Doosan D2848T.
+The Engine Type is V8, 4-stroke diesel.
+The Engine Power is 350 hp at 2,300 rpm.
+The Power-to-Weight Ratio is 26 hp/ton.
+The Fuel Capacity is 400 liters.
+The Suspension is Torsion bar.
+The Maximum Speed, Land is 70 km/h.
+The Maximum Speed, Amphibious is 6 km/h.
+The Range is 480 km.
+The Gradient is 60 percent.
+The Side Slope is 30 percent.
+The Vertical Obstacle is 0.63 m.
+The Trench is 1.68 m.
+
+Here is System information for the K263A1 South Korean 20mm Amphibious Self-Propelled Anti-Aircraft Gun of the Main Weapon System:
+The Name is 1 x M168 Vulcan.
+The Type is Autocannon.
+The Caliber is 20 mm.
+The Manufacturer is Daewoo Heavy Industries and Machinery, South Korea.
+The Barrel Length is 1.50 m.
+The Elevation is 85 deg to -5 deg.
+The Traverse is 360 deg.
+The Rate of Fire, High is 3,000 rd/min.
+The Rate of Fire, Low is 1,000 rd/min.
+The Rate of Fire, Bursts is 10, 30, 60 or 100 rd.
+The Maximum Range, Anti-Aircraft is 1,500 m.
+The Maximum Range, Ground is 3,000 m.
+
+Here is Ammunition information for the K263A1 South Korean 20mm Amphibious Self-Propelled Anti-Aircraft Gun of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 20.
+The Cartridge is INA.
+The Basic Load is 1,850 Rounds.
+
+Here is Fire Control System (FCS) information for the K263A1 South Korean 20mm Amphibious Self-Propelled Anti-Aircraft Gun:
+The FCS Name is INA.
+The Computerized FCS is No, Manual, aided by range only radar.
+The APU is APU fitted for powered elevation and traverse.
+
+Here is System information for the K263A1 South Korean 20mm Amphibious Self-Propelled Anti-Aircraft Gun of the Radar Systems:
+The Name is INA.
+The Maximum Range is 5,000 m.
+The Minimum Range is 250 m.
+
+Here is Protection information for the K263A1 South Korean 20mm Amphibious Self-Propelled Anti-Aircraft Gun:
+The Hull Armor is The hull is of all-welded aluminum armor on the front and sides. A layer of spaced laminated armor is added for improved protection. The composite armor provides improved protection for less weight. The closed polyurethane foam in the armor provides increased buoyancy for amphibious operations..
+The Turret Armor is Protection from small arms fire and shell splinters.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Mine Clearing is No.
+The NBC Protection is Yes.
+The Smoke Equipment is On the front of the hull above the trim vane is a bank of six forward-firing, electrically operated smoke grenade launchers.
+

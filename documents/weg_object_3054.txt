@@ -1,0 +1,78 @@
+This document describes the M1937 (ML-20) Russian 152mm Towed Howitzer.
+
+The  M1937 (ML-20) Russian 152mm Towed Gun Howitzer is an obsolete 152-mm gun/howitzer almost completely replaced in the Russian ground forces by the D-20 (M1955). The ML-20 uses the same carriage as the A-19 (M1931/M1937) 122-mm Corps Gun but has a shorter barrel with a multi-slotted muzzle brake. The recoil mechanism is mounted below the barrel, which is balanced by twin equilibrators that stand just ahead of the small shield. The riveted, box-section split trail is carried by a two-wheel limber during travel and anchored by detachable recoil spades on each leg during firing. The main carriage wheels are dual-tired discs with narrow treads. The overall length of the gun during travel is reduced by pulling the barrel rearwards over the joined trail legs. The ML-20 fires case-type, separately loaded ammunitions. Principal rounds for the gun are the OF-540 high-explosive fragmentation (HE-FRAG), G-530 and G-545 concrete-piercing (CP), and BR-540 armor-piercing with tracer (AP-T) projectiles.
+
+This equipment has proliferated into the following countries: Bulgaria, Mongolia, North Korea (Democratic People's Republic of Korea), Russian Federation, Syria, Ukraine.
+
+Here is Variants information for the M1937 (ML-20) Russian 152mm Towed Howitzer:
+The ML-20 with bag loading is ML-20 with bag loading – In 1937 the Main Artillery Department decided, for economic reasons, to modify medium caliber guns to use bag loading instead of cased loading. An experimental ML-20 piece was built in 1939; the trials were unsuccessful..
+The ML-20SM is ML-20SM – Modified ML-20S with identical ballistics. muzzle brake was removed. The gun was mounted in the experimental ISU-152 model 1945, of which only one unit was built..
+The BL-20 is BL-20 – ML-20 with cast breech and wedge breechblock. Was developed by OKB-172 (sharashka of the NKVD) in 1946..
+The ML-20 with M-46-type carriage is ML-20 with M-46-type carriage – ML-20 with a modified carriage, resembling in construction a carriage of the M-46 130 mm gun. In 1950 an experimental piece was built and tested..
+The 52 H 88-37 – is 152 H 88-37 – A Finnish modernization program.
+The 152 mm haubico-armata wz. 37/85 is 152 mm haubico-armata wz. 37/85 – A Polish modernization, tires from KrAZ-255B truck, new compressed air cylinder and automotive lighting increased the road speed of the towed gun from 20 to 50 km/h and allowed the gun to be towed on public roads..
+
+Here is System information for the M1937 (ML-20) Russian 152mm Towed Howitzer:
+The Alternative Designation is M1937; ML-20.
+The Type is Towed Howitzer.
+The Caliber is 152 mm.
+The Manufacturer is Design bureau of No. 172 Plant, headed by F. F. Petrov.
+The In Service is 1937-Present.
+The Crew is INA.
+The Carriage is Split trail.
+The Displacement Time is 2.
+The Emplacement Time is 2.
+
+Here is Dimensions information for the M1937 (ML-20) Russian 152mm Towed Howitzer:
+The Length is 8.18.
+The Barrel Length is 4.24.
+The Width is 2.35.
+The Height is 2.27.
+The Weight, Combat is 7,270.
+The Weight, Travel is 7,930.
+
+Here is System information for the M1937 (ML-20) Russian 152mm Towed Howitzer of the Main Weapon System:
+The Name is M1937 (ML-20).
+The Type is Towed Howitzer.
+The Caliber is 152.
+The Breech is Interrupted screw.
+The Recoil is hydro-pneumatic.
+The Rate of Fire is 3-4 rounds per minute.
+The Maximum Firing Range is 17.23.
+The Maximum Elevation is +65.
+The Minimum Elevation is -2.
+The Traverse Range is 58.
+The Traverse Right is 29.
+The Traverse Left is 29.
+
+Here is Ammunition (Option 1) information for the M1937 (ML-20) Russian 152mm Towed Howitzer of the Main Weapon System:
+The Name is BR-540.
+The Type is APHE.
+The Caliber is 152.
+The Weight is 48.8.
+The Muzzle Velocity is 600.
+The Maximum Range is 4,000.
+
+Here is Ammunition (Option 2) information for the M1937 (ML-20) Russian 152mm Towed Howitzer of the Main Weapon System:
+The Name is BP-540.
+The Type is HEAT.
+The Caliber is 152.
+The Weight is 27.44.
+The Muzzle Velocity is 680.
+The Maximum Range is 3,000.
+
+Here is Ammunition (Option 3) information for the M1937 (ML-20) Russian 152mm Towed Howitzer of the Main Weapon System:
+The Name is OF-540.
+The Type is HE-Fragmentation, steel.
+The Caliber is 152.
+The Weight is 43.6.
+The Muzzle Velocity is 655.
+The Maximum Range is 17,230.
+
+Here is Fire Control information for the M1937 (ML-20) Russian 152mm Towed Howitzer:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Collimator is INA.
+

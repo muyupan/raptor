@@ -1,0 +1,60 @@
+This document describes the MAN 27.314 DFAEC Danish 6x6 Tactical Utility Vehicle.
+
+The MAN 27.314 DFAEC is a tactical military truck. Vehicle has a 6x6 configuration. This military truck is in service with Danish Armed Forces.
+
+This equipment has proliferated into the following countries: Denmark.
+
+Here is Variants information for the MAN 27.314 DFAEC Danish 6x6 Tactical Utility Vehicle:
+The MAN 27.314 DFAEC UAV-launcher is First deliverance of this system took place in summer 2001, and the second part was handed over September 6th. 2002. Other users of the system is the French and Dutch Army. An earlier version is used in Sweden, known as "Owl". The UAV launched from the vehicle is called "Sperwer" by the French company and the Danish nickname is "Kestrel"..
+The MAN 27.314 DFAEC RCT is 1 x Remote Communication Terminal (RCT) is used in each UAV-platoon in order to communicate with the UAV´s. The remaining 2 x vehicles are held stand-by in different locations in order to increase survivability..
+The MAN 27.314 DFAEC TRS is 1 x Transport and Recovery System truck (TRS) is used in each UAV-platoon in order to handle and transport UAVs..
+The MAN 27.314 DFAEC ARTHUR is The ARTHUR system (ARTillery HUnting Radar) system was initially mounted on Unimog U2150 trucks. After its issue, the configuration was reported unstable and the system was transferred to the MAN 27.314.
+After intensive use in Afghanistan, a need for modification occurred in 2009. Better cooling and filtration of the air is among the matters being dealt with. Also the software was modified in order to decrease time from plot to a warning in the fire control sequence. The software is known as "ARTHUR+".
+
+This asset will be phased-out. No further information..
+The MAN 27.314 DFAEC C2 is MAN 27.314 equipped as part of a mobile Communication Center used by the Danish forces. Reach-back communications is provided via satellite. Internal communications via telephone switchboards (tactical network), handheld radios, and computers riding local and wide area networks..
+The MAN 27.314 DFAEC (Shelter / Office Van) is Not seen very often, the MAN 27.314 equipped as office van with a shelter..
+The MAN 27.314 DFAEC (Electronics Repair Shelter) is MAN 27.314 mounted with shelter M/68, equipped as electronic repair van..
+The MAN 27.314 DFAEC (K3) is MAN 27.314s equipped with a 8 ton HMF type 910-K3 crane behind the cab..
+The MAN 27.314 DFAEC (Armored) is MAN 27.314 equipped with  visible armor-plating; plate is mounted underneath the truck. Features an IED-kit was developed by Roshield, a Danish company based in Odense. The company is also known for the protection kits made for the Danish Mercedes-Benz C270GDI..
+The MAN 27.314 DFAEC (Fueler) is MAN 27.314 with containerized fuel-delivery system used by armored units.This fuel-delivery system, known as "Tankcontainer TA-M/2003", was developed in the late 1990s. It complies to current EU standards regarding handling of hazardous material. The central mounted tank contains 6.000 liter of fuel. Furthermore 74 jerry-cans can be carried. The container has a diesel-engine, type ID 50, which supply power (24 Volt DC) to the pumps, lightning etc. The system can refuel 3 x vehicles simultaneously with a delivery speed up to 200 liter pr. minute..
+The MAN 27.314 DFAEC (Water Tanker) is The MAN 27.314 water truck can transport 20.000 liters of water..
+
+Here is System information for the MAN 27.314 DFAEC Danish 6x6 Tactical Utility Vehicle:
+The Alternative Designation is MAN 27.314.
+The Type is Medium-duty Wheeled Utility Vehicle.
+The Manufacturer is Rheinmetall MAN Military Vehicles GmbH (RMMV).
+The Configuration is 6x6 w/ Multiple Variants.
+The Crew is 1-2.
+The Passenger Capacity is 15-18 Combat (Light) Equipped Troops + 1 x Passenger in the Cab.
+
+Here is Dimensions information for the MAN 27.314 DFAEC Danish 6x6 Tactical Utility Vehicle:
+The Length is 9.33.
+The Width is 2.55.
+The Height is 4.
+The Weight, Combat is 25,000.
+
+Here is Automotive information for the MAN 27.314 DFAEC Danish 6x6 Tactical Utility Vehicle:
+The Engine Name is D2866 LF 34 EURO 2.
+The Engine Type is 6-cylinder, 11.967 cm3 (730 cubic inches), turbo charged, liquid cooled.
+The Engine Power is 310 hp at 1,800 rpm.
+The Transmission is Automatic, ZF type 6 HP600 with retarder.
+The Cruising Range is 350.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is INA.
+The Side Slope is INA.
+The Vertical Step is INA.
+The Trench is INA.
+The Fording Depth is 0.8.
+
+Here is Protection information for the MAN 27.314 DFAEC Danish 6x6 Tactical Utility Vehicle:
+The Armor is Available on a Variant.
+The Applique Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is None.
+The Smoke Equipment is INA.
+

@@ -1,0 +1,53 @@
+This document describes the R-168-100U-2 Russian Mobile VHF Radio Station.
+
+Mobile VHF radio station of range R-168-100U-2
+Provides a radio communication in radio networks of a tactical control link a regiment - a battalion - a company.
+
+Types of work
+
+· Phone with frequency modulation.
+
+· Phone with cryptographic protection of speech information.
+
+· Data transmission.
+
+Operating modes
+
+Fixed Frequency (FF) (simplex, two-frequency simplex).
+Pseudorandom Reorganization of Working Frequency (PRWF) (simplex).
+Adaptive Communication (AC) (simplex, two-frequency simplex).
+The scanning reception at 8 in advance prepared frequencies.
+Work with a suppressor of noise.
+Relaying.
+The manual and automated record radiodanngkh from the input equipment of radio data with the optical interface (UVRD-O) or from the external COMPUTER (change of frequencies and the address).
+Emergency deleting of radio data.
+Transfer and reception of circular, address and voice-frequency calls.
+Work on 8 in advance prepared channels (APC).
+Management from the external COMPUTER on RS-232C joint.
+Voice informant of actions of the operator.
+Dialogue mode.
+The automated working capacity control.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Radio #4 information for the R-168-100U-2 Russian Mobile VHF Radio Station of the System:
+The Name is R-168-100U-2.
+The Quantity is 2.
+The Type is VHF.
+The Frequency is 30-108.
+The Capabilities is FH Voice Data Retrans.
+The Maximum Range is 25-60.
+The Mount Type is Vehicle.
+The In Service is Yes.
+The Reorganization speed is 100 sk / with.
+The Speed of Information Transfer, Speech is 16.
+The Speed of Information Transfer, Data is 1,2... 16.
+The Number of Radio Channels is 2.
+The Interval of Working Temperatures is - 40°C... + 55°C.
+The Antena is R-168BShDA antenna.
+The Weight, Transciever is 3.
+The Weight, VUFUS-25 block is 19.
+The Weight, VUFUS-100 block is 18.
+The Weight, UM-100 block is 20.
+The Weight, block of BV-25 fans is 1.
+

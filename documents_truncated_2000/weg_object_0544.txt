@@ -1,0 +1,133 @@
+This document describes the Z-8 (Zhishengji-8) Chinese Multi-Role Helicopter.
+
+The Changhe Z-8 (Zhishengji-8) is a triple-engine, multi-role helicopter designed and manufactured by the Changhe Aircraft Industry Group (CAIG) of China. It is derived from SA 321 Super Frelon Helicopter built by Aerospatiale. The Z-8 is designed to execute both civil and military missions. The civil operations capable of being performed by the aircraft include geological survey, aerial mapping, construction, forest fire protection, power line erection, and communication. The military uses of the Z-8 include liaison, search and rescue, fire fighting, frontier patrol, troop transport, anti-submarine warfare (ASW), and emergency medical service (EMS).
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Z-8 (Zhishengji-8) Chinese Multi-Role Helicopter:
+The Z-8A is The Z-8A is a military version of the original model Z-8 and is used for transportation..
+The Z-8F is The Z-8F is an advance utility variant. The variant is used for search and rescue, general utility and logistics support missions. The Z-8F is installed with three Pratt & Whitney Canada PT6A-67B turboshaft engines..
+The Z-8K/KA is The Z-8K is an enhanced version of Z-8F, built primarily to execute search and rescue missions. This variant is also fitted with forward looking infra-red (FLIR) sensors and a search light underneath the cockpit..
+The Z-8JA is The Z-8JA is a ship-borne variant of Z-8. It is able to land on water. Z-8JA and Z-8JH are currently in service with PLANAF, executing transport and medical evacuation operations respectively..
+
+Here is System information for the Z-8 (Zhishengji-8) Chinese Multi-Role Helicopter:
+The Alternative Designation is Z-8; Zhishengji-8.
+The Capabilities is Anti-Submarine Warfare; Anti-ship; Commercial Market; Search and Rescue; Reconnaissance; Special Forces.
+The Type is Chinese Multi-Role Helicopter.
+The Manufacturer is Sud Aviation
+Aérospatiale.
+The In Service is 1976-Present.
+The Crew is 3.
+The Passenger Capacity is It can accommodate 27 fully armed troops or 15 medical stretchers..
+The Blades, Main Rotor is 6.
+The Blades, Tail Rotor is 5.
+The Number of Engines is 3.
+The Day/Night Capable is Yes.
+The All Weather Capable is Yes.
+The Hoist and Winch is See the Z-8S Search and Rescue variant..
+The Number of Hard Points is 2.
+
+Here is Dimensions information for the Z-8 (Zhishengji-8) Chinese Multi-Role Helicopter:
+The Fuselage Length is 20.27.
+The Fuselage Width (with pontoon) is 5.2.
+The Width of Cargo bay (at the floor) is 1.90.
+The Height of Cargo Bay is 1.83.
+The Weight,Empty is 6,865.
+The Weight, MTOW is 13,000.
+The Main Rotor Diameter is 18.9.
+The Tail Rotor Diameter is 4.0.
+The Whole Cabin Volume is 28.9 m3.
+The Main Rotor Disc is 280.48 m2.
+The Tail Rotor Disc is 12.57 m2.
+The Maximum Payload Capacity is 4,000 kg.
+The Maximum Payload Capacity with Sling Loads is 5,000 kg.
+
+Here is Automotive information for the Z-8 (Zhishengji-8) Chinese Multi-Role Helicopter:
+The Engine Name is 3 x Turbomeca Turmu IIIC Turboshaft Engines.
+The Number of Engines is 3.
+The Engine Type is Turboshaft.
+The Engine Power is 1,570 hr each engine.
+The Maximum Range is 1,020.
+The Speed, Maximum is 275.
+The Ceiling is 3,150.
+The Rate of Climb is 401 meters per min.
+The Vertical Climb Rate is 6.66 m/s.
+The Main Rotor Blade is Six-Bladed.
+The Tail Rotor Blade is Five-Bladed.
+The Fuel Capacity is 3,900 liters.
+The Fuel Capacity, Internal Aux is 1,900 liters.
+The Endurance is 4 hours.
+The Landing Gear is non-retractable tricycle type landing gear comprising two wheels and low air pressure shock absorbers..
+
+Here is Communications information for the Z-8 (Zhishengji-8) Chinese Multi-Role Helicopter:
+The Radio is INA.
+
+Here is Missile System  #1 information for the Z-8 (Zhishengji-8) Chinese Multi-Role Helicopter of the Wing Mounted Weapons:
+The Name is YJ-8/C-802 (NATO: CSS-N-4 Sardine).
+The Type is Anti-Ship & Air-to-Surface Missiles.
+The Manufactuer is China Aerospace Science and Industry Corporation.
+The In Service is 1980s-Present.
+The Length is 5.81.
+The Width is INA.
+The Weight is 815.
+The Warhead Type is High-explosive fragmentation.
+The Warhead Weight is 165.
+The Engine is Rocket.
+The Propellant is Solid Rocket.
+The Operational Range is 42.
+The Flight Altitude is 5-7.
+The Speed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+The Basic Load is 2.
+
+Here is Missile System #2 information for the Z-8 (Zhishengji-8) Chinese Multi-Role Helicopter of the Wing Mounted Weapons:
+The Name is YJ-83 (CSS-N-8 Saccade).
+The Type is Subsonic anti-ship cruise missile.
+The Manufacturer is China Aerospace Science and Industry Corporation.
+The In Service is 1998-Present.
+The Length is INA.
+The Diameter is INA.
+The Warhead Type is High-explosive fragmentation.
+The Warhead Weight is 190.
+The Operational Range is 180.
+The Speed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+The Basic Load is 2.
+
+Here is Torpedo information for the Z-8 (Zhishengji-8) Chinese Multi-Role Helicopter of the Wing Mounted Weapons:
+The Name is A244S Torpedo.
+The Type is Fire and Forget Torpedo.
+The Length is 2.75.
+The Diameter is 324.
+The Muzzle Velocity is INA.
+The Effective Firing Range is 13.5.
+The Maximum Firing Range is 6 km for Mod. 1, 13.5 km for Mod. 3.
+The Filling is high explosive STANAG 4439 and MURAT-2 compliant.
+The Detonation Mechanism is Various.
+The Note is The Torpedo can be launched from surface vessels or from aircraft, and locates the target by means of an acoustic seeker..
+
+Here is Fire Control System (FCS) information for the Z-8 (Zhishengji-8) Chinese Multi-Role Helicopter:
+The Fire Control System Type is INA.
+The Fire Control Radar is Bar-shape Array.
+The Digital or Analog Cockpit is INA.
+The Direct Fire Control is INA.
+The Laser Designator is INA.
+The Sensor Suite(s) Available is Yes.
+The Position Location System is Yes.
+The ASW Radar is Yes.
+The Dipping Sonar is Yes, HS-12 dipping sonar.
+The FLIR is Yes.
+The Searchlight is Yes.
+The Sonobuoys is Available.
+The Note is The Helicopter can carry anti-submarine and Anti-ship torpedoes externally.
+
+Here is Protection information for the Z-8 (Zhishengji-8) Chinese Multi-Role Helicopter:
+The Fuselage is INA.
+The Cockpit Glass is Ballistic.
+The Stealth Properties is No.
+The Add on Armor is INA.
+The NBC Protection is Yes.
+The EW is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is Yes.
+

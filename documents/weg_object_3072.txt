@@ -1,0 +1,122 @@
+This document describes the Type 10 Japanese Main Battle Tank (MBT).
+
+The Type 10 Japanese Main Battle Tank (MBT) is a next-generation main battle tank produced by Mitsubishi Heavy Industries for the Japanese Ground Self Defense Force. Compared with other currently-serving main battle tanks in the JGSDF, the Type 10 has been equipped with enhancements in its capability to respond to anti-tank warfare and other contingencies.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is Variants information for the Type 10 Japanese Main Battle Tank (MBT):
+The Type 11 is Armored recovery vehicle. It was designed to support Type 10 tanks. It is based on the Type 10 tank chassis, but has an armored superstructure instead of turret and is fitted with recovery equipment..
+
+Here is System information for the Type 10 Japanese Main Battle Tank (MBT):
+The Alternative Designation is Type 10 (TK-X) "Hitomaru".
+The Type is Main Battle Tank (MBT).
+The Manufacturer is Mitsubishi Heavy Industries.
+The Crew is 3.
+
+Here is Dimensions information for the Type 10 Japanese Main Battle Tank (MBT):
+The Length is 9.42.
+The Barrel Length is INA.
+The Width is 3.24.
+The Height is 2.3.
+The Weight, Combat is 48,000.
+
+Here is Automotive information for the Type 10 Japanese Main Battle Tank (MBT):
+The Engine Name is Mitsubishi V8 Diesel.
+The Engine Type is Water-cooled, four-cycle, eight-cylinder diesel.
+The Engine Power is 1,200.
+The Cruising Range is 500.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 1.0.
+The Fording Depth, without Preparation is INA.
+The Fording Depth, with Preparation is 1.0.
+
+Here is System information for the Type 10 Japanese Main Battle Tank (MBT) of the Main Weapon System:
+The Name is 1 x 120mm / L55.
+The Type is Smoothbore cannon with automatic loader.
+The Length, Barrel is 6.6.
+The Weight is 1,347.
+The Muzzle Velocity is 1,750.
+The Maximum Rate of Fire is ~12.
+The Maximum Elevation is INA.
+The Minimum Elevation is INA.
+The Traverse Range is 360.
+The Traverse Left is N/A.
+The Traverse Right is N/A.
+The Effective Firing Range (Max) is 4,000.
+The Sights is Mounted on the right of the turret. It provides day / night observation and target identification. Muzzle reference system and 360 degrees roof-mounted stabilized day/night panoramic sight, all weather..
+
+Here is Ammunition information for the Type 10 Japanese Main Battle Tank (MBT) of the Main Weapon System:
+The Type is 120mm (NATO) and also the new third-generation APFSDS-T (Armor Piercing Fin-Stabilized Discarding Sabot – Tracer) round..
+The Caliber is 120.
+The Armor Penetration is ~540.
+The Basic Load is 36.
+
+Here is System information for the Type 10 Japanese Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is 1 x Type 64 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Length, Barrel is 450.
+The Weight is 4.4.
+The Muzzle Velocity is 700.
+The Maximum Rate of Fire is 500.
+The Maximum Elevation is INA.
+The Minimum Elevation is INA.
+The Traverse Range is INA.
+The Traverse Left is INA.
+The Traverse Right is INA.
+The Effective Firing Range (Max) is 400.
+The Sights is Iron sights, additional optics available if weapon is removed from platform and used dismounted..
+The Magazine is 20-round detachable box magazine.
+
+Here is Ammunition information for the Type 10 Japanese Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is Howa Type 64 Ammo.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62mm x 51mm (NATO).
+The Basic Load is INA.
+The Armor Penetration is INA.
+
+Here is System information for the Type 10 Japanese Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is 1 x Sumitomo M2HB Roof-Mounted 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Length, Barrel is 1,143.
+The Weight is 38.1.
+The Muzzle Velocity is 2,900.
+The Maximum Rate of Fire is 600.
+The Maximum Elevation is INA.
+The Minimum Elevation is INA.
+The Traverse Range (w/Turret) is 360.
+The Traverse Left is INA.
+The Traverse Right is INA.
+The Maximum Firing Range is 6,800.
+The Effective Firing Range is 1,800.
+
+Here is Ammunition information for the Type 10 Japanese Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Linked.
+The Caliber is 12.7.
+The Cartridge is 12.7mm x 99mm NATO.
+The Basic Load is 2,000.
+
+Here is Fire Control System information for the Type 10 Japanese Main Battle Tank (MBT):
+The Name is Enhanced Fire Control.
+The Computerized FCS is INA.
+The Main Gun Stabilization is INA.
+The Direct Fire is INA.
+The  is Equipped with an enhanced fire control system to engage stationary and moving targets. Also fitted with a laser range finder..
+
+Here is Protection information for the Type 10 Japanese Main Battle Tank (MBT):
+The Hull Armor is Nano-crystal steel, fourth generation modular ceramic composite.
+The Turret Armor is INA.
+The Applique Armor is Add-on armor modules alter protection levels. NFI.
+The Explosive Reactive Armor is INA.
+The Active Protection System is Equipped with automatic fire suppression systems.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is Optional.
+The NBC Protection is Equipped.
+The Smoke Equipment is Equipped with smoke grenade launchers that are coupled to laser warning receivers..
+

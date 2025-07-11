@@ -1,0 +1,31 @@
+This document describes the VK3150 American 150 W HF Power Amplifier.
+
+The R&S VK3150 150 W HF power amplifier increases the HF output power of the R&S MR300xH/U manpack radios to 150 W PEP or 100 W average.
+
+The R&S®VK3150 provides medium-power/medium-range communications links. Typical applications include mobile or base station installations for general-purpose HF SSB voice and data communications.
+
+Continuous coverage is provided over the 1.5 MHz to 30 MHz frequency range. The power amplifier section is of broadband design and fully supports frequency-agile operating modes (automatic link establishment, slow frequency hopping). When used with the automatic R&S®FK3150 HF antenna tuning unit, the output of the R&S®VK3150 is automatically matched to most rod and whip antennas.
+
+Built-in self-test features permit operators or maintenance personnel to fully check the transceiver and the power amplifier down to the module level. Fault conditions are displayed on the transceiver‘s front-panel display.
+
+The R&S®MR300xH/U manpack acts as an exciter for the power amplifier, avoiding the disadvantages of transceiver/ booster solutions with respect to unwanted emissions. The HF power amplifier is mounted separately on an independent shockmount with room for proper air flow. This provides additional flexibility when installing tactical radio systems into vehicles.
+
+The R&S®VK3150 uses rugged tactical packaging and meets the same environmental specifications for temperature, shock, vibration, and submersibility as the rest of the R&S®M3TR family.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the VK3150 American 150 W HF Power Amplifier:
+The Alternative Designation is VK3150.
+The Type is 50 W HF Power Amplifier.
+The Crew is 1.
+The Operation is The R&S®VK3150 provides medium-power/medium-range communications links. Typical applications include mobile or base station installations for general-purpose HF SSB voice and data communications..
+The Frequency Range is Supports continuous operation across the 1.5 MHz to 30 MHz band with 150 W transmit power.
+The Frequency Hopping is The power amplifier section is of broadband design and fully supports frequency-agile operating modes (automatic link establishment, slow frequency hopping)..
+The Mounting is The HF power amplifier is mounted separately on an independent shockmount with room for proper air flow. This provides additional flexibility when installing tactical radio systems into vehicles..
+
+Here is Dimensions information for the VK3150 American 150 W HF Power Amplifier:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

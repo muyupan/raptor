@@ -1,0 +1,84 @@
+This document describes the Be-200 Altair Russian Amphibious Aircraft.
+
+The Be-200 Altair Russian Amphibious Aircraft is a utility amphibious aircraft designed and built by the Beriev Aircraft Company. Marketed as being designed for fire fighting, search and rescue, maritime patrol, cargo, and passenger transportation, it has a capacity of 12,000 liters (3,200 US gal) of water or up to 72 passengers.
+
+The name Altair was chosen after a competition amongst Beriev and Irkut staff in 2002—2003, as a reference to the name of the alpha star in the Eagle constellation and because "Al" is the first part of the name of the Beriev A-40 Albatross amphibious aircraft, whose layout was the development basis for the creation of the Be-200; "ta" stands for Taganrog, and "ir" stands for Irkutsk.
+
+The Be-200 is a high-wing T-tail monoplane. The hull is of single-step design with a high length-to-beam ratio, which contributes to stability and controllability in water. The Be-200 airframe is constructed of aluminum alloys with corrosion-protection treatments. Selective use is made of titanium, composites, and other corrosion-free materials. The wings are fitted with underwing stabilizer floats. The hydraulically operated retractable landing gear units all retract rearward, and each unit is twin-wheeled. A water rudder provides steering when in the water. It can operate from either a 1,800 m long runway or an area of open water not less than 2,300 m long and 2.5 m deep, with waves of up to 1.3 m high.
+
+The aircraft is powered by two, over the fuselage, pylon-mounted Progress D-436TP engines. The D-436TP is a specific "maritime" corrosion-resistant version of the D-436 three-shaft turbofan engine, designed especially for the Be-200 amphibian, by Ivchenko Progress ZMKB and manufactured by Motor Sich in Ukraine. These are mounted above the wing root pods on the landing gear fairings to prevent water spraying into the engines during take-off and landing.
+
+The Digital Flight Control (Fly-by-wire) cockpit is fitted with modern navigation systems such as satellite navigation, FMS, autopilot, and weather radar. The ARIA 200-M all-weather integrated avionics system, developed by Honeywell with the Moscow Research Institute of Aircraft Equipment, uses six 152 x 203 mm (6 x 8 in) LCDs to display information to the crew of two.
+
+The multirole Be-200 can be configured as an amphibious water drop fire-fighting aircraft, a freighter, or as a passenger aircraft—the pressurized and air-conditioned cabin allowing the transportation of up to 72 passengers. The Be-200 can also be equipped for special missions. When configured as an air ambulance, the aircraft can carry up to 30 stretcher patients and seven seated patients or medical crew. In the search and rescue role, the aircraft can be equipped with searchlights and sensors, an inflatable boat, thermal and optical surveillance systems, and medical equipment. The search and rescue variant can accommodate up to 45 people. The aircraft is also capable of being configured for anti-submarine warfare duties.
+The Be-200 in amphibious water drop fire-fighter configuration suppresses fires by dropping water contained in eight ferric aluminum alloy water tanks, located under the cabin floor in the center fuselage section. Four retractable water scoops, two forward and two aft of the fuselage step, can be used to scoop a total of 12 tonnes of water in 14 seconds. Alternatively, the tanks can be filled from a hydrant or a water cistern on the ground. The water tanks can be removed quickly for carrying cargo. Water can be dropped in a single salvo, or in up to eight consecutive drops. The aircraft also carries six auxiliary tanks for fire-retarding chemical agents, with a total capacity of 1.2 m³. The aircraft can empty its water tanks over the site of a fire in 0.8 to 1.0 seconds when flying above the minimum drop speed of 220 km/h (135 mph, 120 kn)
+
+This equipment has proliferated into the following countries: Azerbaijan, Chile, China, Russian Federation.
+
+Here is Variants information for the Be-200 Altair Russian Amphibious Aircraft:
+The Be-200 is Basic multirole model..
+The Be-200ChS/Be-200ES is Multirole model fitted to the requirements of the Russian Ministry of Emergency Situations..
+The Be-200E is English cockpit version of the Be-200ES..
+The Be-200RR is Projected Rolls-Royce engined variant..
+The Be-210 is Projected passenger-only model..
+The Be-220 is Projected maritime patrol variant..
+The Be-200ChS-146 is Projected SaM146-powered variant..
+The Be-200 Air Ambulance is As an air ambulance, the Be-200 can carry seven medics and either 30 people on litters or 40 seated patients, as well as special medical equipment..
+The Be-200 Ecology Control Aircraft is The ability of the Be-200 to quickly scoop up water has led to its consideration as an ecology control aircraft. It could assist in the cleanup of oil spills by directly removing the oil while skimming the surface. It could also be used to take samples of water and soil from water reservoirs for ecological testing purpose..
+
+Here is System information for the Be-200 Altair Russian Amphibious Aircraft:
+The Alternate Designation(s) is Be-200 Altair.
+The Type is Amphibious Aircraft.
+The Manufacturer is Beriev Design Bureau, Russia
+ Irkutsk Production Association, Russia.
+The Crew is 2 (pilot, co-pilot).
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+The Note is The Be-200 can be configured for fire fighting, search and rescue, maritime patrol and environmental monitoring, cargo and passenger transportation operations. It can take off and land on unprepared airstrips and water..
+
+Here is Dimensions information for the Be-200 Altair Russian Amphibious Aircraft:
+The Length is 31.50 m.
+The Height is 8.90 m.
+The Width (Wing Span) is 32.78 m.
+The Wing Area is 117.44 m sq.
+The Cargo Cabin, Length is 17.00 m.
+The Cargo Cabin, Width is 2.60 m.
+The Cargo Cabin, Height is 1.90 m.
+The Maximum Takeoff Weight is 43,000 kg.
+The Normal Takeoff Weight is 37,200 kg.
+
+Here is Automotive information for the Be-200 Altair Russian Amphibious Aircraft:
+The Engine Name is 2 x Progress D-436TP.
+The Engine Type is Bypass Turbofans.
+The Engine Power is 16,535 lb (7,500 kg) each.
+The Maximum Speed is 710 km/h.
+The Cruise Speed is 600 km/h.
+The Economy Speed is 550 km/h.
+The Takeoff Speed is 220 km/h.
+The Landing Speed is 200 km/h.
+The Range is 3,600 km.
+The Ceiling is 8,000 m.
+The Water Landing Roll is 960 m.
+The Land Landing Roll is 700 m.
+The Water Takeoff Roll is 820 m.
+The Land Takeoff Roll is 640 m.
+The Wave Height Seaworthiness is 1.2 m.
+The Water Depth Seaworthiness is 2.0 m.
+
+Here is Main Weapon System information for the Be-200 Altair Russian Amphibious Aircraft:
+The Note is There are no weapons mounted on the Be-200 Altair Russian Amphibious Aircraft..
+
+Here is Avionics information for the Be-200 Altair Russian Amphibious Aircraft:
+The Note is The Be-200 integrates a full suite of avionics for all-weather requirements. The ARIA 200-M all-weather integrated avionics system features six large LCDs. The system is developed by Honeywell along with the Moscow Research Institute of Aircraft Equipment..
+
+Here is Protection information for the Be-200 Altair Russian Amphibious Aircraft:
+The Hull is The airframe is made of aluminum alloys and coated with corrosion protection materials. The Be-200 features significant maritime characteristics to perform littoral and blue water operations. The aircraft delivers flight characteristics similar to conventional aircraft. The hull has separate watertight compartments and is designed to keep the aircraft afloat even if two compartments are flooded. When operating from land, the aircraft uses retractable tricycle landing gear. On the water, a stern water rudder is used in combination with engine thrust variation for steering control..
+The Cockpit is The Be-200 is equipped with a partial glass cockpit. The cockpit features a digital flight control (fly-by-wire) system and modern navigation systems, including satellite navigation (GPS), flight management system (FMS), autopilot and weather radar.
+
+The flight control system, integrated with an aerodynamic design, provides high manoeuvrability at low speeds as well as better handling capabilities and safety, and reduces the pilot’s workload..
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

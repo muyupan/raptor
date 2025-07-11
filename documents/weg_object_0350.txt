@@ -1,0 +1,41 @@
+This document describes the TAROS V2 Czech 6x6 Unmanned Ground Vehicle (UGV).
+
+TAROS V2 is a 6×6 wheeled, unmanned, all-terrain, modular and automated robotic ground vehicle unveiled in December 2014. The vehicle was developed by VOP CZ in collaboration with its subsidiary Centre for Advanced Field Robotics (CAFR), and Tactical Department of the Faculty of Military Leadership of the University of Defense in Brno.
+
+The TAROS V2 provides combat and logistic support in high-risk areas and complex environments. It was developed under the 21st century Soldier Programmed for the army of the Czech Republic (ACR).
+
+The TAROS V2 is identical to the Lockheed Martin Squad Mission Support System (SMSS) in appearance and functionality. The vehicle is also available in a 4×4 configuration, which can be upgraded to 4×4, 6×6 and 8×8 remote-controlled configurations. The enlarged configurations can be fitted with a range of accessories, including weapon, robotic or sensor systems. The vehicle’s design offers low operating and logistics costs.
+
+In all configurations, the vehicle is powered by accumulators of the 4×4 module. The module can be recharged by the ND 6050D charger powered by a combustion engine housed in the 2x2E module.
+
+The 4×4 module also houses command-and-control electronics and a modular sensor suite. An additional 2x2R module with a remote-controlled knuckle boom crane can expand the operating capabilities of the unmanned ground vehicle (UGVs) for remote-controlled operations in the high-risk environments.
+
+Each wheel of the UGV is equipped with 10kW electro-motor drive-train, transmission and suspension systems, as well as an electro-mechanical actuator for steering. The damaged wheels or electro motor of the vehicle can be easily be replaced by the soldiers using onboard tool kit.
+
+The vehicle measures 2.74m long, 1.77m wide and 2.04m high when the column is down and 2.54m when extended. The gross weight in the standard 6×6 configuration is approximately 1,400kg.
+
+The TAROS V2 is armed with a remote controlled gun carriage developed by the Defense University in Brno. The gun carriage can accommodate personal weapons such as a CZ 805 BREN automatic assault rifle.
+
+The vehicle features a robotic weapon system to support fighting activities of the mechanized, reconnaissance and Special Forces operating in tough and complex conditions. The robotic weapon system mounted on the vehicle has a length of 4.4m, width of 2.5m and height of 2.8m without weapons.
+
+The robotic weapon system weighs 13kg and is powered by 36V electric system.
+
+This equipment has proliferated into the following countries: Czech Republic.
+
+Here is Dimensions information for the TAROS V2 Czech 6x6 Unmanned Ground Vehicle (UGV) of the System:
+The Length is 2.74 m.
+The Wide is 1.77 m.
+The Height is 2.04 m high when the column is down and 2.54 m when extended..
+The Weight is The gross weight in the standard 6×6 configuration is approximately 1,400 kg..
+
+Here is Automotive information for the TAROS V2 Czech 6x6 Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is The module can be recharged by the ND 6050D charger powered by a combustion engine housed in the 2x2E module.Each wheel of the UGV is equipped with 10kW electro-motor drive-train, transmission and suspension systems, as well as an electro-mechanical actuator for steering. The damaged wheels or electro motor of the vehicle can be easily be replaced by the soldiers using onboard tool kit..
+The Engine Power is INA.
+The Note is The TAROS V2 is powered by electric/hybrid propulsion system. Each wheel is driven by an electric motor, which develops a power of 4.8kW..
+
+Here is Armament information for the TAROS V2 Czech 6x6 Unmanned Ground Vehicle (UGV):
+The Note is The TAROS V2 is armed with a remote controlled gun carriage developed by the Defence University in Brno. The gun carriage can accommodate personal weapons such as a CZ 805 BREN automatic assault rifle. The vehicle features a robotic weapon system to support fighting activities of the mechanised, reconnaissance and Special Forces operating in tough and complex conditions. The robotic weapon system mounted on the vehicle has a length of 4.4m, width of 2.5m and height of 2.8m without weapons.
+
+The robotic weapon system weighs 13kg and is powered by 36V electric system..
+

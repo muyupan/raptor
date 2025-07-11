@@ -1,0 +1,42 @@
+This document describes the HF 200 British Height Finding Radar.
+
+A Decca HF 200 height finder at RAF Boulmer with the RX12874 Passive Detection aerial and the redundant Type 80 modulator building in the background on the extreme left.
+ 
+The height finding an element of the Linesman system, the HF 200 succeeded the American AN/FPS-6 height finder radars used in the Rotor system. The HF 200's (along with the AN/FPS-6) were also known as "Nodding Horrors" and they spewed hydraulic oil everywhere. HF 200 Mk3's were located at the three main linesman sites at R.A.F. Boulmer, R.A.F. Staxton Wold, and R.A.F. Neatishead. An Mk4 was commissioned at R.A.F Saxa Vord in the Shetland Islands in 1979 and there was an Mk2 at R.A.F. Troodos, Cyprus. Dave Quantrill tells me that the Troodos Mk2 featured a valve console among other things and that it was a horrible thing!
+ 
+Note the barbed wire in the picture; for many years Linesman sites were protected only by a wire mesh perimeter fence but in the mid '70's the Ministry of Defence must have bought a job lot of barbed wire cheap from someone because they put it up everywhere! Interestingly enough no one seems to have considered what could be done about airstrikes, mortars, and rocket-propelled grenades - the site was totally undefended from aerial attack, and the perimeter fences were not patrolled!
+ 
+Once upon a time all of the antennas at R.A.F. Boulmer were painted in a pale blue shade, quite pretty really, and it has been suggested that this was to satisfy the whims of the then Duke of Northumberland who happened to own the land on which the site of the operation stood, or so the story went. Eventually, though someone thought they really should be camouflaged so they were painted in a shade that in Scotland might be called "Sharnie Green"!
+
+This equipment has proliferated into the following countries: United Kingdom of Great Britain and Northern Ireland.
+
+Here is System information for the HF 200 British Height Finding Radar:
+The Alternative Designation is HF 200.
+The Type is Height Finder Radar.
+The Manufacturer is The Decca Radar company.
+The Crew is INA.
+The Frequency is A frequency in the range 2,800 - 3,010 MHz (E/F band)..
+The Class of Equipment is Long range, medium power, fixed, nodding height finder operating in the E/F band..
+The Purpose of Equipment is Main Role: Height finding on aircraft at long, medium, or short-range in the UK and overseas.
+Subsidiary Role. Provision of limited volumetric cover in place of inoperative main search radar..
+The Coverage is Azimuth: 0 deg to 360 deg by slewing at a maximum rate of 6 rev/min.
+Elevation:  -3 deg to +33 deg at 20 scans/minute to a range of 50 nm..
+The Coverage in Volumetric Role is Azimuth. Equivalent to 1.5 revs/mm over sector up to 45 deg.
+Elevation. -3 deg to +6 deg.
+The Range Performance is About 120 nm on a 2 square meter target, 180 nm on a 10 square meter target, and 210 nm on a 15 square meter target with 90% probability of paint, at 40,000 feet..
+The Discrimination is 1 nm at 150 nm in range, at 150 nm in elevation..
+The Aerial Characteristics is Polarization: Vertical or circular.
+Beam Shape: Horizontal beamwidth 3 deg at 3 dB points; Vertical beamwidth 0.75 deg at 3 dB points..
+The Aerial Reflector is Double curvature, 10.68 m high by 2.43 m wide..
+The Aerial Feed is Horn wave guide..
+The Transmitter is Type: Magnetron; Pulse Width. 5 U.S.; PRF. 200-250 pps; Peak Power Output. 2.5 MW..
+The Receiver is Two output channels: linear and logarithmic..
+The Signal Processing is Vertical or circular polarization, fast time constant (FTC) and swept gain. Instantaneous automatic gain control (IAGC) on logarithmic channel..
+The Accuracy is 150 nm..
+
+Here is Dimensions information for the HF 200 British Height Finding Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

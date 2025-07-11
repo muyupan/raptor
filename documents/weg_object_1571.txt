@@ -1,0 +1,86 @@
+This document describes the Type 067 Class (Yunnan Class) Chinese Landing Craft Utility (LCU).
+
+The Type 067 landing craft, utility (NATO codename: Yunnan class), also known as Yunnan class, entered the People's Liberation Army Navy service from 1968–1972. This class is the enlarged version of Yuch'in class landing craft mechanized, developed into a landing craft tank (LCT) capable of carrying either a medium tank, or two armored fighting vehicles, or a company of infantry. Some Type 067 have been converted to buoy tender/cable layers, designated as Type 911, which includes two sub types, Type 911I and Type 911II, one for buoy tender, the other for cable layer.
+
+This equipment has proliferated into the following countries: Bangladesh, Cambodia, Cameroon, China, Sri Lanka.
+
+Here is System information for the Type 067 Class (Yunnan Class) Chinese Landing Craft Utility (LCU):
+The Alternative Designation is Type 067 Class; NATO: Yunnan Class.
+The Type is Landing Craft Utility.
+The Builder is Wuhu Shipyard Wuhu, Anhui.
+The Crew is 10.
+The Cargo Capacity is 1 tank, or 2 light vehicles, or 46 tons of cargo.
+The Lift Capacity is 46 tons.
+
+Here is Dimensions information for the Type 067 Class (Yunnan Class) Chinese Landing Craft Utility (LCU):
+The Length is 28.6m.
+The Beam is 5.4m.
+The Draft is 1.4m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 128 tons.
+
+Here is Propulsion System information for the Type 067 Class (Yunnan Class) Chinese Landing Craft Utility (LCU):
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 600 hp with 2 shafts.
+The Maximum Range is 500 nmi (930 km; 580 mi) @ 10 kn (19 km/h; 12 mph).
+The Maximum Speed is 12 kn (22 km/h; 14 mph).
+The Endurance is INA.
+
+Here is Gun Weapon System #1 information for the Type 067 Class (Yunnan Class) Chinese Landing Craft Utility (LCU) of the Gun Weapon Systems:
+The Name is Type 61.
+The Type is Anti-Aircraft Gun.
+The Caliber is 25 mm.
+The Quantity is 3 x Type 61 Twin 25mm Anti-Aircraft Gun.
+The Barrel Length is 1.5 m.
+The Weight is INA.
+The Barrels is 2.
+The Elevation is -10° ~ +85°.
+The Traverse is 360°.
+The Rate oF fire is Compact: 800~900 round/min.
+The Muzzle Velocity is 900 m/s.
+The Maximum Firing Range is 3,000 m.
+The Effective Firing Range is 2,700 m.
+The Feed System is Magazine.
+The Sights is Optical.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Type 067 Class (Yunnan Class) Chinese Landing Craft Utility (LCU) of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 25.
+The Shell is 25 x 218 mm SR.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Type 067 Class (Yunnan Class) Chinese Landing Craft Utility (LCU) of the Gun Weapon Systems:
+The Name is QJG02.
+The Type is Heavy Machine Gun.
+The Caliber is 14.5 mm.
+The Quantity is 2 x QJG02 14.5mm Heavy Machine Gun.
+The Manufacturer is NORINCO.
+The Length is 2.39m.
+The Weight is 75 kg.
+The Elevation is INA.
+The Traverse is 360°.
+The Rate of Fire is 500 - 600 rpm.
+The Maximum Firing Range is 1 to 2 km.
+The Carriage is Tripod mount for QJG02.
+The Manpack is Can be disassembled into 5 parts of about 20 kg each.
+
+Here is Gun Weapon System #2 Ammunition information for the Type 067 Class (Yunnan Class) Chinese Landing Craft Utility (LCU) of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 14.5.
+The Cartridge is 14.5x114mm.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Type 067 Class (Yunnan Class) Chinese Landing Craft Utility (LCU):
+The FCS Name is INA.
+The Computerized FCS is INA.
+The Battle Management System is No.
+
+Here is Radar Systems information for the Type 067 Class (Yunnan Class) Chinese Landing Craft Utility (LCU):
+The Navigation Radar is 1 x Japanese Fuji navigational radar.
+
+Here is Protection information for the Type 067 Class (Yunnan Class) Chinese Landing Craft Utility (LCU):
+The Active Protection System is Anti-Aircraft Gun and 14.5mm Machine Guns.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

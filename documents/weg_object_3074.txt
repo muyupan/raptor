@@ -1,0 +1,244 @@
+This document describes the T-84 Oplot Ukrainian Main Battle Tank (MBT).
+
+The T-84 Oplot is an improved version of the Ukrainian T-84 main battle tank and features a new turret. In terms of firepower and protection, the T-84 Oplot is very similar to Russia's T-90 MBT. The Oplot was officially adopted in 2000 with only ten tanks produced in 2001. The Ukrainian Army never ordered this tank in large numbers due to funding problems and the long-standing reliance on the aging T-64 main battle tank and associated variants. Currently, Ukraine's improved version, the Oplot-M, is in production for future small quantity deliveries to Thailand.
+
+This equipment has proliferated into the following countries: CFE Treaty, Thailand, Ukraine.
+
+Here is Variants information for the T-84 Oplot Ukrainian Main Battle Tank (MBT):
+The T-80 (1976) is Initial model, with 1,000-hp gas turbine engine, coincidence rangefinder, and no missile capability. This model does not have fittings for explosive reactive armour. The turret is from the T-64A, and thus retains the use of the old coincidence rangefinder. Characteristics of this type are the V shaped water deflector on the front glacis, coincidence rangefinder in front of the commander's cupola, and Luna searchlight mounted in the same position as a T-64. Around 250 were produced, as the tank's armour was essentially obsolete when introduced. Turret vs APFSDS – 380 mm, hull vs APFSDS – 500 mm (without reactive armour). This was, in effect, a pre-production model. It reportedly was fitted with an early version of the Shtora APS..
+The T-80B (1978) is This model had a new turret, laser rangefinder, fire-control, and autoloader allowing the firing of a 9M112-1 Kobra antitank guided missile (80% hit probability while stopped and on the move), and improved composite armor. An improved, 1,100-hp, engine was added in 1980, a new gun in 1982, and fittings for reactive armor in 1985. Reactive armor added protection of 400 mm equivalent armor to defend against HEAT warheads. The longest sighting range for T-80B kinetic energy ammunition and for "cumulative" ammunition – is 4,000 m, high-explosive fragmentation – is 5,000 m (using the "side level" – 10,000 m). A night sight TPNZ-49 in active mode reached 1,300 and a passive – 850 m. "Reflex" guided missile complex with laser beam allowed it to launch missiles at any tank speed..
+The T-80BV (1985) is T-80B with explosive reactive armor Kontakt-1..
+The T-80UM is Russian version, with new Buran thermal imaging sight in place of the Luna IR..
+The Object 219A: Early T-80U (Object 219AS) variant is It has the T-80U's turret, but not the Kontakt-5 ERA. Instead, it uses the old Kontakt-1/3 system; some 219As did not have ERA at all. Often misnamed T-80A.
+T-80U (1985): Further development with a better turret, Kontakt-5 explosive reactive armor, improved gunsight, and 9M119 Svir missile system. In 1990 a new, 1,250-hp, engine was installed. Overall protection with Kontakt-5 against APFSDS/HEAT is 780/1,320 mm RHAe.9K119M with antitank guided missile 9M119M installed since 1990. Some of the tanks in the commander version (T-80UK) are equipped with Shtora-1 APS, and thermal imaging night sight TO1-PO2T (detection range/target classification range = 6,400/4,600 meters at night). The basic thermal night sight of the T-80U is within the limits of 1,750/1,500 meters..
+The T-80UD Bereza (1987) is Ukrainian diesel version with 1,000-hp 6TD engine and remote-controlled antiaircraft machine gun..
+The T-84 (1999) is Further Ukrainian development of T-80UD with 1,200-hp diesel and new welded turret..
+The T-80BVD (2002): is KMDB's upgrade standard for Ukrainian T-80BVs. Changes include the 6TD diesel engine, remote-controlled commander's machine gun, and better optics. None were produced..
+The T-80UM2/Black Eagle (prototype: cancelled): is Several Russian prototypes were shown at trade shows, with a longer chassis and extra pair of road wheels, and very a large turret with separate ammunition compartment..
+The T-80BVM (2017) is up to 3,000 units, installed "Relikt" ERA, PNM Sosna-U gunner sight (as in the T-90, T-72B3), the improved 125mm gun 2A46M-4, the upgraded gas turbine engine and the upgrades of various other systems. More than 120 already in the service..
+The T-80B (1978) is This model had a new turret, laser rangefinder, fire-control, and autoloader allowing the firing of a 9M112-1 Kobra antitank guided missile (80% hit probability while stopped and on the move), and improved composite armor. An improved, 1,100-hp, engine was added in 1980, a new gun in 1982, and fittings for reactive armor in 1985. Reactive armor added protection of 400 mm equivalent armor to defend against HEAT warheads. The longest sighting range for T-80B kinetic energy ammunition and for "cumulative" ammunition – is 4,000 m, high-explosive fragmentation – 5,000 m (using the "side level" – 10,000 m). A night sight TPNZ-49 in active mode reached 1,300 and a passive – 850 m. "Reflex" guided missile complex with laser beam allowed it to launch missiles at any tank speed..
+The T-80BK is Tank..
+The T-80BVK is Tank..
+The T-80BVK 2017 is Tank..
+The T-80U is Tank..
+The T-80UK is Tank..
+The T-80UD is Tank..
+The BREM-80U is Armoured recovery vehicle..
+The ATLET ARRV is Armoured recovery vehicle..
+The T-84 Oplot-M is Ukrainian export tank to Thailand..
+
+Here is System information for the T-84 Oplot Ukrainian Main Battle Tank (MBT):
+The Alternative Designation is T-84 Oplot.
+The Type is Main Battle Tank.
+The Family is T-80 Series.
+The Generation is 3rd Generation Tank.
+The Crew is 3.
+The Maximum Effective Range (Road) is 335.
+The Driver's Vision Blocks is 3.
+The Note is The T-84 is easily distinguished from its predecessors by the shape of the turret and hinged skirts that cover the tracks. There is also a large optical suite on the mid-right of the turret roof..
+
+Here is Dimensions information for the T-84 Oplot Ukrainian Main Battle Tank (MBT):
+The Length (Gun Forward) is 9.72 m.
+The Length (Hull) is 7.075 m.
+The Width is 4.176 m.
+The Height is 2.8 m.
+The Track Length is 4.29 m.
+The Track Width is 580 mm.
+The Weight, Combat is 51,000 kg.
+The Ground Pressure is 0.47.
+
+Here is Automotive information for the T-84 Oplot Ukrainian Main Battle Tank (MBT):
+The Engine Name is 6TD-2.
+The Engine Type is water cooled, multifuel.
+The Engine Power is 1,200.
+The Power to Weight Ratio is 24.7.
+The Main Fuel Tank is 1,140 litres.
+The Auxiliary Fuel Tank is 380 liters.
+The Electrical System is 27V.
+The Suspension is torsion bar with hydraulic shock-absorbers.
+The Steering is clutch and brake.
+The Speed, Maximum Road is 70.
+The Range is 500 km (nearly 150 km more than the T-80U).
+The Speed, Average Cross is 45.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 62.
+The Side Slope is 48.
+The Vertical Step is 1.
+The Trench is 2.85.
+The Fording Depth (No Preparation) is 1.8.
+The Cold Start Ability is Yes.
+The Fording Depth (With Preparation) is 5.
+The Deep Water Snorkel is Available.
+
+Here is System information for the T-84 Oplot Ukrainian Main Battle Tank (MBT) of the Main Weapon System:
+The Name is 1 × turret mounted 125mm KBA3 smoothbore gun.
+The Type is Smoothbore Gun.
+The Caliber is 125 mm.
+The Manufacturer is INA.
+The Max Rate of Fire is 6-8.
+The Maximum Range is 4,000.
+The Manually Load Time is 1-2.
+The Maximum Elevation is +14.
+The Minimum Elevation is -5.
+The Traverse Range is 360.
+The Autoloader is Yes, Carousel-Type Autoloader.
+The Fire on the Move is Yes, Main Gun.
+The Evacuator Type is Central Bore.
+The Thermal Sleeve is Yes.
+The Barrel effective Full Life Charge is 800.
+The Breech Mechanism is Semi-automatic horizontal sliding breech block.
+The Mazimum Pressure is 5,100.
+The Loading System is Korzina electric and hydraulic automatic loading system.
+The Carousel Reloading Time is 13-15.
+The Muzzle Bead is Yes.
+The Barrel Type is Quick Change.
+The Note is The KBA-3 is the Ukrainian version of the 2A46 series of 125 mm guns.
+
+Here is Ammunition (Option 1) information for the T-84 Oplot Ukrainian Main Battle Tank (MBT) of the Main Weapon System:
+The Type is High Explosives (HE).
+The Caliber is 125.
+The Muzzle Velocity is 850.
+The Maximum Effective Range is 5,000.
+The Armor Penetration is INA.
+The Tungsten Rods is 450.
+The Charge is A-IX-2 (73% RDX, 23% aluminium powder, phlegmatized with 4% wax) 3.0 kg.
+The Projectile Weight is 23.
+The Round Weight is 33.
+The Basic Load is 36 total rounds of any 125mm Russian Projectiles.
+
+Here is Ammunition (Option 2) information for the T-84 Oplot Ukrainian Main Battle Tank (MBT) of the Main Weapon System:
+The Name is Armour-Piercing Fin-Stabilized Discarding Sabot (APFSDS).
+The Type is Smoothbore 125mm Projectile.
+The Caliber is 125.
+The Muzzle Velocity is 2,050.
+The Effective Range is 2,000-3,000.
+The Armor Penetration is 1,000.
+The Projectile Weight is 11.
+The Projectile Dimesnion is 900.
+The Basic Load is 36 total rounds of any 125mm Russian Projectiles.
+The Note is Entered service in 2005 Utilising a new sabot. Reported to be uranium alloy. For 2A82/2A82-1M cannon on T-80UM-2/T-14s..
+
+Here is Ammunition (Option 3) information for the T-84 Oplot Ukrainian Main Battle Tank (MBT) of the Main Weapon System:
+The Type is High-Explosive Anti-Tank (HEAT).
+The Name is 3VBK27/3BK31 "Start".
+The Caliber is 125.
+The Muzzle Velocity is 915.
+The Max Dispersion is INA.
+The Maximum Effective Range is 3,000.
+The Charge is INA.
+The Charge Weight is 1.62.
+The Projectile Weight is 18.4.
+The Armor Penetration is Estimated at 800 mm triple charge HEAT.
+The Basic Load is 36 total rounds of any 125mm Russian Projectiles.
+
+Here is System information for the T-84 Oplot Ukrainian Main Battle Tank (MBT) of the Anti-Tank Guided Missile:
+The Name is 9M119 Svir, 9M119M Refleks (NATO designation AT-11 Sniper-B).
+The Type is Laser Beam Anti-Tank Guided Missiles.
+The Caliber is 125.
+The Variants is 9M119M.
+The Manufacturer is Degtyarev plant.
+The In Service is 1980's to present.
+The Proliferation is Widely Proliferated.
+The Operational Range is 4,000-5,000.
+The Weight is 17.2.
+The Diameter is 125.
+The Warhead Type is Tandem hollow-charge.
+The Warhead Weight is 4.5.
+The Speed is Subsonic.
+The Guidance System is 9S516 guidance system.
+The Armor Penetration is 700mmm of homogeneous armour.
+The Time to meet Maximum Range is 17.6.
+The Control Unit is 9S517 automatic control unit.
+The Voltage Regulator is 9S831 voltage regulator..
+The Basic Load is 6.
+
+Here is System information for the T-84 Oplot Ukrainian Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is 1 x NSV (Russian НСВ Никитина-Соколова-Волкова).
+The Type is Anti-Aircraft Machine Gun.
+The Caliber is 12.7mm.
+The Manufacturer is "Metallist", Uralsk, Kazakh SSR, Crvena ZastavaSerbia.
+The Length (Total) is 1,560.
+The Weight (Gun Only) is 25.
+The Weight (On Tripod) is 41.
+The Weight (50-Round Belt) is 11.
+The Action is Gas Operated.
+The Muzzle Velocity is 845.
+The Max Rate of Fire is 700-800.
+The Feed System is 50-Round Belt.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the T-84 Oplot Ukrainian Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7×108mm.
+The Muzzle Velocity is 845.
+The Effective Firing Range (vs. Air Targets) is 1,500.
+The Effective Firing Range (vs. Ground Targets) is 2,000.
+The Basic Load is 500.
+
+Here is System information for the T-84 Oplot Ukrainian Main Battle Tank (MBT) of the Loader's Weapon System:
+The Name is 1 x 7.62mm PK (Kalashnikov's Machine Gun).
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62mm.
+The Function is in use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The Manufacturer is Degtyaryov plant.
+The In Service is 1961-present.
+The Proliferation is 1 Million +.
+The Length (Total) is 1,203.
+The Length (Barrel) is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Max Rate of Fire is 650.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Tangent iron sights (default); Optical, Night-vision, Thermal and Radar sights.
+
+Here is Ammunition information for the T-84 Oplot Ukrainian Main Battle Tank (MBT) of the Loader's Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 825.
+The Effective Range (Iron Sights) is 1,000.
+The Effective Range (With Sight Adjustments) is 100-1,500.
+The Basic Load is 1,250.
+
+Here is Fire Control information for the T-84 Oplot Ukrainian Main Battle Tank (MBT):
+The Name is 1A45 Irtysh, Updated FCS system over the T-80B.
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is Yes, day and night, vertical plane PNK-4S (Agat) day/night sight.
+The Commander Day Mode Sight is 10⁰ FOV and ×5 magnification.
+The Thermal Sight Gunner is Yes, stabilised T01-K01R Buran-PA night sight..
+The Main Gun Stabilization is Yes, 2E26M electro-hydraulic dual plane stabilisation system.
+The Main Gun Stabilization Deployment Time is 2.
+The Range, Day Sight is 1,000.
+The Range, Thermal Sight is 2,600.
+The IR Searchlight is Yes, L-4A "Luna" IR Searchlight.
+The TNPO-160 Periscopes is 2.
+The TNPA-65 Periscopes is 2.
+The Ballistic Computer is 1V528-1 Ballistic Computer.
+The Wind Sensor is DVE-BS wind sensor.
+The Laser Rangefinder is Yes.
+The FCS Fire Gating Capability is YEs.
+The Fire Control Complex is 1A45 fire-control complex,.
+
+Here is Protection information for the T-84 Oplot Ukrainian Main Battle Tank (MBT):
+The Hull Armor is 440–450.
+The Armor Type is Ballistic protection is provided by multiple layers of metal and ceramics that are supported by the Built-in Anti-Tandem Warhead ERA (BATW-ERA). As its name suggests, the BATW-ERA is designed to defeat weapons with tandem warheads as well as KE rounds..
+The Turret Type is Objekt 476.
+The Turret Armor is The renovated ceramic system, Protection equivalent to 550 mm.
+The Applique Armor is Yes, Hull side; track skirts.
+The Explosive Reactive Armor is The system is built from Nozh ERA that are installed in especially designed cases, the ERA cassettes are resistant to small (12.7 mm) and medium (30 mm) ammunition and will last for three years once installed, providing that all storage and transport requirements are met..
+The Active Protection System is Arena Available.
+The Mine Clearing is Roller-plow available.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes, ZETS-11-2 detection system collective overpressure system.
+The Smoke Equipment is Yes, two banks of four 81 mm Toucha 902B grenade launchers that fire the ZD-6 smoke grenade.
+The Smoke Grenade Range is 250-300.
+The Smoke Screen is 30 m wide and 10 m high for 60 seconds per grenade..
+The IR Signature is The exhaust is box-shaped and designed to direct heat away from the tank.
+The Anti-Radiation Material is Installed as a inside protective layer.
+The Personal Breathing Apparatus is Equipment.
+The Automatic Fire Extinguisher System is Yes.
+The Radiation and Chemical Detector is The crew is protected by an extensive system that incorporates the PRHR-M1 radiation and chemical agent detector that continuously monitors the environment inside and outside the vehicle..
+The Countermeasures is The Oplot is also fitted with the TShU1-7 Varta optronic countermeasures system, which appears to be based on the Russian Shtora-1..
+

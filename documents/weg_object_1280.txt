@@ -1,0 +1,58 @@
+This document describes the 9K310 Igla-1 (SA-16 Gimlet) Russian Man-Portable Infrared Homing Surface-to-Air Missile.
+
+Hezbollah Proliferation. The 9K310 Igla-1 (SA-16 Gimlet) Russian Man-Portable Infrared Homing Surface-to-Air Missile and its 9M313 missile were accepted into service in the Soviet army on 11 March 1981. The main differences from the Strela-3 included an optional Identification Friend or Foe system to prevent firing on friendly aircraft, an automatic lead and super elevation to simplify shooting and reduce minimum firing range, a slightly larger rocket, reduced drag and better guidance system to extend maximum range and improve performance against fast and maneuverable targets, an improved lethality on target achieved by a combination of delayed impact fuzing, terminal maneuver to hit the fuselage rather than jet nozzle, an additional charge to set off the remaining rocket fuel (if any) on impact, an improved resistance to infrared countermeasures (both decoy flares and ALQ-144 series jamming emitters), and slightly improved seeker sensitivity.
+
+
+9K38 Igla (SA-18) missile and launcher top and 9K310 Igla-1 (SA-16) missile and launcher below.
+The seeker has two detectors – a cooled MWIR InSb detector for detection of the target and an uncooled PbS SWIR detector for detection of IR decoys (flares). The built-in logic determines whether the detected object is a target or a decoy. The latest version (Igla-S) is reported to have additional detectors around the main seeker to provide further resistance against pulsed IRCM devices commonly used on helicopters.
+
+The 9M313 missile features an aerospike mounted on a tripod (Igla's 9M39 missile has an aerospike attached directly to the seeker dome), which reduces a shock wave, thus providing less dome heating and greater range. The name Igla is derived from these devices.
+
+Like many other MANPADS, Igla-1 and Igla feature so-called rolling airframe missiles. These missiles roll in flight (900 – 1200 rpm) so steering the missile requires just a single pair of control surfaces, unlike roll-stabilized missiles, which require separate control surfaces for pitch and yaw. Both 9M313 and 9M39 missiles contain a gas generator, which drives a small gas turbine to provide electrical power, and the pistons, which move the canards used to steer the missile in a bang-bang mode. In addition to that, two exhaust tubes of the gas generator are placed perpendicular to the steering canards to provide maneuverability immediately after launch when the missile airspeed is too low for canards to be effective. Later versions of Igla are reported to use proportional control to drive the canards, which enables greater precision and less oscillation of the flight path.
+
+According to the manufacturer, South African tests have shown the Igla's superiority over the contemporary (1982 service entry) but smaller and lighter American FIM-92A Stinger missile. According to Kolomna OKB, the Igla-1 has a Pk (probability of kill) of 0.30 to 0.48 against unprotected targets which is reduced to 0.24 in the presence of decoy flares and jamming. In another report, the manufacturer claimed a Pk of 0.59 against an approaching and 0.44 against receding F-4 Phantom II fighter not employing infrared countermeasures or evasive maneuvers
+
+This equipment has proliferated into the following countries: Angola, Armenia, Bosnia and Herzegovina, Botswana, Bulgaria, Croatia, Cuba, Ecuador, Georgia, Hungary, Iran (Islamic Republic of), Iraq, Kazakhstan, Malaysia, Myanmar, Non-State Actors, North Korea (Democratic People's Republic of Korea), Peru, Romania, Russian Federation, Serbia, Singapore, South Korea (Republic of Korea), South Sudan, Thailand, Tunisia, Ukraine, United Arab Emirates, Viet Nam, Zimbabwe.
+
+Here is Variants information for the 9K310 Igla-1 (SA-16 Gimlet) Russian Man-Portable Infrared Homing Surface-to-Air Missile:
+The Igla-1E is Export version..
+The Igla-1M is Improved version of 9K38 Igla. Entered service in Soviet Military during the late 1980s..
+The Igla-1D is A version for paratroopers and special forces..
+The Igla-1V is Air-launched version, mainly for combat helicopters..
+The Igla-1N is A version with heavier warhead at the cost of a slight reduction in range and speed..
+The Igla-1A is Export version.
+The Igla-S (SA-24 Grinch) is Newest variant with improved range, seeker, resistance to countermeasures, and warhead..
+The Strelets Igla-S is The Strelets is designed for remote automated firing of the Igla and Igla-S surface-to-air missile by single shot, ripple or in salvo. In service with Syria.
+The 3M-47 Gibka is A turret for ships that is equipped with Igla missiles..
+The Komar is Another turret for ships that is equipped with Igla missiles..
+
+Here is Dimensions information for the 9K310 Igla-1 (SA-16 Gimlet) Russian Man-Portable Infrared Homing Surface-to-Air Missile:
+The Length is 1,673 mm.
+The Diameter is 72 mm.
+The Wingspan is 160 mm.
+The Weight, Missile Only is 10.8.
+The Weight, Full System is 13.9.
+
+Here is System information for the 9K310 Igla-1 (SA-16 Gimlet) Russian Man-Portable Infrared Homing Surface-to-Air Missile of the Missile System:
+The Name is 9K310 Igla-1 (SA-16 Gimlet).
+The Type is Russian Man-Portable Infrared Homing Surface-to-Air Missile.
+The Launcher Name is 9P322 fibre glass launch canister.
+The Missile Name is 9M313 missile.
+The Warhead Type is HE-fragmentation.
+The Warhead Weight is 1.17.
+The Explosive Weight is 390.
+The Detonation Mechanism is contact and grazing fuzes.
+The Engine is solid fuel rocket motor.
+The Fuse is Impact fuse.
+The Operational Range is 5.2.
+The Flight Ceiling is 3.5.
+The Speed is 570.
+The Guidance System is Single channel passive infra-red homing seeker.
+The Taget Engagement Range is 500 - 5,000 m.
+The Taget Engagement Altitude is 100 to 3,500 m.
+The Maximum Target Speed, Approaching is 310 m/s approaching.
+The Maximum Target Speed, Receding is 260 m/s receding.
+The IFF System is Yes.
+The Reaction Time is 5-10 seconds.
+The Envelope is Receding and approaching targets.
+

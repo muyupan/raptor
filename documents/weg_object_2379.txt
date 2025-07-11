@@ -1,0 +1,42 @@
+This document describes the AGS-17 Plamya Russian 30mm Automatic Grenade Launcher.
+
+The AGS-17 is a heavy infantry support weapon designed to operate from a tripod or mounted on an installation or vehicle. The AGS-17 fires 30 mm grenades in either direct or indirect fire to provide suppressive and lethal fire support against soft-skinned or fortified targets.
+
+The weapon uses a blowback mechanism to sustain the operation. Rounds are fired through a removable (to reduce barrel stress) rifled barrel.
+
+The standard metal ammunition drum contains 29 linked rounds.
+
+The tripod is equipped with fine leveling gear for indirect fire trajectories.
+
+This equipment has proliferated into the following countries: Afghanistan, Angola, Armenia, Bulgaria, Chad, China, Cuba, Czech Republic, Finland, Georgia, India, Iran (Islamic Republic of), Iraq, Ivory Coast, Latvia, Montenegro, Mozambique, Myanmar, Nicaragua, North Korea (Democratic People's Republic of Korea), Russian Federation, Serbia, Sierra Leone, Sudan, Syria, Ukraine, Viet Nam.
+
+Here is Variants information for the AGS-17 Plamya Russian 30mm Automatic Grenade Launcher:
+The AGS-17A is Remotely controlled aircraft mounted version with electric trigger mechanism..
+The AGS-17D is Remotely controlled vehicle mounted version with electric trigger mechanism..
+
+Here is AGS-17 Plamya 30mm Automatic Grenade Launcher information for the AGS-17 Plamya Russian 30mm Automatic Grenade Launcher of the System:
+The Name is AGS-17 Plamya.
+The Type is Automatic Grenade Launcher.
+The Caliber is 30 mm.
+The Manufacturer is Molot plant.
+The Length is 840.
+The Diameter is INA.
+The Weight is 31.
+The Action is Blowback.
+The Muzzle Velocity is 185 m/s.
+The Effective Firing Range is 800 m to 1,700 m.
+The Rate of Fire is 400 round/min.
+The Maximum Elevation is +75.
+The Minumum Elevation is -5.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Feed System is 29 grenades belt.
+The Sights is Adjustable iron sights, optional mount required for optical sights.
+
+Here is Ammunition information for the AGS-17 Plamya Russian 30mm Automatic Grenade Launcher of the System:
+The Type is Grenade.
+The Caliber is 30.
+The Cartridge is 30×29mm grenade.
+The Basic Load is 400.
+

@@ -1,0 +1,39 @@
+This document describes the PMD-6 Russian Anti-Personnel Mine.
+
+The PMD-6, PMD-7 and PMD-57 series mines are Soviet Union blast-type anti-personnel mines that consist of a wooden box with a hinged lid with a slot cut into it. The slot presses down against a retaining pin, which holds back the striker. When sufficient pressure is applied to the lid of the box the retaining pin moves, allowing the striker to hit the detonator. The mines typically have an operating pressure of 1 to 10 kg. All the mines in the series use MOV series fuzes.
+
+As with other wooden box mines, the mine has a relatively short lifetime since the box is vulnerable to rotting and splitting, disabling the mine. It is, however, more dangerous than conventional metal mines, as it cannot be found with a metal detector.
+
+The mines are sometimes used with mortar bombs in place of the normal explosive blocks.
+
+Variants
+
+PMD-6 - original version of the mine, first used in the 1939 Winter War between the Soviet Union and Finland.
+PMD-6M - slightly larger version of the mine, with a leaf spring installed inside the box to increase operating pressure, which allows safer handling during minelaying.
+PMD-6F - a version used extensively during the Siege of Leningrad, with an ammonium nitrate/fuel oil (ANFO) main charge.
+PMD-7 - smaller version of the mine, using a cylindrical main charge.
+PMD-7ts - consists of a solid wooden block hollowed out to accept the main charge and fuse.
+PMD-57 - A later, larger box mine, using a larger warhead.
+
+This equipment has proliferated into the following countries: Cambodia, Myanmar, Russian Federation.
+
+Here is System information for the PMD-6 Russian Anti-Personnel Mine:
+The Country of Manufacture is Russia
+Namibia
+Serbia.
+The Emplacement Method is manual.
+The Length is 196.
+The Width is 87.
+The Height is 50.
+The Armor Penetration (mm)/ Kill Mechanism is blast.
+The Effective Range (meter) is 1.
+The Detectability/ Composition is detectable wood
+metal in fuze.
+The Anti-Handling is possible.
+The Fuze Type/Self Neutralize is pressure, tripwire (1 kg)
+self-neutralize: no.
+The Explosive Type & Weight/Total Weight (kg) is TNT: .20
+Total: .40.
+The Operating Pressure is 1 to 10 kg.
+The Comment is Probing for low pressure threshold fuze is dangerous.
+

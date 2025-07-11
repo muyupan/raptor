@@ -1,0 +1,52 @@
+This document describes the L119 New Zealand 105mm Towed Gun.
+
+The L119 Light Gun was designed to provide a lightweight field gun that could be towed by vehicle or airlifted by transport aircraft (fixed-wing and rotary types) while also being light enough to be moved into position by its crew. The L119 hails from the L118 family of guns and has been modernized in several ways, including an integrated power supply, muzzle measuring device, optics upgrade, new sights, and lightening of the carriage. The primary difference between the L119 and its L118 parent gun is a modification to fire US 105 mm M1 NATO projectiles.
+
+This equipment has proliferated into the following countries: New Zealand, Thailand.
+
+Here is Variants information for the L119 New Zealand 105mm Towed Gun:
+The L119 (Mid-Life Upgrade) is BAE Systems developed an upgrade package for the L119, which can be incorporated into new production weapons or retrofitted to the existing inventory. Most of the improvements are aimed at making the operations and maintenance of the L119 easier..
+
+Here is System information for the L119 New Zealand 105mm Towed Gun:
+The Alternative Designation is L119.
+The Type is Towed Gun.
+The Caliber is 105 mm.
+The Manufacturer is BAE Systems (Land Systems).
+The Carriage is Bow.
+The Crew is 5 - 7 personnel.
+The Traverse is 5.625° (100 mils) left or right.
+The Elevation is -5.625° (−100 mils) to +69.975° (+1,244 mils).
+The Maximum Firing Range is 17,500 m | 19,500 m (w/RAP).
+The Rate of Fire (Normal) is 6 rds for 3 minutes.
+The Rate of Fire (Sustained) is 3 rds for 1 minutes.
+The Emplacement Time is 3.
+The Displacement Time is 3.
+
+Here is Dimensions information for the L119 New Zealand 105mm Towed Gun:
+The Width is 1.78 m.
+The Height is 1.37 m.
+The Ground Clearance is 0.50 m.
+The Weight, Combat is 1,936 kg.
+The Barrel Length is 3.2 m.
+
+Here is Fire Control information for the L119 New Zealand 105mm Towed Gun:
+The Computerized FCS is Yes.
+The Direct Fire Telescope is Fitted and incorporates moving illuminated graticules, Can be adjusted for lead to allow for target movement and range. A direct fire night sight is also available. Trilux activated light sources are fitted to illuminate all scales and graticules, eliminating the use of electric batteries on the equipment..
+The Indirect Fire is Yes.
+The INS/GPS is Yes - Features Laser Inertial Artillery Pointing System (LINAPS) for L119, New Zealand, 2013..
+The Sighting is Features the Hall & Watts Artillery sighting system. The system can be used for direct or indirect fire, and requires no electrical power. The system has slipping scales incorporated for ease of orientation and change of aiming points..
+
+Here is Ammunition information for the L119 New Zealand 105mm Towed Gun:
+The M1 (HE) is High Explosive.
+The M314 is Illumination.
+The M60 / M60A2 is Smoke.
+The M913 HERA is High Explosive Rocket Assisted (HERA) Projectile (19.5 km max range).
+The M760 HE is Comprised of hollow steel forging and is similar to the projectile in the M1 cartridge. The projectile is loaded with approximately 4.6 lb (2.1 kg) of Type 1 TNT..
+The M1130A1 HE PFF BB is High Explosive Pre-Formed Fragments, Base Bleed.
+The M915 DPICM is Dual-Purpose Improved Conventional Munition (DPICM).
+The Note is The M119 fires all standard NATO semi-fixed ammunition as well as special rocket-assisted projectiles.
+
+Here is Protection information for the L119 New Zealand 105mm Towed Gun:
+The Protective Shield is None.
+The NBC Protection is None.
+

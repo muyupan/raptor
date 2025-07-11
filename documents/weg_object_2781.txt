@@ -1,0 +1,84 @@
+This document describes the MTU-72 Russian Armored Vehicle Launched Bridge (AVLB) System.
+
+The MTU-72 armored bridge layer is a combat engineering vehicle, designed to launch an assault bridge for tanks and other military vehicles across trenches and water obstacles. It entered service with the Soviet Army in 1974. It replaced or supplemented the previous MTU-20 and MT-55 bridge layers, based on the T-55 medium tank. Production of the MTU-72 ceased in 1990. Its replacement - the MTU-90 was ready for production in the late 1990s. However due to funding problems it received no production orders. It appears that the Russian Army was never keen on investing in armored bridge layers.
+
+The MTU-72 bridge layer is based on a modified T-72 main battle tank chassis. A number of the Soviet T-72B or T-72M1 tanks were converted to an armored bridge layer by removing the turret and replacing it with a bridge-launching system. Some sources mention, that some bridge layers were produced utilizing newly-built T-72 chassis.
+
+This equipment has proliferated into the following countries: Belarus, CFE Treaty, Egypt, Georgia, India, Iraq, Israel, North Korea (Democratic People's Republic of Korea), Romania, Russian Federation, Serbia, Slovakia, Slovenia, Sri Lanka, Ukraine.
+
+Here is System information for the MTU-72 Russian Armored Vehicle Launched Bridge (AVLB) System:
+The Alternative Designations is MTU-72.
+The Type is Armored Vehicle Launched Bridge (AVLB) System.
+The Manufacturer is Ural Transport Engineering Plant State Association (Uralvagonzavod)..
+The Chassis is T-72S.
+The Crew is 2.
+The Emplacement Time is 3 minutes.
+The Displacement Time is 8 minutes.
+The Dozer Blade is The vehicle is fitted with a hydraulically operated front-mounted stabiliser blade. This can also double as a dozer blade to clear obstacles or prepare bridging sites..
+
+Here is Dimensions information for the MTU-72 Russian Armored Vehicle Launched Bridge (AVLB) System:
+The Length is 11.64 m.
+The Width is 3.46 m.
+The Height is 3.38 m.
+The Weight, Combat is 40,000 kg.
+The Track Length is 4.278m.
+The Track Width is 580 mm.
+The Ground Clearance is 0.492 m.
+The Ground Pressure is 0.808kg/cm² (79238Pa) (11.49psi).
+
+Here is Bridging System information for the MTU-72 Russian Armored Vehicle Launched Bridge (AVLB) System:
+The Name is MTU-72 Bridge.
+The Length, Span is 18 m.
+The Length, Deployed is 20 m.
+The Length, Folded is 9.42 m.
+The Width, Bridge is 3.3 m.
+The Width, Trackway is 1.0 m.
+The Weight, Bridge is 6,400 kg.
+The Load Capacity is 50,000 kg.
+
+Here is Automotive information for the MTU-72 Russian Armored Vehicle Launched Bridge (AVLB) System:
+The Engine Name is V-84–1.
+The Engine Type is Multifuel.
+The Engine Power is 840 hp at 2,000 rpm.
+The Power-to-Weight Ratio is 21hp/t.
+The Fuel Capacity is 1,000 Liters.
+The Gearbox is synchromesh, hydraulically assisted.
+The Electrical System is 24V.
+The Suspension is torsion bar.
+The Maximum Speed is 60 km/h.
+The Range is 500 km.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Obstacle is 0.85 m.
+The Trench is 2.8 m.
+The Fording, without Preparation is 1.0 m.
+The Fording, with Preparation is 4.5 m.
+
+Here is System information for the MTU-72 Russian Armored Vehicle Launched Bridge (AVLB) System of the Main Weapon System:
+The Name is 1 × roof mounted 7.62mm PKMB Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is Degtyaryov plant.
+The Length is 1,203 mm.
+The Weight is 7.5 kg.
+The Action is Gas-operated, open bolt.
+The Muzzle Velocity is 825 m/s.
+The Rate of Fire is 600-800 rounds per minute.
+The Effective Rate of Fire is 250 rounds per minute.
+The Sighting Range of Fire is 1,500 m.
+The Belt is 250 Rounds.
+The Sights is Tangent iron sights (default); Optical, Night-vision, Thermal and Radar sights..
+
+Here is Ammunition information for the MTU-72 Russian Armored Vehicle Launched Bridge (AVLB) System of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.62mm.
+The Cartridge is 7.62×54mmR.
+The Basic Load is 1,000 Rounds.
+
+Here is Protection information for the MTU-72 Russian Armored Vehicle Launched Bridge (AVLB) System:
+The Hull Armor is Steel and composite armor with ERA.
+The Applique Armor is No.
+The Active Protection System is None.
+The NBC Equipment is Yes.
+The Smoke Equipment is Yes, a thermal smoke generation unit for screening..
+

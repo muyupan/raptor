@@ -1,0 +1,56 @@
+This document describes the AFT-9 Chinese 4x4 Armored Anti-Tank Guided Missile Vehicle.
+
+The  AFT-9 Chinese 4x4 Armored Anti-Tank Guided Missile Vehicle is a modern tank destroyer of Chinese origin. The AFT-9 mates a cost-effective vehicle platform with powerful anti-tank missiles. Various earlier designs were not adopted for service since they either lacked the range of firepower.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the AFT-9 Chinese 4x4 Armored Anti-Tank Guided Missile Vehicle:
+The Alternative Designation is AFT-9.
+The Type is Armored Anti-Tank Guided Missile Vehicle.
+The Manufacturer is NORINCO.
+The Configuration is 4x4.
+The Crew is 3.
+
+Here is Dimensions information for the AFT-9 Chinese 4x4 Armored Anti-Tank Guided Missile Vehicle:
+The Length is 6.05 m.
+The Width is 2.44 m.
+The Height is 1.98 m.
+The Weight, Combat is 13.75 tons.
+
+Here is Automotive information for the AFT-9 Chinese 4x4 Armored Anti-Tank Guided Missile Vehicle:
+The Engine Name is Deutz BF8L413FC.
+The Engine Type is Diesel.
+The Engine Power is 320 hp.
+The Maximum Range is 800 km.
+The Maximum Speed is 95 km/h.
+The Amphibious is No.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.5 m.
+The Trench is 0.6 m.
+The Fording is 1.0 m.
+
+Here is System information for the AFT-9 Chinese 4x4 Armored Anti-Tank Guided Missile Vehicle of the Main Weapon System:
+The Mount is Quadruple launcher, lowered when not in use.
+The Elevation is -10 to +10 degrees, powered.
+The Traverse is +/- 200 degrees, powered.
+
+Here is Ammunition information for the AFT-9 Chinese 4x4 Armored Anti-Tank Guided Missile Vehicle of the Main Weapon System:
+The Name is HJ-9.
+The Type is Anti-Tank Guided Missile (ATGM).
+The Length is 6.05 m.
+The Diameter is 2.8 m.
+The Weight is 27 kg.
+The Guidance System is Laser.
+The Warhead Type is Tandem HEAT.
+The Maximum Range is 5 km.
+The Minimum Range is 100 m.
+The Armor Penetration is 1,200 mm.
+The Basic Load is 12 missiles, 4 ready to fire.
+
+Here is Protection information for the AFT-9 Chinese 4x4 Armored Anti-Tank Guided Missile Vehicle:
+The Armor is Armor of this vehicle provides protection against small arms fire and artillery shell splinters. It is also fitted with NBC protection and automatic fire suppression systems..
+The Applique Armor is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is 2x4 75mm smoke grenade dischargers.
+

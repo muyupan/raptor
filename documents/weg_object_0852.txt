@@ -1,0 +1,44 @@
+This document describes the Leleka-100 Ukrainian Unmanned Aerial Vehicle (UAV).
+
+The Leleka-100 Ukrainian Unmanned Aerial Vehicle (UAV) is a fully automatic UAV system suitable for common military, industrial, and commercial tasks. The main advantage of this system is advanced inertial navigation, which allows operating in a harsh and GPS-denied environment. The system can be equipped with EO and IR gimbals. It has a quiet and reliable electric motor, which allows operations at low altitudes without being noticed.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the Leleka-100 Ukrainian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Leleka-100.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Ukrspec.
+The Autonomy is Autopilot with full auto and navigation mode; Auto-return in the case of GNSS or control signals loss.
+The Crew is Unmanned.
+The Ground Control Station is The ground control station is located in a rugged protective case. UAV control is carried out through an encrypted digital radio channel, which allows receiving the telemetry data during the whole period of the flight. The operator can trace the location of the UAV on the satellite maps, correct the route, operate with a payload, and give other commands to the UAV. In a case of signal jamming, the UAV can continue an autonomous flight or return and make a landing at the programmed point..
+The Payload Capacity is INA.
+The Control System is Digital data link with encryption
+45 km range.
+The Video Link is Digital with encryption
+720p HD with encryption
+45 km range.
+The Payload Options is LELEKA-100 UAV can carry a wide range of different payloads, which can be quickly replaced thanks to the modular design of the drone. 
+Double-axes camera gimbals are gyro-stabilized and remotely controlled in directions of the flight.
+
+Payload types:
+● Daylight payload EO;
+● Thermal camera payload;
+● High-resolution photo payload..
+The Launching System is Bungee start.
+The Recovery System is belly landing or parachute.
+
+Here is Dimensions information for the Leleka-100 Ukrainian Unmanned Aerial Vehicle (UAV):
+The Length is 1135 mm.
+The Wingspan is 1980 mm.
+The Height is 352 mm.
+The Maximum Takeoff Weight is 5.5 kg.
+
+Here is Automotive information for the Leleka-100 Ukrainian Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Maximum Speed is INA.
+The Service Ceiling is 1,500 m.
+The Maximum Distance is 45 km.
+The Endurance is 2.5 hours.
+

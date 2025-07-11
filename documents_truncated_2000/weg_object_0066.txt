@@ -1,0 +1,78 @@
+This document describes the D-1 (M1943) Russian 152mm Towed Howitzer.
+
+The D-1 howitzer M1943 (Russian: 152-mm gaubitsa obr. 1943 g. (D-1)) is a Soviet World War II-era 152.4 mm howitzer. The gun was developed by the design bureau headed by F. F. Petrov in 1942 and 1943, based on the carriage of the 122 mm howitzer M1938 (M-30) and using the barrel of the 152 mm howitzer M1938 (M-10). The powerful and mobile D-1, with its wide range of ammunition, significantly increased the firepower and breakthrough abilities of Red Army tank and motor rifle formations. Several hundred D-1s were manufactured before the end of World War II.
+
+Post World War II, the D-1 saw combat in numerous conflicts during the mid-to-late 20th century. The long operational history of D-1 howitzers in national armies of numerous countries is a testimony to its qualities; the gun still remains in service in a number of post-Soviet states and some other countries. The D-1 is widely considered a valuable element of Soviet artillery.
+
+The D-1 howitzer was essentially a combination of the barrel of the 152-mm howitzer model 1938 (M-10) on the carriage of the 122-mm howitzer M1938 (M-30). Since the new carriage was lighter than that of the M-10, the barrel was fitted with a massive double-baffle muzzle brake DT-3 to soften the shock of recoil. The breech block was of interrupted screw type, the recoil system consisted of a hydraulic buffer and a hydro-pneumatic recuperator. The separately loaded ammunition included a variety of shells and eight different propellant charges in cartridges.
+
+The carriage was nearly identical to the carriage of the M-30. It had suspension and steel wheels with pneumatic rubber tires. The trails were initially of riveted construction but were eventually replaced in production by welded ones. Late production pieces were equipped with caster wheels to ease manhandling. The time to set up for combat was about two minutes. In an emergency it was possible to fire without splitting trails; however, this was at the price of a drastically reduced traverse (1°30'). Since the gun was not equipped with a limber, it could be towed only by vehicle. The maximum towing speed was 40 km/h on paved roads, 30 km/h on cobbled roads, and 10 km/h off-road. To give the crew some protection from bullets and shell fragments, the gun was fitted with a shield.
+
+This equipment has proliferated into the following countries: China, North Korea (Democratic People's Republic of Korea).
+
+Here is Variants information for the D-1 (M1943) Russian 152mm Towed Howitzer:
+The Variants is In addition to the towed howitzer, Petrov's team developed a vehicle-mounted variant of the D-1. Red Army offensive operations in the summer and fall of 1943 reawakened interest in the idea of a heavy "artillery" tank similar to the KV-2, that could provide close fire support to rifle and tank units and would be capable of demolishing heavy fortifications. Probable causes for the development of such a vehicle were the cessation of mass production of the SU-122 medium assault gun and diversion of SU-152 heavy assault guns for anti-tank actions. The tank variant of the D-1 was originally intended for mounting in a variant of the KV-1s heavy tank. It utilized the amount of the 85 mm D-5, leading to the unofficial name D-1-5 and eventually to the official designation of D-15. Only one example was built. There is no information about the gun being mounted in the KV tank. By October 1943 Soviet authorities were anticipating the start of mass production of the powerful IS-2 heavy tank; as a result, the idea of a specialized artillery tank based on the obsolete KV chassis was dropped.
+
+Another project combining the T-34 tank chassis with the D-15 gun was also considered. Designated SU-D15, the medium assault gun was intended as a replacement for the SU-122. Although the project received a lot of support from the authorities it never entered production, both because of its shortcomings (the heavy gun put too much strain on the suspension and ammunition stowage was too limited) and because it was made redundant by the ISU-152. However, lessons learned mounting a powerful gun in the T-34 allowed for rapid development of the SU-100 tank destroyer..
+The Type 54 is This is a Chinese-produced copy of the D-1. Firing weight is 5,512 lb (2,500 kg); projectile weight, 48 lb (21.76 kg); and maximum range, 12,904 yd (11,800 m). It is in service in China..
+
+Here is System information for the D-1 (M1943) Russian 152mm Towed Howitzer:
+The Alternative Designation is D-1; M1943.
+The Type is Towed Howitzer.
+The Caliber is 152mm.
+The Manufacturer is No. 9 Plant.
+The Crew is 8.
+The Carriage is Split trail.
+The Displacement Time is 2.
+The Emplacement Time is 2.
+
+Here is Dimensions information for the D-1 (M1943) Russian 152mm Towed Howitzer:
+The Length is 6.7.
+The Barrel Length is 3.1.
+The Width is 1.9.
+The Height is 1.8.
+The Weight, Combat is 3,600.
+
+Here is System information for the D-1 (M1943) Russian 152mm Towed Howitzer of the Main Weapon System:
+The Name is D-1.
+The Type is Towed Howitzer.
+The Caliber is 152.4 mm.
+The Breech is Interrupted screw.
+The Recoil is Hydro-pneumatic.
+The Carriage is Split trail.
+The Rate of Fire is 3-4 rounds/min.
+The Muzzle Velocity is 508 m/s.
+The Max Firing Range is 12.4 km.
+The Max Elevation is 63.5.
+The Min Elevation is -3.
+The Traverse Range is 35.
+The Traverse Right is 17.5.
+The Traverse Left is 17.5.
+
+Here is Ammunition (Option 1) information for the D-1 (M1943) Russian 152mm Towed Howitzer of the Main Weapon System:
+The Name is BP-540.
+The Type is HEAT.
+The Caliber is 152.4 mm.
+The Shell is Separate loading charge and projectile.
+The Maximum Range is 3,000.
+The Basic Load is INA.
+
+Here is Ammunition (Option 2) information for the D-1 (M1943) Russian 152mm Towed Howitzer of the Main Weapon System:
+The Name is OF-530A.
+The Type is HE-Fragmentation, steely iron.
+The Caliber is 152.4 mm.
+The Shell is Separate loading charge and projectile.
+The Maximum Range is 12,400.
+The Basic Load is INA.
+The Note is The D-1 had a large variety of ammunition, including high-explosive, armor-piercing, HEAT, shrapnel, illumination, and chemical.
+
+The D-1 used separate loading ammunition, with eight different charges. The charges included the "full charge" Zh-536 and smaller charges ranging from the "first" to "sixth", which was the smallest. A "special charge" was used with the BP-540 HEAT projectile. Propellant charges were produced in "full" and "third" variants in munitions factories. All other charges were derived from them by removing small gunpowder bags from the charge cartridge. For flash suppression there was a special chemical mixture which was to be inserted into a cartridge before night firing. 152 mm projectiles for the D-1 weighed about 40 kg; a difficult job for the loaders, who had to carry the projectiles alone.
+
+When set to fragmentation mode, the OF-530 projectile produced fragments which covered an area 70 meters wide and 30 meters deep. When set to high-explosive (HE) action, the exploding shell produced a crater about 3.5 meters in diameter and about 1.2 meters deep. Despite the D-1's withdrawal from service in the mid- 1970s, the OF-530 is still fired from modern 152 mm ordnance pieces of the Russian Army.
+
+The G-530 HEAC anti-concrete shell had a muzzle velocity of 457 m/s when fired with the "first" charge. At a range of one kilometer it had a 358 m/s terminal velocity and was able to punch through up to 80 centimeters of reinforced concrete before detonating a TNT charge which increased the total penetration to 114 centimeters. The G-530 could not be fired with a "full" charge without putting the crew at risk of having the shell explode in the barrel. A special version of the shell, the G-530Sh, was developed to allow use with the full charge.
+
+The BP-540 HEAT projectile was not used during World War II. It had an armour penetration of 250 millimeters at an incident angle of 90°, 220 millimeters at 60°, 120 millimeters at 30°.
+
+In the late 1950s old ammunition stocks for the D-1 were removed from the Soviet inventory. The only shells retained were the OF-530, O-530, G-530/G-530Sh, and possibly chemical shells. The Soviet Army also possessed a 152 mm nuclear shell, but it is not clear whether that shell could be used with the D-1.
+

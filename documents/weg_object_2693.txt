@@ -1,0 +1,126 @@
+This document describes the SU-100 Russian Tank Destroyer.
+
+The SU-100 (Samokhodnaya Ustanovka 100) was a Soviet tank destroyer armed with a 100 mm anti-tank gun in a casemate superstructure. It was used extensively during the last year of World War II and saw service for many years afterwards with the armies of Soviet allies around the world.
+
+The SU-85 was developed from the chassis of the T-34 tank replacing the turret with a larger, fixed superstructure that allowed a larger gun to be fitted: the 85 mm D-5 gun, providing dramatically upgraded firepower compared to the T-34's 76.2 mm models. Introduced to service in 1943, the SU-85 was quickly rendered obsolete as a new tank design featured the same gun on the T-34-85.
+
+This prompted the design of a more advanced turretless tank destroyer with an even more powerful cannon. Development was conducted under supervision of L. I. Gorlitskiy, chief designer of all medium Soviet self-propelled guns. The work started in February 1944 and the first prototype of the SU-100, "Object 138", was delivered in March. After intensive testing with different models of 100 mm gun Soviet engineers approved the D-10S gun for mass production. This gun was developed in Constructors Bureau of Artillery Factory No. 9 under the guidance of F. F. Petrov. After the Second World War this gun was installed on T-54 and T-55 tanks; these vehicles and their derivatives were in service forty years after initial development.
+
+It was built at the UZTM (Russian abbreviature УЗТМ for Уральский Завод Тяжелого Машиностроения – Ural Heavy Machinery Factory, also called Uralmash) in Yekaterinburg. The SU-100 quickly proved itself to be able to penetrate around 125 mm (4.9 in) of vertical armor from a range of 2,000 m (1.2 mi) and the sloped 80 mm (3.1 in) front armor of the German Panther from 1,500 m (0.93 mi).
+
+The hull of the SU-100 had major improvements over the SU-85; the thickness of the front armour was increased from 45 to 75 mm (1.8 to 3.0 in), and the commander's workplace was made in a small sponson on the right side of the hull; combined with the commander's cupola this improved the commander's effectiveness. Its German Jagdpanzer-family counterparts — the Jagdpanzer IV, Jagdpanther and Jagdtiger, by comparison, lacked this key piece of observational equipment. On the other hand, the SU-100's optics were inferior. For better ventilation two ventilator units were installed, instead of only one as in the SU-85. Mass production began in September 1944.
+
+This equipment has proliferated into the following countries: Albania, Algeria, Angola, Cuba, Morocco, Romania, Viet Nam, Yemen.
+
+Here is System information for the SU-100 Russian Tank Destroyer:
+The Alternative Designation is SU-100.
+The Type is Tank Destroyer.
+The Crew is 4.
+
+Here is Dimensions information for the SU-100 Russian Tank Destroyer:
+The Length is 9.45.
+The Width is 3.00.
+The Height is 2.25.
+The Weight, Combat is 31.6.
+The Ground Clearance is 408.
+
+Here is Automotive information for the SU-100 Russian Tank Destroyer:
+The Engine Name is Kharkiv Model V-2.
+The Engine Type is V-12 diesel.
+The Engine Power is 500.
+The Cruising Range is 299.
+The Speed, Maximum Road is 56.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Suspension is Christie type with coil springs, 5 road wheels, rear drive, front idler, no return rollers.
+The Gradient is 60.
+The Vertical Obstacle is 0.69.
+The Trench is 2.51.
+The Fording is 0.88.
+
+Here is TBR-121 information for the SU-100 Russian Tank Destroyer of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Proliferated is Widely.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the SU-100 Russian Tank Destroyer of the Main Gun:
+The Name is D-10S Gun.
+The Type is Rifled Anti-Tank Gun.
+The Caliber is 100.
+The Length is 5.608 m.
+The Barrel Length is 5.35 m.
+The Weight is 1,438 kg.
+The Breech is Horizontal sliding wedge (semi-automatic).
+The Recoil is Hydraulic buffer and hydropneumatic recuperator.
+The Carriage is Vehicle mount.
+The Maximum Elevation is +17.
+The Minimum Elevation is -2.
+The Traverse Range is 34.
+The Traverse Left is 17.
+The Traverse Right is 17.
+The Rate of Fire is 4 rounds/min avg
+5–6 rounds/min max..
+The Muzzle Velocity is 1,000.
+The Maximum Firing Range is 14,600 m (16,000 yds), or
+16,000 m (17,500 yds).
+
+Here is Ammunition information for the SU-100 Russian Tank Destroyer of the Main Gun:
+The Name is 3UBK10-1.
+The Type is 9M117 Bastion.
+The Caliber is 100.
+The Cartridge is Fixed QF 100 × 695 mm. R.
+The Basic Load is 34.
+The Armor Penetration is 600 mm at up to 4,000 m.
+The Available Ammunition is * 3UBK10-1 (9M117 Bastion), penetrating 600 mm at up to 4,000 m
+
+* 3UBK10M-1 (9M117M Kan) tandem warhead, penetrating 650 mm at up to 4,000 m
+
+* 3UBK23-1 (9M117M1 Arkan) extended-range tandem warhead, penetrating 750 mm at up to 6,000 m
+
+* 3UBK23M-1 (9M117M2 Boltok) extended-range warhead penetrating 850 mm at up to 6,000 m.
+
+Here is System information for the SU-100 Russian Tank Destroyer of the Secondary Weapon System:
+The Name is Type 73.
+The Type is Light Machine Gun.
+The Caliber is 7.36.
+The Manufactuer is First Machine Industry Bureau.
+The Proliferation is Widely Proliferated in North Korea.
+The In Service is 2002-Present.
+The Length is 1190 mm.
+The Barrel Length is 608 mm.
+The Weight is 10.6 kg.
+The Action is Gas.
+The Rate of Fire is 600–700 rpm.
+The Feed System is Box magazine
+Belt.
+The Sights is Iron.
+
+Here is Ammunition information for the SU-100 Russian Tank Destroyer of the Secondary Weapon System:
+The Type is Type 73.
+The Caliber is 7.63.
+The Cartridge is 7.62×54mmR.
+The Basic Load is INA.
+
+Here is Fire Control information for the SU-100 Russian Tank Destroyer:
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Tank Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is INA.
+
+Here is Protection information for the SU-100 Russian Tank Destroyer:
+The Hull Armor is 46.
+The Turret Armor is INA.
+The Applique Armor is Available.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

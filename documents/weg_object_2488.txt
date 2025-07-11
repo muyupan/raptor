@@ -1,0 +1,41 @@
+This document describes the TOS-2 Russian 220mm Heavy Flamethrower System.
+
+The TOS-2 Russian 220mm Heavy Flamethrower System is a new Russian flamethrower system. It is also nicknamed as the Tosochka. It is a lighter, less expensive, and more mobile version of the TOS-1A system. The TOS-2 is a Russian-made heavy flamethrower system notable for its unique operational method. It deviates from traditional flamethrowers by employing thermobaric and incendiary rockets, which combine fuel and air in a cloud that, upon detonation, generates intense heat and pressure, rapidly consuming surrounding oxygen. The term "thermobaric" pertains to the type of explosive used in the rockets, producing a fiery explosion followed by a concussive shockwave upon detonation. This attribute renders the TOS-2, along with its tracked counterpart, the TOS-1A, particularly effective in engaging enemy personnel within fortified positions or open terrain. The TOS-2's destructive capabilities originate from its capacity to unleash destruction by firing 220mm rockets from 18 launch tubes, delivering a relentless barrage. The thermobaric effect of these rockets proves highly destructive, especially in enclosed spaces such as bunkers or urban environments, producing more heat and overpressure compared to conventional explosives by igniting a vapor within the blast zone. The resulting shockwave and intense heat from the detonation can cause extensive damage, surpassing the destructive potential of conventional explosives. This effect can be particularly detrimental to organs with varying tissue densities, such as the lungs, bowel, and inner ear.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the TOS-2 Russian 220mm Heavy Flamethrower System of the Main Weapon System:
+The Name is INA.
+The Type  is Heavy Flamethrower .
+The Caliber  is 220 mm.
+The Number of Tubes is 16.
+The Maximum Firing Range  is 6 km.
+The Full Salvo Duration  is 10 seconds.
+The Reloading Time  is INA.
+The Note #1 is This rocket system is used to clear out buildings, bunkers and field fortifications using its thermobaric rockets..
+The Note #2 is There are at least two types of warheads including incendiary and thermobaric. The thermobaric weapons are also called vacuum or fuel-air explosive weapon. This type of munitions releases a large cloud of flammable gas and causes massive explosions..
+
+Here is Ammunition (Option #1) information for the TOS-2 Russian 220mm Heavy Flamethrower System of the Main Weapon System:
+The Name is MO.1.01.04.
+The Type  is Rocket.
+The Caliber  is 220 mm .
+The Length  is 3.3 m.
+The Weight  is 173 kg.
+The Maximum Range  is  The original rocket for the TOS-1A had a range of only 2,700 m.
+
+Here is Ammunition (Option #2) information for the TOS-2 Russian 220mm Heavy Flamethrower System of the Main Weapon System:
+The Name  is MO.1.01.04M.
+The Type  is Rocket.
+The Caliber  is 220 mm.
+The Length  is 3.7 m.
+The Weight  is 217 kg.
+The Maximum Range  is 6,000 m.
+
+Here is Ammunition (Option #3) information for the TOS-2 Russian 220mm Heavy Flamethrower System of the Main Weapon System:
+The Name  is M0.1.01.04M2.
+The Type is Rocket .
+The Caliber  is 220 mm.
+The Length  is INA.
+The Weight  is INA.
+The Maximum Range  is 10 km.
+

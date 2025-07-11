@@ -1,0 +1,74 @@
+This document describes the SA 316B Alouette III French Light Utility Helicopter.
+
+The Aérospatiale Alouette III (designations SA 316 and SA 319) is a single-engine, light utility helicopter developed by the French aircraft company Sud-Aviation. During its production life, it proved to be a relatively popular rotorcraft; including multiple licensed manufacturers, in excess of 2,000 units were constructed.
+
+The Alouette III was developed as an enlarged derivative of the earlier and highly successful Alouette II. Sharing many elements with its predecessor while offering an extra pair of seats and other refinements, it quickly became a commercial success amongst both civil and military customers. Further variants were also developed; amongst these was a high-altitude derivative, designated as the SA 315B Lama, which entered operational service in July 1971. The Alouette III was principally manufactured by Aérospatiale; the type was also built under license by Hindustan Aeronautics Limited (HAL) in India as the HAL Chetak, by Industria Aeronautică Română (IAR) in Romania as the IAR 316 and F+W Emmen in Switzerland.
+
+Similar to the Alouette II, in military service, it was used to perform missions such as aerial observation, photography, air-sea rescue, liaison, transport, and training; it could also be armed with anti-tank missiles, anti-shipping torpedoes, and a fixed cannon. In a civilian capacity, the Alouette III was commonly used for casualty evacuation (often fitted with a pair of external stretcher panniers), crop-spraying, personnel transportation, and carrying external loads. By the 2010s, many operators were in the process of drawing down their fleets and replacing them with more modern types; the French military intend to replace their Alouette IIIs with the newly developed Airbus Helicopters H160.
+
+This equipment has proliferated into the following countries: Argentina, Austria, Belgium, Burkina Faso, Cameroon, Chad, Congo, Ecuador, Equatorial Guinea, Ethiopia, France, French Guiana, Ghana, Greece, Guinea, Guinea-Bissau, India, Lebanon, Malaysia, Malta, Morocco, Myanmar, Namibia, Nepal, Netherlands, Pakistan, Portugal, Romania, Senegal, South Africa, South Korea (Republic of Korea), Suriname, Switzerland, Tanzania, Togo, Tunisia, Venezuela (Bolivarian Republic of), Zimbabwe.
+
+Here is Variants information for the SA 316B Alouette III French Light Utility Helicopter:
+The SA 316A is the first production version. Original designation SE 3160..
+The SA 316B is powered by a 425 kW (570 shp) Turboméca Artouste IIIB turboshaft engine, with strengthened main and tail rotor for greater performance. The SA 316B was built under license in India as the HAL Chetak, and again under licence in Romania as the IAR 316..
+The SA 319B is The SA 319B was a direct development of the SA 316B, it was powered with a 649 kW (870 shp) Turbomeca Astazou XIV turbo shaft engine, but it was derated to 447 kW (660 hp)..
+The SA 316C is The SA 316C was powered by a Turbomeca Artouste IIID turboshaft engine. The SA 316C was only built in small numbers..
+The G-Car and K-Car is Helicopter gunship versions for the Rhodesian Air Force. The G-Car was armed with two side-mounted Browning .303 or a single 7.62mm MAG machine guns. The K-Car was armed with a 20 mm MG 151 cannon, fitted inside the cabin, firing from the port side of the helicopter..
+The SA.3164 Alouette-Canon is Modified in 1964 as a gunship version armed with a 20mm gun in the nose and external hardpoints for missiles mounted on each side of the fuselage. Only one prototype was built.
+The IAR 317 Airfox is A Romanian helicopter gunship project based on the IAR 316. Only three prototypes were ever built..
+The Atlas XH-1 Alpha is South African two-seat attack helicopter project. It was used in the development of the Denel Rooivalk..
+The K-1 'Chetak', informally- 'Frenchman' is 8 HAL Chetaks were bought by the Soviet Union for testing purposes at Kacha airfield, Sevastopol, in 1985, and later 2 of them were used by DOSAAF from Karagoz airfield[.
+
+Here is System information for the SA 316B Alouette III French Light Utility Helicopter:
+The Alternative Designation is SA 316 Alouette III.
+The Type is Light Utility Helicopter.
+The Crew is 1 (pilot).
+The Blades, Main Rotor is 3.
+The Blades, Tail Rotor is 3.
+The Number of Engines is 1.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the SA 316B Alouette III French Light Utility Helicopter:
+The Length is 10.02 m.
+The Height is 3.09 m.
+The Rotor Diameter is 11.00 m.
+The Disc Area is 95.0 m sq.
+The Empty Weight is 1,122 kg.
+The Maximum Takeoff Weight is 2,200 kg.
+
+Here is Automotive information for the SA 316B Alouette III French Light Utility Helicopter:
+The Engine Name is 1 x Turbomeca Artouste IIIB.
+The Engine Type is Turboshaft.
+The Engine Power is 870 shaft hp dereated to 570 shp.
+The Fuel Capacity is 573 liters internal.
+The Maximum Speed is 210 km/h.
+The Cruising Speed is 185 km/h.
+The Ceiling, Hover IGE is 2,880 m.
+The Ceiling, Hover OGE is 1,520 m.
+The Maximum Range is 480 km.
+The Rate of Climb is 885 m/min.
+The Ceiling is 3,200 m.
+
+Here is Main Gun System information for the SA 316B Alouette III French Light Utility Helicopter:
+The Note is 1 x 7.62-mm gun firing to the side; or
+1 x 20-mm open turret gun mounting.
+
+Here is Missile Weapon Systems information for the SA 316B Alouette III French Light Utility Helicopter:
+The Note is 4 x AS11 anti-tank missiles; or
+2 x AS12 anti-ship missiles.
+
+Here is Rocket Weapon Systems information for the SA 316B Alouette III French Light Utility Helicopter:
+The Note is 2 x 68-mm rocket pods.
+
+Here is Fire Control and Avionics information for the SA 316B Alouette III French Light Utility Helicopter:
+The Fire Control Radar is INA.
+The Navigation Radar is INA.
+
+Here is Protection information for the SA 316B Alouette III French Light Utility Helicopter:
+The Add on Armor is INA.
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The NBC Protection is Yes.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

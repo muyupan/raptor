@@ -1,0 +1,89 @@
+This document describes the Slavutych-Class (Project 1288 Class) Ukrainian Command Ship.
+
+The Ukrainian command ship Slavutych is a former Soviet auxiliary ship Prideprovie of the Gofri-class intelligence ships (NATO codename: Bambuk) ship built for the Soviet Navy in the late 1980s.
+
+This equipment has proliferated into the following countries: Russian Federation, Ukraine.
+
+Here is Variants information for the Slavutych-Class (Project 1288 Class) Ukrainian Command Ship:
+The No known Ukrainian variants of this ship. is .
+
+Here is System information for the Slavutych-Class (Project 1288 Class) Ukrainian Command Ship:
+The Alternative Designation is Slavutych-Class (Project 1288 Class) Ukrainian Command Ship (U-510).
+The Type is Command, Control and Intelligence Ship.
+The Builder is Black Sea Shipyard (Mykolaiv).
+The Crew is 150.
+The  is Captured by Russia since 2014..
+
+Here is Dimensions information for the Slavutych-Class (Project 1288 Class) Ukrainian Command Ship:
+The Length is 106.5 m.
+The Beam is 16.0 m.
+The Draft is 6.0 m.
+The Displacement, Standard is 5,010 tons.
+The Displacement, Full Load is 5,400 tons.
+
+Here is Propulsion System information for the Slavutych-Class (Project 1288 Class) Ukrainian Command Ship:
+The Engine Name is 2 × Skoda 6L2511.
+The Engine Type is Diesel.
+The Engine Power is 6,100 total bhp.
+The Bow Thrusters is INA.
+The Maximum Range is 9,200 nm at 12.5 knots.
+The Maximum Speed is 16.0  knots.
+The Endurance is INA.
+
+Here is System information for the Slavutych-Class (Project 1288 Class) Ukrainian Command Ship of the Main Gun System:
+The Name is 2 x AK-306 30mm CIWS.
+The Type is Close-In Weapon System.
+The Caliber is 30 mm.
+The Main Armament is 1 or 2 AO-18 autocannons.
+The Secondary Armament is 4 x 9A4172 missiles.
+The Crew is 1.
+The Barrel Length is 1,629 mm.
+The Width is 1,240 mm.
+The Height is 1,070 mm.
+The Weight is 1,000 kg (gun mount).
+The Barrels is 6.
+The Action is Gas-operated rotary cannon.
+The Elevation is +88° ... -12° (50°/sec).
+The Traverse is ±180° (70°/sec).
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880–900 m/s.
+The Maximum Firing Range is the projectiles self-destruct past 5,000 m.
+The Effective Firing Range is 4,000 m (aerial); 5,000 m (maritime).
+The Feed System is Belt: 2,000 rounds (additional 1,000 rounds in reserve feed bin..
+The Sights is Radar / TV-optical.
+
+Here is Ammunition information for the Slavutych-Class (Project 1288 Class) Ukrainian Command Ship of the Main Gun System:
+The Type is HEI-Frag, Frag-T.
+The Caliber is 30 mm.
+The Shell Weight is 0.39 kg.
+The Basic Load is 1000 rounds and 4 x 9A4172 missiles.
+
+Here is Missile Weapon System information for the Slavutych-Class (Project 1288 Class) Ukrainian Command Ship:
+The Name is 8 x 9K310 Igla-1 (SA-16 Gimlet) Man Portable Surface-to-Air Missile (SAM) System.
+The Type is Man Portable Surface-to-Air Missile (SAM) System.
+The Length is 1.673 m.
+The Diameter is 72 mm.
+The Wingspan is 160 mm.
+The Weight is 10.8 kg.
+The Engine is Single-stage solid propellant rocket motor, plus ejection motor.
+The Warhead is 1.27 kg (HE-fragmentation).
+The Guidance System is Single channel passive infra-red homing seeker.
+The Maximum Speed is 570 m/s.
+The Maximum Range is 5 km.
+The Minimum Range is 0.5 km.
+The Altitude is 10 m to 2.5 km.
+The Missile Basic Load is 8 x 9K310 Igla-1 (SA-16 Gimlet) Man Portable Surface-to-Air Missile (SAM)(32 x 9M213 Missiles)..
+
+Here is Fire Control Systems (FCS) information for the Slavutych-Class (Project 1288 Class) Ukrainian Command Ship:
+The AK-306 FCS is 1 x A-219 Vympel FCS.
+
+Here is Radar Systems information for the Slavutych-Class (Project 1288 Class) Ukrainian Command Ship:
+The Navigation Radar is Yes.
+The Search Radar is 3 x Palm Frond Systems.
+
+Here is Protection information for the Slavutych-Class (Project 1288 Class) Ukrainian Command Ship:
+The Hull is INA.
+The Electronic Warfare is 2 x PK-16 Buoy Decoys.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

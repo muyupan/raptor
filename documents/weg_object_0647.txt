@@ -1,0 +1,32 @@
+This document describes the AIM-120 AMRAAM American Advanced Medium-Range Air-to-Air Missile.
+
+AIM-120 advanced medium-range air-to-air missile (AMRAAM) is a new generation all-weather, missile manufactured by Raytheon. The AMRAAM is in service with the US Air Force (USAF), US Navy (USN), and US-allied nations.
+
+The AMRAAM has been delivered to more than 36 countries. The missile has completed over 1.8 million captive-carry hours and 2,900 live firings. It is integrated with combat aircraft such as the F-15, F-16, F/A-18, F-22, Typhoon, Gripen, Tornado, Harrier, F-4, and the F-35 Joint Strike Fighter. It is also used by the Surface-Launched AMRAAM of the US Army and NASAMS (Norwegian Advanced Surface to Air Missile System).
+
+This equipment has proliferated into the following countries: Australia, Bahrain, Belgium, Canada, Chile, China, Czech Republic, Denmark, Finland, Germany, Greece, Hungary, Israel, Italy, Japan, Jordan, Kuwait, Malaysia, Morocco, Netherlands, Norway, Oman, Pakistan, Poland, Portugal, Qatar, Romania, Saudi Arabia, Singapore, South Korea (Republic of Korea), Spain, Switzerland, Thailand, Turkey, United Arab Emirates, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the AIM-120 AMRAAM American Advanced Medium-Range Air-to-Air Missile:
+The AIM-120B is This was a follow-on to the baseline AIM-120. The missile is fitted with a new signal processor, advanced active radar terminal seeker and reprogrammable EPROM signal processor. The first AIM-120B rounds became operational in early 1994..
+The AIM-120C is This upgrade featured clipped wings and fins to allow internal stowage aboard the F-22 and improved lethality with the fit of a larger warhead. Phase 3 of the upgrade program involved developing enhanced kinematics..
+The AIM-120D is The AIM-120D consists of an improved seeker head and greater jamming resistance. Major upgrades include a two-way data link for greater hit probability and flexibility in multiple aircraft situations; better navigation; improved high-angle off boresight to give the missile a wider target seeking cone and a larger no-escape envelope; and a 50 percent increase in range. The AIM-120D is a joint Air Force/Navy project..
+The AMRAAM-ER is This is an extended-range interceptor designed for the NASAMS surface-launched air defense system. The missile essentially combines the front section of the AIM-120 with the rocket motor and thrust-vector controls of the Evolved Sea Sparrow Missile (ESSM ) to increase range to more than 25 mi (40 km) at an altitude of 45,000 ft (13,720 m)..
+
+Here is AIM-120 AMRAAM Medium-Range Air-to-Air Missile information for the AIM-120 AMRAAM American Advanced Medium-Range Air-to-Air Missile of the System:
+The Name is AIM-120 AMRAAM.
+The Type is Medium-Range Air-to-Air Missile.
+The Manufacturer is Raytheon Missile Systems, Tucson, Ariz..
+The Length is 3.66 m.
+The Diameter is 178 mm.
+The Wingspan is 0.53 m.
+The Tails Span is 0.63 m.
+The Missile Weight is 151 kg.
+The Warhead Type is conventional high-explosive.
+The Warhead Weight is 22 kg.
+The Engine is 1 x Hercules high-thrust, reduced-smoke, solid-fuel boost-sustain rocket motor.
+The Maximum Speed is Mach 4.
+The Maximum Range is 50 km.
+The Minimum Range is 2 km.
+The Tracking System is Track-while-scan (TWS) multiple-target tracking radar; inertial reference for each AMRAAM before launch; Nortronics mid-course updates to AMRAAM during flight..
+The Guidance System is Hughes I/J-band pulse-Doppler active radar w/pulse compression and programmable waveforms.
+

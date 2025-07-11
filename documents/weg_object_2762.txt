@@ -1,0 +1,75 @@
+This document describes the M104 Wolverine American Armored Bridgelayer.
+
+The M104 Wolverine Heavy Assault Bridge is an armored military engineering vehicle created by General Dynamics Land Systems, designed to provide deployable bridge capability for units engaged in military operations.
+
+Since the 1960s the United States Army has made use of armored bridge-laying vehicles based on the M48 Patton/M60 series of tanks. In recent years, however, the Army discovered that the aging M60 AVLB (Armored Vehicle Launched Bridge) was too slow to keep up with the M1 Abrams' top speed of roughly 70 km/h during field maneuvers. Additionally, the Abrams was so heavy that it could safely cross the AVLB's bridge only at a very slow speed.
+
+Program development for a new armored bridge-laying vehicle began in 1983, and by 1994 General Dynamics Land Systems and the German MAN Mobile Bridges GmbH (since 2005 Krauss-Maffei Wegmann) had been awarded a contract. The first prototype vehicles were being tested by 1996, and the first production models were delivered by 2003. It is unclear why the vehicle was subject to such a long development time.
+
+Because the Wolverine is essentially an M1A2 SEP tank with Leguan bridge-laying gear instead of a turret, it shares virtually all of the parent vehicle's speed, mobility, survivability, and automotive components. This commonality was a key design factor in the Wolverine's development. The Wolverine also features an advanced communications package designed to keep it in contact with local field commanders. However, the vehicle itself is unarmed.
+
+The Wolverine is operated by two crewmen who sit within the hull. Both crewmen have access to the bridging controls, while the bridge is carried in two sections, stacked above the hull. Once a bridging site is chosen the vehicle securely anchors itself in place with a spade. The two sections of the bridge are joined together, and then the entire bridge is extended across the obstacle and dropped into place. The crewmen have the ability to make minor corrections during launch, if needed. Once operations are complete, the Wolverine drives across the bridge and retrieves it from the other side simply by reversing the process. The bridge can be launched in under five minutes or retrieved in less than ten minutes, all without the crewmen ever leaving the safety of their vehicle.
+
+Once launched, the 26-meter Leguan bridge can support a 70-ton vehicle moving at 16 km/h, or 10 miles per hour. The Wolverine thus allows the heaviest of vehicles to cross craters, ditches, and damaged bridges at combat speed. This mobility is a decisive advantage for armored units.
+
+To date the United States Army has received 44 Wolverines, which have been distributed to a few select engineer units. The Army had originally intended to purchase 465 vehicles; however, budget cuts and a shift in philosophy toward a lighter fighting force meant that the Army no longer needed hundreds of bridgelaying vehicles. While the Army did not plan to purchase any more Wolverines, it had, at the time, reserved the right to restart production if necessary. However, as of 2016 the Wolverine is being replaced by the Leonardo DRS Joint Assault Bridge (JAB), thus effectively ending the Wolverine program.
+
+The M1074 Joint Assault Bridge also has an Abrams tank chassis, but is combined with an 18.3-metre (60 ft) scissor bridge. While the M104 was intended to replace the AVLB, it was found to be too expensive and complicated to maintain and operate. While the JAB's bridge is shorter, it has a faster deployment time of three minutes, compared to the Wolverine's 3-5 minute set-up time. On August 23, 2016, DRS Technologies, Inc., announced that the U.S. Army had awarded it an indefinite quantity contract worth up to $400 million to build the new Joint Assault Bridge (JAB) system to carry, deploy and recover a heavy “scissor” bridge. First deliveries are planned in mid-2017, with low-rate initial production expected to be reached in 2019.
+
+This equipment has proliferated into the following countries: CFE Treaty, United States of America.
+
+Here is System information for the M104 Wolverine American Armored Bridgelayer:
+The Alternative Designation is M104 Wolverine.
+The Type is Armored Bridgelayer.
+The Manufacturer is General Dynamics Land Systems.
+The In Status is 2003-Present.
+The Crew is 2.
+The Chassis is Based on the M1A2 Abrams tank chassis.
+The Bridge Launch Time is < 5 minutes.
+The Bridge Recovery Time is <10 minutes.
+
+Here is Dimensions information for the M104 Wolverine American Armored Bridgelayer:
+The Vehicle Length, Overall is 13.40 m.
+The Vehicle Length, Hull is 7.64 m.
+The Width, Overall is 4.00 m.
+The Width, Hull is 3.48 m.
+The Height, Overall is 3.95 m.
+The Height, Hull is 2.91 m.
+The Length of Track on the Ground is 4.65 m.
+The Track Width is 635 mm.
+The Ground Clearance,Center is 483 mm.
+The Ground Clearance, Sides is 432 mm.
+The Bridge Length is 26.00 m.
+The Bridge Width is 4.00 m.
+The Weight, Empty is 7,010 kg.
+The Weight, Combat is 62,325 kg.
+The Maximum Bridging Gap is 24.0 m.
+
+Here is Automotive information for the M104 Wolverine American Armored Bridgelayer:
+The Engine Name is 1 x Avco-Lycoming AGT-1500.
+The Engine Type is multi fuel turbine.
+The Engine Power is 1,500 hp at 3,000 rpm.
+The Power-to-Weight Ratio is 24.1 hp/metric ton.
+The Speed, Road is 72 kph.
+The Speed, Cross-Country is 48 kph.
+The Speed, up 10 deg slope is 32 kph.
+The Speed, up 60 deg slope is 7 kph.
+The Acceleration, 0-32 kph is 6.8 sec.
+The Range is 418 km.
+The Gradient is 60.
+The Vertical Obstacle is 0.94 m.
+The Trench is 2.69 m.
+The Fording, without Preparation is 1.22 m.
+The Fording, with Preparation is 1.98 m.
+The Fuel Capacity is 1,885 liters.
+The Suspension is torsion bar.
+The Road Wheels is 7 w/15-in (381-mm) travel, rear drive, front idler, 3 internal shock absorbers, 2 return rollers.
+
+Here is Protection information for the M104 Wolverine American Armored Bridgelayer:
+The Hull Armor is Chobham-type.
+The Applique Armor is INA.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is Engine exhaust smoke generation.
+The BattleManagement System is The M104 is fitted with a digital battlefield management system, which is designed to increase awareness on the battlefield and keeps the vehicle in contact with local field commanders..
+

@@ -1,0 +1,107 @@
+This document describes the Mi-171 Russian Medium Transport Helicopter.
+
+The Mi-171 Russian Medium Transport Helicopter is outfitted with a TV3-117VM Engine. The Mi-171Sh was specifically designed for operating in combat missions in local armed conflicts. The design incorporates a five-bladed main rotor, a tail rotor, and non-retractable tricycle nose-wheel landing gear.
+
+This equipment has proliferated into the following countries: Algeria, Argentina, Bangladesh, Chad, Czech Republic, Ghana, Kazakhstan, Mongolia, Nepal, Pakistan, Sudan.
+
+Here is System information for the Mi-171 Russian Medium Transport Helicopter:
+The Alternative Designation is Mi-171.
+The Manufactuer is Kazan Helicopter Plant
+Ulan-Ude Aviation Plant.
+The Primary Function is Armed assault-transport.
+The Type is Medium twin-turbine transport helicopter.
+The In Service is 1999-Present.
+The Crew is 3 (2x pilots, 1x flight engineer).
+The Blades, Main Rotor is 5.
+The Blades, Tail Rotor is 3.
+The Day/Night Capable is The Mi-171 is equipped with instruments and avionics allowing operation in day, night, and instrument meteorological conditions..
+The All Weather Capable is The Mi-171 is equipped with instruments and avionics allowing operation in day, night, and instrument meteorological conditions..
+The Takeoff or Landing Limitations is INA.
+The Vertical Climb Rate is 9.
+The Number of Hard Points is 4.
+The Standard Payload is 24 troops, or 3,000 kg internal or external loads on 4x hardpoints..
+The Landing Gear is Fixed main gear struts run down and out from attachment points on the upper, rear fuselage. A second strut holds the wheel well away from the lower fuselage. The two-wheel nose gear is fitted under the fuselage just behind the cockpit.
+
+Here is Dimensions information for the Mi-171 Russian Medium Transport Helicopter:
+The Length, with Rotors Turning is 25.2.
+The Length, Fuelage is 18.2.
+The Width is 2.5.
+The Height is 5.65.
+The Main Rotor Diameter is 21.3.
+The Tail Rotor Diameter is 3.9.
+The Cargo Compartment, Length is 5.3.
+The Cargo Compartment, Width is 2.3.
+The Cargo Compartment, Height is 1.8.
+The Weight, Maximum Gross is 13,000.
+The Weight, Normal Takeoff is 11,100.
+The Weight, Empty is 7,489.
+
+Here is Automotive information for the Mi-171 Russian Medium Transport Helicopter:
+The Engine Name is 2 x TV3-117VM Engines.
+The Engine Type is Medium twin-turbine.
+The Engine Power is 2,070 shaft hp each.
+The Fuel, Internal is 445 liters.
+The Fuel, Internal Aux Tank is 915 liters ea.
+The Fuel, External Fuel Tank is 45 liters in port tank,
+680 liters in starboard tank.
+The Speed, Maximum is 250.
+The Speed, Average is 240.
+The Range, Maximum Load is 350.
+The Service Ceiling is 4,500.
+The Range, Normal Load is 460.
+The Range, with Auxilery Fuel is 950.
+The Service Ceiling, Service is 6,000.
+The Service Ceiling,Hover (out of ground effect) is 830.
+The Service Ceiling,Hover (in ground effect) is 1,900.
+The Vertical Climb Rate is 9.
+The Standard Payload is 24 troops, or 3,000 kg internal or external loads on 4x hardpoints..
+
+Here is Communications information for the Mi-171 Russian Medium Transport Helicopter:
+The Radio is INA.
+
+Here is Door Mounted Gun information for the Mi-171 Russian Medium Transport Helicopter:
+The Note is Loaded combat troops can fire personal weapons through windows from inside cabin..
+
+Here is Rocket System information for the Mi-171 Russian Medium Transport Helicopter of the Wing Mounted Weapons:
+The Name is UB-32 (rocket pod).
+The Type is 57 mm, reusable, 32-salvo rocket pod.
+The Length, Launcher is 2,080.
+The Diameter, Launcher is 464.
+The Basic Load for the UB-32 Rocket Pod is 4 ea, one on each hardpoint.
+The Number of Rockets in each UB-32 Rocket Pod is 32.
+
+Here is Rocket information for the Mi-171 Russian Medium Transport Helicopter of the Wing Mounted Weapons:
+The Name is S-5 Rockets.
+The Type is Rocket.
+The Length, Rocket is 2,080.
+The Diameter, Rocket is 481.
+The Weight Empty is 103.
+The Weight Loaded is 264.
+The Warhead Types is produced in a variety of sub-types with different warheads, including HEAT anti-armour (S-5K), high-explosive fragmentation (S-5M/MO), smoke, and incendiary rounds.
+The Maximum Effective Range is 3-4 km depending on the warhead and fuze.
+The Basic Load is 32 x S-5 Rockets per UB-32 Rocket Pod.
+
+Here is Fire Control information for the Mi-171 Russian Medium Transport Helicopter:
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Digital or Analog Cockpit is INA.
+The Direct Fire Control is Yes.
+The Laser Designator is INA.
+The Automated Helmet is INA.
+The Position Location System is Yes.
+The Weather Radar is 1 x Type 8A-813.
+The Navigation is 1 x DISS-32-90 Doppler navigation under tailboom.
+
+Here is Protection information for the Mi-171 Russian Medium Transport Helicopter:
+The Armor Type is Bolt-on.
+The Fuselage is semi-monocoque pod and boom fuselage has a nearly stepless front.
+The Cockpit Glass is large, five-section windshield and lower nose windows.
+The Stealth Properties is No.
+The Heat Signature Reduction is IR over engine exhausts.
+The Add on Armor is Available.
+The NBC Protection is Yes.
+The EW is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is Yes,ASO-3 and ASO-2 chaff/flare countermeasures system.
+The Jammer is 1 x Hot Brick IR.
+

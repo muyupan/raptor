@@ -1,0 +1,81 @@
+This document describes the Nerehta Russian Armed Unmanned Ground Vehicle (AUGV).
+
+The "Nerehta" UGV / AUGV (Armed, Unmanned Ground Vehicle) is 
+a remote-operator-driven, tracked battlefield infantry support vehicle. UGVs have been featured in recent Russian war games and many sources credit Russia with being in the lead in UGV technology in the world.  
+The vehicle is manufactured by the Degtyarev Plant of Russia and was first demonstrated in 2016. Testing of the product ensued in 2017 by Russian ground forces. It was further demonstrated by the Army in  2018.
+
+The vehicle has a compact form with an overall length of 2.5 meters, a width of 1.6 meters and a height of 90 centimeters. Its weight reaches 1,700 kilograms while its payload capacity is set around 700 kilograms. There are four double-tired road wheels to a hull side with the drive fitted aft and the track idler at front. Two track return rollers are used. Over the center of the hull roof is a trainable, traversing, weapons mount which carries a single (optional) 12.7mm Kord Heavy Machine Gun (HMG), Kalashnikov 7.62mm Medium Machine Gun (MMG) or 30mm AG-30M Automatic Grenade Launcher (AGL). When used in the transport role, this fitting is removed to make space for externally-mounted cargo to include personnel.  The Nerehta can also be used for CASEVAC. An operator is required for the proper battlefield function of this system and range of the remote-control is approximately 20,000 meters (extendable by way of mast assembly). Drive power is provided for by electric motors.
+
+The Nerehta has been developed to take on a multitude of modern battlefield roles including general reconnaissance, artillery spotting/support, cargo transportation, and basic infantry fire support. its compact size certainly makes a good fit for lighter-armed elements such as airborne units and will most likely be a part of Russian Airborne in the near-future. The UGV can also serve Army elements in urban fighting rather well.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Nerehta Russian Armed Unmanned Ground Vehicle (AUGV):
+The Alternative Designation is NA.
+The Family is Unmanned, Armed Ground Vehicle.
+The Crew is 0.
+The Passenger Capacity is Number of passengers has not been published however, it is advertised that the Nerekhta can carry passengers and litters.
+The Maximum Effective Range is Depends on weapon system.
+The Range Between System and Operator is 20km; extendable with the addition of a mast.
+
+Here is Dimensions information for the Nerehta Russian Armed Unmanned Ground Vehicle (AUGV):
+The Length is 2.5.
+The Width is 1.6.
+The Height is 900.
+The Weight, Combat is 1,700.
+The Ground Pressure is INA.
+
+Here is Automotive information for the Nerehta Russian Armed Unmanned Ground Vehicle (AUGV):
+The Engine Name is INA.
+The Engine Type is 1 x Electric motor arrangement with track-and-wheel configuration.
+The Engine Power is INA.
+The Cruising Range is 20.
+The Speed, Maximum is 32.
+The Fording Depth is INA.
+The Payload is 700kg.
+
+Here is System information for the Nerehta Russian Armed Unmanned Ground Vehicle (AUGV) of the Armament Option 1:
+The Name is Kord Heavy Machine Gun (HMG).
+The Type is Heavy Machine Gun.
+The Max Rate of Fire is 650.
+The Sustain Rate of Fire is 600.
+
+Here is Ammunition information for the Nerehta Russian Armed Unmanned Ground Vehicle (AUGV) of the Armament Option 1:
+The Type is AP-I.
+The Caliber is 12.7.
+The Muzzle Velocity is 860.
+The Basic Load is Estimated: 300.
+The Effective Range is 2,000.
+
+Here is System information for the Nerehta Russian Armed Unmanned Ground Vehicle (AUGV) of the Armament Option 2:
+The Name is Kalashnikov Medium Machine Gun (MMG).
+The Type is Medium Machine Gun.
+The Max Rate of Fire is 650.
+The Sustain Rate of Fire is 500.
+
+Here is Ammunition information for the Nerehta Russian Armed Unmanned Ground Vehicle (AUGV) of the Armament Option 2:
+The Type is Ball.
+The Caliber is 7.62mm.
+The Muzzle Velocity is 825.
+The Basic Load is Estimated 1,500 rounds.
+The Effective Range is 1,500.
+
+Here is System information for the Nerehta Russian Armed Unmanned Ground Vehicle (AUGV) of the Armament Option 3:
+The Name is AG-30M.
+The Type is Automatic Grenade Launcher (AGL)).
+The Max Rate of Fire is 400.
+The Sustain Rate of Fire is INA.
+
+Here is Ammunition information for the Nerehta Russian Armed Unmanned Ground Vehicle (AUGV) of the Armament Option 3:
+The Type is Anti-Personnel.
+The Caliber is 30mm.
+The Muzzle Velocity is 185.
+The Basic Load is INA.
+The Effective Range is 2,100.
+
+Here is Fire Control information for the Nerehta Russian Armed Unmanned Ground Vehicle (AUGV):
+The Note is INA.
+
+Here is Protection information for the Nerehta Russian Armed Unmanned Ground Vehicle (AUGV):
+The Note is None.
+

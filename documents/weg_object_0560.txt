@@ -1,0 +1,61 @@
+This document describes the Model 56 Italian 105mm Towed Howitzer.
+
+The OTO-Melara Mod 56 is an Italian-made 105 mm pack howitzer built and developed by OTO-Melara. It fires the standard US type M1 ammunition. The capability of this weapon to be "knocked-down" allows the sections to be transported a number of ways although the original design was for mule-pack using special pack saddles. More often it is towed by a light vehicle such as a jeep or Land Rover, and with the shield removed it can be carried inside an M113 APC. However, its particular attraction to Western armies in the 1960s was that its light weight meant it could be lifted in one piece by helicopter, which made the gun popular with light artillery units in many countries as well as the more specialized mountain and airborne troops. Overall, the Mod 56 has served in more than 30 countries worldwide, of which a partial listing of the major operators is listed below.
+
+As an added refinement to the gun's mass, the Mod 56 is built to be an artillery piece with a reputation of ease with which it can be assembled and then disassembled into twelve components within minutes. The gun's light weight did have a drawback, however: it lacked the robustness necessary for sustained operations, Australian and New Zealand gunners in Vietnam found the weapon unsuitable for continuous operations. The guns in Vietnam were replaced by the sturdy US-made M101A1 after some two years. This lack of durability also led to their being carried on trucks for longer distances outside the combat zone. The Mod 56 offered limited protection to its crew.
+
+This equipment has proliferated into the following countries: Argentina, Bangladesh, Botswana, Brazil, Chile, Cyprus, India, Kenya, Nepal, Nigeria, Pakistan, Peru, Philippines, Portugal, Spain, Venezuela (Bolivarian Republic of), Zambia.
+
+Here is System information for the Model 56 Italian 105mm Towed Howitzer:
+The Alternative Designation is Model 56.
+The Type is Towed Howitzer.
+The Caliber is 105 mm.
+The Manufacturer is Oto Melara, La Spezia, Italy.
+The Crew is 7.
+The Trail Type is split; each leg can have 2 or 3 folding sections.
+The Bore is 105-mm/14-cal, rifled.
+The Breach Type is vertical sliding wedge.
+The Recoil System is hydraulic buffer with helical spring recuperators.
+The Elevation is -5 deg to 65 deg (-89 mils to 1,156 mils).
+The Traverse is 18 deg (320 mils) to each side.
+The Rate of Fire, 1st 30 min is 4 rds/min.
+The Rate of Fire, 1st 30 min is 3 rds/min.
+The Rate of Fire, Anti-Tank Rounds is 8 rds/min.
+The Emplacement Time is less than two minutes.
+The Displacement Time is less than two minutes.
+
+Here is Dimensions information for the Model 56 Italian 105mm Towed Howitzer:
+The Length, Firing is 4.80 m.
+The Length, Traveling is 3.65 m.
+The Width, Firing is 2.90 m.
+The Width, Traveling is 1.50 m.
+The Height Firing is 1.93 m.
+The Height, Traveling is 1.93 m.
+The Length of Barrel with Muzzle Brake is 1.72 m.
+The Length of Barrel without Muzzle Brake is 1.48 m.
+The Weight, Traveling and Firing is 1,290 kg.
+
+Here is Ammunition (Option 1) information for the Model 56 Italian 105mm Towed Howitzer of the Ammunition:
+The Name is M413.
+The Type is HE.
+The Caliber is 90 mm.
+The Length is 788 mm.
+The Weight is 19.05 kg.
+The Maximum Range is 10,575 m.
+
+Here is Ammunition (Option 2) information for the Model 56 Italian 105mm Towed Howitzer of the Ammunition:
+The Name is M67.
+The Type is HEAT.
+The Caliber is 90 mm.
+The Length is 788 mm.
+The Weight is 16.7 kg.
+The Maximum Range is 10,575 m.
+
+Here is Ammunition (Option 3) information for the Model 56 Italian 105mm Towed Howitzer of the Ammunition:
+The Name is M60 WP.
+The Type is HD.
+The Caliber is 90 mm.
+The Length is 790 mm.
+The Weight is 19.46 kg.
+The Maximum Range is 13,000 m.
+

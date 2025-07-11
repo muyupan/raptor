@@ -1,0 +1,48 @@
+This document describes the BJ2020 Chinese 4x4 Light Utility Vehicle.
+
+The BJ2020 Chinese 4x4 Light Utility Vehicle is the updated version of the BJ-212.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the BJ2020 Chinese 4x4 Light Utility Vehicle:
+The BJ2020SJ is A baseline 4-door variant..
+The BJ2020SA is A 2-door versions with a longer body..
+The BJ2020SAJ is A 2-door versions with a longer body..
+The BJ2032 is Radar carrier..
+The BY5020TSL is Amphibious version..
+The BY5032 is Amphibious version..
+
+Here is System information for the BJ2020 Chinese 4x4 Light Utility Vehicle:
+The Alternative Designation is BJ2020.
+The Type is Light Utility Vehicle.
+The Manufacturer is Beijing Automobile Works.
+The Configuration is 4x4.
+The Crew is 1.
+The Passengers is 4.
+The Payload Capacity is 500 kg.
+
+Here is Dimensions information for the BJ2020 Chinese 4x4 Light Utility Vehicle:
+The Length is 3.86 m.
+The Width is 1.81 m.
+The Height is 1.91 m.
+The Weight, Combat is 1,190 kg.
+
+Here is Automotive information for the BJ2020 Chinese 4x4 Light Utility Vehicle:
+The Engine Name is INA.
+The Engine Type is Gas.
+The Engine Power is 85.
+The Maximum Range is 500 km.
+The Maximum Speed is 100 km/h.
+The Amphibious is No.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Step is 0.4 m.
+The Trench is 0.4 m.
+The Fording is 0.5 m.
+
+Here is Protection information for the BJ2020 Chinese 4x4 Light Utility Vehicle:
+The Armor is None.
+The Applique Armor is INA.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

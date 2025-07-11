@@ -1,0 +1,76 @@
+This document describes the Type 90A Chinese 122mm Multiple Rocket Launcher (MRL).
+
+The Type 90A is an upgrade of the Type 90. The 40-round launcher is mounted on a Tienna XC2200 6×6 truck, has improved fire control, and a battery may be remotely controlled by a command vehicle. It is manufactured by Norinco
+
+This equipment has proliferated into the following countries: China, Oman, Peru, United Arab Emirates.
+
+Here is Variants information for the Type 90A Chinese 122mm Multiple Rocket Launcher (MRL):
+The Type 90 is The Type 90 mounts a 40-round launcher on a Tiema SC2030 6X6 truck. The truck also carries a reload pack of 40 additional rockets; the launcher to be reloaded within 3 minutes..
+The Type 90B is This is the latest variant of the system. The Type 90B system features a reconnaissance vehicle, as well as mobility and reliability improvements. Emplacement and displacement time is seven minutes.
+A standard Type 90B battalion would consist of three WZ 551 6 x 6 reconnaissance vehicles; battalion command vehicle based on a Mercedes-Benz 4 x 4 chassis; meteorological radar on two Steyr 4 x 4 vehicles; two Steyr 4 x 4 maintenance vehicles, one for mechanical and one for electronic maintenance; and three missile batteries..
+
+Here is System information for the Type 90A Chinese 122mm Multiple Rocket Launcher (MRL):
+The Alternative Designation is Type 90A.
+The Type is Multiple Launch Rocket System.
+The Caliber is 122mm.
+The Chassis is Modified Mercedes-Benz 6 x 6 chassis, designated Tienna CX 2200.
+The Crew is INA.
+The Displacement Time is Less than 7 min.
+The Emplacement Time is Less than 7 min.
+The Type 90A Battalion comprises is A typical Type 90A battalion consists of a 6 x 6 battalion command vehicle, three 4 x 4 forward observation post vehicles and three missile batteries. Each battery consists of a command vehicle, six rocket launchers, six resupply vehicles and a maintenance vehicle..
+The Note is The command post vehicle can control a number of Type 90A systems by remote control..
+
+Here is Dimensions information for the Type 90A Chinese 122mm Multiple Rocket Launcher (MRL):
+The Length, Traveling is 9.84 m.
+The Width, Traveling is 2.50 m.
+The Height, Traveling is 3.25 m.
+The Weight, Combat is 20,000 kg.
+The Ground Clearance is 0.41 m.
+
+Here is Automotive information for the Type 90A Chinese 122mm Multiple Rocket Launcher (MRL):
+The Engine Name is INA.
+The Engine Type is Air-Cooled Diesel.
+The Engine Power is 300.
+The Cruising Range is 600.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is 0.90 m.
+The Turning Radius is 12.00 m.
+
+Here is Launcher information for the Type 90A Chinese 122mm Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Name is INA.
+The Type is The electrically powered launcher has four rows of 10 tubes mounted above each other on a rotating cradle assembly..
+The Elevation is 0% to +55%.
+The Traverse is +/-102 deg.
+The Azimuth Range is -102% to +1-2%.
+The Stabilizers is The truck is equipped with two hydraulically operated stabilizers at rear which are lowered in preparation for the rocket launch..
+The Modes is The rocket launcher can be operated in manual, semi-automatic, or automatic modes. The electrical firing system fires the rockets in either single or in salvo with 0.5 seconds interval..
+The Operation is The launcher can be operated inside the driver's cab or remotely outside the vehicle..
+The Rate of Fire is 40 rds in 18-20 sec.
+The Reloading Rack is The reloading rack located in front of the launcher can load the launcher in under 3 minutes..
+The Cover is The truck is equipped with a hydraulically operated foldable canvas cover, which covers the launcher and the reloading rack when the truck is in travelling mode..
+The Note is The vehicle is fitted with slope and gradient sensors, launcher elevation and and azimuth sensors, as well as GPS and computerised fire control system to ensure higher firing accuracy..
+
+Here is Missile information for the Type 90A Chinese 122mm Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Rocket Type is The free rocket used by the WS-1 and WS-1B consists of the warhead and fuse, an FG-42/43 rocket motor and the tail section. The FG-42/43 rocket motor is a single chamber, solid rocket motor with an advanced hydroxy-terminated polybutadine (HTPB) composition rocket propellant. The rocket of the WS-2 system features four control surfaces in the middle section of the rocket for terminal guidance..
+The Warhead Type is The rocket can be fitted with various types of warheads including anti-armor/personnel submunition, blasting, fuel air explosive (FAE), and high-explosive (HE). The ZDB-2 blasting warhead is loaded with steel balls and prefabricated fragments. The SZB-1 submunition warhead is designed to destroy large area targets such as armour formation and infantry troops. When the SZB-1 submunition warhead detonates, around 500 bullets are expelled under high pressure..
+The Maximum Range is 40 km.
+The Basic Load is 40 Rounds.
+
+Here is Fire Control information for the Type 90A Chinese 122mm Multiple Rocket Launcher (MRL):
+The Name is INA.
+The Computerized FCS is Yes, The launcher is controlled by computer through a man-machine interface. Another interface connects to a battalion central command system. Instructions can be input directly from the interface or manually through push-buttons..
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Position Location System is Yes.
+The Automatic Operating and Laying System is The automatic operating and laying system consists of five main subsystems: an HJ-1 mini-computer; launcher direction-finder (which requires less than 3 sec to display the launcher's magnetic azimuth angle); longitudinal and transversal slope sensors; launcher assembly elevation and traverse positi on sensors; and a special vehicle power supply interface unit..
+
+Here is Protection information for the Type 90A Chinese 122mm Multiple Rocket Launcher (MRL):
+The Hull Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

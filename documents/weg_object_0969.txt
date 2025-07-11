@@ -1,0 +1,123 @@
+This document describes the Su-34 (Fullback) Russian Fighter-Bomber Aircraft.
+
+The Sukhoi Su-34 (Russian: Сухой Су-34; NATO reporting name: Fullback) is a Soviet-origin Russian twin-engine, twin-seat, all-weather supersonic medium-range fighter-bomber/strike aircraft. It first flew in 1990, intended for the Soviet Air Forces, and it entered service in 2014 with the Russian Air Force.
+
+Based on the Sukhoi Su-27 Flanker air superiority fighter, the Su-34 has an armored cockpit for side-by-side seating of its two-person crew. The Su-34 is designed primarily for tactical deployment against ground and naval targets (tactical bombing/attack/interdiction roles, including against small and mobile targets) on solo and group missions in the daytime and at night, under favorable and adverse weather conditions and in a hostile environment with counter-fire and Electronic Warfare (EW) counter-measures deployed, as well as for aerial reconnaissance. The Su-34 will eventually replace the Su-24 tactical strike fighter and the Tu-22M3 long-distance bomber.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation.
+
+Here is Variants information for the Su-34 (Fullback) Russian Fighter-Bomber Aircraft:
+The Su-27IB fighter-bomber is This is the Russian air force designation. "IB" stands for fighter-bomber (istrebitel bombardisovshchik)..
+The Su-27IBP fighter-bomber is This was a tactical jammer design proposed for replacing the Yak-28PP and Su-24MP..
+The Su-32FN maritime strike is Originally intended as a naval aviation version, it is available for export as a maritime strike version. It includes the Sea Snake radar, anti-submarine warfare systems, radio sonobuoy system and a magnetic anomaly detector..
+The Su-34 reconnaissance is A variant being developed to replace the Su-24 Fencer-E. Plans call for the simultaneous use of side-looking radar, photo reconnaissance equipment, laser equipment, television, infrared and radio intelligence systems..
+The Su-34 electronic warfare/Su-32 escort jammer is A variant under development to replace the Su-24 Fencer-F. It may be able to carry four podded jamming devices and two anti-radiation missiles..
+
+Here is System information for the Su-34 (Fullback) Russian Fighter-Bomber Aircraft:
+The Alternate Designation(s) is Su-34; NATO: Fullback; Su-32.
+The Type is FIghter-Bomber Aircraft.
+The Manufacturer is Sukhoi, NAPO.
+The Crew is 2 (pilot, weapons officer).
+The Number of Engines is 2.
+The Number of Hard Points is 12 × on wing and fuselage with a capacity of 8,000 kg.
+
+Here is Dimensions information for the Su-34 (Fullback) Russian Fighter-Bomber Aircraft:
+The Length, without Probe is 23.34 m.
+The Length, with Probe is 24.80 m.
+The Wingspan is 14.70 m.
+The Wing Area is 62.00 m sq.
+The Height is 6.08 m.
+The Wheelbase is 6.60 m.
+The Wheel Track is 4.40 m.
+The Canard Span is 6.40 m.
+The Maximum Takeoff Weight is 44,100 kg.
+The Normal Takeoff Weight is 39,000 kg.
+The Maximum Weapons Load is 8,000 kg.
+
+Here is Automotive information for the Su-34 (Fullback) Russian Fighter-Bomber Aircraft:
+The Engine Name is 2 x Saturn AL-35F.
+The Engine Type is Turbofan.
+The Engine Power is 137.3 kN thrust each.
+The Internal Fuel Capacity is 1,500 kg.
+The Maximum Speed is 1,900 kph.
+The Service Ceiling is 14,000 m.
+The Rate of Climb is 13,800 m/min.
+The Takeoff Roll is 1,260 m.
+The Landing Roll is 1,100 m.
+The Ferry Range is 4,500 km.
+
+Here is System information for the Su-34 (Fullback) Russian Fighter-Bomber Aircraft of the Main Gun System:
+The Name is 1 x 30-mm GSh-301 single-barrel.
+The Type is Autocannon.
+The Caliber is 30mm.
+The Length is 1,978 mm.
+The Barrel Length is 1,500 mm.
+The Weight is 46 kg.
+The Action is Short recoil operated.
+The Rate of Fire is 1,500–1,800 rounds/min.
+The Muzzle Velocity is 900 m/s.
+The Maximum Firing Range is 1,800 m.
+The Effective Firing Range is 200-1,800 m.
+
+Here is Ammunition information for the Su-34 (Fullback) Russian Fighter-Bomber Aircraft of the Main Gun System:
+The Type is Rifle.
+The Caliber is 30mm.
+The Shell is 30×165mm.
+The Basic Load is 120 Rounds.
+
+Here is Main Missile Systems information for the Su-34 (Fullback) Russian Fighter-Bomber Aircraft:
+The Air-to-Air Missiles is 2 × R-27R/ER/T/ET;
+2 × R-73;
+2 × R-77.
+The Air-to-Surface Missiles is Kh-29L/T/D;
+Kh-38MAE/MKE/MLE/MTE;
+Kh-25ML/MT;
+Kh-59ME/MK/MK2;
+Kh-58.
+The Anti-Ship Missiles is Kh-31A/AD;
+Kh-35U;
+P-800 Oniks;
+Kh-41.
+The Anti-Radiation Missiles is Kh-25MP;
+Kh-58;
+Kh-31P/PD.
+The Cruise Missiles is Kh-36;
+Kh-65S/SE;
+Kh-SD.
+
+Here is Rocket Weapon Systems information for the Su-34 (Fullback) Russian Fighter-Bomber Aircraft:
+The Note is B-8 rocket pods for 20 × S-8KOM/OM/BM;
+B-13 rocket pods for 5 × S-13T/OF;
+O-25 rocket pods for 1 × S-25OFM-PU; S-80FP.
+
+Here is Bomb Weapon Systems information for the Su-34 (Fullback) Russian Fighter-Bomber Aircraft:
+The Note is KAB-500KR TV-guided bomb;
+KAB-500L laser-guided bomb;
+KAB-500OD guided bomb;
+KAB-500S-E satellite-guided bomb;
+KAB-1500KR TV-guided bomb;
+KAB-1500L laser-guided bomb;
+OFAB-250-270 bomb;
+OFAB-100-120 bomb;
+FAB-500T general-purpose bomb;
+2 × BETAB-500SHP;
+P-50T bomb;
+ODAB-500PM bomb;
+RBK-500 cluster bomb;
+SPBE-D bomb.
+
+Here is Fire Control / Avionics information for the Su-34 (Fullback) Russian Fighter-Bomber Aircraft:
+The Fire Control System Type is The Su-34 is equipped with an electro-optical fire control system, supplied by the Urals Optical and Mechanical Plant (YOM3).
+The Radar is Leninets B004 multifunction phased-array radar; rearward-facing radar in tailcone.
+The Instruments is color CRT, multifunction displays and helmet-mounted sights.
+The Mission Planning is built-in UOMZ EO IRST sighting system with TV and laser channels.
+The FLIR Pod is Geofizika FLIR pod.
+
+Here is Protection information for the Su-34 (Fullback) Russian Fighter-Bomber Aircraft:
+The Cockpit is The cockpit has two K-36DM zero/zero ejection seats side-by-side for the pilot and co-pilot. The seats are supplied by Zvesda Research and Production Enterprise Joint Stock Company, Moscow. The multifunction displays in the cockpit show the flight parameters, the operational status of the aircraft units, and tactical data..
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The NBC Protection is INA.
+The EW Counter Measures is TsNIRTI electronic warfare system.
+The Chaffs/Flares is Yes.
+

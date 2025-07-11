@@ -1,0 +1,99 @@
+This document describes the Piranha III Swiss 8x8 Amphibious Armored Personnel Carrier (APC).
+
+The Piranha III 8 x 8 has a lightweight hull design, greater variable ballistic protection, more space inside and a higher payload capacity than other versions of the Piranha family of APCs (see "Variants," below). Certain features of the 8 x 8 version are identical with other vehicles in the series, including a power pack on the front right-hand side, central driveline system, independent wheel suspension, amphibious capability and room in the rear of the vehicle for weapon stations, equipment and troops.
+
+This equipment has proliferated into the following countries: Botswana, Denmark, Ireland, New Zealand, Oman, Qatar, Saudi Arabia, Spain, Switzerland.
+
+Here is Variants information for the Piranha III Swiss 8x8 Amphibious Armored Personnel Carrier (APC):
+The Piranha (6 x 6) is INA.
+The Piranha III (8 x 8) is INA.
+The Piranha IV is This variant ioncludes an upgraded MTU 544-hp powerplant with an increased power-to-weight ratio and maximum speed of 62 mph (100 km/hr) and 465.7-mi (750-km) road range..
+
+Here is System information for the Piranha III Swiss 8x8 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is Piranha III.
+The Type is 8x8 Amphibious Armored Personnel Carrier (APC).
+The Manufacturer is MOWAG.
+The Family is Piranha.
+The Crew is 1-2.
+The Passenger Capacity is 10.
+
+Here is Dimensions information for the Piranha III Swiss 8x8 Amphibious Armored Personnel Carrier (APC):
+The Length is 6.93 m.
+The Width is 2.66 m.
+The Height is 2.15 m.
+The Ground Clearance is 0.60 m.
+The Combat Weight is 18,500 kg.
+The Operation  Weight is 13,000 kg.
+The Payload is 5,500 kg.
+
+Here is Automotive information for the Piranha III Swiss 8x8 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is 1 x MTU 6V183TE22.
+The Engine Type is V6 turbocharged.
+The Engine Power is 400 hp at 2,200 rpm.
+The Fuel Capacity is 300 liters.
+The Transmission is ZF 7HP600 automatic gearbox with 7 forward gears, 1 reverse gear.
+The Range is 600 km.
+The Speed, Maximum Road is 100.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 10.
+The Vertical Obstacle is 0.50 m.
+The Fording is Amphibious.
+The Gradient is 60%.
+The Slope is 30%.
+
+Here is System information for the Piranha III Swiss 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Gun:
+The Name is 1 x 25-mm M242.
+The Type is Chain Gun.
+The Caliber is 25.
+The Quantity is 1 x 25-mm M242.
+The Length is 2.58 m.
+The Width is 318 mm.
+The Height is 373 mm.
+The Weight is 119 kg.
+The Range is 2,000 m.
+The Muzzle Velocity is 1,345 mps.
+The Rate of Fire is 100, 200, or 500 rpm, cyclic.
+
+Here is Ammunition information for the Piranha III Swiss 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Gun:
+The Type is Rifle.
+The Caliber is 25.
+The Cartridge is INA.
+The Basic Load is 240 Rounds.
+
+Here is System information for the Piranha III Swiss 8x8 Amphibious Armored Personnel Carrier (APC) of the Auxiliary Weapon System:
+The Name is 1 x 7.62-mm co-axial M240 machine gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Length is 1,260 mm.
+The Barrel Length is 630 mm.
+The Width is 120 mm.
+The Height is 260 mm.
+The Weight is 12.5 kg.
+The Action is Gas-operated long-stroke piston, open bolt.
+The Rate of Fire is 650–750 RPM.
+The Muzzle Velocity is 853 m/s.
+The Maximum Firing Range is 3,725 m.
+The Effective Firing Range is 1,100 m.
+The Feed System is Belt-fed using M13 disintegrating links.
+The Sights is Iron sights: front blade and folding rear leaf with aperture and notch.
+
+Here is Ammunition information for the Piranha III Swiss 8x8 Amphibious Armored Personnel Carrier (APC) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is 400 Rounds.
+
+Here is Fire Control information for the Piranha III Swiss 8x8 Amphibious Armored Personnel Carrier (APC):
+The FCS Name is INA.
+The Computer FCS is INA.
+
+Here is Protection information for the Piranha III Swiss 8x8 Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is Quick-mount selection, including defense against RPG, IED, NBC.
+The Turret Armor is INA.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, 8 x 76-mm smoke/fragmentation grenade launchers.
+

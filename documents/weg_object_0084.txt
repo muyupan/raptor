@@ -1,0 +1,58 @@
+This document describes the JY-9 Wall Eye Chinese Mobile Low-Altitude Search Radar.
+
+The JY-9 Radar is a mobile S-band low altitude search radar intended for use in air defense, gap filling, airport surveillance and coastal defense. It is designed for effective detection of targets at low altitude in both ECM and natural clutter environments. The general designer of JY-9 is the head of 38th Research Institute, academician of Chinese Academy of Sciences Mr. Wu Manqing (吴曼青, Aug 1965 -), who is also the general designer of JY-8 and the general designer of the radar systems for KJ-2000 and KJ-200.
+
+It consist of a radar/operations shelter, an antenna pallet and a power station shelter and is transportable by air, rail, and sea. It has a setup and dismantle time of 90 minutes by a team of 8 men.
+
+The JY-9 employs a dual-beam antenna assembly consisting of a deformed parabolic reflector, two horns and two feed channels. One channel is used for transmit, but both are used for receive. The antenna rotates at 6 or 12 rpm to provide all round coverage and can be mounted on a shelter or on the ground.
+
+The JY-9 has high anti-jamming and anti-clutter capability due to the use of advanced techniques, including pulse to pulse frequency agility, dual channel, JATS, wide operating band, low sidelobes, MTD automatic spectrum processing, automatic clutter map and automatic residue map. The mean time between failures is better than 900 hours with Built-in test equipment (BITE).
+
+The JY-9F three-dimensional low-altitude surveillance radar, is a new derivation of the JY-9 low-altitude radar. It is a fully coherent pulse-compression radar with a high reliability and mobility and can provide low-flying target information for national air defence information networks or for AAA or air traffic control systems. 
+
+The JY-9F consists of an antenna assembly, an operations shelter, a trailer-installed shelter housing two diesel generators and an optional trailer-installed shelter. The antenna can be folded down or erected by a motor-driven mechanism and the assembling and disassembling of the system can be accomplished by a crew of eight men within one hour. This advanced radar incorporates the state-of-the-art techniques. The excellent low sidelobe antenna employed in the system has greatly enhanced the radar's anti-clutter capability and ECCM performance, giving improved low-altitude detection performance. Three AMTI processing channels are used, each equipped to handle a particular environmental condition, thereby providing maximum low-altitude target detection. The wideband and highly stable TWT+CFA transmitter guarantees a super-clutter visibility in excess of 40 dB in the presence of ground clutter. The quadriphase Taylor code ensures a desirable consistency, high reliability and high stability. Meanwhile, the waveform agility can be realised. The JY-9F radar is characterised by high reliability and maintainability with an MTBF of more than 400 hours and MTTR of less than 30 minutes. Due to extensive BITE adopted in the system, troubleshooting probability reaches 95 per cent while 85 per cent of faults can be isolated to PCB level and all faults can be isolated to the replaceable unit level.
+
+
+The system is manufactured by the East China Research Institute of Electronic Engineering(ECRIEE)/No.38 Research Institute.
+
+This equipment has proliferated into the following countries: China, Egypt, Zimbabwe.
+
+Here is System information for the JY-9 Wall Eye Chinese Mobile Low-Altitude Search Radar:
+The Alternative Designation is Jy-9 Wall Eye.
+The Type is Mobile Low-Altitude Search Radar.
+The Manufacturer is The system is manufactured by the East China Research Institute of Electronic Engineering(ECRIEE)/No.38 Research Institute..
+The Crew is 4.
+The Band is S (2-4 GHz).
+The Vertical Beamwidth is 40.0 deg.
+The Horizontal Beamwidth is 1.3 deg.
+The Dynamic Range is 120 dB.
+The Maximum Range is 150 km.
+The Altitude is 10,000 m.
+The Scan Rate is 6 rpm or 12 rpm.
+The Peak Power Output is 200.0 kW.
+The Average Power OUtput is 3.4 kW.
+The Emplacement is Less than 20 min.
+The Displacement is Less than 20 min.
+The Coverage, Azimuth is 360 deg.
+The Coverage, Elevation is 0 deg to 40 deg.
+The Maximum Resolution Range is 240 m.
+The Minimum Resolution Range is 120 m.
+The Azimuth is 1.3 deg.
+The Antenna Gain is 34.4 dB.
+The Detection Accuracy, Range is 80 m.
+The Detection Accuracy, Azimuth is 0.4 deg.
+The Detection Accuracy, Sensitivity is 55 dBm.
+The Detection Accuracy, Noise Figure is 3.0 dB.
+The Detection Accuracy, Clutter Rejection is 50.0 dB.
+The Tracking is 1,000 plots; 72 tracks.
+The Pulsewidth is 20 microsec.
+The Pulse Repetition Frequency is 790 Hz.
+The Mean Time Before Failure is >400 hours.
+The Mean Time to Repair is <30 min.
+
+Here is Dimensions information for the JY-9 Wall Eye Chinese Mobile Low-Altitude Search Radar:
+The Length is 12.
+The Width is 12.
+The Antenna Height is 12.
+The Weight, Combat is INA.
+

@@ -1,0 +1,65 @@
+This document describes the HJ-9 (Red Arrow 9) Chinese Anti-Tank Guided Missile (ATGM).
+
+The HJ-9 (Red Arrow 9) Chinese Anti-Tank Guided Missile (ATGM) System is an advanced, third-generation anti-tank missile system deployed by the People's Liberation Army.
+
+The missile was developed by China North Industries Corporation (Norinco), and one of the chief designers was Yang Chunming. It is similar in appearance to the Israeli MAPATS (man-portable anti-tank system), causing speculation about the link between the two missiles. It is also similar to the South African ZT3 Ingwe anti-tank missile. Like the MAPATS and ZT3, the HJ-9 is guided by laser beam riding.
+
+The HJ-9 has a maximum range of 5.5 km (3.4 mi) and a minimum range of 100 m (110 yds). Claimed armor penetration is 1,200mm, which is greater than that of the HJ-8. The missile may be fitted with high-explosive or thermal effect warheads for use against non-armored point targets, bunkers, and fortifications. Like the HJ-8, the HJ-9 utilizes a disposable container/launching tube, but the one for HJ-9 is heavier, weighing 37 kg (82 lb) because HJ-9 is larger than HJ-8. The diameter of the HJ-9 is 152 mm (6.0 in) and the missile is compatible with a variety of thermal imaging sights.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the HJ-9 (Red Arrow 9) Chinese Anti-Tank Guided Missile (ATGM):
+The HJ-9  or HJ-9A (Mounted) is Red Arrow Mounted on a WZ551 Type 92B 4x4 tactical vehicle or mounted on a NJ2046 4x4 tactical vehicle..
+The HJ-9A is Red Arrow Semi-active millimeter wave radar guidance..
+The HJ-9 / HJ-9B is This is the baseline variant, and is equipped with a tandem high-explosive anti-tank (HEAT) warhead and a laser beam-riding guidance system. This variant has in some sources also been referred to as the Red Arrow 9B, which is thought to have arisen from a designation change by the manufacturer, which may have referred to the variant as 9B initially. Laser beam riding variant.
+
+Here is System information for the HJ-9 (Red Arrow 9) Chinese Anti-Tank Guided Missile (ATGM):
+The Alternative Designation is HJ-9, Hongjian-9, HJ-9B, Red Arrow 9B.
+The Type is Anti-Tank Guided Missile (ATGM).
+The Manufacturer is NORINCO.
+The Family is 3rd Generation Anti-Tank Missile System deployed by the PLA.
+The Launching Tube Type is Disposable Container/Launching Tube.
+The Control System is The control system is semi-automatic, with TV equipment to accompany the rocket and transfer control commands by laser beam. The laser transmitter operates in the range of 0.9 μm and has a range of up to 5.5 μm. The control system of the complex is built on digital technologies using modern element base. For operation at night and in the conditions of limited visibility, the control system is equipped with a thermal sight operating in the range of 8-12 µm and providing target detection at a range of up to 4 km and their identification at a range of 2.5-3 km..
+The Combat Unit is The combat unit is a tandem cumulative unit, which provides engagement of targets protected by dynamic armor. Armor penetration is 1100-1200mm homogeneous armor. According to the developers, the probability of hitting a tank-type target is 90%. The HJ-9 can also be equipped with a blast or thermobaric combat unit. This makes it possible to destroy enemy manpower and destroy long-term firing points and other engineering structures, including in mountainous terrain..
+The Crew is 3.
+The Maximum Effective Range is 5.5.
+The Minimum Effective Range is 100.
+The Air to Surface Capable is Yes.
+The Surface to Air Capable is Yes.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note is The HJ-9 anti-tank system is placed or planned to be placed on various carriers ranging from light vehicle chassis to advanced combat helicopters. At the moment, the developers have refused to create a portable version of the complex, due to the large enough weight of its components..
+
+Here is Dimensions information for the HJ-9 (Red Arrow 9) Chinese Anti-Tank Guided Missile (ATGM):
+The Length is 1,200.
+The Diameter is 152.
+The Weight, Combat is 37.
+
+Here is Missile information for the HJ-9 (Red Arrow 9) Chinese Anti-Tank Guided Missile (ATGM):
+The Name is HJ-9 Red Arrow 9 Chinese Anti-Tank Guided Missile (ATGM).
+The Type is Tandem-HEAT Anti-tank and air-to-surface missile.
+The Engine is Rocket Motor.
+The Propellant is Solid Fuel.
+The Guidance System is Laser-beam-riding & MMW radar.
+The Muzzle Velocity is Supersonic.
+The Effective Range is 100 - 5,500 m.
+The Warhead Type is Tandem HEAT warhead.
+The Warhead Weight is INA.
+The Detonation Mechanism is Contact Fuse.
+The Range Finder Type is Laser.
+The Max Rate of Fire is two missiles per minute.
+The Sustain Rate of Fire is 2 rds/min.
+The Armor Penetration is 1100-1200 mm.
+The Hit Probability is 90%.
+The Basic Load is 4 x "Ready to Fire" missiles, 8 x stored internally..
+
+Here is Fire Control information for the HJ-9 (Red Arrow 9) Chinese Anti-Tank Guided Missile (ATGM):
+The Name is INA.
+The Computerized FCS is Yes, Laser beam-riding semi-automatic command-to-line of sight (SACLOS).
+The Guidance System is Laser-beam-riding or MMW radar (Variant Dependent).
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Thermal Imaging Sights is Compatible.
+The TV Goniometer is Yes.
+The Thermal Sight is Yes.
+

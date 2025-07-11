@@ -1,0 +1,102 @@
+This document describes the 9A53-G Tornado Russian 122mm Multiple Rocket Launcher.
+
+The Tornado-G multiple launch rocket system (MLRS) is designed and manufactured by SPLAV Scientific Production Enterprise, a company based in Russia. It is an upgraded variant of the BM-21 Grad MLRS. 
+
+The new rocket system is intended for use by the armed forces of Russia and foreign countries. Meant to replace the age-old BM-21 Grad launch system, the new MLRS will provide improved tactical capabilities over its predecessor.
+
+The Tornado-G rocket system is designed to destroy enemy fortifications and artillery systems with a high degree of precision. Equipped with automated targeting and navigation systems, the MLRS offers superior target engagement capabilities.
+
+The Tornado-G was demonstrated during the ARMY 2018 international defense exhibitions held in August 2018 in Kubinka, Russia. It also took part in the Victory Day Parade 2018 held in Saint Petersburg, Russia, in May 2018.
+
+SPLAV rolled out an upgraded version of rockets with enhanced warhead capabilities to be used on Tornado-G MLRS in August 2018.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation.
+
+Here is Dimensions information for the 9A53-G Tornado Russian 122mm Multiple Rocket Launcher:
+The Length is 7.35.
+The Width is 2.5.
+The Height is 3.1.
+The Weight, Combat is 14.
+The Ground Pressure is INA.
+
+Here is Automotive information for the 9A53-G Tornado Russian 122mm Multiple Rocket Launcher:
+The Engine Name is YaMZ-238M2.
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Cruising Range is 650.
+The Speed, Maximum Road is 85.
+The Speed, Maximum Off-Road is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.55.
+The Trench is 1.2.
+The Fording Depth is 1.75.
+
+Here is Communications information for the 9A53-G Tornado Russian 122mm Multiple Rocket Launcher:
+The Primary is R-123M.
+The Secondary is INA.
+
+Here is System information for the 9A53-G Tornado Russian 122mm Multiple Rocket Launcher of the Launcher:
+The Name is Tornado-G.
+The Caliber is 122.
+The Type is Multiple Rocket Launcher.
+The Number of Tubes is 40.
+The Maximum Firing Range is 40 km.
+The Full Salvo Duration is 20 sec.
+The Reloading Time is 7 minutes.
+The Elevation is INA.
+The Traverse is INA.
+The Nite is .
+
+Here is Ammunition (Option 1) information for the 9A53-G Tornado Russian 122mm Multiple Rocket Launcher of the Launcher:
+The Name is 9M22U.
+The Type is FRAG-HE.
+The Caliber is 122.
+The Maximum Effective Range is 20.4.
+The Minimum Effective Range is 0.5.
+The Warhead Weight is 18.4 kg (M21OF).
+The Rocket Length is 2.87.
+The Maximum Velocity is INA.
+The Fuze Type is MRV-U (PD).
+
+Here is Ammunition (Option 2) information for the 9A53-G Tornado Russian 122mm Multiple Rocket Launcher of the Launcher:
+The Name is 9M28F.
+The Type is FRAG-HE.
+The Caliber is 122.
+The Maximum Effective Range is 15.
+The Minimum Effective Range is 1.5.
+The Warhead Weight is 21.
+The Rocket Length is 2.87.
+The Maximum Velocity is INA.
+The Fuze Type is MRV-U (PD) or AR-6 (proximity).
+
+Here is Ammunition (Option 3) information for the 9A53-G Tornado Russian 122mm Multiple Rocket Launcher of the Launcher:
+The Name is Type 90A.
+The Type is FRAG-HE.
+The Caliber is 122.
+The Maximum Effective Range is 32.7.
+The Minimum Effective Range is 12.7.
+The Warhead Weight is 18.3.
+The Rocket Length is 2.75.
+The Maximum Velocity is INA.
+The Fuze Type is PD.
+
+Here is Fire Control information for the 9A53-G Tornado Russian 122mm Multiple Rocket Launcher:
+The Name is INA.
+The Computerized FCS is Yes, the vehicle is fitted with a modern fire control system..
+The Direct Fire is INA.
+The Indirect Fire is PG-1M Panoramic Telescope (PANTEL).
+The Position Location System is No.
+The Collimator is K-1.
+
+Here is Protection information for the 9A53-G Tornado Russian 122mm Multiple Rocket Launcher:
+The Hull Armor is Protection from small Arms and Shell Splinters..
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

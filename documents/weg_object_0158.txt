@@ -1,0 +1,29 @@
+This document describes the YLC-8B Chinese 3D Long-Range Anti-Stealth Surveillance Radar.
+
+The YLC-8B is a UHF-Band 3D long-range anti-stealth surveillance radar utilizing full coherent digital pulse compression and dynamic target detection technology. This radar is optimized for early warning detection of airborne targets and also has sufficient resolution to perform target tracking functions. The YLC-8B radar reportedly has the capability to track stealth aircraft because of its low, UHF-band operating frequency. This type of three-dimensional radar is assessed to be able to track small-radar-cross-section missiles at long range as well as ballistic missiles and other near-space objects.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the YLC-8B Chinese 3D Long-Range Anti-Stealth Surveillance Radar:
+The Alternative Designation is YLC-8B or 609 Intelligence Radar..
+The Type is 3D Long-Range Anti-Stealth Surveillance Radar..
+The Crew is 6.
+The Chassis is 6x6 or 8x8 Truck.
+The Frequency is UHF-Band.
+The Azimuth is Covers a 360° azimuth at 6 rpm..
+The Detect and Track Aircraft Range is over 500 km.
+The Detect and Track Missiles is over 700 km.
+The Maximum Altitude is 100.
+The Emplacement / Displacement is The antenna is fold-able array is designed for automatic, rapid deployment and recovery. It is road, rail, and sea transportable, and is claimed to require less than 30 minutes for a six-person crew to set up and tear down..
+The Deployment Role is Designed to supplement fixed radar networks with additional sensing capacity to detect stealth aircraft and ballistic missiles..
+
+Here is Dimensions information for the YLC-8B Chinese 3D Long-Range Anti-Stealth Surveillance Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+
+Here is Protection information for the YLC-8B Chinese 3D Long-Range Anti-Stealth Surveillance Radar:
+The ECCM is Yes, Electronic Counter-Countermeasures (ECCM) are available. Most commonly used method is frequency agility, whereby the transmissions are made to “hop” over a large frequency band in a random fashion..
+The ECM-Resistance Equipment is INA.
+

@@ -1,0 +1,79 @@
+This document describes the UH-1N (Twin-Huey) American Utility Helicopter.
+
+The Bell UH-1N Twin Huey (Bell 212) is a medium-lift military helicopter. Based on the stretched fuselage Bell 205, the Bell 212 was originally developed for the Canadian Forces (CF) under the designation CUH-1N Twin Huey. The Initial production model was used by the USAF, USN, and USMC. Over the years the primary operators, the USMC has developed a number of upgrades for the aircraft including improved avionics, defenses, and a FLIR turret. The USAF plans to replace their UH-1Ns with the Common Vertical Lift Support Platform to support the service's ICBM activities.
+
+This equipment has proliferated into the following countries: Canada, CFE Treaty, Italy, United States of America.
+
+Here is Variants information for the UH-1N (Twin-Huey) American Utility Helicopter:
+The VH-1N is VIP transport configuration.
+The HH-1N is SAR Variant.
+The UH-1Y (Venom) is A UH-1N replacement and upgrade as part of the H-1 upgrade program for the USMC, designed to coincide with a similar upgrade for the AH-1W attack helicopter to AH-1Z Viper standard, with common engines and other major systems..
+The CH-135 is Canadian Armed Forces designation for the UH-1N utility transport helicopter..
+The Agusta-Bell AB 212 is Civil or military utility transport version. Built under license in Italy by Agusta..
+The Agusta-Bell AB 121EW is Electronic warfare version for Turkey..
+The Agusta-Bell AB 212ASW is Anti-submarine warfare, anti-shipping version of the AB 212 helicopter, built under license in Italy by Agusta. Operated by the Italian Navy, Hellenic Navy and Islamic Republic of Iran Navy, Greece, Iran, Italy, Peru, Spain, Turkey, and Venezuela..
+
+Here is System information for the UH-1N (Twin-Huey) American Utility Helicopter:
+The Alternative Designation is UH-1N, Twin Huey, Bell 212.
+The Type is Utility Helicopter.
+The Crew is 2 (pilot, copilot).
+The Blades, Main Rotor is 3 (Pilot, Co-pilot, Crew Chief) + 2 Door Gunners (Mission Dependent).
+The Blades, Tail Rotor is 2.
+The Number of Engines is 2.
+The Number of Hard Points is 2.
+The Maximum Sling Load is 2,270 kg.
+
+Here is Dimensions information for the UH-1N (Twin-Huey) American Utility Helicopter:
+The Length is 13.77 m.
+The Main Rotor Diameter is 14.63 m.
+The Height is 4.08 m.
+The Disc Area is 168.1 sq m.
+The Weight, Empty is 2,116 kg.
+The Weight, Gross is 4,309 kg.
+
+Here is Automotive information for the UH-1N (Twin-Huey) American Utility Helicopter:
+The Engine Name is Pratt and Whitney T400-CP-400.
+The Engine Type is Turboshaft.
+The Engine Power is 1,900 shp.
+The Internal Fuel Capacity is 832 liters.
+The Maximum Speed, Sea Level is 204 km/h.
+The Cruise Speed is 205 km/h.
+The Maximum Climb Rate is 488 m/min.
+The Service Ceiling is 3,871 m.
+The Maximum Range at Sea Level is 493 km.
+
+Here is GAU-16 .50 Cal. Machinegun information for the UH-1N (Twin-Huey) American Utility Helicopter of the Weapon Systems:
+The Configuration is Door Mounted.
+The Caliber is 12.7 mm.
+The Range (Maximum) is 6.9 km.
+The Purpose is Defensive Armament.
+
+Here is GAU-17 7.62 mm Minigun information for the UH-1N (Twin-Huey) American Utility Helicopter of the Weapon Systems:
+The Configuration is Door Mounted.
+The Caliber is 7.62 mm.
+The Range (Maximum) is 2,700 m.
+The Purpose is Defensive Armament.
+
+Here is M240 7.62mm machinegun information for the UH-1N (Twin-Huey) American Utility Helicopter of the Weapon Systems:
+The Configuration is Door Mounted.
+The Caliber is 7.62 mm.
+The Range (Maximum) is 2,700 m.
+The Purpose is Defensive Armament.
+
+Here is Hydra-70 Rocket System information for the UH-1N (Twin-Huey) American Utility Helicopter of the Weapon Systems:
+The Configuration is Pods on Side of Aircraft, forward of side doors.
+The Launch Tube (Pod) is LAU-61 (19-tube), M261 (19-tube), LAU-68 (7-tube) and LAU-131/A  (7-tube).
+The Rocket Diameter is 69.85 mm (2.75 in).
+The Rocket Motor is Mk 66 MOD 4.
+The Velocity is 739 m/s.
+The Range (Maximum) is 10,500 m.
+The Warheads is The nine warheads used with Hydra-70 include the M264 smoke, M255A1 flechette, M257/M278 illuminating flare, M278 infrared flare, M151 high explosive (10lb), M229 high explosive (17lb), M156 (WP), WTU-1/B (practice) and M274 (practice) smoke signature. M264 smoke warhead is filled with red phosphorus and used for smoke obscuration..
+The Purpose is Offensive, Attack.
+
+Here is Protection information for the UH-1N (Twin-Huey) American Utility Helicopter:
+The Add on Armor is INA.
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The NBC Protection is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

@@ -1,0 +1,103 @@
+This document describes the Dongfeng EQ2101 (Warrior) Chinese 6x6 Tactical Utility Vehicle.
+
+The Dongfeng Warrior EQ2101 MCTB provides tactical support for infantry teams, equipment transportation and provides
+platforms for light-duty artillery, maintenance, and medical rescue tasks. Unveiled at Zhuhai in 2016 was the two-member Dongfeng EQ2101 Warrior family. The EQ2101 MCTB is a 6x6 support vehicle for infantry fire teams. Powered by a 177kW
+Dongfeng YC6DV diesel engine, the 10t vehicle can move four soldiers around the battlefield at speeds of up to 120km/h. It is 6.45m long, 2.38m wide and 2.065m high.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Dongfeng EQ2101 (Warrior) Chinese 6x6 Tactical Utility Vehicle:
+The Dongfeng EQ2101EB is Dongfeng EQ2101EB is a cargo version with a 2-door cabin with a large cargo area at the rear. It has a capacity for drivers plus 3 passengers and has a payload capacity of 2 000 kg..
+The Dongfeng EQ2101MCTB is is a light vehicle protected with the 6x6 configuration. This vehicle has 4 doors. One of them is a type door with shell. The upper part opens upwards, while the lower part opens downwards. This vehicle accommodates driver, more up to 11 passengers..
+The Dongfeng EQ2101 is The Dongfeng EQ2101 was designed to provide troops with logistical and utilitarian support.
+The Dongfeng EQ2016E Chinese 4x4 Truck is .
+
+Here is System information for the Dongfeng EQ2101 (Warrior) Chinese 6x6 Tactical Utility Vehicle:
+The Alternative Designation is Dongfeng EQ2101; Warrior.
+The Type is Tactical Utility Vehicle.
+The Manufacturer is Dongfeng Off-road Vehicles Co..
+The Configuration is 6x6.
+The Crew is 2.
+The Troop Compartment Capacity is 11.
+The Cargo Capacity is Can carry equipment such as ‘artillery, anti-tank missiles, antiaircraft missiles and
+assault bridges.
+The Maximum Effective Range is 500.
+The Gradient is 40.
+The Lateral Slope is 30.
+The Vertical Step is 0.45.
+The Ditch is 0.70.
+The Wading is 0.75.
+The Wading (With Preparation) is 1.20.
+The Note is The EQ2101 is a larger version of Dongfeng CSK141 with an added axle..
+
+Here is Dimensions information for the Dongfeng EQ2101 (Warrior) Chinese 6x6 Tactical Utility Vehicle:
+The Length is 6.45.
+The Width is 2.38.
+The Height is 2.065.
+The Weight, Combat is 9,072.
+The Payload Capacity is 2,000-2,500.
+
+Here is Automotive information for the Dongfeng EQ2101 (Warrior) Chinese 6x6 Tactical Utility Vehicle:
+The Engine Name is 177kW Dongfeng YC6DV Diesel Engine.
+The Engine Type is Diesel Engine,.
+The Engine Power is 237.
+The Cruising Range is 500.
+The Speed, Maximum Road is 120.
+The Speed, Average Cross is 100.
+The Speed, Maximum Swim is INA.
+The Fording Depth is INA.
+The Central Tire Inflation System is Yes.
+
+Here is TBR-121 VHF Radio information for the Dongfeng EQ2101 (Warrior) Chinese 6x6 Tactical Utility Vehicle of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Proliferated is Widely.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the Dongfeng EQ2101 (Warrior) Chinese 6x6 Tactical Utility Vehicle of the Main Gun:
+The Name is NSV (Russian НСВ Никитина-Соколова-Волкова).
+The Type is 12.7mm Heavy Machine Gun.
+The Length is 1,560.
+The Diameter is INA.
+The Weight (Gun Only) is 25.
+The Weight (Tripod) is 41.
+The Weight (With 50 Round Belt) is 11.
+The Feed System is 50 Round Belt.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the Dongfeng EQ2101 (Warrior) Chinese 6x6 Tactical Utility Vehicle of the Main Gun:
+The Type is Heavy Machine Gun.
+The Caliber is 12.7x108.
+The Muzzle Velocity is 845.
+The Number of Rounds is 50 Round Belt.
+The Max Range is 1,500.
+The Min Range is 2,000.
+The Armor Penetration is Available.
+The Note is The 12.7×108mm can be used to engage a wide variety of targets on the battlefield, and will destroy unarmored vehicles, penetrate lightly armored vehicles and damage external ancillary equipment (i.e.: searchlights, radar, transmitters, vision blocks, engine compartment covers) on heavily armored vehicles such as tanks.
+
+Here is Fire Control information for the Dongfeng EQ2101 (Warrior) Chinese 6x6 Tactical Utility Vehicle:
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Vehicle Commander is INA.
+The Thermal Gunner is INA.
+The Main Gun Stabilization is No.
+The Range, Day Sight is Yes.
+The Tange, Thermal Sight is KNA.
+
+Here is Protection information for the Dongfeng EQ2101 (Warrior) Chinese 6x6 Tactical Utility Vehicle:
+The Hull Armor is 7.62mm bullet resistant back
+and side armour.
+The Turret Armor is INA.
+The Applique Armor is Available Option, 7.62mm Wo-109 armour-piercing fire bomb resistant
+armour that can be added to the front of the vehicle..
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

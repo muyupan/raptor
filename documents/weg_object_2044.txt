@@ -1,0 +1,59 @@
+This document describes the M252 American 81mm Mortar.
+
+The M252 81 mm medium weight mortar is a British designed smooth bore, muzzle-loading, high-angle-of-fire weapon used for long-range indirect fire support to light infantry, air assault, and airborne units across the entire front of a battalion zone of influence. In the U.S. Army and U.S. Marine Corps, it is normally deployed in the mortar platoon of an infantry battalion.
+
+The M252 system weighs 91 lb (41 kg) completely assembled and is composed of the M253 Cannon (35 lb, 16 kg), M177 Mount (27 lb, 12 kg), M3A1 Baseplate (29 lb, 13 kg), and the M64A1 Sight Unit (2.5 lb, 1.1 kg). The mount consists of a base plate and a bipod, which is provided with screw type elevating and traversing mechanisms to elevate/traverse the mortar. The M64A1 sight unit (also used on the M224) is attached to the bipod mount. The M252 is a gravity-fired smoothbore system. Attached to the muzzle of the weapon is the Blast Attenuation Device (BAD), used to reduce the blast effects on the mortar crew. To increase cooling efficiency, the breech end is finned; though first-hand accounts attest that the level of cooling is negligible. The cannon also has a crew-removable breech plug and firing pin.
+
+High explosive rounds fired by the M252 weigh 10 lb (4.5 kg) and can have an effective kill radius of 35 m (115 ft).
+
+In 2017, the Marines revealed they were developing precision guided rounds for the 81 mm mortar, similar to efforts for the 120 mm Expeditionary Fire Support System but in a man-portable system.
+
+Crew
+A crew of five enlisted personnel operate the M252: the squad leader, the gunner, the assistant gunner, the first ammunition bearer, and the second ammunition bearer.
+
+The squad leader stands directly behind the mortar where he can command and control his squad. In addition to having general oversight of all squad activities, he also supervises the emplacement, laying, and firing of the weapon.
+The gunner stands to the left of the mortar where he can manipulate the sight, traversing handwheel, and elevating handwheel. He places firing data on the sight and lays the mortar for deflection and elevation. He makes large deflection shifts by shifting the bipod assembly and keeps the bubbles level during firing.
+The assistant gunner stands to the right of the mortar, facing the barrel and ready to load. In addition to loading, he swabs the bore after 10 rounds have been fired or after each fire mission. The assistant gunner is the person who actually fires the weapon.
+The first ammunition bearer stands to the right rear of the mortar. He has the duty of preparing the ammunition (charge settings, fuzes, etc...) and passing it to the assistant gunner.
+The second ammunition bearer stands to the right rear of the mortar behind the first ammunition bearer. He maintains and keeps a record of the ammunition in addition to the data corresponding to each fire mission. His twofold records include a written table of firing data, type, and number of rounds fired, and the safety pins pulled from each round to provide physical evidence to the accuracy of the table. In addition he provides local security for the mortar position.
+
+This equipment has proliferated into the following countries: Australia, Canada, Estonia, Iraq, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is System information for the M252 American 81mm Mortar:
+The Alternate Designation is M252.
+The Type is 81mm Mortar.
+The Manufacturer is INA.
+The In Service is 1987-Present.
+The Crew is 5.
+
+Here is Dimensions information for the M252 American 81mm Mortar:
+The Length is 1.27 m.
+The Barrel Length is 1.27 m.
+The Weight is 41.3 kg.
+
+Here is System information for the M252 American 81mm Mortar of the Armament:
+The Name is M252.
+The Type is Mortar.
+The Caliber is 81.
+The Elevation is 45°–85.2°.
+The Traverse is 5.6°.
+The Rate of Fire is 8–16 rpm sustained
+20–30 rpm in exceptional circumstances and for short periods.
+The Effective Firing Range is HE: 91–5,935 m.
+The Feed System is muzzle-loaded.
+
+Here is Ammunition information for the M252 American 81mm Mortar of the Armament:
+The Type is Mortar Projectile.
+The Caliber is 81.
+The Types of Rounds is While the M252 does fire a weapon specific series of ammunition, it can also fire rounds from the M29 Mortar (only at charge 3 or below though). The M252 Mortar can fire the following principal classifications of training and service ammunition:
+
+High explosive (HE): Designations M821, M821A1, M889, M889A1, M372-series, and M362. Used against personnel and light materiel targets.
+Advanced Capability Extended Range Mortar (ACERM): Developmental guided round that adds wings, control fins, GPS navigation, a laser seeker, and an enhanced warhead; increases accuracy to within one meter and can reach a range of 20 km (12 mi) in five minutes.
+Smoke Cartridge: Designations M819 and M375-series. Used as a screening, signaling, or marking munition.
+Illumination (ILLUM): Designations M853A1 and M301-series. Used in night missions requiring illumination for assistance in observation.
+Non-Lethal Indirect Fire Munition: Developmental round based on the M853A1 that disperses flash bang submunitions to temporarily daze people.
+Training practice (TP): Designations M880, M879, M68, and sabot. Used for training in limited areas.
+Infrared Illumination (IR): Produces illumination which is only visible through the use of night vision devices..
+The Fuzes is The M224 rounds have two fuze types: the Multioption Fuze (M734) and the Point-Detonating Fuze (M935). The M734 is used for the M720 HE round and can be set to function as proximity burst, near-surface burst, impact burst, or delay burst..
+The Note is The range of a mortar is controlled by the number of propellant "C-charges" attached. A charge is a semi-circular donut of nitrocellulose, which resembles a puffy letter "C." A round for the M252 mortar comes with four charges attached. Longer-range shots require more propellant than can fit in the tail of the round, hence the necessity of external charges. When the target is ranged, the first assistant ammunition bearer adjusts the amount of propellant by removing C-charges from the projectile. The mortar squad leader verifies the number of charges; then the assistant gunner drops the round down the muzzle of the tube. The round, pulled by gravity, accelerates down the smooth bore of the mortar until the primer (in the base of the tail boom of the round) strikes the firing pin located in the bottom of the mortar tube. The primer detonates, igniting the charge in the tail fin, which in turn ignites the C-charges on the round. The C-charges detonate, releasing hot, expanding gas which pushes against the obturator band on the projectile, sealing the gas behind the projectile. The pressure from the expanding gas accelerates the projectile until it leaves the end of the tube..
+

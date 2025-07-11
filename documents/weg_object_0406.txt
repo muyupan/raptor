@@ -1,0 +1,151 @@
+This document describes the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV).
+
+In the early 1990s, the BTR-90 was developed as a replacement for the BTR-80 in the Russian Army. While it was a moderate improvement in armament, protection, mobility, and internal space over its predecessor, it all came at the cost of greatly increased unit price. It wasn't accepted into service (except in small numbers) as the modest increase in performance wasn't seen as enough justification for its cost and complexity. Purchases of the BTR-80 stopped in 2010 and the improved BTR-82 was obtained as a stop-gap measure. In mid-2011, the Russian Ministry of Defense issued a requirement for a new modular wheeled family of armored vehicles instead of buying the BTR-90. Development of this new wheeled IFV is being done alongside the new and similarly armed and armored but tracked Kurganets-25 infantry fighting vehicle and heavy T-15 Armata IFV. 
+The Boomerang vehicle is based on the Armata Universal Combat Platform. It is amphibious and is able to negotiate and overcome water obstacles using two waterjets. In a departure with the previous BTR (Like BTR-70) series of vehicles, the engine will be located in the front instead of the rear. Engine location was a significant drawback of BTR vehicles, where soldiers had to exit the vehicles through cramped side doors. The Boomerang has rear doors and roof hatches for troop entry and exit. It has a crew of three consisting of the driver, gunner, and commander and holds seven troops. Protection comes from ceramic armor and technologies to prevent shell splinters. Like BTRs, the Boomerang is an 8×8 wheeled vehicle and is equipped with a 750 hp turbocharged diesel engine.
+
+Several components and subsystems will be interchangeable between the Boomerang and Kurganets-25 IFV, and it is hoped that both vehicles will be powered by the same engine though that is not the case to date.  The K-17 Boomerang infantry fighting vehicle (IFV), is heavily armed with the Boomerang-BM RWS with a 30mm cannon and Kornet-EM anti-tank missiles or AU-220M with 57mm BM-57 autocannon and 7.62mm PKMT machine gun.
+In November 2011, media reports said the new project had been approved.  In February 2012, a high-ranking Russian general officer said that the Russian Army would be taking the first deliveries of the Boomerang prototype in 2013. Large-scale deliveries were to began in 2015. At least 2,000 Boomerangs vehicles are to replace the BTR-80 and BTR-82/A in Russian service.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV):
+The Alternative Designation is Boomerang, VPK-7829 Bumerang.
+The Crew is 3.
+The Passenger Capacity is 7.
+The Maximum Effective Range is 4,000.
+
+Here is Dimensions information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV):
+The Length is 8.0.
+The Width is 3.0.
+The Height is 3.0.
+The Weight, Combat is 20,000.
+
+Here is Automotive information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is UTD-32TR.
+The Engine Type is Diesel.
+The Engine Power is 510.
+The Cruising Range is 800.
+The Speed, Maximum Road is 100.
+The Speed Maximum Swim is 12.
+The Fording Depth is Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.0.
+
+Here is System information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is 2A42 on a Boomerang-BM remote control turret.
+The Type is Auto-cannon.
+The Max Rate of Fire is 800.
+The Sustain Rate of Fire is 300.
+The Range Finder Type is Laser.
+
+Here is Ammunition Option 1 information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is HE-I.
+The Caliber is 30.
+The Muzzle Velocity is 960.
+The Max Effective Range is 4.
+The Min Range is 0.
+The Armor Penetration is INA.
+The Bursting Charge is 49.
+The Projectile Weight is 389.
+The Basic Load is 500 g (160 armor piercing / 340 HE-Frag) rounds.
+
+Here is Ammunition Option 2 information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is HE-T.
+The Projectile Weight is 385.
+The Bursting Charge is 11.5.
+The Muzzle Velocity is 960.
+
+Here is Ammunition Option 3 information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is APBC-T.
+The Projectile Weight is 400.
+The Bursting Charge is NA.
+The Muzzle Velocity is 970.
+
+Here is Ammunition Option 4 information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is APDS.
+The Projectile Weight is 304.
+The Bursting Charge is NA.
+The Muzzle Velocity is 1120.
+
+Here is Ammunition Option 5 information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is APFSDS-T.
+The Projectile Weight is 235.
+The Bursting Charge is NA.
+The Muzzle Velocity is 1260.
+
+Here is System information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is PKT.
+The Type is Machine Gun.
+The Max Rate of Fire is 500.
+
+Here is Ammunition Option 1 information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Type is Ball.
+The Caliber is 7.62.
+The Muzzle Velocity is 855.
+The Basic Load is 2,000.
+The Effective Range is 1,500.
+The Cartridge Weight is 21.8.
+The Bullet Weight is 9.6.
+
+Here is Ammunition Option 2 information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Type is AP.
+The Cartridge Weight is 21.7.
+The Bullet Weight is 9.4.
+The Muzzle Velocity is 855.
+
+Here is Ammunition Option 3 information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Type is Tracer.
+The Cartridge Weight is 22.
+The Bullet Weight is 9.65.
+The Muzzle Velocity is 824.
+
+Here is Ammunition Option 4 information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Type is AP-I.
+The Cartridge Weight is 22.6.
+The Bullet Weight is 10.39.
+The Muzzle Velocity is 834.
+
+Here is System information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System:
+The Name is Kornet-EM.
+The Type is ATGM.
+The Max Rate of Fire is INA.
+The Range Finder Type is Laser.
+
+Here is Ammunition information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System:
+The Type is Fire and Forget ATGM.
+The Caliber is INA.
+The Velocity is 300.
+The Basic Load is 4.
+The Effective  Range is 10.
+The Armor Penetration is 1,300mm of RHA after ERA, Thermobaric.
+The Weight is 31.
+The Length is 1210.
+The Warhead Weight is 10.
+The Fuze is Impact Fuze.
+The Range (AT Warhead) is 8,000.
+The Range (Thermobaric Warhead) is 10,000.
+
+Here is Fire Control information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Turret is Bumerang-BM Remote Control Turret.
+The Computerized FCS is Electro-Optical Target Acquisition and Missile Guidance System.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is INA.
+
+Here is Protection information for the K-17 Bumerang Russian 8x8 Amphibious Infantry Fighting Vehicle (IFV):
+The Hull Armor is V-Shaped, ceramic hull provides protection agains 14.5mm and artillery shrapnel.
+The Turret Armor is Unmanned Turret.
+The Applique Armor is Yes, Ceramic.
+The Explosive Reactive Armor is Optional.
+The Active Protection System is Optional.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+The 360 degree field of view for crew is Yes.
+

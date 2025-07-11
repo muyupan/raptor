@@ -1,0 +1,88 @@
+This document describes the Sariwon Class North Korean Corvette.
+
+The Sariwon class corvette is a Soviet-designed corvette used by North Korea.
+
+The class is based on the Soviet Fugas-class Tral type fleet minesweepers, but were built in North Korea in the 1960s. It is believed five ships of this type are currently active in the Korean People's Navy.
+
+Stationed on the east coast, these ships were likely built at either Mayang-do Naval Shipyards or Bong Dao Bo Shipyards in nearby Sinpo on the mainland.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is System information for the Sariwon Class North Korean Corvette:
+The Alternative Designation is Sariwon Class.
+The Type is Corvette.
+The Builder is Stationed on the east coast, these ships were likely built at either Mayang-do Naval Shipyards or Bong Dao Bo Shipyards in nearby Sinpo on the mainland..
+The Crew is 70.
+
+Here is Dimensions information for the Sariwon Class North Korean Corvette:
+The Length is 62.10 m.
+The Beam is 7.30 m.
+The Draft is 2.40 m.
+The Displacement, Standard is 450 tons standard.
+The Displacement, Full Load is 490 tons full load.
+
+Here is Propulsion System information for the Sariwon Class North Korean Corvette:
+The Engine Name is INA.
+The Engine Type is 2 x Diesel Engines.
+The Engine Power is 3,000 total bhp.
+The Maximum Range is 2,700 nm at 18 kts..
+The Maximum Speed is 21 knots.
+
+Here is Gun Weapon System #1 information for the Sariwon Class North Korean Corvette of the Gun Weapon Systems:
+The Name is Type 66.
+The Type is Naval 57mm Gun.
+The Caliber is 57mm.
+The Quantity is 2 x Type 66 Naval 57mm Gun.
+The Length is 3,990 mm.
+The Weight is 14,000 kg.
+The Barrels is Single barrel (progressive RH parabolic twist, 24 grooves).
+The Action is Electronic firing.
+The Elevation is −10°/+78°.
+The Traverse is Full 360°.
+The Rate of Fire is 200 rounds/min.
+The Maximum Firing Range is 17,000 m.
+The Effective Firing Range is 8,500 m.
+The Feed System is 40 ready rounds, 128 rounds in ready racks in mount.
+The Sights is Gyro-stabilized in local control..
+
+Here is Gun Weapon Systems #1 Ammunition information for the Sariwon Class North Korean Corvette of the Gun Weapon Systems:
+The Type is Projectile.
+The Caliber is 57.
+The Cartridge is 57 × 438 mm.
+The Basic Load is 128.
+
+Here is Gun Weapon Systems #2 information for the Sariwon Class North Korean Corvette of the Gun Weapon Systems:
+The Name is INA.
+The Type is Anti-Aircraft Gun.
+The Caliber is 14.5mm.
+The Quantity is 4 x Quad 14.5mm Anti-Aircraft Gun.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Sariwon Class North Korean Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 14.5mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Sariwon Class North Korean Corvette:
+The FCS Name is INA.
+The Computerized FCS is INA.
+The Battle Management System is No.
+
+Here is Radar #1 information for the Sariwon Class North Korean Corvette of the Radar Systems:
+The Name is 1 x Type 351 (Pot Head) Radar.
+The Type is Surface Search Radar.
+The Range is INA.
+
+Here is  information for the Sariwon Class North Korean Corvette of the Radar Systems:
+The Name is 1x Don-2 Radar.
+The Type is Navigation Radar.
+The Range is INA.
+
+Here is Mines information for the Sariwon Class North Korean Corvette:
+The Note is 30 mines.
+
+Here is Protection information for the Sariwon Class North Korean Corvette:
+The Active Protection System is No.
+The Countermeasures is INA.
+The NBC Water Washdown System is INA.
+

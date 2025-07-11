@@ -1,0 +1,93 @@
+This document describes the PG99 Chinese 35mm Towed Anti-Aircraft Gun.
+
+The PG99 is a twin barrel, low-altitude air defense weapon that is reported to be an effective part of the People's Liberation Army's (PLA's) air defense network. It was developed/licensed produced from the GDF-002 to engage low-altitude and helicopter-type targets within 4,000m slant range, or light armored targets and landing crafts. The PG99 can fire the NORINCO 35 mm Programmable Time Fuze Pre-fragmented (PTFP) round. The system consists of an anti-aircraft gun, mobile power station (40 kW), and an optional fire-control radar. The system’s reaction time to an airborne target is only 6 seconds, and the whole system can be set up or taken down within 90 seconds.
+
+This equipment has proliferated into the following countries: Cameroon, China.
+
+Here is Variants information for the PG99 Chinese 35mm Towed Anti-Aircraft Gun:
+The GDF-002 is This system is the predecessor gun that China is known to have purchased from Switzerland. China obtained a license for the old twin 35mm Oerlikon GDF series of towed anti-aircraft guns many years ago together with the first generation of ammunition..
+The PG99 (Export) is Cameroon took delivery of PG99’s in 2013, which were procured under a China EXIM Bank loan that also included the procurement of BBR AFVs. This delivery also included radar systems. The Sichuan Military Electronics Industries Group Company (SEMIC) 825 fire-control radars are used with the PG99s and have a maximum range of 40 km..
+
+Here is System information for the PG99 Chinese 35mm Towed Anti-Aircraft Gun:
+The Alternative Designation is PG99, GDF-002.
+The Description is Towed Twin 35mm Anti-Aircraft Gun.
+The Crew is 5.
+The Primary Targets is High-speed, low-flying aircraft, helicopters, unmanned aerial vehicles (UAV) and cruise missiles.
+The Reaction time to an identified threat is 6.
+The Emplacement Time is 90.
+The Displacement Time is 90.
+The Rate of Fire is 1,100 rpm total, including both barrels.
+The Range is 3,200.
+The Power Source is External electric power.  Manual power can be used in an emergency..
+The Weight is 6,800.
+The Traverse is 360.
+The Elevation is -5 degrees / +92 degrees (electric); -8  
+ degrees / +95 degrees (manual).
+The Maximum Aiming Speed (Traverse) is 120.
+The Maximum Aiming Speed (Elevation) is 60.
+The Power Station is 40.
+
+Here is Automotive information for the PG99 Chinese 35mm Towed Anti-Aircraft Gun:
+The Notes: is Mounted on a cradle which is designed to carry the guns and the mobile platform. It contains the hydro-mechanical recoil mechanism, which absorbs the recoil forces. The lower part of the cradle comprises the two-axle chassis and the outriggers with the leveling spindles for four-point support in the firing positions. Raising and lowering the leveling spindles and raising the wheels are done electro-hydraulically or manually in the case of power failure. The Type 90 35mm twin-barrel can be towed by any military truck..
+The Maximum Towing Speed (Road) is 80.
+The Maximum Towing Speed (Cross Country) is 30.
+
+Here is Armament information for the PG99 Chinese 35mm Towed Anti-Aircraft Gun:
+The Description is Twin Cannon.
+The Power Source is Gas Powered.
+The Round Description is 35mm / 90 caliber.
+The Muzzle Velocity is 1,175.
+The Basic Load is 112.
+The Ammunition in Ready Reserve is 126.
+The Reload Time is 7.5.
+The Fire Control is Computer controlled electro-optical director for 3-dimensional target tracking in conjunction with the laser range finder..
+
+Here is HE-T / HEI-T information for the PG99 Chinese 35mm Towed Anti-Aircraft Gun of the Ammunition:
+The Projectile Weight is 535.
+The Explosive is 98.
+The Propellant is 330.
+The Complete Round is 1,565.
+The Muzzle Velocity is 1,175.
+
+Here is HE / HEI information for the PG99 Chinese 35mm Towed Anti-Aircraft Gun of the Ammunition:
+The Projectile Weight is 550.
+The Explosive is 112.
+The Propellant is 330.
+The Complete Round is 1,580.
+The Muzzle Velocity is 1,175.
+
+Here is HEI (BF) information for the PG99 Chinese 35mm Towed Anti-Aircraft Gun of the Ammunition:
+The Projectile Weight is 550.
+The Explosive is 70.
+The Propellant is 330.
+The Complete Round is 1,580.
+The Muzzle Velocity is 1,175.
+
+Here is SAPHEI / SAPHEI-T information for the PG99 Chinese 35mm Towed Anti-Aircraft Gun of the Ammunition:
+The Projectile Weight is 550.
+The Explosive is 22.
+The Propellant is 330.
+The Complete Round is 1,580.
+The Muzzle Velocity is 1,175.
+
+Here is APDS / FAPDS information for the PG99 Chinese 35mm Towed Anti-Aircraft Gun of the Ammunition:
+The Projectile Weight is 375.
+The Explosive is n/a.
+The Propellant is 330.
+The Complete Round is 1,440.
+The Muzzle Velocity is 1,440.
+
+Here is TP-T / TP information for the PG99 Chinese 35mm Towed Anti-Aircraft Gun of the Ammunition:
+The Projectile Weight is 550.
+The Explosive is NA.
+The Propellant is 330.
+The Complete Round is 1,580.
+The Muzzle Velocity is 1,175.
+
+Here is AHEAD information for the PG99 Chinese 35mm Towed Anti-Aircraft Gun of the Ammunition:
+The Projectile Weight is 750.
+The Explosive is NA.
+The Propellant is 330.
+The Complete Round is 1,780.
+The Muzzle Velocity is 1,050.
+

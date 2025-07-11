@@ -1,0 +1,119 @@
+This document describes the Barnaul-T Russian Air Defense Command and Control System.
+
+The Barnaul-T air defense control system is designed to detect aerial targets and control air defense systems of the Army, marine units, and the Airborne Force. The system uses the 9S932-1 intelligence and control module with 1L122-1E radar mounted on an MT-LBu tracked chassis.
+
+Baseline air defense command & control subsystem of the integrated troop and weapon management system. The Barnaul-T baseline air defense command and control subsystem is designed to fit tactical units’ air defense (AD) control posts (CP) with advanced automation, communication, and data exchange equipment in order to effectively control air defense troops and weapons, coordinate their activities, and increase their mobility and survivability under any combat conditions.
+
+The Barnaul-T baseline set is used to equip:
+* AD division/brigade CP (mission planning module (MPM) mounted on the 9S931-1 wheeled chassis);
+
+* AD regiment CP (MP-K 9S931-1 and 9S931 MPM);
+
+* AD battalion CP (9S931 MPM);
+
+* Battery command and control (C2) post (9S932-1 reconnaissance and control vehicle with 1L122-1E radar);
+
+* MANPADS platoon C2 post (9S933 portable fire control unit);
+
+* SAM squad – 9S935 MANPADS squad automation equipment set.
+ 
+
+The configuration of the Barnaul-T baseline set depends on the organizational structure of the Customer’s tactical military units.
+
+The baseline set performs the following major tasks in automated mode:
+
+* Athering (reception) of air situation data from superior, interacting, and subordinate C2 posts, and a heliborne radar picket system; target tracking, radar data identification and display; reception and display of data on the friendly aircraft patrol area, interception lines, flight corridors, and joint action and cooperation areas;
+
+* Reception of alerts and battle commands from the superior C2 post, generation of reports based on them, and target tracks with flight parameters;
+
+* Control over subordinate C2 posts and radars, the transmission of alert information and data on the areas (sectors) of responsibility to such C2 posts and radars; reception, processing, display, and transmission of operational/tactical information on the position, status, and battle readiness of friendly troops; target allocation at each level of command, the transmission of target designation and cease-fire commands to subordinate assets, based on the battle readiness, availability of free target channels and missiles;
+
+* Equipment test, engagement process recording;
+
+* Stand-alone and system-level integrated training of combat crews.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Barnaul-T Russian Air Defense Command and Control System:
+The Alternative Designation is Barnaul-T.
+The Type is Russian Air Defense Command and Control System.
+The Mission is Designed to detect aerial targets and control air defense systems of the Army, marine units and the Airborne Force..
+The Crew is It is manned by a driver, commander, and two crew to control the radar and C2 equipment, with the control stations housed in the crew compartment.
+The Chassis is MT-LBU.
+The Interoperability is interoperability with other combatant arms and services of the armed forces.
+The Software is Current hardware/software can be modified to ensure interface with foreign-made radar data sources and SAM systems.
+The Emplacement is Maximum set up time of five minutes from road march to combat readiness configuration.
+The Displacement is 7.
+The Note is The new air defence control system use of automation equipment at tactical level increases the efficiency of short-range SAM systems by up to 20% and reduces the expenditure of missiles per killed target by up to 30%.
+
+Here is Dimensions (Chassis:  MT-LBU) information for the Barnaul-T Russian Air Defense Command and Control System:
+The Length is 6.45.
+The Width is 2.86.
+The Height is 1.86.
+The Weight, Combat is 11,000.
+The Ground Pressure is 0.46 kg/cm2 standard track  / 0.28 kg/cm2wide track.
+
+Here is Automotive (Chassis:  MT-LBU) information for the Barnaul-T Russian Air Defense Command and Control System:
+The Engine Name is YaMZ 238 (Newer versions have the KamAZ-740.50 engine / 360 horsepower).
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 30.
+The Speed Maximum Swim is 5.
+The Fording Depth is Amphibious.
+
+Here is Communications information for the Barnaul-T Russian Air Defense Command and Control System:
+The Tactical Radio is Either the Azart-P (4km), Azart-N (12km), and Azart-BM (40km)..
+
+Here is System information for the Barnaul-T Russian Air Defense Command and Control System of the Main Weapon System:
+The Name is 1 x PKT.
+The Type is 7.62 mm, Machine-Gun.
+The Caliber is 7.62.
+
+Here is Ammunition information for the Barnaul-T Russian Air Defense Command and Control System of the Main Weapon System:
+The Type is API, API-T.
+The Caliber is 7.62.
+The Muzzle Velocity is INA.
+The Basic Load is 1,500.
+The Max Effective Range (Day) is 1,000.
+The Max Effective Range (On the move) is 500.
+The Maximum Aimed Range is 1,500.
+The Min Range is INA.
+The Armor Penetration is 8mm of RHA at 500m.
+The Other Ammunition Types is Light Ball, Ball-T, Heavy Ball, Incendiary.
+
+Here is Intelligence and Control Module (MRU-D) information for the Barnaul-T Russian Air Defense Command and Control System of the Fire Control:
+The Name is 9S932-1 intelligence and control module.
+The Target Designation and Cease-Fire Command Generation Period is +2.
+The Number of Automated 9S931-1 MP-K Workstations is 6.
+The Number of Automated 9S931 MP Workstations is 4.
+The Number of Automated 9S932 MRU-B Workstations is 3.
+The Number of Automated 9S933 PMUO Workstations is 1.
+The Remote Workstations, 9S931-1 MP-K is 3.
+The Remote Workstations, 9S931 MP is 2.
+The Remote Workstations, 9S932 MRU-B, 9S933 PMUO is 1.
+The Communication Range in a Stationary Position is 9S931-1 MP-K, 9S931 MP, 9S932 MRU-B is 20 km. 9S933 PMUO is 3 km.
+The Communication Range on the Move is 9S931-1 MP-K, 9S931 MP, 9S932 MRU-B is 10km. 9S933 PMUO is 1 km..
+
+Here is Radar information for the Barnaul-T Russian Air Defense Command and Control System of the Fire Control:
+The Name is 1L122-1E Radar.
+The Type is Radar that locates and tracks low-altitude aerial targets such as unmanned aerial vehicles (UAVs), helicopters, and ground attack aircraft.
+The Maximum Range is 40.
+The Targets is Capable of simultaneously tracking up to 100 different targets.
+The Radar Refresh Rate is Automatic refresh rate of 1-12 seconds.
+The Continuously Operation is 72 hours on internal power source.
+The  is .
+
+Here is Protection information for the Barnaul-T Russian Air Defense Command and Control System:
+The Hull Armor is 14.
+The Turret Armor is 14.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Optional.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The Night Vision Device Capable is Yes.  Some versions have spot lights..
+

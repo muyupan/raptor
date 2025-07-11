@@ -1,0 +1,37 @@
+This document describes the HY-4 (CSS-C-7) Sadsack Chinese Short-Range Anti-Ship Cruise Missile.
+
+The HY-4 development of the C-201 is a mid-range ground-, air-, and ship-launched cruise missile. Development of the C-201 HY-4 is believed to have started in the mid-1970s, replacing the C-201 HY-2 liquid propellant sustainer motor with a small turbojet engine, and adding a monopulse active radar seeker. Apart from the substitution of the turbojet engine, the overall configuration of the HY-4 variant of the C-201 missile is similar to the HY-2 variants of the C-201, with two delta wings and tri-form rudder and tail. The missile has a radar altimeter which allows the cruise height to be varied between 70 and 200 m altitude, followed by a steep dive onto the target. The air-launched version is designated as C-401
+
+This equipment has proliferated into the following countries: Bangladesh.
+
+Here is Variants information for the HY-4 (CSS-C-7) Sadsack Chinese Short-Range Anti-Ship Cruise Missile:
+The HY-1 is Basic developmental version developed from the SY missiles, used only in very small numbers as land-to-ship missile for evaluation purposes. Did not enter series production and was replaced by HY-1J..
+The HY-1J is Ship-to-ship variant for Type 051 DDG.
+The HY-1JA is Improved ship-to-ship variant with a new radar seeker for better anti-jamming capability and accuracy.
+The HY-1A is Land-to-ship variant based on the HY-1JA.
+The HY-1B is Low level target drone for the test of HQ-2A SAM.
+The HJ-1YB is Target drone for the test of HQ-61 SAM.
+
+Here is System information for the HY-4 (CSS-C-7) Sadsack Chinese Short-Range Anti-Ship Cruise Missile:
+The  is .
+The  is .
+The  is .
+
+Here is Missile information for the HY-4 (CSS-C-7) Sadsack Chinese Short-Range Anti-Ship Cruise Missile of the HY-4 (CSS-C-7) Sadsack Anti-Ship Cruise Missile:
+The Name is HY-4; NATO: CSS-C-7 Sadsack.
+The Type is Anti-Ship Cruise Missile.
+The Basic Load is INA.
+The Manufactuer is Nanchang Aircraft Factory (Chinese).
+The Length is 7.36 m.
+The Diameter is 0.76 m.
+The Wingspan is 2.4 m.
+The Weight, Total is 1,740 kg.
+The Warhead Type is Shaped charge high explosive.
+The Warhead Weight is 513 kg.
+The Propulsion is one turbojet engine and one solid rocket booster.
+The Speed is Mach 0.8 – 0.85.
+The Range is 500 km.
+The Cruising Altitude is The missile has a radar altimeter which allows the cruise height to be varied between 70 and 200 m altitude, followed by a steep dive onto the target..
+The Guidanc System is Inertial + active conical scanning terminal guidance radar (early models); or inertial + monopulse active radar (later models).
+The Single-Shot Kill Probability is 70%.
+

@@ -1,0 +1,136 @@
+This document describes the Mi-4 (Hound) Russian Transport Helicopter.
+
+The Mil Mi-4 (USAF/DoD reporting name "Type 36", NATO reporting name "Hound") is a Soviet transport helicopter that served in both military and civilian roles.
+
+The Mi-4 was designed in response to the American H-19 Chickasaw and the deployment of U.S. helicopters during the Korean War. While the Mi-4 strongly resembles the H-19 Chickasaw in general layout, including the innovative engine position in front of the cockpit, it is a larger helicopter, able to lift more weight and built-in larger numbers. The first model entered service in 1953. The helicopter was first displayed to the outside world in 1952 at the Soviet Aviation Day in Tushino Airfield.
+
+One Mi-4 was built with a jettisonable rotor. It served as an experimental vehicle for future pilots' means of safety and ejection designs
+
+This equipment has proliferated into the following countries: Afghanistan, Albania, Algeria, Bangladesh, Bulgaria, Cambodia, Cuba, Egypt, Finland, Hungary, India, Indonesia, Iraq, Laos (People's Democratic Republic), Mali, Mongolia, North Korea (Democratic People's Republic of Korea), Poland, Romania, Russian Federation, Somalia, Sudan, Syria, Viet Nam, Yemen.
+
+Here is Variants information for the Mi-4 (Hound) Russian Transport Helicopter:
+The Variants is V-12
+Prototype. Designation reused for the Mi-12.
+Mi-4 (NATO – Hound-A)
+Basic production version.
+Mi-4A
+Assault transport helicopter.
+Mi-4AV
+Armed versions based on the Mi-4A. V for Vooruzhenniy (Armed). Mi-4A with additional armament. Modification of 1967 had weapons complex K-4V, included four 9М17М ATGM "Phalanga" and 96 57-mm NAR S-5M in six blocks UB-16-57U (or six 100-kg bombs or four 250-kg bombs or tanks with an incendiary substance); 185 helicopters were converted to Mi-4AV.
+Mi-4GF
+Factory designation for demilitarised Mi-4 for use in the Civil Air Fleet.
+Mi-4L Lyukes
+Six-seat VIP transport version, sometimes converted into an air ambulance helicopter.
+Mi-4VL
+Fire-fighting version of Mi-4L.
+Mi-4M (NATO – Hound-C)
+Anti-submarine warfare helicopter with searching radar station SPRS-1 ("Kurs-M"), hydroacoustic station "Baku", additional fuel tank and rescue boat with operator in under-fuselage gun turret.
+Mi-4ME
+Export modification of Mi-4M.
+Mi-4VM
+Slightly modified version of Mi-4M, differed by some avionics system.
+Mi-4MR
+Upgraded version of Mi-4VM with the searching radar station "Rubin-V" instead of "Kurs-M".
+Mi-4P / Mi-4VP
+Civil transport helicopter, with accommodation for between 8 and 11 passengers, plus eight stretchers and a medical attendant for air ambulance duties.
+Mi-4PL (NATO – Hound-B)
+Anti-submarine warfare helicopter.
+Mi-4PS
+SAR version.
+Mi-4S Salon
+VIP transport helicopter.
+Mi-4Skh
+Multi-role agricultural helicopter, with a large chemical container in the main cabin. Also used as a fire-fighting helicopter.
+Mi-4T
+Major military production version, equipped with a large diameter main rotor and bulged windows.
+Mi-4VM (VM-12)
+Anti-submarine warfare helicopter.
+Mi-4BT
+Minesweeper with floats.
+Mi-4RI
+Mi-4M equipped with the Rion experimental sonar.
+Mi-4MT
+Torpedo-carrying ASW attack (killer) aircraft derived from Mi-4M.
+Mi-4MU
+Attack helicopter.
+Mi-4MO
+Search helicopter with Oka sonar.
+Mi-4MS
+Search helicopter with Soora infra-red sensor.
+Mi-4FV (Mi-4KV)
+Photographic and guidance helicopter.
+Mi-4Schch
+"Polar version" of Mi-4FV for working at the Soviet Arctic and Antarctic research stations.
+Mi-4SP
+Special rescue modification.
+Mi-4PG
+Experimental version equipped with an external load sling system.
+Mi-4SV
+Mi-4 with improved heat insulation for working in the Far North.
+Mi-4N "Filin" (Horned owl)
+Experimental reconnaissance version intended for night-time use.
+Mi-4KK (Mi-4VKP)
+Mobile command post.
+Mi-4KU (Mi-4VPU)
+Mobile command post for controlling Air Force units.
+Mi-4U
+Target-designator version carrying the Oospekh (Success) system.
+Mi-4GR
+Mi-4 fitted with Grebeshok-3 (Haircomb-3) wide-range panoramic detection and relay radar.
+Mi-4TARK
+TV-equipped artillery reconnaissance and spotting helicopter.
+Mi-4MK (Mi-4PP)
+ECM version.
+Mi-4UM
+Radio-controlled target drone version.
+Harbin Z-5
+Chinese military transport helicopter. Chinese production version.
+Harbin Z-6
+Prototype turbine powered version of the Z-5, no production undertaken.
+Xuanfeng
+Chinese civil transport helicopter. Chinese production version..
+
+Here is System information for the Mi-4 (Hound) Russian Transport Helicopter:
+The Alternative Designation is Mil Mi-4; Type 36; NATO: Hound.
+The Type is Transport Helicopter.
+The Manufacturer is Mil Moscow Helicopter Plant.
+The Crew is 1 or 2.
+The Passengers is 16 troops.
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 3.
+The Number of Engines is 1.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the Mi-4 (Hound) Russian Transport Helicopter:
+The Length is 16.8 m.
+The Width is INA.
+The Height is 4.4 m.
+The Main Rotor Diameter is 21 m.
+The Main Rotor Area is 346.4 m2.
+The Cargo Capacity is 1,600 kg  of cargo.
+The Weight, Empty is 5,100 kg.
+The Weight, Gross is 7,150 kg.
+
+Here is Automotive information for the Mi-4 (Hound) Russian Transport Helicopter:
+The Engine Name is 1 × Shvetsov ASh-82V.
+The Engine Type is 14-cylinder air-cooled radial piston engine.
+The Engine Power is 1,680.
+The Maximum Speed is 185 km/h.
+The Range is 500 km.
+The Service Ceiling is 5,500 m.
+The Disk Loading is 41 kg/m2.
+
+Here is Fire Control and Avionics information for the Mi-4 (Hound) Russian Transport Helicopter:
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Navigation Radar is INA.
+The Laser Designator is INA.
+
+Here is Protection information for the Mi-4 (Hound) Russian Transport Helicopter:
+The Stealth Properties is None.
+The Add on Armor is INA.
+The Heat Signature Reduction is INA.
+The NBC Protection is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

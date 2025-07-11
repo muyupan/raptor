@@ -1,0 +1,89 @@
+This document describes the Type 024 Class (Heku Class) Chinese Missile Boat.
+
+The Type 024 missile boat is a Chinese built small missile boat armed with two anti-ship missiles and there were two versions developed. Although most have been placed in reserve, dozens remain in active service. Those in active service have been rearmed with C-101 supersonic anti-ship missiles.
+
+The Heku class is the major version of Type 024 missile boat and it is also known as Hegu class, Hoku class, Hogu class, Hougu class and Houku class, depending on spelling and pronunciation. This class is the Chinese steel-hulled improvement over the original wooden-hulled Soviet Komar-class missile boat. The boat was designed by the 701st Institute at Wuhu while the missile launcher was designed by the 713th Institute. Since the delivery of the first unit by Wuhu Shipyard, around 80 were built in total, including export units. Ten of the Heku-Class were exported to Iran.
+
+In addition to the development of the Heku class missile boat, another single unit of Type 024 missile boat with hydrofoils was also developed. This boat is called Homa class missile boat, but the design proved to be less satisfactory, and after serving in the People's Liberation Army Navy for evaluation, the unit was retired.
+
+This equipment has proliferated into the following countries: China, Iran (Islamic Republic of).
+
+Here is Variants information for the Type 024 Class (Heku Class) Chinese Missile Boat:
+The Note is Since the delivery of the first unit by Wuhu Shipyard, around 80 were built in total, including export units. Ten of the Heku-Class were exported to Iran..
+
+Here is System information for the Type 024 Class (Heku Class) Chinese Missile Boat:
+The Alternative Designation is Type 024 Class; The Heku class is the major version of Type 024 missile boat and it is also known as Hegu class, Hoku class, Hogu class, Hougu class and Houku class, depending on spelling and pronunciation..
+The Type is Missile Boat.
+The Builder is Wuhu Shipyard.
+The Crew is 17.
+
+Here is Dimensions information for the Type 024 Class (Heku Class) Chinese Missile Boat:
+The Length is 79 m.
+The Beam is 27 m.
+The Draft is 1.8 m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 79 Tons.
+
+Here is Propulsion System information for the Type 024 Class (Heku Class) Chinese Missile Boat:
+The Engine Name is 4 × Soviet M50 or Chinese L-12V-180.
+The Engine Type is Diesel.
+The Engine Power is 4,800 hp (3,600 kW).
+The Maximum Range is 520 nmi (960 km; 600 mi) at 26 kn (48 km/h; 30 mph).
+The Maximum Speed is 38 kn (70 km/h; 44 mph).
+The Endurance is INA.
+
+Here is Gun Weapon System #1 information for the Type 024 Class (Heku Class) Chinese Missile Boat of the Gun Weapon Systems:
+The Name is Type 61.
+The Type is Anti-Aircraft Gun.
+The Caliber is 25mm.
+The Quantity is 4 x Type 61 Twin 25mm Anti-Aircraft Gun.
+The Barrel Length is 1.5 m.
+The Weight is INA.
+The Barrels is 2.
+The Elevation is -10° ~ +85°.
+The Traverse is 360°.
+The Rate oF fire is Compact: 800~900 round/min.
+The Muzzle Velocity is 900 m/s.
+The Maximum Firing Range is 3,000 m.
+The Effective Firing Range is 2,700 m.
+The Feed System is Magazine.
+The Sights is Optical.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Type 024 Class (Heku Class) Chinese Missile Boat of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 25.
+The Shell is 25 x 218 mm SR.
+The Basic Load is INA.
+
+Here is Missile Weapon System information for the Type 024 Class (Heku Class) Chinese Missile Boat:
+The Name is C-101.
+The Type is Supersonic Anti-Ship Cruise Missile.
+The Manufacturer is China Aerospace Science and Industry Corporation.
+The Length is 6.5 m.
+The Diameter is 0.54 m.
+The Wingspan is 1.62 m.
+The Weight is 1.85 tons.
+The Warhead is 300 kg.
+The Detonation Mechanism is Semi-armor-piercing.
+The Engine is Ramje.
+The Propellant is Kerosene.
+The Operational Range is 50 km.
+The Flight Altitude is 50 m (cruising)
+5 m (terminal).
+The Maximum Speed is Mach 2.
+The Guidance System is Radar.
+
+Here is Fire Control Systems information for the Type 024 Class (Heku Class) Chinese Missile Boat:
+The FCS Name is INA.
+The Computerized FCS is INA.
+The Battle Management System is No.
+
+Here is Radar Systems information for the Type 024 Class (Heku Class) Chinese Missile Boat:
+The Navigation Radar is 1 Type 756 navigation radar.
+The Surface Search Radar is 1 × Type 352 Square Tie Surface search radar.
+
+Here is Protection information for the Type 024 Class (Heku Class) Chinese Missile Boat:
+The Active Protection System is Anti-Aircraft Gun and C-101.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

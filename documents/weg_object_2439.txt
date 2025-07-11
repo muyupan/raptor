@@ -1,0 +1,35 @@
+This document describes the Throwbot 2 American Unmanned Ground Vehicle (UGV).
+
+The Throwbot 2 American Unmanned Ground Vehicle (UGV) is a throwable micro-robot platform that enables operators to obtain instantaneous video and audio reconnaissance within indoor or outdoor environments.  Designed to withstand repeated drops of up to 30 feet (9 m) onto concrete, the Throwbot 2 robot can be thrown into hazardous situations in order to allow operators to quickly make informed decisions when seconds count.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the Throwbot 2 American Unmanned Ground Vehicle (UGV):
+The Alternate Designation is Throwbot 2.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is Recon Robotics.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Payload Capacity is None.
+The Drop Shock Resistance is 9.1 m.
+The Throw Resistance is 36 m.
+The Field of View is 60 degrees.
+The Audio is One-way, listening only.
+
+Here is Dimensions information for the Throwbot 2 American Unmanned Ground Vehicle (UGV):
+The Length is 21.1 cm.
+The Width is 20.1 cm.
+The Height is 11.4 cm.
+The Weight is 0.6 m.
+
+Here is Automotive information for the Throwbot 2 American Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Maximum Speed is 2.16 km/h.
+The Outdoor Maximum Range is 137 m.
+The Indoor Maximum Range is 45 m.
+The Maximum Obstacle Climb is 5 cm.
+The Control Radius is 137 m.
+The Endurance is 110 min.
+

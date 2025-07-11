@@ -1,0 +1,117 @@
+This document describes the Type 99 Japanese 155mm Self-Propelled Howitzer (SPH).
+
+The Type 99 howitzer replaced the Type 75 howitzer. The Japanese Defense Agency Technical Research Division designed the howitzer. Like the Type 75, Mitsubishi Heavy Industries, Japan (hull and final assembly) and Japan Steel Works (howitzer and turret) built the howitzer.
+
+The Type 99 is also known as "Long Nose"
+
+It is fitted with a travel lock that is located on the front of the vehicle. The travel lock folds onto the front glacis plate when not in use. The howitzer is also equipped with an auto loader that enables the howitzer to fire a maximum rate of 18 rounds in 3 minutes.. 
+
+Secondary armament consists of a roof-mounted 12.7 mm heavy machine gun. 
+
+Armor of the Type 99 provides protection against small arms fire and artillery shell splinters. Vehicle is fitted with NBC protection system.
+
+It is possible the vehicle is equipped with a muzzle velocity radar (located on the rear of the turret) to feed data into the fire control system.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is System information for the Type 99 Japanese 155mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is Type 99; Long Nose.
+The Type is Self-Propelled Howitzer.
+The Manufacturer is Mitsubishi Heavy Industries/Japan Steel Works.
+The Chassis is Type 99.
+The Crew is 4.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note is The Type 99 self-propelled howitzer is resupplied from the Type 99 ammunition resupply vehicle. A battery of the Type 99 howitzers also includes a mobile command post and fire control radar..
+
+Here is Dimensions information for the Type 99 Japanese 155mm Self-Propelled Howitzer (SPH):
+The Length,Hull is INA.
+The Length, Gun Forward is 12.2.
+The Width is 3.2.
+The Height, Overall is 4.3.
+The Weight is 40, 000.
+The Ground Pressure is INA.
+The Track, Length on Ground is INA.
+The Track width is INA.
+The Ground Clearance is INA.
+
+Here is Automotive information for the Type 99 Japanese 155mm Self-Propelled Howitzer (SPH):
+The Engine Name is 1 x Mitsubishi 6SY31WA.
+The Engine Type is Water cooled, 6-cyl diesel.
+The Engine Power is 600 hp.
+The Fuel Capacity is INA.
+The Range is INA.
+The Speed, Maximum Road is 49.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Side Slope is 60 %.
+The Gradient is 30 %.
+The Vertical Step is 0.9 m.
+The Trench is 2 m.
+The Fording Depth is 1.2 m.
+The Suspension is 7 dual rubber-tired road wheels on both sides with a drive sprocket on the front and an idler wheel at the rear. The howitzer is also equipped with return rollers..
+
+Here is System information for the Type 99 Japanese 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is L52 version of the FH-70 towed howitzer.
+The Type is Rifled Howitzer.
+The Caliber is 155mm/39 cal.
+The Barrel Length is 39 cal.
+The Weight is 9.6 tons.
+The Breech Type is semi-automatic vertical sliding wedge.
+The Recoil System is hydropneumatic.
+The Elevation is INA.
+The Traverse is 360 deg.
+The Maximum Firing Range is 30,000 m (rocket assisted).
+The Maximum Rate of Fire is 18 in 3 minutes.
+The Sustained Rate of Fire is INA.
+
+Here is Ammunition information for the Type 99 Japanese 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is INA.
+The Type is Frag-HE.
+The Caliber is 155 mm.
+The Length is INA.
+The Weight is INA.
+The Maximum Range is 19,000 m.
+The On Board Load is INA.
+The NOTE is The Type 99 is capable of firing the US M107 projectile..
+
+Here is System information for the Type 99 Japanese 155mm Self-Propelled Howitzer (SPH) of the Auxiliary Weapon System:
+The Name is 1 x M2 Browning.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight is 58 kg with tripod and T&E (Traverse and Elevation Mechanism).
+The Action is Short recoil-operated.
+The Rate of Fire is 450–600 rounds/min.
+The Muzzle Velocity is 890 m/s.
+The Maximum Firing Range is 7,400 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is Belt-fed (M2 or M9 links).
+The Sights is INA.
+
+Here is Ammunition information for the Type 99 Japanese 155mm Self-Propelled Howitzer (SPH) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7×99mm NATO.
+The Basic Load is 1,000 rds.
+
+Here is Fire Control information for the Type 99 Japanese 155mm Self-Propelled Howitzer (SPH):
+The Computerized FCS is No.
+The Thermal Sight Vehicle Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is No.
+The Night Vision Devices is Yes.
+
+Here is Protection information for the Type 99 Japanese 155mm Self-Propelled Howitzer (SPH):
+The Hull Armor is Armor of the Type 99 provides protection against small arms fire and artillery shell splinters.
+The Turret Armor is Protection against small arms fire and artillery shell splinters.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The Fire Suppression is INA.
+

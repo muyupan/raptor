@@ -1,0 +1,45 @@
+This document describes the MK 19 American 40mm Grenade Launcher.
+
+The Mk 19 grenade launcher (pronounced Mark 19) is an American 40 mm belt-fed automatic grenade launcher that was first developed during the Vietnam War. The first model (Mod 0) in 1966 was determined to be unreliable and unsafe, but a total of six Mod 1 launchers were successfully tested on U.S. Navy riverine patrol craft in the Mekong Delta in 1972. The Navy made further improvements to the weapon, resulting in Mod 3 in 1976. Mod 3 was adopted by the U.S. Army in 1983 and remains in service to the present day.
+
+The Mk 19 is a belt-fed, blowback-operated, air-cooled, crew-served, fully automatic weapon that is designed not to cook off. It fires 40 mm grenades at a cyclic rate of 325 to 375 rounds per minute, giving a practical rate of fire of 60 rounds per minute (rapid) and 40 rounds per minute (sustained). The weapon operates on the blowback principle, which uses the chamber pressure from each fired round to load and re-cock the weapon. The Mk 19 can launch its grenade at a maximum distance of 2,212 meters (2,419 yds), though its effective range to a point target is about 1,500 meters (1,600 yds), since the large rear leaf sight is only graduated as far. The nearest safe distance to launch the grenade is 310 meters in training and 75 meters in combat. Though the Mk 19 has a flash suppressor, it serves only to save the eyesight of its operator, not concealing the weapon's position. For night operation, a Picatinny rail quadrant sight can be added for thermal and night vision optics.
+
+The Mk 19A is a man-portable crew-served weapon that can fire from a tripod-mounted position or from a vehicle mount, with the latter being the preferred method, as the weapon alone weighs 77.6 pounds (35.2 kg). The primary ammunition for it is the high-explosive dual-purpose M430 grenade. On impact, the grenade can kill anyone within a radius of five meters, and wound them within a radius of 15 meters. It can also punch through 2 inches (5.1 cm) of rolled homogeneous armor with a direct hit (0-degree obliquity), which means it can penetrate most infantry fighting vehicles and armored personnel carriers. It is especially effective when used against enemy infantry formations. The ammunition comes in cans that hold a 32- or 48-grenade belt weighing 42 and 60 pounds (19 and 27 kg), respectively. Due to its low recoil and comparatively lightweight, it has been adapted for use on many different platforms, including small attack boats, fast attack vehicles such as the Humvee (HMMWV), AAV, and Stryker, military jeeps, and a large variety of naval mounts.
+
+The Mk 19 automatic grenade launcher replaced the earlier Mk 18 hand-cranked multiple grenade launcher. The 40 mm ammunition used (40×53 mm) is not interchangeable with that used in the M203 (40×46 mm). The M203 ammunition develops a lower chamber pressure, and resultant lower muzzle velocity and range, compared to ammunition loaded for the Mk 19. The Mk 19 fires from an open bolt. The rounds are mechanically fed onto the bolt face with the pull of the charging handles. When the trigger is pressed, the bolt closes, and the firing pin is released. The recoil blows back the bolt, and feeds a new round onto the bolt face, which pushes the expended casing off the bolt face.
+
+Production of the Mk 19 is managed by Saco Defense Industries (now a division of General Dynamics Ordnance and Tactical Systems).
+
+In November 2014, General Dynamics entered into an agreement with Advanced Material Engineering Pte Ltd, a subsidiary of Singapore Technologies Kinetics, to manufacture 40 mm high-velocity air burst ammunition for the U.S. military. The 40 mm air burst grenade uses a programmable, time-based fuse that computes and programs the detonation time into it, which counts down once fired to zero to detonate at the intended target point. The airburst ammunition is compatible with the Mk 19, which would give it greater effectiveness and lethality, particularly against concealed and defilade targets.
+
+The U.S. Army plans to introduce several new features to the Mk 19 in an upgrade package that could be introduced by late 2017. Initiatives include: increased muzzle velocity through a less resistant barrel; increased cyclic rate from an improved profile for the vertical cam to reduce the force needed to charge the weapon; enhancing reliability with a redesigned round-positioning block to decrease the chance of misfires; increased durability and shortened re-assembly time after maintenance from a new cocking cam and lever; and an updated mechanical sight utilizing up-to-date ammunition ballistic data to aid accuracy.
+
+This equipment has proliferated into the following countries: Argentina, Australia, Bangladesh, Brazil, Canada, Croatia, Egypt, Greece, Honduras, Iran (Islamic Republic of), Iraq, Israel, Italy, Lebanon, Malaysia, Mexico, Morocco, Pakistan, Poland, Saudi Arabia, Spain, Sweden, Taiwan, Thailand, Turkey, United States of America.
+
+Here is Variants information for the MK 19 American 40mm Grenade Launcher:
+The Mk 19A is The Mk 19A is a man-portable crew-served weapon that can fire from a tripod-mounted position or from a vehicle mount, with the latter being the preferred method, as the weapon alone weighs 77.6 pounds (35.2 kg). The primary ammunition for it is the high-explosive dual-purpose M430 grenade. On impact, the grenade can kill anyone within a radius of five meters, and wound them within a radius of 15 meters. It can also punch through 2 inches (5.1 cm) of rolled homogeneous armor with a direct hit (0-degree obliquity), which means it can penetrate most infantry fighting vehicles and armored personnel carriers. It is especially effective when used against enemy infantry formations. The ammunition comes in cans that hold a 32- or 48-grenade belt weighing 42 and 60 pounds (19 and 27 kg), respectively. Due to its low recoil and comparatively lightweight, it has been adapted for use on many different platforms, including small attack boats, fast attack vehicles such as the Humvee (HMMWV), AAV, and Stryker, military jeeps, and a large variety of naval mounts..
+
+Here is Mk 19 Grenade Launcher information for the MK 19 American 40mm Grenade Launcher of the System:
+The Name is Mk 19 Grenade Launcher.
+The Type is Grenade Launcher.
+The Caliber is 40 mm.
+The Manufacturer is Saco Defense Industries (now a division of General Dynamics Ordnance and Tactical Systems), Combined Service Forces, MKEK.
+The Length is 1,090 mm.
+The Barrel Length is 413 mm.
+The Width is 240.4 mm.
+The Height is 199 mm.
+The Weight is 35.2 kg (empty without accessories).
+The Action is Blowback (Advanced primer ignition).
+The Rate of Fire is 360–390 rpm
+(cyclic) 40 rpm (sustained)
+60 rpm (rapid).
+The Muzzle Velocity is 750–790 feet per second (230–240 m/s) (average).
+The Effective Firing Range is 1,500 m.
+The Maximum Firing Range is 2,212 m.
+The Feed System is 32- or 48-grenade belt.
+
+Here is Ammunition information for the MK 19 American 40mm Grenade Launcher of the System:
+The Cartridge is 40×53 mm.
+The Caliber is 40 mm.
+The Basic Load is INA.
+

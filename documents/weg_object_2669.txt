@@ -1,0 +1,218 @@
+This document describes the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC).
+
+ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC) is equipped with the equipment required to conduct C2 at a brigade level. Like many of the support platforms based on this family, it is designed to have matching mobility and protection so that it can work with the formation on the battlefield. The platform is known to be in service and may have the designation ZZH-09, which stands for Armoured, Combat Service Support, and Command respectively.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC):
+The PLL-09 (Type 09) Modular Self-propelled Howitzer system is Based on IFV variant. Can be armed with either a 122mm or 155mm howitzer, to provide indirect fire support for infantry..
+The ZTL-11 is The ZTL-11 is the direct fire support version of the Type 09 family. It is equipped with a 105 mm direct fire gun and is capable of defeating heavily armored targets if engaged from opportune ranges or in an ambush. The vehicle is designed to provide a combined arms brigade with enough organic firepower to defeat the majority of opposition encountered. The ZTL designation stands for armored (Z), assault gun (T), and wheeled (L)..
+The ZZH-09 C2 is This variant of the Type 09 family is equipped with the equipment required to conduct C2 at a brigade level. Like many of the support platforms based on this family, it is designed to have matching mobility and protection so that it can work with the formation on the battlefield. The platform is known to be in service and may have the designation ZZH-09, which stands for Armoured, Combat Service Support, and Command respectively..
+The ZBL-09 ARV is The ARV of the Type 09 family is designed to support, repair, and recover damaged or incapacitated Type 09 vehicles in combat. It is armored to the same level so that it can accompany a mechanized formation wherever it is required..
+The ZBL-09 Bridging Platform is Bridging Platform..
+The ZBL-09 Combat Engineering Platform is ZBL-09 Combat Engineering Platform..
+The ZBL-09 SHORAD is SHORAD.
+The VN1 Anti-Tank Missile Carrier is Anti-Tank Missile Carrier.
+The ZBL-09 35mm Air-Defence Platform is Air-Defence Platform.
+The ZBL-09 Ambulance is Ambulance..
+The ZBL-09 EW platform is EW Platform..
+The ZBL-09 Reconnaissance Platform is Reconnaissance Platform..
+The VN1C Armour Day, 2017 is INA.
+The Type 09 Assault Gun Platform is Assault Gun Platform..
+
+Here is System information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC):
+The Alternative Designation is ZZH-09.
+The Manufacturer is NORINCO.
+The Type is Amphibious Armor Personnel Carrier (APC).
+The Configuration is 8x8.
+The Estimated out of Service Date is 2043.
+The Cost is $1.8 Million.
+The Crew is 3.
+The Troop Compartment Capacity is 7.
+The Maximum Effective Range is 800.
+
+Here is Dimensions information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC):
+The Length is 8.0.
+The Width is 3.0.
+The Height is 2.1.
+The Weight, Combat is 21,000.
+The Ground Pressure is INA.
+
+Here is Automotive information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC):
+The Engine Name is DEUTZ BF6M1015 CP.
+The Engine Type is Water-cooled Diesel.
+The Engine Power is 440hp at 2,100 rpm.
+The Power to Weight Ratio is 16.5.
+The Cruising Range is 800.
+The Speed, Maximum Road is 100.
+The Speed, Average Cross is 50.
+The Speed, Maximum Swim is 8.
+The Propellers is 2.
+The Transmission is Manual.
+The Suspension System is Independent.
+The Axels is Differential Lock Enabling.
+The Slope is 30.
+The Vertical Obstacle is 0.55.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.55.
+The Fording Depth is Amphibious.
+The Trench is 1.8.
+
+Here is TBR-121 VHF Radio information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC) of the Communcations:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Proliferated is Widely.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC) of the Main Gun:
+The Name is 1 x 2A72 (Shipunov 2A42) 30mm Auto-Cannon.
+The Type is Auto-cannon.
+The Caliber is 30 mm.
+The Date of Introduction is 1980.
+The Length, Total is 3.027.
+The Length, Barrel is 2,416.
+The Weight is 115.
+The Action is Gas Operated.
+The Barrels is 1.
+The Rate of Fire (Low) is 200-300.
+The Rate of Fire (High) is 550-800.
+The Feed System is Twin Feed.
+The Cage Cooling Sleeve is Yes.
+The Traverse is 360.
+The Cage Cooling Sleeve is Yes.
+
+Here is Ammunition (Option 1) information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC) of the Main Gun:
+The Type is Armour Piercing Fin Stabilized Discarding Sabot with Tracer(APFSDS-T).
+The Caliber is 30.
+The Muzzle Velocity is 1,275.
+The Maximum Effective Range is 2,800.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Round Mass (Nominal) is 675.
+The Projectile Mass (Nominal) is 220.
+The Round Length is 280.
+The Tracer is 2.5.
+The Cartridge Case is Steel.
+The Primer is Percussion cap.
+The Dispersion is 0.45.
+The Penetration at 1,000 is >45mm RHA steel at 60° obliquity.
+The Operational temperature is -32°C to +62°C.
+The Basic Load is 125.
+
+Here is Ammunition (Option 2) information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC) of the Main Gun:
+The Type is High Explosive Incendiary.
+The USSR Designation is UOF-84.
+The Caliber is 30mm.
+The Description is Shell filled with 48,5g HEI, with A-670M fuze.
+The Muzzle Velocity is 960.
+The Max Range is 5,000.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Weight, Bullet is 0.39.
+The Basic Load is 125.
+
+Here is HJ-73 or Red Arrow 73 Missiles (Option 1) information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC) of the Anti-Tank Guided Missiles (ATGM):
+The Name is Red Arrow 73B.
+The Type is Anti-Tank Missile System.
+The Muzzle Velocity is 120.
+The Maximum Range is 2,800.
+The Warhead Type is Tandem-HEAT.
+The Hit Probability is 90.
+The Penetration Probability is 80.
+The Penetration is 200 mm of RHA set at 68° and protected by ERA.
+
+Here is HJ-73 or Red Arrow 73 Missiles (Option 2) information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC) of the Anti-Tank Guided Missiles (ATGM):
+The Name is Red Arrow 73D.
+The Type is Anti-Tank Missile System.
+The Muzzle Velocity is 130.
+The Maximum Range is 2,800.
+The Warhead Type is Tandem-HEAT.
+The Hit Probability is 90.
+The Penetration Probability is 80.
+The Penetration is 280 mm of RHA set at 68° and protected by ERA.
+
+Here is HJ-73 or Red Arrow 73 Missiles (Option 3) information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC) of the Anti-Tank Guided Missiles (ATGM):
+The Name is Red Arrow 73E.
+The Type is Anti-Tank Missile System.
+The Muzzle Velocity is 135.
+The Maximum Range is 3,000.
+The Warhead Type is Tandem-HEAT.
+The Hit Probability is 90.
+The Penetration Probability is 80.
+The Penetration is 300 mm of RHA set at 68° and protected by ERA.
+
+Here is HJ-73 or Red Arrow 73 Missiles (Option 4) information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC) of the Anti-Tank Guided Missiles (ATGM):
+The Name is Red Arrow 73F.
+The Type is Anti-Tank Missile System (Bunker Buster).
+The Muzzle Velocity is 130.
+The Maximum Range is 2,800.
+The Warhead Type is Fuel Air Explosive Warhead.
+The Hit Probability is 90.
+The Penetration Probability is 80.
+The Penetration is 300 mm of RHA set at 68° and protected by ERA.
+
+Here is System information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC) of the Auxiliary Weapon System:
+The Name is 1 x Type 80 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is Norinco.
+The Length, Total is 1,192.
+The Length, Barrel is 658.
+The Diameter is INA.
+The Action is Gas Operated.
+The Rate of Fire is 700-800.
+The Feed System is Belts in 100/200/250 round boxes.
+The Sights is Open sights. Optical/Night vision scope can be outfitted..
+
+Here is Ammunition information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×54mmR.
+The Min Range is 100.
+The Muzzle Velocity is 840.
+The Effective Firing Range is 100-1,500.
+The Armor Penetration is INA.
+The Basic Load is Belts in 100/200/250 round boxes.
+
+Here is Fire Control information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC):
+The Name is BDS System.
+The Computerized FCS is Yes.
+The Thermal Tank Commander is Yes.
+The Thermal Gunner is Yes.
+The Main Gun Stabilization is INA.
+The Firing Ports is Yes.
+The IFF is INA.
+The GPS is Yes.
+The Winch is Available.
+The Satellite Navigation System is BeiDou System.
+The IR Thermal Optic is Installed.
+The IR Thermal Optic Detection Maximum Range is 8,000.
+The IR Thermal Optic Identification Maximum Range is 3,500.
+The High Definition Color Video Camera is Yes.
+The High Definition Color Video Camera Detection Maximum Range is 12,000.
+The High Definition Color Video Camera Detection Maximum Range is 7,000.
+The Range Finder (Laser) Maximum Range is 10.
+The Radar Type is Ku-band battlefield radar.
+The Radar Maximum Target Detection Range is 12.
+The Radar Minumum Target Detection Range is 200.
+
+Here is Protection information for the ZZH-09 (Type 09) Chinese 8x8 Amphibious Armor Personnel Carrier (APC):
+The Hull and Turret Armor is High hardness armor steel, which provides protection against 12.7mm armor-piercing incendiary (API) strikes frontally at 100m..
+The Side Armor is 7.62mm API on the sides at 100m..
+The Rear Armor is 7.62mm ball at the rear..
+The Applizue Armor is Available, the ZBD-09 can also be fitted with an add-on armor package that enables the vehicle to survive 25 mm API frontally at 1,000m and 12.7mm API on the sides at 100m..
+The Explosive Reactive Armor is INA.
+The Active Protection System is yes.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, 12 x Smoke Grenade Launchers (6 on each side).
+The Central Tire Inflation System is Yes, The tires are fitted with a CTIS and RFIs, which means that the tyres will continue to support the vehicle once punctured for 100 km at a speed of 40 km/h..
+The Automatic Fire Extinguishing System is Yes.
+The Air Conditionning System, is Yes.
+

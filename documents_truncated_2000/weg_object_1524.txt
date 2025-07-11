@@ -1,0 +1,108 @@
+This document describes the CB-90 Class Swedish Fast Assault Craft.
+
+Combat Boat 90 (CB-90) can carry and deploy a half platoon of amphibious infantry (18 men) fully equipped) is a class of fast military assault craft originally developed for the Swedish Navy by Dockstavarvet. In addition to the many variants in service with the Swedish Navy under the "Stridsbåt 90H" designation, the CB 90 has been adopted by the navies of several countries, including Norway (as the S90N), Greece, Mexico (as the CB 90 HMN), the United States (as the Riverine Command Boat) and Malaysia. Additionally, the German Navy plans to equip the Berlin-class replenishment ships with the CB90.
+
+The CB90 is an exceptionally fast and agile boat that can execute extremely sharp turns at high speed, decelerate from top speed to a full stop in 2.5 boat lengths, and adjust both its pitch and roll angle while underway. Its lightweight, shallow draught, and twin water jets allow it to operate at speeds of up to 40 knots (74 km/h) in shallow coastal waters. The water jets are partially ducted, which, along with underwater control surfaces similar to a submarine's diving planes, gives the CB90 its maneuverability.
+
+This equipment has proliferated into the following countries: Estonia, Greece, Mexico, Norway, Sweden, United States of America.
+
+Here is Variants information for the CB-90 Class Swedish Fast Assault Craft:
+The The Strb 90 L is The Strb 90 L is outfitted for battalion-level command and control, with computer and communications equipment and an auxiliary generator to provide electrical power when the engines are not running. The L stands for ledning (command or leadership)..
+The The Strb 90 KompL is The Strb 90 KompL is a plain Strb 90 H in which portable computer and communications equipment has been installed, allowing it to temporarily provide company-level command and control. Electrical power is provided by a rather loud portable generator installed on deck..
+The The Strb 90 HS is is designed for overseas peace-keeping and rescue operations. It is modified to keep its crew comfortable in Mediterranean conditions, with air conditioning, an auxiliary generator, ahead, and more comfortable crew stations. More importantly, it is armored, and its engines have been upgraded to compensate for the added weight..
+The Strb 90 H is At least one Strb 90 H, pennant number 802, is equipped with a decompression chamber..
+The SB90N is The Royal Norwegian Navy operates 20 CB90s under the designation SB90N; the N simply stands for Norsk utgave (Norwegian version). The S90N differs from the Strb 90 H in a few areas:
+
+*It is armed with only one 12.7 mm machine gun, instead of three.
+*The anchor winch is motorized, and the anchor is mounted at the stern, allowing a grounded S90N to tow itself afloat rather than risk damage to its impellers.
+It carries an auxiliary generator that provides electrical power to navigation and communications systems even when the engines are not running.
+The "Troops transportation room" has a higher deck height, making it possible for most people to stand without crouching.
+It has two water-tight compartments in the bow, having an extra room for toilet and stores.
+It has much more sophisticated navigation equipment based on GPS technology delivered by Kongsberg Seatex AS..
+
+Here is System information for the CB-90 Class Swedish Fast Assault Craft:
+The Alternative Designation is CB-90; Combat Boat 90.
+The Type is Fast Assault Craft.
+The Builders is Dockstavarvet, Gotlandsvarvet.
+The Total Built is +300 Total Built
+Greece
+Hellenic Coast Guard: 3
+ Malaysia
+Malaysian Navy: 5 unit CB90, 12 unit CB90HEX
+ Mexico
+Mexican Navy: 48
+ Norway
+Royal Norwegian Navy: 20
+ Sweden
+Royal Swedish Navy: 147 in service, 18 on order
+ United Kingdom
+Royal Navy: 4, formerly leased from the Royal Swedish Navy, used to evaluate the option of potential acquisition and returned to the Swedish Navy.
+ United States
+US Navy: 6, known as 'Riverine Command Boat'.
+The Crew is 3 (two officers and one engineer).
+The Passengers is Up to 21 amphibious troops with full equipment.
+
+Here is Dimensions information for the CB-90 Class Swedish Fast Assault Craft:
+The Length, Overall is 15.9 m.
+The Beam is 3.8 m.
+The Draught is 0.8 m.
+The Displacement, Empty is 13,000 kg.
+The Displacement, Standard is 15,300 kg.
+The Displacement, Fully Loaded is 20,500 kg.
+
+Here is Automotive information for the CB-90 Class Swedish Fast Assault Craft:
+The Engine Name is 2 × Scania DSI14.
+The Engine Type is V8 Diesel.
+The Engine Power is 625 bhp.
+The Speed is 40 knots (74 km/h).
+The Range is 240 nmi (440 km) at 20 knots (37 km/h).
+
+Here is Weapon Station #1 information for the CB-90 Class Swedish Fast Assault Craft of the Armament:
+The Name is 3 x M2HB Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Quantity is 3 x M2HB Heavy Machine Gun.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Weight is 38 kg.
+The Action is Short recoil-operated.
+The Rate of Fire is 450–600 rounds/min.
+The Muzzle Velocity is 890 m/s.
+The Effective Fire is 1,800 m.
+The Maximum Firing Range is 7,400 m.
+The Feed System is Belt-fed (M2 or M9 links).
+
+Here is Ammunition, Weapon Station #1 information for the CB-90 Class Swedish Fast Assault Craft of the Armament:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 2.7×99mm NATO.
+The Basic Load is 2,000 rounds.
+
+Here is Weapon Station #2 information for the CB-90 Class Swedish Fast Assault Craft of the Armament:
+The Name is Mk 19 Grenade Launcher.
+The Type is Grenade Launcher.
+The Quantity is 1 x Mk 19 Grenade Launcher.
+The In Service is 1968-Present.
+The Manufacturer is Saco Defense Industries (now a division of General Dynamics Ordnance and Tactical Systems), Combined Service Forces, MKEK.
+The Length is 1,090 mm.
+The Barrel Length is 413 mm.
+The Width is 240.4 mm.
+The Height is 199 mm.
+The Weight is 35.2 kg (empty without accessories).
+The Action is Blowback (Advanced primer ignition).
+The Rate of Fire is 360–390 rpm (cyclic); 40 rpm (sustained); 60 rpm (rapid).
+The Muzzle Velocity is 230–240 m/s.
+The Effective Firing Range is 1,500 m.
+The Maximum Firing Range is 2,212 m.
+The Feed System is 32- or 48-grenade belt.
+
+Here is Ammunition, Weapon Station #2 information for the CB-90 Class Swedish Fast Assault Craft of the Armament:
+The Type is Grenade.
+The Caliber is 40 mm.
+The Cartridge is 40×53 mm.
+The Basic Load is INA.
+
+Here is Protection information for the CB-90 Class Swedish Fast Assault Craft:
+The Hull Armor is The machinery compartment is protected by an insulated watertight bulkhead. The middle of the boat consists of a cabin with capacity for 20 troops and their equipment. The wheelhouse is protected against splinters and is located between the troop compartment and the bow ramp landing area..
+The Countermeasures is INA.
+The EW is INA.
+

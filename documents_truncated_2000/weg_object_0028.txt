@@ -1,0 +1,42 @@
+This document describes the KWT-TMOP-300 Chinese Tethered Unmanned Aerial Vehicle (UAV).
+
+The KWT-TMOP-300 Chinese Tethered Unmanned Aerial Vehicle (UAV) is used for industrial applications, aerial photography, telecom applications, inspection, instrument, monitoring, civilian, offshore applications, mapping, logistics, observation, reconnaissance, for the movie industry, for exterior security applications, for photogrammetry, gas detection, for heavy loads.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the KWT-TMOP-300 Chinese Tethered Unmanned Aerial Vehicle (UAV):
+The KWT-TMOP-100 is Is used for industrial applications, aerial photography, telecom applications, inspection, instrument, monitoring, civilian, offshore applications, mapping, logistics, observation, reconnaissance, for the movie industry, for exterior security applications, for photogrammetry, gas detection, for heavy loads..
+
+Here is System information for the KWT-TMOP-300 Chinese Tethered Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is KWT-TMOP-300.
+The Type is Tethered Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Shenzhen Keweitai Enterprise Development Co.,Ltd.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Cable Length is 350 m.
+The Maximum Working Load is 25 kg.
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+
+Here is Dimensions information for the KWT-TMOP-300 Chinese Tethered Unmanned Aerial Vehicle (UAV):
+The Length is INA.
+The Wingspan is 3,150 mm.
+The Motor Wheelbase is 2,320 mm.
+The Fuselage Height is 900 mm.
+The Weight, Empty is 19 kg.
+The Maximum Takeoff Weight is 56 kg.
+
+Here is Automotive information for the KWT-TMOP-300 Chinese Tethered Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Tethered Flight Climb Speed is 2 m/s.
+The Tethering Flight Decent Speed is 1 m/s.
+The Maximum Free Flight Speed is 15 m/s.
+The Maximum Free Flight Climb Speed is 4 m/s.
+The Maximum Free Flight Descent Speed is 2 m/s.
+The Maximum Working Altitude is 5,000 m.
+The GNSS Single-Point Hovering Accuracy is ± 2m horizontally, ± 1.5m vertically.
+The GNSS RTK Hovering Accuracy is Vertical direction: ± 0.2m.
+The Endurance is 8 hours.
+

@@ -1,0 +1,132 @@
+This document describes the 1L122-1E Baurnal-T Russian Mobile Air Defense Command and Control System.
+
+Barnaul-T is the baseline air defense command & control subsystem of the integrated troop and weapon management system designed to detect aerial targets and control air defense systems of the Army, marine units, and the Airborne Force. The Barnaul-T baseline air defense command and control subsystem is designed to fit tactical units’ air defense (AD) control posts (CP) with advanced automation, communication, and data exchange equipment in order to effectively control air defense troops and weapons, coordinate their activities, and increase their mobility and survivability under any combat conditions.
+
+The systems use the 9S932-1 intelligence and control module with 1L122-1E radar mounted on a BTR-MD Rakushka amphibious tracked chassis or MT-LBU.
+
+The new air defense control system use of automation equipment at the tactical level increases the efficiency of short-range SAM systems by up to 20% and reduces the expenditure of missiles per killed target by up to 30%.
+
+The Barnaul-T baseline air defense command and control subsystem is designed to fit tactical units’ air defense (AD) control posts (CP) with advanced automation, communication, and data exchange equipment in order to effectively control air defense troops and weapons, coordinate their activities, and increase their mobility and survivability under any combat conditions.
+
+The Barnaul-T baseline set is used to equip
+*AD division/brigade CP (mission planning module (MPM) mounted on the 9S931-1 wheeled chassis);
+*AD regiment CP (MP-K 9S931-1 and 9S931 MPM);
+*AD battalion CP (9S931 MPM);
+*Battery command and control (C2) post (9S932-1 reconnaissance and control vehicle with 1L122-1E radar);
+*MANPADS platoon C2 post (9S933 portable fire control unit);
+*SAM squad – 9S935 MANPADS squad automation equipment set.
+ 
+
+The configuration of the Barnaul-T baseline set depends on the organizational structure of the Customer’s tactical military units.
+
+This equipment has proliferated into the following countries: Belarus, Bulgaria, Czech Republic, Hungary, Moldova, Poland, Romania, Russian Federation, Slovakia, Ukraine.
+
+Here is System information for the 1L122-1E Baurnal-T Russian Mobile Air Defense Command and Control System:
+The Alternative Designation is 1L122-1E Baurnal-T.
+The Type is Mobile Air Defence Command and Control System.
+The Manufacturer is INA.
+The Crew is INA.
+The Mission is The Barnaul-T air defense control system is designed to detect aerial targets and control air defense systems of the Army, marine units and the Airborne Force. The systems uses the 9S932-1 intelligence and control module with 1L122-1E radar..
+The Chassis is BTR-MD Rakushka.
+The Passenger Capacity is 13.
+The Payload Capacity is 2,000 kg.
+The Paradropped is The 1L122-1E Baurnal-T can be carried by and para dropped from most medium cargo aircraft with the crew of three inside. The Il-76 can carry two of these airborne APCs. A single-vehicle can be carried underslung by the Mi-26 heavy cargo helicopter..
+The Radar Detection Range is 1-40 km.
+The Traget Tracking Speed is The 1L122-1E (1L122-2E) radar makes it possible to detect the indicated types of air targets flying at a speed of up to 700 m / s.
+The Detection Zone Azimuth is 360 deg.
+The Detection Zone Elevation is -5 (0) - +45 (60) degrees.
+The Effective Dispersion Area (EPR) is The mean square errors of determining the coordinates of a single target with an effective dispersion area (EPR) of 1 square m..
+The Data Update Rate is 2 (4) or 4 (10) s.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note is The Barnaul-T baseline set is used to equip:
+*AD division/brigade CP (mission planning module (MPM) mounted on the 9S931-1 wheeled chassis);
+*AD regiment CP (MP-K 9S931-1 and 9S931 MPM);
+*AD battalion CP (9S931 MPM);
+*Battery command and control (C2) post (9S932-1 reconnaissance and control vehicle with 1L122-1E radar);
+*MANPADS platoon C2 post (9S933 portable fire control unit);
+*SAM squad – 9S935 MANPADS squad automation equipment set..
+
+Here is Dimensions information for the 1L122-1E Baurnal-T Russian Mobile Air Defense Command and Control System:
+The Length is 6.1 m.
+The Width is 3.1 m.
+The Height is 2.5 m.
+The Weight, Combat is 13.2 tons.
+The Antenna Length is 1,200 mm.
+The Antenna Weight is 800 mm.
+
+Here is Automotive information for the 1L122-1E Baurnal-T Russian Mobile Air Defense Command and Control System:
+The Engine Name is 2V-06-2.
+The Engine Type is Diesel.
+The Engine Power is 450.
+The Cruising Range is 500.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 10.
+The Sea State is It can operate up to a Sea State 3..
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Trench is 1.8.
+The Fording Depth is Amphibious.
+
+Here is System information for the 1L122-1E Baurnal-T Russian Mobile Air Defense Command and Control System of the Main Weapon System:
+The Name is 1 x PKTM 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Manufacturer is Degtyaryov plant.
+The Length is 1098.
+The Width is 195.
+The Height is 170.
+The Weight is 10.5 kg.
+The Rate of Fire is 700-800 Rounds per minute.
+The Muzzle Velocity is 850 ms.
+The Maximum Firing Range is 4,000 m.
+The Effective Firing Range is 1,500 m.
+The Belt Capacity is 250 Rounds.
+The Sights is Tangent iron sights.
+
+Here is Ammunition information for the 1L122-1E Baurnal-T Russian Mobile Air Defense Command and Control System of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7,62х54R.
+The Basic Load is INA.
+
+Here is System information for the 1L122-1E Baurnal-T Russian Mobile Air Defense Command and Control System of the Auxiliary Weapon System:
+The Name is 1 x AGS-17 30mm Automatic Grenade Launcher.
+The Type is Automatic Grenade Launcher.
+The Caliber is 30 mm.
+The Length is 840 mm.
+The Width is INA.
+The Height is INA.
+The Weight is 31 kg.
+The Action is Blowback.
+The Rate of Fire is 400 round/min.
+The Muzzle Velocity is 185 m/s.
+The Effective Firing Range is 800 to 1,700 m.
+The Feed System is 29 grenade belt.
+The Sights is Adjustable iron sights, optional mount required for optical sights..
+
+Here is Ammunition information for the 1L122-1E Baurnal-T Russian Mobile Air Defense Command and Control System of the Auxiliary Weapon System:
+The Type is Grenade.
+The Caliber is 30 mm.
+The Cartridge is 30×29mm Grenade.
+The Basic Load is INA.
+
+Here is Fire Control information for the 1L122-1E Baurnal-T Russian Mobile Air Defense Command and Control System:
+The Name is INA.
+The Computerized FCS is No.
+The Thermal Sight Vehicle Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is INA.
+
+Here is Protection information for the 1L122-1E Baurnal-T Russian Mobile Air Defense Command and Control System:
+The Hull Armor is The protection of this vehicle is very light due to weight limitations. The Hull of the BTR-MD is welded from aluminum armor. It provides protection only from small arms fire and artillery shell splinters. The vehicle is fitted with NBC protection and automatic fire suppression systems..
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

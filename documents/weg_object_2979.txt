@@ -1,0 +1,102 @@
+This document describes the Eridan Class French Minehunter.
+
+In France the class is known as the Éridan class. Each hull was created from fibreglass, moulded in a steel shell. The hulls were 51.6 metres (169 ft 3 in) long overall with a beam of 8.9 metres (29 ft 2 in) and a draught of 3.8 metres (12 ft 6 in). The ships had a standard displacement of 571 tonnes (562 long tons) and 605 t (595 long tons) at full load. This later increased to 625 t (615 long tons) at full load. A 5.1 tonnes (5 long tons) container can be stored aboard the ships for additional supply room. The minehunters had an initial complement of 55, this was later reduced to 49.
+
+The Éridan-class minehunters have two independent propulsion systems. In normal operations the minehunters are powered by a 1,400-kilowatt (1,900 bhp) Brons-Werkspoor (later Wärtsilä) A-RUB 215V-12 diesel engine turning one shaft with a LIPS controllable pitch propeller. Using the conventional system, the minehunters have a maximum speed of 15 knots (28 km/h; 17 mph) and a range of 3,000 nautical miles (5,600 km; 3,500 mi) at 12 knots (22 km/h; 14 mph). For use when minehunting the vessels have two 180 kW (240 hp) ACEC active rudders and a bow thruster. These are energised by three Astazou IVB gas turbine alternators rated at 150 kW. A fourth diesel-driven alternator rated at 160 kW supplies power during normal operations. Both systems can be operated from the bridge or from a soundproof control centre above the main deck. The maximum speed using the minehunting propulsion system that can be achieved is 7 knots (13 km/h; 8.1 mph).
+
+The minehunters were equipped with DUBM 21B sonar that could detect and classify ground and moored mines to a range of 80 metres (260 ft). The sonar was retracted during normal operations. The vessel was also equipped with Racal Decca 1229 radar. The vessels carried two ECA PAP 104 remotely operated underwater vehicles (ROVs). In 2001, the minesweepers underwent modernisation and the sonar was replaced with the TUS 2022 Mk III type, the radar with the Bridgemaster E250 type and a TSM 2061 combat data system and a Bofors Double Eagle Mk2 ROV were fitted.
+
+The Éridan class is armed with one 20 mm modèle F2 gun capable of firing 720 rounds per minute to a range of 2 kilometres (1.2 mi). The minehunters also mount one 12.7 mm (0.5 in) machine gun and two 7.62 mm (0.30 in) machine guns. The French vessels have limited minesweeping ability and were initially only fitted with mechanical sweep gear. In 1985, the Éridan class received AP4 acoustic sweep gear.
+
+This equipment has proliferated into the following countries: France.
+
+Here is Variants information for the Eridan Class French Minehunter:
+The Éridan is Commissioned: 1984
+Status: Decommissioned in 2018.
+The Cassiopée is Commissioned: 1984
+Status: Active.
+The Andromède is Commissioned: 1984
+Status: Active.
+The Pégase is Commissioned: 1985
+Status: Active.
+The Orion is Commissioned: 1986
+Status: Active.
+The Croix du Sud is Commissioned: 1986
+Status: Active.
+The L'Aigle is Commissioned: 1987
+Status: Active.
+The Lyre is Commissioned: 1987
+Status: Active.
+The Persée is Commissioned: 1988
+Status: Decommissioned in August 2009.
+The Sagittaire (1989) is Commissioned: 1989
+Status: Sold to Pakistan in 1992, renamed Munsif..
+The Sagittaire (1996) is Commissioned: 1996
+Status: Replacement for Sagittaire (1989)..
+The Verseau is Commissioned: 1987
+Status: Former Belgian Iris, decommissioned in February 2010.
+The Céphée is Commissioned: 1987
+Status: 	Former Belgian Fuchsia.
+The Capricorne is Commissioned: 1987
+Status: 	Former Belgian Dianthus.
+
+Here is System information for the Eridan Class French Minehunter:
+The Alternative Designation is Eridan Class.
+The Type is French Minehunter.
+The Builder is Franch; Company: INA.
+The Crew is 34-42.
+The Mine Warfare System is Mine countermeasures equipment originally included two PAP-104 Mark 4 remote-controlled submersibles, EVEC 20 plot table, autopilot, Toran and Sydelis radio navigation aids, as well as the Decca HiFix Mark 6 precision navigation system. The mine-detection range of the sonar is greater than 1,640 ft (500 m). An autopilot system is provided. Starting in 1999, the class was fitted with new Consilium Selesmar NN 950 navigational radars..
+
+Here is Dimensions information for the Eridan Class French Minehunter:
+The Length is 51.6 m.
+The Beam is 9.0 m.
+The Draft is 2.6 m.
+The Displacement, Standard is 510 tons.
+The Displacement, Full Load is 540 tons.
+
+Here is Propulsion System information for the Eridan Class French Minehunter:
+The Engine Name is 1 x Brons-Werkspoor A-RUB 215 x 12 diesel.
+The Engine Type is Diesel.
+The Engine Power is 1,900 total bhp; 1 shaft.
+The Auxiliary Power is 2 x 120-shp ACEC active rudders (for minesweeping).
+The Bow-Thrusters is 2 x  75-shp bow-thrusters.
+The Maximum Speed is 15 kts (7 kts hunting).
+The Maximum Range is 3,500 nm at 10 kts.
+The Endurance is 15 days.
+
+Here is Gun Weapon System #1 information for the Eridan Class French Minehunter of the Gun Weapon Systems:
+The Name is 20 mm modèle F2 gun.
+The Type is Naval Gun.
+The Caliber is 20mm.
+The Quantity is 1 x 20 mm modèle F2 gun.
+The Length is INA.
+The Weight is 332 kg (732 lb) (without ammunition).
+The Action is Gas unlocked, delayed blowback[1.
+The Elevation is −15° to + 65°.
+The Rate of Fire is 720 round/min.
+The Muzzle Velocity is 1,050 m/s.
+The Effective Firing Range is 1,500 m (4,900 ft) against aerial targets.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Eridan Class French Minehunter of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 20.
+The Cartridge is 20×139mm.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Eridan Class French Minehunter:
+The FCS Name is INA.
+The Computerized FCS is No.
+
+Here is Radar Systems information for the Eridan Class French Minehunter:
+The Navigation Radar is 1 x Decca TM 1229C navigation; or
+1 x Consilium Selesmar NN 950 navigation radar.
+
+Here is Sonar Systems information for the Eridan Class French Minehunter:
+The Hull Mounted Sonar is 1 x Thales TSM-2022 Mk II hull-mounted HF Sonar.
+The Minehunting Sonar is 1 x Thales PVDS Minehunting Sonar.
+
+Here is Protection information for the Eridan Class French Minehunter:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

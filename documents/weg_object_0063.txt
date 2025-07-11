@@ -1,0 +1,61 @@
+This document describes the BL-904 (Type 704) Chinese Artillery Location and Fire Correction Radar.
+
+The BL-904 is the artillery locating radar developed by China North Industries Group Corporation (NORINCO). The radar system is based on the phased-array radar (PAR) technology and was developed as a part of the Plz-45 155mm self-propelled howitzer system. Operating in the C-band, the radar can detect the trajectory of enemy mortar bombs, howitzer projectiles and rockets, and can also be used to correct the own-side artillery fire. The radar has a response time of 5 seconds, and its performance is said to be comparable to the U.S. TPQ-36.
+
+A complete BL-904 radar system consists of two 6X6 trucks, one carrying the phased-array radar antenna and the other carries the operation center. The system takes 10 minutes to be ready for operation. The radar’s vertical range of detection is –5 to +12 degrees and the azimuth range of detection is 180 degrees. The system has a maximum detection range of 15km (for mortar bomb) and 18km (for 122/152/155mm howitzer projectile and 122mm rocket), and can track eight targets simultaneously. It is also equipped with the GPS and can transmit the target information to the battery command post in real-time.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the BL-904 (Type 704) Chinese Artillery Location and Fire Correction Radar:
+The CS/RB1 is A new light weight counter battery radar designated as CS/RB1 was unveiled at the 9th Zhuhai Airshow held in November 2012. CS/RB1 is lighter than the BL 904 and can be carried by individual soldiers by dismantling the system down into various parts. CS/RB1 radar operates in a passive phase L-band..
+
+Here is System information for the BL-904 (Type 704) Chinese Artillery Location and Fire Correction Radar:
+The Alternative Designation is BL-904.
+The Type is Artillery Location and Fire Correction Radar.
+The Manufacturer is NORINCO.
+The Crew is INA.
+The Chassis is 6x6 truck.
+The Emplacement Time is less than 10 min.
+The Displacement Time is less than 10 min.
+The Note is The BL-904 radar is part of the NORINCO 155 mm PLZ-45 self-propelled artillery system..
+
+Here is Dimensions information for the BL-904 (Type 704) Chinese Artillery Location and Fire Correction Radar:
+The Length is 6.84 m.
+The Width is 2.40 m.
+The Height is INA.
+The Weight is 11,500 kg.
+
+Here is Radar System information for the BL-904 (Type 704) Chinese Artillery Location and Fire Correction Radar:
+The Type is Phased Array.
+The Frequency Band is 8 GHz to 12.5 GHz (X-band).
+The Azimuth is 30° (narrow scan)
+
+90° (wide scan).
+The Elevation is -5° to +12°.
+The Target Capacity is 8.
+The Accuracy, Noise Figure is 8 dB.
+The Transmitter Type is TWT.
+The Antenna Gain is 43.3 dB (isotropic).
+The Operating Temperature is 55° (max)
+
+–20° (min).
+The Range, Wide Scan Mode 82mm Mortar is 14.8 km.
+The Range, Wide Scan Mode 122mm Howitzer and Rocket is 16.7 km.
+The Range, Wide Scan Mode 155mm Howitzer is 18.52 km.
+The Range, Narrow Scan Mode 122mm Howitzer is 20.37 km.
+The Range, Narrow Scan Mode 155mm Howitzer is 24.07 km.
+The Range, Narrow Scan Mode 273mm Rocket is 29.632 km.
+
+Here is Automotive information for the BL-904 (Type 704) Chinese Artillery Location and Fire Correction Radar:
+The Note is A complete BL-904 radar system consists of two 6X6 trucks, one carrying the phased-array radar antenna and the other carries the operation center..
+
+Here is Protection information for the BL-904 (Type 704) Chinese Artillery Location and Fire Correction Radar:
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Self-Entrenching Blad is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

@@ -1,0 +1,136 @@
+This document describes the BTR-60-R-145BM Russian 8x8 Command Post and Communication Center Vehicle.
+
+The BRT-60-R-145BM Russian Command Post and Communication Center Vehicle  is a variant of the BTR-60 that has removed the turret and equipped the vehicle with a R-245 radio and other communications equipment. Additional equipment includes: Two x R-111/171, one x R-123/173, one x R-130M and one x R-8xx ground-to-air radio sets.
+
+This equipment has proliferated into the following countries: Kazakhstan, Kurdistan, Russian Federation, Tajikistan.
+
+Here is Variants information for the BTR-60-R-145BM Russian 8x8 Command Post and Communication Center Vehicle:
+The BTR-60P is Initial model with open top, pintle-mounted 7.62-mm machine gun.
+The BTR-60PA/BTR-60PK (12 passengers only) is Covered top, NBC protection, pintle-mounted 7.62-mm MG, still exit over top.
+The BTR-60PB (space for 8 soldiers for dismounted operations) is Most common variant with BRDM-2 MG turret with a 14.5-mm MG & coaxial 7.62-mm; troops exit over top.
+The Modernized BTR-60PB is BM2 Turret with 30-mm 2A42 Cannon & 7.62-mm PKTM MG; 30-mm AGS-17 AGL on left side.
+The BTR-60U is Command vehicle with additional radios.
+The BTR-60 PU-12/12M is Anti-Aircraft units’ command vehicle.
+The BTR-60 MS is Radio vehicle with High Ball antenna.
+The BTR-60 VVS is Sans turret with additional radios.
+The BTR-60 PBK is BTR-60PB with 3 radios.
+The BTR-60 1V18 is Artillery observation vehicle.
+The BTR-60 1V19 is BTR-60 1V18 for FDC operations.
+The BTR-60 R-145BM is Communications vehicle with 5 radios.
+The BTR-60 R-975 is Forward air-control vehicle with turret.
+The BTR-60-Z-351BR is Power production vehicle with generator.
+The BTR-60-P-238BT is Switchboard vehicle for communications.
+The BTR-60-P-240BT is Integrates radio & wire communications- R-123M radio & R-241 switchboard.
+The BTR-60-P241BT is Equipped with P-241 telephone system.
+The BTR-60-R-137B is Communications vehicle with turret.
+The BTR-60 ACRV is Artillery Battery C2 & recon vehicle.
+The BTR-60-R-145 is Additional radio, but no turret.
+The BTR-60-R-156BTR is C2 vehicle with additional radios.
+The BTR-60-R-409BM is Relay vehicle-R-409 & R-123M radios.
+The BTR-60PAU (Bulgaria) is Artillery command vehicle.
+The BTR-60PB-MD (Bulgaria) is Upgraded engine, radios, & NBC equipment.
+The BTR-60P Maintenance Assistance (MTR-2) is Maintenance vehicle with tarp over troop compartment.
+The BTR-60 SPAAG (Cuba) is Twin 30-mm anti-aircraft cannons.
+The BTR-60 Djibouti (Djibouti) is AML-90 turret on BTR-60.
+The BTR-60BD is Speed increased to 100 km/h & range to 800 km.
+The MTP-2 is Armored Recovery Vehicle.
+The BTR-60PZ is Final production model with 1PZ-2 roof-mounted periscope.
+The BTR-60-R-140BM is C2 vehicle with turret.
+The MEP is Infantry command post.
+The BTR-60PB FAC is Turreted FAC vehicle without the gun.
+The BTR-60-R-156BTR is Armoured C2 communications system vehicle with one R-156 HF set, one R-405, and one R-123M radio. This is not fitted with a turret..
+
+Here is System information for the BTR-60-R-145BM Russian 8x8 Command Post and Communication Center Vehicle:
+The Alternative Designations is BTR-60-R-145BM.
+The Manufacturer is Gorkovsky Avtomobilny Zavod (Soviet Union)
+Ratmil Regie Autonoma (Romania, TAB-71).
+The Description is Command Post and Communication Center Vehicle.
+The Configuration is 8x8.
+The Crew is 2.
+The Passengers is INA.
+
+Here is Dimensions information for the BTR-60-R-145BM Russian 8x8 Command Post and Communication Center Vehicle:
+The Length is 7.56.
+The Width is 2.83.
+The Height is 2.31.
+The Weight, Combat is 10.3.
+
+Here is Automotive information for the BTR-60-R-145BM Russian 8x8 Command Post and Communication Center Vehicle:
+The Engine Name is Two(2) x GAZ-40P.
+The Engine Type is 6-cylinder gasoline.
+The Engine Power is 90 hp each, 180 hp combined.
+The Range, Crusing is 500.
+The Speed, Maximum Road is 80.
+The Speed, Maximum Swim is 10.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.0.
+The Fording Depth is Amphibious.
+The Fuel Capacity is INA.
+
+Here is Communications information for the BTR-60-R-145BM Russian 8x8 Command Post and Communication Center Vehicle:
+The Radio #1 is Two(2) x R-11/171 Radios.
+The Radio #2 is One(1) x R-123/173 Radio.
+The Radio #3 is One(1) x R-145 Radio.
+The Radio #4 is One(1) x R-130M.
+The Radio #5 is One(1) x R-8XX Ground-to-air Radio set.
+
+Here is System information for the BTR-60-R-145BM Russian 8x8 Command Post and Communication Center Vehicle of the Main Weapon System:
+The Name is 1 x 7.62mm PKT (Kalashnikov's Machine Gun) General Purpose Machine Gun.
+The Type is General Purpose Machine Gun.
+The Caliber is 7.62.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces.
+The Manufacturer is Degtyaryov plant.
+The In Service is 1961-Present.
+The Proliferation is + 1 Million.
+The Max Rate of Fire is 650.
+The Effective Rate of Fire is 250-300.
+The Length, Total is 1,203.
+The Length, Barrel is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Effective Firing Range (With Sight Adjustments) is 100-1,500.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the BTR-60-R-145BM Russian 8x8 Command Post and Communication Center Vehicle of the Main Weapon System:
+The Name is 57-N-323S.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR km.
+The Muzzle Velocity is 855.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 2,500.
+
+Here is Fire Control information for the BTR-60-R-145BM Russian 8x8 Command Post and Communication Center Vehicle:
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Vehicle Commander is TKN-1.
+The Thermal Gunner is PP-61A optical sight.
+The Main Gun Stabilization is INA.
+The Turret Type is BPU-1 turret.
+The Infrared Light is OU-3 infrared light.
+
+Here is Protection information for the BTR-60-R-145BM Russian 8x8 Command Post and Communication Center Vehicle:
+The Armor Material is Welded steel.
+The Armor Hull is 7 mm at 86° hull upper front
+9 mm at 47° hull lower front
+7 mm hull sides
+5 mm hull upper rear
+7 mm hull lower rear
+5 mm hull floor
+7 mm hull roof.
+The Armor (turret front) is 10 mm turret front;
+7 mm turret sides;
+7 mm turret sear;
+7 mm turret roof.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is Collective (closed vehicles).
+The Smoke Equipment is No.
+The Survivability Equipment is No.
+

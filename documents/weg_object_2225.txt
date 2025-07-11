@@ -1,0 +1,39 @@
+This document describes the VS-50 Italian Anti-Personnel Blast Mine.
+
+The VS-50 is a circular plastic cased anti-personnel blast mine, formerly manufactured by the now-defunct Valsella Meccanotecnica SpA, an Italian high-tech defence industry specialized in area denial systems which was also the manufacturer of the Valmara 69 and one of the first industries in the world to implement plastic construction for landmines. The design is similar to the TS-50 and VS-MK2 mine. It is blast resistant and can be used in a minimum metal configuration. Though unlikely to kill, the explosive charge contained within a VS-50 is quite sufficient to destroy the victim's foot: the blast is capable of penetrating 5 mm of mild steel leaving an 80 mm-diameter hole.
+
+
+The mine consists of three sections, a bottom section containing the main explosive charge, a middle section which contains the fuze and safety/arming mechanism, and the top section which consists of a neoprene pressure pad. The neoprene pressure pad is sometimes reinforced with an 18 gram mild steel plate, which makes the mine detectable by metal detectors. However, the majority of VS-50s were manufactured as minimal metal mines and are therefore much harder to detect. The case is waterproof and can be used in water up to one metre deep. The mine can be deployed by helicopters or ground vehicles or laid by hand.
+
+A sustained downward force of approximately ten kilograms on the pressure plate for a minimum of 0.10 seconds compresses the firing spring and cocks the striker. Continuous downward movement allows the trigger assembly to pivot, slowly forcing the air out of an anti-shock bladder and flips the striker down into the stab sensitive M41 detonator, at which point the mine explodes.
+
+The air pressure delay mechanism effectively blocks detonation if the force on the pressure plate is of short duration, because air does not have enough time to leave the small anti-shock bladder. This has two direct applications, it allows the mine to be dropped from helicopter mine scattering systems, and it dramatically increases the mine's resistance to explosive-based mine clearance techniques. It can therefore be regarded as a blast resistant mine.
+
+Here is Variants information for the VS-50 Italian Anti-Personnel Blast Mine:
+The VS-50 EO3 is version fitted with an electronic anti-handling device..
+The SPM-1 is copy produced under licence in Singapore..
+The YM-IB is copy produced by Iran.
+The T/79 is copy produced by Egypt.
+
+Here is System information for the VS-50 Italian Anti-Personnel Blast Mine:
+The Country of Manufacture is Italy
+Singapore (SPM-1)
+Egypt (T/79).
+The # of User Countries is 14+.
+The Emplacement Method is manual
+remote surface.
+The Diameter is 90.
+The Height is 45.
+The Armor Penetration (mm)/ Kill Mechanism is blast.
+The Effective Range is limited.
+The Detectability/ Composition is Plastic
+difficult.
+The Anti-Handling is yes, the VS-50AR variant.
+The Fuze Type/Self Neutralize is pressure-10 kg
+self neutral: no.
+The Explosive Type & Weight/Total Weight (kg) is TNT: .075
+Total: .185.
+The Comment is Designed to be scattered from helicopters.
+Countermeasure blast (fuel- air-explosive line charge)-resistant. Underwater 1 meter.
+The Operating Pressure is 10.
+

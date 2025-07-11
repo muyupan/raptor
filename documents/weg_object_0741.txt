@@ -1,0 +1,43 @@
+This document describes the Supercam X4S Russian Unmanned Aerial Vehicle (UAV).
+
+The Supercam X4S Russian Unmanned Aerial Vehicle (UAV)  is a multi-rotor unmanned aerial vehicle designed for industrial inspection of hazardous areas and spaces inaccessible to other UAV types. The drone is equipped with a collision avoidance system, EO or IR camera, and optionally with various sensors.
+
+The UAV has a freely rotating gimbal with a carbon fiber spherical protective frame. The frame reliably protects it from collisions with surrounding objects. The drone control is based on a video stream received from a high-resolution camera installed on board the aircraft. Visual navigation and a protective carbon sphere allow inspections in places where there is no GPS / GLONASS signal.
+
+The unmanned aircraft is designed for industrial inspection of confined spaces and hazardous areas. The drone can also be used to inspect the overpass, the internal part of storage tanks, ships, reactors, cellular network mast towers, high-rises,s, and other dangerous and inaccessible objects.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Supercam X4S Russian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Supercam X4S.
+The Type is Vertical Take-Off and Landing (VTOL) Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Supercam Unmanned Systems Group.
+The Autonomy is Manual.
+The Crew is Unmanned.
+The Radio Link Range is 1 km.
+The Video Transmission Range is 1 km.
+The Payload Options is - Video camera with pitch rotation
+- Thermal imaging camera
+- The Airflow type gas detector with plug-in sensors.
+The Deployment Time is 5 min.
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+The Operational Temperature is –20°С to +45°С.
+
+Here is Dimensions information for the Supercam X4S Russian Unmanned Aerial Vehicle (UAV):
+The Length is INA.
+The Width is 400 mm.
+The Height is INA.
+The Maximum Takeoff Weight is 1.5 kg.
+
+Here is Automotive information for the Supercam X4S Russian Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Maximum Speed is 30 km/h.
+The Cruising Speed is INA.
+The Operational Height is 500 m.
+The Maximum Distance is 1 km.
+The Maximum Windspeed is 8 m/s.
+The Endurance is 15 min.
+

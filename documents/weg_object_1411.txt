@@ -1,0 +1,98 @@
+This document describes the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine.
+
+The Type 091 Class (Han Class) Chinese Nuclear Attack Submarine is a first-generation nuclear attack submarine produced by the People's Republic of China. They were the first nuclear-powered submarine employed by the People's Liberation Army Navy Submarine Force, and the first indigenously produced nuclear attack submarines in Asia.
+
+The Chinese naval nuclear power program started in July 1958 when the Central Military Commission gave the approval to start the 091 submarine project. Mao Zedong declared that China would build nuclear attack submarines even if it took ten thousand years. Peng Shilu was the first chief designer of this project. The first submarine in the class, the Long March I, was commissioned in 1974; the last was launched in 1990. In 1983, Peng shifted from the military to the civilian sector in the application of nuclear power plants, and his duty at the nuclear submarine project was succeeded by Huang Xuhua.
+
+The Type 091 has operated mainly in local waters and has appeared in incidents. One submarine shadowed a U.S. carrier battle group in the mid-1990s. Another entered Japanese territorial waters through the Ishigaki, Okinawa island group near Taiwan in November 2004, causing Japan's maritime forces to go on alert for the second time since the Second World War; China apologized for the trespass and blamed "technical reasons" on the submarine.
+
+The boats have received major upgrades and numerous refits since commissioning. They have six 533 mm (21 in) torpedo tubes and carry 20 torpedoes. Alternatively, they can carry 36 mines in their tubes. It is capable of firing sub-launched variants of the C-801 anti-ship missile as well as a range of indigenous and Russian torpedoes or mines. All remaining hulls have been refitted with new sonars, with Type H/SQ2-262B sonar manufactured by No. 613 Factory replacing the original Type 603 sonar on board. Anechoic tiles were added later to reduce noise levels.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine:
+The CHANG ZHENG-1 is Commissioned: Aug. 1, 1974
+Status: Museum.
+The CHANG ZHENG-2 is Commissioned: January 1980  
+Status: Stricken.
+The CHANG ZHENG-3 is Commissioned: Sept. 21, 1984
+Status: Active.
+The CHANG ZHENG-4 is Commissioned: November 1988 
+Status: Active.
+The CHANG ZHENG-5 is Commissioned: December 1990 
+Status: Active.
+
+Here is System information for the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine:
+The Alternative Designation is Type 091 Class; NATO: Han Class.
+The Type is 1st Generation Nuclear Attack Submarine.
+The Builder is Bohai Shipyard, Huludao.
+The Crew is 75.
+
+Here is Dimensions information for the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine:
+The Length is 101.0 m.
+The Beam is 10.6 m.
+The Draft is 7.4 m.
+The Displacement, Surface is 4,572 tons.
+The Displacement, Submerged is 5,639 tons.
+
+Here is Propulsion System information for the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine:
+The Engine Name is 1 x 90 MW.
+The Engine Type is pressurized-water nuclear reactor.
+The Engine Power is 12,000 total bhp; 1 shaft.
+The Turbines is 2 x steam turbines.
+The Maximum Speed, Submerged is 25 knots.
+The Maximum Speed, Surface is 12 knots.
+The Diving Depth is 300 m.
+
+Here is Missile #1 information for the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine of the Missile Weapon System:
+The Name is YJ-82 SSM.
+The Type is Anti-Ship Cruise Missile.
+The Description is The YJ-82 is a solid-fuelled rocket. It is launched from submarines from a buoyant launch canister. The YJ-82 lacks the solid-rocket booster of the surface-launched YJ-8/8A and likely has less range than the latter's 42 km. The terminal sea-skimming attack altitude is 5 to 7 meters.
+
+The launch capsule is a copy of the one used by submarine-launched Harpoons; China likely received the technology from Pakistan, which had such weapons.
+The Warhead is 165 kg high-explosive fragmenting warhead.
+The Operational Range is <42 km.
+The Maximum SPeed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+
+Here is Torpedoes information for the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine:
+The Torpedo Tubes is 6 x 533-mm bow tubes.
+The Torpedos is Yu-3 (Russian SET-65E) ASW
+torpedoes and Yu-4 anti-ship torpedoes carried..
+The Basic Load is 18 x Torpedoes.
+
+Here is Mines information for the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine:
+The Note is 36 x in lieu of torpedoes.
+
+Here is Fire Control Systems information for the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+The Battle Management System is INA.
+
+Here is Radar Systems information for the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine:
+The Name is 1 x Snoop Tray Surface Search.
+The Type is Surface Search.
+The Frequency is INA.
+The Range is INA.
+
+Here is Sonar #1 information for the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine of the Sonar Systems:
+The Name is 1 x H/SQ2-262.
+The Type is bow-mounted, medium-frequency for active/passive search, attack.
+
+Here is Sonar #2 information for the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine of the Sonar Systems:
+The Name is 1 x H/SQG-207.
+The Type is Flank Array Sonar.
+
+Here is Sonar #3 information for the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine of the Sonar Systems:
+The Name is 1 x Thales DUUX 5.
+The Type is Passive Ranging and Intercept Sonar.
+
+Here is Sonar #4 information for the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine of the Sonar Systems:
+The Name is 1 x CEIEC Type 921A.
+The Type is RWR and DF Sonar.
+
+Here is Protection information for the Type 091 Class (Han Class) Chinese Nuclear Attack Submarine:
+The Active Protection System is INA.
+The Countermeasures is Yes.
+The NBC Water Washdown System is Yes.
+

@@ -1,0 +1,71 @@
+This document describes the M1234 MaxPro Plus 4x4 Mine-Resistant Ambush Protected (MRAP).
+
+The MaxxPro is a 4 x 4 armored vehicle developed for the U.S. military's mine-resistant ambush-protected (MRAP) vehicle program. The International M1224 MaxxPro MRAP (Mine Resistant Ambush Protected) vehicle is an armored fighting vehicle designed by American company Navistar International's subsidiary Navistar Defense along with the Israeli Plasan Sasa, who designed and manufactures the vehicle's armor. The vehicle was designed to take part in the US Military's Mine Resistant Ambush Protected vehicle program, led by the US Marine Corps, as well as a similar US Army-led Medium Mine Protected Vehicle program. MRAPs are categorized as category 1 or category 2, depending on usage and passenger compartment space, and Navistar produces the MaxxPro in both sizes, although the vast majority of those sold have been category 1 MRAPs. The MaxxPro Plus model comes with dual rear wheels for increased load carrying capacity, such as an ambulance or EFP protected variant. The latest model produced is the MaxxPro Dash, which is a smaller and lighter category 1 model. Both the Plus and Dash models use the MaxxForce 10 engine with 375 hp, in place of the DT 530 with 330 hp, used in the original base model produced.
+
+The M1224 MaxxPro base model utilizes a crew capsule with a V-shaped hull, mounted on an International 7000 chassis. The V-hull deflects the blast of a land mine or improvised explosive device (IED) away from the vehicle to protect its occupants. Because the chassis is mounted outside the armored crew capsule, there are concerns that it will likely be destroyed in the event of an ambush, leaving the soldiers inside stranded. However, according to Navistar Defense spokesperson Roy Wiley, the MaxxPro "did extremely well during the tests, and we are extremely pleased."[6] This design may prove as effective as the Krauss-Maffei Wegmann ATF Dingo that uses a similar design, one which mounts an armored capsule to a Unimog chassis. This design has survived a 7 kg (15 lb) land mine blast with no injuries.
+
+According to Navistar Defense, the vehicle is designed with operational readiness in mind and utilizes standardized, easily available parts, to ensure rapid repair and maintenance. The armored body is bolted together instead of welded, as in other MRAPs. This facilitates repair in the field and is a contributing factor to Navistar's greater production capacity for the MaxxPro.
+
+In 2010, the Army initiated a development effort to add electronic stability control (ESC), a computerized technology designed to improve vehicle stability, to the MaxxPro. The MaxxPro's high ground clearance provides greater protection from underbody blasts, but also raises its center of gravity, causing rollovers in certain situations. The ESC combines road factors, vehicle data, and driver intent to automatically correct driving to ensure stability during maneuvers. Installation on MaxxPros began in late 2014 and is to be completed by late 2017, with other MRAPs planned to have ESC integrated onto them.
+
+This equipment has proliferated into the following countries: Afghanistan, Albania, Algeria, Bulgaria, Croatia, Czech Republic, Egypt, Georgia, Hungary, Iraq, Jordan, Lithuania, Nigeria, Pakistan, Poland, Portugal, Romania, Singapore, Slovakia, South Korea (Republic of Korea), Syria, Turkey, United States of America, Yemen.
+
+Here is Variants information for the M1234 MaxPro Plus 4x4 Mine-Resistant Ambush Protected (MRAP):
+The M1224 MaxxPro MRAP is Original Version, MRAP.
+The MaxxPro Plus M1234 is On June 16, 2008 Navistar debuted a new version called MaxxPro Plus. MaxxPro Plus has increased engine power and payload, as well as Frag Kit 6 enhancements for increased explosively formed penetrator protection..
+The MaxxPro Dash M1235 is On September 4, 2008 the U.S. Marine Corps awarded Navistar a $752 million contract to develop and produce a lighter, smaller, and more mobile MaxxPro variant that is less prone to the rollover problems that have plagued MRAP vehicles. MaxxPro Dash M1235A1 has a smaller turning radius and higher torque to weight ratio. Production of the MaxxPro Dash began in October 2008 with delivery of 822 units completed by February 2009..
+The MaxxPro Dash DXM M1235a1 is MaxxPro Dash with improved DXM suspension system..
+The MaxxPro Dash DXM Ambulance is On May 5, 2011 Navistar Defense received a $183 million delivery order for 250 International MaxxPro Dash ambulances with DXM independent suspension..
+The MaxxPro XL is The MaxxPro XL is a Category II MRAP version of the MaxxPro. It is a larger and longer version of the base vehicle. Because it is longer, it has three bullet-resistant windows on each side, instead of two. The MaxxPro XL can carry up to 10 soldiers.
+The MRV is There is also an MRAP Recovery Vehicle; 250 have been ordered. These are well suited to recovering other vehicles which have been damaged by IEDs.
+
+On July 18, 2011 Navistar Defense received a delivery order for an additional 140 MRV's with rocket-propelled grenade (RPG) nets from the U.S. Marine Corps Systems Command..
+The MCOTM is At Association of the United States Army 2013, a version called the Mission Command on the Move (MCOTM) was displayed as a command post with monitors, computers, and antennae mounted in the back for communications and surveillance. Five passengers can monitor incoming information, see unmanned aerial vehicle feeds, and keep track of where units are operating. The vehicle has an on-board transmission-integrated power generator that can produce up to 120 kilowatts of exportable power, which eliminates the need for a towed trailer and can single-handedly power a semi-permanent tactical operations center. It would allow commanders to be connected to dismounted troops and headquarters while on the move. The MCOTM version will undergo testing at the Army's network integration evaluations in February 2014..
+
+Here is System information for the M1234 MaxPro Plus 4x4 Mine-Resistant Ambush Protected (MRAP):
+The Alternative Designation is M1234 MaxxPro Plus.
+The Type is Mine-Resistant Ambush Protected (MRAP).
+The Manufacturer is International Truck.
+The Family is Maxx Pro Series.
+The Configuration is 4x4.
+The Crew is 3.
+The Passenger Capacity is 7.
+The Payload Capacity is 4,536–6,350 kg.
+
+Here is Dimensions information for the M1234 MaxPro Plus 4x4 Mine-Resistant Ambush Protected (MRAP):
+The Length is 6.45 m.
+The Width is 2.51 m.
+The Height is 3.05 m.
+The Wheelbase is 3.89 m.
+The Ground Clearance is 0.36 m.
+The Gross Weight is 12.7–13.4 tons.
+
+Here is Automotive information for the M1234 MaxPro Plus 4x4 Mine-Resistant Ambush Protected (MRAP):
+The Engine Name is International MaxxForce D9.3I6.
+The Engine Type is I-6 diesel.
+The Engine Power is 330.
+The Engine Torque is 159 kg-m at 1,300 rpm.
+The Transmission is Allison 3000 5-speed automatic.
+The Angle of Approach is 58 deg.
+The Angle of Departure is 46 deg to 48 deg.
+The Gradeability is 70 deg.
+The Side Slope is 30 deg.
+The Turning Circle is 17.68 m to 20.73 m.
+The Fording is 0.91 m.
+
+Here is Main Weapon System information for the M1234 MaxPro Plus 4x4 Mine-Resistant Ambush Protected (MRAP):
+The Note is The MaxxPro Plus can have a variety of weapons mounted to the turret. Most common weapon found on the MRAP is a 12.7mm Heavy Machine Gun..
+
+Here is Protection information for the M1234 MaxPro Plus 4x4 Mine-Resistant Ambush Protected (MRAP):
+The Hull Armor is The MaxxPro Plus is built to withstand ballistic arms fire, mine blasts, IEDs, and other emerging threats. Its V-shaped hull helps deflect blasts out and away from the crew and its armoring can be customized to meet any mission requirement..
+The Turret Armor is INA.
+The Applique Armor is Yes, what makes the MaxxPro Plus a enhanced version is the Frag Kit 6 Enchantment armor upgrade. Frag Kit 6 is a vehicular armor upgrade kit developed by the U.S. Army Research Laboratory to defeat explosively formed projectiles (EFP), a type of improvised explosive device (IED). It is designed to be added on armored vehicles such as the MRAP and unarmored Humvee. Like the Chobham armor, the exact materials and the way it works is Classified information.
+
+Frag Kit 6 adds about 1,000 lb (450 kg) of extra weight (100 lb per sq ft) and 12 inches (300 mm) of width on each side of the vehicle (2 feet overall) over the previous Frag Kit 5 Humvee armor. The doors are so heavy, troops may need a mechanical assist device to open and close them and so wide drivers may require built-in visual references so they'll know if they can fit the vehicle in narrow spaces. Frag Kit 6 armor also makes MRAP vehicles too wide to legally operate on U.S. highways.
+
+Frag Kit 6 technology is integrated into MRAP II vehicles. The purpose behind the MRAP II competition was to field vehicles that don't need the kit added on. Frag Kit 6 looks similar to the armored plates used on the British "Mastiff" version of the Force Protection Cougar..
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

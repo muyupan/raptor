@@ -1,0 +1,56 @@
+This document describes the UBot EOD C10 Chinese Tracked Unmanned Ground Vehicle (UGV).
+
+The UBot EOD C10 Chinese Tracked Unmanned Ground Vehicle (UGV) is a EOD UGV.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the UBot EOD C10 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is UBot EOD C10.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is HRSTEK.
+The Mission is The UBot EOD C10 Chinese Tracked Unmanned Ground Vehicle (UGV)  is suited for a number of applications including: explosive ordnance disposal (EOD); chemical, biological, radiological, nuclear and explosives (CBRNE); HazMat handling; disaster scene detection; search and rescue (SAR); demining, and vehicle-borne improvised explosive device (VBIED) detection..
+The Configuration is Tracked.
+The Crew is Unmanned.
+The Control is The operator control unit (OCU) is a portable, suitcase style, ruggedised screen that is water- and dust-proof with a graphical keypad for the controls and thumb joysticks..
+The Software is INA.
+The Operating Temperature is INA.
+The Cameras is The main camera is a 1/4 Sony, CCD, 520 TVL with 0.02 lux illumination and is mounted on its own stalk. The lens of the main camera is explosion proof..
+The Sensors is INA.
+The Payload Capacity is 60 kg.
+The Environmental is IP65.
+
+Here is Dimensions information for the UBot EOD C10 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Vehicle Length is 0.69 m.
+The Vehicle Width is 0.50 m.
+The Vehicle Height is 0.17 m.
+The Vehicle Weight is 22 kg.
+The Manipulator Arm Length is 410 mm.
+The Manipulator Arm Width is 300 mm.
+The Manipulator Arm Height is 190 mm.
+The Manipulator Arm Weight is 10 kg.
+
+Here is Automotive information for the UBot EOD C10 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is 24 V 10 Ah, can be extended to 24 V 20 Ah.
+The Engine Power is INA.
+The Operational Range is 100 m (Wireless).
+The Maximum Speed is 4.3 km/h.
+The Turning Circle is 0°.
+The Maximum Incline is 35°.
+The Curb Clearance is 200 mm.
+The Endurance is 2-4 hours.
+
+Here is Communications information for the UBot EOD C10 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Note is The unit can operated wirelessly up to a range of 100 m..
+
+Here is Manipulator Arm information for the UBot EOD C10 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Degrees of Freedom (DoF) is 6°.
+The 1st Joint Rotation is 360°.
+The Gripper Opening Range is 220 mm.
+The Horizontal Lift Capacity is 3 kg.
+The Vertical Lift Capacity is 8 kg.
+
+Here is Protection information for the UBot EOD C10 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Armor is INA.
+The Applique Armor is No.
+

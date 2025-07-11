@@ -1,0 +1,82 @@
+This document describes the Tu-134 (Crusty) Russian Jet Airliner.
+
+The Tupolev Tu-134 (NATO reporting name: Crusty) is a twin-engined, narrow-body, jet airliner built in the Soviet Union from 1966 to 1989. It is the world's most-produced twinjet of its class. The original version featured a glazed-nose design and, like certain other Russian airliners (including its sister model the Tu-154), it can operate from unpaved airfields.
+
+One of the most widely used aircraft in former Comecon countries, the number in active service is decreasing because of operational safety concerns and noise restrictions. The model has seen long-term service with some 42 countries, with some European airlines have scheduled as many as 12 daily takeoffs and landings per plane. In addition to regular passenger service, it has also been used in the various air force, army, and navy support roles; for pilot and navigator training; and for aviation research and test projects. In recent years, a number of Tu-134s have been converted for use as VIP transports and business jets. A total of 854 Tu-134s were built of all versions (including testbed examples) with Aeroflot as the largest user; by 1995, the Tu-134 had carried 360 million passengers for that airline.
+
+Following the introduction of engines mounted on pylons on the rear fuselage by the French Sud Aviation Caravelle, airliner manufacturers around the world rushed to adopt the new layout. Its advantages included clean wing airflow without disruption by nacelles or pylons and decreased cabin noise. At the same time, placing heavy engines that far back created challenges with the location of the center of gravity in relation to the center of lift, which was at the wings. To make room for the engines, the tailplanes had to be relocated to the tail fin, which had to be stronger and therefore heavier, further compounding the tail-heavy arrangement.
+
+During a 1960 visit to France, Soviet leader Nikita Khrushchev was so impressed by the quiet cabin of the Caravelle, that on 1 August 1960 the Tupolev OKB received an official directive to create the Tu-124A with a similar engine arrangement. The requirement was also driven by the need to replace slow, aging piston-engined Il-14s on domestic routes. In 1961, the Soviet state airline, Aeroflot, updated its requirement specifications to include greater payload and passenger capacity.
+
+The first Tu-124A prototype, SSSR-45075, first flew on 29 July 1963. On 22 October 1963, the prototype British BAC One-Eleven, which had a similar layout, crashed with the loss of all crew while testing its stalling properties. The aircraft had entered pitch-up: the high-mounted tailplane became trapped in the turbulent wake produced by the wings (deep stall), which prevented recovery from the stall. As a result, the tailplane on Tu-124A was enlarged by 30% for greater control authority. Since Aeroflot's requirements dictated a larger aircraft than initially planned, the Soloviev Design Bureau developed the more powerful D-30 low-bypass turbofan engines. On 20 November 1963, the new airliner was designated Tu-134.
+
+Design curiosities of the Tu-134 included a sharp wing sweepback of 35 degrees, compared to 25–28 degrees in its counterparts. The engines on early production Tu-134s lacked thrust reversers, which made the aircraft one of the few airliners to use a brake parachute for landing. The majority of onboard electronics operated on direct current. The lineage of early Soviet airliners could be traced directly to the Tupolev Tu-16 strategic bomber, and the Tu-134 carried over the glass nose for the navigator and the landing gear fitted with low-pressure tires to permit operation from unpaved airfields.
+
+Serial production began in 1966 at the Kharkov Aviation Production Association, and production of the Tu-124 was discontinued. The Tu-134 was designed for short-haul lines with low passenger traffic. Originally the aircraft had 56 seats in a single class configuration or 50 seats in a two-class configuration.
+
+In 1968, Tupolev began work on an improved Tu-134 variant with a 72-seat capacity. The fuselage received a 2.1-meter (6 ft 11 in) plug for greater passenger capacity and an auxiliary power unit in the tail. As a result, the maximum range was reduced from 3,100 kilometers to 2,770 kilometers. The upgraded D-30 engines now featured thrust reversers, replacing the parachute. The first Tu-134A, converted from a production Tu-134, flew on 22 April 1969. The first airline flight was on 9 November 1970. An upgraded version, the Tu-134B began production in 1980, with the navigator position abandoned, and seating capacity increased to 96 seats. Efforts subsequently began to develop a Tu-134D with increased engine thrust, but the project was canceled.
+
+This equipment has proliferated into the following countries: Belarus, Kazakhstan, North Korea (Democratic People's Republic of Korea), Russian Federation, Syria, Tajikistan, Ukraine, Uzbekistan.
+
+Here is Variants information for the Tu-134 (Crusty) Russian Jet Airliner:
+The Tu-134 is The glass-nosed version. The first series could seat up to 64 passengers, and this was later increased to 72 passengers. The original designation was Tu-124A..
+The Tu-134A is Second series, with upgraded engines, improved avionics, seating up to 84 passengers. All Tu-134A variants have been built with the distinctive glass nose and chin radar dome, but some were modified to the B standard with the radar moved to the nose radome..
+The Tu-134A-2 is The glass nose was replaced..
+The Tu-134A-3 is Second series, powered by two updated Soloviev D-30 turbofan engines..
+The Tu-134A-5 is Most recent version..
+The Tu-134B is Second series, 80 seats, radar moved to the nose radome, eliminating the glazed nose. Some Tu-134B models have long-range fuel tanks fitted under the fuselage; these are visible as a sizable bulge..
+The Tu-134BV is Space shuttle work model..
+The Tu-134LK is Cosmonaut training version..
+The Tu-134UBL is Tu-160 crew training version, with Tu-160 nose cone..
+The Tu-134UBK is Naval version of Tu-134UBL. Only one was ever built..
+The Tu-134BSh is Tu-22M crew trainer, fitted with a Tu-22M radar in the nose..
+The Tu-134Sh-1 is Crew trainer with bomb racks for heavy bomber crews.
+The Tu-134Sh-2 is Navigator trainer for tactical bomber crew..
+The Tu-134SKh is Crop survey version..
+
+Here is System information for the Tu-134 (Crusty) Russian Jet Airliner:
+The Alternate Designation(s) is Tu-134; NATO: Crusty.
+The Primary Function / Type is Jet Airliner.
+The Manufacturer is Tupolev.
+The Crew is 3.
+The Passengers is 76.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the Tu-134 (Crusty) Russian Jet Airliner:
+The Length is 37.05 m.
+The Height is 9.14 m.
+The Wingspan is 29.00 m.
+The Wing Area is 127.30 sq m.
+The Weight, Maximum Takeoff is 47,000 kg.
+The Weight, Empty is 29,000 kg.
+The Maximum Payload Weight is 8,200 kg.
+
+Here is Automotive information for the Tu-134 (Crusty) Russian Jet Airliner:
+The Engine Name is 2 x Soloviev D-30-II.
+The Engine Type is Turbofan.
+The Engine Power is 6,800 kg static thrust each.
+The Fuel Capacity is 13,200 liters.
+The Maximum Cruise Speed is 900 km/h.
+The Maximum Economy Speed is 750 km/h.
+The Ceiling is 12,110 m.
+The Range, with Maximum Payload is 3,020 km.
+
+Here is Main Weapon System information for the Tu-134 (Crusty) Russian Jet Airliner:
+The Note is There are no weapons mounted on the Tu-134 (Crusty) Russian Jet Airliners..
+
+Here is Fire Control / Avionics information for the Tu-134 (Crusty) Russian Jet Airliner:
+The Fire Control System Type is No.
+The Fire Control Radar is No.
+The Laser Desingator is INA.
+The Navigation Radar is INA.
+The IFF is INA.
+
+Here is Protection information for the Tu-134 (Crusty) Russian Jet Airliner:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

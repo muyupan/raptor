@@ -1,0 +1,51 @@
+This document describes the Zhuk-Class (Project 1400 Class) Ukrainian Patrol Boat.
+
+The Zhuk-class patrol boat is a small border patrol vessel of less than 40 ton displacement built in the Soviet Union and later in Ukraine. Over 300 boats were built between 1969 and 1991. Out of those, 110 were sold to 23 other countries. Exact numbers are unknown, but they were widely exported by the Soviet Union in addition to use in home waters as harbor patrol. The vessels were excellent for this task thanks to a cheap design for mass production. With only a single simple radar unit and manually-aimed machine guns, they made ideal patrol boats. The dissolution of the Soviet Union in 1991, and the abolition of its primary user the, KGB Maritime Guard, it was taken over by the Russian Federal Coast Guard. By 2007 only 15-20 remained in service with the Russian Navy.
+
+This equipment has proliferated into the following countries: Algeria, Azerbaijan, Benin, Cabo Verde, Cambodia, Congo, Cuba, Equatorial Guinea, Estonia, Ethiopia, Guinea, Iraq, Mozambique, Nicaragua, Russian Federation, Seychelles, Somalia, Syria, Turkmenistan, Ukraine, Viet Nam, Yemen.
+
+Here is Variants information for the Zhuk-Class (Project 1400 Class) Ukrainian Patrol Boat:
+The Multiple Variants is Six (6) models built: 1400, 1400A "Gurzuf," 1400E (created in 1972), 1400M, 1400T, 1400ME (created in 1976).
+
+Here is System information for the Zhuk-Class (Project 1400 Class) Ukrainian Patrol Boat:
+The Alternative Designation is Zhuk-Class (Project 1400M "Grif" Class) Ukrainian Patrol Boat.
+The Type is Patrol Boat.
+The Builder is Almaz Shipbuilding Company, Leningrad.
+The Crew is 11 (3 officers, 8 enlisted).
+
+Here is Dimensions information for the Zhuk-Class (Project 1400 Class) Ukrainian Patrol Boat:
+The Length is 23.8 m.
+The Beam is 5.0 m.
+The Draft is 1.1 m.
+The Displacement, Standard is 39 tons.
+
+Here is Propulsion System information for the Zhuk-Class (Project 1400 Class) Ukrainian Patrol Boat:
+The Engine Name is 2 x  Type M401B diesels (MTU/CAT).
+The Engine Type is Diesel-direct.
+The Engine Power is 1,000 hp.
+The Maximum Range is 450 nm.
+The Maximum Speed is 25 knots.
+
+Here is Deck Machine Guns information for the Zhuk-Class (Project 1400 Class) Ukrainian Patrol Boat of the Weapon Systems:
+The Name is 2 x NSV / KT-12.7mm.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7 x 108mm.
+The Basic Load is INA.
+The Maximum Effective Range is 2,000 m (Surface Targets).
+
+Here is Fire Control Systems information for the Zhuk-Class (Project 1400 Class) Ukrainian Patrol Boat:
+The FCS Name is INA.
+The Computerized FCS is INA.
+
+Here is Sensors and Communications information for the Zhuk-Class (Project 1400 Class) Ukrainian Patrol Boat:
+The Navigation Radar is Yes.
+The Optoelectronic monitoring system is INA.
+The Laser Emission Detection is INA.
+The Radio is HF/VHF/UHF/Satellite.
+
+Here is Protection information for the Zhuk-Class (Project 1400 Class) Ukrainian Patrol Boat:
+The Hull Armor is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is INA.
+

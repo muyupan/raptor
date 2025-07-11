@@ -1,0 +1,60 @@
+This document describes the M1943 (ZiS-2) Russian 57mm Towed Anti-Tank Gun.
+
+The M1943 (ZiS-2) Russian 57mm Towed Anti-Tank Gun was a Soviet 57-mm anti-tank gun used during World War II. The ZiS-4 was a version of the gun meant to be installed in tanks. ZiS stands for Zavod imeni Stalina (Russian Завод имени Сталина, "Factory named after Stalin"), the official title of Artillery Factory No. 92, which produced the gun first.
+
+At the beginning of 1940, the design office of V. G. Grabin received a task from the Artillery Department to develop a powerful anti-tank gun. The head of this department Marshal Kulik and its subordinates estimated that the use of heavily armored tanks by the USSR in the Winter War would not have gone unnoticed in Nazi Germany and would lead to the development of similar fighting machines there. There is also a chance that the department was influenced by the German propaganda about the experimental multi-turreted "super tank" NbFz, ie. heavier armor was attributed to this vehicle than it actually carried. Therefore, Grabin and his office were guided by the characteristics of their own domestic heavy tank KV-1 with 40–75 mm armor. In the opinion of the designers, the optimal caliber, in this case, was 57 mm. The velocity and mass of the armor-piercing 57 mm projectile allowed it to attain sufficient kinetic energy to penetrate up to 90 mm of armor RHA while keeping the gun sufficiently light, mobile, and easy to conceal. However, the decision also had a downside: this caliber was a new one to the Red Army so the manufacturing of the projectile had to be started from scratch.
+
+Development started in May 1940 and in the beginning of 1941 the gun was adopted as 57-mm anti-tank gun model 1941 (ZiS-2) (Russian: 57-мм противотанковая пушка образца 1941 года (ЗиС-2)). Production began on 1 June 1941, but on 1 December 1941 it was stopped by Marshals N. N. Voronov and G. L. Govorov, their explanation being that ZiS-2 shells penetrated straight through weakly-armored German tanks from one side to the other without doing much damage internally. Other possible reasons for the decision were the high cost of the gun and problems with shell production. By that time 371 pieces had been built.
+
+The production lines were switched to manufacturing of the ZiS-3 76.2 mm divisional gun while Soviet anti-tank artillery received cheaper 45 mm guns. Some anti-tank regiments also received the ZiS-3 which was able to defeat any German vehicle until late 1942.
+
+The appearance of the heavy Tiger I and then the Panther changed the balance in favor of the Germans. 45 mm guns model 1942 could only pierce the side armor of the Panther while the ZiS-3 managed to penetrate the sides from a greater distance. Against the Tiger, the ZiS-3 was effective only from the side at close range (up to 300 m), and 45 mm pieces were nearly helpless. A more powerful gun was needed and on 15 June 1943, the ZiS-2 once again entered service as a 57-mm anti-tank gun model 1943. Until 1945 9,645 units were produced.
+
+It is an automated-action gun with a vertical block breech. When firing the block opens and closes automatically, the loader only has to put a round into the receiver. Due to this feature, the rate of fire can reach 25 rounds per minute. The Split-trail carriage with the gun shield was shared with the ZiS-3 divisional gun. The carriage has coil spring suspension, which allows towing with a speed of up to 50 km/h (31 mph) on highways, 30 km/h (19 mph) on unpaved roads, and 10 km/h (6.2 mph) off-road. The gun can also be attached to a limber and towed by a team of six horses. ZiS-2s are equipped with PP1–2 panoramic sight.
+
+This equipment has proliferated into the following countries: Cambodia, Russian Federation.
+
+Here is System information for the M1943 (ZiS-2) Russian 57mm Towed Anti-Tank Gun:
+The Alternative Designation is ZiS-2; M1943.
+The Type is Towed Anti-Tank Gun.
+The Caliber is 57 mm.
+The Manufacturer is Artillery Factory No. 92.
+The Crew is 7.
+The Carriage is Split trail.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the M1943 (ZiS-2) Russian 57mm Towed Anti-Tank Gun:
+The Length is 7.03 m.
+The Barrel Length is 3.95 m.
+The Width is 1.7 m.
+The Height is 1.37 m.
+The Weight, Combat is 1,250 kg.
+
+Here is System information for the M1943 (ZiS-2) Russian 57mm Towed Anti-Tank Gun of the Main Weapon System:
+The Name is ZiS-2.
+The Type is Towed Anti-Tank Gun.
+The Caliber is 57 mm.
+The Breech is Semi-automatic vertical sliding-wedge.
+The Recoil is Hydro-pneumatic.
+The Carriage is Split trail.
+The Elevation is -5° to 25°.
+The Traverse is 56°.
+The Rate of Fire is 25 rpm cyclic
+10 rpm practical.
+The Muzzle Velocity is 1,000 m/s.
+The Maximum Firing Range is 8.4 km.
+
+Here is Ammunition information for the M1943 (ZiS-2) Russian 57mm Towed Anti-Tank Gun of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 57.
+The Shell is Fixed QF 57×480 mmR (AP).
+The Basic Load is INA.
+The Ammunition Types is APHE; APCBC; AP; APCR; Fragmentation; Canister.
+
+Here is Fire Control information for the M1943 (ZiS-2) Russian 57mm Towed Anti-Tank Gun:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is No.
+

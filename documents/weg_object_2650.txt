@@ -1,0 +1,57 @@
+This document describes the Piranha V Swiss 8x8 Armored Personnel Carrier (APC).
+
+The Piranha V Infantry Fighting Vehicle (IFV) is one variant of the fifth generation of the Mowag Piranha family of vehicles. It was designed by General Dynamics European Land Systems - Mowag GmbH.
+
+While the Piranha V is available with a MTU 6V199 TE21 diesel engine producing 430 kW, both Denmark and Spain have opted for a different Powerpack built by the Spanish company SAPA, consisting of a Scania Diesel engine with 480 kW coupled with the SW 624 automatic transmission, and an auxiliary power unit with 75 kW.
+
+This equipment has proliferated into the following countries: Denmark, Monaco, Romania, Spain.
+
+Here is Variants information for the Piranha V Swiss 8x8 Armored Personnel Carrier (APC):
+The Desert Piranha is The Desert Piranha is designed for employment in high temperature environments such as a desert. This variant is equipped with a central tire inflation system (CTIS) as well as large tires to effect improved mobility in sandy conditions. It can also be fitted with standard size tires for employment in conditions outside of deserts. It is also equipped with an air conditioning system 30 kW (18 kW + 12 kW) as well as blast attenuating seats for the crew and troops. (Commander/gunner and driver plus 9 combat equipped troops).
+
+The Desert Piranha is equipped with a Kongsberg Protector remote weapon station armed with a stabilized .50-cal M2 heavy-barrel machine gun. However, General Dynamics has produced a version fitted with a two-man Cockerill 3030/40 30-mm/40-mm turret..
+
+Here is System information for the Piranha V Swiss 8x8 Armored Personnel Carrier (APC):
+The Alternative Designation is Piranha V.
+The Type is Armored Personnel Carrier (APC).
+The Manufacturer is MOWAG.
+The Configuration is 8x8.
+The Crew is 3 (driver, gunner, commander).
+The Passenger Capacity is 8.
+The Payload Capcity is 12,000 kg.
+
+Here is Dimensions information for the Piranha V Swiss 8x8 Armored Personnel Carrier (APC):
+The Length is 8.0 m.
+The Width is 3.0 m.
+The Height is 2.3 m.
+The Interior Volume is 14.2 cu m to 17.4 cu m.
+The Gross Vehicle Weight is 28,000 kg.
+
+Here is Automotive information for the Piranha V Swiss 8x8 Armored Personnel Carrier (APC):
+The Engine Name is MTU 6V 199 TE21.
+The Engine Type is Diesel.
+The Engine Power is 576 hp.
+The Maximum Road Speed is 100 km/h.
+The Range is 800 km.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Step is 0.75 m.
+The Trench is 2 m.
+The Fording is 1.5 m.
+
+Here is Main Weapon System information for the Piranha V Swiss 8x8 Armored Personnel Carrier (APC):
+The Note is A baseline model is proposed with a remotely-operated 12.7 mm machine gun. Additionally a 30mm grenade launcher, or 30 mm autocannon TOW anti-tank missile.
+
+Here is Fire Control System information for the Piranha V Swiss 8x8 Armored Personnel Carrier (APC):
+The FCS Name is INA.
+The Computerized FCS is No.
+
+Here is Protection information for the Piranha V Swiss 8x8 Armored Personnel Carrier (APC):
+The Armor is Standard armour (STANAG 4569, Level 4/4b) offers all-round 14.5mm AP protection and 20mm-23mm AP on front. Can offer full protection for the crew if a 10 kg explosive AT mine explodes under the hull. Add-ons can offer all-round protection to 25mm AP rounds and level 5 STANAG 4569..
+The Applique Armor is Yes.
+The Active Protection System is Yes.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

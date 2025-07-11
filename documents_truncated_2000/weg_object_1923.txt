@@ -1,0 +1,49 @@
+This document describes the M79 Osa Yugoslavian 90mm Anti-Tank Rocket Launcher.
+
+The M79 Osa (Serbian: Оса; "wasp") is a Yugoslav-made portable 90 mm anti-tank weapon made of fiber-reinforced plastics. It resembles the French portable anti-tank launcher 89 mm LRAC F1. It consists of the launcher, a CN-6 sighting piece, rocket, and carrying case for the rocket. The M79 shoots unguided projectiles in direct sight and is effective against armored fighting vehicles and fortifications.
+
+The M79 Osa is operated by a two-man team, an operator, and a loader. The loader inserts the rocket container through the rear of the launcher. The operator then takes aim at the target through the CN-6 sight. The CN-6 sight has 3.5x magnification and a 10-degree field of view. It also features anti-laser filters to protect the operator from blinding battlefield lasers. When the trigger is pressed, the rocket motor is filed electronically. The rocket leaves the launcher at a speed of approximately 250 meters per second. It is accurate enough to be used against armored vehicles at a range of 350 meters and can engage larger stationary targets up to 600 meters away.
+
+On impact, a piezoelectric impact fuse in the rocket triggers the shaped charge warhead, which can penetrate up to 400 millimeters of armor. The fuse is sensitive enough to trigger the warhead at impact angles up to 70 degrees from the vertical. After firing, the spent rocket container is removed from the launcher, and a fresh tube is attached.
+
+The M79 Osa was designed and manufactured by Sloboda Čačak in the former Socialist Federal Republic of Yugoslavia. It has continued production in Serbia, North Macedonia, and in Croatia as the RL90 M95.
+
+A large number of M79 OSA rocket launchers have been supplied to rebels in Syria which have been proven effective in deterring the Syrian Army's armor. Many have mistaken the M79 supplied to the rebels in Syria for the Russian RPG-29 rocket launcher, which is also seeing use. M79 Osa's are also used in Iraq by Islamic State against the Iraqi army and JANES has reported their use against US-made M1A1 Abrams tanks.
+
+This equipment has proliferated into the following countries: Bosnia and Herzegovina, Croatia, Macedonia, Montenegro, Serbia, Slovenia.
+
+Here is Dimensions information for the M79 Osa Yugoslavian 90mm Anti-Tank Rocket Launcher of the System:
+The Length, Launcher Loaded is 191.
+The Length, Rocket is 0.67.
+The Weight, Loaded is 11.2.
+The Weight, Launcher is 6.2.
+The Weight, Rocket is 3.5.
+
+Here is Armament information for the M79 Osa Yugoslavian 90mm Anti-Tank Rocket Launcher:
+The Displacement Time  is less than 0.25.
+The Emplacement Time  is less than 0.25.
+
+Here is Ammunition (Option 1) information for the M79 Osa Yugoslavian 90mm Anti-Tank Rocket Launcher of the Ammunition:
+The Name is PG-29V (in canister/launch tube
+extension)..
+The Caliber is 105.
+The Weight  is 6.7.
+The Muzzle Velocity  is 280.
+The Range, Effective  is 800.
+The Armor Penetration  is 750mm behind ERA, 950mm conventional.
+
+Here is Sights #1 information for the M79 Osa Yugoslavian 90mm Anti-Tank Rocket Launcher of the Sights:
+The Name is Simrad IS2000 or similar EO sight for RPG-29 Mounted..
+The Type is LRF-based FCS with ballistic computer.
+The Location is Left side.
+The Sighting Range  is 800.
+The Magnification is 1x / 3.5x magnification.
+
+Here is Sights #2 information for the M79 Osa Yugoslavian 90mm Anti-Tank Rocket Launcher of the Sights:
+The Name is KN250F or similar sight for RPG-29 Mounted..
+The Type is 3 gen II clip-on sight designed to work with day sight..
+The Location is Left side.
+The Magnification is 1x / 3.5x magnification.
+The Sighting Range  is 600-800 m for vehicle targets.
+The Other is A variety can be used. 1st was the heavy 2Ts35 (3kg)..
+

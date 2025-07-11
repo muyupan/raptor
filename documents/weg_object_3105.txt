@@ -1,0 +1,37 @@
+This document describes the Bora-A 550 German Surveillance Radar.
+
+The Bora-A 550 German Surveillance Radar is a solid state, pulse Doppler radar that is designed for the border, battlefield, coastline surveillance, intruder detection, and to aid helicopter navigation. It comprises a radio frequency (RF) sensor package and an operator unit.
+
+This equipment has proliferated into the following countries: Germany, Greece, Pakistan, Saudi Arabia, Thailand.
+
+Here is Variants information for the Bora-A 550 German Surveillance Radar:
+The BOR-A 560 is Available with a higher power transmitter of 40 W compared with the BOR-A 550 that has a peak power of 20 W, the BOR-A 560 has the same features, antenna, and receiver, but a larger number of frequency channels, longer range of up to 67 km, and higher bandwidth..
+
+Here is System information for the Bora-A 550 German Surveillance Radar:
+The Alternative Designation is Bora-A 550.
+The Type is Surveillance Radar.
+The Band is X-band.
+The Frequency is 8–10 GHz.
+The Bandwidth is 200 MHz.
+The Modes is Mode 1: Automatic 360° or sector search for moving targets.
+Mode 2: Antenna controlled in range and bearing by the operator.
+Mode 3: Small angle search of restricted area to locate, for instance, tracked vehicles which have stopped or disappeared behind an obstacle in the field-of-view.
+Mode 4: Automatic tracking in range and bearing of a single moving target..
+The Channels is 21.
+The Maximum Range is 40 km.
+The Scan Rate, Rotational is 8°/s; 16°/s; 32°/s.
+The Tracking Capacity is 40.
+The Accuracy Range is 5 m.
+The Accuracy Azimuth is 0.16875°.
+The Operation MTBF is >15,000 h.
+The Power is 20 W (peak, output).
+The Antenna Type is Parabolic.
+The Transmitter is Solid state.
+The Interface Type is Video-in, video-out, display out, 1×ethernet, 2×RS-232, 4×RS-422, 1×USB, loudspeaker, headset, keyboard, mouse, and TV in/out.
+
+Here is Dimensions information for the Bora-A 550 German Surveillance Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

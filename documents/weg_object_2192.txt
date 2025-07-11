@@ -1,0 +1,62 @@
+This document describes the Bronco 3 Singaporean Amphibious Tracked Articulated Multipurpose Vehicle.
+
+The Bronco 3 Singaporean Tracked Articulated Multipurpose Vehicle is a tracked articulated multipurpose vehicle designed and manufactured by Singapore Technologies Engineering (ST Engineering) in Singapore. It is designed to provide a user with a baseline vehicle that can cross the majority of terrains encountered while providing protection that is sufficient for modern conflict.
+
+This equipment has proliferated into the following countries: Singapore, Thailand.
+
+Here is Variants information for the Bronco 3 Singaporean Amphibious Tracked Articulated Multipurpose Vehicle:
+The Bronco is The Bronco is an articulated tracked AFV designed to provide users with mobility across extreme terrain and if required a platform family that can be used to support all of a formation's needs..
+
+Here is System information for the Bronco 3 Singaporean Amphibious Tracked Articulated Multipurpose Vehicle:
+The Alternative Designation is Bronco 3.
+The Type is Tracked Articulated Multipurpose Vehicle.
+The Manufacturer is Singapore Technologies Engineering (ST Engineering).
+The Configuration is Tracked.
+The Crew is 4.
+The Passenger Capacity is 8.
+The Payload Capacity is 6,300 kg.
+The Operating Temperature is -73°C to 80°C.
+
+Here is Dimensions information for the Bronco 3 Singaporean Amphibious Tracked Articulated Multipurpose Vehicle:
+The Length is 8.6 m.
+The Width is 2.26 m.
+The Height is 2.3 m.
+The Track Width is 600 mm.
+The Weight, Standard is 10,200 kg.
+The Weight, Combat is 16,500 kg.
+
+Here is Automotive information for the Bronco 3 Singaporean Amphibious Tracked Articulated Multipurpose Vehicle:
+The Engine Name is MTU.
+The Engine Type is Diesel.
+The Engine Power is 325 hp at 2,200 rpm.
+The Power-to-Weight Ratio is 19.69 hp/t.
+The Fuel Capacity is The vehicle has two fuel tanks; one under the rear module that doubles as protection and a smaller one under the front module. The front fuel tank contains 40 litres of fuel and is continuously supplied by two 200-litre fuel tanks installed under the rear module..
+The Electrical System is 24 V.
+The Batteries is 4 × 12 V.
+The Alternator is 450 A.
+The Range is 400.
+The Speed, Maximum Road is 65 km/h.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 4 km/h.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Turning Radius is 8 m.
+The Steering is hydrostatic, articulated, damped.
+The Suspension is rubber brushed.
+
+Here is Main Weapon System information for the Bronco 3 Singaporean Amphibious Tracked Articulated Multipurpose Vehicle:
+The Note #1 is The standard armament presented on the Bronco 3 is the Adder ROWS installed on the front module. The ROWS can armed with a 12.7 mm heavy MG, a 7.62 mm general-purpose MG, or 40 mm AGL with coaxial 7.62 mm MG..
+The Note #2 is When equipped with a fire support rear module, the Bronco 3 carries a 120 mm Super Rapid Advanced Mortar System (SRAMS), which can fire up to 10 rds/min and is fitted with a semi-automatic loader..
+
+Here is Fire Control System information for the Bronco 3 Singaporean Amphibious Tracked Articulated Multipurpose Vehicle:
+The FCS Name is INA.
+The Computerized FCS is Yes, if the Bronco 3 is equipment with the 120 mm Super Rapid Advanced Mortar System (SRAMS)..
+
+Here is Protection information for the Bronco 3 Singaporean Amphibious Tracked Articulated Multipurpose Vehicle:
+The Armor is The Bronco 3 has a V-shaped hull and high ground clearance to increase its protection from the effects of a mine blast. Both modules are built from welded and bent steel armor that can be upgraded with additional passive armors to provide protection up to NATO STANAG 4569 Level 4..
+The Applique Armor is Available.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

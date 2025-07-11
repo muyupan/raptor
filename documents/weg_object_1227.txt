@@ -1,0 +1,104 @@
+This document describes the JRTC VISMOD: 2B16 Nona-K Russian 120mm Towed Combination Gun.
+
+2B16 Nona-K is a 120mm towed gun based on the 120mm Nona gun which also served as the basis for the 2S9 Nona-S and 2S23 Nona-SVK self-propelled guns. Nona-K combines the capabilities of a gun, a mortar, and a howitzer into a single weapon system that can effectively engage troops, fortifications, and armored vehicles. To do so, this artillery system is capable of firing HE-fragmentation, shaped-charge Rocket Assisted Projectiles (RAPs), 120mm HE-fragmentation, illuminating, smoke and incendiary mortar rounds including those designed for NATO's 120mm mortars.
+
+The Russian Army has deployed Nona-K gun systems within motorized infantry battalions. Its effectiveness as been deemed similar to standard 152/155mm HE-fragmentation howitzer ammunition. The Nona-M1 is a special version designed for use by Russian airborne troops. It was introduced in late 2011 and is capable of hitting targets at ranges between 200 and 12,000 meters.
+
+This equipment has proliferated into the following countries: China, Russian Federation, Syria, Ukraine.
+
+Here is System information for the JRTC VISMOD: 2B16 Nona-K Russian 120mm Towed Combination Gun:
+The Alternative Designation  is Nona-K.
+The Carriage is Split Trail, 2-wheel torsion bar suspension.
+The Crew  is 5.
+The Displacement Time  is 2.
+The Emplacement Time  is 2.
+
+Here is Dimensions information for the JRTC VISMOD: 2B16 Nona-K Russian 120mm Towed Combination Gun:
+The Height, Overall is 1.7.
+The Length, Chassis Overall is 5.66.
+The Length, Chassis Overall Firing is INA.
+The Length, Chassis Overall Travel is 5.9.
+The Width, Firing is INA.
+The Width, Overall is INA.
+The Width, Travel is 1.79.
+The Weight, Combat is 1.1.
+
+Here is Automotive information for the JRTC VISMOD: 2B16 Nona-K Russian 120mm Towed Combination Gun:
+The Fording Depth  is 1.5.
+The Speed, Maximum Cross-Country is INA.
+The Towing Speed, Maximum Off-Road is 35.0.
+The Towing Speed, Maximum On-Road is 80.0.
+
+Here is System information for the JRTC VISMOD: 2B16 Nona-K Russian 120mm Towed Combination Gun of the Main Gun Weapon System:
+The Name is 2A51.
+The Type is Mortar.
+The Cailber/Length  is 120.0.
+The Breech Type is Vertical sliding wedge.
+The Length, Barrel  is 24.2 Caliber.
+The Loader Type is Semi-automatic.
+The Muzzle Brake Type is Multi baffle.
+The Rate of Fire, Burst  is 8.0.
+The Rate of Fire, Normal  is 6.0.
+The Rate of Fire, Sustained  is 4.0.
+The Maximum Elevation is +80.
+The Minimum Elevation is -10.
+The Traverse Range is 60.0.
+The Traverse, Left  is 30.0.
+The Traverse, Right  is 30.0.
+
+Here is Ammunition (Option 1) information for the JRTC VISMOD: 2B16 Nona-K Russian 120mm Towed Combination Gun of the Main Gun Ammunition:
+The Name is 3VOF49.
+The Type is Frag-HE.
+The Cailber/Length  is 120.0.
+The Fuze Type is PD and Proximity.
+The Muzzle Velocity  is INA.
+The Range  is 15-8,850.
+The Weight  is 19.8.
+
+Here is Ammunition (Option 2) information for the JRTC VISMOD: 2B16 Nona-K Russian 120mm Towed Combination Gun of the Main Gun Ammunition:
+The Name is BK-19.
+The Cailber/Length  is 120.0.
+The Type is HEAT.
+The Fuze Type is PD and Proximity.
+The Muzzle Velocity  is 560.0.
+The Range  is 40-1,000.
+The Weight  is 13.2.
+
+Here is Ammunition (Option 3) information for the JRTC VISMOD: 2B16 Nona-K Russian 120mm Towed Combination Gun of the Main Gun Ammunition:
+The Name is OF-50.
+The Type is Frag-HE.
+The Cailber/Length  is 120.0.
+The Fuze Type is B35 PD.
+The Muzzle Velocity  is 367.0.
+The Range  is 1,700-12,800.
+The Weight  is 19.8.
+
+Here is Ammunition (Option 4) information for the JRTC VISMOD: 2B16 Nona-K Russian 120mm Towed Combination Gun of the Main Gun Ammunition:
+The Name is Kitilov-2.
+The Type is  Laser-Guided Projectile
+.
+The Cailber/Length  is 120.0.
+The Fuze Type is PD.
+The Muzzle Velocity  is INA.
+The Range  is 500-9000.
+The Weight  is 25.0.
+
+Here is Ammunition (Option 5) information for the JRTC VISMOD: 2B16 Nona-K Russian 120mm Towed Combination Gun of the Main Gun Ammunition:
+The Name is OF-843B.
+The Type is Frag-HE mortar.
+The Cailber/Length  is 120.0.
+The Fuze Type is PD and Proximity.
+The Muzzle Velocity  is INA.
+The Range  is 450-7000.
+The Weight  is INA.
+
+Here is Fire Control System information for the JRTC VISMOD: 2B16 Nona-K Russian 120mm Towed Combination Gun:
+The Collimator is K-1.
+The Direct Fire is DF channel in the sight.
+The Indirect Fire is MP46M Panoramic Telescope.
+
+Here is Protection information for the JRTC VISMOD: 2B16 Nona-K Russian 120mm Towed Combination Gun:
+The NBC Protection is No.
+The Self-Entrenching Blade is No.
+The Smoke Equipment is No.
+

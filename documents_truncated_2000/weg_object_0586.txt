@@ -1,0 +1,68 @@
+This document describes the Type 54 Chinese 76mm Towed Howitzer.
+
+The Type 54 76mm Towed Field Gun is a Chinese version of the Russian ZiS-3 (M1942) 76mm Towed Field Gun.
+
+The 76-mm divisional gun ZiS-3 (M1942) (Russian: 76-мм дивизионная пушка обр. 1942 г. (ЗиС-3)) was a Soviet 76.2 mm divisional field gun used during World War II. ZiS was a factory designation and stood for Zavod imeni Stalina ("factory named after Stalin"), the honorific title of Artillery Factory No. 92, which first constructed this gun.
+
+Artillery Factory No. 92 began designing the ZiS-3 at the end of 1940. The ZiS-3 combined the light carriage from the 57 mm ZiS-2 anti-tank gun and the powerful 76.2 mm barrel from the F-22USV, the previous divisional field gun. The addition of a muzzle brake reduced recoil and prevented damage to the light carriage upon firing. Producing a ZiS-3 costs only a third of the time and two-thirds of the money of a F-22USV by making greater use of casting, stamping, and welding.
+
+V. G. Grabin, the chief designer of Soviet medium-caliber guns, initiated the gun's development without state approval, and the prototype was hidden from the state. Marshal Grigory Kulik, commander of Soviet artillery, had ordered a halt to the production of light 45 mm anti-tank guns and 76.2 mm divisional field guns in the belief that they were inadequate; the Soviets overestimated the armor protection of the latest German heavy tanks from propaganda about the Neubaufahrzeug multi-turreted prototype tank.
+
+The beginning of the Great Patriotic War revealed that the pre-war 76 mm guns overmatched German armor; in some cases even 12.7 mm DShK machine guns were adequate. Most of the 76 mm guns were lost early in the war; some captured examples armed German Panzerjäger self-propelled guns. Marshal Kulik ordered the F-22USV back into production. At Artillery Factory No. 92, Grabin put the ZiS-3 into mass production in December 1941.
+
+The factory's ZiS-3 stockpile grew and went unused as the Red Army refused to accept the guns without the usual acceptance trials. Grabin convinced the army to issue the guns for impromptu testing at the front, where it proved superior to existing divisional field guns. A subsequent demonstration impressed Joseph Stalin, who praised the weapon as "a masterpiece of artillery systems design." The ZiS-3 underwent an official five-day acceptance trial in February 1942 and was then accepted into service as divisional field gun model 1942 (full official name).
+
+Grabin worked to increase production at Artillery Factory No. 92. Conveyor assembly lines admitted the use of low-skilled labor without significant quality loss. Experienced laborers and engineers worked on complicated equipment and served as brigade leaders; they were replaced on the production line by young factory workers who were exempt from conscription, producing a new generation of skilled laborers and engineers. More than 103,000 ZiS-3s were produced by the end of the war, making it the most numerous Soviet field gun during the war.
+
+Mass production of the ZiS-3 ceased after the war. It was replaced by the 85 mm D-44 divisional field gun. The D-44 had better anti-armor capabilities, but inferior mobility due to its increased weight.
+
+The Finns captured 12 units and designated them 76 K 42.
+
+At least one ZiS-3 was produced at the Reșița Works in Reșița, Romania, during 1943. This Romanian-produced copy was tested against several Romanian-designed prototypes as well as some foreign models until eventually one of the Romanian prototypes was selected for production as the Tunul antitank DT-UDR 26, cal. 75 mm, md. 1943, commonly shortened to 75 mm Reşiţa Model 1943. This gun had the muzzle brake, split-trail carriage and recoil/firing mechanisms of the ZiS-3. At least 375 DT-UDR guns were produced by Romania, including three prototypes.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Type 54 Chinese 76mm Towed Howitzer:
+The ZiS-3 (M1942) is Russian Version.
+
+Here is System information for the Type 54 Chinese 76mm Towed Howitzer:
+The Alternative Designation is Type 54.
+The Type is Towed Howitzer.
+The Caliber is 76 mm.
+The Manufacturer is Norinco.
+The Crew is 7.
+The Carriage is Split trail.
+The Displacement Time is Under 2.
+The Emplacement Time is Under 2.
+
+Here is Dimensions information for the Type 54 Chinese 76mm Towed Howitzer:
+The Length is INA.
+The Barrel Length is 3.4 m.
+The Width is 1.6 m.
+The Height is 1.37 m.
+The Weight, Combat is 1,116 kg.
+
+Here is System information for the Type 54 Chinese 76mm Towed Howitzer of the Main Weapon System:
+The Name is Type 54.
+The Type is Towed Howitzer.
+The Caliber is 76.
+The Breech is Semi-automatic vertical sliding-wedge.
+The Recoil is Hydro-pneumatic.
+The Carriage is Split trail.
+The Elevation is −5° to +37°.
+The Traverse is 54°.
+The Rate of Fire is up to 25 rounds per minute.
+The Maximum Firing Range is 13.29 km.
+
+Here is Ammunition information for the Type 54 Chinese 76mm Towed Howitzer of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 76.
+The Shell is Fixed QF 76.2 × 385 mm. R.
+The Basic Load is INA.
+
+Here is Fire Control information for the Type 54 Chinese 76mm Towed Howitzer:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+

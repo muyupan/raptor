@@ -1,0 +1,42 @@
+This document describes the 1L220-U (Zoopark-2) Ukrainian Artillery Locating Radar.
+
+A Ukrainian export company reported the Ukrainian army would begin receiving the 1L220-U (NATO: Zoopark 2) in 1999. The Artillery Locating Radar (ALR) has the capability of detecting mortars, cannon artillery, rocket, and tactical missile batteries. It can estimate the impact points of hostile fires as well as register friendly artillery. The ALR has an internal navigation and orientation system to enable autonomous operations and is equipped with a communications suite for command and control.
+
+It is capable of friendly fire adjustment ranges as follows: 20-25 km for 152-mm artillery guns, 25-30 km for 82-mm/120-mm mortars; 21-40 km for BM-21-type MLRS; 80 km for rockets.
+
+This equipment has proliferated into the following countries: Russian Federation, Ukraine.
+
+Here is System information for the 1L220-U (Zoopark-2) Ukrainian Artillery Locating Radar:
+The Alternative Designation is 1L220-U; Zoopark-2.
+The Type is Artillery Locating Radar.
+The Manufacturer is INA.
+The Crew is 5.
+The Chassis is Multiple Options (See Images).
+The Time Between Failures is >400.
+
+Here is Dimensions information for the 1L220-U (Zoopark-2) Ukrainian Artillery Locating Radar:
+The Height, Overall is 3.8.
+The Length, Chassis Overall is 11.5.
+The Width, Overall is 3.2.
+The Weight, Combat is 23.5 tons (varies with chassis).
+
+Here is Transmitter information for the 1L220-U (Zoopark-2) Ukrainian Artillery Locating Radar of the Radar:
+The Transmitter Type is Traveling Way Tube (TWT).
+The Peak Power is 40.
+The Frequency Band is 3-4.
+The Modulation Type is Pulsed.
+
+Here is Receiver information for the 1L220-U (Zoopark-2) Ukrainian Artillery Locating Radar of the Radar:
+The Noise Figure is 5.
+The Single Pulse Processing is Coherent.
+The Multiple Pulse Processing is MTI and Doppler Filters.
+
+Here is Antenna information for the 1L220-U (Zoopark-2) Ukrainian Artillery Locating Radar of the Radar:
+The Type is Phased Array.
+The Polarization is Vertical.
+The Mode is Track.
+The Scan Method is Electronic.
+The Scan Type is Monopulse.
+The Scan Width is 60.
+The Notes is Scan Width is 10% of the full azimuth sector is assumed for a crossing trajectory..
+

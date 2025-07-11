@@ -1,0 +1,156 @@
+This document describes the MIM-23B I-Hawk American Surface-to-Air Missile (SAM) System.
+
+The Raytheon MIM-23 Hawk (or HAWK: Homing All the Way Killer) is an American medium-range surface-to-air missile.
+
+
+The MIM-23 I-Hawk or MIM-23B has a larger 74 kg (163 lb) blast-fragmentation warhead, a smaller and improved guidance package, and a new M112 rocket motor. The new warhead produces approximately 14,000 2-gram (0.071 oz) fragments that cover a much larger 70 degree arc. The missiles M112 rocket motor has a boost phase of 5 seconds and a sustain phase of 21 seconds. The motors total weight is 395 kg (871 lb) including 295 kg (650 lb) of propellant. This new motor improves the engagement envelope to 1.5 to 40 km (0.93 to 24.85 mi) in range at high altitude, and 2.5 to 20 km (1.6 to 12.4 mi) at low altitude, the minimum engagement altitude is 60 meters (200 ft). The missile was operational in 1971. All US units had converted to this standard by 1978. 
+
+
+A typical Phase-III MIM-23B Hawk battery consists of:
+
+1 × PAR: Pulse Acquisition Radar—a search radar with a 20 (+/−2) rpm rotation, for high/medium altitude target detection.
+1 × CWAR: Continuous Wave Acquisition Radar—a search doppler radar with a 20 (+/−2) rpm rotation, for low altitude target detection.
+2 × HIPIR: HIgh Power Illuminator doppler Radar—target tracking, illumination and missile guidance.
+1 × FDC: Fire Direction Center
+1 × IFF: Identification Friend or Foe Transceiver
+6 × DLN: Digital Launchers with 18 missiles.
+6 × MEP-816: Generators 60KW (400 Hz) each.
+12 × M-390: Missile transport pallets with 36 missiles
+3 × M-501: Missile loading tractors.
+1 × [bucket loader]
+
+This equipment has proliferated into the following countries: Bahrain, Egypt, Greece, Iran (Islamic Republic of), Japan, Kurdistan, Kuwait, Kyrgyzstan, Saudi Arabia, Singapore, South Korea (Republic of Korea), Spain, Sweden, United Arab Emirates.
+
+Here is Variants information for the MIM-23B I-Hawk American Surface-to-Air Missile (SAM) System:
+The I-Hawk (Improved Hawk /Hawk B/MIM-23B) is This variant reached initial operating capability (IOC) in 1972. Upgrades from the original Hawk included solid-state electronics, factory certified and sealed missile round, all-altitude capability, digital automatic data processor for the information coordination central (ICC), improved solid-pro pellant rocket motor and a larger warhead..
+The Hawk Mobility Enhancement (HME) is This was jointly developed by Raytheon and the Dutch air force. It reduced number of vehicles in a Hawk firing unit from 14 trucks and trailers to seven, updated the Hawk launcher and simplified reloading..
+The Patriot /Hawk Interoperability is This is a software upgrade to permitting Hawk missile platoons to receive targeting data from Patriot information coordination center (ICC). An April 1988 test simulated an interception of a short-range tactical missile by shooting down a missile traveling at Mach 2 and at an altitude of more than 25,000 ft (7,620 m)..
+The Sparrow /Hawk Demonstration Program is In 1985, Raytheon combined elements of two of its missile products into one system. The Sparrow /Hawk system replaced the three I-Hawks on the M192 launcher with eight AIM-7 Sparrow missiles (the original launcher had nine missiles)..
+The NOAH (Norwegian Adapted Hawk ) is INA.
+The Iran MIM-23 Hawk variant is Iran reportedly made several upgrades to MIM-23 missiles for the carriages of its F-14 Tomcats. Some were displayed in Tehran in September 1998..
+The Danish Enhanced Hawk (DEHAWK) is Introduced in December 2002, the Danish Enhanced Hawk (DEHAWK) was developed by Terma and Thales. After several years of delays, the program was handed over to the Danish Air Materiel Command..
+
+Here is System information for the MIM-23B I-Hawk American Surface-to-Air Missile (SAM) System:
+The Alternative Designation is MIM-23B Hawk, MIM-23 I-Hawk.
+The Type is medium-range surface-to-air missile..
+The Family is MIM-23 Hawk Family.
+The Manufacturer is Raytheon Company.
+The In Service is 1971-Present.
+The Crew is INA.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Fire on the Move is No.
+The Note #1 is The original Hawk has been phased out of NATO and U.S. service, although several countries have missiles in storage. All active Hawk missiles are the I-Hawk variant..
+The Note #2 is Product Improvement Plan In 1973 the US Army started an extensive multi-phase Hawk PIP (Product Improvement Plan), mainly intended to improve and upgrade the numerous items of ground equipment.
+
+Phase I
+Phase I involved replacement of the CWAR with the AN/MPQ-55 Improved CWAR (ICWAR), and the upgrade of the AN/MPQ-50 PAR to Improved PAR (IPAR) configuration by the addition of a digital MTI (Moving Target Indicator). The first PIP Phase I systems were fielded between 1979 and 1981.
+
+Phase II
+Developed from 1978 and fielded between 1983 and 1986. upgraded the AN/MPQ-46 HPI to AN/MPQ-57 standard by replacing some of the vacuum tube based electronics with modern solid-state circuits, and added an optical TAS (Tracking Adjunct System). The TAS, designated OD-179/TVY, is an electro-optical (TV) tracking system that increases Hawk operability and survivability in a high-ECM environment.
+Phase III
+
+The PIP Phase III development was started in 1983, and was first fielded by U. S. forces in 1989. Phase III was a major upgrade which significantly enhanced the computer hardware and software for most components of the system, a new CWAR the AN/MPQ-62, added single-scan target detection capability, and upgraded the HPI to AN/MPQ-61 standard by addition of a Low-Altitude Simultaneous Hawk Engagement (LASHE) system. LASHE allows the Hawk system to counter saturation attacks by simultaneously intercepting multiple low-level targets. The ROR was phased out in Phase III Hawk units..
+
+Here is Dimensions information for the MIM-23B I-Hawk American Surface-to-Air Missile (SAM) System:
+The Length is 5.03.
+The Diameter is 0.37.
+The Wingspan is 1.21.
+The Weight, Combat is 640.
+The Warhead Weight is 54.
+
+Here is Automotive information for the MIM-23B I-Hawk American Surface-to-Air Missile (SAM) System:
+The Engine Name is 1 x Aerojet dual-thrust solid-fuel rocket (M112 motor).
+The Engine Type is Solid-fuel rocket engine.
+The Speed is Mach 2.7.
+The Transporter is The Hawk missile is transported and launched from the M192 towed triple-missile launcher..
+The M112 Motor Burn Rate is a 5-second boost phase and a sustain phase of around 21 seconds..
+The M112 Motor Weight is 395 kg including 295 kg of propellant..
+
+Here is Communications information for the MIM-23B I-Hawk American Surface-to-Air Missile (SAM) System:
+The Note is See Fire Control.
+
+Here is Missile System information for the MIM-23B I-Hawk American Surface-to-Air Missile (SAM) System:
+The Name is MIM-23B.
+The Type is Semi-active Radar Homing Missile.
+The Guidance is Semi-active Radar Homing.
+The Length/Caliber is INA.
+The Maximum Effective Range is 35.
+The Minimum Effective Range is 1.5.
+The Maximum Altitude is 18.
+The Minimum Altitude is 30.
+The Max Elevation is INA.
+The Min Elevation is INA.
+The Traverse Range is INA.
+The Traverse Left is INA.
+The Traverse Right is INA.
+The Max Rate of Fire is INA.
+The Launcher is M192 towed triple-missile launcher.
+The Reflector is low side lobe, high-gain plane antenna to reduce sensitivity to ground clutter.
+The Warhead Type is Conventional high-explosive blast fragmentation.
+The Warhead Weight is 54.
+The Warhead Fragments Speed is 2,000 meters per second.
+The Warhead Fragments is 14,000 2-gram (0.071 oz) fragments.
+The Warhead Fragments Arc is 70.
+The Fuze Type is radio frequency proximity and impact fuses.
+The Speed is Mach 2.5.
+The Guidance System is X-band CW monopulse semi-active radar seeker..
+The Kill Probability is 0.85 (Improvement from the MIM-23A).
+The Mean Time Between Failures (MTBF) is 300-400 hours.
+The Peak Velocity is 500 m/s.
+The Maximum Maneuver Speed is 15 Gs.
+
+Here is Fire Control System information for the MIM-23B I-Hawk American Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Fire Control Sensors is Yes.
+The IADS Integration is INA.
+The Digital Data Processing Central Information Coordinator is Yes, for Target Processing, Threat Ordering, and Intercept Evaluation..
+
+Here is Radar #1 information for the MIM-23B I-Hawk American Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is AN/MPQ-50 (Improved Hawk to Phase III).
+The Type is PAR Pulse Acquisition Radar.
+The Digital MTI (Moving Target Indicator) is Yes.
+The Frequency is 500 to 1,000 MHz.
+The Band is C-Band.
+The Peak Operating Power is 1,000 watts.
+The High PRF Range is 104 km.
+The Low PRF Range is 96 km.
+
+Here is Radar #2 information for the MIM-23B I-Hawk American Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is AN/MPQ-48 (Improved Hawk).
+The Type is CWAR Continuous Wave Acquisition Radar.
+The Power Rating is 400.
+The Frequency is 10 GHz (X-Band).
+The Range is 69 km (43 mi) (CW) to 63 km (39 mi) (FM) versus 3 m2 (32 sq ft) target..
+
+Here is Radar #3 information for the MIM-23B I-Hawk American Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is AN/MPQ-46 (Improved Hawk – Phase I).
+The Type is HPIR High Power Illuminating Radar.
+The Power Output is 125.
+The Operating GHz Band is 10-20 GHz  J band.
+The Range is 99 km (62 mi) (high PRF) to 93 km (58 mi) (low PRF) versus 3 m2 (32 sq ft) target..
+
+Here is Radar #4 information for the MIM-23B I-Hawk American Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is AN/MPQ-51 (Improved Hawk – Phase II).
+The Type is ROR Range Only Radar.
+The Frequency is 15.5-17.5 GHz).
+The Pusle Radar is Yes.
+The Power Output is 120 kW.
+The Pusle Length is 0.6 µs.
+The Pulse Repetition Frequency is 1600 Hz.
+The Range is 83 km (52 mi) versus 3 m2 (32 sq ft) target.
+
+Here is Protection information for the MIM-23B I-Hawk American Surface-to-Air Missile (SAM) System:
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

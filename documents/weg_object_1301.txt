@@ -1,0 +1,106 @@
+This document describes the K30 Biho (Flying Tiger) South Korean 30mm Self-Propelled Anti-Aircraft Gun.
+
+The South Korean K30 Biho (Flying Tiger) twin 30 mm self-propelled anti-aircraft weapon was developed to meet the operational requirements of the Republic of Korea Armed Forces for a highly mobile short range air defense system suited to the operational and terrain conditions of the Korean peninsula. It combines an electro-optically guided 30 mm gun system with a surveillance radar system on a K200 chassis. It supplements the K263A1 Chungung, a self-propelled 20 mm Vulcan system.
+
+The K30 is primarily built by Hanwha Defense.
+
+A K30 Biho system consists of twin 30 mm guns, a TPS-830K surveillance and fire-control radar, an electro-optical targeting system (EOTS), panoramic periscope, forward looking infrared system (FLIR), laser rangefinder (LRF), thermal sight, a TV camera, and a digital fire-control system. The combined targeting system of EOTS, FLIR, and LRF has a targeting range of over 10 km (6.2 mi). The TPS-830K radar can detect and track a 2 m2 (22 sq ft)-RCS target from a range of 17 km (11 mi). The cannons have a cyclic rate of fire of 600 rpm and an effective anti-aircraft range of 3,000 m (1.9 mi), and each is loaded with 300 rounds of ammunition. In December 2013, DAPA announced that the Biho had been integrated with the Shingung surface-to-air missile to increase its coverage to 7 km. Two pods each containing two missiles are mounted, one of each side of the turret. Design integration with the missiles was completed in 2014, and by October 2015 the system was in full-rate production. The upgraded vehicle was in service by late 2018.
+
+The TPS-830K radar of K30 is an X-band (8 to 12.5 GHz) surveillance and fire-control pulse-Doppler radar, specialized for use against low-flying aircraft. Its features include real-time early warning, multiple target detection, an integral L-band (1 to 2 GHz) Identification Friend or Foe (IFF) subsystem, pulse compression, frequency agility, and adaptive moving target indication as an anti-chaff measure. It supplies ballistic computation data to the digital fire-control system to direct the aim of the electro-optical targeting system, which then aligns the 30 mm guns with the target for accurate fire. The radar can be installed on a separate vehicle (usually a 5-ton six-wheeled truck with a self-towed generator unit) to serve as an independent surveillance platform for other short range air defense systems. The secondary FLIR system and laser rangefinder supplements the TPS-830K radar to provide additional targeting means in case the radar is rendered inoperative, or is turned off to retain the element of surprise against aircraft that are equipped with radar warning receivers.
+
+The K30 adapts the chassis of the K200 infantry fighting vehicle, but has some differences. It has an extra roadwheel in its suspension and uses a D2840L engine instead of the D2848T engine of the K200, with an increase in engine power from 350 horsepower to 520 horsepower, necessary since the K30 weighs almost twice as much as the K200. Allison Transmission's X200-5K transmission is likewise replaced by S&T Dynamics' HMPT500-3EK/4EK to accommodate the more powerful engine. The modified chassis largely retains the protection and amphibious capability of the original chassis.
+
+This equipment has proliferated into the following countries: India, South Korea (Republic of Korea).
+
+Here is System information for the K30 Biho (Flying Tiger) South Korean 30mm Self-Propelled Anti-Aircraft Gun:
+The Alternative Designation is K30 Biho; Flying Tiger.
+The Type is 30mm Self-Propelled Anti-Aircraft Gun.
+The Crew is 4 (commander, gunner, loader, driver).
+The Chassis is INA.
+The Displacement Time is Less than 5 Min.
+The Emplacement Time is Less than 5 Min.
+
+Here is Dimensions information for the K30 Biho (Flying Tiger) South Korean 30mm Self-Propelled Anti-Aircraft Gun:
+The Length is 6.95 m.
+The Width is 3.20 m.
+The Height, Hull is 1.89 m.
+The Height, Radar Up is 4.50 m.
+The Ground Clearance is 410 mm.
+The Weight, Combat is 25,000 kg.
+
+Here is Automotive information for the K30 Biho (Flying Tiger) South Korean 30mm Self-Propelled Anti-Aircraft Gun:
+The Engine Name is 1 x Doosan Infracore D2848T.
+The Engine Type is Diesel.
+The Engine Power is 350.
+The Transmision is General Dynamics Land Systems HMPT-500-3EK.
+The Suspension is torsion bar.
+The Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Fording Depth is 1.2 m.
+
+Here is System information for the K30 Biho (Flying Tiger) South Korean 30mm Self-Propelled Anti-Aircraft Gun of the Main Weapon System:
+The Name is 2 x 30-mm Oerlikon Contraves KCB-B.
+The Type is Anti-Aircraft Guns.
+The Caliber is 30mm.
+The Barrel Length is INA.
+The Weight is INA.
+The Elevation is 85 degrees to -10 degrees.
+The Traverse is 360 degrees.
+The Muzzle Velocity is 1,080 mps.
+The Rate of Fire is 600 rds/min per cannon.
+The Maximum Range is 3,000 m.
+The Maximum Altitude is 3,500 m.
+The Turret Drive is 90 deg per second.
+The Reaction Time is 6 to 13 seconds.
+
+Here is Ammunition information for the K30 Biho (Flying Tiger) South Korean 30mm Self-Propelled Anti-Aircraft Gun of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 30.
+The Cartridge is INA.
+The Basic Load is 600.
+The Ready Rounds is 250 per gun.
+
+Here is System information for the K30 Biho (Flying Tiger) South Korean 30mm Self-Propelled Anti-Aircraft Gun of the Missile Weapon System:
+The Name is Chiron Missile.
+The Type is Surface-to-Air Missile.
+The Basic Load is 4 x Chiron Missiles.
+The Length is 1.68m.
+The Diameter is 80 mm.
+The Weight is 24.3 kg.
+The Engine is Solid fuel rocket.
+The Guidance System is Infrared homing.
+The Warhead Type is INA.
+The Warhead Weight is 2.5 kg.
+The Maximum Firing Range is 7 km.
+The Effective Firing Range is 7 km.
+
+Here is Fire Control information for the K30 Biho (Flying Tiger) South Korean 30mm Self-Propelled Anti-Aircraft Gun:
+The Name is INA.
+The Computerized FCS is Yes.
+The Optics is Sagem periscopic sight
+Raytheon EOTS.
+The Main Gun Stabilization is Yes.
+The IFF is Yes,  1, 2, 3/A, 4.
+
+Here is Radar System information for the K30 Biho (Flying Tiger) South Korean 30mm Self-Propelled Anti-Aircraft Gun:
+The Name is LG TPS-830K.
+The Type is Search Radar.
+The Frequency is X Band.
+The Effective Range is 30 km.
+The Detection Range is 17 km.
+
+Here is Protection information for the K30 Biho (Flying Tiger) South Korean 30mm Self-Propelled Anti-Aircraft Gun:
+The Hull Armor is Armor of the K30 Biho provides protection against small arms fire and artillery shell splinters..
+The Turret Armor is Armor of the K30 Biho provides protection against small arms fire and artillery shell splinters..
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 10 x smoke grenade launchers.
+

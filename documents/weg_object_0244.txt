@@ -1,0 +1,98 @@
+This document describes the M-1993 North Korean 122mm Multiple Rocket Launcher (MRL).
+
+The M-1993 122mm Multiple Rocket Launcher is a North Korean version of the Czechoslovakian RM-70.
+
+The RM-70 (raketomet vzor 1970) multiple rocket launcher is a Czechoslovakian army version and a heavier variant of the BM-21 Grad multiple rocket launcher, providing enhanced performance over its parent area-saturation rocket artillery system that was introduced in 1971 (the NATO designation is M1972).
+
+RM-70 was developed in Czechoslovakia as a successor for the RM-51, achieving initial operational capability with its Army in 1972. The launcher was being produced in Dubnica nad Váhom (Slovakia). Originally, it was sold to East Germany. After the Soviet Union collapsed and the split of Czechoslovakia into the Czech Republic and the Slovak Republic, it was sold to several states in Africa, America, Asia, and Europe.
+
+RM-70 replaced the Ural-375D 6x6 truck with a Tatra T813 "Kolos" 8x8 truck as a carrier platform for the 40-round launcher. The new carrier vehicle provides enough space for carrying 40 additional 122mm rockets pack for reloading. Nevertheless, RM-70 performance remains near the same as Grad even in terms of the vehicle's speed and range. This rocket launcher can fire both individual rounds and volleys, principally by means of indirect fire. It is designed for concentrated fire coverage of large areas (up to 3 hectares in one volley) by high explosive fragmentation shells. The fire is robust with almost 256 kg of explosives used in one volley of 40 rockets. The rockets used are either the original Soviet 9M22 and 9M28, or locally developed models. These are the JROF with a range of 20.75 km, the JROF-K with a range of 11 km, the "Trnovnik" with 63 HEAT-bomblets and with a range of 17.5 km, the "Kuš" with five PPMI-S1 anti-personnel mines or the "Krizhna-R" with 4 anti-tank mines PTMI-D and with a range of 19,450 m.
+
+The vehicle is provided with a central tire-pressure regulation system (to allow its adaptation to the nature of the traversed ground), a headlight with white light on the forward cab roof, and, if necessary, with snow plow SSP 1000 or a dozer blade BZ-T to arrange its own emplacement or to remove obstacles.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is Variants information for the M-1993 North Korean 122mm Multiple Rocket Launcher (MRL):
+The RM-70 is Basic model, as described..
+The RM-70/85 is An unarmored version of the RM-70, based on the Tatra T815 VPR9 8x8.1R truck with 265 hp engine T3-930-51. Combat weight: 26.1 t. Sometimes called RM-70M..
+The RM-70/85M is Modernized vehicles with new fire control and navigation equipment, can use a new type of rocket with a range of 36 km. Slovakia has ordered 50 upgrade packages..
+The RM-70 Modular is In December 2000, the Slovak Ministry of Defense and Delta Defence started the RM-70 Modular German-Slovak modernization project. RM-70 Modular allows this artillery system to launch either twenty-eight 122mm rockets, or six 227mm rockets as used on the M270 MLRS. This way the system became fully NATO interoperable. The truck cabin is entirely armored. The Slovak Republic signed for 26 upgraded artillery systems with the first one delivered on May 20, 2005. RM-70 Modular is being offered as an upgrade for RM-70 owners..
+The Vz.92 "Križan" VMZ is Engineer vehicle, based on the Tatra T815 36.265 with a lightly armored cabin. The vehicle comes in different configurations, the standard being a 40-round rocket launcher (for "Kuš" and "Krizhna-R" rockets), a mechanical mine layer for anti-tank mines (PT Mi-U or PT Mi-Ba-III), and two dispensers for anti-personnel mines (PP Mi-S1)..
+The RM-70 Vampire is Upgraded version integrated on a Tatra T-815-7 truck chassis powered by a Tatra T3C V8 engine with 270 kW of output, coupled with a Tatra 10 TS 210 N gearbox, with semi-automatic Tatra Norgen drive system and an additional gearbox Tatra 2.30TRS. It has a range of around 1,000 km (620 mi) and a top speed of 90 km/h (56 mph) with an armored and NBC-protected crew cabin..
+The LRSV-122 M-96 "Tajfun" is Modified version with 4 rows of 8 launch tubes on an unarmoured Tatra T813 truck. Like the M-77 Oganj and the Chinese Type 90A, the launcher and reloading pack are covered by a collapsible awning for protection and camouflage when traveling. Combat weight: 23.5 t. Only a very small number was built..
+
+Here is System information for the M-1993 North Korean 122mm Multiple Rocket Launcher (MRL):
+The Alternative Designation is M-1993.
+The Type is Multiple Rocket Launcher (MRL).
+The Caliber is 122 mm.
+The Manufacturer is INA.
+The Crew is 4-6.
+The Mission is Main role of this artillery rocket system is to engage area targets, such as concentrations of troops and armored vehicles, artillery batteries, and other targets..
+The Chassis is The RM-70 uses chassis of the Tatra 813 8x8 truck..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the M-1993 North Korean 122mm Multiple Rocket Launcher (MRL):
+The Length is 8.8 m.
+The Width is 2.5 m.
+The Height is 2.9 m.
+The Weight, Combat is 33.7 tons.
+
+Here is Automotive information for the M-1993 North Korean 122mm Multiple Rocket Launcher (MRL):
+The Engine Name is Tatra T-930-3.
+The Engine Type is Diesel.
+The Engine Power is 270.
+The Fuel Capacity is 400 liters.
+The Range is 600.
+The Speed, Maximum Road is 80.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 1.5.
+The Fording is 1.4.
+
+Here is System information for the M-1993 North Korean 122mm Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Name is M-1993.
+The Type is Multiple launch rocket system.
+The Caliber is 122 mm.
+The Number of Tubes is 40.
+The Firing Range is 20 km.
+The Full Salvo is 20 seconds.
+The Reloading Time is 2 minutes.
+The Elevation is +50 deg.
+The Traverse is 125 deg left, 70 deg right.
+
+Here is Ammunition (Option 1) information for the M-1993 North Korean 122mm Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Type is Long-Range Rocket.
+The Caliber is 122 mm.
+The Rocket Length is 3.23 m.
+The Rocket Weight is 77.0 kg.
+The Warhead Weight is 19.4 kg.
+The Maximum Range is 20 km.
+The Basic Load is 80 Rounds.
+
+Here is Ammunition (Option 1) information for the M-1993 North Korean 122mm Multiple Rocket Launcher (MRL) of the Main Weapon System:
+The Type is Short-Range Rocket.
+The Caliber is 122 mm.
+The Rocket Length is 1.91 m.
+The Rocket Weight is 45.8 kg.
+The Warhead Weight is 19.4 kg.
+The Maximum Range is 11 km.
+The Basic Load is 80 Rounds.
+
+Here is Fire Control System (FCS) information for the M-1993 North Korean 122mm Multiple Rocket Launcher (MRL):
+The Name is INA.
+The Computerized FCS is INA.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+
+Here is Protection information for the M-1993 North Korean 122mm Multiple Rocket Launcher (MRL):
+The Hull Armor is Vehicle has an armored cab. It provides protection against small arms fire and artillery shell splinters..
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

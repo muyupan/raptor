@@ -1,0 +1,177 @@
+This document describes the Buyan-Class (Project 21630 Buyan) Russian Corvette.
+
+Buyan Class (Project 21630 Buyan) Russian Corvetteare series of corvettes (small artillery and missile ships in Russian classification) developed by Zelenodolsk Design Bureau for the Russian Navy. Since 2010, all subsequent vessels are being constructed as improved Project 21631 subclass, incorporating greater tonnage, stealth technology, and the 3S-14 vertical launching system for either Kalibr or Oniks anti-ship cruise missiles, significantly enhancing combat capabilities. The ships are primarily designed for operations within littoral zones to protect Russia's vast coastal areas. Due to the small tonnage, they can operate even within shallow parts of oceans and seas and Russia's river system. The export variant is known as Project 21632 Tornado.
+
+In August 2010, some information about the newly modified Project 21631, dubbed as Buyan-M, was published. The Project 21631 ships are said to be an up-to-date variant of Project 21630 Buyan small artillery ship, armed with the nuclear-capable Kalibr cruise missiles (SS-N-27 Sizzler) with a claimed range of at least 1,500 km and electronic countermeasure equipment. Ships of Project 21631 are designed to defend the national economic zones of Russia. The ship's small size and displacement enable them to operate within inland river systems, including traversing the Moscow Canal which allows them to deploy to various seas around European Russia. This is a particular advantage for the Buyan-M series, because while the Intermediate-Range Nuclear Forces Treaty (INF) prohibits long-range cruise missiles from operating on land they can operate from ships, so a river-based corvette can deploy missiles without being subject to restrictions. The lead ship of this project, Grad Sviyazhsk, was laid down on 27 August 2010 and commissioned on 27 July 2014.
+
+On 7 October 2015, corvettes Grad Sviyazhsk, Uglich, Velikiy Ustyug, and Gepard-class frigate Dagestan, deployed in the Caspian Sea, launched 26 Kalibr cruise missiles at 11 terrorist targets in Syria. The missiles flew nearly 1,500 kilometers (930 mi) over Iran and Iraq and struck targets in Raqqa and Aleppo provinces (controlled by the Islamic State) as well as in Idlib province (controlled by the al-Qaeda-linked Nusra Front)According to US DoD officials, several of these cruise missiles fired from Russian ships crashed in Iran and did not make it to their intended targets in Syria. An Iranian dissident organizations' TV reported that an "unidentified flying object" crashed and exploded in a village near the Iranian city of Takab.
+
+On 20 November 2015, the same warships launched 18 Kalibr cruise missiles from the Caspian Sea at seven terrorist targets in Rakka, Idlib, and Aleppo provinces.
+
+On 13 February 2016, corvette Zelenyy Dol was deployed to the Mediterranean Sea.
+
+On 19 August 2016, corvettes Zelenyy Dol and Serpukhov, deployed in the Mediterranean Sea, launched Kalibr cruise missiles at positions of Al-Nusra terrorist group in Syria. As a result of the strikes, a number of terrorist facilities were destroyed, including command post and base near the village of Dar Ta Izzah and weapon production plants and warehouses in Aleppo province.
+
+On 25 October 2016, Zelenyy Dol and Serpukhov were deployed to the Baltic Sea to join a newly formed division in Kaliningrad.
+
+On 4 November 2014, during the Euronaval-2014 exhibition, it was announced Kazakhstan has sent a request for the construction of three Project 21632 Tornado small artillery/missile ships. The ships were believed to be laid down in 2015.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Buyan-Class (Project 21630 Buyan) Russian Corvette:
+The Astrakhan is Commissioned: 2006
+Status: Active
+Fleet: Caspian Fleet.
+The Volgodonsk is Commissioned: 2011
+Status: Active
+Fleet: Caspian Fleet.
+The Makhachkala is Commissioned: 2012
+Status: Active
+Fleet: Caspian Fleet.
+
+Here is System information for the Buyan-Class (Project 21630 Buyan) Russian Corvette:
+The Alternative designations is Astrakhan; Project 21630.
+The Builder is Almaz Shipbuilding Company
+Zelenodolsk Plant Gorky.
+The Type is Guided Missile Corvette.
+The Crew (total) is 36.
+
+Here is Dimensions information for the Buyan-Class (Project 21630 Buyan) Russian Corvette:
+The Length is 62.
+The Beam is 9.6.
+The Height is 6.57.
+The Draft is 2.
+The Displacement, Standard is 500 tons.
+The Displacement, Full Load is 520 tons.
+
+Here is Propulsion System information for the Buyan-Class (Project 21630 Buyan) Russian Corvette:
+The Engine Name is 4 x Zvezda M520.
+The Engine Type is Diesel.
+The Engine Power is 14,584 shp.
+The Maximum Speed is 28 knots (52 km/h; 32 mph).
+The Maximum Range is 1,500 nmi (2,800 km; 1,700 mi).
+The Endurance is 10 days.
+
+Here is Weapon System #1 information for the Buyan-Class (Project 21630 Buyan) Russian Corvette of the Main Weapon System:
+The Name is 1 x AK-100 Naval Cannon.
+The Type is Naval Cannon.
+The Caliber is 100.
+The Length is INA.
+The Weight is 35.5 tons.
+The Elevation is -10 / +85 degrees.
+The Rate of Elevation is 30 degrees per second.
+The Traverse is 360 degrees.
+The Traverse Rate is 35 degrees per second.
+The Recoil is 20 in (51 cm).
+The Rate of Fire is 50 to 60 rounds per minute.
+
+Here is Weapon System #1 Ammunition information for the Buyan-Class (Project 21630 Buyan) Russian Corvette of the Main Weapon System:
+The Shell is INA.
+The Caliber is 100.
+The Shell Weight is 26.8 kg.
+The Basic Load is INA.
+
+Here is Weapon System #2 information for the Buyan-Class (Project 21630 Buyan) Russian Corvette of the Main Weapon System:
+The Name is 2 x AK-630-M2 CIWS.
+The Type is Fully automatic naval close-in weapon system based on a six-barreled 30 mm rotary cannon..
+The Caliber is 30 mm.
+The Main Armament is 1 or 2 AO-18 autocannons.
+The Secondary Armament is 4 x 9A4172 missiles (Vikhr-K upgrade.
+The Barrel Length is 1,629 mm  (total)
+1,460 mm  (rifled).
+The Width is 1,240 mm (mount ring).
+The Height is 1,070 mm (above deck)
+2,050 mm (below deck).
+The Weight is 1,000 kg (gun mount).
+The Crew is 1.
+The Barrels is 6.
+The Action is Gas-operated rotary cannon.
+The Elevation is +88° ... -12° (50°/sec).
+The Traverse is ±180° (70°/sec).
+The Muzzle Velocity is 880–900 m/s.
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Effective Firing Range is 4,000 m (aerial)
+5,000 m (maritime).
+The Maximum Firing Range is The projectiles self-destruct past 5,000 m..
+The Feed System is 2,000 rounds (additional 1,000 rounds in reserve feed bin..
+The Sights is Radar / TV-optical.
+
+Here is Weapon System #2 Ammunition information for the Buyan-Class (Project 21630 Buyan) Russian Corvette of the Main Weapon System:
+The Shell is HEI-Frag, Frag-T.
+The Caliber is 100.
+The Shell Weight is 0.39.
+The Basic Load is 3,000.
+
+Here is Weapon System #3 information for the Buyan-Class (Project 21630 Buyan) Russian Corvette of the Main Weapon System:
+The Name is 1 x BM-21 Grad.
+The Type is Rocket Launcher.
+The Crew is 3.
+The Barrel Length is 3.0.
+The Barrels is 40.
+The Rate of Fire is 2 rounds/s.
+The Muzzle Velocity is 690.
+The Maximum Firing Range is 20 km.
+The Sights is PG-1M panoramic telescope.
+
+Here is Weapon Station #4 information for the Buyan-Class (Project 21630 Buyan) Russian Corvette of the Main Weapon System:
+The Name is 1 x 3M-47 Gibka.
+The Type is A turret for ships that is equipped with Igla missiles..
+The Number of Missiles is 4.
+The Missile Type is Surface-to-Air Missile.
+The Missile Warhead Weight is 1.17 kg.
+The Detontation Mechansim is contact and grazing fuzes.
+The Engine is solid fuel rocket motor.
+The Operational Range is 5.2 km.
+The Flight Ceiling is 3.5 km.
+The Speed is 570m/s.
+The Guidance System is dual waveband infra-red (S-version).
+
+Here is Weapon Station #5 information for the Buyan-Class (Project 21630 Buyan) Russian Corvette of the Main Weapon System:
+The Name is DP-65.
+The Type is 55 mm ten-barreled remotely-controlled naval grenade launcher system..
+The Description is The DP-65 (98U) is a Russian special compact 55 mm ten-barreled remotely-controlled naval grenade launcher system based on MRG-1 seven-barrel grenade launcher. It also has a manual control mode.
+
+DP-65 uses sonar Anapa-ME for underwater target detection. DP-65 high explosive grenades RG-55M are akin to miniature depth charges equipped with jet engine with an annular stabilizer.
+
+In 1991, the DP-65 automated, small size, remotely-controlled Rocket Grenade Launcher system was developed and adopted by the Russian Navy.
+
+DP-65 can be installed directly on watercraft and on the coast.
+
+Designed to protect ships, waterworks, offshore platforms and other important marine and coastal facilities from combat divers, frogmen, and saboteurs. The grenades are believed to produce casualties to divers within 16 meters of the explosion. They are employed by Grachonok-class anti-saboteur ships..
+The Maximum Effective Fire is INA.
+
+Here is Weapon Station #6 information for the Buyan-Class (Project 21630 Buyan) Russian Corvette of the Main Weapon System:
+The Name is 2 x KPV 14.5 mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 14.5 mm.
+The Length is 1,980 mm.
+The Barrel Length is 1,346 mm.
+The Width is 162 mm.
+The Height is 225 mm.
+The Weight is 49 kg.
+The Action is Short recoil operation.
+The Rate of Fire is 600 rpm.
+The Muzzle Velocity is 1,005 m/s.
+The Effective Firing Range is 3000 m.
+The Maximum Firing Range is 4000 m.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+
+Here is Weapon Station #6 Ammunition information for the Buyan-Class (Project 21630 Buyan) Russian Corvette of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 14.5.
+The Cartridge is 14.5×114 mm.
+The Basic Load is 2,000.
+
+Here is Sensors and Processing Systems information for the Buyan-Class (Project 21630 Buyan) Russian Corvette:
+The Navigation Radar is 1 x MR-231 Navigation Radar.
+The Phased Array Radar is 51x P-26M Pozitiv-M phased array radar system (Pozitiv-ME1.2 for export).
+The Fire Control System is 1x 5P-10-03 Laska fire control system (5P-10-03E for export) and the 
+1 x МР-123 fire control system.
+The Sonar System is 1 x Anapa-M anti-saboteur sonar system (Anapa-ME for export).
+
+Here is Protection information for the Buyan-Class (Project 21630 Buyan) Russian Corvette:
+The Hull Armor is INA.
+The NBC Water Washdown System is Yes.
+The Electronic Warfare is 2 × 10 PK-10 decoy launchers.
+

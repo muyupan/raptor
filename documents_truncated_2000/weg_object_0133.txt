@@ -1,0 +1,81 @@
+This document describes the RAC 3D (Flamingo) Danish Mobile 3D Short-Range Radar.
+
+The RAC 3D is a three dimensional, multi-mode, radar for the co-ordination of medium-range, short-range and very-short range air defense weapon systems. It provides a 3D air picture up to 100 km. Highly mobile and optimized for detecting low observable targets, the RAC 3D is capable of operating under the most severe weather, jamming and propagation conditions. The RAC 3D detects and classifies modern threats, including medium to very low-altitude hovering helicopters.
+
+The RAC alert and co-ordination 3-D radar operates in the G/H-Band which offers, within a 100 km range envelope, the best trade-off between atmospheric attenuation, transmitting power resolution and antenna size versus detection of small targets, such as those flying at very low Altitude in heavy clutter. RAC 3D employs a state-of-the-art planar phased-array and a digital pulse compression.
+
+Tree types of the RAC radar station are in service:
+*A two-shelter radar station in order to separate the radar from the combat control system for alerting the surface-to-air missiles “Stinger”, in service with the Danish Army.
+*A compact radar station named “Flamingo” with the radar itself and the combat control system housed on a single shelter, is being supplied to the Austrian Army for surface-to-air missile “Mistral” alerting.
+*The Austrian Air Force has acquired RAC 3D compact radars as gap fillers.
+
+The RAC 3D alert and co-ordinating radar accomplishes the following tasks:
+*warning and control for anti-aircraft guns and missiles over a range of 80 km
+*detection and target identification
+*air situation analysis
+*Alerting of up to 12 “Mistral” or AAA units
+
+The RAC 3D gap filler radars accomplishes the following tasks:
+*Warning and control over a range of 100 km
+*Detection and target identification
+*Equipped with a computer and communications links two workstations interfaces with the country's air defence systems.
+
+This equipment has proliferated into the following countries: Australia, Austria, Denmark, Spain.
+
+Here is System information for the RAC 3D (Flamingo) Danish Mobile 3D Short-Range Radar:
+The Alternative Designation is RAC 3D Radar.
+The Type is Mobile 3D Short-Range Radar.
+The Manufacturer is Thales Raytheon Systems.
+The Crew is INA.
+The Chassis is 6×6 truck, Name: INA.
+The Coordination is The defense of strategic sites, as well as the protection
+troops on the move requires a multi-layered air defense.
+Associated with its integrated Command and Control (C2),
+the RAC 3D operates as a multi-mission system fully
+interoperable with higher levels of command such as national
+air defense or allied networks. The RAC 3D system activates weapon control orders and
+provides target-weapon pairing to co-ordinate any mix of
+MSAM, SHORADS and VSHORADS.
+The RAC 3D is also used as a gap-filler system for low altitude air defense..
+The Efficiency is Currently in production, the RAC 3D equips Armies and Air
+Forces in a number of European countries. More than 50
+systems are already fielded, and the RAC 3D has successfully
+participated in extensive NATO trials..
+The Details is The RAC-3D is intended as a gap-filling and warning radar for air defense units. It is optimized for
+detecting low observable targets. To maximize low altitude capabilities, the radar is attached to a 13 m hydraulic mast,
+giving it a good capability against medium to very low-altitude targets. It can be unattended, as well as operated as
+either a stand-alone or networked with other radars..
+The Frequency is 4-8 GHz (G/H Band (NATO), C Band (IEEE)).
+The Bandwith is 600 MHz.
+The Beam Width, Transmit is 1.75°horizontal.
+The Antenna Type is phased array.
+The Transmitter Type is solid state.
+The Minimum Detection Range is 1.2 km.
+The Maximum Detection Range is 100 km.
+The Azimuth is 360°.
+The Elevation is 0° to 45°.
+The Detection Altitude is 9,144 m.
+The Scan Rate, Rotational is 10 rpm (low coverage operating mode).
+The Sidelobes is -50 dB (average).
+The Target Capacity, Radar Targets is 128.
+The Target Capacity, System Targets is 200.
+The Polarization is horizontal.
+The Accuracy Range is 20 m.
+The Accuracy Azimuth is 0.4°.
+The Accuracy Elevation is 0.5°.
+The Resolution Azimuth is 4°.
+The Resolution Range is 150 m.
+The Data Refresh Rate is 2 s, 3 s, 6 s.
+The Displacement Time is 15 min (2 people).
+The Emplacement Time is 15 min (2 people).
+The IFF is Yes, co-mounted, 1, 2, 3/A, C, S.
+
+Here is Dimensions information for the RAC 3D (Flamingo) Danish Mobile 3D Short-Range Radar:
+The Length is 10 m.
+The Width is 2.5 m.
+The Mast Height, Fully Extended is 13 m.
+The Weight is 26,000 kg.
+
+Here is Automotive information for the RAC 3D (Flamingo) Danish Mobile 3D Short-Range Radar:
+The Note is There is no available information on what type of chassis the RAC 3D radar is stationed on..
+

@@ -1,0 +1,101 @@
+This document describes the Type 81 Tan Japanese Surface to Air Missile (SAM) System.
+
+The Type 81 Tan Japanese Surface to Air Missile System Missile (SAM) was developed and deployed with the Japanese Self Defense Force (JSDF) to fill a gap between the US made Stinger (initially)  and later the Toshiba Type 91 MANPADS and the fixed based Hawk missiles. "Tan" translates to short as in short range.  The system provides a defense ring against manned and unmanned aerial platforms that are able to penetrate through forward interceptor and area defense systems.
+
+Prior to operation, each launch vehicle and the fire control vehicle is leveled and stabilized by their respective hydraulically operated jacks. Electrical cables are employed to connect the telephone/data link system with each vehicle. Generally, the fire control vehicle is located about 300 meters from the two launchers. The time of preparation is approximately 30 minutes.
+
+The missile is designed and produced as a blunt top cylinder configuration along with cruciform cropped delta wings in the middle and moveable cruciform tail wings. Two infrared red seeker covers capable of rotating 180 degrees protect the missile heads during transit. 
+
+The launcher is powered by a 30kW generator when the vehicle engine is turned off.
+
+The fire control system computer pre-programs the scanning angle of the seeker head prior to launch to prevent the missile from tracking the sun as well controlling the launcher assembly to prevent an accidental launch directly at the sun. Once fired the seeker is activated and the seeker head scans the preprogrammed area of the sky to find the target. The the guidance unit locks onto the target and the missile travels the shortest course to intercept the target.
+
+The lethal radius of the missile is 5 meters to 15 meters depending on the type of target. There is no self destruct capability.
+
+The Tan SAM Kai is the product improved version of the Type 81. It has an improved smokeless rocket motor and uses a phased array active radar seeker.  
+
+Toshiba, Tokyo, Japan is the prime contractor with the following industries as subcontractors:
+
+Nissan Motor, Aerospace Division (rocket motor)
+Fuji Heavy Industries (launcher assembly less electronics)
+Isuzu Motors (Type 73 Truck)
+Kawasaki Heavy Industries (autopilot and missile body)
+
+It is not available for export.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is Variants information for the Type 81 Tan Japanese Surface to Air Missile (SAM) System:
+The Type 81 Fire Control Vehicle is The Type 81 fire control vehicle is able to control two launch vehicle. It is based on the same Type 73 6x6 truck as the launch vehicle. A generator powers the fire control equipment and the roof mounted phased array radar, which has a 30 km range. In the Tan-SAM kai upgrade the fire control vehicle is also able to relay mid course updates to the active radar homing missiles..
+
+Here is System information for the Type 81 Tan Japanese Surface to Air Missile (SAM) System:
+The Alternative Designation is Type 81 Tan-SAM Kai.
+The System is The Type 81 System consists of 2 each launcher vehicles, a fire control vehicle equipped with the radar, and other support vehicles..
+The Manufacturer is Toshiba.
+The Configuration is 6x6.
+The Crew  is 2 (driver and assistant) launcher; 4 ((commander, radar operator, 2 launcher operators) Fire Control Unit. 3 for the Support Vehicles :Total System 15.
+
+Here is Automotive information for the Type 81 Tan Japanese Surface to Air Missile (SAM) System:
+The Vehicle Type is Type 73 6x6 chassis.
+The Length is 6.89.
+The Width is 2.43.
+The Height is INA.
+The Weight is 3,054.
+The Wheelbase is 3.26 + 1.19.
+The Engine is Model 8PC1 V6 diesel, 210 hp ag 2,200 rpm.
+The Transmission is Manual, 5 forward, 1 reverse.
+The Speed is 90 on road.
+The Fuel Capacity is 140.
+The Range is 500.
+The Fording is 0.8.
+
+Here is Primary Weapon information for the Type 81 Tan Japanese Surface to Air Missile (SAM) System of the Armament:
+The Launcher Name is Type 81.
+The Launcher Type is Tan SAM Kai missile on a quadruple launcher with 4 missiles ready to fire..
+The Traverse is 360 deg, powered non-stabilized.
+The Fire on Move is No.
+The Reaction Time  is INA.
+The Reload Time  is 3 min estimated for 4 missiles.
+The Time between Launches  is INA.
+The System Emplacement Time is 30.
+The System Displacement Time is INA.
+
+Here is Type 81 Tan Surface to Air Missile (Kai Upgrade) information for the Type 81 Tan Japanese Surface to Air Missile (SAM) System of the Munition:
+The Name is Type 81.
+The Diameter (Body) is 0.16.
+The Wingspan is 0.6.
+The Length  is 2.7.
+The Weight  is 100.
+The Fuze Type is Contact and radar proximity fuses.
+The Type Warhead is Frag-HE 9.2kg.
+The Guidance is Pre-programmed autopilot with passive infrared terminal homing.
+The Probability of Hit is 75.
+The Propulsion is Single stage solid fuel propellent rocket motor.
+The Range, Maximum  is 14,000.
+The Range, Minimum  is 500.
+The Altitude, Maximum is 3,000.
+The Altitude, Minimum is 15.
+The Seeker Field of View  is INA.
+The Self-Destruct Time is INA.
+The Target Maneuver Limit is INA.
+The Speed  is Mach  2.4.
+The Tracking Rate is INA.
+The Basic Load is 4.
+
+Here is Day Sight information for the Type 81 Tan Japanese Surface to Air Missile (SAM) System of the Fire Control System:
+The Acquisition Range  is INA.
+The Field of View  is INA.
+The Field of View  is INA.
+The Type is INA.
+
+Here is Night Sight information for the Type 81 Tan Japanese Surface to Air Missile (SAM) System of the Fire Control System:
+The Type is INA.
+
+Here is Night Sights information for the Type 81 Tan Japanese Surface to Air Missile (SAM) System of the Fire Control System:
+The Acquisition Range  is INA.
+The Field of View  is INA.
+
+Here is Radar information for the Type 81 Tan Japanese Surface to Air Missile (SAM) System of the Fire Control System:
+The Radar Equipment is 3D Phased Array pulse doppler radar with a range of 30km, 360 degrees coverage, and IFF system..
+The Radar Other is Mounted on a separate radar vehicle. The Type 81 kai upgrade includes the radar's ability to relay mid course updates to the active radar homing missiles..
+

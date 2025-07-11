@@ -1,0 +1,17 @@
+This document describes the JY-50 Chinese 2D Air Defense Radar.
+
+JY-50 is a passive 2-D radar that uses the electromagnetic signals transmitted by distributed radio frequency stations around itself, including civilian mobile phone, radio, and television broadcasts, to perform the detection, location, and tracking of airborne targets including electromagnetic silence targets (so-called Stealth aircraft). JY-50 radar mainly accomplishes air defense warning missions too the important directions and sensitive areas.
+
+The antenna is an array of two rows of 12 inverted Vee elements backed by a reflective grating.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the JY-50 Chinese 2D Air Defense Radar:
+The Alternative Designation is JY-50.
+The Type is 2D Air Defense Radar.
+The Crew is INA.
+The Chassis is 6x6 or 8x8 Truck.
+The Frequency is VHF-Band.
+The Maximum Altitude is INA.
+The Maximum Range is 250 km.
+

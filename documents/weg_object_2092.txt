@@ -1,0 +1,45 @@
+This document describes the Heckler and Koch HK21 German 7.62mm General-Purpose Machine Gun.
+
+The HK21 is a German 7.62 mm general-purpose machine gun, developed in 1961 by small arms manufacturer Heckler & Koch and based on the G3 battle rifle. The weapon is in use with the armed forces of several Asian, African, and Latin American countries. It was also license-manufactured by Fábrica de Braço de Prata in Portugal as the m/968 and in Mexico by SEDENA as the MG21. In the German military (Bundeswehr) and the federal police (Bundespolizei), it is designated "G8".
+
+The HK21 is a selective fire roller-delayed blowback-operated firearm with a semi-rigid locking mechanism designed to retard the rearward movement of the bolt. This delay was achieved by artificially increasing the inertia of the bolt by using an angular, interposed transmission system, installed symmetrically to the bore axis, with two cylindrical rollers acting as transmission elements against a movable locking piece that drives the heavy bolt carrier. The two-piece bolt assembly consists of a bolt head, which contains the aforementioned rollers, and a supporting locking piece and bolt carrier. During the "unlocking" sequence, the bolt head receives the recoil impulse from the ignited cartridge and exerts rearward pressure against the rollers, seated in recesses in the barrel extension. The rollers are driven inward against angled ramps of the barrel extension and interact with the wedge-shaped locking piece, projecting it backward. Thus a chambering-dependent (4:1 for 7.62×51mm NATO) or (3:1 for 5.56×51mm NATO) transmission ratio is maintained (as long as the rollers move on the inclined surfaces of the barrel extension and locking piece) of the bolt carrier and locking piece relative to the bolt head; the bolt head carrier travels backward significantly faster than the bolt head, ensuring a safe drop of pressure within the barrel prior to extraction. Since extraction is carried-out under relatively high pressure, the barrel's chamber received a series of flutes designed to help free the bloated cartridge casing from the chamber wall. Like the G3 and HK33 assault rifle bolts, the HK21 bolt features an anti-bounce mechanism that prevents the bolt from bouncing off the barrel's breech surface. The "bolt head locking lever" is a spring-loaded claw mounted on the bolt carrier that grabs the bolt head as the bolt carrier group goes into battery. The lever essentially ratchets into place with friction, providing enough resistance to being re-opened that the bolt carrier does not rebound. The spring-powered claw extractor is also contained inside the bolt while the lever ejector is located inside the trigger housing (actuated by the recoiling bolt).
+
+This equipment has proliferated into the following countries: Argentina, Bangladesh, Bolivia (Plurinational State of), Brazil, Brunei Darussalam, Cameroon, Croatia, Cyprus, Denmark, Ecuador, El Salvador, Germany, Greece, Iran (Islamic Republic of), Jordan, Kenya, Malaysia, Mexico, Morocco, Niger, Nigeria, Paraguay, Peru, Portugal, Qatar, Senegal, South Africa, Sri Lanka, Sudan, Sweden, Thailand, Turkey, Uganda, United Arab Emirates, United States of America.
+
+Here is Variants information for the Heckler and Koch HK21 German 7.62mm General-Purpose Machine Gun:
+The G8 and G8A1 is The German Army, German Navy and the Federal Police use a variant of the HK11 designated the Gewehr-8 (or G8). It is tapped for telescopic sights and has a quick-change barrel with a bipod that uses either a heavy match-grade bull-barrel or a heavy barrel for automatic fire. It was designed to use G3-type 10- or 20-round box magazines in the designated marksman role, but could also use a special 50-round drum magazine for sustained supporting or suppressing fire. The modified G8A1 adopted the improvements of the HK11A1 series and was only able to feed from magazines and drums..
+The GR-series is The GR-series were "sanitized" (i.e., having no serial numbers or identifying marks) Heckler & Koch weapons used by special operations forces. They differed from the stock weapons in that they had optical sights, no provisions for iron sights, and came standard in Woodland (-C suffix) or Desert (-S suffix) camouflage.
+
+*GR-6 Automatic Rifle (HK13).
+*GR-9 Light Machinegun (HK23)..
+The HK21A1 is In the early 1970s the HK21's design was simplified and the feed mechanism was modified. The machine gun's weight was increased, a carrying handle and a hooked butt stock with improved buffer mechanism were also added. The barrels were internally revised to polygonal rifling. Since then, the HK21 was offered in two main variants: the HK21A1 general-purpose machine gun (with a different belt feed mechanism) and the HK11A1 automatic rifle (optimized for magazine feed only). The HK11A1 proved more successful in export sales and was adopted by the Hellenic Army and several African and Asian armies. Both weapons, as in the original HK21, can be converted to chamber the 5.56×45mm NATO round by replacing the appropriate components..
+The HK21E is During the 1980s both the HK21A1 and HK11A1 were modernized based on user and testing feedback, resulting in a new modular family of machine guns that share the same receiver, trigger group and interchangeable barrels and feed units, consisting of:
+
+*HK11E automatic rifle (magazine fed, chambered in 7.62×51mm NATO)
+*HK13E automatic rifle (magazine fed, chambered in 5.56×45mm NATO)
+*HK21E general-purpose machine gun (belt-fed, 7.62×51mm NATO), which is also license-built in Mexico for the armed forces
+*HK23E light machine gun (belt-fed, 5.56×45mm NATO)..
+The HK25 is A heavy machine gun variant of the HK21 chambered in .50 BMG/12.7×99mm NATO was proposed but never went into production..
+The HK51B is An aftermarket conversion of an HK21 general purpose machinegun into a belt-fed short carbine created by gunsmiths F. J. Vollmer & Company Inc. The barrel is 8.9 inches long, has an overall length of 21 inches, weighs about 11 lbs. unloaded, and has a rate of fire of 950 to 1,000 rounds per minute. Fixed barrel models have a "Tropical" MP5-style handguard with ventilation slots. Quick-change barrel models have a four-position Picatinny Rail handguard (usually used with a vertical foregrip). It feeds from a 100-round HK21 belt box and uses either the American M13 or German DM6 disintegrating link belt. Vollmer only made 30 guns, 2 of which had quick-change barrels..
+
+Here is System information for the Heckler and Koch HK21 German 7.62mm General-Purpose Machine Gun:
+The Alternate Designation is HK21.
+The Manufacturer is Heckler & Koch
+Fábrica de Braço de Prata
+SEDENA.
+The In Service is 1961-Present.
+The Length is 1,021 mm.
+The Barrel Length is 450 mm.
+The Weight is 7.92 kg.
+The Action is Roller-delayed blow back, closed bolt.
+The Rate of Fire is 900 rounds/min.
+The Muzzle Velocity is 800 m/s.
+The Effective Firing Range is 100–1,200 m.
+The Feed System is M13, DM6, DM1 ammunition belt, 20-round detachable box or 50-round drum magazine (from the G3). An 80-round drum magazine or even a 100-round drum magazine was also available (No longer manufactured)..
+The Sights is Rear rotary diopter drum; hooded front post.
+
+Here is Ammunition information for the Heckler and Koch HK21 German 7.62mm General-Purpose Machine Gun:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+

@@ -1,0 +1,177 @@
+This document describes the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System.
+
+The HQ-9 (Hong Qi-9) is a Surface to Air missile (SAM) engineered to attack airborne radars, essentially a surface-to-air anti-radiation missile (ARM) that can attack single or multiple electromagnetic radiating systems in the 1-18 Ghz band. It is also effective against fixed-wing aircraft, rotary wing aircraft, and UAVs. The HQ-9 has limited success against cruise missiles and ballistic missiles. Sources conflict in identifying the organization for combat of the HQ-9 battery and battalion. We assess that the following is true: A HQ-9 battery will usually have 8 TELs, 1 HT-233 Radar, and a TWS-312 CP. In addition, associated support vehicles (generator, missile resupply) may be seen in the area. 
+
+The battery can operate independently of the battalion as listed above with some degradation in search capability. This degradation will be eliminated when the organization is deployed as a battalion as this will bring additional radars to include the Type 120 Low Angle Search Radar and the Type 305B Radar. The battalion formation will include 3 batteries (24 TELs) though some sources state that the battalion can control 48 TELs. 
+
+The battalion also deploys with a site survey team which does not deploy with the battery, missile resupply, and its own TWS 312 Command Post. It is safe to assume that other mission and soldier support items will be found in the area of the HQ-9 formation. The HQ-9 has been designed to be able to use several of the Chinese radars. The assessment above is the most likely deployment course of action.
+
+This equipment has proliferated into the following countries: China, Morocco, Turkmenistan, Uzbekistan.
+
+Here is Variants information for the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System:
+The HQ-9A is Upgraded electronics and software. Production began by 2013. Range: 200 km. Altitude: 30,000 m. Dual seeker. Improved electronic equipment and software provide the HQ-9A with higher accuracy and probability of kill. Can have semi-active radar homing (SARH)..
+The HQ-9B / HHQ-9B is Range: 200 km. Altitude: 30,000 m. Dual seeker. Found on the LUYANG III class destroyers in 2014. Longer 300 km range; an additional seeker provides semi-active radar homing (SARH) and infrared homing modes..
+The HQ-9C is Expected to have an active radar homing mode. Currently in development; incorporates fully active radar homing,.
+The HHQ-9 is Naval variant identical to HQ-9; launched from VLS tubes in Lanzhou class destroyers..
+The HHQ-9A is Naval variant identical to HQ-9A..
+The FT-2000 is Anti-radiation system; range of up to 100 km..
+The FD-2000 is Identical to original HQ-9, but designed for export with minor electronic improvements..
+
+Here is System information for the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System:
+The Alternative Designation is HQ-9, FT-2000, Hóng Qí.
+The Type is Track-Via-Missile (TVM), Self-propelled surface-to-air missile (SAM) system.
+The Manufacturer is CPMIEC.
+The Family is INA.
+The Crew is 1+5.
+The Chassis is Tai'an TAS5501 10 x 10 high mobility cross country truck.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Target is Low-flying aircraft, cruise missiles, air-to-ground missiles, and tactical ballistic missiles. Effective against any airborne radar system..
+The Maximum Effective Range is 200.
+The Minimum Effective Range is 12.
+The Target Altitude Maximum is 20,000.
+The Target Altitude Minimum is 3,000.
+The Fire on the Move is No.
+The System Reaction Time is 10.
+The Fuse Type is Active Fuze, which activates at 5 km from the target..
+The Probability of Kill is INA.
+The Note is The HQ-9 can intercept various aircraft, helicopters, UAVs, cruise missiles, air-to-ground missiles, guided bombs and theater ballistic missiles at medium- to long ranges..
+
+Here is Dimensions information for the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System:
+The Length (Vehicle) is 11.
+The Width (Vehicle) is 3.
+The Height (Vehicle) is 3.
+The Weight, Combat (Vehicle) is 18.
+The Payload Capacity is 20.
+The Ground Pressure is INA.
+The Weight, Warhead is 180.
+
+Here is Automotive information for the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System:
+The Prime Mover is Tai'an TAS5501 10 x 10 high mobility cross country truck.
+The Engine Name is Deutz Turbocharged Diesel.
+The Engine Type is Turbocharged Diesel.
+The Engine Power is 517.
+The Vehicle Diameter is 466.
+The Cruising Range is 800.
+The Speed, Maximum Road is 80.
+The Speed, Average Cross is 70.
+The Speed Maximum Swim is Not Amphibious.
+The Vehicle Configuration is 8x8.
+The Gradient is 45.
+The Side Slope is 30.
+The Vertical Step is 0.5.
+The Trench is 1.8.
+The Fording Depth is 1.1.
+The All Wheel Drive is Yes.
+The Central Tire Inflation System is Yes.
+
+Here is TBR-142 information for the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System of the Communications:
+The VHF FM Transceiver is Yes, TBR-142(I).
+The VHF Range is 1 to 50.
+The Megahertz is 40.000 to 59.975.
+The Output Power is 1 to 0.3.
+The Power Source is 12V Ni-Ca Rechargeable Battery or external 12V DC power source.
+The Dimensions is 217x135x58.
+The Weight is 2.7.
+The Antennas is 3 Total: a 1.3m whip antenna, a 0.3m short antenna, and a 10m wire antenna.
+The Proliferated is Widely with Artillery/Gun/Missile/Reconnaissance Units.
+The Control Device is TBR-142(II).
+The Multi-function Field Phone is TBR-142(IIID).
+The Anti-Aircraft Control Unit is TBR-142(IIIG).
+The ZXY88-200 C2 Capable is Yes.
+The Messaging is Capability – Limited.
+The Amplifier is Available.
+The Physical Conditions is Terrain and Weather favorable.
+
+Here is Missile System information for the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System:
+The Name is Taian TAS5380.
+The Guidance is Inertial guidance in the initial stages with radio command mid-course correction and TVM for end game..
+The Launcher Type is TAS5380 8 × 8.
+The Fuse Type is Active Fuze, which activates at 5 km from the target..
+The Missile Type is two-stage missiles with thrust vector control..
+The Rocket Engine is Two-stage solid propellant rocket.
+The Missile Length is 6.8.
+The Missile Weight is 1,300.
+The Warhead Weight is 180.
+The Warhead Type is HE-FRAG.
+The Missile Speed is 4.2.
+The Maximum Effective Range is 200.
+The Minimum Effective Range is 12.
+The Maximum Altitude is 3,000.
+The Minimum Altitude is 20,000.
+The Launch Type is Verticaly Cold Launched.
+The Min Elevation is INA.
+The Max Elevation is +90.
+The Traverse Range is 360.
+The Max Rate of Fire is INA.
+The Missile Engagement Time is 12-15.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Range Finder Type is system Inertial guidance with a mid-course update and terminal active radar homing.
+The Self-Destruct Time is INA.
+The Thrust Vector Control is Yes.
+The Note is Equivalent to the Russian S-300.
+
+Here is Fire Control System information for the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System of the Fire Control:
+The Name is HT-233 Radar.
+The Computerized FCS is Yes, KS-1 SAM, SJ-212, itself an enlarged and improved version of the SJ-202 fire control radar (FCR) used in HQ-2J.[ H-200 & SJ-231 FCRs of latter models of KS-1 SAM are also compatible with HQ-9..
+The Direct Fire is INA.
+The Indirect Fire is Yes.
+The Fire Control Sensors is Yes.
+The Guidance is Track via Missile (TVM) semi-active radar homing.
+
+Here is Radar #1 information for the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System of the Fire Control:
+The Name is HT-233 Radar.
+The Type is Primary Target Radar.
+The Function is Primary radar for the HQ-9. Fire Control Radar (Some reports state that this radar can also search and target like the radar found the the U.S. Patriot system).
+The Frequency/Band is G (4-6 GHz) 300 MHz.
+The Range is 300.
+The Number of Targets System can Track is 100.
+The Azimuth of Search is 120.
+The Elevation of Search is 0-90.
+The Peak Power Output is 1 (Average 60 kW).
+The Guiding System is The HT-233 Radar can guide up to 6 missiles to 6 seperate targets, or to 3 targets witha  pair of missile for each target.
+The Lens Arrangement is AN/MPQ-53.
+The Number of Missile Radar can Guide at once is 6 missiles to 6 targets or 6 missiles to 3 targets (2 missiles to each target).
+The Note is most advanced FCRs HQ-9 could employ.
+
+Here is Radar #2 information for the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System of the Fire Control:
+The Name is Type 305B Radar.
+The Type is Standar Search Radar.
+The Alternate Designation is LLQ-305B.
+The Function is Standard search radar for HQ-9. This 3-D radar has an antenna height of 3.5 meters, and employs sixty 350 mm waveguide feeds. It operates in the S-band at a wavelength of 11.67 cm. Mechanically steered planar array with electronic beam-steering for height-finding. It is similar to many radars used in the West but is build for greater mobility in the field, making is more survivable..
+The Variant is YLC-2V acquisition radar.
+
+Here is Radar #3 information for the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System of the Fire Control:
+The Name is Type 120 Radar.
+The Type is Low altitude search radar.
+The Alternate Designation is LLQ-120.
+The Fuction is Low altitude search radar. A telescoping radar with an antenna height of 2.3 meters folded, and 7 meters unfolded. Uses a feed network of sixteen 230mm wave guides. It rotates at a maximum of ten revolutions per minute, and operates in the L-band at a wavelength of 23.75 cm. Uses a hydraulically elevated mast to increase low altitude coverage. Operating in L-band improves detection range against stealth aircraft and cruise missiles..
+The Variant is JY-11B.
+
+Here is Radar #4 information for the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System of the Fire Control:
+The Name is Type 305A radar.
+The Type is Search Radar.
+The Function is Type 305A (also known as LLQ-305A) radar is another search radar for HQ-9 system. This AESA radar is designed maximize the anti-ballistic capability of HQ-9, and it resembles Thales Ground Master 400 AESA radar. Very little info is released about this radar other than it can also act as Fire-control radar..
+
+Here is Radar #5 information for the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System of the Fire Control:
+The Name is YLC-20 passive sensor.
+The Type is Search Radar.
+The Function is Although Type 305 radars are effective against stealthy targets such as F-35, full stealth target such as B-2 is difficult to detect. YLC-20 passive radar was conceptually based on KRTP-91 Tamara passive sensor, incorporating experience obtained from documentation acquired during the abortive attempt to procure six Czech VERA passive sensors. YLC-20 passive radar was first revealed in 2006..
+
+Here is Radar #6 information for the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System of the Fire Control:
+The Name is DWL002 passive sensor.
+The Type is Passive Radar.
+The Function is DWL002 passive radar is the development of earlier YLC-20, incorporating Kolchuga passive sensor, four of which were sold to China. Like its predecessor YLC-20, DWL002 is also developed by China Electronics Technology Corp. (CETC)..
+
+Here is Protection information for the HQ-9 (Hong Qi 9) Chinese 8x8 Long-Range Air Defense Missile System:
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is No, Not supposed to be stationed near the front line of the battle field.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The IR Signature is No.
+

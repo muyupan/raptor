@@ -1,0 +1,66 @@
+This document describes the RAM-LOC Dutch Mobile Long-Range Artillery Localisation System.
+
+The Rocket, Artillery, and Mortar Localization (RAM-LOC) system is a completely passive acoustic and seismic sensor system capable of accurately detecting indirect fire and small arms fire (SAF). Developed and produced by Microflown AVISA, the RAM-LOC Acoustic Multi-Mission Sensor or AMMS can be configured in a stand-alone or networked mode as well as be employed on manned and unmanned vehicles to detect SAF or RAM points of origin and impacts. The Clip-on Acoustic Pointer facilitates the employment of the sensor to be clipped to the airframe of any fixed-wing mini-UAV. RAM-LOC is not a radar but is a sound-ranging system with the same purpose as a counter-battery radar. However, the system is not susceptible to jamming or enemy electronic countermeasures. The system possesses the ability to detect firing systems by itself and/or act as a passive cueing system when used in conjunction with an artillery location radar. 
+
+RAM-LOC consists of multiple remotely controlled autonomous ground sensor posts. The ground sensor is based upon the Micro-Electro-Mechanical System (MEMS). The temperature difference in the cross-section of two sensitive heated wires determines the velocity of the acoustic particle.  
+
+The Acoustic Vector Sensor or AVS is comprised of three sensors and a sound pressure transducer. The differences in amplitude across the sensors determine the direction and elevation of the source of the sound. An AVS is hemispherical in shape with a diameter of 26.5 cm (diameter),  a height of 10 cm, a weight of 1.7 kg, and has a battery life of 1 month.
+
+Several AVS (possibly nine sensors total) are connected in an integrated wireless network that is linked to a laptop in the main command post. A digital map (based on the Carmenta engine) provides real-time information on the operational area. Once a SAF or RAM event is detected by one of the sensors a report is transmitted to the main command post with a date-time-group stamp, the type of acoustic event, and direction. The individual sensor processes the information to ensure the keep the wirelessly transmitted packages to the command post as small as possible. 
+
+Analysts within the command post analyze the preprocessed information from multiple ground sensors and the calculated locations are presented on the main station command post in both tabular form and on the digital map. The points of impacts (POI) and points of origin (POO) are presented as grid coordinates. The events are plotted on the map and individual events can be selected to obtain additional related information. Additionally, all information can be exported or printed out for further reporting and de-briefing. All of the event histories are stored for further analysis.
+
+Recent upgrades include an Iridium external interface to transmit AMMS detection messages over long distances as well as the introduction of the Geo-boom that enables the self-orientation of the AMMSD to <1 degree. 
+
+There are no associated vehicles for the RAMK-LOC. However, the Mercedes Benz Unimog U1350L truck (described within the table) provides a representative worldwide transportation capability for the system.
+
+Photos are courtesy of Janes C4ISR  & Mission System: Land
+
+This equipment has proliferated into the following countries: Netherlands.
+
+Here is Variants information for the RAM-LOC Dutch Mobile Long-Range Artillery Localisation System:
+The Vehicle Based Acoustic Multi-Mission Sensor (V-AMMS) is The V-AMMS is mounted on manned and unmanned vehicles and uses the AVS technology to determine SAF and RAM locations. Marketing literature states that systems are capable of locating hostile locations from a vehicle traveling up to 80 km/h in rough terrain at ranges up to 1,500..
+The Mobile Sound Ranging Array (MSRA) is MSRA is a lightweight portable system capable of being quickly installed anywhere. The system is typically employed for the protection of fixed locations such as forward operating bases (FOBs) or along the perimeter of a building. The MSRA consists of a command post and at least 10 mobile AMMS sensor posts. The sensor post is comprised of a single-man portable sensor equipped with a GNSS and a weather station..
+The Clip-on acoustic pointer for mini-UAVs is Sensor capable of being clipped to the airframe of any fixed wing mini-UAV..
+
+Here is System information for the RAM-LOC Dutch Mobile Long-Range Artillery Localisation System:
+The Alternative Designation is Acoustic Sensor, Artillery, RAM-LOC.
+The Type is Long Range Artillery Localisation System.
+The Manufacturer is Microflown AVISA.
+The System  Configuration is A RAM-LOC system comprises at least five remotely operated ground Sensor Posts and an AMMS
+Command Post. The Sensor Posts are wirelessly connected to the Command Post and can be switched
+on and off remotely, requiring minimal human interaction.The localisation of an acoustic RAM event by one of the AMMS results in a wireless, time-stamped report of the direction of the acoustic event to the AMMS
+Command Post. The already pre-processed information, from multiple AMMS is then analysed centrally, and the calculated POO and POI are digitally presented on the AMMS Command Post in both tabular form and on a map in real-time..
+The Crew is INA.
+The Sound Frequency is INA.
+The Microphone Cable Length is Wireless.
+The Meteorological Unit, Mast Height is INA.
+The Meteorological Unit, Mast Weight is INA.
+The Maximum Detection Range is 20.
+The Precision Under 10 km is 1% of the measured distance.
+The Precision Under 30 km is 1% of the measured distance.
+The Maximum Number of Targets is INA.
+The Response Time is INA.
+The Emplacement Time is Varies.
+The Displacement Time is Varies.
+The Number of Microphones/Sensors is Varies to the number of AMMS employed.
+The Detection Small Arms Fire is 1.5.
+The Detection Mortar is 8.
+The Detection Artillery is 15.
+The Detection Rocket is 20.
+
+Here is Dimensions information for the RAM-LOC Dutch Mobile Long-Range Artillery Localisation System:
+The Length is 260 mm.
+The Width is 600 mm.
+The Height is 100 mm.
+The Weight is 1.75 kg.
+
+Here is Automotive: Mercedes Benz Unimog U1350L 4x4 (if used) information for the RAM-LOC Dutch Mobile Long-Range Artillery Localisation System:
+The Engine Name is OM-352.
+The Engine Type is 6 Cylinder Diesel.
+The Speed, Maximum Road is 80.
+The Speed, Maximum Swim is NA.
+The Speed, Cross is INA.
+The Speed, Maximum Off is INA.
+The Fording Depth is 1.2.
+

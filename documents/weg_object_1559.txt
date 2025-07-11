@@ -1,0 +1,78 @@
+This document describes the Polnocny-Class (Project 773 Class) Polish Amphibious Warfare Vessel.
+
+The Polnocny (or Polnochny)-class ships are amphibious warfare vessels. They were designed in Poland, in cooperation with the Soviet Navy, and were built in Poland between 1967 and 2002. They now serve in several different navies, and some have been converted to civilian use. The name comes from the Stocznia Północna shipyard (Northern Shipyard) at Gdańsk, where they were built. 107 were built by 1986 (last 16 by Stocznia Marynarki Wojennej (Naval Shipyard) at Gdynia, Poland). In 2002, one ship of a modernized design NS-722 was built in Gdynia for Yemen.
+
+The Polnocny-class ships are classified as medium landing ships in the Russian Navy and are loosely equivalent to Western tank landing ships. They are equipped with a bow ramp that allows beach landings. The Polnocny-C version can carry 12 BMP-2 armored personnel carriers, or 4 Main Battle Tanks, or 250 Infantry Soldiers with their weapons like 82 mm Mortars and ATGMs, or 250 tons of rations & stores. Unlike their Western counterparts, these ships can provide substantial fire support for landed troops with their onboard multiple rocket launchers. Other armament consists of anti-aircraft guns and short-range surface-to-air missiles.
+
+This equipment has proliferated into the following countries: Algeria, Angola, Azerbaijan, Bulgaria, Egypt, India, Libya, Russian Federation, Syria, Ukraine, Viet Nam, Yemen.
+
+Here is Variants information for the Polnocny-Class (Project 773 Class) Polish Amphibious Warfare Vessel:
+The Polnocny-A (Project 770) is 46 built.
+The Polnocny-B (Project 771) is 36 built.
+The Polnocny-C (Project 773) is 24 built.
+The Modified Polnocny-C (Project 776) is 1 built – ORP Grunwald.
+The Polnocny-D (Project 773U) is 4 built.
+The NS-722 class is 1 built in 2002.
+
+Here is System information for the Polnocny-Class (Project 773 Class) Polish Amphibious Warfare Vessel:
+The Alternative Designation is Polnocny Class Landing Ship.
+The Type is Amphibious Warfare Vessel.
+The Builder is Stocznia Północna shipyard at Gdańsk, (Poland), Stocznia Marynarki Wojennej at Gdynia, Poland.
+The Crew is 41.
+The Cargo Capacity is The Polnocny Class can carry 8 x Armored Personnel Carriers, or 250 tons of stores..
+The Bow Ramp is Yes.
+The Stern Ramp is No.
+
+Here is Dimensions information for the Polnocny-Class (Project 773 Class) Polish Amphibious Warfare Vessel:
+The Length is 73 m.
+The Beam is 9.6 m.
+The Draft is 23 m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 800 tons full load.
+
+Here is Propulsion System information for the Polnocny-Class (Project 773 Class) Polish Amphibious Warfare Vessel:
+The Engine Name is 2 x Soviet Kolomna 40-D.
+The Engine Type is Two Stroke Diesel.
+The Engine Power is 4,400 bhp.
+The Maximum Range is 1,000 nmi (2,000 km) at 18 kn (33 km/h).
+The Maximum Speed is 18 knots (33 km/h).
+
+Here is Gun Weapon System #1 information for the Polnocny-Class (Project 773 Class) Polish Amphibious Warfare Vessel of the Gun Weapon Systems:
+The Name is 4 x AK-230 CIWS.
+The Type is Close-In Weapon System.
+The Caliber is 30 mm.
+The Length is 2.140 m.
+The Weight is 156 kg.
+The Muzzle Velocity is 1,050 m/s.
+The Rate of Fire is over 1,000 rounds per minute cyclic..
+The Maximum Firing Range is Ballistic maximum range for the weapon is about 6.7 km, but realistic ranges for engaging air targets are quoted as between 2.5 and 4 km..
+
+Here is Gun Weapon Systems #1 Ammunition information for the Polnocny-Class (Project 773 Class) Polish Amphibious Warfare Vessel of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Cartridge is The AK-230 fires specially developed 30x210B 30 mm ammunition that is electrically primed..
+The Basic Load is INA.
+
+Here is Missile #1 information for the Polnocny-Class (Project 773 Class) Polish Amphibious Warfare Vessel of the Missile Weapon System:
+The Name is 9K32 Strela-2 (SA-7 Grail).
+The Type is Surface-to-Air Missile.
+The Launchers is 4 x Launchers.
+The Length is 1.44 m.
+The Diameter is 72 mm.
+The Wingspan is 0.3 m.
+The Weight is 9.8 kg.
+The Detonation Mechanism is Non-delay impact and grazing fuzes, 14–17 second delay self-destruct..
+The Guidance System is Proportional navigation logic.
+The Maximum Speed is 430 m/s.
+The Flight Altitude is 50–1500 m.
+The Maximum Firing Range is 3,700 m.
+The Basic Load is INA.
+
+Here is Fire Control System (FCS) information for the Polnocny-Class (Project 773 Class) Polish Amphibious Warfare Vessel:
+The AK-230 FCS is The weapon is remote-directed, typically by a fire-control system linked to either a Drum Tilt or Muff Cobb radar systems..
+
+Here is Protection information for the Polnocny-Class (Project 773 Class) Polish Amphibious Warfare Vessel:
+The Hull Armor is INA.
+The Countermeasures is No.
+The NBC Water Washdown System is Yes.
+

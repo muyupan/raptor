@@ -1,0 +1,85 @@
+This document describes the Kasta 2E1 Russian 6x6 Low-Altitude All-Around 3-D Surveillance Radar System.
+
+The Kasta 2E1 system uses two antennas and consists of two vehicles:
+one truck carries the antenna and its peripheral equipment
+another truck operates as a command post vehicle and on a trailer unit, the external power supply is installed
+
+The Kasta 2E1 and 2E2 are the latest incarnations of the well-established Flat Face and Squat Eye family of semi-mobile UHF band tactical acquisition radars. The initial P-15 Flat Face A introduced the now characteristic double stacked array of elliptical paraboloid section antennas. This radar was widely exported by the Soviets to Warsaw Pact nations and Soviet Third World allies and clients. The radar has been used to support interceptors, as well as SA-3, SA-4, SA-6, and SA-8 missile batteries as an acquisition radar. The P-15M Squat Eye is a derivative of the baseline design with a single antenna on a tethered latticework mast. It was employed to improve low altitude coverage, but also to permit the use of the radar in heavily forested terrain where the height of the foliage canopy exceeded the height of the antenna phase center in the P-15.
+
+The P-19 Flat Face B is the improved follow-on to the P-15 with a range of improvements. Since the 1990s a number of manufacturers are now offering comprehensive digital upgrades for the P-15 and P-19 inventory.
+
+Kasta 2E1 and 2E2 are heavily redesigned derivatives using a new KAMAZ 6 x 6 chassis and mostly digital hardware. The redesign of the Squat Eye antenna is the most visually prominent change with the increased aperture improving range performance.
+
+Due to their low power-aperture ratings, this family of radars is generally not regarded to be particularly effective against LO and VLO aircraft.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Kasta 2E1 Russian 6x6 Low-Altitude All-Around 3-D Surveillance Radar System:
+The Kasta 2E1 is The Kasta 2E1 system uses two antennas and consists of two vehicles: one truck carries the antenna and its peripheral equipment and another truck operates as command post vehicle and on a trailer unit, the external power supply is installed..
+The Kasta 2E2 is The Kasta 2E2 system uses one antenna and consists of three vehicles: one truck carries the antenna and its peripheral equipment, another truck operates as command post vehicle, and a diesel-electric power plant is mounted another truck and two single-axle trailers carry auxiliary equipment..
+
+Here is System information for the Kasta 2E1 Russian 6x6 Low-Altitude All-Around 3-D Surveillance Radar System:
+The Alternative Designation is Kasta 2E1.
+The Type is Low-Altitude All-Around 3-D Surveillance Radar System.
+The Manufacturer is INA.
+The Family is Kasta.
+The Chassis is KamAZ-5350.
+The In Service is INA.
+The Vehicle Package is The Kasta 2E1 system uses two antennas and consists of two vehicles:
+
+one truck carries the antenna and its peripheral equipment and another truck operates as command post vehicle and on a trailer unit, the external power supply is installed.
+
+Here is Dimensions (Chassis: KamAZ-5350) information for the Kasta 2E1 Russian 6x6 Low-Altitude All-Around 3-D Surveillance Radar System:
+The Length is 7.85.
+The Width is 2.5.
+The Height is 3.29.
+The Weight, Combat is 9.2.
+The Maximum Load is 6.0.
+
+Here is Automotive (Chassis: KamAZ-5350) information for the Kasta 2E1 Russian 6x6 Low-Altitude All-Around 3-D Surveillance Radar System:
+The Engine Name is KamAZ-740.13-260.
+The Engine Type is Diesel.
+The Engine Power is 260.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 100.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 0.6.
+The Fording Depth is 1.75.
+The Maximum Load is 6.0.
+The Note #1 is Engine is also equipped with cold weather starting device and can be started at temperatures down to -50°C.
+The Note #2 is Vehicle has a full-time all-wheel drive and is fitted with a central tyre inflation system.
+
+Here is Radar System information for the Kasta 2E1 Russian 6x6 Low-Altitude All-Around 3-D Surveillance Radar System:
+The Waveband is Decimetric.
+The Target detection (Height 100 m) with Antenna 5.4 / 14 m is 32.
+The Target detection (Height 100 m) with Antenna 50 m is 58.
+The Effective Range is 5-150.
+The Accuracy Distance is 540.
+The Altitude is 6.
+The Azimuth is 360.
+The Height is INA.
+The Moving target indication (MTI) is 53 DB.
+The Mean time between failure (MTBF) is 300 hours.
+The Setup Time is 20.
+The Power Up is 3.3.
+The Teardown is 20.
+The Operating crew is 2.
+The Power consumption is 16.
+The Transport units is 2.
+
+Here is Communications information for the Kasta 2E1 Russian 6x6 Low-Altitude All-Around 3-D Surveillance Radar System:
+The Radio is R-168-5UN Russian VHF Manpack-Vehicular Radio Station.
+
+Here is Protection information for the Kasta 2E1 Russian 6x6 Low-Altitude All-Around 3-D Surveillance Radar System:
+The Armor is INA.
+The Applique Armor is Available,  This cab can be fitted with add-on armor kit. It is also proposed with concealed built-in internal armor..
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

@@ -1,0 +1,32 @@
+This document describes the FACS Chinese Field Artillery Fire Control System.
+
+The FACS Chinese Field Artillery Fire Control System consists of an integrated laser rangefinder (LRF) and electro-optic device together with data terminals for the forward observation officer (FOO) and the guns, and a laptop computer for the Fire Control Center (FCC) at the battalion level.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the FACS Chinese Field Artillery Fire Control System:
+The Alternate Designation is FACS.
+The Type is Field Artillery Fire Control System.
+The Manufacturer is Poly Technologies Inc.
+The System is The system consists of an integrated laser rangefinder (LRF) and electro-optic device together with data terminals for the forward observation officer (FOO) and the guns, and a laptop computer for the Fire Control Centre (FCC) at battalion level. The LRF is accurate to 5,000 m..
+The Communication Range is Communications can either be over wire to a maximum range of 20 km, or available radio communication systems, with transmission rates up to 1,200 bps..
+The Laser Detection Range is 150–500 m.
+The Elevation is 0–750 mil.
+The Gun Position Altitude is 0–5,000 m.
+The Firing Data Accuracy Range is < 7/10,000.
+The Firing Data Accuracy Traverse is <0.5 mil.
+The Data Processing Time is less than 3 seconds.
+The Site Slope is -200 to 200 mil.
+The Battalion System Reaction Time is Less Than 10 seconds.
+The Transmission Rate is 300, 600, 1,200 bps.
+The Maximum Transmission Distance is 20 km (wire); Radio Range.
+The Capacity, Battalion Computer is 3 batteries.
+The Capacity, Battery Computer is 6 guns.
+The Note is The maximum number of guns that can be controlled using the system is 48, which is understood to represent either a battalion of four 12-gun batteries or three 16-gun batteries. Additionally, two battalion systems can be linked together..
+
+Here is Dimensions information for the FACS Chinese Field Artillery Fire Control System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Battalion Laptop Weight is 3.5 kg.
+

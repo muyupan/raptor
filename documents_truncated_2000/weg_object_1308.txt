@@ -1,0 +1,97 @@
+This document describes the PGZ-95 (Type 95) Chinese 25mm Self-Propelled Anti-Aircraft Vehicle.
+
+The Type 95 (PGZ-95) Chinese 25mm Self-Propelled Anti-Aircraft Vehicle was designed by the Northwest Institute of Mechanical & Electrical Engineering for People’s Liberation Army Ground Force (PLAGF).
+
+The PGZ95 was first demonstrated in 1999 during a military parade in Beijing. It was offered to overseas customers by the state-owned enterprise China North Industries Corporation (NORINCO), but no orders were received. Development of the PGZ95 commenced in the mid-1980s. The system was developed as a Chinese equivalent of the Russian ZSU-23-4M4 Shilka.
+
+PGZ95 is believed to have been benefited from the Italian Sidam 25mm SPAAG system as China acquired a Sidam turret in the mid-1980s for evaluation. The Type 95 is more capable than the former Chinese SPAAG systems. The 25mm cannon of the vehicle was based on the Type 87 25mm towed anti-aircraft gun. The hull is mounted on a tracked armored chassis. The vehicle can accommodate a driver, a commander, and a gunner. The commander is seated behind the driver who sits on the left side of the vehicle.
+
+Both are provided with a raised hatch and three vision blocks. The engine is located forward of the vehicle, while a one-man turret is fitted on the rear of the hull. A typical Type 95 battery consists of six SPAAA vehicles and a single command vehicle. Additionally, three ammunition re-supply trucks, a test/repair truck, and a power supply truck support each battery.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the PGZ-95 (Type 95) Chinese 25mm Self-Propelled Anti-Aircraft Vehicle:
+The PGZ-04A is The PGZ04A is an improved variant of the PGZ95. It most likely is an update of existing vehicles. The QW-2 missiles are replaced by the FN-6 and integration with the battery command post vehicle is improved..
+
+Here is System information for the PGZ-95 (Type 95) Chinese 25mm Self-Propelled Anti-Aircraft Vehicle:
+The Alternative Designation is Type 95 SPAAA; PGZ95. Earlier in development the system was designated Type 90-II and Type 90-III.
+The Type is Self-Propelled Anti-Aircraft Artillery.
+The Caliber is 25 mm.
+The Crew is 3 (commander, gunner, driver).
+The Chassis is The vehicle uses a tracked armoured chassis with six road wheels, a drive sprocket, an idler and three return rollers on each side..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note #1 is The system consists of a full-tracked armored chassis and a power-operated turret boasting four 25-mm cannons (firing 800 rounds a minute) and four fire-and-forget SAMs..
+The Note #2 is A typical Type 95 battery consists of six SPAAA vehicles and a single command vehicle. Additionally, three ammunition re-supply trucks, a test/repair truck, and a power supply truck support each battery..
+
+Here is Dimensions information for the PGZ-95 (Type 95) Chinese 25mm Self-Propelled Anti-Aircraft Vehicle:
+The Length is 6.71 m.
+The Width is 3.20 m.
+The Height, with Radar Up is 4.82 m.
+The Height, with Radar Down is 3.40 m.
+The Weight is 22,500 kg.
+
+Here is Automotive information for the PGZ-95 (Type 95) Chinese 25mm Self-Propelled Anti-Aircraft Vehicle:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Cruising Range is 450 km.
+The Speed, Maximum Road is 53 km/h.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is INA.
+
+Here is System information for the PGZ-95 (Type 95) Chinese 25mm Self-Propelled Anti-Aircraft Vehicle of the Main Gun System:
+The Name is INA.
+The Type is Autocannon.
+The Caliber is 25 mm.
+The Quantity is 4 x 25mm Autocannon.
+The Elevation is INA.
+The Traverse is 360 deg.
+The Maximum Range is INA.
+The Rate of Fire is 800 Rounds per Minute.
+
+Here is Ammunition information for the PGZ-95 (Type 95) Chinese 25mm Self-Propelled Anti-Aircraft Vehicle of the Main Gun System:
+The Type is Autocannon.
+The Caliber is 25.
+The Shell is INA.
+The Ammunition Resupply Vehicle is The Type 95 battery also consists of three ammunition re-supply vehicles, one battery testing vehicle, and one power supply vehicle, all mounted on similar 6x6 cross-country trucks...
+The Basic Load is 1,000 Rounds.
+
+Here is System information for the PGZ-95 (Type 95) Chinese 25mm Self-Propelled Anti-Aircraft Vehicle of the Missile System:
+The Name is 4 x QW-2 Vanguard 2 Infrared Homing Guided Surface-to-Air Missile.
+The Type is Infrared Homing Guided Surface-to-Air Missile.
+The Manufactured is Shenyang-based CASIC 119 Factory.
+The Length is 1.59 m.
+The Diameter is INA.
+The Weight is 11.32 kg.
+The Detonation Mechanism is Impact & Proximity.
+The Engine is Rocket.
+The Propellant is Solid Rocket.
+The Operational Range is 6 km maximum.
+The Flight Ceiling is 4 km.
+The Flight Altitude is 10 meter minimum.
+The Maximum Speed is > 600 m/s.
+The Guidance System is Infrared Homing.
+The Basic Load is 4 x QW-2 Vanguard 2 Infrared Homing Guided Surface-to-Air Missile.
+
+Here is Radar and Fire Control System information for the PGZ-95 (Type 95) Chinese 25mm Self-Propelled Anti-Aircraft Vehicle:
+The Name is INA.
+The Computerized FCS is Yes.
+The Main Gun Stabilization is Yes.
+The Radar is 1 x CLC-2 pulse-Doppler search.
+The Radar Range is 11 km.
+The TV Tracking Camera is Yes.
+The Infrared Camera is Yes.
+The Laser Range Finder is Yes.
+
+Here is Protection information for the PGZ-95 (Type 95) Chinese 25mm Self-Propelled Anti-Aircraft Vehicle:
+The Hull Armor is Type 95 (PGZ-95) Chinese 25mm Self-Propelled Anti-Aircraft Vehicle provides protection against small arms fire and artillery shell splinters..
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

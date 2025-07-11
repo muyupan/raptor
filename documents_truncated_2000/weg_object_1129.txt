@@ -1,0 +1,139 @@
+This document describes the MIM-23A Hawk American Surface-to-Air Missile (SAM) System.
+
+The Raytheon MIM-23 Hawk (or HAWK: Homing All the Way Killer) is an American medium-range surface-to-air missile. It was designed to be a much more mobile counterpart to the MIM-14 Nike Hercules, trading off range and altitude capability for a much smaller size and weight. Its low-level performance was greatly improved over Nike through the adoption of new radars and a continuous wave semi-active radar homing guidance system.
+
+Hawk was originally intended to attack aircraft, especially those flying at medium and low altitudes. It entered service with the Army in this role in 1959. In 1971 it underwent a major improvement program as the Improved Hawk, or I-Hawk, which made several improvements to the missile and replaced all of the radar systems with new models. Improvements continued throughout the next twenty years, adding improved ECCM, a potential home-on-jam feature, and in 1995, a new warhead that made it capable against short-range tactical missiles. Jane's reported that the original system's single shot kill probability was 0.56; I-Hawk improved this to 0.85.
+
+A typical Basic Hawk battery consists of:
+
+1 × PAR: Pulse Acquisition Radar—a search radar with a 20 rpm rotation, for high/medium altitude target detection.
+1 × CWAR: Continuous Wave Acquisition Radar—a search doppler radar with a 20 rpm rotation, for low altitude target detection.
+2 × HPIR: High Power Illuminator doppler Radar—target tracking, illumination and missile guidance.
+1 × ROR: Range Only Radar—K-band pulse radar which provides range information when the other systems are jammed or unavailable.
+1 × ICC: Information Coordination Central
+1 × BCC: Battery Control Central
+1 × AFCC: Assault Fire Command Console—miniature battery control central for remote control of one firing section of the battery. The AFCC controls one CWAR, one HPI, and three launchers with a total of nine missiles.
+1 × PCP: Platoon Command Post
+2 × LCS: Launcher Section Controls
+6 × M-192: Launchers with 18 missiles.
+6 × SEA: Generators 56 kVA (400 Hz) each.
+12 × M-390: Missile transport pallets with 36 missiles
+3 × M-501: Missile loading tractors.
+1 × [bucket loader]
+1 × Missile test shop AN/MSM-43.
+
+This equipment has proliferated into the following countries: Bahrain, Egypt, Greece, Iran (Islamic Republic of), Israel, Italy, Jordan, Kurdistan, Kuwait, Morocco, Saudi Arabia, Singapore, South Korea (Republic of Korea), Spain, Sweden, United Arab Emirates.
+
+Here is Variants information for the MIM-23A Hawk American Surface-to-Air Missile (SAM) System:
+The I-Hawk (Improved Hawk /Hawk B/MIM-23B) is This variant reached initial operating capability (IOC) in 1972. Upgrades from the original Hawk included solid-state electronics, factory certified and sealed missile round, all-altitude capability, digital automatic data processor for the information coordination central (ICC), improved solid-propellant rocket motor and a larger warhead..
+The Hawk Mobility Enhancement (HME) is This was jointly developed by Raytheon and the Dutch air force. It reduced number of vehicles in a Hawk firing unit from 14 trucks and trailers to seven, updated the Hawk launcher and simplified reloading..
+The Patriot /Hawk Interoperability is This is a software upgrade to permitting Hawk missile platoons to receive targeting data from Patriot information coordination center (ICC). An April 1988 test simulated an interception of a short-range tactical missile by shooting down a missile traveling at Mach 2 and at an altitude of more than 25,000 ft (7,620 m)..
+The Sparrow /Hawk Demonstration Program is In 1985, Raytheon combined elements of two of its missile products into one system. The Sparrow /Hawk system replaced the three I-Hawks on the M192 launcher with eight AIM-7 Sparrow missiles (the original launcher had nine missiles)..
+The NOAH (Norwegian Adapted Hawk ) is INA.
+The Iran MIM-23 Hawk variant is Iran reportedly made several upgrades to MIM-23 missiles for the carriages of its F-14 Tomcats. Some were displayed in Tehran in September 1998..
+The Danish Enhanced Hawk (DEHAWK) is Introduced in December 2002, the Danish Enhanced Hawk (DEHAWK) was developed by Terma and Thales. After several years of delays, the program was handed over to the Danish Air Materiel Command..
+
+Here is System information for the MIM-23A Hawk American Surface-to-Air Missile (SAM) System:
+The Alternative Designation is MIM-23A Hawk.
+The Type is Medium-range surface-to-air missile..
+The Family is MIM-23 Hawk Family.
+The Manufacturer is Raytheon Company.
+The In Service is 1960-Present.
+The Crew is INA.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Fire on the Move is No.
+The Note is The original Hawk has been phased out of NATO and U.S. service, although several countries have missiles in storage. All active Hawk missiles are the I-Hawk variant..
+
+Here is Dimensions information for the MIM-23A Hawk American Surface-to-Air Missile (SAM) System:
+The Length is 5.08.
+The Diameter is 0.37.
+The Wingspan is 1.21.
+The Weight, Combat is 590.
+The Warhead Weight is 45.
+
+Here is Automotive information for the MIM-23A Hawk American Surface-to-Air Missile (SAM) System:
+The Engine Name is 1 x Aerojet dual-thrust solid-fuel rocket (M22E8 motor).
+The Engine Type is Solid-fuel rocket engine.
+The Speed is Mach 2.5.
+The Transporter is The Hawk missile is transported and launched from the M192 towed triple-missile launcher..
+The M22E8 Motor Burn Rate is 25-32.
+
+Here is Missile System information for the MIM-23A Hawk American Surface-to-Air Missile (SAM) System:
+The Name is MIM-23A.
+The Type is Semi-active Radar Homing Missile.
+The Launcher is The M192 (LCHR) supports up to three ready-to-fire missiles and is activated only on the initiation of the fire cycle..
+The Guidance is Semi-active Radar Homing.
+The Length is INA.
+The Maximum Effective Range is 25.
+The Minimum Effective Range is 2.
+The Maximum Altitude is 14.
+The Minimum Altitude is 30.
+The Elevation is .
+The Traverse is .
+The Max Rate of Fire is INA.
+The Reflector is parabolic reflector.
+The Warhead Type is Conventional high-explosive blast fragmentation.
+The Warhead Weight is 45.
+The Warhead Fragments Arc is 18.
+The Warhead Fragments Speed is 2,000 meters per second.
+The Warhead Fragments is 4,000 8-gram (0.28 oz) fragments.
+The Fuze Type is w/proximity and contact fuzes.
+The Speed is Mach 2.5.
+The Guidance System is Semi-active radar homing.
+The Kill Probability is 0.56.
+
+Here is Fire Control System information for the MIM-23A Hawk American Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Fire Control Sensors is Yes.
+The IADS Integration is INA.
+
+Here is Radar #1 information for the MIM-23A Hawk American Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is AN/MPQ-35 (Basic Hawk).
+The Type is PAR Pulse Acquisition Radar.
+The Radar Pulse Power is 450.
+The Pusle Length is 3 µs.
+The Pulse Repetition Frequency is 800 and 667 Hz alternately.
+The Radar Ghz Range is 1.25 to 1.35 GHz range.
+The Antenna Dimensions is 6.7 m × 1.4 m.
+The Rotation Rate is 20.
+The Note is The BCC – Battery Control Central and the CWAR are synchronized by the PAR revolutions and the PAR system trigger..
+
+Here is Radar #2 information for the MIM-23A Hawk American Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is AN/MPQ-34 (Basic Hawk).
+The Type is CWAR Continuous Wave Acquisition Radar.
+The Power Rating is 200.
+The Frequency is 10 GHz (X-Band).
+
+Here is Radar #3 information for the MIM-23A Hawk American Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is AN/MPQ-33/39 (Basic Hawk).
+The Type is HPIR High Power Illuminating Radar.
+The Power Output is 125.
+The Operating Ghz Band is 10–10.25 GHz band.
+The Note is The unit comes mounted on its own mobile trailer. Unit automatically acquires and tracks designated targets in azimuth elevation and range rate..
+
+Here is Radar #4 information for the MIM-23A Hawk American Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is AN/MPQ-37 (Basic Hawk).
+The Type is ROR Range Only Radar.
+The Radar Type is Pulse Radar.
+The Ku Band Frequency is 15.5-17.5 GHz.
+The Power Output is 120.
+The Pusle Length is 0.6 µs.
+The Pulse Repetition Frequency is 1600 Hz.
+The Antenna is 1.2m dish.
+The Range is 83 km (52 mi) versus 3 m2 (32 sq ft) target..
+
+Here is Protection information for the MIM-23A Hawk American Surface-to-Air Missile (SAM) System:
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

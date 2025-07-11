@@ -1,0 +1,118 @@
+This document describes the 9A52-2 (BM-30 Smerch-M) Russian 300mm Multiple Launch Rocket System.
+
+The 9A52-2 (BM-30 Smerch-M) Russian 300mm Multiple Launch Rocket System is designed and manufactured by the Russian Company Splav State Research and Production Association, Tula, Russia, which also manufactures the Uragan, Grad, and Prima rocket launchers.
+
+This equipment has proliferated into the following countries: Algeria, Armenia, Azerbaijan, Belarus, CFE Treaty, China, India, Iraq, Kazakhstan, Kuwait, Morocco, Pakistan, Russian Federation, Syria, Turkmenistan, Ukraine, United Arab Emirates, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the 9A52-2 (BM-30 Smerch-M) Russian 300mm Multiple Launch Rocket System:
+The 9A52-2T Smerch is A variant based on the Tatra 10x10 chassis. It was designed in Russia for the Indian MoD. This rocket system is in service with the Indian Army..
+The 9A52-4 Tornado i is A lighter variant of the Smerch, based on KamAZ 8x8 truck. It has a six-pack launcher pod for 300 mm rockets. So the 9A52-4 has half the firepower of the Smerch. The whole launcher pod is replaced after all rockets are fired. This system is compatible with 90 km rockets.
+The Uragan-1M i is A new Russian artillery rocket system, that might become a replacement for the aging Uragan and Smerch systems. It was first publicly revealed in 2016. The Uragan-1M carries two launching pods for 300 mm or 220 mm rockets. These rocket pods are interchangeable with those of the 9A52-4 Tornado system. The launcher vehicle is based on an MZKT-7930 high-mobility chassis with 8x8 configuration..
+The PHL 03 is A Chinese copy of the Smerch. It was adopted by the Chinese army in 2004-2005. It incorporates newer technologies, as well as indigenous Chinese rockets with a maximum range of 130 km. China developed a number of indigenous versions of this artillery rocket system..
+The Olha is A Ukrainian version of the Smerch, which uses newly developed missiles, possibly with extended range. The Oliha uses the same launcher vehicle of the Smerch. It was planned that tests of this system will be completed in 2018 and production will commence..
+
+Here is System information for the 9A52-2 (BM-30 Smerch-M) Russian 300mm Multiple Launch Rocket System:
+The Alternative Designation is 9A52-2; BM-30 Smerch-M; 9K58.
+The Type is Multiple Launch Rocket System.
+The Caliber is 300 mm.
+The Manufacturer is Splav State Research and Production Enterprise.
+The In Service is 1987-Present.
+The Family is 9A52 Series.
+The Crew is 4.
+The Launch Vehicle is The 9A52-2 is the standard launch vehicle of the BM-30 system.
+The Displacement Time is 3.
+The Emplacement Time is 3.
+The Note is At the time it was the most powerful multiple launch artillery rocket system in the world. Even today, after more than 30 years of service, it remains one of the deadliest systems of this type. Currently Russian Army operates just over 100 of these artillery rocket systems..
+
+Here is Dimensions information for the 9A52-2 (BM-30 Smerch-M) Russian 300mm Multiple Launch Rocket System:
+The Length is 12.1 m.
+The Width, Transport is 3.05 m.
+The Height, Transport is 3.05 m.
+The Weight, Standard is 33,700 kg.
+The Weight, Combat is 43,700 kg.
+The Ground Clearance is 0.44 m.
+
+Here is Automotive information for the 9A52-2 (BM-30 Smerch-M) Russian 300mm Multiple Launch Rocket System:
+The Engine Name is D12A-525A.
+The Engine Type is V-12 Diesel.
+The Engine Power is 518.
+The Fuel Capacity is 375 liters.
+The Electrical System is 24V.
+The Suspension is semi-elliptic leaf springs with telescopic shock absorbers, front; inverted leaf springs rea.
+The Maximum Speed is 60 km/h.
+The Range is 650 km.
+The Gradient is 68%.
+The Side Slope is 0.78 m.
+The Vertical Obstacle is 0.78 m.
+The Trench is 2.50 m.
+The Turning Radius is 15 m.
+
+Here is Communications information for the 9A52-2 (BM-30 Smerch-M) Russian 300mm Multiple Launch Rocket System:
+The Primary is R-123M.
+
+Here is System information for the 9A52-2 (BM-30 Smerch-M) Russian 300mm Multiple Launch Rocket System of the Launcher:
+The Name is 9A52, 300mm Launcher.
+The Type is 300 mm.
+The Number of Tubes is 12 (3 rows of 4 tubes).
+The Launch Rate is INA.
+The Loader Type is Manual.
+The Full Salvo Time is 12 rounds in 38 seconds.
+The Single Rocket Interval is Single-round or salvo firing is possible and the entire ammunition load can be launched in 38 seconds..
+The Reload Time is 36.
+The Launcher Drive is Electric.
+The Maximum Elevation is +55.
+The Minimum Elevation is -0.
+The Traverse Range is 60.
+The Traverse Left is 30.
+The Traverse Right is 30.
+
+Here is Ammunition (Option 1) information for the 9A52-2 (BM-30 Smerch-M) Russian 300mm Multiple Launch Rocket System of the Launcher:
+The Name is 9M55F.
+The Type is FRAG-HE.
+The Caliber is 300.
+The Maximum Range is 70.
+The Minimum Range is 20.
+The Warhead Weight is 258.
+The Rocket Length is 7.6.
+The Maximum Velocity is INA.
+The Fuze Type is Electronic timing (ET).
+
+Here is Ammunition (Option 2) information for the 9A52-2 (BM-30 Smerch-M) Russian 300mm Multiple Launch Rocket System of the Launcher:
+The Name is 9M55K.
+The Type is DPICM.
+The Caliber is 300mm.
+The Rocket Length is 7.6.
+The Warhead Weight is 235.
+The Fuze Type is Electronic timing (ET).
+The Maximum Velocity is INA.
+The Maximum Range is 70.
+The Minimum Range is 20.
+
+Here is Ammunition (Option 3) information for the 9A52-2 (BM-30 Smerch-M) Russian 300mm Multiple Launch Rocket System of the Launcher:
+The Name is 9M55K1.
+The Type is Sensor-fuzed (MOTIV-3M).
+The Caliber is 300mm.
+The Rocket Length is 7.6.
+The Warhead Weight is 233.
+The Fuze Type is Electronic timing (ET).
+The Maximum Velocity is INA.
+The Maximum Range is 70.
+The Minimum Range is 20.
+The Note is Additional Ammunition Types include: Smoke, Incendiary, Chemical, Leaflet, Fuel Air Explosive (FAE), R-90 expendable miniature UAV (experi-mental).
+
+Here is Fire Control information for the 9A52-2 (BM-30 Smerch-M) Russian 300mm Multiple Launch Rocket System:
+The Name is INA.
+The Computerized FCS is Yes, Fire-control systems include an installation of an automated launch preparation equipment that has allowed for autonomous execution of fire missions. This equipment provides for the topographical surveying and navigation of the launch vehicle, computation in the launch vehicle of fire settings and flight mission data of the basis of target, and meteorological data provided by the Automated Fire-Control System, ramp laying on the target by the crew staying in the cab and using no aiming points, visual monitoring of rocket ramp laying, presentation on the display of the launch vehicle location, pre-launch testing on rocket projectile equipment, flight mission data input in rocket projectile onboard equipment and finally rocket launch with take-off checks..
+The Direct Fire is No.
+The Indirect Fire is PG-1M Panoramic Telescope (PANTEL).
+The Collimator is K-1.
+
+Here is Protection information for the 9A52-2 (BM-30 Smerch-M) Russian 300mm Multiple Launch Rocket System:
+The Hull Armor is The Vehicle is thought to not be armored..
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

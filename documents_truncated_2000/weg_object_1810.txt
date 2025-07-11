@@ -1,0 +1,87 @@
+This document describes the ZIL-130 Russian 4x2 Light Utility Truck.
+
+The ZiL-130 is a Soviet/Russian truck produced by ZiL in Moscow, Russia. The first prototype was built in 1956. Production began in 1962, while mass production started in 1964. It was one of the most numerous cargo trucks in the USSR and Russia, in total ZIL built 3,380,000 trucks up to 1994. In 1995, production was moved to the now-defunct Ural Motor Plant (UamZ, its trucks were known as UamZ-43140).
+
+This equipment has proliferated into the following countries: Belarus, Bosnia and Herzegovina, Bulgaria, Cambodia, Croatia, Cuba, Czech Republic, Hungary, Kazakhstan, Kosovo, Kurdistan, Kyrgyzstan, Latvia, Moldova, North Korea (Democratic People's Republic of Korea), Poland, Romania, Russian Federation, Slovakia, Slovenia, Ukraine, Viet Nam.
+
+Here is Variants information for the ZIL-130 Russian 4x2 Light Utility Truck:
+The ZiL-130A1 is cargo truck capable of pulling trailers..
+The ZiL-130D1 is chassis for ZiL-MMZ-555 dump truck with 3.3 m wheelbase..
+The ZiL-130D2 is dump truck chassis..
+The ZiL-130D1E is ZiL-MMZ-555 dump truck chassis, temperate climate export model..
+The ZiL-130D1T is export model of ZiL-130D1E for tropical climates..
+The ZiL-130G is long cargo bed (length 4.686 m) with 4.5 m wheelbase..
+The ZiL-130GE is temperate climate export model of ZiL-130G..
+The ZiL-130GT is tropical climate export model of ZiL-130G..
+The ZiL-130S is for use in northern RFAS..
+The ZiL-130T is temperate climate export model..
+The ZiL-1361 is export model with Perkins diesel engine..
+The ZiL-1361G is long wheelbase export model with Perkins diesel engine..
+The ZiL-1361D1 is dump truck chassis with Perkins diesel engine..
+The ZiL-130V1 is tractor truck with 3.3 m wheelbase..
+The ZiL-130V1T is tropical climate export model of ZiL-130V1..
+The ZiL-130Ye is ZiL-130 with shielded electrical system..
+The ZiL-130YeT is tropical climate export model of ZiL-130Ye..
+The ZiL-130YeE is temperate climate export model of ZiL-130Ye..
+The ZiL-MMZ-554 is agricultural dump truck..
+The ZiL-MMZ-555 is agricultural dump truck..
+The ATs 4,2-130 is 4,200 litre fuel tanker..
+The ATs 3,8-130 is 3,800 litre fuel servicing truck..
+The AVTs 2,8-130 is 2,800 litre water tanker..
+The DDA-53B is NBC decontamination vehicle..
+The PAZS-3152 is mobile refuelling unit..
+The PSG-160 is POL transfer pump unit..
+
+Here is System information for the ZIL-130 Russian 4x2 Light Utility Truck:
+The Alternative Designation is ZIL-130; UamZ-43140.
+The Type is Light Utility Truck.
+The Manufacturer is ZIL.
+The Configuration is 4x2.
+The Family is ZIL-130 Series.
+The Crew is 1.
+The Cab Seating is 2.
+The Cargo Capacity is 4,500 kg.
+The Towed Load Capacity is 6,400 kg.
+
+Here is Dimensions information for the ZIL-130 Russian 4x2 Light Utility Truck:
+The Length is 6 m.
+The Width is 2.5 m.
+The Height, Cab is 2.35 m.
+The Height, Body is 3.5 m.
+The Height, Cargo Area is 1.43 m.
+The Wheelbase is 3.8 m.
+The Weight, Unladen is 4,500 kg.
+The Weight, Laden is 9,000 kg.
+The Ground Clearance is 0.275 m.
+
+Here is Automotive information for the ZIL-130 Russian 4x2 Light Utility Truck:
+The Engine Name is ZIL-130.
+The Engine Type is 6 litre, V-8, water cooled, 4 stroke, petrol.
+The Engine Power is 170 hp at 3,600 rpm.
+The Power-to-Weight Ratio is INA.
+The Fuel Capacity is 150 Liters.
+The Electrical System is 12 V.
+The Batteries is 1 (6–ST 78EMSZ).
+The Steering is screw and nut with hydraulic booster.
+The Suspension is (front) semi-elliptic leaf springs with telescopic shock-absorbers; (rear) semi-elliptic leaf springs and check springs.
+The Brakes is Air.
+The Tires is 9.00 × 20.
+The Angle of Approach is 38°.
+The Angle of Departure is 27°.
+The Gradient is 36%.
+The Vertical Obstacle is INA.
+The Amphibious is No.
+The Fording Depth is 0.700 m.
+The Turning Radius is 8 m.
+
+Here is Main Weapon System information for the ZIL-130 Russian 4x2 Light Utility Truck:
+The Note is There are no crew-served weapons associated with the ZIL-130..
+
+Here is Protection information for the ZIL-130 Russian 4x2 Light Utility Truck:
+The Armor is None.
+The Applique Armor is No.
+The Active Protection System is None.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

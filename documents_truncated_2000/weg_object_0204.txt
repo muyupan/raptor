@@ -1,0 +1,84 @@
+This document describes the Rubezh-ME Russian Short-Range Anti-Ship Cruise Missile.
+
+At IMDS 2019, a new version of the Russian Bal-E coastal defence system is presented for the 1st time. The Rubezh-ME, dedicated to the export market, is based on a Kamaz 63501 8x8 chassis which is more compact than the MZKT-7930 of the original Bal-E.
+
+The Rubezh-ME still uses the same familly of KH-35 anti-ship missile. The system is paired with its Monolith-B self-propelled commmand vehicle with control and communication unit. The Rubez-ME can be deployed in less than 15 min, be positioned up to 1km above sea level and 10km from the coast line.
+
+The Monolith-B radar allows the Rubezh-ME to engage targets up to 250 km in active mode and up to 450km in passive mode, the systems also allows to track 30 targets in active mode, 50 in passive detection mode and 10 in targeting mode. The KH-35E missile has a range of 5 to 130km and the KH-35UE allows the Rubezh-ME to engage from 7 to 260km.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Rubezh-ME Russian Short-Range Anti-Ship Cruise Missile:
+The Rubezh is The Rubezh system uses improved P-15M missiles. These missiles are recoilless upon launch. Maximum range of fire is 80 km. This missile travels at a speed of 1 100 km/h (Mach 0.9). The missile travels at an altitude of 25, 50 or 250 m above sea level, depending on the setting which is pre-programmed before launch. Missile attacks its targets from the top..
+
+Here is System information for the Rubezh-ME Russian Short-Range Anti-Ship Cruise Missile:
+The Alternative Designation is Rubezh-ME.
+The Type is Coastal Defense Missile System.
+The Crew is 2.
+The Chassis is KamAZ-6350.
+The Displacement Time is less than 10 minutes.
+The Emplacement Time is less than 10 minutes.
+The Fire on the Move is INA.
+The Note #1 is A typical battery of the Rubezh-ME includes up to 8 launcher vehicles with missiles and a mobile command post, equipped with Monolith-B radar. It is based on the same KamAZ 8x8 military truck chassis. Each launcher vehicle is supported by an associated reloading vehicle, which is fitted with a crane and carries reload missiles..
+The Note #2 is The Rubezh-ME battery can launch up to 32 anti-ship cruise missiles. This is sufficient to disrupt operations of a large hostile battlegroup.
+
+   Once the missiles are launched it takes 30-40 minutes to reload the launcher vehicles..
+
+Here is Dimensions information for the Rubezh-ME Russian Short-Range Anti-Ship Cruise Missile:
+The Length is 10 m.
+The Width is 2.5 m.
+The Height is 4 m.
+The Weight, Combat is 26 tons.
+
+Here is Automotive information for the Rubezh-ME Russian Short-Range Anti-Ship Cruise Missile:
+The Engine Name is KamAZ-740.50-360.
+The Engine Type is Diesel.
+The Engine Power is 360.
+The Range is up to 1 000 km.
+The Speed, Maximum Road is 75.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6 m.
+The Trench is 0.6 - 1.4 m.
+The Fording Depth is up to 1.75 m.
+
+Here is Missile System information for the Rubezh-ME Russian Short-Range Anti-Ship Cruise Missile:
+The Name is Kh-35UE.
+The Type is Cruise Missile.
+The Manufacturer is 440 cm.
+The Length is 440 cm.
+The Diameter is 42.0 cm.
+The Wingspan is 133 cm.
+The Weight is 610 kg.
+The Warhead is 145 kg High Explosive Fragmentation (HE-FRAG) warhead..
+The Warhead Weight is 145 kg.
+The Engine is R95TP-300 Turbojet Kh-35 / Turbofan Kh-35U
+360 kgf.
+The Propellant is kerosene.
+The Operational Range is 260 km.
+The Flight Altitude is 10-15 m en route and about 4 m at terminal area.
+The Maximum Speed is 980–1,164 km/h.
+The Guidance System is inertial guidance and ARGS-35E X-band terminal active radar homing.
+The Basic Load is The launcher vehicle carries 4 containerized Kh-35UE missiles..
+
+Here is Fire Control System information for the Rubezh-ME Russian Short-Range Anti-Ship Cruise Missile of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is No.
+The Indirect Fire is Yes.
+
+Here is Radar information for the Rubezh-ME Russian Short-Range Anti-Ship Cruise Missile of the Fire Control:
+The Name is 1 x Mineral-ME1 active radar.
+The Type is Active Search Radar.
+The Range is 250 km.
+The Number of Targets System can Track is up to 200 targets.
+
+Here is Protection information for the Rubezh-ME Russian Short-Range Anti-Ship Cruise Missile:
+The Hull Armor is Protection from small arms and shell splinters.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

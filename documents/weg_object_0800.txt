@@ -1,0 +1,34 @@
+This document describes the Shahpar II Pakistani Unmanned Aerial Vehicle (UAV).
+
+The Shahpar II Pakistani Unmanned Aerial Vehicle (UAV) is a medium-range tactical UAV System with autonomous take-off and landing. It can carry various types of payloads integrated for reconnaissance and day & night surveillance. Other features include accurate lateral, and longitudinal trajectory control, mission planning, management & control, geo-referencing & geo pointing for terrestrial targets.
+
+This equipment has proliferated into the following countries: Pakistan.
+
+Here is System information for the Shahpar II Pakistani Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Shahpar II.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is NESCOM.
+The Autonomy is Autonomous, GPS Based (manual control channel available).
+The Crew is Unmanned.
+The Payload Capacity is 50 kg.
+The Reconnaissance Equipment is Various types of payloads integrated for reconnaissance and day & night surveillance.
+The Takeoff is Autonomous Takeoff.
+The Landing is Autonomous Landing.
+
+Here is Dimensions information for the Shahpar II Pakistani Unmanned Aerial Vehicle (UAV):
+The Length is 4.2 m.
+The Wingspan is 6.6 m.
+The Height is INA.
+The Empty Weight is INA.
+The Maximum Takeoff Weight is 480 kg.
+
+Here is Automotive information for the Shahpar II Pakistani Unmanned Aerial Vehicle (UAV):
+The Engine Name is Rotax 912 ULS.
+The Engine Type is 4 - Cylinder, 4 stroke piston.
+The Engine Power is 100 hp.
+The Maximum Speed is 180 km/h.
+The Cruising Speed is 150 km/h.
+The Service Ceiling is 5,000 m.
+The Maximum Distance is 250 km Data Link Range.
+The Endurance is 7 hours.
+

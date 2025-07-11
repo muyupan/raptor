@@ -1,0 +1,50 @@
+This document describes the M134 Minigun American 7.62mm Six-Barrel Rotary Machine Gun.
+
+The M134 Minigun is a 7.62×51mm NATO six-barrel rotary machine gun with a high, sustained rate of fire (2,000 to 6,000 rounds per minute). It features a Gatling-style rotating barrel assembly with an external power source, normally an electric motor. The "Mini" in the name is in comparison to larger-caliber designs that use a rotary barrel design, such as General Electric's earlier 20 mm M61 Vulcan, and "gun" for the use of rifle ammunition as opposed to autocannon shells.
+
+"Minigun" refers to a specific model of weapon that General Electric originally produced, but the term "minigun" has popularly come to refer to any externally powered rotary gun of rifle caliber. The term is sometimes used loosely to refer to guns of similar rates of fire and configuration, regardless of power source and caliber.
+
+The Minigun is used by several branches of the U.S. military. Versions are designated M134 and XM196 by the United States Army, and GAU-2/A and GAU-17/A by the U.S. Air Force and U.S. Navy.
+
+The basic minigun is a six-barrel, air-cooled, and electrically driven rotary machine gun. The electric drive rotates the weapon within its housing, with a rotating firing pin assembly and rotary chamber. The minigun multi-barrel design helps prevent overheating, but also serves other functions. Multiple barrels allow for a greater capacity for a high firing rate, since the serial process of firing, extraction, and loading is taking place in all barrels simultaneously. Thus, as one barrel fires, two others are in different stages of shell extraction and another three are being loaded. The minigun is composed of multiple closed-bolt rifle barrels arranged in a circular housing. The barrels are rotated by an external power source, usually electric, pneumatic, or hydraulic. Other rotating-barrel cannons are powered by the gas pressure or recoil energy of fired cartridges. A gas-operated variant, designated XM133, was also developed.
+
+While the weapon can feed from linked ammunition, it requires a delinking feeder to strip the links as the rounds are fed into the chambers. The original feeder unit was designated MAU-56/A, but has since been replaced by an improved MAU-201/A unit.
+
+The General Electric minigun is used in several branches of the U.S. military, under a number of designations. The basic fixed armament version was given the designation M134 by the United States Army, while the same weapon was designated GAU-2/A (on a fixed mount) and GAU-17/A (flexible mount) by the United States Air Force (USAF) and United States Navy (USN). The USAF minigun variant has three versions, while the US Army weapon appears to have incorporated several improvements without a change in designation. The M134D is an improved version of the M134 designed and manufactured by Dillon Aero, while Garwood Industries manufactures the M134G variant. Available sources show a relation between both M134 and GAU-2/A and M134 and GAU-2B/A. A separate variant, designated XM196, with an added ejection sprocket was developed specifically for the XM53 Armament Subsystem on the Lockheed AH-56 Cheyenne helicopter.
+
+Another variant was developed by the USAF specifically for flexible installations, beginning primarily with the Bell UH-1N Twin Huey helicopter, as the GAU-17/A. Produced by General Dynamics, this version has a slotted flash hider. The primary end users of the GAU-17/A have been the USN and the United States Marine Corps (USMC), which mount the gun as defensive armament on a number of helicopters and surface ships. GAU-17/As from helicopters were rushed into service for ships on pintle mountings taken from Mk16 20 mm guns for anti-swarm protection in the Gulf ahead of the 2003 Iraq War - 59 systems were installed in 30 days. The GAU-17/A is designated Mk 44 in the machine gun series and is generally known as the Mk 44 when installed on British warships.
+
+The weapon is part of both the A/A49E-11 armament system on the UH-1N; and of the A/A49E-13 armament subsystem on the USAF Sikorsky HH-60H Pave Hawk helicopter. The weapons on these systems feature a selectable fire rate of either 2,000 or 4,000 rpm. There is mention of a possible GAUSE-17 designation (GAU-Shipboard Equipment-17), in reference to the system when mounted on surface ships, though this would not follow the official ASETDS designation system's format.
+
+This equipment has proliferated into the following countries: Afghanistan, Argentina, Australia, Austria, Brazil, Canada, Chile, Colombia, Croatia, Czech Republic, Egypt, Finland, France, Georgia, Germany, India, Indonesia, Iran (Islamic Republic of), Iraq, Israel, Italy, Jordan, Malaysia, Mexico, Morocco, Netherlands, Norway, Pakistan, Paraguay, Peru, Philippines, Poland, Saudi Arabia, Serbia, Sierra Leone, South Korea (Republic of Korea), Spain, Thailand, Turkey, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the M134 Minigun American 7.62mm Six-Barrel Rotary Machine Gun:
+The XM134/M134 is 7.62×51mm NATO GE "Minigun" 6-barreled machine gun.
+The GAU-2A/A is GAU-2/A variant; unknown differences.
+The GAU-2B/A is GAU-2A/A variant; unknown differences.
+The GAU-17/A is GAU-2B/A variant; optimized for flexible use, uses either an MAU-201/A or MAU-56/A delinking feeder..
+The XM214 Microgun is Scaled-down variant of the XM134 firing the 5.56×45mm NATO round..
+The XM196 is M134/GAU-2B/A variant; housing modified by addition of an ejection sprocket; for use in the XM53 armament subsystem on the AH-56 helicopter.
+
+Here is System information for the M134 Minigun American 7.62mm Six-Barrel Rotary Machine Gun of the System:
+The  is M134 Minigun.
+The Type is six-barrel rotary machine gun with a high, sustained rate of fire (2,000 to 6,000 rounds per minute)..
+The Caliber is 7.63mm.
+The Barrels is 6.
+The Length is 801.6 mm.
+The Barrel Length is 558.8 mm.
+The Weight is 85 lb (39 kg) (41 lb (19 kg) lightweight mod.).
+The Action is Electrically driven rotary breech.
+The Rate of Fire is Variable, 2,000–6,000 rpm.
+The Muzzle Velocity is 2,800 ft/s (853 m/s).
+The Maximum Firing Range is 3,280 ft (1,000 m, 1,093 yd).
+The Feed System is Disintegrating M13 linked belt or linkless feed; dependent on installation [500-5,000-round belt].
+The Sights is Dependent on installation; no fixed sights.
+
+Here is Ammunition Weapon Station #3 information for the M134 Minigun American 7.62mm Six-Barrel Rotary Machine Gun of the System:
+The Name is INA.
+The Type is Rifle.
+The Caliber is 7.62mm.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is INA.
+

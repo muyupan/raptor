@@ -1,0 +1,38 @@
+This document describes the Type 64 Japanese 7.62mm Battle Rifle.
+
+The Type 64 battle rifle preceded the Type 89, though it can still be found in reserve or second-line units since there are not enough newer rifles to go around. Development commenced in 1957 when the JGSDF was dependent on 7.62 x 51 mm cartridges, and it uses a 20-round detachable box magazine. When introduced, Howa’s Type 64 replaced the in-service M1 Garand. However, its overcomplicated design led to reliability problems.
+
+Each round uses 10 percent less powder charge in order to reduce recoil and muzzle climb and make it more manageable for Japanese soldiers. Another feature is a large muzzle brake. The Type 64’s muzzle velocity is 715 m/s, making it more controllable on full auto.
+
+It uses a tilting bolt and a short-stroke gas piston located above the barrel. The stock has a hinged butt plate to enhance accuracy. A manual external gas regulator controls its cyclic rate, and there is a setting available for firing normal 7.62 x 51 mm NATO rounds. Open sights are mounted on folding posts, while the rear sight has settings for 200 meters and 400 meters.
+
+A 2.2x scope (e.g. an M84 or local equivalent) can be fitted to convert the Type 64 into a designated marksman rifle, but the scope’s attachment with a single screw is problematic.
+
+Even though it was produced until 1988, the Type 64 is definitely geriatric. It is heavy, too, at 4.4 kilograms (without bipod or magazine). It measures 990 mm long and has a 450 mm barrel. Its rate of fire is 500 rounds per minute, and the maximum effective range is 400 meters.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is Variants information for the Type 64 Japanese 7.62mm Battle Rifle:
+The Designated Marksman is A 2.2x scope (e.g. an M84 or local equivalent) can be fitted to convert the Type 64 into a designated marksman rifle, but the scope’s attachment with a single screw is problematic..
+
+Here is Type 64, 7.62mm Battle Rifle information for the Type 64 Japanese 7.62mm Battle Rifle of the System:
+The Name is Type 64.
+The Type is Battel Rifle.
+The Caliber is 7.62mm.
+The Manufacturer is Howa (Japan).
+The Length is 990 mm.
+The Barrel Length is 450 mm.
+The Weight is 4.4 kg.
+The Action is Gas-operated tilting bolt.
+The Rate of Fire is 500 RPM.
+The Muzzle Velocity is 700 m/s.
+The Effective Firing Range is 400 m.
+The Feed System is 20-round detachable box magazine.
+The Sights is Iron sights; Telescopic sights used with Designated Marksman variant.
+
+Here is Ammunition information for the Type 64 Japanese 7.62mm Battle Rifle of the System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO (modified load).
+The Basic Load is INA.
+

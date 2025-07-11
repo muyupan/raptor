@@ -1,0 +1,93 @@
+This document describes the M1977 HEMTT American 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Common Bridge Transporter (CMT).
+
+The M1977 Common Bridge Transporter (CBT) is a modified M977 HEMTT Cargo truck equipped with a Load Handling System (LHS). The M1977 CBT was designed to support the Engineer Corps in transporting all bridging assets. The M1977 CBT loads, launches and retrieves the Ribbon Bridge, Improved Ribbon Bridge and Heavy Dry Support Bridge utilizing the Bridge Adapter Pallet, (BAP) and associated bridge erection boats utilizing the Improved Boat Cradle (IBC). The CBT is equipped with a winch to assist in retrieving the deployed equipment.
+The XM15 Bridge Adapter Pallet (BAP) is used to adapt the CBT for transport of Combat Engineer bridge equipment as mentioned above. When loaded, the BAP provides the necessary locks, rollers and guides to launch, retrieve and transport the bridge equipment. The BAP consists of the main frame and winch frame assemblies. The BAP is PLS compatible and is transloadable to/from the PLS trailer. The winch frame detaches from the BAP main frame and attaches to the CBT LHS. The winch frame utilizes the truck hydraulic power to winch the bridges during retrieval operations.
+The XM14 Improved Boat Cradle (IBC) is used to adapt the CBT for transport of the Combat Engineer Bridge Erection Boat (BEB). When loaded, the IBC provides the necessary locks, rollers and guides to launch, retrieve and transport the BEB. The IBC is PLS compatible, similar to the flat rack in design and is transloadable to/from the PLS Trailer.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is Variants information for the M1977 HEMTT American 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Common Bridge Transporter (CMT):
+The M977 is The M977 cargo truck variant is the base member of the HEMTT family. The current model is the M977A4; there was no M977A1. In addition to the basic M977A0/A2/A4 cargo truck, two other variants are available. The M977A0/A2/A4 Electrical Power Plant (EPP) has an extended cargo body (6.041 m (19.82 ft) inside length) and is used to hold and transport generators for the Patriot air-defence missile system. There is no material handling crane on the EPP. The M977A0/A2/A4 Large Repair Parts Transporter (LRPT) and the basic M977 cargo truck are fitted with a light-duty Grove materials handling crane mounted at the rear of the chassis..
+The M978 is The M978 is a 9,500 liter capacity tanker. The current model is the M978A4; there was no M978A1. The M978A0 was produced in both potable water (approximately 18) and fuel servicing truck variants, the A2 and A4 models have only been produced in the fuel servicing truck variant..
+The M983 Tractor is The M983 is a tractor unit for use with the trailer-mounted MIM-104 Patriot missile system. It can also be used with the Interim Stryker Recovery System, or other trailers. An earlier variant fitted with a 30 kW generator and crane mounted behind the cab was used to tow the Pershing II Erector Launcher in CONUS (a M1001 MAN tractor was used in West Germany). The M983A2/A4 Light Equipment Transporter (LET) tractor is mainly used to transport construction and engineer equipment. It has a 45,000 lb (20,000 kg)) 2 speed hydraulic winch mounted behind the cab used to load the trailer. It does not have a self-recovery winch..
+The M984A1 Wrecker is The M984 wrecker is the only HEMTT variant to have been produced in the A1 configuration, and this resulting in the change of recovery crane and retrieval system between A0 and A1 configurations. The current model is the M984A4. Standard equipment includes a 27,240 kg (60,050 lb) capacity two-speed recovery winch, a rear-mounted 11,340 kg capacity vehicle retrieval system, and a 6,350 kg (14,000 lb) at 2.74 m (9.0 ft) capacity Grove materials handling crane. A 9,072 kg (20,000 lb) bare drum capacity self-recovery winch is fitted as standard on the M984..
+The M985 Cargo is The M985 is available in two variants. The current models are A4; there were no A1 models. The M985 cargo variant is similar to the M977 cargo truck but was developed to support the M270 Multiple Launch Rocket System (MLRS) with a M989A1 HEMAT trailer. It may also used to transport Patriot missiles. The M985 Guided Missile Transporter (GMT) was developed specifically for use with the Patriot system and it can be distinguished easily from other cargo models by its rear-mounted Hiab 8108/2 materials handling crane.
+The Taiwanese RT-2000 Multiple Rocket Launcher is The RT-2000 [Lit; Ray-Ting-2000 or Thunder -2000] rocket launcher mounted on an M977 chassis. In service about 1997. Can mount any one of three launchers: Mk 15 117-mm, 60 rounds; Mk 30, 30 rounds with HE; AP/AM cluster warhead - >18-mile range; Mk 45 12 rounds, > 27-mile range, GPS targeting. See separate record for details..
+The M1120 HEMTT Load Handling System (LHS) is The M1120 Load Handling System (LHS) variant was initially introduced as part of the HEMTT overhaul/rebuild program, during which returned M977 cargo trucks have their cargo bodies and materials handling cranes removed, to be replaced by a Multilift Mark 5 (now designated MPH165-LHS) LHS, as fitted to the Oshkosh PLS truck..
+The M1977 HEMTT Common Bridge Transporter (CBT) is The M1977 HEMTT Common Bridge Transporter (CBT) is a further development of the M1120 LHS, and in common with the M1120 LHS was initially introduced as part of the HEMTT overhaul/rebuild program. It is used for loading, transporting, and unloading Ribbon Bridge components and bridge erection boats..
+The M1142 is The M1142 is a Tactical Fire Fighting Truck (TFFT) capable of extinguishing aircraft, petroleum, brush, and structural fires at isolated military installations. The TFFT is based on a HEMTT M977A2 chassis with the heavier duty M1120 LHS HEMTT variant rear suspension. The TFFT contract was awarded to Pierce Manufacturing with Oshkosh Corporation as a subcontractor to Pierce..
+The M977 A2 Cargo Truck is Basic version..
+The M977 A2 EPP is Electrical power plant..
+The M977 A2 LRPT is Large repair parts transporter..
+The M978 A2 is Fuel servicing transporter truck tanker..
+The HEMTT M983 A2 LET is Light equipment transporter..
+The HEMTT M983 A2 is Patriot missile tractor..
+The M984 A2 is Recovery truck..
+The M985 A2 is Cargo and MRLS resupply..
+The M985 A2 GMT is Guided missile transporter..
+The M1120 A2 HEMTT-LHS is Heavy expanded mobility tactical truck..
+The M1977 A2 CBT is Common bridge transporter..
+
+Here is System information for the M1977 HEMTT American 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Common Bridge Transporter (CMT):
+The Alternative Designation is M1977 HEMTT.
+The Type is Heavy Expanded Mobility Tactical Truck (HEMTT)  Common Bridge Transporter (CBT).
+The Manufacturer is Oshkosh Corporation.
+The Configuration is 8x8.
+The Family is Heavy Expanded Mobility Tactical Truck (HEMTT).
+The Crew is 2.
+The Mission is The M1977 Common Bridge Transporter (CBT) is a modified M977 HEMTT Cargo truck equipped with a Load Handling System (LHS). The M1977 CBT was designed to support the Engineer Corps in transporting all bridging assets. The M1977 CBT loads, launches and retrieves the Ribbon Bridge, Improved Ribbon Bridge and Heavy Dry Support Bridge utilizing the Bridge Adapter Pallet, (BAP) and associated bridge erection boats utilizing the Improved Boat Cradle (IBC)..
+The Payload Capacity is 9,979 kg.
+The Winch is The CBT is equipped with a winch to assist in retrieving the deployed equipment..
+The XM15 Bridge Adapter Pallet (BAP) is The XM15 Bridge Adapter Pallet (BAP) is used to adapt the CBT for transport of Combat Engineer bridge equipment as mentioned above. When loaded, the BAP provides the necessary locks, rollers and guides to launch, retrieve and transport the bridge equipment. The BAP consists of the main frame and winch frame assemblies. The BAP is PLS compatible and is transloadable to/from the PLS trailer. The winch frame detaches from the BAP main frame and attaches to the CBT LHS. The winch frame utilizes the truck hydraulic power to winch the bridges during retrieval operations..
+The XM14 Improved Boat Cradle (IBC) is The XM14 Improved Boat Cradle (IBC) is used to adapt the CBT for transport of the Combat Engineer Bridge Erection Boat (BEB). When loaded, the IBC provides the necessary locks, rollers and guides to launch, retrieve and transport the BEB. The IBC is PLS compatible, similar to the flatrack in design and is transloadable to/from the PLS Trailer..
+The XM1977 Common Bridge Transporter (CBT) Details is Cab and Remote Control of LHS
+2 Speed LHS
+20,000 lb. Payload
+8x8 Configuration
+48 in. Fording Capability
+60% Grade
+445 hp DDC Engine.
+The XM15 Bridge Adapter Pallet (BAP) Details is Remote Control (30" range)
+2 Speed Winch Control
+10-25" Minimum Winch Line Speed
+4 Automatic Bay Locks
+Dual Front Lock Release From Cab
+Transloadable Onto PLS Trailer.
+The XM14 Improved Boat Cradle (IBC) Details is Controlled From Cab With Joystick
+Steel Construction
+Minimal Moving Parts
+Minimal Maintenance.
+
+Here is Dimensions information for the M1977 HEMTT American 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Common Bridge Transporter (CMT):
+The Length is 10.17 m.
+The Width is 2.44 m.
+The Height is 2.57 m.
+The Distance Between Equalizer Pivots is 5.33 m.
+The Distance Between Axles, 1st to 2nd is 1.52 m.
+The Distance Between Axles, 2nd to 3rd is 3.81 m.
+The Distance Between Axles, 3rd to 4th is 1.52 m.
+The Weight is 17,191 kg.
+
+Here is Automotive information for the M1977 HEMTT American 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Common Bridge Transporter (CMT):
+The Engine Name is 1 x Detroit Diesel 8V-92TA.
+The Engine Type is 736-cu in(12.06-liter) liquid-cooled, 2-stroke, V-8 diesel.
+The Engine Power is 445 hp at 2,100 rpm.
+The Power-to-Weight Ratio is 16.18 hp/metric ton.
+The Transmission is Allison HT740D automatic transmission with torque converter 4 forward/1 reverse gears.
+The Suspension is 8 x 8 (8 wheels driving, 4-wheel steering); Hendrickson leaf spring w/steel saddle, equalizing beams, and 10-in (254-mm) vertical travel on front and rear; RT340 model rear springs on all but M985 (RT380)  and M984A1 (RT500).
+The Maximum Speed is 88 km/h.
+The Range is 483 km; w/full load at 54 km/h.
+The Fuel Capacity is 589 liters.
+The Tire Size is 16.00R20.
+The Gradient is 60 percent.
+The Side Slope is 30 percent.
+The Fording Depth is 1.23 m.
+The Payload Capacity is 9,979 kg.
+
+Here is Protection information for the M1977 HEMTT American 8x8 Heavy Expanded Mobility Tactical Truck (HEMTT) Common Bridge Transporter (CMT):
+The Armor is A-kit/B-kit; U.S. Army Long Term Armor Strategy (LTAS) compliant.
+The Applique Armor is Available.
+The Active Protection System is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

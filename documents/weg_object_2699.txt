@@ -1,0 +1,121 @@
+This document describes the Panhard VBL French 4x4 All-Terrain Vehicle.
+
+The Panhard Véhicule Blindé Léger ("Light armored vehicle"), also known by its acronym Panhard VBL or simply VBL, is a French wheeled 4x4 all-terrain vehicle built by Panhard. The vehicle is offered in various configurations and was designed to combine the agility of the Peugeot VLTT liaison vehicle with adequate protection against small arms fire, artillery fragments, mines, and NBC weapons. Produced between 1985 and 2010, the vehicle has been used by the French Army and other European, African, and Central American armies in various conflicts since the 1980s.
+
+The French VBL program started in 1978. The French Army was looking for a light reconnaissance vehicle, intended to work with the AMX-10 RC, the Hotchkiss M201 being obsolete when compared with the Soviet BRDM-2s. The new vehicle needed to be armed with a single machine gun for reconnaissance (recce) or with the MILAN missile for anti-tank combat, while being protected from NBC hazards and small arms fire. Both Renault and Panhard proposed a prototype, the trials beginning in 1982. Before its selection by the French armed forces in 1985, the Panhard model was ordered by the Mexican Army in 1984. In 1985, pre-production of 15 vehicles for the French Army was launched while the VBL started its active operational service in the French Army in 1990. The French Army ordered 569 VBLs in 1990, 330 between 1994 and 1997, and 700 VB2L (lengthened variant) before 2004. The VBL, sold abroad as the ULTRA M-11 has been produced at Marolles-en-Hurepoix, with around 10 vehicles being produced each month in 2004. The 1,500th VBL was produced in 2001 and the last VBL of the 2,600 VBLs left the plant in 2010.
+
+The VBL has two compartments: a motor bay, placed forward to protect the second compartment, which is for the crew. Its compact internal dimensions led to the design of a lengthened version of the VBL. The crew of the VBL is protected against NBC weapons. The recce versions have two crew members while the anti-tank versions have a crew of three.
+
+The French Army version of the VBL is equipped with a Peugeot XD3T turbo-diesel engine. This engine is used on many civilian cars, such as the Peugeot 505, Peugeot 605, and Talbot Tagora and the VBL used many other standard civilian components. Its 95 hp (71 kW) power and 29.5 hp/t (22.0 kW/t) power ratio enable the VBL to speed at 95 km/h (59 mph). It has a fuel consumption of 16 liters (3.5 imp gal; 4.2 US gal) per 100 km (62 mi). Its range of 600 km (370 mi) can be extended to 800 km (500 mi) by two external fuel tanks. Designed to be lighter than 3.5 t (3.4 long tons; 3.9 short tons), the mass of the VBL has increased to 4 t (3.9 long tons; 4.4 short tons). The VBL is fully amphibious and drives at 5.4 km/h (3.4 mph) in water; it is also air transportable by C-130, C-160, Il-76, and A400M. It can be transported underslung by larger helicopters, such as the AS332 Super Puma, and may also be para-dropped.
+
+Here is Variants information for the Panhard VBL French 4x4 All-Terrain Vehicle:
+The VBL AT4CS is A54CS 84-mm ATGM carrier with range only to 250 m with ring-mounted 7.62-mm
+machine gun
+.
+The VBL SOURCE is Upgraded optics.
+The VBL Information is Improved target designation.
+The VAP Deep Penetration Vehicle is Long wheel-base for deep
+reconnaissance missions
+.
+The ULTRAV M11 is Stretched for NBC detection.
+The Wasp Milan ER is Remote weapon station with a 1-tube ATGM launcher &
+7.62-mm machine gun
+.
+The VBL Canon is 20-mm remote turret.
+The VBL Ingwe (South Africa) is Armed Long Range Reconnaissance Turret with 4 Ingwe ATGM launchers.
+The MPCV (Multi-purpose Combat Vehicle) is VBR chassis with 4 rail missile launcher turret with 8 missiles
+& 12.7-mm machine gun
+.
+The VBL Tourelle Fermee is Remote turret that can fire a 12.7-mm MG, 7.62-mm MG, or
+40-mm AGL
+.
+The VBR is Stretch variant can carry 5 soldiers; remote weapon station with M2HB MG &
+smoke grenade launchers
+.
+The VBL Eryx is Short-range (600 m) AT carrier with secondary 7.62-mm
+machine gun
+.
+The VB2L Poste de Commandement is Command version with extra radios, map board, & 7.62-mm
+MG for self-protection
+.
+The VBL TOW (Greece) is Single tube with 4 rounds with range to 3,750 m.
+The VBL Milan is 1 Milan firing unit with 6
+missiles with range to 2 km
+.
+The VBL Samantha is Griffon surveillance radar to designate SAM missile & AA
+artillery targets
+.
+The VBL Anti-Tank is Equipped with the HOT or TOW turret, but also can be integrated with Kornet or
+Ingwe missile systems
+.
+The VBL Albi is Fires Mistral/Mistral 2 SAMs.
+The VBL with PL127 Turret is 12.7-mm MG or 40-mm AGL.
+
+Here is Dimensions information for the Panhard VBL French 4x4 All-Terrain Vehicle of the System:
+The Height, Overall  is 1.70 (2.14 to top of MG).
+The Length, Chassis Overall  is 3.7.
+The Width, Overall  is 2.02.
+The Weight is 3.5 to 4 tonnes.
+
+Here is Automotive information for the Panhard VBL French 4x4 All-Terrain Vehicle:
+The Engine Name is XD 3T.
+The Engine Type is Peugeot liquid-cooled, turbo- charged, in-line, 4-cylinder
+diesel
+.
+The Fording Depth  is Amphibious.
+The Range, Cruising  is 600 (max fuel variant to 800,
+1000 with external tanks
+.
+The Speed, Maximum Road  is 95.0.
+The Speed , Average Cross-Country is INA.
+The Speed , Maximum Off-Road is INA.
+
+Here is System information for the Panhard VBL French 4x4 All-Terrain Vehicle of the Main Weapon System:
+The Name is AA-52 machine gun.
+The Type is General-purpose machine gun.
+The Caliber is 7.5mm or 7.62mm.
+The Cartridge is 7.5×54mm French
+7.62×51mm NATO.
+The Action is Lever-delayed blowback.
+The Rate of Fire is 900.
+The Muzzle Velocity is 830.
+The Maximum Effective Firing Range is 600.
+The Effective Firing Range is 3,200.
+The Feed System is 50-round non-disintegrating belt.
+The Sights is Iron
+Removable APX (SOM) telescopic sights
+IR scope.
+
+Here is Ammunition information for the Panhard VBL French 4x4 All-Terrain Vehicle of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.5mm or 7.62mm.
+The Cartridge is 7.5×54mm French
+7.62×51mm NATO.
+
+Here is Anti-Tank Weapon System information for the Panhard VBL French 4x4 All-Terrain Vehicle:
+The Name is ERYX.
+The Type is short-range portable SACLOS-based wire-guided anti-tank missile (ATGM).
+The Manufacturer is MBDA, MKEK (under license).
+The Produced is 1993.
+The Length is 0.905.
+The Diameter is 0.136.
+The Warhead Type is Tandem HEAT.
+The Warhead Weight is 3.8 kg Tandem HEAT.
+The Weight, Total is 13.0 kg missile and container; firing post 4.5 kg.
+The Penetration is 900 mm RHA behind reactive armour, or 2.5 m through concrete).
+The Operational Range is 50–600 m.
+The Speed is 18 m/s (65 km/h) at launch to 245 m/s (880 km/h) at 600 m.
+The Guidance System is SACLOS wire.
+The Launch Platform is Individual, Vehicle.
+
+Here is Protection information for the Panhard VBL French 4x4 All-Terrain Vehicle:
+The Armor is STANAG level 1 (protection against 7.62×51 NATO rounds and shrapnel).
+The Active Protection System is No.
+The Armor, Applique  is No.
+The Armor, Explosive Reactive  is No.
+The Armor, Turret Front  is 5-11.5.
+The NBC Protection is Collective.
+The Self-Entrenching Blade is No.
+The Smoke Equipment is Yes.
+The Survivability Equipment is Increased mine protection, Kevlar blankets.
+

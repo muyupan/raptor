@@ -1,0 +1,32 @@
+This document describes the TBR-142 Chinese Artillery Communication System.
+
+The  TBR-142 Chinese Artillery Communication System was developed as part of the ZXY88-200 Artillery Command and Control System in early 90’s and it functions as the communication section of the system.  It also could work independently as communication devices for artillery units.  The system mainly consists TBR-142(I) VHF Transceiver, TBR-142(II) Commanding Device, TBR-142(IIID) Multifunction telephone and TBR-142(IIIG) Control Unit for Anti-Aircraft Artillery system.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the TBR-142 Chinese Artillery Communication System:
+The Alternative Designation is TBR-142.
+The Type is Artillery Communication System.
+The Crew is 1.
+The Package is The system mainly consists TBR-142(I) VHF Transceiver, TBR-142(II) Commanding Device, TBR-142(IIID) Multifunction telephone and TBR-142(IIIG) Control Unit for Anti-Aircraft Artillery system..
+The Operation is (1) When works independently:
+For gunner, the system consists a TBR-142(I) VHF transceiver and a TBR-142(IIID) multifunction telephone.  
+For commander, the System consist a TBR-142(II) Commanding Device which is commander’s multifunction telephone and a transceiver (either a TBR-142(I), or a TBR120 VHF transceiver). (2) When works within ZXY88-200 Artillery Command and Control System:
+In ground artillery system:
+For Gunner, in addition to TBR-142(I) VHF transceiver and a TBR-142(IIID) multifunction telephone, there is a Gunner’s data console come from ZXY88-200 system.  This device is connected to the TBR-142(IIID) multifunction telephone and display data sent from commander. 
+For the commander, the TBR-142(II) Commander’s multifunction telephone and transceiver are connected to ZXY88-200 as the communication device.
+In Anti-Aircraft Artillery system:
+For Gunner, in addition to TBR-142(I) VHF transceiver and a TBR-142(IIID) multifunction telephone, there is a TBR-142(IIIG) device which connect the TBR-142(IIID) and the anti-aircraft artillery piece and control the gun’s aiming and firing..
+
+Here is Dimensions information for the TBR-142 Chinese Artillery Communication System of the TBR-142(I) VHF FM Transceiver:
+The Length is 217 mm.
+The Width is 135 mm.
+The Height is 58 mm.
+The Weight is 2.7 kg.
+
+Here is Dimensions information for the TBR-142 Chinese Artillery Communication System of the TBR-142(IIID) Multifunction Telephone:
+The Length is 217 mm.
+The Width is 135 mm.
+The Height is 58 mm.
+The Weight is 2.7 kg.
+

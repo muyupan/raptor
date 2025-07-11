@@ -1,0 +1,155 @@
+This document describes the Duke Class (Type 23 Class) British Frigate.
+
+The Duke Class (Type 23 Class) British Frigate is a class of frigates built for the United Kingdom's Royal Navy. The ships are named after British Dukes, thus leading to the class being commonly known as the Duke class.
+
+This equipment has proliferated into the following countries: Chile, United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the Duke Class (Type 23 Class) British Frigate:
+The Norfolk is Navy: Royal Navy 
+Commissioned: 1990
+Status: Transferred to Chilean Navy in 2006, and renamed Almirante Cochrane..
+The Almirante Cochrane is Navy: Chilean Navy 
+Commissioned: 2006
+Status: Active
+Note: Transferred from Royal Navy, and renamed Almirante Cochrane..
+The Marlborough is Navy: Royal Navy 
+Commissioned: 1991
+Status: Transferred to Chilean Navy in 2008, and renamed Almirante Condell..
+The Almirante Condell is Navy: Chilean Navy 
+Commissioned: 2008
+Status: Active
+Note: Transferred to Chilean Navy, and renamed Almirante Cochrane..
+The Grafton is Navy: Royal Navy 
+Commissioned: 1997
+Status: Transferred to Chilean Navy in 2007, and renamed Almirante Lynch..
+The Almirante Lynch is Navy: Chilean Navy 
+Commissioned: 2007
+Status: Active
+Note: Transferred to Chilean Navy, and renamed Almirante Cochrane..
+The Argyll is Navy: Royal Navy 
+Commissioned: 1991
+Status: Active.
+The Lancaster is Navy: Royal Navy 
+Commissioned:1992
+Status: Active.
+The Iron Duke is Navy: Royal Navy 
+Commissioned: 1993
+Status: Active.
+The Monmouth is Navy: Royal Navy 
+Commissioned: 1993
+Status: Decommissioned in 2021.
+The Montrose is Navy: Royal Navy 
+Commissioned:1994
+Status: Active.
+The Westminster is Navy: Royal Navy 
+Commissioned:1994
+Status: Active.
+The Northumberland is Navy: Royal Navy 
+Commissioned: 1994
+Status: Active.
+The Richmond is Navy: Royal Navy 
+Commissioned: 1995
+Status: Active.
+The Somerset is Navy: Royal Navy 
+Commissioned: 1996
+Status: Active.
+The Sutherland is Navy: Royal Navy 
+Commissioned: 1997
+Status: Active.
+The Kent is Navy: Royal Navy 
+Commissioned: 2000
+Status: Active.
+The Portland is Navy: Royal Navy 
+Commissioned: 2001
+Status: Active.
+The St Albans is Navy: Royal Navy 
+Commissioned: 2002
+Status: Active.
+
+Here is System information for the Duke Class (Type 23 Class) British Frigate:
+The Alternative Designation is Duke Class; Type 23 Class.
+The Type is Frigate.
+The Builder is Yarrow Shipbuilders, Glasgow.
+The Crew is 185 with accommodation for up to 205.
+
+Here is Dimensions information for the Duke Class (Type 23 Class) British Frigate:
+The Length is 133 m.
+The Height is INA.
+The Beam is 16.1 m.
+The Draft is 5.5 m.
+The Displacement, Standard is 3,556 tons.
+The Displacement, Full Load is 4,267 tons.
+
+Here is Propulsion System information for the Duke Class (Type 23 Class) British Frigate:
+The Engine Name is 2 x RR Spey SM1A (F 229–F 236) or SM1C (F 237 onwards).
+The Engine Type is Gas Turbines.
+The Engine Power is 31,100 hp.
+The Generator is 4 × 1,510 kW (2,025 hp) Paxman Valenta 12CM diesel generators (Non-PGMU ships)
+4 × 1,650 kW (2,210 shp) MTU 12V4000 M53 diesel generators (PGMU ships).
+The Maximum Range is 7,800 n miles (14,445.6 km) at 15 kt (27.8 km/h).
+The Maximum Speed is 28 kt (51.9 km/h).
+
+Here is Missile Weapon System #1 information for the Duke Class (Type 23 Class) British Frigate of the Missile Weapon Systems:
+The Name is 8 x McDonnell Douglas RGM-84D Harpoon Block IC.
+The Type is Surface-to-Surface Missile.
+The Active Radar Homing is 124+ km.
+The Speed is Mach 0.85.
+The Warhead is 221.6 kg.
+
+Here is Missile Weapon System #2 information for the Duke Class (Type 23 Class) British Frigate of the Missile Weapon Systems:
+The Name is 1 × 32-cell Sea Ceptor GWS 35 Vertical Launching System (VLS).
+The Type is Surface-to-Air Missile.
+The Maximum Range is 25 km.
+The Speed is Mach 3.
+The Warhead is High-explosive blast fragmentation warhead with proximity and impact fuze.
+The Missile Basic Load is 32.
+
+Here is Main Gun System #1 information for the Duke Class (Type 23 Class) British Frigate of the Gun Weapon Systems:
+The Name is 1 x Vickers Mk 8 Mod 1.
+The Type is Naval Gun.
+The Caliber is 114 mm.
+The Rate of Fire is 24 rds/min.
+The Maximum Range is 27.5 km.
+The Weight of Shell is 21 kg.
+
+Here is Main Gun System #2 information for the Duke Class (Type 23 Class) British Frigate of the Gun Weapon Systems:
+The Note: is 2 × 30 mm DS30M Mk2 guns, or, 2 × 30 mm DS30B guns.
+
+Here is Main Gun System #3 information for the Duke Class (Type 23 Class) British Frigate of the Gun Weapon Systems:
+The Note: is 2 × Miniguns.
+
+Here is Main Gun System #4 information for the Duke Class (Type 23 Class) British Frigate of the Gun Weapon Systems:
+The Note: is 4 × General-purpose machine guns.
+
+Here is Torpedoes' System information for the Duke Class (Type 23 Class) British Frigate:
+The Launcher is 2 × twin 324 mm Sting Ray torpedo tubes..
+
+Here is Radar Systems information for the Duke Class (Type 23 Class) British Frigate:
+The Air/Surface Search Radar is 1 x Type 997 (BAE Systems Artisan); 3D; E/F-band..
+The Surface Search Radar is 1 x Kelvin Hughes SharpEye; E/F-band..
+The Navigation Radar is 1 x Kelvin Hughes Type 1007; I-band..
+The IFF is 1010/1011 or 1018/1019..
+
+Here is Sonar Systems information for the Duke Class (Type 23 Class) British Frigate:
+The Active Search and Attack Sonar is 1 x Ferranti/Thomson Sintra Type 2050; bow-mounted; active search and attack (being replaced by Ultra Electronics Sonar 2150 starting with F 79)..
+The Towed Passive Array Sonar is 1 x Thales Type 2087 (F 78, 79, 81, 82, 83, 237, 238, 239); active low-frequency (500 Hz) towed body with passive array (100 Hz)..
+
+Here is Fire Control System information for the Duke Class (Type 23 Class) British Frigate:
+The Combat Data Systems is BAE Systems Insyte Surface Ship Command System (DNA 2). Links 11 and 16. 2 Astrium SCOT 5 satcoms. Bowman. Xeres MCS. RNCSS..
+The Weapon Control System is BASE GSA 8B/GPEOD TV/IR/Laser director [Ref 10]. GWS 60 (for SSM). ASCG for 30 mm..
+
+Here is Aviation Faculties information for the Duke Class (Type 23 Class) British Frigate:
+The Flight Deck is Yes.
+The Hanger is Yes.
+The Aircraft (Options 1) is 1 × Wildcat HMA2, armed with:
+2 × anti-submarine torpedoes (Martlet and Sea Venom ASM initially deployed with RN carrier strike group helicopters in 2021)..
+The Aircraft (Options 2) is 1 × Westland Merlin HM2, armed with;
+4 × anti-submarine torpedoes..
+
+Here is Protection information for the Duke Class (Type 23 Class) British Frigate:
+The Hull Armor is INA.
+The Physical Countermeasures is Outfit DLH; 4 6-barrelled launchers; IR flares, chaff and active RF decoys. Outfit DLF 3B offboard decoys. Ultra Electronics Sonar 2170 surface ship torpedo defense system; towed detection array/decoy; decoy launchers..
+The Electronic Countermeasures is RESM: Racal UAT; intercept.
+CESM: Babcock Hammerhead (to be replaced by Babcock Ardent Wolf).
+The NBC Water Washdown System is Yes.
+

@@ -1,0 +1,58 @@
+This document describes the Giraffe AMB Swedish Air Surveillance and Ground Based Air Defense.
+
+Giraffe AMB delivers key capabilities for short to medium range Ground Based Air Defense (GBAD), creating time to secure freedom of maneuver and support air superiority. The combination of a powerful surveillance radar and integrated C3 functionality provide forces with swift understanding of the air situation, enabling immediate and effective responses to changing threats and new tactics in shifting operational conditions.
+
+Giraffe AMB monitors the air volume 360° for air targets from supersonic fighters, cruise missiles and helicopters, down to small, slow and low-flying UAVs. It is simultaneously capable to locate and warn for incoming rockets, artillery and mortar rounds. Due to the systems high update rate, 1-second target revisit time, and tracking accuracy Giraffe AMB provides accuracy for real-time control and engagement-quality target data for VSHORAD to MRAD effectors.
+
+The Saab Giraffe AMB consist of a radar sensor that operates at the C-band, and a scalable Command, Control & Communication solution housed in a fully self-contained 20ft ISO-container cabin. A hydraulically operated mast elevates the Antenna to 12 m above ground, providing improved low altitude radar coverage and freedom of deployment.
+
+
+This equipment has proliferated into the following countries: Australia, Canada, Estonia, France, Singapore, Sweden, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the Giraffe AMB Swedish Air Surveillance and Ground Based Air Defense:
+The Giraffe 40 is This is a short-range (40 kilometres (25 mi) instrumented) air defense radar with command and control capability. It employs a folding antenna mast that extends to a height of 13 metres (43 ft) when deployed and can be integrated with an Interrogation Friend or Foe (IFF) capability. Coverage is stated to be from ground level to 10,000 metres (33,000 ft) in altitude. In Swedish service the radar is designated PS-70 and PS-701 and provides target data to RBS-70 SHORADS missiles and 40mm Bofors guns. A more powerful version with a 60 kW transmitter is known commercially as Super Giraffe and in Swedish service as PS-707. These radars are no longer marketed..
+The Giraffe 50AT is This is the model used in the Norwegian NALLADS air defense system which combines the radar and RBS-70 missiles with 20 mm anti-aircraft guns to provide low-level air defense for the combat brigades of the Norwegian army. Mounted on a BV-206 all-terrain tracked vehicle this version has an instrumented range of 50 km (31 mi). The antenna extends to a height of 7 metres (23 ft) and the system can control up to 20 firing units of guns or missiles or a combination of both. The Command and Control system features fully automatic track initiation, target tracking, target identification (IFF), target classification and designation, hovering helicopter detection threat evaluation and handling of "pop-up" targets. It can also exchange data with Giraffe 75 or AMB systems as part of a larger network.
+The Giraffe 75 is This features a 13 metres (43 ft) antenna mast and is normally carried on a 6x6 5-ton cross-country truck which carries the radar and command and control shelter. Instrumented range is 75 km (47 mi) and altitude coverage extends from ground-level to 10,000 metres (33,000 ft). An optional add-on unit extends the radars coastal defense capabilities. In Swedish service the radar is designated PS-90.[3] In the Greek Air Force Giraffe 75 is used in combination with Contraves (now Rheinmetall defense) Skyguard/Sparrow fire control systems. 1 Giraffe typically controls 2 Skyguard systems each with 2 twin 35 mm GDF-005 guns and 2 Sparrow surface-to-air missile launchers..
+The Giraffe S is Optimized as a mobile radar for un-manned remote-controlled applications as a "gap-filler" in air defense early warning systems concentrating on small, low-flying targets over a long distance. It can also be employed as a coastal surveillance radar where targets are small surface vessels and sea-skimming missiles or aircraft. A new antenna extends range coverage to 180 km (110 mi) with altitude coverage from ground level to 6,000 metres (20,000 ft). The antenna mast extends to 8 metres (26 ft)..
+The Giraffe AMB is Giraffe Agile Multi Beam is a passive electronically scanned array radar, providing multi-beam 3-Dimensional air coverage at 5.4 to 5.9 GHz with instrumented ranges of 30 km (19 mi), 60 km (37 mi) and 100 km (62 mi), the altitude coverage is extended from ground-level to 20,000 metres (66,000 ft) with 70-degree elevation coverage. Data rate is 1-scan per-second. Its maintained pulse density suppresses high cluttering in adverse weather conditions. Ultra-low antenna side-lobes combined with pulse-to-pulse and burst-to-burst frequency agility provides some resistance to jamming. As in previous Giraffe radars automatic hovering helicopter detection is provided as is a rocket, artillery and mortar locating function, allowing the radar to detect incoming rounds and give 20 seconds or more of warning before impact. Giraffe AMB is the principal sensor of the Swedish RBS 23 BAMSE air defense missile system but is available for many other applications. The Giraffe AMB can be delivered with ground surveillance options fitted. A skilled crew can deploy the radar in around 10 minutes and recover it in around 6 minutes..
+The ARTE 740 is This is a coastal defense radar based on the Giraffe 75 antenna and Giraffe AMB processing system optimized for surface and low-altitude coverage for the Swedish Amphibious Forces (formerly the Coastal Artillery). It is mounted on a MOWAG Piranha 10x10 armored vehicle. 6 systems are in service..
+The Sea Giraffe AMB is Saab's Sea Giraffe AMB is the naval variant of their Giraffe radar with 3D AMB technology. It can detect air and surface targets from the horizon up to a height of 20,000 metres (66,000 ft) at elevations up to 70°, and can simultaneously handle multiple threats approaching from different directions and altitudes, including diving anti-ship missiles. Also, it is specialized for rapidly detecting small, fast moving targets at all altitudes and small surface targets in severe clutter. Sea Giraffe AMB is installed on the Republic of Singapore Navy's upgraded Victory-class corvette and US Navy's Independence class of Littoral Combat Ships, and has the designation AN/SPS 77 V for LCS 2 and 4, and AN/SPS 77 V for LCS 6 and higher. It has also been chosen for the Royal Canadian Navy's new Protecteur-class Joint Support Ships. The radar has an instrumented range of 180 kilometres. Its roles include:
+
+*Air surveillance and tracking
+*Surface surveillance and tracking
+*Target identification for weapon systems
+*High-resolution splash spotting.
+The AESA is Saab Electronic Defence Systems (EDS) in May 2014 unveiled two new classes of active electronically scanned array (AESA) radar—three land-based systems (Giraffe 1X, Giraffe 4A and Giraffe 8A) and two naval variants (Sea Giraffe 1X and Sea Giraffe 4A)..
+The Giraffe 8A is At the top end of the range is the Giraffe 8A, a long-range IEEE S-band (NATO E/F) 3D sensor that can be produced in fixed, transportable and fully mobile configurations.
+
+Intended primarily for remote operation as part of an integrated air defence network, Giraffe 8A can also be operated locally. It has an instrumented range of 470 km and an altitude capability of more than 40,000m, bringing true long-range air defence capability to the Saab radar family for the first time. Giraffe 8A produces 15 stacked beams to provide elevation coverage from ground level to more than 65°. It can operate in a continuous 360° scan mode, rotating mechanically at 24rpm, or can be steered electronically across an operator-specified sector of 40° to 100°. More than 1,000 air defence tracks can be maintained, and the system also has anti-ballistic missile capability, in which case more than 100 tracks can be followed.
+
+Saab has paid special attention to Giraffe 8A's electronic counter-countermeasures properties. The radar generates very low sidelobes and incorporates sophisticated frequency agility in pulse-to-pulse, burst-to-burst and scan-to-scan regimes. It also switches and staggers pulse repetition frequency and transmits random jitter to further confuse countermeasures. It automatically selects the least jammed frequencies and can transmit intermittently or randomly. The radar offers a passive detection and tracking capability against jammers..
+The Giraffe 4A is While the Giraffe 8A occupies the high end of the family, Saab has introduced new radars in the medium-range category in the form of Giraffe 4A and Sea Giraffe 4A for naval use.
+
+Employing similar S-band technology to the larger radar, Giraffe 4A offers true 3D multirole capability, combining the air defence and weapon locating tasks in a single unit.
+
+Able to be airlifted in a single C-130 load, Giraffe 4A can be deployed by two people in less than 10 minutes. It can operate as a standalone..
+The GIRAFFE 1X is To complete its new line-up, Saab has introduced two short-range radars, Giraffe 1X and Sea Giraffe 1X. Working in the IEEE X-band (NATO I-band), Giraffe 1X is intended primarily as a highly mobile radar that can work with very short-range air defence systems in the battlefield or at sea.
+
+Weighing less than 300 kg, Giraffe 1X can be mounted on a small vehicle or vessel or in fixed installations such as on a building or a mast. The radar has a sense-and-warn function and can be optionally configured for weapon location..
+
+Here is Dimensions information for the Giraffe AMB Swedish Air Surveillance and Ground Based Air Defense:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+
+Here is Automotive information for the Giraffe AMB Swedish Air Surveillance and Ground Based Air Defense:
+The Note is INA.
+
+Here is Radar System information for the Giraffe AMB Swedish Air Surveillance and Ground Based Air Defense:
+The Name is Giraffe AMB.
+The Type is Stacked beam 3D radar.
+The Antenna Type is 3D phased array, digital beam forming.
+The Frequency is C (G/H)-band.
+The Elevation Coverage is > 70 degrees.
+The Rotation Rate is 60 RPM.
+The Search Volume is 360° or in a sector.
+The Instrumented Range is 120 km.
+

@@ -1,0 +1,42 @@
+This document describes the Bell 412EP American Utility Helicopter.
+
+The Bell 412 is a utility helicopter of the Huey family manufactured by Bell Helicopter. It is a development of the Bell 212, with the major difference being the composite four-blade main rotor.
+
+Development began in the late 1970s with two Bell 212s being converted into 412 prototypes. An advanced four-blade main rotor with a smaller diameter replaced the 212's two-blade rotor. A Bell 412 prototype first flew in August 1979. The initial model was certified in January 1981 with deliveries commencing in the same month. The 412 model was followed by the 412SP (Special Performance) version featuring larger fuel capacity, higher takeoff weight and optional seating arrangements. In 1991, the 412HP (High Performance) variant with improved transmission replaced the SP version in production. The current production version, 412EP (Enhanced Performance), is equipped with a dual digital automatic flight control system. In 2013 Bell introduced the 412EPI which includes an electronic (Digital) engine control for a PT6T-9 engine upgrade, and a glass cockpit display system similar to the Bell model 429. Also featured is a Garmin touchscreen navigation system, and the BLR Strake and Fast Fin upgrades for improved hover performance. Over 700 Model 412s (including 260 by AgustaWestland) have been built.
+
+This equipment has proliferated into the following countries: Algeria, Argentina, Australia, Azerbaijan, Bosnia and Herzegovina, Brazil, Cameroon, Canada, Chile, Colombia, Dominican Republic, El Salvador, Eritrea, Finland, Ghana, Guatemala, Guinea, Honduras, Indonesia, Iran (Islamic Republic of), Italy, Jamaica, Lesotho, Mexico, Montenegro, Morocco, Nigeria, Norway, Pakistan, Panama, Peru, Philippines, Saudi Arabia, Slovenia, South Korea (Republic of Korea), Sri Lanka, Thailand, Turkey, United Arab Emirates, United Kingdom of Great Britain and Northern Ireland, Uruguay, Venezuela (Bolivarian Republic of), Yemen, Zimbabwe.
+
+Here is System information for the Bell 412EP American Utility Helicopter:
+The Alternative Designation is Bell 412.
+The Type is Utility Helicopter.
+The Crew is 1.
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 2.
+The Number of Engines is 1.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the Bell 412EP American Utility Helicopter:
+The Length is 17.09 m.
+The Main Rotor Diameter is 14.02 m.
+The Main Rotor Area is 154.4 m2.
+The Height is 4.57 m.
+The Empty Weight is 3,079 kg.
+The Maximum Takeoff Weight is 5,398 kg.
+
+Here is Automotive information for the Bell 412EP American Utility Helicopter:
+The Engine Name is 1 × Pratt & Whitney Canada PT6T-3D Twin-Pac or PT6T-3DF Twin-Pac.
+The Engine Type is Turboshaft.
+The Engine Power is 1,250 shp (930 kW).
+The Maximum Speed is 260 km/h.
+The Cruise Speed is 226 km/h.
+The Range is 980 km.
+The Service Ceiling is 6,100 m.
+The Rate of Climb is 6.9 m/s.
+
+Here is Protection information for the Bell 412EP American Utility Helicopter:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The Counter Measures (Chaff/Flares) is No.
+

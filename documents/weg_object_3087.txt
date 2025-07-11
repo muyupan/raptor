@@ -1,0 +1,82 @@
+This document describes the T-64E Ukrainian Main Battle Tank (MBT).
+
+The T-64E Ukrainian Main Battle Tank (MBT) is a refurbished and upgraded version of the aging T-64BV MBT.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the T-64E Ukrainian Main Battle Tank (MBT):
+The Alternative Designation is T-64E.
+The Type is Main Battle Tank (MBT).
+The Manufacturer is Malyshev Tank Repair Plant.
+The Family is T-64 Family.
+The Crew is 3.
+
+Here is Dimensions information for the T-64E Ukrainian Main Battle Tank (MBT):
+The Length (Gun Forward) is 9.23.
+The Length (Hull) is 6.54.
+The Width is 3.42.
+The Height is 2.17.
+The Weight, Combat is 42.7.
+The Ground Pressure is INA.
+
+Here is Automotive information for the T-64E Ukrainian Main Battle Tank (MBT):
+The Engine Name is 5TDFE Diesel.
+The Engine Type is Diesel.
+The Engine Power is 850.
+The Maximum Range is 500.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is 50.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.8.
+The Trench is 2.72.
+The Fording Depth (Without Preparation) is 1.4.
+The Fording Depth (With Preparation) is 5.0.
+
+Here is System information for the T-64E Ukrainian Main Battle Tank (MBT) of the Main Gun:
+The Name is 1 x 125 mm smoothbore gun.
+The Type is smoothbore gun.
+The Caliber is 125 mm.
+The Autoloader is Yes.
+The Maximum Effective Firing Range is 2.8 km with APFSDS rounds and 2.6 km with HEAT/HE-FRAG rounds..
+
+Here is Ammunition information for the T-64E Ukrainian Main Battle Tank (MBT) of the Main Gun:
+The Type is APFSDS, HEAT/HE-FRAG.
+The Caliber is 125 mm.
+The Basic Load is 37 rounds.
+
+Here is Coaxial Weapon System information for the T-64E Ukrainian Main Battle Tank (MBT):
+The Note is 1 x Remote Controlled 7.62mm General-Purpose Machine Gun..
+
+Here is Auxiliary Weapon System information for the T-64E Ukrainian Main Battle Tank (MBT):
+The Note is 1 x Remote Controlled GSh-23L 23mm twin-barrel cannon..
+
+Here is Fire Control information for the T-64E Ukrainian Main Battle Tank (MBT):
+The Name is IG43 fire-control.
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is TPN-1-TPV Ukrainian night sight.
+The Thermal Sight Gunner is TPN-1-TPV Ukrainian night sight.
+The Main Gun Stabilization is 2-Plane, 2Eh26M armament stabiliser.
+The Fire on the Move is Yes.
+The Rangefinder is two-axis stabilised IG42 laser rangefinder sight.
+The Ballistic Computer is 1V517 tank ballistic computer.
+The Vision Blocks is 1 x  TPNO-16, 2 x TPNA-65 day vision blocks.
+The PZU-5 monocular periscopic sight is Available.
+The Searchlight is Luna infrared searchlight.
+
+Here is Protection information for the T-64E Ukrainian Main Battle Tank (MBT):
+The Hull Armor is Cast and welded steel armor. The T-64E has improved protection. It is claimed that front arc is equivalent to 750 mm of rolled homogenous armor. The tank is also fitted with built-in Duplet explosive reactive armor of new generation. It provides protection against RPG rounds and anti-tank guided missiles with tandem warheads..
+The Turret Armor is Cast and welded steel armor with Nizh ERA.
+The Armor Protection (Front) is front arc is equivalent to 750 mm of rolled homogenous armor..
+The Applique Armor is Available.
+The Self-Entrenching Blade is KMT-4 roller or the KMT-6 track width mine plough,.
+The Explosive Reactive Armor is Built-in Duplet explosive reactive armor of new generation. It provides protection against RPG rounds and anti-tank guided.
+The Number of ERA Plates is 200-300.
+The Active Protection System is Yes.
+The Mine Clearing is Roller-plow available.
+The NBC Protection is Yes.
+The Smoke Equipment is "Tucha" 81-mm smoke grenade launchers on the left of the turret..
+The IR Signature is INA.
+The Automatic Fire Suppression Systems. is Available, PPO fire detection and suppression system,.
+

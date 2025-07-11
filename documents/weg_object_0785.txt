@@ -1,0 +1,37 @@
+This document describes the FlyEye Mini Polish Unmanned Aerial Vehicle (UAV).
+
+The FlyEye Mini Polish Unmanned Aerial Vehicle (UAV) is a modular system characterized by the ease of assembly and disassembly. Launch readiness can be achieved in less than 10 minutes. Hand-launch with no additional equipment which allows it to be operated in tight spaces and confined areas.
+
+The observation head with two cameras (visible light and IR) attached under the fuselage of the FLYEYE mini UAV provides significantly better observation options and a function for rapid switching between the two video feeds.
+
+FLYEYE allows for integration with light precision armament and an acoustic vector sensor to detect source of fire. Depending on its purpose, FLYEYE can be integrated with other observation heads. The standard dual observation head with daylight and infrared camera equipment can be modified depending on needs and destination.
+
+This equipment has proliferated into the following countries: Poland, Ukraine.
+
+Here is System information for the FlyEye Mini Polish Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is FlyEye Mini.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is WB Group.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Payload Capacity is INA.
+The Reconnaissance Equipment is Installing two cameras in the surveillance payload – this allows for quickly switching of the video imaging..
+The Launching System is Due to application of propulsion with static thrust compensating the weight of the airframe the aerial vehicle can be hand launched. It simplifies logistic issues of the system (no need for a launcher). An additional advantage of the system is the possibility to launch the aerial vehicle in a very confined space, such as built – up urban areas or a forest clearing..
+The Recovery System is Landing of the system consists in automatic ejection of a container holding the batteries and the surveillance payload, which descent and land on a parachute. The moment of ejection of the container is calculated by an on-board computer in such way that it allows for secure deployment of the parachute and secure descent until touch down in pre-programmed landing point. The accuracy of landing remains within 10 meters. Such solution provides an effective protection for the most expensive element of the system, that is the surveillance payload but it also allows for full maneuverability of the aerial vehicle during the final stage of flight at minimum speed..
+
+Here is Dimensions information for the FlyEye Mini Polish Unmanned Aerial Vehicle (UAV):
+The Length is 1.8 m.
+The Wingspan is 3.6 m.
+The Height is INA.
+The Maximum Takeoff Weight is 12 kg.
+
+Here is Automotive information for the FlyEye Mini Polish Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Maximum Speed is 120 km/h.
+The Cruising Speed is 60 - 120 km/h.
+The Service Ceiling is 4,000 m.
+The Maximum Distance is 200 km.
+The Endurance is 2.5 hours.
+

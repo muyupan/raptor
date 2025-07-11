@@ -1,0 +1,102 @@
+This document describes the K21-105 South Korean Amphibious Light Tank.
+
+The K21-105 is a new light tank. It was jointly developed by CMI Defense of Belgium and Doosan DST of South Korea. In 2014, CMI Defense and Doosan DST publicly revealed the K21-105, a light tank version of the K21 chassis fitted with a CMI Defense CT-CV 105HP turret. Referred to as a medium tank by its developers, the vehicle weighs around 25 tons with a 3-man crew and is cheaper to produce and maintain, and has better mobility than actual tanks. The vehicle's main role is direct fire support for infantry against armored and soft-skinned vehicles, buildings, and fortifications. The main armament is a 105 mm rifled low-recoil gun that fires standard NATO and newly developed smart ammunition with a max direct fire range of 4 km (2.5 mi); although the gun would not be effective against modern main battle tanks, it can defeat older tanks that North Korea still has in widespread service.
+
+This equipment has proliferated into the following countries: South Korea (Republic of Korea).
+
+Here is Variants information for the K21-105 South Korean Amphibious Light Tank:
+The K21 is The K-21 is lighter comparing with most modern IFVs, as it was designed using composite materials to save weight wherever possible..
+
+Here is System information for the K21-105 South Korean Amphibious Light Tank:
+The Alternative Designation is K-21-105.
+The Type is Amphibious Light Tank.
+The Manufacturer is Hanwha Defense (originally Daewoo Heavy Industries, later renamed as Doosan DST, follow by Hanwha Defense Systems).
+The Family is K200 Series.
+The Configuration is Track.
+The Mission is The vehicle's main role is direct fire support for infantry against armored and soft-skinned vehicles, buildings, and fortifications..
+The Crew is 3.
+
+Here is Dimensions information for the K21-105 South Korean Amphibious Light Tank:
+The Length, Hull is 6.9 m.
+The Length, Gun Forward is 8.5 m.
+The Width is 3.4 m.
+The Height is 2.6 m.
+The Weight, Combat is 25 tons.
+The Ground Pressure is INA.
+
+Here is Automotive information for the K21-105 South Korean Amphibious Light Tank:
+The Engine Name is INA.
+The Engine Type is Turbocharged Diesel.
+The Engine Power is 750.
+The Range is 450.
+The Speed, Maximum Road is 70.
+The Speed Maximum Swim is 6.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.8 m.
+The Trench is 0.8 m.
+The Fording Depth is Amphibious.
+
+Here is System information for the K21-105 South Korean Amphibious Light Tank of the Main Weapon System:
+The Name is INA.
+The Type is 1 x Gun.
+The Caliber is 105 mm.
+The Length is INA.
+The Weight is INA.
+The Elevation is - 10° to +42°.
+The Traverse is 360°.
+The Automatic Loading System is Yes.
+The Maximum Range is 4 km.
+The Rounds Per Minute is 8 Rounds a minute.
+The Indirect Fire Range is Indirect range of fire is up to 10 km..
+The Note #1 is Main armament is a 105 mm rifled low-recoil gun that fires standard NATO and newly developed smart ammunition with a max direct fire range of 4 km..
+
+Here is Ammunition information for the K21-105 South Korean Amphibious Light Tank of the Main Weapon System:
+The Note is It fires all standard NATO 105 mm ammunition. It can fire newly-developed smart ammunition..
+
+Here is System information for the K21-105 South Korean Amphibious Light Tank of the Auxiliary Weapon System:
+The Name is 2 x K12 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is S&T Daewoo.
+The Length is 1,234 mm.
+The Barrel Length is 560 mm.
+The Weight is 12 kg.
+The Action is Gas-operated, rotating bolt.
+The Rate of Fire is 650-950 rounds/min (rpm).
+The Effective Firing Range is 800 m.
+The Feed System is Disintegrating M13 belt.
+
+Here is Ammunition information for the K21-105 South Korean Amphibious Light Tank of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is INA.
+
+Here is Anti-Tank Guided Missiles (ATGM) information for the K21-105 South Korean Amphibious Light Tank:
+The Note is The gun can also fire the Ukrainian-designed laser-guided Falarick 105 GLATGM, which has a range of 5 km and a tandem warhead capable of penetrating 550 mm  of armor behind ERA..
+
+Here is Fire Control information for the K21-105 South Korean Amphibious Light Tank:
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes, The commander's sight is equipped with the same system as the gunner's. This allows the gunner to use the commander's sight to engage targets if his own sight is disabled or destroyed. The commander of the vehicle also has the ability to override the command to take control of the turret and gun from the gunner..
+The Thermal Sight Gunner is Yes, The gunner's sight is equipped with a third generation thermal viewer and a 1.54 μm laser rangefinder. It can detect targets from 6,000 meters away and identify them from 3,000 meters away..
+The Main Gun Stabilization is Yes.
+The IFF is Yes.
+The Vehicular Information System is Yes.
+
+Here is Protection information for the K21-105 South Korean Amphibious Light Tank:
+The Hull Armor is 2519 aluminium alloy chassis. Layers consisting of S2 glass fiber reinforced Al2O3 ceramic armor. All round protection against 14.5×114mm API projectiles as well as 20 mm FSP.
+
+Frontal armour is resistant to 30 mm APDS rounds fired from a 2A72 autocannon (standard on BMP-3 turrets).
+
+Roof armour is resistant to 155 mm artillery shell fragments..
+The Turret Armor is All round protection against 14.5×114mm API projectiles as well as 20 mm FSP.
+The Applique Armor is Available.
+The Explosive Reactive Armor is Soft- and hard-kill anti-missile defense systems, ERA, NERA (only for the K21 PIP).
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+

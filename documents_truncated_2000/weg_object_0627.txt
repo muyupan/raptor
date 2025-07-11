@@ -1,0 +1,79 @@
+This document describes the Type 86 Chinese 100mm Towed Anti-Tank Gun.
+
+The Type 86 is the 100mm towed antitank gun developed in the late 1980s based on the high-pressure 100mm smooth-bore gun technology and the two-wheel carriage of the Type 73 100mm towed antitank gun. NORINCO claimed that the Type 86 is capable of penetrating the frontal armor of the basic variant T-72 at a distance of 2,000m, and later improved variants could penetrate the T-72 and T-80 fitted with explosive reactive armor (ERA). The gun also outperforms Western 105mm tank guns. The Type 86 is in service with PLA motorized infantry divisions as the primary antitank artillery weapon.
+
+Description
+The Type 86 ordnance is smooth-bore and features a distinctive slotted muzzle brake. The breech mechanism has a vertical sliding block and the sighting mechanism is mounted to the left of the gun. The carriage uses split trails with a castor wheel on the left trail leg to assist in bringing the gun into action. A shield with sloping sides is fitted with an opening for the sight on the left side.
+
+Although the Type 86 is primarily an anti-tank weapon it can be used for the indirect fire role, even though the potential maximum range is limited by the maximum gun elevation of +38°. Maximum rate of fire is quoted as 8 to 10 rds/min.
+
+A night vision device for sighting purposes is available.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Type 86 Chinese 100mm Towed Anti-Tank Gun:
+The A407 is This artillery system was designed by Arsenal-Resita and is very similar to the MT-12. It can fire the same range of ammunition as the T-54/55 tank and has a maximum range of 2,200 m (HEAT) or 4,000 m (APC-T). Subversions are the A407M1 and the A407M2. In Romanian Army service, the A407 is known as the 100 mm anti-tank gun M1977 (Romanian: Tun antitanc calibrul 100-mm Model 1977) and is normally towed by the DAC 887R truck. It can also be towed with the DAC 665T truck. The Model 2002 is an improved version, fitted with the automatic fire control system TAT-100..
+The Type 73 is This appears to be a copy of the Soviet T-12..
+The Type 86 is This is a 100mm smoothbore anti-tank gun that has some similarities with the 85mm Type 56 (D-44). It fires ammunition of the fixed type, including the Type 73 HE, Type 73 HEAT, Type 73 APFSDS and Type 86 APFSDS to a maximum range of 1,800 m..
+The 2A19 or T-12 is 2A19 or T-12 is a Soviet smoothbore 100-mm anti-tank gun, which served as the primary towed anti-tank artillery in the Soviet and Bulgarian armies from the early 1960s to the late 1980s..
+
+Here is System information for the Type 86 Chinese 100mm Towed Anti-Tank Gun:
+The Alternative Designation is Type 86.
+The Type is Towed Anti-Tank Gun.
+The In Service is 1961-Present.
+The Crew is 6 (commander, driver, gunner, loader,
+2 ammunition handlers).
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note is Thanks to the redesigned carriage, which has a bigger wheel base, the MT-12 can be towed by the MT-LB, at speeds up to 60 km/h on road or 25 km/h cross-country..
+
+Here is Dimensions information for the Type 86 Chinese 100mm Towed Anti-Tank Gun:
+The Length is 9,520.
+The Barrel Length is 54.5 caliber.
+The Width is 2120.
+The Height is 1,840.
+The Weight is 3,630 kg.
+
+Here is System information for the Type 86 Chinese 100mm Towed Anti-Tank Gun of the Main Weapon System:
+The Name is Type 86.
+The Type is Towed Anti-Tank Gun.
+The Caliber is 100.
+The Carriage is INA.
+The Elevation is −4° to +38°.
+The Traverse is 27° left or right.
+The Rate of Fire is 14 rpm (max possible)
+10 rpm (max likely)
+4 to 6 rpm (typical).
+The Muzzle Velocity is 1,610 m/s. Also See Ammunition Types.
+The Maximum Firing Range is 13,700 meters. Also See Ammunition Types.
+
+Here is Ammunition information for the Type 86 Chinese 100mm Towed Anti-Tank Gun of the Main Weapon System:
+The Type is Projectile.
+The Caliber is 100mm.
+The Shell is Fixed QF 100 × 910 mmR.
+The Basic Load is When the MT-LB is used as the transporter, 20 rounds are typically carried (10 APFSDS, 4 HE-Frag, 6 HEAT). Since the weapon is a smoothbore, all the ammunition is finned for accuracy during flight..
+The Ammunition Types is The Type 86 fires the following types of 100 mm fixed ammunition:
+
+APFSDS Type 86 with a tungsten penetrator at a muzzle velocity of 1,610 m/s with an effective range of 1,800 m; when firing this round the maximum rate of fire is 4 to 5 rds/min
+
+APDS Type 73 with a tungsten penetrator at a muzzle velocity of 1,500 m/s with an effective range of 1,700 m
+
+HEAT Type 73 fin-stabilised projectile at a muzzle velocity of 1,010 m/s.
+
+APFSDS Type 73 with tungsten alloy penetrator with a maximum direct fire range of 1,700 m
+
+APFSDS Type 73 with the projectile having a length-to-diameter ratio of 13.3:1 and a maximum range in the direct fire role of 1,730 m
+
+HE Type 73 fin-stabilised projectile at a muzzle velocity of 900 m/s with a maximum range of 13,700 m.
+
+When firing these projectiles, the usual recoil length is between 1 and 1.14 m; maximum recoil length is 1.18 m.
+
+NORINCO is now marketing a 155 mm laser-guided artillery projectile and laser-guided (for example 105 mm) tank-launched projectiles. As far as it is known, no 100 mm laser-guided projectiles have been developed for this weapon. It is understood that these Chinese laser-guided anti-armour projectiles are based on Russian technology transfer..
+
+Here is Fire Control System information for the Type 86 Chinese 100mm Towed Anti-Tank Gun of the Fire Control:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Sights is A night vision device for sighting purposes is available..
+

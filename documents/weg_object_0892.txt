@@ -1,0 +1,80 @@
+This document describes the AW139M Italian Multi-Role Helicopter.
+
+The AW139 is a 15-seat medium-sized twin-engined helicopter developed and built by AgustaWestland, now called Leonardo. It is marketed at several different roles, including military (AW139M), VIP/corporate transport, offshore transport, fire fighting, law enforcement, search and rescue, emergency medical service, disaster relief, and maritime patrol. In addition to AgustaWestland's manufacturing facilities in Italy and the United States, the AW139 is produced in Russia by HeliVert, a joint venture between AgustaWestland and Russian Helicopters.
+
+The AW139 was originally designed and developed jointly by Agusta and Bell Helicopters and marketed as the Agusta-Bell AB139, being redesignated AW139 when Bell withdrew from the project. Since entering service in 2003, the AW139 has become one of AgustaWestland's most influential products; it has been subsequently developed into two enlarged medium-lift helicopters, the military-orientated AW149 and the AW189 for the civil market.
+
+The AW139 is a conventional twin-engine multi-role helicopter. It has a five-bladed fully articulated main rotor with a titanium hub and composite blades and a four-bladed articulated tail rotor. It is fitted with retractable tricycle landing gear, the two aft wheels retracting into external sponsons which are also used to house emergency equipment. It is flown by a crew of two pilots, with up to 15 passengers accommodated in three rows of five. The AW139 had been aimed at a vacant niche in the market, sitting below larger types such as the Eurocopter AS332 Super Puma and Sikorsky S-92, and above smaller ones like the Bell 412 and Eurocopter EC155. "Rotor & Wing" has described the AW139's flying attitude as 'docile and predictable'.
+
+The AW139 is powered by two FADEC-controlled Pratt & Whitney Canada PT6C turboshaft engines; the FADEC system seamlessly adjusts the engines for pilot convenience and passenger comfort, and can automatically handle a single-engine failure without noticeable deviation. It was constructed with maintenance requirements in mind; critical systems can be readily accessed, where possible the number of parts has been reduced, and many components have been designed for an extended lifecycle; a Health and Usage Monitoring System (HUMS) is also equipped. More than a thousand customizable items of equipment can be configured per customer demand, including auxiliary fuel tanks, rescue hoists, cargo hooks, search and weather radar, ice protection systems, external cameras and searchlights, and seating arrangements.
+
+The AW139 features a modular glass cockpit, a commonly-installed feature being the four-axis autopilot, which enables functions such as auto-hover capability. The cockpit has been designed to enable single-pilot flight operations under instrument flight rules conditions, and it is also compatible with the use of night vision goggles. Pilot training for the type is available via advanced Level D Full Flight Simulators. According to "Shipping & Marine", the AW139 has "the largest cabin in its class"; containing up to 15 passengers or four litters and accompanying medics, an additional baggage compartment is used to stow equipment to keep the main cabin clear for use.
+
+Large sections of the AW139 have been developed and produced by a range of different companies. Airframes are typically produced by PZL-Świdnik, who delivered their 200th airframe in April 2014. Pratt & Whitney Canada produce the type's PT6C turboshaft engines, while the primary and secondary transmissions were developed by Westland GKN and Kawasaki Heavy Industries respectively. A significant portion of the avionics are sourced from Honeywell. Turkish Aerospace Industries has been subcontracted to manufacture various elements of the AW139, including the fuselage, canopy, and radome. Final assembly of most AW139s is performed at AgustaWestland's facilities in Philadelphia, United States, and Vergiate, Italy; those destined for customers within the Commonwealth of Independent States are typically assembled by a third final manufacturing plant in Tomilino, Moscow operated by HeliVert.
+
+This equipment has proliferated into the following countries: Algeria, Australia, Bangladesh, Brazil, Bulgaria, Chile, China, Croatia, Cyprus, Egypt, Estonia, Indonesia, Ireland, Italy, Japan, Kenya, Lebanon, Libya, Malaysia, Malta, Nepal, Netherlands, Nigeria, Oman, Pakistan, Panama, Qatar, Senegal, Spain, Sweden, Thailand, Trinidad and Tobago, Turkmenistan, United Arab Emirates, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the AW139M Italian Multi-Role Helicopter:
+The AB139 is Original Italian-built production aircraft, 54 built..
+The AW139M is Militarized variant, capable of carrying various weapons payloads..
+The HH-139A is Italian Air Force designation for ten search-and rescue configured AW139Ms..
+The VH-139A is Italian Air Force designation for two VIP configured AW139s..
+The US139 is Military variant, was the AgustaWestland proposed entry for the US Army Light Utility Helicopter programm in partnership with L-3 Communications..
+The MH-139 Grey Wolf is This is a militarized variant selected by the U.S. Air Force. It can carry nine fully equipped troops; has a top cruise speed of 135 knots and can fly at least three hours, and a minimum distance of 225 nm, without needing refueling.
+The helicopter is equipped with an electro-optical/infrared sensor turret under the nose and provisions for machine gun mounts on either side. For some operations, it may be fitted with hoists for search-and rescue or other mission-specific gear..
+The AW139 (long nose configuration) is Long nose variant with increased room for avionics built in Italy and the United States..
+
+Here is System information for the AW139M Italian Multi-Role Helicopter:
+The Primary Function is Utility Helicopter.
+The Crew is 2.
+The Blades, Main Rotor is 5.
+The Blades, Tail Rotor is 4.
+The Number of Engines is 2.
+The Day/Night Capable is Yes.
+The All Weather Capable is Yes.
+The Vertical Climb Rate is INA.
+The Number of Hard Points is INA.
+The Cockpit Options is A Honeywell Primus Epic core avionics system comes in either the basic visual flight rules (VFR), instrument flight rules (IFR) three-axis automatic flight control system (AFCS), IFR four-axis digital AFCS or SAR versions.
+The Passengers is 15, less if fully equipped, not to exceed 2,500kgs.
+The Litters is ILO passengers, 6 liters with 4 medical personnel.
+The FLIR is Yes.
+
+Here is Dimensions information for the AW139M Italian Multi-Role Helicopter:
+The Length, Overall is 16.6.
+The Length, Fuselage is 13.5.
+The Width, Across Cabin is 2.3.
+The Width, Across Sponsons is 3.2.
+The Height is 4.9.
+The Weight, Max Takeoff is 6,000.
+The Main Rotor Diameter is 13.8.
+The Load, Useful is 2,500.
+The Load, External is 2,700.
+The Cabin, Interior Volume is 8.
+
+Here is Automotive information for the AW139M Italian Multi-Role Helicopter:
+The Engine Name is Pratt and Whitney Canada PT6C-67C.
+The Engine Type is Turboshafts with FADEC (full-authority digital engine control).
+The Engine Power is Maximum continuous power of 1,531hp (1,142 kW).
+The Cruising Range is 750km, 3 hours and 54 minutes without reserves.
+The Speed, Maximum is 309.
+The Speed, Average is 290.
+
+Here is Armament information for the AW139M Italian Multi-Role Helicopter:
+The Note is The AW139M can be armed with Internal and external weapons such as general purpose machine guns, sniper rifles, heavy machine gun pods and 70mm rocket pods, forward firing rockets and machine guns, pintle mounted machine gun and Air-to-Surface Missile (ASM) system.
+
+The firing of weapons is controlled by a weapon management system equipped with head up display..
+
+Here is Protection information for the AW139M Italian Multi-Role Helicopter:
+The Note is The low thermal and acoustic signature improves the survivability of the AW139M helicopter. The cockpit and cabin can be equipped with ballistic protection. The crew protection is further improved with armored seats. The helicopter also includes ballistic-tolerant, self-sealing fuel tanks.
+
+The onboard missile approach warning system provides threat information to the pilot for actuating the helicopter’s countermeasures. The Counter Measures Dispensing System (CMDS) deceives incoming missiles..
+The Cockpit Glass is Yes.
+The Stealth Properties is No.
+The Heat Signature Reduction is Yes.
+The Add on Armor is No.
+The NBC Protection is INA.
+The EW is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is Yes.
+The IR is Low acoustic and infrared (IR) emissions.
+

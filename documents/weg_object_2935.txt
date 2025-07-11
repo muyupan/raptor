@@ -1,0 +1,64 @@
+This document describes the R-381T1 Russian VHF Radio Monitoring Station.
+
+The R-381T1 – VHF radio monitoring station (1.5-30 MHz), aviation radio communication
+monitoring (100-400 Mhz), radio relay link monitoring (300-1000 MHz). 
+
+The R-381T1 VHF Radio Monitoring Station is part of the R-381T Taran Complex. 
+
+The R-381T Taran complex consist of 7 vehicles: 1 x  R-381T3 – automatic data processing station
+4 x R-381T2 – UHF radio monitoring station (30-100 MHz) 
+2 x R-381T1 – VHF radio monitoring station (1.5-30 MHz), aviation radio communication monitoring (100-400 Mhz), radio relay link monitoring (300-1000 MHz) The efficient range of the complex is 40 km (100 km for aviation frequencies monitoring). Radio station detecting time is 0.3 sec. 
+
+Another variant of the complex consist of 5 vehicles: x1 R-381T3 x2 R-381T2 x2 R-381T1 It is also possible to use separate stations.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the R-381T1 Russian VHF Radio Monitoring Station:
+The Alternative Designation is R-381T1.
+The Type is VHF Radio Monitoring Station.
+The Manufacturer is ‘Proton’ engineering bureau in Kharkov.
+The Chassis is MT-LB.
+The Crew is 2.
+The Direction Finder Name is "Orljonok".
+The Frequency is 1.5-30 MHz, aviation radio communication
+monitoring (100-400 Mhz), radio relay link monitoring (300-1000 MHz).
+The Maximum Range is 40 km (100 km for aviation frequencies monitoring)..
+The Detection Time is Radio station detecting time is 0.3 sec..
+The Radio is R 111.
+The Telephone is T-219.
+The Radio Receiver is VHF 323.
+The Scanner is R-323 P.
+The Recorder is P-180 M.
+The Emplacement TIme is less than 10 minutes.
+The Displacement Time is less than 10 minutes.
+The NVG is PNW-57E.
+The Aiming Circle is PAB-2.
+The Note is set up with 250m space around the site. do not set up near utilities, train stations, bridges, multileveled large building, inside large forests or canyons..
+
+Here is Dimensions (Chassis MT-LB) information for the R-381T1 Russian VHF Radio Monitoring Station:
+The Length is 6.45.
+The Width is 2.86.
+The Height is 1.86.
+The Weight, Combat is 11,000.
+The Ground Pressure is 0.46 standard track / 0.28 wide track.
+
+Here is Automotive (Chassis MT-LB) information for the R-381T1 Russian VHF Radio Monitoring Station:
+The Engine Name is YaMZ 238 (Newer versions have the KamAZ-740.50 engine / 360 horsepower).
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 30.
+The Speed Maximum Swim is 5.
+The Fording Depth is Amphibious.
+
+Here is Protection information for the R-381T1 Russian VHF Radio Monitoring Station:
+The Hull Armor is 14.
+The Turret Armor is 14.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is Yes, NBC Ventilator FWUA-100W-12.
+The Smoke Equipment is No.
+

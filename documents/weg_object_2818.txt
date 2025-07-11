@@ -1,0 +1,63 @@
+This document describes the AN/PRC-117G American Multiband Manpack Radio.
+
+The AN/PRC-117 Multiband Manpack Radio, or Multiband Multi Mission Radio (MBMMR), is a man-portable, tactical software-defined combat-net radio, manufactured by Harris Corporation, in two different version:
+
+Version F (Foxtrot), namely AN/PRC-117F-MP Falcon II series, covering the 30-512 MHz frequency range, provided without internal GPS (optionally an external commercial GPS can be connected, or a GPS SAASM as a Precision Lightweight GPS Receiver [PLGR] or a Defense Advanced GPS Receiver [DAGR]);
+Version G (Golf), namely AN/PRC-117G-MP Falcon III series, covering the 30-2000 MHz frequency range, and provided with internal SAASM GPS (optionally an external commercial GPS can be connected).
+Both radios have NSA certification for the transmission of voice and data traffic up to the Top Secret level.
+
+The designation AN/PRC translates to "Army Navy / Portable Radio Communications" used for two way Communications, according to Joint Electronics Type Designation System guidelines. The radios are also provided in a vehicular configuration under the AN/VRC-103 nomenclature.
+
+This equipment has proliferated into the following countries: Canada, Croatia, Denmark, Germany, Spain, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the AN/PRC-117G American Multiband Manpack Radio:
+The AN/PRC-117 Version F (Foxtrot) is Version F (Foxtrot), namely AN/PRC-117F-MP Falcon II series, covering the 30-512 MHz frequency range, provided without internal GPS (optionally an external commercial GPS can be connected, or a GPS SAASM as a Precision Lightweight GPS Receiver [PLGR] or a Defense Advanced GPS Receiver [DAGR]).
+The AN/PRC-117 Version G (Golf) is Version G (Golf), namely AN/PRC-117G-MP Falcon III series, covering the 30-2000 MHz frequency range, and provided with internal SAASM GPS (optionally an external commercial GPS can be connected).
+
+Here is System information for the AN/PRC-117G American Multiband Manpack Radio:
+The Alternative Designation is AN/PRC-117.
+The Type is Multiband Manpack Radio.
+The Crew is 1.
+The Frequency Range is 30 MHz to 2 GHz.
+The Presets is 100 (110 including DAMA).
+The Transmission Modes is FM, AM, PSK, CPM.
+The Tuning Resolution is 10 Hz.
+The Model is RT-1796 (P)(C)/U.
+The Transmitter Output Power is 1 W to 20 W (Max).
+The Transmitter, Harmonic Suppression is –40 dBc.
+The Transmitter, Frequency Stability is +/- 1.0 ppm.
+The Receiver,  FM Sensitivity is -118 dBm (10 dB SINAD).
+The Receiver, Adjacent Channel Rejection is 60 dB.
+The Fill Devices is AN/CYZ-10 DTD, AN/PYQ-10 SKL (Supports DS-101, DS-102 and Mode 2/3).
+The Crypto Modes is KY-57, ANDVT/KYV-5, KG-84C, FASCINATOR.
+The Radios is AN/PRC-152;
+AN/PRC-148;
+AN/PRC-119A/B/G;
+AN/PRC-113;
+AN/PRC-77;
+AN/PSC-5;
+Other versions of the AN/PRC-117.
+The External Data is RS-232, MIL-STD-188-114A.
+The Remote control is RS-232, RS-422.
+The Antenna Ports is Separate VHF, VHF-HI/UHF.
+The Audio is Six-pin Standard.
+The Power is Two BA-5590, BB-390A/U, BB-2590, or BB-590 batteries.
+The Operating Temperature is -40 °C to 70 °C.
+The Line of Sight is VHF/UHF AM/FM;
+SINCGARS ECCM;
+HAVE QUICK II ECCM;
+ANW2 - Advanced Networking Wideband Waveform (Harris);
+SRW Soldier Radio Waveform;
+NATO SATURN waveform, per NATO STANAG 4372 - optional.
+The SATCOM is MIL-STD-188-181-B/C;
+MIL-STD-188-182-A;
+MIL-STD-188-183-A/B;
+High performance waveform (HPW);
+Mobile User Objective System (MUOS) - optional.
+
+Here is Dimensions information for the AN/PRC-117G American Multiband Manpack Radio:
+The Height is 3.7 in (w/o battery case).
+The Width is 7.4 in (w/o battery case).
+The Depth is 8.8 in (w/o battery case).
+The Weight, Combat is 8.2 lbs (without batteries).
+

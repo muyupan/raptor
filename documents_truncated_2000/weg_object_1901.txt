@@ -1,0 +1,51 @@
+This document describes the Bittium Tough SDR Finnish Vehicular VHF/UHF Software Defined Radio (SDR).
+
+The Bittium Tough SDR Finish Vehicular VHF/UHF Software Defined Radio (SDR) is a 2-channel software-defined tactical vehicular radio. The radios help to produce and share real-time situational awareness (location, image, voice, video, and sensor data) to all levels of the organization. This improves the performance and the effectiveness of the tactical troops, and leading the troops is easier based on up-to-date situational awareness and more reliable connections.
+
+The radios provide a uniquely wide frequency range (30-2500MHz) across several frequency bands. Together with flexible configuration options and routing networks, even thousands of radios in one network are supported. Using several waveforms, even simultaneously in the vehicular radio, improves compatibility and enables operations on different levels and missions.
+
+This equipment has proliferated into the following countries: Finland.
+
+Here is System information for the Bittium Tough SDR Finnish Vehicular VHF/UHF Software Defined Radio (SDR):
+The Alternative Designation is Bittium Tough SDR.
+The Type is Handheld VHF/UHF Software Defined Radio (SDR).
+The Crew is 1.
+The Frequency Range is ANT1: 225 – 2500 MHz;
+ANT2: 30 – 512 MHz.
+The Frequency Agility is Uniquely wide frequency range providing frequency agility and less interference..
+The Several Routing Networks is Support for several routing networks and even thousands of radios in one network..
+The Support for Different Waveforms is Support for several different waveforms with seamless porting also for legacy and national proprietary waveforms. Bittium Narrowband Waveform (25 kHz);
+Bittium TAC WIN Waveform (5/10 MHz) with data throughput up to 25 Mbps;
+ESSOR High Data Rate Waveform (1.25 MHz) with data throughput up to 1 Mbps at the radio link;
+Supports porting of legacy and national proprietary waveforms..
+The Flexible Integration of Applications is Application sandbox for flexible integration of C2 applications, such as BMS and blue force tracking..
+The LTE Access is Optional LTE module for connecting to commercial LTE networks..
+The Secure is Access to information security implementation and certification both nationally and internationally.  Sovereign management of the radios with Bittium Tactical Device Management..
+The Channel Bandwidth is 25 kHz to 10 MHz.
+The Interfaces is Antenna: Two RF antenna ports;
+External antenna control interface for antenna tuning or other control;
+Audio: Two analog audio interface ports with dual PTT support. One port with additional HMI USB support and other with power amplifier audio for external speaker;
+LAN: 2 x 1 Gbps Ethernet ports with PoE IEEE 802.3af;
+Data: I/O interface with combined 100M Ethernet and USB 2.0 (Device and Host mode);
+GPS: Interface for an external GPS antenna;
+Optional extension card slot for modules with the mini-PCIe form factor;
+WLAN 802.11 b/g/n;
+BT 4.0;
+LTE (optional) with USB LTE module inserted into extension slot..
+The Monitoring & Control (M&C) is Web user interface for device configuration;
+Remote software update;
+Software upgrade through web-based management.
+The Display is Transflective TFT LCD (320 x 426).
+The Battery is 70 Wh rechargeable Li-ion battery.
+The Operating Temperature is -40°C to +55°C.
+The Storage Temperature is -40°C to+ 85°C.
+The Environment is MIL-STD-810G.
+The EMC is MIL-STD-461G.
+The Power Supply is 12–32 V DC according to MIL-STD-1275E.
+
+Here is Dimensions information for the Bittium Tough SDR Finnish Vehicular VHF/UHF Software Defined Radio (SDR):
+The Length is 210 mm.
+The Width is 270 mm.
+The Height is 300 mm.
+The Weight, Combat is Less than 15 kg.
+

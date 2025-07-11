@@ -1,0 +1,62 @@
+This document describes the BAZ-6909 Russian 8x8 Special Wheeled Chassis.
+
+The BAZ-6909 is a Russian artillery tractor and missile vehicle that was developed as a successor to the MAZ-537 and MAZ-7310 by Bryansk Automobile Plant. It can haul semi-trailers and loads with a mass of 13-21 metric tons, both on and off-road.
+
+It uses a YaMZ-8424.10 diesel engine with 500 hp
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the BAZ-6909 Russian 8x8 Special Wheeled Chassis:
+The BAZ-6402 is 6x6 tractor truck.
+The BAZ-69092 is 6x6 special wheeled chassis.
+The BAZ-6306 is 8x8 artillery tractor.
+The BAZ-6403 is 8x8 tractor truck.
+The BAZ-6910 is 8x8 shelter carrier;.
+The REM-KS is 8x8 repair and recovery vehicle.
+The BAZ-69069 is 10x10 special wheeled chassi.
+The BAZ-69099 is 12x12 special wheeled chassis.
+
+Here is System information for the BAZ-6909 Russian 8x8 Special Wheeled Chassis:
+The Alternative Designation is BAZ-6909.
+The Type is 8x8 Special Wheeled Chassis.
+The Manufacturer is Bryansk Automobile Plant.
+The Family is BAZ.
+The Mission is The BAZ-6909 is of conventional design. It was designed to carry specialized military equipment, such as weapons, missiles, shelters and radars..
+The Crew is 3.
+The Payload Capacity is 18-20.
+The Note is It can be airlifted by An-22, An-124 or Il-76 transport aircraft.
+
+Here is Dimensions (Chassis: BAZ-6909) information for the BAZ-6909 Russian 8x8 Special Wheeled Chassis:
+The Length is 11.3.
+The Width is 2.75.
+The Height is 2.85.
+The Weight, Empty is 22.
+
+Here is Automotive  (Chassis: BAZ-6909) information for the BAZ-6909 Russian 8x8 Special Wheeled Chassis:
+The Engine Name is YaMZ-8424.10.
+The Engine Type is Diesel.
+The Engine Power is 470.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.0.
+The Fording Depth is 1.2.
+The Climate Operational Range is -50°C to +45°C.
+
+Here is Communications information for the BAZ-6909 Russian 8x8 Special Wheeled Chassis:
+The Primary is INA.
+
+Here is Protection information for the BAZ-6909 Russian 8x8 Special Wheeled Chassis:
+The Armor is Vehicle is fitted with a three-person armored cab.
+The Applique Armor is Available.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The IR Signature is No.
+

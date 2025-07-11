@@ -1,0 +1,63 @@
+This document describes the NTC VISMOD Mi24V (Hind-E) Russian Attack Helicopter.
+
+NTC VISMOD Mi24V (Hind-E) Russian Attack Helicopter
+Mi-24V (Hind-E) Later development which entered production in 1976. It was armed with the more advanced 9M114 Shturm (AT-6 Spiral). Eight of these missiles are mounted on four outer wing pylons. It was the most widely produced version with more than 1,500 made. In Polish service this aircraft is designated Mi-24W. One Mi-24V was referred to as Mi-24T for unknown reasons.
+
+Here is System information for the NTC VISMOD Mi24V (Hind-E) Russian Attack Helicopter:
+The Alternative Designation is NTC VISMOD Mi24V (Hind-E).
+The Type is Light Utility Helicopter.
+The Mission is BZ: CAS in direct support (DS) to BTG during
+fights..
+The Crew is 2x Pilots, 1x Crew Chief, and transports.
+The Passengers is 6x passengers and 2x litters..
+The Range is Ceiling: 4,500m
+Range: 745 km.
+The Effects is 2,400x Rounds of 12.7mm, 32x 57mm rockets,
+and 8x AT6 rockets. Provides direct air/fire
+support to ground forces, air assault (AASLT)
+aerial security, deep strike, interdiction, antiarmor/
+ground attack targeting, and
+reconnaissance. Disrupts, fixes, assaults, or
+exploits in the offense and disrupts or
+counterattacks in the defense with TOS 3x hours..
+The Targeting is Targets platoon-sized elements and above,
+column of tank(s) or Stryker(s), staging/assembly
+areas, supply routes, artillery or antitank
+positions, multiple rocket launcher (MRL)
+positions, forward air bases, reserves and
+Battalion/Brigade TOCs..
+The Vulnerability is ADA and Surface-to-Air Missile (SAM) attacks..
+The CBI is 18x Aircraft per DTG with 2x sorties per Day.
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 2.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+The Internal Payload Capacity is 1 790 kg.
+The External Payload Capacity is 1 500 kg.
+
+Here is Dimensions information for the NTC VISMOD Mi24V (Hind-E) Russian Attack Helicopter:
+The Length is 13.03 m.
+The Main Rotor Diameter is 11 m.
+The Height is 3.45 m.
+The Weight, Empty is 1.79 tons.
+The Weight, Maximum Takeoff is 3.58 tons.
+
+Here is Automotive information for the NTC VISMOD Mi24V (Hind-E) Russian Attack Helicopter:
+The Engine Name is 2 x Turbomeca Arriel 1E2.
+The Engine Type is Turboshaft.
+The Engine Power is 2 x 738 shp.
+The Maximum Speed is 268 km/h.
+The Service Ceiling is 5.48 km.
+The Range is 685 km.
+
+Here is Main Gun System information for the NTC VISMOD Mi24V (Hind-E) Russian Attack Helicopter:
+The Note is The NTC VISMOD Mi24V (Hind-E) Russian Attack Helicopter helicopter is unarmed. It is used mainly for logistics and support missions in non-combat environments. It can also perform medical evacuations and personnel recovery tasks.
+
+Here is Protection information for the NTC VISMOD Mi24V (Hind-E) Russian Attack Helicopter:
+The Add on Armor is No.
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The NBC Protection is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

@@ -1,0 +1,97 @@
+This document describes the K9 Thunder South Korean 155mm Self-Propelled Howitzer (SPH).
+
+The can fire its first round within 30 seconds from the moment it first receives firing information from the Fire Direction Center (FDC) while in emplaced situation. While moving, it can fire after 60 seconds. After firing, K9 Thunder can quickly move away from its last position in anticipation of the enemy’s counter fire, before firing its next shot. K9 howitzers operate in groups with the K10 automatic ammunition resupply vehicle variant.
+
+This equipment has proliferated into the following countries: Australia, Estonia, Finland, India, Norway, Poland, South Korea (Republic of Korea), Turkey.
+
+Here is Variants information for the K9 Thunder South Korean 155mm Self-Propelled Howitzer (SPH):
+The K9A1 is The K9A1 uses the same armament as the K9 thunder but is fitted with improved mission system components with a windows based operational system. An auxiliary power unit (APU) also helps to optimize operational range and system performance..
+The K9 Vajra-T is The K9 Vajra-T is the Indian manufactured variant of the K9 and is in service with the Indian Army, with 50% of its components are manufactured in India..
+The AS9 Huntsman is The AS9 Huntsman is an Australian version of the South Korean K9 self-propelled howitzer..
+The K10 is The K10 is an ammunition resupply vehicle designed to extend the length of time that an SPH can provide fire support during combat..
+The K77 is The K77 FDCV is designed to provide a K9 battery with a modern command-and-control (C2) vehicle to better co-ordinate fire missions and improve the integration of a battery within an armoured unit..
+The Krab is The Krab is an SPH developed in Poland with the assistance of multiple companies from around the world..
+The Firtina is The Firtina (also referred to as the T-155 Firtina) is an SPH derived from the South Korean K9 that is manufactured in Turkey for the Turkish Land Forces..
+
+Here is System information for the K9 Thunder South Korean 155mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is K9 Thunder.
+The Type is Self-Propelled Howitzer (SPH).
+The Caliber is 155 mm.
+The Manufacturer is Hanwha Land Systems.
+The Crew is 5.
+The Emplacement Time is 30 seconds.
+The Displacement Time is 30 seconds.
+
+Here is Dimensions information for the K9 Thunder South Korean 155mm Self-Propelled Howitzer (SPH):
+The Length, Overall is 12.0 m.
+The Length, hull is 7.44 m.
+The Width is 3.40 m.
+The Height, to Turret Roof is 2.73 m.
+The Height, to Top of Roof Mounted Weapon is 3.5 m.
+The Weight, Combat is 46,300 kg.
+The Track Width is 548 mm.
+The Track Length on the Ground is 4.72 m.
+The Ground Clearance is 0.41 m.
+
+Here is Automotive information for the K9 Thunder South Korean 155mm Self-Propelled Howitzer (SPH):
+The Engine Name is MTU MT 881 Ka-500.
+The Engine Type is Diesel.
+The Engine Power is 1,000 hp at 2,700 rpm.
+The Power-To-Weight Radio is 21.60 hp/t.
+The Fuel Capacity is 850 liters.
+The Acceleration is 0 to 32 km/h in 12 seconds.
+The Maximum Range is 360 km.
+The Speed, Maximum Road is 67 km/h.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.75 m.
+The Trench is 2.8 m.
+The Fording Depth, without Preparation is 1.5 m.
+
+Here is System information for the K9 Thunder South Korean 155mm Self-Propelled Howitzer (SPH) of the Main Weapon System:
+The Type is Howitzer.
+The Caliber is 155 mm.
+The Elevation is +70° (1,244 mils)/-2.5° (-44 mils).
+The Traverse is 360° (6,400 mils).
+The Muzzle Velocity is 928 m/s (K307 HE ER FB BB Projectile).
+The Muzzle Velocity System is Mounted over the rear part of the 155 mm/52-calibre ordnance is a muzzle velocity measuring system that feeds information to the onboard computer. This Doppler-type system has a muzzle velocity recording range of from 20 to 2,000 m/s..
+The Sustained Rate of Fire is 3 rds/min.
+The Rapid Rate of Fire is 8 rds/min.
+The Primer Magazine is The primer magazine automatically feeds, inserts, and extracts the primers and movement of the breechblock allows for the continuous firing capability of 21 × 155 mm rounds..
+The Maximum Firing Range is 40 km (K307 HE ER FB BB Projectile).
+
+Here is Ammunition (Option #1) information for the K9 Thunder South Korean 155mm Self-Propelled Howitzer (SPH) of the Main Weapon System:
+The Name is M107.
+The Type is HE.
+The Caliber is 155 mm.
+The Muzzle Velocity is INA.
+The Warhead is 6.62 kg of cast TNT or 6.985 kg of Composition B, the former produces approximately 1,950 fragments on detonation..
+The Maximum Range is 18 km.
+The Basic Load is 48 rounds.
+
+Here is Ammunition (Option #2) information for the K9 Thunder South Korean 155mm Self-Propelled Howitzer (SPH) of the Main Weapon System:
+The Name is K307.
+The Type is HE ER FB BB.
+The Caliber is 155 mm.
+The Muzzle Velocity is 928 m/s.
+The Warhead is INA.
+The Maximum Range is 40 km.
+The Basic Load is 48 rounds.
+
+Here is Auxiliary Weapon System information for the K9 Thunder South Korean 155mm Self-Propelled Howitzer (SPH):
+The Note is 1 × roof mounted 12.7 mm M2 HB Machine Gun.
+
+Here is Fire Control System (FCS) information for the K9 Thunder South Korean 155mm Self-Propelled Howitzer (SPH):
+The Fire Control System (FCS) is Honeywell Modular Azimuth Position System (MAPS), automatic fire-control system (FCS). The computerized FCS for the K9 Thunder artillery system has been developed by Samsung Thales specifically for this artillery system. It includes a display unit, system control unit, fire-control unit, and communication processor that are all linked via a 1553 data bus to the power control unit. According to the company, key features of this computerized FCS include automatic/manual data input, common module conception, real-time ballistic solution, simple man/machine interface, easy to modify program through RS422 port, built-in test, and a high-precision ballistic solution..
+The Battalion Tactical Command System (BTCS) is The K9 is linked to the RoKA's Battalion Tactical Command System K9 (BTCS), an artillery fire-control system that is designed to integrate multiple types of indirect fire platform. It is produced by LIG Nex1 Co Ltd and provides automatic target priority calculation, ammunition decision, and target allocation. The primary hub of the system is in the K77, and it disseminates details to the batteries under its control..
+
+Here is Protection information for the K9 Thunder South Korean 155mm Self-Propelled Howitzer (SPH):
+The Hull Armor is The hull has a maximum thickness of 19 mm and is built from steel armor. This provides the occupants with protection from small arms fire and HE 155 mm projectile fragments..
+The Turret Armor is Steel Armor.
+The Applique Armor is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

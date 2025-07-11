@@ -1,0 +1,79 @@
+This document describes the K-16 Bumerang Russian 8x8 Amphibious Armored Personnel Carrier (APC).
+
+In the early 1990s, the BTR-90 was developed as a replacement for the BTR-80 in the Russian Army. While it was a moderate improvement in armament, protection, mobility, and internal space over its predecessor, it all came at the cost of greatly increased unit price. It wasn't accepted into service (except in small numbers) as the modest increase in performance wasn't seen as enough justification for its cost and complexity. Purchases of the BTR-80 stopped in 2010 and the improved BTR-82 was obtained as a stop-gap measure. In mid-2011, the Russian Ministry of Defense issued a requirement for a new modular wheeled family of armored vehicles instead of buying the BTR-90. Development of a new wheeled APC is being done alongside the new and similarly armed and armored but tracked Kurganets-25 infantry fighting vehicle, the Kurganets-25 armored personnel carrier, and heavy T-15 Armata IFV. 
+The Boomerang vehicle is based on Armata Universal Combat Platform. It is amphibious and is able to negotiate and overcome water obstacles using two waterjets. In a departure with the previous BTR (Like BTR-70) series of vehicles, the engine will be located in the front instead of the rear. Engine location was a significant drawback of BTR vehicles, where soldiers had to exit the vehicles through cramped side doors. The Boomerang has rear doors and roof hatches for troop entry and exit. It has a crew of three consisting of the driver, gunner, and commander and holds eight troops. Protection comes from ceramic armor and technologies to prevent shell splinters. Like BTRs, the Boomerang is an 8×8 wheeled vehicle, and is equipped with a 750 hp turbocharged diesel engine.
+
+Several components and subsystems will be interchangeable between the Boomerang and Kurganets-25 APC, and it is hoped that both vehicles will be powered by the same engine though that is not the case to date.  The K-16 Boomerang armored personnel carrier (APC), is lightly armed with a remote controlled turret and a 12.7mm heavy machine gun.  
+
+In November 2011, media reports said the new project had been approved.  In February 2012, a high ranking Russian general officer said that the Russian Army would be taking the first deliveries of the Boomerang prototype in 2013. Large-scale deliveries were to begun in 2015. At least 2,000 Boomerang vehicles are to replace the BTR-80 and BTR-82/A in Russian service.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the K-16 Bumerang Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Armored Transport is Variant proposed by the Russian army but not developed yet..
+The Armored Ambulance is Variant proposed by the Russian army but not developed yet..
+The Command Post Vehicle is Variant proposed by the Russian army but not developed yet..
+The Reconnaissance Vehicle is Variant proposed by the Russian army but not developed yet..
+The Anti-tank Missile Carrier is Variant proposed by the Russian army but not developed yet..
+The Air Defense Missile Launcher is Variant proposed by the Russian army but not developed yet..
+The Fire Support Vehicle is Variant proposed by the Russian army but not developed yet..
+The Mortar Vehicle is Variant proposed by the Russian army but not developed yet..
+The Light Tank is Variant proposed by the Russian army but not developed yet..
+The 57mm Auto-cannon is Variant proposed by the Russian army but not developed yet..
+The 125mm Gun is Variant proposed by the Russian army but not developed yet..
+The Self-propelled Gun is Variant proposed by the Russian army but not developed yet..
+
+Here is System information for the K-16 Bumerang Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is Boomerang, VPK-7829 Bumerang.
+The Crew is 3.
+The Passenger Capacity is 9.
+The Maximum Effective Range is 2,000.
+
+Here is Dimensions information for the K-16 Bumerang Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Length is 8.
+The Width is 3.
+The Height is 3.
+The Weight, Combat is 20,000.
+
+Here is Automotive information for the K-16 Bumerang Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is UTD-32TR.
+The Engine Type is Diesel.
+The Engine Power is 510.
+The Cruising Range is 800.
+The Speed, Maximum Road is 100.
+The Speed, Cross Country is 50.
+The Speed Maximum Swim is 12.
+The Fording Depth is NA, amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.
+
+Here is System information for the K-16 Bumerang Russian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Gun:
+The Name is 1 x 2A42 30mm Automatic Cannon .
+The Type  is Automatic Cannon .
+The Caliber  is 30 mm.
+The Turret  is  Bumerang-BM remote weapon station turret.
+
+Here is Fire Control information for the K-16 Bumerang Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Name is INA.
+The Turret is Remote Control Turret.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is INA.
+
+Here is Protection information for the K-16 Bumerang Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is V-Shaped, ceramic hull provides protection agains 14.5mm and artillery shrapnel.
+The Turret Armor is Unmanned Turret.
+The Applique Armor is Yes, Ceramic.
+The Explosive Reactive Armor is Optional.
+The Active Protection System is Has sensors but no countermeasures.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+The 360 degree field of view for crew is Yes.
+

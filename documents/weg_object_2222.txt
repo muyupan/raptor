@@ -1,0 +1,42 @@
+This document describes the PROM-1 Yugoslavian Anti-Personnel Mine.
+
+The PROM-1 is a Yugoslavian manufactured bounding type of anti-personnel mine. It consists of a cylindrical body with a pronged fuze inserted into the top of the mine. It is broadly similar in operation to the German S-mine.
+
+The mine is triggered by the tilting of the prongs situated on top of the mine. This is caused by either direct pressure on the prongs or by tension on a tripwire attached to them. Tilting the prongs allows at least one of three striker retaining balls to escape. This releases the spring-loaded striker, which is flipped downwards into the percussion cap and fires the three gram propellant charge. The explosion of the propellant charge forces the upper half of the mine body out of the ground and up into the air, shearing off several brass screws and leaving the base plug of the mine behind in the ground.
+
+The mine's body is tethered to its base by a short length of wire, which unwinds behind it as it rises. When the mine reaches a height of approximately 65 centimetres the wire is pulled. This jerks the detonator assembly downwards into the striker. The detonator fires, triggering the main explosive charge, which shatters the internally grooved body into a large number of high-velocity steel fragments, which spray in all directions. Because the time taken from triggering the mine to detonation is so short (typically one second), there is no time to take cover from the blast.
+
+As with all bounding mines the PROM-1 is lethal at relatively long distances. It is capable of projecting dangerous fragments to range of 100 metres or more, with a potentially lethal range of around 50 metres. This mine will almost certainly kill or seriously injure anyone caught within 30 metres of the blast. As with any bounding mine, wearing standard kevlar body armour offers no guarantee of safety: the large number of fragments produced by a PROM-1 will wound the unprotected limbs, face and eyes of its victim(s).
+
+he PROM-1 can be particularly hard to spot in undergrowth because, apart from the prongs, most of it is buried underground and therefore cannot be seen. Although this mine contains lots of steel (thereby making it easy to detect with a mine-detector) the act of sweeping the detection head over the ground can easily strike the prongs (or connected tripwire) and detonate the mine. In any case, PROM-1s in a minefield may be surrounded by various types of minimum metal antipersonnel blast mines (e.g. the VS-50) which further hinders the clearance process.
+
+The PROM-1 is difficult to render safe because its fuze becomes unstable after being exposed to weather for several years. Most deminers therefore recommend that this mine is destroyed in situ by detonating an explosive charge next to it.
+
+
+Usually (though not always) trip-wires measuring around 20 feet (6 meters) in length are fitted to this mine in order to increase its activation area. When tracking trip-wires back to their source, deminers must keep in mind that other landmines may have been planted along its length. It is all too easy to concentrate on following a trip-wire back to its source, forgetting that there could be PMA-3, PMN or similar blast mines lying buried underneath.
+
+The mine has been found in Angola, Bosnia, Chile, Croatia, Eritrea, Iraq, Kosovo, Mozambique and Namibia.
+
+Here is System information for the PROM-1 Yugoslavian Anti-Personnel Mine:
+The Country of Manufacture is Former
+Yugoslavia.
+The # of User Countries is 5+.
+The Emplacement Method is manual.
+The Diameter is 75.
+The Height (mm) is H: w/o fuze 178
+H: w/fuze 260.
+The Armor Penetration (mm)/ Kill Mechanism is bounding fragmentation.
+The Effective Range (meter) is max: 22
+min: 0
+bound height .7.
+The Detectability/ Composition is Easy
+Steel.
+The Anti-Handling is possible.
+The Fuze Type/Self Neutralize is pressure (9 kg)
+tripwire (3 kg)
+self-neutralize; no.
+The Explosive Type & Weight/Total Weight (kg) is TNT: 0.43
+Total: 3.
+The Operating Pressure is 9 kg to 16 kg or 3 kg to 5 kg pull.
+The Comment is Delayed ejection and detonation by 1 to 2 seconds to ensure target is clear of the upward path..
+

@@ -1,0 +1,71 @@
+This document describes the PRP-3 (Val) Russian Amphibious Artillery Reconnaissance Vehicle.
+
+The PRP-3 is a forward observation vehicle of Soviet origin. Development took place throughout the 1960's. Its role is to acquire the exact location of enemy unit formations. Additionally it plots enemy artillery positions for counter battery fire. The PRP-3 was succeeded on the production line by the PRP-4 series.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation.
+
+Here is System information for the PRP-3 (Val) Russian Amphibious Artillery Reconnaissance Vehicle:
+The Alternative Designation is PRP-3.
+The Type is Artillery Reconnaissance Vehicle / Forward Observer.
+The Manufacturer is Rubtsovsk Machine Building Plant, a part of Russian company Uralvagonzavod..
+The Family is PRP Series.
+The Crew is 5.
+The Passenger Capacity is INA.
+The Chassis is The PRP-3 is based on the BMP-1..
+
+Here is Dimensions information for the PRP-3 (Val) Russian Amphibious Artillery Reconnaissance Vehicle:
+The Length is 6.74 m.
+The Width is 2.94 m.
+The Height is 2.15 m.
+The Weight, Combat is 13.8 tons.
+The Ground Pressure is INA.
+
+Here is Automotive information for the PRP-3 (Val) Russian Amphibious Artillery Reconnaissance Vehicle:
+The Engine Name is UTD-20.
+The Engine Type is V6, Diesel.
+The Engine Power is 300.
+The Range is 550.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 7.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.7 m.
+The Trench is 2.2 m.
+The Fording Depth is Amphibious.
+
+Here is Main Gun information for the PRP-3 (Val) Russian Amphibious Artillery Reconnaissance Vehicle:
+The Note is The PRP-3is armed only with a 7.62 mm machine gun for self-defense..
+
+Here is Communications information for the PRP-3 (Val) Russian Amphibious Artillery Reconnaissance Vehicle:
+The R-123M Radio is 2 x Radio Sets.
+The R-124 Radio is 1 x Radio Set.
+The R-108 Radio is 1 x Radio Set.
+The Note: is Monitors multiple Command and Fire Control nets..
+
+Here is Radar information for the PRP-3 (Val) Russian Amphibious Artillery Reconnaissance Vehicle:
+The Name is 1 x IRL-123 Battlefield Surveillance Radar (Small Fred).
+The Type is Tactical Ground Tracking and Detection Radar.
+The Wavelength is J-Band (10-20 Ghz).
+The Targets is This radar detects mobile and stationary targets..
+The Detection Range is 20 km.
+The Tracking Range is 7 km.
+
+Here is Fire Control information for the PRP-3 (Val) Russian Amphibious Artillery Reconnaissance Vehicle:
+The Name is INA.
+The Computerized FCS is No.
+The Laser Rangefinder is Yes, model 1D6.
+The Thermal Camera is No.
+The Optical Electronic Surveillance System Range is 20-40 meters.
+The Dismounted Observation Post Maximum Distance from the Vehicle is 6 km.
+
+Here is Protection information for the PRP-3 (Val) Russian Amphibious Artillery Reconnaissance Vehicle:
+The Hull Armor is The vehicle's armor is welded rolled steel varying in thickness between 6 millimetres (0.24 in) thick on the top of the hull.  Armor of this reconnaissance vehicle provides all-round protection against 12.7 mm rounds. Front arc partially withstands 20 mm rounds..
+The Turret Armor is 33 mm.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+

@@ -1,0 +1,79 @@
+This document describes the Pulau Rengat Class Indonesian Minehunter.
+
+The Indonesian Navy ordered two minehunters based on the Alkmaar class from the Netherlands on 29 March 1985. Known as the Pulau Rengat class, the vessels have a standard displacement of 520 tonnes (510 long tons) and 594 tonnes (585 long tons) at full load. They have a different layout than European Tripartite minehunters due to their mission profile being larger, with the vessels intended to operate as minehunters, minesweepers and patrol ships. For conventional missions the vessels are powered by two MTU 12V 396 TCD91 diesel engines turning one shaft with a LIPS controllable pitch propeller rated at 1,400 kilowatts (1,900 hp) for a maximum speed of 15.5 knots (28.7 km/h; 17.8 mph). The minehunters are also equipped with two 56-kilowatt (75 hp) bow thrusters and two retractable Schottel 89-kilowatt (120 hp) rudder propellers energised by three Turbomecca gas turbine generators. Using the auxiliary propulsion system, the Pulau Rengat class has a maximum speed of 7 knots (13 km/h; 8.1 mph). They have a range of 3,500 nautical miles (6,500 km; 4,000 mi) at 10 knots (19 km/h; 12 mph).
+
+The Pulau Rengat class mounts two Rheinmetall 20 mm guns and have the capability to have Matra Simbad surface-to-air missile launchers installed or a third 20 mm gun. The Pulau Rengats are equipped with OD3 Oropesa mechanical sweep gear, Fiskar F82 magnetic sweep and SA Marine AS 203 acoustic sweep gear for minesweeping duties. They also have an Ibis V minehunting system and two PAP 104 Mk 4 mine disposal systems along with the Signaal SEWACCO-RI combat data system, Racal Decca AC 1229C radar and Thomson Sintra TSM 2022 sonar. 
+
+Ships in class (Indonesia)
+Initially, Indonesia intended to order ten hulls. However, funds were lacking and only two were built. The first was ordered on 29 March 1985 and the second on 30 August 1985. The two ships were initially part of the Royal Netherlands Navy production and were given Dutch names. They were renamed upon sale to Indonesia.
+
+This equipment has proliferated into the following countries: Indonesia.
+
+Here is Variants information for the Pulau Rengat Class Indonesian Minehunter:
+The Pulau Rengat (ex-Willemstad) is Commissioned: 1988
+Status: Active.
+The Pulau Rupat (ex-Vlaardingen) is Commissioned: 1988
+Status: Active.
+
+Here is System information for the Pulau Rengat Class Indonesian Minehunter:
+The Alternative Designation is Pulau Rengat Class.
+The Type is Minehunter.
+The Builder is Franch; Company: INA.
+The Crew is 34-42.
+The Mine Warfare System is The Pulau Rengats are equipped with OD3 Oropesa mechanical sweep gear, Fiskar F82 magnetic sweep and SA Marine AS 203 acoustic sweep gear for minesweeping duties. They also have an Ibis V minehunting system and two PAP 104 Mk 4 mine disposal systems along with the Signaal SEWACCO-RI combat data system, Racal Decca AC 1229C radar and Thomson Sintra TSM 2022 sonar. The ships have a complement of 46...
+
+Here is Dimensions information for the Pulau Rengat Class Indonesian Minehunter:
+The Length is 51.6 m.
+The Beam is 9.0 m.
+The Draft is 2.6 m.
+The Displacement, Standard is 510 tons.
+The Displacement, Full Load is 540 tons.
+
+Here is Propulsion System information for the Pulau Rengat Class Indonesian Minehunter:
+The Engine Name is 2 x MTU 12V 396 TCD91 Diesel Engines.
+The Engine Type is Diesel.
+The Engine Power is one shaft with a LIPS controllable pitch propeller rated at 1,400 kilowatts (1,900 hp).
+The Auxiliary Power is 2 x 120-shp ACEC active rudders (for minesweeping).
+The Bow-Thrusters is 2 x  75-shp bow-thrusters.
+The Maximum Speed is 15 kts (7 kts hunting).
+The Maximum Range is 3,500 nm at 10 kts.
+The Endurance is 15 days.
+
+Here is Gun Weapon System #1 information for the Pulau Rengat Class Indonesian Minehunter of the Gun Weapon Systems:
+The Name is Rheinmetall Mk 20 Rh-202.
+The Type is Naval Autocannon.
+The Caliber is 20mm.
+The Quantity is 2 x Rheinmetall Mk 20 Rh-202.
+The Length is 2,612 mm.
+The Height is 241 mm.
+The Weight is 83 kg.
+The Action is Gas unlocked blowback.
+The Elevation is INA.
+The Rate of Fire is 880 to 1,030 rpm.
+The Muzzle Velocity is 1,044 m/s with HEI
+1,100 m/s with AP.
+The Effective Firing Range is 1,600 m against high flying aircraft;
+2,500 m against ground targets.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Pulau Rengat Class Indonesian Minehunter of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 20.
+The Cartridge is 20×139mm.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Pulau Rengat Class Indonesian Minehunter:
+The FCS Name is INA.
+The Computerized FCS is No.
+
+Here is Radar Systems information for the Pulau Rengat Class Indonesian Minehunter:
+The Navigation Radar is Racal Decca AC 1229C Radar.
+
+Here is Sonar Systems information for the Pulau Rengat Class Indonesian Minehunter:
+The Hull Mounted Sonar is 1 x Thales TSM-2022 Mk II hull-mounted HF Sonar.
+The Minehunting Sonar is 1 x Thomson Sintra TSM 2022 sonar.
+
+Here is Protection information for the Pulau Rengat Class Indonesian Minehunter:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

@@ -1,0 +1,99 @@
+This document describes the M142 (HIMARS) American Artillery Rocket System.
+
+The M142 High Mobility Artillery Rocket System (HIMARS) is a light multiple rocket launcher developed in the late 1990s for the United States Army, mounted on a standard Army M1140 truck frame.
+
+The HIMARS carries six rockets or one MGM-140 ATACMS missile on the U.S. Army's new Family of Medium Tactical Vehicles (FMTV) five-ton truck, and can launch the entire Multiple Launch Rocket System Family of Munitions (MFOM). HIMARS ammunition is interchangeable with the MLRS M270A1, however it is only able to carry one pod rather than the standard two for the M270 and A1 variants.
+
+The launcher is C-130 transportable. The chassis was produced by BAE Systems Mobility & Protection Systems (formerly Armor Holdings Aerospace and Defense Group Tactical Vehicle Systems Division), the OEM of the FMTV; however, since 2010, the M1140 has been produced by the Oshkosh Corporation by their Defense division. The rocket launching system is produced by Lockheed Martin Missiles & Fire Control.
+
+This equipment has proliferated into the following countries: CFE Treaty, Jordan, Poland, Romania, Singapore, Ukraine, United Arab Emirates, United States of America.
+
+Here is System information for the M142 (HIMARS) American Artillery Rocket System:
+The Alternative Designation is M142 HIMARS.
+The Type is Wheeled 6x6 Multiple Launch Rocket System (MLRS).
+The Crew is 3 (section chief, gunner and driver).
+The Chassis is Oshkosh Defense- FMTV 6 × 6; however, the HIMARS launcher can be fitted onto other 6 × 6 tactical truck chassis types with similar payload capabilities..
+The Displacement Time is Less than 3 min.
+The Emplacement Time is Less than 3 min.
+
+Here is Dimensions information for the M142 (HIMARS) American Artillery Rocket System:
+The Length is 7.7.
+The Width is 2.4.
+The Height is 2.91.
+The Ground Clearance is 0.56.
+The Combat Weight is 15,873.
+
+Here is Automotive information for the M142 (HIMARS) American Artillery Rocket System:
+The Engine Name is Caterpillar 3116 ATAAC.
+The Engine Type is 6.6 liter, 6 cylinders, turbocharged diesel.
+The Engine Power is 330 hp at 2600 rpm.
+The Suspension is torsion bar, 6 dual road wheels, front drive, rear idler, 2 shock absorbers, 4 return rollers.
+The Maximum Speed is 64 km/h.
+The Maximum Range is 484 km.
+The Amphibious is No.
+The Fording is 1.5 m (with preparation).
+The Gradient is 60 percent.
+
+Here is Launcher information for the M142 (HIMARS) American Artillery Rocket System of the Main Weapon System:
+The Name is M269 launcher loader module (LLM).
+The Type is Launcher Loader Module.
+The Caliber is 227 mm.
+The Number of Cells is 6.
+The Elevation is 60 deg (1,067 mils).
+The Elevation Rate is 0.9 deg (15.5 mils).
+The Traverse is +/-194 deg (3,449 mils) each side of centerline.
+The Rate of Fire is less than 30 seconds for 6 missiles.
+The Reload Time is 4 min.
+
+Here is Ammunition (Option 1) information for the M142 (HIMARS) American Artillery Rocket System of the Main Weapon System:
+The Name is M26.
+The Length is 3.94 m.
+The Diameter is 227 mm.
+The Weight is 306 kg.
+The Warhead is 156 kg.
+The Maximum Range is 32 km.
+The Basic Load is 6.
+
+Here is Ammunition (Option 2) information for the M142 (HIMARS) American Artillery Rocket System of the Main Weapon System:
+The Name is AT2.
+The Length is 3.94 m.
+The Diameter is 227 mm.
+The Weight is 259 kg.
+The Warhead is 107 kg.
+The Maximum Range is 40 km.
+The Basic Load is 6.
+
+Here is Ammunition (Option 3) information for the M142 (HIMARS) American Artillery Rocket System of the Main Weapon System:
+The Name is GMLRS.
+The Length is 3.94.
+The Diameter is 227 mm.
+The Weight is 259 kg.
+The Warhead is 302 kg.
+The Maximum Range is 60 km.
+The Basic Load is 6.
+
+Here is Ammunition (Option 4) information for the M142 (HIMARS) American Artillery Rocket System of the Main Weapon System:
+The Name is MGM-140 ATACMS.
+The Length is 4.0 m.
+The Diameter is 610 mm.
+The Weight is 270 kg.
+The Warhead is 120 kg.
+The Maximum Range is 128 km.
+The Basic Load is 1.
+
+Here is Fire Control information for the M142 (HIMARS) American Artillery Rocket System:
+The Name is Lockheed Martin Universal Fire Control System (UFCS).
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Note is In a typical mission, a command and control post would transmit the selected target data via a secure data link to the HIMARS on-board launch computer. The computer then aims the launcher and provides prompt signals to the crew to arm and fire a pre-selected number of rounds. The launcher can aim at a target in just 16 seconds. It is possible for the crew to select pre-programmed multiple mission sequences, which have been stored in the computer..
+
+Here is Protection information for the M142 (HIMARS) American Artillery Rocket System:
+The Cab Armor is The cab is protected against small-arms fire and shell fragments by aluminum armor and louvred windows..
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The NBC Protection is No.
+The Smoke Equipment is No.
+The EMP is INA.
+

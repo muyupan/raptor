@@ -1,0 +1,65 @@
+This document describes the CH-53 Sea Stallion American Heavy-lift Helicopter.
+
+The CH-53 Sea Stallion is a family of heavy-lift transport helicopters designed and built by Sikorsky Aircraft. Originally developed for use by the United States Marine Corps, it is currently in service with Germany, Iran, Israel, and Mexico. The United States Air Force operated the HH-53 "Super Jolly Green Giant" during the late– and post–Vietnam-War era, updating most of them as the MH-53 Pave Low.
+
+This equipment has proliferated into the following countries: Austria, CFE Treaty, Germany, Iran (Islamic Republic of), Israel, Japan, Mexico, United States of America.
+
+Here is Variants information for the CH-53 Sea Stallion American Heavy-lift Helicopter:
+The CH-53A is Initial Production Model; deliveries to the USMC; 139 airframes produced..
+The RH-53A is Based on the CH-53A production models; fitted with 2 x General Electric T64-GE-413 engines of 3,925 horsepower; US Navy use as mine countermeasures platform; 15 models converted from CH-53As..
+The TH-53A is Simplified USAF trainers based on the CH-53A production models..
+The CH-53D is Powered folding main rotor; increased cabin space for up to 55 passengers; improved transmission system; USMC usage; 125 production airframes..
+The RH-53D is USN mine countermeasures variant based on the CH-53D production models; in-flight refueling capable; 2 x 12.7mm machine guns for self-defense; 30 new-build for USN and 6 examples delivered to the Iranian Navy pre-1979..
+The VH-53D is VIP transport variant; 2 CH-53Ds converted to this configuration..
+The CH-53D "Yas'ur" is Israeli CH-53D model designation..
+The CH-53G is German Export Model; based on the CH-53D; 112 examples produced; production split by Fokker and Sprey..
+The CH-53GS is Updated CH-53G models; implementation of anti-missile system and external fuel tanks; revised navigation and communications suite; upgraded T64-100 powerplants; self-defense machine guns..
+The CH-53GSX is Updated CH-53G production models; revised electronics; dust filters installed; external fuel tanks; countermeasures; six updated as such..
+The CH-53GA is Updated CH-53G production models; implementation of autopilot system; revised navigation and communications suites; revised cockpit; FLIR; electronic countermeasures; internal fuel tank capacity..
+The HH-53 "Super Jolly Green Giant" is Super Jolly Green Giant" - Long Range Combat Search and Rescue platform..
+The MH-53 "Pave Low" is Heavy-lift Helicopter.
+The CH-53E "Super Stallion" is Heavy-lift Cargo Helicopter..
+The MH-53E is USN Mine Countermeasures Platform..
+
+Here is System information for the CH-53 Sea Stallion American Heavy-lift Helicopter:
+The Alternative Designation is CH-53 Sea Stallion.
+The Type is Heavy-lift Helicopter.
+The Primary Function is Troop Transport, Cargo, VIP Transport, Navy/Maritime.
+The Crew is 3.
+The Blades, Main Rotor is 6.
+The Blades, Tail Rotor is 4.
+The Number of Engines is 2.
+The Flight Controls is The CH-53 has mechanical flight controls which are backed by three independent hydraulic systems..
+The Hard Points is 5.
+
+Here is Dimensions information for the CH-53 Sea Stallion American Heavy-lift Helicopter:
+The Length is 29.97.
+The Width is 22.
+The Main Rotor Diameter is 24.08.
+The Weight, Combat is 19,000.
+The Height is 7.6.
+
+Here is Automotive information for the CH-53 Sea Stallion American Heavy-lift Helicopter:
+The Engine Name is General Electric T-64-GE-413.
+The Engine Type is Turboshaft Engine.
+The Engine Power is 3,925.
+The Cruising Range is 600.
+The Speed, Maximum is 173.
+The Speed, Average is 150.
+The Maximum Altitude is 5,106.
+
+Here is Avionics information for the CH-53 Sea Stallion American Heavy-lift Helicopter:
+The Navigation Radar is Modernized IFR equipment..
+The Digital or Analog Cockpit is Most models have been retrofitted with digital components..
+
+Here is Protection information for the CH-53 Sea Stallion American Heavy-lift Helicopter:
+The Add on Armor is Partial armor available, decreases flight range and performance..
+The Stealth Properties is INA.
+The Heat Signature Reduction is INA.
+The NBC Protection is INA.
+The EW Counter Measures/CCM is Equipped, exact detail not released..
+The Counter Measures (Chaff/Flares) is IR homing missile jammers..
+The Emergency Water Landing is The fuselage is watertight, though not intended for amphibious use, and is only intended to land on water in emergencies..
+The Machine Gun, 12.7mm BMG XM218 (Side Doors) is 2.
+The Machine Gun, 12.7mm BMG GAU-21 (Rear Ramp) is 1.
+

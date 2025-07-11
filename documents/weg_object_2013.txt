@@ -1,0 +1,75 @@
+This document describes the SPG-9 Kopye (Spear) Russian 73mm Tripod-Mounted Man-Portable Recoilless Gun.
+
+The SPG-9 Kopye (Spear) is a tripod-mounted man-portable, 73-millimeter caliber recoilless gun developed by the Soviet Union. It fires fin-stabilized, rocket-assisted HE and HEAT projectiles similar to those fired by the 73 mm 2A28 Grom low-pressure gun of the BMP-1 armored vehicle. It was accepted into service in 1962, replacing the B-10 recoilless rifle.
+
+The projectile is launched from the gun by a small charge, which gives it an initial velocity of between 250 and 400 meters per second. The launch charge also imparts spin to the projectile by a series of offset holes. Once the projectile has traveled approximately 20 meters (65.6 feet) from the launcher, a rocket motor in its base ignites. For the PG-9 projectile, this takes it to a velocity of 700 meters per second (2,297 feet per second) before the motor burns out.
+
+The SPG-9 is light, and is normally transported by vehicle, and carried into position by its two crew. It can be deployed in around a minute. The weapon is in service with a large number of armed forces, and a variety of ammunition is produced; however, they are mostly copies of the original Soviet PG-9 HEAT and OG-9 FRAG-HE rounds.
+
+The SPG-9 is widely available to terrorists and maritime pirates such as in the Horn of Africa region, as well as in other regions to a lesser degree. It is not as popular as the RPG-7 because it has to be mounted on a vehicle or boat and cannot be easily carried and shoulder-fired. The SPG-9 requires much more skill to fire accurately than the RPG-7. There have been reports of these mounted in skiffs and larger "mother ships". The SPG-9 can typically be found mounted on a wide variety of vehicles known as "technicals" in Somalia.
+
+A variant for use with airborne troops including detachable wheels was built as the SPG-9D.
+
+The SPG-9 was used by both sides during the Transnistria War, with at least one combat kill: a T-64BV of Russian peacekeepers was destroyed using an SPG.
+
+This equipment has proliferated into the following countries: Afghanistan, Armenia, Belarus, Bulgaria, Central African Republic, Cuba, Egypt, Georgia, Grenada, Hungary, Iran (Islamic Republic of), Iraq, Kyrgyzstan, Libya, Mali, Mongolia, Nepal, North Korea (Democratic People's Republic of Korea), Pakistan, Poland, Romania, Russian Federation, Sudan, Syria, Ukraine, Viet Nam.
+
+Here is Variants information for the SPG-9 Kopye (Spear) Russian 73mm Tripod-Mounted Man-Portable Recoilless Gun:
+The SPG-9 Kopye is The SPG‐9 (СПГ‐9, Станковый Противотанковый Гранатомет, Stankovyy Protivotankovyy Granatomet, literally meaning mounted anti‐tank grenade launcher) Kopye (Копье, lit. spear) is a Russian second‐generation battalion‐level anti‐tank weapon. The SPG‐9 is a lightweight 73 mm smoothbore recoilless anti‐tank gun that is operated by a crew of four. The SPG‐9 comprises four main components: the barrel assembly, the breech assembly, the tripod mount, and the sighting system..
+The SPG-9D is The SPG‐9D, its GRAU code 6G7 (6Г7), a wheeled variant used by the Russian airborne forces (VDV, ВДВ, Воздушно‐Десантные Войска, Vozdushno‐Desantnyye Voyska, lit. aerial landing troops). It was introduced at the same time as the base model..
+The SPG-9M is The SPG‐9M (СПГ‐9М), its GRAU code 6G13 (6Г13), an improved version of the SPG‐9. The SPG‐9M features a number of changes in comparison to the SPG‐9, known changes include a revised barrel; a revised mount; a new ammunition nature; a day sight; and a new night sight..
+
+Here is Dimensions information for the SPG-9 Kopye (Spear) Russian 73mm Tripod-Mounted Man-Portable Recoilless Gun of the System:
+The Length Firing (m) is 2.11.
+The Width is 990 mm allowing for full weapon traverse.
+The Height is 800 mm.
+The Weight Firing is 47.5.
+The Weight Travel is 47.5.
+The Weight Tripod is 12.
+
+Here is PG-9VNT information for the SPG-9 Kopye (Spear) Russian 73mm Tripod-Mounted Man-Portable Recoilless Gun of the Ammunition:
+The Type is Tandem HEAT Grenade.
+The Caliber is 73 mm.
+The Max Eff Range, Day is 1,000.
+The Max Eff Range, Night is 1,000.
+The Penetration is 550 mm.
+The Penetration after ERA is 400 mm.
+The Penetration Concrete is 1.
+The Penetration Brick is 1.
+The Penetration Earth is 1.8.
+The Muzzle Velocity is 400.
+
+Here is PG-9VS information for the SPG-9 Kopye (Spear) Russian 73mm Tripod-Mounted Man-Portable Recoilless Gun of the Ammunition:
+The Type is HEAT Grenade.
+The Caliber is 73 mm.
+The Max Eff Range, Day is 1,300.
+The Max Eff Range, Night is 1,300.
+The Penetration is 400 mm.
+The Penetration after ERA is 400 mm.
+The Penetration Concrete is 1.
+The Penetration Brick is 1.5.
+The Penetration Earth is 2.
+The Muzzle Velocity is 435.
+The Length is INA.
+The Weight is 4.4.
+
+Here is OG-9VM1 information for the SPG-9 Kopye (Spear) Russian 73mm Tripod-Mounted Man-Portable Recoilless Gun of the Ammunition:
+The Type is Frag HE Grenade.
+The Caliber is 73 mm.
+The Max Eff Range, Day is 4,500.
+The Max Eff Range, Night is 1,000.
+The Casualty Radius is 500.
+The Muzzle Velocity is INA.
+The Length is INA.
+The Weight is 5.3.
+
+Here is Other Ammunition information for the SPG-9 Kopye (Spear) Russian 73mm Tripod-Mounted Man-Portable Recoilless Gun of the Ammunition:
+The Description is SPG-9M CAN FIRE OLDER AMMUNITION FOR THE SPG-9. A ROCKET ASSIST CAN EXTEND FRAG-HE RANGE TO 6,000 M, BUT WITH INCREASED ERROR..
+
+Here is Sights information for the SPG-9 Kopye (Spear) Russian 73mm Tripod-Mounted Man-Portable Recoilless Gun:
+The Name is 2Ts35.
+The Type is FCS.
+The Sight Range Direct is 1,000.
+The Sight Range Indirect is 4,500.
+The Night Sights is 2 gen II.
+

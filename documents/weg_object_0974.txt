@@ -1,0 +1,101 @@
+This document describes the J-16 Chinese Multirole Strike Fighter Aircraft.
+
+The J-16 is a twin-engine, twin-seat multi-role fighter jet that is also capable of air-to-air combat. It made its debut during the Army Day parade on July 30, 2017 at the Zhurihe military training base in North China's Inner Mongolia Autonomous Region,
+
+Before the 30 July 2017 parade, the J-16 was never shown to the public. Developed by the Shenyang Aircraft Corporation, it is based on the J-11B, a modification of Russia’s Sukhoi-30MKK. Almost half of the equipment seen at the parade to mark the PLA’s 90th birthday was being displayed for the first time, and all of it was indigenously made, according to the Ministry of Defence. The fighter is designed for a naval role, and will carry “stand-off” missiles that can attack ships from beyond visual range. Contracry to initial reports, it has a conventional layout, and does nto incorporate notable stealth features.
+
+The J-16, built by the Shenyang Aircraft Corporation (SAC), is reportedly a stealthy dedicated attack version of the J-11B (Su-27) multirole fighter featuring active electronically scanned array [AESA] radar and an internal weapons bay. Chinese authorities had not formally released informtion on these developments. It was rumored in November 2010 that SAC was developing a 4.5th generation heavy multi-role fighter with a conventional layout based on J-11B. First flight of this reportedly "Silent Flanker" was rumored at that time to be within 2011.
+
+According to Hui Tong, the J-16 is a version of the J-11BS comparable to American F-15E. Sort of a 'strike flanker'. "The aircraft can be viewed as an upgraded version of Su-30MKK based on its mission and capability, which is comparable to American F-15E. First flight was rumored to be between 2011-2012. J-16 has tandem seats with a WSO sitting in the backseat. It features an enhanced fire-control system with additional AG modes. Besides PL-8 and PL-12 AAMs, it could also carry the same precision guided weapons being carried by JH-7A, such as KD-88 ASM and LS-500J LGB. Compared to JH-7A, J-16 is expected to have a more powerful radar, a greater weapon load (8t) and a longer range (4,000km). "
+
+In May 2011 China Military Report stated that "China's new 4.5 generation heavy fighter (Chinese name "Red Eagle"). August 2008 had been officially off the assembly line in Shenyang Aircraft Factory, in October 2008 in Beijing, an Air Force base in the outskirts of the first flight, October 12, 2009 conducted a second test, a complete success. J-18 is the 4.5 generation fighter aircraft are air superiority fighter heavy. Forward-swept wing fighter design using ultra-stealth characteristics, and install a laser active phased array radar, built-in weapons bay and two large thrust-vectoring engines. Service time is expected around 2015. So far there is no any official information about the machine, nor any information to prove the real existence of the aircraft. Only some information from some people speculate, and speculation of official news."
+
+In fact, the J-16 fighter's first flight had been pushed and pushed again. The main reason is that the weight of the design is overweight, but the greater headache was the funding constraints.
+
+This equipment has proliferated into the following countries: China, Malaysia.
+
+Here is Variants information for the J-16 Chinese Multirole Strike Fighter Aircraft:
+The J-16 is Strike variant..
+The J-16D is Electronic warfare variant. Equipped with wingtip electronic warfare pods, and no IRST or 30 mm cannon. It reportedly made its first flight in December 2015..
+
+Here is System information for the J-16 Chinese Multirole Strike Fighter Aircraft:
+The Alternate Designation(s) is J-16.
+The Primary Function / Type is Multirole Strike Fighter.
+The Manufacturer is Shenyang Aircraft Corporation.
+The Crew is 2.
+The Number of Engines is 2.
+The Number of Hard Points is Munitions on twelve external hardpoints.
+
+Here is Dimensions information for the J-16 Chinese Multirole Strike Fighter Aircraft:
+The Length is 21.9 m.
+The Width (Wing Span) is 14.7 m.
+The Height is 6.36 m.
+The Wing Area is 62.04 m2.
+The Empty Weight is 17,700 kg.
+The Gross Weight is 26,000 kg.
+The Maximum Takeoff Weight is 35,000 kg.
+
+Here is Automotive information for the J-16 Chinese Multirole Strike Fighter Aircraft:
+The Engine Name is 2 × Shenyang WS-10B afterburning turbofans.
+The Number of Engines is 2.
+The Engine Type is Afterburning turbofans.
+The Engine Power is 96 kN (22,000 lbf) thrust each dry, 145 kN (33,000 lbf) with afterburner.
+The Maximum Speed is Mach 2.4.
+The Maximum Range is 3,000 km.
+The Combat Range is 1,500 km.
+The Ferry Range is 4,500 km.
+The Service Ceiling is 20,000 m.
+The Rate of Climb is 325 m/s.
+
+Here is System information for the J-16 Chinese Multirole Strike Fighter Aircraft of the Main Gun System:
+The Name is Gryazev-Shipunov GSh-30-1.
+The Type is Autocannon.
+The Caliber is 30mm.
+The Length is 1,978 mm.
+The Barrel Length is 1,500 mm.
+The Width is 156 mm.
+The Height is 185 mm.
+The Weight is 46 kg.
+The Barrels is 1.
+The Action is Short recoil operated.
+The Rate of FIre is 1,800 rounds/min.
+The Muzzle Velocity is 900 m/s.
+The Maximum Firing Range is 1,800 m.
+The Effective Firing Range is 200-1,800 m.
+
+Here is Ammunition information for the J-16 Chinese Multirole Strike Fighter Aircraft of the Main Gun System:
+The Type is Rifle, Autocannon.
+The Caliber is 30 mm.
+The Shell is 30×165 mm.
+The Basic Load is 150 Rounds.
+
+Here is Main Missile System #1 information for the J-16 Chinese Multirole Strike Fighter Aircraft of the Main Missile Systems:
+The Name is PL-12.
+The Type is Air-to-Air Missile.
+The Operational Range is 70–100 km.
+The Guidance System is Active radar.
+The Basic Load is 8 x PL-12 Air-to-Air Missiles.
+
+Here is Main Missile System #2 information for the J-16 Chinese Multirole Strike Fighter Aircraft of the Main Missile Systems:
+The Name is PL-9.
+The Type is Air-to-Air Missile.
+The Operational Range is 22 km.
+The Guidance System is multi-element infrared.
+The Basic Load is 4 x PL-9 Air-to-Air Missiles.
+
+Here is Bomb Weapon Systems information for the J-16 Chinese Multirole Strike Fighter Aircraft:
+The Note is Various bombs and rockets including BeiDou satellite-guided bombs and laser-guided bombs.
+
+Here is Fire Control / Avionics information for the J-16 Chinese Multirole Strike Fighter Aircraft:
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Navigation Radar is INA.
+
+Here is Protection information for the J-16 Chinese Multirole Strike Fighter Aircraft:
+The Stealth Properties is Yes.
+The Heat Signature Reduction is Yes.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is Electronic countermeasure (ECM) pods.
+The Chaffs/Flares is Yes.
+

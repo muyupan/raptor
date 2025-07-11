@@ -1,0 +1,56 @@
+This document describes the SBA-60K2 Bulat Russian Armored Personnel Carrier (APC).
+
+The SBA-60K2 Bulat armored personnel carrier (APC) was developed jointly by Kamaz and Zaschita corporation as a private venture. Development of this vehicle commenced in 2010 and was completed by 2013. It is a further development of the earlier BPM-97 6x6 wheeled mine-resistant, ambush protected (MRAP) vehicle. Russia currently employs 15 Bulat vehicles received in late 2014, and ordered a new batch of further 50 vehicles from the Russian manufacturer Zashcita.
+
+The layout of the Bulat SBA-60-K2 is very similar to the old Soviet-built BTR-152, with the engine being placed at the front, the commander and driver are seated behind the engine, and the troop compartment placed at the rear. The Bulat APC consists on a KamAZ-5350 6x6 wheeled utility truck chassis fitted with a fully enclosed armored hull, and can be employed in many roles, including: transportation of soldiers and equipment, patrol and convoy escort duties, and Mine & IED clearance.
+
+The troop compartment has room for 8 fully equipped soldiers plus 2 crew members. The soldiers enter and exit the vehicle through the twin doors placed at the rear of the hull which open outwards, and each door is fitted with one single bulletproof glass window and one firing port. The roof of the crew compartment is fitted with 6 hatches, and both sides of the hull can be fitted with three to four bulletproof glass windows with a single firing port beneath each window.
+
+The Bulat APC is powered by a KamAZ-740.31-240 turbocharged diesel engine developing 240 hp, which is mated with a 10-speed manual transmission. Although built on a wheeled 6x6 configuration, it has a limited cross-country capability, being fitted with a central tyre inflation system and a self-recovery winch.
+
+Standard equipment includes air conditioning, an engine fire suppression system, and special racks for rifles and other personal weapons. There are a number of other available options, including a satellite-based land navigation system, cameras for 360-degree situational awareness, and additional heating.
+
+The armour on the Bulat can withstand direct hits from 7.62 mm calibre weapons. The vehicle features prominent, high-angled plated armour meant to deflect small-arms' rounds and artillery shell shrapnel, and features a V-shaped hull to increase protection against mine and IED blasts, with the bottom of the hull being resistant to explosions equivalent to 1 kg of TNT. The Bulat is also fitted with mine-resistant seats.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the SBA-60K2 Bulat Russian Armored Personnel Carrier (APC):
+The Alternative Designation is SBA-60K2 Bulat.
+The Type is Armored Personnel Carrier.
+The Crew is 2.
+The Passenger Capacity is 8.
+
+Here is Dimensions information for the SBA-60K2 Bulat Russian Armored Personnel Carrier (APC):
+The Length is 8 m.
+The Width is 2.5 m.
+The Height is 2.6 m.
+The Weight, Combat is 15.9–19.5 t.
+The Ground Pressure is INA.
+
+Here is Automotive information for the SBA-60K2 Bulat Russian Armored Personnel Carrier (APC):
+The Engine Name is KamAZ-740.31-240.
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Range is 800.
+The Speed, Maximum Road is 90.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is INA.
+
+Here is Main Weapon System information for the SBA-60K2 Bulat Russian Armored Personnel Carrier (APC):
+The Note is The SBA-60K2 Bulat can be equipped with either 1 × 7.62-mm or 12.7-mm Machine Guns.
+
+Here is Fire Control information for the SBA-60K2 Bulat Russian Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is No.
+
+Here is Protection information for the SBA-60K2 Bulat Russian Armored Personnel Carrier (APC):
+The Hull Armor is The armour on the Bulat can withstand direct hits from 7.62 mm calibre weapons.[4] The vehicle features prominent, high-angled plated armour meant to deflect small-arms' rounds and artillery shell shrapnel, and features a V-shaped hull to increase protection against mine and IED blasts, with the bottom of the hull being resistant to explosions equivalent to 1 kg of TNT. The Bulat is also fitted with mine-resistant seats..
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

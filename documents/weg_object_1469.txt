@@ -1,0 +1,126 @@
+This document describes the 2S31 Vena Russian Amphibious 120mm Self-Propelled Mortar.
+
+The 2S31 Vena is a self-propelled gun/mortar of Russian origin. It was developed as a more capable and more high-end alternative to the wheeled 2S23 Nona. The 2S31 was to be more capable in the direct fire role, and more useful as an artillery piece.
+
+The 2S31 is based on the chassis of the BMP-3 mechanized infantry combat vehicle. The driver is located at the front, the turret in the center, and the engine and drivetrain art located at the rear. The 2S31 features a high level of automation, an advanced fire control system, and an active protection system.
+
+
+The 120mm 2A80 rifled gun/mortar is the main armament. It is longer than the 120mm gun/mortars found on the tracked 2S9 and wheeled 2S23. Although rifle, it can fire 120mm shells designed for smoothbore and rifled barrels. Laser-guided shells can also be fired. A total of 70 shells of 120mm ammunition are carried, about twice as many as carried by 2S9 or 2S23. The effective range is highly dependent on the type of ammunition. Regular shells can be fired out to 5 or 9 km. Assisted projectiles can be fired up to 13 or 17 km, depending on the type. The maximum rate of fire is quoted as 8 to 10 rpm.
+
+The tracked chassis provides the 2S31 with good off-road mobility and the ability to keep up with mechanized infantry. The UTD-29 diesel engine provides up to 450 hp. The maximum speed is 70 km/h on roads. The 2S31 is amphibious and propelled in the water via a water jet.
+
+This equipment has proliferated into the following countries: Azerbaijan, CFE Treaty, Russian Federation, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the 2S31 Vena Russian Amphibious 120mm Self-Propelled Mortar:
+The 1B172-2 command vehicle is The 1B172-2 unified artillery command-observation post/command-and-staff vehicle is based on the same hull as the 2S31. It is fitted with additional communications equipment and a mast-mounted sensor package..
+The 120-mm 2S34 Khosta is This is an upgraded 2S1 self-propelled howitzer fitted with the complete 120-mm 2A80 gun from the 2S31, which is fitted with a muzzle brake. See separate record for more information..
+
+Here is System information for the 2S31 Vena Russian Amphibious 120mm Self-Propelled Mortar:
+The Alternative Designation is 2S31 Vena.
+The Type is Self-Propelled Mortar System.
+The Caliber is 120.
+The Chassis is BMP-3.
+The Crew is 4 (commander, gunner, loader, driver).
+The Emplacement Time is INA.
+The Displacement Time is INA.
+
+Here is Dimensions information for the 2S31 Vena Russian Amphibious 120mm Self-Propelled Mortar:
+The Hull Length is 7.511 m.
+The Hull Width is 3.366 m.
+The Hull Height is 3.439 m.
+The Maximum Ground Clearance is 510 mm.
+The Minimum Ground Clearance is 190 mm.
+The Track, Ground Length is 4.06 m.
+The Track, Width is 380 mm.
+The Combat Weight is 19,500 kg.
+
+Here is Automotive information for the 2S31 Vena Russian Amphibious 120mm Self-Propelled Mortar:
+The Engine Name is 1 x UTD-29M.
+The Engine Type is 10-cyl, 4 stroke V-shaped diesel.
+The Engine Power is 500.
+The Power-to-Weight Ratio is 25.64 hp/t.
+The Fuel Capacity is INA.
+The Suspension is Hydropneumatic shock absorbers.
+The Electrical System is 27 V.
+The Steering is differential with hydrostatic drive.
+The Range is 600 km.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 9.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.80 m.
+The Trench is 2.50 m.
+The Fording is Amphibious, 2 Waterjets.
+
+Here is System information for the 2S31 Vena Russian Amphibious 120mm Self-Propelled Mortar of the Main Weapon System:
+The Name is 1 x 2A80 Rifled Gun-Mortar.
+The Type is Gun-Mortar System.
+The Length, Barrel is INA.
+The Weight is INA.
+The Elevation is 4 deg to 80 deg (-71 mils to 1,422 mils).
+The Traverse is 360 deg (6,400 mils).
+The Rate of Fire is 8 to 10 round/min.
+The Maximum Firing Range is 13,000 m.
+The Note is The 2A80 is capable of firing all natures of 120 mm mortar ammunition in service with Russian Ground Troops, and this can include HEAT projectiles that are effective at a range of 500 m and provide a valuable direct-fire capability against armoured vehicles. The standard war shot is HE, but other options include cargo ammunition, and guided projectiles..
+
+Here is Ammunition (Option #1) information for the 2S31 Vena Russian Amphibious 120mm Self-Propelled Mortar of the Main Weapon System:
+The Name is INA.
+The Type is HE FRAG.
+The Caliber is 120.
+The Shell is INA.
+The Maximum Range is 13,000 m.
+The Armor Penetration is 120-mm 2A80 rifled semi-automatic gun firing mortar bombs, conventional armor-piercing and
+artillery rounds and Kitolov-2M laser-guided projectiles.
+The Basic Load is 70 Rounds.
+
+Here is Ammunition (Option 2) information for the 2S31 Vena Russian Amphibious 120mm Self-Propelled Mortar of the Main Weapon System:
+The Name is INA.
+The Type is Mortar Bomb.
+The Caliber is 120.
+The Shell is INA.
+The Maximum Range is 7,200 m.
+The Basic Load is 70 Rounds.
+
+Here is System information for the 2S31 Vena Russian Amphibious 120mm Self-Propelled Mortar of the Auxiliary Weapon System:
+The Name is 1 x PKMT 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Quantity is 1 x PKMT General-Purpose Machine Gun.
+The Length is 1,192 mm.
+The Barrel Length is 605 mm.
+The Weight is 7.5 kg.
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 650 rounds/min.
+The Muzzle Velocity is 825 m/s.
+The Maximum Firing Range is 3,800 m.
+The Effective Firing Range is 1,000 m.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Tangent iron sights (default);
+Optical, Night-vision, Thermal and Radar sights.
+
+Here is Ammunition information for the 2S31 Vena Russian Amphibious 120mm Self-Propelled Mortar of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Armor Penetration is INA.
+The Basic Load is INA.
+
+Here is Fire Control System information for the 2S31 Vena Russian Amphibious 120mm Self-Propelled Mortar:
+The Name is INA.
+The Computerized FCS is Yes, "Vena" features modern fire control system..
+The Main Gun Stabilization is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Laser Detector is Yes, A laser detector is mounted on the low part of the turret front, either side of the 120 mm 2A80 ordnance and on either side of the turret roof at the rear which is used in conjunction with the smoke grenade system..
+
+Here is Protection information for the 2S31 Vena Russian Amphibious 120mm Self-Propelled Mortar:
+The Hull Armor is The hull of the 2S31 is built from aluminum (possibly the ABT-102 alloy from Nii Stali), which is then covered with bolt-on hardened steel armor. Without the steel, the aluminum protects against small arms fire and shell splinters, and the additional steel, which is concentrated on the front of the vehicle, is sufficient to stop 30 mm rounds fired at a range of 200 m..
+The Turret Armor is The steel armor protects the crew from small arms fire and shells splinters..
+The Applique Armor is The vehicles can be fitted with bar armour to provide statistical protection against cumulative projectiles or RPG-7 type weapons. There is an additional armour kit available that appears to add spaced modules to the sides of the hull. It is thought to extend protection to 25 mm rounds fired at the sides of the hull and include air pockets to retain the amphibious capabilities of the platform..
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+

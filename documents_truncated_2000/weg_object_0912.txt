@@ -1,0 +1,129 @@
+This document describes the SA-342L Gazelle French Light Attack Helicopter.
+
+The SA-342L is a export light attack variant of the SA-341/342 Gazelle.
+
+
+The Eurocopter/Aerospatiale SA 341/342 Gazelle is a French built light utility helicopter which was first flown in 1967. Military missions include attack, antitank, anti helicopter, reconnaissance, utility, transport, and training. The three-blade main rotor is mounted on top of the fuselage at the rear of the cabin. The single turboshaft engine, mounted on top of the fuselage and to the rear of the rotor shaft, features a prominent, upturned exhaust. The teardrop-shaped fuselage has a round, glassed-in cockpit and landing skids. The tapering tail boom mid-mounted on the fuselage has a swept-back tail fin which is tapered with a square tip and rectangular flats with small fins. The fan rotor housing is built into the lower tail.
+
+This equipment has proliferated into the following countries: Angola, Bosnia and Herzegovina, Burundi, Cyprus, Ecuador, Egypt, France, Gabon, Iraq, Kuwait, Lebanon, Montenegro, Morocco, Qatar, Rwanda, Serbia, Tunisia, United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the SA-342L Gazelle French Light Attack Helicopter:
+The SA 341H is Can carry 4x AT-3 ATGMs, and 2x SA-7, or 128-mm or 57-mm rockets, and 7.62-mm
+machinegun in cabin.
+.
+The SA 341H is Export variant..
+The SA 342L is Export light attack variant with Astazou XIVM engine..
+The SA 342L is Export light attack variant with  either  rocket   pods  or
+Machine guns.
+.
+The SA 342K is Armed antitank version with 4-6x  HOT  ATGMs  and 7.62-
+mm MG. Missile Weight (kg): 32 (in tube). Warhead: Tandem shaped Charge. Armor Penetration (mm CE): 1250. Maximum Range (m): 75/4,000. Rate of fire (missiles/min): 3-4, depending on range.
+.
+The SA 342M is Armed version with 4 x HOT ATGMs, 2x Mistral AAM, 7.62-mm MG..
+The SA 341 GAZELLE is Developed by Aerospatiale in France. Others were built in the UK by       Westland,       and     in
+Yugoslavia.
+.
+The SA 341F is Production version for
+French Army. A GIAT M.621
+20-mm cannon is installed
+on right side of some
+aircraft.  Rate of fire is either
+300 or 740 rpm. Upgraded
+engine to Astazou IIIC.
+.
+The SA 342K is Armed SA 341F with Upgraded 870-shp Astazou XIVH engine, mostly
+exported to the Middle East
+.
+The SA 342M is Improved ground attack variant for French Army, with 4-6 HOT ATGMs, possibly fitted with Mistral air- to-air missiles. Similar to SA 342L, but with improved instrument panel, engine exhaust baffles to reduce IR signature, navigational systems, Doppler radar, and other night flying equipment. Fitted with Viviane FCS with thermal sight for night attack. This the Hybrid Threat Tier 1 baseline light helicopter..
+The SA 341B/C/D/E is Production versions for British military. Used in communications and training and roles.
+
+Here is Dimensions information for the SA-342L Gazelle French Light Attack Helicopter of the System:
+The Length, with Rotors Turning is 11.9.
+The Length, Fuselage is 9.5.
+The Rotor Diameter is 10.5.
+The Disc Area is 86.59 m sq.
+The Tail Rotor Diameter is 0.7.
+The Height is 3.1.
+The Weight is 2.0.
+The Length, Cargo Compartment is 2.2.
+The Width, Cargo Compartment is 1.3.
+The Height, Cargo Compartment is 1.2.
+The Weight, Maximum Take off is 2,000.
+The Weight, Payload is 700.
+The Weight, Empty is 997.
+
+Here is Automotive information for the SA-342L Gazelle French Light Attack Helicopter:
+The Engine Name is 1 x Turbomeca Astazou IIIB turboshaft.
+The Engine Type is Turboshaft.
+The Engine Power is 858.
+The Fuel, Internal is 545 Liters.
+The Fuel, Internal Aux Tank is 90 Liters.
+The Fuel, Additional Internal Aux Tank is 200 Liters.
+The Speed, Maximum is 260.
+The Speed, Economical is 232.
+The Range, At Sea Level (Internal Fuel Tank) is 710.
+The Range, at 4,000 feet (Aux Fuel Tank) is 1,091.
+The Climb Rate is 468 meters per minute.
+The Ceiling is 4,100.
+The Hover IGE ISA is 3,040 m.
+The Hover OGE ISA is 2,370 m.
+
+Here is Communication information for the SA-342L Gazelle French Light Attack Helicopter:
+The Radio is INA.
+
+Here is Main Weapon System information for the SA-342L Gazelle French Light Attack Helicopter of the Wing Mounted Weapon System:
+The Name is M621 Cannon.
+The Type is 20 mm automatic cannon.
+The Manufacturer is Nexter Systems.
+The In Service is INA-Present.
+The Length is 2,207.
+The Width is 202.
+The Height is 245.
+The Weight is 45.5.
+The Action is Blowback Operated.
+The Rate of Fire is 800.
+The Feed System is Open-link M12 belt.
+
+Here is Ammunition information for the SA-342L Gazelle French Light Attack Helicopter of the Wing Mounted Weapon System:
+The Type is Rifle.
+The Caliber is 20.
+The Cartridge is 20×102mm.
+The Muzzle Velocity is 1,005 m/s (3,297 ft/s) (AP-T)
+985 m/s (3,231.6 ft/s) (HEI and TP).
+The Basic Load is INA.
+
+Here is Missile System information for the SA-342L Gazelle French Light Attack Helicopter of the Wing Mounted Weapon System:
+The Name is Mistral (Missile).
+The Type is Infrared Homing Missile.
+The Manufacturer is MBDA (France).
+The In Service is 1988-Present.
+The Length is 1.86.
+The Diameter is 90.
+The Effective Firing Range is 6.
+The Warhead Type is High Explosive with high density tungsten balls.
+The Warhead Weight is 2.95.
+The Detonation Mechanism is Laser proximity or impact triggered.
+The Engine is Solid Rocket Motor.
+The Speed is 800.
+The Guidance System is Infrared Homing.
+
+Here is Fire Control and Avionics information for the SA-342L Gazelle French Light Attack Helicopter:
+The Fire Control System is Available.
+The Fire Control Radar is INA.
+The Laser Designator is Available.
+The NVG Compatible is Yes.
+The Autopilot is Yes.
+The Navigation Computer is Yes.
+The Sight is Roof-mounted stabilized sight available.
+The DCM is Radar warning receiver available.
+The FLIR is Available.
+
+Here is Protection information for the SA-342L Gazelle French Light Attack Helicopter:
+The Armor is INA.
+The Stealth Properties is No.
+The IR Signature Suppressor is Yes, IR signature suppressor on engine exhaust..
+The Add on Armor is INA.
+The NBC Protection is Yes.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

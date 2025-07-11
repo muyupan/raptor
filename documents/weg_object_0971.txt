@@ -1,0 +1,157 @@
+This document describes the JF-17 Thunder Pakistani Multirole Combat Aircraft.
+
+The JF-17 Thunder Pakistani Multirole Combat is a lightweight, single-engine, multi-role combat aircraft developed jointly by the Pakistan Aeronautical Complex (PAC) and the Chengdu Aircraft Corporation (CAC) of China. It was designed to replace the A-5C, F-7P/PG, Mirage III, and Mirage V combat aircraft in the Pakistan Air Force. The JF-17 can be used for multiple roles, including interception, ground attack, anti-ship, and aerial reconnaissance. Its designation "JF-17" by Pakistan is short for "Joint Fighter-17", while the designation and name "FC-1 Xiaolong" by China means "Fighter China-1 Fierce Dragon".
+
+This equipment has proliferated into the following countries: Myanmar, Nigeria, Pakistan.
+
+Here is Variants information for the JF-17 Thunder Pakistani Multirole Combat Aircraft:
+The JF-17A Block 1 is Single-seat variant. Production in China began in June 2006. The first three Chinese weapons to be integrated are the PL-5E II AAM, the SD-10 AAM, and the C-802A anti-shipping missile. Block 1 aircraft had performed "better than expected" according to PAF Air Commodore Junaid. Production of Block 1 was completed on 18 December when the fiftieth aircraft—58% of which was produced in Pakistan—was delivered. A Block 1 JF-17 had cost approximately US$15 million per unit..
+The JF-17A Block 2 is Single-seat variant. Production began on 18 December 2013 and initial testing began on 9 February 2015. These aircraft have air-to-air refuelling capability, improved avionics, enhanced load carrying capacity, data link, and electronic warfare capabilities. The construction will continue until 2016, after which the manufacture of Block 3 is planned. A Block 2 JF-17 costs approximately US$25 million per unit. Chairman of PAC, Air Marshal Javaid Ahmed said: "We will hand over 16 Block-II JF-17s to the PAF every year", and that the manufacturing plant has the capacity to produce 25 units in a year. According to local media, PAC rolled out the 16th Block 2 aircraft in December 2015 enabling the JF-17's 4th squadron formation. The JF-17B is a tandem two seat version would start testing in September 2016..
+The JF-17A Block 3 is Single-seat variant. Projected to feature further avionics advancements such as helmet-mounted display and sight (HMD/S) system, a new single panel multi-functional display (MFD), an active electronically-scanned array (AESA) radar paired with an infrared search and track (IRST) system, and a cockpit with a flight-control stick on the side, an NRIET KLJ-7A AESA radar, more use of composites, a new engine, and a two-seater cockpit option, with a top speed of 2.0+ Mach. Pakistani Air Force officials have described it as a "fourth generation plus" fighter jet. According to unconfirmed media reports the induction is expected to start around 2019. As of September 2016, the design of the JF-17 Block III has been finalized. The PAF is expected to place an order for 50 JF-17 Block-III fighter jets in the first half of 2017..
+The JF-17B Block 2 is Dual-seat variant, 8 of which were rolled out at PAC Kamra in December 2019. Its multi-roles include use as a (i) JF-17 conversion trainer; (ii) Lead-In Fighter Trainer (LIFT); (iii) ground-attack aircraft; and (iv) reconnaissance aircraft. The production of the first JF-17B was initiated by Pakistan and China in 2016. On 28 April 2017, the JF-17B took its maiden test flight in Chengdu.
+
+Here is System information for the JF-17 Thunder Pakistani Multirole Combat Aircraft:
+The Alternate Designation(s) is JF-17 THunder.
+The Primary Function / Type is Multirole Combat Aircraft.
+The Manufacturer is Pakistan Aeronautical Complex.
+The Crew is 1 (single-seat) or 2 (dual-seat).
+The Number of Engines is 1.
+The Number of Hard Points is 7 (2 × wing-tip, 4 × under-wing, 1 × under-fuselage) with capacity for dual ejector racks on each under-wing hardpoint.
+
+Here is Dimensions information for the JF-17 Thunder Pakistani Multirole Combat Aircraft:
+The Length is 14.93 m.
+The Width (Wing Span) is 9.44 m.
+The Height is 4.77 m.
+The Wing Area is 24.43 m2.
+The Empty Weight is 6,586 kg.
+The Max Takeoff Weight is 12,700 kg.
+The Payload is 4,600 kg.
+
+Here is Automotive information for the JF-17 Thunder Pakistani Multirole Combat Aircraft:
+The Engine Name is 1 × Klimov RD-93MA afterburning turbofan with digital electronic engine control (DEEC).
+The Number of Engines is 1.
+The Engine Type is Afterburning Turbofan.
+The Engine Power is 50.4 kN (11,300 lbf) thrust [197] dry, 85.6 kN (19,200 lbf) with afterburner.
+The Maximum Speed is Mach 1.6.
+The Cruise Speed is 1,359 km/h.
+The Stall Speed is 150 km/h.
+The Maximum Range is 2,500 km.
+The Combat Range is 1,352 km.
+The Ferry Range is 3,500 km.
+The Service Ceiling is 16,930 m.
+The G Limits is +8/-3 (limited by flight control system).
+The Rate of Climb is 300 m/s.
+
+Here is System information for the JF-17 Thunder Pakistani Multirole Combat Aircraft of the Main Gun System:
+The Name is Gryazev-Shipunov GSh-23.
+The Type is Autocannon.
+The Caliber is 23.
+The Length is 1,387 mm.
+The Barrel Length is 1,000 mm.
+The Weight is 49.2 kg.
+The Barrels is 2.
+The Action is Gas principle.
+The Rate of Fire is 3,400–3,600 rounds/min.
+The Muzzle Velocity is 715 m/s.
+
+Here is Ammunition information for the JF-17 Thunder Pakistani Multirole Combat Aircraft of the Main Gun System:
+The Type is Rifle, Autocannon.
+The Caliber is 23.
+The Cartridge is 23x115 mm.
+The Basic Load is INA.
+
+Here is Main Missile System #1 information for the JF-17 Thunder Pakistani Multirole Combat Aircraft of the Main Missile Systems:
+The Name is PL-5EII.
+The Type is Short-Range Air-to-Air Missile.
+The Manufacturer is Luoyang Electro-Optics Technology Development Centre (EOTDC),
+Hanzhong Nanfeng Machine Factor.
+The Length is 2.893 m.
+The Diameter is 0.127 m.
+The Wingspan is 0.617 m.
+The Weight is 83 kg.
+The Warhead is 6 kg blast-frag, or expanding rod (RF-fuse).
+The Detonation Mechanism is Active infrared, laser proximity fuse.
+The Engine is Solid-fuel rocket.
+The Operational Range is 16~18 km.
+The Maximum Speed is Mach 2.5.
+The Guidance System is Infrared homing, multi-element, dual band detector.
+
+Here is Main Missile System #2 information for the JF-17 Thunder Pakistani Multirole Combat Aircraft of the Main Missile Systems:
+The Name is PL-9C.
+The Type is Infrared-Homing Air-to-Air Missile.
+The Length is 2.9 m.
+The Diameter is 0.157 m.
+The Wingspan is 0.856 m.
+The Weight is 115 kg.
+The Warhead is 11.8 kg blast-frag, or expanding rod (RF-fuse).
+The Detonation Mechanism is laser proximity fuse.
+The Engine is Solid-fuel rocket.
+The Operational Range is 22 km (PL-9C, air-to-air), > 8km (surface-to-air).
+The Flight Altitude is 4.5k m (surface-to-air).
+The Maximum Speed is Mach 2+.
+The Guidance System is multi-element infrared.
+
+Here is Main Missile System #3 information for the JF-17 Thunder Pakistani Multirole Combat Aircraft of the Main Missile Systems:
+The Name is AIM-9L.
+The Type is Short-Range Air-to-Air Missile.
+The Manufacturer is Raytheon Company
+Ford Aerospace
+Loral Corp..
+The Length is 3.02 m.
+The Diameter is 127.0 mm.
+The Wingspan is 279.4 mm.
+The Weight is 85.3 kg.
+The Warhead Type is WDU-17/B annular blast-frag.
+The Warhead Weight is 9.4 kg.
+The Detonation Mechanism is IR proximity fuze.
+The Engine is Hercules/Bermite Mk. 36 Solid-fuel rocket.
+The Operational Range is 1.0 to 35.4 km.
+The Maximum Speed is Mach 2.5+.
+The Guidance System is Infrared homing.
+
+Here is Bomb #1 information for the JF-17 Thunder Pakistani Multirole Combat Aircraft of the Bomb Weapon Systems:
+The Name is Mark 82.
+The Type is Unguided General-Purpose Bomb.
+The Length is 2.22 m.
+The Diameter is 273 mm.
+The Weight is 227 kg.
+The Filling is Tritonal, Minol (explosive) or Composition H6.
+The Filling Weight is 87 kg.
+The Cook Off Time is approximately 2 minutes 30 seconds..
+
+Here is Bomb #2 information for the JF-17 Thunder Pakistani Multirole Combat Aircraft of the Bomb Weapon Systems:
+The Name is Mark 83.
+The Type is Unguided General-Purpose Bomb.
+The Length is 3000 mm.
+The Diameter is 357 mm.
+The Weight is 459 kg.
+The Filling is Tritonal, Minol or Composition H6.
+The Filling Weight is 202 kg.
+The Note is The Mk 83 is a streamlined steel casing containing 445 lb (202 kg) of tritonal high explosive. When filled with PBXN-109 thermally insensitive explosive, the bomb is designated BLU-110..
+
+Here is Bomb #3 information for the JF-17 Thunder Pakistani Multirole Combat Aircraft of the Bomb Weapon Systems:
+The Name is Mark 84.
+The Type is General-Purpose Bomb.
+The Length is 3280 mm.
+The Diameter is 458 mm.
+The Weight is 925 kg.
+The Filling is Tritonal, Minol or Composition H6.
+The Filling Weight is 429 kg.
+The Note is It is a streamlined steel casing filled with 945 lb (429 kg) of Tritonal high explosive..
+
+Here is Fire Control / Avionics information for the JF-17 Thunder Pakistani Multirole Combat Aircraft:
+The Fire Control Radar is KLJ-7 v2 Airborne Pulse Doppler Fire-Control Radar ( Range-150 km for 3m2 RCS aircraft.).
+The Radar Warning Receiver is Northrop Grumman ALR-67 Rader Warning Recever (RWR).
+The Airborne Missile Approach Warning System is S740 Airborne Missile Approach Warning System (MAWS).
+The Tactical Data Link is Link-17 Tactical Data Link and the MIL-STD-1760 data-bus.
+The Advanced Targeting Pod Electro-Optical Reconnaissance, Surveillance, and Targeting System is Aselsan ASELPOD Advanced Targeting Pod Electro-Optical Reconnaissance, Surveillance, and Targeting System.
+
+Here is Protection information for the JF-17 Thunder Pakistani Multirole Combat Aircraft:
+The Stealth Properties is INA.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The EW Counter Measures is Indra ALQ-500P Electronic Countermeasure (ECM).
+The Chaffs/Flares is Yes.
+The Jamming Pod is KG300G Airborne Self-Protection Jamming Pod and 
+KG600 Airborne Self-Protection Jamming Pod.
+

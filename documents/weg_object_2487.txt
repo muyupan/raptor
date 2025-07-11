@@ -1,0 +1,218 @@
+This document describes the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar.
+
+PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar Howitzer (SPMH) in use by Chinese mechanized infantry formations. Conceptually it is similar to the Russian 2S23 "Nona-SVK" (the turret and weapon system of the 2S9 Nona mounted on a BTR-80 chassis) three of which China purchased for evaluation.  At one time it was reported that China would purchase 100 of the Russian vehicles however, this failed to occur, nor does it appear that there was a formal transfer of technology to China. The Chinese system features a longer barreled weapon mounted on the Type 92 variant of the WZ551 armored personnel carrier. The PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar Howitzer (SPMH) is based on the WZ-551 6x6 wheeled chassis, which is already in use for various other roles. For instance, the ZSL-92 infantry fighting vehicle is common in Chinese service. The main armament is the breach-loaded 120mm gun/mortar that is connected to a semi-automatic loader. The maximum effective range is 8.5 km for 120mm mortar rounds, 9.5 km for a howitzer-like projectile, and 12.8 km for rocket-assisted mortar shells. It is mainly used for indirect fire but is also capable of direct fire using both HE and HEAT-FS shells up to 1.2 km. The maximum rate of fire is 6 to 10 rounds per minute. Secondary armament consists of the 12.7mm QJC88 heavy machine gun which is mounted on the turret roof. The QJC88 is used for self-defense against nearby infantry, light armored vehicles, and helicopters.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar:
+The WMA029 is Export Version..
+The PLZ-10 (Type 05A) is Tracked Variant based on the hull of the ZBD-08..
+The Type 07PA is Wheeled export version..
+
+Here is System information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar:
+The Alternative Designation is PLL-05;  Type 05;  WMA029.
+The Type is Self-Propelled Mortar System.
+The Caliber is 120 mm.
+The Manufacturer is NORINCO.
+The Configuration is 6x6.
+The Status is In Service and Production.
+The Estimated out of Service Date is 2040.
+The Family is PLL Family.
+The Chassis is Based off of the Chinese WZ551 APC hull..
+The Crew is 4.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Maximum Effective Range (Road) is 800.
+The Maximum Effective Range (Howitzer) is 9.5.
+The Note is The PLL-05 is highly mobile and can be rapidly deployed using road and motorway networks..
+
+Here is Dimensions information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar:
+The Length is 6.695 m.
+The Width is 2.8 m.
+The Height is 2.82 m.
+The Wheelbase is 1.9 m + 1.9 m.
+The Weight is 16,500 kg.
+The Ground Clearance is 0.41 m.
+
+Here is Automotive information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar:
+The Engine Name is Deutz BF8L413FV.
+The Engine Type is V-8, air-cooled diesel engine.
+The Engine Power is 320 hp at 2,500 rpm.
+The Transmission is ZF 6HP500 automatic transmission.
+The Fuel Capacity is 400 liters.
+The Suspension is Coil springs and hydraulic shock absorbers.
+The Electrical System is 24V.
+The Gearbox is ZF 6HP500, Automatic. Fwd. 5, Rev: 1.
+The Steering is hydraulic, first and second axles.
+The Clutch is torque converter.
+The Tires is 14.00 × 20 run flat.
+The Range is 800.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is 75.
+The Speed Maximum Swim is 8.
+The Fully Amphibious is Yes.
+The Powered Steering is Yes, Standard.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.6.
+The Trench is 1.2.
+The Fording Depth is Amphibious.
+
+Here is TBR-142 information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar of the Communications:
+The VHF FM Transceiver is Yes, TBR-142(I).
+The VHF Range is 1 to 50.
+The Megahertz is 40.000 to 59.975.
+The Output Power is 1 to 0.3.
+The Power is 12V Ni-Ca Rechargeable Battery or external 12V DC power source.
+The Weight is 2.7.
+The Antennas is 3 Total: a 1.3m whip antenna, a 0.3m short antenna, and a 10m  wire antenna.
+The Proliferated is Widely with Artillery/Gun/Missile/Reconnaissance/C2 Units.
+The Control Device is TBR-142(II).
+The Multi-function Field Phone is TBR-142(IIID).
+The Anti-Aircraft Control Unit is TBR-142(IIIG).
+The ZXY88-200 C2 Capable is Yes.
+The Messaging is Limited Capability.
+The Amplifier is Available.
+The Physical Conditions Limitations is Terrain and Weather favorable.
+
+Here is System information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar of the Main Gun:
+The Name is 1 × turret mounted 120mm mortar.
+The Type is Mortar Howitzer.
+The Caliber is 120 mm.
+The Length, Barrel is INA.
+The Loader Type is semi-automatic ammunition loading system..
+The Breech Type is vertical sliding breech mechanism.
+The Fume Extractor is No.
+The Thermal Sleeve is No.
+The Muzzle Break is No.
+The Max Rate of Fire is 6-8 rds/min for HE, 10 rds/min for Mortar Bomb, 4-6 rds/min for HEAT.
+The Sustain Rate of Fire is See Above.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Max Elevation is +80.
+The Min Elevation is -4.
+The Traverse Range is 360.
+The Range Finder Type is Laser.
+The Note is The PLL-05 can also fire the GP120, GP4, GP120 GMB, and GP120A.
+
+Here is Ammunition (Option 1) information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar of the Main Gun:
+The Type is HE (WMA 029).
+The Caliber is 120.
+The Length is 709.
+The Weight is 13.9.
+The Warhead Weight is 1.8 kg TNT.
+The Muzzle Velocity is 425.
+The Fuse Type is INA.
+The Maximum Effective Range is 8,500.
+The Minimum Effective Range is 400.
+The Armor Penetration is Yes.
+The Pre-Engraved Casing is No.
+The Basic Load is 30 Total, any type of projectile combination.
+
+Here is Ammunition (Option 2) information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar of the Main Gun:
+The Type is HE (WMA 029).
+The Caliber is 120.
+The Length is 600.
+The Weight is 17.3.
+The Warhead Weight is 5 kg TNT.
+The Muzzle Velocity is 425.
+The Fuse Type is INA.
+The Maximum Effective Range is 9,500.
+The Minimum Effective Range is 1,000.
+The Armor Penetration is Yes.
+The Pre-Engraved Casing is No.
+The Basic Load is 30 Total, any type of projectile combination.
+
+Here is Ammunition (Option 3) information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar of the Main Gun:
+The Type is HEAT (WMA 029).
+The Caliber is 120.
+The Length is 625.
+The Weight is 10.
+The Warhead Type is HEAT.
+The Muzzle Velocity is 425.
+The Fuse Type is INA.
+The Maximum Effective Range is 1,200.
+The Minimum Effective Range is 600.
+The Armor Penetration is Yes.
+The Pre-Engraved Casing is Yes.
+The Basic Load is 30 Total, anytype of projectile combination.
+
+Here is Ammunition (Option 4) information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar of the Main Gun:
+The Type is Cargo (BM3).
+The Caliber is 120.
+The Length is 621.
+The Weight is 17.3.
+The Payload is 30 bomblet.
+The Muzzle Velocity is INA.
+The Fuse Type is INA.
+The Maximum Effective Range is 9,000.
+The Minimum Effective Range is INA.
+The Armor Penetration is INA.
+The Pre-Engraved Casing is No.
+The Basic Load is 30 Total, anytype of projectile combination.
+
+Here is Ammunition (Option 5) information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar of the Main Gun:
+The Type is Rocket-assisted projectile (RAP).
+The Caliber is 120.
+The Length is 600.
+The Weight is 17.3.
+The Payload is 3.25.
+The Muzzle Velocity is 265.
+The Fuse Type is INA.
+The Maximum Effective Range is 13,500.
+The Minimum Effective Range is INA.
+The Armor Penetration is Yes.
+The Pre-Engraved Casing is Yes.
+The Basic Load is 30 Total, anytype of projectile combination.
+
+Here is System information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar of the Coaxial Weapon System:
+The Name is 1 x QJZ-89.
+The Caliber is 12.7.
+The Type is Heavy Machine Gun.
+The Manufacturer is NORINCO.
+The Length, Total is 2,119.
+The Length, Barrel is 1,003.
+The Weight (Gun Only) is 17.5.
+The Weight (Tripod Only) is 8.5.
+The Action is Gas/Recoil.
+The Muzzle Velocity is 850 m/s.
+The Max Rate of Fire is 600.
+The Sustain Rate of Fire is 450-600.
+The Time the Max Rate of Fire can be Sustained is INA.
+The Maximum Range is 1,600 m.
+The Feed System is Belt.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7x108mm.
+The Armor Penetration is Yes.
+The Basic Load is INA.
+
+Here is Fire Control information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar:
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is No.
+The Aiming Mode is Automatic, Semi-automatic, and Manual.
+The Direct Fire is Yes, Primary Mission.
+The Indirect Fire is Yes.
+
+Here is Protection information for the PLL-05 (Type 05) Chinese 120mm Self-Propelled Mortar:
+The Hull Armor is Welded Steel Turret, small arms fire and shell splinters..
+The Turret Armor is Welded Steel Turret, small arms fire and shell splinters..
+The Applique Armor is Available.
+The Automatic Fire-Extinguishing System is Yes.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The IR Signature is INA.
+The Grenade Launchers is The vehicle has banks of 76 mm smoke grenade launchers. The smoke grenades have a range of 100 m and can be launched in volleys of two, four or eight rounds. Once deployed, the grenades form a smoke screen that is 120 to 150 m long and lasts for 2 to 4 minutes..
+The Grenade Launcher Maximum Distance is 100.
+The Smoke Equipment is Yes.
+The Smoke Screen is 120-150.
+The Smoke Screen Duration is 2-4.
+

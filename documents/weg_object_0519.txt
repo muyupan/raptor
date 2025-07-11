@@ -1,0 +1,64 @@
+This document describes the 2S22 Bogdana Ukrainian 155mm Self-Propelled Howitzer.
+
+The 2S22 Bogdana Ukrainian 155mm Self-Propelled Howitzer s based on the 6×6 chassis of the KrAZ-6322. It has an armoured cabin and enough storage for around 20 shells.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the 2S22 Bogdana Ukrainian 155mm Self-Propelled Howitzer:
+The Alternative Designation is 2S22 Bogdana.
+The Type is Self-Propelled Howitzer.
+The Caliber is 155 mm.
+The Chassis is KrAZ-6322.
+The Crew is 5.
+The Emplacement Time is INA.
+The Displacement Time is INA.
+
+Here is Dimensions information for the 2S22 Bogdana Ukrainian 155mm Self-Propelled Howitzer:
+The Length is 8.5 m.
+The Width is 2.7 m.
+The Height is 4.0 m.
+The Weight, Combat is 25 tons.
+
+Here is Automotive information for the 2S22 Bogdana Ukrainian 155mm Self-Propelled Howitzer:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Maximum Range is 1,000 km.
+The Speed, Maximum Road is 80 km/h.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.7 m.
+The Trench is 1.0 m.
+The Fording is 1.2 m.
+
+Here is System information for the 2S22 Bogdana Ukrainian 155mm Self-Propelled Howitzer of the Main Weapon System:
+The Type is Howitzer.
+The Caliber is 155 mm.
+The Length, Barrel is INA.
+The Weight is INA.
+The Traverse is INA.
+The Elevation is 5° to 65°.
+The Maximum Range is 50 km using rocket-assisted projectiles. When using a high-explosive fragmentation projectile, the maximum range is 40–42 km, with a minimum range of 780 m..
+The Maximum Rate of Fire is 4 rpm.
+The Load Assist Device is Yes.
+The Note is The howitzer is compatible with all standard NATO 155 mm ammunition..
+
+Here is Ammunition information for the 2S22 Bogdana Ukrainian 155mm Self-Propelled Howitzer of the Main Weapon System:
+The Type is Projectile.
+The Caliber is 155 mm.
+
+Here is Fire Control System information for the 2S22 Bogdana Ukrainian 155mm Self-Propelled Howitzer:
+The Computerized FCS is Yes.
+The Main Gun Stabilization is Yes.
+The Ballistic Calculator is Yes.
+The Automatic Gun Laying System is Yes, powered by Siemens SIPLUS automated data driver..
+The Navigation System is Yes, which enables the vehicle to establish its own location and conduct engagements with greater speed..
+
+Here is Protection information for the 2S22 Bogdana Ukrainian 155mm Self-Propelled Howitzer:
+The Hull Armor is It is fitted with an armored cab..
+The Applique Armor is INA.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

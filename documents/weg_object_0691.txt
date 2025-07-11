@@ -1,0 +1,47 @@
+This document describes the GATR 1.2M American Inflatable Antenna.
+
+From an innovative, ultra-portable design, the GATR 1.2m Antenna System provides high-bandwidth communications for transmission of secure and non-secure data, voice and video transmissions.
+
+Incorporating an inflatable radome and flexible parabolic reflector mounted at its equator, GATR 1.2M features a single Ku-band 1.2-meter satellite terminal, all in a compact system that fits comfortably into one airline-checkable case weighing less than 75 pounds (34 kg).
+
+A 50-percent reduction in pack-out weight and volume compared to deployable rigid antennas of similar size, making it ideal for first-in deployments, remote applications and contingency scenarios where transportation and space are limited. Plus, set up takes less than 20 minutes.
+
+This equipment has proliferated into the following countries: Australia, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is System information for the GATR 1.2M American Inflatable Antenna:
+The Alternative Designation is GATR 1.2m.
+The Type is Inflatable Antenna.
+The Crew is 2.
+The Band is Ku-Band; X-Band.
+The Emplacement Time is Under 20 minutes on satellite.
+The Displacement Time is Under 20 minutes on satellite.
+The Optics is Prime focus.
+The Reflector Construction is Flexible parabolic fabric.
+The Az/El/Pol is Manual point and align.
+The Modem is Works with all standard SATCOM modems.
+The Satellite Location Controller is iDirect SNR tuning.
+Satellite acquisition, peaking, and
+cross pol adjustment using GPS or compass, and level inputs.
+The Interface is CAT-5 cable for IP applications.
+The Elevation is 5 to 90 deg.
+The Azimuth is +/-10 deg of hold-downs.
+The Polarization, Ku-Band is Linear.
+The Polarization, X-Band is Circular.
+The Transmit Gain (Mid-band), Ku-Band is 43.0 dBi.
+The Transmit Gain (Mid-band), X-Band is 37.0 dBi.
+The Receive Gain (Mid-band), Ku-Band is 41.5 dBi.
+The Receive Gain (Mid-band), X-Band is 36.1 dBi.
+The Satellite System Compliance, Ku-Band is Intelsat.
+The Satellite System Compliance, X-Band is Skynet and XTAR.
+The Operating Temperature is Operational: -32 to +55°C
+Storage: -40 to +60°C.
+The Wind Load is Operational: 40 mph (64 kph)
+Survivable: 60 mph (97 kph) with anchor spikes.
+The Power is 100-277V AC.
+
+Here is Dimensions information for the GATR 1.2M American Inflatable Antenna:
+The Length, Standard Case is 79 cm.
+The Width, Standard Case is 51 cm.
+The Height, Standard Case is 30.5 cm.
+The Weight is 34 kg.
+

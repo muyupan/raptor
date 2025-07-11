@@ -1,0 +1,142 @@
+This document describes the Yitian Chinese 6x6 Self-Propelled Short-Range Air-Defense System.
+
+The Yitian is a short-range air-defense (SHORAD) system built by China for the domestic and export market. Its primary mission is to provide low-altitude protection for armored units against fixed-wing aircraft, helicopters, unmanned aerial vehicles and other airborne threats. The manufacturer also claims the system has an anti-cruise missile capability.
+
+The system consists of eight canister-launched TY-90 infrared homing missiles and two sensor systems mounted on a turret. The radar systems include a rotating antenna acquisition radar on top with an advanced electro-optical package beneath it. The three-dimensional X-band tracking radar can be folded down for transport.
+
+The E/O package includes day and thermal sights, laser rangefinder and an automatic target tracker. The E/O system has a detection range of 7 mi (12 km) and tracking range of 6 mi (10 km), according to the manufacturer.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Yitian Chinese 6x6 Self-Propelled Short-Range Air-Defense System:
+The Alternate Designation is Yitian is a short-range air-defense (SHORAD).
+The Type is Short-Range Air-Defense (SHORAD).
+The Crew is 4 (Commander, two
+Operators and a Driver).
+The Chassis is The Yitian can be mounted to a variety of vehicles.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Maximum Effective Range is 6,000.
+The Minimum Effective Range is 300.
+The Effective Kill Altitude is 15-4,000.
+The Basic Combat Load is INA.
+The Fire on the Move is INA.
+The Fuse Type is Laser Proximity Fuze.
+The Single-Shot Probability of Kill is 80.
+The Launchers is 8.
+The Notes is Norinco suggests that a Yitian battery should consist of a command vehicle, six
+launchers, two missile resupply vehicles, a missile testing and maintenance vehicle
+and a mechanical/electronic maintenance vehicle..
+
+Here is Dimensions information for the Yitian Chinese 6x6 Self-Propelled Short-Range Air-Defense System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is 16.
+
+Here is WZ551 Chinese Armored Personnel Carrier (APC) information for the Yitian Chinese 6x6 Self-Propelled Short-Range Air-Defense System of the Automotive:
+The Engine Name is INA.
+The Engine Type is 8-cylinder, turbo-charged, air-cooled diesel.
+The Engine Power is 320.
+The Crusing Range is 800.
+The Speed, Maximum Road is 100.
+The Speed, Average Cross is 85.
+The Fording Depth is amphibious.
+The WZ551 Length is 6.63.
+The WZ551 Width is 2.8.
+The WZ551 Height is 2.8.
+The WZ551 Weight is 11,339.81.
+The Propellers is 2.
+
+Here is TBR-142 VHF Radio information for the Yitian Chinese 6x6 Self-Propelled Short-Range Air-Defense System of the Communication:
+The VHF FM Transceiver is Yes, TBR-142(I).
+The VHF Range is 1 to 50.
+The Megahertz is 40.000 to 59.975.
+The Output Power is 1 to 0.3.
+The Power is 12V Ni-Ca Rechargeable Battery or external 12V DC power source.
+The Dimensions is 217x135x58.
+The Weight is 2.7.
+The Antennas is 3 Total: a 1.3m whip antenna, a 0.3m short antenna, and a 10m wire antenna.
+The Proliferated is Widely with Artillery/Gun/Missile/Reconnaissance/C2 Units.
+The Control Device is TBR-142(II).
+The Multi-function Field Phone is TBR-142(IIID).
+The Anti-Aircraft Control Unit is TBR-142(IIIG).
+The ZXY88-200 C2 Capable is Yes.
+The Messaging is Limited Capability.
+The Amplifier is Available.
+The Physical Conditions Limitations is Terrain and Weather favorable.
+
+Here is Protection information for the Yitian Chinese 6x6 Self-Propelled Short-Range Air-Defense System:
+The Note is This WEG sheet is specific to the Yitian TY90 Chinese Short-Range Air-Defense (SHORAD) and not the vehicle transporting it..
+The Hull Armor is .
+The Turret Armor is .
+The Applique Armor is .
+The Explosive Reactive Armor is .
+The Active Protection System is .
+The Mien Clearing is .
+The Slef-Entrenching Blade is .
+The NBC Protection is Yes, on WMZ-551.
+The Smoke Equipment is Yes, on WMZ-551.
+The C4I Suite is Yes, on WMZ-551.
+
+Here is Armament (Titian SHORAD) information for the Yitian Chinese 6x6 Self-Propelled Short-Range Air-Defense System:
+The Type is Anti-Aircraft Missile System.
+The Guidance System is All-Aspect Infared Guidance System.
+The Seeker Field of View is Launched even if humidity or smoke obscures the target from the seeker.
+The Self-Destruct Time is .
+The Traverse Range is .
+The Travere Left is .
+The Traverse Right is .
+The Rate of Fire, Burst is .
+The Rate of Fire, Sustain is .
+The Transport/Launch Canisters is Two banks
+of four on either side of the turret..
+The Missile Container Weight is 23.
+
+Here is Ammunition (Titian SHORAD) information for the Yitian Chinese 6x6 Self-Propelled Short-Range Air-Defense System:
+The Name is CATIC TY-90 Fire-and-Forget SAMs.
+The Munition Type is HE, Frangible Rod.
+The Location is Roof of the Vehicle in two banks of four on either side of the Turret.
+The Length is 1.9.
+The Diameter is 90.
+The Warhead is 3.
+The Fuze Type is Laser Proximity Fuze.
+The Detonation Mechanism is Impact / Proximity.
+The Engine Propellant is Solide-Fuel Rocket Motor.
+The Missile Speed is 2.2.
+The Max Range is 6,000.
+The Min Range is 300.
+The Effective Slant Kill Range is 500-6,000.
+The Kill Radius is 4.
+The Effective Elevation is 15-3,962.4.
+The Flight Ceiling is 6.
+The Effective Kill Altitude is 15-4,000.
+The Guidance System is ImIR IR.
+The IR Seekers is Yes.
+The Missle Velocity is 2.2.
+The 60-Deg Off-Boresight Capability is Yes.
+The Indium Antimonide (InSb) Detector is Yes.
+The Mid-Course Guidance is Yes.
+
+Here is Fire Control System information for the Yitian Chinese 6x6 Self-Propelled Short-Range Air-Defense System of the Fire Control / Radar:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Thermal Day Sensors is Yes.
+The Thermal Night Sensors is Yes.
+The Laser Rangefinder is Yes.
+The Automatic Target Tracker is Yes.
+The Tarket Tracking Range is 10.
+The E/O Detection Range is 12.
+The Operational Modes is Two Modes, Mode 1: Company Command, Mode 2: Individual Vehicle Mode..
+The System Reaction Time is 6-8.
+
+Here is Radar information for the Yitian Chinese 6x6 Self-Propelled Short-Range Air-Defense System of the Fire Control / Radar:
+The Type is Rotating Antenna Acquisition Radar.
+The Frequency/Band is 3D X-Band.
+The Radar Acquisition (Fighter Target) is 18.
+The Radar Acquisition (Cruise Missile Target) is 8.
+The Radar Tracking Range is 10.
+The Advanced Electro-Optical Range is 12.
+The Number of Targets is INA.
+

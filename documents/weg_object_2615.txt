@@ -1,0 +1,136 @@
+This document describes the CS/VP3 Chinese 4x4 Mine-Resistant Ambush Protected (MRAP).
+
+The CS/VP3 is an armored 4 × 4 vehicle developed and produced by Poly Technologies from China. It is believed to be an export vehicle built with the intention to provide customers with a brand new armored platform at a lower cost than Western producers are able to achieve. It is in service with several African countries and Saudi Arabia. It is believed to be based on the Caprivi Mk 1 armored vehicle designed by Mobile Land Systems of South Africa.
+
+This equipment has proliferated into the following countries: China, Kenya, Nigeria.
+
+Here is System information for the CS/VP3 Chinese 4x4 Mine-Resistant Ambush Protected (MRAP):
+The Alternative Designation is VP-3; CS/VP3Chinese.
+The Type is Mine-Resistant Ambush Protected (MRAP).
+The Configuration is 4x4.
+The Manufacturer is China Poly Group.
+The Expected Out of Service Date is 2034.
+The Status is In service with various police and military forces, production as required.
+The Crew is 2.
+The Troop Compartment Capacity is 10.
+The Payload Capacity is 2,000.
+The Firing Ports is There are a total of nine firing ports on the vehicle, one in each of the four windows that are fitted to the side of the vehicle and one in the window at the rear of the vehicle..
+The Mazimum Effective Range is 800.
+
+Here is Dimesions information for the CS/VP3 Chinese 4x4 Mine-Resistant Ambush Protected (MRAP):
+The Length is 7.58.
+The Width is 2.45.
+The Height is 3.25.
+The Weight, Standard is 13,000.
+The Weight, Combat is 15,000.
+The Ground Clearance is 0.38.
+
+Here is Automotive information for the CS/VP3 Chinese 4x4 Mine-Resistant Ambush Protected (MRAP):
+The Engine Name is Unspecified.
+The Engine Type is Diesel Engine.
+The Engine Power is 315.
+The Crusiing Range is 800.
+The Speed, Maximum Road is 110.
+The Speed, Average Cross is .
+The Amphibious is No.
+The Fording (Without Preparation) is 1.2.
+The Towing equipment is Optional, 2 towing points at rear, pintle at the rear..
+The Self Recovery Winch is Optional, Hydraulic winch on the rear and front side of the vehicle or electric winch on the front as an option..
+The Mounting Provisions for Air-Drop is Lift points at the top of the hull..
+The Personnel Emergency Exits is Three side doors and a rear-mounted ramp (with an emergency door in it)..
+The Run Flat Tires is Standard.
+The Bullet Proof Tires is Available.
+The Climbing Gradient is 60.
+The Side Slope is 30.
+The Vertical Obstacle is 0.6.
+The Air-Conditioning is Yes.
+The Turning Radius is 9.5.
+The Tires is 14.00R2.
+
+Here is TBR-121 VHF Radio information for the CS/VP3 Chinese 4x4 Mine-Resistant Ambush Protected (MRAP) of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Proliferated is Widelty.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner)..
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note is Very similar in capabilities to the US SINCGARS ASIP..
+
+Here is System information for the CS/VP3 Chinese 4x4 Mine-Resistant Ambush Protected (MRAP) of the Main Gun (Turret #1):
+The Name is 1 x QJG89 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Length is 2,119.
+The Barrel Length is 1,003.
+The Diameter is INA.
+The Weight (Gun Only) is 18.5.
+The Weight (Tripod) is 17.5.
+The Action is Gas.
+The Rate of Fire is 450-600.
+The Feed System is Belt.
+The Sights is Iron/Optical.
+The Fire Selector is 0-F.
+The Stock is Fixed.
+
+Here is Ammunition information for the CS/VP3 Chinese 4x4 Mine-Resistant Ambush Protected (MRAP) of the Main Gun (Turret #1):
+The Type is Ball.
+The Caliber is 12.7x108mm.
+The Muzzle Velocity is 825.
+The Basic Load is INA.
+The Magazine is Belt fed, 50 rounds.
+The Operation is Hybrid direct impingement and short recoil.
+The Effective Firing Range (vs. Air) is 1,500.
+The Effective Firing Range (vs. Ground) is 2,000.
+The Armor Penetration is INA.
+
+Here is System information for the CS/VP3 Chinese 4x4 Mine-Resistant Ambush Protected (MRAP) of the Auxiliary Weapon System (Turret #2):
+The Name is 1 x Type 80 7.62mm General-Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,192 mm.
+The Barrel Length is 658 mm.
+The Diameter is INA.
+The Weight (Gun Only) is 12.6.
+The Weight (With Tripod) is 17.5.
+The Action is Gas Operated.
+The Rate of Fire is 700-800.
+The Feed System is Belts in 100/200/250 round boxes..
+The Sights is Open sights. Optical/Night vision scope can be outfitted..
+
+Here is Ammunition information for the CS/VP3 Chinese 4x4 Mine-Resistant Ambush Protected (MRAP) of the Auxiliary Weapon System (Turret #2):
+The Type is 7.62×54mmR.
+The Caiber is 7.62x54.
+The Muzzle Velocity is 840.
+The Basic Load is Belts in 100/200/250 round boxes.
+The Effective Firing Range is 100-1,500 (With Sight Adjustments).
+The Min Range is 100.
+The Armor Penetration is Available.
+
+Here is Fire Control information for the CS/VP3 Chinese 4x4 Mine-Resistant Ambush Protected (MRAP):
+The Name is INA.
+The Computerized FCS is No.
+The Thermal Tank Commander is INA.
+The Thermal Gunner is INA.
+The Main Gun Stabilization is INA.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is INA.
+The IFF is INA.
+
+Here is Protection information for the CS/VP3 Chinese 4x4 Mine-Resistant Ambush Protected (MRAP):
+The Hull Armor is Yes, Passive armour protection (ballistic still and ballistic glasses)..
+The Turret Armor is Armor Platting.
+The Window Armor is The windows are believed to be protected to the same level as the armored hull..
+The Applique Armor is Yes.
+The Ballistic Protection Level is BR-3 to BR-7 upon request, for windows and steel structure.
+The Mine Protection Level is Optional, add on anti-personnel mine protection and explosive up to 4 kg mine under the belly and 7 kg under the wheel..
+The Exhaust Gas Signature Reduction is Exhaust pipes are protected to limit IR signature..
+The Countermeasure Systems: is Smoke grenade launchers are available, as well as smoke screen system, as an option..
+The Active Protection System is INA.
+The Explosive Reactive Armor is Yes,.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Equipment is No.
+The Smoke Equipment is INA.
+The Fire-Extinguishing System is Yes.
+

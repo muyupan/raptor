@@ -1,0 +1,58 @@
+This document describes the 9P162 Kornet-T (BMP M1995) Russian Anti-Tank Missile Carrier.
+
+The 9P162 Kornet-T is a new anti-tank missile carrier. It is armed with Kornet anti-tank guided missiles. It is intended to replace the aging Shturm-S (based on the MT-LB tracked armored vehicle) and 9P148 (based on the BRDM-2 armored scout car). First Kornet-T anti-tank missile carriers were delivered in 2003. The first batch of 20 production vehicles was delivered to the Russian Army in 2012.
+
+   The Kornet-T is based on the BMP-3 infantry fighting vehicle chassis. It is similar to the Khrizantema, which is also based on the BMP-3 cassis. The Khrizantema entered service with the Russian Army back in 2004. It seems that the Kornet-T will be used by motorized units, while the Khrizantema by artillery units.
+
+   The Kornet-T can engage tanks, fortifications, and low-flying helicopters. This missile carrier can operate and fire in day/night conditions, in adverse weather conditions, and when the enemy uses countermeasures.
+
+   This anti-tank missile carrier is fitted with an automatic loader. A total of 16 missiles are carried by the vehicle. 12 missiles are stored in the autoloader and 4 more are stored inside the hull. This missile carrier has two launchers. Both missiles can be launched against the same target. The vehicle can also engage two targets simultaneously. During traveling both launches are retracted inside the hull. The vehicle has a brief deployment time.
+
+ 
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the 9P162 Kornet-T (BMP M1995) Russian Anti-Tank Missile Carrier:
+The ATM Alternate Kornet turret is A manned turret with an overhead weapon system (OWS). ATM can mount on a variety of vehicles. It has a dual twin (4-tube) launcher and central module with TV/FLIR sights..
+The KPB prototype overhead weapons module is KPB displayed a prototype overhead weapons module to mount on a variety of vehicles (displayed on a HMMWV). It has dual twin (4-tube) launcher, and a central module with TV/FLIR sights and MG..
+
+Here is Automotive information for the 9P162 Kornet-T (BMP M1995) Russian Anti-Tank Missile Carrier:
+The Engine Name is UTD-29.
+The Engine Type is Diesel.
+The Engine Power  is 500.
+The Range is 600.
+The Speed , Maximum Road  is 70.
+The Speed, Maximum Off-Road is 45.
+The Speed, Maximum Cross-Country is 35.
+The Speed, Maximum Swim  is 10.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Step is 0.8 m.
+The Trench is 2.5 m.
+The Fording is Amphibious.
+
+Here is Ammunition #1 information for the 9P162 Kornet-T (BMP M1995) Russian Anti-Tank Missile Carrier of the Main Weapon System:
+The Name  is 9M133 Kornet; AT-14 Spriggan .
+The Type  is Anti-Tank Guided Missile (ATGM).
+The Length  is 1,200 mm.
+The Diameter  is 152 mm.
+The Width  is 460 mm.
+The Weight  is 27 kg (29 kg with launch tube).
+The Guidance System  is SACLOS, laser beam riding, beyond 5 m accuracy.
+The Control  is Automatic tele-orientation in the laser beam.
+The Propulsion  is Single-stage solid propellant rocket motor.
+The Warhead  is 7 kg.
+The Maximum Speed is over 250 m/s.
+The Range  is 100-150 m to 5,500 meters.
+The Maximum Altitude  is Up to 3 km.
+The Penetration  is 1.000-1.200 mm RHA behind ERA and 1200–1400 mm RHA, 3-3.5 m concrete.
+
+Here is Ammunition Options  information for the 9P162 Kornet-T (BMP M1995) Russian Anti-Tank Missile Carrier of the Main Weapon System:
+The 9M133 is tandem-cumulative warhead.
+The 9M133F is high-explosive warhead .
+The 9M133-1 is tandem-cumulative warhead.
+The 9M133F-1 is HE warhead.
+The 9M133FM is HE warhead.
+The 9M133M-2 is tandem-cumulative warhead.
+The 9M133FM-3 is HE warhead.
+

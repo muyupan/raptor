@@ -1,0 +1,29 @@
+This document describes the SNAR-2 (Pork Trough) Russian Mobile Counter-Battery Radar.
+
+Pork Trough** (SNAR-2) is a Russian counter-battery radar used to locate enemy artillery and provide position information. It employs a rotating horizontal parabolic cylinder antenna mounted on a fully tracked AT-LM artillery tractor.
+
+This equipment has proliferated into the following countries: Azerbaijan, Belarus, Bulgaria, Moldova, Russian Federation.
+
+Here is Variants information for the SNAR-2 (Pork Trough) Russian Mobile Counter-Battery Radar:
+The Pork Trough-2 (SNAR-6) is Operates in the J band..
+The Cheetah is This is a mobile Chinese version of the SNAR-2. It operates in the Ku-band. See separate database entry..
+
+Here is System information for the SNAR-2 (Pork Trough) Russian Mobile Counter-Battery Radar:
+The Alternative Designation is SNAR-2; NATO: Pork Trough.
+The Type is Mobile Counter-Battery Radar.
+The Crew is INA.
+The Chassis is AT-LM.
+The Band is I (8-10 GHz).
+The Range, Surveillance is 40 km.
+The Range, Arillery Detection is 9 km.
+The Note is There is very little unclassified information available about the SNAR-2.
+
+Here is Dimensions information for the SNAR-2 (Pork Trough) Russian Mobile Counter-Battery Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+The Antenna Length is INA.
+The Antenna Width is INA.
+The Mast Height is INA.
+

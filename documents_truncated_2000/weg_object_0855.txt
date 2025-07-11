@@ -1,0 +1,32 @@
+This document describes the Orbiter Israeli Mini Unmanned Aerial Vehicle (UAV).
+
+The Orbiter Mini UAV System is a compact and lightweight unmanned aerial vehicle designed for use in military and security applications. It has been used extensively in the Middle East since it was first developed. The system is used for reconnaissance missions, ISR activities supporting Low Intensity Conflicts and Urban warfare operations as well as other close range ISTAR mission. It is manufactured by the Israeli company Aeronautics Defense Systems.
+
+This equipment has proliferated into the following countries: Azerbaijan, Croatia, Finland, Ireland, Israel, Mexico, Peru, Poland, Serbia, South Africa, Spain, Thailand, Viet Nam.
+
+Here is Variants information for the Orbiter Israeli Mini Unmanned Aerial Vehicle (UAV):
+The Orbiter 1K "Kingfisher" is This model has a fuselage adapted to carry a 2 kg (4.4 lb) explosive payload, turning it into a loitering munition. It can be controlled by an operator, or is capable of being given a waypoint and independently scanning the area to detect and destroy a stationary or moving target. If a target is not detected, the Orbiter 1K can return to base and land for reuse. The Orbiter 1K can fly for 2–3 hours carrying an electro-optical/infrared sensor with a unique warhead that, due to its low acoustic signature, “is not detected until two seconds before it starts its kill dive”. Aeronautics announced the armed loitering UAV achieved operational status in August 2016..
+The Orbiter 2 is Medium size version of the Orbiter UAS family. It has a wing span of 3 m and a maximum take-off weight of 9.5 kg..
+The Orbiter 3 is Largest variant of the Orbiter family with a wing span of 4.2 m. It has an endurance of seven hours and can reach ranges of more than 100 km..
+
+Here is Dimensions information for the Orbiter Israeli Mini Unmanned Aerial Vehicle (UAV) of the System:
+The Length  is 1.0.
+The Length, Wing Span  is 2.2.
+The Height is 0.3.
+
+Here is Performance information for the Orbiter Israeli Mini Unmanned Aerial Vehicle (UAV):
+The Altitude, Maximum  is 4.5.
+The Endurance  is 1.5.
+The Speed, Cruising is 25 - 65 kts.
+The Speed Maximum is 75 kts.
+The LOS Datalink Range is 15.
+
+Here is Launch and Recovery information for the Orbiter Israeli Mini Unmanned Aerial Vehicle (UAV):
+The Launch Method is Track, catapult launch.
+The Recovery Method is Parachute.
+
+Here is Payloads information for the Orbiter Israeli Mini Unmanned Aerial Vehicle (UAV):
+The Day Operations Package (D-STAMP) is Fully stabilized payload with color video picture capability. Features x10 optical zoom and full coverage in both azimuth and elevation..
+The Night Operations Package (U-STAMP) is Fully stabilized payload with thermal imaging video & picture capability for night-time operations. Features digital zoom and full coverage in both azimuth and elevation..
+The Payload Datalink is Yes, Line of Sight (LOS).
+

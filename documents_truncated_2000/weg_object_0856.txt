@@ -1,0 +1,36 @@
+This document describes the Quantix Recon American Unmanned Aerial Vehicle (UAV).
+
+The Quantix Recon American Unmanned Aerial Vehicle (UAV) is a powerful, simple-to-use UAV that delivers rapid, automated reconnaissance and hands-free data collection. Mapping and scouting tasks are effortless with its fully-automated takeoff, flight and landing functions—even first-time users can successfully operate it. With its Radio Frequency (RF) Silent Mode, Quantix Recon flies undetected and undeterred by jammers to deliver accurate, up-to-date maps within minutes for quick mission planning and verification. Its on-board processing provides georeferenced, high-resolution imagery on the user’s tablet as soon as Quantix Recon lands—no other devices, internet or software required. Due to its innovative hybrid design, Quantix Recon outperforms traditional quadcopters in range and efficiency. That means you can cover more ground faster and obtain aerial maps of remote, inaccessible areas and rapidly changing environments to ensure the safety of ground troops.
+
+This equipment has proliferated into the following countries: Ukraine, United States of America.
+
+Here is System information for the Quantix Recon American Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Quantix Recon.
+The Type is Vertical Take-Off and Landing Unmanned Aerial Vehicle (UAV).
+The Manufacturer is AeroVironment.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Payload Capacity is INA.
+The Navigation is Automatic navigation—Area, Waypoint, Linea.
+The Communications is 900 MHz Encrypted and Wi-Fi.
+The Launching System is Vertical Take-Off and Landing.
+The Recovery System is Vertical Take-Off and Landing.
+The Operating Temperature is 0–120 °F (-17–49 °C).
+
+Here is Dimensions information for the Quantix Recon American Unmanned Aerial Vehicle (UAV):
+The Length is INA.
+The Wingspan is 97.5 cm.
+The Height is INA.
+The Maximum Takeoff Weight is 2.3 kg.
+
+Here is Automotive information for the Quantix Recon American Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is 4 x direct electric drive motors.
+The Engine Power is INA.
+The Maximum Speed is INA.
+The Cruising Speed is INA.
+The Service Ceiling is 2,286 m.
+The Maximum Range is 2 km radio limit (up to 40 km without radio link.
+The Wind Limit is 9 m/s.
+The Endurance is 45 min.
+

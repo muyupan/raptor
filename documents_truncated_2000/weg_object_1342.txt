@@ -1,0 +1,42 @@
+This document describes the R-168-5KNE Russian HF Manpack Radio.
+
+The R-168-5KNE HF manpack radio station provides clear and secure radio communications in tactical command level radio networks in a harsh ECM environment. The R-168-5KNE was developed to replace the obsolete radio stations R-163-10K and R-143.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the R-168-5KNE Russian HF Manpack Radio:
+The Alternative Designation is R-168-5KNE; "Akveduk".
+The Type is HF Manpack Radio.
+The Manufacturer is Joint Stock Company Concern Sozvezdie and Yaroslavl Radioworks Corp.
+The Frequency Range is 1.5–29.9999 MHz.
+The Crew is 1.
+The Components is Transceiver and handset, telephone key, ASh-2.4 antenna, VNNL-5KN universal antenna "symmetric vibrator - inclined path" and a tower, 10NKGTs-4.5 type battery power supply, individual SPTA set, equipment elements, operating and technical documentation set.
+
+Additionally, at consumer's request it is possible to deliver a charging unit and converter solar energy to electrical one..
+The Services is Single-sideband (SSB) modulation phone with upper sideband; Telephone with voice data security masking; Frequency and amplitude telegraph.
+The Operating Modes is Single-frequency simplex; Double-frequency simplex; Frequency hopping (FH); Adaptive communication (AC); Listening.
+The Antenna Type is ASh-2.4 antenna; VN/NL-5KN universal antenna – inclined path and symmetric vibrator antenna with mast appliances.
+The Modulation is Single sideband (SSB) modulation; Amplitude Modulation (AM); Frequency Modulation (FM); Frequency Shift Keying (FSH).
+The Interface is RS-232C.
+The Preset Channels is 8.
+The Frequency Spacing, Fixed Frequency is 100 Hz.
+The Frequency Spacing, FH and AC Mode is 1,000 Hz.
+The Operational Range, Static Position and Motion (Ash-4 Antenna) is 10–20 km.
+The Operational Range, Static Position (VN/NL Antenna) is 300/40 km.
+The Continuous Operation is No less than 12 hours (1:1:8 time ratio).
+The Mean Time Between Failures (MTBF) is No less than 8,000 hours.
+The Receiver Sensitivity, J3E Mode is 1.5 µV.
+The Receiver Sensitivity, F1B Mode is 1 µV.
+The Hot Speed, FH1 is 3 hops/s.
+The Hot Speed, FH2 is 20 hops/s.
+The Transmitter, Low Output Power is 1 W.
+The Transmitter, Full Output Power is 8 W.
+The Operating Temperature is -40° to 55° C.
+The Battery is 10NKGTs-6-2 type battery.
+
+Here is Dimensions information for the R-168-5KNE Russian HF Manpack Radio:
+The Length is 206 mm.
+The Width is 90 mm.
+The Height is 175 mm.
+The Weight, Combat is 3 kg.
+

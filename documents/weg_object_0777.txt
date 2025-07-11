@@ -1,0 +1,43 @@
+This document describes the ASN-209 Chinese Reconnaissance Unmanned Aerial Vehicle (UAV).
+
+The Aisheng ASN-209 from Xi'an Technology is a medium-altitude/medium endurance multi-role UAV.
+
+ASN-209 Tactical UAV System is composed of Aircraft Platform, Avionics, Airborne Mission Payload, Data Link, Ground Control Station and Launch and Recovery Equipment, ASN-209 UAV can perform aerial reconnaissance, battlefield survey, target location, destroy validation and artillery fire adjustment in day and night in real-time. ASN-209 uses digital flight control and navigation system, its flight control mode has manual, program, and emergency control. In addition, ASN-209 uses rocket booster launch, parachute recovery which render the operating system of ASN-209 flexible due to the fact that no contact with an airport is needed, and the GCS allows multitasking and can be edited in real-time. In civil application, it can be fitted with Synthetic Aperture Radar (SAR), electro-optical payload, and multi-function payload, etc. that can be applied for forest fire prevention, anti-drug action, communication, nature disaster forecast, ground observation, atmosphere measuring, aviation photo, resource detection, climate observation, and artificial raining, etc.
+
+In a military operation, it can be with multiple operational configurations for Ground Moving Target Indication (GMTI), Electronic Intelligence (ELINT), Electronic Warfare (EW), Ground Target Designation (GTD), and Communication Relay.
+
+ASN-209 uses a twin-boom pusher layout, rear installed engine disposition with high-set wings, and a stabilizer linking the twin fins. Excellent overall aerodynamic design and EMC design enable the system to install many different kinds of airborne equipment, such as Electronic countermeasures (ECM), communication relay, and weather detection. With a coverage radius is 200 km and an endurance of 10 hours, ASN-209 UAV System can supervise big areas and frontiers within one sortie. In order to overcome with refueling issue, use two UAVs and switch them out when one reaches its 10-hour limit so that they can be used for 24 hours consecutively.
+
+The practicality of the ASN-209 system reduces the need for maintenance or parts from China, as ASN-209 can be deployed using a modified truck and is controlled using electronics equipment installed in a cargo van, which in turn overcomes the disadvantage of comparable US UAVs that depend on US parts and maintenance.
+
+This equipment has proliferated into the following countries: China, Egypt.
+
+Here is Variants information for the ASN-209 Chinese Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Silver Eagle is Silver Eagle (Yin-Ying or Yinying, is a derivative of ASN-209 deployed by the Chinese military. The most obvious visual difference between Silver Eagle and its predecessor ASN-209 is the addition of four vertically installed antennas, two of which are arranged in sequential order atop the fuselage, and one each on the wing, near the wingtip. The estimated range is around 150 km and the estimated endurance is several hours. The maiden flight of Silver Eagle took place in the coastal region of northeastern China on June 1, 2011, and lasted three and half hours. The UAV has since entered service with the Chinese navy. 
+
+Silver Eagle is launched from a 6 x 6 truck, which is both the launching platform and transportation vehicle, and the UAV utilizes rocket-assisted take-off. Presumably, there would be at least another vehicle housing the ground control station. Very little information has been publicized by the official Chinese government sources, which only reveal (as of 2014) that Silver Eagle is a shore-based naval UAV. There are postulates that Silver Eagle can either act as a communication relay or electronic intelligence gathering platform, or as an aerial jamming platform, but such claims have yet to be confirmed..
+
+Here is System information for the ASN-209 Chinese Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Alternative Designation is Aisheng ASN-209 (Silver Eagle).
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Xi’an ASN Technology Group / CATIC / AO.
+The In Service is 2012-Present.
+The Crew is None.
+The Cargo Capacity is 50 kg.
+
+Here is Dimensions information for the ASN-209 Chinese Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Length is 4.273 m.
+The Wingspan is 7.5 m.
+The Height is 1.539 m.
+The Maximum Takeoff Weight is 320 kg.
+
+Here is Automotive information for the ASN-209 Chinese Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Rear installed engine disposition.
+The Engine Power is INA.
+The Maximum Speed is 180 km/h.
+The Cruise Speed is 40 km/h.
+The Combat Range is 200 km.
+The Endurance is 10 h.
+The Service Ceiling is 5,000 m.
+

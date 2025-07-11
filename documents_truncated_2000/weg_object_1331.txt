@@ -1,0 +1,78 @@
+This document describes the ZPU-4 Russian 14.5mm Towed Anti-Aircraft Gun.
+
+The ZPU-4 is a quadruple anti-aircraft version of the basic Soviet 14.5mm machine gun. Introduced in 1949, it was used in Korea and was later considered the most dangerous opposition to U.S. helicopters in Vietnam. It was used by Iraqi forces during Operation Desert Storm. The Type 56 is the Chinese version. The quad ZPU-4 uses a four-wheel carriage similar to that once used by the obsolete 25mm automatic antiaircraft gun M1940. In firing position the weapon is towered onto firing jacks. In many units it has been replaced by the newer and more powerful twin 23mm automatic antiaircraft gun ZU-23. All weapons in this series fire the API (BS 41) projectiles weighing 64.4 grams having a muzzle velocity of 1000 meters per second which will penetrate 32 mm of armour.
+
+The ZPU-4 uses four 14.5 mm Vladimirova KPV (Krubnokalibernyj Pulemet Vladimirova) heavy machine gun, which has a quick-change barrel, mounted on a wheeled chassis. In the firing position, the wheels are raised off the ground and the carriage is supported at four points, screw jacks at each end of the carriage and on outriggers on each side of the carriage that are also provided with screw jacks. The weapon can be brought into action in 15 to 20 seconds but can, if required, be fired with the wheels in the travelling position.
+
+The ZPU-4 14.5 mm twin guns can fired the following fixed ammunition:
+- API (BS 41) projectile weighing 64.4 g, with a muzzle velocity of 1,000 m/s, which will penetrate 32 mm of conventional steel armor at an incidence of 0º at a range of 500 m
+- API-T (BZT) projectile weighing 59.56 g
+- I-T (ZP) projectile weighing 59.68 g.
+The ZPU-4 14.5 mm twin guns has an effective slant range of 1,402 m, effective limit at +45º elevation is 975 m while effective altitude limit at +65º is 1,280 m.
+
+The quadruple guns ZPU-4 uses a four-wheel carriage similar to that once used by the obsolete 25 mm automatic anti-aircraft gun M1940. In firing position, the weapon is lowered onto firing jacks. The ZPU-4 can be brought in and out of action in about 15 to 20 seconds, and can be fired with the wheels in the traveling position if needed.
+
+Two ammunition boxes are mounted at the front of the wheeled chassis, one under each gun. Each ammunition boxes can carried 2,400 rounds of 14.5 mm. The ZPU-4 is equipped with a single optical sight. Improved optical gunsights was added later in its production.
+
+This equipment has proliferated into the following countries: Afghanistan, Albania, Algeria, Angola, Bangladesh, Benin, Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Chad, China, Congo, Croatia, Cuba, Cyprus, Djibouti, East Timor (Timor-Leste), Egypt, Ethiopia, French Guiana, Ghana, Iran (Islamic Republic of), Iraq, Israel, Kenya, Laos (People's Democratic Republic), Latvia, Lebanon, Libya, Madagascar, Malawi, Malaysia, Mali, Malta, Mauritania, Mongolia, Morocco, Mozambique, Myanmar, Namibia, Nepal, Nicaragua, North Korea (Democratic People's Republic of Korea), Pakistan, Romania, Russian Federation, Somalia, South Africa, Sri Lanka, Syria, Tanzania, Togo, Uganda, Viet Nam, Zambia, Zimbabwe.
+
+Here is Variants information for the ZPU-4 Russian 14.5mm Towed Anti-Aircraft Gun:
+The ZPU-1 is INA.
+The ZPU-2 is INA.
+
+Here is System information for the ZPU-4 Russian 14.5mm Towed Anti-Aircraft Gun:
+The Alternative Designations is ZPU-4.
+The Description is Towed Anti-Aircraft Gun.
+The Caliber is 14.5 mm.
+The Carriage is 4 x wheeled/ 2 x axle towed chassis.
+The Crew is 5.
+The Prime Mover is INA.
+The Max. Towed Speed is 35.
+The Emplacement Time is 2.
+The Displacement Time is 2.
+
+Here is Dimensions information for the ZPU-4 Russian 14.5mm Towed Anti-Aircraft Gun:
+The Length is 4.53.
+The Length of Barrel is 1,348 mm.
+The Width is 7.72.
+The Height is 2.13.
+The Weight is 2.
+
+Here is Armament information for the ZPU-4 Russian 14.5mm Towed Anti-Aircraft Gun:
+The Gun is INA.
+The Caliber is 14.5 mm.
+The Number of Barrels is 4.
+The Service Life of Barrels is INA.
+The Max Rate of Fire is 2,200-2,400.
+The Practical Rate of Fire is 600.
+The Loader Type is Belt of 150 rds.
+The Reload Time is 15.
+The Elevation is -8 to +90.
+The Elevation Rate is 29.
+The Traverse is 360.
+The Traverse Rate is 48.
+The Notes is The ZPU-4 can be fired from a brief stop (<10 sec) with wheels in travel position..
+
+Here is Main Armament Ammunition information for the ZPU-4 Russian 14.5mm Towed Anti-Aircraft Gun:
+The Type is API, API-T, HEI, AP-T, HEI-T.
+The Max Range is 8,000.
+The Max. Effective (slant) Range is 2,200.
+The Max Altitude is 5,000.
+The Max Effective Altitude is 0-1,400.
+The Name is BZT-44M API-T.
+The Effective Altitude is 0 - 2,200.
+
+Here is Weapons and Ammunition Types information for the ZPU-4 Russian 14.5mm Towed Anti-Aircraft Gun:
+The 4 barreled KPV 14.5-mm heavy machinegun is Typical Combat Load 4,800 rds.
+
+Here is Fire Control information for the ZPU-4 Russian 14.5mm Towed Anti-Aircraft Gun:
+The On-Carriages is Optical mechanical computing sight Telescope, ground targets.
+The Off-Carriage is Generally, there is no organic radar except with variants NK Type 56 and M1983.  Many radars are available 
+Optional Radar:  SON-9/SON-9A, aka FIRE CAN (NATO).
+The Function is Fire Control.
+The Detection Range is 80.
+The Tracking Range is 35.
+The Frequency is 2.7-2.9 GHz.
+The Frequency Band is E Band.
+The Peak Power is 300.
+

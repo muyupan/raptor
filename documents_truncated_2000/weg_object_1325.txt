@@ -1,0 +1,80 @@
+This document describes the Type 59 Chinese 100mm Towed Anti-Aircraft Gun.
+
+The Type 59 is a Chinese version of the Russian KS-19 100mm Towed Anti-aircraft gun
+
+100 mm air defense gun KS-19 was a Soviet anti-aircraft gun. Initially deployed aboard ships as the B-34 during the Second World War, a ground-mounted version was introduced into service after the war as the KS-19.
+
+The KS-19 is a heavy towed anti aircraft gun that has largely disappeared from front line arsenals due to increased use of more effective surface-to-air missiles. Being a towed weapon an external form of mobility was required, usually an AT-S Medium or AT-T Heavy tracked artillery tractor. The 15 man crew were carried on the tractor along with ready use ammunition for the gun. Ammunition was loaded as a single round into the loading tray and a well trained crew could fire 15 rounds maximum per minute.
+
+
+Anti Aircraft ammunition includes high explosive, high explosive fragmentation and fragmentation types. The KS-19's onboard sights can be used to engage air targets; however increased accuracy was achieved if used in conjunction with a fire control radar such as the SON 9 (NATO Reporting name 'Fire Can') and PUAZO-6/19 director.
+
+As the KS-19 is a heavy caliber Anti-Aircraft gun it also has some utility in the ground role especially against armored targets. As a result of this two armor piecing rounds were produced: the AP-T (Armour Piercing-Tracer) and APC-T (Armour Piercing Capped-Tracer) with the AP-T round reportedly able to penetrate 185 mm of armor at 1000 m.
+
+The KS-19 was used in action by communist forces in both Korea and Vietnam.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Type 59 Chinese 100mm Towed Anti-Aircraft Gun:
+The Alternative Designations is Type 59.
+The Crew is 15.
+The Carriage is Towed 2-axle, 4-wheel carriage.
+The Prime Movers is Towing vehicle AT-S or AT-T.
+The Max Towed Speed is 35.
+The Emplacement Time is 7.
+The Displacement Time is 6.
+
+Here is Dimensions information for the Type 59 Chinese 100mm Towed Anti-Aircraft Gun:
+The Length Overall is 9.3.
+The Width Overall is 2.32.
+The Combat Weight is 11,000.
+
+Here is Armament information for the Type 59 Chinese 100mm Towed Anti-Aircraft Gun:
+The Caliber, Type is 100-mm Gun.
+The Number of Barrels is 1.
+The Breech Mechanism is Rising Block.
+The Service Life of Barrel is 2,800.
+The Rate of Fire is Maximum:  INA 
+Practical:  10-15 rd / min.
+The Loader Type is Manual.
+The Reaction Time is 30.
+The Reload Time is INA.
+The Traverse is 360.
+The Traverse Rate is 61.
+The Elevation is -3 to 89.
+The Elevation Rate: is 12.
+
+Here is Weapons and Ammunition Types information for the Type 59 Chinese 100mm Towed Anti-Aircraft Gun:
+The 100-mm Gun           Frag-HE            AP-T           APC-T is Typical Combat Load 100.
+
+Here is Main Armament Ammunition information for the Type 59 Chinese 100mm Towed Anti-Aircraft Gun:
+The Type is Frag-HE, AP-T, APC-T.
+The Range With On-Carriage Sight is 3,500.
+The Range With Off-Carriage Radar is 12,600.
+The Max Altitude is 14,500.
+The Max Effective Altitude is 13,700.
+The With On-Carriage Sight Altitude is 3,500.
+The Frag-HE Projectile Weight is 15.61.
+The AP-T Projectile Weight is 15.89.
+The APC-T Projectile Weight is 16.
+The Muzzle Velocity is 900-1,000.
+The Fuze Type is Proximity and Time.
+The Self-Destruct is 30.
+
+Here is Fire Control information for the Type 59 Chinese 100mm Towed Anti-Aircraft Gun:
+The On-Carriages is INA.
+The PO-IM Telescope Field of View is 14.
+The PO-IM Telescope Power is 5x.
+The PO-IM Telescope Range is 3,500.
+The PG Panoramic Telescope Field of View is 10.
+The PG  Panoramic Telescope Power is 4x.
+The Rangefinder is D-49 (off carriage).
+The Radar Name is SON-9/SON-9A (FIRE CAN).
+The Radar Function is Fire Control.
+The Radar Detection Range is 80.
+The Radar Tracking Range is 35.
+The Radar Frequency is 2.7-2.9 GHz (E/F-band).
+The Radar Peak Power is 300.
+The PUAZO 6-19 or 6-19M is fire control director.
+The Note is FIRE CAN, LONG TRACK, FLAT FACE, WHIFF.
+

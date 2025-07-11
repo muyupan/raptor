@@ -1,0 +1,54 @@
+This document describes the Bayraktar TB2 Turkish Unmanned Aerial Vehicle (UAV).
+
+The Bayraktar TB2 Turkish Unmanned Aerial Vehicle (UAV) is manufactured by Turkey's Baykar company primarily for the Turkish Air Force (TAF). 
+
+The Turkish government operates approximately 107 units within the Turkish Armed Forces, gendarmerie, and police.
+
+The TB2 has deployed to conflict zones in Syria, Libya, and most recently in the Nagorno-Karabakh conflict between Azerbaijan and Armenia.
+
+This equipment has proliferated into the following countries: Armenia, Azerbaijan, Kazakhstan, Kyrgyzstan, Libya, Pakistan, Qatar, Syria, Tajikistan, Turkey, Ukraine.
+
+Here is Variants information for the Bayraktar TB2 Turkish Unmanned Aerial Vehicle (UAV):
+The Bayraktar TB2-S is Armed variant of the Bayraktar. It can carry two MAM-L or four MAM-C guided munitions..
+
+Here is System information for the Bayraktar TB2 Turkish Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Bayraktar TB2.
+The Type is Medium Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Baykar.
+The Crew Groundstation is 3.
+The Payload Configuration is The standard payload configuration includes an electro-optical (EO) camera module, an infrared (IR) camera module, a laser designator, a laser range finder (LRF) and a laser pointer..
+The Note is Each Bayraktar TB2 system consists of six aerial vehicles, two ground control stations (GCS), three ground data terminals (GDTs), two remote video terminals (RVTs) and ground support equipment..
+
+Here is Dimensions information for the Bayraktar TB2 Turkish Unmanned Aerial Vehicle (UAV):
+The Length is 6.5 m.
+The Width is 12.0 m.
+The Height is INA.
+The Maximum Takeoff Weight is 650 kg.
+The Payload Capacity is 55 kg.
+
+Here is Automotive information for the Bayraktar TB2 Turkish Unmanned Aerial Vehicle (UAV):
+The Engine Name is Rotax 912-iS.
+The Engine Type is 1 x  internal combustion gasoline engine driving a variable-pitch pusher propeller1 with direct fuel injection and an electronic engine management unit.
+The Engine Power is 100 hp.
+The Maximum Speed is INA.
+The Cruising Speed is 70 knots (130 kph).
+The Maximum Distance is 150 km.
+The Ceiling is 7,320 m.
+The Endurance is 24 hours.
+The Note is The engine is positioned between the tail booms and fuel is stored in bladder tanks..
+
+Here is Smart Micro Munition- Roketsan information for the Bayraktar TB2 Turkish Unmanned Aerial Vehicle (UAV) of the Armament:
+The Caliber is 160.
+The Length is 1.
+The Weight is 22.
+The Seeker is Semi-Active Laser.
+The Warhead Type 1 is Tandem (AP).
+The Warhead Type 2 is High Explosive.
+The Warhead Type 3 is Thermobaric.
+The Warhead Type 4 is Anti-Tank.
+The Fuse Impact is Yes.
+The Fuse Proximity is Yes.
+
+Here is Protection information for the Bayraktar TB2 Turkish Unmanned Aerial Vehicle (UAV):
+The Fuselage is The fuselage is made of carbon fibre, Kevlar and hybrid composites..
+

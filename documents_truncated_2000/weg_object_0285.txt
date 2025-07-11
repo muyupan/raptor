@@ -1,0 +1,37 @@
+This document describes the Cavalry Chinese Tracked Unmanned Ground Vehicle (UGV).
+
+The Calvary Chinese Tracked Unmanned Ground Vehicle (UGV) is designed to provide close-range fire support against hostile infantry and light vehicles. The vehicle has been viewed with a modified UW1 remote weapon station (RWS) armed with a 7.62 mm machine gun, detection system, and a pair of unguided Red Arrow 12 (HJ-12) 80 mm anti-tank guided weapons (ATGW).
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Cavalry Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Cavalry.
+The Type is Tracked Unmanned Ground Vehicle (UGV).
+The Manufacturer is NORINCO.
+The Configuration is Tracked.
+The Mission is The Cavalry Chinese Tracked Unmanned Ground Vehicle (UGV) is designed to provide close-range fire support against hostile infantry and light vehicles..
+The Crew is Unmanned.
+The Control is The Cavalry can be controlled through an operator control unit, a fixed-base control station, or from another vehicle located up to tens of kilometers away..
+The Software is The UGV features high levels of autonomy and is capable of three modes of operation: waypoint navigation, teleoperation, and leader/follower..
+
+Here is Dimensions information for the Cavalry Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight is 1.2 tons.
+
+Here is Automotive information for the Cavalry Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Range is INA.
+The Maximum Speed is INA.
+The Endurance is INA.
+
+Here is Main Weapon System information for the Cavalry Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Note is The Cavalry Chinese Tracked Unmanned Ground Vehicle (UGV) has been viewed with a modified UW1 remote weapon station (RWS) armed with a 7.62 mm machine gun, detection system, and a pair of unguided Red Arrow 12 (HJ-12) 80 mm anti-tank guided weapons (ATGW)..
+
+Here is Protection information for the Cavalry Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Armor is A side skirt provides protection for the suspension system..
+The Applique Armor is INA.
+

@@ -1,0 +1,95 @@
+This document describes the WZ-501 (Type 86) Chinese Amphibious Infantry Fighting Vehicle (IFV).
+
+The WZ-501 (Type 86) Chinese Amphibious Infantry Fighting Vehicle is armed with an ATGM launcher for the HJ-73 "Red Arrow 73" ATGM which is a copy of the Soviet 9M14 "Malyutka". It is powered by the Type 6V150 diesel engine which is a copy of the Soviet UTD-20. Equipment includes the A-220A radio (a copy of the Soviet R-123M), A-221A intercom (a copy of the Soviet R-124), two 7.62 mm machine guns, and a 40 mm rocket-propelled grenade (RPG) launcher, and an HN-5 or QW-1 MANPADS. Its industrial designation is WZ-501
+
+This equipment has proliferated into the following countries: China, Iraq, Sudan.
+
+Here is Variants information for the WZ-501 (Type 86) Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The WZ-501 is Converted into an NBC reconnaissance vehicle with a raised troop compartment.  Also converted into a battlefield surveillance vehicle..
+The YW-501 is Export variant of WZ-501..
+The NFV-1 is (N stands for NORINCO, F stands for FMC and V-1 stands for Vehicle 1) – An export variant which was the product of a co-operative project between the Chinese NORINCO and US FMC companies in the 1980s. Its goal was to fit a FMC large vertical slab-sided turret with a chamfered front called "Sharpshooter", onto a modified Type 86 hull. It was to be armed with a 25 mm M242 Bushmaster autocannon with a two plane stabilization system and a 7.62 mm M240 coaxial machine gun (on the left hand side of the main gun). The vehicle carries 344 rounds for the main gun, 200 rounds are for 'ready use' while 144 are kept in storage. 2,300 rounds are carried for the machine gun. The gun is moved in the horizontal and vertical planes by an electromechanical system, it can also be moved manually. The gun can be depressed or elevated between −7° and +44°. The gunner has the М36Е3 dual mode day/night sight and 4 periscope vision blocks which are located in the front and on the sides of the turret. Also an additional periscope vision block can be fitted to the back of the turret. The tracks have been slightly modified. As the result of all these changes the weight of the vehicle increased to 13.6 tonnes and the maximum range was reduced to 460 km. The vehicle is also wider (2.97 m) and higher (2,248 m). The prototype was shown to the public for the first time in November 1986. It never left the prototype stage because the US government prohibited any further collaboration with China..
+The Type 86-I is Improved variant of the Type 86 designed by the Chinese together with the US FMC company at the end of the 1980s. It is fitted with a one-man overhead mount turret armed with a licensed copy of the 25 mm M242 Bushmaster autocannon and a coaxial 7.62 mm Type 59 machine gun. The overhead mount turret is the same as the one on the ZSL92 wheeled IFV. The vehicle carries 400 rounds for the main gun and 2000 rounds for the machine gun. It is powered by a new 6V150F 29.41-litre diesel engine which is a powered-up version of the 6V150. It develops 400 hp (298 kW). Maximum road speed has increased to 70 km/h. The tracks have been slightly modified. The weight of the vehicle has increased to 13.6 tonnes. 350 were produced. Its industrial designation is WZ-501A. It is also called Type 86-1..
+The Type 86A is Modernization fitted with a new turret armed with a 30 mm autocanon although the ATGM launcher for the HJ-73 ATGMs was retained and is positioned on the right hand side of the roof of the turret. The turret was equipped with two clusters of three smoke grenade launchers (one on each side of the turret). It is sometimes called the Type 86Gai, G stands for Gai – improved..
+The Type 86B is Variant developed by NORINCO for Chinese naval infantry. It features a slightly higher hull, an amphibious kit, an exhaust extension, a bow extension, a larger trim vane, a mount for an outboard motor on the rear of the hull to improve its swimming performance, a raised engine air intake on the right hand side of the front of the hull, detachable pontoons in the front and rear of the hull, a high snorkel and large side screens for better streamlining. Also the turret was improved by adding two clusters of three smoke grenade launchers (one on each side of the turret). Its industrial designation is WZ-501C..
+The WZ-502 is WZ-501 equipped with a mortar..
+The WZ-503 is WZ-501 converted into an APC. It lacks the turret and has a taller troop compartment. The number of passengers was increased from 8 to 13. The vehicle's armament consists of one centrally mounted 12.7 mm heavy machine gun operated by the commander/gunner. It did not leave the prototype stage.[3][23][29]
+WZ-506 – WZ-503 converted into an armored command post for the divisional or regimental commanders of armored formations. The personnel compartment can accommodate six staff members, four radios and an auxiliary electricity generator. It can be recognized by its four whip antennas..
+The WZ-504 (Type 504) is The troop compartment was replaced by a weapons compartment which incorporates an elevatable weapon station armed with four HJ-73 "Red Arrow 73" cable-guided ATGM rail launchers mounted under the roof of the weapons station and equipped with optical sights. The launcher can be retracted into the compartment when not in use. The vehicle carries 16 ATGMs. It never left the prototype stage..
+The WZ-505 is WZ-501 converted into an armored ambulance with raised troop compartment and armed with one machine gun..
+The Type 86G is This variant is equipped with a 30-mm cannon turret and a HJ-73 ATGM launcher..
+The The Boragh is In service with Iran.
+
+Here is System information for the WZ-501 (Type 86) Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Alternative Designation is WZ-501, YW-501.
+The Type is Amphibious Infantry Fighting Vehicle (IFV).
+The Crew is 3.
+The Passenger Capacity is 8.
+
+Here is Dimensions information for the WZ-501 (Type 86) Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Length is 6.74.
+The Width is 2.97.
+The Height is 2.16.
+The Weight, Combat is 13,300.
+The Weight, Empty is 12,100.
+
+Here is Automotive information for the WZ-501 (Type 86) Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is UTD20.
+The Engine Type is Water-cooled, V-6 diesel.
+The Engine Power is 300 hp at 2,000 rpm.
+The Cruising Range is 550-600 km.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 7.
+The Fording Depth is Amphibious.
+The Obstacle, Vertical is 0.08.
+The Obstacle, Trench is 2020.
+The Gradient is 60.
+The Side Slope is 30.
+
+Here is System information for the WZ-501 (Type 86) Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Type is 73 mm Gun.
+The Max Rate of Fire is 8-10 rds/min.
+
+Here is Ammunition information for the WZ-501 (Type 86) Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Type is HEAT.
+The Caliber is 73.
+The Muzzle Velocity is 400.
+The Armor Penetration is 280-350 mm.
+The Basic Load is 40.
+
+Here is System information for the WZ-501 (Type 86) Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is Type 59T.
+The Type is 7.62mm Machine Gun.
+The Max Rate of Fire is 800 rpm.
+
+Here is Ammunition information for the WZ-501 (Type 86) Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Caliber is 7.62.
+The Muzzle Velocity is 8,547.
+The Basic Load is 2,000.
+The Effective Range is 460.
+
+Here is System information for the WZ-501 (Type 86) Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Anti-Tank Guided Missile (ATGM) Systems:
+The Name is Red Arrow HJ-73.
+The Basic Load is 5 (one ready to fire, four at the ready for manual reload).
+The Maximum Range is 3,000.
+
+Here is Fire Control information for the WZ-501 (Type 86) Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is No.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is INA.
+
+Here is Protection information for the WZ-501 (Type 86) Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Hull Armor is 19 mm.
+The Turret Armor is 19-23 mm.
+The Applique Armor is Available.
+The Explosive Reactive Armor is Available.
+The Active Protection System is No.
+The Mine Clearing is Available.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+

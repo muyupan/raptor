@@ -1,0 +1,112 @@
+This document describes the 9P149 Shturm-S Russian Anti-Tank Missile Carrier.
+
+The 9P149 is a tank destroyer of Soviet origin. It was developed to supplement the BRDM-2 based tank destroyers in Soviet service. A more capable tank destroyer was desired with the advent of new Western tanks such as the M1 Abrams and Leopard 2. The 9P149 uses the same 9M114 Shturm anti-tank missiles as used on the Mi-24 attack helicopter.
+
+The 9P149 is based on the chassis of the MT-LB tracked armored personnel carrier. The troop compartment is occupied by a single round retractable pedestal launcher that is connected to an automatic loader. Instead of the small machine gun turret, a large optical tracker is fitted. Only early model Shturm missiles can be launched since the improved models are too long for the automatic loader in the 9P149. With the launcher retracted the 9P149 looks very similar to the MT-LB and can be identified by the optical tracked instead of the small one-man turret.
+
+This equipment has proliferated into the following countries: Armenia, Belarus, CFE Treaty, Russian Federation.
+
+Here is Variants information for the 9P149 Shturm-S Russian Anti-Tank Missile Carrier:
+The 9K114 Shturm (AT-6 Spiral) is The 9K114 Shturm is a late Cold War-era anti-tank missile system of Soviet origin. It was developed in the early 1970s and is employed since 1976. The system is called 9K114 Shturm and its missile is known as the 9M114 Kokon. In the West, the NATO reporting name AT-6 Spiral is often used. The 9M114 was designed to provide attack helicopters with a more capable anti-tank missile than the Falanga (NATO: AT-2). Besides helicopters, it is also used on vehicles and ships. For its time the 9M114 was a rather advanced missile. It has a long sleek cylindrical body with wrap-around fins at the rear. The warhead is located at the front, followed by the guidance section with small control vanes and the solid fuel sustainer and small booster stage at the rear. The missile is stored and launched from a plastic container. The guidance is SACLOS and a VHF radio command link is used. Besides the missile, the 9K114 system consists of a daylight-only sighting system with a laser range finder and radio link. The 9M114 has a better performance than the older Falanga (AT-2) and Malyutka (AT-3) in range, penetration, and accuracy. During Western tests, accuracy proved poor while Russian sources claim 75 to 85 percent effectiveness in the Afghan war. The original 9M114 missiles penetrate about 560mm RHA and have a maximum range of 5 km. The 9M114M2 extends this range to 7 km and penetrates 600 to 650 mm RHA. A thermobaric version is available..
+The Shturm-S is The Shturm-S (Assault-S) is a Soviet anti-tank missile carrier. Letter "S" in the designation stands for "Self-propelled", as there is also a Shturm-V system, used on helicopters, and Shturm-LK naval system, used on patrol boats. Both of these missile systems were developed alongside the Shturm-S anti-tank missile carrier. The launcher vehicle is referred to as 9K114..
+The Shturm-SM is An upgraded version of the Shturm-S. It entered service with the Russian Army in 2014. It uses the more capable Ataka missiles with a range of 6 000 m. This vehicle has a day/night fighting capability. It can also operate in adverse weather conditions..
+The Shturm-SME is Export version of the Shturm-SM.
+
+Here is System information for the 9P149 Shturm-S Russian Anti-Tank Missile Carrier:
+The Alternative Designation is 9P149 Shturm-S.
+The Type is Anti-Tank Missile Carrier.
+The Manufacturer is Kharkiv Tractor Plant.
+The Chassis is MT-LB.
+The Crew is 2.
+The Passenger Capacity is 11.
+The Payload Capacity is 2,000 kg.
+The Tow Capacity is 6,500 kg.
+
+Here is Dimensions information for the 9P149 Shturm-S Russian Anti-Tank Missile Carrier:
+The Length, Overall is 6.454 m.
+The Length, Hull is 6.454 m.
+The Width is 2.86 m.
+The Height is 1.865 m.
+The Track Width is 350 mm.
+The Track Length is 3.7 m.
+The Weight, Standard is 9,700 kg.
+The Weight, Combat is 11,900 kg.
+
+Here is Automotive information for the 9P149 Shturm-S Russian Anti-Tank Missile Carrier:
+The Engine Name is YaMZ 238 V.
+The Engine Type is V-8, diesel.
+The Engine Power is 240 hp at 2,100 rpm.
+The Power-to-Weight Ratio is 20.16 hp/t.
+The Fuel Capacity is 450 liters.
+The Gearbox is Manual, Fwd: 6, Rev: 1.
+The Electrical System is 24 V.
+The Steering is clutch and brake.
+The Suspension is torsion bar.
+The Maximum Land Speed is 61.5 km/h.
+The Maximum Water Speed is 4.5 km/h.
+The Range is 500 km.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Obstacle is 0.61 m.
+The Trench is 2.41 m.
+
+Here is Main Weapon System information for the 9P149 Shturm-S Russian Anti-Tank Missile Carrier:
+The Name is 9M120.
+The Type is Anti-Tank Missile.
+The Manufacturer is INA.
+The Length is 1,832 mm.
+The Diameter is 130 mm.
+The Wingspan is 0.36 m.
+The Weight is 49.4 kg.
+The Engine is Solid propellant rocket motor.
+The Guidance System is SACLOS RF command guidance.
+The Warhead is 5.3 kg HEAT, penetration 560–600 mm vs RHA.
+The Maximum Range is 5,800 m.
+The Minimum Range is 400 m.
+The Maximum Altitude is 4,000 m.
+The Speed is 350–400 m/s.
+The Penetration is Tandem-HEAT warhead, stated to be capable of penetrating at least 800 mm of RHAe behind ERA.
+
+Here is System information for the 9P149 Shturm-S Russian Anti-Tank Missile Carrier of the Auxiliary Weapon System:
+The Name is 1 × 7.62 mm PKT General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,098 mm.
+The Barrel Length is 772 mm.
+The Weight is 7.5 kg.
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 700–800 rounds/min.
+The Muzzle Velocity is 825 m/s.
+The Maximum Firing Range is 4,000 m.
+The Effective Firing Range is 1,500 m.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the 9P149 Shturm-S Russian Anti-Tank Missile Carrier of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×54mmR.
+The Basic Load is 2,000 Rounds.
+
+Here is Fire Control information for the 9P149 Shturm-S Russian Anti-Tank Missile Carrier:
+The Name is INA.
+The Computerized FCS is No.
+The Thermal Sight Vehicle Commander is N/A.
+The Thermal Sight Gunner is N/A.
+The Main Gun Stabilization is N/A.
+The Range, Day Sight is 1,500.
+The Range, Thermal Sight is N/A.
+The Field of View is 23.
+
+Here is Protection information for the 9P149 Shturm-S Russian Anti-Tank Missile Carrier:
+The Hull Armor is The 9P149 Shturm-S is armored according to its role, which means that it is capable of withstanding small arms fire and shell splinters but not much more. The hull has been adapted for high-intensity combat under different variants, but this has not included additional protection. In its basic configuration, the 9P149 Shturm-S is built from welded steel, which is thought to be a maximum of 14 mm thick and a minimum of 7 mm..
+The Turret Armor is 14.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Optional.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The Night Vision Device Capable is Yes.  Some versions have spot lights..
+

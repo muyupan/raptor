@@ -1,0 +1,68 @@
+This document describes the Dry Support Bridge (DSB) British Tactical Military Bridging System.
+
+The DSB Bridging System consists of four primary elements: (1) the bridge, (2) the launching system, (3) the launch vehicle chassis and (4) the vehicles used to transport the bridge elements.
+
+BRIDGE
+The DSB bridge is modular in design and consists of only 5 key elements:- the approach ramps which lead onto the bridge, an end beam which supports the approach ramps, two bridging modules, a 6m ramp module and a 6m parallel module and a walkway. Once constructed, the bridge is 4.3m wide and is capable of carrying loads of up to MLC 120W across gaps up to 46m wide. Once built, a 46m bridge weighs approximately 37.5 tonnes, excluding walkways. The bridge modules have been designed to be compact while being transported, yet easily deployable to their full width during bridge construction. This is achieved through a patented folding design, which allows the bridge to unfold to its full width simply by lifting it. The result is a folding bridge module which has integral deck units from which the two main bridge girders pivot.
+
+The girders are folded underneath when in transport mode and swing outwards once deployed, to form a fully-decked 4.3m wide bridge surface. The folded dimensions of a bridge module are such that, when two modules are stacked, they are equivalent in size to a 1C ISO container.
+
+The folded module is deployed by simply lifting the module via its opening slings, the action of which rotates the girders gently outwards under the control of hydraulic dampers. The modules are similarly folded by lifting the module by its closing slings.
+
+The bridge may also be supplied with additional ramp modules, to allow two shorter bridges to be built, if required.
+
+Once constructed, the bridge can be fitted with an appliqué walkway, which is carried on an additional flatrack and which, when built, cantilevers off the side of the bridge.
+
+Health Usage Monitoring Systems
+All the parallel bridge modules in the DSB system are fitted with a 'crack first' fatigue monitor. This type of gauge allows the individual life of a bridge panel to be ascertained.
+
+Walkways
+The walkway is deployed in sections, attaches to the existing kerbs and forms a continuous walkway adjacent to the bridge. The design of the walkway is such that its top surface is above the roadway surface, helping to protect foot traffic. It is also possible to fit a walkway to each side of the bridge.
+
+LAUNCHING SYSTEM
+As with the bridge, the launcher has been designed to be compact for transportation purposes, yet quickly deployable to its operational size within minutes. This has been achieved via a ‘fold and rotate’ system which is unique to the Dry Support Bridge system. The launcher vehicle weighs approximately 40–45 tonnes, depending on the chosen chassis and level of armour.
+
+THE LAUNCH VEHICLE CHASSIS
+The launching system is designed to be adaptable to a range of vehicle chassis. This has been achieved through the adoption of a chassis interface sub-frame, which allows the crane and launching equipment to be easily adapted to a range of chassis with little modification. This design approach ensures that a very high level of commonality exists across all vehicle configurations and ensures greater spares availability and - most importantly - specification compliance against original test data. In general, chassis have been 5-axle vehicles which have included Oshkosh, IVECO and Rheinmetall MAN.
+
+BRIDGE TRANSPORTATION VEHICLES
+The size and shape of two DSB bridge modules, when stacked, approximates to the same size as an ISO container. The common method of transportation for the bridge sections is therefore on an ISO Flatrack, which is included in the system. This allows bridging to be treated as a commodity and shipped by a multitude of vehicles, including Oshkosh, IVECO and MAN.
+
+This equipment has proliferated into the following countries: Switzerland, Turkey, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is System information for the Dry Support Bridge (DSB) British Tactical Military Bridging System:
+The Alternative Designation is Dry Support Bridge (DSB).
+The Type is Tactical Military Bridging System.
+The Manufacturer is WFEL.
+The Crew is 8.
+The Military Load Classification (MLC) is Normal 100 (T) / 96 (W) at 46m
+Maximum 120 (W) / (T) at 46m.
+The Launch Time is Less than 90 minutes.
+The Operating conditions (air temperature) is Minus 46 to plus 49 °C.
+The Normal launcher environment operating conditions (air temperature) is Minus 29 to plus 49 °C.
+
+Here is Dimensions information for the Dry Support Bridge (DSB) British Tactical Military Bridging System:
+The Maximum clear span is 46 m.
+The Span Range and Increments is 22 m to 46 m in 6 m increments.
+The Road Width is 4.3 m.
+The Bank Heights is Up to +/- 3 m.
+The Longitudinal Bank Slope is 1 in 20
+(reduced capability at 1 in 10).
+The Lateral Bank Slope is 1 in 20.
+The Parallel Module is Stowed LWH 5.95 x 2.44 x 1.1m
+Deployed LWH 5.95 x 4.3 x 1.19m
+Weight 4,417kg.
+The Ramp Module is Stowed LWH 5.95 x 2.44 x 1.1m
+Deployed LWH 5.96 x 4.3 x 1.19m
+Weight 4,080kg.
+The End Beam is LWH 2.5 x 0.375 x 0.56m
+Weight 357kg.
+The Approach Ramp is LWH 4.09 x 0.42 x 0.19m
+Weight 86kg.
+The Decking & Kerbs is Integral — does not require dressing after bridge setdown.
+
+Here is Automotive information for the Dry Support Bridge (DSB) British Tactical Military Bridging System:
+The Launch Vehicle Chassis is The launching system is designed to be adaptable to a range of vehicle chassis. This has been achieved through the adoption of a chassis interface sub-frame, which allows the crane and launching equipment to be easily adapted to a range of chassis with little modification. This design approach ensures that a very high level of commonality exists across all vehicle configurations and ensures greater spares availability and - most importantly - specification compliance against original test data.
+
+In general, chassis have been 5-axle vehicles which have included Oshkosh, IVECO and Rheinmetall MAN..
+

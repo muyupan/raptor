@@ -1,0 +1,127 @@
+This document describes the WZ-551 (Type 92) Chinese 6x6 Amphibious Armored Personnel Carrier (APC).
+
+The WZ-551 (Type 92) Chinese 6x6 Amphibious Armored Personnel Carrier (APC) is a Chinese wheeled armored personnel carrier. It is actually consisted of two families of vehicles with official designations in the People's Liberation Army as Type 90 and Type 92. Roughly 900 WZ-551s are in service with the PLA, where they are used by light mechanized infantry units. WZ-551s have been exported to Algeria, Bosnia, Sri Lanka, Nepal, Pakistan and Senegal.
+
+This equipment has proliferated into the following countries: Angola, Argentina, Burundi, Cameroon, Chad, China, Djibouti, Ethiopia, Kenya, Myanmar, Nepal, Niger, Oman, Rwanda, Senegal, Sri Lanka, Sudan, Tanzania, Zambia.
+
+Here is Variants information for the WZ-551 (Type 92) Chinese 6x6 Amphibious Armored Personnel Carrier (APC):
+The ZSL-92 is The ZSL-92 is an IFV based on the Type 92 hull. It is designed to transport an infantry section into combat and provide fire support once deployed..
+The ZSL-92B is The ZSL-92B is an upgraded ZSL-92 armed with a 30 mm cannon, designed to modernize the vehicle so that it remains capable for the increased demands of modern warfare. It is much the same as the ZSL-92 with the exception of the new armament..
+The ZSL-92 APC is In addition to the IFV variant of the ZSL-92 there is an APC. It is also based on the Type 92 hull but carries a reduced weapon payload..
+The WMZ551B is The WMZ551B is based on the upgraded WMZ551 hull (detailed in the Developments, prototypes, and concepts section of this entry). It is an APC designed to transport infantry sections into combat and conduct patrol duties..
+The WMZ551B1 is The WMZ551B1 is also based on the WMZ551 hull. It differs from the WMZ551B in the weapon station, which is replaced with an enclosed turret very similar in shape to the turret on the ZSL-92B..
+The PTL-02 is The PTL-02 is described as an assault gun, often used to equip artillery units in the PLA. It is armed with a 100 mm direct fire gun and can keep pace with wheeled units that are also equipped with ZSL-92 series vehicles..
+The WMA-301 Assaulter is The WMA-301 is a direct fire support vehicle primarily aimed at the export market. It is designed to perform the same role as the PTL-02, however it is armed with a larger caliber main gun. The base vehicle for the Assaulter is the WMZ551 detailed under the Developments, prototypes, and concepts heading of this entry..
+The PLL-05 is The PLL-05 is an SPH based on the Type 92 hull. It is designed to provide indirect fire support for motorized formations and the mobility necessary to ensure operational tempo is maintained. In concept the vehicle is similar to the Russian 2S23 Nona vehicle based on the BTR-80 and it is possible that the design is similar in ability to the 2S23. Therefore the following description could be used in conjunction with the 2S23 to provide an indication of what the PLL-05 may be capable of achieving..
+The HJ-9 is The HJ-9 is a 4 × 4 tank hunting vehicle based on a modified ZSL-92 hull. It is armed with guided missiles and used by the PLA to destroy heavily armored targets before they can engage the motorized formations that typically carry light protection..
+The WJ-08 is The WJ-08 is an internal security vehicle (ISV) used by the Chinese internal security forces, which are regularly required to combat armed insurgents. The vehicle has taken part in the 60th anniversary parade held in 2011 to celebrate the anniversary of the PRC. It is described by Chinese sources as an anti-riot vehicle..
+The WZ531 is The WZ531 is an armored recovery vehicle (ARV) based on the ZSL-92 hull. It is designed to provide recovery and support services for Type 92 series vehicles deployed to combat zones..
+The WZ551A Armored Command and Control Vehicle is There are known to be C2 variants of the WZ551/ZSL-92 vehicles, however there is little known about the vehicles themselves.
+The WZ551S is The official PLA designation of this vehicle is unknown, however based on the 2018 understanding of PLA designations it may be ZHB-92 [armored (Z), logistics support (H), or supply vehicle (B)].
+The WZ523 is The WZ523 is the industrial designation for the vehicle developed in tandem with what became the ZSL-92. It has irregularly arranged axles and it is believed to have been widely exported. Full details of the WZ523 are provided under the entry titled WZ523..
+
+Here is System information for the WZ-551 (Type 92) Chinese 6x6 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is WZ-551; Type 90; Type 92; ZSL-92; ZSL92.
+The Type is Armored Personnel Carrier.
+The Configuration is 6x6.
+The Manufacturer is Norinco, at Factory 256.
+The Crew is 2.
+The Troop Comparment Capacity is 11.
+
+Here is Dimensions information for the WZ-551 (Type 92) Chinese 6x6 Amphibious Armored Personnel Carrier (APC):
+The Length is 6.73 m.
+The Width is 2.86 m.
+The Height, Hull is 2.1 m.
+The Height, to Turret Roof is 2.89 m.
+The Wheelbase is 1.9 m + 1.9 m.
+The Weight is 15,000 kg.
+The Ground Clearance is 0.41 m.
+
+Here is Automotive information for the WZ-551 (Type 92) Chinese 6x6 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is Deutz BF8L413FC.
+The Engine Type is V-8, air cooled, diesel.
+The Engine Power is 320 hp at 2,500 rpm.
+The Power-to-Weight Ratio is 21.33hp/t.
+The Fuel Capacity is 400 liters.
+The Gearbox is ZF 6HP500; Automatic; Fwd.: 5, Rev: 1.
+The Batteries is 2 × 24V, 180Ah.
+The Electrical System is 24V.
+The Suspension is coil springs and hydraulic shock-absorbers.
+The Range is 600.
+The Steering is hydraulic, first and second axles.
+The Brakes is dual-circuit, air/hydraulic.
+The Tires is 14.00 × 20.
+The Amphibious is Yes.
+The Speed, Maximum Road is 85.
+The Speed, Maximum Cross is 80.
+The Speed, Maximum Swim is 11.
+The Gradient is 70%.
+The Side Slope is 30%.
+The Angle of Approach is 45°.
+The Angle of Departure is 41°.
+The Vertical Obstacle is 0.5 m.
+The Note is The ZSL-92 is amphibious and travels in the water with power provided by two propellers at the rear of the hull. The propellers face in towards the vehicle when on land, but are rotated through 180° once in the water..
+
+Here is Communication information for the WZ-551 (Type 92) Chinese 6x6 Amphibious Armored Personnel Carrier (APC):
+The Radio is RC-83.
+The Telephone is VIC-83.
+
+Here is System information for the WZ-551 (Type 92) Chinese 6x6 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 × ZPT90 Autocannon.
+The Type is Autocannon.
+The Caliber is 25 mm.
+The Length is INA.
+The Weight is INA.
+The Elevation is -8° to +55°.
+The Traverse is 360°.
+The Gunner Select is The gunner can select single shot, burst, or automatic rates of fire that are set at 100, 300, or 500 rds/min..
+The Horizonal Range, API Rounds is 1,500 m.
+The Note is The ZPT90 Autocannon can fire HE and API Rounds.
+
+Here is Ammunition information for the WZ-551 (Type 92) Chinese 6x6 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 25 mm.
+The Cartridge is 25x137mm.
+The Basic Load is 400 rounds.
+
+Here is System information for the WZ-551 (Type 92) Chinese 6x6 Amphibious Armored Personnel Carrier (APC) of the Coaxial Weapon System:
+The Name is 1 x Type 86.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is Norinco.
+The Length is 1,192 mm.
+The Barrel Length is 658 mm.
+The Weight is 12.6 kg.
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 700–800 round/min.
+The Muzzle Velocity is 840 m/s.
+The Effective Firing Range is 100—1,500 m with sight adjustments.
+The Feed System is Belts in 100/200/250 round boxes.
+The Sights is Open sights. Optical/Night vision scope can be outfitted..
+
+Here is Ammunition information for the WZ-551 (Type 92) Chinese 6x6 Amphibious Armored Personnel Carrier (APC) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartage is 7.62×54mmR.
+The Basic Load is 1,000 Rounds.
+
+Here is Fire Control information for the WZ-551 (Type 92) Chinese 6x6 Amphibious Armored Personnel Carrier (APC):
+The FCS Name is INA.
+The Computerized FCS is No.
+The Main Gun Stabilization is No.
+The Thermal Tank Commander is Yes.
+The Thermal Gunner is Yes.
+The Automatic Fire Suppression System is Yes.
+
+Here is Protection information for the WZ-551 (Type 92) Chinese 6x6 Amphibious Armored Personnel Carrier (APC):
+The Hull Armor Type is The hull is built from welded steel that provides protection from small arms fire and shell splinters. It is claimed that the Type 92 provides all-round protection against 12.7 mm rounds..
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Firing Ports is There are 8 total firing ports, four on both sides. Each firing port includes a day periscope mounted in the roof of the vehicle as well as a gas extractor. On both sides the first firing port is for a 7.62 mm MG, and the remaining three are for use with assault rifles..
+The Self-Entrenching Blade is Obstacle-Clearing Blade Available.
+The Automatic Fire Suppression System is Yes.
+The NBC Protection is Yes.
+The Smoke Protection is 8x 75mm smoke grenade dischargers.
+

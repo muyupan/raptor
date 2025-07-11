@@ -1,0 +1,74 @@
+This document describes the Huangfeng Class Chinese Guided Missile Patrol Craft.
+
+Vessels of this class are Chinese-built versions of Russian OSA-I class PTGs. Approx. There were 104 of this class built between 1960 and 1975.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Huangfeng Class Chinese Guided Missile Patrol Craft:
+The HUANGFENG-class GUIDED MISSILE PATROL CRAFT (PTG) is Pendant Numbers:
+ 2304
+ 6107
+ 6119
+ 6123
+ 6124
+ plus one more unit.
+
+Here is System information for the Huangfeng Class Chinese Guided Missile Patrol Craft:
+The Alternative Designation is Huangfeng Class.
+The Type is Guided Missile Patrol Craft.
+The Builder is Jiangnan Shipyard, Shanghai, China.
+The Crew is INA.
+
+Here is Dimensions information for the Huangfeng Class Chinese Guided Missile Patrol Craft:
+The Length is 38.8 m.
+The Beam is 7.6 m.
+The Draft is 3.0 m.
+The Displacement, Standard is 171 tons standard.
+The Displacement, Full Load is 205 tons full load.
+
+Here is Propulsion System information for the Huangfeng Class Chinese Guided Missile Patrol Craft:
+The Engine Name is 3 Chinese type M503A.
+The Engine Type is Diesel.
+The Engine Power is 12,000 bhp total.
+The Maximum Range is 800 nm at 55.6 km/h (30 kts).
+The Maximum Speed is 72.2 km/h (39 kts).
+
+Here is Gun Weapon Systems information for the Huangfeng Class Chinese Guided Missile Patrol Craft:
+The Note is 2 twin 25-mm/80 cal. (Type 61) AA or
+                     2 twin 30-mm/65-cal. (Russian AK-230) AA.
+
+Here is Missile #1 information for the Huangfeng Class Chinese Guided Missile Patrol Craft of the Missile Weapon System:
+The Name is HY-2; Silkworm.
+The Type is Anti-Ship Cruise Missile.
+The Launcher is 4 x HY-2 (C-201/CSS-N-1)SSM launchers.
+The Length is 7.48 m.
+The Diameter is 0.76 m.
+The Wingspan is 2.4 m.
+The Weight is 2,998 kg.
+The Warhead is 513 kg shaped charge high-explosive.
+The Propulsion is One liquid rocket engine and one solid rocket booster.
+The Maximum Speed is Mach 0.8.
+The Maximum Range is 200 km.
+The Maximum Flight Altitude is < 20m.
+The Guidance System is Inertial + active conical scanning terminal guidance radar (HY-2); or inertial + infrared homing guidance (HY-2A); or inertial + monopulse active radar (HY-2B).
+The Single-Shoot Hit Probability is 90%.
+The Note is The HY-2 is identical to the HY-1 but with a further stretched body. The missile features a round nose accommodating the radar seeker, a pair of mid-mounted delta wings on the middle section of missile body, and three tail control surfaces. The missile is powered by a liquid-fuel rocket motor, with a solid rocket booster attached under the missile fuselage.
+
+The HY-2 is launched from land-based launcher and flies at an altitude of 1000 m during the initial stage of the flight. After the missile switched to the cruising mode, the flight altitude was reduced to 100 ~ 300 m. During the final stage of the flight, the missile switched on its radar seeker and dives to an altitude of 8 m until it hits the target. The single-shot hit probability is estimated to be 90%. Due to its oversized body, the HY-2 did not develop a ship-to-ship variant. The missile is obsolete and will be replaced by the YJ-8 series in the future.[3]
+
+The HY-2 was widely exported to the Middle East, and was the missile most associated with the silkworm nickname..
+
+Here is Fire Control Systems information for the Huangfeng Class Chinese Guided Missile Patrol Craft:
+The FCS Name is Yes.
+The Computerized FCS is 1 SY-1 fire control (for SSMs).
+The Battle Management System is INA.
+
+Here is Radar Systems information for the Huangfeng Class Chinese Guided Missile Patrol Craft:
+The Air and Surface Search Radar is 1 Type 352(Square Tie**) air/surface search.
+The Navigation Radar is INA.
+
+Here is Protection information for the Huangfeng Class Chinese Guided Missile Patrol Craft:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is INA.
+

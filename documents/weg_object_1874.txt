@@ -1,0 +1,63 @@
+This document describes the BGM-71A TOW American Anti-Tank Guided Missile (ATGM).
+
+Hezbollah Proliferation. The BGM-71A TOW ("Tube-launched, Optically tracked, Wire-guided") is an American anti-tank missile. TOW replaced much smaller missiles like the SS.10 and ENTAC, offering roughly twice the effective range, a more powerful warhead, and a greatly improved semi-automatic guidance system that could also be equipped with infrared cameras for nighttime use.
+
+The U.S. BGM-71A TOW (tube-launched, optically tracked, wire-guided) weapon is the most widely distributed anti-tank guided missile in the world. It is fired from tripods, ground combat vehicles, and helicopters.
+
+First produced in 1970, TOW is one of the most widely used anti-tank guided missiles. It can be found in a wide variety of manually carried and vehicle-mounted forms, as well as widespread use on helicopters. Originally designed by Hughes Aircraft in the 1960s, the weapon is currently produced by Raytheon.
+
+This equipment has proliferated into the following countries: Argentina, Bahrain, Belgium, Botswana, Cameroon, Canada, Chad, Chile, Colombia, Croatia, Denmark, Egypt, Ethiopia, Finland, Germany, Greece, Hungary, Indonesia, Iran (Islamic Republic of), Iraq, Israel, Italy, Japan, Jordan, Kenya, Kuwait, Lebanon, Luxembourg, Mexico, Morocco, Non-State Actors, Norway, Oman, Pakistan, Philippines, Portugal, Saudi Arabia, Singapore, Somalia, South Korea (Republic of Korea), Spain, Sweden, Switzerland, Thailand, Tunisia, Turkey, United Arab Emirates, United Kingdom of Great Britain and Northern Ireland, United States of America, Viet Nam, Yemen.
+
+Here is Variants information for the BGM-71A TOW American Anti-Tank Guided Missile (ATGM):
+The BGM-71B is It has improved range to 3 750 m. This missile flies faster and has a longer wire. Otherwise, it is similar to the basic BGM-71A..
+The ITOW (Improved TOW), or BGM-71C is It was adopted by the US Army in 1976. This missile has an improved shape-charged warhead. It also has an extensible probe that triggers the detonation of the warhead and provides optimum detonation distance. The probe is extended after the launch. This missile penetrates 630 mm of steel armor..
+The TOW 2 is is an upgraded version of the TOW. It entered service with the US Army in 1983. This weapon system is composed of a new BGM-71D missile, a new reusable launcher, a missile guidance set, and a sight system. The launcher is lighter. It is compatible with all previous TOW missiles. It has thermal optics and can be used at night. The new missile has a larger warhead (5.9 kg) with the extensible probe, as well as improved guidance. Over 77 000 BGM-71D anti-tank guided missiles were produced..
+The TOW 2A or BGM-71E is It appeared in 1987. It has a tandem warhead and is intended to defeat tanks with Explosive Reactive Armor (ERA). It penetrates 900 mm of steel armor behind ERA.  Newer missiles, starting from the TOW 2A are produced both in wireless and wire-guided forms. The wireless missiles require no special alterations to the launcher. Over 34 000 of the BGM-71E missiles have been delivered. In 2003 these missiles were used by US Marines in Iraq, destroying several Iraqi T-72 tanks..
+The TOW 2B or BGM-71F is is a top-attack missile. It appeared in 1987. This missile explodes above a tank to penetrate its thin top armor. In concept, it is similar to a Swedish RBS 56 BILL. It has a maximum range of 4 200 m. Its warhead weighs 6.14 kg. This missile lacks an extensible probe. These anti-tank missiles are produced in wireless and wire-guided forms. The first unit was equipped with these missiles in 1992. In 2003 these missiles, alongside the TOW 2As were used by US Marines in Iraq, destroying several Iraqi T-72 tanks. The conflict marked the first operational firing of the TOW 2B missiles. However, during combat in Afghanistan, the TOW 2B was found to be less effective than the older TOW 2A..
+The TOW 2N is TOW 2N was an improved anti-tank system, that used missile with wireless data link. It appeared in 1989. However this weapon was not adopted by the US military..
+The BGM-71G is BGM-71G is a top-attack missile with different warhead. It also lacks extensible probe..
+The BGM-71H is BGM-71H is a bunker-busting missile. It is used against buildings or fortified structures. This missile has a range of 3 750 m. This missile is produced in wireless and wire-guided forms.
+The TOW 2B Aero is an extended-range version with a maximum range of 4.5 km. Previously this weapon was known as TOW 2B (ER). This missile is produced in wireless and wire-guided forms..
+The Toophan is Toophan is an Iranian reverse-engineered version of the TOW..
+
+Here is Dimensions information for the BGM-71A TOW American Anti-Tank Guided Missile (ATGM):
+The Note is See ATGM System.
+
+Here is Launcher information for the BGM-71A TOW American Anti-Tank Guided Missile (ATGM) of the ATGM System:
+The Name is BGM-71 TOW.
+The Type is ATGM.
+The Configuration is factory-sealed tube contains a cylindrical missile body w/pop-out cruciform wings indexed 45 deg off line from cruciform rudders; 2 rocket exhausts at mid-body; 2 
+guidance wire spools in tail.
+The Container Length is 1.28.
+The Container Diameter is 218.
+The Note is It is not a fire-and-forget type weapon. It requires the shooter to keep the target in the line of sight until the missile impacts..
+
+Here is Missile information for the BGM-71A TOW American Anti-Tank Guided Missile (ATGM) of the ATGM System:
+The Name is BGM-71A/B TOW.
+The Type is ATGM.
+The Missile Length is 1.16.
+The Missile Diamter is 0.15.
+The Fin Span is 0.46.
+The Missile Weight is 18.9.
+The Warhead Type is HEAT.
+The Warhead Weight is 2.63.
+The Maximum Range is 3.
+The Armor Penetration is 430.
+The Guidance System is Wire-Guided.
+The Speed is 300.
+The Propulsion is 2 x Hercules solid-fuel rocket motors; first motor has 
+                              short burn to allow TOW to clear tube; second motor
+                              sustains TOW flight until impact; TOW 2 motor provides
+                              30 percent greater impulse than the basic TOW.
+
+Here is Fire Control information for the BGM-71A TOW American Anti-Tank Guided Missile (ATGM):
+The Name is INA.
+The Computerized FCS is Analog.
+The Guidance System is Semi-automatic command to line-of-sight (SACLOS) wire guidance.
+The Direct Fire is Yes.
+The Optical Sensor is Yes.
+The Infrared is automatic tracking of xenon or thermal beacon in tail.
+The Night Sight is Texas Instruments AN/TAS-4 thermal.
+The Thermal is INA.
+The Proximity is INA.
+

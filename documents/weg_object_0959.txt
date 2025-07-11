@@ -1,0 +1,121 @@
+This document describes the JH-7 (Flounder) Chinese Fighter/Bomber.
+
+The Xi'an JH-7 (NATO reporting name Flounder), also known as the FBC-1 (Fighter/Bomber China-1) Flying Leopard, is a tandem two-seat, twin-engine fighter-bomber in service with the People's Liberation Army Naval Air Force (PLANAF), and the People's Liberation Army Air Force (PLAAF).  The main contractors are Xi'an Aircraft Industrial Corporation (XAC) and the 603rd Aircraft Design Institute (later named the First Aircraft Institute of AVIC-I).
+
+The first JH-7s were delivered to the PLANAF in the mid-1990s for evaluation, with the improved JH-7A entering service in 2004. In the early 1970s, the PLAAF required a new fighter-bomber to replace the Harbin H-5 and Nanchang Q-5. A request was duly submitted to the Ministry of Aviation Industry (later renamed to the Aviation Industry Corporation of China), which organized a domestic development program when efforts to secure a joint venture with foreign partners failed. The program was authorized on 19 April 1983 by then-paramount leader Deng Xiaoping. The program was also aiming to make use of newly imported British Rolls-Royce Spey turbofan engines at the time. The PLANAF required a similar aircraft and the program set out to develop a variant for each set of requirements. The PLAAF variant would be a two-man all-weather deep strike bomber, with side-by-side cockpit seating, electronic countermeasures (ECM), and terrain following capabilities similar to the General Dynamics F-111. The PLANAF would receive a two-man all-weather, tandem cockpit, strike and reconnaissance aircraft. The PLAAF variant was dropped in the early 1980s, with the PLANAF variant becoming the JH-7.
+
+Six prototypes were built by December 1988, and the PLANAF received 12 to 18 aircraft in the early 1990s for evaluation. The first aircraft used imported Rolls-Royce Spey Mk.202 engines, later replaced by a license-built copy, the WS-9. They were equipped with the Type 243H multifunction radar, which could detect ships at a maximum of 175 kilometers (109 mi), and MiG-21-sized aerial targets at 75 kilometers (47 mi).
+
+The JH-7 was designed as an anti-shipping fighter-bomber. As with the later JH-7A, its aerial combat capability was insignificant given the large number of specialist aircraft for that role.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the JH-7 (Flounder) Chinese Fighter/Bomber:
+The JH-7 is Initial production version of the PLANAF anti-shipping fighter-bomber..
+The JH-7A is Later production utilising composite structure to reduce weight, improved flying control system and improved avionics including the JL10A Shan Ying J-band pulse-Doppler radar. Weapon loads increased by the addition of two more wing hardpoints and two hardpoints under the intake trunking for mission pods such as targeting pods..
+The JH-7E is Possibly export variant, shown at 2018 Zhuhai Airshow..
+The FBC-1 Flying Leopard is Export version of the JH-7..
+The FBC-1A Flying Leopard II is Export version of the JH-7A..
+
+Here is System information for the JH-7 (Flounder) Chinese Fighter/Bomber:
+The Alternate Designation(s) is Xi'an JH-7; Flounder; FBC-1 Flying Leopard..
+The Primary Function / Type is Fighter-Bomber.
+The Manufacturer is Xi'an Aircraft Industry Corporation.
+The Crew is 2.
+The Number of Engines is 2.
+The Number of Hard Points is 9 in total (6× under-wing, 2× wing-tip, 1× under-fuselage) with a capacity of 9,000 kg (20,000 lb) external fuel and ordnance,.
+The Note is The JH-7 was designed as an anti-shipping fighter-bomber..
+
+Here is Dimensions information for the JH-7 (Flounder) Chinese Fighter/Bomber:
+The Length is 21.00 m.
+The Height is 6.22 m.
+The Wingspan is 12.80 m.
+The Wing Area is 52.3 m sq.
+The Wheel Base is 7.80 m.
+The Wheel Track is 3.06 m.
+The Empty Weight is INA.
+The Takeoff Weight is 27,415 kg.
+
+Here is Automotive information for the JH-7 (Flounder) Chinese Fighter/Bomber:
+The Engine Name is 2 x Xian WS9 turbofan.
+The Number of Engines is 2.
+The Engine Type is licensed Rolls Royce Spey Mk 202.
+The Engine Power, Dry is 55.83 kN each.
+The Engine Power, Afterburner is 91.26 kN each.
+The Maximum Speed at Altitude is 1,808 km/h at 1,000 m max.
+The Cruise Speed is 903 km/h.
+The Maximum Range is 3,100 km w/full internal fuel, full external fuel, no weapons.
+The Radius is 900 km.
+The Ceiling is 16,000 m.
+The Takeoff Roll is 920 m.
+The Landing Roll is 1,050 m.
+
+Here is System information for the JH-7 (Flounder) Chinese Fighter/Bomber of the Main Gun System:
+The Name is Gryazev-Shipunov GSh-23.
+The Type is Autocannon.
+The Caliber is 23mm.
+The Length is 1,537 mm.
+The Barrel Length is 1,000 mm.
+The Weight is 50 kg.
+The Barrels is 2.
+The Action is Gast principle.
+The Rate of Fire is 3,400–3,600 rounds/min.
+The Muzzle Velocity is 715 m/s.
+
+Here is Ammunition information for the JH-7 (Flounder) Chinese Fighter/Bomber of the Main Gun System:
+The Type is Autocannon.
+The Caliber is 23mm.
+The Cartridge is 23x115 mm.
+The Basic Load is 1,500 Rounds.
+
+Here is Main Missile System #1 information for the JH-7 (Flounder) Chinese Fighter/Bomber of the Main Missile Systems:
+The Name is C-802.
+The Type is Anti-Ship Cruise Missile.
+The Manufacturer is China Aerospace Science and Industry Corporation.
+The Length is INA.
+The Diameter is INA.
+The Weight is INA.
+The Warhead is 190 kg high-explosive fragmentation.
+The Engine is French TRI 60-2 turbojet.
+The Operational Range is 125 km.
+The Maximum Speed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+
+Here is Main Missile System #2 information for the JH-7 (Flounder) Chinese Fighter/Bomber of the Main Missile Systems:
+The Name is C-801.
+The Type is Anti-Ship Cruise Missile.
+The Length is 5.81 m.
+The Diameter is INA.
+The Weight is 815 kg.
+The Warhead Weight is 165 kg.
+The Engine is Rocket.
+The Propellant is solid rocket.
+The Operational Range is 42 km.
+The Flight Altitude is 5-7 m.
+The Maximum Speed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+
+Here is Bomb Weapon Systems information for the JH-7 (Flounder) Chinese Fighter/Bomber:
+The Laser Guided Bombs (Options) is GB1; GB5.
+The Satellite Guided Bombs is LS-6; FT-12; GB6; FT-2; FT-3; FT-6.
+
+Here is Fire Control / Avionics information for the JH-7 (Flounder) Chinese Fighter/Bomber:
+The Radar is Eagle Eye 232H multi-role pulse-Doppler.
+The Fire Control Radar is INA.
+The Laser Desingator is INA.
+The Autopilot is triplex digital-analog.
+The Air Data Computer is Type 8145.
+The Radio Altimeter is WG-5A.
+The Navigation is 210 Doppler.
+The EW Radar Warning is RW1045 receiver.
+The Active Jamming is 960-2 noise system.
+The Passive Jamming is 914-4G system.
+
+Here is Protection information for the JH-7 (Flounder) Chinese Fighter/Bomber:
+The Stealth Properties is INA.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The NBC Protection is Yes.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

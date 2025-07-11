@@ -1,0 +1,101 @@
+This document describes the NH90 French Multi-Role Military Helicopter.
+
+The NHIndustries NH90 is a medium-sized, twin-engine, multi-role military helicopter. It was developed in response to NATO requirements for a battlefield helicopter that would also be capable of being operated in naval environments. The NH90 was developed and is manufactured by NHIndustries, a collaborative company owned by Airbus Helicopters, Leonardo (formerly AgustaWestland), and Fokker Aerostructures. The first prototype conducted its maiden flight in December 1995; the type first entered operational service in 2007. As of November 2020, the NH90 has logged 265,372 flight hours in the armed forces of thirteen nations.
+
+The NH90 is the first production helicopter to feature entirely fly-by-wire flight controls. There are two main variants, the Tactical Transport Helicopter (TTH) for Army use and the navalised NATO Frigate Helicopter (NFH); each customer typically has various alterations and customizations made to their own NH90 fleets, such as different weapons, sensors, and cabin arrangements, to meet their own specific requirements. Since its introduction into service, the NH90 has suffered several teething issues, which has delayed the active deployment of the type by some operators.
+
+The NH90 was designed to fulfill a NATO staff requirement for a multi-role, medium-sized military helicopter for both land and maritime operations. According to Flight International, the NH90 has the distinction of being the first helicopter in the world to be developed in line with NATO requirements. As such, the design of the NH90 meets with multiple national and international standards, including military airworthiness processes in Germany, France, Italy, and the Netherlands; conformance with FAR 29 and MIL-STD design standards, as well as DEF-STN 00-970 icing conditions performance and electromagnetic compatibility. It is produced in two principal variants, the battlefield Tactical Transport Helicopter (TTH) and the maritime NATO Frigate Helicopter (NFH).
+
+One key innovation of the rotorcraft is the four-channel fly-by-wire control system employed; the NH90 is the first helicopter in the world to be equipped with full fly-by-wire flight controls. A four-axis autopilot is also integrated with the fly-by-wire system, as our mission and navigation systems to enable greater autonomy during operations and to reduce pilot workload. The flight envelope of the NH90 is capable of all-weather day-and-night operations, ship-borne operations during high sea state, across a temperature range from −40 °C to +50 °C, and up to a maximum altitude of 20,000 feet. Power is provided by a pair of turboshaft engines, dependent on customer selection, the NH90 is either fitted with Rolls-Royce Turbomeca RTM322 or General Electric CT7-8F powerplants; exhaust gases from the engines are filtered through an infrared suppression system for decreased sensory visibility. According to Airbus Helicopters, the NH90 possesses the lowest radar signature in its class, principally due to its diamond-shaped composite fuselage.
+
+The NH90 featured an advanced composite airframe, designed for ballistic tolerance, a high level of crashworthiness, lower weight, and 30 percent greater endurance than a metallic counterpart. The four main rotor blades are also composed of composite materials, increasing fatigue strength and lifespan while providing for greater damage tolerance. The unobstructed main cabin area is entered either by large sliding doors on either side of the fuselage or via a rear ramp, the cabin is designed to accommodate modular equipment packages to enable the rotorcraft to be rapidly reconfigured, providing for operational flexibility. In a troop-transport capacity, the cabin can accommodate up to 20 fully equipped soldiers or up to 12 stretchers in a medical evacuation role, some light vehicles may also be transported; the main cabin is equipped with environmental control systems and soundproofing measures to improve passenger conditions
+
+This equipment has proliferated into the following countries: Australia, Belgium, Finland, France, Germany, Greece, Italy, Netherlands, New Zealand, Norway, Oman, Qatar, Spain, Sweden.
+
+Here is Variants information for the NH90 French Multi-Role Military Helicopter:
+The NFH: NATO Frigate Helicopter is The primary role of the NFH version is autonomous anti-submarine warfare (ASW) and anti-surface unit warfare (ASuW), mainly from naval ships. These aircraft are equipped for day and night, adverse weather, and severe ship motion operations. The primary missions of the NH90 NFH helicopter are in the autonomous anti-submarine warfare (ASW) and anti-surface ship warfare (AsuW) role. In the anti-surface warfare role, the helicopter is capable of detection, tracking, classification, identification, and attack of hostile ships, and has the over-the-horizon capability. Secondary roles include anti-air warfare (AAW), vertical replenishment (VERTREP), search and rescue (SAR), troop transport, and mine laying..
+The SH-90A is Italian Navy designation from 2012 for NH90 NFH..
+The NH90 NFH Caïman is French Navy designation for NH90 NFH..
+The NH90 Sea Lion is German Navy development of the French NH90 NFH. The Sea Lion features a reduced set of sensors as the main task is SAR and ship based Transport (VERTREP and Special Forces) and is unarmed. First flight was on 8 December 2016 and service deliveries started in October 2019..
+The NH90 Sea Tiger is Another German Navy development of the NFH90. The Sea Tiger will be the future helicopter for anti-submarine warfare (ASW) and anti-surface unit warfare. The first helicopters were ordered in 2019 with a potential total of up to 31..
+The TTH: Tactical Transport Helicopter is The primary role of the TTH version is the transport of 20 troops or more than 2,500 kg of cargo, heliborne operations, and search & rescue. The helicopter can be deployed in a wide range of missions such as troop transport, search-and-rescue (SAR), medical evacuation (MEDEVAC), and casualty evacuation (CASEVAC). It can also be used for special operations, including counter-terrorism, electronic warfare, airborne command post, VIP transport, and utility support such as disaster relief. It can transport up to 20 fully equipped troops.
+
+NH90 helicopter program is managed by the NAHEMA (Nato Helicopter Management Agency) and NHIndustries. NHIndustries also produces NFH, which is a naval version of the NH90..
+The HKP14 is Swedish Air Force designation for NH90 TTH: Sweden has bought the High Cabin Version (HCV) of the TTH, in which the cabin height is increased by 24 cm (9.4 in) to 1.82 m (6.0 ft). The Swedish aircraft have a Tactical Mission System developed by SAAB and are designated HKP14. Finnish and Swedish TTHs are called Tactical Troop Transports (TTT) in some contexts..
+The HT-29 Caimán is Spanish Army designation for NH90 GSPA TTH..
+The MRH-90 Taipan is Australian Defence Force designation for NH90 TTH..
+The NH90 TTH Caïman is French Army designation for NH90 TTH..
+The UH-90A is Italian Army designation for the NH90 TTH..
+The MH-90A is Italian Navy variant of the NH90 TTH..
+The MTT: Maritime Tactical Transport is The MTT is a blend between the TTH and NFH, combining the land-based configuration of the TTH with specialized maritime features of the NFH, including folding rotorblades, a tail-boom, and a strengthened undercarriage. The variant was first announced in February 2019 and has reportedly piqued interest from the Spanish and Italian armed forces who may order this variant as part of existing orders..
+
+Here is System information for the NH90 French Multi-Role Military Helicopter:
+The Alternative Designation is NH90.
+The Type is Multi-Role Military Helicopter.
+The Manufacturer is NHIndustries.
+The Crew is 2 ea (flight crew + loadmaster / sensor operator).
+The Passenger Capacity is 20 seated troops; or 12 medevac stretchers.
+The Cargo Capacity is 2 x NATO pallets; or 4,200 kg (9,259 lb) external slung load..
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 4.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+The Anti-Submarine Warfare (ASW) Capability is In the anti-surface warfare role, the helicopter is capable of detection, tracking, classification, identification, and attack of hostile ships, and has the over-the-horizon capability. Secondary roles include anti-air warfare (AAW), vertical replenishment (VERTREP), search and rescue (SAR), troop transport, and mine laying. In a typical four-hour ‘screening’ operation, the helicopter would take: 15 minutes to reach the area of operation; three hours and 30 minutes in the operations zone carrying out 11 consecutive cycles of ten-minute sonar dipping; and 15 minutes to return to the ship and land, with 20 minutes reserve..
+
+Here is Dimensions information for the NH90 French Multi-Role Military Helicopter:
+The Length is 16.13 m.
+The Main Rotor Diameter is 16.3 m.
+The Main Rotor Diameter is 208.699 m2.
+The Weight, Empty is 6,400 kg.
+The Maximum Takeoff Weight is 10,600 kg.
+
+Here is Automotive information for the NH90 French Multi-Role Military Helicopter:
+The Engine Name is 2 × Rolls-Royce Turbomeca RTM322-1/9.
+The Engine Type is Turboshaft.
+The Engine Power is 1,802 kW (2,417 hp) each.
+The Maximum Speed is 300 km/h.
+The Range is TTH version: 800 km; NFH version: 1,000 km.
+The Service Ceiling is 6,000 m.
+The Rate of Climb is 8 m/s.
+The Endurance is 5 hours.
+
+Here is Communications information for the NH90 French Multi-Role Military Helicopter:
+The Note is The NH90 is equipped with an integrated communications and identification management system. The secure radio system provides air-to-air and air-to-ground communications. The TSC 2000 IFF (identification friend or foe) supplied by Thales was developed under German and French cooperation. The helicopter is equipped with a Link 11 secure datalink..
+
+Here is NH90 NFH Version information for the NH90 French Multi-Role Military Helicopter of the Main Gun System:
+The Note: is 2 x Door Gunners.
+
+Here is NH90 TTH Version information for the NH90 French Multi-Role Military Helicopter of the Main Gun System:
+The Note: is NH90 TTH is provided with a fully integrated weapon system, allowing the helicopter to operate in potential asymmetric threat environments. The helicopter is armed with a door-mounted 7.62mm or 12.7mm pintle machine gun..
+
+Here is NH90 NFH Version information for the NH90 French Multi-Role Military Helicopter of the Missile Weapon Systems:
+The Note: is NH90 NFH version can be armed with anti-submarine torpedoes, air-to-surface missiles and air-to-air missiles..
+
+Here is NH90 TTH Version information for the NH90 French Multi-Role Military Helicopter of the Missile Weapon Systems:
+The Note: is NH90 TTH version can be armed with anti-submarine torpedoes, air-to-surface missiles and air-to-air missiles.
+
+Here is Avionics and Sensors information for the NH90 French Multi-Role Military Helicopter:
+The Cabin is The cabin of the NFH is equipped with an avionics bay with a sensor operator station and a tactical coordinator station, a dipping sonar and a sonobuoy launcher..
+The Fly-by-Wire Capability is The NH90 has ‘fly-by-wire’ all electric flight controls from Goodrich Actuation Systems and Liebherr Aerospace. This full authority quadruplex system increases the manoeuvrability of the aircraft while decreasing the weight..
+The Avionics System is The avionics system is supplied by Thales Avionics and is based on a dual MIL-STD-1553B digital database. The avionics package includes the Thales Topowl helmet-mounted sight and display which has a 40° field of view..
+The Display is The cockpit has five 8in×8in colour multifunction liquid crystal displays for flight, mission systems and maintenance data..
+The Navigation Radar is INA.
+The Weather Radar is Honeywell Primus 701A weather radar is fitted..
+The Surveillance Radar is The NFH is equipped with a Thales European navy radar (ENR) 360° surveillance radar mounted under the nose..
+The Forward-Looking Infrared (FLIR) is Yes.
+The Magnetic Anomaly Detector (MAD) is Yes.
+The Sonar Suite is Yes.
+The Sonobuoy Processing System is TMS 2000 sonobuoy processing system.
+The Dipping Sonar is Available.
+
+Here is Protection information for the NH90 French Multi-Role Military Helicopter:
+The Hull Armor is The NH90 featured an advanced composite airframe, designed for ballistic tolerance, a high level of crashworthiness, lower weight, and 30 per cent greater endurance than a metallic counterpart.
+The Add on Armor is INA.
+The Stealth Properties is None.
+The Heat Signature Reduction is INA.
+The NBC Protection is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is The helicopters for France, Germany, Italy, Portugal and Finland are fitted with a self-protection suite from EADS Defence Electronics, which is also being supplied to the Tiger helicopter. The suite includes EADS AN/AAR-60 MILDS missile approach warning system, Thales TWE threat warning equipment with integrated radar warning and laser warning receivers and MBDA Saphir-M chaff and flare dispenser.
+
+Norwegian NFH are to have the ITT AN/ALQ-211 integrated radio frequency countermeasures (IRFCM) suite. Swedish helicopters are equipped with an EW suite supplied by Saab Avionics, in conjunction with Avitronics of South Africa. Avitronics is jointly owned by Saab and Grintek..
+

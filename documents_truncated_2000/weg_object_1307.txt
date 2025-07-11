@@ -1,0 +1,166 @@
+This document describes the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System.
+
+The 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System is a self-propelled anti-aircraft gun and missile (SPAAGM) system designed by Russia. The Pantsir air defense system incorporates anti-aircraft guns and missiles to intercept tactical aircraft, precision-guided munitions (PGMs), and unmanned aerial vehicles (UAVs). Although each Pantsir launch vehicle is capable of functioning independently, they typically operate in batteries of six launcher vehicles and are occasionally accompanied by a separate command and control vehicle.
+
+This equipment has proliferated into the following countries: Algeria, Equatorial Guinea, Ethiopia, Iran (Islamic Republic of), Iraq, Jordan, Oman, Russian Federation, Serbia, Syria, United Arab Emirates, Viet Nam.
+
+Here is Variants information for the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System:
+The 72V6 is The prototype version of the Pantsir system, first displayed at the MAKS defence exhibition in 1994, had an alienate configuration to the production baseline Pantsir-S1 model, mounting two twin 30 mm 2A72 cannons and two six round SAM launchers containing 9M335 missiles, a development of the Tunguska’s 9K311 missile..
+The 72V6-E1 is Intermediary developmental version, evolving the 72V6 design toward a production ready version..
+The 72V6-E2 is Intermediary developmental version, evolving the 72V6 design toward a production ready version..
+The Pantsir-S1-O is Sporadically referenced since 2005 as a ‘basic’ version of the Pantsir-S1, the Pantsir-S1-O is stated to be a version that forgoes radars, using only the AOP system for tracking and engagement and with an alternate armament that saw the 2A72 cannons from the early 72V6 rather than the standard 2A38M, and only four rather than six missiles mounted on each side of the turret..
+The Pantsir-S1 is Pantsi-S1 is the baseline model of the Pantsir family. The system is a gun/missile VSHORAD air defence system, armed with two twin 30 mm 2A38M cannons and two six round surface to air missile launchers firing the 57E6 missile. The system is typically truck mounted but can be fitted to tracked and containerised mountings if desired..
+The Pantsir-S is Pantsi-S is the baseline domestic model of the Pantsir family. The system is a gun/missile VSHORAD air defence system, armed with two twin 30 mm 2A38M cannons and two six round surface to air missile launchers firing the 57E6 missile. The system is typically truck mounted but can be fitted to tracked and containerized mountings if desired..
+The Pantsir-M is Pantsir-M is a naval version of the Pantsir system, using an alternate armament configuration that changes the 2A39M cannons for two 30 mm GSh-6-30 gatling cannons, adds Hermes-K missiles as well as retaining the land-based system’s 57E6-series missiles..
+The Pantsir-ME is Pantsir-ME is the export version of Pantsir-M, indicated by the standard Russian ‘E’ (Cyrillic ‘Э’) export designator in the name..
+The Pantsir-SA is Pantsir-SA is an arctic oriented version of the Pantsir system, with the truck chassis replaced with the DT-30PM tracked carrier..
+The Pantsir-S1M is An improved version of the S1, the S1M, has been shown in model form at several recent exhibitions by KBP..
+The Pantsir-SM is This is a deeply modernised variant of the Pantsir-S system. It is stated to be the most advanced variant and claimed to improve target detection range from 40 to 75 km as well as engagement from 20 km to 40 km. The ability to detect low RCS targets Is also claimed to be much increased..
+
+Here is System information for the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System:
+The Alternative Designation is 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System
+
+Other spellings: Pantsyr, Pantzyr, Pantzir..
+The Primary Components per Battery is 6.
+The Manufacturer is KBP Design Bureau, Tula, Russia (design)
+Ulyanovsk Mechanical Plant, Ulyanovsk, Russia (manufacturer).
+The Targets is FW, heli, CM, ASM, UAV, guided bomb.
+The Crew is 3.
+The Chassis is Kamaz-6560.
+The Reaction Time is 5-8 min.
+The Time in Action is 3 min.
+The Deployment Time is 5 min.
+
+Here is Pantsir S-1 Battery Organization information for the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System:
+The 96K6 Pantsir, Mounted on KAMAZ 6530 is 2-6.
+The 2F77M missile transporter/transloader, Mounted on KAMAZ 43101 is 2-3.
+The 9S737M Ranzhir-M Command Post, Mounted on MZKT/Volat truck is 1.
+The 1R10-1M Repair/Test Station, is Mounted on Ural 43203-1012.
+The ITO-APG-M1 Mobile Workshop, Mounted on ZiL-131 is 1.
+The 9V921 Repair/Test station, Mounted on GAZ-66 is 1.
+The 2V110-1 Repair station, Mounted on Ural 43203-1012 is 1.
+The 2F55-1 Missile preparation/assembly, Mounted on Ural 43203-1012 is 1.
+
+Here is Dimensions information for the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System:
+The Length is 10.3 m.
+The Width is 2.5 m.
+The Height is 3.27 m.
+The Curb Weight is 14.85 tons.
+The Maximum Load Weight is 20 tons.
+
+Here is Automotive information for the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System:
+The Engine Name is KamAZ-740.35-400.
+The Engine Type is Diesel.
+The Engine Power is 400 hp.
+The Maximum Speed is 90 km/h.
+The Range is 1,000 km.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Step is 0.6 m.
+The Trench is 2 m.
+The Fording is 1.8 m.
+
+Here is Missile (Option 1) information for the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System of the Main Weapon System:
+The Name is 57E6 Missile.
+The Type is Surface to Air Missile.
+The Length is 3.20 m.
+The Diameter, 1st Stage is 170 mm.
+The Diameter, 2nd Stage is 90 mm.
+The Warhead Weight is 16 kg.
+The Missile Weight is 75 kg.
+The Guidance System is Guidance is command guided using radio transponder and laser responder..
+The Propulsion System is Two stage solid fuel propulsion of a bicaliber design, with the booster stage being of a thicker diameter than the unpowered terminal stage..
+The Seeker is No seeker is fitted to keep per round costs at a minimum..
+The Maximum Range is 12,000 m.
+The Minimum Range is 1,200 m.
+The Maximum Altitude is 15,000 m.
+The Minimum Altitude is 15 m.
+The Warhead is A contact and radar proximity fuzing system is fitted to the 16 kg HE-fragmentation continuous-rod warhead..
+The Basic Load is 12 x 57E6 Missiles.
+
+Here is Missile (Option 2) information for the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System of the Main Weapon System:
+The Name is 57E6-E Missile.
+The Type is Surface to Air Missile.
+The Length is 3.20 m.
+The Diameter, 1st Stage is 170 mm.
+The Diameter, 2nd Stage is 90 mm.
+The Warhead Weight is 20 kg.
+The Missile Weight is 76 kg.
+The Guidance System is Guidance is command guided using radio transponder and laser responder..
+The Propulsion System is Two stage solid fuel propulsion of a bicaliber design, with the booster stage being of a thicker diameter than the unpowered terminal stage..
+The Seeker is No seeker is fitted to keep per round costs at a minimum.
+The Maximum Range is 12,000 m.
+The Minimum Range is 1,200 m.
+The Maximum Altitude is 6,000 m.
+The Minimum Altitude is 5 m.
+The Basic Load is 12 x 57E6-E Missiles.
+
+Here is System information for the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System of the Auxiliary Weapon System:
+The Name is 2 x twin 2A38M Cannons.
+The Type is Twin Barrel Cannons.
+The Caliber is 30 mm.
+The Maximum Range is 4,000 m.
+The Minimum Range is 200 m.
+The Maximum Altitude is 3,000 m.
+The Rate of Fire is Each cannon consists of two 30 mm barrels that conduct fire in turns providing rapid firing with the rate of 1,950 to 2,500 rds/min..
+
+Here is Ammunition information for the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System of the Auxiliary Weapon System:
+The Type is HE-T or HE-I Ammunition.
+The Caliber is 30 mm.
+The Cartridge is 30 x 165 mm.
+The Basic Load is 1,400 Rounds.
+
+Here is Fire Control information for the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+The Fire on the Move is Yes, the Pantsir-S1 can fire whilst on the move as well as stationary, with the vehicle able to move as part of a convoy whilst in search and engagement operation, providing a mobile SHORAD umbrella..
+
+Here is Surveillance Radar information for the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System of the Radar Systems:
+The Name is VNIIRT 2RL80.
+The Type is Surveillance Radar.
+The Band is S-band.
+The Location is Mounted on the top of the turret..
+The Length is 1,776 mm.
+The Width is 940 mm.
+The Weight is INA.
+The Wavebands is UHF and EHF wavebands.
+The Number of Airborne Targets is detection and tracking of up to 40 2m2 or larger RCS airborne targets.
+The Maximum Range is 36 km.
+The IFF Interrogation is Yes.
+The Rate of Scan is 15 to 30 rpm.
+The Elevation is 0˚ - 60 ˚.
+The Traverse is 360 deg.
+The Note is When not in use the radar fold forwards so that it is flat on the roof of the operator station.
+
+Here is Target Tracking and Missile Guidance Radar information for the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System of the Radar Systems:
+The Name is Phazotron 1RS2-1.
+The Type is Target Tracking and Missile Guidance Radar.
+The Location is mounted on the front face of the turret..
+The Length is INA.
+The Width is INA.
+The Weight is INA.
+The Band is X/Ku band.
+The Maximum Range is 28 km.
+The Number of Airborne Targets is 9 simultaneously, with a velocity of 1,100 m/s.
+
+Here is Optical Tracking and Engagement Radar information for the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System of the Radar Systems:
+The Name is 1TPP1,  AOP (Avtonomniy Opticheskiy Post – Autonomous Optical Post).
+The Type is Optical Tracking and Engagement Radar.
+The Location is mounted on a small pedestal on the top of the turret, in front of the 2RL80E radar..
+The Length is INA.
+The Width is INA.
+The Weight is INA.
+The Thermal Imager is Sagem MATIS LR longwave thermal imager (designated 1PN80).
+The Maximum Range, Aircraft is 20 km.
+The Maximum Range, Missiles is 15 km.
+The Elevation is -5˚ to +82˚.
+The Traverse is 360˚.
+The Azimuth Coverage is ±90˚.
+
+Here is Protection information for the 96K6 Pantsir-S1 (SA-22 Greyhound) Russian Short-Range Air Defense Gun/Missile System:
+The Hull Armor is The vehicle and system is unarmoured, barring some light protection to ensure the platform is not affected by debris from firing the weapons..
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

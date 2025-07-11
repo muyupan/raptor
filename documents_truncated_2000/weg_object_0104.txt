@@ -1,0 +1,63 @@
+This document describes the B-11 Russian 107mm Smoothbore Recoilless Gun.
+
+The B-11 recoilless rifle (It is also known as RG107) is a Soviet 107 mm smoothbore recoilless gun. It entered service in 1954, and was typically towed by a 6x6 ZIL-157 truck or a UAZ 4x4 truck.
+
+Designed by KB Mashinostroyeniya (KBM), Kolomna.
+
+It is fitted using a PBO-4 sight which has a 5.5x zoom direct fire sight and a 2.5x zoom sight for indirect fire.
+
+This equipment has proliferated into the following countries: Algeria, Angola, Bulgaria, Cambodia, China, Egypt, Ethiopia, Germany, Iran (Islamic Republic of), Iraq, Nigeria, North Korea (Democratic People's Republic of Korea), Poland, Romania, Somalia, Viet Nam.
+
+Here is System information for the B-11 Russian 107mm Smoothbore Recoilless Gun:
+The Alternative Designations is RG107.
+The Crew is 5.
+The Weight Firing is 304.8.
+The Weight Travel is 304.8.
+The Length Firing is 3.54.
+The Length Travel is 3.56.
+The Width Travel is 1.45.
+The Height Firing is 1.19.
+The Height Travel is 0.9.
+The Rifling is No.
+The Feed is Breech load.
+The Breech Mechanism Type is Interrupted Screw.
+The Emplacement Time is 1.
+The Fire from Inside Building is No.
+
+Here is Sights information for the B-11 Russian 107mm Smoothbore Recoilless Gun:
+The Name is PBO-4 combination.
+The Type is Optical, panoramic, iron.
+The Sight Range Direct is 1,800.
+The Sight Range Indirect is 6,650.
+The Night Sights is Available.
+
+Here is Armament information for the B-11 Russian 107mm Smoothbore Recoilless Gun:
+The Caliber is 107 mm.
+The Rate of Fire is INA.
+The Fire on Move is No.
+The Elevation (min, max) is -10, +45.
+The Traverse is 360.
+
+Here is BK-883 information for the B-11 Russian 107mm Smoothbore Recoilless Gun of the Ammunition:
+The Caliber is 107.
+The Type is HEAT.
+The Max Aimed Range is 1,400.
+The Max Eff Range, Day is 450.
+The Max Eff Range, Night is INA.
+The Penetration is INA.
+
+Here is BK-883 information for the B-11 Russian 107mm Smoothbore Recoilless Gun of the Ammunition:
+The Caliber is 107.
+The Type is Frag HE.
+The Max Aimed Range is 1,300.
+The Combat Load is 0, 20.
+
+Here is OP4M-48A Direct Fire 5.5x information for the B-11 Russian 107mm Smoothbore Recoilless Gun of the Fire Control:
+The Type is Day Sight.
+The Field of View is 11.
+The Acquisition Range is 4,000.
+
+Here is 1PN79 information for the B-11 Russian 107mm Smoothbore Recoilless Gun of the Fire Control:
+The Type is Night Sight.
+The Acquisition Range is 3,500.
+

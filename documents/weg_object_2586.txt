@@ -1,0 +1,149 @@
+This document describes the ZTL-11 (Type 11) Chinese 8x8 Armored Fighting Vehicle.
+
+The ZTL-11 (Type 11) Chinese 8x8 Armored Fighting Vehicle is based on the type 08 8x8 wheeled armored vehicles family. It is the export variant of the ST1 vehicle, which is already in service with the Chinese Marine Corps.
+
+This equipment has proliferated into the following countries: China, Gabon, Nigeria, Thailand, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the ZTL-11 (Type 11) Chinese 8x8 Armored Fighting Vehicle:
+The ZBL-08 (Type 08) Infantry Fighting Vehicle is Original IFV variant with a 30 mm turret based on Shipunov 2A72. It features a crew cabin in the back for infantry transportation. HJ-73C missiles can be optionally mounted on the each side of the turret..
+The ZSL-08 (Type 08) Armoured Personal Carrier is Based on IFV variant but the modified crew cabin has a higher ceiling. The Armored Personnel Carrier can be armed either with a manually controlled, armor-plate protected 12.7 machine gun or a remote-controlled weapon station..
+The Type 08 Armored Reconnaissance Vehicle is Armed with a 30 mm turret, the vehicle has a chassis that is similar to the IFV variant. The Armored Reconnaissance Vehicle will advance before IFVs and assault guns for intelligence gathering. On-board high definition electro-optical cameras, thermal imaging system and laser designator can transmit battlefield and target information for other data-linked vehicles for target identification and designation. The Armored Reconnaissance Vehicle can provide better situational awareness for the infantry. The main radar and electro-optical sight is mounted on a retractable mast. There is also a version of the vehicle that does not have the 30 mm turret and uses the chassis of APC variant and has more cameras onboard but lacks self-defense weapons..
+The PLL-05 Mortar Carrier is Based on IFV variant. It is armed with a 120mm dual purpose mortar..
+The PLL-09 (Type 09) Modular Self-propelled Howitzer system is Based on IFV variant. Can be armed with either a 122mm or 155mm howitzer, to provide indirect fire support for infantry..
+The Type 09 Anti-Air Reconnaissance Vehicle is Armed with a single barrel 35mm revolving auto cannon, the Air Defense variant has a unique chassis and is equipped with thermal-tracking sight, targeting and surveillance radars. The data collected by the radars can be data-linked back to command and armored reconnaissance vehicle..
+The ZTL-11 (Type) 11 Assault Gun is Armed with a 105mm rifled gun, coaxial machine gun and 12.7mm commander machine gun, the Assault gun is based on the IFV chassis and can provide direct fire support for infantry battalions and engage enemy light vehicles and stationary targets such as bunkers..
+The Type 08 Command Vehicle is With a modified chassis that has a much higher ceiling than the APC variant, the crew cabin provides a more spacious environment for commanders and staff. Equipped with satellite communication suite and battle management system, the command vehicle can move with the mechanized infantry for better battlefield management..
+The Type 08 Communication Vehicle is Based on the Command Vehicle variant. It has additional communication equipment on board for the infantry battalion..
+The Type 08 Armored Ambulance is Based on the Command Vehicle variant. Featuring a modified crew cabin with medical equipment, the Armored Ambulance variant has two Red Cross markers on each side of the vehicle body..
+The Type 08 Hazardous Environment Reconnaissance Vehicle is Based on the Command Vehicle variant. Equipped with sensors and equipment for hazardous detection involving nuclear, biological and chemical environment..
+The Type 08 Electronic Warfare Vehicle is Based on the Command Vehicle variant but the satellite communication suite on top of the vehicle roof is replaced by a rectangular shaped radar with several small radar panels for Electronic Support Measures..
+The Type 08 Assault Breacher is Based on the IFV variant. It is equipped with mine plow and other mine detection device on board..
+The Type 08 Mobile Bridge Builder is Based on the IFV variant. It is equipped with a vehicle-launched bridge on top of the hull..
+The Type 08 Armored Recovery Vehicle is Based on the IFV variant, the turret is replaced by a crane for emergency vehicle service..
+The Type 08 Armored Cargo Vehicle is Based on the APC variant, the Armored Cargo Vehicle has more bullet-proof windows on the vehicle body..
+The Type 08 Engineering Vehicle is The vehicle has a unique chassis. It is equipped with tools for road paving and obstacle neutralization. A bulldozer blade is fitted on the front of the vehicle and an excavator bucket is mounted on the front-end of the roof. Waterline marks can also be found on the side of the vehicle body..
+The VS27 is Armored rescue vehicle..
+The VE36 is Reconnaissance vehicle..
+The VE32A is Reconnaissance vehicle.
+The CS/SA5 is Specialized air defense variant with a 6-barrel Gatling gun. The chassis of CS/SA5 is based on a modified Type 08 IFV. It comes with an air surveillance radar on the rear of the turret roof with a 2-axis adaptive-follow tracking radar situated on the starboard side of the surveillance radar while the thermal-tracking sight situated on the port side can provide visual information of target through fire control computers..
+The CS/AA5 is Specialized IFV variants with a remote-controlled 40mm turret. The chassis of CS/AA5 is based on Type 08 IFV..
+The VN-1 is Export variant based on Type 08 IFV. The VN-1C is armed with a 30 mm remote weapons station and a HJ-73 anti-tank missile.
+The SWS-2 is Export SHORAD gun/missile system variant of the VN-1. It is armed with a 35 mm cannon and four surface-to-air missiles..
+The ST-1 is Export variant based on Type 11 Assault gun, armed with a L7 105mm rifled gun..
+The SH-11 is Export-oriented 155 mm self-propelled howitzer armed with a 39-caliber gun, which can be replaced with a 52-caliber gun without changing the chassis. It features a fully automatic loading system and the latest generation of optics..
+The AFT-10 ATGM carrier is First shown at the 2018 Zhuhai Airshow..
+
+Here is System information for the ZTL-11 (Type 11) Chinese 8x8 Armored Fighting Vehicle:
+The Alternative Designation is ZLT-11; Type 11; ST1.
+The Type is Armored Fighting Vehicle.
+The Manufacturer is Norinco.
+The Crew is 4.
+The Troop Compartment Capacity is 7-10.
+The Maximum Effective Range is 800.
+The Amphibious is Yes.
+
+Here is Dimensions information for the ZTL-11 (Type 11) Chinese 8x8 Armored Fighting Vehicle:
+The Length is 8 m.
+The Width is 3 m.
+The Height is 2.1 m.
+The Weight is 20,000 kg.
+
+Here is Automotive information for the ZTL-11 (Type 11) Chinese 8x8 Armored Fighting Vehicle:
+The Engine Name is BF6M1015FC.
+The Engine Type is 6-cylinder water cooled turbocharged diesel.
+The Engine Power is 440.
+The Power-to-Weight Ratio is 16.28 hp/t.
+The Fuel Capacity is INA.
+The Suspension is independent.
+The Automatic Transmission is Yes.
+The Tires is 14.00 × 20 run-flat.
+The Range is 800.
+The Speed, Maximum Road is 100.
+The Speed, Average Cross is 80.
+The Speed, Maximum  Swim is 8.
+The Amphibious is Yes.
+The Gradient is 60%.
+The Vertical Obstacle is 40%.
+The Angle of Approach is 45°.
+The Angle of Departure is 38°.
+The Trench is 1.8 m.
+The Turning Radius is 10 m.
+
+Here is Communications information for the ZTL-11 (Type 11) Chinese 8x8 Armored Fighting Vehicle:
+The Radio is INA.
+The Satellite Communications is Yes.
+
+Here is System information for the ZTL-11 (Type 11) Chinese 8x8 Armored Fighting Vehicle of the Main Weapon System:
+The Name is 1 x Royal Ordnance L7.
+The Type is Rifled Tank Gun.
+The Caliber is 105.
+The Length is 5.89 m.
+The Barrel Length is 5.46 m.
+The Weight is 1,282 kg.
+The Multi-Purpose Muzzle Break is Yes.
+The Elevation is –4.5° to +18°.
+The Traverse is 360.
+The Manual Load Time is 6-8.
+The Bore Evacuator is Yes.
+The Muzzle Velocity is 1,740.
+The Max Range is 5.
+
+Here is Ammunition information for the ZTL-11 (Type 11) Chinese 8x8 Armored Fighting Vehicle of the Main Weapon System:
+The Name is BTA2.
+The Type is APFSDS.
+The Caliber is 105 mm.
+The Shell is 105×617mm R.
+The Penetration is 220 mm of RHA set at 66.4° from a range of 2,000 m..
+The Basic Load is 36 Rounds.
+
+Here is System information for the ZTL-11 (Type 11) Chinese 8x8 Armored Fighting Vehicle of the Auxiliary Weapon System:
+The Name is 1 x QJY-88.
+The Type is Light Machine Gun.
+The Caliber is 5.8 mm.
+The Manufacturer is China North Industries Corporation.
+The Length is 1,151 mm.
+The Barrel Length is 600 mm.
+The Weight is 7.6 kg.
+The Action is gas-operated.
+The Rate of Fire is 650–700 rounds/min.
+The Muzzle Velocity is 895 m/s.
+The Effective Firing Range is 800–1000 m.
+The Feed System is Belt, 100 & 200 round cartridge case.
+The Sights is Iron sight.
+
+Here is Ammunition information for the ZTL-11 (Type 11) Chinese 8x8 Armored Fighting Vehicle of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 5.8 mm.
+The Cartridge is 5.8×42mm DBP88 "Heavy rounds".
+The Basic Load is 2,000 Rounds.
+
+Here is Fire Control information for the ZTL-11 (Type 11) Chinese 8x8 Armored Fighting Vehicle:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+The Thermal, Vehicle Commander is Yes.
+The Thermal, Gunner is Yes.
+The Laser Surveying Machine is Yes.
+The Laser Range Finder is Yes.
+The Liquid Crystal Digital Information Display is Yes.
+The Ballistic Calculator is Yes.
+The Main Gun Stabilization is Yes, Bi axial.
+The IFF is Yes.
+The Launch Speed is 6-8.
+The Hokuto Satellite Position Measurement System is Yes.
+The Fire on the Move is Yes.
+
+Here is Protection information for the ZTL-11 (Type 11) Chinese 8x8 Armored Fighting Vehicle:
+The Armor Type is Welded steel armor; modular armor – thought to consist of a combination of composites and armor plates.
+The Hull Armor is 12.7.
+The Turret Armor is 7.62.
+The Applique Armor is Available.
+The Explosive Armor is INA.
+The Active System is Yes.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes, Optional.
+The Smoke Equipment is Yes.
+The Night Vision is Yes.
+The Anti-Aircraft is Yes.
+The Automatic Fire Extinguishing System is Yes.
+

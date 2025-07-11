@@ -1,0 +1,142 @@
+This document describes the 2S23 Nona-SVK Russian 120mm Amphibious Self-Propelled Mortar.
+
+The 2S23 also named Nona-SVK is a Russian-made wheeled self-propelled mortar carrier. The 2S23 was first revealed at a defense exhibition in Asia in late 1990 when a complete system was displayed for the first time. According to Russian sources, the 2S23 entered service with its land forces in 1990. The 120mm 2S23 Nona-SVK battalion level self-propelled gun (SPG) is designed for use against enemy troops, armament, and military equipment. Its armor protection, cross-country mobility, and maneuverability are identical to the wheeled armored personnel carrier BTR-80. The 2S23 Nona-SVK is capable of applying aimed fire both from direct and indirect laying positions with mortar bombs and with standard artillery shells. In addition to standard artillery rounds, the gun fires all types of mortar shells designed for use by foreign-made 120mm mortars.
+
+This equipment has proliferated into the following countries: Azerbaijan, Belarus, China, Kazakhstan, Kyrgyzstan, Moldova, Russian Federation, Syria, Turkmenistan, Ukraine, Uzbekistan, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the 2S23 Nona-SVK Russian 120mm Amphibious Self-Propelled Mortar:
+The 2S23 Nona-SVK is A BTR-80 based version. The 2S23 uses a slightly modified version of the 2A51 mortar, designated the 2A60..
+The 2B16 Nona-K is A towed version. Fitted with a muzzle brake..
+
+Here is System information for the 2S23 Nona-SVK Russian 120mm Amphibious Self-Propelled Mortar:
+The Alternative Designation is 2S23 Nona-SVK.
+The Type is Wheeled Self-Propelled Mortar Carrier..
+The Caliber is 120 mm.
+The Family is 2S3 Family.
+The Crew is 4 (commander, gunner, loader and driver).
+The Chassis is Modified BTR-80 APC.
+The Chassis Configuration is 8x8.
+The Displacement Time is 1.
+The Emplacement Time is 1.
+The Note is These 120 mm rifled weapons combine the features of a howitzer and mortar in one system. In many respects they are unique weapons as there is no similar system in the West..
+
+Here is Dimensions information for the 2S23 Nona-SVK Russian 120mm Amphibious Self-Propelled Mortar:
+The Length is 7.5.
+The Width is 2.9.
+The Height is 2.75.
+The Weight, Combat is 14.5.
+The Ground Pressure is INA.
+
+Here is Automotive information for the 2S23 Nona-SVK Russian 120mm Amphibious Self-Propelled Mortar:
+The Engine Name is KamAZ-7403.
+The Engine Type is Diesel.
+The Engine Power is 280.
+The Cruising Range is 500.
+The Speed, Maximum Road is 80.
+The Speed, Average Cross is 65.
+The Speed Maximum Swim is 10.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Stem is 0.5.
+The Trench is 2.0.
+The Fording Depth is Amphibious.
+
+Here is Communications information for the 2S23 Nona-SVK Russian 120mm Amphibious Self-Propelled Mortar:
+The Primary is R-173 Radio.
+
+Here is System information for the 2S23 Nona-SVK Russian 120mm Amphibious Self-Propelled Mortar of the Main Weapon System:
+The Name is 1 x 2A60 120mm Gun/Mortar.
+The Type is Gun/Mortar.
+The Caliber is 120 mm.
+The Breech Type is Combined semi-automatic breechblock with wedge locking mechanism and powder gases plastic obturator.
+The Length, Barrel is 24.2 calibers.
+The Loader Type is Autoloader.
+The Max Rate of Fire is 8-10.
+The Rate of Fire, Sustained is 4.
+The Muzzle Brake Type is INA.
+The Max Elevation is +80.
+The Min Elevation is -4.
+The Traverse Range is 70.
+The Maximum Range of Fire (Ordinary Projectiles) is 8.85.
+The Maximum Range of Fire (Rocket Assisted Projectiles) is 12.8.
+The Maximum Range of Fire (Mines) is 7.15.
+The Note is The 2S23 use specially developed rifled rounds.
+
+Here is Ammunition (Option 1) information for the 2S23 Nona-SVK Russian 120mm Amphibious Self-Propelled Mortar of the Main Weapon System:
+The Type is OF-49 HE-FRAG/OF-51 HE-FRAG  Projectile.
+The Caliber is 120.
+The Muzzle Velocity is INA.
+The Explosive is A-IX-2 explosive.
+The Effective Range is 8.85.
+The Projectile Weight is 17.3.
+The Basic Load is 30 Total (Any Combination).
+The Note is The 2S23 Nona can fire the Kitolov-2 precision guided munitions. The Kitolov-2 has a kill probability of 0.8 to 0.9.
+
+Here is Ammunition (Option 2) information for the 2S23 Nona-SVK Russian 120mm Amphibious Self-Propelled Mortar of the Main Weapon System:
+The Type is OF-50 HEAT (Rocket Assisted) Projectile.
+The Caliber is 120.
+The Muzzle Velocity is INA.
+The Effective Range is 12.8.
+The Rocket Motor Start Time is 10-13 seconds after the projectile leaves the barrel.
+The Fin Stabilized is Yes.
+The Pentration is 650.
+The Basic Load is 30 Total (Any Combination).
+
+Here is Ammunition (Option 3) information for the 2S23 Nona-SVK Russian 120mm Amphibious Self-Propelled Mortar of the Main Weapon System:
+The Type is OF-843B Mortar bombs.
+The Caliber is 120.
+The Variants is OF-843B, OF-34 and OF-38 high-explosive fragmentation, S-843 and 3S9 illumination, 3Z2 incendiary and 3D5 smoke.
+The Muzzle Velocity is INA.
+The Effective Range is INA.
+The Basic Load is 30 Total (Any Combination).
+
+Here is System information for the 2S23 Nona-SVK Russian 120mm Amphibious Self-Propelled Mortar of the Coaxial Weapon System:
+The Name is 1 x 7.62mm PK (Kalashnikov's Machine Gun).
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Max Rate of Fire is 650.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Tangent iron sights (default); Optical, Night-vision, Thermal and Radar sights.
+
+Here is Ammunition information for the 2S23 Nona-SVK Russian 120mm Amphibious Self-Propelled Mortar of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 825.
+The Maximum Firing Range is 3,800.
+The Effective Range (With Sight Adjustments) is 1,500.
+The Basic Load is 2,400 Rounds.
+
+Here is Fire Control information for the 2S23 Nona-SVK Russian 120mm Amphibious Self-Propelled Mortar:
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is INA.
+The Direct Fire is Yes, DF Telescopic Sight.
+The Indirect Fire is Yes.
+The Collimator is K-1.
+The Note is This mortar system can be used as mortar or howitzer, delivering direct or indirect fire..
+
+Here is Protection information for the 2S23 Nona-SVK Russian 120mm Amphibious Self-Propelled Mortar:
+The Hull Armor is All-round protection is against 7.62 mm armor-piercing rounds and artillery shell splinters..
+The Turret Armor is All-round protection is against 7.62 mm armor-piercing rounds and artillery shell splinters..
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 6 x 81mm smoke grenade launchers.
+The IR Signature is INA.
+The Note is The 2S23 Nova carries 2 x Igla shoulder-launched anti-aircraft missiles and 15 hand grenades..
+

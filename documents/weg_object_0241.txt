@@ -1,0 +1,34 @@
+This document describes the T-20 (Arcturus T-20) American Unmanned Aerial Vehicle (UAV).
+
+The T-20 (Arcturus T-20) American Unmanned Aerial Vehicle (UAV) -wing UAS delivers best-in-class endurance with 24+ hours of mission duration, an operational range of 185 km (115 mi), and BLOS capabilities. Its portable catapult launching system can be set up and operational in less than 60 minutes within a small operational footprint. With a useable payload capacity up to 50 lb, the high-performance T-20 is Multi-INT/Multi-Domain capable with fully integrated payload pallets that can accommodate multi-mission payloads. The T-20 is equipped with superior optics including premium imaging sensors such as Cloud Cap Technology (TASE 200 and 400 Series), gyro-stabilized EO/IR gimbal sensors with continuous zoom, onboard GPS/INS, and video processing. In addition, the T-20 features a common autopilot and ground control system architecture providing a highly customizable, modular platform to meet operational or customer requirements
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the T-20 (Arcturus T-20) American Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is T-20; Arcturus T-20.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is AeroVironment.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Payload Capacity is 22.7 kg.
+The Camera is Superior long-range day and night imaging systems that offer onboard tracking, MWIR, image stabilization, analog and digital output with H.264/5 compression..
+The Launching System is Catapult-launch.
+The Recovery System is Autonomous or manual skid landing.
+The GCS is Common GCS with JUMP 20.
+
+Here is Dimensions information for the T-20 (Arcturus T-20) American Unmanned Aerial Vehicle (UAV):
+The Length is 2.9 m.
+The Wingspan is 5.7 m.
+The Height is INA.
+The Maximum Takeoff Weight is 102 kg.
+
+Here is Automotive information for the T-20 (Arcturus T-20) American Unmanned Aerial Vehicle (UAV):
+The Engine Name is Mogas.
+The Engine Type is 190 cc engine.
+The Engine Power is INA.
+The Maximum Speed is 92.6 km/h.
+The Cruising Speed is INA.
+The Service Ceiling is 6,096 m.
+The Maximum Distance is 185 m.
+The Endurance is 24 hours.
+

@@ -1,0 +1,33 @@
+This document describes the UR-77 Meteorit Russian Mine Clearing Vehicle.
+
+The UR-77 Meteorit (Russian: УР-77 Метеорит, lit. 'Meteorite') is a Soviet mine clearing vehicle, based on a variant of the 2S1 Gvozdika chassis. The vehicle is armed with a launcher and two mine-clearing line charges. When launched, a charge causes a shock wave that destroys or disables all the shells or mines along the area of the line charge. (with a width of 6 metres and length up to 90 metres).
+
+The vehicle has also been used offensively, where its line charge has been used to destroy entire streets in urban combat.
+
+This equipment has proliferated into the following countries: Azerbaijan, CFE Treaty, Russian Federation, Syria, Ukraine.
+
+Here is Dimensions information for the UR-77 Meteorit Russian Mine Clearing Vehicle of the System:
+The Height, Overall  is 3.1.
+The Length, Overall  is 8.4.
+The Width, Overall  is 2.8.
+The Weight, Combat is 15.5.
+
+Here is Automotive information for the UR-77 Meteorit Russian Mine Clearing Vehicle:
+The Engine Name is YaMZ-238N.
+The Engine Type is Diesel.
+The Engine Power  is 300.
+The Range, Cruising  is 500.
+The Speed, Maximum Road  is 60.0.
+The Speed, Maximum Cross-Country is 30.
+The Speed, Maximum Swim  is 5.0.
+The Fording Depth  is INA.
+The Vertical Step  is INA.
+
+Here is Protection information for the UR-77 Meteorit Russian Mine Clearing Vehicle:
+The Armor is The hull is built from welded steel and is believed to have a maximum thickness of 15 mm,.
+The Turret Armor is The turret has a thickness of 20 mm..
+The Applique Armor is INA.
+The Active Protection System is No.
+The NBC is Yes.
+The Smoke Equipment is INA.
+

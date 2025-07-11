@@ -1,0 +1,183 @@
+This document describes the Pohang Class South Korean Corvette.
+
+The Pohang-class corvette is a class of general-purpose corvettes operated by the Republic of Korea Navy. They have served in a coastal defense role during the late Cold War and post Cold War period. A total of 24 Pohang-class vessels were built, all constructed in South Korea. 10 vessels remain in service in the ROKN as of 2020.
+
+This equipment has proliferated into the following countries: Colombia, Egypt, Peru, Philippines, South Korea (Republic of Korea).
+
+Here is Variants information for the Pohang Class South Korean Corvette:
+The POHANG is Commissioned: 1984
+Status: Museum.
+The KUNSAN is Commissioned: 1984
+Status: Trans/Colombia.
+The KEONGJU is Commissioned: 1986
+Status: Trans/Peru.
+The MOKPO is Commissioned: 1986
+Status: Trans/Philippines.
+The KIMCHON is Commissioned: 1985
+Status: Trans/Vietnam.
+The CHUNG JU is Commissioned: 1985
+Status: Trans/Philippines.
+The JINJU is Commissioned: 1988
+Status: Active.
+The YEOSU is Commissioned: 1988
+Status: Active.
+The CHINHAE is Commissioned: 1989
+Status: Active.
+The SUNCHON is Commissioned: 1989
+Status: Active.
+The YEEREE is Commissioned: 1989
+Status: Active.
+The WONJU is Commissioned: 1989
+Status: Active.
+The ANDONG is Commissioned: 1989
+Status: Active.
+The CHEONAN is Commissioned: 1989
+Status: Sunk.
+The SEONGNAM is Commissioned: 1989
+Status: Active.
+The BUCHEON is Commissioned: 1989
+Status: Active.
+The JECHEON is Commissioned: 1989
+Status: Active.
+The DAECHEON is Commissioned: 1989
+Status: Active.
+The SOKCHO is Commissioned: 1990
+Status: Active.
+The YEONGJU is Commissioned: 1990
+Status: Active.
+The NAMWON is Commissioned: 1990
+Status: Active.
+The KWANGMYEONG is Commissioned: 1990
+Status: Active.
+The SHINHEUNG is Commissioned: 1993
+Status: Active.
+The GONGJU is Commissioned: 1993
+Status: Active.
+
+Here is System information for the Pohang Class South Korean Corvette:
+The Alternative Designation is Pohang Class.
+The Type is Corvette.
+The Builder is Korean Shipbuilding & Engineering, Pusan, South Korea.
+The Crew is 95 (10 off. + 85 enl.).
+
+Here is Dimensions information for the Pohang Class South Korean Corvette:
+The Length is 88.3 m.
+The Beam is 10.0 m.
+The Draft is 2.9 m.
+The Displacement, Standard is 950 tons.
+The Displacement, Full Load is 1,240 tons.
+
+Here is Propulsion System information for the Pohang Class South Korean Corvette:
+The Engine Name is 2 x MTU 12V956 TB82.
+The Engine Type is Diesel.
+The Engine Power is 6,260 bhp.
+The Propellers is 2 shafts w/controllable-pitch propellers.
+The Maximum Range is 4,000 nm at 15 knots.
+The Maximum Speed is 32 knots.
+The Endurance is INA.
+
+Here is System information for the Pohang Class South Korean Corvette of the Gun Weapon Systems:
+The Name is OTO Melara 76mm.
+The Type is Naval Gun.
+The Caliber is 76 mm.
+The Quantity is 1 x 76-mm/62-cal Oto Melara Super Rapid DP.
+The Barrel Length is 4,724.4 mm.
+The Weight is Empty: 7.5 tonnes (17,000 lb).
+The Crew is Remote Controlled.
+The Elevation is −15°/+85°.
+The Traverse is 360°.
+The Rate of Fire is 85 rounds/min.
+The Muzzle Velocity is 915 m/s.
+The Maximum Firing Range is 16,000 m.
+The Feed System is Magazine capacity:
+80 ready rounds on Compact gun mount.
+
+Here is Ammunition information for the Pohang Class South Korean Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.
+The Shell is 76×636mmR.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Pohang Class South Korean Corvette of the Gun Weapon Systems:
+The Name is DARDO.
+The Type is Close-In Weapon System (CIWS).
+The Caliber is 40 mm.
+The Quantity is 2 x twin DARDO 40mm CIWS.
+The Barrels is 2  × Breda-built Bofors-40 mm L/70.
+The Elevation is Minimum −13°
+Maximum +85°.
+The Traverse is Full 360°.
+The Rate of Fire is 2 × 450 round/min.
+The Maximum Firing Range is AA with HE: 8,700 m.
+The Effective Firing Range is HE Round: 4,000 m.
+The Feed System is Dual feed mechanism with 736 HE and 200 APFSDS rounds.
+
+Here is Ammuntion Gun Weapon System #2 information for the Pohang Class South Korean Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 40 mm.
+The Shell is INA.
+The Basic Load is INA.
+
+Here is Missile System #1 information for the Pohang Class South Korean Corvette of the Missile Weapon System:
+The Name is Exocet Missile.
+The Type is Anti-Ship Missile.
+The Quantity is 2 × 4 Exocet MM40 Block II missile launchers..
+The Launcher is MM40 Block II missile launchers..
+The Missile Basic Load is 8.
+The Length is 6 m.
+The Diameter is 34.8 cm.
+The Wingspan is 1.35 m.
+The Weight is 780 km.
+The Warhead is 165 km.
+The Engine is Solid propellant engine
+turbojet (MM40 Block 3 version).
+The Operational Range is 180 km.
+The Flight Altitude is Sea-skimming.
+The Speed is Mach 0.93
+1,148 kilometres per hour (713 mph; 319 m/s).
+The Guidance System is Inertial guidance and terminal active radar homing.
+The Launch Platform is multi-platform:
+*MM38 surface-launched
+*AM39 air-launched
+*SM39 submarine-launched
+*MM40 surface-launched.
+
+Here is Missile Weapon System #2 information for the Pohang Class South Korean Corvette of the Missile Weapon System:
+The Name is Sea Wolf Missile.
+The Type is Surface-to-Air Missile.
+The Quantity is 1 x VLS for Seawolf SAM Launcher.
+The Launcher is Vertical Launching System.
+The Missile Basic Load is 16 x Sea Wolf Missile.
+The Length is 1.9 m.
+The Diameter is 180 mm.
+The Wingspan is 450 mm.
+The Weight is 82 kg.
+The Warhead is 14 kg (30.9 lb) HE Blast-Fragmentation.
+The Detonation Mechanism is Direct contact/Proximity fuse activated.
+The Engine is Blackcap solid fuel sustainer.
+The Operational Range is 1–10 km.
+The Flight Ceiling is 3,000 m.
+The Speed is Mach 3 (3,675 km/h; 2,284 mph).
+The Guidance System is Automatic Command to Line-Of-Sight (ACLOS).
+The Steering System is Control surfaces.
+
+Here is Torpedo Weapon System information for the Pohang Class South Korean Corvette:
+The Torpedo Tubes is 2 x triple BAE Systems 324-mm Mark 32 ASW.
+The Torpedo Name is Mark 46 Torpedo.
+The Torpedo Basic Load is 6 x Mark 46 Torpedo.
+
+Here is Fire Control System (FCS) information for the Pohang Class South Korean Corvette:
+The FCS Name is 1 x Marconi S-1810 fire control (PCC-766 on).
+
+Here is Radar Systems information for the Pohang Class South Korean Corvette:
+The Navigation Radar is 1 x Raytheon AN/SPS-64 navigation.
+The Surface / Air Search Radar is 1 x Marconi ST1802 surface/air search.
+
+Here is Sonar Systems information for the Pohang Class South Korean Corvette:
+The Hull-Mounted Sonar is 1 x Thales PHS-32 hull-mounted, medium-frequency.
+
+Here is Protection information for the Pohang Class South Korean Corvette:
+The Electronic Warfare is 1 x Goldstar ULQ-12K intercept/jammer.
+The Decoy is 1 x Mk 36 SRBOC decoy system (2 6-round Mark 137 rocket launchers) (PCC-756/759) or 4 x 9-round Protean decoy rocket launchers (PCC-761 and following).
+The NBC Protection is Yes.
+

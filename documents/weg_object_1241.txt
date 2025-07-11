@@ -1,0 +1,114 @@
+This document describes the JMRC VISMOD 9K33 Osa (SA-8 Gecko) Russian 6x6 Amphibious Short-Range Tactical Surface-to-Air Missile System.
+
+JMRC VISMOD 9K33 Osa (SA-8 Gecko) Russian 6x6 Amphibious Short-Range Tactical Surface-to-Air Missile System
+
+KILLS ROTARY AND SOME FIXED WING ASSETS ON THE MILES BATTLEFIELD
+KILLED BY .50 CALIBER AND ABOVE
+
+Here is Variants information for the JMRC VISMOD 9K33 Osa (SA-8 Gecko) Russian 6x6 Amphibious Short-Range Tactical Surface-to-Air Missile System:
+The SA-8 Gecko is Began development in 1960 and was introduced in 1971-1972 with four exposed 9M33 missiles per TELAR and a maximum range of 12 km..
+The SA-N-4 Gecko is Introduced in 1972 and is the naval version of the system with two 9M33M missiles on a Zif-122 retractable rotating launcher and improved performance. It has been installed on Gepard class frigate, Kara class guided missile cruisers, Kiev class VTOL cruisers and also the Kirov, Slava and Krivak classes..
+The SA-8B Gecko (OSA-AK) is With TELAR 9A33BM2, the 9K33M2 "OSA-AK" was introduced in 1975 with the new six-missile box launcher, each 9M33M2 missile being a sealed round..
+The SA-8B Mod 0 / 9K33M3 "Osa-AKM" / Gecko Mod 1 is With TELAR 9A33BM3 and missiles, the 9K33M3 was introduced in 1980 with the maximum range extended to 15 km (9.3 mi) and maximum altitude to 12 km (40,000 ft) as explained above. Most OSA-AKM systems also feature an IFF antenna..
+The Saman and Saman-M is (Russian Ð¡Ð°Ð¼Ð°Ð½ â adobe) is a development of the Osa\Osa-M system into target drones, used for testing and training with air defense systems, including SAMs..
+The Osa-AKM w/ Polish and Czech Mods) is Upgraded version of the SA-8B Gecko Mod-1 - Poland and Czech Republic made a local modification of SA-8 Gecko..
+
+Here is System information for the JMRC VISMOD 9K33 Osa (SA-8 Gecko) Russian 6x6 Amphibious Short-Range Tactical Surface-to-Air Missile System:
+The Alternative Designation is JMRC VISMOD 9K33 Osa (SA-8 Gecko) Russian 6x6 Amphibious Short-Range Tactical Surface-to-Air Missile System.
+The Type is Russian Short-Range Tactical Surface-to-Air Missile System.
+The Manufacturer is Znamya Truda Plant.
+The Family is INA.
+The In Service is 1971-Present.
+The Crew is 5.
+The Chassis is BAZ-5937.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Fire on the Move is No, The Osa can not launch missiles on the move. It launches them from stationary position or from short stops..
+The Airborne is Yes.
+The Amphibious is Yes.
+The Note is A battery of Osa consists of 4 combat vehicles and 2 reloading vehicles..
+
+Here is Dimensions information for the JMRC VISMOD 9K33 Osa (SA-8 Gecko) Russian 6x6 Amphibious Short-Range Tactical Surface-to-Air Missile System:
+The Length is 9.1.
+The Width is 2.78.
+The Height is 4.20 m (radar mast stowed).
+The Weight, Combat is 18.
+The Ground Pressure is INA.
+The Ground Clearance is 400.
+
+Here is Automotive information for the JMRC VISMOD 9K33 Osa (SA-8 Gecko) Russian 6x6 Amphibious Short-Range Tactical Surface-to-Air Missile System:
+The Engine Name is 2D20B Diesel.
+The Engine Type is Diesel.
+The Engine Power is 300.
+The Maximum Range is 500.
+The Speed, Maximum Road is 50.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 8.
+The Gradient is INA.
+The Side Slope is INA.
+The Vertical Step is 0.5 m.
+The Trench is 1.2 m.
+The Fording Depth is Amphibious.
+
+Here is Communications information for the JMRC VISMOD 9K33 Osa (SA-8 Gecko) Russian 6x6 Amphibious Short-Range Tactical Surface-to-Air Missile System:
+The Tactical Radio is Azart-P (4km), Azart-N (12km), and Azart-BM (40km).
+
+Here is Launcher information for the JMRC VISMOD 9K33 Osa (SA-8 Gecko) Russian 6x6 Amphibious Short-Range Tactical Surface-to-Air Missile System of the Missile System:
+The Name is 9A33 Transporter Erector Launcher and Radar (TELAR) Vehicle.
+The Type is TELAR.
+The Basic Load is 6 x SA-8 SAM.
+The Note is There is also a reloading vehicle, which is based on a similar BAZ-5939 chassis. It carries 18 reload missiles in containers and is fitted with a crane. All six missiles are reloaded within 5 minutes..
+
+Here is Missile (Option 1) information for the JMRC VISMOD 9K33 Osa (SA-8 Gecko) Russian 6x6 Amphibious Short-Range Tactical Surface-to-Air Missile System of the Missile System:
+The Name is 9M33.
+The Type is Surface-to-air missile.
+The Manufacturer is Znamya Truda Plant.
+The Missile Types Fired is 9M33, 9M33M1, 9M33M2, 9M33M3, 9A33BM3.
+The Length is 3,158.
+The Diameter is 209.6.
+The Missile Weight is 170.
+The Warhead Type is FRAG-HE.
+The Detonation Mechanism is Contact and proximity.
+The Guidance System is RF CLOS.
+The Propellant is Solid propellant rocket motor.
+The Operational Range is 15.
+The Flight Altitude is 12,000.
+The Boost Time is 2 s boost, then 15 s sustain.
+The Speed is 1,020.
+The Steering System is Dual-thrust rocket motor..
+The Accuracy is 5.
+
+Here is Fire Control System information for the JMRC VISMOD 9K33 Osa (SA-8 Gecko) Russian 6x6 Amphibious Short-Range Tactical Surface-to-Air Missile System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Optics is Infrared night-vision systems for commander and driver..
+The IFF Capable is Yes.
+
+Here is Target Acquisition and Fire Control Radar information for the JMRC VISMOD 9K33 Osa (SA-8 Gecko) Russian 6x6 Amphibious Short-Range Tactical Surface-to-Air Missile System of the Fire Control:
+The Name is Land Roll.
+The Type is Target acquisition and command guidance radar for the SA-8 Gecko.
+The Band, Surveillance is G-H (6-8 GHz).
+The Maximum Range, G-Band Surveillance Radar is 20-30 km.
+The Band, Tracking Radar is J   (14.2-14.8 GHz).
+The Maximum Range,  H-Band Guidance Radar Radar is 20-25 km.
+The Band, Guidance Radar is I   (8-10 GHz).
+The Maximum Range, J-Band Detection Radar is 20 km.
+The Traverse Left is 180.
+The Traverse Range is 360.
+The Traverse Right is 180.
+The Note #1 is The normal SA-8 battery deployment consists of four SA-8 /Land Roll vehicles and one command vehicle. The SA-8 regiment headquarters consists of a Long Track radar or Thick Skin-B radar vehicle, as well as one command vehicle..
+The Note #2 is The radar folds back 90 degrees to reduce the overall height of the vehicle for air transport or high-speed road travel..
+
+Here is Protection information for the JMRC VISMOD 9K33 Osa (SA-8 Gecko) Russian 6x6 Amphibious Short-Range Tactical Surface-to-Air Missile System:
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes, collective overpressure protection with air filtration.
+The Smoke Equipment is INA.
+

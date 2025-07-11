@@ -1,0 +1,171 @@
+This document describes the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer.
+
+The Sovremenny class, Soviet designation Project 956 Sarych (buzzard), is a class of anti-ship and anti-aircraft guided-missile destroyers of the Soviet and later Russian Navy. The ships are named after qualities, with "Sovremenny" translating as "modern" or "contemporary". Most of the ships have been retired from active service and one converted into a museum ship in 2018, but several remain in commission with the Russian Navy. Four modified ships were delivered to the People's Liberation Army Navy, and remain in service.
+
+The Sovremenny class was guided-missile destroyers, primarily tasked with anti-ship warfare, while also providing sea and air defense for warships and transports under escort. The class was designed to complement the Udaloy-class destroyers, which were fitted primarily for anti-submarine operations.
+
+The ship's combat systems can use target designation data from the ship's active and passive sensors, from other ships in the fleet, from surveillance aircraft, or via a communications link from the ship's helicopter. The multi-channel defense suite is capable of striking several targets simultaneously.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer:
+The BOYEVOY is Commissioned: 1986
+Status: Active.
+The BURNYY is Commissioned: 1988
+Status:Active.
+The GREMYASHCHY is Commissioned: 1989
+Status: Refit.
+The BYSTRYY is Commissioned: 1989 
+Status: Active.
+The RASTOROPNY is Commissioned: 1989
+Status: Non-operational.
+The BEZBOYAZNENNYY is Commissioned: 1990 
+Status: Refit.
+The BEZURDERZHANNY is Commissioned: 1989
+Status: Active.
+
+Here is System information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer:
+The Alternative Designation is Sovremenny Class; Project 956 Sarych.
+The Type is Guided Missile Destroyer.
+The Builder is Zhdanov Shipyard.
+The Crew is 296 (25 off. + 271 enl.).
+The Accomodation is 368 (38 off. + 330 enl.).
+
+Here is Dimensions information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer:
+The Length is 156.4 m.
+The Beam is 17.2 m.
+The Draft is 7.9 m.
+The Displacement, Light is 6,500 tons.
+The Displacement, Standard is 7,940 tons.
+The Displacement, Full Load is 8,480 tons.
+
+Here is Propulsion System information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer:
+The Engine Name is 2 x TV-12.
+The Engine Type is Geared Steam Turbines.
+The Engine Power is 110,000 total shp.
+The Boiler is 4 x turbo pressurised Type KVN-98/64, 640 kg/sq cm, 500 deg Celsius.
+The Fuel Capacity is 1,740 tons + 5 tons aviation.
+The Maximum Range is 1,345 nm at 32.7 kts, 3,920 nm at 18 kts.
+The Maximum Speed is 63 km/h (34 knots).
+The Endurance is 30 days.
+
+Here is Gun Weapon System #1 information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer of the Gun Weapon Systems:
+The Name is 4 x AK-630 CIWS.
+The Type is Close-In Weapon System (CIWS).
+The Caliber is 30 mm.
+The Length is INA.
+The Barrel Length is 1,629 mm.
+The Width is 1,240 mm.
+The Height is 1,070 mm.
+The Weight is Gun mount:
+1,000 kg (2,200 lb) (AK-630);
+External nodes:
+800 kg (1,800 lb) (AK-630);
+2000 rounds in belt:
+1,918 kg (4,228 lb).
+The Crew is 1.
+The Action is Gas-operated rotary cannon.
+The Elevation is +88° ... -12° (50°/sec).
+The Traverse is ±180° (70°/sec).
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880–900 m/s.
+The Maximum Firing Range is the projectiles self-destruct past 5,000 m.
+The Effective Firing Range is 4,000 m (13,000 ft) (aerial)
+5,000 m (16,000 ft) (maritime).
+The Feed System is Belt:
+2,000 rounds.
+The Sights is Radar / TV-optical.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30.
+The Shell is HEI-Frag, Frag-T.
+The Shell Weight is 0.39 kg.
+The Basic Load is 16,000.
+
+Here is Gun Weapon System #2 information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer of the Gun Weapon Systems:
+The Name is 2 x AK-130 Automatic Naval Cannon.
+The Type is Automatic Naval Cannon.
+The Caliber is 130 mm.
+The Length is 9100 mm.
+The Barrel Length is INA.
+The Weight is INA.
+The Elevation is 85 degrees.
+The Traverse is 360 degrees.
+The Rate of Fire is 35 RPM.
+The Maximum Firing Range is 23,000 m (surface targets)
+15,000 m (aircraft)
+8,000 m (missiles).
+
+Here is Gun Weapon System #2 Ammunition information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 130mm.
+The Cartridge is INA.
+The Basic Load is 2,000 Rounds.
+
+Here is Missile #1 information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer of the Missile Weapon System:
+The Name is SS-N-22 Sunburn.
+The Type is Anti-Ship Missile.
+The Launcher is 2 x quad P-270 Moskit SSM missile launchers.
+The Basic Load is INA.
+The Note is SS-N-22 Sunburn is the NATO reporting name for two unrelated Soviet anti-ship missiles. Although the missiles were very different, distinguishing between them is difficult because their ship-mounted launching containers were identical. Confusion was exacerbated by the Soviet practice of mixing missile types within a class of ships. It was therefore not confirmed that the "SS-N-22" actually referenced two different missiles until after the fall of the Soviet Union..
+
+Here is Missile #2 information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer of the Missile Weapon System:
+The Name is SA-N-7 Gadfly.
+The Type is Surface-to-Air Missile (SAM).
+The Launcher is 2 x ZR-90 Uragan (SA-N-7) type MS-196 SAM missile launchers.
+The Length is 5.55 m.
+The Diameter is 0.40 m.
+The Wingspan is 1.20 m.
+The Weight is 690 kg.
+The Engine is 1 x solid-fuel rocket.
+The Maximum Range is 30 km.
+The Maximum Speed is 3,680 kph, Mach 3.
+The Maximum Altitude is 15,000 m.
+The Minimum Altitude is 25-30 m.
+The Maximum  Load is 23 g.
+The Sensors/Electronics is Front Dome (Orekh) H/I-band radar, said to be capable of illuminating an individual target once it is designated by D/E/F-band air search radars and associated digital
+computers.
+The Basic Load is INA.
+
+Here is Torpedoes information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer:
+The Torpedo Tubes is 2 x twin 533-mm type DTA-53 tubes.
+The Torpedos is INA.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer:
+The SA-N-7 Missile FCS is 6 x OP-3 (Front Dome**) fire control for SA-N-7  missiles.
+The AK-130 Gun FCS is 1 x MR-184M Lev (Kite Screech**) fire control for 130-mm guns.
+The AK-630 Gun FCS is 2 x MR-123 Vympel (Bass Tilt**) fire control for 30-mm CIWS.
+The SS-N-22 Missile FCS is 1 x Mineral (Band Stand**) surface target and designation for the SS-N-22.
+The Laser Rangfinder is 1 x Squeeze Box optronic director with laser range finder.
+
+Here is Aircraft information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer:
+The Helicopters is 1 x Kamov Helix-A(Ka-27PL)** ASW; or 1 x Helix-A (Ka-27RT) targeting type.
+
+Here is ASW Weapons information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer:
+The Launcher is 2 x 6-round RBU-1000 rocket launchers.
+The Rocket Name is RGB-10.
+The Basic Load is 48 x Rockets.
+
+Here is Mines information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer:
+The Launcher is 2 x mine rails fitted.
+The Mine Name is INA.
+The Basic Load is 40 x mines.
+
+Here is Radar Systems information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer:
+The 3-D Air Search Radar is 1 x MR-760MA Fregat-MA (Top Plate**) 3-D air search.
+The Navigation Radar is 3 x MR-212/201 Vaygach-U (Palm Frond**) navigation.
+
+Here is Sonar Systems information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer:
+The Name is 1 x MGK-335MS Platina-S (Bull Horn**).
+The Type is Medium-Frequency, Hull Mounted Sonar.
+
+Here is Protection information for the Sovremenny Class (Project 956 Sarych) Russian Guided Missile Destroyer:
+The Active Protection System is INA.
+The Countermeasures is 8 x 10-tubed PK-10 fixed decoy launchers (all except BOYEVOY: none).
+The NBC Water Washdown System is Yes.
+The Electronic Warfare is 2 x MP-405M Start-2 or MR-401 intercept system; 2 x MRP-11M/12M (Bell Shroud**); 2 x Bell Squat**; 
+4 x Foot Ball-B**.
+The Jamming System is 1 x MR-407 jamming system.
+

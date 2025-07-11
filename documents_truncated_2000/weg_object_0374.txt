@@ -1,0 +1,85 @@
+This document describes the Hafeet Emirate 6x6 Armored Personnel Carrier (APC).
+
+The Hafeet is a family of 6 x 6 armored vehicles developed by Nimr Automotive in the United Arab Emirates to meet a variety of military requirements. The vehicles have a capacity of 28,660 lb (13,000 kg) and can perform missions from utility and transport to armored patrol, according to the manufacturer.
+
+Each variant uses the same 6 x 6 chassis to minimize logistics, training and spare-parts management. All Hafeet vehicles can be fitted with armor.
+
+The base platform is powered by six-cylinder, in-line diesel engine producing 300 hp. A more powerful 360-hp engine is available as an option. A fully automatic power shift transmission is connected to a two-speed dropbox and provides drive to the vehicle's fully independent double-wishbone portal axles with coil springs and hydraulic dampers. The suspension provides high ground clearance and, coupled with full differential locking and a central tire-inflation system, ensures excellent tactical mobility.
+
+The Hafeet is equipped with a generic vehicle compliant electronic architecture that supports intelligent power management; battlefield management systems; and capacity for integration with a variety of communication, battlefield and weapon systems. The vehicle can be fully integrated with a customer's preferred command, control, communications, computers, intelligence, surveillance, target acquisition and reconnaissance (C4ISTAR) systems and advanced weapon systems.
+
+Standard equipment includes a power-management system; run-flat tires; central tire-inflation system; and a winch.
+
+The Hafeet is powered by a Cummins ISBe 360 6.7-liter diesel engine developing from 286 to 360 hp coupled to an Allison 3200SP six-speed automatic transmission. All variants are equipped with air over hydraulic actuated disc brakes and hydraulic power-assisted steering.
+
+Option systems include various levels of ballistic (NATO Standard Agreement Level 1 to Level 4) and blast (Level 1 to Level 3a/b) protection; infrared-signature management; rocket-propelled grenade protection system; and nuclear, biological and chemical (NBC) warfare protection.
+
+A variety of camera systems can be equipped, including day and night cameras; a situational awareness system; and a display monitor. A GPS and/or inertial navigation system may also be fitted.
+
+A range of armament can be fitted, including 5.56-mm and 7.62-mm machine guns; 12.7-mm heavy machine guns; 40-mm automatic grenade launcher; and 20-mm to 30-mm cannons.
+
+This equipment has proliferated into the following countries: Algeria, Jordan, Lebanon, Libya, Turkmenistan, United Arab Emirates, Yemen.
+
+Here is Variants information for the Hafeet Emirate 6x6 Armored Personnel Carrier (APC):
+The HAFEET 620 is logistic and utility 6x6 vehicle with two man cabin and large cargo bed that can be integrated with a variety of mission systems and weapon system loads..
+The HAFEET 620A is Logistics and Utility Vehicle.
+The HAFEET 640A is Artillery Support Vehicle (Observation and Command & Control configurations).
+The Hafeet 640 is Armoured patrol 6x6 vehicle with a four man cabin protected against IED, blast and ballistic threats. Fitted for mission communications and self-defense thanks to a roof mounted gun ring. Can be integrated with a variety of mission systems and weapon system loads..
+The HAFEET Ambulance is Ambulance version.
+
+Here is Dimensions information for the Hafeet Emirate 6x6 Armored Personnel Carrier (APC) of the System:
+The Length is 6.9.
+The Width is 2.3.
+The Height is 2.1.
+The Weight, Empty is 15,000.
+The Payload Capacity is 2.4-5.
+
+Here is Automotive information for the Hafeet Emirate 6x6 Armored Personnel Carrier (APC):
+The Engine Name is Cummins ISBe 300.
+The Engine Type is Diesel.
+The Engine Power is 286-360hp.
+The Maximum Road Speed is 110.
+The Maximum Range is 600.
+The Gradient is 43.
+The Side Slope is 30.
+The Vertical Step is 0.4.
+The Trench is 0.5.
+The Fording is 1.
+The Note #1 is This military vehicle can also tow trailers and light artillery pieces..
+The Note #2 is Vehicle is fitted with a central tyre inflation system and run-flat tyres as standard. Also there is a recovery winch, which also comes as standard..
+
+Here is System information for the Hafeet Emirate 6x6 Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 x Caracal Assault Rifle 817.
+The Type is Assault Rifle.
+The Caliber is 7.62.
+The Manufactuer is Caracal International company.
+The Length, Stock Extended is 884.
+The Length, Stock Retracted is 802.
+The Barrel Length is 406.
+The Weight, Without Magazine is 3.3.
+The Muzzle Velocity is 750.
+The Cyclic Rate of Fire is 650-750.
+The Practical Rate of Fire is 30-90.
+The Magazine Capacity is 10, 20, 25 rounds.
+The Range of Effective Fire is 600.
+The Sight is Iron.
+
+Here is Ammunition information for the Hafeet Emirate 6x6 Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62x51 mm.
+The Basic Load is INA.
+
+Here is Protection information for the Hafeet Emirate 6x6 Armored Personnel Carrier (APC):
+The Armor is The Hafeet Class features variants with a high degree of protection to enhance survivability of the crew to attack from roadside IEDs, under-vehicle mines and ballistic threats. The Hafeet Class vehicles can be armored with different level of ballistic and blast protection depending on the variant and customer needs. The vehicles can receive standard ballistic protection up to STANAG level IV and standard blast protection up to STANAG level III (a,b)..
+The Applique Armor is Available,  There are numerous versions of the Nimr Hafeet. Due to its modular nature the vehicle can be configured to suit various battlefield roles..
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The NBC Protection is Optional.
+The Smoke Equipment is Available, smoke grenade dischargers.
+The Fire Suppression System is Yes.
+The Protective Net is Protective net against anti-tank rocket launchers.
+The Battle Field Management System is Available.
+The Heat Signature System is Available.
+The RPF Protection System is Available.
+

@@ -1,0 +1,43 @@
+This document describes the Optima-3 Belarusian GNSS Distributed Jamming Complex.
+
+This variant is a remote-controlled distributed jamming system. The baseline system consists of nine transmitters (with some commonality with the Optima-2) and an ASU-PP (avtomatizirovannaya system upravleniya peredatchikami pomekh) automated control system. The number of elements is variable according to customer requirements.
+The ASU-PP runs off a 220 V, 50 Hz AC power supply and is used for remote activation of the distributed jammer fields. Situation data are monitored on the operator's workstation, including the jammer position information, which is shown on a terrain map. The jamming zones are presented in electronic form, showing the transmitter status and serviceability.
+
+The main elements of the Optima-3 are the operator's automated workstation and a control unit for associated command links. The workstation includes a computer with application software, LCD monitor, keyboard, mouse and uninterruptible power supply. The command link includes VHF radio and mobile telephone control equipment, a GSM antenna and a power supply unit.
+
+When controlled from a mobile telephone network (GSM-900/1800 standard), the Optima-3's remote-control range is limited only by the network coverage area, while its radio link gives a stand-off control range of 19-31 mi (30-50 km). Activation delay through the radio channel is no more than 5 seconds and less than 60 seconds through the GSM channel.
+
+The jamming subsystems includes a BPSS antenna unit, BPK power supply and control unit and BUS (blok upravleniya i svyazi) control and communications unit and jamming transmitter. Other equipment includes a directional VHF antenna with a 10-ft (3-m) long connection cable, a GSM antenna with a 3-ft (1-m) long connection cable, mains and battery power-supply cables.
+
+The Optima-3 is a dual-frequency system, with the output of its jammer reaching 20 W in each frequency. Its jamming waveform has a complex frequency and time structure that affects the GPS signal information component.
+
+This equipment has proliferated into the following countries: Belarus.
+
+Here is System information for the Optima-3 Belarusian GNSS Distributed Jamming Complex:
+The Alternative Designations is GPS / GLONASS Jammer.
+The Jammer Range is 100.
+The Power Supply AC/DC is 220/24.
+The Weight Transmitter is 10.
+The Frequency range is .
+The Civilian is 1,575.42.
+The Military is 1,227.6.
+The Antenna and Transmitter is INA.
+The Mount is Remote-Controlled.
+The Fixed is Yes.
+The Vehicle is Yes.
+The Antenna Type is Omni directional.
+The Transmitter is Continuous-wave with cable link to antenna.
+The Signal is Complex frequency and interval waveform degrade the GNSS code..
+The Output Power is 20.
+The Width of radiation pattern lobe is 60 - 10.
+The Vertical is 40 - 10.
+The Components is The main components are the operator's automated workstation and a control unit for each transmitter. ..
+The Number of Transmitters is 9.
+The Control System is ASU-PP automated control system. System status and situational awareness is monitored by the operator at the remote workstation.
+The Command VHF is Yes.
+The Command GSM is Yes.
+The Control Link Range is 30-50.
+The Command VHF is 5.
+The Command GSM is ≤ 60.
+The Operation is Designed to affect C2, maneuver and fire support activities. May affect high precision munitions..
+

@@ -1,0 +1,165 @@
+This document describes the FC-1 Xiaolong Chinese Multirole Combat Aircraft.
+
+The PAC JF-17 Thunder, or CAC FC-1 Xiaolong, is a lightweight, single-engine, multi-role combat aircraft developed jointly by the Pakistan Aeronautical Complex (PAC) and the Chengdu Aircraft Corporation (CAC) of China. It was designed to replace the A-5C, F-7P/PG, Mirage III, and Mirage V combat aircraft in the Pakistan Air Force. The JF-17 can be used for multiple roles, including interception, ground attack, anti-ship, and aerial reconnaissance. Its designation "JF-17" by Pakistan is short for "Joint Fighter-17", while the designation and name "FC-1 Xiaolong" by China means "Fighter China-1 Fierce Dragon".
+
+The JF-17 can deploy diverse ordnance, including air-to-air and air-to-surface missiles, and a 23 mm GSh-23-2 twin-barrel autocannon. Powered by a Guizhou WS-13 or Klimov RD-93 afterburning turbofan, it has a top speed of Mach 1.8. The JF-17 is to become the backbone of the Pakistan Air Force (PAF), complementing the General Dynamics F-16 Fighting Falcon at half the cost. The PAF inducted its first JF-17 squadron in February 2010. In 2015 Pakistan produced 16 JF-17s. As of 2016, Pakistan is believed to have the capacity to produce 25 JF-17 per year. 58% of the airframe is Pakistani and 42% Chinese/Russian-origin. As of December 2016 Pakistan Aeronautical Complex has manufactured 70 jets in the country for use by the Pakistan Air Force of the Block 1 type,and 33 jets of the Block 2 type.
+
+The Pakistan Air Force plans, by 2017, to induct a twin-seater version known as the JF-17B for both enhanced operational capability and training. Preparations for a more advanced and technologically sophisticated block III version of the aircraft are underway and the AESA radar, KJ-7A, has been developed, which can track 15 targets and engage 4 targets simultaneously.
+
+Since its induction in 2011, the JF-17 Thunder has accumulated 19,000 hours of operational flight. The JF-17 has seen active military service as it is used by the Pakistan Air Force to bomb militant positions in North Waziristan, using both unguided munitions and guided missiles for precision strike capability.
+
+The air frame is of semi-monologue structure constructed primarily of aluminum alloys. High strength steel and titanium alloys are partially adopted in some critical areas. The air frame is designed for a service life of 4,000 flight hours or 25 years, the first overhaul being due at 1,200 flight hours. Block 2 JF-17s incorporate greater use of composite materials in the air frame to reduce weight. The retractable undercarriage has a tricycle arrangement with a single steerable nose-wheel and two main undercarriages. The hydraulic brakes have an automatic anti-skid system. The position and shape of the inlets is designed to give the required airflow to the jet engine during maneuvers involving high angles of attack.
+
+The mid-mounted wings are of cropped-delta configuration. Near the wing root are the LERX, which generate a vortex that provides extra lift to the wing at high angles of attack encountered during combat maneuvers. A conventional tri-plane empennage arrangement is incorporated, with all-moving stabilities, single vertical stabilizer, rudder, and twin ventral fins. The flight control system (FCS) comprises conventional controls with stability augmentation in the yaw and roll axis and a digital fly-by-wire (FBW) system in the pitch axis. The leading edge slats/flaps and trailing edge flaps are automatically adjusted during maneuvering to increase turning performance. The FCS of serial production aircraft reportedly have a digital quadruplex (quad-redundant) FBW system in the pitch axis and a duplex (dual-redundant) FBW system in the roll and yaw axis.
+
+The glass cockpit is covered by a transparent, acrylic canopy that provides the pilot with a good, all-round field of view. It has three large Multifunction Color Displays (MFD) and smart Heads-Up Display (HUD) with built-in symbol generation capability. A center stick is used for pitch and roll control while rudder pedals control yaw. A throttle is located to the left of the pilot. The cockpit incorporates hands-on-throttle-and-stick (HOTAS) controls. The pilot sits on a Martin-Baker Mk-16LE zero-zero ejection seat. The cockpit incorporates an electronic flight instrument system (EFIS) and a wide-angle, holographic head-up display (HUD), which has a minimum total field of view of 25 degrees. The EFIS comprises three color multi-function displays, providing basic flight information, tactical information, and information on the engine, fuel, electrical, hydraulics, flight control, and environment control systems. The HUD and MFD can be configured to show any available information. Each MFD is 20.3 cm (8.0 in) wide and 30.5 cm (12.0 in) tall and is arranged side by side in portrait orientation. The central MFD is placed lowest to accommodate a control panel between it and the HUD.
+
+Up to 3,629 kg (8,001 lb) of ordnance, equipment, and fuel can be mounted under the hard points, two of which are on the wing-tips, four are under the wings and one is under the fuselage.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the FC-1 Xiaolong Chinese Multirole Combat Aircraft:
+The Alternate Designation(s) is FC-1 Xiaolong.
+The Primary Function / Type is Multirole Combat Aircraft.
+The Manufacturer is Chengdu Aircraft Industry Group.
+The Crew is 1 (single-seat) or 2 (dual-seat).
+The Number of Engines is 1.
+The Number of Hard Points is 7 (2 × wing-tip, 4 × under-wing, 1 × under-fuselage) with capacity for dual ejector racks on each under-wing hardpoint.
+
+Here is Dimensions information for the FC-1 Xiaolong Chinese Multirole Combat Aircraft:
+The Length is 14.93 m.
+The Width (Wing Span) is 9.44 m.
+The Height is 4.77 m.
+The Wing Area is 24.43 m2.
+The Empty Weight is 6,586 kg.
+The Max Takeoff Weight is 12,700 kg.
+The Payload is 4,600 kg.
+
+Here is Automotive information for the FC-1 Xiaolong Chinese Multirole Combat Aircraft:
+The Engine Name is 1 × Klimov RD-93MA afterburning turbofan with digital electronic engine control (DEEC).
+The Number of Engines is 1.
+The Engine Type is Afterburning Turbofan.
+The Engine Power is 50.4 kN (11,300 lbf) thrust [197] dry, 85.6 kN (19,200 lbf) with afterburner.
+The Maximum Speed is Mach 1.6.
+The Cruise Speed is 1,359 km/h.
+The Stall Speed is 150 km/h.
+The Maximum Range is 2,500 km.
+The Combat Range is 1,352 km.
+The Ferry Range is 3,500 km.
+The Service Ceiling is 16,930 m.
+The G Limits is +8/-3 (limited by flight control system).
+The Rate of Climb is 300 m/s.
+
+Here is System information for the FC-1 Xiaolong Chinese Multirole Combat Aircraft of the Main Gun System:
+The Name is Gryazev-Shipunov GSh-23.
+The Type is Autocannon.
+The Caliber is 23.
+The Length is 1,387 mm.
+The Barrel Length is 1,000 mm.
+The Weight is 49.2 kg.
+The Barrels is 2.
+The Action is Gas principle.
+The Rate of Fire is 3,400–3,600 rounds/min.
+The Muzzle Velocity is 715 m/s.
+
+Here is Ammunition information for the FC-1 Xiaolong Chinese Multirole Combat Aircraft of the Main Gun System:
+The Type is Rifle, Autocannon.
+The Caliber is 23.
+The Cartridge is 23x115 mm.
+The Basic Load is INA.
+
+Here is Main Missile System #1 information for the FC-1 Xiaolong Chinese Multirole Combat Aircraft of the Main Missile Systems:
+The Name is PL-5EII.
+The Type is Short-Range Air-to-Air Missile.
+The Manufacturer is Luoyang Electro-Optics Technology Development Centre (EOTDC),
+Hanzhong Nanfeng Machine Factor.
+The Length is 2.893m.
+The Diameter is 0.127m.
+The Wingspan is 0.617m.
+The Weight is 83kg.
+The Warhead is 6kg blast-frag, or expanding rod (RF-fuse).
+The Detonation Mechanism is Active infrared, laser proximity fuse.
+The Engine is Solid-fuel rocket.
+The Operational Range is 16~18km.
+The Maximum Speed is Mach 2.5.
+The Guidance System is Infrared homing, multi-element, dual band detector.
+
+Here is Main Missile System #2 information for the FC-1 Xiaolong Chinese Multirole Combat Aircraft of the Main Missile Systems:
+The Name is PL-9C.
+The Type is Infrared-Homing Air-to-Air Missile.
+The Length is 2.9m.
+The Diameter is 0.157m.
+The Wingspan is 0.856m.
+The Weight is 115kg.
+The Warhead is 11.8kg blast-frag, or expanding rod (RF-fuse).
+The Detonation Mechanism is laser proximity fuse.
+The Engine is Solid-fuel rocket.
+The Operational Range is 22km (PL-9C, air-to-air), > 8km (surface-to-air).
+The Flight Altitude is 4.5km (surface-to-air).
+The Maximum Speed is Mach 2+.
+The Guidance System is multi-element infrared.
+
+Here is Main Missile System #3 information for the FC-1 Xiaolong Chinese Multirole Combat Aircraft of the Main Missile Systems:
+The Name is AIM-9L.
+The Type is Short-Range Air-to-Air Missile.
+The Manufacturer is Raytheon Company
+Ford Aerospace
+Loral Corp..
+The Length is 3.02 m.
+The Diameter is 127.0 mm.
+The Wingspan is 279.4 mm.
+The Weight is 85.3 kg.
+The Warhead Type is WDU-17/B annular blast-frag.
+The Warhead Weight is 9.4 kg.
+The Detonation Mechanism is IR proximity fuze.
+The Engine is Hercules/Bermite Mk. 36 Solid-fuel rocket.
+The Operational Range is 1.0 to 35.4 km.
+The Maximum Speed is Mach 2.5+.
+The Guidance System is Infrared homing.
+
+Here is Bomb #1 information for the FC-1 Xiaolong Chinese Multirole Combat Aircraft of the Bomb Weapon Systems:
+The Name is Mark 82.
+The Type is Unguided General-Purpose Bomb.
+The Length is 2.22 m.
+The Diameter is 273 mm.
+The Weight is 227 kg.
+The Filling is Tritonal, Minol (explosive) or Composition H6.
+The Filling Weight is 87 kg.
+The Cook Off Time is approximately 2 minutes 30 seconds..
+
+Here is Bomb #2 information for the FC-1 Xiaolong Chinese Multirole Combat Aircraft of the Bomb Weapon Systems:
+The Name is Mark 83.
+The Type is Unguided General-Purpose Bomb.
+The Length is 3000 mm.
+The Diameter is 357 mm.
+The Weight is 459 kg.
+The Filling is Tritonal, Minol or Composition H6.
+The Filling Weight is 202 kg.
+The Note is The Mk 83 is a streamlined steel casing containing 445 lb (202 kg) of tritonal high explosive. When filled with PBXN-109 thermally insensitive explosive, the bomb is designated BLU-110..
+
+Here is Bomb #3 information for the FC-1 Xiaolong Chinese Multirole Combat Aircraft of the Bomb Weapon Systems:
+The Name is Mark 84.
+The Type is General-Purpose Bomb.
+The Length is 3280 mm.
+The Diameter is 458 mm.
+The Weight is 925 kg.
+The Filling is Tritonal, Minol or Composition H6.
+The Filling Weight is 429 kg.
+The Note is It is a streamlined steel casing filled with 945 lb (429 kg) of Tritonal high explosive..
+
+Here is Fire Control / Avionics information for the FC-1 Xiaolong Chinese Multirole Combat Aircraft:
+The Fire Control Radar is KLJ-7 v2 Airborne Pulse Doppler Fire-Control Radar ( Range-150 km for 3m2 RCS aircraft.).
+The Radar Warning Receiver is Northrop Grumman ALR-67 Rader Warning Recever (RWR).
+The Airborne Missile Approach Warning System is S740 Airborne Missile Approach Warning System (MAWS).
+The Tactical Data Link is Link-17 Tactical Data Link and the MIL-STD-1760 data-bus.
+The Advanced Targeting Pod Electro-Optical Reconnaissance, Surveillance, and Targeting System is Aselsan ASELPOD Advanced Targeting Pod Electro-Optical Reconnaissance, Surveillance, and Targeting System.
+
+Here is Protection information for the FC-1 Xiaolong Chinese Multirole Combat Aircraft:
+The Stealth Properties is INA.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The EW Counter Measures is Indra ALQ-500P Electronic Countermeasure (ECM).
+The Chaffs/Flares is Yes.
+The Jamming Pod is KG300G Airborne Self-Protection Jamming Pod and 
+KG600 Airborne Self-Protection Jamming Pod.
+

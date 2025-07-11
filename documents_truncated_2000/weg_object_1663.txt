@@ -1,0 +1,61 @@
+This document describes the R-934B Russian VHF Air Communication Automated Jamming Station.
+
+R-934B automated jamming station is intended for jamming of VHF air communication means, air guidance tactical systems and also for jamming of ground fixed and mobile communication lines, cellular and trunk networks which operate at fixed frequencies as well as in program operating frequency change (POFC) mode and short telecode data messages transfer.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the R-934B Russian VHF Air Communication Automated Jamming Station:
+The Alternative Designation is R-934B.
+The In Service is 1996-Present.
+The Type is VHF Air Communication Automated Jamming Station.
+The Manufacturer is Ural.
+The Chassis is Ural-43203.
+The Configuration is 6x6.
+The Crew is INA.
+
+Here is Dimensions information for the R-934B Russian VHF Air Communication Automated Jamming Station:
+The Length is 7.37.
+The Width is 2.5.
+The Height is 4.5.
+The Weight, Empty is 8.
+The Payload capacity (on road) is 6.
+The Payload capacity (off road) is 4.5.
+The Maximum Tow Capacity is 12.
+
+Here is Automotive information for the R-934B Russian VHF Air Communication Automated Jamming Station:
+The Engine Name is YaMZ-740.
+The Engine Type is Diesel.
+The Engine Power is 210.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is 50.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 62.
+The Side Slope is 40.
+The Vertical Step is 0.55.
+The Trench is 1.2.
+The Fording Depth is 1.75.
+
+Here is Jamming Station information for the R-934B Russian VHF Air Communication Automated Jamming Station:
+The Operating Frequency Range is 100 - 399,995 MHz.
+The Transmitter Output Power is not less, - 500 W.
+The Quantity of Simultaneously Jammed Frequencies is In fixed frequencies mode – up to 4;
+In POFC mode - 1;.
+The Frequency Spacing is kHz - 4,16.
+The Root-mean-square error of direction finding, degree (not more than) is 2 Deg.
+The Frequency Range Scanning Rate (without direction finding) is MHz /s 7500.
+The Mean time of station reaction during jamming in autonomous mode (during operation by list of 200 preset frequencies in simultaneous scanning band, not more) is 5 ms.
+The Accuracy of carrier frequency definition (not more) is 4 kHz.
+The Relative frequency deviation from the nominal (not more) is 3 х 10.
+The Receiver sensitivity (not worse) is mV 1,5.
+
+Here is Protection information for the R-934B Russian VHF Air Communication Automated Jamming Station:
+The Armor is INA.
+The Applique Armor is Available to protection against small arms fire and artillery shell splinters.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Personal CBRN equipment.
+The Smoke Equipment is No.
+The IR Signature is No.
+

@@ -1,0 +1,103 @@
+This document describes the Serna-Class (Project 11770 Class) Russian Air-Cavity Fast Landing Craft.
+
+The Serna class, or Project 11770, is a class of air cavity system landing craft constructed for the Russian Navy. Twelve boats were built between 1994 and 2014. The fast landing craft Project 11770 main task is to quickly get to the shore, to land troopers, and just as quickly go away to a safe distance, for example, for a new "load" in the form of armored vehicles and soldiers. The high-speed air cavity patrol boat "Serna" is designed for transportation and debarkation on an unequipped shore of wheel and caterpillar technical equipment. The Project 11770E Serna air-cavity fast landing craft in wartime is designed for the over-the-beach landing of combat and military tracked and wheeled vehicles, as well as forward assault units.
+
+In peacetime, the boat can be used to deliver equipment, cargo, and troops to the points of the seacoast to a distance of 600 miles.
+
+The feature of the Serna landing craft is that an air cavity, an artificial air gap with overpressure, is created under its bottom as it moves. The cavity isolates a large portion of the hull from contact with water, thus achieving a significant reduction in resistance and providing a speed of 30 knots, as well as reduced fuel consumption.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Serna-Class (Project 11770 Class) Russian Air-Cavity Fast Landing Craft:
+The D-67 is Commissioned: D-67
+Status: Active
+Fleet: INA.
+The D-156 is Commissioned: 1999
+Status: Active
+Fleet: INA.
+The D-131 is Commissioned: 2002
+Status: Active 
+Fleet: INA.
+The D-172 is Commissioned: 2005
+Status: Active
+Fleet: INA.
+The D-144 is Commissioned: 2008
+Status: Active
+Fleet: INA.
+The D-56 is Commissioned: 2008
+Status: Active 
+Fleet: INA.
+The D-1441 is Commissioned: 2009
+Status: Active
+Fleet: INA.
+The D-1442 is Commissioned: 2009
+Status: Active
+Fleet: INA.
+The D-199 is Commissioned: 2009
+Status: Active
+Fleet: INA.
+
+Here is System information for the Serna-Class (Project 11770 Class) Russian Air-Cavity Fast Landing Craft:
+The Alternative Designation is Serna Class; Project 11770 Class.
+The Type is Air-Cavity Fast Landing Craft.
+The Builder is Volga, Nizhniy Novgorod.
+The Crew is 5 (2 Warrant Officers).
+The Note is It can transport cargo and equipment up to 45 tons at 30 knots in sea point up to 2 (at 27 knots in sea point up to 3). The sea-going capacity is limited by sea point 5..
+
+Here is Dimensions information for the Serna-Class (Project 11770 Class) Russian Air-Cavity Fast Landing Craft:
+The Length is 25.6 m.
+The Beam is 5.8 m.
+The Draft is 1.52 m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 105 tons.
+
+Here is Propulsion System information for the Serna-Class (Project 11770 Class) Russian Air-Cavity Fast Landing Craft:
+The Engine Name is 2 x M503-A3.
+The Engine Type is Diesel.
+The Engine Power is 2 x 2,200 kW (2x3,000 hp).
+The Electrical Power System is 2 x DGR1A-16/1500 diesel-generators.
+The Propulsors is 2 x four-bladed vented fixed-pitch propellers.
+The Maximum Range is 600 nm.
+The Maximum Speed is 30 knots.
+The Endurance is 1 day.
+
+Here is Gun Weapon System #1 information for the Serna-Class (Project 11770 Class) Russian Air-Cavity Fast Landing Craft of the Gun Weapon Systems:
+The Name is 4 x PKMB 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is Degtyaryov plant.
+The Length is 1,160 mm.
+The Weight, Gun is 5.5 kg.
+The Weight, Gun and Mount is 17.1 kg.
+The Rate of Fire is 250 rounds per minute.
+The Muzzle Velocity is 825 m/s.
+The Maximum Firing Range is 3,800 m.
+The Effective Firing Range is 1,800 m.
+The Belt Capacity is 600-800 Rounds.
+The Sights is Tangent iron sights, Optical, and Night Vision.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Serna-Class (Project 11770 Class) Russian Air-Cavity Fast Landing Craft of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×54mmR.
+The Basic Load is INA.
+
+Here is Missile #1 information for the Serna-Class (Project 11770 Class) Russian Air-Cavity Fast Landing Craft of the Missile Weapon System:
+The Name is 4 x 9K38 Igla (SA-18 Grouse) Man-Portable Infrared Homing Surface-to-Air Missile (SAM) System.
+The Type is Man-Portable Infrared Homing Surface-to-Air Missile (SAM) System.
+The Length is 1.574 m.
+The Diameter is 72 mm.
+The Weight is 17.9 kg full system (Missile: 10.8 kg).
+The Warhead is 1.17 kg.
+The Engine is Solid fuel rocket motor.
+The Guidance System is Dual waveband infra-red.
+The Operational Range is 5.2 km.
+The Flight Ceiling is 3.5 km.
+The Maximum Speed is 570 m/s.
+The Basic Load is 4 x 9K38 Igla (SA-18 Grouse) Man-Portable Infrared Homing Surface-to-Air Missile (SAM) System.
+
+Here is Protection information for the Serna-Class (Project 11770 Class) Russian Air-Cavity Fast Landing Craft:
+The Hull is INA.
+The Countermeasures is No.
+The NBC Water Washdown System is Yes.
+

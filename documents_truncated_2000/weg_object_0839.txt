@@ -1,0 +1,55 @@
+This document describes the Apid 55 Swedish Vertical Takeoff and Landing (VTOL) Unmanned Aerial Vehicle (UAV).
+
+The Apid 55 is a miniature vertical take-off and landing (VTOL) unmanned aerial vehicle (UAV) system designed and manufactured by CybAero (formerly known as Scandicraft Systems) for the United Arab Emirates Defence Agency (UAEDA). Each system incorporates three major components: Apid 55 aerial vehicle, a ground control station (GCS) and a payload control system.
+
+The vehicle can perform intelligence, surveillance, target acquisition and reconnaissance operations in hostile environments even in adverse sight conditions. It captures the real time imagery or videos of the battlefield and transmits to the GCS through a satellite communication data link with in a range of up to 50km.
+
+Flying at a maximum altitude of 3,000m, the UAV can provide its operators with real time intelligence data by executing surveillance and reconnaissance missions over a large area. The aircraft can be transported on a pick up transport vehicle.
+
+An improved version, the Apid 60 was also built by CybAero. The Apid 60 can fly at a maximum speed of 110km/h. Its cruise speed is 90km/h. It can loiter in air for a maximum of three to six hours. The variant is fitted with a skid type landing gear.
+
+This equipment has proliferated into the following countries: China, Sweden, United Arab Emirates.
+
+Here is Variants information for the Apid 55 Swedish Vertical Takeoff and Landing (VTOL) Unmanned Aerial Vehicle (UAV):
+The Apid 60 is This is a further development of basic Apid design..
+The Skeldar V-150 is This version is a modified Apid 55..
+The Pelicano is This is a maritime variant of the Apid 60.
+The Apid One is This is the latest variant of the Apid family of UAVs and builds off of the Apid 60 platform..
+The Tanan rotary-wing UAV is Developed by Airbus, the Tanan Block 1 UAV is a modified Apid 60..
+
+Here is System information for the Apid 55 Swedish Vertical Takeoff and Landing (VTOL) Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Apid 55.
+The Type is Vertical Takeoff and Landing (VTOL) Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Leonardo(since 2017).
+The Crew is Unmanned.
+
+Here is Dimensions information for the Apid 55 Swedish Vertical Takeoff and Landing (VTOL) Unmanned Aerial Vehicle (UAV):
+The Length, Fuselage is 4.0 m including rotor disc.
+The Length, Airframe is 3.2 m excluding rotor disc.
+The Width is 0.9 m.
+The Rotor Diameter is 3.3 m.
+The Height is 1.2 m.
+The Weight, Empty is 95 kg.
+The Weight, Maximum Takeoff is 150 kg.
+The Weight Payload and Fuel is 55 kg.
+
+Here is Automotive information for the Apid 55 Swedish Vertical Takeoff and Landing (VTOL) Unmanned Aerial Vehicle (UAV):
+The Engine Name is 1 x Hirith E18H.
+The Engine Type is water-cooled 2-cylinder, 2-stroke fuel-injected starter.
+The Engine Power is 55 hp.
+The Fuel Consumption is 8-12 L/hour.
+The Fuel Capacity is 60 L.
+The Electric Power is 700 W.
+The Maximum Speed is 90 km/h.
+The Cruising Speed is 60 km/h.
+The Radius is 50 km.
+The Endurance is 3-6 hours.
+The Ceiling is 3,000 m.
+The Launch/Recovery is automatic VTOL.
+
+Here is Sensors and Electronics information for the Apid 55 Swedish Vertical Takeoff and Landing (VTOL) Unmanned Aerial Vehicle (UAV):
+The Guidance System is autonomous stabilization and waypoint control.
+The Flight Control Computer is APID FCS-52.
+The Data Link is 380-470 mHz.
+The Data Flow Rate is 19,200 bits/s.
+

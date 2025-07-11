@@ -1,0 +1,52 @@
+This document describes the 2B24 Russian 82mm Mortar.
+
+The 82 mm 2B24 mortar is also in Rosoboronexport`s mortars portfolio. The mortar is designed to suppress and destroy enemy`s manpower and weapon systems. It should be noted that 2B24 features enhanced maneuverability and combat effectiveness. The mortar can be installed on various types of wheeled or tracked chassis. According to the specifications, 2B24 has a firing range of 100-6,000 m, a firing rate of 20 rounds per minute, a weight of 45 kg, and a crew of five servicemen.
+
+This equipment has proliferated into the following countries: Russian Federation, Ukraine.
+
+Here is System information for the 2B24 Russian 82mm Mortar:
+The Alternative Designation is 2B24.
+The Type is Mortar.
+The Caliber is 82 mm.
+The Crew is 5.
+The Emplacement Time is 30 seconds maximum.
+The Displacement Time is 30 seconds maximum.
+The Maximum Effective Range is 6,000.
+The Minimum Effective Range is 100.
+The Transportation is Is man portable for short distances by the 5 man squad.  Can be transported by a single ATV.  Can be mounted on combat vehicles to be fired from a mounted position..
+
+Here is Dimensions information for the 2B24 Russian 82mm Mortar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is 45.
+The Weight, Barrel is INA.
+The Weight, Baseplate is INA.
+The Weight, Bipod is INA.
+The Weight, Sight is INA.
+
+Here is System information for the 2B24 Russian 82mm Mortar of the Armament:
+The Loader Type is Muzzle loaded.
+The Max Rate of Fire is 20.
+The Sustain Rate of Fire is INA.
+The Max Elevation is 85°.
+The Min Elevation is 45°.
+The Traverse Range is ±4° (without bipod repositioning); 360° (with bipod repositioning).
+
+Here is Ammunition information for the 2B24 Russian 82mm Mortar of the Armament:
+The Type is HE, Smoke, Illum, HE Frag.
+The Caliber is 82.
+The Muzzle Velocity is 320.
+The Fuse Type is INA.
+The Basic Load is INA.
+The Effective Ranges is 100 m - 6,000m.
+The Armor Penetration is INA.
+The Weight of Round is INA.
+The Note: is HE Frag Rounds: 3-O-26, O-832 D, O-832 DU and 3-O-12.  Other types of mortar rounds can also be used to perform certain tactical and fire tasks: smoke (D-832DU and D-832 A), illuminating (S-832 S) and leaflet (A-832 A) rounds..
+
+Here is Fire Control information for the 2B24 Russian 82mm Mortar:
+The Computerized FCS is No.
+The Direct Fire is INA.
+The Indirect Fire is Yes.
+The Collimator is Yes.
+

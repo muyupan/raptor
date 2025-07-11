@@ -1,0 +1,25 @@
+This document describes the PRV-11 (Side Net) Russian Height-Finder Radar System.
+
+The PRV-11 radar (NATO name: SIDE NET) is a mobile, nodding height-finding radar operating in the E Band. The PRV-11 is a mobile, van-mounted mobile radar. It features clutter and asynchronous jamming
+protection. Weapons systems associated with the P-37 include the SA-2 GUIDELINE, SA-3 GOA and SA-5 GAMMON.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is PRV-11 (SIDE NET) Radar System information for the PRV-11 (Side Net) Russian Height-Finder Radar System of the System:
+The Name is PRV-11 (SIDE NET) Radar.
+The Function is Height Radar.
+The Frequency is E band, 2.7 GHz.
+The Length is 4.
+The Width is 6.
+The Crew is INA.
+The Pulse Repetition Time (PRT) is 3 and 1,3 ms.
+The Pulsewidth is 3 and 1.5 µs.
+The Pulse Repetition Frequency (PRF) is 330 and 730 Hz.
+The Peak Power is 1.2 MW.
+The Average Power is 1.3 kW.
+The Maximum Range is 28.
+The Maximum Altitude is 32.
+The Associated Weeapon System is SA-2/3/5.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+

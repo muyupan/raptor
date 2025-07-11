@@ -1,0 +1,88 @@
+This document describes the Wing Loong ID Chinese Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV).
+
+The lightweight fuselage gives the new Wing Loong I-D drone a significant boost in operating endurance, payload, and service ceiling Chinese experts noted on Monday after China's first multi-purpose drone for export that uses a composite material structure successfully completed its maiden flight. As an advanced variant of the Wing Loong I, the Wing Loong I-D provides another cost-efficient choice for potential buyers on the international market compared to similar products, which also come mainly from China, Chinese military experts said.
+
+This equipment has proliferated into the following countries: China, Egypt.
+
+Here is Variants information for the Wing Loong ID Chinese Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Pterosaur I is First member of Wing Loong series, with program of Wing Loong begun in May 2005. Maiden flight was completed in October 2007 and payload evaluation flight was completed a year later in October 2008. This first model of Wing Loong series lacked the bulge at the nose tip of the fuselage due to the lack of a satellite antenna, and while the English name used by the developer differed from later models, the Chinese name remains the same, and so is the name Wing Loong for the entire series. he lack of satellite antenna results in cheaper cost, with the reduction of the maximum control range around to 200 km.This model is no longer actively marketed when Pterodactyl I appeared, but is still available as a cheaper alternative up on potential customers’ request..
+The Pterodactyl I is Sky Saker is a derivative of Wing Loong developed by Norinco mainly intended for export. The Chinese name is Rui Ying (锐鹰), meaning Sharp Eagle, but the English name adopted by the developer is Sky Saker. Sky Saker / Rui Ying carries both a miniature synthetic aperture radar and an electro-optical pod to perform reconnaissance in both the visible light and radar spectra. The capability of Sky Saker / Rui Ying has been exaggerated by many Chinese internet sources claiming that it has both scout and strike capabilities at the same time, but this has been proven to the contrary. According to all info released by Norinco itself (as of 2015), the UAV can employ only a single capability at a time: when the UAV carries the reconnaissance payload, no weaponry is carried. Similarly, when weaponry is carried, the reconnaissance payload is absent..
+The WJ-1 is The first land attack version of Pterodactyl I, which is a weapon platform without the reconnaissance/targeting pod under the chin. The designation WJ stands for Wu-Zhuang Wu-Ren-Ji (武装无人机), meaning armed UAV. WJ-1 UAV made its public debut in November 2014 at the 10th Zhuhai Airshow along with its cousin GJ-1..
+The GJ-1 is Another land attack version of Pterodactyl I that combines the capabilities of both Pterodactyl I and WJ-1 so that it can identify and engage targets on its own. GJ-1 can be distinguished from both Pterodactyl I and WJ-1 in that GJ-1 has both the reconnaissance/targeting pod under the chin as well as hardpoints to carry weapons. The designation GJ stands for Gong-Ji Wu-Ren-Ji (攻击无人机), meaning "attack UAV." GJ-1 UAV made its public debut in November 2014 at the 10th Zhuhai Airshow along with its cousin WJ-1..
+The Wing Loong II is An upgraded variant of the Wing Loong, with provisions for up to twelve air-to-surface missiles. Officially entered service with the PLAAF in November 2018. Wing Loong II is known in PLAAF service as the Gongji-2 ('Attack 2' or GJ-2)..
+
+Here is System information for the Wing Loong ID Chinese Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Alternative Designation is Wing Loong ID.
+The Type is Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Chengdu Aircraft Industrial Group (CAIG).
+The Primary Function is The Wing Loong ID can conduct intelligence, surveillance, and reconnaissance; electronic warfare; search-and-rescue; strike; peacekeeping; and border patrol missions..
+The Flight Control Method is Wireless Communication or by Pilot on the ground.
+The Day/Night Capable is Yes.
+The All Weather Capable is INA.
+The Takeoff or Landing Limitations is 1 km Runway needed for Launch.
+The Ground Crew is 1.
+The Complete System Includes is A complete Wing Loong ID system includes air vehicles, a ground-control station, mission payload and an integrated logistics system..
+The External Stations is 4.
+The Range is 4,000 km.
+The Ceiling, Maximum is 9,000.
+The Endurance is 35.
+The Location Positioning System is BeiDou Navigation Satellite System (BDS).
+The Number of Hard Points is 6 ea (3 on each wing).
+The Launch System is Runway,(1 km Runway needed for Launch).
+The Takeoff Roll is 600.
+The Automatic Landing and Takeoff Capability is Yes.
+The Recovery System is Runway.
+The Landing Gear is The landing gear consists of two main wheels under the fuselage and one single wheel under the nose, facilitates safe take-off and landing..
+The Payload is 400 kg.
+
+Here is Dimensions information for the Wing Loong ID Chinese Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Length is 8.7.
+The Height is 3.7.
+The Width (Wing Span) is 17.6.
+The Gross Weight is 330.
+The Weight, Maximum Takeoff is INA (The Wing Loong II has a Maximum Takeoff Weight of 4,200 kg).
+
+Here is Automotive information for the Wing Loong ID Chinese Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Engine Name is Name INA. The Wing Loong ID has an updated engine from the engine in the Wing Loong II..
+The Engine Type is Piston engine.
+The Engine Power is INA.
+The Propellers Type is 3 Bladed Design.
+The Number of Engines is 1.
+The Range is 4,000 km.
+The Speed, Maximum is 280.
+The Speed, Average is 250.
+The Endurance is 35.
+The Payload is 400 kg.
+
+Here is Communications information for the Wing Loong ID Chinese Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Radio is Satellite Communications Antenna.
+The Encrypted Data Link is Yes.
+
+Here is Armament & Ammunition information for the Wing Loong ID Chinese Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Payload Types is EO/IR, SAR, laser-guided missiles, Laser Guided Bombs, Anti-Personnel Bombs.
+The Air-to-Surface Missiles is Yes, can carry the BA-7 air-to-ground missiles, or 200 kg of Air-to-Surface Missiles..
+The Missile Type is BRM1, AKD-10.
+The Bomb Type is YZ-212 laser-guided bomb; YZ-102A anti-personnel bomb; FT-10; FT-9; FT-7; GB7; GB4.
+The Armament Weight Total is 1,000 kg (The Wing Loong ID can carry more than double the Armament Weight of the WIng Loong II)..
+
+Here is Fire Control information for the Wing Loong ID Chinese Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Radar Type is Digital with Synthesized Antenna Aperture.
+The Radar Designator is Yes.
+The Laser Rangefinder is Yes.
+The Laser Designator is Yes.
+The Full-Motion Video is Yes.
+The Still Camera is Yes.
+The Thermal Imaging Sensors is Yes.
+The Forward Looking Infrared Turret is Yes.
+The Electro Optical Pod is Yes.
+
+Here is Protection information for the Wing Loong ID Chinese Medium-Altitude Long Endurance (MALE) Unmanned Aerial Vehicle (UAV):
+The Fuselage is Complete Composite Material used for the entire Fuselage.
+The Stealth Properties is No.
+The Heat Signature Reduction is Yes.
+The Add on Armor is INA.
+The EW is INA.
+The Counter Measures (Chaffs/Flares) is INA.
+

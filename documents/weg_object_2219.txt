@@ -1,0 +1,60 @@
+This document describes the PMK-1 Russian Portable Mining Kit.
+
+The PKM-1 portable mining kit is the simplest remote mining system available to combined arms units. It can be used by infantry and armor personnel to install anti-infantry and anti-tank landmines before their front lines, both ahead of time and in direct combat. This improves the tactical options available to combined arms units.
+
+The kit is composed of a primitive baseplate, a PM-4 demolitions devce, 2 cable lengths (50 meters each) and a bag. Total weight is 2.6 kilograms.
+
+The baseplate is a small sheet of metal with a launch base attached to it at 45 degrees and equipped with an electric contact. Attached to this will be containers with anti-tank or AP mines for firing.
+
+The principle of operation is simple: once the mine casing is attached, the metal contacts are linked between the baseplate and the casing. Once an electric signal is sent from the demolitions device or other current source, a powder charge is ignited in the casing, and the mines are thrown out to 30-35 meters.
+
+The different types of cases differ only in their markings. Their size is identical.
+
+The KSF-1 case holds 72 PFM-1 mines.
+The KSF-1S-0.5 holds 36 PFM-1 and 36 PFM-1S mines.
+The KSF-1S hold 64 PFM-1S mines.
+The KSO-1 holds 8 POM-1 AP mines
+The KPOM-1 holds 4 POM-2 AP mines
+The KPTM-3 holds 1 PTM-3 AT mine
+The KPTM-1 holds 3 PTM-1 AT mines.
+
+The mines are thrown out to form an ellipse. For example a KSF-1 or KSO-1 case form an ellipse 8-10 meters wide and 18-20 meters long. PFM mines fall about 0.6-2 meters from each other, allowing for a 30-50% chance of striking. POM mines fall at 1.5-7 meters from each other, but their cables stretch out to 2 meters and enable a 70% chance of striking. AT mines are thrown out to a distance of 100 meters and form an ellipse of a similar size. Given how AT minefields permit a gap of 9-12 meters between mines, the methods of installing AT minefields and AP minefields are similar.
+
+A one-line minefield can be installed by moving along a trench and launching one charge every 8-10 meters, or by simultaneous launch from a row of PKM devices. This can also be done by a centralized control panel linked to any number of devices
+
+Multiple-layer minefields can be installed by moving the launch line backwards after every launch. At minimum it must be moved back 30 meters to avoid the minefields overlapping. Density can be improved by firing 2-3 or more casings from a given location.
+
+The value of the system is its simplicity. It allows mining from concealment and installing minefields by surprise, at any time and any place.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the PMK-1 Russian Portable Mining Kit:
+The Alternate Designation is PKM-1.
+The Date of Introduction is INA.
+The Type is Portable Mining Kit.
+The Manufacturer is INA.
+The Proliferation is INA.
+The In Service is INA.
+The Crew is 1.
+The Kit is The kit is composed of a primitive baseplate, a PM-4 demolitions devce, 2 cable lengths (50 meters each) and a bag..
+
+Here is Dimensions information for the PMK-1 Russian Portable Mining Kit:
+The Length is INA.
+The Diameter is INA.
+The Height is INA.
+The Weight is 2.6 kg.
+
+Here is Launcher information for the PMK-1 Russian Portable Mining Kit of the Main Weapon System:
+The Base Plate is The baseplate is a small sheet of metal with a launch base attached to it at 45 degrees and equipped with an electric contact. Attached to this will be containers with anti-tank or AP mines for firing..
+The Operation is The principle of operation is simple: once the mine casing is attached, the metal contacts are linked between the baseplate and the casing. Once an electric signal is sent from the demolitions device or other current source, a powder charge is ignited in the casing, and the mines are thrown out to 30-35 meters..
+The Maximum Range is 35 m.
+
+Here is Mines information for the PMK-1 Russian Portable Mining Kit of the Main Weapon System:
+The KSF-1 Case is The KSF-1 case holds 72 PFM-1 mines..
+The KSF-1S-0.5 is The KSF-1S-0.5 holds 36 PFM-1 and 36 PFM-1S mines..
+The KSF-1S is The KSF-1S hold 64 PFM-1S mines..
+The KSO-1 is The KSO-1 holds 8 POM-1 AP mines.
+The KPOM-1 is The KPOM-1 holds 4 POM-2 AP mines.
+The KPTM-3 is The KPTM-3 holds 1 PTM-3 AT mine.
+The KPTM-1 is The KPTM-1 holds 3 PTM-1 AT mines..
+

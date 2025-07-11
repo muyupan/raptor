@@ -1,0 +1,108 @@
+This document describes the M107 American 175mm Self-Propelled Gun (SPG).
+
+The M107 175mm self-propelled gun was used by the U.S. Army from the early 1960s through to the late 1970s. It was part of a family of self-propelled artillery that also included the M110. It was intended to provide long-range fire support in an air-transportable system. It was exported to several other countries including Germany, South Korea, Spain, Greece, Iran, Israel, Italy, the Netherlands, the United Kingdom, and Turkey. The M107's combat history in U.S. service was limited to the Vietnam War; it also saw extensive combat use in Israeli service. The M107 shared many components with, and in many cases was replaced by, later versions of the M110 8-inch howitzer. Although withdrawn from U.S. service in the late 1970s, it continues in service with some armies as of 2019.
+
+This equipment has proliferated into the following countries: Greece, Iran (Islamic Republic of), South Korea (Republic of Korea), Turkey, Viet Nam.
+
+Here is Variants information for the M107 American 175mm Self-Propelled Gun (SPG):
+The M110 is this is basically the same chassis, mounting a 203 mm howitzer instead of a 175 mm gun. Because both the M107 and M110 are fully-modular and thier weapons are easily interchangeable, M107s frequently became M110s - and vice-versa - in armies that operated both weapons..
+
+Here is System information for the M107 American 175mm Self-Propelled Gun (SPG):
+The Alternative Designation is M107.
+The Type is Self-Propelled Gun (SPG).
+The Manufacturer is FMC Corp., Bowen-McLaughlin-York, General Motors Corp..
+The In Service is 1962-1984 (United States)
+The M107 is still in service in some armies..
+The Family is M107.
+The Crew is 5 + 8 men.
+The Chassis is M107/M110 chassis.
+The Displacement Time is INA.
+The Emplacement Time is 3.
+The Resupply Truck is The remainder of the crew (8 x Soldiers) rode in accompanying M548 tracked cargo carriers or M992 FAASVs, some of which carried additional ammunition and supplies..
+
+Here is Dimensions information for the M107 American 175mm Self-Propelled Gun (SPG):
+The Length, Gun Forward is 11.25.
+The Length, Hull is 3.45.
+The Width is 3.15.
+The Height is 3.47.
+The Weight, Combat is 28.2.
+The Ground Pressure is 0.82kg/cm².
+
+Here is Automotive information for the M107 American 175mm Self-Propelled Gun (SPG):
+The Engine Name is General Motors 8V71T.
+The Engine Type is Diesel.
+The Engine Power is 345.
+The Maximum Range is 720.
+The Speed, Maximum Road is 56.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 1.
+The Trench is 2.36.
+The Fording Depth is 1.
+The Fuel Capacity is 1,100.
+
+Here is Communications information for the M107 American 175mm Self-Propelled Gun (SPG):
+The Primary is INA.
+
+Here is System information for the M107 American 175mm Self-Propelled Gun (SPG) of the Main Gun:
+The Name is M113 or M113A1 Gun.
+The Type is 175.
+The Weapon Mount is M158 mount.
+The Breech Type is Welin-step thread.
+The Length, Barrel is 60 calibers.
+The Loader Type is Manual.
+The Maximum Rate of Fire is 2 rds/min.
+The Normal Rate of Fire is 1 rd/2 min.
+The Maximum Firing Range is 40.
+The Muzzle Brake Type is No Muzzle Brake.
+The Max Elevation is +65.
+The Min Elevation is -2.
+The Traverse Range is 60.
+The Traverse Left is 30.
+The Traverse Right is 30.
+The Barrel Life is 700 to 1 200 rounds.
+The Recoil System is Hydropneumatic.
+The Recoil Length is 711-1,778 mm.
+The Fume Extractor is No.
+
+Here is Ammunition (Option 1) information for the M107 American 175mm Self-Propelled Gun (SPG) of the Main Gun:
+The Name is M437A1.
+The Type is HE.
+The Caliber is 175.
+The Projectile Length is 867.
+The Projectile Weight is 66.78.
+The Muzzle Velocity is 914.
+The Fuse Type is INA.
+The Basic Load is 2 projectiles stored on the vehicle, with a Ammo resupply truck and 8 Soldiers positioned nearby..
+
+Here is Ammunition (Option 2) information for the M107 American 175mm Self-Propelled Gun (SPG) of the Main Gun:
+The Name is M437A2.
+The Type is HE.
+The Caliber is 175.
+The Projectile Length is 867.
+The Projectile Weight is 66.87.
+The Muzzle Velocity is 913.
+The Fuse Type is INA.
+The Basic Load is 2 projectiles stored on the vehicle, with a Ammo resupply truck and 8 Soldiers positioned nearby..
+
+Here is Fire Control information for the M107 American 175mm Self-Propelled Gun (SPG):
+The Name is INA.
+The Computerized FCS is No.
+The Thermal Sight Vehicle Commander is Infrared night vision devices.
+The Thermal Sight Gunner is Infrared night vision devices.
+The Main Gun Stabilization is Yes, hydraulically deployable spade..
+The Sights is M115 panoramic sight.
+
+Here is Protection information for the M107 American 175mm Self-Propelled Gun (SPG):
+The Hull Armor is 20-mm (estimated) for the driver only.
+The Turret Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Yes, the hydraulically deployable spade can be used as a dozer blade..
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

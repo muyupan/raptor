@@ -1,0 +1,76 @@
+This document describes the IPX600 Norwegian Tactical Router.
+
+TACTICAL ROUTER/MEDIA GATEWAY
+The Link Between EriTac and IP Networks
+IPX600 is a high capacity Router and TDM switch with a
+range of functions.
+IPX600 is the main networking component of K-TaCS, Tactical
+Communication System from KONGSBERG.
+IPX600 integrates IP networks and legacy tactical networks and
+Provides IP networks with Military Gateways.
+IPX600 is a configurable media gateway and router, supporting a
+range of different interfaces.
+IPX600 provides a wide range of IP and circuit switched network services.
+Its small size and low weight together with its inherent properties for
+communication readiness, makes IPX600 particularly suitable for
+communicationn between tactical units frequently on the move.
+Management is performed through the Communication Management
+System CMS. CMS is an intuitive, easy to use menu based system.
+Predefined configurations may be used.
+IPX600 is fully ruggedised, designed for harsh environments.
+
+This equipment has proliferated into the following countries: Australia, Norway, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is System information for the IPX600 Norwegian Tactical Router:
+The Alternative Designation is IPX600.
+The Type is Tactical Router.
+The Crew is 1.
+The Port Connections is 5 x WAN 2 x LAN
+1 x Fibre 1 x Operation and Maintenance.
+The Subscribers is 15 x Legacy Telephones
+100 x VoIP Telephones.
+The Protocols is SIP Q.931/QSIG
+RIPv2 and RIPng STANAG 4206
+OSPFv2 and OSPFv3 STANAG 4578 Ed.1
+BGP CPX Trunk Group
+PIM-SM
+PIM-SSM
+RTP
+NTP.
+The Services is IPv4 and IPv6 DHCP Server /Client
+Call Handling NTP Server
+SIP Telephones Remote Management From CMS.
+The Interfaces is Ethernet: 10/100BASE-T/TX
+ITU-T: V.11 256, 512, 1024, 2048, 4096, 8192, 8448 kbit/s
+ITU-T: G.703 256, 512, 1024, 1544, 2048, 4096, 8192, 8448 kbit/s
+EUROCOM D/1: 256, 512, 1024, 2048, 4096, 8192, 8448 kbit/s
+STANAG 4206: 256, 512 kbit/s
+STANAG 4578 Ed. 1: 2048 kbit/s
+Fibre: 1 Gbit/s.
+The Power Supply is Input Voltage: 19-32 VDC
+Power consumption: 100 W.
+The Operating Temperature is -40ºC to +55ºC.
+The MIL-STD is Environment: MIL-STD 810
+EMC: MIL-STD 461.
+The Features is •Integrated Call Control, supports
+ up to 100 VoIP telephones
+• Voice, data and management
+ service integration with legacy
+ EriTac (circuit switched) and
+ TacLAN (Combat level IP system)
+• Supports traditional
+ EriTac/EUROCOM terminals
+• Media Gateway supporting SIP ,
+STANAG, ISDN and EUROCOM GWs,
+enabling for example calls
+ between Eurocom and Voice
+ over IP subscribers
+• Multimedia access unit via Optical
+Fibre or Radio Lin.
+
+Here is Dimensions information for the IPX600 Norwegian Tactical Router:
+The Height is 177 mm.
+The Width is 483 mm.
+The Depth is 350 mm.
+The Weight, Combat is 19 kg.
+

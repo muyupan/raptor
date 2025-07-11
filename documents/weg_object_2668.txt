@@ -1,0 +1,130 @@
+This document describes the ZSD-89 (Type 89) Chinese Amphibious Armored Personnel Carrier (APC).
+
+The ZSD-89 (Type 89) Chinese Amphibious Armored Personnel Carrier (APC) is a tracked armored personnel carrier. It is a successor of the Type 63 armored personnel carrier. The Type 89 has many design details in common with the Type 63, however the it is slightly larger overall. It was manufactured by NORINCO and powered by a German Deutz diesel. The Type 89 is in service with the Chinese Army.
+
+   The base model of the Type 89 is fully amphibious with propulsion once in the water being provided by the tracks. Troops enter the vehicle via a single door in the hull rear. Once inside there are several ball-and-socket firing ports for the occupants, one being in the entry door, and periscopes are provided to allow observation of the battlefield for the occupants.
+
+This equipment has proliferated into the following countries: Albania, Iraq, North Korea (Democratic People's Republic of Korea), Sudan, Tanzania, Viet Nam.
+
+Here is Variants information for the ZSD-89 (Type 89) Chinese Amphibious Armored Personnel Carrier (APC):
+The Type WZ534 - Type 89 Tracked Armoured Personnel Carrier. is Basic version, as described. Military designator: ZSD-89..
+The Type YW307 - Type 89 Infantry Fighting Vehicle is Fitted with a one-man turret with 25 mm automatic gun (400 rounds) and 7.62 mm coaxial machine gun (1,000 rounds). Crew: 3+7. Military designator: ZSD-89-II..
+The Type 89 Armoured Command Vehicle is Fitted with a higher roofline and with a longer chassis with 6 double road wheels either side. Armament consists of a 12.7 mm HMG on the commander's station behind the driver..
+The Type WZ752 - Type 89 Tracked Armoured Ambulance is Unarmed ambulance with a higher roofline and with a longer chassis with 6 double road wheels either side..
+The Type 89 Refuelling Vehicle is Transport vehicle for fuel and lubricants, fitted with a higher troop compartment. Offered for export as the Amphibious Armoured Refuelling Vehicle..
+The ZJX-93 - Type 89 Recovery Vehicle is Maintenance and recovery variant, fitted with a light crane on the left side of the hull roof, and a machine gun cupola in the roof center..
+The ZHB-94 - Type 89 Supply Vehicle is Similar to the recovery variant and also equipped with a light crane, but the commander's cupola with HMG is located behind the driver's position..
+The Type WZ731 - Type 89 Reconnaissance Vehicle is Variant for artillery forward observers, equipped with an unarmed turret with observation devices. Military designator: ZZC-01..
+The Type 89 Recce Radar Carrier is Equipped with a battlefield surveillance radar on a telescopic arm. Military designator: ZZC-02..
+The Type 89 Tank Destroyer (missile) is ATGM carrier vehicle with double launch system for wire-guided HJ-8 missiles. A total of 12 missiles is carried on board. Military designator: ZDF-1..
+The Type 89 Mine-Laying Vehicle is Has a modified rear hull that mounts a scatterable mine system, consisting of 6 launchers. Each launcher has 36 tubes of 122 mm with each tube containing 5 SATM mines, 15 SAPM mines, 45 SAPEM mines or a mix of SAPM and SAPEM mines..
+The Type 89 Obstacle-Removing Vehicle is Crowd-control variant for the PAP, equipped with an obstacle clearing blade..
+The Type 90 AFV or Type YW535 is No Information.
+The YW306 is 30-tube 130mm self-propelled multiple rocket launcher (MRL) for export market.
+The YW309 is infantry fighting vehicle, with a BMP-1-style 73mm low-pressure smoothbore gun and a HJ-73 anti-tank guided missile launcher. Prototype only..
+The YW323 is D30 122mm self-propelled howitzer. Prototype only.
+The YW382 is 120mm self-propelled mortar for export market.
+The YW383 is 82mm self-propelled mortar for export market.
+The YW534 is HJ-8 anti-tank guided missile launch vehicle.
+The YW703H is Armoured command vehicle for export market.
+
+Here is System information for the ZSD-89 (Type 89) Chinese Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is ZSD-89, Type 89, YW-534.
+The Type is Armoured Personnel Carrier (APC).
+The Crew is 2.
+The Troop Compartment Capacity is 13.
+The Maximum Effective Range is 500.
+The Industrial Index is WZ543.
+The Periscope is 3 x day Periscopes.
+The Night Vision is Yes.
+The Amphibious is Yes.
+The Infrared Device is Yes.
+The Firing Ports (Left Side) is 3.
+The Firing Ports (Right Side) is 4.
+The Trim Vane is Available.
+
+Here is Dimensions information for the ZSD-89 (Type 89) Chinese Amphibious Armored Personnel Carrier (APC):
+The Length is 6.15.
+The Width is 3.13.
+The Height is 2.59.
+The Weight, Combat is 12,972.
+The Ground Pressure is 0.546.
+
+Here is Automotive information for the ZSD-89 (Type 89) Chinese Amphibious Armored Personnel Carrier (APC):
+The Engine Name is machine gun
+Engine	Deutz BF8L 413F 4-cycle air-Cooled Diesel.
+The Engine Type is Diesel.
+The Engine Power is 320.
+The Cruising Range is 500.
+The Speed, Maximum Road is 66.
+The Speed, Average Cross is INA.
+The Speed, Maximum Swim is 6.
+The Fording Depth is INA.
+The Suspension is Torsion Bar.
+The Transmission is manual.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.7.
+The Trench is 1.8.
+
+Here is Communications information for the ZSD-89 (Type 89) Chinese Amphibious Armored Personnel Carrier (APC):
+The Primary Radio is Type 889.
+The Secondary  Radio is CWT-167.
+The Primary Intercom System is Type 803.
+The Secondary Intercom System is CYY-168.
+
+Here is Main Gun information for the ZSD-89 (Type 89) Chinese Amphibious Armored Personnel Carrier (APC) of the Armament & Ammunition:
+The Type is Anti-Aircraft Machine Gun.
+The Name is QJC88.
+The Caliber/Length is 12.7 x 108.
+The Number of Rounds is 1,000 (50 Round Belts).
+The Muzzle Velocity is 850.
+The Max Range is 2.5.
+The Armor Penetration is Yes.
+The Rate of Fire is 550-600.
+The Feed System is Belt.
+The Sights is Iron/Optical.
+The Type Round is Type 54 Round.
+The Operation is Gas Operated, Open Belt.
+The Traverse is 360.
+The Elevation Angle is 90.
+The Note is There is no overhead protection for the Gunner..
+
+Here is Anti-Tank Guided Missile (ATGM) information for the ZSD-89 (Type 89) Chinese Amphibious Armored Personnel Carrier (APC) of the Armament & Ammunition:
+The Type is HJ-8.
+The Function is Wire-Guided Anti-Tank Missile System.
+The Caliber/Length is 1,566.
+The Diameter is 120.
+The Number of Rounds is 8.
+The Muzzle Velocity is 200.
+The Operational Range is 3,000-4,000.
+The Guidance System is SACLOS Wire Guidance.
+The Armor Penetration is Yes.
+The Fuel Capacity is 4,501.
+The Gears is 5 Forward and 1 Reverse.
+
+Here is Fire Control information for the ZSD-89 (Type 89) Chinese Amphibious Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Tank Commander is Yes.
+The Thermal Gunner is No.
+The Main Gun Stabilization is INA.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is INA.
+The IFF is INA.
+
+Here is Protection information for the ZSD-89 (Type 89) Chinese Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is 12.7.
+The Armor Type is Welded steel hull.
+The NBC Protection is Yes.
+The Applique Armor is No.
+The Turret Armor is Yes.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Wave Blade is Yes.
+The Smoke Grenade is 8.
+The Smoke Grenade Calibur is 76.
+The Fire Trap is 3.
+The Shield Plate is Upper part of the Undercarriage.
+

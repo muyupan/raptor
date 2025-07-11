@@ -1,0 +1,149 @@
+This document describes the AMX-10RC French 6x6 Amphibious Armored Reconnaissance Vehicle (ARV).
+
+The AMX-10RC was developed during the late 1970s. It entered service with the French Army in 1979. The French Army obtained a total of 284 of these vehicles. It was one of the first, if not the first production fire support vehicle, armed with a powerful 105 mm gun. The AMX-10RC is no longer produced. Between 2005 and 2010 a total of 256 of these armored vehicles were upgraded to the AMX-10RCR standard in order to keep them in operational service. In the near future, these are due to be replaced by a new Jaguar armored reconnaissance and combat vehicle. French Army has a requirement for up to 250 new machines, that will replace in French Army service the AMX-10RCs, as well as some other armored vehicles. Deliveries of the Jaguar are scheduled to begin in 2020. The AMX-10RC has been exported to Morocco and Qatar. This tank destroyer has seen action during numerous military conflicts.
+
+This equipment has proliferated into the following countries: France, Morocco, Qatar.
+
+Here is Variants information for the AMX-10RC French 6x6 Amphibious Armored Reconnaissance Vehicle (ARV):
+The AMX-10RC Renové is The AMX-10RC Renové (AMX-10RCR) is the upgraded version of the AMX-10RC in service with France. Of the original 337 vehicles produced for the French Army, only 256 were upgraded and the upgraded vehicles were used operationally in Afghanistan, Côte d'Ivoire, and Mali..
+The AMX-10RC, DAS is Development goal: Improve the protection of the AMX-10RC through active protection measures..
+
+Here is System information for the AMX-10RC French 6x6 Amphibious Armored Reconnaissance Vehicle (ARV):
+The Alternative Designation is AMX-10 RC.
+The Type is Armored Reconnaissance Vehicle (ARV).
+The Manufacturer is GIAT.
+The Configuration is 6x6.
+The Family is AMX-10 Family.
+The Crew is 4.
+The Passenger Capacity is INA.
+
+Here is Dimensions information for the AMX-10RC French 6x6 Amphibious Armored Reconnaissance Vehicle (ARV):
+The Length (Gun Forward) is 9.15.
+The Length (Hull) is 6.36.
+The Width is 2.95.
+The Height is 2.21.
+The Weight, Combat is 15.88.
+
+Here is Automotive information for the AMX-10RC French 6x6 Amphibious Armored Reconnaissance Vehicle (ARV):
+The Engine Name is Renault-built HS 115.
+The Engine Type is Diesel.
+The Engine Power is 260.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is 50.
+The Speed Maximum Swim is 7.
+The Gradient is 50.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Trench is 1.65.
+The Fording Depth is Amphibious.
+The Transmission is Semi-automatic transmission.
+
+Here is Communications information for the AMX-10RC French 6x6 Amphibious Armored Reconnaissance Vehicle (ARV):
+The Global Positioning System (GPS) is Yes.
+The Tactical Radio is Thales Model DIVT 13 LLLTV.
+
+Here is System information for the AMX-10RC French 6x6 Amphibious Armored Reconnaissance Vehicle (ARV) of the Main Weapon System:
+The Name is 1 x F2 BK MECA L/47 Medium-Pressure Gun  105mm semi-automatic rifled gun.
+The Type is 105.
+The Barrel Length is 48 Caliber.
+The Weight is 720.
+The Max Rate of Fire is 1,000.
+The Thermal Sleeve is Yes.
+The Muzzle Reference System is Yes.
+The Muzzle Brake Type is Single Baffle Muzzle Brake.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Elevation is +20.
+The Minumum Elevation is -8.
+The Recoil Stoke is 600.
+The Recoil Force is 13.
+The Effective Firing Range is 1,250.
+The Breech Block is Vertical Wedge.
+The Note is The Rounds for the AMC-10RC  are not the NATO Standard.
+
+Here is Ammunition (Option 1) information for the AMX-10RC French 6x6 Amphibious Armored Reconnaissance Vehicle (ARV) of the Main Weapon System:
+The Name is OFL 105 F3.
+The Type is APFSDS-T.
+The Caliber is 105.
+The Muzzle Velocity is 1,400.
+The Maximum Effective Range is 1,800.
+The Penetrator is tungsten-alloy penetrator.
+The Penetration is 360.
+The Accuracy is 0.25.
+The Basic Load is 38 Rounds.
+
+Here is Ammunition (Option 2) information for the AMX-10RC French 6x6 Amphibious Armored Reconnaissance Vehicle (ARV) of the Main Weapon System:
+The Name is OCC 105 F3B.
+The Type is HEAT-T.
+The Caliber is 105.
+The Muzzle Velocity is 1,200.
+The Maximum Effective Range is 1,300.
+The Penetration is 100.
+The Accuracy is 0.4.
+The Basic Load is 38 Rounds.
+
+Here is Ammunition (Option 3) information for the AMX-10RC French 6x6 Amphibious Armored Reconnaissance Vehicle (ARV) of the Main Weapon System:
+The Name is OE 105 F3B.
+The Type is HE.
+The Caliber is 105.
+The Muzzle Velocity is 1,200.
+The Maximum Effective Range is 1,000.
+The Penetration is INA.
+The Accuracy is 0.4.
+The Lethal Radius is 15.
+The Basic Load is 38 Rounds.
+
+Here is System information for the AMX-10RC French 6x6 Amphibious Armored Reconnaissance Vehicle (ARV) of the Auxiliary Weapon System:
+The Name is 1 x FN MAG, 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Max Rate of Fire is 650-1000.
+The Length is 1,263.
+The Barrel Length is 630.
+The Width is 118.7.
+The Height is 263.
+The Weight is 11.8.
+The Effective Firing Range (Bipod) is 800.
+The Effective Firing Range (Tripod) is 1,800.
+The Maximum Firing Range is 3,500.
+The Feed System is Non-disintegrating DM1 or disintegrating M13 linked belt.
+The Sights is Folding leaf sight with aperture and notch, front blade.
+
+Here is Ammunition information for the AMX-10RC French 6x6 Amphibious Armored Reconnaissance Vehicle (ARV) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Muzzle Velocity is 840.
+The Maximum Firing Range is 3,500.
+The Basic Load is 4,000.
+
+Here is Fire Control information for the AMX-10RC French 6x6 Amphibious Armored Reconnaissance Vehicle (ARV):
+The FCS Name is COTAC.
+The Main Gun Stablization is Yes, electrohydraulic gun laying system with a manual back-up.
+The GSR (Ground Surveillance Radar) is INA.
+The Battle Management System (BMS) is No.
+The IFF Capabile is No.
+The Fire on the Move is No.
+The Hunter-Killer Engagement Capability is INA.
+The Periscopes (Commander) is 6.
+The Commander's Thermal Image is 1 x Panoramic M389 day telescope and 2 x Thales Castor thermal cameras.
+The Periscopes (Gunner) is 3.
+The Gunner's Thermal Image is 1 x M504 telescope and the 2 x Thales Castor thermal cameras.
+The Fast Information, Navigation, Decision, and Reporting System is Yes.
+The Map Database is Yes.
+The Range Finder is 1 x M550 laser rangefinder.
+The Boresight Unit is 1 x M553 boresight unit.
+
+Here is Protection information for the AMX-10RC French 6x6 Amphibious Armored Reconnaissance Vehicle (ARV):
+The Hull Armor is Welded aluminum armor, Vehicle withstands hits from medium-caliber weapons and artillery shell splinters.
+The Turret Armor is The Turret provides the crew with protection from small arms fire and shell splinters.
+The Applique Armor is Yes, add on armor kit.
+The Active Protection System is No.
+The NBC Protection is Yes.
+The IR Signature is INA.
+The Jamming System is INA.
+The IR Countermeasure System (LIRE) is INA.
+The Smoke is Yes, 4 x  Gallix grenade launchers.
+

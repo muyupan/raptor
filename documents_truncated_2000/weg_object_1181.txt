@@ -1,0 +1,45 @@
+This document describes the JRTC VISMOD: M98 American Fast Attack Vehicle / Desert Patrol Vehicle.
+
+The Desert Patrol Vehicle (DPV), formerly called the Fast Attack Vehicle (FAV), is a high-speed, lightly armored sandrail-like vehicle first used in combat during the Gulf War in 1991.  Due to their dash speed and off-road mobility, the DPVs were used extensively during Operation Desert Storm. The first U.S. forces to enter Kuwait City were United States Navy SEALs in DPVs
+The DPV was built by Chenowth Racing Products, Inc. The German Volkswagen KÃ¼belwagen was the first military Light Utility Vehicle based on the Volkswagen Beetle which uses rear-wheel rather than four-wheel drive. Volkswagen components were also the basis for the postwar dune buggy, and its layout is used in the DPV with rear-mounted air-cooled 200 hp (150 kW) Volkswagen engine. This makes the lightweight vehicle capable of accelerating from 0 to 30 mph (0â50 km/h) in only four seconds and able to travel at speeds of up to 80 mph (130 km/h).  With its standard 21 gallon (79.5 litre) fuel tank, the DPV has a range of about 210 miles (338 km). An optional fuel bladder can extend the range to over 1,000 miles (1,610 km). Payload capacity is 1500 lb (680 kg).
+
+Note: The Light Strike Vehicle (LSV) is an improved version of the Desert Patrol Vehicle (DPV) it replaced. Although the conventional US military replaced its DPVs with Humvees, special operation groups adopted the LSV for its small size and high mobility. It is part of the family of Internally Transportable Light Strike Vehicles (ITV-LSV). It is used for fast hit-and-run style raids (as its name suggests), scouting missions, special forces support, and low intensity guerrilla warfare.
+
+This equipment has proliferated into the following countries: Bangladesh, Greece, Kuwait, Mexico, Oman, Portugal, Spain, United States of America.
+
+Here is System information for the JRTC VISMOD: M98 American Fast Attack Vehicle / Desert Patrol Vehicle:
+The Alternative Designations is Desert Patrol Vehicle, Light Strike Vehicle.
+The Description is 4 X 4 dune buggy type vehicle with rollover frame can hold up to 4 passengers in addition to the crew..
+The Manufacturer is Chenowth Racing Products, Inc.
+The Crew is 4; 1 driver, 1 gunner, and 2 passengers.
+
+Here is Dimensions information for the JRTC VISMOD: M98 American Fast Attack Vehicle / Desert Patrol Vehicle:
+The Length is 4.08.
+The Width is 2.11.
+The Height is 2.01.
+The Curb Weight is 960.
+The Payload Capacity is .
+
+Here is Automotive information for the JRTC VISMOD: M98 American Fast Attack Vehicle / Desert Patrol Vehicle:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Operational Range is 500.
+The Speed (Max Road) is 130.
+The Speed (Max Off Road) is 110.
+
+Here is Main Weapon System information for the JRTC VISMOD: M98 American Fast Attack Vehicle / Desert Patrol Vehicle:
+The Note is 1X 12.7 mm M2 .50 caliber HMG; 
+1 x 5.56 mm M249 SAW LMG; 
+1 x 7.62 mm M60 or M240 series GPMG; or Russian / Chinese equivalent.
+
+Here is Protection information for the JRTC VISMOD: M98 American Fast Attack Vehicle / Desert Patrol Vehicle:
+The Armor (turret front) is None, relies on speed.
+The Survivability Equipment is Off-road mobility, speed, 360Â°crew fire, & quick dismount for protection.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is No.
+The Smoke Equipment is INA.
+

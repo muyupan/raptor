@@ -1,0 +1,112 @@
+This document describes the Type 59 Chinese 130mm Towed Gun.
+
+The Type 59 130mm Towed Gun is a Chinese version of the Russian M-46 (M1954) 130mm Towed Gun
+
+
+The 130mm towed field gun M-46 (Russian: (130мм пушка M-46) is a manually loaded, towed 130mm artillery piece, manufactured in the Soviet Union in the 1950s. It was first observed by the west in 1954. There is also a Chinese copy, called the Type 59.
+
+For many years, the M-46 was one of the longest range artillery systems around, with a range of more than 27 km.
+
+The M-46 was developed from the M-36 130 mm naval gun used on ships and for coast defense. It is a true gun, being unable to fire much above 45° and having a long barrel and a single propelling charge. In contrast, most Western field guns of this period had a dual high and low angle fire capability, a gun-howitzer.
+
+It has a 39 caliber barrel with a tied jaw horizontal sliding-block breach and 'pepperpot' muzzle brake. The latter is not notably efficient, but subjective reports suggest that it is quite effective in reducing muzzle flash. The hydro-pneumatic recoil system comprises a buffer below the barrel and a recuperator above the barrel. The long barrel enables a substantial propelling charge by providing more length in which to achieve 'all burnt and hence projectile acceleration space and thus achieve its 930 m/s muzzle velocity.
+
+The barrel is mounted on a split-trail carriage, with deep box section trails and foam-filled road wheels on the ground when firing and 50° of the top traverse. The small shield protects little more than the sights, possibly including from the effects of muzzle blast, and some protection from machine-gun fire in anti-tank engagements. The gun has long and robust trails to provide stability when firing, a large detachable spade is fitted to the end of each when the gun is brought into action.
+
+Non-reciprocating sights are standard Soviet patterns, designed for one-man laying. Included are a direct fire anti-tank telescope, a panoramic periscopic indirect-fire sight (a dial sight) in a reciprocating mounting, an angle of sight scale, and a range drum engraved with the range (distance) scale, coupled to a mounted elevation leveling bubble. The range drum enables the standard Soviet technique of semi-direct fire when the piece is laid visually on the target and the range set on the range drum. An APN-3 was later provided for direct fire at night in place of the day telescope.
+
+For travel, the gun is towed via a two-wheeled limber fitted to the end of the closed trails, with the spades removed and carried on each trail. Simple jacks on the trails just behind the main wheels are used to lift and support the closed trails so that the limber can be connected. The barrel and recuperator are pulled back between the closed trails and locked in a traveling position. There is a large bicycle chain arrangement on the right trail for this, and a compressed air cylinder, charged by the gun firing, is used to bring the barrel forward when the gun is brought back into action. It takes about four minutes to bring the gun into action, the normal detachment is eight strong.
+
+Propelling charges are in metal cartridge cases and loaded separately from the projectile. Projectiles originally included HE fragmentation, Armour Piercing solid shot, smoke, illuminating and chemical. HE shells weigh some 33 kg. Illuminating shells have a substantially lower muzzle velocity. APHE and extended range shells were introduced later. The maximum rate of fire is probably 6-7 rounds/minute, and about 70 rounds/hour. The standard Soviet unit of fire was 80 rounds.
+
+Here is Variants information for the Type 59 Chinese 130mm Towed Gun:
+The M-47 is This is a 152 mm field gun (Russian: 152-мм пушка M-47 обр. 1953 г.) that was developed alongside the M-46. The M-47 had a range of 20,470 m and was far less successful than its 130 mm counterpart. Only a small number was built between 1954 and 1957..
+The Type 59-1 is This is a combination of the 130 mm ordnance of the Type 59 with the carriage of the Type 60 (D-74 copy). The result is a gun with the same range as the M-46, but with a much lower weight of 6.3 t..
+The Type GM-45 is For the export market, NORINCO (China North Industries Corporation) developed this upgrade package where the original barrel of the Type 59 is replaced by the 155/45 mm ordnance of the WA 021..
+The SP-130 "Catapult" is Indian-designed self-propelled version, mounted on the hull of the Vijayanta tank..
+The M-46S is This is an upgrade of an existing M-46 or Type 59, carried out by Soltam Systems Ltd. The original barrel is replaced by a new model of 155/45mm (western ammunition) for a range of 25.8 (HE) to 39 km (ERFB-BB). A 39-calibre barrel is optional. In March 2000, Soltam won a contract worth $47,524,137 for upgrading 180 M-46s to M-46S standard (Indian designator: 155/45mm (E1) Soltam)..
+The M46/84 is This is a conversion that involved replacing the original 130 mm barrel with a new 155/45 mm barrel or 152 mm barrel. With ERFB-BB ammunition, this version has a range of 38,600 m and with M05 152 mm range exceeds 40 km.
+The A412 is License-built Chinese Type 59-1 with D-20 carriage..
+
+Here is System information for the Type 59 Chinese 130mm Towed Gun:
+The Alternative Designation is Type 59.
+The Type is Towed Gun.
+The Caliber is 130 mm.
+The Manufactuer is MOTZ.
+The Crew is 8.
+The Displacement Time is 7.
+The Emplacement Time is 6.
+The Prime Mover is AT-S, KrAZ-255.
+
+Here is Dimensions information for the Type 59 Chinese 130mm Towed Gun:
+The Length, Firing is 11.10.
+The Length, Travel is 11.73.
+The Width, Travel is 2.45.
+The Width, Firing is INA.
+The Height, Overall is 2.5.
+The Weight, Combat is 8.45.
+
+Here is System information for the Type 59 Chinese 130mm Towed Gun of the Main Weapon System:
+The Name is Type 59.
+The Type is Towed Gun.
+The Caliber is 130 mm.
+The Length, Barrel is 52 cal.
+The Breech Type is Horizontal sliding wedge.
+The Maximum Elevation is +45.
+The Minimum Elevation is -2.5.
+The Loader Type is Manual.
+The Muzzle Brake Type is Multi-perforated (pepper pot).
+The Rate of Fire, Burst is 8 rd/min.
+The Rate of Fire, Normal is 6 rd/min.
+The Rate of Fire, Sustained is 4 rd/min.
+The Traverse Range is 50.
+The Traverse Left is 25.
+The Traverse Right is 25.
+
+Here is Ammunition (Option 1) information for the Type 59 Chinese 130mm Towed Gun of the Main Weapon System:
+The Name is OF44.
+The Type is Frag-HE.
+The Caliber is 130.
+The Weight is 33.4.
+The Range, Maximum Indirect Fire is 22,500.
+The Range, Minimum is INA.
+The Muzzle Velocity is 930.
+The Fuze Type is V-429 PD.
+
+Here is Ammunition (Option 2) information for the Type 59 Chinese 130mm Towed Gun of the Main Weapon System:
+The Name is BR-482.
+The Caliber is 130.
+The Type is APC-T.
+The Range, Maximum Indirect Fire is 11,140.
+The Range, Minimum is INA.
+The Weight is 33.49.
+The Muzzle Velocity is INA.
+The Fuze Type is DBR BD.
+
+Here is Ammunition (Option 3) information for the Type 59 Chinese 130mm Towed Gun of the Main Weapon System:
+The Name is OF43.
+The Type is Frag-HE.
+The Caliber is 130.
+The Weight is 33.4.
+The Range, Maximum Indirect Fire is 27,500.
+The Range, Minimum is INA.
+The Muzzle Velocity is 930.
+The Fuze Type is V-429 PD.
+
+Here is Ammunition (Option 4) information for the Type 59 Chinese 130mm Towed Gun of the Main Weapon System:
+The Name is OF43.
+The Type is Frag-HE.
+The Caliber is 130.
+The Weight is 33.4.
+The Range, Maximum Indirect Fire is 38,000.
+The Range, Minimum is INA.
+The Muzzle Velocity is 940.
+The Fuze Type is ML-5 PD.
+
+Here is Fire Control System information for the Type 59 Chinese 130mm Towed Gun:
+The Indirect Fire is PG-1 PANTEL.
+The Direct Fire is OP 4-35.
+The Collimator is K-1.
+The Fire Control Computer is None.
+The Gun Display Unit is None.
+

@@ -1,0 +1,77 @@
+This document describes the Telemax 4x4 German Tracked Unmanned Ground Vehicle (UGV).
+
+Telemax 4x4
+telemax with wheels:
+Versatile and cost-efficient!
+The starter version with a broad wheelbase and 4-wheel drive for rapid deployments on challenging terrains and delicate flooring requiring protection.
+
+Features:
+*Precision 6-axis manipulator with TCP control and automatic tool change
+*Rugged four-wheel drive
+*Top speed of up to 11.5 km/h (7 mph)
+*Wide wheelbase with increased surface contact
+*Lifting capacity up to 20 kg (44 lbs.)
+*More than 16 pre-programmed automatic manipulator motion sequences
+*Interchangeability of accessories within the telemax family, e.g. batteries, tools, cameras and sensors
+
+This equipment has proliferated into the following countries: Germany.
+
+Here is Variants information for the Telemax 4x4 German Tracked Unmanned Ground Vehicle (UGV):
+The Telemax 4x4 is elemax with wheels:
+Versatile and cost-efficient!
+The starter version with a broad wheelbase and 4-wheel drive for rapid deployments on challenging terrains and delicate flooring requiring protection..
+The Telemax PRO is The original telemax:
+Compact design and high reach!
+A truly versatile robot capable of handling significant gradients and obstacles, it boasts an impressive manipulator reach, both vertically and horizontally, combined with minimal dimensions. Perfect for deployments in built-up areas and confined spaces..
+The Telemax HYBRID is The best of both worlds – Compact and strong!
+The combination of a powerful arm and compact dimensions for the toughest challenges..
+The Telemax PLUS is The biggest and strongest telemax:
+Versatile and strong!
+Our largest and strongest telemax, its exceptional ability to handle gradients and terrains makes it ideal for a particularly broad range of applications..
+The Telemax RECCE is Fast solution for reconnaissance:
+Agile and smart!
+Compact and high performance reconnaissance system without a manipulator provides detailed information from the site, especially when equipped with our autonomy/3D mapping accessory..
+
+Here is System information for the Telemax 4x4 German Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Telemax 4x4.
+The Type is Tracked Unmanned Ground Vehicle (UGV).
+The Manufacturer is Faulhaber.
+The Crew is 1.
+The Payload Capacity is up to 20 kg.
+The Note is More than 16 pre-programmed automatic manipulator motion sequences.
+
+Here is Dimensions information for the Telemax 4x4 German Tracked Unmanned Ground Vehicle (UGV):
+The Length is 1018 mm.
+The Width is 603 mm.
+The Height is 813 mm.
+The Manipulator, Upward Reach is 2071 mm.
+The Manipulator, Forward Reach is 1586 mm.
+The Manipulator, Downward Reach is 1060 mm.
+The Weight is Standard speed version: 66 kg (145 lbs.)
+High speed version: 68 kg (149 lbs.).
+The Firing Channel is 3.
+The Payload is 35 kg.
+
+Here is Automotive information for the Telemax 4x4 German Tracked Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Drive is 4 wheels.
+The Maximum Speed is Standard speed version: max. 4.5 km/h (2.7 mph)
+High speed version: max. 11.5 km/h (7 mph).
+The Operational Range is INA.
+The Mobility, Slopes is 38° (standard speed version, depending on surface).
+The Mobility, Stairs is 17.5°.
+The Mobility, Obstacle Height is 200 mm.
+The Mobility, Gap Width is 330 mm.
+The Fording Depth is 280 mm.
+The Battery is NiMh battery (24 V, 15 Ah):.
+The Endurance is NiMh battery (24 V, 15 Ah):
+approx. 3 h with 1 battery; approx. 6 h with 2 batteries
+Li-ion battery (26 V, 40 Ah):
+approx. 7.5 h with 1 battery; approx. 15 h with 2 batteries.
+
+Here is Protection information for the Telemax 4x4 German Tracked Unmanned Ground Vehicle (UGV):
+The Hull Armor is INA.
+The Applique Armor is INA.
+

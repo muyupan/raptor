@@ -1,0 +1,40 @@
+This document describes the ASN-301 Chinese Anti-Radiation Radar Loitering Munition Unmanned Aerial Vehicle (UAV).
+
+The ASN-301 UAV seems to be a near-copy of the Israel Aerospace Industries (IAI) Harpy system that was purchased by China in the 1990s, according to foreign sources. The ASN-301uav  is a delta-wing aircraft with a pusher propeller that looks virtually identical to the Harpy. It is designed to fly into hostile airspace and loiter until it detects a radar, at which point it homes in on the target and destroys it.
+
+This equipment has proliferated into the following countries: China, Turkey.
+
+Here is Variants information for the ASN-301 Chinese Anti-Radiation Radar Loitering Munition Unmanned Aerial Vehicle (UAV):
+The Cutlass is This variant of the Harpy was evaluated in 1999 with Raytheon for search-and-destroy missions and the ability to attack a wider range of targets. It would have been a sea-launched weapon employing advanced sensors from Raytheon.
+The Harop/Harpy 2 is This is a larger, upgraded variant. Designed as a fire-and-forget weapon, the Harop can fly more than 600 mi (1,000 km) to patrol a specific area and attack any hostile radars detected..
+The Harpy NG (new generation) is This is an upgraded variant that uses the Harop airframe. It was developed to counter newer air defense radar threats..
+The Mini-Harpy is This tactical loitering munition combines the operating characteristics of the Harpy and Harop. It can lock onto radar and other emitting threats via person-in-the-loop electro-optical guidance. Fully autonomous operation is available as an option. It can attack emitting and non-emitting targets..
+The Maritime Harop is This is a variant of the Harop optimized for operation from naval vessels, from patrol ships to frigates. It features a maritime-configured launcher and modified communications..
+The ASN-301 is This is a Chinese copy of the Harpy. It has a delta wing and pusher propeller configuration that appears virtually identical to the Israeli system. According to the China National Aero-Technology Import & Export Corp. (CATIC), the ASN-301 targets radar frequencies in the 2-16 GHz range and has a radar search range of 16 mi (25 km). The system is said to be able to target up to eight preset radar targets..
+
+Here is System information for the ASN-301 Chinese Anti-Radiation Radar Loitering Munition Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is ASN-301.
+The Type is Anti-Radiation Radar Loitering Munition Unmanned Aerial Vehicle (UAV).
+The Manufacturer is China; Company: INA.
+
+Here is Dimensions information for the ASN-301 Chinese Anti-Radiation Radar Loitering Munition Unmanned Aerial Vehicle (UAV):
+The Length is 2.50 m.
+The Wingspan is 2.41 m.
+The Combat Weight is 135 kg.
+The Warhead Weight is 18 kg.
+
+Here is Automotive information for the ASN-301 Chinese Anti-Radiation Radar Loitering Munition Unmanned Aerial Vehicle (UAV):
+The Engine Name is 1 x UEL AR731.
+The Engine Type is Rotary Engine.
+The Engine Power is 37 hp (28 kW).
+The Maximum Speed is 220 kph.
+The Maximum Range is 288 km.
+The Ceiling is 4,570 m.
+The Endurance is 4 hours.
+
+Here is Fire Control and Avionics information for the ASN-301 Chinese Anti-Radiation Radar Loitering Munition Unmanned Aerial Vehicle (UAV):
+The Communication Maximum Range is 200 km.
+The Radar Name is INA.
+The Radar Distance is INA.
+The Radar Cross-Section is <0.5 sq m.
+

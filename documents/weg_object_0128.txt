@@ -1,0 +1,31 @@
+This document describes the PRV-13 (Odd Pair) Russian Height Finding Radar.
+
+RV-13 “Odd Pair” was a fully remote controlled height-finder in the former Warshaw Pact. It was used for heights up to 85 km. This height-finder was on duty as a transitional solution for the new states in the German Air Force up to 1998.
+
+A special feature is its compensation antenna (the so-called “baby-antenna”) used for sidelobe suppression. The transmitter stage of the PRV-13 uses a magnetron at a fixed frequency, with a second transmitter tuned on another frequency on standby. There where four reserve frequencies that could never be used before for reasons of confidentiality. Changing this frequency means, changing the magnetron.
+
+The PRV-13 was a patchwork of from proven electron tube assemblies used in its predecessors too, and solid-state assemblies and modules using integrated CMOS circuits.
+
+Very interesting was the kind of generation of the elevation angle marks: a cathode ray tube was deflected in scale to the elevation angle. In this tube was clamped a precise grid of wires. When the synchronously electron beam into this tube hit one of these wires, then it created an output pulse (standing for an electronic range mark).
+
+This equipment has proliferated into the following countries: Algeria, Azerbaijan, Bulgaria, India, Kazakhstan, North Korea (Democratic People's Republic of Korea), Poland, Syria, Turkmenistan, Ukraine, Uzbekistan.
+
+Here is System information for the PRV-13 (Odd Pair) Russian Height Finding Radar:
+The Alternative Designation is PRV-13; NATO: Odd Pair.
+The Type is Height Finding Radar.
+The Crew is INA.
+The Chassis is Van-mounted.
+The Associated with is Odd Pair** is a van-mounted, height-finding radar associated with the SA-5 Gammon** surface-to-air missile (SAM) system..
+The Frequency is 2500 to 2700 mhz.
+The Peak Power is 1.6 mw.
+The Average Power is 1 kW.
+The Maximum Detection Range is 310 km.
+The Pulse Repetition Frequency (PRF) is 400 Hz.
+The Hit Per Scan is > 15.
+
+Here is Dimensions information for the PRV-13 (Odd Pair) Russian Height Finding Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

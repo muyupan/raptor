@@ -1,0 +1,112 @@
+This document describes the MiG-17 (Fresco) Russian Fighter Aircraft.
+
+The design of the MiG-17 was undertaken to correct the deficiencies that the earlier MiG-15 had at higher speeds. It was the first Soviet fighter to have an afterburning engine, the Klimov VK-1.
+In 1949, the Mikoyan-Gurevich (MiG) design bureau began work on a new fighter to replace the MiG-15. Two features of the aircraft were a thinner wing of greater sweep and a redesigned tail that improved stability and handling at speeds approaching Mach 1 (speed of sound). Although similar in appearance to the MiG-15, the MiG-17 has more sharply swept wings, an afterburner, better speed and handling characteristics and is about three feet longer. The wings of the aircraft are mid-mounted, swept-back, and tapered with blunt tips. They have wide wing roots. The engine is one turbojet inside the body and has a round air intake in the nose. It has a single, small exhaust. The fuselage is short, thick, cigar-shaped and tapered to the rear. It has a blunt nose and bubble canopy. The tail fin is swept-back and tapered with rounded tip. Flats are high-mounted on the tail fin, swept-back, and tapered. Flats and fin overhang the exhaust.
+
+The prototype MiG-17 (NATO code name Fresco) first flew in January 1950 and was reported to have exceeded Mach 1 in level flight. Production began in late 1951, but the aircraft were not available in sufficient quantities to take part in the Korean War. Deliveries to the Soviet Air Force began in 1952. Five versions of the aircraft eventually were produced. Early production MiG-17s were fitted with the VK-1 engine, a Soviet copy of the Rolls-Royce Nene. The VK-1F, an improved version with a simple afterburner and variable nozzle, was developed for the main production version, the MiG-17F (Fresco C). In 1955 the radar equipped MiG-17PF (Fresco D) entered service as a limited all-weather interceptor. The MiG-17PFU was armed with four AA-1 "Alkali" radar-guided missiles, making it the Soviet Union's first missile armed interceptor. Even though it was considered obsolete by the mid-1960s, the MiG-17 gave a good account over Vietnam, being flown by most of the top North Vietnamese pilots, including the leading ace, Colonel Tomb.
+
+The MiG-17 served with nearly 30 air forces worldwide, including the Soviet Union, Warsaw Pact countries, China, Afghanistan, North Korea, Sri Lanka, Syria, Morocco, Cuba, Indonesia, and Cambodia. Though smaller than the USAF F-86 Sabre of Korean War fame, its weight and performance favorably compared to that aircraft. Soviet production of the MiG-17 ended in 1958 with over 6,000 produced. It continued to be built under license in Poland as the Lim-5P and in China as the J-5/F-4. China's first reproduced jet fighter plane, the J-5, successfully flew in Shenyang for the first time on 19 July 1956, and General Nie Rongzhen went in person to Shenyang to offer congratulations.
+
+This equipment has proliferated into the following countries: Cuba, North Korea (Democratic People's Republic of Korea), Tanzania.
+
+Here is System information for the MiG-17 (Fresco) Russian Fighter Aircraft:
+The Alternate Designation(s) is MiG-17; NATO: Fresco.
+The Primary Function / Type is Fighter Aircraft.
+The Manufacturer is Mikoyan-Gurevich.
+The Crew is 1.
+The Number of Engines is 1.
+The Number of Hard Points is 2 pylons with a capacity of up to 500 kg (1,100 lb) of stores.
+
+Here is Dimensions information for the MiG-17 (Fresco) Russian Fighter Aircraft:
+The Length is 11.36 m.
+The Height is 3.36 m.
+The Wingspan is 9.63 m.
+The Wing Area is 22.60 sq m.
+The Weight, Empty is 3,930 kg.
+The Weight, Maximum Takeoff is 6,700 kg.
+
+Here is Automotive information for the MiG-17 (Fresco) Russian Fighter Aircraft:
+The Engine Name is Klimov VK-1A.
+The Number of Engines is 1.
+The Engine Type is Turbojet.
+The Maximum Power, Dry is 2,700 kg.
+The Maximum Power with Afterburner is 3,380 kg.
+The Internal Fuel Capacity is 1,410 liters.
+The Maximum Speed is 1,100 km/h.
+The Maximum Range is 2,020 km.
+The Service Ceiling is 16,600 m.
+The G Limits is +8.
+The Rate of Climb is 65 m/s.
+
+Here is Gun System #1 information for the MiG-17 (Fresco) Russian Fighter Aircraft of the Main Gun System:
+The Name is Nudelman-Rikhter NR-23.
+The Type is Autocannon.
+The Caliber is 23mm.
+The Quantity is 2 × 23 mm (0.906 in) Nudelman-Rikhter NR-23 autocannon.
+The Length is 1,980 mm.
+The Barrel Length is 1,450 mm.
+The Width is 165 mm.
+The Height is 136 mm.
+The Weight is 39 kg.
+The Barrels is 1.
+The Action is Short recoil.
+The Rate of Fire is 800–850 rpm.
+The Muzzle Velocity is 690 m/s.
+
+Here is Gun System #1 Ammunition information for the MiG-17 (Fresco) Russian Fighter Aircraft of the Main Gun System:
+The Type is Rifle.
+The Caliber is 23mm.
+The Cartridge is 23×115 mm.
+The Basic Load is 80 rounds per gun, 160 rounds total.
+
+Here is Gun System #2 information for the MiG-17 (Fresco) Russian Fighter Aircraft of the Main Gun System:
+The Name is Nudelman N-37.
+The Type is Autocannon.
+The Caliber is 37mm.
+The Length is 2,455mm.
+The Barrel Length is INA.
+The Weight is 103 kg.
+The Barrels is 1.
+The Action is Short recoil.
+The Rate of Fire is 400 rounds per minute.
+The Muzzle Velocity is 690 m/s.
+
+Here is Gun System #2 Ammunition information for the MiG-17 (Fresco) Russian Fighter Aircraft of the Main Gun System:
+The Type is Rifle.
+The Caliber is 37mm.
+The Cartridge is 37x155mm.
+The Basic Load is 40 rounds total.
+
+Here is Main Missile System #1 information for the MiG-17 (Fresco) Russian Fighter Aircraft of the Main Missile Systems:
+The Name is K-5; NATO: AA-1 Alkali.
+The Type is Air-to-Air Missile.
+The Manufacturer is Kaliningrad Series Production Plant.
+The Length is 2.49 m.
+The Diameter is 200 mm.
+The Weight is 82.7 kg.
+The Warhead Type is High explosive.
+The Warhead Weight is 13 kg.
+The Engine is Rocket.
+The Operational Range is 2-6 km.
+The Maximum Speed is 2,880 km/h.
+The Guidance System is beam riding.
+
+Here is Rocket Weapon Systems information for the MiG-17 (Fresco) Russian Fighter Aircraft:
+The Note is 2 × UB-16-57 rocket pods for S-5 rockets.
+
+Here is Bomb Weapon Systems information for the MiG-17 (Fresco) Russian Fighter Aircraft:
+The Bomb Capacity is 2 × 250 kg (550 lb) bombs.
+
+Here is Fire Control / Avionics information for the MiG-17 (Fresco) Russian Fighter Aircraft:
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Laser Desingator is INA.
+
+Here is Protection information for the MiG-17 (Fresco) Russian Fighter Aircraft:
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

@@ -1,0 +1,74 @@
+This document describes the M60 American Armored Vehicle-Launched Bridgelayer (AVLB).
+
+The M60 AVLB is an armored vehicle based on the M60 main battle tank's hull and used for the launching and retrieval of a 60-foot (18 m) scissors-type bridge. The AVLB consists of three major sections: the launcher, the vehicle hull, and the bridge. This combat engineer vehicle was developed by the US Army Engineer Research & Development Laboratories under contract with General Dynamics to replace the previous M48 AVLB. It was designed to launch bridge for tanks and other wheeled combat vehicles across trenches and water obstacles in combat conditions.
+
+This equipment has proliferated into the following countries: CFE Treaty, Greece, Israel, Pakistan, Portugal, Singapore, Spain, United States of America.
+
+Here is Variants information for the M60 American Armored Vehicle-Launched Bridgelayer (AVLB):
+The M60 AVLB is AVLB with 60 ft scissors bridge and launcher mated to the M60 chassis.
+The M60A1 AVLB is AVLB with 60 ft scissors bridge and launcher mated to the M60A1 chassis.
+The M60A1 AVLM is Variant featuring 2 x M58 Mine Clearing Line Charges (MICLIC).
+
+Here is System information for the M60 American Armored Vehicle-Launched Bridgelayer (AVLB):
+The Alternative Designation is M60 AVLB.
+The Type is Armored Vehicle-Launched Bridgelayer, Tracked.
+The Manufacturer is Anniston Army Depot.
+The In Service is 1963-Present.
+The Crew is 2 personnel.
+
+Here is Dimensions information for the M60 American Armored Vehicle-Launched Bridgelayer (AVLB):
+The Length, Hull is 6.95 m.
+The Length, Gun Forward is 9.44 m.
+The Width is 3.63 m.
+The Height is 3.27 m.
+The Tracks, Length on Ground is 4.24 m.
+The Tracks Width is 0.71 m.
+The Ground Pressure is 0.46 m.
+The Weight, Unloaded is 48,680 kg.
+The Weight, Combat is 52,620 kg.
+The Ground Pressure is 0.87 kg/cm sq.
+
+Here is Automotive information for the M60 American Armored Vehicle-Launched Bridgelayer (AVLB):
+The Engine Name is 1 x  Continental AVDS-1790-2A engine.
+The Engine Type is 1,790-cu in (29.34-liter) air-cooled, 4-stroke, V-12 multi-fuel.
+The Engine Power is 750 hp at 2,400 rpm.
+The Power-to-Weight Ratio is 14.24 hp/metric ton.
+The Fuel Capacity is 375 gal (1,420 liters).
+The Transmission is CD-850-5 cross drive transmission.
+The Suspension is torsion bar, 6 road wheels, rear drive,
+ front idler, 3 shock absorbers, 3 track
+ return rollers.
+The Range is 480 km.
+The Speed is 48 km/h.
+The Vertical Obstacle is 0.91 m.
+The Trench is 2.59 m.
+The Fording without Preparation is 1.22 m.
+The Fording with Preparation is 2.40 m.
+The Gradiant is 60 %.
+The Side Slope is 30 %.
+The Shock Absorbers is The addition of a shock absorber on the second roadwheel pair was also accompanied by a slight relocation of the first return roller. These modifications were needed due to the increased weight of the M60A1 turret as well as the additional hull armor..
+
+Here is Bridge information for the M60 American Armored Vehicle-Launched Bridgelayer (AVLB):
+The Name is MLC60.
+The Type is Scissoring.
+The Length, extended is 19.19 m.
+The Length, folded is 9.75 m.
+The Bridge span is 18.28 m.
+The Width, overall is 3.99 m.
+The Width, roadway is 3.81 m.
+The Width, treadway is 1.75 m.
+The Height, unfolded is 0.94 m.
+The Weight is 13.28 m.
+
+Here is Protection information for the M60 American Armored Vehicle-Launched Bridgelayer (AVLB):
+The Hull Armor is The hull's upper glacis armor was increased from 3.67 inches to 4.29 inches at 65 degrees while the turret sides went from 1.9 inches to 2.9 inches at their apex. This brought the frontal armor up to the same 10" line of sight armor standard of the M103 heavy tank..
+The Turret Armor is M60: equals 7 in (180 mm).
+The Applique Armor is Available..
+The Explosive Reactive Armor is INA.
+The Active Protection System is No.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is exhaust smoke generating system; 
+6-barrel smoke dischargers.
+

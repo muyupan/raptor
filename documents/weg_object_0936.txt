@@ -1,0 +1,65 @@
+This document describes the KT-1 Woongbi (Great Leap) South Korean Light Training Aircraft.
+
+The KAI KT-1 Woongbi (Hangul: KT-1 웅비) is a Korean single-engined turboprop, basic training aircraft. It was jointly developed by Korean Aerospace Industries (KAI) and the Agency for Defense Development (ADD). The KT-1 is the first completely indigenous Korean aircraft ever developed.
+
+The KT-1 can be equipped with either an analog or 'glass' cockpit configuration. Some variants feature additional avionics and systems, such as a night vision goggles (NVG)-compatible cockpit, head-up display (HUD), multi-function displays (MFD), GPS/inertial navigation system, mission computer, onboard oxygen generation system, a vapor-cycle environmental control system and hands-on-throttle-and-stick (HOTAS)-compatible controls. Avionics are provided by various foreign companies, including Elbit, Flight Vision and Thales.
+
+When equipped for the light attack missions, the aircraft can be furnished with various guns, bombs, rockets and missiles dependent upon customer requirements. Other equipment can include external fuel tanks, a centrally mounted forward-looking infrared (FLIRA) sensor and a laser range finder. In terms of visual appearance, the KT-1 is reminiscent of the Pilatus PC-9, a wide-used trainer aircraft at the time of its development.
+
+This equipment has proliferated into the following countries: Indonesia, Peru, Senegal, South Korea (Republic of Korea), Turkey.
+
+Here is Variants information for the KT-1 Woongbi (Great Leap) South Korean Light Training Aircraft:
+The KTX-1 Yeo-myung is Prototype primary trainer each with a different engine fitted, six built. KTX-1 turboprop trainer in 1988, and the first prototype flew in 1991. The first two prototypes were powered by the 550-shp. Pratt & Whitney Canada PT6A-25A turboprop..
+The KT-1 is KT-1 is the basic trainer of the ROKAF. Compared to the KTX-1 prototype, the KT-1 is bigger, heavier, the tail surfaces are relocated and it has a more powerful P&W Canada PT6A-62.(950-shp).
+The KA-1 is An armed advanced trainer with light-attack and forward air control capabilities. Several new features unique to the KA-1 are a head-up display and up-front control panel, MFD panels, and five hardpoints, two under each wing and one under the fuselage. The hardpoints may be equipped with rocket launchers, gun pods or AIM-9 Sidewinder missiles..
+The KT-1B is Export version for Indonesia. Main differences are in terms of avionics, some of which have been excluded or have had commercial off-the-shelf (COTS) alternatives used instead..
+The KT-1C is Improved, armed export version equipped with a centerline forward looking infrared pod. The KT-1C may also be equipped with a 12.7 mm gun pod, chaffes, flares, training missiles, rockets or unguided bombs..
+The KT-1T is Export version for Turkey..
+The KT-1P is Export version for Peru..
+The KA-1P is Armed export version for Peru..
+The KA-1S is Armed export version for Senegal..
+
+Here is System information for the KT-1 Woongbi (Great Leap) South Korean Light Training Aircraft:
+The Alternate Designation(s) is KT-1 Woongb (Great Leap).
+The Type is Light Training Aircraft.
+The Manufacturer is Korea Aerospace Industries.
+The Crew is 2.
+The Number of Engines is 1.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the KT-1 Woongbi (Great Leap) South Korean Light Training Aircraft:
+The Length is 10.26 m.
+The Width (Wing Span) is 10.59 m.
+The Wing Area is 16.01 m2.
+The Height is 3.68 m.
+The Empty Weight is 1,910 kg.
+The Gross Weight is 2,540 kg.
+The Maximum Takeoff Weight is 3,311 kg.
+
+Here is Automotive information for the KT-1 Woongbi (Great Leap) South Korean Light Training Aircraft:
+The Engine Name is 1 × Pratt & Whitney Canada PT6A-62.
+The Engine Type is Turboprop.
+The Engine Power is 708 kW (949 hp).
+The Propellers is 4-bladed Hartzell HC-E4N-2/E9512CB-1, 2.44 m (8 ft 0 in) diameter constant-speed fully feathering reversible propeller.
+The Maximum Speed is 518 km/h.
+The Maximum Operating Speed is 574 km/h.
+The Stall Speed is 32 km/h.
+The Never to Exceed Speed is 648 km/h.
+The Range is 1,333 km with max internal fuel (30 minutes reserve).
+The Ferry Range is 2,070 km with max internal and external fuel (30 minutes reserve).
+The Endurance is <4 hours at 6,100 m with max internal fuel (30 minutes reserve).
+The Service Ceiling is 11,580 m.
+The G Limits is +7 -3.5 (aerobatic, clean).
+The Rate of Climb is 17.78 m/s at sea level, clean.
+
+Here is Armament information for the KT-1 Woongbi (Great Leap) South Korean Light Training Aircraft:
+The Note is provision for practice bomb carriers on four underwing pylons..
+
+Here is Protection information for the KT-1 Woongbi (Great Leap) South Korean Light Training Aircraft:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is No.
+The NBC Protection is INA.
+The EW Counter Measures is No.
+The Chaffs/Flares is No.
+

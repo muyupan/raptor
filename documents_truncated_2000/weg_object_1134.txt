@@ -1,0 +1,121 @@
+This document describes the Roland-1 French Short-Range Air Defense (SHORAD) System.
+
+The Roland-1 French Short-Range Air Defense (SHORAD) System developed by France and Germany, which consisted of a missile and launching system that was mounted on the AMX-30 chassis in French Army service, and on the Marder-1 chassis in German Army service. The Roland-1 SAM system only used the Roland-1 missile. In Bundeswehr "Roland" SAM was placed on the chassis of the infantry fighting vehicle "Marder", produced by "Thyssen Henshel". The first tests of "Roland" complexes for the German Armed Forces were held in 1978, they were replaced by 40 mm L/70 anti-aircraft guns from Bofors. Totally about 650 Roland systems of various modifications and over 25000 missiles were produced. The complex was widely exported and is in service with the armies of France, Germany, Argentina, Brazil, Nigeria, Qatar, Spain, the USA, and Venezuela.
+
+This equipment has proliferated into the following countries: Argentina, Nigeria, Qatar, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the Roland-1 French Short-Range Air Defense (SHORAD) System:
+The Roland-1 is The original version of the system (later designated "Roland-1") was semi-automatic and non-weather. During the years of its service the complex was repeatedly upgraded. In 1981, the all-weather SAM system "Roland-2" was adopted for service and the program of modernization of some previously produced complexes "Roland-1" to the level of "Roland-2" was carried out (which increased the cost of the complex by 40%). In 1988 the improved automatic "Roland-3" was tested and put into production..
+The Roland-2 is All-weather self-propelled anti-aircraft missile system "Roland-2" with a radar tracking system for target and missile tracking was developed by the company "Messerchmitt-Bolkow-Blohm" (Germany) together with "Aerospatiale-Matra" (France) and is capable of destroying targets flying at speeds up to M=1.2 at altitudes from 15m to 5.5 km and ranges from 500m to 6.3 km. Originally the complex was designed to meet the needs of the Bundeswehr, however, due to the obvious advantage of the new complex over the previously released Roland-1 SAM system, the French Army command decided to convert part of its Roland-1 systems into the Roland-2 version. Such a possibility was envisaged by the developers even at the stage of the complex creation..
+The Roland-3 is All-weather self-propelled short-range air defense system "Roland-3" is designed and manufactured by EADS Euromissile and MBDA. Roland-3" SAM system is the result of consistent modernization of the family of anti-aircraft systems "Roland". It was adopted for service in 1988. The first serial models of the complex entered into service of the German Air Force air defense units and were used to cover German and American military airfields. 20 "Roland-3" complexes are in service with the German Airborne Division of the German Navy and are used for air defense of airfields, on which the Tornado fighter-bombers and Atlantic base patrol aircraft are based..
+The American Roland is This variant was built in the United States. The launcher on pallet can be fitted to XM795 chassis (based on M109 self-propelled howitzer chassis). It is deployed on M812 6 x 6 trucks. There were Hughes Aircraft manufactured radars and electro-optical sight and missile electronics. Boeing Aerospace produced the launcher, warhead, aft section of missile..
+The AMX-30 chassis is The variant is a standard AMX-30 tank chassis with a Roland launcher. France, Nigeria, Iraq, Qatar and Spain operated this system..
+The Marder chassis is This is a standard Marder APC chassis with Roland launcher. It is in service in Brazil and Germany..
+The Shelter-mounted systems is These systems were exported to Argentina, Iraq and Venezuela..
+The MAN 8 x 8 FlakRakRad is This variant is an eight-wheel-drive vehicle with a shelter mounted on chassis between front and rear sets of axles. There is a digital fire-control processor and four launch tubes..
+The Paladin is The Paladin was a competitor in the 1987 line-of-sight-forward-heavy (LOS-F-H) component trials of the U.S. Forward Area Air Defense System (FAADS). It was tested on a modified M109 self-propelled gun chassis. It could be combined with a Euromissile launcher and missile with Hughes Aircraft surveillance and tracking radars..
+The Glaive is Glaive was a Franco-German programme under which Euromissile would develop a revised Roland fire unit for use with the RM5 missile. This would add an integrated thermal sighting system with laser rangefinder allowing for night/all-weather operation without using the radar. Contracts were issued in 1989 with the system intended to enter service in 1996. However, development of RM5 was cancelled in 1991.
+The Roland M3S (upgrade) is This variant prototype was offered to Thailand and Turkey, though it was not procured. It utilizes a Dassault Electronique Rodeo 4 radar or a Thomson-CSF radar system. The M3S is operable by one person, preferably two..
+The Roland NDV is NDV, NutzungsDauerVerlängert, Extended Service Life. This was a German parallel to the French M3S, being developed by LFK GmbH for the German government. The control system was to be digitized and integrated into the HFLaAFüSys air-defence command and control system, with Roland 3 missile integration. Germany had a requirement to upgrade 84 Army (FlaRakPz 1A2) and 40 Luftwaffe (FlaRakRad) fire units. Trials had been completed in 2003 when Germany decided to withdraw Roland from use..
+The Roland Carol is Conversion of existing French Roland 2 systems into a shelter-mounted version of the M3S standard. France procured 20 trailer-borne systems. France intended the shelterised variants for use with air-transported rapid-deployment forces. The upgraded fire unit could use either the existing Roland missile or the new Roland 3 missile..
+The Roland MX/Jason is From 1969 Euromissile studied Roland as a possible naval weapon for shipboard installation. Originally known as Roland MX and later as Jason, the standard twin launcher (without search radar) with two below-decks 8-round reloading drums could be installed on a standard sized module that was featured in several Blohm & Voss MEKO frigate proposals of the 1970s. No prototype or production systems were built with attention turning early on to an abortive vertically launched missile..
+
+Here is System information for the Roland-1 French Short-Range Air Defense (SHORAD) System:
+The Alternative Designation is Roland-1.
+The Type is Short-Range Air Defense (SHORAD) System.
+The Manufacturer is The main work on the complex was carried out by the German company "Messerchmitt-Bolkow-Blohm" (MIB) and the French company "Aerospatiale-Matra"..
+The Chassis is AMX-30.
+The Chassis Note is The Roland-1 French Short-Range Air Defense (SHORAD) System developed by France and Germany, which consisted of a missile and launching system that was mounted on the AMX-30 chassis in French Army service, and on the Marder 1 chassis in German Army service. Additionally, the Roland 1 French Short-Range Air Defense (SHORAD) System has been known to be installed on MAN SX90 (8x8) High-Mobility, Cross-Country Truck Chassis, and mobile shelter units that are trailer compatible..
+The Crew is 3 (a gunner-operator, a commander-operator and a mechanic-driver)..
+The Composition is The main equipment of the complex is assembled on a universal rotating tower unit and includes a radar antenna to detect air targets; a binocular telescopic sight; an infrared direction finder; a radio command transmission station aboard ZUR; two automatically controlled guides..
+The Unit Structure is The Roland-1 is typically operated as part of an air defense regiment, which consists of four batteries with eight Roland launch vehicles each, as well as a command and maintenance unit..
+
+Here is Dimensions (Chassis: AMX-30) information for the Roland-1 French Short-Range Air Defense (SHORAD) System:
+The Length, Overall is 6.59 m.
+The Height, Hull Top is 1.5 m.
+The Height, Searchlight is 2.86 m.
+The Width is 3.10 m.
+The Track Length is 2.53 m.
+The Track Width is 0.57 m.
+The Weight, Unloaded is INA.
+The Weight, Combat is 33 tons.
+The Ground Pressure is 0.77 kg/cm sq.
+The Ground Clearance is 450 mm.
+
+Here is Automotive (Chassis: AMX-30) information for the Roland-1 French Short-Range Air Defense (SHORAD) System:
+The Engine Name is Hispano-Suiza HS 110.
+The Engine Type is 12 cylinders, supercharged, water-cooled, multifuel engine.
+The Engine Power is 720 hp at 2,000 rpm.
+The Power-to-Weight Ratio is 18.91 hp/t.
+The Fuel Capacity is 970 liters.
+The Amphibious is No.
+The Electrical System is 28 V.
+The Batteries is 8 × 12 V, 100 Ah.
+The Steering is Triple differential.
+The Clutch is Centrifugal.
+The Maximum Speed is 65 km/h.
+The Range is 400 km.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Obstacle is 0.93 m.
+The Trench is 2.9 m.
+
+Here is System information for the Roland-1 French Short-Range Air Defense (SHORAD) System of the Main Weapon System:
+The Name is AMX-30 TELAR.
+The Type is Transporter Erector Launcher and Radar (TELAR) System..
+The Elevation is INA.
+The Traverse is INA.
+The Rate of Fire is 1st shooting: 8 to 10 seconds;
+later shooting: 2 to 6 seconds..
+The Reload Time is 10 seconds..
+The Guidance System is Roland-1 is guided using a semi-automatic command to line-of-sight (SACLOS) guidance principle..
+The Feed System is The drum-type magazines are located on the sides in the PU housing, each of them accommodates four ZUR containers and is equipped with a hydraulic drive. There are 10 missiles in a portable PU ammunition set..
+
+Here is Missile information for the Roland-1 French Short-Range Air Defense (SHORAD) System of the Main Weapon System:
+The Name is Roland-1 Surface-to-Air Missile.
+The Type is Surface-to-Air Missile.
+The Length is 2.4 m.
+The Diameter is 160 mm.
+The Wingspan is 0.5 m.
+The Weight is 66.5 kg.
+The Warhead is HE-FRAG Warhead.
+The Warhead Weight is 6.5 kg, including 3.3 kg of explosive that is detonated either by impact or a TRT electromagnetic continuous wave radar-type proximity fuze..
+The Engine is The rocket propulsion system consists of a booster SD1156 and a marching engine Epictete 120IA..
+The Guidance System is SACLOS radio command guidance..
+The Flight Control is The ZUR flight control is gas-dynamic and is provided by the jet deflection of the marching engine..
+The Fuze is impact, proximity..
+The Maximum Speed is 1,800 km/h.
+The Maximum Range is 6.3 km.
+The Minimum Range is 0.5 km.
+The Minimum Altitude is 10 m.
+The Maximum Altitude is 5,500 m.
+The Shrapnel Impact Radius is up to 5 m.
+The Basic Load is 2 x missiles are carried ready to launch and another eight are carried in two revolver-type magazines, each of which holds four rounds. The missile container also serves as the launch tube..
+
+Here is Radar System information for the Roland-1 French Short-Range Air Defense (SHORAD) System:
+The Name is 1 x Siemens MPDR 16 Pulse-Doppler Surveillance Radar..
+The Type is Pulse-Doppler Surveillance Radar..
+The Frequency is D-Band.
+The Rotation Rate is 60 rpm.
+The IFF Interrogator is 1 x Siemens MSR-400/5 (German vehicles) or 1 x LMT NRAI-6A (French vehicles) IFF system..
+The Automatically Suppresses Fixed Echoes is Yes.
+The Time of Target Detection is does not exceed 4 seconds..
+The AIr Target Detection Speed is 30-500 m/s at a range of up to 18 km (with an effective reflecting area of 1 m2)..
+The Acquisition Range is 1.5 to 16.5 km for a 1 m2 target operating between speeds of 50 and 450 m/s and can be folded down behind the turret rear for transport..
+The Note is The radar is capable of detecting hovering helicopters..
+
+Here is Fire Control System information for the Roland-1 French Short-Range Air Defense (SHORAD) System:
+The Name is INA.
+The Type is Command guidance with dual tracking mode..
+The Tracking Mode is Fire control radar with optical tracker..
+
+Here is Protection information for the Roland-1 French Short-Range Air Defense (SHORAD) System:
+The Hull Armor is The Roland-1 has a welded steel hull and cast steel turret. Its development was focused on firepower and mobility rather than protection. It could be penetrated by all contemporary anti-tank weapons. The Roland-1 was regarded as the least protected main battle tank ever built. Hull Front: 79.0 mm; Hull Sides: 30-57 mm..
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is 1 x AMX-30B2 full-filtration NBC..
+The Smoke Equipment is 2 x 2-barrel 80 mm smoke dischargers on turret rear..
+

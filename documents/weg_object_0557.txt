@@ -1,0 +1,93 @@
+This document describes the F-22 Raptor American Advanced Tactical Fighter Aircraft.
+
+The F-22A Raptor is an advanced tactical fighter aircraft developed for the US Air Force (USAF). It entered service with the USAF in December 2005 to replace the F-15, with emphasis on agility, stealth and range.The F-22A Raptor is an advanced tactical fighter aircraft developed for the US Air Force (USAF). It entered service with the USAF in December 2005 to replace the F-15, with emphasis on agility, stealth and range.
+
+This equipment has proliferated into the following countries: CFE Treaty, United States of America.
+
+Here is Variants information for the F-22 Raptor American Advanced Tactical Fighter Aircraft:
+The YF-22 is Pre-production technology demonstrator for Advanced Tactical Fighter (ATF) demonstration/validation phase; two were built..
+The F-22A is Single-seat production version, was designated F/A-22A in early 2000s..
+
+Here is System information for the F-22 Raptor American Advanced Tactical Fighter Aircraft:
+The Alternate Designation(s) is F-22 Raptor.
+The Type is Advanced Fighter Aircraft.
+The Manufacturer is Lockheed Martin.
+The Crew is 1 Pilot.
+The Number of Engines is 2.
+The Number of Hard Points is 4 × internal stations, 2 × external stations.
+
+Here is Dimensions information for the F-22 Raptor American Advanced Tactical Fighter Aircraft:
+The Length is 19.92 m.
+The Width (Wing Span) is 13.56 m.
+The Wing Area is 78.04 m sq.
+The Height is 5.08 m.
+The Wheel Base is INA.
+The Wheel Track is INA.
+
+Here is Automotive information for the F-22 Raptor American Advanced Tactical Fighter Aircraft:
+The Engine Name is Pratt & Whitney F119-PW-100.
+The Engine Type is Augmented Turbofan.
+The Number of Engines is 2.
+The Engine Power, Static Thrust is 26,000 lbf (116 kN).
+The Engine Power, Afterburner is 35,000 lbf (156 kN).
+The Internal Fuel Capacity is 18,000 lb (8,200 kg).
+The External Fuel Capacity is 26,000 lb (12,000 kg) with two 2× 600 US gal tanks.
+The Maximum Speed at Altitude is Mach 2.25 (1,500 mph, 2,414 km/h).
+The Maximum Speed at Sea Level is Mach 1.21, 800 knots (921 mph; 1,482 km/h).
+The Approach Speed is INA.
+The Maximum Range is 1,800 mi (3,000 km) or more with 2 external fuel tanks.
+The Combat Radius is INA.
+The Takeoff Roll is INA.
+The Landing Distance is Varies based on model.
+The Climb Rate is 0.06 m/sec.
+The Payload is 8,160 kg.
+The Service Ceiling is 65,000 ft (20,000 m).
+
+Here is Vulcan Rotary Cannon information for the F-22 Raptor American Advanced Tactical Fighter Aircraft of the Main Gun System:
+The Name is M61A2.
+The Type is 6-Barrel Rotary Cannon.
+The Caliber is 20 mm.
+The Length is 1.83 m.
+The Weight is 112 kg.
+The Action is Hydraulic, electrically fired.
+The Rate of Fire is 6,000 rounds per minute.
+The Muzzle Velocity is 1,050 m/s.
+The Feed System is Belt or linkless feed system.
+
+Here is Ammunition information for the F-22 Raptor American Advanced Tactical Fighter Aircraft of the Main Gun System:
+The M56A3/A4 HEI is High Explosive Incendiary.
+The M53 API is Armor Piercing Incendiary.
+The PGU-28A/B SAPHEI is Semi-Armor Piercing High Explosive Incendiary.
+The Basic Load is INA.
+
+Here is Air-to-Air Missiles information for the F-22 Raptor American Advanced Tactical Fighter Aircraft of the Missile and Bomb Systems:
+The Option 1 is 2 x AIM-9 Sidewinder.
+The Option 2 is 6 x AIM-120 AMRAAM.
+The Note is Missile load configurations vary in using 4 × internal stations and 2 × external stations on wings..
+
+Here is Bombs information for the F-22 Raptor American Advanced Tactical Fighter Aircraft of the Missile and Bomb Systems:
+The Option 1 is 2 × 1,000 lb JDAM.
+The Option 2 is 8 × 250 lb GBU-39 Small Diameter Bombs.
+The Note is Load configurations vary in using 4 × internal stations and 2 × external stations on wings..
+
+Here is Fire Control / Avionics / Comms information for the F-22 Raptor American Advanced Tactical Fighter Aircraft:
+The Radar is 1 x AN/APG-77 radar.
+The Navigation is 1 x TACAN System, Satellite Navigation, GPS.
+The Targeting is INA.
+The Weapons Control is INA.
+The Datalinks is JTIDS/Link 16.
+The Radar Warning is AN/ALR-94 radar warning receiver (RWR): 250 nautical miles (460 km) or more detection range.
+The IFF is Yes.
+The Communications is HAVE QUICK.
+The EW Capable is INA.
+The Flight Control is Integrated CNI Avionics.
+
+Here is Protection information for the F-22 Raptor American Advanced Tactical Fighter Aircraft:
+The Stealth Properties is Yes.
+The Heat Signature Reduction is Yes.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The Countermeasures is INA.
+The Chaffs/Flares is MJU-39/40 flares for protection against IR missiles.
+The Missile Warning is Yes, equipped with the AN/AAR-56 Missile Launch Detector (MLD).
+

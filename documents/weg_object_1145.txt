@@ -1,0 +1,75 @@
+This document describes the Type 03 (Chu-SAM) Japanese 300mm Medium-Range Surface-to-Air Missile System.
+
+Type 03 Medium-Range Surface-to-Air Missile  or SAM-4 or Chu-SAM (中SAM, Chū-Samu) is a Japanese developed surface-to-air missile system currently in service with the Japan Army as JGSDF. The SAM's vehicle chassis is based on the Kato Works Ltd/Mitsubishi Heavy Industries NK series heavy crane truck. It uses a state-of-the-art active electronically scanned array radar.
+
+The Chu-SAM air defense system is based on 8×8 cross country unarmored trucks, including a command center, radar unit, launcher, and transloader, with each unit equipped with six missiles that travel at Mach 2.5. The system can track up to 100 targets simultaneously and target 12 at the same time, engaging fighter jets, helicopters, and cruise missiles.
+
+This equipment has proliferated into the following countries: China, Japan.
+
+Here is Variants information for the Type 03 (Chu-SAM) Japanese 300mm Medium-Range Surface-to-Air Missile System:
+The Chu-SAM Kai is This is an upgraded variant with improved sensors and networking features. It has greater range and can defeat more complex threats, such as cruise and air-to-ground missiles..
+
+Here is System information for the Type 03 (Chu-SAM) Japanese 300mm Medium-Range Surface-to-Air Missile System:
+The Alternative Designation is Type 03; Chu-SAM; SAM-4.
+The Type is Medium-Range Surface-to-Air Missile System.
+The Configuration is 8x8.
+The Manufacturer is Mitsubishi Heavy Industries.
+The In Service is 2003-Present.
+The Crew is INA.
+The Chassis is The SAM's vehicle chassis is based on the Kato Works Ltd/Mitsubishi Heavy Industries NK series heavy crane truck..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Fire on the Move is No.
+The Note is The system as a whole is based on 8x8 cross country trucks, including command center, radar unit, launcher and transloader..
+
+Here is Dimensions information for the Type 03 (Chu-SAM) Japanese 300mm Medium-Range Surface-to-Air Missile System:
+The Chassis Length is INA.
+The Chassis Width is INA.
+The Chassis Height is INA.
+The Chassis Weight, Combat is INA.
+The Ground Pressure is INA.
+
+Here is Automotive information for the Type 03 (Chu-SAM) Japanese 300mm Medium-Range Surface-to-Air Missile System:
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Cruising Range is INA.
+The Speed, Maximum Road is INA.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is INA.
+The Fording Depth is INA.
+
+Here is Missile System information for the Type 03 (Chu-SAM) Japanese 300mm Medium-Range Surface-to-Air Missile System:
+The Name is Type 03 Missile.
+The Type is Medium-Range Surface-to-Air Missile.
+The Length is 4.90 m.
+The Diameter is 0.33 m.
+The Weight is 570 kg.
+The Engine is 1 x single-stage solid rocket.
+The Speed is Mach 2.5.
+The Range is 50 km.
+The Altitude is 10,000 m.
+The Warhead is high-explosive fragmentation w/proximity fuze.
+The Guidance System is inertial w/command updates and active radar terminal seeker.
+
+Here is Fire Control System information for the Type 03 (Chu-SAM) Japanese 300mm Medium-Range Surface-to-Air Missile System of the Fire Control and Radar Systems:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+
+Here is Radar information for the Type 03 (Chu-SAM) Japanese 300mm Medium-Range Surface-to-Air Missile System of the Fire Control and Radar Systems:
+The Name is INA.
+The Type is Phased Array Antenna.
+The Maximum Number of Targets to Track is tracks up to 100 targets.
+The Maximum Number of Targets to Target is 12.
+The Note is A data link guides the missile towards a predicted area of intercept where the missile's own seeker takes over. The active radar homing seeker on the missile is derived from the Type 99 air to air missile..
+
+Here is Protection information for the Type 03 (Chu-SAM) Japanese 300mm Medium-Range Surface-to-Air Missile System:
+The Hull Armor is The trucks are not armored and the system is not protected in any way..
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

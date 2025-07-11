@@ -1,0 +1,128 @@
+This document describes the Taechong II Class North Korean Patrol Craft.
+
+The design of this class strongly resembles the Chinese HAINAN class, but has a lower superstructure and less freeboard than the HAINAN.
+The vessels were completed between 1975 and 1995.
+
+This equipment has proliferated into the following countries: North Korea (Democratic People's Republic of Korea).
+
+Here is Variants information for the Taechong II Class North Korean Patrol Craft:
+The Note is 2 TAECHONG I class and 4 TAECHONG II class PATROL CRAFT (PC).
+
+Here is System information for the Taechong II Class North Korean Patrol Craft:
+The Alternative Designation is Taechong II Class.
+The Type is Patrol Craft.
+The Builder is North Korea; Shipyard: INA.
+The Crew is 80.
+
+Here is Dimensions information for the Taechong II Class North Korean Patrol Craft:
+The Length is 60.80 m.
+The Beam is 7.20 m.
+The Draft is 2.00 m.
+The Displacement, Full Load is 410 tons full load.
+
+Here is Propulsion System information for the Taechong II Class North Korean Patrol Craft:
+The Engine Name is 4 x Type 40D.
+The Engine Type is Diesel.
+The Engine Power is 8,800 total bhp.
+The Maximum Range is 2,000 nm at 12 kts.
+The Maximum Speed is 30 knots.
+
+Here is Gun Weapon System #1 information for the Taechong II Class North Korean Patrol Craft of the Gun Weapon Systems:
+The Name is B-34.
+The Type is Naval 100mm Gun.
+The Caliber is 100mm.
+The Quantity is 1 x B-34 Naval 100mm Gun.
+The Length is 5.795 m.
+The Weight is 2.463 mt.
+The Rate of Fire is 15 rounds per minute B-34.
+The Maximum Range is INA.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Taechong II Class North Korean Patrol Craft of the Gun Weapon Systems:
+The Type is Projectile.
+The Caliber is 100.
+The Propellant Charge is AA grenade: 5.3 calibers
+AA (ZS-56): 5.13 calibers
+AA (ZS-56P): 5.0 calibers
+HE mod 1928: 5.2 calibers
+Diving: 5.04 calibers
+Star Shell (SB-56): 5.2 calibers.
+The Basic Load is INA.
+
+Here is Gun Weapon Systems #2 information for the Taechong II Class North Korean Patrol Craft of the Gun Weapon Systems:
+The Name is Type 66.
+The Type is Naval 57mm Gun.
+The Caliber is 57mm.
+The Quantity is 1 x Type 66 Naval 57mm Gun.
+The Length is 3,990 mm.
+The Weight is 14,000 kg.
+The Barrels is Single barrel (progressive RH parabolic twist, 24 grooves).
+The Action is Electronic firing.
+The Elevation is −10°/+78°.
+The Traverse is Full 360°:.
+The Rate of Fire is 200 rounds/min.
+The Maximum Firing Range is 17,000 m.
+The Effective Firing Range is 8,500 m.
+The Feed System is 40 ready rounds, 128 rounds in ready racks in mount.
+The Sights is Gyro-stabilized in local control..
+
+Here is Gun Weapon Systems #2 Ammunition information for the Taechong II Class North Korean Patrol Craft of the Gun Weapon Systems:
+The Type is Projectile.
+The Caliber is 57mm.
+The Shell is 57 × 438 mm.
+The Basic Load is 128.
+
+Here is Gun Weapon Systems #3 information for the Taechong II Class North Korean Patrol Craft of the Gun Weapon Systems:
+The Name is Type 61.
+The Type is Anti-Aircraft Gun.
+The Caliber is 25mm.
+The Quantity is 2 x Type 61.
+The Length is 1.5 m.
+The Crew is 1.
+The Barrels is Single or Dual.
+The Elevation is -10° ~ +85°.
+The Traverse is 360.
+The Rate of Fire is Compact: 800~900 round/min.
+The Muzzle Velocity is 900 m/s.
+The Maximum Firing Range is 3,000 m.
+The Effective Firing Range is 2,700 m.
+The Feed System is Magazine.
+The Sights is Optical.
+
+Here is Gun Weapon Systems #3 Ammunition information for the Taechong II Class North Korean Patrol Craft of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 25mm.
+The Shell is 25 x 218 mm SR.
+The Basic Load is INA.
+
+Here is Rocket #1 information for the Taechong II Class North Korean Patrol Craft of the Rocket Weapon Systems:
+The Name is RGB-12 projectile.
+The Type is Anti-Ship Rocket.
+The Quantity is INA.
+The Length is 1.24 m.
+The Diameter is 251.7 mm.
+The Weight is 73 kg.
+The Warhead is 30 kg.
+The Maximum Range is 400 m to 1200 m.
+The Depth is up to 350 m.
+The Rate of Descent is 6.25 m/s.
+
+Here is Fire Control Systems information for the Taechong II Class North Korean Patrol Craft:
+The FCS Name is INA.
+The Computerized FCS is INA.
+The Battle Management System is INA.
+
+Here is Radar Systems information for the Taechong II Class North Korean Patrol Craft:
+The Name is 1 x 1 Type 351 (Pot Head).
+The Type is Surface Radar.
+The Frequency is INA.
+The Range is INA.
+
+Here is Sonar Systems information for the Taechong II Class North Korean Patrol Craft:
+The Name is 1 Tamir-11.
+The Type is Hull-Mounted Sonar.
+
+Here is Protection information for the Taechong II Class North Korean Patrol Craft:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

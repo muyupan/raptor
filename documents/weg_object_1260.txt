@@ -1,0 +1,86 @@
+This document describes the MEADS German Medium-Range Air Defense System.
+
+Germany is considered the architect and driving force behind greater European collaboration across defense. The country has played a pivotal role in developing largescale European programs, including the development of the Medium Extended Air Defense System (MEADS). Development of the Medium Extended Air Defense System began in 2004 as a U.S.-Italian-German partnership that shared costs for a new air and missile defense (AMD) system. As member to the tri-lateral partnership, Germany shared costs for a new Integrated Air and Missile Defense (IAMD) system. The system enables coalition interoperability and regional operation and is developed to incorporate other radars and launchers – both existing and future – as part of a regional air and missile defense system. After a comprehensive review, the German Federal Ministry of Defense announced in 2015 it would make MEADS the foundation of Taktisches Luftverteidigungssystem (TLVS), its next-generation AMD system, designed to replace Patriot. The MEADS program submitted a proposal to the German Ministry of Defense in July 2016 to continue Lockheed Martin’s development partnership with MBDA and use MEADS technology as the basis for Germany’s next-generation TLVS.
+
+This equipment has proliferated into the following countries: Germany.
+
+Here is System information for the MEADS German Medium-Range Air Defense System:
+The Alternative Designation is MEADS.
+The Type is Medium-Range Air Defense System.
+The Manufacturer is The Medium Extended Air Defense System or MEADS was jointly developed by Germany, Italy and the United States..
+The Mission is The main role of the MEADS is to defend maneuver forces and key installations against aircraft, helicopters, UAVs, as well as tactical and short-range ballistic missiles (with a maximum range of up to 1 000 km), and cruise missiles..
+The Crew is INA.
+The Chassis is Components of the German MEADS systems are based on MAN SX45 military trucks..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note is The complete battery includes six launcher vehicles, one surveillance radar, two multifunctional fire control radar, two battle management systems, and reloading vehicles, that carry spare missiles for the launchers..
+
+Here is Dimensions information for the MEADS German Medium-Range Air Defense System:
+The Length is 10.5 m.
+The Width is 2.55 m.
+The Height is 3.92 m.
+The Weight, Empty is 13 tons.
+The Weight, Combat is INA.
+
+Here is Automotive information for the MEADS German Medium-Range Air Defense System:
+The Engine Name is MAN D2066 LFG.
+The Engine Type is Diesel.
+The Engine Power is 440.
+The Cruising Range is 750.
+The Speed, Maximum Road is 88.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6 m.
+The Trench is 1.9 m.
+The Fording Depth is up to 1.5 m.
+
+Here is Missile System information for the MEADS German Medium-Range Air Defense System:
+The Name is MIM-104F Missile.
+The Type is Surface-to-Air Missile.
+The Length is 5.21 m.
+The Diameter is INA.
+The Fin Span is INA.
+The Missile Weight is 312 kg.
+The Warhead Type is HE-FRAG.
+The Warhead Weight is INA.
+The Maximum Range is 40 km.
+The Maximum Altitude is 20 km.
+The Elevation is MEADS launcher fires nearly vertically at a 70° launch position.
+The Traverse is 360 deg.
+The Basic Load is Each launcher vehicle of the MEADS is equipped with 12 missiles..
+The Reload is The MEADS launchers use a palletized load handling system. So the whole set of 12 missiles can be rapidly reloaded..
+The Note is This missile is highly maneuverable and destroys targets by ramming them. Yet still it has a small HE-FRAG warhead to enhance the kill probability..
+
+Here is Fire Control System information for the MEADS German Medium-Range Air Defense System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Battle Management Systems is 2 x Battle Management Systems. The battle management system is basically a command and control element of the MEADS. It provides battle management for the launcher units. It calculates optimal engagements and sends firing commands to the launcher vehicles. At least two launchers can fire simultaneously in order to defended against multiple threats or massed missile attacks..
+
+Here is Radar #1 information for the MEADS German Medium-Range Air Defense System of the Fire Control:
+The Name is INA.
+The Type is Surveillance Radar.
+The Frequency/Band is INA.
+The Range is INA.
+The Coverage is 360 deg.
+The Note is The surveillance radar provides long-range detection of low radar cross-section objects. This radar operates below detection frequency of current anti-radiation missiles..
+
+Here is Radar #2 information for the MEADS German Medium-Range Air Defense System of the Fire Control:
+The Name is INA.
+The Type is Fire COntrol Radar.
+The Frequency/Band is X-band solid-state phased array radar with an Active Electronically Scanned Array (AESA)..
+The IFF is Yes.
+The Note is It provides precision tracking and discrimination and classification capabilities. The radar uses its main beam for missile guidance, eliminating the need for a separate guidance array..
+
+Here is Protection information for the MEADS German Medium-Range Air Defense System:
+The Hull Armor is The MAN SX45 is also available with an integrated armored cab, which provides protection against 7.62x51 mm armor-piercing rounds, artillery shell splinters and withstands 8 kg anti-tank mine blast. An integrated cab can be equipped with remotely controlled weapon stations, fitted with a 12.7 mm heavy machine gun or 40 mm automatic grenade launcher..
+The Applique Armor is The MAX SX family has a modular cab, which can be fitted with add-on armor protection kit. This kit was jointly developed by MAN and Krauss-Maffei Wegmann. It provides protection against 7.62x39 mm rounds, artillery shell splinters, grenades, small anti-personnel mines. Armored modules are attached to the outside of the cab. Armored kit can be installed within 10 hours in field conditions..
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

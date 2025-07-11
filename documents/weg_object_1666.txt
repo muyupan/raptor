@@ -1,0 +1,61 @@
+This document describes the 1RL257E Krasukha-4 Russian 8x8 Mobile Multifunctional Jammer.
+
+The Krasuha-4 is a broadband multifunctional jamming system designed to neutralize LEO spy satellites such as the US Lacrosse/Onyx series, satellites, ground-based radars, airborne surveillance radars, and radar-guided ordinance at ranges between 150–300 km, and may also cause damage to enemy radar electronic warfare and communications systems. The complex functioning is based on creating powerful jamming at the fundamental radar frequencies and other radio-emitting sources. For jamming of airborne radars to protect the land assets against airborne threats by observing them using radar the ground jamming unit performs the following tasks: Detection, processing, analysis and recognition of signals embedded in the operating range of frequencies; and, suppression of the main and side-lobe antenna signals of ground based radars for protection against airborne threats such as anti-radiation missiles (ARMs). The Krasuha-4 EW equipment is mounted on two KAMAZ-6350 vehicles. The complex 1RL257 includes two trailers with special equipment. Both trailers are equipped with complex electronic equipment and antennas of various designs. One trailer has an antenna unit on a sliding bar, apparently intended for communication. On the roof of the second trailer a set of antennas is mounted in a distinctive configuration. The three parabolic antennas can be rotated in any direction and at a desired elevation. Thus, the complex EW "Krasuha-4" is able to transmit radio signals without restrictions in azimuth and elevation. Both machines use complex digital equipment with high performance characteristics, which includes the Baguette-23B computer.
+
+This equipment has proliferated into the following countries: Algeria, Iran (Islamic Republic of), Russian Federation.
+
+Here is Variants information for the 1RL257E Krasukha-4 Russian 8x8 Mobile Multifunctional Jammer:
+The Krasukha-2 is The Krasukha-2 is intended to jam AWACS at ranges of up to 250 kilometers (160 mi). The Krasukha-2 is also able to jam other airborne radars, such as radar-guided missiles. The missiles, once jammed, are then provided a false target away from the original to ensure that the missiles are no longer a threat. The Krasukha-2 guard's mobile high priority targets such as the 9K720 Iskander SRBM..
+
+Here is System information for the 1RL257E Krasukha-4 Russian 8x8 Mobile Multifunctional Jammer:
+The Alternative Designation is 1RL257 Krasukha-4; Krasukha-4.
+The Type is Broadband Multifunctional Jamming Station.
+The Manufacturer is KRET corporation,
+BAZ (for wheeled platform of Krasukha-4).
+The Family is Krasukha.
+The In Service is 2010-Present.
+The Chassis is KAMAZ-6350.
+The Crew is 3.
+The Passenger Capacity is INA.
+The Maximum Effective Range is 300.
+The Turret Antenna is 2 Circular Antenna.
+The Telescopic Mast is Yes, located at the rear of the vehicle.
+The Hydraulic Stabilisers is Yes, 2 Hydraulic Stabilisers.
+The Frequency Operating Range is INA.
+The Capability to Suppress Satellites is Yes; however, exact parametric data is not available.
+The Capability to Suppress Ground-Based Radars is Yes; however, exact parametric data is not available.
+The Capability to Suppress Airborne Systems is Yes; however, exact parametric data is not available.
+The Capability to Render Radio-Controlled Missile Attacks Ineffective is Yes.
+The Note #1 is A large turret is mounted at the top of a shelter mounted at the rear of an 8x8 military truck chassis..
+The Note #2 is The Krasukha-4 system works by creating powerful jamming at the fundamental radar frequencies and other radio-emitting sources..
+
+Here is Dimensions (Chassis) information for the 1RL257E Krasukha-4 Russian 8x8 Mobile Multifunctional Jammer:
+The Length is 9.3.
+The Width is 2.5.
+The Height is 3.25.
+The Weight, Combat (Chassis Only) is 12,450.
+
+Here is Automotive information for the 1RL257E Krasukha-4 Russian 8x8 Mobile Multifunctional Jammer:
+The Engine Name is KAMAZ-6350.
+The Engine Type is Diesel.
+The Engine Power is 360.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 95.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 1.4.
+The Fording Depth is 1.75.
+
+Here is Protection information for the 1RL257E Krasukha-4 Russian 8x8 Mobile Multifunctional Jammer:
+The Armor is The cab can be fitted with a class 5a armor which provides protection against the firing of small arms AKM 7.62mm..
+The Applique Armor is Available.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The IR Signature is INA.
+

@@ -1,0 +1,74 @@
+This document describes the PGZ-07/PGZ-09 (Type 07) Chinese 35mm Self-Propelled Anti-Aircraft Gun.
+
+The PGZ-07, now renamed PGZ-09 is a Chinese-made 35mm self-propelled anti-aircraft gun.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Dimensions information for the PGZ-07/PGZ-09 (Type 07) Chinese 35mm Self-Propelled Anti-Aircraft Gun of the System:
+The Length is 6.7.
+The Width is 3.2.
+The Height is 4.82 m with radar up; 3.4 m with radar down.
+The Weight is 35 tons.
+
+Here is Radar #1 (Tracking) information for the PGZ-07/PGZ-09 (Type 07) Chinese 35mm Self-Propelled Anti-Aircraft Gun of the System:
+The Name is INA.
+The Location is Front of Turret.
+The Type is INA.
+The Range of Traverse is 0 degrees, must traverse with turret.
+The Range of Elevation is INA.
+
+Here is Radar #2 (Searching) information for the PGZ-07/PGZ-09 (Type 07) Chinese 35mm Self-Propelled Anti-Aircraft Gun of the System:
+The Name is INA.
+The Location is Above Turret.
+The Type is Doppler.
+The Range of Traverse is 360 degrees.
+The Range of Elevation is INA.
+The Range of Radar is Approximately 20 km.
+
+Here is Automotive information for the PGZ-07/PGZ-09 (Type 07) Chinese 35mm Self-Propelled Anti-Aircraft Gun:
+The Engine Name is 8V150.
+The Engine Type is diesel.
+The Engine Power is 800.
+The Fording Depth is INA.
+The Range, Cruising is 450.
+The Speed, Max on Road is 55.
+
+Here is Data information for the PGZ-07/PGZ-09 (Type 07) Chinese 35mm Self-Propelled Anti-Aircraft Gun of the Communications:
+The Note is System can connect via data-link to communicate with other systems..
+
+Here is Weapon #1 information for the PGZ-07/PGZ-09 (Type 07) Chinese 35mm Self-Propelled Anti-Aircraft Gun of the Main Weapon System:
+The Name is 2 x GDF-002, PG99.
+The Type is Anti-Aircraft Gun similar if not the Oerlikon 35mm KDA autocannon used on the German Gepard..
+The Caliber is 35 mm.
+The Length is INA.
+The Diameter is INA.
+The Action is Gas Operated.
+The Fire on Move is No.
+The Maximum Range is 4,000.
+The Rate of Fire is 1,100.
+The Reload Time is 7.5.
+The Note is The gun mount is electrically powered with an off carriage power supply unit and manual controls are provided for emergency use..
+
+Here is Ammunition information for the PGZ-07/PGZ-09 (Type 07) Chinese 35mm Self-Propelled Anti-Aircraft Gun of the Main Weapon System:
+The Name is INA.
+The Caliber is 35.
+The Ammunition Types is The 35 mm twin-gun can fire four types of lethal and versatile ammunitions, HEI (High Explosive Incendiary), HEI-T (High Explosive Incendiary Tracer), SAPHEI-T (Semi-armor-piercing high-explosive incendiary Tracer) and TP-T (Target Practice Tracer ) cartridges.
+The Muzzle Velocity is 1,175.
+The Basic Load is 2,380 rounds.  560 per gun loaded and 630 per gun at the ready..
+
+Here is Fire Control System information for the PGZ-07/PGZ-09 (Type 07) Chinese 35mm Self-Propelled Anti-Aircraft Gun:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+The IFF is Yes.
+The Laser Range Finder is Yes.
+The Infrared Goniometer is Yes.
+The Thermal Image Tracker is Yes.
+The Doppler Radar is Yes.
+The Optical / Day Sight is Yes.
+
+Here is Protection information for the PGZ-07/PGZ-09 (Type 07) Chinese 35mm Self-Propelled Anti-Aircraft Gun:
+The Armor, Hull is Protection from small arms fire and projectile splinters.
+The NBC Protection is Yes, optional.
+The Armor is Light armor protects against small arms and shrapnel.  Steel front slope also protects against small arms fire..
+The Smoke Generation is Yes, 8 x Smoke Grenade Launchers.
+

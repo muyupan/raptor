@@ -1,0 +1,68 @@
+This document describes the 1L13-3 Nebo SV (Box Spring) Russian Mobile 2D Early Warning Radar.
+
+The 1L13-3 Nebo radar (NATO name: BOX SPRING) is a mobile, 2-D early warning radar operating in
+the A/B Band. The 1L13-3 Nebo radar ECCM features include pulse to pulse frequency agility. It is designed to reject chaff automatically. The 1L13-3 Nebo radar ECCM features include pulse to pulse frequency agility. It is designed to reject
+chaff automatically.
+
+
+ Capable of being used as part of a radar system to provide a valuable early warning capability
+against low observable aircraft. As part of an IADS system, the 1L13 Nebo would be used to cue the high-power
+aperture X-band systems to a small acquisition box in which the VLO aircraft can be found.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the 1L13-3 Nebo SV (Box Spring) Russian Mobile 2D Early Warning Radar:
+The Alternative Designation is 1L13-3 Nebo SV; NATO: Box Spring.
+The Type is Mobile 2D Early Warning Radar.
+The Chassis is Ural 4320.
+The Crew is INA.
+The Truck-Mounted Antenna Rotating Device is Antenna lifting device from horizontal to vertical position Phased array tilting device.
+The Cabin Equipment is Transmitter Device:	 
+Mounted in equipment cabin; Two power output amplifiers based on high power; output devices - endotrones (main and back-up);  Broad band power pre-amplifier;  Exciter	Modulator.
+The Receiver Device, Data Processors and Displays is Mounted in equipment cabin; Cabinets with receiver units, interference rejection system, radar environmental simulator; Displays	 
+Data processing equipment;  IFF transceiver; Digital data processing units.
+The Transmitter Characteristics is Metric (VHF) band of radiated frequencies, Adaptive programmable and manual frequency agility, Sector radiation mode in azimuth, Shaping of RF pulse by a complex signal,  Shaping of RF pulse by complex signal,Crystal stabilisation of RF oscillator, Output device of power amplifier : endotron (high power
+output device)with liquid cooling..
+The Frequency is 30-300 MHz (approx)(NATO A/B Band)(IEEE: VHF Band).
+The Power output is 120-140 kW (peak).
+The PRF is 300 Hz.
+The Accuracy is 400 m/ 0.67 degrees azimuth.
+The Runup Time is INA.
+The Setup/Stow Time is 45 minutes / 45 minutes.
+The Detection Range (Aircraft) at 500 m Altitude is 60 km.
+The Detection Range (Aircraft) at 10,000 m Altitude is 250 km.
+The Detection Range (Aircraft) at 27,000 m Alititude is 350 km.
+
+Here is Dimensions (Chassis: Ural 4320) information for the 1L13-3 Nebo SV (Box Spring) Russian Mobile 2D Early Warning Radar:
+The Length is 7.37.
+The Width is 2.5.
+The Height is 4.5.
+The Weight, Empty is 8.
+The Antenna Length is 6.
+The Antenna Width is 60.
+The Antenna Weight is INA.
+
+Here is Automotive  (Chassis: Ural 4320) information for the 1L13-3 Nebo SV (Box Spring) Russian Mobile 2D Early Warning Radar:
+The Engine Name is YaMZ-740.
+The Engine Type is Diesel.
+The Engine Power is 210.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is 50.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 62.
+The Side Slope is 40.
+The Vertical Step is 0.55.
+The Trench is 1.2.
+The Fording Depth is 1.75.
+
+Here is Protection information for the 1L13-3 Nebo SV (Box Spring) Russian Mobile 2D Early Warning Radar:
+The Armor is INA.
+The Applique Armor is Available to protection against small arms fire and artillery shell splinters.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Personal CBRN equipment.
+The Smoke Equipment is No.
+The IR Signature is No.
+

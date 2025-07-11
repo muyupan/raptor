@@ -1,0 +1,88 @@
+This document describes the M114A1 American 155mm Towed Howitzer.
+
+The M114 155mm howitzer, which was replaced by the M198, is a towed weapon first produced in 1942 as medium artillery. The weapon uses NATO standard 155mm ammunition, with a range of about 14,000m, and was used during World War II in Korea, and in Viet Nam. Until recently they were in service with the National Guard.
+
+ It was the U.S. Army and Marine Corps' principal 155-mm howitzer until the introduction o f the M198 in the early 1980s. It was exported to many other countries as well.
+
+This equipment has proliferated into the following countries: Afghanistan, Argentina, Brazil, Ecuador, El Salvador, Greece, Iran (Islamic Republic of), Jordan, Laos (People's Democratic Republic), Lebanon, Morocco, North Korea (Democratic People's Republic of Korea), Pakistan, Peru, Philippines, Portugal, Saudi Arabia, South Korea (Republic of Korea), Sudan, Thailand, Tunisia, Turkey, Uruguay, Venezuela (Bolivarian Republic of), Viet Nam.
+
+Here is Variants information for the M114A1 American 155mm Towed Howitzer:
+The M114A2 is This is the standard M114 fitted with the longer barrel of the newer M198..
+The M114/39 is This was an upgrade developed by RDM (De Rotterdamsche Droogdok Maatschappij BV) Defense Engineering in Rotterdam, Netherlands. Longer barrel (39 calibers vs. 23) with increased rifling twist from 1 in 25 calibers to 1 in 20, a three-port muzzle brake, larger-capacity equilibrators, revised recoil system inclu ding new metering and recoil rods, maximum elevation increase to 70-deg (1,245 mils) and a greater barrel-chamber volume. The gun carriage was modified to handle the increased forces. Firing weight is 16,755 lb (7,600 kg); traveling length is 32 ft 10 in (10.0 m)..
+The Modified M114 (Israel) is his version was developed as a private venture by Soltam of Israel..
+The 155-mm M65 Howitzer is This is a South Korean conversion of the M114A1 (see separate database entry)..
+The M114 (Iran) is The variant is an Iranian upgraded M114 with an M114/39 barrel designated the HM41..
+
+Here is System information for the M114A1 American 155mm Towed Howitzer:
+The Alternative Designation is M114, M114A.
+The Type is 155mm Towed Howitzer.
+The Family is M114.
+The Manufacturer is Rock Island Arsenal (US).
+The In Service is 1941-Present.
+The Crew is 11.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Carriage is Split trail.
+
+Here is Dimensions information for the M114A1 American 155mm Towed Howitzer:
+The Length, Traveling is 7.32.
+The Length, Barrel is 3.78.
+The Width is 2.44.
+The Height is 1.80.
+The Ground Clearance is 229.
+The Weight, FIring is 5,800.
+The Weight, Traveling is 5,760.
+
+Here is Automotive Requirement information for the M114A1 American 155mm Towed Howitzer:
+The Prime Mover is 6x6 or 8x8 truck.
+
+Here is Communications information for the M114A1 American 155mm Towed Howitzer:
+The Primary is INA.
+
+Here is Howitzer information for the M114A1 American 155mm Towed Howitzer of the Howitzer System:
+The Name is M114 155mm Howitzer.
+The Type is 155.
+The Length, Barrel is 3.78.
+The Breech Type is stepped thread, interrupted screw.
+The Loader Type is Manual.
+The Muzzle Brake Type is INA.
+The Bore Type is 155-mm/23-cal rifled.
+The Maximum Elevation is +65.
+The Minimum Elevation is -2.
+The Traverse Range is 49.
+The Traverse Right is 25.
+The Traverse Left is 24.
+The Recoil System is hydropneumatic.
+The Maximum Effective Range is 14,600.
+The Rate of Fire, first 30 seconds is 2 rounds, 1st 1/2 min.
+The Rate of Fire, first 4 minutes is 8 rounds, 1st 4 min.
+The Rate of Fire, first 10 minutes is 16 rounds, 1st 10 min.
+The Sustained Rate of Fire is 40 rds/hr.
+
+Here is Ammunition (Option 1) information for the M114A1 American 155mm Towed Howitzer of the Howitzer System:
+The Name is M449.
+The Type is HE-APERS.
+The Caliber is 155.
+The Projectile Length is 698.
+The Projectile Weight is 43.09.
+The Muzzle Velocity is 563.
+The Basic Load is INA.
+The Shell Type is Separate-loading bagged charge.
+
+Here is Ammunition (Option 2) information for the M114A1 American 155mm Towed Howitzer of the Howitzer System:
+The Name is M107.
+The Type is HE.
+The Caliber is 155.
+The Projectile Length is 607.
+The Projectile Weight is 42.91.
+The Muzzle Velocity is 5623.
+The Basic Load is INA.
+The Shell Type is Separate-loading bagged charge.
+
+Here is Fire Control information for the M114A1 American 155mm Towed Howitzer:
+The Name is INA.
+The Computerized FCS is No.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Collimator is INA.
+

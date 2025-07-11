@@ -1,0 +1,58 @@
+This document describes the RBS 70 Swedish Man-Portable Air Defense Missile System (MANPADS).
+
+The RBS-70 is a modern man portable SAM system of Swedish origin. It was developed as a highly mobile system to primarily protect predefined areas, not troops on the move. The manual SACLOS guidance sets this system apart from the more common infrared homing MANPADS designs.
+
+The RBS-70 uses a pedetal launcher on which a single operator is seated. The operator identifies targets or receives target information from mobile radar systems such as the Giraffe. The SACLOS guidance requires the operator to keep the target within the crosshairs while the missile uses laser beam riding guidance to reach the target. The laser receiver is in the tail of the missile and is very hard to jam. This required exhaust vents in the middle of the missile. The laser seeker and warhead are in the nose.
+
+RBS 70 (Robotsystem 70, "robot" meaning "missile" in this context in Swedish) is a man-portable air-defense system (MANPADS) designed for anti-aircraft warfare in all climate zones and with little to no support from other forces. Originally designed and manufactured by the Swedish defence firm of Bofors Defence (now Saab Bofors Dynamics, since 2000). It uses the RB 70 missile which is also in use in a number of other Swedish missile systems.
+
+The RBS 70 was developed to supply the Swedish air defense with a low-cost, easy-to-use and effective short-range SAM system. Before RBS 70 the mainstay of Swedish air defense was American MIM-23 Hawk systems (RBS 77 and RBS 97 "Swedish HAWK"), American Redeye (RBS 69) and the Swedish Bofors m/48 AAA.
+
+The Swedish Army has decided to replace the RBS 70 with a ground-launched version of the IRIS-T missile.
+
+The RBS 70 is a Short-range Air Defense (SHORAD) laser guided missile system.
+
+Mk 1 and Mk 2 followed shortly and are the standard RBS 70 with a range of 5,000–6,000 m and a ceiling of 3,000 m. Currently, RBS 70 is operational in 18 customer countries, on all continents and in arctic, desert, and tropical environments.
+
+In 2003 the "BOLIDE" upgrade system was introduced to the RBS 70.[3] The BOLIDE missile is an RBS 70 Mk 2 upgrade that is faster (Mach 2 vs Mach 1.6), with a range up to 8 km (5.0 mi) and can reach an altitude of 6 km. Deliveries were initiated in 2005.
+
+In 2011, Saab Bofors Dynamics (successor company of Bofors Defence) announced the introduction of the new RBS 70 New Generation (RBS 70 NG). The upgraded version included an improved sighting system capable of night vision and improved training and after-action review features.
+
+This equipment has proliferated into the following countries: Argentina, Australia, Bahrain, Brazil, Czech Republic, Finland, Indonesia, Iran (Islamic Republic of), Ireland, Latvia, Lithuania, Mexico, Pakistan, Singapore, Sweden, Thailand, United Arab Emirates, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the RBS 70 Swedish Man-Portable Air Defense Missile System (MANPADS):
+The RBS 70 is Original production model from 1977. It is sometimes referred to as the "Mk.0"..
+The RBS 70 Mk.1 is Improved RBS-70 with an increased range, introduced in 1990..
+The RBS.90 is Further development of the Mk.1 introduced in 1991, with improved guidance and optics, to include a wider-angle laser and sight, a passive thermal imaging capability, and a fire control unit that mounts two or three launch tubes instead of one. The RBS.90 model was developed especially for the Swedish armed forces. It is also called the RBS 70 Mk.1+..
+The RBS 70 Mk.2 is Successor to the Mk.1 series, with a further increased range, and increased armor penetration as well. Introduced in 1995..
+The Bolide is Further development of the Mk.2 first introduced in 2005, with radically improved performance. The name is often capitalized as "BOLIDE". Employs the BORC thermal imaging sight, and has uncooled laser diodes (previous models required Freon coolant)..
+The RBS 70 NG is The latest weapon in the series, the RBS 70 NG ("Next Generation") employs improved sights and optics, and a telemetry system allowing for improved training and after-action analysis. The missile itself is apparently the same as that of the Bolide..
+The Lvrbv 701 is The Lvrbv 701 ("Luftvärnsrobotvagn 701") is an armored, fully-tracked air defense vehicle utilizing the RBS 70. It utilizes a chassis converted from the retired 1950s-era Ikv 103 self-propelled howitzer. Sweden was the sole user of the Lvrbv 701, and retired them all by 2000..
+The ASRAD-R is The ASRAD-R (Advanced Short Range Air Defense System - RBS) is a turret utilizing a MANPADS missile, Active Electronically Scanned Array (AESA) radar, and an infra-red search and track. First demonstrated on an M113 Gavin chassis, it was adopted by several nations on a variety of platforms. The missiles used in this system vary, and include both the FIM-92 Stinger and the Bolide..
+The ItO 2005 is Mobile air defense system including an ASRAD-R turret and the Bolide missile system, mounted on a Sisu Nasu chassis. Operated by Finland..
+
+Here is System information for the RBS 70 Swedish Man-Portable Air Defense Missile System (MANPADS):
+The Alternative Designation is RBS 70.
+The Type is Man-Portable Air Defense Missile System (MANPADS).
+The Manufacturer is Bofors Defence (1980s–2000)
+Saab Bofors Dynamics (since 2000).
+The Family is RBS.
+The Crew is 1.
+The Layout is The RBS-70 uses a pedetal launcher on which a single operator is seated. The operator identifies targets or receives target information from mobile radar systems such as the Giraffe. The SACLOS guidance requires the operator to keep the target within the crosshairs while the missile uses laser beam riding guidance to reach the target. The laser receiver is in the tail of the missile and is very hard to jam. This required exhaust vents in the middle of the missile. The laser seeker and warhead are in the nose..
+The Engine is Booster and sustainer with smokeless solid propellant.
+The Warhead is 1.1 kg Combined with 3,000 tungsten spheres and shaped charge.
+The Detonation Mechansim is Adaptive proximity fuze function with 3 selectable modes (Off, Normal, Small target).
+The Operational Range is 250 m – 8 km.
+The Flight Altitude is 5,000 m.
+The Speed is Mach 1.6 (Mark 0/1)
+Mach 2 (5 km in 12 seconds) (Mark 2/BOLIDE).
+The Guidance System is Laser beam riding missile.
+The Mobility is The RBS-70 is man portable by three men, but only over short distances. The launcher is rather heavy, especially with night sight fitted. Usually the launcher is transported in a utility vehicle or truck. The launcher can also be mounted on vehicles..
+The Users is The RBS-70 was first adopted by the Swedish military to realize their doctrine of mobile warfare with limited maintainance systems. The RBS-70 has been exported to a large number of nations, mainly in Europe and Asia..
+
+Here is Dimensions information for the RBS 70 Swedish Man-Portable Air Defense Missile System (MANPADS):
+The Length is 1.32.
+The Width is 106.
+The Wingspan is 32 cm.
+The Weight, Combat is 87 kg (Stand + Sight + Missile).
+

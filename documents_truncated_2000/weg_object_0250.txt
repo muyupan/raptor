@@ -1,0 +1,35 @@
+This document describes the Jump 20 American Unmanned Aerial Vehicle (UAV).
+
+The Jump 20 American Unmanned Aerial Vehicle (UAV) is a vertical takeoff and landing (VTOL), fixed-wing unmanned aircraft used to provide advanced multi-sensor intelligence, surveillance, and reconnaissance (ISR) services. Delivering 14+ hours of endurance and an operational range of 185 km (115 mi), the JUMP 20 is ideal for multi-mission operations. Runway independent, the system can be set up and operational in less than 60 minutes without the need for launch or recovery equipment.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the Jump 20 American Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Jump 20.
+The Type is Vertical Take-Off and Landing Unmanned Aerial Vehicle (UAV).
+The Manufacturer is AeroVironment.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Ground Control Station is The tactical drone can be operated by two crew members from the ground control station..
+The Payload Capacity is 13.6 kg.
+The Camera is The standard payload options are Cloud Cap Technology’s TASE series gyro-stabilised, gimballed electro-optical / infrared (EO/IR) imaging systems such as TASE400, TASE400HD, TASE400DXR and TASE400LRS. The EO / IR cameras provide imagery and video data and target tracking in real time, both during the day and at night..
+The Launching System is No launch system or runway required. Vertical takeoff & Landing.
+The Recovery System is Vertical Take-Off and Landing.
+The GCS is Common GCS with T-20.
+
+Here is Dimensions information for the Jump 20 American Unmanned Aerial Vehicle (UAV):
+The Length is 2.9 m.
+The Wingspan is 5.7 m.
+The Height is INA.
+The Maximum Takeoff Weight is 97.5 kg.
+
+Here is Automotive information for the Jump 20 American Unmanned Aerial Vehicle (UAV):
+The Engine Name is Mogas.
+The Engine Type is 190 cc EFI Engine.
+The Engine Power is INA.
+The Maximum Speed is 92.6 km/h.
+The Cruising Speed is INA.
+The Service Ceiling is 5181.6 m.
+The Maximum Distance is 185 km.
+The Endurance is 14 hours.
+

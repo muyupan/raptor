@@ -1,0 +1,148 @@
+This document describes the M12-1385/1535 Austrian 120mm Mortar.
+
+The M12-1385/1535 Austrian 120mm Mortar is developed by Hirtenberger Defence Systems (HDS), the tough and dependable M12 120 mm weapon system comprises a 120 mm long-range weapon available in different barrel lengths, a family of ammunition, auxiliary field equipment, sighting systems and a fully digital fire-control system containing all ballistic data. The M12 can achieve a range of up to 8 500 meters, ensuring maximum firepower and reliability in challenging conditions.
+
+The system is quick to deploy and easy to operate and can be mounted on a specialized transport solution provided by HDS. The precise engineering and carefully coordinated development of the M12 facilitates high degrees of effectiveness in the most extreme environments, enabling optimal performance – and safety – at all times. HDS ammunition is made to the highest quality and safety standards and includes high-explosive, smoke variants (white phosphorous, red phosphorous, and titanium tetrachloride), visible and infrared illumination, as well as training ammunition.
+
+This equipment has proliferated into the following countries: Austria, New Zealand.
+
+Here is M12 – 1385 information for the M12-1385/1535 Austrian 120mm Mortar of the System:
+The Caliber is 120 mm.
+The Maximum Firing Range is 8,500 m.
+The Maximum Rate of Fire is 15/min.
+The Maximum Operating Gas Pressure is 190 MPa.
+
+Here is M12 – 1535 information for the M12-1385/1535 Austrian 120mm Mortar of the System:
+The Caliber is 120 mm.
+The Maximum Firing Range is 9,000 m.
+The Maximum Rate of Fire is 15/min.
+The Maximum Operating Gas Pressure is 190 MPa.
+
+Here is M12 – 1385 information for the M12-1385/1535 Austrian 120mm Mortar of the Dimensions:
+The Length of Barrel (Overall) is 1,750 mm.
+The Ballistic Length is 1,385 mm.
+The Diameter of Base Plate is 1,100 mm.
+The Carriage Length (Optional) is 3,700 mm.
+The Carriage Width (Optional) is 1,780 mm.
+The Barrel Weight is 82 kg.
+The Bipod Weight is 50 kg.
+The Base Plate Weight is 120 kg.
+The Total Weight in Firing Position is 252 kg.
+The Total Weight with Trailer (Optional) is 637 kg.
+
+Here is M12 – 1535 information for the M12-1385/1535 Austrian 120mm Mortar of the Dimensions:
+The Length of Barrel (Overall) is 1,900 mm.
+The Ballistic Length is 1,535 mm.
+The Diameter of Base Plate is 1,100 mm.
+The Carriage Length (Optional) is 3,700 mm.
+The Carriage Width (Optional) is 1,780 mm.
+The Barrel Weight is 95 kg.
+The Bipod Weight is 50 kg.
+The Base Plate Weight is 120 kg.
+The Total Weight in Firing Position is 265 kg.
+The Total Weight with Trailer (Optional) is 750 kg.
+
+Here is Ammunition (Option #1) information for the M12-1385/1535 Austrian 120mm Mortar of the Ammunition:
+The Name is PRACTICE
+Mk2.
+The Caliber is 120 mm.
+The Length is 753 mm.
+The Weight is 14.6 kg.
+The Filler is Inert.
+The Terminal Effect is Impact signature
+(only with life fuze).
+
+Here is Ammunition (Option #2) information for the M12-1385/1535 Austrian 120mm Mortar of the Ammunition:
+The Name is SMK-WP
+Mk2.
+The Caliber is 120 mm.
+The Length is 753 mm.
+The Weight is 14.6 kg.
+The Filler is White phosphorus.
+The Terminal Effect is Screening by fast
+smoke generation..
+
+Here is Ammunition (Option #3) information for the M12-1385/1535 Austrian 120mm Mortar of the Ammunition:
+The Name is SMK-TTC
+Mk2.
+The Caliber is 120 mm.
+The Length is 753 mm.
+The Weight is 14.6 kg.
+The Filler is Titanium tetrachloride.
+The Terminal Effect is Extraordinary fast
+generation of cold
+smoke.
+
+Here is Ammunition (Option #4) information for the M12-1385/1535 Austrian 120mm Mortar of the Ammunition:
+The Name is SMK-RP
+Mk3.
+The Caliber is 120 mm.
+The Length is 753 mm.
+The Weight is 14.6 kg.
+The Filler is Red phosphorus.
+The Terminal Effect is Smoke generation
+Smoke duration: 140 sec.
+
+Here is Ammunition (Option #5) information for the M12-1385/1535 Austrian 120mm Mortar of the Ammunition:
+The Name is HE-TNT
+Mk2.
+The Caliber is 81 mm.
+The Length is 753 mm.
+The Weight is 14.6 kg.
+The Filler is TNT.
+The Terminal Effect is Number of fragments
+> 13000 (> 2300 fragments
+with m > 0.56 g)..
+
+Here is Ammunition (Option #6) information for the M12-1385/1535 Austrian 120mm Mortar of the Ammunition:
+The Name is HE-TNT
+Mk2.
+The Caliber is 120 mm.
+The Length is 753 mm.
+The Weight is 14.6 kg.
+The Filler is TNT.
+The Terminal Effect is Number of fragments
+> 13000 (> 2300 fragments
+with m > 0.56 g)..
+
+Here is Ammunition (Option #7) information for the M12-1385/1535 Austrian 120mm Mortar of the Ammunition:
+The Name is HE CONFRAG
+Mk3.
+The Caliber is 120 mm.
+The Length is 753 mm.
+The Weight is 14.6 kg.
+The Filler is INA.
+The Terminal Effect is Increased lethality by
+more than 60%
+Number of Fragments
+10540 (3929 fragments
+with m > 0.56 g)..
+
+Here is Ammunition (Option #8) information for the M12-1385/1535 Austrian 120mm Mortar of the Ammunition:
+The Name is ILL-VIS
+Mk3.
+The Caliber is 120 mm.
+The Length is 841 mm.
+The Weight is 14.8 kg.
+The Filler is INA.
+The Terminal Effect is Luminosity: > 1200000 cd
+Illumination duration: 50 sec.
+Descent rate: 5 m/ s.
+
+Here is Ammunition (Option #9) information for the M12-1385/1535 Austrian 120mm Mortar of the Ammunition:
+The Name is ILL-IR
+Mk3.
+The Caliber is 120 mm.
+The Length is 841 mm.
+The Weight is 14.8 kg.
+The Filler is INA.
+The Terminal Effect is Illumination duration: 50 sec.
+High infrared emission,
+low visible emission
+Descent rate: 5 m/ s.
+
+Here is FIre Control System (FCS) information for the M12-1385/1535 Austrian 120mm Mortar:
+The Forward Observer Computer is The Forward Observer Computer observes locations, firing planning functions, variable correction options, and simultaneous fire missions..
+The Mortar Computer is The Mortar Computer controls multiple weapons, ammunition stores, surveys calculation options, and firing planning functions..
+The Military Handheld Computer is The Military Handheld Computer consists of a internal GPS system, battery, touch screen, and a mouse backup and hotkey..
+

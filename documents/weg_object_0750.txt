@@ -1,0 +1,32 @@
+This document describes the ARK E35 Chinese Unmanned Aerial Vehicle (UAV).
+
+The ARK E35 Chinese Unmanned Aerial Vehicle (UAV) is a compound-wing heavy-duty inspection UAV, which has the characteristics of fully automatic flight, ultra-long range, large cargo capacity, etc., and can perform autonomous cruise missions. The UAV supporting systems include an operation control platform, interconnected communication channels, and well-developed ground facilities.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the ARK E35 Chinese Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is ARK E35.
+The Type is Vertical Take-Off and Landing (VTOL).
+The Manufacturer is Shenzhen Skylab M&C Technology Company.
+The Crew is Unmanned.
+The Payload Capacity is 10 kg.
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+The Operating Temperature is -20~45℃.
+
+Here is Dimensions information for the ARK E35 Chinese Unmanned Aerial Vehicle (UAV):
+The Length is 1.8 m.
+The Wingspan is 3.5 m.
+The Height is 0.61 m.
+The Maximum Takeoff Weight is 33.5 kg.
+
+Here is Automotive information for the ARK E35 Chinese Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Maximum Speed is INA.
+The Cruising Speed is 79 km/h.
+The Service Ceiling is INA.
+The Maximum Range is 120 km.
+The Endurance is 160 min.
+

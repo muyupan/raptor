@@ -1,0 +1,116 @@
+This document describes the EE-9 Cascavel Mark 3 Brazilian 6x6 Armored Reconnaissance Vehicle.
+
+The EE-9 Cascavel Mark 3 was the first Cascavel built for export.
+
+Iran Imports a large number of its military weapons and vehicles from other countries. 
+
+ The Mark 3 was powered by a Mercedes-Benz OM 352A 170-hp diesel engine connected to an Allison Transmission AT-540 automatic transmission. A central tire inflation system was fitted.
+Mark 3 vehicles were equipped with a French Hispano-Suiza H 90 turret with a Giat 90-mm gun. The H 90 turret carries 20 rounds for the main gun and 2,000 rounds for the coaxial 7.62-mm machine gun. Elevation was -8/+15 degrees and 360 degrees of the traverse. There were two smoke dischargers, one on ei the side of the turret rear.
+
+This equipment has proliferated into the following countries: Bolivia (Plurinational State of), Brazil, Burkina Faso, Chad, Colombia, Congo, Cyprus, Ecuador, Gabon, Ghana, Guyana, Iran (Islamic Republic of), Iraq, Morocco, Myanmar, Nigeria, Paraguay, Qatar, Suriname, Togo, Tunisia, Uruguay, Zimbabwe.
+
+Here is Variants information for the EE-9 Cascavel Mark 3 Brazilian 6x6 Armored Reconnaissance Vehicle:
+The Mark 2/Cascavel I/Cascavel Magro (Thin Rattlesnake) is 1st model with 37-mm gun removed from obsolete M3 Stuart tanks with Mercedes diesel engine..
+The Mark 3/Cascavel II/Cascavel Gordo (Fat Rattlesnake) is 1st export model with Mercedes diesel engine, turret ring widen for Giat 90-mm gun, & 2 smoke dischargers..
+The Mark 4/Cascavel III is Engesa EC-90 90-mm gun, 7.62-mm coaxial MG, anti-aircraft MG (12.7-mm or 7.62-mm) on commanders cupola, & a Detroit diesel engine..
+The Mark 5/Cascavel IV is Mark 4 with central tire pressure regulation system, Mercedes OM352 diesel engine & disk brakes..
+The Mark 6 is Mark 5 with a Mercedes OM352A engine..
+
+Here is System information for the EE-9 Cascavel Mark 3 Brazilian 6x6 Armored Reconnaissance Vehicle:
+The Alternative Designations is EE-9 Cascavel Mark 3.
+The Description is 6 X 6 ARV developed in conjunction with the EE-11 Urutu APC as both share many of the same components; vehicle is for recon & route protection as no dismounted soldiers are available.
+The Manufacturer is Engesa.
+The In Service is 1975-Present.
+The Crew is 3 (driver, commander, gunner).
+
+Here is Dimensions information for the EE-9 Cascavel Mark 3 Brazilian 6x6 Armored Reconnaissance Vehicle:
+The Length, Hull is 5.20.
+The Length, Gun Foward is 6.20.
+The Width Overall is 2.64.
+The Height, Commander's Cupola is 2.68.
+The Height, Turret Roof is 2.28.
+The Height, Hull Top is 1.75.
+The Combat Weight is 13.4.
+The Ground pressure is INA.
+The Ground Clearance, Rear Axle is 0.34.
+The Ground Clearance, Hull Center is 0.50.
+The Track is 2.10.
+The Wheelbase is 2.34 m + 1.41 m.
+
+Here is Automotive information for the EE-9 Cascavel Mark 3 Brazilian 6x6 Armored Reconnaissance Vehicle:
+The Engine Name is Mercedes-Benz OM 352A.
+The Engine Type is Diesel.
+The Engine Power is 170.
+The Power-to-Weight Ratio is 15.8 hp/metric ton.
+The Transmission is Allison Transmission AT-540 automatic transmission.
+The Maximum Road Speed is 100.
+The Maximum Range is 880.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.6.
+The Trench is 1.
+The Fording is 1.
+The Fuel is 390 liters.
+The Front Suspension is independent with coil springs and double-action shock absorbers.
+The Rear Suspension is "boomerang" walking beam suspension with semi-elliptic springs and double-action shock absorbers.
+The Tire Inflation System is Yes.
+
+Here is Communications information for the EE-9 Cascavel Mark 3 Brazilian 6x6 Armored Reconnaissance Vehicle:
+The Primary is INA, dependent on country using the vehicle..
+
+Here is System information for the EE-9 Cascavel Mark 3 Brazilian 6x6 Armored Reconnaissance Vehicle of the Main Weapon System:
+The Name is Giat 90-mm Gun.
+The Type is Anti-Aircraft Machine Gun.
+The Turret Type is French Hispano-Suiza H 90 turret.
+The Caliber/length is 12.7 mm (.50 caliber).
+The Maximum Effective Range is 1500 m (Against High Hard Armor-HHA).
+The Armor penetration is SLAP (Saboted Light Armor Penetrator); 34 mm HHA at 500 m.
+The Muzzle Velocity is M33 Ball: 890
+SLAPT (Tracer): 1215.
+The Maximum Elevation is +15.
+The Minimum Elevation is -8.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Ammo Type is 800 Rounds:
+Ball, Tracer, AP, API, API-T, AP Hardcore, Multipurpose, SLAP, SLAPT.
+
+Here is System information for the EE-9 Cascavel Mark 3 Brazilian 6x6 Armored Reconnaissance Vehicle of the Auxiliary Weapon System:
+The Name is M2 HB Anti-Aircraft Machine Gun.
+The Type is 12.7 mm.
+The In Service is 1933-Present.
+The Manufacturer is Current: General Dynamics, Fabrique Nationale.
+The Proliferation is Over 3 Million.
+The Max Rate of Fire (M2HB Version) is 450-600 rds/min.
+The Max Rate of Fire (AN/M2 Version) is 750-850 rds/min.
+The Max Rate of Fire (AN/M3 Version) is 1,200-1,300 rds/min.
+The Length, Total is 1,654 mm.
+The Length, Barrel is 1,143 mm.
+The Weight, Gun Only is 38 kg.
+The Weight, Gun and Tripod is 58 kg.
+The Action is Short recoil-operated.
+
+Here is Ammunition information for the EE-9 Cascavel Mark 3 Brazilian 6x6 Armored Reconnaissance Vehicle of the Auxiliary Weapon System:
+The Name is INA.
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is 0.50 BMG (12.7×99mm NATO).
+The Muzzle Velocity is 450-1,300 m/s.
+The Effective Range is 1,800-2,000 m.
+The Basic Load is 2,000 ea.
+
+Here is Fire Control information for the EE-9 Cascavel Mark 3 Brazilian 6x6 Armored Reconnaissance Vehicle:
+The Name is INA.
+The Computerized FCS is INA.
+The Rangfinder is Optional laser rangefinder mounted over main gun or integrated with gunner's sight.
+
+Here is Protection information for the EE-9 Cascavel Mark 3 Brazilian 6x6 Armored Reconnaissance Vehicle:
+The Armor (turret front) is 16 mm.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Self-entrenching Blade is No.
+The NBC Protection System is Available.
+The Smoke Equipment is Available (up to 2 smoke dischargers on either side for a total of 4).
+The Survivability Equipment is Welded multi-layer armor.
+

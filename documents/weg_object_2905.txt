@@ -1,0 +1,201 @@
+This document describes the RKhM-4-01 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle.
+
+The RKhM-4 is designed for radiation and chemical agent reconnaissance day and night, under adverse meteorological conditions, in rough terrain when negotiating natural and artificial ground or water obstacles. The vehicle design is based on the BTR-80 APC. The RKhM-4-01 vehicle: carries out field radiation level metering conducts radioactivity testing of objects and samples; detects radiation (outside vehicle); carries out automatic atmosphere testing for contaminants; conducts periodic tests for air contamination and contamination of objects and samples; conducts sampling for radioactivity tests and contaminating substance tests; flags contaminated areas; advises of contamination in the area of patrolling; conducts terrain orientation in adverse terrain and weather conditions, day and night; conducts weather observations.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation.
+
+Here is Variants information for the RKhM-4-01 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The RKhM-4 is The RKhM-4 (Razvedyvatelnaya Khimicheskaya Mashina) chemical reconnaissance vehicle is fitted with various detection devices for the detection of radiation, biological and chemical agents..
+The RKhM-4-01 is The RKhM-4-01 vehicle is an updated version of the RKhM-4. Biological, chemical and radiological detection equipment fitted to the RKhM-4-01 vehicle.
+The RKhM-4-02 is The RKhM-4-02 is another incremental update to the base vehicle..
+The RKhM-6 is The RKhM-6, is another incremental update of the RKhM-4..
+The RPM-2 is The RPM-2 (Razvedivatelno-Poiskovaya Mashina) radiation survey/reconnaissance vehicle is based on the RKhM-4..
+
+Here is System information for the RKhM-4-01 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The Alternative Designation is RKhM-4-01.
+The Type is CBRN Reconnaissance Vehicle.
+The Description is The RKhM-4-01 is designed for radiation and chemical agent reconnaissance day and night, under adverse meteorological conditions, in rough terrain when negotiating natural and artificial ground or water obstacles..
+The Manufacturer is Arzamas Machine Plant..
+The Configuration is 8x8.
+The Crew is 3.
+
+Here is Dimensions information for the RKhM-4-01 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The Length is 7.7.
+The Width is 2.9.
+The Height is 2.41.
+The Weight, Combat is 13.6.
+
+Here is CBRN Equipment information for the RKhM-4-01 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The Dose Rate Meter is IMD-21B (IMD-1r) & DP-5V dose rate meter.
+The Gas Detector is GSA-13 automatic gas detector.
+The Chemical Alert System is SKhT chemical alert flare launcher with control panel.
+The Gas Identifier is PGO-11 semiautomatic gas identifier.
+The Sampling Equipment Kit is KPO-1 sampling equipment kit.
+The Chemical Agent Detector is VPKhR chemical agent detector kit.
+The Meteorology Kit is MK-3M meteorology kit.
+The Warning Sign Kit is KZO-2 warning sign kit.
+
+Here is Automotive information for the RKhM-4-01 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The Engine Name is KamAZ-7403.
+The Engine Type is Water-cooled, V8 Diesel.
+The Automotive Performance is 260.
+The Range, Cruising is 600.
+The Speed, Maximum Road is 80.
+The Speed, Maximum Off-Road is 60.
+The Speed, Maximum Swim is 10.
+The Speed, Radiological Reconnaissance is 30.
+The Speed, Chemical Reconnaissance is 10.
+The Speed, Biological Reconnaissance is INA.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.5.
+The Trench is 2.0.
+The Fording Depth is Amphibious.
+
+Here is Communications information for the RKhM-4-01 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The Primary is R-173.
+The Secondary is R-163.
+The Intercome is R-174.
+
+Here is System information for the RKhM-4-01 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle of the Main Weapons System:
+The Name is 1 x KPVT 14.5mm Heavy Machine Gun (KPV).
+The Type is Heavy Machine Gun (KPV).
+The Caliber is 14.5mm.
+The Manufacturer is V.A. Degtyarev Plant.
+The In Service is 1949-Present.
+The Proliferated is Widely Proliferated 
+ Afghanistan
+ Albania
+ Algeria
+ Angola
+ Armenia
+ Bangladesh
+ Benin
+ Bulgaria: locally produced
+ Cambodia
+ Cameroon
+ Congo
+ China: Type 56 machine gun, produced by Norinco
+ Cuba
+ Czechoslovakia (ex)
+ Egypt
+ Eritrea
+ Estonia
+ Ethiopia
+ Finland (KPVT)
+ Georgia
+ Guinea-Bissau
+ Hungary
+ India - Manufactured at Ordnance Factory Tiruchirappalli
+ Iraq- Iraqi Armed Forces
+Popular Mobilization Forces
+ Iraqi Kurdistan
+ Iran
+ Islamic State
+ Ivory Coast
+Izz ad-Din al-Qassam Brigades
+ Laos
+ Lebanon
+ Libya
+ Malawi
+ Mali - Armed and Security Forces of Mali
+ Malta - North Korea-made KPVs
+ Mongolia
+ Mozambique
+ Myanmar
+ North Korea
+ Nicaragua
+ Pakistan: Used by the Pakistan Army.
+ Panama
+ Poland
+ Romania: KPV and KPVT built under license
+ Russia
+ Sahrawi Arab Democratic Republic
+ São Tomé and Príncipe
+ Serbia (KPVT)
+ Sierra Leone: Chinese QJG56 and Polish KPVT
+ Slovenia (KPVT)
+ Somalia
+ South Africa
+ Sudan
+ Syria
+ Togo
+ Ukraine
+ Yemen
+ Vietnam
+ Tanzania
+ Zimbabwe.
+The Length, Total is 1.980.
+The Barrel Length is 1,346.
+The Width is 162.
+The Height is 225.
+The Weight is 49.
+The Rate of Fire is 600.
+The Maximum Firing Range is 4,000.
+The Effective Firing Range is 3,000.
+The Maximum Elevation is +60.
+The Minimum Elevation is -4.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+
+Here is Ammunition information for the RKhM-4-01 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle of the Main Weapons System:
+The Name is INA.
+The Type is API-T.
+The Caliber is 14.5.
+The Cartridge is 14.5×114 mm.
+The Muzzle Velocity is 1,005.
+The Effective Range (Day) is 2,000.
+The Effective Range (Night) is INA.
+The Tactical Range is 1,500-2,000.
+The Armor Penetration is 20 at 1,000 m/ 30 at 500 m.
+The Basic Load is 500.
+The Note is Additional Ammo includes: API, I-T.
+
+Here is System information for the RKhM-4-01 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle of the Auxiliary Weapon System:
+The Name is 1 x 7.62mm PKT (Kalashnikov's Machine Gun) 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Length, Total is 1,203.
+The Length, Barrel is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Max Rate of Fire is 650.
+The Effective Rate of Fire is 250-300.
+The Effective Firing Range (With Sight Adjustments) is 100-1,500.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the RKhM-4-01 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle of the Auxiliary Weapon System:
+The Name is 57-N-323S.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR km.
+The Muzzle Velocity is 855.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 2,500.
+
+Here is Fire Control information for the RKhM-4-01 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Vehicle Commander is INA.
+The Thermal Sight Gunner is INA.
+The Gunner Day Sights is 1P3-6, 1.2x/4x.
+The Main Gun Stabilization is No.
+The Infrared Searchlight is OU-3GA2M.
+
+Here is Protection information for the RKhM-4-01 Russian 8x8 Amphibious CBRN Reconnaissance Vehicle:
+The Hull Armor is The front armor of the RkhM-4-01 protects against 12.7 mm rounds. All-round protection is against 7.62 mm rounds and artillery shell splinters..
+The Turret Armor is Protection against 12.7mm and shrapnel.
+The Applique Armor is Available.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes, Collective.
+The Smoke Equipment is 6 x 81-mm smoke grenade launchers.
+

@@ -1,0 +1,59 @@
+This document describes the THeMIS Cargo Estonian Tracked Unmanned Ground Vehicle (UGV).
+
+The THeMIS Estonian Tracked Unmanned Ground Vehicle (UGV) is a multi-role unmanned ground vehicle (UGV) intended to reduce the number of troops on the battlefield. THeMIS’ open architecture enables it to be rapidly configured from having a transport function to being weaponized, performing ordnance disposal, or supporting intelligence operations according to the nature of the mission.
+
+This equipment has proliferated into the following countries: Estonia, France, Germany, India, Netherlands, Norway, Spain, Ukraine, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the THeMIS Cargo Estonian Tracked Unmanned Ground Vehicle (UGV):
+The THeMIS Cargo Mortar carrier is The THeMIS Mortar carrier has been adjusted to accommodate a mortar up to 81 mm. The Cargo platform is equipped with a specially designed suspension system for safe transportation and utilization of the mortar, extra equipment and ammunition, making it rapidly deployable on harsh terrain. The main purpose of this system is to enable logistical support and indirect fire for maneuver forces..
+The THeMIS Cargo CASEVAC is The purpose of the CASEVAC platform is to provide rapid evacuation for urgent casualties from the point of injury to higher-level medical facilities. It reduces the need for manpower usually used for casualty evacuation. The vehicle facilitates most NATO stretchers used in the armed forces..
+
+Here is System information for the THeMIS Cargo Estonian Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is THeMIS (Tracked Hybrid Modular Infantry System).
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is Milrem Robotics.
+The Configuration is Tracked.
+The Crew is Unmanned.
+The Rated Payload Weight is 750 kg.
+The Maximum Payload Weight is 1,200 kg.
+The Sensors is LiDARs.
+The Cameras is IR (MIL-STD-810G), Thermal, HDR.
+The Lights is LED, IR.
+
+Here is Dimensions information for the THeMIS Cargo Estonian Tracked Unmanned Ground Vehicle (UGV):
+The Length is 240 cm.
+The Width is 200 cm.
+The Height is 115 cm.
+The Weight, Combat is 1,630 kg.
+
+Here is Automotive information for the THeMIS Cargo Estonian Tracked Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Hybrid Diesel.
+The Engine Power Options is Battery Pack, Lead acid or Li-ion; Diesel engine & electric generator.
+The Maximum Range is 1.5 km (Line of Sight Control Range).
+The Maximum Speed is 20 km/h.
+The Towing Speed is 80 km/h.
+The Amphibious is No.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Ground Clearance is 60 cm.
+The Fording is 61 cm.
+The Gap Crossing is 90 cm.
+The Pulling Force is 15 000 N.
+The Hybrid Run Time is 15 hours.
+The Electric Run Time is 1.5 hours.
+
+Here is Communications information for the THeMIS Cargo Estonian Tracked Unmanned Ground Vehicle (UGV):
+The IP Radio is 4W, customizable MIMO Mesh.
+The Encryption is AES256.
+The Frequency Hopping is Supported.
+
+Here is Main Weapon System information for the THeMIS Cargo Estonian Tracked Unmanned Ground Vehicle (UGV):
+The Note is The THeMIS Cargo Estonian Tracked Unmanned Ground Vehicle (UGV) can be equipped with a variety of small arms and mortar systems..
+
+Here is Protection information for the THeMIS Cargo Estonian Tracked Unmanned Ground Vehicle (UGV):
+The Armor is Armor up to STANAG 4569 level 3.
+The Applique Armor is Available.
+The NBC Protection is No.
+The Smoke Equipment is Available.
+

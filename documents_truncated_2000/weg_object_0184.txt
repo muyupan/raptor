@@ -1,0 +1,86 @@
+This document describes the 1L219 Zoopark-1 Russian Mobile Counter-Battery Radar.
+
+The Zoopark-1 missile and artillery round reconnaissance radar system, referred to in the West as a counter-battery radar, was developed by the former Soviet Union in the 1980s as the replacement for the APK-1 Ris radar system. The Zoopark-1 is mounted on an MTLB tracked chassis. It has been designed to automatically determine the coordinates of enemy artillery positions such as mortars, howitzers, rocket launchers, and tactical missile systems. The Zoopark-1 radar system can also serve to monitor the firing results of its own artillery systems. The Zoopark-1 radar system was deployed to Syria in early 2016.
+
+The Zoopark-1 intelligence radar system is completely autonomous and needs five minutes to get set up. The radar can track artillery shells of 82 to 120mm (typically mortar ammunition) at distances of up to 17 kilometers. It can detect 105 to 155mm projectiles at distances of 12 kilometers, multiple launch rocket systems at distances of 22 kilometers, and tactical missiles at ranges of up to 45 kilometers. The radar can track up to 12 targets simultaneously detecting up to 70 firing positions in a minute.
+
+This equipment has proliferated into the following countries: China, Russian Federation.
+
+Here is Variants information for the 1L219 Zoopark-1 Russian Mobile Counter-Battery Radar:
+The Zoopark-1M is The variant entered service in January 2017, according to Russia's Sputnik (March 28, 2017). No details have been revealed. It does include a 1L216 missile and artillery ground reconnaissance system, a 1I38 maintenance vehicle and a ED60 mobile power plant. The system is service with artillery unit s in Russia's Eastern Military District..
+
+Here is System information for the 1L219 Zoopark-1 Russian Mobile Counter-Battery Radar:
+The Alternative Designation is Zoopark-1 1L219.
+The Type is Mobile Counter-Battery Radar.
+The Crew is INA.
+The Chassis is MT-LB.
+The Design is Designed to automatically determine the coordinates of enemy artillery positions such as mortars, howitzers, rocket launchers and tactical missile systems..
+The Band is NATO G-H (4-8 GHz).
+The Scan Sector is 90 degrees.
+The Range, Tactical Missile is 35 km.
+The Range, Multiple Rocket Systems is 12-20 km.
+The Range, Mortars is 12-15 km.
+The Range, Artillery Rounds is 8-10 km.
+The Displacement Time is Less than 5 Minutes.
+The Emplacement Time is Less than 5 Minutes.
+The Service Life is 8 years guaranteed by manufacturer.
+The Note is Zoopark-1 is accompanied by a 1L30 maintenance vehicle and a trailer mounted ED30-T230P-1RPM generator in the field..
+
+Here is Dimensions (Chassis: MTLB) information for the 1L219 Zoopark-1 Russian Mobile Counter-Battery Radar:
+The Length is 6.45.
+The Width is 2.86.
+The Height is 1.86.
+The Weight, Combat is 11,000.
+The Ground Pressure is 0.46 kg/cm2 (standard track) / 0.28 kg/Cm2 (wide track).
+The Antenna Length is INA.
+The Antenna Height is INA.
+The Mast Height is INA.
+
+Here is Automotive (Chassis: MTLB) information for the 1L219 Zoopark-1 Russian Mobile Counter-Battery Radar:
+The Engine Name is YaMZ 238 (Newer versions have the KamAZ-740.50 engine / 360 horsepower).
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 30.
+The Speed Maximum Swim is 5.
+The Fording Depth is Amphibious.
+
+Here is System information for the 1L219 Zoopark-1 Russian Mobile Counter-Battery Radar of the Primary Weapon System on Most Variants:
+The Name is PKT.
+The Type is 7.62 mm, machine-gun.
+
+Here is Ammunition information for the 1L219 Zoopark-1 Russian Mobile Counter-Battery Radar of the Primary Weapon System on Most Variants:
+The Type is API, API-T.
+The Caliber is 7.62.
+The Muzzle Velocity is INA.
+The Basic Load is 1,500.
+The Max Effective Range (Day) is 1,000.
+The Max Effective Range (On the move) is 500.
+The Maximum Aimed Range is 1,500.
+The Min Range is INA.
+The Armor Penetration is 8mm of RHA at 500m.
+The Other Ammunition Types is Light Ball, Ball-T, Heavy Ball, Incendiary.
+
+Here is Fire Control information for the 1L219 Zoopark-1 Russian Mobile Counter-Battery Radar:
+The Name is PP-61AM, 2.6x.
+The Computerized FCS is N/A.
+The Thermal Sight Vehicle Commander is N/A.
+The Thermal Sight Gunner is N/A.
+The Main Gun Stabilization is N/A.
+The Range, Day Sight is 1,500.
+The Range, Thermal Sight is N/A.
+The Field of View is 23.
+
+Here is Protection information for the 1L219 Zoopark-1 Russian Mobile Counter-Battery Radar:
+The Hull Armor is 14.
+The Turret Armor is 14.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Optional.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The Night Vision Device Capable is Yes.  Some versions have spot lights..
+

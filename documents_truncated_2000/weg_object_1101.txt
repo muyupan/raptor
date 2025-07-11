@@ -1,0 +1,63 @@
+This document describes the KJ-2000 (Mainring) Chinese Airborne Early Warning and Control Aircraft.
+
+The KJ-2000, NATO reporting name: Mainring is a Chinese Airborne early warning and control system comprising domestically designed electronics and radars installed on a modified Ilyushin Il-76 airframe.
+
+The KJ-2000 development program started after the cancellation of the A-50I deal with Israel and Russia in July 2000, due to strong U.S. pressure regarding the Israeli radar that was to be mounted. China then went on to develop a domestic AWACS and the first aircraft made its maiden flight in 2003.
+
+Four KJ-2000 aircraft have been identified so far, but production of new aircraft will likely be delayed, dependent on the acquisition of IL-76 airframes. Currently, the Russian defense exporter Rosoboronexport has imposed a significant price hike on all future IL-76s delivered to China and India despite previous contracts. Both countries are currently in negotiation with Russia regarding this matter as of early 2008. In March 2011, Russia/China negotiations reached a new agreement to move production of IL-76s to Chinese owned companies, in this way it is expected production can be run smoothly to supply China with new IL-76 airframes, while the delivery of Soloviev D-30KP-2 engines is not affected by recent issues.
+
+Due to unreliable external supplier sources, China has developed a backup known as the KJ-200 by installing a simplified system onboard the Shaanxi Y-8. This aircraft has a similar configuration to that of the KJ-2000 and is characterized by the triple tail-fin configuration (one large and two small).
+
+The Chinese AWACS has a phased array radar (PAR) carried in a round radome. Unlike the US AWACS aircraft, which rotate their rotodomes to give a 360‑degree coverage, the radar antenna of the Chinese AWACS does not rotate. Instead, three PAR antenna modules are placed in a triangular configuration inside the round radome to provide 360‑degree coverage. The multi-function, three-dimensional pulse-Doppler radar was developed by NII (Nanjing Electronic Technology Research Institute) and is designed to detect and track airborne and surface targets. It operates in the frequency range of 1200–1400 MHz. The antenna system consists of three-phased arrays, located in a 14-meter-diameter (46 ft) disc. In contrast, the Russian Beriev A-50 and American Boeing E-3 Sentry use a 9-meter-diameter (30 ft) disc. Each phased array has a 120-degree field of view. The maximum range of detection of air targets is 470 km (290 mi). A-50I of India made by Israel adopted its design and entered service later than KJ-2000(service 2004) in 2009.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the KJ-2000 (Mainring) Chinese Airborne Early Warning and Control Aircraft:
+The KJ-3000 is A new variant with a claimed fixed next generation radar was spotted in 2013..
+The KJ-200 is The KongJing-200 (KJ-200) is an airborne early warning and control aircraft based on the Y-8F600 airframe. It features a linear active electronically scanned array (AESA) radar similar to the Swedish PS-890 Erieye..
+
+Here is System information for the KJ-2000 (Mainring) Chinese Airborne Early Warning and Control Aircraft:
+The Alternate Designation(s) is KJ-2000; NATO: Mainring.
+The Primary Function / Type is Airborne Early Warning and Control Aircraft.
+The Manufacturer is INA.
+The Flight Crew is 5.
+The Mission Crew is 10-15.
+The Number of Engines is 4.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the KJ-2000 (Mainring) Chinese Airborne Early Warning and Control Aircraft:
+The Length is 46.6 m.
+The Width (Wing Span) is 50.5 m.
+The Height is 14.8 m.
+The Empty Weight is 92,500 kg.
+The Maximum Take-Off Weight is 190,000 kg..
+
+Here is Automotive information for the KJ-2000 (Mainring) Chinese Airborne Early Warning and Control Aircraft:
+The Engine Name is 4 x PS-90A.
+The Engine Type is Turbofan Engine.
+The Engine Power is Each engine generates a thrust of 16,000 kilogram-force (kgf)..
+The Maximum Range is Maximum flight range of approximately 5,000 km..
+The Maximum Speed is 900 km/h.
+The Service Ceiling is Service ceiling of the aircraft is 10,200 m.
+The Endurance is 8 hours.
+
+Here is Fire Control System / Avionics information for the KJ-2000 (Mainring) Chinese Airborne Early Warning and Control Aircraft:
+The FCS Name is INA.
+The Computerized FCS is No.
+
+Here is Radar System information for the KJ-2000 (Mainring) Chinese Airborne Early Warning and Control Aircraft:
+The Name is Type 88.
+The Type is KJ-2000 early warning aircraft is equipped with an advanced, non-rotating, three-sided active electronically scanned array (AESA) radar system on top of the fuselage at the rear..
+The Frequency is 1,200 MHz to 1,400 MHz.
+The Band is J-Band.
+The Maximum Range is 479 km.
+The Note is Three flat radar antennas are mounted in a triangular configuration and are enclosed in a disc-shaped, fixed round radar dome for protection against wind and other aerodynamic forces. Each radar antenna is steered electronically to provide 120° scan coverage in both azimuth and elevation angles..
+
+Here is Protection information for the KJ-2000 (Mainring) Chinese Airborne Early Warning and Control Aircraft:
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The Add on Armor is No.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

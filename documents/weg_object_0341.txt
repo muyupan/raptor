@@ -1,0 +1,60 @@
+This document describes the M400 Vietnamese Unmanned Aerial Vehicle (UAV).
+
+The M400 Vietnamese Unmanned Aerial Vehicle (UAV) is a general-purpose, industrial-grade four-rotor Unmanned Aerial Vehicle platform designed for industrial inspections.
+
+This equipment has proliferated into the following countries: Viet Nam.
+
+Here is System information for the M400 Vietnamese Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is M400.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Institute of Technology Air Defense by the Vietnamese Ministry of Defense.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Payload Capacity is 1.2 kg.
+The Reconnaissance Equipment is ClearCam Z10HD;
+ClearCam Thermal;
+ClearCam Z18HD;
+ClearCam Z30HD.
+The Operator Modes is First-person-view (FPV) mode;
+Dual-operator mode.
+The Software is 1. Plex Pilot (Ground control system, now available on Google Play Store)
+– Waypoint-based autonomous operation
+– Mobile mission planning
+– Automated flight logging
+2. Garuda Plex Fleet Management
+– Web-based mission planning
+– Deployment planning
+– Equipment management
+– Drone team management
+– Integration for CAAS permit application.
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+
+Here is Dimensions information for the M400 Vietnamese Unmanned Aerial Vehicle (UAV):
+The Length, Folded is 501 mm.
+The Wingspan, Folded is 501 mm.
+The Height, Folded is 279 mm.
+The Length, Unfolded is 809 mm.
+The Wingspan, Unfolded is 809 mm.
+The Height, Unfolded is 279 mm.
+The Maximum Takeoff Weight is 3.8 kg.
+
+Here is Automotive information for the M400 Vietnamese Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Lithium Polymer 6S.
+The Engine Power is INA.
+The Maximum Speed is 72 km/h.
+The Cruising Speed is INA.
+The Service Ceiling is INA.
+The Maximum Distance is 2 km.
+The Wind Resistance is up to 12 m/s.
+The Endurance is 28 min.
+
+Here is Communications information for the M400 Vietnamese Unmanned Aerial Vehicle (UAV):
+The Radio Control Link is 2.4GHz ACCST with smart telemetry.
+The Radio Control Link Range is 2 km LOS.
+The Telemetry Link is 433MHz.
+The Telemetry Link Range is 2 km LOS.
+The Video Link is 5.8GHz.
+The Link Channel Selection is Automatic.
+

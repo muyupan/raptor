@@ -1,0 +1,91 @@
+This document describes the Talon 5 American Tracked Unmanned Ground Vehicle (UGV).
+
+TALON
+Medium-Sized Tactical Robot
+Since its introduction in 2000, QinetiQ North America’s TALON family of robots has earned a reputation for durability, flexibility, reliability, and performance in keeping personnel, assets, and civilians out of harm’s way.
+
+In the military, law enforcement, and first responder applications, TALONs are widely deployed for the improvised explosive device (IED) and explosive ordnance disposal (EOD), reconnaissance, communications, CBRN (Chemical, Biological, Radiological, Nuclear), HAZMAT, security, heavy lift, defense and rescue missions.  Our TALON CBRN/Hazmat modular kit is available for TALON IV and V models.
+
+TALONs have been used worldwide, from Ground Zero after the 2001 World Trade Center attack, to IRAQ and Afghanistan, searching for the Boston Marathon bombing suspect and assisting with security during major sporting events.   Now on its fifth generation, TALON 5 is the first Interoperability Profile (IOP) fielded robotic system that has successfully gone through Army Test and Evaluation Command testing.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is Variants information for the Talon 5 American Tracked Unmanned Ground Vehicle (UGV):
+The Talon 5 is TALON
+Medium-Sized Tactical Robot
+Since its introduction in 2000, QinetiQ North America’s TALON® family of robots has earned a reputation for durability, flexibility, reliability and performance in keeping personnel, assets and civilians out of harm’s way.
+
+In military, law enforcement and first responder applications, TALONs are widely deployed for improvised explosive device (IED) and explosive ordnance disposal (EOD), reconnaissance, communications, CBRN (Chemical, Biological, Radiological, Nuclear), HAZMAT, security, heavy lift, defense and rescue missions.  Our TALON CBRN/Hazmat modular kit is available for TALON IV and V models.
+
+TALONs have been used worldwide, from Ground Zero after the 2001 World Trade Center attack, to IRAQ and Afghanistan, searching for the Boston Marathon bombing suspect and assisting with security during major sporting events.   Now on its fifth generation, TALON 5 is the first Interoperability Profile (IOP) fielded robotic system that has successfully gone through Army Test and Evaluation Command testing..
+The TALON CBRN/Hazma is TALON CBRN/Hazmat kit is equipped with
+a variety of sensors that provides ultimate
+protection in dangerous CBRN missions.
+Proven Protection
+For over 15 years, TALON robots have been used for
+EOD and CBRN operations. TALON’s were first military
+robot deployed in Bosnia for moving and disposing of
+live explosives and the first to be used in active combat
+in Afghanistan and in Iraq. Deployed at Ground Zero after
+the Sept. 11 (9/11) attack on the World Trade Center in
+NYC, TALON robots were used extensively to support
+search and rescue and recovery efforts. Out of the two
+robot types used at Ground Zero, TALONs were the only
+robots to handle the difficult and dangerous mission
+without requiring a major repair. Even after repeated
+contamination, TALON remained operational.
+Flexible and Rugged Operation
+The CBRN kit is configurable for TALON IV and above
+models. TALON’s optional, heavy-lift, multiple-degreeof freedom arm can be used to open doors and trunks
+making it a valuable additional to critical and dangerous
+missions..
+
+Here is System information for the Talon 5 American Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Talon 5.
+The Type is Tracked Unmanned Ground Vehicle (UGV).
+The Manufacturer is QineticQ North America.
+The Crew is Unmanned.
+The Maximum Payload Weight is 68 kg.
+The Vertical Reach is 95 cm.
+The Horizontal Reach is 157 cm.
+The Gripper Force is 49.9 kg.
+The Gripper Rotation is 360° (continuous).
+The Controller Options is Laptop Control Unit
+Tactical Robot Controller (TRC)
+UC-LITE (Universal Controller -
+Lightweight Interoperable Tactical
+Equipment).
+The Communications is External IP Radio (Persistent
+System’s MPU5 Radio)
+Gigabit Ethernet Communications
+Backbone.
+The Cameras is 4.
+The Available I/O Ports is *2x IOP A connectors
+*1x IOP B connector
+*4x Gigabit Ethernet and 12VDC (24VDC opt.)
+*2x RS-232 ports
+*1x USB port
+**1x CAN bus
+6x Interfaces for legacy TALON accessories.
+
+Here is Dimensions information for the Talon 5 American Tracked Unmanned Ground Vehicle (UGV):
+The Length is 87 cm.
+The Length, with Arm Extended is 110 cm.
+The Width is 58 cm.
+The Height is 83 cm.
+The Weight is 81 kg.
+
+Here is Automotive information for the Talon 5 American Tracked Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Maximum Speed is INA.
+The Operational Range is Over 2,600 feet (800 m) Line-of-Sight.
+The Endurance is 3-4 hours (mission dependent).
+The Stair Climbing is 45° slope.
+The Turning Circle is 133 cm.
+
+Here is Protection information for the Talon 5 American Tracked Unmanned Ground Vehicle (UGV):
+The Hull Armor is INA.
+The Applique Armor is INA.
+

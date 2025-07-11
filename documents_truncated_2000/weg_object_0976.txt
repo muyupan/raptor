@@ -1,0 +1,113 @@
+This document describes the F-35 Lighting II American Multirole Combat Aircraft.
+
+The Lockheed Martin F-35 Lightning II is an American family of single-seat, single-engine, all-weather stealth multirole combat aircraft that is intended to perform both air superiority and strike missions. It is also able to provide electronic warfare and intelligence, surveillance, and reconnaissance capabilities.
+
+This equipment has proliferated into the following countries: Australia, Canada, CFE Treaty, Israel, Italy, Japan, Netherlands, Norway, South Korea (Republic of Korea), United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the F-35 Lighting II American Multirole Combat Aircraft:
+The F-35A is The F-35A is the conventional takeoff and landing (CTOL) variant intended for the USAF and other air forces. It is the smallest, lightest version and capable of 9 g, the highest of all variants..
+The F-35B is The F-35B is the short takeoff and vertical landing (STOVL) variant of the aircraft. Similar in size to the A variant, the B sacrifices about a third of the A variant's fuel volume to accommodate the SDLF. This variant is limited to 7 g. Unlike other variants, the F-35B has no landing hook..
+The F-35C is The F-35C variant is designed for catapult-assisted take-off and arrested recovery operations from aircraft carriers..
+The F-35D is Planned upgrade of the F-35A to be fielded by the 2035 target date of the USAF's Future Operating Concept..
+The F-35I "Adir" is The F-35I Adir (Hebrew: "Awesome", or "Mighty One" is an F-35A with unique Israeli modifications to electronic warfare systems, including sensors and countermeasures..
+
+Here is System information for the F-35 Lighting II American Multirole Combat Aircraft:
+The Alternate Designation(s) is F-35 Lightning II.
+The Type is Multirole Fighter Aircraft.
+The Manufacturer is Lockheed Martin.
+The Crew is 1 Pilot.
+The Number of Engines is 1.
+The Number of Hard Points is 4 × internal stations, 6 × external stations.
+
+Here is Dimensions information for the F-35 Lighting II American Multirole Combat Aircraft:
+The Length is 15.7 m.
+The Width (Wing Span) is 10.7 m.
+The Wing Area is 43 m sq.
+The Height is 4.38 m.
+The Wheel Base is INA.
+The Wheel Track is INA.
+
+Here is Automotive information for the F-35 Lighting II American Multirole Combat Aircraft:
+The Engine Name is Pratt & Whitney F135-PW-100.
+The Engine Type is Turbofan.
+The Number of Engines is 1.
+The Engine Power, Static Thrust is INA.
+The Engine Power, Afterburner is INA.
+The Internal Fuel Capacity is 8,390 kg.
+The External Fuel Capacity is INA.
+The Maximum Speed at Altitude is 1,931 kph.
+The Maximum Speed at Sea Level is INA.
+The Approach Speed is INA.
+The Maximum Range is 1,271 km (increased with aerial refueling).
+The Combat Radius is INA.
+The Takeoff Roll is INA.
+The Landing Distance is Varies based on model.
+The Climb Rate is 0.06 m/sec.
+The Payload is 8,160 kg.
+The Service Ceiling is 19.8 km.
+
+Here is Rotary Cannon information for the F-35 Lighting II American Multirole Combat Aircraft of the Main Gun System:
+The Name is GAU-22/A.
+The Type is 4-Barrel Rotary Cannon.
+The Caliber is 25 mm.
+The Length is 2.11 m.
+The Weight is 104 kg.
+The Action is Pneumatic, electrically fired.
+The Rate of Fire is 3,000 rounds per minute.
+The Muzzle Velocity is 970 m/s.
+The Feed System is Belt or linkless feed system.
+
+Here is Ammunition information for the F-35 Lighting II American Multirole Combat Aircraft of the Main Gun System:
+The HEI is High Explosive Incendiary.
+The API is Armor Piercing Incendiary.
+The APEX is Armor Piercing with Explosive.
+The Basic Load is 180 rds.
+
+Here is Air-to-Air Missiles information for the F-35 Lighting II American Multirole Combat Aircraft of the Missile Systems:
+The Option 1 is AIM-7 Sparrow.
+The Option 2 is AIM-9 Sidewinder.
+The Option 3 is AIM-120 AMRAAM.
+The Option 4 is AIM-132 ASRAAM.
+The Option 5 is MBDA Meteor (Block 4).
+The Note is Missile load configurations vary in using 4 × internal stations and 6 × external stations on wings..
+
+Here is Air-to-Surface Missiles information for the F-35 Lighting II American Multirole Combat Aircraft of the Missile Systems:
+The Option 1 is AGM-88G AARGM-ER (Block 4).
+The Option 2 is AGM-158 JASSM.
+The Option 3 is 2× AGM-84H/K SLAM-ER.
+The Option 4 is SPEAR 3 (Block 4).
+The Option 5 is Joint Air-to-Ground Missile (JAGM).
+The Option 6 is Joint Strike Missile.
+The Note is Load configurations vary in using 4 × internal stations and 6 × external stations on wings..
+
+Here is Bomb Weapon Systems information for the F-35 Lighting II American Multirole Combat Aircraft:
+The Option 1 is Mk 77 Incendiary Bombs.
+The Option 2 is AGM-154 Joint Stand-Off Weapon (JSOW).
+The Option 3 is AGM-154 JSOW.
+The Option4 is Wind Corrected Munitions Dispenser (WCMD).
+The Option 5 is GBU-10/GBU-12/GBU-15/GBU-28 laser-guided bombs.
+The Option 6 is Mk 20 Rockeye II Cluster Bombs.
+The Option 7 is Small Diameter Bomb.
+The Option 8 is B61 nuclear bombs (2 max).
+The Note is Load configurations vary in using 4 × internal stations and 6 × external stations on wings..
+
+Here is Fire Control / Avionics / Comms information for the F-35 Lighting II American Multirole Combat Aircraft:
+The Radar is 1 x AN/APG-81 AESA radar.
+The Navigation is 1 x TACAN System, Satellite Navigation, GPS.
+The Targeting is 1 x AAQ-40 E/O Targeting System (EOTS).
+The Weapons Control is 1 x AN/AWG-27 system with ATHS.
+The Datalinks is JTIDS/Link 16 and  Harris Corporation Multifunction Advanced Data Link (MADL) communication system.
+The Radar Warning is 1 x AN/ALR-56C receiver.
+The IFF is Yes.
+The Communications is HAVE QUICK.
+The EW Capable is Yes, using the AN/ASQ-239 Barracuda electronic warfare system.
+
+Here is Protection information for the F-35 Lighting II American Multirole Combat Aircraft:
+The Stealth Properties is Yes.
+The Heat Signature Reduction is Yes.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The Countermeasures is AN/ALQ-135(V) fully automatic, software-controlled reprogrammable dual-mode internal electronic..
+The Chaffs/Flares is AN/ALE-45 dispenser..
+The Missile Warning is Yes, features the AN/AAQ-37 Distributed Aperture System (DAS) missile warning system..
+

@@ -1,0 +1,135 @@
+This document describes the 2S5 Giatsint-S Russian 152mm Self-Propelled Gun (SPG).
+
+The 2S5 Giatsint (Hyacinth) is a 152 mm self-propelled howitzer designed and manufactured in the Soviet Union by the Special Design Bureau of the Sverdlovsk (now Ekaterinburg) Machinery Construction Factory. It was used to provide Russian forces with indirect large-caliber fire support and is still in operational use despite the design and the fact that it is over 40 years old.
+Development of the 2S5 Giatsint, 152mm self-propelled gun began in 1968 alongside the 2A36 Giatsint-B towed gun of the same caliber. Both guns have similar ballistics and use the same ammunition. The 2S5 entered service with the Soviet Army in 1976. Production commenced the same year and ceased in the early 1990s. Currently, it is in service with Russia, Belarus, and Ukraine. The 2S5 Giatsint was only exported to Finland, locally designated as the 152 TELAK 91.
+
+The 2S5 Giatsint is fitted with a turretless 152 mm/L54 gun. This gun is completed with a load assisting system. The maximum rate of fire is 5 - 6 rounds per minute. The Giatsint fires ordinary and rocket-assisted HE-FRAG projectiles, HEAT, cluster, and smoke projectiles. The maximum range of fire with an ordinary HE-FRAG projectile is 28.4 km, and up to 33 km with a rocket-assisted projectile. Some sources claim that the 2S5 is capable of firing 0.1-2 kT nuclear projectiles. The full ammunition load consists of 60 rounds, however, only 30 of them are carried by the Giatsint. Other rounds are carried by the re-supply vehicle. It takes 2 minutes to prepare this artillery system for firing.
+
+This equipment has proliferated into the following countries: Belarus, CFE Treaty, Eritrea, Ethiopia, Finland, Russian Federation, Ukraine, Uzbekistan.
+
+Here is Variants information for the 2S5 Giatsint-S Russian 152mm Self-Propelled Gun (SPG):
+The 2A36 Giatsint-B is The 2A36 Giatsint-B is a towed artillery piece that utilizes the ordnance from the 2S5 Giatsint-S. It is designed to be used to provide brigades with fire support as part of an artillery formation. The distinctive system has four wheels: two on each side of the gun carriage..
+
+Here is System information for the 2S5 Giatsint-S Russian 152mm Self-Propelled Gun (SPG):
+The Alternative Designation is 2S5 Giatsint-S.
+The Type is Self-Propelled Howitzer (SPH).
+The Caliber is 152 mm.
+The Family is 2S5.
+The Crew is 5-6.
+The Emplacement Time is Less than 2.
+The Displacement Time is Less than 2.
+The Transportation (Rail) is Spora-80 or larger.
+The Transportation (Air) is An-124 aircraft or similar class plane.
+The Note is The 2S5 Giatsint-S is rated a Tier 2 because it has been identified as one of the top 52 pieces of Russian Equipment..
+
+Here is Dimensions information for the 2S5 Giatsint-S Russian 152mm Self-Propelled Gun (SPG):
+The Length is 8.33 m.
+The Width is 3.25 m.
+The Height is 2.76 m.
+The Weight, Combat is 28,200 kg.
+The Ground Clearance is 90.5 m.
+
+Here is Automotive information for the 2S5 Giatsint-S Russian 152mm Self-Propelled Gun (SPG):
+The Engine Name is V-59.
+The Engine Type is Diesel.
+The Engine Power is 520.
+The Power-to-Weight Ratio is 18.50 hp/t.
+The Fuel Capacity is INA.
+The Maximum Speed is 63 km/h.
+The Range is 500 km.
+The Gradient is 58%.
+The Side Slope is 47%.
+The Vertical Obstacle is 0.7 m.
+The Trench is 2.5 m.
+
+Here is Communications information for the 2S5 Giatsint-S Russian 152mm Self-Propelled Gun (SPG):
+The Primary is R-123.
+The Secondary is R-173.
+The Amplifier is UM-3 Power Amplifier.
+
+Here is System information for the 2S5 Giatsint-S Russian 152mm Self-Propelled Gun (SPG) of the Main Weapon System:
+The Name is 1 × hull mounted 152mm 2A37 Howitzer.
+The Type is Howitzer.
+The Caliber is 152.
+The Breech Type is Breech ring, breech mechanism is the semi-automatic horizontal loading type.
+The Length, Barrel is 54 calibers.
+The Loader Type is semi-automatic loading system.
+The Max Rate of Fire is 5-6.
+The Muzzle Brake Type is Five-part multi slotted muzzle brake.
+The Max Elevation is +58.
+The Min Elevation is -2.5.
+The Traverse Range is 30.
+The Traverse Left is 15.
+The Traverse Right is 15.
+The Maximum Firing Range is 33.
+The Recoil Braking is Hydraulic.
+The Travelling Lock is Yes.
+The Recuperation is Pneumatic.
+The Note is Russian sources say, a battery of 2S5s can have 40 projectiles in the air before the first projectile lands on the enemy position..
+
+Here is Ammunition (Option 1) information for the 2S5 Giatsint-S Russian 152mm Self-Propelled Gun (SPG) of the Main Weapon System:
+The Type is HE-FRAG Projectiles.
+The Caliber is 152.
+The Muzzle Velocity is 942.
+The Maximum Effective Range is 24.8.
+The Minimum Effective Range is 8,600.
+The Projectile Weight is 46.
+The Basic Load is 30 Total (Any Combination).
+
+Here is Ammunition (Option 2) information for the 2S5 Giatsint-S Russian 152mm Self-Propelled Gun (SPG) of the Main Weapon System:
+The Type is HEAT Projectiles Rocket Assisted Projectile (RAP).
+The Caliber is 152.
+The Muzzle Velocity is INA.
+The Maximum Effective Range is 33.
+The Minimum Effective Range is 8,600.
+The Projectile Weight is 48.
+The Basic Load is 30 Total (Any Combination).
+
+Here is System information for the 2S5 Giatsint-S Russian 152mm Self-Propelled Gun (SPG) of the Coaxial Weapon System:
+The Name is 1 x 7.62mm PKT (Kalashnikov's Machine Gun).
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Max Rate of Fire is 650.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+The Note is The 7.62 PKT can be controlled remotely.
+
+Here is Ammunition information for the 2S5 Giatsint-S Russian 152mm Self-Propelled Gun (SPG) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 825.
+The Maximum Effective Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 3,800.
+The Basic Load is 1,500.
+
+Here is Fire Control information for the 2S5 Giatsint-S Russian 152mm Self-Propelled Gun (SPG):
+The Name is 2S5.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes, D726-45 and PG-1M sights.
+The Thermal Sight Gunner is Yes, D726-45 and PG-1M sights.
+The Main Gun Stabilization is Yes, pneumatic rod type with an extra spring mechanism.
+The Collimator is K-1.
+The Spotlight is Luch-S71M spotlight.
+
+Here is Protection information for the 2S5 Giatsint-S Russian 152mm Self-Propelled Gun (SPG):
+The Hull Armor is The hull of the 2S5 is of all-welded steel armour construction that is believed to have a maximum thickness of 13 mm, providing the crew with protection from small arms fire and shell splinters..
+The Turret Armor is 12.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+The Note is A shoulder-launched surface-to-air missile is carried inside the vehicle for protection against helicopters and low-flying aircraft..
+

@@ -1,0 +1,66 @@
+This document describes the R-168-100KA Russian Vehicle Mounted HF Radio Station.
+
+Provides the radio communication opened and closed by the built-in device of technical masking in radio networks of a technical control link at installation in objects on wheel base.
+
+Types of work:
+
+- Phone with one-band modulation of TLF (OHM).
+
+- Phone with technical masking of speech information of TLF-TM.
+
+- Automatic telegraph of ChT-200, ChT-500 (BD1, BD2).
+
+- Telegraph of ChT-200, ChT-500 for acoustical reception (ChT1, ChT2).
+
+- Amplitude telegraph of AT.
+
+- Transfer and reception of signals of address, circular and voice-frequency calls (AV, TsV, TV).
+
+- Transfer and reception of information in a digital form on S1-FL joint with use of the R-168 UPS-2 modem.
+
+Operating modes:
+
+- Fixed Frequency a Simplex (FFS).
+
+- Fixed Frequency a Two-frequency Simplex (FFTFS).
+
+- Pseudorandom Reorganization of Working Frequency (PRWF).
+
+- Adaptive Communication (AC).
+
+- The scanning reception on 2 - 8 spare frequencies (joint venture).
+
+- The manual and automated input of radio data.
+
+- Reception on duty with a ban of an exit to transfer (DP).
+
+- Work on 8 in advance prepared channels (APC).
+
+- Management of work from the built-in control panel.
+
+- Management of work from the remote control
+
+- Management of work from the external COMPUTER of object on RS-232C joint sispolzovaniyem the R-168 UPS-2 modem.
+
+- The automated working capacity control.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Radio #5 information for the R-168-100KA Russian Vehicle Mounted HF Radio Station of the System:
+The Name is R-168-100KA.
+The Quantity is 1.
+The Type is HF.
+The Frequency is 1.5-30.
+The Capabilities is FH Voice Data Telegraph Retrans.
+The Maximum Range is 25-360.
+The Mount Type is Vehicle.
+The In Service is Yes.
+The Dimensions, A-100KAE Transceiver is 410mm x 260mm x 285mm.
+The Dimensions, Automated ASU-100KA is 446mm x 295mm x 250mm.
+The Dimensions,Secondary Power Supply of BP-100K is 175mm x 263mm х 285mm.
+The Weight, A-100KAE transceiver is 28.
+The Weight, Automated ASU-100KA is 19.
+The Weight, Secondary Power Supply of BP-100K is 9.
+The Speed of Information Transfer is 1200, 2400.
+The Working Temperatures is - 40°C... +60°C.
+

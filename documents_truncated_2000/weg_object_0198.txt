@@ -1,0 +1,27 @@
+This document describes the R-168-0,1U(M)E Russian VHF Handheld Radio Station.
+
+The R-168-0.1U(M)E, R-168-0.1U(M)1E VHF handheld radio stations ensure clear and secure radio communications in tactical command level radio networks in harsh ECM environment. VHF handheld radio set R-168-0,1U (M)1Е is intended for radio communication of platoon- squad – soldier level. 
+
+By their tactical and technical characteristics, the R-168-0.1(U)ME and R-168-0.1(U)M1E radios are recommended to be used instead of analogues: R-147, R-158, R-162-0.1, R-163-0.5R, R-163-1U, R-168-0.1UE, R-168-0.5UE and Barmitsa-RS.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is VHF Radio information for the R-168-0,1U(M)E Russian VHF Handheld Radio Station of the System:
+The Name is R-168-0.1UM.
+The Quantity is 3.
+The Type is VHF.
+The Frequency is 45-56.
+The Capabilities is Voice Data.
+The Maximum Range is 1.2.
+The Mount Type is Portable.
+The In Service is Yes.
+The Power Supply is 6NKGTs-0.94.
+The Antenna is antenna-feeder device with wide-band matching unit.
+The Telephony is 16 kb/s secure voice telephony.
+The Data Transmission Rate is data transmission at the rate of 1.2 to 16 kb/s via interfaces RS-232 or S1FL.
+The Data Recording is automated radio data recording.
+The Types of Data Transmitted is analog clear, non-protected with built-in cyphering unit;
+analog secure, protected with built-in cyphering unit;
+digital, from external terminal;
+tone call at frequency of 1000 Hz.
+

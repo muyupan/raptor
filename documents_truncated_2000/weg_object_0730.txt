@@ -1,0 +1,53 @@
+This document describes the Evo II RTK Chinese Unmanned Aerial Vehicle (UAV).
+
+The Evo II RTK Chinese Unmanned Aerial Vehicle (UAV)series integrates an entirely new RTK module, which provides real-time centimeter-level positioning data and supports Post-Processing Kinematic (PPK). The aircraft can record the original satellite observation data, camera exposure parameters, and various other data. The positioning system supports the A-RTK base station and RTK network, which helps to achieve accurate and stable data acquisition in complex operating environments.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Evo II RTK Chinese Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Evo II RTK.
+The Type is Vertical Take-Off and Landing (VTOL) Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Autel Robotics.
+The Crew is Unmanned.
+The Operating Frequency is non-Japan：2.400 GHz - 2.4835 GHz；5.725 - 5.850 GHz
+Japan：2.400 GHz - 2.4835 GHz；5.650 - 5.755 GHz.
+The Transmission Power is 2.4GHz
+FCC/ISED：≤27dBm
+SRRC/CE/MIC/RCM：≤20dBm
+5.8G (non-Japan) ; 5.7G (non-Japan)
+FCC/ISED/SRRC/MIC：≤27dBm
+CE/ RCM：≤14dBm.
+The Image position compensation is The position of the camera center relative to the phase center of the airborne A-RTK antenna, under the body axis system: (-2.63, 0.31, 83.5) mm, and the photo EXIF coordinates have been compensated. The positive XYZ axis of the body axis system points to the front, right, and bottom of the aircraft respectively..
+The GPS is GPS+BeiDou+Galileo（Asia）
+GPS+GLONASS+Galileo（Other areas）.
+The Gimble is Three-axis stabilization.
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+The Operating Temperature is -10℃ ~ 40℃.
+
+Here is Dimensions information for the Evo II RTK Chinese Unmanned Aerial Vehicle (UAV):
+The Wheelbase is 397 mm.
+The Height is INA.
+The Weight (with propeller and battery) is 1,250 g.
+The Maximum Takeoff Weight is INA.
+
+Here is Automotive information for the Evo II RTK Chinese Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Max Ascent Speed is 5 m/s (automatic flight）
+8 m/s (manual control）.
+The Max descent speed is 4 m/s.
+The Max Horizontal Flight Speed is 72 km/h.
+The Max Tilt Angle is 33°.
+The Max Angular Velocity is 120°/s.
+The Maximum Service Ceiling Altitude is 6,000 m.
+The Hovering Accuracy is When RTK is enabled and working normally:
+Vertical: ±0.1 m; Horizontal: ±0.1 m
+RTK is not enabled: vertical: ±0.1 m (when the visual positioning is working normally);
+±0.5 m (when GNSS positioning works normally)
+Level: ±0.3 m (when the visual positioning is working normally);
+±1.5 m (when GNSS positioning works normally).
+The Maximum Resistance to Wind is Level 8.
+The Endurance is 36 min.
+

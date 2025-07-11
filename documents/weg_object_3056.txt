@@ -1,0 +1,51 @@
+This document describes the M119 American 105mm Towed Howitzer.
+
+The M119 105 mm towed howitzer is a lightweight, air droppable, low-altitude air-extraction weapon system that provides direct and indirect fire support. It is used in selected field artillery battalions in light infantry, airborne, and air assault divisions.
+
+This equipment has proliferated into the following countries: CFE Treaty, Jordan, Saudi Arabia, United States of America.
+
+Here is Variants information for the M119 American 105mm Towed Howitzer:
+The M119A1 is Minor improvements, including fire control and maintenance.
+The M119A2 is Improved sight package consisting of telescope (M90A3) or panoramic telescope (M137A2).
+The M119A3 is Modernized version with digital fire control system and an inertial navigation system for self location, entered service in April 2013.
+
+Here is System information for the M119 American 105mm Towed Howitzer:
+The Alternative Designation is M119 Light Howitzer.
+The Type is Towed Gun Howitzer, carriage mounted.
+The Manufacturer is Rock Island Arsenal-Joint Manufacturing and Technology Center (RIA-JMTC).
+The Caliber is 105 mm.
+The Carriage is Bow.
+The Crew is 5 - 7 personnel.
+The Traverse is 5.625° (100 mils) left or right.
+The Elevation is -5.625° (−100 mils) to +69.975° (+1,244 mils).
+The Maximum Firing Range is 17,500 m | 19,500 m (w/RAP).
+The Rate of Fire (Normal) is 6 rds for 3 minutes.
+The Rate of Fire (Sustained) is 3 rds for 1 minutes.
+The Emplacement Time is ~3.
+The Displacement Time is ~3.
+
+Here is Dimensions information for the M119 American 105mm Towed Howitzer:
+The Width is 1.78 m.
+The Height is 1.37 m.
+The Ground Clearance is 0.50 m.
+The Weight, Combat is 1,936 kg.
+The Barrel Length is 3.2 m.
+
+Here is Ammunition information for the M119 American 105mm Towed Howitzer:
+The M1 (HE) is High Explosive.
+The M314 is Illumination.
+The M60 / M60A2 is Smoke.
+The M913 HERA is High Explosive Rocket Assisted (HERA) Projectile (19.5 km max range).
+The M760 HE is Comprised of hollow steel forging and is similar to the projectile in the M1 cartridge. The projectile is loaded with approximately 4.6 lb (2.1 kg) of Type 1 TNT..
+The M1130A1 HE PFF BB is High Explosive Pre-Formed Fragments, Base Bleed.
+The M915 DPICM is Dual-Purpose Improved Conventional Munition (DPICM).
+The Note is The M119 fires all standard NATO semi-fixed ammunition as well as special rocket-assisted projectiles.
+
+Here is Fire Control information for the M119 American 105mm Towed Howitzer:
+The Computerized FCS is Yes.
+The Direct Fire Telescope is Yes, M90A2 direct fire telescope with a magnification of ×3, includes M186 direct fire mount.
+The Indirect Fire is Yes.
+The GPS is Yes.
+The INS is Yes.
+The Other Optics is M137A1 panoramic telescope with a magnification of ×4, includes M187 telescope mount.
+

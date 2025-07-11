@@ -1,0 +1,92 @@
+This document describes the SNAR-10M1 (Big Fred) Russian Battlefield Surveillance Radar.
+
+The SNAR-10M1 variant is a widely deployed battlefield surveillance "Big Fred" radar system, mounted on a self-propelled armored vehicle. It is designed to locate stationary and moving targets at the forward edge of the battle area. The radar operates at a frequency of about 35 GHz and is capable of scanning the terrain in both a horizontal and vertical mode. This is done by tipping the antenna, thereby overseeing a large area. The dipping antenna is designated as the IRL-127-1.
+
+The SNAR-10 M1 self-propelled radar, capable of detecting tanks at a distance of up to 40 km, arrived at the Central Military District under a state defense order. The new station strengthens the combat capabilities of the artillery units of the tank formation stationed in the South Urals. The SNAR-10 M1 radar is designed for reconnaissance of moving ground, air, and surface targets. The modern radar can detect vehicles, manpower, exploding shells at a range of 200m - 40km. The station is equipped with an internal and external communication system with automated data transmission, and satellite navigation. Autonomous operation of the complex is at least three days. The crew is four people strong. The radar can be deployed into combat position in max 5 minutes.
+
+This equipment has proliferated into the following countries: Armenia, Azerbaijan, Belarus, Bulgaria, CFE Treaty, Moldova, Romania, Russian Federation, Slovakia, Ukraine.
+
+Here is Variants information for the SNAR-10M1 (Big Fred) Russian Battlefield Surveillance Radar:
+The SNAR-10 is Similar variant with the radar mounted on a MTLBu chassis in which the radar can be used to provide friendly fire correction data to artillery units. The SNAR-10 is not capable of amphibious operations due to the heavy turret and radar configuration..
+
+Here is System information for the SNAR-10M1 (Big Fred) Russian Battlefield Surveillance Radar:
+The Alternative Designation is SNAR-10M1; 1RL232-2M; NATO: Big Fred.
+The Type is Battlefield Surveillance Radar.
+The Crew is INA.
+The Chassis is MTLB.
+The Band is K (34.55-35.25 GHz).
+The Radar Beam is 0.36 deg x 1.3 deg.
+The Range, Battlefield Surveillance is 12-15 km.
+The Range, Maximum Against Moving Vehicles is 16 km.
+The Range, Maximum Against Moving Ships is 30 km.
+The Range, Maximum Against Moving Shell Impacts is 10 km.
+The Output Power is 14-70 KW.
+The Pulse Repetition Frequency is 4,410 Hz up to 16 miles (26 km).
+The Target Discrimination Traverse is 6 deg.
+The Target Discrimination Range is 50 m.
+The Grid Radial Error is 30 m.
+The Search Sector is 26 deg.
+The Time for Traget Location is 20 seconds.
+The Precision Locating Coordinates Polar Traverse is <2 mils.
+The Precision Locating Coordinates Polar Range is <66 ft (20 m).
+The Circular Error Probable for Mortar is 45 m.
+
+Here is Dimensions information for the SNAR-10M1 (Big Fred) Russian Battlefield Surveillance Radar:
+The Length is 6.45.
+The Width is 2.86.
+The Height is 1.86.
+The Weight, Combat is 12,700 kg.
+The Ground Pressure is 0.46 kg/cm2 standard track / 0.28 kg/cm2 wide track.
+The Antenna Width is 1.5 m.
+The Antenna Height is 0.8 m.
+
+Here is Automotive information for the SNAR-10M1 (Big Fred) Russian Battlefield Surveillance Radar:
+The Engine Name is YaMZ 238 (Newer versions have the KamAZ-740.50 engine / 360 horsepower).
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 30.
+The Speed Maximum Swim is 5.
+The Fording Depth is Amphibious.
+
+Here is System information for the SNAR-10M1 (Big Fred) Russian Battlefield Surveillance Radar of the Primary Weapon System on Most Variants:
+The Name is 1 x PKT 7.62mm.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the SNAR-10M1 (Big Fred) Russian Battlefield Surveillance Radar of the Primary Weapon System on Most Variants:
+The Type is API, API-T.
+The Caliber is 7.62.
+The Muzzle Velocity is INA.
+The Basic Load is 1,500.
+The Max Effective Range (Day) is 1,000.
+The Max Effective Range (On the move) is 500.
+The Maximum Aimed Range is 1,500.
+The Min Range is INA.
+The Armor Penetration is 8 mm of RHA at 500 m.
+The Other Ammunition Types is Light Ball, Ball-T, Heavy Ball, Incendiary.
+
+Here is Fire Control information for the SNAR-10M1 (Big Fred) Russian Battlefield Surveillance Radar:
+The Name is PP-61AM, 2.6x.
+The Computerized FCS is N/A.
+The Thermal Sight Vehicle Commander is N/A.
+The Thermal Sight Gunner is N/A.
+The Main Gun Stabilization is N/A.
+The Range, Day Sight is 1,500.
+The Range, Thermal Sight is N/A.
+The Field of View is 23.
+
+Here is Protection information for the SNAR-10M1 (Big Fred) Russian Battlefield Surveillance Radar:
+The Hull Armor is 14.
+The Turret Armor is 14.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Optional.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The Night Vision Device Capable is Yes.  Some versions have spot lights..
+

@@ -1,0 +1,183 @@
+This document describes the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV).
+
+The VN-11 is the export variant of the Chinese ZBD-04 IFV. The VN-11 layout, structure and performance is mostly the same as the ZBD-04; however it is assessed there are minor differences between the two platforms as a result of PLA operational security requirements. Although it is suspected that China may have sold the VN-11 to other countries, there are no verified exports of this platform.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The ZBD-97 is Designation for ZBD-04 prototype..
+The ZBD-04 is Baseline model in service PLA..
+The ZBD-04 HJ-8 is Based on original ZBD-04 with four additional HJ-8 anti-tank missile mounted on the turret..
+The ZBD-04A is The ZBD-04A (industrial designation WZ502G, sometimes referred to as ZBD-08) is an improved variant that sacrifices amphibious performance for better armor protection; add-on armor can be fitted, and the frontal arc can withstand 30 mm rounds along with side skirts added. Although the vehicle is still amphibious, able to propel itself by its tracks to ford lakes and rivers, it lacks waterjets and can no longer operate in open sea..
+The ZBD-04A AT (AFT-10 Anti-Tank Missile Carrier) is ZBD-04A's chassis works as the mobile launching platform for AFT-10 (HJ-10) anti-tank missile. Noted the AFT-10 is a specific version of HJ-10 missile that designed for firing from vehicle launching platform such as ZBD-04A..
+The ZBD-04A Command Vehicle is Modified from original ZBD-04A, featuring a crew cabin with higher ceiling..
+The ZBD-04A Combat Reconnaissance Vehicle is Equipped with radars and electric-optic sights for battlefield surveillance, the chassis of the Combat Reconnaissance Vehicle is modified from standard ZBD-04A. The recon equipment is mounted on a retractable mast..
+The ZBD-04A Armored Recovery Vehicle is Equipped with a crane for emergency vehicle service..
+The VN-12 is Nomenclature for an export variant based on ZBD-04A..
+
+Here is System information for the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Alternative Designation is VN-11 is the export version of the ZBD-04.
+The Type is Amphibious APC/IFV.
+The Manufacturer is Norinco.
+The Crew is 3.
+The Troop Compartment Capacity is 7.
+The Maximum Effective Range is 400.
+The Amphibious is Yes.
+
+Here is Dimensions information for the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Length is 7.52.
+The Width is 3.3.
+The Height is 2.5.
+The Weight,.Combat is 21.5.
+The Ground Clearance is 0.45.
+The Max Speed is 70.
+The Range (On Road) is 400.
+
+Here is Automotive information for the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is 404 kW (541 bhp) six-cylinder, water-cooled turbo-diesel.
+The Engine Type is Turbo-diesel.
+The Engine Power is 541.
+The Engine Location is Front Right.
+The Cruising Range is 400.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is 50.
+The Speed, Maximum Swim is 13.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.8.
+The Trench is 2.7.
+The Fording Depth is 1.4.
+The Suspension is Traditional torsion bar configuration, with each side having six dual rubber-tire road wheels and a driver sprocket at the front, idler at the rear and track return rollers. Only the upper part of the suspension is covered.
+
+Here is TBR-121 information for the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Proliferated is Widely.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is 100 mm 2A70 rifled gun/missile launcher.
+The Type is rifled gun/missile launcher.
+The Manufacturer is KBP Instrument Design Bureau.
+The Max Rate of Fire is 8-10.
+The Weight, Combat is 332.
+The Automatic Loader is Yes.
+The Traverse is 360.
+The Elevation is -6 through +60.
+
+Here is Ammunition (Option 1) information for the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is 3UOF17.
+The Type is HE fragmentation projectile.
+The Caliber is 100.
+The Muzzle Velocity is 355.
+The Basic Load (Total) is 41.
+The Max Range is 7,000.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Weight, Complete Round is 22.9.
+The Weight, Missle is 19.4.
+
+Here is Ammunition (Option 2) information for the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is Laser beam-riding Anti-Tank Guided Missile.
+The Name is 9M117 Bastion.
+The Caliber is 100.
+The Entered Service is 1981.
+The Muzzle Velocity is 400-500.
+The Basic Load is 8.
+The Max Range is 4,000.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Rocket Burn is 6.
+The Rocket Motor Ignites Time is 1.5.
+The Guidance is Beam-Riding Laser.
+The Prone to Radio or Optical Jamming is No.
+The Missile Flight Time is 4,000.
+The Self Destruct Time is 26-41.
+
+Here is System information for the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System:
+The Name is 30 mm 2A72 (Shipunov 2A42).
+The Type is 30mm Auto-cannon.
+The Alternate Designation is Shipunov 2A42.
+The Manufacurer is Tulamashzavod.
+The Date of Introduction is 1980.
+The Rate of Fire (Low) is 200-300.
+The Rate of Fire (High) is 550-800.
+The Barrels is 1.
+The Feed System is Twin Feed.
+The Action is Gas Operated.
+The Traverse is 360.
+The Weight is 115.
+The Length, Total is 3.027.
+The Length, Barrel is 2,416.
+
+Here is Ammunition information for the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System:
+The Type is Auto-cannon.
+The Caliber is 30x165.
+The Muzzle Velocity is 960.
+The Basic Load is INA.
+The Effective Firing Range is 2,000.
+The Maximum Firing Range is 4,000.
+The Armor Penetration is Yes.
+
+Here is System information for the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is PK 7.62mm Machine Gun (Pulemyot Kalashnikova).
+The Type is 7.62mm Coaxial Machine Gun.
+The Manufacturer is Degtyaryov plant.
+The In Service is 1961-Present.
+The Proliferation is +100 Million.
+The Weight is 9.
+The Length, Total is 1,203.
+The Length, Barrel is 605.
+The Rate of Fire is 650.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes..
+The Sights is Tangent iron sights (default);
+Optical, Night-vision, Thermal and Radar sights.
+The Varients is PK
+PKS
+PKT
+PKM
+PKMS.
+
+Here is Ammunition information for the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Type is 7.62mm Coaxial Machine Gun.
+The Caliber is 7.62mmx54mmR.
+The Muzzle Velocity is 825.
+The Basic Load is INA.
+The Effective Firing Range (Normal) is 1,000.
+The Effective Firing Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 3,800.
+The Armor Penetration is Available.
+
+Here is Fire Control information for the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Vehicle Commander is Yes.
+The Thermal Gunner is Yes.
+The Gunner Sight is a laser guidance system for the 100 mm laser-guided missile..
+The Main Gun Stabilization is Yes.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is INA.
+The Fire on the Move is the FCS enables the vehicle to engage stationary and moving targets under all weather conditions, even when firing on the move..
+
+Here is Protection information for the VN-11 Chinese Amphibious Infantry Fighting Vehicle (IFV):
+The Hull Armor is 90.
+The Turret Armor is No Profile.
+The Front Armor is the front arc provides protection from 90 mm armor-piercing projectiles..
+The Side Armor is Sides can withstand hits from rocket launchers, such as RPG-7, and some anti-tank guided missiles..
+The Under the Hull Armor is The VN11 withstands mine blasts equivalent to 10 kg of TNT anywhere under the hull..
+The Applique Armor is INA.
+The Explosive Reactive Armor is Yes.
+The Active Protection System is Yes, A bank of three electrically operated grenade launchers is mounted either side of the turret..
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+The Automatic Fire Suppression Systems is Yes.
+The Battle Management System is Yes.
+The Navigation Suite is Yes.
+The Firing Port is The vehicle's final 'weapon system' is a firing port and viewing aid on each side toward the rear of the hull.Dismounts can also fire out of rear hatches, using the hatch covers locked vertically as shields..
+

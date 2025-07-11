@@ -1,0 +1,48 @@
+This document describes the M67 American 90mm Recoilless Rifle.
+
+The M67 recoilless rifle was a 90 mm (3.55 inch) anti-tank recoilless rifle made in the United States and later in South Korea. It could also be employed in an anti-personnel role with the use of the M590 antipersonnel round. It was designed to be fired primarily from the ground using the bipod and monopod, but could also be fired from the shoulder using the folded bipod as a shoulder rest and the monopod as a front grip. The weapon was air-cooled and breech-loaded, and fired fixed ammunition. It is a direct fire weapon employing stadia lines to allow simple range finding, based on a typical tank target bridging the lines once in range.
+
+The M67 is shaped like a long tube with the sight assembly and trigger offset to the side in opposite directions about halfway along the barrel. Under this point is the monopod, with the bipod halfway back from there. The weapon requires a crew of three to operate it; a gunner, assistant gunner (loader) and ammo bearer. The breech is hinged on the right side, and has to be swung open to load the round. It is then swung closed and when the rifle is fired, the rear end of the shell case breaks up and is blown out of the back of the breech block. On the left side of the barrel, near the sight and trigger assemblies, is an asbestos heat shield to protect the gunner's shoulder and neck from the heat of the barrel when firing.
+
+It is capable of maintaining a sustained fire rate of one round per minute, but the weapon could also be rapid fired at an increased rate of one round every six seconds (10 rpm) by a well trained crew. The rapid firing is limited to five rounds, with a mandatory 15 minute cool-off period afterward.
+
+The M49A1 sub-caliber device, which uses NATO 7.62 mm rounds, is typically used for zeroing the sight and for qualifying purposes. The sight is visually zeroed by setting crossed strings over the gun barrel opening (a rubber loop and notches at the end of the barrel facilitate holding the string in the correct position), then looking through the barrel of the sub-caliber device (and crossed strings) and setting the fixed stadia, reticle sight to the same target. The sub-caliber rounds can then be used to further refine the zero and to qualify.
+
+This equipment has proliferated into the following countries: El Salvador, Philippines, South Korea (Republic of Korea).
+
+Here is System information for the M67 American 90mm Recoilless Rifle:
+The Alternate Designation is M67.
+The Type is Recoilless Rifle.
+The Caliber is 90 mm.
+The Manufacturer is It was designed by the Midwest Research Institute in Kansas City, Missouri. It was also produced in South Korea by Kia Motors, while rounds were manufactured by Poongsan Corporation [ko]. Additionally, a licensed version was made in Greece, the EM-67..
+The Length is 1,346 mm.
+The Height is 432 mm.
+The Weight, Empty is 17 kg.
+The Weight, Loaded is 21.2kg.
+The Crew is 3 - Gunner, Assistant gunner, Ammunition bearer.
+The Penetration against RHA is 350 mm.
+The Penetration against Concrete is 800 mm.
+The Rate of Fire is 1-2 rpm.
+The Muzzle Velocity is 213 m/s.
+The Maximum Firing Range is 2,100 m.
+The Effective Firing Range is 300 m.
+The Sights is 3x M103 Telescopic sight with stadia lines.
+
+Here is Option 1 information for the M67 American 90mm Recoilless Rifle of the Ammunition:
+The Name is TP M371 practice round.
+The Note is The TP M371 is a practice round for the M371A1 HEAT round. It has the high explosive filler replaced with inert ballast to keep it at the same weight and flight properties. The nose cap contains a smoke pellet to mark the point of impact..
+
+Here is Option 2 information for the M67 American 90mm Recoilless Rifle of the Ammunition:
+The Name is M371A1 HEAT round.
+The Note is The M371A1 round utilizes a special fin-stabilized projectile which employs the shaped charge principle to defeat armor. It does not depend upon the warhead's velocity at the moment of impact for its effect, relying instead on the focusing effect of the shape of its explosive filler. The explosive charge collapses a conical metal liner inside the warhead into an extremely high-velocity superplastic jet. This superplastic jet is capable of penetrating steel armor to a depth of seven or more times the diameter of the explosive charge. The end of the projectile is a long and narrow stand-off of a length that allows the HEAT warhead to achieve maximum effect against the target.
+
+The M371A1 HEAT round is used primarily against armor. It can also be used against secondary targets such as gun emplacements and pillboxes with excellent results. It is capable of penetrating 1.15 ft (350 mm) of armor plate (steel), 3.5 ft (1.1 m) of packed soil, or 2.5 ft (0.8 m) of reinforced concrete..
+
+Here is Option 3 information for the M67 American 90mm Recoilless Rifle of the Ammunition:
+The Name is M590 Antipersonnel Canister.
+The Note is The Antipersonnel (Canister) Cartridge M590 (XM590E1) or M590 cartridge is a flechette round designed for close-in defense against massed infantry attacks. The cartridge consists of an aluminum cartridge case crimped to an aluminum canister. The canister consists of a thin-walled, deep-drawn, aluminum body that contains a payload of 2,400 eight-grain (0.5 g), low-drag, fin-stabilized, steel-wire flechettes. When the canister leaves the muzzle, the pressure ruptures the canister along inscribed score marks to release the flechettes, which disperse in a cone angle of approximately 8 degrees..
+
+Here is Option 4 information for the M67 American 90mm Recoilless Rifle of the Ammunition:
+The Name is M591 Antipersonnel round.
+The Note is The M591 is an HE round with a muzzle velocity of 475 meters per second (1,560 ft./s)..
+

@@ -1,0 +1,40 @@
+This document describes the Bittium Tough VoIP Terminal Finnish Fully Integrated Wireline IP Phone.
+
+The Bittium Tough VoIP Terminal is a fully integrated wireline IP phone that can be either operated as part of Bittium Tough VoIP solution or as an IP terminal together with third-party equipment. The Tough VoIP Terminal offers a range of functions and can be configured to suit different applications.
+
+This equipment has proliferated into the following countries: Finland.
+
+Here is System information for the Bittium Tough VoIP Terminal Finnish Fully Integrated Wireline IP Phone:
+The Alternative Designation is Bittium Tough VoIP Terminal.
+The Type is Fully Integrated Wireline IP Phone.
+The Manufacturer is Bittium Corporation.
+The Crew is 1.
+The Interfaces is Ethernet with Power over Ethernet (4-wire PoE): M12 D-coded panel mount connector; 100Base-T Ethernet; Maximum input power of 12.95 W (350 mA @ 37 V);
+Headset connection 6-pin U-283/U.
+The Operating Modes is Multi party conferencing by SIP server;
+Multi party push-to-talk without server;
+Point-to-point call without server;
+Dynamic address book.
+The Network Protocol is IPv4; TCP; UDP; ICMP; ARP.
+The VoIP Protocols is SIP (RFC 3261, RFC 3265, RFC 3515, RFC 3264, RFC 2782 and RFC 3428);
+SDP (RFC 2327) – RTP/RTCP (RFC 3550);
+Adaptive Jitter buffer;
+DHCP option for SIP (RFC 3361);
+DNS support for SIP.
+The Display is 2.7" diagonal OLED display.
+The Keypad is ITU E.161 keypad;
+Arrow keys for menu browsing;
+Confirm and cancel buttons;
+PTT (Push To Talk) button on the side;
+Keypad lock.
+The Management & Control is Web-based management.
+The Voice Coding (Vocoder) is G.711, G.729 A/B.
+The Operating Temperature is -40°C to +55°C.
+The EMC is MIL-STD-461E.
+
+Here is Dimensions information for the Bittium Tough VoIP Terminal Finnish Fully Integrated Wireline IP Phone:
+The Length is 213 mm.
+The Width is 84 mm.
+The Height is 43 mm.
+The Weight, Combat is 0.447 kg.
+

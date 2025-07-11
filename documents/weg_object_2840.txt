@@ -1,0 +1,31 @@
+This document describes the VT3050 American 50 W VHF/UHF Power Amplifier.
+
+The R&S VT3050 50 W VHF/UHF power amplifier supports continuous operation across the 30 MHz to 512 MHz band with 50 W transmit power.
+
+The R&S®VT3050 is a member of the R&S®M3TR family of multiband tactical radio systems. This power amplifier meets the need for military voice and data communications in all analog and digital fixed frequency and frequency hopping modes supported by the R&S®MR300xH/R&S®MR300xU tactical radio. The amplifier is especially designed for high linearity to satisfy the requirements of the R&S®M3TR family’s high-speed radio modem for 72 000 bit/s. It supports medium to fast frequency hopping.
+
+A collocation option is available for the VHF low band (30 MHz to 88 MHz). The co-site filter is factory-installed. Fully automatic operation (controlled from the transceiver) and rapid tuning capability are provided.
+
+An R&S®M3TR VHF/UHF system can be easily upgraded to multiband operation. The serial control bus of the R&S®M3TR allows combinations of radios with up to two external amplifiers. By adding an R&S®VK3150 HF amplifier and an R&S®FK3150 antenna tuning unit, the system can be expanded to a frequency range of 1.5 MHz to 512 MHz.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the VT3050 American 50 W VHF/UHF Power Amplifier:
+The Alternative Designation is VT3050.
+The Type is 50 W VHF/UHF Power Amplifier.
+The Manufacturer is Rhode and Schwarz.
+The Crew is 1.
+The Operation is The R&S®VT3050 50 W VHF/UHF power amplifier supports continuous operation across the 30 MHz to 512 MHz band with 50 W transmit power..
+The Family is The R&S®VT3050 is a member of the R&S®M3TR family of multiband tactical radio systems..
+The Voice and Data is This power amplifier meets the need for military voice and data communications in all analog and digital fixed frequency and frequency hopping modes supported by the R&S®MR300xH/R&S®MR300xU tactical radio..
+The High-Speed Radio Modem is The amplifier is especially designed for high linearity to satisfy the requirements of the R&S®M3TR family’s high-speed radio modem for 72 000 bit/s..
+The Collocation Option is A collocation option is available for the VHF low band (30 MHz to 88 MHz). The co-site filter is factory-installed. Fully automatic operation (controlled from the transceiver) and rapid tuning capability are provided.
+The Multiband Operation is An R&S®M3TR VHF/UHF system can be easily upgraded to multiband operation. The serial control bus of the R&S®M3TR allows combinations of radios with up to two external amplifiers.
+The Frequency Range is 1.5 MHz to 512 MHz.
+
+Here is Dimensions information for the VT3050 American 50 W VHF/UHF Power Amplifier:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

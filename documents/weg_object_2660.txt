@@ -1,0 +1,128 @@
+This document describes the VAB French 4x4 Amphibious/Airborne Armored Personnel Carrier (APC).
+
+The Véhicule de l'avant blindé or VAB ("Armoured vanguard vehicle" in French) is an armored personnel carrier and support vehicle designed by Renault of France. It entered service in 1976; around 5,000 were produced. As of 2019, it is the standard APC of the French Army and has also been exported to more than 15 countries. It saw combat in various conflicts in Africa, Asia, and Europe.
+
+VAB means “Véhicule de l’Avant Blindé”, literally “Vanguard Armoured Vehicle” which does not tells that it was an armored personnel carrier and the most prolific of the French Army by far. 5000+ indeed has been built since its introduction in 1976, both in 4×4 and 6×6 configuration, declined into 35 variants and exported to 15 countries over time. With 3,900 vehicles the French Army is the largest operator of the type, and now most vehicles are modernized while there is a second-generation VAB (called Mk. II) currently developed for escort.
+
+This equipment has proliferated into the following countries: Brunei Darussalam, Central African Republic, Cyprus, France, Georgia, Indonesia, Italy, Ivory Coast, Kuwait, Lebanon, Mauritania, Morocco, Oman, Qatar, United Arab Emirates.
+
+Here is Variants information for the VAB French 4x4 Amphibious/Airborne Armored Personnel Carrier (APC):
+The VCAC Milan is Trial 4 X 4 with 2 Milan ATGMs.
+The VAB Echelon Repair Vehicle is 4 X 4 or 6 X 6 variants for battlefield repairs with a 7.5- mm or 7.62-mm machine gun.
+The VAB PC Command Vehicle is Crew of 6 with additional radios & mapboards; FDC &
+FO versions also available
+.
+The VAB Bromure Electronic Warfare Vehicle is Crew of 3 operate Thomson-
+CSF VHF tactical jammer
+.
+The VAB ATILA is Artillery fire & command.
+The VAB Reco is NBC reconnaissance vehicle.
+The VAB Genie Engineer Vehicle is Crew of 9 with roof-mounted
+raft
+.
+The VTM 120-mm Mortar Towing Vehicle is Tows Thompson Brandt 120-
+mm Mortar with 70 rounds
+.
+The VPM 81 is 81-mm mortar fires through
+roof opening
+.
+The VAB TOW is Basic VAB with TOW ATGM
+launcher with 16 reloads
+.
+The VAB TOW-ALT is Thune-Eureka 2-tube TOW
+turret with 16 reload missiles
+.
+The VAB VDAA Albi SAM System is Prototype 4 X 4 or 6 X 6 with turret with 2 MATRA SAM
+launchers & 6 extra missiles
+.
+The VAB with UTM 800 Anti-Tank Launcher is 4 non-retractable HOT tube
+launchers with 8 reloads
+.
+The VCAC HOT Mephisto Anti-Tank Vehicle is 4 retractable HOT tube
+launchers with SACLOS missiles & 8 additional rounds
+.
+The VMO is Internal Security Vehicle.
+The VMO with TOI is Standard VMO with cupola,
+7.62-mm MG & AGL
+.
+The VAB AZURE is Urban warfare with bulldozer blade & panoramic periscopes.
+The VAB Atlas is Improved ATILA Artillery C2.
+The VAB Mark III is Latest upgrade from 2014; 6 X 6 with advanced protection &
+mobility
+.
+The VAB New Generation/Improved VAB is 1996 Upgrade with most
+variants available
+.
+The VCI is More heavily armed than the basic VAB with many variants.
+The VAB RASIT is Recon vehicle with radar.
+The VAB RATAC is Artillery target acquisition.
+The VAB Sanitaire Ambulance is Carries 4 litter, 10 sitting, or 2
+litter/5 seated patients
+.
+The VAB VDAA Santal SAM System is 6 X 6 VAB with 2-man turret with 6 MATRA Mistral SAMs
+with 6 extra rounds in vehicle
+.
+The VAB with ESD is TA-20 turret mounted anti-
+aircraft system
+.
+
+Here is Dimensions information for the VAB French 4x4 Amphibious/Airborne Armored Personnel Carrier (APC) of the System:
+The Length, Chassis Overall  is 5.98 
+.
+The Width, Overall  is 2.5.
+The Height, Overall  is 2.06.
+The Weight is 13.
+
+Here is Automotive information for the VAB French 4x4 Amphibious/Airborne Armored Personnel Carrier (APC):
+The Engine Name is Renault VI MIDS 06.20.45.
+The Engine Type is Renault water-cooled, turbo- charged in-line, 6-cyclinder
+diesel
+.
+The Range, Cruising  is 1000.0.
+The Speed , Average Cross-Country is 15.0.
+The Speed, Maximum Off-Road is 40.0.
+The Speed, Maximum Road  is 92.0.
+The Speed, Maximum Swim  is 7.0.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.5-0.6.
+The Trench is 1.0.
+The Fording Depth  is Amphibious.
+
+Here is Radio information for the VAB French 4x4 Amphibious/Airborne Armored Personnel Carrier (APC) of the Communications:
+The Name is 1 x Thales PR4G VS2 VHF.
+
+Here is BMS information for the VAB French 4x4 Amphibious/Airborne Armored Personnel Carrier (APC) of the Communications:
+The Name is 1 x SIT VI BMS System.
+
+Here is System information for the VAB French 4x4 Amphibious/Airborne Armored Personnel Carrier (APC) of the Main Weapons System:
+The Name is 1 x AA-52, 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,080 mm.
+The Barrel Length is 600 mm.
+The Weight is 9,970 kg.
+The Action is Lever-delayed blowback.
+The Max Rate of Fire is 900 rds/min.
+The Effective Firing Range is 600 m.
+The Maximum Firing Range is 3,200 m.
+The Feed System is Belt.
+The Sights is Iron Removable APX (SOM) telescopic sights IR scope.
+
+Here is Ammunition information for the VAB French 4x4 Amphibious/Airborne Armored Personnel Carrier (APC) of the Main Weapons System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.5×54mm French, 7.62×51mm NATO.
+The Muzzle Velocity is 830.
+The Basic Load is 900.
+
+Here is Protection information for the VAB French 4x4 Amphibious/Airborne Armored Personnel Carrier (APC):
+The Armor is Vehicle armor protects the crew and dismounts from 7.62 mm rounds, artillery shell splinters and anti-personnel mines.
+The Anti IED Armor, Applique  is cage, ballistic blanket.
+The Armor, Explosive Reactive  is No.
+The Armor, Turret Front  is 12.7.
+The NBC Protection is Yes.
+The Self-Entrenching Blade is Bulldozer blade available.
+The Smoke Equipment is 4 Smoke grenade launchers.
+The Survivability Equipment is V-shaped hull.
+

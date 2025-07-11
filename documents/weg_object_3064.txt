@@ -1,0 +1,153 @@
+This document describes the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT).
+
+The ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT) is a Chinese third-generation lightweight main battle tank (MBT). The vehicle was a replacement for the antiquated Type 62 light tank introduced in 1963. Type 15 tank is designed to fulfill the requirement from the Chinese army for a lighter, mobile modern tank that can effectively operate in China's plateaus, forests, and water-heavy regions in which heavier Type 99 tanks have difficulties traversing.
+
+Sightings of Type 15 were reported by Chinese citizens, but its existence was formally confirmed by the Chinese Ministry of Defense in December 2018. The tank is confirmed in service as of 2018. and was showcased in the 70th National Day parade on Oct 1st, 2019.
+
+Type 15's rifled gun with new 105 mm ammunition, which is superior to the 105mm tank gun (Type 94) fitted on Type 88 tank and Type 59 tank. When launching 105 mm armor-piercing projectiles, Type 15 is capable to effectively penetrating the active main battle tanks equipped by various countries and regions in southern and southwestern China.
+
+The tank is equipped with NRBC protection, an air conditioning system, command-and-control equipment, a tactical command system, and a navigation system that includes INS (Inertial Navigation System) and satellite communications.
+
+This equipment has proliferated into the following countries: Bangladesh, China.
+
+Here is Variants information for the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT):
+The VT5 is Export version..
+
+Here is System information for the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT):
+The Alternative Designation is ZTQ-15; Type 15.
+The Type is Main Battle Tank (MBT).
+The Manufacturer is Norinco.
+The Crew is 3.
+The Airlift Capable is Yes.
+
+Here is Dimensions information for the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT):
+The Hull Length is 7.5 m.
+The Length, Gun Forward is 9.2 m.
+The Width is 3.3 m.
+The Height is 2.5 m.
+The Weight, Combat is 33 - 36 tons.
+
+Here is Automotive information for the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT):
+The Engine Name is INA.
+The Engine Type is Electronically controlled diesel engine with fully-automatic transmission.
+The Engine Power is 1,000.
+The Range is 450.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.85.
+The Trench is 2.5.
+The Fording Depth is 1.1.
+
+Here is System information for the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT) of the Main Gun:
+The Name is INA.
+The Type is Rifled Gun.
+The Caliber is 105 mm.
+The Loading System is The gun has an automatic bustle-mounted ammunition loading system, which allowed to reduce the crew to 3..
+The Barrel Length is INA.
+The Diameter is INA.
+The Effective Firing Range is 3.
+The Elevation is INA.
+The Traverse Range is INA.
+The Note is This tank can also launch 105 mm anti-tank guided missiles in this tank can also launch 105 mm anti-tank guided missiles in the same manner as ordinary munitions. These extend the effective range to up to 5 km and have a hit probability of over 90% against stationary targets. Furthermore these missiles have tandem High Explosive Anti-Tank (HEAT) warheads and pose serious threat to main battle tanks, and can even target low-flying helicopters. Also the gun can launch ordinary High Explosive (HE) and HEAT rounds for use against light armored vehicles, buildings, field fortifications and infantry..
+
+Here is Ammunition information for the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT) of the Main Gun:
+The Name is INA.
+The Type is APFSDS.
+The Caliber is 105 mm.
+The Penetration is up to 500 mm of rolled homogenous armor..
+The Basic Load is A total of 38 rounds or missiles are carried for the main gun..
+
+Here is System information for the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is 1 x Type 67 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is China North Industries Corporation.
+The In Service is 1967-Present.
+The Proliferation is Widely Proliferated.
+The Length is 1,650 mm.
+The Barrel Length is 605 mm.
+The Weight is 11 kg.
+The Action is Gas-operated, tilting breechblock.
+The Rate of Fire is 650-700 rounds/min.
+The Effective Firing Range is 800-1000 m.
+The Feed System is 100/250-round belt.
+The Sights is Rear leaf sight, forward post.
+
+Here is Ammunition information for the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Basic Load is 500 Rounds.
+
+Here is System information for the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT) of the Auxiliary Weapon System #1:
+The Name is 1 x QLZ-04 37mm Automatic Grenade Launcher.
+The Type is Automatic Grenade Launcher.
+The Caliber is 37 mm.
+The Manufacturer is Norinco.
+The Proliferation is Widely Proliferated.
+The In Service is 1970s-Present.
+The Length is 1026 mm.
+The Barrel Length is 380 mm.
+The Weight is 20 kg.
+The Muzzle Velocity is 190 m/s.
+The Rate of Fire is 350-400 rounds per minute.
+The Effective Firing Range is 1750 m.
+The Feed System is Belt.
+The Sights is Optical sight, backup iron sights.
+
+Here is Ammunition information for the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT) of the Auxiliary Weapon System #1:
+The Type is Grenade.
+The Caliber is 37mm.
+The Cartridge is HE-FRAG; HE-DP.
+The Basic Load is 30 rounds.
+
+Here is System information for the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT) of the Auxiliary Weapon System #2:
+The Name is 1 x W85 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Manufacturer is Norinco.
+The Proliferation is Widely Proliferated.
+The In Service is 1980s-Present.
+The Length is INA.
+The Weight is 18.5 kg (gun only).
+The Action is Gas.
+The Rate of Fire is 550-600 rounds/min.
+The Muzzle Velocity is 850 m/s.
+The Feed System is Belt.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT) of the Auxiliary Weapon System #2:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is 12.7×108 mm.
+The Basic Load is INA.
+
+Here is Fire Control information for the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is Yes, a modern Fire Control System..
+The Main Gun Stabilization is Yes.
+The Laser Rangfinder is Yes.
+The Ballistic Computer is Yes.
+The Wind Sensor is Yes.
+The Gunner's Thermal Sight is Yes.
+The Commander's Panoramic Sight with Thermal Vision. is Yes, Thermal vision allows to engage targets at night and during adverse weather conditions..
+The Hunter-Killer Engagement Capable is Yes.
+The Navigation is Yes.
+The Satellite Communication is Yes.
+The Battlefield Management System is Yes.
+
+Here is Protection information for the ZTQ-15 (Type 15) Chinese Light Main Battle Tank (MBT):
+The Hull Armor is Standard steel armour protection against firing of small arms and shell splinters..
+The Turret Armor is Standard steel armour protection against firing of small arms and shell splinters..
+The Applique Armor is Yes, modular add-on armor kit..
+The Explosive Reactive Armor is INA.
+The Active Protection System is Yes.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, This system triggers smoke grenade dischargers once the tank is illuminated by a laser beam..
+The Note is Some areas of the hull and turret can be covered with cage armor which provides protection against anti-tank rockets and anti-tank guided missiles..
+

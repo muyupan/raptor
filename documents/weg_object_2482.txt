@@ -1,0 +1,97 @@
+This document describes the EIMOS Spanish 60mm / 81mm Self-Propelled Integrated Mortar.
+
+The EXPAL Integrated Mortar System (EIMOS) is a self-propelled system capable of carrying either 60-mm or 81-mm mortars. It is designed to provide close fire support for all types of operations. The system's mobility and rapid-response capabilities are particularly suited for asymmetric conflicts.
+
+The concept demonstrator features an autonomous soft-recoil mortar system installed on a turntable mount on the back of a Urovesa VAMTAC 4 x 4 high-mobility utility vehicle.
+
+This equipment has proliferated into the following countries: Bahrain, Italy, Spain.
+
+Here is Variants information for the EIMOS Spanish 60mm / 81mm Self-Propelled Integrated Mortar:
+The VAMTAC I3 is 166-hp Steyr diesel engine..
+The VAMTAC S3 is 188-hp Steyr diesel engine, reinforced suspension with greater payload capacity..
+The FAMTAC BN3 is Up-armored version with 220-hp Steyer M16TCA-3 6-cylinder engine with a top speed of 135 k/hr..
+
+Here is System information for the EIMOS Spanish 60mm / 81mm Self-Propelled Integrated Mortar:
+The Alternative Designations is EIMOS 60/81; EXPAL EIMOS 60mm Integrated Mortar System.
+The Type is The EXPAL Integrated Mortar System (EIMOS) is a self-propelled system capable of carrying either 60-mm or 81-mm mortars.
+The Caliber is 60 mm /81 mm.
+The Manufacturer is EXPAL.
+The In Service is 2009-Present.
+The Crew is 3 (gunner, driver, loader).
+The Passengers is None.
+
+Here is Dimensions information for the EIMOS Spanish 60mm / 81mm Self-Propelled Integrated Mortar:
+The Chassis Length is 5.55 m.
+The Chassis Width is 2.18.
+The Chassis Height is 1.90.
+The Chassis Curb Weight is 3,500 kg.
+The Chassis Payload Weight is 2,500 kg.
+The Chassis Towing Capacity is 3,000 kg.
+The Note is The Chassis is based off of the URO VAMTAC Spanish 4x4 High-Mobility Tactical Vehicle.
+
+Here is Automotive information for the EIMOS Spanish 60mm / 81mm Self-Propelled Integrated Mortar:
+The Automotive Performance is 1 x Steyr turbocharged 4-cyl diesel; 166 hp; or 1 x Steyr turbocharged 6-cyl diesel; 188 hp.
+The Engine Type is Turbo-charged 4-cylinder or – cylinder diesel.
+The Engine Powerr is 166-188.
+The Fuel Capacity is 110.
+The Transmission is 5 speed automatic.
+The Maximum Range is 600.
+The Speed is 126 km/h to 135 km/h.
+The Gradient is 75.
+The Side Slope is 40.
+The Vertical Step is 0.5.
+The Trench is 0.5.
+The Fording, without Preperation is 0.75.
+The Fording, with Preperation is 1.5.
+The Suspension is 4-wheel independent (double wishbones with coil-springs).
+The Note is The Chassis is based off of the URO VAMTAC Spanish 4x4 High-Mobility Tactical Vehicle.
+
+Here is Communications information for the EIMOS Spanish 60mm / 81mm Self-Propelled Integrated Mortar:
+The Radio is Customer Dependent.
+
+Here is System information for the EIMOS Spanish 60mm / 81mm Self-Propelled Integrated Mortar of the Main Weapon System:
+The Name is EIMOS-60.
+The Type is High Explosive (HE) Mortar.
+The Caliber is 60.
+The EIMOS Barrel Length is 1.00.
+The EIMOS Diameter (Base) is 0.78.
+The EIMOS Hieght is 1.75.
+The EIMOS Overall Weight is 800.
+The Length of Recoil is 0.30.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Effective Range (Using Charge 5) is 4,900.
+The Time to Engage Target is Less than 20 seconds.
+The Rate of Fire is 16-18 rounds per minute.
+The Circular Error Probable is 10-15 meters with GT-KIT mortar guidance system.
+
+Here is Ammunition information for the EIMOS Spanish 60mm / 81mm Self-Propelled Integrated Mortar of the Main Weapon System:
+The Name is M720A1.
+The Type is High Explosive (HE) Mortar.
+The Caliber is 60.
+The Length is 377.
+The Weight is 1.7.
+The Ammunition Types is High explosive, 
+White phosphorus (smoke),
+Hexachloroethane/zinc oxide (smoke) illuminating.
+The Basic Load is INA.
+
+Here is Fire Control information for the EIMOS Spanish 60mm / 81mm Self-Propelled Integrated Mortar:
+The FCS Name is INA, a EZPAL Developed Application.
+The Fire Control System is Yes, Laptop-based Fire-Control System. Techfire w/ inertial navigation.
+The Ballistic Software is NATO Standard Agreement (STANAG)-compliant ballistic software.
+The GPS is Yes, differential GPS.
+The Mortar Tube Control is The mortar tube can be rotated and aimed using a joystick located on the mortar unit itself.
+The Guidance System is GT-KIT mortar guidance system.
+The Meteorological Station is Yes, onboard meteorological station.
+
+Here is Protection information for the EIMOS Spanish 60mm / 81mm Self-Propelled Integrated Mortar:
+The Armor (turret front) is INA.
+The Applique aArmor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Self-entrenching Blade is No.
+The NBC Protection System is Available.
+The Smoke Equipment is INA.
+

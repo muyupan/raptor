@@ -1,0 +1,63 @@
+This document describes the R-381T3 Russian Automatic Data Processing Station.
+
+R-381T3 Automatic Data Processing Station. 
+
+The 381T3 Automatic Data Processing Station is part of the R-381T Taran Complex. 
+
+The R-381T Taran complex consists of 7 vehicles: 1 x  R-381T3 – automatic data processing station
+4 x R-381T2 – UHF radio monitoring station (30-100 MHz) 
+2 x R-381T1 – VHF radio monitoring station (1.5-30 MHz), aviation radio communication monitoring (100-400 Mhz), radio relay link monitoring (300-1000 MHz) The efficient range of the complex is 40 km (100 km for aviation frequencies monitoring). Radio station detecting time is 0.3 sec. 
+
+Another variant of the complex consist of 5 vehicles: x1 R-381T3 x2 R-381T2 x2 R-381T1 It is also possible to use separate stations.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the R-381T3 Russian Automatic Data Processing Station:
+The Alternative Designation is R-381T3.
+The Type is Automatic Data Processing Station.
+The Manufacturer is ‘Proton’ engineering bureau in Kharkov.
+The Chassis is MT-LB.
+The Crew is INA.
+The Mission Intercept and DF Frequency Range is 100 to 600 MHz.
+The Frequency Range Against Airborne Targets is 100 to 425 MHz.
+The Receiver Range, Ground Targets is 40 km.
+The Receiver Range, Airborne Targets is 400 km.
+The Direction Finding Range is 30 to 40 km.
+The Bearing Accuracy is 1.8 degrees.
+The Receiver is R 313 M2.
+The Radio Relay is R 343.
+The Communication System is R111.
+The Fax Machine/Printer is Argon-B.
+The Recorder is P 180 M.
+The NVG is PNW-57E.
+The Aiming Circle is PAB-2.
+The Displacement Time is less than 10 minutes.
+The Emplacement Time is less than 10 minutes.
+
+Here is Dimensions (Chassis MT-LB) information for the R-381T3 Russian Automatic Data Processing Station:
+The Length is 6.45.
+The Width is 2.86.
+The Height is 1.86.
+The Weight, Combat is 11,000.
+The Ground Pressure is 0.46 standard track / 0.28 wide track.
+
+Here is Automotive (Chassis MT-LB) information for the R-381T3 Russian Automatic Data Processing Station:
+The Engine Name is YaMZ 238 (Newer versions have the KamAZ-740.50 engine / 360 horsepower).
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 30.
+The Speed Maximum Swim is 5.
+The Fording Depth is Amphibious.
+
+Here is Protection information for the R-381T3 Russian Automatic Data Processing Station:
+The Hull Armor is 14.
+The Turret Armor is 14.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is Yes, NBC Ventilator FWUA-100W-12.
+The Smoke Equipment is No.
+

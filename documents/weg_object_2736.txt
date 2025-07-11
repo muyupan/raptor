@@ -1,0 +1,97 @@
+This document describes the GJT 211 Type 82 Chinese Tracked Bulldozer.
+
+The GJT 211 Type 82 Chinese Tracked Bulldozer was designed from the outset for combat engineer use. Development began in 1979 and it is based on the running gear and automotive of the Type 62 light tank and was preceded by the visually similar GJT 210. Following issues with early production examples, full production of the Type 82 commenced in 1983.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the GJT 211 Type 82 Chinese Tracked Bulldozer:
+The GSL 131 is The GSL 131 mine clearing vehicle is based on the GJT 211 (Type 82) armoured bulldozer. It has a crew of four and is fitted with a mine clearing blade and two GBD 127 mine clearing charges..
+
+Here is System information for the GJT 211 Type 82 Chinese Tracked Bulldozer:
+The Alternative Designation is GJT 211 Type 82.
+The Type is Chinese Tracked Bulldozer.
+The Manufacturer is Norinco.
+The Crew is 4.
+The Note is The area behind the cab and over the engine and transmission covers is used as a general cargo or equipment-carrying area and is provided with steel drop sides. There is no tailgate other than a load restraint frame..
+
+Here is Dozer Blade information for the GJT 211 Type 82 Chinese Tracked Bulldozer:
+The Maximum Operating Depth is 370 mm.
+The Maximum Width is 4.4 m.
+The Maximum Height is 1.1 m.
+The Maximum Push is Maximum push is 16,000 kg.
+The Note is When operating, the minimum bulldozing speed is 2.4 km/h and when operating within a distance of 30 m, the earthmoving capacity is 262 m3/h..
+
+Here is Dimensions information for the GJT 211 Type 82 Chinese Tracked Bulldozer:
+The Length, Overall is 7.17 m (with blade).
+The Length, Hull is 5.81 m (without blade).
+The Width, Overall is 4.33 m (operating).
+The Width, Transport Configuration is 3.36 m (travel).
+The Height, Overall is 2.76 m.
+The Height, To top of Roof-Mounted Weapon is 3.21 m.
+The Weight is 20,500 kg.
+The Length of Track on Ground is 3.385 m.
+The Ground Clearance is 450 mm.
+The Ground Pressure is .71 kg/cm squared.
+
+Here is Automotive information for the GJT 211 Type 82 Chinese Tracked Bulldozer:
+The Engine Name is Type 12150L-3.
+The Engine Type is V-12 diesel.
+The Engine Power is 430.
+The Range is 400 km.
+The Maximum Speed is 47.4 km/h.
+The Gradient is 30%.
+The Vertical Obstacle is 0.700 m.
+The Trench is 2.6 m.
+
+Here is System information for the GJT 211 Type 82 Chinese Tracked Bulldozer of the Main Weapon System:
+The Name is 1 x Type 54.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Rate of Fire is 600 rpm.
+
+Here is Ammunition information for the GJT 211 Type 82 Chinese Tracked Bulldozer of the Main Weapon System:
+The Type is Heavy machine gun and anti-material rifle cartridge.
+The Caliber is 12.7 mm.
+The Cartridge is 12.7 x 108mm.
+The Muzzle Velocity is 850.
+The Effective Range is 2.
+The Armor Penetration is API: 21mm at 500m and 13mm at 1000m (RHA).
+The Basic Load is 1,250 Rounds.
+
+Here is System information for the GJT 211 Type 82 Chinese Tracked Bulldozer of the Coaxial Machine Gun:
+The Name is 1 x Type 59T.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Max Rate of Fire is 800 rpm.
+The Sustain Rate of Fire is INA.
+
+Here is Ammunition information for the GJT 211 Type 82 Chinese Tracked Bulldozer of the Coaxial Machine Gun:
+The Caliber is 7.62.
+The Muzzle Velocity is 8,547.
+The Effective Range is 460.
+The Armor Penetration is NA.
+The Basic Load is 3,500 Rounds.
+
+Here is Fire Control information for the GJT 211 Type 82 Chinese Tracked Bulldozer:
+The Computerized FCS is No.
+The Thermal Sight Tank Commander is No.
+The Thermal Sight Gunner is No.
+The Main Gun Stabilization is No.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is NA.
+The Laser Range Finder is Yes.
+
+Here is Protection information for the GJT 211 Type 82 Chinese Tracked Bulldozer:
+The Hull Armor is 16 mm on sides.
+The Roof and Belly Armor is 13 mm.
+The Glacis is 25 mm.
+The Lower Glacis is 20 mm.
+The Turret Armor is 32 mm to 50 mm.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is No.
+The Smoke Equipment is Carries 2 x  smoke pots.
+

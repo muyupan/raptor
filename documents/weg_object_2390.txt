@@ -1,0 +1,41 @@
+This document describes the AGS-30 Atlant Russian 30mm Automatic Grenade Launcher.
+
+The AGS-30 Atlant is a Russian-designed automatic grenade launcher currently in production in the Russian Federation and in service with the Russian armed forces. Designed on the basis of AGS-17, the AGS-30 provides better mobility, longer range and better accuracy during firing. Significantly lighter than its previous version but far more advanced and powerful, the AGS-30 weighs 30 kg loaded, meaning it can be carried by one person. Using a specially designed GPD-30 grenade, recently put into serial production, the AGS-30 can engage targets at 2100 m. Recoil is lessened with a much smoother grenade ejection mechanism. An adjustable SAG-30 tripod mount (GRAU index 6P17) is also included.
+
+After the dissolution of the USSR, Russia found itself in a difficult position in the First Chechen war. After the success of the AGS-17 in Afghanistan, the KBP Instrument Design Bureau immediately began work on the new grenade launcher. The Russian army needed a weapon that could easily flush militants out of their fortified building hideouts, leveling them in seconds. The new design proved to be reliable and lethal. Another improvement to the weapon is its ability to stay undetectable by the enemy—reduced sound when firing, reduced flash and the lightning speed of the grenade make the AGS-30 very hard to detect. It can be operated from almost everywhere—from attaching it to a window, to mud and grassy surfaces. Officially adopted in 2002. Adopted by the Russian Interior Ministry Troops.
+
+This equipment has proliferated into the following countries: Algeria, Azerbaijan, India, Laos (People's Democratic Republic), Macedonia, Namibia, North Korea (Democratic People's Republic of Korea), Russian Federation, Saudi Arabia, Syria, Ukraine.
+
+Here is Variants information for the AGS-30 Atlant Russian 30mm Automatic Grenade Launcher:
+The AG-30M is Vehicle mounted version with electric trigger mechanism..
+
+Here is System information for the AGS-30 Atlant Russian 30mm Automatic Grenade Launcher of the System:
+The Name is AGS-30 Atlant.
+The Type is Automatic Grenade Launcher.
+The Caliber is 30.
+The Manufacturer is ZID.
+The In Service is 1995-Present.
+The Length is 1,165 mm.
+The Weight, Unloaded is 16.
+The Action is Blowback.
+The Rate of Fire is 400 round/min.
+The Muzzle Velocity is 185.
+The Effective Firing Range is 2,100 m.
+The Feed System is 29 grenades belt.
+The Sights is Adjustable telescopic sight, day-night sight, mechanical sight, portable radar.
+The Note is Main service grenade launcher in the Russian Armed Forces. Completely replaced complex AGS-17.
+
+Here is Ammunition information for the AGS-30 Atlant Russian 30mm Automatic Grenade Launcher of the System:
+The Name is VOG-17M.
+The Type is HE.
+The Caliber is 30.
+The Armor Penetration is INA.
+The Available Ammunition Options is VOG-17M (HE)
+IO-30 (HE)
+IO-30TP (Practice)
+VOG-30 (HE)
+VOG-30D (HE)
+VUS-30 (Smoke)
+GPD-30 (HE).
+The Basic Load is 200 Rounds.
+

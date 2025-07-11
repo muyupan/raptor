@@ -1,0 +1,31 @@
+This document describes the Missile de Croisière Naval French Long-Range Cruise Missile.
+
+MBDA developed a longer-range sea-launched variant for the French Navy, called Missile de Croisière Naval (MdCN standing for Naval Cruise Missile), to be deployed on FREMM multipurpose frigates from 2015, and on Barracuda-class submarines from 2018, using the A70 version of the Sylver launcher on the former and the 533 mm torpedo tubes on the latter. As the missile is not launched from a plane, as is SCALP/Storm Shadow, a booster has been included. The submarine version is encapsulated in an hydrodynamic hard container which is ejected when the missile reaches the surface. To provide a comparable range to the BGM-109 Tomahawk, the range of the MdCN (well over 1000 km) is significantly larger than the SCALP/Storm Shadow. The smaller Scorpène-class submarines can also carry the MdCN missile.
+
+France originally ordered 50 MdCN for its FREMM frigates in 2006, delivery was expected in 2012. A further 100 surface-launched missiles were ordered in 2009, along with 50 for the planned Barracuda-class submarines. The €1.2bn (FY2011) project was to deliver 200 missiles at a unit cost of €2.48m, or €6m including development costs.
+
+MdCN first flight test from a vertical launcher took place on 28 May 2010 and its first submarine launch test took place on 8 June 2011. MdCN's first complete qualification firing took place on 9 July 2012 at the Biscarosse test range. During its third development firing, MdCN met all its test requirements perfectly including the validation of the terminal autonomously guided phase with IR target scenario reconnaissance, which provides the weapon with its exceptionally high precision. On 24 October 2012, MdCN was tested "end-to-end" in the submarine launch configuration for the first time, adjacent to the Île du Levant test centre. The MdCN entered service with FREMM frigates in February 2017.
+
+The MdCN was used in its first operational strike during the April 2018 bombing of Damascus and Homs against alleged Syrian chemical weapons production site, in coordination with the United States and United Kingdom, but without approval from the UN. In addition to nine Scalp EG missiles fired from French aircraft, the FREMM frigates Aquitaine, Provence, and Languedoc launched three MdCN missiles.
+
+This equipment has proliferated into the following countries: Egypt, France, Greece, India, Italy, Qatar, Saudi Arabia, United Arab Emirates, United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the Missile de Croisière Naval French Long-Range Cruise Missile:
+The Storm Shadow is Low-observable air-launched cruise missile.
+
+Here is System information for the Missile de Croisière Naval French Long-Range Cruise Missile of the Missile de Croisière Naval Long-Range Cruise Missile:
+The Name is Missile de Croisière Naval.
+The Type is Long-Range Cruise Missile.
+The Manufacturer is MBDA.
+The Length is 6.5 m.
+The Diameter is 500 mm.
+The Wingspan is 2.85 m.
+The Engine is Microturbo.
+The Effective Firing Range is >1,000 km (620 mi; 540 nmi.
+The Speed is 800 km/h (500 mph; 430 kn; Mach 0.65).
+The Guidance System is inertial guidance, topographic (TERCOM/TERPROM), active radar homing and infrared guidance, GPS.
+The Accuracy is Metric.
+The Launch Platform is FREMM frigates
+Barracuda submarines
+Scorpène submarines.
+

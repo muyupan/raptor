@@ -1,0 +1,133 @@
+This document describes the 9K35 Strela-10 (SA-13 Gopher) Russian Short-Range Surface-to-Air Missile System.
+
+The 9K35 Strela-10 (SA-13 Gopher) Russian Short-Range Surface-to-Air Missile System entered service in 1976. It is fully amphibious, NBC-equipped, and has a range-only radar. In the Russian Army, it has replaced the far less capable SA-9 'Gaskin' system on a one-for-one basis to improve the mobility of the anti-aircraft batteries in the Motorized Rifle and Tank Divisions. There are two versions of the SA-13 Transporter-Erector-Launcher And Radar (TELAR) variant of the MT-LBu vehicle in service, designated TELAR-1 and TELAR-2. The TELAR-1 carries four 'Flat Box-B' passive radar detection antenna units, one on either corner of the vehicle's rear deck, one facing aft, and one between the driver's vision ports at the front, whereas the TELAR-2 has none. The TELAR-1 is the command vehicle and supports one (1) SA-13 battery.
+
+This equipment has proliferated into the following countries: Afghanistan, Angola, Armenia, Azerbaijan, Belarus, Bulgaria, Croatia, Cuba, Czech Republic, Georgia, Hungary, India, Jordan, Laos (People's Democratic Republic), Libya, Macedonia, Mongolia, North Korea (Democratic People's Republic of Korea), Russian Federation, Serbia, Syria, Turkmenistan, Ukraine, Viet Nam.
+
+Here is Variants information for the 9K35 Strela-10 (SA-13 Gopher) Russian Short-Range Surface-to-Air Missile System:
+The Strela-10M is improved air defense missile system. It entered service with the Soviet Army in 1979. Its missile has improved guidance. It distinguishes targets from infrared decoys. Therefore it is more effective..
+The Strela-10M2 is it is a further development of the Strela-10M. It can receive target data from air defense command posts or nearby radars. There is a 30-60% possibility to engage fighter aircraft with a single missile. Vehicle is fitted with floatation buoys on either side of the hull. It is fully amphibious and can ford rivers and lakes. On water it is propelled by its tracks. Amphibious speed on water is 5-6 km/h. It entered service with the Soviet Army in 1981..
+The Strela-10M3 is is a further development of the system. It can additionally engage UAVs and cruise missiles. Missile has improved resistance to enemy countermeasures. Warhead contains 5 kg of explosive material instead of 3 kg. It is more efficient against small-size air targets, such as UAVs. These missiles weight 42 kg. These can be used by all other versions of the Strela-10. The Strela-10M3 entered service with the Soviet Army in 1989..
+The Strela-10M3-K is a proposed Russian upgrade, based on refurbished BTR-60 APC 8x8 wheeled chassis..
+The Strela-10M4 is is the latest version of the Strela-10 system designated 9K35M4 Strela-10M4. This is an upgrade package for the Strela-10M2 and earlier versions, in order to bring it up to the same standard as the Strela-10M3 system. The major improvements are a night/limited visibility sight with a maximum engagement range of 5,000 m and a significantly improved kill probability against F-4 and MiG-21 type targets..
+The Strela-10T is a proposed Belarusian upgrade..
+The Luchnik-E is a proposed Russian upgrade. It has 8 ready to use Igla short-range surface-to-air missiles..
+
+Here is System information for the 9K35 Strela-10 (SA-13 Gopher) Russian Short-Range Surface-to-Air Missile System:
+The Alternative Designation is 9K35 Strela-10, SA-13 "Gopher, 9K35.
+The Type is Short-Range Surface-to-Air Missile (SAM) System.
+The Manufacturer is Saratovskiy Zenit Machine Plant (Muromteplovoz Joint Stock Company for the 9K35M3-K).
+The In Service is 1976-Present.
+The Family is Strela.
+The Crew is 3.
+The Chassis is MT-LB multi-purpose armored vehicle..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note is Reload missiles are carried by escorting Ural-4320 6x6 truck, fitted with a crane..
+The Amphibious is Yes.
+
+Here is Dimensions information for the 9K35 Strela-10 (SA-13 Gopher) Russian Short-Range Surface-to-Air Missile System:
+The Length is 6.45.
+The Width is 2.85.
+The Height is 2.22.
+The Height in Combat Configuration is 3.96.
+The Weight, Combat is 12.1.
+
+Here is Automotive information for the 9K35 Strela-10 (SA-13 Gopher) Russian Short-Range Surface-to-Air Missile System:
+The Engine Name is YaMZ-238V.
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is INA.
+The Gradient is 60.
+The Side Step is 30.
+The Vertical Step is 0.6.
+The Trench is 2.4.
+The Fording Depth is 1.2 m.
+
+Here is Missile Launcher information for the 9K35 Strela-10 (SA-13 Gopher) Russian Short-Range Surface-to-Air Missile System of the Missile System:
+The Name is INA.
+The Type is INA.
+The Basic Load is 8.
+The Note #1 is Missiles are optically aimed..
+The Note #2 is Four missiles are mounted on the turret in boxes, ready to launch, and eight more are carried inside the vehicle as reloads. Reloading takes around 3 minutes..
+
+Here is Missile information for the 9K35 Strela-10 (SA-13 Gopher) Russian Short-Range Surface-to-Air Missile System of the Missile System:
+The Name is 8 x 9M37 Short-Range Surface-to-Air Missiles (SAM).
+The Type is Short-Range Surface-to-Air Missile (SAM).
+The Length is 2.19.
+The Wingspan is 360.
+The Diameter is 0.12.
+The Weight is 40.
+The Warhead Type is HE-FRAG.
+The Warhead Weight is 3.
+The Maximum Range of Fire is 5,000.
+The Minimum Range of Fire is 800.
+The Maximum Altitude is 3,500.
+The Minimum Altitude is 25.
+The Detonation Mechanism is contact and laser proximity fuzes.
+The Propellant is Single-stage solid propellant rocket motor.
+The Speed is 550.
+The Basic Load is 8 x 9M37 Short-Range Surface-to-Air Missiles (SAM).
+
+Here is System information for the 9K35 Strela-10 (SA-13 Gopher) Russian Short-Range Surface-to-Air Missile System of the Coaxial Weapon System:
+The Name is 1 x 7.62mm PKT (Kalashnikov's Machine Gun) General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is +1 Million.
+The Length, Overall is 1,203.
+The Length, Barrel is 605.
+The Weight (Gun Only) is 9 kg.
+The Weight (Tripod Only) is 7.7 kg.
+The Action is Gas-operated, open bolt.
+The Maximum Rate of Fire is 650 rds/min.
+The Effective Rate of Fire is 250-300 rds/min.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the 9K35 Strela-10 (SA-13 Gopher) Russian Short-Range Surface-to-Air Missile System of the Coaxial Weapon System:
+The Name is 57-N-323S.
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×54mmR km.
+The Muzzle Velocity is 855.
+The Accuracy of fire at 300 m is 90 mm.
+The Basic Load is 2,000.
+
+Here is Radar #1 (Separate Vehicle) information for the 9K35 Strela-10 (SA-13 Gopher) Russian Short-Range Surface-to-Air Missile System of the Fire Control:
+The Name is 1 x MT-LBU "DOG EAR".
+The Type is Acquisition Radar.
+The Band is F/G-band.
+The Maximum Range is 80.
+The Note is Target acquisition requires a separate vehicle mounting a Dog Ear** forward alerting radar..
+
+Here is Radar #2 (On Missile Vehicle) information for the 9K35 Strela-10 (SA-13 Gopher) Russian Short-Range Surface-to-Air Missile System of the Fire Control:
+The Name is 1 x 9S86 "SNAP SHOT".
+The Type is Rangefinding.
+The Maximum Range is 10,000.
+The Minimum Range is 450.
+The Note is Located between the two pairs of missile canisters on the transporter erector launcher and radar (TELAR).
+
+Here is Radar #3 (On Missile Vehicle) information for the 9K35 Strela-10 (SA-13 Gopher) Russian Short-Range Surface-to-Air Missile System of the Fire Control:
+The Name is 1 x 9S16 (NATO "Flat Box-B").
+The Type is Radar warning.
+The Traverse Range is 360.
+The Maximum Elevation is 40.
+The Minimum Elevation is INA.
+
+Here is Protection information for the 9K35 Strela-10 (SA-13 Gopher) Russian Short-Range Surface-to-Air Missile System:
+The Hull Armor is Protection from small arms fire and projectile fragments..
+The Turret Armor is Protection from small arms fire and projectile fragments..
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

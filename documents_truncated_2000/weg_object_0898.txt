@@ -1,0 +1,89 @@
+This document describes the Z-8S (Zhishengji-8S) Chinese Naval Search and Rescue Helicopter.
+
+For ASW missions, the Z-8 is equipped with surface search radar and a French HS-12 dipping sonar while carrying a Whitehead A244S torpedo under the starboard side of the fuselage. The rotorcraft were also used to ferry supplies from replenishment ship to surface combatants, and transport marines from the landing ship to the shore. A naval SAR version, designated as the Z-8S, was outfitted with upgraded avionics, a searchlight, FLIR turret and a hoist, made its first flight in December 2004.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Z-8S (Zhishengji-8S) Chinese Naval Search and Rescue Helicopter:
+The Z-8A is The Z-8A is a military version of the original model Z-8 and is used for transportation..
+The Z-8F is The Z-8F is an advance utility variant. The variant is used for search and rescue, general utility and logistics support missions. The Z-8F is installed with three Pratt & Whitney Canada PT6A-67B turboshaft engines..
+The Z-8K/KA is The Z-8K is an enhanced version of Z-8F, built primarily to execute search and rescue missions. This variant is also fitted with forward looking infra-red (FLIR) sensors and a search light underneath the cockpit..
+The Z-8JA is The Z-8JA is a ship-borne variant of Z-8. It is able to land on water. Z-8JA and Z-8JH are currently in service with PLANAF, executing transport and medical evacuation operations respectively..
+
+Here is System information for the Z-8S (Zhishengji-8S) Chinese Naval Search and Rescue Helicopter:
+The Alternative Designation is Z-8s; Zhishengji-8s.
+The Type is Naval Search and Rescue Helicopter.
+The Manufacturer is Sud Aviation
+Aérospatiale.
+The In Service is 2004-Present.
+The Crew is 3.
+The Passenger Capacity is It can accommodate 27 fully armed troops or 15 medical stretchers..
+The Blades, Main Rotor is 6.
+The Blades, Tail Rotor is 5.
+The Number of Engines is 3.
+The Day/Night Capable is Yes.
+The All Weather Capable is Yes.
+The Hoist and Basket for SAR is Available.
+The Hoist and Winch is Available, 275kg hoist and winch.
+The Number of Hard Points is 2.
+
+Here is Dimensions information for the Z-8S (Zhishengji-8S) Chinese Naval Search and Rescue Helicopter:
+The Fuselage Length is 20.27.
+The Fuselage Width (with pontoon) is 5.2.
+The Width of Cargo bay (at the floor) is 1.90.
+The Height of Cargo Bay is 1.83.
+The Weight,Empty is 6,865.
+The Weight, MTOW is 13,000.
+The Main Rotor Diameter is 18.9.
+The Tail Rotor Diameter is 4.
+The Whole Cabin Volume is 28.9m3.
+The Main Rotor Disc is 280.48m2.
+The Tail Rotor Disc is 12.57m2.
+The Maximum Payload Capacity is 4,000kg.
+The Maximum Payload Capacity with Sling Loads is 5,000kg.
+
+Here is Automotive information for the Z-8S (Zhishengji-8S) Chinese Naval Search and Rescue Helicopter:
+The Engine Name is 3 x Turbomeca Turmu IIIC Turboshaft Engines.
+The Number of Engines is 3.
+The Engine Type is Turboshaft.
+The Engine Power is 1,570 hr each engine.
+The Maximum Range is 1,020.
+The Speed, Maximum is 275.
+The Ceiling is 3,150.
+The Rate of Climb is 401 meters per min.
+The Vertical Climb Rate is 6.66 m/s.
+The Main Rotor Blade is Six-Bladed.
+The Tail Rotor Blade is Five-Bladed.
+The Fuel Capacity is 3,900 liters.
+The Fuel Capacity, Internal Aux is 1,900 liters.
+The Endurance is 4 hours.
+The Landing Gear is non-retractable tricycle type landing gear comprising two wheels and low air pressure shock absorbers..
+
+Here is Communications information for the Z-8S (Zhishengji-8S) Chinese Naval Search and Rescue Helicopter:
+The Radio is INA.
+
+Here is Wing Mounted Weapons information for the Z-8S (Zhishengji-8S) Chinese Naval Search and Rescue Helicopter:
+The Note is A naval SAR version, designated as the Z-8S, was outfitted with upgraded avionics, a searchlight, FLIR turret and a hoist,.
+
+Here is Fire Control information for the Z-8S (Zhishengji-8S) Chinese Naval Search and Rescue Helicopter:
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Digital or Analog Cockpit is INA.
+The Direct Fire Control is INA.
+The Laser Designator is INA.
+The Sensor Suite(s) Available is Yes.
+The Position Location System is Yes.
+The FLIR is Yes.
+The Searchlight is Yes.
+The Sonobuoys is Available.
+
+Here is Protection information for the Z-8S (Zhishengji-8S) Chinese Naval Search and Rescue Helicopter:
+The Fuselage is INA.
+The Cockpit Glass is Ballistic.
+The Stealth Properties is No.
+The Add on Armor is INA.
+The NBC Protection is Yes.
+The EW is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is Yes.
+

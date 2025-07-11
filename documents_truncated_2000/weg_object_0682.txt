@@ -1,0 +1,46 @@
+This document describes the R-27T (AA-10b) Russian Air-to-Air Missile.
+
+R-27T/Alamo B
+This version features IR guidance and a short-burn motor. The missile has a cylindrical body, blunt nose, tapered nozzle and a cruciform antenna. There are "ears" forward of the fixed cruciform inverse-tapered foreplanes. "Cropped delta" tail fins are located aft.
+The R-27T is equipped with a 36T infrared seeker.
+
+This equipment has proliferated into the following countries: Algeria, Azerbaijan, China, Cuba, Eritrea, Ethiopia, Hungary, India, Indonesia, Iran (Islamic Republic of), Kazakhstan, North Korea (Democratic People's Republic of Korea), Peru, Poland, Russian Federation, Venezuela (Bolivarian Republic of), Yemen.
+
+Here is Variants information for the R-27T (AA-10b) Russian Air-to-Air Missile:
+The R-27R/Alamo A is This variant has semi-active radar guidance and a short-burn motor. It has a longer afterbody than other versions and a pointed nose.
+The 9B-1101K semi-active radar seeker has a lock-on range of 19 mi (30 km) against typical fighter targets and operates in J-band (10-20 GHz) with continuous wave monopulse systems. It has a look angle of +/-50 deg off boresight. The seeker weighs 74 lb (33.5 kg)..
+The R-27T/Alamo B is This version features IR guidance and a short-burn motor. The missile has a cylindrical body, blunt nose, tapered nozzle and a cruciform antenna. There are "ears" forward of the fixed cruciform inverse-tapered foreplanes. "Cropped delta" tail fins are located aft.
+The R-27T is equipped with a 36T infrared seeker..
+The R-27ER/Alamo C is The R-27ER missile features semi-active radar guidance and a long-burn motor..
+The R-27ET/Alamo D is This infrared guided variant has a long-burn motor. It was first seen by Western observers at an August 1989 Soviet air show.
+The R-27ET features an improved seeker compared to the R-27T with improved protection against IR countermeasures and better performance against low-flying cruise missiles. The seeker has a look angle of +/-55 deg off boresight..
+The R-27AE/R-27A/R-27EA/Alamo E is This variant has active-radar homing and a long-burn motor. At the 1992 Farnborough Air Show, an R-27AE active-radar variant was unveiled that used the seeker developed by Agat for the R-77 (AA-12 Adder). Weighing 32 lb (15 kg) and measuring 24 in (600 mm) long, the seeker combined an inertial platform with a multimode pulse-Doppler active radar. These were controlled by a 2.2-lb (1-kg) digital computer with a 32-kilobyte read-only memory (ROM) and a 32K random-access memory (RAM) computer.
+The Agat 9B-1103M multi-function monopulse Doppler seeker has a lock-on range of 12 mi (20 km) against fighter targets. The radome has a distinctive conical shape unlike any other R-27 variant.
+
+After a cruise phase during which the missile receives command updates from the launch aircraft, the radar switches on and searches for a target. Against a target with a 53.8-sq ft (5-sq m) RCS, radar lock-on can occur at 10.8 nm (12.4 mi; 20 km). Vympel's chief designer claimed that the seeker could pick a target in a multi-target environment and would pursue a cruise missile.
+
+At the time of the 1992 air show, the seeker was described as having just left the design phase and being about to enter the development phase.
+
+The R-27AE is said to have superior ballistic performance to the R-77 (AA-12 Adder) and, as a result, more straight-line range..
+The R-27EM is This missile has a semi-active radar seeker with improved low altitude engagement capability. It is said to be able to intercept targets flying as low as 10 ft (3 m). The R-27EM was modified for use over water and intended for the Su-33 carrier-based fighter..
+The R-27P is Numerous reports have indicated that the R-27P likely entered service in the 1990s, according to Jane's Air-Launched Weapons for Sept. 15, 2010.
+The missile has a short, conical nose and Avtomatika's 9B-1032 (PRGS-27) anti-radiation seeker, which homes in on other airborne radars. The 9B-1032 seeker is modular and interchangeable with the R-77/RVV-AE.
+
+The R-27P is believed to have a range of 50 mi (80 km)..
+The R-27EP/Alamo F is This variant has a new 9B-1103M active radar seeker from Agat. It is said to be more advanced than the 9B-1348 seeker that equips the R-77/ RVV-AE . The R-27EP is said to have a range of 68 mi (110 km)..
+
+Here is R-27 (AA-10b) Air-to-Air Missile information for the R-27T (AA-10b) Russian Air-to-Air Missile of the System:
+The Name is R-27T/Alamo B; AA-10b.
+The Type is Air-to-Air Missile.
+The Manufacturer is Spetzetekhnika Vympel NPO, Moscow, Russia, in cooperation with Artem, Ukraine.
+The Length is 3.70 m.
+The DIameter is 230 mm.
+The Wingspan is 0.77 m.
+The Weight is 245 kg.
+The Warhead is Conventional high-explosive wrapped by rods.
+The Control Plane Span is 0.97 m.
+The Propulsion is single-stage boost motor.
+The Maximum Speed is supersonic.
+The Maximum Range is 65 km.
+The Guidance System is IR-cooled seeker, all-aspect capability, flare countermeasure filters; semi-active radar J band, CW monopulse seeker; ARM J band, passive IR homing, passive radar seeker.
+

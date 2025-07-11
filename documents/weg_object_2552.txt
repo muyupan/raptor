@@ -1,0 +1,91 @@
+This document describes the Boragh Iranian Amphibious Armored Personnel Carrier (APC).
+
+boragh or Boraq is an Iranian-made armored personnel carrier. Boragh is believed to be a reverse engineered and upgraded model of the Chinese Type 86 (BMP-1). The upgrades include a reduction in weight, a higher road speed, and stronger armor. The vehicle is fully amphibious and is fitted with an NBC protection system and infra-red night vision equipment.
+
+It was reported in May 2002 that three additional variants are produced by the Vehicle and Equipment Group (VEIG) of the Iranian Defense Industries Organisation (DIO). These are a 120 mm mortar carrier, an ammunition resupply vehicle, and an armored personnel carrier (APC) fitted with improved armaments.
+
+Boragh is a tracked APC. Rubber elements on the track are added to prevent damage on paved surfaces. It has a crew of three (driver, commander and gunner). It can transport up to 8 infantry soldiers. Boragh's main armament consists of the DShK 1938/46 12.7 mm heavy machine gun on a rotatable mount. Some vehicles have the machine gun mount protected all around by an armored shield. The vehicle is equipped with an NBC protection system and is capable of laying down a defensive smoke screen by injecting diesel fuel into the exhaust outlet.
+
+The vehicle is named after the Buraq, a winged steed from Islamic mythology.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of), Sudan.
+
+Here is Variants information for the Boragh Iranian Amphibious Armored Personnel Carrier (APC):
+The Boragh is Reverse engineered BMP-1 or Type 86 (WZ-501) converted into an APC. It is very similar to Chinese WZ-503 APC. It has V-8 turbocharged diesel engine which delivers 330 hp (246 kW). It also has road wheels from the US M113 APC. Combat weight was reduced to 13 tonnes. The other upgrades include a higher road speed and stronger armor. Number of passengers was increased from 8 to 12. The 12.7 mm DShK 1938/46 heavy machine gun (1,000 rounds) serves as a main weapon of the vehicle..
+The Raad-1 (Thunder-1) is Boragh converted into a self-propelled howitzer fitted with a turret from the 2S1 Gvozdika.
+The Raad-2 (Thunder-2) is Boragh converted into a self-propelled howitzer fitted with a turret that has a similar layout to the M109A1 155mm/39-cal self-propelled howitzer fitted with 155 mm HM44 howitzer manufactured by the Hadid facility of the Iranian Defence Industries Organisation. The gun looks exactly like 155mm/39-cal M185 gun from M109A1 and is fitted with a double baffle muzzle brake, fume extractor, screw breech mechanism, hydro-pneumatic recuperator and a hydraulic recoil brake.
+The Cobra is Concept vehicle for the Boragh armed with 23 mm anti-aircraft gun for use as a fire support vehicle..
+The Khatim 1 is Sudanese designation for Boragh.
+
+Here is System information for the Boragh Iranian Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is Boragh or Boraq.
+The Type is Amphibious Armored Personnel Carrier (APC).
+The Crew is 3 (commander, driver, gunner).
+The Passengers is 8.
+
+Here is Dimensions information for the Boragh Iranian Amphibious Armored Personnel Carrier (APC):
+The Length is 6.65 m.
+The Width is 3.25 m.
+The Height is 1.75 m.
+The Tracks, Length on Ground is 3.60 m.
+The Ground Clearance is 0.45 m.
+The Weight, Combat is 13,000 kg.
+
+Here is Automotive information for the Boragh Iranian Amphibious Armored Personnel Carrier (APC):
+The Engine Name is INA.
+The Engine Type is V-8 diesel.
+The Engine Power is 330 hp (246 kW).
+The Power-to-Weight Ration is 25.4 hp/tonne (18.9 kW/tonne).
+The Suspension is torsion bar.
+The Range is 550 km.
+The Fuel is 1,255 gal (475 liters).
+The Speed, Road is 65 km/h (road)
+45 km/h (off-road).
+The Speed, Cross-Country is 45 kph.
+The Speed, Water is 7 kph.
+The Vertical Obstacle is 0.7 m.
+The Trench is 2.5 m.
+The Fording is Amphibious.
+The Gradient is 60 percent.
+The Side Slope is 40 percent.
+
+Here is System information for the Boragh Iranian Amphibious Armored Personnel Carrier (APC) of the Main Gun:
+The Name is DShK 1938.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Length is 1,625 mm.
+The Barrel Length is 1,070 mm.
+The Weight is 34 kg (74.96 lb) (gun only) 157 kg (346.13 lb) on wheeled mounting.
+The Action is Gas-operated, flapper locking.
+The Rate of Fire is 600 rounds/min.
+The Muzzle Velocity is 850 m/s.
+The Maximum Firing Range is 2,500 m.
+The Effective Firing Range is 2,000 m.
+The Feed System is 50 round belt.
+The Sights is Iron/optical.
+The Elevation is 60 deg.
+The Traverse is 360 deg.
+
+Here is Ammunition information for the Boragh Iranian Amphibious Armored Personnel Carrier (APC) of the Main Gun:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is Gas-operated, flapper locking.
+The Basic Load is 4,000 Rounds.
+
+Here is Fire Control information for the Boragh Iranian Amphibious Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is No.
+The Thermal Sight Vehicle Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is No.
+
+Here is Protection information for the Boragh Iranian Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is Welded rolled steel.
+The Turret Armor is Welded rolled steel.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

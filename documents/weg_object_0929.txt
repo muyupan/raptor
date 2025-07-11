@@ -1,0 +1,167 @@
+This document describes the WZ-10 (Z-10) Chinese Attack Helicopter.
+
+WZ-10 (Z-10) Chinese Attack Helicopter is an attack helicopter under development in China. It is designed primarily for anti-tank and battlefield interdiction operations, with a secondary air-to-air capability. It is said to be in the same class as the AgustaWestland A129 Mangusta, Denel Rooivalk, and Eurocopter Tiger.
+
+The Z-10 has a conventional attack helicopter layout with the pilot and weapon system operator sitting in tandem, stepped cockpits. The helicopter has a five-blade main rotor and a four-blade tail rotor. It has two engines, each in a pod aft of the cockpit. The fuselage has sloped sides in a diamond configuration to reduce the aircraft's radar cross-section.
+
+In September 2016, the PLA announced that all of its ground force aviation units had been equipped with the WZ-10.
+
+The Kamov design bureau was contracted to perform the development work under a secret contract. Kamov worked with the Chinese to establish base specifications, such as weight, speed, and payload capacity after which they had full freedom to design the helicopter. Kamov designed, tested, and verified the helicopter design, after which it was provided to the Chinese team. Although designed in Russia, the prototype construction, flight testing, and further development were performed by the Chinese.
+
+Wu Ximing (吴希明) of the 602nd Research Institute, one of the Chinese top scientists involved in the 863 Program was publicly credited with being the chief designer of the Z-10, in an attempt to preserve the secrecy of the Kamov contract. Wu had earlier participated in the designs of the armed version of transport helicopters Z-8A and WZ-9. In order to complete the necessary development, the 602nd Research Institute and CAIC had jointly built a new engineering design center, industrial simulator, aircraft engine ground test center, fatigue laboratory, and rotary test platform (nicknamed as Iron-Bird Platform, 铁鸟台). At the end of 2001, the final test was completed on the full-scale rotary test platform, paving the way for test flights.
+
+Composite material is widely used in the Z-10 but China faced difficulties in this field, particularly in the area of survivability during crashes. Huge efforts were spent to domestically develop composite materials able to provide comparable levels of survivability to Western counterparts. This achievement earned second place in the Commission for Science, Technology, and Industry for National Defense (COSTIND) progress reward.
+
+The main contractor of the avionics of Z-10 is the 613th Research Institute, which was responsible for integrating all of the avionics subsystems provided by subcontractors. Although foreign technologies are utilized (particularly French and Israeli, as rumored), this is limited to hardware only. All software applicable to Z-10 is completely indigenously developed by China on its own. Reportedly, the most time-consuming part of the software engineering for Z-10 was to develop all of the mathematic models needed for Z-10. Instead of using French standard DIGIBUS, Z-10 is built to Chinese GJV289A standard, the Chinese equivalent of MIL-STD-1553B. The adaptation of western military standards means that western weaponry can be readily deployed on Z-10, and the developer claims that all it needed was to add a module or interface to accomplish this. The ease of being compatible with multiple weaponry would also help to expand the export market of Z-10 in the future.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the WZ-10 (Z-10) Chinese Attack Helicopter:
+The Z-10ME is Upgraded variant first unveiled in 2018 with active and passive countermeasures, missile approach warning system, radar warning receiver, new engine exhaust nozzle pointed upwards to reduce infrared signature, new intake filtration systems and armor panels, more powerful 1200 kW engine, larger ammunition magazine, appliqué graphene-based armor panels, infrared jammer, and a new IFF interrogator..
+The Z-10H is Pre-production series powered by Pratt & Whitney Canada PT6C-76 turboshaft engine..
+The Z-10K is Simplified Z-10H powered with domestic Chinese WZ-9 engine of 930 - 950 kW range. Due to the drastic reduction of power by nearly a third, MASWS, IRCM, and some other subsystems removed； armor is also greatly reduced to save weight..
+The Z-10M is 3 samples built for Pakistan with equipment missing in Z-10K added back, powered by WZ-9C engine with maximum power around 1000 - 1100 kW. Was not selected by Pakistan after evaluation, but the design was used to upgrade Z-10 built earlier when a more powerful engine became available..
+The Z-10 Millimeter Wave Radar is Equipped with Z-19's millimeter wave radar for ground testing..
+
+Here is System information for the WZ-10 (Z-10) Chinese Attack Helicopter:
+The Alternative Designation is CAIC Z-10, WZ-10, Fierce Thunderbolt.
+The Type is Attack Helicopter.
+The Function is Attack, Anti-Tank, Air-to-Air.
+The Crew is 2.
+The Blades, Main Rotor is 5.
+The Blades, Tail Rotor is 4.
+The Number of Engines is 2.
+The Night/Weather Capabilities is All weather capable within the commander's risk assessment.
+The Takeoff Limitations is INA.
+The Vertical Clime Rate is INA.
+The Number of Hard Points is 4.
+The YH Millimetre-Wave Fire-Control Radar is Yes.
+The Helmet mounted sight with night vision goggles is Yes.
+
+Here is Dimensions information for the WZ-10 (Z-10) Chinese Attack Helicopter:
+The Length is 14.2.
+The Width is 4.3.
+The Height is 3.8.
+The Main Rotor Diameter is 12.
+The Weight, Combat is 5,500.
+The Weight, Payload (Max) is 1,500.
+The Weight, Empty is 5,100.
+The Weight, Maximum Take Off is 7,257.
+
+Here is Automotive information for the WZ-10 (Z-10) Chinese Attack Helicopter:
+The Engine Type is 2 x Pratt & Whitney Canada PT6C-67C turboshaft.
+The Engine Power is 1,531 hp (1,142 kW) each.
+The Cruising Range is 800.
+The Speed, Maximum is 300.
+The Speed, Average is 250.
+The Service Ceiling is 6,400.
+The Climb Rate is >10.
+
+Here is Communications information for the WZ-10 (Z-10) Chinese Attack Helicopter:
+The Radio is INA.
+
+Here is 23mm Automatic Chain Gun (Chin Mounted-Option 1) information for the WZ-10 (Z-10) Chinese Attack Helicopter of the Armament:
+The Name is Gryazev-Shipunov GSh-23.
+The Location is Chin Mounted.
+The Caliber is 23 mm.
+The Barrels is 2.
+The Number of Rounds is 2,000.
+The Armor Penetration is Yes.
+The Muzzle Velocity is 715.
+The Muzzle Break is Yes.
+The Maximum Effective Range is 200-1,800.
+The Rate of Fire is 3,400-3,600.
+
+Here is 25mm M242 Bushmaster (Chin Mounted-Option 2) information for the WZ-10 (Z-10) Chinese Attack Helicopter of the Armament:
+The Location is Chin Mounted.
+The Type is Similar to the 25 mm chain gun found in the US Bradley Fighting Vehicle.
+The Caliber is 25 mm.
+The Number of Rounds is 2,000.
+The Maximum Effective Range is 3,000.
+The Muzzle Velocity is 1,100.
+The Armor Penetration is Yes.
+The Barrels is Single Barrel (Progressive RH parabolic Twist).
+The Rate of Fire is Cyclic: 200rpm with 1hp or 500rpm with 8hp.
+The Notes: is A wide range of ammunition has been developed for this weapon, providing it with the capability to defeat the majority of armored vehicles it is likely to encounter, up to and including some light tanks.  Primarily though, it fires six types of rounds: the M791, M792, M793, M910, MK210, and M919..
+
+Here is 14.5 mm Gatling Gun (Chin Mounted-Option 3) information for the WZ-10 (Z-10) Chinese Attack Helicopter of the Armament:
+The Location is Chin Mounted.
+The Caliber is 14.5 mm.
+The Maximum Effective Range is 3,000.
+The Muzzle Velocity is 1,000.
+The Armor Penetration is Yes.
+The Rate of Fire is 600.
+The Basic Load is 40 Round Belt.
+The Notes: is BS: Armor-piercing incendiary; B-32: Armor-piercing incendiary full metal jacket round with a hardened steel core; BZT: Armor-piercing incendiary tracer full metal jacket round with a steel core; MDZ: High-explosive incendiary bullet of instant action; ZP: Incendiary tracer round.
+
+Here is HJ-9 Anti-Tank Missile (Wing Mounted-Option 1) information for the WZ-10 (Z-10) Chinese Attack Helicopter of the Armament:
+The Location is Wing Mounted.
+The Length is 1,200.
+The Diameter is 152.
+The Weight is 37.
+The Engine is Rocket Motor.
+The Warhead is Tandem HEAT warhead, 1100-1200 mm penetration RHAe.
+The Detonation Mechanism is Contact Fuse.
+The Guidance System is Laser-beam-riding & MMW Radar.
+The Operational Range is 100 - 5,500.
+The Combat Load is INA.
+The Notes is Additional Guided and Unguided Missisles include: HJ-8, HJ-9, PL-9, AIM-9 Sidewinder.
+
+Here is HJ-10 Anti-Tank Missile (Wing Mounted-Option 2) information for the WZ-10 (Z-10) Chinese Attack Helicopter of the Armament:
+The Location is Wing Mounted.
+The Length is INA.
+The Weight is 50.
+The Warhead is Heat and others.
+The Engine Propellant is Solid Fuel.
+The Operational Range is 3-10.
+The Speed is Supersonic.
+The Guidance System is Fiber-optic wire-guided missile (AFT-10)
+semi-active laser homing and millimeter wave radar seeker (AKD-10) Infrared homing.
+The Aircraft Capible to Carry is 16.
+
+Here is TY-90 Air-to-Air Missiles (Wing Mounted-Option 2) information for the WZ-10 (Z-10) Chinese Attack Helicopter of the Armament:
+The Location is Wing Mounted.
+The Length is 1.9.
+The Diameter is 90.
+The Weight, Warhead is 3.
+The Detonation Mechansim is Impact/Proximity.
+The Engine Propllant is Soldi Fuel.
+The Operational Range is 0.5-6.
+The Flight Ceiling is 6.
+The Flight Alitude is 0-6.
+The Speed is 2.
+The Guidance System is ImiR IR.
+The Aircraft Capible to Carry is 16.
+
+Here is Protection information for the WZ-10 (Z-10) Chinese Attack Helicopter:
+The Fuselage is INA.
+The Cockpit Glass is Glass is rated to protect against 7.62mm rounds.
+The Stealth Properties is Yes, fuselage is designed to reduce radar cross section.
+The Heat Signature Reduction is INA.
+The Armor is Cockpit and fuselage have armor plating, providing protection against 12.7mm rounds..
+The Add on Armor is On Oct 10th, 2018, the Global Times reported that additional graphene (strong and lightweight material) had been added to the fuselage to protect key components, fuel cells, and the cockpit..
+The NBC Protection is Yes.
+The EW Counter Measures/CCM is Radar receiving warning, laser receiving warning, infrared jammer, missile approach warning sensors (MAWS) and dispensers for chaff and flares..
+The Engine Exhaust is Directed slightly up into rotor wash to reduce heat signature.
+The Counter Measures (Chaf/Flares) is Yes.
+The Forward-Looking Infrared (FLIR) Systems is Yes.
+The Laser Designator and Rangefinder is Yes.
+The Missile Approach Warning Sensors (MAWS) is Yes, located behind the nose.
+
+Here is Fire Control information for the WZ-10 (Z-10) Chinese Attack Helicopter:
+The Fire Control System Type is Fly-by-wire (fully automatic).
+The Fire Control Radar is YH millimeter-wave fire control radar.
+The Cockpit is "Glass" cockpit (fully automated) with digital multi-function displays.
+The Digitial or Analog Cockpit is Digital.
+The Direct Fire Control is Yes.
+The Laser Disignator is Yes.
+The Automated Helmet is Yes, helmet mounted cueing system with heads up display and weapons control.  NVG capable..
+The Sensor Suites(s) Available is Fitted to the nose and includes a TV camera, FLIR, laser designator, and range finder..
+The Position Location System is Yes.
+
+Here is CVI: WEFT information for the WZ-10 (Z-10) Chinese Attack Helicopter:
+The Wings is 5 x main rotor blades..
+The Engine is 2 x engines. Engine exhausts on both sides of fuselage..
+The Fuselage is Angular shaped tandem pilot canopies. Target sight system. Chin-mounted 30mm chain gun. Short, aerodynamic wing weapon load mount points, Fixed, wheeled landing gear..
+The Tail is Tail rotor assembly features two pairs at unequal distance (located on right side of vertical stabilizer). Include tail stabilizer wings..
+

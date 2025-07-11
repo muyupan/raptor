@@ -1,0 +1,68 @@
+This document describes the THeMIS Combat with deFNder Medium Estonian Tracked Unmanned Ground Vehicle (UGV).
+
+The THeMIS Combat with deFNder Medium Estonian Tracked Unmanned Ground Vehicle (UGV) is equipped with the deFNder® Medium remote weapon station developed by FN Herstal. In partnership with FN Herstal and the Estonian Defense Forces this armed UGV has been deployed at the biggest Estonian defense exercise Spring Storm 2017.
+In December 2017 live firing tests were conducted in Estonia where the weapon system was tested with a moving UGV as well as a stationary vehicle.
+
+This equipment has proliferated into the following countries: Estonia, France, Germany, Netherlands, Norway, Singapore, Spain, Ukraine, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the THeMIS Combat with deFNder Medium Estonian Tracked Unmanned Ground Vehicle (UGV):
+The THeMIS Combat Support Estonian Tracked Unmanned Ground Vehicle (UGV) is The THeMIS Combat Support Estonian Tracked Unmanned Ground Vehicle (UGV) is to assist military infantry or special intervention police units in high-threat, riot control, and counterterrorist (CT) urban environment scenarios. The THeMIS Combat Support includes a stretcher, a bumper kit, equipment storage boxes, and attachments for extra equipment on the fenders that can be adjusted according to the nature of the mission. It can also be equipped with light remote weapon systems to increase firepower in addition to easing the workload of combatants..
+The THeMIS Combat with ADDER DM Estonian Tracked Unmanned Ground Vehicle (UGV) is The THeMIS Combat with ADDER DM Estonian Tracked Unmanned Ground Vehicle (UGV) was the first remote weapon station integrated into the THeMIS. This system has been tested in the cold Estonian winter in partnership with weapon station developer and manufacturer Singapore Engineering Land Systems under the supervision of the Estonian Defense Forces..
+The THeMIS Combat with PROTECTOR RWS Estonian Tracked Unmanned Ground Vehicle (UGV) is As the name suggests this unit is equipped with the deFNder Medium remote weapon station developed by FN Herstal. In partnership with FN Herstal and the Estonian Defense Forces this armed UGV has been deployed at the biggest Estonian defense exercise Spring Storm 2017.
+In December 2017 live firing tests were conducted in Estonia where the weapon system was tested with a moving UGV as well as a stationary vehicle..
+The THeMIS Combat with R400S-MK2-D-HD is The THeMIS Combat with the EOS R400S-MK2-D-HD 30 mm autocannon remote weapon system provides direct fire support for maneuver forces acting as a force multiplier. The stabilized weapon system provides higher precision over wide areas, day and night, increasing stand-off distance, force protection and survivability. Reducing logistical footprint and enabling light infantry units to deploy with a heavy weapon system..
+The THeMIS Combat with GUARDIAN 2.0 is The GUARDIAN 2.0 by Escribano Mechanical & Engineering provides defense capabilities over short and medium ranges with high firing accuracy and it is a cost-effective solution for defense against asymmetric threats. The system is stabilized and can operate by day and by night. Operational functions include surveillance, target identification and tracking. Ballistic calculations for shooting are programmed into the main computer unit, allowing improved shooting accuracy..
+The THeMIS Combat with Hero-120 is The THeMIS Combat with the Hero-120 by UVision can be equipped with up to six Loitering Munition systems that will provide dismounted infantry and Special Forces units with long-range ISR and firepower combination. Ideal for anti-tank missions or other strategic objectives, the Hero-120 is the largest of UVision’s short-range systems. It carries a 3.5 kg warhead and can endure an extended flight time of 60 minutes..
+The THeMIS Combat with TERRAHAWK unmanned C-UAS system is THeMIS Combat and MSI-DS Terrahawk RWS deliver highly effective counter-UAS protection for tactical and static sites, for deployed assets and critical infrastructure. The system offers a new capability for remote situational awareness and hard kill, on an autonomous host platform for last-mile tactical positioning, limiting operator exposure..
+
+Here is System information for the THeMIS Combat with deFNder Medium Estonian Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is THeMIS Combat with deFNder Medium.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is Milrem Robotics.
+The Configuration is Tracked.
+The Crew is Unmanned.
+The Payload Capacity with RWS is 540 kg.
+The Sensors is LiDARs.
+The Cameras is IR (MIL-STD-810G), Thermal, HDR.
+The Lights is LED, IR.
+
+Here is Dimensions information for the THeMIS Combat with deFNder Medium Estonian Tracked Unmanned Ground Vehicle (UGV):
+The Length is 240 cm.
+The Width is 200 cm.
+The Height without RWS is 115 cm.
+The Weight without RWS is 1,630 kg.
+The Weight with RWS is 2,170 kg.
+
+Here is Automotive information for the THeMIS Combat with deFNder Medium Estonian Tracked Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Hybrid Diesel.
+The Engine Power Options is Battery Pack, Lead acid or Li-ion; Diesel engine & electric generator.
+The Maximum Range is 1.5 km (Line of Sight Control Range).
+The Maximum Speed is 20 km/h.
+The Towing Speed is 80 km/h.
+The Amphibious is No.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Ground Clearance is 60 cm.
+The Fording is 61 cm.
+The Gap Crossing is 90 cm.
+The Pulling Force is 15 000 N.
+The Hybrid Run Time is 15 hours.
+The Electric Run Time is 1.5 hours.
+
+Here is Communications information for the THeMIS Combat with deFNder Medium Estonian Tracked Unmanned Ground Vehicle (UGV):
+The IP Radio is 4W, customizable MIMO Mesh.
+The Encryption is AES256.
+The Frequency Hopping is Supported.
+
+Here is Main Weapon System information for the THeMIS Combat with deFNder Medium Estonian Tracked Unmanned Ground Vehicle (UGV):
+The RWS Options is Modular design allows the use of various weapons: FN MAG, FN M2HB-QCB.
+The RWS Traverse Angle is Nx360°.
+The RWS Elevation Angle is +70° ... -40° depending on configuration.
+
+Here is Protection information for the THeMIS Combat with deFNder Medium Estonian Tracked Unmanned Ground Vehicle (UGV):
+The Armor is Armor up to STANAG 4569 level 3.
+The Applique Armor is Available.
+The NBC Protection is No.
+The Smoke Equipment is Available.
+

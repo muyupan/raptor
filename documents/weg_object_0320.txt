@@ -1,0 +1,165 @@
+This document describes the Rapier British Towed Surface-to-Air Missile System.
+
+The Rapier is a surface-to-air missile developed for the British Army to replace their towed Bofors 40/L70 anti-aircraft guns. The system is unusual as it uses a manual optical guidance system, sending guidance commands to the missile in flight over a radio link. This results in a high level of accuracy, therefore a large warhead is not required.
+
+Entering service in 1972, it eventually replaced all other anti-aircraft weapons in Army service; both the Bofors guns used against low-altitude targets and the Thunderbird missile[4] used against longer-range and higher-altitude targets. As the expected air threat moved from medium-altitude strategic missions to low-altitude strikes, the fast reaction time and high maneuverability of the Rapier made it more effective than either of these weapons, replacing most of them by 1977.
+
+Rapier was later selected by the RAF Regiment to replace their Bofors guns and Tigercat missiles. It also saw international sales. It remains one of the UK's primary air-defense weapons, and its deployment is expected to continue until 2020.
+
+The original Rapier took the form of a wheeled launcher with four missiles, an optical tracker unit, a generator, and a trailer of stores. The launcher consists of a vertical cylindrical unit carrying two missiles on each side, the surveillance radar dish and "Identification Friend or Foe" (IFF) system under a radome on top, the guidance computer and radar electronics at the bottom, and a prominent parabolic antenna for sending guidance commands to the missiles on the front.
+
+The search radar was of the pulsed Doppler type with a range of about 15 km. The aerial, located at the top of the launcher, rotated about once a second, looking for moving targets through their doppler shift. When one was located, a lamp would light up on the Selector Engagement Zone (SEZ), a box containing 32 orange lamps arranged in a circle about the size of an automobile steering wheel. The radar operator could also blank out returns from other directions, providing jamming resistance.
+
+The optical tracker unit was made up of a stationary lower section and a rotating upper section. The lower section housed the operator controls, while the upper section housed the tracking optics. The operator's optical system was a modified telescope containing a Dove prism to prevent the image 'toppling' as the optics rotate in azimuth. This system meant that, unlike a periscope, the operator did not have to move in order to track the target. The upper section also contained a separate missile tracking system that was slaved to the operator's optics, based on a television camera optimized for the IR band.
+
+Upon detection of a target, the optical tracking system would be slewed to target azimuth and the operator would then search for the target in elevation. The operator's field of view would depend on the target range: "wide" at about 20 degrees or "track" at about 4.8 degrees. When the target was found the operator switches to "track" and uses a joystick to keep the target centered in the telescope. Once a steady track was established the missile was fired. The TV camera on the tracker was tuned to track the four flares on the missile's tail. Like the operator's telescope, the TV system had two views, one about 11 degrees wide for the initial "capture", and another at 0.55 degrees for midcourse tracking.
+
+The difference between the line-of-sight of the operator's telescope and the missile's flare was calculated by the computer in the base of the launcher. Guidance updates were sent to the missile through the transmitter on the launcher platform and received on small antennas on the rear of the mid-body fins. The operator simply kept the telescope's crosshairs on the target using the joystick, and the missile would automatically fly into the line-of-sight, a system of operation known as SACLOS. The basic concept is very similar to the one used by most anti-tank missiles, with the exception that those systems normally use small wires to send guidance information to the missile, rather than a radio link.
+
+The missile contained a small 1.4 kg warhead with a contact fuse and a single-stage solid-rocket motor that accelerated the missile to about 650 m/s (about Mach 2). Engagement time to the maximum effective range was about 13 seconds. Response time from the start of the target detection to missile launch is about 6 seconds, which has been repeatedly confirmed in live firing.
+
+The whole system, along with its crew, was delivered by two Land Rovers designated as the Fire Unit Truck (FUT) and the Detachment Support Vehicle (DSV). Royal Artillery batteries comprised three troops each of four fire units while RAF Regiment squadrons had eight fire units. By 1980 each Royal Artillery fire unit consisted of a (24 volt) 101 FC 1 tonne Land Rover towing the Rapier Launcher and carrying 4 missiles on board, a 109-inch 3/4 ton 24v FFR (Fitted For Radio) Land Rover towing a 1-ton Missile Supply Trailer (MST), containing up to a further 10 missiles. Blind fire radar (see below) was only provided for ​1⁄3 of fire units in British Army service, and for all fire units in the RAF Regiment.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of), Kenya, Malaysia, Oman, Switzerland, Turkey, United Arab Emirates, United Kingdom of Great Britain and Northern Ireland, Zambia.
+
+Here is Variants information for the Rapier British Towed Surface-to-Air Missile System:
+The Laserfire Rapier is With the range of upgrades and new components, the original low-cost Rapier system was gone. In order to address international market requirements for a lower-cost system, BAC started development of the "Rapier Laserfire" in 1982. Laserfire replaced the original optical tracker unit with a new lidar (laser radar) illuminating system that is considerably smaller, allowing the entire system to be mounted on a single pallet that could itself be mounted on a truck or other flatbed vehicle.
+
+Laserfire used a millimetric Doppler radar. Due to its very high frequency of operation and ability to transform its beamshape from narrow azimuth and high elevation to wide azimuth and narrow elevation, Laserfire was able to detect helicopters hovering or travelling at low altitude and in areas of high clutter by detecting the movement of the helicopter's rotor blades.
+
+Initial engagement is similar to the original Rapier, but the target was illuminated and automatically tracked by a high power YAG:Nd laser. After the missile was launched the laser alternately illuminated the target and missile to determine their locations, and guidance was sent to the missile as normal (see laser guidance). Laserfire thus represented a fairly major upgrade to the original optical system, allowing semi-automatic engagements, and greatly reducing operator skill and training requirements.
+
+On the downside, Laserfire no longer has the optical system of the original, which served an important second duty by allowing the aircraft to be visually identified at long range. Additionally, while the Laserfire tracking system was capable of being operated at night, target acquisition was optical, like the original Rapier..
+The Field Standard B1 is Shortly after introducing FSA, "Field Standard B" (FSB) added a number of basic upgrades. Additionally, the search radar was upgraded to be easily shut down in case of an anti-radiation missile attack. FSB included lessons from the Falklands campaign, notable the 'pointing stick' that enabled the detachment commander of a fire unit to point the aiming unit at a target..
+The Darkfire Rapier/Field Standard B2 is In 1985 development started on a new tracker that replaced the original optical system with a new IR thermal imager system to improve its abilities, especially at night. This version was known as "Rapier Darkfire" for this reason. Trials of the new system started in 1987, and were deployed operationally in 1990 as "Field Standard B2" (FSB2), the earlier upgrades retroactively becoming FSB1. This system was also known as "Rapier 90". Cooling for the imager was provided by bottles of compressed gas.
+
+FSB2 also introduced a number of improvements that greatly improved Rapier capabilities. First and foremost was the Tactical Control Console that allowed four Rapier launchers to be controlled from a central location. The launchers themselves were upgraded to carry six missiles instead of four, improving battery capacity. Finally, the search radar was updated to use a new planar array radar, although its capabilities remained generally the same as the earlier model..
+The Rapier 2000/Field Standard C is In 1992, shortly after the introduction of Rapier 90, another major upgrade series started at MBDA (previously Matra BAe Dynamics). Emerging as "Rapier 2000", or "Field Standard C" (FSC) in British service, the system reached its ultimate form. Development of the FSC system began at the end of the 1980s and the systems first entered service in 1996. By this time the Cold War was over and British air defence capabilities were significantly reduced, with fewer and smaller batteries, albeit every fire unit with Blindfire. There is also an export version of this version, known as Jernas. Malaysia is the first export customer for Jernas.
+
+FSC was effectively a new system, although Blindfire was little changed and it could fire both Mk 1 and Mk 2 missiles. The Surveillance radar was removed from the launcher and became a separate element and each launcher now carried eight missiles.
+
+With the missiles increasingly relying on radar guidance since the introduction of Blindfire, it made sense to upgrade the original search radar to something much more modern. This was supplied by the Alenia Marconi "Dagger", a 3D pulse doppler radar with an integrated Cossor IFF Mark 10 system. Dagger is mounted on its own trailer, so the radome on top of the launcher unit was no longer needed. In its place, a much more modern optical tracking system was added. The new tracker used a Stirling-cycle cooler instead of compressed gas bottles. The use of much smaller electronics greatly reduced stack height of the whole launcher, allowing an additional two missiles to be added, for a total of eight.
+
+In operation, the Rapier 2000 is similar to earlier Blindfire-equipped systems. Targets are acquired visually or through the Dagger radar, and then the Blindfire and optical tracker are slewed onto the target. The optical system can be used solely to track the missile, or it can be used for all guidance, like the original Rapier. In either case the engagement is entirely automatic, with no operator guidance needed. The optical system can also be used as a search system, seeking out IR sources, allowing radar-quiet operation.
+
+In 2006 a Ministry of Defence study in Ground Based Air Defence recommended further reductions, based on a reduced air threat and the improved air defence capabilities afforded by the Typhoon fighter. These included removing the role from the RAF Regiment as a measure to preserve Royal Artillery units in the face of significant cuts to the Army. Nevertheless, the Royal Artillery units were placed under command of the HQ 1 Group RAF (within HQ Air Command) and the Joint Ground-Based Air Defence HQ was formed..
+The Tracked Rapier is With sales to Iran came the additional requirement for a fully mobile version of Rapier to protect the Chieftain tanks being supplied on a UK MOD contract. BAC responded by adapting the Rapier system to fit on the M548, a cargo-carrier version of the ubiquitous M113. Development started in 1974 as "Tracked Rapier", with the first public showing at the 1977 Paris Air Show as a static display unit.
+
+The system had not yet been fully developed when the Shah fell from power in 1978. The vehicles were later purchased by the British Army as part of a Fixed-price Develop and Supply contract. The first production Tracked Rapier was accepted on time and to cost at Wellington Barracks in early 1981, and entered service with 11 (Sphinx) Air Defence Battery, of 22 Air Defence Regiment, Royal Artillery in 1983 in Napier Barracks near Dortmund.
+
+The initial proposal for the system was to simply mount the towed launcher, (less its running gear) and its petrol generator set on the flat bed of the M548 carrier. When this was shown to Mr G.R. Jefferson, the GW Managing Director, he was not very impressed. Aware of the amount of money available, he required a much more extensive change. Greville Beale and Adrian Pollicutt led development of a very significant new arrangement was produced in quite a short period..
+
+Here is System information for the Rapier British Towed Surface-to-Air Missile System:
+The Alternative Designation is Rapier.
+The Type is Surface-to-Air Missile System.
+The Manufacturer is British Aircraft Corporation (1963–1977)
+BAe Dynamics (1977–1999)
+MBDA UK (since 1999).
+The Family is Rapier Series.
+The In Service is 1971-Present.
+The Crew is 6.
+The Chassis is The launcher is carried on a two-wheeled A-frame trailer. In the firing position, the wheels are removed and it is stabilized on four adjustable legs..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Fire on the Move is No.
+The Rapier Fire Unit is A Rapier fire unit includes the trailer-mounted launcher with four missiles and surveillance radar, tripod-mounted optical tracker and generator. Two light trucks are used for towing the launcher and a trailer carrying nine reload missiles..
+The Rapier Battery is A battery typically includes a headquarters and a repair section equipped with a Land Rover with diagnostic and performance test gear and a trailer with ready use spare parts. There is also a battery repair team with two vehicles: one for optical and hydraulic repairs and one for major electronic repairs. An ordnance spares vehicle is also provided..
+The Airborne Capable is Yes, Individual Rapier components can be transported slung under helicopters such as the SA 330 Puma or CH-47 Chinook . A C-130 cargo aircraft can carry a complete system with radar tracker or two optical systems..
+The Targets is Supersonic, Low-Level, High-Maneuverability Aircraft, Unmanned Aerial Vehicles, Supersonic Missiles, Cruise Missiles, and Fixed/Rotary-Wing Aircraft.
+
+Here is Automotive information for the Rapier British Towed Surface-to-Air Missile System:
+The Note is The launcher is carried on a two-wheeled A-frame trailer. In the firing position, the wheels are removed and it is stabilized on four adjustable legs..
+
+Here is Mk 1 Missile Launcher information for the Rapier British Towed Surface-to-Air Missile System of the Missile System:
+The Type is Towed Trailer.
+The Length is 3.8 m.
+The Width is 2.2 m.
+The Height is 2.6 m.
+The Weight is 1,227 kg.
+The Maximum Elevation is +60.
+The Minimum Elevation is -5.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Rate of Fire is 7 rds/min.
+The Note is The launcher consists of a large cylindrical unit carrying two missiles on each side; the surveillance radar dish and IFF system under a radome on top; the guidance computer and radar transmitter and receiver electronics at the bottom; and a prominent parabolic antenna for sending guidance commands to the missiles at the front..
+
+Here is Mk 1 Missile information for the Rapier British Towed Surface-to-Air Missile System of the Missile System:
+The Type is Anti-Ship Missile.
+The Length is 2.24 m.
+The Diameter is 133 mm.
+The Wingspan is 381 mm.
+The Weight is 43 kg.
+The Fragmentation Warhead Weight is 1.40 kg.
+The Armor Piercing Warhead Weight is 0.55 kg.
+The Propulsion is 1 x IMI Troy dual-thrust solid-propellant  rocket.
+The Warhead Types is semi-armor-piercing, contact fuze.
+The Speed is >Mach 2.
+The Maximum Range is 8.
+The Minimum Range is 500 m.
+The Maximum Altitude is 3,000 m.
+The Minimum Altitude is very low level.
+The Maneuver Limit is 22 g.
+The Guidance System is Semi-Automatic Command to Line-of-Sight (SACLOS).
+
+Here is Mk 2 Missile Launcher information for the Rapier British Towed Surface-to-Air Missile System of the Missile System:
+The Type is Towed Trailer.
+The Length is 4.1 m.
+The Width is 2.2 m.
+The Height is 2.6 m.
+The Weight is 2,400 kg.
+The Maximum Elevation is +60.
+The Minimum Elevation is -5.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Rate of Fire is 7 rds/min.
+The Note is The launcher consists of a large cylindrical unit carrying two missiles on each side; the surveillance radar dish and IFF system under a radome on top; the guidance computer and radar transmitter and receiver electronics at the bottom; and a prominent parabolic antenna for sending guidance commands to the missiles at the front..
+
+Here is Mk 2 Missile information for the Rapier British Towed Surface-to-Air Missile System of the Missile System:
+The Type is Anti-Ship Missile.
+The Length is 2.24 m.
+The Diameter is 133 mm.
+The Wingspan is 381 mm.
+The Weight is 43 kg.
+The Fragmentation Warhead Weight is 1.40 kg.
+The Armor Piercing Warhead Weight is 0.55 kg.
+The Propulsion is 1 x Roxel Thermopylae two-stage, solid-propellent rocket.
+The Warhead Types is high-explosive shaped charge, fragmentation; infrared, laser, impact, proximity fuze (active multimode).
+The Speed is Mach 2.5.
+The Maximum Range is 25 km.
+The Minimum Range is 8.
+The Maximum Altitude is 500 m.
+The Minimum Altitude is very low level.
+The Maneuver Limit is 35 g.
+The Guidance System is Semi-Automatic Command to Line-of-Sight (SACLOS).
+
+Here is Fire Control System information for the Rapier British Towed Surface-to-Air Missile System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Time to Engage Target from Detection is 6-8 seconds.
+The Time to Engage Re-Engage Target is 3-6 seconds.
+The Reload Time is 2.5 minutes for 4 missiles.
+The Successor Identification Friend or Foe (SIFF) is Yes, with a Range of 15 km.
+The Passive Infra-Red Electro-Optic Sensor is Yes.
+The Optical Tracker is 1 x optical tracker or Marconi I/J-band frequency-agile.
+
+Here is Radar information for the Rapier British Towed Surface-to-Air Missile System of the Fire Control:
+The Name is Dagger.
+The Type is Target Acquisition and Surveillance Radar.
+The Frequency/Band is K Band.
+The Range is 15.
+The Number of Targets System can Track is INA.
+
+Here is Protection information for the Rapier British Towed Surface-to-Air Missile System:
+The Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

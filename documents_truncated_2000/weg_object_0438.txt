@@ -1,0 +1,132 @@
+This document describes the 2K11 Krug (SA-4 Ganef) Russian Medium-Range Surface-to-Air Missile (SAM) System.
+
+The 2K11 Krug (NATO code SA-4 Ganef) is a Soviet-made medium-range air defense missile. The development of the system started in 1958. The first version, Krug-A, entered service in 1967, with extensively modified versions, the Krug-M in 1971 and the Krug-M1 in 1974, which were developed to rectify problems discovered during army service. It was first unveiled during a military parade in Moscow in May 1965. Modified versions, the Krug-M in 1971 and the Krug-M1 in 1974 were developed to rectify problems discovered during army service. The 2K11 was briefly operated by the Soviet army during the war in Afghanistan in 1979 and 1980, but was withdrawn several months after the initial invasion. In 1997, it was reported that, between 1993 and 1996, some 27 fire units of Krug and 349 missiles had been sold to Armenia.
+
+The SA-4 system has three major components:
+
+a 2P24 SPU (samokhodnaya puskovaya ustanovka) mobile launcher unit;
+a Ural-375 TZM ( transportno-zaryazhayushchaya mashina) transporter-loader vehicle; and
+a 1S32 Pat Hand SSNR (samokhodnaya stantsiya navendeniya raket) mobile missile guidance station mounted on an AT-T chassis.
+
+A typical Ganef battery has one Pat Hand SSNR, three 2P24 SPUs and four TZMs. The Ganef launch vehicle carries no onboard radar. The guidance of the missiles depends on the Pat Hand radar. During wartime, a fourth SPU could be added to the unit.
+
+The battery also often has two 23-mm ZU-23 towed anti-aircraft guns and a technical support section. A missile launch battalion has three launch batteries and a Long Track early warning radar. A brigade has three battalions, an additional Long Track radar and a Thin Skin B height-finding radar.
+
+The Krug had several features that improved the survivability of the radar against anti-radiation missiles. In PI mode (ПИ) the system only briefly illuminated the target and the computer calculated it's prolonged path based on data received from early warning radars. After a longer passive period the main radar illuminated the calculated flight direction of the target for a few seconds and recalculate path of the target if necessary (if the distance between the calculated track and the actual position is greater than 7 km). As a result, the system emitted detectable signals only for a few seconds in every few minutes, making it difficult to jam or launch an anti-radar missile against Krug. The system was also able to tracking the target in full-passive automated PNS (ПHC) mode based on the data provided by "Long Track" mobile EWR via radio datalink. In this mode it was almost impossible to detect the Krug system until the moment of missile launch, because Krug did not emit radiation at all.
+
+In 3M mode (3m aka three-point) the krug track on jamming signal emitting container (e.g., AN/ALQ-99). So the jamming signal that supposed to protect the aircraft made it to a target.
+
+This equipment has proliferated into the following countries: Armenia, Azerbaijan, Kyrgyzstan, North Korea (Democratic People's Republic of Korea), Syria, Turkmenistan, Ukraine.
+
+Here is Variants information for the 2K11 Krug (SA-4 Ganef) Russian Medium-Range Surface-to-Air Missile (SAM) System:
+The Krug-A is first operational deployment version, entered service in 1967.
+The Krug-M: is a modified version of Krug-A, entered service in 1971.
+The Krug-M1 is a modified version of Krug-M, entered service in 1974.
+
+Here is System information for the 2K11 Krug (SA-4 Ganef) Russian Medium-Range Surface-to-Air Missile (SAM) System:
+The Alternative Designation is SA-4 Ganef; 2K11 Krug; 2K11 ZRD-SD.
+The Type is Medium-Range Surface-to-Air Missile (SAM) System.
+The Family is INA.
+The Manufacturer is MZiK.
+The Crew is 3-5.
+The Chassis is GM-123 chassis.
+The In Service is 1965-present
+1965- 1990s (USSR)
+Other Countries: See proliferation.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the 2K11 Krug (SA-4 Ganef) Russian Medium-Range Surface-to-Air Missile (SAM) System:
+The Length, Hull is 7.5.
+The Width is 3.2.
+The Height, with Missiles is 4.472.
+The Weight, Combat is 28,200 kg.
+The Ground Pressure is INA.
+The Track, Length on Ground is 5.
+The Track, Width is 0.54.
+The Ground Clearance is 0.44.
+
+Here is Automotive information for the 2K11 Krug (SA-4 Ganef) Russian Medium-Range Surface-to-Air Missile (SAM) System:
+The Engine Name is V59.
+The Engine Type is V-12 water-cooled diesel.
+The Engine Power is 420.
+The Maximum Range is 780.
+The Speed, Maximum Road is 35.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is INA.
+The Fuel Capacity is 850 liters.
+The Suspension is torsion bar, 7 road wheels, front drive, rear idler, 2 hydraulic shock absorbers, 4 return rollers.
+
+Here is Communications information for the 2K11 Krug (SA-4 Ganef) Russian Medium-Range Surface-to-Air Missile (SAM) System:
+The Note is Depends on what country the 2K11 Krug is being used in..
+
+Here is Launcher information for the 2K11 Krug (SA-4 Ganef) Russian Medium-Range Surface-to-Air Missile (SAM) System of the Main Weapon System:
+The Name is 2P24 SPU launch vehicle.
+The Crew is 3-5.
+The Maximum Elevation is +70.
+The Minimum Elevation is INA.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+
+Here is Missile information for the 2K11 Krug (SA-4 Ganef) Russian Medium-Range Surface-to-Air Missile (SAM) System of the Main Weapon System:
+The Name is 9M33.
+The Type is Suface-to-Air Missile.
+The Length is 8,784.
+The Diameter is 86.
+The Weight is 2,453 kg.
+The Engine is solid fuel rocket motors inside boosters attached to the outside of the missile.
+The Propellant is Kerosene fuelled ramjet.
+The Speed is Mach 4.
+The Basic Load is 2.
+The Operational Range is 55.
+The Flight Altitude is 24,500 metres.
+The Booster Time is Four solid fuel booster rocket motors.
+The Guidance System is Radio command.
+The Warhead Type is Frag-HE.
+The Warhead Weight is 150 kg.
+The Detonation Mechanism is Contact and proximity fuzes.
+The Note is Additional Missiles the 2K11 Krug can be equipped with:
+2 x 3M8; or
+2 x 3M8M; or
+2 x 3M8M1 (SA-4a); or
+2 x3M8M2 (SA-4b); or
+2 x 3M8M3 missiles; 
+
+Note: Missile types can be mixed.
+
+Here is Fire Control System information for the 2K11 Krug (SA-4 Ganef) Russian Medium-Range Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes, An electro-optical fire-control system is fitted for heavy electronic countermeasures environments.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The Night Vision is infrared night-vision system.
+The Optics is electro-optical fire-control system on launcher.
+The Guidance System is radio command with semi-active radar terminal homing.
+
+Here is On-Board Radar information for the 2K11 Krug (SA-4 Ganef) Russian Medium-Range Surface-to-Air Missile (SAM) System of the Fire Control:
+The Note is The Ganef launch vehicle carries no onboard radar. See Mobile Missile Guidance Station.
+
+Here is Transporter/Loader Vehicle information for the 2K11 Krug (SA-4 Ganef) Russian Medium-Range Surface-to-Air Missile (SAM) System:
+The Name is Ural-375 TZM ( transportno-zaryazhayushchaya mashina) transporter-loader vehicle.
+
+Here is Mobile Missile Guidance Vehcile information for the 2K11 Krug (SA-4 Ganef) Russian Medium-Range Surface-to-Air Missile (SAM) System:
+The Name is 1S32 Pat Hand SSNR (samokhodnaya stantsiya navendeniya raket) mobile missile guidance station.
+The Type is H-band continuous wave fire control and guidance radar.
+The Band is H-Band.
+The Maximum Range is 128.
+The Antenna is The vehicle carries a large circular antenna for target tracking and a smaller antenna for missile guidance..
+The SSNR is Russian acronym for radar vehicle.
+The Note is It is used to track targets and guide one or two Ganefs to intercept..
+
+Here is Protection information for the 2K11 Krug (SA-4 Ganef) Russian Medium-Range Surface-to-Air Missile (SAM) System:
+The Hull Armor is 15.
+The Turret Armor is 15.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes, Collective overpressure.
+The Smoke Equipment is INA.
+

@@ -1,0 +1,201 @@
+This document describes the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System.
+
+The SA-20C is an exported version of the S-300PMU-2
+
+
+The S-300PMU-2 or SA-20B Favorit air defense missile system was developed especially for export. It evolved from the S-300PM-2, which was developed for the Russian Armed Forces. The S-300PMU-2 has the highest capabilities in the S-300P family. It was introduced in 1997. As of 2016, this system is 19 years old. The S-300PMU-2 is referred in the West as SA-20B Gargoyle. It uses a 30N6E1 (Tomb Stone) radar. This radar has a range of 300 km, can detect 100 targets, track and engage 36 of them and guide 72 missiles. It is worth noting that earlier radars of the S-300 family could simultaneously engage only 6 targets and guide 12 missiles.
+
+The S-300PMU-2 Favourite (DoD designation SA-20B), introduced in 1997 (presented ready 1996), is an upgrade to the S-300PMU-1 with range-extended once again to 195 km (121 mi) with the introduction of the 48N6E2 missile. This system is apparently capable of not just short-range ballistic missiles, but now also medium-range ballistic missiles. It uses the 83M6E2 command and control system, consisting of the 54K6E2 command post vehicle and the 64N6E2 surveillance/detection radar. It employs the 30N6E2 fire control/illumination and guidance radar. Like the S-300PMU-1, 12 TELs can be controlled, with any mix of 5P85SE2 self-propelled and 5P85TE2 trailer launchers. Optionally it can make use of the 96L6E all altitude detection radar and 76N6 low altitude detection radar. A version titled HQ-15 is currently in Chinese service.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of).
+
+Here is Variants information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System:
+The S-300PMU2 Favorit/SA-20B is This is an upgraded variant with larger 9M96E and 9M96E2 missiles developed for the S-400. It can also fire the previous 5V55K, 5V55R, 48N6E, and 48N6E2 missiles. It is equipped with an improved guidance system. Unveiled in 1997, the system has an increased range of 124 mi (200 km). The 48N6E2 missile features a warhead designed to destroy ballistic missiles..
+
+Here is System information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System:
+The Alternative Designation is SA-20C; S-300PMU-2.
+The Type is Long-Range Air Defense Missile System.
+The Manufacturer is MZiK.
+The Family is S-300 Family.
+The Chassis is MAZ-543 Special Wheeled Chassis.
+The In Service is 1997-Present.
+The Crew is INA.
+The Displacement Time is Less than 5 Minutes.
+The Emplacement Time is Less than 5 Minutes.
+The Reload Vehicle is 5T58 reload vehicle.
+The Maximum Range of Fire is 165.
+The Maximum Altitude is 27.
+The Number of Targets Engaged Simultaneously is 6.
+The Note #1 is Capable of hitting ballistic and aerodynamic targets. Became the first multi-channel anti-aircraft missile system, is able to accompany each system (ADMS) to 6 goals and build them up to 12 missiles..
+The Note #2 is A typical SA-20 battery consists of 48 missiles on 12 mobile launchers. Each battery can launch a 48N6 missile every three seconds..
+
+Here is Dimensions (MAZ-543 Special Wheeled Chassis) information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System:
+The Length is 11.7.
+The Width is 3.07.
+The Height is 2.92.
+The Maximum Load is 15.
+The Ground Pressure is INA.
+
+Here is Automotive (MAZ-543 Special Wheeled Chassis) information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System:
+The Engine Name is D12A-525 38.9-liter Diesel.
+The Engine Type is Diesel.
+The Engine Power is 525.
+The Cruising Range is 650.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Configuration is 8x8.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.
+The Fording Depth is 1.3.
+
+Here is Communications information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System:
+The Note is See Fire Control..
+
+Here is Missile Launcher information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System of the Missile System:
+The Name is 4 x 5P85S or 5P85D launchers.
+The Type is Tube Launcher.
+The Anti-Ballistic Missile (ABM) Capability is Yes.
+The Note is The missiles can be fired in a salvo with an interval between 3 and 5 seconds..
+
+Here is Missile (Option 1) information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System of the Missile System:
+The Name is 4 x 48N6E2 Surface-to-Air Missiles.
+The Type is Surface-to-Air Missiles.
+The Length is 7.5.
+The Width is 0.5.
+The Weight is 1,780.
+The Warhead Weight is 70-100 kg.
+The Maximum Range is 200.
+The Engine Type is Single-stage, solid-fuel-propelled.
+The Guidance System is Track-via-missile.
+The TVM Guidance Capable is Yes.
+The ABM Capable is Yes.
+The Maximum Velocity is 2,000.
+The Speed is Mach 6.
+The Kill Probability is 0.70 to 0.93 single shot.
+The Ballistic Targets Range is 5-40.
+The Maximum Altitude is 28.
+The Minimum Altitude is 10.
+The Basic Load is 4 x 48N6E2 Surface-to-Air Missiles per TEL.
+The Note is The 48N6E2 can engage targets with a maximum speed of Mach 8..
+
+Here is Missile (Option 2) information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System of the Missile System:
+The Name is 4 x 5V55R/5V55KD Surface-to-Air Missiles.
+The Type is Surface-to-Air Missiles.
+The Length is 7.
+The Diameter is 450.
+The Weight is 1,450.
+The Engine is Single-stage, solid-fuel-propelled.
+The Guidance System is SARH.
+The Warhead Weight is 100.
+The Maximum Range is 90.
+The Maximum Velocity is 1,900.
+The Maximum Target Speed is 1,150.
+The Basic Load is 4 x 5V55R/5V55KD Surface-to-Air Missiles per TEL.
+
+Here is Missile (Option 3) information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System of the Missile System:
+The Name is 4 x 9M96E1 Surface-to-Air Missiles.
+The Type is Surface-to-Air Missiles.
+The Length is INA.
+The Width is INA.
+The Weight is 330.
+The Warhead Weight is 24.
+The Engine is Single-stage, solid-fuel-propelled.
+The Guidance System is Active radar homing.
+The Maximum Range is 40.
+The Maximum Velocity is 900.
+The Maximum Target Speed is 4,800–5,000 m/s.
+The Probability of Kill is 0.7 against a tactical ballistic missile.
+The Basic Load is 4 x 9M96E1 Surface-to-Air Missiles per TEL.
+
+Here is Missile (Option 4) information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System of the Missile System:
+The Name is 4 x 9M96E2 Surface-to-Air Missiles.
+The Type is Surface-to-Air Missiles.
+The Width is INA.
+The Weight is 420.
+The Warhead Weight is 24.
+The Engine is Single-stage, solid-fuel-propelled.
+The Guidance System is Active radar homing.
+The Maximum Range is 120.
+The Maximum Velocity is 1,000.
+The Maximum Target Speed is 4,800–5,000 m/s.
+The Probability of Kill is 0.7 against a tactical ballistic missile.
+The Basic Load is 4 x 9M96E2 Surface-to-Air Missiles.
+
+Here is Fire Control System information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System of the Fire Control:
+The Name is 1 x 83M6E2 Command and Control System.
+The Computerized FCS is Yes.
+The Direct Fire is Yes, no less than 1km.
+The Indirect Fire is Yes.
+The Fire Control Sensors is Yes.
+The IADS Integration is INA.
+The Number of Targets Engaged Simultaneously is 6.
+The GPS/GLONASS Enabled is Yes.
+The Loran-C Capable is Yes.
+The Fiber-optic Gyros is Yes.
+The Note #1 is The vehicle lowers four hydraulic jacks for launch..
+The Note #2 is The S-300PMU2 air defense missile system can simultaneously engage up to 36 air targets by 72 missiles..
+
+Here is Radar #1 information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System of the Fire Control:
+The Name is 1 x 64N6 (NATO:BIG BIRD) Surveillance and Target Acquisition Radar.
+The Type is Surveillance and Target Acquisition Radar.
+The Frequency/Band is 3D S-band radar.
+The Target Detection Range is 600.
+The Simultaneously Detected Targets is +300 targets.
+The Note #1 is It has 3 400 elements on each side (a total of 7 800), which is a great number for a radar in this band..
+The Note #2 is Regiment Radar.
+
+Here is Radar #2 information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System of the Fire Control:
+The Name is 1 x 30N6E2 (NATO: Tomb Stone) Illumination and Guidance Radar.
+The Type is Illumination and Guidance Radar.
+The Mission is primarily designed to be used as an engagement radar and to track targets and guide missiles to impact using a command link channel.
+The NATO Reporting Name is FLAP LID B.
+The NATO Frequency Band is I-J.
+The Target Detection Range is 300.
+The Azimuth Detection is 360.
+The Number of Tragets Detection is 100.
+The Simultaneously Engaged Targets is 6.
+The Maximum Target Speed is 30 - 2,800 m/s.
+The Antenna is Antenna RPN 30N6E2 may rise to a special mobile tower 40V6M..
+The Chassis is The 30N6E2 Tomb stone radar is mounted on the high mobility truck chassis 8x8 MAZ-7910 vehicle derived from the MAZ-543..
+The Missile Control is 72.
+The Time Ready to Work is 5.
+The Maximum Elevation is +60.
+The Minimum Elevation is -3.
+
+Here is Radar #3 information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System of the Fire Control:
+The Name is 1 x 96L6E (NATO: CHEESE BOARD 3D early-warning and acquisition radar..
+The Type is 3D early-warning and acquisition radar.
+The NATO Reporting Name is CHEESE BOARD.
+The Introduction Date is 1997.
+The NATO Frequency Band is INA.
+The Target Detection Range is 300.
+The Simultaneously Tracked Targets is 100.
+The Works in Conjunction with is The 83M6E2 control post and S-300MPU2 launchers..
+The Chassis is MAZ-7930 (8x8) truck chassis and is intended for use with the S-300PMU and S-300PMU1 air defence systems as an upgrade to replace several existing radar's with a single more capable system..
+The Band is C-Band.
+The Crew is Three operators are needed to run the set. Up to five operator consoles are provided..
+The Antenna is The phased-array antenna with 96 radiating rows employs mechanical beam steering in azimuth and electronic beam steering in elevation..
+The Antenna Rotation is 5-10 rpm.
+The Mean Time Betweeen Critical Failure is 10,000 hours.
+The High Jam Resistance is Yes.
+The Frequency Hoppying is Yes.
+The High Clutter Rejection is Yes.
+The Operation Modes is There are two operation modes implemented: Low altitude targets can be acquired by constraining the mainlobe elevation angle between -3° and +1.5° using an antenna rotation of 5 rpm..
+The Note is The 96L6E “Cheese Board” is designed to replace the 36D6 “Tin Shield B” and 76N6 “Clam Shell”..
+
+Here is Protection information for the SA-20C (S-300PMU-2) Iranian-Long Range Air Defense Missile System:
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The Camouflage Nets is Yes, Standard.
+The Note is Protection. Additional elements of protection are the placement of components of C-300 in the trenches (practiced as placing on the hills for a better view and more rapid care of the horizon, and in the trenches for stealth and protection against fragments of explosions)..
+

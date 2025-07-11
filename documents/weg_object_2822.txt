@@ -1,0 +1,24 @@
+This document describes the MR3000P American VHF Tactical Handheld Radio.
+
+The R&S®MR3000P is a small, lightweight, handheld transceiver that perfectly complements the R&S®M3TR family. Though compact, the R&S®MR3000P has all the features required of a tactical transceiver. It provides reliable connections, even in topographically difficult terrain, and is suitable for flexible integration into tactical networks. Since the transceiver can interoperate with the R&S®M3TR, it enables continuous radiocommunications both within and between forces. The expanded frequency range of the handheld transceiver also supports interoperability. It covers tactical VHF as well as parts of the HF and VHF air traffic control bands.
+
+This equipment has proliferated into the following countries: United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is System information for the MR3000P American VHF Tactical Handheld Radio:
+The Alternative Designation is MR3000P.
+The Type is VHF Tactical Handheld Radio.
+The Crew is 1.
+The Multiband Capability is Multiband capability (25 MHz to 146 MHz).
+The Embedded EPM is Embedded EPM (ECCM) in line with R&S®SECOM-P.
+The Output power is 5W RF output power.
+The Secure Transmission is Secure transmission of voice, data, and short messages.
+The Selective Calling is Selective calling with sender authentication.
+The MTBF is > 10 000 hours.
+The Maximum Range is INA.
+
+Here is Dimensions information for the MR3000P American VHF Tactical Handheld Radio:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

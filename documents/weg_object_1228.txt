@@ -1,0 +1,81 @@
+This document describes the JMRC VISMOD DJI-Phantom American Micro Unmanned Aerial Vehicle.
+
+JMRC VISMOD DJI-Phantom American Micro Unmanned Aerial Vehicle
+
+Here is System information for the JMRC VISMOD DJI-Phantom American Micro Unmanned Aerial Vehicle:
+The Alternative Designation is JMRC VISMOD DJI-Phantom American Micro Unmanned Aerial Vehicle.
+The Type is Micro Unmanned Aerial Vehicle.
+The Manufacturer is DJI.
+The Ground Crew is 1.
+The Working Frequency is 2.4GHz ISM.
+The Control Channels is 7 Channels.
+The Communication Distance is 1,000 m.
+The Receiver Sensitivityï¼1%PERï¼ is Less than -100dBm.
+The Power Consumption of TX is Less than 20dBm.
+The Working Current /Voltage is 52 mA@6V.
+The AA Battery is 4 Required.
+The Operating Temperature is -10Â°C ~ 50Â°C.
+
+Here is Dimensions information for the JMRC VISMOD DJI-Phantom American Micro Unmanned Aerial Vehicle:
+The Radius is 112.32 mm.
+The Whole Size with Four Prop Guards is 575.5 mm.
+The Diagonal distance (motor center to motor center) is 350 mm.
+The Takeoff Weight is Less than 1,200 grams.
+The Weight is 18.7g.
+
+Here is Automotive information for the JMRC VISMOD DJI-Phantom American Micro Unmanned Aerial Vehicle:
+The Propulsion is 4 two blade propeller, Vertical Take Off and Landing (VTOL), Electric.
+The Motor is 15.2 Volts.
+The Power Consumption is 3.12W.
+The Endurance is 23 min.
+The Hovering Accuracy (GPS Mode) is Vertical: 0.8m
+Horizontal: 2.5m.
+The Max Yaw Angular Velocity is 200Â°/s.
+The Max Tilt Angle is 45Â°.
+The Max Ascent / Descent Speed is 6 m/s.
+The Max Flight Velocity is 10 m/s.
+
+Here is Payload information for the JMRC VISMOD DJI-Phantom American Micro Unmanned Aerial Vehicle:
+The Gimbal Stabilized is Yes.
+The Camera Mega Pixel is 12.4.
+The Camera Range Video is 100-3200.
+The Camera Range Still is 100-1600.
+The Photography Modes: is INA.
+The Single Shot is Yes.
+The 3 Burst is Yes.
+The 5 Burst is Yes.
+The 7 Burst is Yes.
+The Time Lapse is Yes.
+The Video Modes: is INA.
+The Ultra High Def is Yes.
+The Full High Def is Yes.
+The High Def is Yes.
+The Secure Digital Card Max is 64.
+The Video Bitrate Max is 60.
+The File Formats: is INA.
+The FAT 32 is Yes.
+The esFAT is Yes.
+The Photo Format is JPG, DNG.
+The Video Format is MP4, MOV.
+The Wind speed at launch is INA.
+The GPS / GLONASS Enabled is Yes/Yes.
+The Recovery Method is INA.
+The Dimensions is 35.
+The Height is INA.
+
+Here is Controller information for the JMRC VISMOD DJI-Phantom American Micro Unmanned Aerial Vehicle:
+The Operating Frequency is 2.400-2.483.
+The Power CONUS is 20.
+The Power OCONUS is 16.
+The Endurance is 10%.
+
+Here is Mobile Application information for the JMRC VISMOD DJI-Phantom American Micro Unmanned Aerial Vehicle:
+The Name is DJI Go.
+The EIRP is 100.
+The Third Party Applications is Yes.
+The Live View Working Frequency is 24.
+The Latency is 220.
+The Required Operating System: is INA.
+The iOS 8.0 or later is Yes.
+The Android 4.1.2 or later is Yes.
+

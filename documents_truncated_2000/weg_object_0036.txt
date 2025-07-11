@@ -1,0 +1,147 @@
+This document describes the T-55 Russian Main Battle Tank (MBT).
+
+Hezbollah Proliferation. The all-improved T-55 was developed from 1955-58 onward at the Uralvagonzavod plant. It was basically the sum of upgrades performed on the former T-54s, but with full NBC protection called PAZ (Protivoatomnaya Zashchita), studied by the KB-60 design bureau in Kharkov.
+
+This equipment has proliferated into the following countries: Afghanistan, Algeria, Angola, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Cambodia, Central African Republic, Chad, Congo, Croatia, Cuba, Egypt, Eritrea, Ethiopia, Georgia, Guinea, India, Iran (Islamic Republic of), Iraq, Israel, Laos (People's Democratic Republic), Latvia, Lebanon, Libya, Mali, Mauritania, Mongolia, Mozambique, Myanmar, Namibia, Nicaragua, Nigeria, Non-State Actors, North Korea (Democratic People's Republic of Korea), Pakistan, Peru, Romania, Russian Federation, Rwanda, Slovenia, Somalia, Sri Lanka, Sudan, Syria, Togo, Uganda, Ukraine, Viet Nam, Yemen, Zambia.
+
+Here is Variants information for the T-55 Russian Main Battle Tank (MBT):
+The T-55A is In 1961, development of improved NBC protection systems began. The goal was to protect the crew from fast neutrons; adequate protection against gamma radiation was provided by the thick armour and a PAZ basic NBC protection system..
+The T-54/T-55 upgrades is n its long service life, the T-55 has been upgraded many times. Early T-55s were fitted with a new TSh-2B-32P sight. In 1959, some tanks received mountings for the PT-55 mine clearing system or the BTU/BTU-55 plough. In 1967, the improved BM8 APDS round, which could penetrate 275 mm thick armor at a range of 2 km, was introduced. In 1970, new and old T-55 tanks had the loader's hatch modified to mount the 12.7 mm DShK machine gun, to deal with the threat of attack helicopters. Starting in 1974, T-55 tanks received the KTD-1 or KTD-2 laser rangefinder in an armored box over the mantlet of the main gun, as well as the R-123 or R-123M radio set. Simultaneously, efforts were made to modernize and increase the lifespan of the drive train..
+The T-55AM is upgraded version of the T-55A. It is fitted with add-on composite armor and rubber side skirts. The gun is fitted with a thermal sleeve. It entered service in 1983..
+The T-55AM-1 is upgraded version of the T-55AM, powered by a V-46-5M diesel engine, developing 690 hp..
+The T-55AD is fitted with Drozd active protection system. It also has add-on armor. It entered service in 1983..
+The T-55AD-1 is fitted wit a V-46-5M diesel engine, developing 690 hp..
+The T-55AMV is fitted with add-on explosive reactive armor and new fire control system. It is capable of launching anti-tank guided missiles in the same manner as ordinary projectiles. The missile has a range of 4 000 m at daytime and 1 200 m at night. It penetrates 550 mm of rolled homogenous armor. It entered service in 1985..
+The T-55M is Upgraded version fitted with add-on composite armor and rubber side skirts. The gun is fitted with a thermal sleeve. This tank entered service in 1983..
+The T-55M-1 is it is a further upgrade of the T-55M, powered by a V-46-5M diesel engine, developing 690 hp. This tank is also fitted with ballistic computer..
+The T-55MV is it has improved protection and firepower. It is fitted with add-on explosive reactive armor and improved fire control system. It is capable of launching anti-tank guided missiles in the same manner as ordinary projectiles. The T-55MV entered service in 1985..
+The T-55MV-1 is fitted with a V-46-5M diesel..
+The T-62A is an improved T-55 with a stretched chassis, new suspension, new turret. It was armed with a 100 mm gun with improved ballistics. First prototypes were built in 1958 and it was accepted to service in 1962. Only a small number of these tanks were built for experimental service. However it was a forerunner of the T-62 medium tank, that was produced in thousands..
+The TO-55 is flamethrower tank. Coaxial machine gun has been replaced with a flame thrower..
+The BTS-2 and BTS-3 is armored recovery vehicles..
+The MTU-20 and MTU-55 is armored bridgelayers..
+The BTR-T is is a heavy armored personnel carrier. It was first publicly revealed in 1997. It was converted from obsolete T-55 medium tank. The turret has been removed in order to create a compartment for dismounts. A number of other modifications were made to the vehicle. This armored vehicle has a crew of 2 and accommodates 5 dismounts. The BTR-T received no production orders..
+The Ti-67 is sraeli version, fitted with American M68 105 mm rifled gun. It is also fitted with Israeli fire control system, new engine and transmission and Blazer explosive reactive armor. About 200 T-54/55 tanks, that were captured from Egyptian and Syrian forces, were upgraded to this standard..
+The T-54E Ramzes II is a proposed upgrade of Egyptian T-54/55 tanks. It is fitted with American M68 105 mm rifled gun, Belgian fire control system, and American Continental AVDS-1790-5A engine..
+The T-55 Enigma is upgraded Iraqi version, fitted with composite add-on armor. Add-on armor weights a total of 4.6 t, so a counterweight was mounted at the turret rear. This tank also has improved night vision devices..
+The TR-580 is a Romanian version of the T-55 with a longer hull. An extra road wheel on each side has been added. It is fitted with a different engine. This tank is fitted with metal side skirts..
+The T-55T is Modified VT-55A with push bar and splashboard across glacis plate in service with the NVA. A towing unit on the glacis plate with a mount that protrudes over front of vehicle. Front towing unit also has a flexible 'eye' permanently fitted. NATO code: T-55T..
+
+Here is Dimensions information for the T-55 Russian Main Battle Tank (MBT):
+The Length, Gun Forward is 9.00 m (with gun forward).
+The Length, Hull is 6.54 m.
+The Width is 3.37 m.
+The Height is 2.40 m.
+The Weight, Combat is 41,000 kg.
+
+Here is Automotive information for the T-55 Russian Main Battle Tank (MBT):
+The Engine Name is Model V-55.
+The Engine Type is V-12 water-cooled diesel.
+The Engine Power is 580 hp at 2,000 rpm.
+The Power-to-Weight Ratio is 14.6 hp (10.4 kW) / tonne.
+The Transmision is Renk LSG 3000 fully automatic with 4 forward and 2 reverse gears.
+The Fuel Capacity is 580 liters internal, 320 liters external (less on early T54), 400 l jettison able rear drums.
+The Range is 400 km.
+The Speed, Maximum Road is 48.
+The Speed, Average Cross is 25.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is 1.4 m unprep; 5.5 m snorkel.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Trench is 2.85.
+
+Here is System information for the T-55 Russian Main Battle Tank (MBT) of the Main Gun:
+The Name is D-10 Tank Gun.
+The Type is Anti-Tank Gun.
+The Caliber is 100.
+The Length is 5.608 m.
+The Barrel Length is 5.35 m.
+The Weight is 1,438 kg.
+The Loader Type is Manual.
+The Fire on the Move is Yes.
+The Traverse Range is INA.
+The First Round Hit Probability is 60.
+The Bore Activator is Yes, New upgrade.
+The Maximum Elevation is +18.
+The Minimum Elevation is -3.
+The Breech is Horizontal sliding wedge (semi-automatic).
+The Recoil is Hydraulic buffer and hydropneumatic recuperator.
+The Carriage is Vehicle mount.
+The Rate of Fire is 4 rounds/min avg
+5–6 rounds/min max..
+The Muzzle Velocity is 1,000.
+The Maximum Firing Range is 14,600 m (16,000 yds), or
+16,000 m (17,500 yds).
+
+Here is Ammunition (Option 1) information for the T-55 Russian Main Battle Tank (MBT) of the Main Gun:
+The Name is 3UOF17.
+The Type is HE fragmentation projectile.
+The Caliber is 100 mm.
+The Muzzle Velocity is 355.
+The Max Range is 7,000.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Weight, Complete Round is 22.9.
+The Weight, Missile is 19.4.
+The Basic Load is 45 total of any 100 mm Projectile Combination.
+
+Here is Anti-Tank Guided Missile information for the T-55 Russian Main Battle Tank (MBT):
+The Type is Laser beam-riding anti-tank missile..
+The Name is 9M117 Bastion.
+The Caliber is 100.
+The Entered Service is 1981.
+The Muzzle Velocity is 400-500.
+The Maximum Effective Range is 4,000.
+The Rocket Burn is 6.
+The Rocket Motor Ignites Time is 1.5.
+The Guidance is Beam-Riding Laser.
+The Prone to Radio or Optical Jamming is No.
+The Missile Flight Time is 4,000.
+The Self Destruct Time is 24-41.
+The Basic Load is 8 x 9M117 Bastion ATGM Missiles.
+
+Here is System information for the T-55 Russian Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is 1 x QJZ-89 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Manufacturer is NORINCO.
+The Weight, Gun Only is 17.5.
+The Weight,Tripod is 8.5.
+The Length, Total is 2,119.
+The Length, Barrel is 1,003.
+The Barrels is 1.
+The Action is Gas/Recoil.
+The Muzzle Velocity is 850 m/s.
+The Rate of Fire is 450-600.
+The Feed System is Belt.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the T-55 Russian Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Cartridge is 12.7x108mm.
+The Max Range is 1,600.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Basic Load is 2,000 Rounds.
+
+Here is Fire Control information for the T-55 Russian Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is INA.
+The Laser Rangefinder is KTD-1 or KTD-2.
+The Night Sight is TPN-1-22-11 night sight.
+
+Here is Protection information for the T-55 Russian Main Battle Tank (MBT):
+The Hull Armor is 120 mm hull front at 60° (100 mm after 1949); 79 mm hull upper sides; 20 mm hull lower sides; 60 mm at 0° hull rear; 20 mm hull bottom; 33-16 mm hull roof..
+The Turret Armor is 205 mm turret front: 130 mm turret sides; 60 mm turret rear; 30 mm turret roof..
+The Applique Armor is Available.
+The Explosive Reactive Armor is Available.
+The Active Protection System is T-55 fitted with the ZET-1 vehicle protection system. It has net structure centred on vehicles main armament and flipper-type side plates..
+The Mine Clearing is The KMT-5 mine clearing plow-roller set consists of two plows and two roller sections of three rollers each. This combination is attached to the front of a tank hull. Stretched between the roller sections is a "dogbone" assembly which consists of a light chain and small roller weights. Using a dragging motion, the "dogbone" covers the exposed area between tank tracks, thus exploding tilt-rod mines. The flexibility of the KMT-5 allows the use of plows or rollers depending on the terrain, type of soil and fuse types encountered. The KMT-5 can be used with the T-54/55, T-62, T-64, and T-72 tanks. The system can withstand approximately nine explosions that have a capacity of five to six kg. It is fitted with a quick-release disconnect unit to allow the tank driver to release the set rapidly. One other capability is that the KMT-5 may be used during night operation, using the luminous lane-marking device (PSK equipment) which marks the clear lane at night with a luminous substance..
+The Self-Entrenching Blade is T-54/T-55 fitted with BTU dozer blade for clearing soil, obstacles and snow in combat situations. It was used by the tank units requiring specialized engineer support. The dozer blade itself can mounted in 1 hour and 30 minutes and dismounted in 1 hour. In the west it is known as T-54/T-55 Dozer..
+The NBC Protection is Yes, PAZ (Protivoatomnaya Zashchita) NBC protection system.
+The Smoke Generator is TDA exhaust smoke generator.
+The Smoke Equipment is 2 × 4.76 mm Smoke Grenades.
+The Note is The T-55 focuses most of its armour around the front 60 deg arc..
+

@@ -1,0 +1,107 @@
+This document describes the Alkmaar Class Dutch Minehunter.
+
+In the Royal Netherlands Navy, the Tripartites are known as the Alkmaar class. The Alkmaars were originally of similar design to the Belgian and French versions, with a standard displacement of 520 tonnes (510 long tons) and 553 tonnes (544 long tons) at full load. The displacement later increased to 571 tonnes (562 long tons) standard and 605 tonnes (595 long tons) at full load and then 630 tonnes (620 long tons) standard and 660 tonnes (650 long tons) at full load. The 20 mm gun that was initially mounted was removed, leaving only three 12.7 mm machine guns. Beginning in 2003, the remaining Dutch Alkmaar-class minehunters were upgraded with improved electronics, including Atlas Elektronik INCMS combat data system, Thales 2022 Mk III hull-mounted sonar, Atlas Seafox Mine Identification and Disposal System and a Double Eagle Mk III Mod 1 ROV.
+
+The minehunters were constructed at the Van der Giessen-de-Noord yard in Amsterdam, a specially constructed site completed in 1978. Middelburg and Hellevoetsluis were optioned by Egypt, but due to financial issues, were instead completed for the Royal Netherlands Navy. Two ships of a modified design were built for the Indonesian Navy which led to the delay of Vlaardingen and Willemstad's construction.
+
+Ships in class (Netherlands)
+In 2000, three ships (Alkmaar, Delfzijl and Dordrecht) were withdrawn from service, followed by two more (Harlingen and Scheveningen) in 2003. All five were sold to Latvia with handovers beginning in 2007. Four more ships, (Haarlem, Maasluis, Middelburg and Hellevoetsluis) were decommissioned in 2011 following a series of deep budget cuts to the navy.
+
+This equipment has proliferated into the following countries: Netherlands.
+
+Here is Variants information for the Alkmaar Class Dutch Minehunter:
+The Alkmaar is Commissioned: 1983
+Status: Decommissioned in 2000, sold to Latvia.
+The Delfzijl is Commissioned: 1983
+Status: 	Decommissioned in 2000, sold to Latvia.
+The Dordrecht is Commissioned: 1983
+Status: Decommissioned in 2000, sold to Latvia.
+The Haarlem is Commissioned: 1984
+Status: Decommissioned in 2011.
+The Harlingen is Commissioned: 1984
+Status: Decommissioned 2003, sold to Latvia.
+The Scheveningen is Commissioned: 1984
+Status: Decommissioned 2003, sold to Latvia.
+The Maasluis is Commissioned: 1984
+Status: Decommissioned in 2011.
+The Makkum is Commissioned: 1985
+Status: Active.
+The Middelburg is Commissioned: 1986
+Status: Decommissioned in 2011.
+The Hellevoetsluis is Commissioned: 1987
+Status: Decommissioned in 2011.
+The Schiedam is Commissioned: 1986
+Status: Active.
+The Urk is Commissioned: 1986
+Status: Active.
+The Zierikzee is Commissioned: 1987
+Status: Active.
+The Vlaardingen is Commissioned: 1989
+Status: Active.
+The Willemstad is Commissioned: 1989
+Status: Active.
+
+Here is System information for the Alkmaar Class Dutch Minehunter:
+The Alternative Designation is Alkmaar Class.
+The Type is Minehunter.
+The Builder is Van der Giessen-de-Noord yard in Amsterdam,.
+The Crew is The complement of the Belgian ships varies between 33 and 46 depending on mission..
+The Mine Warfare System is Mine countermeasures equipment originally included two PAP-104 Mark 4 remote-controlled submersibles, EVEC 20 plot table, autopilot, Toran and Sydelis radio navigation aids, as well as the Decca HiFix Mark 6 precision navigation system. The mine-detection range of the sonar is greater than 1,640 ft (500 m). An autopilot system is provided. Starting in 1999, the class was fitted with new Consilium Selesmar NN 950 navigational radars..
+The Mine Identification is Atlas Seafox Mine Identification and Disposal System.
+The ROV is Double Eagle Mk III Mod 1 ROV.
+The Note is Beginning in 2003, the remaining Dutch Alkmaar-class minehunters were upgraded with improved electronics, including Atlas Elektronik INCMS combat data system, Thales 2022 Mk III hull-mounted sonar, Atlas Seafox Mine Identification and Disposal System and a Double Eagle Mk III Mod 1 ROV..
+
+Here is Dimensions information for the Alkmaar Class Dutch Minehunter:
+The Length is 51.6 m.
+The Beam is 9.0 m.
+The Draft is 2.6 m.
+The Displacement, Standard is 510 tons.
+The Displacement, Full Load is 540 tons.
+
+Here is Propulsion System information for the Alkmaar Class Dutch Minehunter:
+The Engine Name is 1 x Brons-Werkspoor A-RUB 215 x 12 diesel.
+The Engine Type is Diesel.
+The Engine Power is 1,900 total bhp; 1 shaft.
+The Auxiliary Power is 2 x 120-shp ACEC active rudders (for minesweeping).
+The Bow-Thrusters is 2 x  75-shp bow-thrusters.
+The Maximum Speed is 15 kts (7 kts hunting).
+The Maximum Range is 3,500 nm at 10 kts.
+The Endurance is 15 days.
+
+Here is Gun Weapon System #1 information for the Alkmaar Class Dutch Minehunter of the Gun Weapon Systems:
+The Name is 20 mm modèle F2 gun.
+The Type is Naval Gun.
+The Caliber is 20mm.
+The Quantity is 1 x 20 mm modèle F2 gun.
+The Length is INA.
+The Weight is 332 kg (732 lb) (without ammunition).
+The Action is Gas unlocked, delayed blowback[1.
+The Elevation is −15° to + 65°.
+The Rate of Fire is 720 round/min.
+The Muzzle Velocity is 1,050 m/s.
+The Effective Firing Range is 1,500 m (4,900 ft) against aerial targets.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Alkmaar Class Dutch Minehunter of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 20.
+The Cartridge is 20×139mm.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Alkmaar Class Dutch Minehunter:
+The FCS Name is INA.
+The Computerized FCS is No.
+The Combat Data System is They are equipped with an Atlas Elektronik IMCMS combat data system..
+
+Here is Radar Systems information for the Alkmaar Class Dutch Minehunter:
+The Navigation Radar is 1 x Decca TM 1229C navigation; or
+1 x Consilium Selesmar NN 950 navigation radar.
+
+Here is Sonar Systems information for the Alkmaar Class Dutch Minehunter:
+The Hull Mounted Sonar is 1 x Thales 2022 Mk III Sonar.
+The Minehunting Sonar is 1 x Thales PVDS Minehunting Sonar.
+
+Here is Protection information for the Alkmaar Class Dutch Minehunter:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

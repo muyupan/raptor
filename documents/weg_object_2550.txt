@@ -1,0 +1,221 @@
+This document describes the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV).
+
+Command vehicle BMP-3K is a BMP-3 based one intended to control a subunit, to communicate with the major unit commander, and to carry on combined tactical operations with the subunit as well.
+BMP-3K is equipped with navigation devices, two radio sets, a receiver, intercom for seven users, a portable power unit,
+At the customer's request, the BMP-3K armament system may be additionally equipped with SAT thermal imager sight.
+Tactical command variant, includes additional radio R-173, an intercom for seven users, an AB-R28 independent portable power unit, a navigation device TNA-4-6, and the "Ainet" air burst round detonation system. The BMP-3K lacks the bow machine guns and has its whip antennas mounted on the rear hull. Crew: 3+3
+
+This equipment has proliferated into the following countries: Russian Federation, Ukraine.
+
+Here is Variants information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV):
+The BMP-3M is KBP and Kurganmashzavod have upgraded the vehicle with a new engines and turret with a new ATGM system 9K116-3 Basnya. The upgraded vehicle is called the BMP-3M and the new Bakhcha-U turret which includes a new automatic fire control system with ballistic computer, new SOZH gunner's sight with laser rangefinder and an ATGM guidance channel, thermal imager, TKN-AI commander's vision device with laser illuminator and new ammunition loading system for ATGM..
+The BMP-3M Ataka is BMP-3M version with a two men turret armed with 30 mm 2A72 autocannon, and 9M120-1 Ataka ATGM.
+The BMMP is Version for naval infantry, fitted with the turret of the BMP-2..
+The BMP-3F is Armed with the standard 2K23 turret. Specially designed for operations at sea, with improved seaworthiness and buoyancy, capability to move afloat at sea state 3 and fire with the required accuracy at sea state 2. Compared to the basic model, the vehicle design features changes increasing floatability and vehicle stability: the self-entrenching equipment is omitted, a lightweight anti-surge vane and an air intake tube are introduced; the BMP-3F turret is also protected by anti-surge vanes. Water jet propellers develop a speed of 10 km/h when afloat. The BMP-3F design allows the vehicle to come ashore under rough sea conditions and to tow the same-type vehicle. A new main sight, the SOZH, which has an integrated laser range finder and an ATGM guidance channel, is installed. This version can endure continuous amphibious operation for seven hours with the running engine.
+The BT-3F is Amphibious version based on BMP-3F with the original turret replaced by a smaller remote weapon station with either 7.62, 12.7 or 14.5mm machine gun. It can accommodate a crew commander, driver, gunner, and 14 troops, and can use optional ERA armor..
+The BRM-3K "Rys" (Ob.501) is Surveillance and reconnaissance variant with 1PN71 thermal sight (3.7x/11x, 3 km range), 1PN61 active-pulse night vision device ( 3 km range), 1RL-133-1 ("TALL MIKE") I-band surveillance radar (3 km man, 12 km vehicle), 1V520 computer and a TNA-4-6 navigation system. The armament consists of the stabilized 30 mm autocannon 2A72 (600 rounds) and a coaxial 7.62 mm machine gun (2,000 rounds) or AU-220M Baikal remote weapon station with 57 mm BM-57 autocannon and 7.62mm PKMT machine gun..
+The BMP-3 Dragoon is New IFV version with an unmanned turret which can be armed with a variety of combat modules, including standard BMP-3's Bakhcha-U turret with a 2A70 100 mm cannon, a 2A72 30 mm autocannon and a PKTM 7.62 mm machine gun, the AU-220M Baikal remote weapon station module with a 57 mm BM-57 gun and a module with a 125 mm 2A82-1M tank gun, the new 816 h.p..
+The BREM-L "Beglianka" (Ob.691) is Armoured recovery vehicle with five-tonne crane and 20/40 metric tonne capacity winch..
+The BMP-3 "Khrizantema-S" is Self-propelled anti-tank version with 9M123 Khrizantema (AT-15) ATGM system with radar and laser guidance. The 9P157-2 carries two 9M123 missiles on launch rails, which are extended from a stowed position; the radar is also stowed during transit. The missiles are re-loaded automatically from an internal magazine with 15 rounds (missiles are stored and transported in sealed canisters) and can also accept munitions manually loaded from outside the vehicle..
+The 9P163M-1 "Kornet-T" is Anti-tank version with Kornet (AT-14) missile system. Some sources call it the 9P162. The Kornet is similar in function to the Khrizantema missile system. The 9P163M-1 carries two 9M133 missiles on launch rails, which are extended from a stowed position during transit. Missiles are re-loaded automatically by the tank destroyer from an internal magazine with 16 rounds (missiles are stored and transported in sealed canisters)..
+The 2S18 "Pat-S" (Ob.697) is Self-propelled version of the 152 mm howitzer 2A61 "Pat-B". This was only a prototype, further development led to the 2S31 Vena..
+The DZM "Vostorg-2" is Combat engineer vehicle with a dozer blade and excavating bucket. Prototype..
+The UR-07 is Mine clearing system. The UR-07 might replace the UR-77 "Meteorit". It has the same chassis as the BMP-3 but a bigger steel hull with two launch ramps in the rear. The ramps are used to fire rockets towing hose-type mine-clearing line charges to clear mine fields..
+The UNSh (Ob.699) is Basic chassis for specialised variants..
+The Hermes or TKB-841 is Air-defence vehicle with high-velocity missiles and radar system. Prototype.[68]
+2S31 Vena – Self-propelled mortar carrier equipped with a 120 mm mortar based on BMP-3 chassis. It entered production in 1996 and service in 2010..
+The 2S38 ZAK-57 Derivatsiya-PVO is Self-propelled air defense vehicle based on BMP-3 chassis fitted with a 57 mm autocannon and passive reconnaissance and target tracking equipment.[72] It is designed to shoot down unmanned aerial vehicles (UAVs), cruise missiles, air-to-surface missiles, aircraft, helicopters, and MLRS rockets..
+The UDAR UGV is Unmanned ground vehicle based on the tracked chassis of the BMP-3 with the center hull raised to fit the DUBM-30 Epoch armed with 2A42 autocannon, 7.62mm PKMT machine gun, and Kornet-M ATGM..
+The Vikhr UGV is Unmanned ground vehicle based on BMD-3 equipped with a smaller turret armed with 2A72 autocannon, 7.62mm coaxial machine gun and six anti-tank guided missiles 9M133M Kornet-M, three on each side of the turret..
+The Prokhod-1 is Unmanned mine-clearing vehicle based on the BMP-3 chassis. It is equipped with the anti-mine TMT-C trawl, and a remote weapon station turret with a 12.7mm machine gun..
+
+Here is System information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Alternative Designation is BMP-3K.
+The Type is Amphibious Infantry Fighting Vehicle (IFV).
+The Manufacturer is Kurganmashzavod.
+The Family is BMP-3.
+The Crew is 3.
+The Passenger Capacity is 3.
+The Fighting Module is 2K23 Fighting Module.
+The Navigation Unit is TNA-4-6 Navigation Unit.
+
+Here is Dimensions information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Length (Hull) is 7.2.
+The Width is 3.23.
+The Height is 2.45.
+The Weight, Combat is 18.7.
+The Ground Pressure is 0.63 kg/cm2.
+
+Here is Automotive information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Engine Name is UTD-29.
+The Engine Type is 10 cylinder, 4 stroke, v-shaped, water colled diesel.
+The Engine Power is 500.
+The Range is 600.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is 45.
+The Speed Maximum Swim is 10.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Trench is 2.5.
+The Fording Depth is Amphibious.
+The Portable Power Unit is Yes, the AB-R28.
+
+Here is Communications information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Primary Radio is R-173.
+The Secondary Radio is R-173P.
+The R-173P Radio Effective Range is 20-40.
+The Intercom is Yes.
+
+Here is System information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Name is 2A70 (100mm) Rifle Gun.
+The Type is Rifled Gun.
+The Caliber is 100.
+The Max Rate of Fire is 8-10.
+The Loader Type is Automatic loader, manual for gun and ATGMs.
+The Maximum Elevation is +60.
+The Minimum Elevation is -5.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Aimed Range is 5,000.
+The Fire on the Move is Yes.
+The Maximum Effective Range (Day) is 4,000.
+The Maximum Effective Range (Night) is INA.
+The Tactical AA Range is 4,000.
+The Armor Penetration is 25mm of RHA.
+The Air Burst Round Detonation System is Yes, the "AINET"Air Burst Round Detonation System.
+
+Here is Ammunition information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Name is 9M117M1 Arkan.
+The Type is Laser beam riding missile.
+The Caliber is 100.
+The Warhead Type is HEAT.
+The Muzzle Velocity is 330.
+The Motor Type is Rocket.
+The Cartridge is 3UBK23-3 cartridge.
+The Soft Launch is Yes.
+The Penetration is 650 mm of rolled homogenous armour (RHA) behind ERA or 750 mm of RHA without ERA and it has a maximum range of 4,000 m.
+The Basic Load is 40 Total Rounds of any 100mm Russian Projectile.
+
+Here is System information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV) of the Anti-Tank Guided Missile (ATGM):
+The Name is 9M117 Bastion (AT-10).
+The Type is Anti-Tank Guided Missile.
+The Caliber is 100.
+The In Service is 1983-present.
+The Charge Type is Reduced Explosive Charge.
+The Muzzle Velocity is 400-500.
+The Length is 1,048.
+The Weight is 27.
+The Basic Load is 3 (the BMP-3K can only carry 3 ATGM's compared to the BMP-3,which can carry 8 ATGMs due to the C2 equipment..
+The Warhead Type is HEAT.
+The Rocket Motor is Ignites 1.6 seconds after firing the missile and it burns for 6 seconds.
+The Guidance System is beam-riding laser guidance..
+The Steering System is laser sensor to detect the modulation of the light..
+The Flight Time (4,000 meters) is 12.
+The Self Destruct Time is 26-41.
+The Telescopic Sight is 1K13 day/night telescopic sight (with integral 1K13BZ laser emitter).
+The Stabilising Fins is 4.
+The Searchlight is L4 IR searchlight.
+The Effective Firing Range is 100-4,000.
+The Penetration is 650-750.
+The Note is The 9M117 Bastion (AT-10) is prone to radio or optical jamming.
+
+Here is System information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 1 x 2A72, 30mm Automatic Cannon.
+The Type is Automatic Cannon.
+The Caliber is 30.
+The Max Rate of Fire is 330.
+The Maximum Effective Firing Range (Air Targets) is 4.
+The Maximum Effective Firing Range (Ground Targets) is 2.
+The Maximum Effective Firing Range (Light Armor Vehicles) is 1.5.
+The Loader Type is Dual-belt feed.
+The Maximum Elevation is -5.
+The Minimum Elevation is +60.
+The Fire on the Move is Yes.
+The Traverse Range is 360.
+The Traverse Right is 180.
+The Traverse Left is 180.
+The Firing Modes is single shot, 10-round burst, or automatic mode..
+
+Here is Ammunition (Option 1) information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 3UBR8.
+The Type is 195 AP rounds.
+The Caliber is 30.
+The Cartridge is 30 × 165.
+The Muzzle Velocity is 1,120.
+The Penetrator Type is tungsten alloy sub-calibre penetrator.
+The Penetration is can defeat 28 mm of RHA set at a 60° angle from a range of 1,000 m.
+The Basic Load is INA.
+The Note is A sub-caliber discarding sabot. No tracer. Penetration: 25mm RHA at flat angle of impact, 1500 m range 25mm thick plate at 60 degree impact, 1500 m.
+
+Here is Ammunition (Option 2) information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 3UOF8.
+The Type is 305 HE-type rounds.
+The Caliber is 30.
+The Cartridge is 30 × 165.
+The Muzzle Velocity is 960.
+The Basic Load is INA.
+The Lethal Radius is 5.95.
+The Charge Type is A-IX-2.
+The Note is A high-explosive incendiary round with A-670M nose fuze.The fuze produces a 0.15 millisecond delay on impact, and a self-destruct mechanism detonating the projectile after 7.5 to 14.5 seconds of flight (3900–5300 m distance from muzzle)..
+
+Here is System information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV) of the Commander and Driver's Weapons System:
+The Name is 1 x 7.62mm PKT (Kalashnikov's Machine Gun).
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Cartridge is 7.62×54.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Proliferation is 1 Million +.
+The Manufacturer is Degtyaryov plant.
+The Length (Barrel) is 605.
+The Length (Overall) is 1,203.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 650.
+The Effective Rate of Fire is 250-300.
+The Effective Firing Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 4,000.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV) of the Commander and Driver's Weapons System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 855.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 2,500.
+
+Here is Fire Control information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Name is 1K13-2.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is optical sight 1PZ-10, a day/night vision device TKN-3MB.
+The Thermal Sight Gunner is 1K13-2 II night channel, 5.5x.
+The Gunner Day Sights is 1K13-2, 8x ; 1P3-10 antiaircraft, 2.6x; PPD-1 stand-by.
+The Main Gun Stabilization is Yes, 2E52 electro-mechanical stabiliser.
+The Stabilizer Modes is The stabiliser has three modes: automatic; semi-automatic; and guidance..
+The Ballistic Computer is Yes, V539 ballistic computer.
+The Rangfinder is Laser.
+The Infrared Searchlight is Yes, IR searchlight OU-3GA2.
+The Cross-Wind Sensor is Yes.
+The Minutes Of Angle (MOAs) is 1.69.
+The PAB-2M Magnetic Aiming Circle is Equipped.
+
+Here is Protection information for the BMP-3K Russian Amphibious Infantry Fighting Vehicle (IFV):
+The Armor Type is Welded of aluminum alloy armor.
+The Hull Armor (Front) is Protection against 30 mm armor-piercing rounds..
+The Hull Armor (Sides and Back) is Protection is against 14.5 mm armor-piercing rounds..
+The Turret Armor is 30-35.
+The Applique Armor is On Turret.
+The Explosive Reactive Armor is Available.
+The Active Protection System is Yes, Arena active protection system.
+The Mine Clearing is Yes, KMT-8 mine plow available.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes, Collective.
+The Smoke Equipment is 6 VEESS.
+The Countermeasures System is Shtora countermeasures systems.
+The Automatic Fire Suppression System is Yes.
+

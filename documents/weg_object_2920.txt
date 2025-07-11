@@ -1,0 +1,75 @@
+This document describes the JN-1105 Chinese Portable Communications EW Complex.
+
+The Chinese JN-1105A is a mobile electronic warfare system designed for searching, detection, direction-finding, and jamming of HF/VHF/UHF radio frequencies. The prime contractor is China National Electronics Import and Export. Corporation. 
+
+The entire system can be mounted on a vehicle or disassembled and transported by several solders using special frames for employment in remote geographical areas such as mountains and the highlands. It operates in HF (1.6 to 30 MHz), VHF (30 to 100 MHz) and UHF (100 to 500 MHz) frequency bands. 
+
+The JN-1105 is part of the Chinese JN-Series EW Systems. The JN-Series is an integrated communication countermeasure system designed to search, intercept, monitor, analyze, and jam enemy communication signals. The following are the JN-Series EW platforms: 
+
+JN-1101 Ground Mobile Communications EW complex
+JN-1102 Unmanned Aerial Vehicle (UAV) borne Communications and Radar EW Complex
+JN-1105 Portable Communications EW Complex
+JN-1601 HF Intercept and Jamming Station 
+JN-1602 Heliborne Communications EW Complex
+JN-3103 Expendable Jammer
+Advanced VHF/UHF Vehicular Communications Countermeasure System
+
+Photo is courtesy of China National Electronics Import and Export Corporation through Global Mil.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the JN-1105 Chinese Portable Communications EW Complex:
+The JN-1105A is The JN1105A is a vehicle-mounted countermeasures system designed to detect, locate, and jam hostile radio communication signal. It operates in HF (1.6 to 30 MHz), VHF (30 to 100 MHz) and UHF (100 to 500 MHz) bands. The JN1105A can be operated 'on the move' and is de-mountable for use in geographies that are inaccessible to its carrier vehicle..
+
+Here is System information for the JN-1105 Chinese Portable Communications EW Complex:
+The Alternative Designation is JN-1105A.
+The Type is Communication Intercept and Jamming Complex.
+The Manufacturer is China National Electronics Import and Export Corporation.
+The Chassis is INA.
+The Configuration is INA.
+The Crew is INA.
+
+Here is Dimensions information for the JN-1105 Chinese Portable Communications EW Complex:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Empty is INA.
+The Payload capacity (on road) is INA.
+The Payload capacity (off road) is INA.
+The Maximum Tow Capacity is INA.
+
+Here is Automotive information for the JN-1105 Chinese Portable Communications EW Complex:
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Cruising Range is INA.
+The Speed, Maximum Road is INA.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is INA.
+The Gradient is INA.
+The Side Slope is INA.
+The Vertical Step is INA.
+The Trench is INA.
+The Fording Depth is INA.
+
+Here is Jamming Station information for the JN-1105 Chinese Portable Communications EW Complex:
+The Operating Frequency Range is 1.6 to 500 MHz.
+The HF Frequency Operating Range is 1.6 to 30 MHz.
+The VHF Frequency Operating Range is 30-100 MHz.
+The UHF Frequency Operating Range is 100 to 500 MHz.
+The Transmitter Output Power is INA.
+The Quantity of Simultaneously Jammed Frequencies is INA.
+The Frequency Spacing is INA.
+The Root-mean-square error of direction finding, degree (not more than) is INA.
+The Frequency Range Scanning Rate (without direction finding) is INA.
+The Mean time of station reaction during jamming in autonomous mode (during operation by list of 200 preset frequencies in simultaneous scanning band, not more) is INA.
+The Accuracy of carrier frequency definition (not more) is INA.
+The Relative frequency deviation from the nominal (not more) is INA.
+The Receiver sensitivity (not worse) is INA.
+The Jamming Spectrum Width is INA.
+The Jammed RF Links is INA.
+The Frequency Hop Signal Detection is INA.
+The Deployment Time is INA.
+The Azimuth Search Coverage is INA.
+The Power Generator is INA.
+

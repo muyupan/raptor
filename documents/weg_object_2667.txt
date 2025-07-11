@@ -1,0 +1,63 @@
+This document describes the ZFB-05 Chinese 4x4 Armored Personnel Carrier (APC).
+
+The ZFB-05 Chinese 4x4 Armored Personnel Carrier (APC) has been widely exported and is understood to be in use with China’s People’s Liberation Army (PLA).
+
+This equipment has proliferated into the following countries: Bangladesh, Benin, Bolivia (Plurinational State of), Cambodia, Chad, China, Congo, Gabon, Ghana, Myanmar, Niger, Rwanda, Tanzania.
+
+Here is Variants information for the ZFB-05 Chinese 4x4 Armored Personnel Carrier (APC):
+The ZFB-05 is The basic ZFB05 is a protected patrol vehicle designed to transport military or paramilitary forces in zones of operation where small arms fire is the most likely threat..
+The ZFB-05 Ambulance is Ambulance Version..
+The ZFB-05 Police is There is a police specific variant of the ZFB-05 that is used by China’s regional police forces to provide civil order..
+The ZFB-08 is The core goal of the ZFB-08 was to provide protection from mines and under-body blasts that the ZFB-05 protected little to no protection from, but it is unclear if this was achieved in the design..
+The ZFB-05A is The ZFB-05A is an advanced version of the ZFB-05..
+The ZFB-05 Broadcasting Vehicle is This is the baseline vehicle without weapon station and fitted with an extensive range of broadcasting equipment that includes two loud speakers mounted on a turntable installed on the roof of the vehicle..
+
+Here is System information for the ZFB-05 Chinese 4x4 Armored Personnel Carrier (APC):
+The Alternative Designation is ZFB-05.
+The Type is Armored Personnel Carrier (APC).
+The Manufacturer is Shaanxi Baoji.
+The Configuration is 4x4.
+The Crew is 2.
+The Passenger Capacity is 9.
+The Maximum Towing Capacity is 1,500 kg.
+The Note is The ZFB-05 can be air transported using tactical airlift assets..
+
+Here is Dimensions information for the ZFB-05 Chinese 4x4 Armored Personnel Carrier (APC):
+The Length, Overall is 5.2 m.
+The Length, Hull is 4.79 m.
+The Width is 2.06 m.
+The Height is 1.975 m.
+The Wheelbase is 2.8 m.
+The Weight, Standard is 4,700 kg.
+The Weight, Combat is 5,800 kg.
+The Ground Clearance is 0.28 m.
+
+Here is Automotive information for the ZFB-05 Chinese 4x4 Armored Personnel Carrier (APC):
+The Engine Name is SOFIM 8142.43.
+The Engine Type is 4 cylinders, turbocharged, diesel.
+The Engine Power is 117 hp.
+The Fuel Capacity is 124 liters.
+The Electrical System is 24 V.
+The Range is 850 km.
+The Speed, Maximum Road is 110 km/h.
+The Speed Maximum Swim is Not Amphibious.
+The Angle of Approach is 33°.
+The Angle of Departure is 30°.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Turning Radius is 6.25 m.
+The Steering is Powered.
+The Tires is 255/100 R16.
+
+Here is Main Weapon System information for the ZFB-05 Chinese 4x4 Armored Personnel Carrier (APC):
+The Note is Armament typically consists of a 12.7 mm MG, which is provided with a shield to provide the gunner with frontal protection..
+
+Here is Protection information for the ZFB-05 Chinese 4x4 Armored Personnel Carrier (APC):
+The Hull Armor is The ZFB-05 has an all-steel armored hull, which provides protection against small arms fire and artillery shell splinters..
+The Turret Armor is A shield to provide the gunner with frontal protection..
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Mine Clearing is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

@@ -1,0 +1,131 @@
+This document describes the Pandur II Austrian 8x8 Amphibious Armored Personnel Carrier (APC).
+
+The Pandur II 8x8 is an improved modular all-wheel-drive version of the Pandur 6x6 APC wheeled armored vehicle. It was developed as a private venture by the Austrian company Steyr-Daimler-Puch Spezialfahrzeuge and is currently in production for the Portuguese Armed Forces. Steyr-Daimler-Puch Spezialfahrzeuge is part of General Dynamics European Land Combat Systems, which is also the parent company of MOWAG of Switzerland and Santa Bárbara Sistemas of Spain.
+
+The most significant change is the introduction of an 8x8 configuration with more interior space. The construction is an all-welded steel hull with optional armor upgrades. The basic armor package is designed to protect against 7.62 to 14.5 mm (0.300 to 0.571 in) armor-piercing rounds (customers may select a choice of armor thickness). The vehicle is designed to be transportable in a Lockheed Martin C-130 Hercules transport aircraft. The driver is seated on the left at the front and the engine is to the right. The driver is provided with a single-piece hatch cover as well as three-day periscopes, one of which can be replaced by a passive periscope for night missions. The vehicle is fitted with a two-stage synchronized distribution gearbox for both road and cross-country use. The improved suspension will be fitted for optimum cross-country mobility. The vehicle is designed to take a number of turret systems (such as the SP 30 turret also mounted on the ASCOD AFV of the Spanish and Austrian Armies), or it can be used as a standard APC with a mounted machine gun.
+
+With the turret, the vehicle can carry 6 infantry. Without the turret, it can carry 12.
+
+The Pandur 8x8 APC is manufactured in Austria while export versions are also built in the Czech Republic and licensed versions in Barreiro, Portugal.
+
+The Czech company Excalibur Army has offered their Pandur 8x8 wheeled armored vehicle for the Philippine Army's Wheeled APC acquisition project under the Horizon 2 phase. EA mentioned that the PA has requested options of either a manned or unmanned 25mm or 30mm turret or an RCWS with 50cal. heavy machine gun. EA is also participating in the Philippine Army's M113 Firepower Upgrade project, offering either 25mm or 30mm manned turret with co-axial 7.62mm machine gun, or RCWS system depending on PA requirements. Apparently for this project the PA prefers a manned turret solution.
+
+This equipment has proliferated into the following countries: Austria, Czech Republic, Portugal.
+
+Here is Variants information for the Pandur II Austrian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Pandur 1 is Basic version as in the description..
+The Belgian Pandur is Belgian SMAS radio, NBC protection, armed with 12.7-mm & 7.62-mm machine guns..
+The Amphibious Pandur is Electric bilge pumps, closed air intakes-capable of 11 km/h in water..
+The Pandur II is INA.
+The Pandur Anti-Aircraft is Twin 20-mm cannon or SANTAL SAM in turret..
+The Pandur ATGM Carrier is HOT AT missile in a Euromissile UTM 800 launcher or a TOW AT missile in a Kvaerner-Eurkea turret; additional missiles stored in the hull..
+The Pandur Armored Recon/Fire Support Vehicle (FSV) is 2-man LCTS turret with a Cockerill 90-mm Mk 8 gun or a Giat TS-90 turret with a 90-mm CN90F4 gun or Cockerill CSE90 turret with an Mk III 90-mm gun..
+The Pandur Mechanized Infantry Combat Vehicle (MICV) is MGTS with a choice of armaments: 12.7-mm M2 & 7.62-mm MGs; 30-mm M230 chain gun & 7.62-mm MG; or 40-mm AGL & 12.7-mm MG..
+The Pandur Mortar Carrier is In the passenger compartment, there is an 81-mm or 120-mm mortar mounted on a turnatable..
+The Command & Control Vehicle is For C2 operations..
+The Armored Recovery/Repair Vehicle is For vehicle recovery operations..
+
+Here is System information for the Pandur II Austrian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designations is Pandur II.
+The Type is Armored Personnel Carrier.
+The Manufacturer is Steyr-Daimler-Puch.
+The Crew is 2 (driver, commander).
+The Passengers is 12.
+The Note is Possible vehicle configurations for the Pandur II will include an anti-tank guided-weapon carrier, battlefield ambulance, company or battalion command vehicle, driver training vehicle, forward observer vehicle, fully amphibious armored vehicle, and a platoon command vehicle..
+
+Here is Dimensions information for the Pandur II Austrian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Length is 6.58.
+The Width is 2.67.
+The Height is 2.06.
+The Ground Clearance is 0.43.
+The Wheels, Track is 2.29.
+The Weight, Unloaded is 12,000.
+The Weight, Combat is 15,000.
+The Weight, Maximum Payload is 3,000.
+
+Here is Automotive information for the Pandur II Austrian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is 1 x Cummins ISC 350 diesel.
+The Engine Type is 6-cylinder turbocharged water-cooled diesel with air-intake cooling.
+The Engine Power is 260 hp.
+The Power-to-Weight Ratio is INA.
+The Fuel Capacity is 275 liters.
+The Transmission is ZF 6HP 602C fully automatic.
+The Cruising Range is 600.
+The Speed (Max Road) is 100.
+The Speed (Max Off-Road) is INA.
+The Speed (Average cross-country) is INA.
+The Speed (Max Swim) is 10.
+The Grading is 70.
+The Side Slope is 40.
+The Vertical Step is 0.5.
+The Trench is 1.4.
+The Fording is 1.5.
+The Fording with Preparation is Amphibious.
+The Suspension is INA.
+The Turning Radius is 10.0.
+
+Here is Communications information for the Pandur II Austrian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Radio is INA.
+
+Here is System information for the Pandur II Austrian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 x NSV 12.7mm Heavy Machine Gun.
+The Type is 12.7mm Heavy Machine Gun.
+The Manufacturer is "Metallist", Uralsk, Kazakh SSR, Crvena ZastavaSerbia.
+The In Service is 1971-Present.
+The Proliferation is Widely Proliferated.
+The Length is 1,560.
+The Weight, Gun Only is 25.
+The Weight, Gun and Tripod is 41.
+The Weight, 50 Round Belt is 11.
+The Action is Gas-operated.
+The Rate of Fire is 700–800 rounds/min.
+The Effective Firing Range vs Air Targets is 1,500.
+The Effective Firing Range vs Ground Targets is 2,000.
+The Feed System is 50-round belt.
+The Sights is Iron sights.
+
+Here is Ammunition information for the Pandur II Austrian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is 12.7×108mm.
+The Muzzle Velocity is 845.
+The Basic Load is 1,200.
+
+Here is Anti-Tank Guided Missile (ATGM) System information for the Pandur II Austrian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Name is Spike ER.
+The Type is Israeli fire-and-forget anti-tank guided missile.
+The Manufacturer is Rafael Advanced Defense Systems
+Diehl Defence (Now part of Rheinmetall Defence Electronics).
+The In Service is 1997-Present.
+The Length is 1.670.
+The Diameter is 170.
+The Weight, Missile in Canister is 34.
+The Weight, Launcher is 55.
+The Weight, Launcher and 4 Missiles is 187.
+The Rate of Fire is Ready to launch in 30 seconds, reload in 15 seconds.
+The Effective Firing Range is 50–1,500 metres.
+The Sights is 10× optical sight.
+The Warhead is Tandem-charge HEAT.
+The Detonation Mechansim is Piezoelectric trigger.
+The Engine is Solid-propellant rocket.
+The Guidance System is Infrared homing – Electro Optical (CCD, Imaging Infrared (IIR) or Dual CCD/IIR), Passive CCD or dual CCD/IIR seeker.
+
+Here is Fire Control information for the Pandur II Austrian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Fire Control System is No.
+The FCS Name is INA.
+The Night Vision is Optional.
+The Navigation is Optional.
+The Main Gun Stabilized is Yes.
+
+Here is Protection information for the Pandur II Austrian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Armor (turret front) is Protects against 7.62-mm AP rounds at 30 m.
+The Applique Armor is Available, An optional level of protection can increase the protection level to shield against 14.5-mm AP projectiles fired from a distance of 100 meters..
+The Spall Liners is Avaialble on the inside of the vehicle.
+The Mine-Protection Mats is Available.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Self-entrenching Blade is No.
+The NBC Protection System is Available.
+The Smoke Equipment is 6 x Smoke grenade launchers.
+The Survivability Equipment is No.
+

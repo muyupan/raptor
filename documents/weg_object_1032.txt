@@ -1,0 +1,73 @@
+This document describes the EC-130H (Compass Call) American Airborne Electronic Warfare System.
+
+The EC-130H Compass Call is an airborne tactical EW weapon system with a primary mission to disrupt enemy command and control. The aircraft is a heavily modified variant of the C-130 Hercules featuring a large antenna array attached to the tail-section of the aircraft and onboard advanced computer systems that enable direction-finding, listening and jamming of enemy communications.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is Variants information for the EC-130H (Compass Call) American Airborne Electronic Warfare System:
+The EC-130E ABNCC is This was an EC-130E with an airborne command and control center (ABNCC) in a roll-on/roll-off tactical command post capsule..
+The EC-130G/Q is A U.S. Navy C-130E fitted with AN/USC-13 TACAMO (take charge and move out) communications equipment by Rockwell was used in support of strategic missile submarines. This included the AN/USC-13 airborne VLF communications suite with a trailing wire antenna over 30,000 feet in length. This equipment was later "stripped-out" for use in E-6 Hermes successors. The last EC-130Q was delivered to Rockwell International for strip-out in May 1992. Altogether, Rockwell converted 22 EC-130G and EC-130Q aircraft..
+The EC-130J Commando Solo is Highly specialized modifications have been made to the aircraft. Included in these modifications are enhanced navigation systems, self-protection equipment and the capability of broadcasting color television on a multitude of worldwide standards throughout the TV VHF/UHF ranges.
+
+The EC-130J has two 23 ft x 6 ft (7 m x 1.8 m) underwing pods that carry VHF and UHF broadcast antennas for high-frequency TV channel broadcasts. Four pods mounted on the both sides of the tail house VHF antennas that are dedicated to the lower-frequency TV frequencies.
+
+The aircraft is capable of broadcasting on eight frequencies simultaneously.
+
+Defensive equipment includes ALR-56M radar warning receiver; AAR-54 PMAWS; ALE-47 TACDS; and AAQ-24 DIRCM.
+The EC-130J crew includes a pilot, co-pilot, flight systems officers, mission systems officer, two loadmasters and five electronic communication systems operators..
+
+Here is System information for the EC-130H (Compass Call) American Airborne Electronic Warfare System:
+The Alternate Designation(s) is EC-130H Compass Call.
+The Type is Electronic Warfare Aircraft.
+The Manufacturer is Lockheed Corporation
+Lockheed Martin.
+The Crew is 11 (two pilots, navigator, flight engineer, loadmaster and six (6) EW mission crew members).
+The Number of Engines is 4.
+
+Here is Dimensions information for the EC-130H (Compass Call) American Airborne Electronic Warfare System:
+The Length is 29.8 m.
+The Width (Wing Span) is 40.41 m.
+The Wing Area is 162.12 m sq.
+The Height is 11.4 m.
+The Ramp Opening, Length is 3.12 m.
+The Ramp Opening, Width is 3.02 m.
+The Cargo Hold, Length is 12.31 m.
+The Cargo Hold, Height is 2.74 m.
+The Cargo Hold, Width is 3.02 m.
+The Cargo Volume is 127.4 cu m.
+The Weight, Unloaded is 34,686 kg.
+The Maximum Takeoff Weight is 69,750 kg.
+
+Here is Automotive information for the EC-130H (Compass Call) American Airborne Electronic Warfare System:
+The Engine Name is 4 x Allison T56-A-15.
+The Engine Type is Turboprop.
+The Engine Power is 4,591 shp each.
+The Fuel Capacity is 36,636 liters internal.
+The Maximum Speed is 589 km/h.
+The Economy Speed is INA.
+The Stall Speed is 185 km/h.
+The Ceiling is 7,077 m.
+The Takeoff Run is 1,091 m.
+The Landing Run is 518 m.
+The Rate of Climb is 579 m/min.
+
+Here is Fire Control / Avionics information for the EC-130H (Compass Call) American Airborne Electronic Warfare System:
+The Navigation Radar is AN/APN-241 weather and navigational radar..
+The Communications Upgrade is The communication suite upgrades include more multi-asset coordination nets; modernized data link terminals; and expansion of satellite communications connectivity..
+The Radar Upgrade is Early warning/acquisition radar and navigation systems performance improved with higher radiated energy and extended frequency range..
+
+Here is Mission Systems information for the EC-130H (Compass Call) American Airborne Electronic Warfare System:
+The Tactical Radio Acquisition and Countermeasures Subsystem (TRACS C) is Digital, programmable receiver suite enabling target acquisition..
+The Special Emitter Array (SPEAR) Jamming Pod is Active jamming system with two-way data link capability..
+
+Here is Protection information for the EC-130H (Compass Call) American Airborne Electronic Warfare System:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is Yes, countermeasures include chaff, flares, active and passive RF decoys, and active and passive electro-optical decoys..
+The Chaff/Flares is Yes.
+The AAR-54 Passive Missile Approach Warning System (PMAWS) is Aircraft Protection System..
+The ALE-47 TACDS is Advanced countermeasure dispensing system..
+The AN/AAQ-24(V) Directed Infrared Countermeasures (DIRCM) System is Advanced IR countermeasure to defeat IR homing missiles..
+

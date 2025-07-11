@@ -1,0 +1,45 @@
+This document describes the Piranha Ukrainian Tracked Unmanned Ground Vehicles (UGV).
+
+The Piranha Ukrainian Tracked Unmanned Ground Vehicles (UGV)  is designed for combat use but can also fulfil other roles.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the Piranha Ukrainian Tracked Unmanned Ground Vehicles (UGV):
+The Alternative Designation is Piranha.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is Ukroboronprom.
+The Configuration is Tracked.
+The Crew is Unmanned.
+The Operator is The vehicle is controlled by an operator control unit that has a daylight readable display..
+The Sensors is The Piranha will be fitted with an Intelligence, Surveillance, and Reconnaissance (ISR) payload, which will include the Anti-Sniper. The Anti-Sniper is a sensor system designed for surveillance tasks and for countering snipers..
+The Software is A number of autonomous capabilities are available, such as return to base (especially in loss of communication with the operator), follow me, and waypoint navigation..
+
+Here is Dimensions information for the Piranha Ukrainian Tracked Unmanned Ground Vehicles (UGV):
+The Length is 1.5 m.
+The Width is 0.98 m.
+The Height is 0.50 m.
+The Wheelbase is 100 mm.
+The Weight, Combat is 100 kg.
+The Ground Clearance is 190 mm.
+
+Here is Automotive information for the Piranha Ukrainian Tracked Unmanned Ground Vehicles (UGV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Amphibious is No.
+The Maximum Speed is 25 km/h.
+The Operating Distance is 20 km power reserve.
+The Maximum Gradient is 30°.
+The Side Slope is 25°.
+The Endurance is INA.
+
+Here is Communications information for the Piranha Ukrainian Tracked Unmanned Ground Vehicles (UGV):
+The Note is The Piranha can operate via a secure radio link or fibre cable..
+
+Here is Main Weapon System information for the Piranha Ukrainian Tracked Unmanned Ground Vehicles (UGV):
+The Note is In its combat configuration, the platform has been fitted with a stabilized rotating platform to mount various weapon types. This includes a 12.7 mm heavy machine gun (MG) NVST, which is capable of firing at distances of 1 km and can traverse 360°. A 7.62 mm PKT or 40 mm grenade launcher UAG-40, which has a range of between 2 and 10 km, can also be incorporated..
+
+Here is Protection information for the Piranha Ukrainian Tracked Unmanned Ground Vehicles (UGV):
+The Armor is INA.
+The Applique Armor is INA.
+

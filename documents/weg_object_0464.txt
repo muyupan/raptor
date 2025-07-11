@@ -1,0 +1,76 @@
+This document describes the Lynx Israeli Multiple Rocket Launcher (MRL).
+
+Lynx is a multiple rocket launcher system developed and manufactured by Israel Military Industries (IMI) and used by Israel Defense Forces and other countries (Lynx is both the launcher module which can fit on various mounts, and the name of the Israeli launcher-vehicle system).
+
+It can be configured to carry a variety of rockets in two sealed pod containers: 40 (2 pods x 20 rockets each) 122mm Grad rockets; or 26 (2x13) 160mm LAR-160 or ACCULAR rockets; or eight (2x4) 306mm EXTRA rockets; or four (2x2) Predator Hawk tactical ballistic missiles; or two (2x1) Delilah missiles.  The Lynx's sophisticated fire control system has been designed to automatically identify the sealed pod container rocket to set firing properties accordingly. 
+
+The Lynx can be mounted on several different types of prime movers to include the AMX-13, helicopters, and the HMMWV.
+
+Note: The LAR (Light Artillery Rocket) family of systems includes launchers for any rocket regardless of length, diameter, weight, range or payload designed to meet load-carrying capacity. It is flexible, supporting 8, 10, or 13 rockets in 1 or 2 sealed launch pod containers.
+
+This equipment has proliferated into the following countries: Argentina, Azerbaijan, Chile, Georgia, Kazakhstan, Romania, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the Lynx Israeli Multiple Rocket Launcher (MRL):
+The Azerbaijan Lynx is Indigenous MRL/missile TEL with Lynx launcher on 8x8 Kamaz-6350 truck. With autonomous FCS, it launches 122 / 160 mm rockets, or EXTRA ballistic missiles.
+The Naiza is Kazakh import/production MRL with Lynx for LAR-160 on Kamaz truck.
+The LAROM is Romanian 2-module MRL can launch 122-mm Grad or LAR-160 rockets.
+
+Here is System information for the Lynx Israeli Multiple Rocket Launcher (MRL):
+The Alternative Designations is NA.
+The Crew is 3-6.
+The Chassis/Carriage is Various to include helicopters.
+The Primary Components is Transporter-erector-launcher (TEL) and Mobile Command Post (MCP) van. Reload Modules will be trans-loaded at a TL point from a trans-loader truck with four modules, to service two launchers.
+The Operational Range is Missile dependent.  The LAR-160 has a max range of 45km.  See other missile data in "Ammunition".
+The Reload Time is 5.
+The Time Required to Launch All Rockets is Less than 60.
+
+Here is Dimensions information for the Lynx Israeli Multiple Rocket Launcher (MRL):
+The Height is INA.
+The Length is INA.
+The Width is INA.
+The Weight is INA.
+
+Here is Automotive Performance information for the Lynx Israeli Multiple Rocket Launcher (MRL):
+The Note is Dependent on users choice of platform.
+
+Here is LAR 160 information for the Lynx Israeli Multiple Rocket Launcher (MRL) of the Ammunition:
+The Minimum Indirect Fire Range (km) is 10.
+The Maximum Indirect Fire Range (km) is 45.
+The Warhead Weight (kg) is 110.
+The Rocket Length (m) is 3.48.
+The Rocket Diameter (mm) is 160.
+The Maximum Velocity (m/s) is 1022.
+The Warhead options is Frag-HE/PD or DPICM with time-fuze dispense.
+The Note is The LAR-160 Rocket is a modern free flight, fin-stabilized, solid propellant, surface-to-surface 160mm artillery rocket packed in a launch pod..
+
+Here is GRADLAR information for the Lynx Israeli Multiple Rocket Launcher (MRL) of the Ammunition:
+The Description is Israeli upgrade package with improved FCS converts MRLs for modules of 122-mm Grad rockets and 21- 45 km range. Any type of Grad 122-mm rocket can be used..
+
+Here is LAR-160 or LAR information for the Lynx Israeli Multiple Rocket Launcher (MRL) of the Ammunition:
+The Description is 160-mm rocket (13 per module) with a 45-km range. The warhead is a canister; to carry Frag-HE, sub-munitions, or any 155-mm round.
+
+Here is AccuLAR information for the Lynx Israeli Multiple Rocket Launcher (MRL) of the Ammunition:
+The Description is ACCULAR is an autonomous, surface-to-surface GPS guided rocket based on IMI’s LAR-160 artillery rocket. The missile has a range of 14-40 km, a diameter of 160 mm, a length of 3995 mm and a hit accuracy CEP of 10 meters.
+The missile’s guidance and navigation is performed by a Flight Computer (FC), which includes a GPS. The IMI jet thruster kit controls the missile by establishing a trajectory correction for precise target engagement.
+
+Range – 40 km
+Hit Accuracy – 10 meters CEP
+Navigation – GPS
+Warhead – 35 kg
+Number of Rockets/POD – 11.
+
+Here is EXTRA (Extended Range Artillery) information for the Lynx Israeli Multiple Rocket Launcher (MRL) of the Ammunition:
+The Description is The 300mm ballistic missile (4/launch module) ranges 150 km with a 10-m CEP. It has a 120-kg payload, and flies a ballistic trajectory, corrected with GPS. Various warheads are offered..
+
+Here is Delilah information for the Lynx Israeli Multiple Rocket Launcher (MRL) of the Ammunition:
+The Description is This cruise missile has a length of 3.2 m, weighing 230 kg. It cruises at Mach 0.3-0.7, and 8,600 m altitude. It can be launched from ships, aircraft, and the Lynx ground launcher (GL) to 250 km, with programmable guidance, and multiple waypoints. Delilah-GL has launch assist. Air, ship, and helicopter versions are offered. The missile uses GPS homing, or can loiter and use a CCD/FLIR seeker to home to target..
+
+Here is Fire Control information for the Lynx Israeli Multiple Rocket Launcher (MRL):
+The Collimator is INA.
+The Fire Control Computer is Yes.  System uses a modern C3I suite.  The launcher is operated by a computerized fire-control system, which is fully integrated with the ACCS, so enabling each one to operate as a one-gun battery.
+The Position Location System is GPS navigation.
+The Additional Notes is Guided Rockets and missiles on Lynx and other MRLs/TELs can use the Trajectory Correction System (TCS). TCS can control >12 rockets/missiles equipped for Inertial/GPS guidance, vs 12 separate targets. Accuracy is 10 m. India tested TCS on the Pinaka MRL, and uses it in the recently tested Prahaar SRBM..
+
+Here is Protection information for the Lynx Israeli Multiple Rocket Launcher (MRL):
+The Note is Platform dependent.
+

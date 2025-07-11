@@ -1,0 +1,56 @@
+This document describes the H215 Super Puma French Multi-Role Helicopter.
+
+The Airbus Helicopters H215 is an evolution of the twin-engine AS332 C1e/L1e aircraft intended for business and industrial operators. The H215 is a versatile, economic and robust helicopter that combines advanced avionics and a reliable platform for rugged multi-mission capabilities. It offers long range capabilities, power, speed, a large useful payload and very good lifting performance in hot and high environments. Both EASA and FAA certified, the aircraft is equipped with the latest, most modern technologies meeting the latest safety requirements of the market. This includes a glass cockpit and the renowned 4-axis autopilot used on the H225. The H215 helicopter was launched in November 2015 and the first production aircraft is scheduled to roll off the assembly line in Romania by 2017.
+
+This equipment has proliferated into the following countries: Argentina, Brazil, China, Ecuador, Greece, Switzerland, Thailand, Venezuela (Bolivarian Republic of).
+
+Here is System information for the H215 Super Puma French Multi-Role Helicopter:
+The Alternative Designation is H215.
+The Type is Multi-Role Helicopter.
+The Primary Function is The H215 is a 9-ton class twin-engine helicopter in the famous COUGAR / SUPER PUMA family. They combine the rugged experience of the AS532 / AS332 dynamic and basic assemblies with the most advanced avionics of the H225M. They also include full glass cockpit avionics and the latest generation autopilot. These aircraft are reliable, fast helicopters and have outstanding all weather capabilities: a great power reserve and high maneuverability. The powerful MAKILA 1A1 engines give them the ability to fly almost any mission, no matter the temperature and altitude. They ensure maximum operational safety, even in the most difficult situations (discretion, low vulnerability, crash survivability and icing conditions)..
+The Crew is 2 (pilot, co-pilot).
+The Passengers is 21-25.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the H215 Super Puma French Multi-Role Helicopter:
+The Length is 15.53 m.
+The Height is 4.92 m.
+The Main Rotor Diameter is 15.60 m.
+The Disc Area is 191.1 sq m.
+The Cabin Length is 6.05 m.
+The Cabin Width is 1.80 m.
+The Cabin Height is 1.55 m.
+The Cabin Volume is 11.4 cu m.
+The Empty Weight is 4,265 kg.
+The Maximum Takeoff Weight, with Internal Load is 9,000 kg.
+The Maximum Takeoff Weight, With Sling Load is 9,350 kg.
+The Internal Load Weight is 3,000 kg.
+
+Here is Automotive information for the H215 Super Puma French Multi-Role Helicopter:
+The Engine Name is 2 x Turbomeca Makila 1A.
+The Engine Type is Turboshaft.
+The Engine Power is 1,780 shaft hp each.
+The Cruise Speed is 251 kph.
+The Climb Rate is 426 m/min.
+The Hovering Ceiling, in Ground Effect is 2,800 m.
+The Hovering Ceiling, Out of Ground Effect is 1,650 m.
+The Range, with Internal Tanks is 871 km.
+The Range, with External Tanks is 1,260 km.
+
+Here is Main Gun System information for the H215 Super Puma French Multi-Role Helicopter:
+The Note is mix of air-to-surface missiles, 20-mm; or 7.62-mm gun pods, 7.62-mm door guns, and rocket pods; - or -2 x ASW torpedoes; or 2 x AM 39 Exocet missiles; or up to 6 AS15TT anti-ship missiles.
+
+Here is Fire Control and Avionics information for the H215 Super Puma French Multi-Role Helicopter:
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Navigation Radar is INA.
+
+Here is Protection information for the H215 Super Puma French Multi-Role Helicopter:
+The Add on Armor is INA.
+The Stealth Properties is None.
+The Heat Signature Reduction is INA.
+The NBC Protection is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

@@ -1,0 +1,154 @@
+This document describes the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System.
+
+The S-200 Volga (SA-5 Gammon**) is a Russian long-range, high-altitude strategic surface-to-air missile (SAM). It is a fixed-site, point defense SAM that relies on long-range early warning and ground control intercept radars (Big Back, Bar Lock, Tin Shield and Side Net ) for target tracking information and 5N62 series Square Pair** radar for fire control.
+
+This equipment has proliferated into the following countries: Algeria, Azerbaijan, Bulgaria, India, Iran (Islamic Republic of), Kazakhstan, Myanmar, North Korea (Democratic People's Republic of Korea), Poland, Syria, Turkmenistan, Ukraine, Uzbekistan.
+
+Here is Variants information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System:
+The SA-5a (S-200A Angara) is This missile attained initial operating capability in 1962 on the "Tallinn line" with conventional warheads. System includes a V-860/5V21 or V-860P/5V21A missile; range, 88 mi (160 km); and ceiling, 66,000 ft (20 km)..
+The SA-5b (S-200V Vega) is This version reached initial operating capability in 1970 with nuclear warhead. Other versions include the S-200 Vega with a V-870 missile and range 186 mi (300 km). Also: S-200M Vega-M with a V-880E/5V28E missile, export version, high-explosive warhead only, with a range of 155 mi (250 km) and, ceiling of 95,000 ft (29 km)..
+The SA-5c (S-200D Dubna) is The SA-5c’s initial operating capability was attained in 1975 with a dual-capable (nuclear or conventional) warhead and upgraded terminal homing capability. Characteristics include a 5V25V, V-880M/5V28M or V-880MN/5V28MN2 missile, with a range of 248 mi (400 km) and a ceiling of 125,000 ft (40 km)..
+The SA-5d is This designation was briefly used for the SA-X-12 Gladiator missile..
+The SA-5e is This variant attained initial operating capability in 1983 with a passive anti-radiation seeker. It was probably designed to be used against AWACS aircraft.
+
+Here is System information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System:
+The Alternative Designation is SA-5 Gammon; S-200 Angara (Russian system designation)
+S-200 Volga (Russian system designation)
+S-200 Vega (Russian system designation)
+V-860 (Russian missile designator)
+5V28 (Russian missile designator).
+The Type is A very long range, medium-to-high altitude surface-to-air missile (SAM) system..
+The Family is SA-5 Series.
+The In Service is 1967-Present.
+The Wars is First Libyan Civil War
+Syrian Civil War.
+The Crew is INA.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Fire on the Move is No.
+The Guidance System is Semi-active radar homing.
+
+Here is Dimensions information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System:
+The Missile Length is 10.72.
+The Wingspan is 2.85.
+The Mainbody Diamter is 0.85.
+The Solid Propellant Booster Length is 4.9.
+The Solid Propellant Booster Width is 0.48.
+The Note is Each Missile has four  jettisonable, wraparound solid propellant boosters.
+
+Here is Automotive information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System:
+The Engine is 4 x solid-fuel boosters; solid-fuel second stage.
+The Speed is Mach 4.
+The Maximum Range is 7.
+The Minimum Range is 300.
+The Maximum Altitude is INA.
+The Minimum Altitude is 35.
+
+Here is Missile Launcher information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System of the Missile System:
+The Name is INA.
+The Type is Rail.
+The Maximum Effective Range is 250.
+The Minimum Effective Range is The missile's minimum range of 60 km is due to the booster burn time and jettison requirements, limiting the system to engagements against relatively large unmaneuverable targets at ranges up to 250 km..
+The Note is Each Missile has four  jettisonable, wraparound solid propellant boosters.
+
+Here is Missile (Option 1) information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System of the Missile System:
+The Name is 5V21.
+The Type is HE-Frag.
+The Variant is Angara (A).
+The Length is 10.5.
+The Diameter is 86.
+The Booster Length is 4.9.
+The Booster Diameter is 0.48.
+The Effective Range is 150-180.
+The Maximum Speed is Mach 4.
+The Guidance System is Semi-active radar homing.
+
+Here is Missile (Option 2) information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System of the Missile System:
+The Name is 5V28.
+The Type is HE-Frag.
+The Variant is Vega (V).
+The Length is 10.7.
+The Diameter is 86.
+The Booster Length is 4.9.
+The Booster Diameter is 0.48.
+The Effective Range is 200.
+The Maximum Speed is Mach 4.
+The Guidance System is Semi-active radar homing.
+
+Here is Missile (Option 3) information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System of the Missile System:
+The Name is 5V28.
+The Type is HE-Frag, Nuclear.
+The Variant is Vega M (VM).
+The Length is 10.7.
+The Diameter is 86.
+The Booster Length is 4.9.
+The Booster Diameter is 0.48.
+The Effective Range is 250.
+The Maximum Speed is Mach 4.
+The Guidance System is Semi-active radar homing.
+
+Here is Fire Control System information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is No, due to booster burn time and jettison requirements.
+The Indirect Fire is Yes.
+The Fire Control Sensors is Yes.
+The IADS Integration is INA.
+The Guidance System is Semi-active radar homing.
+
+Here is Radar #1 information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is P-15M(2).
+The Type is Squat Eye.
+The Function is INA.
+The Frequency is C-band.
+The Range is 128.
+The Associated Weapon System is SA-3/5.
+The Recognition is Power 380kw.
+
+Here is Radar #2 information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is P-14.
+The Type is TALL KING.
+The Function is Electronic Warfare.
+The Range is 605.
+The Frequency is A Band.
+The Associated Weapon System is SA-5.
+The Recongintion is Scan 2-6rpm.
+
+Here is Radar #3 information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is PRV-11.
+The Type is SIDE NET.
+The Function is Height.
+The Maximum Range is 28 km.
+The Maximum Altitude is 32 km.
+The Frequency is E-band.
+The Associated Weapon System is SA-2/3/5.
+The Recognition is INA.
+
+Here is Radar #4 information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is INA.
+The Type is BACK NET.
+The Function is EW/GCI.
+The Range is 300 km.
+The Frequency is E-Band.
+The Associated Weapon System is SA-5.
+The Recognition is 3-6 rpm Scan.
+
+Here is Radar #5 information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System of the Fire Control:
+The Name is P-35/37.
+The Type is BAR LOCK.
+The Function is EW.
+The Range is 200 km.
+The Frequency is E/F-bands.
+The Associated Weapon System is SA-5.
+The Recognition is INA.
+
+Here is Protection information for the S-200 Dubna (SA-5 Gammon) Russian Surface-to-Air Missile (SAM) System:
+The Hull Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

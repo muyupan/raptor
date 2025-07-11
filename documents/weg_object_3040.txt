@@ -1,0 +1,44 @@
+This document describes the KV150 Chinese 4x4 Unmanned Ground Vehicle (UGV).
+
+The KV150 Chinese 4x4 Unmanned Ground Vehicle (UGV) is a small, wheeled EOD UGV.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the KV150 Chinese 4x4 Unmanned Ground Vehicle (UGV):
+The Alternative Designation is KV150.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is Shentuo Technology.
+The Mission is The KV150 Chinese 4x4 Unmanned Ground Vehicle (UGV) is a small, wheeled EOD UGV..
+The Configuration is 4x4.
+The Crew is Unmanned.
+The Control is The platform can be manually controlled or remotely controlled from 200 m up to 1 km away, which greatly guarantees the safety of the detonator..
+The Software is The KV150 is Robot Operating System (ROS) compatible..
+The Operating Temperature is –10 to +55°C.
+The Cameras is Various cameras and sensors are mounted on the vehicle that transmit high-definition images..
+The Payload Capacity is 50 kg.
+The Environmental is IP54.
+
+Here is Dimensions information for the KV150 Chinese 4x4 Unmanned Ground Vehicle (UGV):
+The Length is 0.98 m.
+The Width is 0.78 m.
+The Height is 0.91 m.
+The Weight is 100 kg.
+
+Here is Automotive information for the KV150 Chinese 4x4 Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Range is INA.
+The Maximum Speed is 5.4 km/h.
+The Operational Range, Manually Controlled is 200 m.
+The Operational Range, Remote Controlled is 1 km.
+The Fording Depth is 80 mm.
+The Endurance is 8 h.
+
+Here is Manipulator Arm information for the KV150 Chinese 4x4 Unmanned Ground Vehicle (UGV):
+The Note is The KV150 Chinese 4x4 Unmanned Ground Vehicle (UGV) incorporates duel manipulator  arms. Each arm weight 7.5 kg and each arm can lif tof up 6 kgs..
+
+Here is Protection information for the KV150 Chinese 4x4 Unmanned Ground Vehicle (UGV):
+The Armor is The unit is constructed from carbon fiber, aluminum alloy, and engineering plastics..
+The Applique Armor is No.
+

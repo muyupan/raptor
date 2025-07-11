@@ -1,0 +1,65 @@
+This document describes the PCL-161 Chinese 122mm Self-Propelled Howitzer (SPH).
+
+The PCL-161 Chinese 122mm Self-Propelled Howitzer (SPH) is a truck-mounted 122 mm self-propelled howitzer used by the Chinese People's Liberation Army Ground Force. The PCL-161 was designed to provide indirect fire support. It is much more efficient than towed howitzers and can briefly change its firing position.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the PCL-161 Chinese 122mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is PCL-161.
+The Type is Self-Propelled Howitzer (SPH).
+The Caliber is 122 mm.
+The Manufacturer is NORINCO.
+The Chassis is A new FAW military truck with 4x4 configuration..
+The Crew is 5.
+The Emplacement Time is INA.
+The Displacement Time is INA.
+The Note is A battery of these howitzers comprises around 6-9 truck-mounted howitzers and a battery command post vehicle..
+
+Here is Dimensions information for the PCL-161 Chinese 122mm Self-Propelled Howitzer (SPH):
+The Length is 8.3 m.
+The Barrel Length is 38 Calibers.
+The Width is INA.
+The Height is 2.8 m.
+The Weight, Combat is INA.
+
+Here is Automotive information for the PCL-161 Chinese 122mm Self-Propelled Howitzer (SPH):
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Maximum Range is 600 km.
+The Speed, Maximum Road is 90 km/h.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60 %.
+The Side Slope is 40 %.
+The Vertical Step is 0.5 m.
+The Trench is 0.5 m.
+The Fording is 1.0 m.
+
+Here is System information for the PCL-161 Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Weapon System:
+The Name is A modified version of the PL-96 122 mm field howitzer.
+The Type is Howitzer.
+The Caliber is 122 mm.
+The Elevation is INA.
+The Traverse is INA.
+The Maximum Firing Range is 18 - 27 km.
+The Maximum Rate of Fire is 4 -6 rpm.
+
+Here is Ammunition information for the PCL-161 Chinese 122mm Self-Propelled Howitzer (SPH) of the Main Weapon System:
+The Type is .
+The Caliber is 122 mm.
+The Shell is .
+The Armor Penetration is .
+The Basic Load is .
+
+Here is Fire Control System (FCS) information for the PCL-161 Chinese 122mm Self-Propelled Howitzer (SPH):
+The Computerized Fire Control System (FCS) is Yes.
+The Command Vehicle is Vehicle receives target information from artillery command vehicle..
+The Navigation System is Yes.
+The Positioning and Targeting System is Yes.
+
+Here is Protection information for the PCL-161 Chinese 122mm Self-Propelled Howitzer (SPH):
+The Hull Armor is Vehicle has a double armored cab.
+The Applique Armor is INA.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

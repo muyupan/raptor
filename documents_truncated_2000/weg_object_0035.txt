@@ -1,0 +1,107 @@
+This document describes the T-62 Russian Medium Tank.
+
+Hezbollah Proliferation. The T-62 is a Soviet main battle tank that was first introduced in 1961. As a further development of the T-55 series, the T-62 retained many similar design elements of its predecessor including low profile and thick turret armor. In contrast with previous tanks, which were armed with rifled tank guns, the T-62 was the first tank armed with a smoothbore tank gun that could fire APFSDS rounds at higher velocities. While the T-62 became the standard tank in the Soviet arsenal, it did not fully replace the T-55 in export markets due to its higher manufacturing costs and maintenance requirements compared to its predecessor. Although the T-62 was replaced in Russia and the successor states of the Soviet Union, it is still used in some countries and its design features became standardized in subsequent Soviet and Russian mass-produced tanks.
+
+The T-62 has a typical tank layout: driver's compartment at the front, fighting compartment in the center, and engine compartment in the rear. The four-man crew consists of the commander, driver, gunner, and loader. Although the T-62 is very similar to the T-55 and makes use of many of the same parts, there are some differences. These include the hull, which is a few centimeters longer and wider, the different road wheels, and differences in characteristic uneven gaps between road wheels. Unlike the T-54 and T-55 main battle tanks, the gaps between the last three pairs of road wheels are larger than the rest.
+
+The armament consists of the 115 mm U-5TS "Molot" (2A20) Rapira smoothbore tank gun with a two-axis "Meteor" stabilizer and 7.62 mm PKT coaxial general-purpose machine gun mounted on the right of the main gun. The 12.7 mm DShK 1938/46 antiaircraft heavy machine gun is mounted on the loader's hatch. It was optional until 1972 when all newly built tanks were fitted with the AA heavy machine gun. The tank carries 40 rounds for the main gun (although only 4 are placed in the turret, the rest are stored in the back of the fighting compartment and in the front of the hull, to the right of the driver) and 2500 rounds for the coaxial machine gun. All of the vehicle's armament is mounted in or on the round cast egg-shaped turret from the Ob'yekt 140 prototype main battle tank, mounted over the third pair of road wheels. The T-62 was armed with the world's first smoothbore tank gun, giving it considerably greater muzzle velocity than the Western 90 mm and 105 mm tank guns of its time. It can fire BM-3 APFSDS-T, BK-4, BK-4M HEAT and OF-18 Frag-HE rounds. The 115 mm gun introduced the first successful APFSDS ammunition, albeit with a steel penetrator. A smoothbore gun allowed a significantly better performance (from 10% to 20%) from HEAT ammunition, which was considered the main ammunition type for fighting enemy armor at medium and long ranges. The gun can be elevated or depressed between −6° and +16°. It is reloaded manually and gets automatically reset to +3.5° of elevation after it is fired if the stabilizer is enabled. Empty cartridges are automatically ejected outside the vehicle through a small hatch in the rear of the turret. The gun has a range of effective fire of about 4 km during day conditions and 800 m (with the use of night vision equipment) at night. This tank was fitted with a Meteor two-axis stabilizer, it allows the T-62 to aim and fire while moving, according to tests conducted by the US army the Meteor gave the T-62 a first hit probability of 70% for a moving target at 1000 meters with the tank moving up to 20 km/per hour. This gave the tank a good advantage in dynamic battlefields and breakthrough operations, especially in Central Europe where most tank battles would take place under the 1500 meters range.
+
+The T-62 uses torsion bar suspension. It has five pairs of rubber-tired road wheels, a drive sprocket at the rear, and an idler at the front on each side, with no return rollers. The first and last road wheels each have a hydraulic shock absorber. The tank is powered by the V-55 12-cylinder 4-stroke one-chamber 38.88-liter water-cooled diesel engine developing 581 hp (433 kW) at 2,000 rpm. This is the same engine as the one used in the T-55. Because the T-62 weighs more than the T-55, it is less maneuverable. Like the T-55, the T-62 has three external diesel fuel tanks on the right fender and a single auxiliary oil tank on the left fender. The tank carries 960 liters of fuel in its internal and external fuel tanks. Two optional 200-liter drum-type fuel tanks can be fitted on the rear of the vehicle for an increased operational range
+
+This equipment has proliferated into the following countries: Afghanistan, Algeria, Angola, Cuba, Egypt, Eritrea, Ethiopia, Iran (Islamic Republic of), Kurdistan, Libya, Mongolia, Non-State Actors, North Korea (Democratic People's Republic of Korea), Russian Federation, Syria, Tajikistan, Uzbekistan, Viet Nam, Yemen.
+
+Here is Variants information for the T-62 Russian Medium Tank:
+The T-62 (Model 1962) is This was an improved version of the first production vehicle, with a new engine deck and other detailed improvements..
+The T-62A (Model 1972) is This variant differs chiefly in the provision of a 12.7-mm DShKM machine gun for air defense. Changes in the turret shape and size were also made..
+The T-62 (Model 1975) is This was the final production model..
+The T-62D is This tank is fitted with the Drozd anti-tank missile defense system, passive armor, V-55U engine and R-173 communications system..
+The T-62K is This command variant is similar to the standard T-62 but with additional communications equipment and the TNA-3 land navigation system..
+The T-62M is This designates T-62s fitted with the Sheksna 9K116-2 (AT-12 Stabber**) laser-guided missile system; thermal sleeve for the cannon; passive armor; 12.7-mm anti-aircraft gun; Volna fire-control system with BV62 ballistic computer and laser rangefinder..
+The Other T-62M upgrades is There are a number of variations of the T-62M..
+The TO-62 flamethrower is This tank is fitted with a coaxially mounted flamethrower.
+The IT-2 is T-62 chassis fitted with a radio-controlled anti-tank guided weapon with a HEAT warhead and a 7.62-mm machine gun..
+The RO -115 is This is an Egyptian modified T-62 with a British 115-mm tank barrel..
+The T-62 with 120-mm gun is Giat Industries (now Nexter) has fitted a Giat 120-mm smoothbore gun..
+The TP-62 is Bulgarian designation used for the T-62 firefighting vehicle..
+The T-62ME Upgrade Package is Middle Eastern users with a integrated a 120-mm Uralmashzavod-developed smoothbore gun..
+The T-62 upgrade is Transport Engineering in Omsk has developed an advanced upgrade package for the T-62..
+The TV-62M ARV is Bulgarian T-62s converted for recovery missions..
+The KMDB T-62 upgrades is Ukraine upgradedT-62..
+
+Here is Dimensions information for the T-62 Russian Medium Tank:
+The Length, Total is 6.63.
+The Length, Gun Forward is 9.33.
+The Width is 3.30.
+The Height is 2.40.
+The Weight, Combat is 40,000.
+The Weight, Unloaded is 38,000.
+The Ground Clearance is 425.
+The Ground Pressure is 0.77 kg/sq cm.
+The Track, Length on Ground is 4.15.
+The Track Width is 580.
+
+Here is Automotive information for the T-62 Russian Medium Tank:
+The Engine Name is 1 x V55-5.
+The Engine Type is V-12 water-cooled diesel.
+The Engine Power is 580 hp at 2,000 rpm.
+The Power-to-Weight Ratio is 4.5 hp/metric ton.
+The Fuel Capacity, Internal is 675 liters.
+The Fuel Capacity, External Fixed is 285 liters.
+The Fuel Capacity, External Jettisonable is 400 liters.
+The Transmission is manual synchromesh transmission; 5 forward/1 reverse gears.
+The Speed, Maximum Road is 50.
+The Speed Maximum Swim is Not Amphibious.
+The Operational Range with Normal Fuel and on Paved Roads is 450 km.
+The Operational Range with Normal Fuel on Dirt Roads is 320 km.
+The Operational Range  with External Fuel Tanks is 650 km.
+The Suspension is torsion bar, five road wheels, rear drive, front  idler, two shock absorbers on each side.
+The Graident is 60.
+The Vertical Obstacle is 0.80 m.
+The Trench is 2.80 m.
+The Fording without Preparation is 1.40 m.
+The Fording with Snorkel is 5.50 m.
+
+Here is System information for the T-62 Russian Medium Tank of the Main Gun:
+The Name is 1 x 115-mm/55-cal U-5TS (2A20) Rapira 2.
+The Type is Tank Gun.
+The Caliber is 115.
+The Barrel Length is 6.05 m.
+The Carriage is 115 x 728 mmR.
+The Rate of Fire is 6–10/minute.
+The Muzzle Velocity is 1,600 m/s (APFSDS).
+The Effective Firing Range is 2,000 m-high target – 1,870 m; 3 m-high target – 2,260 m; 4,000 m AT-12 missile..
+The Maximum Elevation is +17.
+The Minimum Elevation is -4.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+
+Here is Ammunition information for the T-62 Russian Medium Tank of the Main Gun:
+The Name is 3VBM-1.
+The Type is Armour-piercing fin-stabilized discarding sabot (APFSDS).
+The Caliber is 115.
+The Armor Penetration is INA.
+The Basic Load is 40 Total Rounds (Typically 12 x HVAPFSDS, 6 x HEAT and 22 x HE-FRAG; also fires 115-mm  Sheksna laser-guided missiles..
+
+Here is Fire Control information for the T-62 Russian Medium Tank:
+The Name is INA.
+The Computerized FCS is No.
+The Main Gun Stabilization is INA.
+The Commander's Day Sight is 5x magnification, 10-deg field of view (FOV).
+The Commander's Night Sight is 4.2x magnification, 8-deg FOV, 1,312-ft (400-m)  range w/OU-3GK searchlight.
+The Gunner Sight is TSh2B-41u telescope w/3.5x magnification, 18-deg FOV or 7x magnification, 8-deg FOV TPN1-41-11 IR sight w/3.5x magnification, 6-deg.
+The Optics is Some may have laser rangefinder and passive night-vision system.
+The Driving Aids is Some have GPK-48 or -59 directional gyro driving aids; GPK-48 is accurate for 15 min w/out resetting; GPK-59, accurate for 90 min w/out  resetting (some have map coordinate and  direction indicator;) earlier version was
+suitable for 100-km grid square and the later version was expanded to 1,000-km grid square.
+
+Here is Protection information for the T-62 Russian Medium Tank:
+The Hull Armor is Front: 102mm; Sides; 79mm; Rear: 46mm; Top: 31mm.
+The Turret Armor is Front: 242mm; Sides: 153mm; Rear: 97mm; Top: 40mm; Hatches: 30mm.
+The Applique Armor is Available.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is The KMT-5 mineclearing plow-roller set consists of two plows and two roller sections of three rollers each. This combination is attached to the front of a tank hull. Stretched between the roller sections is a "dogbone" assembly which consists of a light chain and small roller weights. Using a dragging motion, the "dogbone" covers the exposed area between tank tracks, thus exploding tilt-rod mines. The flexibility of the KMT-5 allows the use of plows or rollers depending on the terrain, type of soil and fuse types encountered. The KMT-5 can be used with the T-54/55, T-62, T-64, and T-72 tanks. The system can withstand approximately nine explosions that have a capacity of five to six kg. It is fitted with a quick-release disconnect unit to allow the tank driver to release the set rapidly. One other capability is that the KMT-5 may be used during night operation, using the luminous lane-marking device (PSK equipment) which marks the clear lane at night with a luminous substance. The T-62, fitted with the KMT-5, has limited speeds of 10 to 15 km/h with the plow in the raised position, and 6 to 8 km/h with the plow in the down position. It has a limited turning radius of 65-m and can not cross ditches wider than 2.5-m. The only limitation known on the T-54/55 is that the plow and the rollers can not be used at the same time..
+The Self-Entrenching Blade is Yes.
+The NBC Protection is PAZ collective nuclear warning and protection system blower/dust separator removes fallout no  chemical or biological agent filters.
+The Smoke Equipment is Generated from the engine exhaust.
+

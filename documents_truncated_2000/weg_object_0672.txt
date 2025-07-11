@@ -1,0 +1,36 @@
+This document describes the PL-2B Chinese Air-to-Air Missile.
+
+PL-2B Chinese Air-to-Air Missile
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the PL-2B Chinese Air-to-Air Missile:
+The PL-2 is In 1962, China decided to manufacture former-Soviet Vympel K-13 AAM, and works on setting up the production line begun immediately. The main contractor to provide the production equipment was Easter Machinery Factory in Xi'an (西安东方机械厂), and over two dozen subcontractors were also involved. In October 1964, Zhuzhou Aero-engine Factory (株洲航空发动机厂) of the Ministry of Aviation Industry was selected as the main contractor of the AAM, and a month later, in November 1964, work on components of the AAM started. By September 1965, all components were completed and individually tested successfully. In November 1966, the 1st batch of production was completed with 18 missiles, and other soon followed, and tests were conducted. After two major test events both completed successfully, the 1st of which was in March 1967 with firing of 19 missiles and the 2nd of which was in May 1967 with firing of 22 missiles, the missile received state certification in November 1967..
+The PL-3 is PL-3 was the first indigenously developed AAM in China. Originally, the idea was to build an improved version of Vympel K-13 in increasing speed, range, precision, lethality and maneuverability. The main contractor was the 612th Research Institute (later reorganized as Luoyang Electro-Optics Technology Development Centre (EOTDC)).
+
+However, after the program begun in June 1962, the original goal proved to be too technologically ambitious for the Chinese industry back then to achieve. Additionally, Cultural Revolution occurred several years later also greatly affected the progress of the PL-3 program. As a result, PL-3 project had borrowed heavily from PL-2 and the program was protracted: after the 1st batch of 20 missiles completed in June 1968 and the 2nd batch of 30 completed in December 1969, the necessary tests was not completed until November 1974, four years after the initial start in 1970. The missile finally received its state certification in April, 1980, and 50 production version missiles was completed by 1981. However, during training and evaluations, it was revealed that PL-3 did not significantly outperform PL-2, and furthermore, all experience gained from PL-3 can be readily incorporated in the PL-2 improvement efforts, so there was no need to have an additional separate AAM program when the requirement could be meet by just one..
+The PL-5 is PL-5 is a further Chinese development of PL-2. Although earlier PL series have been developed from the former-Soviet Vympel K-13, all of them were infrared guided. PL-5 AAM is the first Chinese attempt to follow the former-Soviet practice of develop both Semi-active radar homing (SARH) and infrared guidance for the same missile, and the main contractor was the 612th Research Institute (later reorganized as Luoyang Electro-Optics Technology Development Centre (EOTDC)).
+
+Work on the SARH version of PL-5 begun in April, 1966, and first test flight was conducted in July 1971. Live round test fire begun in September 1972, but due to Cultural Revolution that had serious disrupted and delayed production and development, all of the missiles of the first batch of production ran out before the test could be completed. It was not until April, 1984, well after the end of Cultural Revolution, when the 2nd batch was completed and tests were resumed in August 1984, finally completed in March 1982. However, tests and evaluation revealed that the SARH guided version was not adequate enough and this version was consequently cancelled in 1983.
+
+The infrared guided version of PL-5 was equally affected by the same political turmoil in China, and its development was delayed even further: it was not until September 1986 when this version finally received its state certification and the missile entered mass production in the same year..
+The PL-6 is Due to the prolonged delay of PL-3 AAM development, PL-3 AAM was already inadequate before its completion. A follow-up was planned to incorporate advance in microelectronics and lessons learned in the aerial combats, which is based on the feedback of Vietnam War. The reason for starting a new AAM was because of the inherit design limitation of PL-3 back then, it was difficult to incorporate the technological advances planned to be incorporated. The program was designated as PL-6 and begun in 1975, before PL-3 program was even completed. The main contractor was the 612th Research Institute (later reorganized as Luoyang Electro-Optics Technology Development Centre (EOTDC)).
+
+The first batch of missile was completed in 1978 and tests were successfully completed in 1979. However, PL-6 met the same fate of its predecessor, PL-3 in that during training and evaluations, it was revealed that PL-6 did not significantly outperform PL-3, and furthermore, all experience gained from PL-6 can be readily incorporated in the PL-2 improvement efforts, so there was no need to have an additional separate AAM program when the requirement could be meet by just one. Consequently, PL-6 program was drastically scaled back in 1981, and after very limited production, PL-6 was terminated in 1983..
+
+Here is PL-2B Air-to-Air Missile information for the PL-2B Chinese Air-to-Air Missile of the System:
+The Name is PL-2B.
+The Type is Air-to-Air Missile.
+The Manufacturer is Luoyang Electro-Optics Technology Development Centre (EOTDC).
+The Length is 2.99 m.
+The Diameter is 127 mm.
+The Wingspan is 528 m.
+The Weight is 76 kg.
+The Warhead is 11.3 kg high explosive.
+The Detonation Mechanism is Impact / Proximity.
+The Propellant is solid fuel.
+The Operational Range is 10 km.
+The Flight Ceiling is 21,500 m.
+The Maximum Speed is Mach 2.5.
+The Guidance System is Nitrogen cooled passive InPb infrared seeker.
+

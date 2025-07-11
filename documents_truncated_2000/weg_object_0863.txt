@@ -1,0 +1,51 @@
+This document describes the Skylark I Israeli Unmanned Aerial Vehicle (UAV).
+
+The Skylark I is designed as a man-packed system for tactical surveillance and reconnaissance. The Skylark is launched by hand. The payload consists of a daylight CCD or optional FLIR for night operations. During operation, it sends real-time video to a portable ground station. Recovery involves a deep stall maneuver, landing on a small inflatable cushion. It has a range of 40 km.
+
+It has been deployed in Afghanistan and Iraq.  The Skylark I has also been selected by France's Special Forces in March 2008.  Previous operators, who have now retired the system, include Australia and Canada. In total, it has been selected by more than 20 operators worldwide.
+
+This equipment has proliferated into the following countries: Croatia, France, Georgia, Honduras, Hungary, Israel, Mexico, Myanmar, Netherlands, Poland, Slovakia, Sweden, Uruguay.
+
+Here is Variants information for the Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Skylark I LE Block II is Hydrogen fueld cell propulstion engine, 7 hrs or greater endurance..
+The Skylark I-LEX Mini Unmanned Aircraft System (UAS) is Skylark I-LEX is a new generation, man-portable, electric-propelled, mini unmanned aircraft system (UAS) manufactured by Elbit Systems..
+
+Here is System information for the Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Alternative Designation  is Skylark I.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Elbit Systems.
+The Flight Control is GPS positioning, autonomous preprogrammed flight.
+The Flight Control Method is Sprectralink data link.
+The Ground Crew is 2 ea.
+The Ground Control is Handheld, Mini Ground Control Unit, color console.
+
+Here is Dimensions information for the Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Length, Overall is 2.2.
+The Length, Wing Span is 2.4.
+The Weight, Maximum Launch is 5.5.
+
+Here is Launch and Recovery information for the Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Launch Method is Hand or bungee launched.
+The Recovery/Landing Method: is One button auto return, steep stall, inflatable cushion.
+
+Here is Automotive information for the Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric, battery powered.
+The Engine Power is INA.
+The Propulsion is Two blade propeller.
+The Radius of Operation  is 10.
+The Ceiling, Maximum (normal)  is 455.
+The Endurance  is 1 hr, 30 min.
+The Speed, Maximum  is 111.
+The Speed, Cruising  is 65.
+The Maximum Range is 40 km.
+The Ceiling, Service  is 5.
+
+Here is Payload information for the Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Description is Color CCD 10x zoom lens.
+The Payload Downlink is D/E-band telemetry/video.
+The Payload Uplink is Analog, encrypted, UHF.
+The Payload User Image Capabilities is All images can be overlaid on a downlinked integrated map.
+The Type is Optical Camera.
+The Type is User Image Capabilities.
+

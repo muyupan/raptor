@@ -1,0 +1,149 @@
+This document describes the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette.
+
+Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette is primarily intended for coast defense operations. These very large surface-effect ship corvettes have proven mechanically unreliable. Completion of these units was much delayed and they probably are not effective combat units. Two vessels have been built by the plant for the Russian Navy according to this project: «Bora» (1989) and „Samum“ (1999). The two ships were in service, with a future series intended for the Russian Federation's Black Sea/Baltic Fleets.
+
+The key design feature of this hydrodynamic configuration is an air cushion that separates the hull from the water surface, combined with maintaining contact with the water surface by means of sidewalls. The latter provide very low resistance to motion of the ship, but significantly reduce air loss from the air cushion area, partially unload the cushion, increase course-keeping stability and ship steering performance.
+
+The Russian missile-carrying hovercraft is meant to carry out missile attacks on ships. It is the largest military hovercraft unmatched anywhere in the world. With the displacement of 1000 tons, the craft has a cruising speed of 100 kilometers an hour. With blowers on, the air cushion enables achieving a speed of more than 50 knots. In addition, intermediate speed modes with reduced air supply to the air cushion zone are available. This is called «multimode motion capability» – a property no other ship in the world can boast.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette:
+The Bora (ex-Sivuch) is Commissioned: 1989
+Status: Active
+Fleet: Black Sea Fleet.
+The Samum is Commissioned: 2000
+Status: Active 
+Fleet: Black Sea Fleet.
+
+Here is System information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette:
+The Alternative Designation is Bora Class; Project 1239 Class; NATO: Dergach Class.
+The Type is Hoverborne Guided Missile Corvette.
+The Builder is Zelenodolsk Gorky Plant, Kazan
+(Chief Designer - L. Elssky).
+The Crew is 68.
+
+Here is Dimensions information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette:
+The Length is 66 m.
+The Beam is 17 m.
+The Draft is 3.0 m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 1,050 tons.
+
+Here is Propulsion System information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette:
+The Engine Name is Twin M10-D1 type.
+The Engine Type is Diesel.
+The Engine Power is 60,000 hp.
+The Range is 4,600 km at 12 knots or 1,500 km at 55 knots.
+The Maximum Speed is 55 knots (102 km/h).
+The Endurance is 10 days.
+
+Here is Gun Weapon System #1 information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette of the Gun Weapon Systems:
+The Name is 1 x AK-176.
+The Type is Naval Gun.
+The Caliber is 76.2 mm.
+The Crew is 2.
+The Length is 4,484 mm.
+The Weight is 16,800 kg.
+The Barrels is 1.
+The Elevation is -15° to +85°.
+The Traverse is ±175°.
+The Rate of Fire is 120 rds/min.
+The Muzzle Velocity is 980 m/s.
+The Maximum Firing Range is 15.5 km.
+The Effective Firing Range is 10 km.
+The Feed System is 152 ready to fire rounds.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.2 mm.
+The Shell Weight is 12.4 kg.
+The Basic Load is 360 Rounds.
+
+Here is Gun Weapon System #2 information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette of the Gun Weapon Systems:
+The Name is 2 x AK-630 CIWS.
+The Type is Close-In Weapon System.
+The Caliber is 30 mm.
+The Main Armament is 1 or 2 AO-18 autocannons.
+The Secondary Armament is 4 x 9A417 Missiles.
+The Crew is 1.
+The Barrel Length is 1,629 mm.
+The Height is 1,070 mm above deck.
+The Weight is 1,000 kg gun mount.
+The Barrels is 6.
+The Action is Gas-operated rotary cannon.
+The Elevation is +88° ... -12° (50°/sec).
+The Traverse is ±180° (70°/sec).
+The Rate of Fire is 4,000–5,000 rounds/min.
+The Muzzle Velocity is 880–900 m/s.
+The Maximum Firing Range is the projectiles self-destruct past 5,000 m..
+The Effective Firing Range is 4,000 m (aerial);
+5,000 m (maritime).
+The Feed System is 2,000 rounds (additional 1,000 rounds in reserve feed bin.
+The Sights is Radar / TV-optical.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette of the Gun Weapon Systems:
+The Type is HEI-Frag, Frag-T.
+The Caliber is 30 mm.
+The Shell Weight is 0.39 kg.
+The Basic Load is 6,000 Rounds.
+
+Here is Missile Weapon System #1 information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette of the Missile Weapon System:
+The Name is 2 x P-270 Moskit.
+The Type is Anti-Ship Cruise Missile.
+The Launcher is 2 × Quadruple MT-206ME launchers.
+The Length is 9.745 m.
+The Diameter is 0.8 m.
+The Wingspan is 2.10 m.
+The Warhead Weight is 150 kg.
+The Weight is 4,500 kg.
+The Engine is 4 x ramjets.
+The Guidance System is inertial guidance plus terminal active radar homing.
+The Range is 250 km.
+The Flight Altitude is 20 m above sea level.
+The Maximum Speed is Mach 3.
+The Basic Load is 2 x P-270 Moskit Anti-Ship Cruise Missile.
+
+Here is Missile Weapon System #2 information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette of the Missile Weapon System:
+The Name is 20 x 9M33M2 Missiles.
+The Type is Surface-to-Air Missile System.
+The Launcher is 1 × 9K33M "Osa-MA" type Surface-to-Air Missile System.
+The Length is 3,158 mm.
+The Diameter is 209.6 mm.
+The Weight is 170 kg.
+The Engine is Solid propellant rocket motor.
+The Guidance System is RF CLOS.
+The Range is 15 km.
+The Flight Altitude is 12,000 m.
+The Accuracy is 5 m.
+The Basic Load is 20 x 9M33M2 Missiles.
+
+Here is Missile Weapon System #3 information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette of the Missile Weapon System:
+The Name is 8 x 9M36 Missiles.
+The Type is Man-Portable Air Defense Missile System (MANPADS).
+The Launcher is 8 x 9K38 Igla man-portable shoulder mounted surface-to-air missile launcher.
+The Length is 1.47 m.
+The Weight is 10.3 kg.
+The Range is 4,500 m.
+The Flight Altitude is 1,800 m vs jets;
+3,000 m vs slow moving targets.
+The Maximum Speed is 470 m/s.
+The Basic Load is 8 x 9M36 Missiles.
+
+Here is Fire Control System (FCS) information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette:
+The AK-630 CIWS FCS is 1 x MR-123 Fire Control System.
+The AK-176 FCS is 1 x MR-123-01 Vympel-AFire Control System.
+The 9K33M "Osa-MA" type Surface-to-Air Missile System FCS is 1 x 4R-33AM Fire Control System.
+
+Here is Radar Systems information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette:
+The Target and Detection Radar is 1 x Monolit-E / Monument-E target detection and designation radar.
+The Air / Surface Radar is 1 x Pozitiv-ME1 air/surface search radar.
+
+Here is Sonar Systems information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette:
+The Anti-Saboteur Sonar is 1 x Anapa-ME1 sonar.
+
+Here is Protection information for the Bora-Class (Project 1239 Class) Russian Hoverborne Guided Missile Corvette:
+The Hull Armor is The hovercraft has an aluminum hull. The key design feature of this hydrodynamic configuration is an air cushion that separates the hull from the water surface, combined with maintaining contact with the water surface by means of sidewalls. The latter provides very low resistance to motion of the ship, but significantly reduce air loss from the air cushion area, partially unload the cushion, increase course-keeping stability and ship steering performance..
+The Countermeasures is 1 × DP-64 anti-saboteur grenade launcher.
+The NBC Water Washdown System is Yes.
+

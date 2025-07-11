@@ -1,0 +1,69 @@
+This document describes the DJI Matrice 300 RTK Chinese Unmanned Aerial Vehicle (UAV).
+
+The DJI Matrice 300 RTK Chinese Unmanned Aerial Vehicle (UAV) has created a new standard for the commercial drone industry. With inspiration from modern aviation systems, the DJI Matrice 300 RTK offers up to 55 minutes of high-performance flight time with TB60 Batteries combined with unrivaled reliability. The advanced flight control system, 6 Directional Sensing and Positioning system, AI spot-checking, Smart Track, PinPoint, Location Sharing, and an all-new Primary Flight Display make the Matrice 300 RTK one of the most powerful and capable industrial platforms on the market.
+
+The airframe design of the Matrice 300 RTK gives the system an Ingress Protection (IP) rating of IP45, while its mechanical design with quick-release landing gear and folding arms make the platform incredibly easy to transport, store and prepare for flight. Batteries for the Matrice 300 RTK are charged and can be stored and transported in the DJI BS60 Battery Station which is capable of carrying up to eight TB60 batteries and two WB37 remote controller batteries.
+
+The DJI M300 RTK is compatible with many of DJI's camera and sensor payloads, along with official DJI PSDK payloads currently available. The platform's multi-gimbal system allows for gimbal configurations that consist of the following: single downward, single upward, dual downward, single upward + single downward, or single upward + dual downward. The variety of gimbal configurations gives the Matrice 300 RTK ultimate flexibility and put it in a class of its own with its triple payload ability with a maximum payload capacity of 6 lbs.
+
+Anti-collision beacons and strobes on both the top and bottom of the airframe meet the FAA's 3 statute mile visibility requirement for night operations with an FAA 107.29 daylight operations waiver. These beacons allow the aircraft to be seen and identified at night or in low-light flying conditions while enhancing operational safety.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the DJI Matrice 300 RTK Chinese Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is DJI Matrice 300 RTK.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is SZ DJI Technology Co., Ltd. or Shenzhen DJI Sciences and Technologies Ltd.
+The Crew is Unmanned.
+The Operating Frequency is 2.4000-2.4835 GHz
+5.725-5.850 GHz.
+The Transmitter Power (EIRP) is 2.4000-2.4835 GHz:
+29.5 dBm (FCC); 18.5dBm (CE)
+18.5 dBm (SRRC); 18.5dBm (MIC)
+5.725-5.850 GHz:
+28.5 dBm (FCC); 12.5dBm (CE)
+28.5 dBm (SRRC).
+The GNSS is GPS+GLONASS+BeiDou+Galileo.
+The Payload Capacity is 2.7 kg.
+The Operating Temperature is -4°F to 122° F (-20°C to 50°C).
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+
+Here is Dimensions information for the DJI Matrice 300 RTK Chinese Unmanned Aerial Vehicle (UAV):
+The Length, Unfolded is 810 mm.
+The Width, Unfolded is 670 mm.
+The Height, Unfolded is 430 mm.
+The Length, Folded is 430 mm.
+The Width , Folded is 420 mm.
+The Height, Folded is 430 mm.
+The Diagonal Wheelbase is 895 mm.
+The Weight (with single downward gimbal) is Approx. 3.6 kg (without batteries)
+Approx. 6.3 kg (with two TB60 batteries).
+The Maximum Takeoff Weight is 9 kg.
+
+Here is Automotive information for the DJI Matrice 300 RTK Chinese Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Maximum Speed is INA.
+The Service Ceiling is 5000 m (with 2110 propellers, takeoff weight ≤ 7 kg) / 7000 m (with 2195 propellers, takeoff weight ≤ 7 kg).
+The Control Radius is INA.
+The Hovering Accuracy is Horizontal:
+±0.3 m (Vision System enabled)
+±1.5 m (GPS enabled)
+±0.1 m (RTK enabled).
+The RTK Positioning Accuracy is When RTK enabled and fixed:
+1 cm+1 ppm (Horizontal)
+1.5 cm + 1 ppm (Vertical).
+The Max Angular Velocity is Pitch: 300°/s, Yaw: 100°/s.
+The Max Pitch Angle is 30° (P-mode, Forward Vision System enabled: 25°).
+The Max Ascent Speed is S mode: 6 m/s
+P mode：5 m/s.
+The Max Descent Speed (vertical) is S mode: 5 m/s
+P mode：3 m/s.
+The Max Descent Speed (tilt) is S Mode: 7 m/s.
+The Max Speed is S mode: 23 m/s
+P mode：17 m/s.
+The Max Wing Resistance is 15 m/s.
+The Max Flight Time is 55 min.
+

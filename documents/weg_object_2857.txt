@@ -1,0 +1,40 @@
+This document describes the BRDM 2U Russian 4x4 Command and Control Vehicle.
+
+The BRDM-2U command vehicle has no turret but carries a generator and extra radios. The increased number of antennas marks this version as a command and control vehicle. It is found in battalion and regimental headquarters of maneuver units and also is used extensively by artillery units.
+The BRDM-2U (BRDM-2UM) carries a 1 kW generator and extra radios (two R-123 and an R-107, or according to other sources one R-105M, one R-108M and one R-130M). On either side of the upper hull there is a big antenna base.
+
+This equipment has proliferated into the following countries: Afghanistan, Algeria, Angola, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Cambodia, Cameroon, Cuba, Czech Republic, Djibouti, Egypt, Eritrea, Estonia, Georgia, Germany, Guinea, Hungary, India, Indonesia, Iraq, Israel, Ivory Coast, Kyrgyzstan, Laos (People's Democratic Republic), Latvia, Libya, Lithuania, Macedonia, Madagascar, Maldives, Mali, Mongolia, Myanmar, Namibia, North Korea (Democratic People's Republic of Korea), Pakistan, Palestine, Peru, Poland, Romania, Russian Federation, Serbia, Slovakia, Slovenia, Somalia, Sudan, Syria, Tajikistan, Tanzania, Turkmenistan, Ukraine, United States of America, Viet Nam, Zambia, Zimbabwe.
+
+Here is System information for the BRDM 2U Russian 4x4 Command and Control Vehicle:
+The Alternative Designation is BRDM-2UM, GAZ 41-08, BTR-40P-2, BTR-40PB.
+The Crew is 4.
+The Troop Compartment Capacity is 0.
+
+Here is Dimensions information for the BRDM 2U Russian 4x4 Command and Control Vehicle:
+The Length is 5.7.
+The Width is 2.75.
+The Height is 2.3.
+The Weight, Combat is 7.
+
+Here is Automotive information for the BRDM 2U Russian 4x4 Command and Control Vehicle:
+The Engine Name is GAZ-41 V8.
+The Engine Type is Gasoline.
+The Engine Power is 140.
+The Cruising Range is 750.
+The Speed, Maximum Road is 95.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 10.
+The Fording Depth is Amphibious.
+The Drive is 4x4 with 4 auxiliary wheels.
+
+Here is Radios information for the BRDM 2U Russian 4x4 Command and Control Vehicle of the Communications:
+The Configuration 1 is Two R-123 and one R-107.
+The Configuration 2 is One R-105M, one R-108M and one R-130M.
+
+Here is Protection information for the BRDM 2U Russian 4x4 Command and Control Vehicle:
+The Frontal Armor is 10.
+The Applique Armor is NA.
+The Active Protection System is NA.
+The NBC Protection is Collective.
+The Smoke Equipment is NA.
+

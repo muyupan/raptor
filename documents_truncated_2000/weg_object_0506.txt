@@ -1,0 +1,108 @@
+This document describes the Fadjr-5 Iranian 333mm Multiple Launch Rocket System (MLRS).
+
+The Fajr-5 ("Dawn") is an Iranian 333mm long-range multiple launch rocket system (MLRS). The Fajr-5 was developed during the 1990s and has since been exported to various armed actors in the Middle East. The Fajr is among the deadliest artillery rocket systems in the world.
+
+The Fajr-5 launcher fires four 6.48 meter long, 333mm, Fajr-5 artillery rockets, with a range of 75 kilometers (50 mi), weighing 915 kilograms each and carrying 175kg fragmentation warheads with 90kg of high explosive (HE). Most Fajr-5 rockets are unguided; in 2017 Iran introduced a variant, the Fajr-5C, which adds GPS guidance.
+
+The Fajr-5 is primarily used by the Iranian Army Ground Force to attack large, fixed, high-value targets, like airfields and military bases. In addition, the system is also used by anti-Israel militant and terrorist groups to target Israeli population centers. Finally, the system has a niche role in use by the IRGC-N as an unguided anti-ship rocket system for the Persian Gulf.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of), Libya, Syria.
+
+Here is Variants information for the Fadjr-5 Iranian 333mm Multiple Launch Rocket System (MLRS):
+The Fadjr 5C is Fadjr 5C is a new version unveiled in 2017. It uses 300 mm guided rockets similar to those of the Chinese SY-300. These have a range of up to 130 km. These rockets are accurate out to 200 meters using inertial guidance system, and out to 50 meters, using inertial guidance system with satellite navigation update. Due to significantly increased range and accuracy the Fadjr-5C is even more deadlier. It looks like the same launcher vehicle can use a mix of older 333 mm unguided rockets and new 300 mm guided rockets..
+
+Here is System information for the Fadjr-5 Iranian 333mm Multiple Launch Rocket System (MLRS):
+The Alternative Designation is Fadjr-5, Fajr-5.
+The Type is 333 mm Long-Range Multiple Launch Rocket System (MLRS).
+The Manufacturer is Iran.
+The In Service is 1990s-Present.
+The Family is Fadjr.
+The Crew is 5.
+The Chassis is Mercedes-Benz 2631 truck chassis.
+The Control Cab is The forward control cab accommodates 3 crew members, while the rest are seated in the rear cab..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Reload Truck is Reload rockets are carried by escorting military truck, fitted with a crane..
+The Note is The Fajr is among the deadliest artillery rocket systems in the world..
+
+Here is Dimensions information for the Fadjr-5 Iranian 333mm Multiple Launch Rocket System (MLRS):
+The Length is 10.4.
+The Width is 2.5.
+The Height is 3.3.
+The Weight, Combat is 15.
+
+Here is Automotive information for the Fadjr-5 Iranian 333mm Multiple Launch Rocket System (MLRS):
+The Engine Name is Mercedes-Benz, model: INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Cruising Range is 600.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is INA.
+The Side Slope is INA.
+The Vertical Step is 0.5.
+The Trench is 0.5.
+The Fording Depth is 1.
+
+Here is Communications information for the Fadjr-5 Iranian 333mm Multiple Launch Rocket System (MLRS):
+The Primary is INA.
+
+Here is Launcher information for the Fadjr-5 Iranian 333mm Multiple Launch Rocket System (MLRS) of the Rocket System:
+The Name is INA.
+The Type is Tube Launcher.
+The Number of Tubes is 4.
+The Full Salvo is 12-32.
+The Reloading Time is INA.
+The Maximum Range of Fire is 75.
+The Warhead Types is High explosive fragmentation, incendiary, smoke and cluster warheads..
+
+Here is Rocket (Option 1) information for the Fadjr-5 Iranian 333mm Multiple Launch Rocket System (MLRS) of the Rocket System:
+The Name is INA.
+The Type is Basic Rocket, One-Stage Rocket.
+The Caliber is 333.
+The Weight is 907.
+The Warhead Weight is 175.
+The Warhead Type is Fragmentation high explosive.
+The Firing Range is 75.
+The Guidance System is Unguided artillery rockets.
+The Fragmentation Radius is 500.
+The Maximum Range of Fire is 75.
+The Burn Time is 5.3 Seconds.
+The Shelf Life is 15 years.
+
+Here is Rocket (Option 2) information for the Fadjr-5 Iranian 333mm Multiple Launch Rocket System (MLRS) of the Rocket System:
+The Name is INA.
+The Type is Two-Stage Rocket.
+The Length is 9.4.
+The Diameter is 561.
+The Fin Type is Fixed.
+The Maximum Range is 180.
+The Maximum Altitude is 85.
+The Warhead Type is INA.
+The Warhead Weight is 175.
+The Fragmentation Radius is 500.
+The Burn Time is INA.
+The Shelf Life is 15 years.
+
+Here is Fire Control information for the Fadjr-5 Iranian 333mm Multiple Launch Rocket System (MLRS):
+The Name is INA.
+The Computerized FCS is Yes.
+The Direct Fire is No.
+The Indirect Fire is Yes.
+The Fire on the Move is No.
+The Balistic Computer is Yes.
+The Main Gun Stabilization is Yes,  four hydraulically operated stabilizers are lowered to the ground before firing..
+The Note is The rockets can be launched from within the crew cab, or up to 1 km remotely from the vehicle..
+
+Here is Protection information for the Fadjr-5 Iranian 333mm Multiple Launch Rocket System (MLRS):
+The Hull Armor is protection from small arms fire and projectile splinters.
+The Turret Armor is protection from small arms fire and projectile splinters.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

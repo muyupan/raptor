@@ -1,0 +1,96 @@
+This document describes the 37 Viggen Swedish Multirole Aircraft.
+
+The Sssn 37 Viggen ("Thunderbolt")[Nb 1] is a retired Swedish single-seat, single-engine, short-medium range combat aircraft. Development work on the type was initiated at Saab in 1952 and, following the selection of a radical delta wing configuration, the resulting aircraft performed its first flight on 8 February 1967 and entered service in 21 June 1971. It was the first canard design produced in quantity. The Viggen was also the most advanced[vague] fighter jet in Europe until the introduction of the Panavia Tornado into operational service in 1981.
+
+Several distinct variants of the Viggen were produced to perform the roles of strike fighter (AJ 37), aerial reconnaissance (SF 37), maritime patrol aircraft (SH 37) and a two-seat trainer (SK 37). In the late 1970s, the all-weather fighter-interceptor aircraft JA 37 variant was introduced. In November 2005, the Viggen was retired from service by the Swedish Air Force, the only operator, having been replaced by the newer Saab JAS 39 Gripen.
+
+The Viggen was powered by a single Volvo RM8 turbofan This was essentially a licence-built variant of the Pratt & Whitney JT8D engine that powered commercial airliners of the 1960s, with an afterburner added for the Viggen. The airframe also incorporated a thrust reverser to use during landings and land manoeuvres, which, combined with the aircraft having flight capabilities approaching a limited STOL-like performance, enabled operations from 500 m airstrips with minimal support. The thrust reverser could be pre-selected in the air to engage when the nose-wheel strut was compressed after touchdown via a pneumatic trigger.
+
+The requirements from the Swedish Air Force dictated Mach 2 capability at high altitude and Mach 1 at low altitude. At the same time, short-field take-off and landing performance was also required. Since the Viggen was developed initially as an attack aircraft instead of an interceptor (the Saab 35 Draken fulfilled this role), some emphasis was given to low fuel consumption at high subsonic speeds at low level for good range. With turbofan engines just emerging and indicating better fuel economy for cruise than turbojet engines, the former was favoured, since the latter were mainly limited by metallurgy development resulting from limitations in turbine temperature. Mechanical simplicity was also favoured, so the air intakes were simple D-section types with boundary layer splitter plates, while the fixed inlet had no adjustable geometry for improved pressure recovery. The disadvantage was that the required engine would be very large. In fact, at the time of introduction, it was the second largest fighter engine, with a length of 6.1 m and 1.35 m diameter; only the Tumansky R-15 was bigger.
+
+Saab had originally wanted the Rolls-Royce Medway as the Viggen's power plant. Owing to the cancellation of the Medway, the JT8D was instead chosen as the basis for modification. The RM8 became the second operational afterburning turbofan in the world, and also the first equipped with a thrust reverser. According to aviation author Christopher Chant, the RM8 has the distinction of being the first engine to be fitted with both an afterburner and a thrust reverser. It had a bypass ratio of around 1.07:1 in the RM8A, which reduced to 0.97:1 in the RM8B. The RM8A was the most powerful fighter engine in the late 1960s.
+
+The AJ, SF, SH and SK 37 models of the Viggen had the first version of the RM8A engine with uprated internal components from the JT8D that it was based on. Thrust was 65.6 kN dry and 115.6 kN with afterburner. For the JA 37, the RM8A was developed into the RM8B, achieved by adding a third low-pressure compressor stage over the preceding model, increasing the turbine inlet temperature and fuel diffusion within the combustion chamber. Thrust is 72.1 kN dry and 125.0 kN with afterburner. Owing to the increased length and weight of the RM8B engine over its predecessor, the airframe of the JA 37 was stretched in order to accommodate it. Onboard electrical power was provided by a 60 kVA generator. In the event of an in-flight engine failure, emergency power was provided by an automatically deploying ram air turbine (RAT), capable of generating 6 kVA
+
+This equipment has proliferated into the following countries: Sweden.
+
+Here is Variants information for the 37 Viggen Swedish Multirole Aircraft:
+The AJ37 is ALL-WEATHER ATTACK AIRCRAFT WITH INTERCEPT CAPABILITY..
+The AJS37 is VIGGENS REFITTED FOR MULTI-ROLE SERVICE WITH UPGRADED CENTRAL COMPUTER AND ESM/ECM PYLON JAMMING POD DEVELOPED FOR THE JAS 39..
+The JA37: is AIR SUPERIORITY FIGHTER WITH STRIKE CAPABILITY; UPRATED RM8B ENGINE AND AVIONICS..
+The SF37: is ARMED PHOTO RECONNAISSANCE VERSION. EXTENSIVE IR AND ESM FIT INCLUDING RWR AND ELINT DATA RECORDERS. SH37: MARITIME RECONNAISSANCE/STRIKE VERSION HAS 2 SIDEWINDER AAM ON OUTER WING PYLONS..
+The SK37: is TWO-SEAT TRAINER VERSION..
+
+Here is Dimensions information for the 37 Viggen Swedish Multirole Aircraft of the System:
+The Height  is 5.6.
+The Length  is 16.3.
+The Width, Wingspan  is 10.6.
+
+Here is Fuel and Load information for the 37 Viggen Swedish Multirole Aircraft of the System:
+The Fuel Capacity, Internal  is 5700.0.
+The Power Plant/Engine is (1)14,750 lbs. thrust Svenska Flygmotor RM8A turbofan, 25,970 lbs. thrust with afterburner:.
+The Weight, Standard Payload, External  is 6000.0.
+
+Here is Hardpoint/Weapon information for the 37 Viggen Swedish Multirole Aircraft of the System:
+The Quantity  is 7 to 9.
+
+Here is Survivability/Countermeasures information for the 37 Viggen Swedish Multirole Aircraft of the System:
+The Type 1 is Survivability/Countermeasures.
+The Type 2 is 0-75 km/hr. ejection seat..
+The Type 3 is ECM system:.
+The Type 4 is Chaff dispenser.
+The Type 5 is Deception jammer:.
+
+Here is Mixed Ordnance 1 information for the 37 Viggen Swedish Multirole Aircraft of the Armament:
+The Combat Load  is 7 to 9.
+The Name is RB28 Falcon AAM.
+The Type is AAM.
+
+Here is Mixed Ordnance 2 information for the 37 Viggen Swedish Multirole Aircraft of the Armament:
+The Combat Load  is 7 to 9.
+The Name is RB24 or RB74 Sidewinder.
+
+Here is Mixed Ordnance 3 information for the 37 Viggen Swedish Multirole Aircraft of the Armament:
+The Combat Load  is 7 to 9.
+The Name is RB75 Maverick AGM.
+The Type is ASM.
+
+Here is Mixed Ordnance 4 information for the 37 Viggen Swedish Multirole Aircraft of the Armament:
+The Caliber/Length  is 75.0.
+The Combat Load  is 19.0.
+The Type is rocket pods.
+
+Here is Mixed Ordnance 5 information for the 37 Viggen Swedish Multirole Aircraft of the Armament:
+The Caliber/Length  is 135.0.
+The Quantity  is 4.0.
+The Type is 6 round rocket pods.
+
+Here is Mixed Ordnance 6 information for the 37 Viggen Swedish Multirole Aircraft of the Armament:
+The Caliber/Length  is 30.0.
+The Name is ADEN.
+The Type is gun pods.
+
+Here is Mixed Ordnance 7 information for the 37 Viggen Swedish Multirole Aircraft of the Armament:
+The Combat Load  is 2.0.
+The Name is RB 71 Skyflash .
+The Type is AAM.
+
+Here is Weapon 1 information for the 37 Viggen Swedish Multirole Aircraft of the Armament:
+The Caliber/Length  is 30.0.
+The Name is Oerlikon KCA  (JA37).
+The Type is automatic cannon.
+
+Here is Weapon 1  information for the 37 Viggen Swedish Multirole Aircraft of the Armament:
+The Combat Load  is 150.0.
+
+Here is Performance information for the 37 Viggen Swedish Multirole Aircraft:
+The Ceiling  is 18300.0.
+The Combat Radius  is greater than 1000 (hi-lo-hi:; greater than 500 (lo-lo-lo).
+The Combat Range, with External Fuel  is 2000.0.
+The Ferry Range  is 2250.0.
+The Speed, Maximum “G” Force  is +7 g.
+The Speed, Maximum, at altitude  is 2135.0.
+The Speed, Maximum, low or sea level   is 1469.0.
+The Takeoff Run/Landing Roll  is 400/500.
+The Vertical Climb Rate  is 203.0.
+

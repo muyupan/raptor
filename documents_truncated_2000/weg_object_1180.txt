@@ -1,0 +1,44 @@
+This document describes the JRTC VISMOD: MDK-3 Russian Tracked Ditching Vehicle.
+
+Replaced the MDK-2M.
+The MDK-3 can dig antitank ditches, vehicle positions, and fighting positions. Its hourly excavation rate is 400 to 500 cubic meters per hour.  The system can dig ditches 3.5 meters wide by 1.7 meters deep in a single pass. 
+The MDK-3 cannot be airlifted by helicopter or airdropped.
+
+Here is System information for the JRTC VISMOD: MDK-3 Russian Tracked Ditching Vehicle:
+The Alternative Designation is NA.
+The Date of Introduction is 1982.
+The Proliferation is INA.
+The Crew is 2.
+The Chassis is MT-T tracked artillery tractor.
+The Bulldozer Blade is Yes.
+The Crane is No.
+The Ground Penetrating Radar is No.
+The Mine Clearing is Limited with blade.
+The Proofing Roller is No.
+The Bucket Loader is No.
+The Back-hoe Excavator is No.
+The Scatterable Mine Dispenser is No.
+The Ditch Trencher is Yes.
+
+Here is Dimensions information for the JRTC VISMOD: MDK-3 Russian Tracked Ditching Vehicle:
+The Length is 11.75.
+The Width is 4.6.
+The Height is 3.25.
+The Weight, Combat is 39.5.
+
+Here is Automotive information for the JRTC VISMOD: MDK-3 Russian Tracked Ditching Vehicle:
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is 710.
+The Cruising Range is 500.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is 35.
+The Speed Maximum Swim is INA.
+The Fording Depth is INA.
+
+Here is Ditching Machine Characteristics information for the JRTC VISMOD: MDK-3 Russian Tracked Ditching Vehicle:
+The Maximum Digging Depth is 3.
+The Digging Width is 3.5.
+The Digging Capacity is 400-500.
+The Working Speed is 400-500.
+

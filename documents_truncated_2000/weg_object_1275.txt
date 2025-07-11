@@ -1,0 +1,50 @@
+This document describes the SAM-14 (SA-14 Gremlin) Iranian Man-Portable Air Defense Missile System (MANPADS).
+
+SAM-14 (SA-14 Gremlin) Iranian Man-Portable Air Defense Missile System (MANPADS).
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of).
+
+Here is System information for the SAM-14 (SA-14 Gremlin) Iranian Man-Portable Air Defense Missile System (MANPADS):
+The Alternative Designations is 9K34 Strela-3 SA-14.
+The Target is Air Defense.
+The Description is The 9K34 Strela-3, NATO reporting name: SA-14 Gremlin) is a man-portable air defense missile system (MANPADS) developed in the Soviet Union as a response to the poor performance of the earlier 9K32 Strela 2 (SA-7 Grail) system..
+The Crew is 1, Normally 2 with a loader.
+
+Here is Armament information for the SAM-14 (SA-14 Gremlin) Iranian Man-Portable Air Defense Missile System (MANPADS):
+The Launcher Name is 9K34 Strela-3 (SA-14 Gremlin).
+The Missile Name is 9M36 or 9M36-1.
+The Length is 1.4.
+The Diameter is 75.
+The Weight is 10.3.
+The Reaction Time is 25.
+The Fire on the Move is Yes, in short halt.
+The Max Range is 6,000.
+The Min Range is 600.
+The Max Altitude is 6,000.
+The Min Altitude is 10; 0 with degraded Ph.
+The Fin Span is INA.
+The Missile Speed is 600.
+The Propulsion is 2-stage solid-propellant rocket.
+The Guidance is 1-color passive IR homing.
+The Seeker Field of View is INA.
+The Tracking Rate is INA.
+The Warhead Type is Frag-HE.
+The Warhead Weight is 1.0.
+The Fuze Type is Contact/grazing.
+The Probability of Hit is 50 FW/50 heli.
+
+Here is Weapons and Ammunition Types information for the SAM-14 (SA-14 Gremlin) Iranian Man-Portable Air Defense Missile System (MANPADS):
+The Ready missiles is Typical Combat Load 
+One-man   1 
+Normal Dismount    2 
+From AD Vehicle    5.
+
+Here is Fire Control information for the SAM-14 (SA-14 Gremlin) Iranian Man-Portable Air Defense Missile System (MANPADS):
+The Sights with magnification is Launch tube has simple sights.
+The Gunner is INA.
+The Gunner Field of View is INA.
+The Gunner Acquisition Range is INA.
+The Gunner Night Sight is None standard, but available.
+The Acquisition Range is 6,000.
+The IFF is Yes.
+

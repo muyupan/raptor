@@ -1,0 +1,58 @@
+This document describes the Supercam X6M2 Russian Unmanned Aerial Vehicle (UAV).
+
+The developed by Unmanned Systems Group combines unequaled tactical and technical characteristics with the most advanced features. 
+
+The drone is equipped with 6 high-performance electric motors, can stay aloft for up to 55 minutes, and carry out real-time monitoring at up to 10 km range day and night time under hard weather conditions.
+
+Due to the integrated autopilot and the automatic flight mission planning, the human factor during the UAV operation is completely excluded.
+
+The UAV has a light structure made of carbon and composite materials, so it can be transported to the launching area by any type of transport.
+
+The UAS common applications include mapping, emergency control, population warning, real-time searching, detection, and following of static and moving objects, etc.
+
+Supercam X6M2 UAV can be equipped with cutting-edge payloads (interchangeable with Supercam fixed-wing UAVs) with electromagnetic gyro-stabilized gimbals with a 360-degree field of view for the best image quality and downward visibility. In addition, an automatic target tracking module can be integrated, as well as the system to drop various payloads and equipment for delivery purposes.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Supercam X6M2 Russian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Supercam X6M2.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Supercam Unmanned Systems Group.
+The Autonomy is automatic or semi-automatic.
+The Crew is Unmanned.
+The Radio Link Range is 10 km.
+The Video Transmission Range is 10 km.
+The Payload Options is - 20/24/42/60 MP photo-camera with gimbal stabilizer
+- Gyro-stabilized thermal imaging camera and/or PAL or HD video camera with 10/33х optical zoom, that can be combined together, and optionally enhanced with a laser target marker
+- Multispectral camera
+- Airborne radiation sensor
+- Laser (the airflow type) gas analyzer
+- Laser scanner.
+The Deployment Time is 15 min.
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+The Operational Temperature is 40°С to +45°С.
+The Accessories is - Automatic target tracking module
+- Dual (triple) system, dual-frequency geodetic receiver
+- Video link for digital broadband transmission within a range of up to 10 km
+- Radio link of telemetry and control with the ability of FHSS operation
+- Grenade / Cargo dropping system
+- Hovering UAV system with tether.
+
+Here is Dimensions information for the Supercam X6M2 Russian Unmanned Aerial Vehicle (UAV):
+The Length is 1010 mm.
+The Wingspan is 1010 mm.
+The Height is 300 mm.
+The Maximum Takeoff Weight is 8 kg.
+
+Here is Automotive information for the Supercam X6M2 Russian Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Maximum Speed is 60 km/h.
+The Cruising Speed is INA.
+The Operational Height is 50 - 500 m.
+The Maximum Distance is 10 km.
+The Maximum Windspeed is 15 m/s.
+The Endurance is 55 min.
+

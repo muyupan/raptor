@@ -1,0 +1,75 @@
+This document describes the Titan American Unmanned Ground Vehicle (UGV).
+
+Titan is a first-of-its-kind modular, hybrid, unmanned ground vehicle that provides soldier safety and support for small military dismounted operations. Titan is a large Unmanned Ground Vehicle (UGV) that provides “lighten-the-load” support for small dismounted military operations. Developed by QinetiQ North America and Milrem Robotics, Titan features a multi-mission, reconfigurable platform that increases unit effectiveness while increasing soldier safety.
+
+Unlike existing UGVs, Titan is a highly modular platform that allows different superstructures to be mounted and integrated onto the middle vehicular platform for complex missions such as rescue, transport and reconnaissance. The flexibility and versatile nature of the system not only increases efficiency, it also significantly reduces life cycle costs and soldier workload.
+
+Multi-mission modular payloads
+High mobility / all-terrain operations
+Multiple controller and camera options
+Operable in manned or unmanned modes
+Open architecture
+Wide variety of payloads and accessories for CBRN, route clearance and integration autonomy packages
+Diesel/Electric hybrid for run-silent mode and squad auxiliary power
+Power-off-load capability
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the Titan American Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Titan.
+The Type is Unmanned Ground Vehicle.
+The Manufacturer is Milrem and QinetiQ North America.
+The Crew is Unmanned Ground Vehicle.
+The Mission is The vehicle is intended to save the lives of soldiers as it performs critical and hazardous tasks currently handled by war fighters in the combat zone..
+The Platform is The platform includes two track modules connected by a payload frame. The open architecture of the Titan UGV allows for the integration of mission equipment and systems to support a range of operations..
+The Payload Types is The typical payload aboard the vehicle includes an earth-moving blade / bucket, casualty evacuation (CASEVAC) litter racks, logistics support basket and ruck mounts, anti-personnel obstacle breaching system (APOBS) mounts, counter-improvised explosive device (C-IED) roller rake mount, and C-IED sensing systems. The vehicle can also be interfaced with third party payloads such as remote weapon station (RWS), interrogation arms, reconnaissance, surveillance, and target acquisition (RSTA) systems to support combat, chemical, biological, radiological and nuclear (CBRN) defence, RSTA and route clearance missions..
+The Sling Load Capable is Yes, The UGV can be transported by helicopters internally or as slung load..
+The  is .
+The  is .
+The Note is The Titan UGV was preferred by the US Army for Phase 1 evaluation of the Squad Manoeuvre Equipment Transport (SMET) programme..
+
+Here is Dimensions information for the Titan American Unmanned Ground Vehicle (UGV):
+The Length is 2.00.
+The Width is 2.10.
+The Height is 1.01.
+The Weight, Combat is 907.18.
+The Payload Area Length is 1.82.
+The Payload Area Width is 1.21.
+The Maximum Payload Weight is 680.38.
+The Maximum Pull Force is 907.18.
+
+Here is Automotive information for the Titan American Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Diesel-electric hybrid tracked drive modules.
+The Engine Power is INA.
+The Generator is 10kW JP8 generator.
+The Batteries is Absorbent glass mat (AGM) lead acid or lithium-ion batteries..
+The Maximum Range, All-Electric Run-Silent Mode is 20.
+The Endurance, All-Electric Run-Silent Mode is 2.
+The Maximum Range, Diesel and Electric Hybrid Mode is 100.
+The Endurance, Diesel and Electric Hybrid Mode is 72.
+The Speed, Maximum Road is 24.
+The Speed Maximum Swim is Not Amphibious.
+The Trench is 762.
+
+Here is Main Weapon System information for the Titan American Unmanned Ground Vehicle (UGV):
+The Note is The typical payload aboard the vehicle includes an earth-moving blade / bucket, casualty evacuation (CASEVAC) litter racks, logistics support basket and ruck mounts, anti-personnel obstacle breaching system (APOBS) mounts, counter-improvised explosive device (C-IED) roller rake mount, and C-IED sensing systems.
+
+The vehicle can also be interfaced with third party payloads such as remote weapon station (RWS), interrogation arms, reconnaissance, surveillance, and target acquisition (RSTA) systems to support combat, chemical, biological, radiological and nuclear (CBRN) defence, RSTA and route clearance missions..
+
+Here is Navigation and Control information for the Titan American Unmanned Ground Vehicle (UGV):
+The Command and Control Unit is QinetiQ tactical robot controller (TRC) and robotic appliqué kit (RAK)..
+The Tactical Robot Controller (TRC) is The TRC is a single pocket system integrating a 6.5in monitor, button layout and auxiliary port. It can be easily attached to the communications pack of Titan to command and control the UGV’s operations..
+The Robotix Applique Kit (RAK) is The RAK provides multiple optional autonomous features and allows the integration of night vision and thermal cameras, microphone and radio systems. The multiple crew-compliant radio options enable a line-of-sight (LOS) range of more than 800m..
+The Unmanned Mode Capable is Yes.
+The Manned Mode Capable is Yes.
+The Live Video Cameras is Available.
+The Thermal Imaging Systems is Available.
+
+Here is Protection information for the Titan American Unmanned Ground Vehicle (UGV):
+The Armor is INA.
+The Applique Armor is Avaialble.
+The Active Protection System is INA.
+The NBC Protection is No.
+The Smoke Equipment is No.
+

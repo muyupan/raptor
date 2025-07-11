@@ -1,0 +1,57 @@
+This document describes the P-18 (Spoon Rest D) Russian Mobile 2D VHF Radar.
+
+The P-18 or 1RL131 Terek (also referred to by the NATO reporting name "Spoon Rest D" in the west) is a 2D VHF radar developed and operated by the former Soviet Union. The P-18 early warning radar is a development of the earlier P-12 radar, the P-18 radar being accepted into service in 1970 following the successful completion of the program. The P-18 was developed by the SKB Design Bureau, a division of State Plant No.197 named after V. I. Lenin who developed the previous P-12, the predecessor of the current Nizhny Novgorod Research Institute of Radio Engineering (NNIIRT). In 1979 a new secondary IFF radar the 1L22 "Parol" entered into service to complement the P-18, unlike the previous secondary radar NRS-12 (NATO "Score Board") the new interrogator was carried on a separate truck. The P-18 is still in service today and was widely exported, many companies offer upgrade options to improve the performance and reliability of the radar and to replace outdated components. NNIIRT offers an upgrade package for the P-18 which includes the installation of a solid-state transmitter and receiver, automatic jammer suppression equipment as well as PC-based signal processing, test, and interface equipment. These upgraded variants of the P-18 can be referred to as the P-18M, P-18-1, or P-18-2 depending on the manufacturer, modification, and radar nationality. The P-18 was superseded by the 1L13 "Nebo" VHF surveillance radar in 1984. Currently, the Russian-Belarusian company Defense Systems provides upgrades for P-18 radars. Also, Retia, a Czech civil and military electronics company, developed its own, fundamental modernization of the P-18 under the name ReVEAL. It is now solid-state, digitized, and fitted with an upgraded IFF system while allowing to utilize also the legacy IFF. The whole equipment is repackaged into a standard container and already sold in several dozen units.
+
+This equipment has proliferated into the following countries: Algeria, Belarus, Bulgaria, Cuba, Czech Republic, Egypt, Finland, Georgia, Hungary, India, Kazakhstan, Latvia, Lithuania, Myanmar, North Korea (Democratic People's Republic of Korea), Poland, Romania, Russian Federation, Serbia, Syria, Turkmenistan, Ukraine, Venezuela (Bolivarian Republic of), Viet Nam.
+
+Here is Variants information for the P-18 (Spoon Rest D) Russian Mobile 2D VHF Radar:
+The Bharat Electronics P-18 upgrade is The Bharat Electronics P-18 upgrade introduces a new digital signal processor (offering moving target indication with a staggered pulse repetition frequency – PRF), a color raster-scan display, and identification friend-or-foe provision (antenna, transmitter, receiver, and decoder/interrogator) together with a built-in test facility (via the radarʼs simulator). Readers should note that Bharat quotes the P-18ʼs center frequency and PRF as being 200 MHz and 365 Hz respectively..
+The ELSYS P-18 upgrade is The ELSYS P-18 upgrade replaces the radarʼs existing wideband high-frequency amplifier with the companyʼs ELU-3-18 low-noise microwave amplifier. ELU-3-18 is described as incorporating a limiter and as having frequency range, gain, noise figure and maximum allowable continuous input power values of 150 to 175 MHz, 26 to 33 dB, 3 dB, and 50 W respectively..
+The LEMZ P-18M is LEMZʼs P-18M upgrade package is described as incorporating ‘completelyʼ solid-state technology (including its transmission chain), digital signal/radar data processing, frequency agility, automatic noise jamming compensation, automatic functional checks/diagnostics, a new operatorʼs workstation (with a high-resolution digital monitor), an automated control system interface and a radar data recording facility..
+The Nitel P-18-2 upgrade is The Nitel P-18-2 upgrade package (also first shown at the MAKS 2001 trade show) incorporates an MKP-1 anti-active jamming subsystem (with a dedicated, non-rotating, four-element antenna array), a KAAS (Komplet Aparaturi Avtomaticseskovo Syoma) automatic data reading/recording unit, a digital passive interference suppression capability, an automatic frequency control amplifier, a new reception chain, a coherent local oscillator, and a new transmitter control display. According to Janes sources, the MKP-1 offers automatic ‘compensation’ against high-frequency active jamming, a minimum jamming suppression coefficient of 20 dB, and allows the host sensor to detect a 2.6 m2 radar cross-section target flying at 3,048 m at a range of 190 km in the face of a 200 W/MHz active jamming output that is being transmitted from a source 200 km from the radar..
+The NNIIRT P-18 upgrade is First shown at the August 2001 MAKS 2001 trade show, NNIIRTʼs P-18 upgrade package is designed to increase the radarʼs target co-ordinate measurement capability, enhance its electronic counter-countermeasures provision, improve its reliability, and extend its service life..
+The P-18-R8 Russia-Belarus joint venture P-18 upgrade is Modernization by the Belarus state-owned Radar Design Bureau, KB RADAR in collaboration with the Russian joint-stock company Defense Systems Information Complexes (DS.INFOCOM)..
+The Tetraedr TRS-2D VHF air surveillance radar is Belarusian company Tetraedr has developed the Tetraedr Radar System 2-Dimensional (TRS-2D), which is based on the P-18 radar system and combined with a newly developed command post. In essence, the TRS-2D pulsed coherent radar is a significantly upgraded version of the P-18 (1RL131) system (previously known as the P-18T). It consists of an antenna unit and a command-and-control (C2) post. Both units of the TRS-2D radar prototype are housed in Kamaz-43118 6×6 three-axle trucks. The Antenna vehicle has an ‘AMUʼ antenna unit and mast, antenna rotation system, and a closed cab. Located inside the cab are the emitter and receiver, radar synchronizer, topographical and navigational apparatus, along with radar interrogator interface. The independent power source, which has two diesel engines, is located in the front of the cab. The C2 vehicle has a closed cab and an autonomous power system. Located inside the cab are the navigation and communication systems, the data interface for connection with the radar height finder, ADMS, and the automated command post and combat activities recording unit..
+
+Here is System information for the P-18 (Spoon Rest D) Russian Mobile 2D VHF Radar:
+The Alternative Designation is P-18; Spoon Rest D; 1Rl131 Terek.
+The Type is Mobile 2D VHF Radar.
+The Chassis is ZIL-157.
+The Crew is 3.
+The Frequency is VHF.
+The Maximum Range is 250 km.
+The Maximum Altitude is 35 km.
+The Azimuth is 360 degrees.
+The Elevation is -5-15 degrees.
+The Precision is 1 km range.
+The Power is 260 kW.
+
+Here is Dimensions (Chassis: ZIL-157) information for the P-18 (Spoon Rest D) Russian Mobile 2D VHF Radar:
+The Length is 6.93 m.
+The Width is 2.32 m.
+The Height is 2.74 m.
+The Weight, Empty is 5,540 kg.
+
+Here is Automotive (Chassis: ZIL-157) information for the P-18 (Spoon Rest D) Russian Mobile 2D VHF Radar:
+The Engine Name is ZIL-157.
+The Engine Type is Diesel.
+The Engine Power is 1,041.
+The Transmission is 5 speed X 2 range transfer case.
+The Cruising Range is INA.
+The Speed, Maximum Road is 40.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is INA.
+The Side Slope is INA.
+The Vertical Step is INA.
+The Trench is INA.
+The Fording Depth is INA.
+
+Here is Protection information for the P-18 (Spoon Rest D) Russian Mobile 2D VHF Radar:
+The Armor is INA.
+The Applique Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

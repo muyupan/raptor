@@ -1,0 +1,164 @@
+This document describes the M48A5 American Main Battle Tank (MBT).
+
+M48A5
+
+In the mid-1970s, the vehicle was modified to carry the heavier 105 mm gun. The original program designation was XM736. The designation was subsequently changed to M48A3E1 and was finally standardized as M48A5. As many components from the M60A1 were utilized as possible. Anniston Army Depot was issued a contract to convert 501 M48A3 tanks to the M48A5 standard and this was completed in December 1976. These early M48A5's were essentially M48A3 tanks with the 105mm gun added. They retained the M1 cupola armed with a .50 cal machine gun.
+
+Based on Israeli experience in upgrading M48 series tanks, further changes were included starting in August 1976. These included replacing the M1 cupola with a low-profile "Urdan" type cupola that mounted an M60D machine gun for use by the tank commander. A second M60D machine gun was mounted on the turret roof for use by the loader. Internal ammunition stowage for the 105mm main gun was also increased to 54 rounds. These tanks were initially given the designation M48A5API; but, after early conversions were brought up to the later standard, the API was removed and these tanks were known simply as M48A5.
+
+In addition to the conversion of M48A3 tanks, an additional conversion process for bringing M48A1 tanks to the M48A5 standard was also developed. By March 1978, 708 M48A5 tanks had been converted from the M48A1 model.
+
+Work continued until December 1979, at which time 2069 M48A5's had been converted.
+
+The vast majority of M48A5 tanks in service with US Army units were assigned to National Guard and Army Reserve Units. A notable exception was the 2nd Infantry Division in the Republic of Korea, which replaced their M60A1 tanks with M48A5s, which arrived in June and July 1978. On 2nd Infantry Division M48A5 tanks, the commander's M60D was replaced with a .50 caliber M2 machine gun.
+
+By the mid-1990s, the M48s were phased out of U.S. service. Many other countries, however, continued to use these M48 models.
+
+This equipment has proliferated into the following countries: Greece, Iran (Islamic Republic of), Lebanon, Morocco, South Korea (Republic of Korea), Thailand, Turkey.
+
+Here is Variants information for the M48A5 American Main Battle Tank (MBT):
+The M48 is M48: Differed from the M47 in having yet another new turret design and a redesigned hull, doing away with the bow machine gun position, featuring the M41 90 mm gun. These turrets give the M48 its distinctive non-M26 style look. Originally, the gun featured a Y-shape muzzle brake, but this was changed to the more characteristic T-shape..
+The M48C is M48C: Over a hundred original production hulls were found to be lacking correct ballistic protection and were relegated to training as the M48C..
+The M48A1 is M48A1: New driver hatch and M1 commander's cupola, allowing the M2HB .50 caliber machine gun to be operated and reloaded from within the vehicle..
+The M48A2 is M48A2: Improved powerpack and transmission, redesigned rear plate, and improved turret control..
+The M48A2C is M48A2C: M48A2s with an improved rangefinder, M17, new ballistic drive and bore evacuator for the main gun, and the auxiliary tensioning wheels were deleted..
+The M48 AVLB is M48 AVLB: M48A2 chassis, fitted with a scissors-type bridge. All later upgraded to A3 standard..
+The M48A3 is Refit of M48A1 through M48A2C models to diesel engines and a new fire control system. 1,019 converted..
+The M48A3 Mod. B is M48A3 Mod. B: Additional armor on the exhausts and tail lights, and a raised commander's cupola..
+The M48A4 is M48A4: upgrade proposed 15 October 1966 by Chrysler Defense, mating the T95E5 turret of the original variant of the M60 series tank to the M48A3 hull. Used by Israel in some Magach 3 variants..
+The M48A5 is M48A5: Up-gunned with the 105 mm M68 gun. 2,069 converted..
+The M48A5E1 is M48A5E1: New laser rangefinder, digital fire-control system, improving night vision system..
+The M48A5PI is M48A5PI: M1 cupola replaced by the Israeli Urdan model..
+The M67 "Zippo" is M67 "Zippo": M48 armed with a flamethrower inside a dummy model of the main gun with a fake muzzle brake. Named after a popular brand of cigarette lighter..
+The M247 Sergeant York: is M247 Sergeant York: This self-propelled anti-aircraft gun, cancelled in 1985 before it was deployed, used the M48A5 chassis..
+
+Here is System information for the M48A5 American Main Battle Tank (MBT):
+The Alternative Designation is M48A5.
+The Type is Main Battle Tank.
+The In Service is 1976-Present.
+The Crew is 4 (commander, gunner, loader, driver).
+
+Here is Dimensions information for the M48A5 American Main Battle Tank (MBT):
+The Length, Hull is 6.42 m.
+The Length, Gun Forward is 9.31 m.
+The Width is 3.63 m.
+The Height is 3.09 m.
+The Track, Length on Ground is 4.00 m.
+The Track, Width is 0.71 m.
+The Ground Clearance is 0.41 mm.
+The Ground Pressure is 0.88 kg/cm sq.
+The Weight, Combat is 48,987 kg.
+The Weight, Unloaded is 46,287 kg.
+
+Here is Automotive information for the M48A5 American Main Battle Tank (MBT):
+The Engine Name is 1 x Teledyne Continental AVDS-1790-2D 1,790-cu in (29.3-liter) air-cooled.
+The Engine Type is V-12 Diesel.
+The Engine Power is 750 hp at 2,400 rpm.
+The Range is 499 km.
+The Speed, Maximum Road is 48 kph.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60%.
+The Vertical Obstacle is 0.92 m.
+The Trench is 2.59 m.
+The Fording Depth, without Preparation is 1.22 m.
+The Fording Depth, with Preparation is 2.44 m.
+
+Here is System information for the M48A5 American Main Battle Tank (MBT) of the Main Armament:
+The Name is M68.
+The Type is 105mm Rifled Gun.
+The Caliber is 105mm.
+The Length is 5,550 mm.
+The Barrel Length is 50 Calibres.
+The Weight is 1,128 kg.
+The Fume Extractor is Yes.
+The Elevation is -9 deg to 19 deg.
+The Traverse is 360 deg.
+The Maximum Firing Range is 4,000 m.
+The Sights is INA.
+
+Here is Ammunition information for the M48A5 American Main Battle Tank (MBT) of the Main Armament:
+The Type is Rifle.
+The Caliber is 105.
+The Shell is INA.
+The Shell Weight is INA.
+The Basic Load is 54 Rounds.
+
+Here is System information for the M48A5 American Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is M73 Machine Gun.
+The Type is Medium Machine Gun.
+The Caliber is 7.62mm.
+The Quantity is 2 x 7.62mm M73 machine gun.
+The Manufacturer is United States.
+The Proliferation is The M73 and M219 are 7.62 mm NATO caliber machine guns designed for tank use. NATO no longer uses them, but they were used on the M48 Patton and M60 Patton MBT series (including the M728 Combat Engineer Vehicle), and on the M551 Sheridan Armored Reconnaissance / Airborne Assault Vehicle (AR/AAV)..
+The In Service is 1959-1990s.
+The Length is 1,219.2 mm.
+The Barrel Length is 609.6 mm.
+The Weight is 14.1 kg.
+The Rate of Fire is 500-625 round/min.
+The Action is Recoil-operated/short-recoil operation with gas assist.
+The Muzzle Velocity is 853.44 m/s.
+The Maximum Firing Range is 3,657.6 m.
+The Effective Firing Range is 899.8 m.
+The Feed System is Belt Feed, left or right hand.
+The Sight is INA.
+
+Here is Ammunition information for the M48A5 American Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is 2,000 Rounds.
+
+Here is System information for the M48A5 American Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is M60D.
+The Type is 7.62mm.
+The Caliber is General-Purpose Machine Gun.
+The Quantity is 2 x 7.62mm M60D Machine Gun.
+The Manufacturer is Saco Defense
+U.S. Ordnance.
+The Proliferation is Widely Proliferated.
+The In Service is 1957-Present.
+The Length is 1,105 mm.
+The Barrel Length is 560 mm.
+The Weight is 10.5 kg.
+The Action is Gas-operated, short-stroke gas piston, open bolt.
+The Rate of Fire is 550–650 RPM.
+The Muzzle Velocity is 853 m/s.
+The Effective Firing Range is 1,100 m.
+The Feed System is Disintegrating belt with M13 Links.
+The Sights is Iron sights.
+The Note is The M60D is a mounted variant of the standard M60. It can be mounted on boats, vehicles and as a pintle-mounted door gun in helicopters. When used in aircraft, it differs from the M60C in that it is not controlled by the pilot—rather, it is mounted in a door and operated by a member of the crew. Like the rest of the M60 family, it is an air-cooled, gas-operated, belt-fed weapon. Unlike other models, however, the M60D normally has spade grips and an aircraft ring-type sight or similar, as well as an improved ammunition feed system. A canvas bag is also affixed to the gun to capture ejected casings and links, preventing them from being sucked into the rotor blades or into an engine intake. The M60D was equipped on the UH-1B Huey (using the M23, XM29, M59, and the Sagami mounts), the CH-47 Chinook (using the M24 and M41 mounts) in both door and ramp locations, the ACH-47A "Guns-A-Go-Go" variant of the Chinook (using the XM32 and XM33 mounts), and on the UH-60 Black Hawk (using the M144 mount). The M60D is also used by the British on Royal Air Force Chinooks. In US service, the M60D has been primarily replaced by the M240H. The M60D is still manufactured by U.S. Ordnance and still used on the SH-60 Seahawk..
+
+Here is Ammunition information for the M48A5 American Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is 3,000 Rounds Each.
+
+Here is Fire Control information for the M48A5 American Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is Yes, The fire control system included a rangefinder, mechanical ballistic computer, ballistic drive, and gunner's periscope. Collectively, these mechanical devices resembled in miniature the fire control systems used in naval gunnery. Only after the Second World War did such systems become small enough for use in combat vehicles. These mechanical fire control systems permitted tanks to engage effectively at much longer ranges than in World War II, a critical consideration for the Army, expecting to enter the European battlefield outnumbered. Instead of a gunner's sight being slaved to the gun tube, the ballistic computer and drive computed the range and elevated the gun. The gunner's primary responsibility lay in keeping the sight on the target..
+The Thermal Sight Tank Commander is thermal sights (Taiwanese and Turkish M48s  only).
+The Infrared is driving lights and searchlights.
+The Main Gun Stabilization is INA.
+The Rangefinders is There are two basic types of optical rangefinders, stereoscopic and coincidence. With a stereoscopic model range determination occurred by measuring the distance from the observer to a target using the observer's capability of binocular vision. The coincidence rangefinder uses a single eyepiece. Light from the target enters the rangefinder through two windows located at either end of the instrument. The ARCOVE emphasis upon increased long range accuracy led to the incorporation of a fire control system (FCS) in the M48..
+The Ballistic Computer is M13 electro-mechanical ballistic computer. 
+The mechanical ballistic computer made a more accurate computation of range possible by mathematically accounting for such factors as vehicle cant and ammunition type. Many developmental range finders based on pulses of IR light, such as the OPTAR rangefinder of the T95 continued into 1957..
+
+Here is Protection information for the M48A5 American Main Battle Tank (MBT):
+The Hull Armor is hull front: 101/120 mm
+hull sides: 76 mm
+hull rear: 44 mm
+hull top: 57 mm.
+The Turret Armor is turret front: 110 mm
+turret sides:  76 mm
+turret rear:  50 mm
+turret top:   25 mm.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is limited protection.
+The Smoke Equipment is M339 smoke grenade dischargers; engine smoke-laying system.
+

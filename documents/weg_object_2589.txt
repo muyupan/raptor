@@ -1,0 +1,55 @@
+This document describes the ATF Dingo German 4x4 Mine Resistant Ambush Protected (MRAP).
+
+The ATF Dingo German 4x4 Mine Resistant Ambush Protected (MRAP) is a German heavily armored Mine-Resistant Ambush Protected (MRAP) infantry mobility/scout vehicle based on a Unimog chassis with a V-hull design, produced by the company Krauss-Maffei Wegmann (KMW). It is designed to withstand land mines, rifle fire, artillery fragments and NBC threats. ATF stands for Allschutz-Transport-Fahrzeug, meaning all-protected transport vehicles in German. It is named after the Australian native dog, the dingo.
+
+This equipment has proliferated into the following countries: Austria, Belgium, Czech Republic, Germany, Iraq, Luxembourg, Norway, Pakistan, Qatar.
+
+Here is Variants information for the ATF Dingo German 4x4 Mine Resistant Ambush Protected (MRAP):
+The ATF Dingo 1 is Baseline model..
+The ATF Dingo 2 is Further development of the Dingo 1 based on upgraded chassis. This variant offers improved protection and more payload. This MRAP-type received more production orders than the original Dingo 1..
+
+Here is System information for the ATF Dingo German 4x4 Mine Resistant Ambush Protected (MRAP):
+The Alternative Designation is ATF Dingo.
+The Type is Mine-Resistant Ambush Protected (MRAP) APC.
+The Manufacturer is Krauss-Maffei Wegmann GmbH & Co. KG (KMW).
+The Family is Allschutz Transport Fahrzeug (ATF) or all-protected transport vehicles.
+The Configuration is 4x4.
+The Crew is 1.
+The Passenger Capacity is 8.
+The Payload Capacity is 1400.
+
+Here is Dimensions information for the ATF Dingo German 4x4 Mine Resistant Ambush Protected (MRAP):
+The Length is 5.4.
+The Width is 2.3.
+The Height is 2.4.
+The Wheelbase is INA.
+The Ground Clearance is INA.
+The Gross Weight is INA.
+
+Here is Automotive information for the ATF Dingo German 4x4 Mine Resistant Ambush Protected (MRAP):
+The Engine Name is Mercedes Benz Diesel.
+The Engine Type is Diesel.
+The Engine Power is 237.
+The Engine Torque is INA.
+The Transmission is INA.
+The Gradient is 60.
+The Side Slope is 30.
+The Trench is 0.5.
+The Fording is 1.2.
+
+Here is Main Weapon System information for the ATF Dingo German 4x4 Mine Resistant Ambush Protected (MRAP):
+The Type is Medium Machine Gun (Turret mounted, remote control).
+The Alternate Configuration is The 7.62 mm machine gun can be replaced with a 12.7mm machine gun or 40mm automatic grenade launcher.
+
+Here is Protection information for the ATF Dingo German 4x4 Mine Resistant Ambush Protected (MRAP):
+The Hull Armor is The ATF Dingo is built to withstand ballistic arms fire, mine blasts, IEDs, and other emerging threats. Its V-shaped hull helps deflect blasts out and away from the crew and its armoring can be customized to meet any mission requirement.
+
+Armor used is KMWs layered MEXAS (Modular Expandable Armor System). 
+
+Windows are angled to deflect bullets and blasts..
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The NBC Protection is Yes, Overpressure System.
+The Smoke Equipment is INA.
+

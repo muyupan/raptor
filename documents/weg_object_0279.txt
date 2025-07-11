@@ -1,0 +1,117 @@
+This document describes the Chonma-ho North Korean Main Battle Tank (MBT).
+
+The Ch'ŏnma-ho or spelled as Chonma-ho (Chosŏn'gŭl: 천마호; Hanja: 天馬號) is one of North Korea's secretive indigenous main battle tank designs. The tank is also known by the name of 천리마 전차 (千里馬 or the "Chollima Tank"). The original Ch'ŏnma-ho is based on the Soviet T-62. There are at least five different operational versions of the Ch'ŏnma-ho. Since its inception, the Ch'ŏnma-ho has apparently undergone several extensive upgrades. Little public information is available about this tank, and its most recent public appearance was the 65th Anniversary Parade held in Pyongyang, North Korea, on 10 October 2010, celebrating the 65th anniversary of North Korea's ruling party.
+
+The Ch'ŏnma-ho has been issued to North Korea's premier armored formations, and would lead the initial attempts to break through South Korean defences. Other armour is relegated to a secondary role in this corps or to North Korea's four mechanized corps. To underscore North Korea's concept of combined arms and the importance of armour, and therefore the importance of the Ch'ŏnma-ho, North Korea's sole armour corps is directly grouped with two mechanized corps and a single artillery corps. However, this forms the second echelon of North Korea's deployment to the DMZ, with the first echelon composed of four infantry corps,[8] and the rest in strategic reserve. This may also play a part in a defensive strategy, as the North Korean army is arrayed in depth, and the armour might be strategically placed to both provide offensive power and a second echelon composed of mobile defences to plug a South Korean breakthrough along the DMZ.
+
+
+The Ch'ŏnma-ho is a product of North Korea's approach of Juche, or self-reliance, which also includes several indigenous self-propelled artillery pieces. The idea of juche comes from a North Korean sentiment of abandonment by their allies, China and Soviet Union/Russia. This accounts for their drive towards overproduction and for recent North Korean nuclear developments, as well as the production of long-range missiles which provide North Korea with its longer range striking power. This all manifests itself within the 'triangle' of North Korean military development – armour, artillery and missiles. In fact, this seems reminiscent from Soviet military theory, including the application of overwhelming artillery support and the use of large amounts of armour to create a breakthrough after the initial artillery disruption. In that sense, North Korean military strategy is very mobile, and the large numbers of tanks underscores this. The Ch'ŏnma-ho is an attempt to partially address the technology gap between its current dated tank forces and South Korean K1A1 and the US M1 Abrams tank.
+
+
+It is unknown which units of the Korean People's Army might be outfitted with the Ch'ŏnma-ho. It is clear that the Ch'ŏnma-ho is a general replacement for previously employed tanks, including the T-62, T-34 and Type 59 medium tanks. It is very possible that the Ch'ŏnma-ho will equip the spearhead and elite of North Korea's armoured forces. They are apparently deployed in sufficient numbers to be strategically significant. There might be as many as 800 T-62s in addition to the over 1000 Ch'ŏnma-ho's in the North Korean army, of which any number could be one of the five Ch'ŏnma-ho variants.
+
+This equipment has proliferated into the following countries: Ethiopia, Iran (Islamic Republic of), North Korea (Democratic People's Republic of Korea).
+
+Here is Variants information for the Chonma-ho North Korean Main Battle Tank (MBT):
+The Ch'ŏnma-ho ARV is Armoured recovery vehicle with a casemate superstructure.
+The Ch'ŏnma-ho Command is Command variant of the tank with a fake main gun.
+The Juche-Po is Juche-Po – Self-propelled artillery gun on a modified Ch'ŏnma-ho chassis. The Juche-Po is an improvement over the Tok-Ch'ŏn artillery piece, which was mounted on an ATS-59 chassis. There are at least four M1991 versions of the Juche-Po, each mounting a different gun: the D-30 122 mm, D-74 122 mm, the M-46 130 mm and the ML-20 152 mm howitzer. A fifth M1992 version is armed with the SM-4-1 130 mm howitzer. These artillery pieces can be identified by their six road wheels, as compared to the Tok-Ch'ŏn's five, and a prominent recoil cylinder which protrudes from the turret. Another major difference is that the Juche-Po has a fully encased rounded turret, as opposed to the older open-topped self-propelled artillery pieces used previously..
+The Ch'onma-ho I is This is a slightly modified version of the T-62A with a 115-mm main gun and a 14.5-mm anti-aircraft machine gun. It is also reported to be lighter, having thinner armor than its predecessor..
+The Ch'onma-ho II is This is an upgraded version of the Ch'onma-ho I with an externally mounted laser rangefinder above the main gun..
+The Ch'onma-ho III is This variant was first seen publicly during an April 1992 parade in Pyongyang. It features a laser rangefinder above the 115-mm main gun; thermal shroud on the main gun; full hull-skirting; turret smoke-grenade launchers; two sets on each side of the turret; add-on armor to the turret front and pos sibly the glacis; potential explosive reactive armor (ERA) on the turret sides (from the turret midpoint to turret rear); and an improved fire-control system..
+The Ch'onma-ho IV is This variant is fitted with a larger gun, said to be the 125-mm main gun from the Russian T-72. Three banks of four smoke-grenade launchers are located on each side of the turret..
+The Ch'onma-ho V is This updated Ch'onma-ho II has a new engine and 125-mm gun. A box with internal combined night-vision camera and laser rangefinder is fitted above the mantlet..
+
+Here is System information for the Chonma-ho North Korean Main Battle Tank (MBT):
+The Alternative Designation is Ch'ŏnma-ho or spelled as Chonma-ho.
+The Type is Main Battle Tank.
+The Family is INA.
+The Crew is 4.
+
+Here is Dimensions information for the Chonma-ho North Korean Main Battle Tank (MBT):
+The Length is 6.63.
+The Width is 3.52.
+The Height is 2.40.
+The Weight, Combat is 40.
+
+Here is Automotive information for the Chonma-ho North Korean Main Battle Tank (MBT):
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 750.
+The Power-to-Weight Ratio is 18.75 hp/ton.
+The Cruising Range is 450.
+The Speed, Maximum Road is 50.
+The Speed, Average Cross is 35.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is 1.4.
+The Fording Depth with Snorkel is 5.
+The Side Slope is 30.
+The Vertical Obstacle is 0.80.
+The Trench is 2.85.
+
+Here is System information for the Chonma-ho North Korean Main Battle Tank (MBT) of the Main Gun:
+The Name is U-5TS (production designation 2A20).
+The Type is 115mm Tank Gun.
+The Caliber is 115.
+The Barrel Length is 6.05 m.
+The Rate of Fire is 6–10/minute.
+The Muzzle Velocity is 1,600 m/s (APFSDS).
+The Effective Firing Range is 2,000 m-high target – 1,870 m; 3 m-high target – 2,260 m; 4,000 m AT-12 missile..
+
+Here is Ammunition information for the Chonma-ho North Korean Main Battle Tank (MBT) of the Main Gun:
+The Name is 3VBM-1.
+The Type is APFSDS.
+The Caliber is 115.
+The Cartridge is 115 x 728 mmR.
+The Basic Load is 40.
+The Effective Range is 2,000 m-high target – 1,870 m; 3 m-high target – 2,260 m; 4,000 m AT-12 missile..
+The Armor Penetration is INA.
+
+Here is System information for the Chonma-ho North Korean Main Battle Tank (MBT) of the Secondary Weapon System:
+The Name is KPV.
+The Type is 14.5 Heavy Machine Gun.
+The Caliber is 14.5.
+The Length is 1,980 mm.
+The Barrel Length is 1,346 mm.
+The Width is 162mm.
+The Height is 225mm.
+The Weight is 49 kg.
+The Action is Short recoil operation.
+The Rate of Fire is 600 rpm.
+The Muzzle Velocity is 1,005 m/s.
+The Effective Firing Range is 3,000.
+The Maximum Firing Range is 4,000.
+The Feed System is 40-round belt.
+The Sights is Iron or optical.
+
+Here is Ammunition information for the Chonma-ho North Korean Main Battle Tank (MBT) of the Secondary Weapon System:
+The Name is B-32.
+The Type is Armor-piercing incendiary full metal jacket round with a tungsten-carbide core..
+The Caliber is 14.5.
+The Cartridge is 14.5×114 mm.
+The Basic Load is INA.
+The Armor Penetration is INA.
+The Ammuntion Types is * B-32 - Armor-piercing incendiary full metal jacket round with a tungsten-carbide core. Projectile weight is 64.4 g and muzzle velocity is 976 m/s. Armour penetration at 500 m is 32 mm of rolled homogeneous armour (RHA) at 90 degrees.
+
+* BZT - Armor-piercing incendiary tracer full metal jacket round with a steel core. Projectile weight is 59.56 g and muzzle velocity is 1,005 m/s. Tracer burns to at least 2,000 m.
+
+* MDZ - High-explosive incendiary bullet of instant action. Projectile weight is 59.68 g..
+
+Here is Fire Control information for the Chonma-ho North Korean Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Tank Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is INA.
+
+Here is Protection information for the Chonma-ho North Korean Main Battle Tank (MBT):
+The Hull Armor is 15-100 mm.
+The Turret Armor is 200 mm.
+The Applique Armor is Available.
+The Explosive Reactive Armor is Available.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

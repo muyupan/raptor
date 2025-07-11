@@ -1,0 +1,47 @@
+This document describes the M548 American Tracked Cargo Carrier.
+
+The M548 American Tracked Cargo Carrier is an unarmored variant of the M113 APC.
+
+This equipment has proliferated into the following countries: Argentina, Australia, Bahrain, Canada, Chile, Iran (Islamic Republic of), Iraq, Israel, Italy, Norway, Portugal, Saudi Arabia, South Korea (Republic of Korea), Spain, Switzerland, United Kingdom of Great Britain and Northern Ireland, United States of America, Viet Nam.
+
+Here is Variants information for the M548 American Tracked Cargo Carrier:
+The M548A1 is INA.
+The M548A2 is INA.
+The M548A3 is INA.
+The M1015 is Modified M548 to carry Electronic Warfare Shelters..
+
+Here is System information for the M548 American Tracked Cargo Carrier:
+The Alternative Designation is M548.
+The Type is Cargo Carrier.
+The Manufacturer is FMC Corp..
+The Configuration is Tracked.
+The Crew is 1.
+The Passengers is 3.
+
+Here is Dimensions information for the M548 American Tracked Cargo Carrier:
+The Length is 5.75 m.
+The Width is 2.68 m.
+The Height is 2.68 m.
+The Weight, Combat is 12.88 tons.
+
+Here is Automotive information for the M548 American Tracked Cargo Carrier:
+The Engine Name is Detroit Diesel 6V53.
+The Engine Type is Diesel.
+The Engine Power is 210 hp.
+The Maximum Range is 460 km.
+The Maximum Speed is 53 km/h.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.56 m.
+The Trench is 1.67 m.
+The Fording is Amphibious.
+
+Here is Main Weapon System information for the M548 American Tracked Cargo Carrier:
+The Note is The M548 tracked carrier can be armed with a pintle-mounted 12.7 mm or 7.62 mm machine gun over the cab for self-defense..
+
+Here is Protection information for the M548 American Tracked Cargo Carrier:
+The Armor is None.
+The Applique Armor is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

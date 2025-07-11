@@ -1,0 +1,43 @@
+This document describes the Puma LE American Unmanned Aerial Vehicle (UAV).
+
+Puma LE (Long Endurance) reflects AeroVironment’s deep recognition of the features warfighters require from an extended-mission unmanned aircraft system. At just 22.5 pounds, this ultra-lightweight Group 2 aircraft is launchable by hand or bungee and provides up to 5.5 hours flight endurance, delivering Group 2 capabilities in a Group 1 footprint. Puma LE is All Environment, and provides an operational range of 60 kilometers in land and maritime environments when used with AeroVironment’s Long-Range Tracking Antenna. The secondary payload bay contains dedicated power and ethernet, providing 3.4 pounds of payload capacity in addition to the integrated Mantis i45 gimbaled EO/IR sensor and NVG-visible laser illuminator for expanded mission capabilities.
+
+Equally important, Puma LE has been designed to maximize our customers’ investment. Its plug-and-play, interoperable LRU components can be shared across other AeroVironment Puma AE aircraft, reducing logistical and training costs and enabling customers to optimize their fielded systems.
+
+Puma LE joins the Puma All Environment Family to deliver Group 2 capabilities in a Group 1
+optimized, two-case mission packout. This ultra-lightweight Group 2 aircraft nearly doubles
+the time on station of Puma 3, featuring 5.5 hours of flight endurance and a 60+ km range
+when used with the Long Range Tracking Antenna (LRTA). Puma LE comes equipped with
+AeroVironment’s Mantis™ i45 gimbaled payload featuring dual Electro-Optical (EO) cameras,
+an Infrared (IR) camera, a low-light camera, and an NVG-visible laser illuminator. The aircraft
+is multi-mission capable, with a total payload capacity of 5.5 lb. and a secondary payload
+bay with dedicated power supply and Ethernet. The system was built for the integration of
+multi-mission payloads such as Electronic Warfare, RF Geolocation or Communications Relay.
+Puma LE utilizes a precise, waypoint-controlled skid landing and does not require additional
+equipment for recovery.
+
+This equipment has proliferated into the following countries: United States of America.
+
+Here is System information for the Puma LE American Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Puma LE.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is AeroVironment.
+The Endurance is 5.5 hours.
+The Payload Capacity is 2.5 kg.
+The Payloads is Mantis i45 Gimbaled payload with dual 15mp EO cameras, 50xf zoom, IR camera and low light camera for night operations, and high power illuminator. Secondary Payload Bay: integrates multi-mission payloads including Electronic Warfare, Communications Relay and others..
+The GCS is Common GCS with Puma, Raven and Wasp AE.
+The Launch and Recovery Method is Hand-launched, bungee launch (optional) Autonomous or manual skid landing.
+
+Here is Dimensions information for the Puma LE American Unmanned Aerial Vehicle (UAV):
+The Length is 2.1 m.
+The Wingspan is 4.6 m.
+The Weight is 11.8 kg.
+
+Here is Automotive information for the Puma LE American Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Maximum Speed is 46-76 km/h, 25 knots cruise, 41 knots dash.
+The Range is 20 km, up to 60 km with LRTA.
+The Maximum Altitude is 500 ft (152 ml) AGL Max Launch Alt 10,000 (3048 ml).
+

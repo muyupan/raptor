@@ -1,0 +1,25 @@
+This document describes the Bittium Tough VoIP Finnish Distributed VoIP Service Network.
+
+Bittium Tough VoIP Service creates a highly resilient, distributed digital voice service in a tactical network. Tough VoIP Service can rapidly adapt to changes in the network, and the network can be split or merged while maintaining the service available for all clients that are accessible. When network islands merge with the network, the clients will have a core network connection automatically.
+
+This equipment has proliferated into the following countries: Finland.
+
+Here is System information for the Bittium Tough VoIP Finnish Distributed VoIP Service Network:
+The Alternative Designation is Bittium Tough VoIP.
+The Type is Distributed VoIP Service Network.
+The Crew is INA.
+The Designed for MANET Networks is Tough VoIP Service is designed to be operational in Mobile Ad Hoc Networks..
+The Easy Configuration is Requires only global parameters, no need to define network configuration for Tough VoIP Service nodes..
+The Seamless Connectivity is Connects users seamlessly across tactical and fixed networks..
+The Easy System Integration is Interoperability with 3rd party SIP VoIP services and VoIP clients..
+The Optimized for Tactical Networks is Optimized call features such as managed group calls, PTT calls, call prioritization (MLPP) and user mobility..
+The Bridging CNR to VoIP Networks is Enables voice communication between VoIP and CNR networks..
+The Note #1 is Due to its architecture, the system can connect to other VoIP systems (some which are not from Bittium). The system is supported by Free Switch and Cisco Unified Communications Manager call managers..
+The Note #2 is The VoIP Service can support up to 1,000 Tough VoIP Service nodes, with 200 registered users/node with a maximum of 10,000 users in the entire network when matched with the Bittium TAC WIN Tactical Router without transcoding. Each node can support a maximum of 50 active calls at a given time..
+
+Here is Dimensions information for the Bittium Tough VoIP Finnish Distributed VoIP Service Network:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+

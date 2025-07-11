@@ -1,0 +1,134 @@
+This document describes the Osorio Brazilian Main Battle Tank (MBT).
+
+The Engesa EE-T1 Osório was a Brazilian main battle tank prototype. It was developed as a privately funded venture by Engesa, with little government support. It was intended to be sold first to Arab and other Third World countries, jump-starting production — and enabling the Brazilian Army to later place its own orders without having to fund development costs. However macro-political events including the Gulf War and American political pressure led to the tank's demise, and the tank was never acquired by the Brazilian Army.
+
+This equipment has proliferated into the following countries: Brazil.
+
+Here is System information for the Osorio Brazilian Main Battle Tank (MBT):
+The Alternative Designation is Brazilian Osorio Main Battle Tank.
+The Type is Tank.
+The Manufacturer is Engesa.
+The Crew is 4.
+
+Here is Dimensions information for the Osorio Brazilian Main Battle Tank (MBT):
+The Length (gun forward) is 10.1.
+The Barrel Length is 2.97.
+The Width is 3.2.
+The Height is 2.37.
+The Weight, Combat is 43.7.
+The Hull Length is 7.13.
+
+Here is Automotive information for the Osorio Brazilian Main Battle Tank (MBT):
+The Engine Name is Dutch MWM TBD 234.
+The Engine Type is Diesel.
+The Engine Power is 1040.
+The Cruising Range is 550.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 1.15.
+The Fording Depth, without Preparation is 1.2.
+The Fording Depth, with Preparation is 2.
+The Ditch is 3.
+
+Here is System information for the Osorio Brazilian Main Battle Tank (MBT) of the Main Weapon System:
+The Name is GIAT G Smoothbore Gun.
+The Type is Machine Gun.
+The Length, Barrel is 120.
+The Weight is 3500.
+The Muzzle Velocity is APFSDS: 1790m/s or HEAT: 1100m/s.
+The Maximum Rate of Fire is 12.
+The Maximum Elevation is 18.
+The Minimum Elevation is -7.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Firing Range is INA.
+The Effective Firing Range is APFSDS: 4,000m or HEAT: 3,000m.
+The Sights is SCS-5 and LRS-5.
+The Note #1: is Main gun is stabilized in two planes. It's aiming and turret rotation devices are based on electricity. LRS-5 is combined periscope type sight. It combines optical sight with day and thermo vision night channels, also laser rangefinder and ballistic computer. Commander's sight differs from gunners in absence of laser rangefinder and ballistic computer. It is placed in commanders turret and connected with a main gun. Commander is able to aim and to fire independently from gunner. Tank's commander use 5 periscopes for 360 degree observation..
+
+Here is Ammunition information for the Osorio Brazilian Main Battle Tank (MBT) of the Main Weapon System:
+The Name is OFL G1.
+The Type is APFDS.
+The Caliber is 120.
+The Basic Load is 38 rounds.
+The Complete Round is 18.7.
+The Projectile is 6.3.
+The Weight, sabot is 3.8.
+The Material, sabot is Tungsten.
+The Muzzle velocity is 1650.
+The Armor Penetration is 500mm @ 2000m.
+The Note #1: is It also fires APFSDS, HE, HESH, HEAT, APERS, WP, and canister rounds..
+
+Here is System information for the Osorio Brazilian Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is MG3.
+The Type is General Purpose Machine gun.
+The Caliber is 7.62.
+The Length, Barrel is 565.
+The Weight is 11.5.
+The Muzzle Velocity is 820.
+The Maximum Rate of Fire is 1000-1300.
+The Maximum Elevation is INA.
+The Minimum Elevation is INA.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Firing  Range is 600.
+The Effective Firing Range is 200-1200.
+The Magazine is INA.
+The Sights is Open tangent iron sights.
+The Note #1: is The other weapon system is located on the top of the roof..
+
+Here is Ammunition information for the Osorio Brazilian Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is INA.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62x51NATO.
+The Basic Load is 1000.
+The Armor Penetration is Yes.
+
+Here is System information for the Osorio Brazilian Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is M2Browning .50 Caliber Machine Gun.
+The Type is Heavy Machine gun.
+The Caliber is .50.
+The Length, Barrel is 1143.
+The Weight is 83.78.
+The Muzzle Velocity is 2910.
+The Maximum Rate of Fire is 450-600.
+The Maximum Firing  Range is 7400.
+The Effective Firing Range is 1800.
+The Magazine is INA.
+The Sights is INA.
+The  is .
+The  is .
+
+Here is Ammunition information for the Osorio Brazilian Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is INA.
+The Type is INA.
+The Caliber is 12.7.
+The Cartridge is .50 BMG.
+The Basic Load is 2000.
+The Armor Penetration is INA.
+
+Here is Fire Control System information for the Osorio Brazilian Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is Yes.
+The Main Gun Stabilization is Yes.
+The Direct Fire is INA.
+The Indirect Fire is INA.
+
+Here is Protection information for the Osorio Brazilian Main Battle Tank (MBT):
+The Hull Armor is Composite armor containing steel, aluminum, carbon fibers and ceramics.
+The Turret Armor is Composite armor containing steel, aluminum, carbon fibers and ceramics.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is Rated to defeat any anti-tank projectile over the frontal arc that was in service in 1986.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The Automatic Fire Suppression is Yes.
+

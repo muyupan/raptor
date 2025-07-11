@@ -1,0 +1,60 @@
+This document describes the Harop Israeli Loitering Munition Unmanned Aerial Vehicle (UAV).
+
+The HAROP is a standoff loitering attack weapon system designed to locate and precisely attack targets.
+
+The HAROP loitering missile (LM) type platform serves as an Electro-Optically guided attack weapon. HAROP LMs are launched from ground-based launchers and controlled via a two-way data link for full man-in-the-loop operation.
+
+HAROP is used to attack high-value targets, including full mission capabilities, from search, through the attack, and up to battle damage assessment. Combining characteristics of a missile and a UAV, HAROP enables effective mission execution without relying on other external systems for targeting and mission intelligence
+
+The HAROP LMs are programmed before launch by the GCS to autonomously fly to a pre-defined “Holding Area”, where they loiter. The MCS periodically checks their position and status during the route to the “Holding Area”. The MCS operator can thus control a number of HAROP LMs that loiter over a “Holding Area”, he can select one LM for target search and attack, while the others are monitored periodically. The operator directs the selected LM to the target area and uses the video image to select a target and to attack it. The HAROP tracks the target and then dives on it, detonating the warhead upon impact. If required the attack can be aborted and the operator can re-attack with the same LM.
+
+This equipment has proliferated into the following countries: Azerbaijan, Germany, India, Israel, Singapore, Turkey.
+
+Here is System information for the Harop Israeli Loitering Munition Unmanned Aerial Vehicle (UAV):
+The Alternative Designation is Harop; Harpy 2.
+The Type is Loitering Munition Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Israel Aerospace Industries (IAI).
+The Ground Crew is 3-4 (Est).
+The Flight Control is Mission Control Shelter
+(MCS) controls vehicle with
+a “man-in-the-loop” able to
+engage or abort the attack
+in real time. In event of an
+abort, reverts to loiter
+mode until attack is
+restarted..
+The Launch Method is Solid-propellant booster
+rocket from ground-based
+storage container.
+The Recovery / Landing Method is Intentionally expendable,
+non-recoverable.
+The Launcher Trucks per Battery is INA.
+The Missiles per Launcher is 12.
+The Total Missiles per Battery is INA.
+The Precision Strike is Less than 1 meter precision strike with 16 Kg warhead.
+
+Here is Dimensions information for the Harop Israeli Loitering Munition Unmanned Aerial Vehicle (UAV):
+The Length, Overall is 2.5 m.
+The Height, Overall is 0.3 m.
+The Wingspan is 3.0 m.
+The Weight, Maximum Launch is 135 kg.
+
+Here is Automotive information for the Harop Israeli Loitering Munition Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Rotary Engine.
+The Engine Power is 38 hp.
+The Propulsion is Rotary engine driving a 2-blade pusher propeller.
+The Maximum Speed is 416.7 km/h.
+The Range is 1,000 km.
+The Communication Range is 200 km.
+The Endurance is up to 9 hours.
+The Maximum Altitude is 4,572 m.
+
+Here is Payload information for the Harop Israeli Loitering Munition Unmanned Aerial Vehicle (UAV):
+The Passive Rada Seeker Sensor is Wide range of frequencies.
+The Electro Optical is Color CCD, FLIR (IAI Tamam POF-200).
+The User Image Capabilities is Images recieved via satcom datalink..
+The Missile is HE-Frag warhead.
+The Max Payload with Warhead is 23.
+The Note is The Harop missiles can be launched from various transportable platforms including sea and ground based canisters or air launched to navigate towards the potential target area. It can be launched at any angle, at a horizontal or vertical trajectory. The sealed container ensures it copes with harsh battlefield conditions. The launcher has a fuelling system to provide all-time readiness..
+

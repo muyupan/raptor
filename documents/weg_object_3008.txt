@@ -1,0 +1,77 @@
+This document describes the UAZ Patriot (UAZ-3163) Russian 4x4 Light Utility Vehicle.
+
+The UAZ Patriot (UAZ-3163) Russian 4x4 Light Utility Vehicle is a Russian light utility vehicle. It was introduced in 2005. An updated version is produced since 2015. Originally it was developed as a civilian vehicle. This utilitarian vehicle with good cross-country capability is also used by the military. It uses 4x2 (front-wheel drive) on hard surface roads and 4X4 is engaged only when traveling over tough terrain. The UAZ patriot has been exported to Armenia, and possibly some other countries.
+
+A baseline vehicle has a fully enclosed body with 5-doors. It accommodates drivers plus 4 passengers and can carry 200 kg of cargo. There is a version, that accommodates drivers and up to 8 passengers. Also, there are 2-door and 4-door pickup versions. The full payload capacity is 525 to 800 kg, depending on the version.
+
+The firepower in the back of the vehicles will enable their operators to suppress enemy fire in a radius of up to 2 km. The weapons can be mounted aboard a rotary turret, allowing the user to instantaneously change his arc of fire. Additionally, the vehicle can be equipped with Konkurs or Kornet anti-tank missiles, capable of hitting enemy targets at distances of up to 5 km. It can also be fitted with a 120 mm mortar with an effective range of 9 km.
+
+This equipment has proliferated into the following countries: Armenia, Russian Federation, Syria, Ukraine.
+
+Here is Variants information for the UAZ Patriot (UAZ-3163) Russian 4x4 Light Utility Vehicle:
+The 2-door version is Pick-up truck.
+The 4-door version is Pick-up truck.
+The 5-door version is Fully enclosed.
+The Extended version is 1 Driver + 8 passengers.
+The Mortar carrier is Transport system for an 82mm mortar..
+
+Here is System information for the UAZ Patriot (UAZ-3163) Russian 4x4 Light Utility Vehicle:
+The Alternative Designation is UAZ Patriot; UAZ-3163.
+The Type is Light Utility Vehicle.
+The Configuration is 4x4.
+The Manufacturer is UAZ.
+The Crew is 1.
+The Troop Capacity is 4 passengers.
+The Wheels Central Tire Pressure Regulation System is No.
+The Wheels Size is 225/75R16 or 245/70R16.
+
+Here is Dimensions information for the UAZ Patriot (UAZ-3163) Russian 4x4 Light Utility Vehicle:
+The Length is 4.74 m.
+The Width is 2.0 m.
+The Height is 2.0 m.
+The Weight is 2.67 tons.
+The Ground Clearance is 210 mm.
+
+Here is Automotive information for the UAZ Patriot (UAZ-3163) Russian 4x4 Light Utility Vehicle:
+The Engine Name is ZMZ-409.10.
+The Engine Type is In-line four cylinder, Gasoline.
+The Engine Power is 128.
+The Fuel is A-92.
+The Fuel Capacity is 87.
+The Range is 600.
+The Speed, Maximum Road is 150.
+The Fording Depth is 0.5.
+The Cooling is Water.
+The Gradient, Loaded is 60.
+The Side Slope is 30.
+The Transmission is Manual, 5-speed.
+The Vertical Step is 0.5.
+The Trench is 0.5.
+The Brakes, Front is ventilated disk-type with two cylinders and floating caliper.
+The Brakes, Rear is drum-type, with one cylinder, with automatic adjustment of the clearance between the lining and the drum.
+
+Here is Option 1 information for the UAZ Patriot (UAZ-3163) Russian 4x4 Light Utility Vehicle of the Main Weapon System:
+The Name is 1 x Kord 12.7 mm Heavy Machine Gun.
+The Type is Heavy machine-gun.
+The Caliber is 12.7.
+
+Here is Option 2 information for the UAZ Patriot (UAZ-3163) Russian 4x4 Light Utility Vehicle of the Main Weapon System:
+The Name is 1 x AGS-17 30mm Automatic Grenade Launcher.
+The Type is Automatic Grenade Launcher.
+The Caliber is 30.
+
+Here is Option 3 information for the UAZ Patriot (UAZ-3163) Russian 4x4 Light Utility Vehicle of the Main Weapon System:
+The Name is 1 x 2B14 Podnos 82mm Mortar.
+The Type is Mortar.
+The Caliber is 82.
+
+Here is Option 4 information for the UAZ Patriot (UAZ-3163) Russian 4x4 Light Utility Vehicle of the Main Weapon System:
+The Name is 1 x Konkurs or Kornet.
+The Type is Anti-Tank Missile.
+
+Here is Protection information for the UAZ Patriot (UAZ-3163) Russian 4x4 Light Utility Vehicle:
+The Hull Armor is INA.
+The Applique Armor is INA.
+The NBC Protection System is No.
+The Smoke Equipment is INA.
+

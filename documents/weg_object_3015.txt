@@ -1,0 +1,37 @@
+This document describes the RTK-10 Russian 4x4 Unmanned Ground Vehicle (UGV).
+
+The RTK-10 Russian 4x4 Unmanned Ground Vehicle (UGV) is a small unmanned ground vehicle designed to be used in environments with CBRN contaminants. It is capable of conducting analysis of what contaminants are present as well as some reconnaissance of structures.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the RTK-10 Russian 4x4 Unmanned Ground Vehicle (UGV):
+The Alternative Designation is RTK-10.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is PTK, State Research Centre of Russia.
+The Configuration is 4x4.
+The Crew is Unmanned.
+The Operator is INA.
+The Operating Temperature is -20 to 30°C.
+
+Here is Dimensions information for the RTK-10 Russian 4x4 Unmanned Ground Vehicle (UGV):
+The Length is 1.46 m.
+The Width is 0.74 m.
+The Height is 1.08 m.
+The Weight, Combat is 220 kg.
+
+Here is Automotive information for the RTK-10 Russian 4x4 Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Maximum Speed is 6.12 km/h.
+The Radio Range is 1 km.
+The Fiber-Optic Range is 100 m.
+The Max Gradient is 30°.
+The Trench is 300 mm.
+The Fording is 180 mm.
+The Endurance is 3 h continuous.
+
+Here is Protection information for the RTK-10 Russian 4x4 Unmanned Ground Vehicle (UGV):
+The Armor is INA.
+The Applique Armor is INA.
+

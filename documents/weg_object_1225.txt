@@ -1,0 +1,46 @@
+This document describes the NTC VISMOD Forposts Russian Reconnaissance Unmanned Aerial Vehicle (UAV).
+
+NTC VISMOD Forposts Russian Reconnaissance Unmanned Aerial Vehicle (UAV).
+This is the Russian designation for Searcher Mk II UAVs being produced domestically. According to the Urals Civil Aircraft Plant, which builds the systems, the Forpost has a flight endurance of 17.5 hours, maximum takeoff weight of 1,000 lb (454 kg) and a max payload of 130 lb (60 kg). The air vehicle has a top speed of 130 mi (210 kmh) and a ceiling of 11,800 ft (3,600 m). The Searcher looks almost identical to the Scout and Pioneer, but is in fact scaled up and is well over twice the size of the Scout.
+
+Here is Variants information for the NTC VISMOD Forposts Russian Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Searcher Mk II is The Mk II is the fourth in a line of UAVs that began development as the Scout (the Searcher was the third generation). The Searcher Mk II is slightly larger, measuring 19 ft 2 in (5.85 m) in height and 28 ft 1 in (8.55 m) in diameter; it has higher maximum takeoff weight and payload at 939 lb (426 kg) and 220 lb (100 kg), respectively. The main benefit of these updates is greater flight endurance at higher altitudes..
+The Searcher Mk III is The most recent variant, the Mk III was launched in 2010 and has over twice the range of the Mk II with two more hours of endurance and a higher ceiling. It is equipped with a four-stroke silent engine, along with a maximum takeoff weight of 961 lb (436 kg) and higher maximum payload weights of 264 lb (120 kg). The Searcher Mk III has an aerial data relay capability for beyond line-of-sight operations. Two simultaneous automatic takeoff and landing systems improve safety..
+The Forpost is This is the Russian designation for Searcher Mk II UAVs being produced domestically. According to the Urals Civil Aircraft Plant, which builds the systems, the Forpost has a flight endurance of 17.5 hours, maximum takeoff weight of 1,000 lb (454 kg) and a max payload of 130 lb (60 kg). The air vehicle has a top speed of 130 mi (210 kmh) and a ceiling of 11,800 ft (3,600 m)..
+
+Here is System information for the NTC VISMOD Forposts Russian Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is NTC VISMOD Forposts Russian Reconnaissance Unmanned Aerial Vehicle (UAV).
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is AAI Corporation.
+The Mission Type is DZ :Reconnoiter LP/OP positions and initial DZ movements.;
+BZ: Identify composition/disposition, direct support to BTG attacks, Target Acquisition, and BDA.;
+SZ: Identify AAs and supply lines..
+The Range is Max Range: 200 km;
+Max Effective Range: 75-100 km;
+Max AGL: 15,000 ft.;
+Max Effective AGL: 7-9,000 ft.;
+Max Flight Duration: 16x hours.
+The Effects is ISR,C2,and Jamming (capability to relay GPS and FM denial)..
+The Targeting is Primarily Movement and Maneuver, but capable of targeting all WFFs..
+The Vulnerability is ADA Systems and poor weather conditions..
+The CBI is 8x Aircraft per DTG.
+
+Here is Dimensions information for the NTC VISMOD Forposts Russian Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Length is 3.41 m.
+The Wingspan is 6.1 m.
+The Height is 1.0 m.
+The Airfoil is NACA 4415.
+The Empty Weight is 77 kg.
+The Gross Weight is 170 kg.
+
+Here is Automotive information for the NTC VISMOD Forposts Russian Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Engine Name is 1 Ã AR741-1101.
+The Engine Type is INA.
+The Engine Power is 38 hp.
+The Maximum Speed is 200 km/h.
+The Cruise Speed is 130 km/h.
+The Maximum Range is 125 km.
+The Service Ceiling is 4,600 m ELOS (Electronic Line Of Sight).
+The Endurance is 16 hours.
+The Note is When outfitted with IE (Increased Endurance) Wings, the CRP (Communications Relay Package) and the 1102 engine, endurance time is increased to 9 hours, wing span is increased to approx. 22 feet (6.7 m), and the service ceiling is 18,000 ft (only with authorization)..
+

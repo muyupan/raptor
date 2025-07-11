@@ -1,0 +1,145 @@
+This document describes the ASLAV-S Australian 8x8 Amphibious Armored Surveillance Vehicle.
+
+ASLAV-S (Surveillance) – is a specialized surveillance vehicle equipped with a hydraulically raised mast mounted thermal imager, laser range finder, day television camera and battlefield surveillance radar RASIT or AMSTAR. The ASLAV-S supports tactical reconnaissance with ground surveillance and observation and can carry four crew and two occasional troops.
+
+The ASLAV-S uses the same hull as the ASLAV-PC and is converted with a mission kit. This includes the RASIT ground surveillance radar, thermal imager, laser rangefinder, daytime TV camera and other observation equipment. It has a crew of four.
+
+The Australian Light Armoured Vehicle (ASLAV) is an eight-wheeled amphibious armored reconnaissance vehicle used by the Australian Army. It was built by General Dynamics Land Systems Canada, and developed from the Canadian Army's LAV-25 and Bison armored fighting vehicles.
+
+In 2014, the Australian army took delivery of 14 upgraded ASLAV-S vehicles. These were equipped with a mast-mounted Multi-Spectral Surveillance Suite (MSSS) featuring stabilized infrared and high-resolution color day still and TV cameras; laser rangefinder; and the Australian version of the DRS Technology Man-portable Surveillance and Target Acquisition Radar (MSTAR ). The system is mounted on a 30-ft (9-m) hydraulic mast installed through the rear roof of the vehicle. This enables long-range target detection and automatic alignment of the sensor package to the detected target location. The MSSS also provides secure voice and digital command, control and communications and precise, jam-resistant navigation via a GPS /inertial navigation system. All MSSS functions can be performed under armor.
+
+The ASLAV is a highly mobile, eight-wheel drive, amphibious armoured fighting vehicle that can be deployed by land, sea or air (in Royal Australian Air Force C-130s or C-17s). It is fitted with GPS, an intra-vehicular navigation system and a radio harness capable of supporting HF, VHF, UHF and digital radios.
+
+The ASLAV is capable of speeds of 100 km/h (62 mph) and has a maximum range in excess of 660 km (410 mi). The eight-wheel drive provides excellent cross-country mobility and redundancy, the vehicle is capable of operation with only four working wheels, and can continue to operate with eight punctured tires through the use of solid-core run-flat tires. It is fully amphibious and is driven in the water by permanent shrouded propellers located at the rear of the hull at speeds of up to 10 km/h (6.2 mph)
+
+This equipment has proliferated into the following countries: Australia.
+
+Here is Variants information for the ASLAV-S Australian 8x8 Amphibious Armored Surveillance Vehicle:
+The ASLAV Type I is The ASLAV Type I is the most numerous type; it is a turreted vehicle derived from the LAV-25 and comes in only one variant.[.
+The ASLAV-25 (Reconnaissance) is ASLAV-25 (Reconnaissance) – is an Armoured Car with a crew of three (commander, gunner & driver). The two man turret has day, thermal and infrared imaging weapon systems, a stabilised M242 25mm dual-feed chain gun and two FN MAG 58 7.62 mm machine guns. The ASLAV-25 conducts troop-level tactical reconnaissance and can carry up to six dismounts in the rear..
+The ASLAV Type II is The ASLAV Type II has no turret and greater internal capacity and is derived from the Canadian Bison Armoured Personnel Carrier. The ASLAV Type II has a crew of two (commander and driver) and is armed with a pintle mounted M2 12.7 mm machine gun. In a number of vehicles, the standard machine gun pintle mount was replaced by a Kongsberg Protector remote weapon station (RWS), which can accommodate either a 12.7 mm machine gun or a Mk 19 40mm automatic grenade launcher. Using a common hull design installed with interchangeable Mission Role Installation Kits (MRIKs), it can be converted into any one of four variants..
+The ASLAV-PC (Personnel Carrier) is is an Armoured Personnel Carrier capable of carrying seven fully equipped troops in support of troop level tactical reconnaissance.
+The ASLAV-C (Command) is is an Armoured Command Vehicle, it is equipped with an enhanced radio installation and radio masts, map boards, stowage compartments, specialised seating and an stowable annex. In addition to the crew, the ASLAV-C can accommodate three staff officers and provides command and control at the Squadron and Regimental Headquarter level..
+The ASLAV-S (Surveillance) is is a specialised surveillance vehicle equipped with a hydraulically raised mast mounted thermal imager, laser range finder, day television camera and battlefield surveillance radar RASIT or AMSTAR. The ASLAV-S supports tactical reconnaissance with ground surveillance and observation and can carry four crew and two occasional troops..
+The ASLAV-A (Ambulance) is is an Armoured Ambulance and is fitted with specialist medical equipment and in addition to the crew can accommodate a medic and three lying patients or six sitting patients..
+The ASLAV Type III is The ASLAV Type III has no turret and is used by members of the Royal Australian Electrical and Mechanical Engineers for repair and recovery. The ASLAV Type III has a crew of two (commander and driver) and usually carries a third mechanic, it is armed with a pintle mounted FN MAG 58 7.62 mm machine gun, although some have been fitted with the Kongsberg Protector RWS. The ASLAV Type III comes in two variants utilising two specialist MRIKs..
+The ASLAV-F (Fitter) is is a maintenance support vehicle that provides a protected mobile workshop for field repair personnel, including vehicle parts and tools, and is fitted with a HIAB 650 crane..
+The ASLAV-R (Recovery) is is an Armoured Recovery Vehicle that is equipped with a heavy winch to recover disabled vehicles to a more accessible location or tow them to a repair facility.
+
+Here is System information for the ASLAV-S Australian 8x8 Amphibious Armored Surveillance Vehicle:
+The Alternative Designation is ASLAV-S.
+The Type is Armored Surveillance Vehicle.
+The Family is ASLAV.
+The Crew is 4.
+The Passenger Capacity is 2.
+The Thermal Image Viewer is equipped with a hydraulically raised mast mounted thermal imager.
+The Laser Range Finder is Yes.
+The Day Vision Television Camera is Yes.
+The Night Vision Television Camera is Yes.
+The Surveillance Radar is Battlefield Surveillance Radar.
+The Radar Frequency is I band.
+The Radar Range is 40 km.
+The Man-portable Surveillance and Target Acquisition Radar (MSTAR) is Yes, the Man-portable Surveillance and Target Acquisition Radar (MSTAR) is a lightweight all-weather battlefield Doppler radar operating in the J band. It is usually used by artillery observers to acquire and engage targets in bad visibility or at night. It is capable of detecting, recognizing and tracking helicopters, slow moving fixed-wing aircraft, tracked and wheeled vehicles and troops, as well as observing and adjusting the fall of shot.
+
+The radar display is an electro-luminescent screen that can be overlaid with a map grid. It also shows the areas of ground visible to the radar and those that are masked by terrain. Target location can be presented as either map coordinates or bearing and distance (polar coordinates) from the radar.
+
+The complete radar weighs 30 kilograms (66 lb) It can detect targets out to 30 kilometres (19 mi), with a maximum range of 42 kilometres (26 mi).
+
+The radar head (antenna and electronics) are connected by remoting cable to the display. The rotating head can be mounted on either a tripod on the ground or an elevated mast, the latter fitted to the Warrior Artillery Observation Post vehicle (FV514), or the Coyote Reconnaissance Vehicle. When fitted to the mast power is taken from the vehicle supply and the display is inside the vehicle. For dismounted use the radar uses standard military rechargeable dry batteries and is man-carried in three loads. The radar can be set up in under three minutes..
+
+Here is Dimensions information for the ASLAV-S Australian 8x8 Amphibious Armored Surveillance Vehicle:
+The Length is 6.53..
+The Width is 2.62.
+The Height is 2.69.
+The Weight, Combat is 13.2 t.
+
+Here is Automotive information for the ASLAV-S Australian 8x8 Amphibious Armored Surveillance Vehicle:
+The Engine Name is 6V53T.
+The Engine Type is Detriot Diesel.
+The Engine Power is 275.
+The Range is 660.
+The Speed, Maximum Road is 100.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 10.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.5.
+The Trench is 2.
+The Fording Depth is Amphibious.
+The Note is The ASLAV-S is fully amphibious with 3 minute preparation. It is propelled on water by two water jets mounted at the rear of the hull..
+
+Here is System information for the ASLAV-S Australian 8x8 Amphibious Armored Surveillance Vehicle of the Main Gun:
+The Name is M242 25mm Bushranger Chain Gun.
+The Type is 25mm Chain Gun.
+The Caliber is 25mm.
+The Manufacturer is Hughes Helicopters (1981–1985)
+McDonnell Douglas Helicopters (1985–2002)
+Alliant Techsystems (2002–2015)
+Orbital ATK (2015–2018)
+Northrop Grumman Innovation Systems (2018–present).
+The In Service is 1981-Present.
+The Proliferation is >11,000.
+The Length is 2,672mm.
+The Barrel Length is 2,175mm.
+The Width is 318mm.
+The Height is 373mm.
+The Weight is 119 kg.
+The Barrels is Single barrel (progressive RH parabolic twist).
+The Action is Open bolt.
+The Rate of Fire is • Cyclic: 200rpm with 1hp or 500rpm with 8hp.
+The Muzzle Velocity is 1,100 metres per second (3,600 ft/s).
+The Maximum Firing Range is 6,800 m.
+The Effective Firing Range is 3,000 m.
+The Sights is INA.
+
+Here is Ammunition information for the ASLAV-S Australian 8x8 Amphibious Armored Surveillance Vehicle of the Main Gun:
+The Type is Rifle.
+The Caliber is 25.
+The Shell is 25×137 mm.
+The Basic Load is 720.
+The Notes is A wide range of ammunition has been developed for this weapon, providing it with the capability to defeat the majority of armored vehicles it is likely to encounter, up to and including some light tanks. The ammunition used in the M242 may also be used in a variety of weapons such as the GAU-12 Equalizer, the French Giat M811, or the Swiss Oerlikon KBA weapon system. It has the capability to fire U.S. manufactured ammunition as well as the NATO equivalents thereof. Primarily though, it fires six types of rounds: the M791, M792, M793, M910, MK210, and M919..
+
+Here is System information for the ASLAV-S Australian 8x8 Amphibious Armored Surveillance Vehicle of the Auxiliary Weapon System:
+The Name is Mk 48 Machine Gun.
+The Alternative Designation is Mark 48, or Mk 48, or Maximi.
+The Type is Light Machine Gun.
+The Caliber is 7.62mm.
+The Proliferation is Widely Proliferated.
+The Manufacturer is FN Herstal.
+The In Service is 2003-Present.
+The Length is 1,000 mm.
+The Barrel Length is 502 mm.
+The Weight is 8.2 kg (22.006 lb) empty
+11.2 kg (24.7 lb) w/ 100 rounds.
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 710 (± 50) rounds/min.
+The Maximum FIring Range is 3,600 m.
+The Effective Firing Range is 800 m.
+The Feed System is Disintegrating belt (M13 link).
+The Sights is INA.
+
+Here is Ammunition information for the ASLAV-S Australian 8x8 Amphibious Armored Surveillance Vehicle of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO (STANAG 2310).
+The Basic Load is 1,200.
+
+Here is Fire Control information for the ASLAV-S Australian 8x8 Amphibious Armored Surveillance Vehicle:
+The Name is INA.
+The Computerized FCS is No.
+The Thermal Sight Vehicle Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is INA.
+The Automatic Fire Suppression is Yes.
+
+Here is Protection information for the ASLAV-S Australian 8x8 Amphibious Armored Surveillance Vehicle:
+The Hull Armor is Armor of the ASLAV-S provides protection against small-arms fire, mine-blasts and artillery fragments..
+The Turret Armor is INA. The ASLAV-S is fitted with a two-man turret, similar to that of the LAV-25..
+The Applique Armor is Protection of this reconnaissance vehicle can be increased by fitting add-on ceramic armor tiles. Vehicle can be also fitted with slat armor, which improves protection against RPG rounds..
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

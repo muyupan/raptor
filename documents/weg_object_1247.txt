@@ -1,0 +1,144 @@
+This document describes the 2K12 Kub (SA-6 Gainful) Russian Surface-to-Air Missile System.
+
+The 2K12 "Kub" (NATO reporting name: SA-6 "Gainful") mobile surface-to-air missile system is a Soviet low to medium-level air defense system designed to protect ground forces from air attack. "2К12" is the GRAU designation of the system.
+
+Each 2K12 battery consists of a number of similar tracked vehicles, one of which carries the 1S91 (SURN vehicle, NATO designation "Straight Flush") 25 kW G/H band radar (with a range of 75 km (47 mi)) equipped with a continuous wave illuminator, in addition to an optical sight. The battery usually also includes four triple-missile transporter erector launchers (TELs), and four trucks, each carrying three spare missiles and a crane. The TEL is based on a GM-578 chassis, while the 1S91 radar vehicle is based on a GM-568 chassis, all developed and produced by MMZ.
+
+The 2K12 system shares many components with the 2K11 Krug (SA-4) system. In many ways they are designed to complement each other; 2K11 is effective at long ranges and high altitudes, 2K12 at medium ranges and intermediate altitudes.
+
+The system is able to acquire and begin tracking targets using the 1S91 "Самоходная установка разведки и наведения" (SPRGU - "Self-propelled Reconnaissance and Guidance Unit" / NATO: "Straight Flush" radar) at 75 km (47 mi) and begin illumination and guidance at 28 km (17 mi). IFF is also performed using this radar. It can only guide one or two missiles to a single target at any time. The missile is initially command guided with terminal semi-active radar homing (SARH), with target illumination provided by the "Straight Flush" radar. Detonation is via either the impact or proximity fuze. On the latest models, this vehicle is also fitted with an optical tracking system which allows engagement without the use of the radar (for active RF emissions stealth reasons, or due to heavy ECM jamming) in which case the effective altitude is limited to 14 km/46000 ft. The optical tracking method also allows engagements to altitudes below that where the radar is able to track targets. The maximum target speed is around Mach 2 for head-on engagements and Mach 1 for tail-chase engagements. The top speed of the missile is approximately Mach 2.8.
+
+In contrast to the elaborate Patriot missile or even the simpler Hawk system fielded by US forces, most of the system rides on two tracked self-propelled vehicles, rather than towed or mounted on trucks, and either the launcher or control vehicle can be set to launch in only 15 minutes after changing location.
+
+This equipment has proliferated into the following countries: Algeria, Angola, Armenia, Bosnia and Herzegovina, Bulgaria, Cuba, Czech Republic, Egypt, Ethiopia, Hungary, India, Iran (Islamic Republic of), Kazakhstan, Libya, Myanmar, North Korea (Democratic People's Republic of Korea), Poland, Romania, Russian Federation, Serbia, Slovakia, Syria, Tanzania, Turkmenistan, Ukraine, Viet Nam, Yemen.
+
+Here is Variants information for the 2K12 Kub (SA-6 Gainful) Russian Surface-to-Air Missile System:
+The 2K12 Kub is The 2K12 Kub (NATO: SA-6 Gainful) was the baseline variant of the Kub family of medium-range surface-to-air missile (SAM) systems..
+The 2K12M Kub-M is This is a slightly modernised variant of the Kub, which completed development in 1968, a year after the baseline variant of the Kub entered service..
+The 2K12E Kvadrat is The Kvadrat is an export variant of the 2K12M Kub-M and was developed in 1971. It featured improvements to make it more suited to operation in tropical climates, and featured changes to the ECM protection system and the IFF system..
+The 2K12M1 Kub-M1 is This is a modernised variant of the Kub, which was accepted into service with the Russian armed forces in January 1973..
+The 2K12M3 Kub-M3 is The Kub-M3 is a modernised variant of the Kub complex, and was accepted into service with the Soviet armed forces in 1976..
+The 2K12M3S Kub-M3S is This was a variant of the Kub-M3 which is very similar in terms of capabilities, but was also provided with additional jamming resistance against some forms of EW..
+The 2K12 Kub-M4 is The Kub-M4 was a hybrid system which uses both Kub and Buk elements, and was implemented to speed along the development of the 9K37 Buk..
+The 2K12M3A Kub-M3A is This was a modernised variant of the Kub-M3 which was capable of launching the more modern 3M9M4 missile..
+The Yugoimport 2K12M2 Kub-M2 is The Kub-M2 is an upgraded variant of the Kub-M which was demonstrated by Serbia and on 23 November 2012, and is thought to have entered service..
+The Akash is This is an Indian modernised variant of the Kub, using a large number of indigenously-developed system components. It is known to have entered service with the Indian armed forces in 2014..
+The 2K12-2D Kvadrat-2D is This was a modernised variant of the Kvadrat which underwent many improvements to the radar and vehicle mission systems..
+The Kvadrat-MA is The Kvadrat-MA is a deeply modernised variant of the 2K12E Kvadrat offered by Belarus, using locally-developed components..
+
+Here is System information for the 2K12 Kub (SA-6 Gainful) Russian Surface-to-Air Missile System:
+The Alternative Designations is 2K12 Kub; SA-6 Gainful.
+The Type is Tracked medium-range surface-to-air missile system.
+The Manufactuer is Ulyanovsk Mechanical Plant (SURNs)
+ZiK (TELs)
+
+Still in Service in over 25 countries through Russia, Africa, and Asia..
+The Target is Low to medium altitude FW and  heli for SA-6a. FW, heli, CM for SA-6b FW, heli, TBM, CM, UAV, and ground  targets for SA-6b/Kvadrat-M4..
+The In Service is 1960-Present.
+The Chassis is Modified PT-76.
+The Launch Vehicle is 2P25 SPU Launch Vehicle.
+The Crew is 3.
+
+Here is Dimensions information for the 2K12 Kub (SA-6 Gainful) Russian Surface-to-Air Missile System:
+The Length, Hull is 6.79.
+The Length, with Missiles is 7.39.
+The Height, Hull Top is 1.80.
+The Height, with Missiles is 3.45.
+The Width is 3.18.
+The Tracks Length on the Ground is 3.80.
+The Track Width is 0.36.
+The Ground Clearance is 0.40.
+The Combat Weight is 14,000.
+The Ground Pressure is 0.48 kg/cm sq.
+
+Here is Automotive information for the 2K12 Kub (SA-6 Gainful) Russian Surface-to-Air Missile System:
+The Engine Name is Model V-6R.
+The Engine Type is Water-cooled, in-line 6-cylinder diesel.
+The Engine Power is 240 hp at 1,800 rpm.
+The Power-to-weight ratio is 17.14 hp/metric ton.
+The Fuel Capacity is 250 Liters.
+The Suspension is torsion bar, 6 road wheels, rear drive, front idler, two hydraulic shock absorbers, no return rollers.
+The Transmission is manual, 5 forward and 1 reverse gears.
+The Electrical system is 24 v.
+The Batteries is 2 x 12 v, 100 Ah (for vehicle).
+The Maximum Speed is 44.
+The Maximum Range, Road is 260.
+The Vertical Obstacle is 1.00.
+The Trench is 2.50.
+The Gradient is 60.
+The Side Slope is 30.
+The Fording is 1.10.
+
+Here is Communications information for the 2K12 Kub (SA-6 Gainful) Russian Surface-to-Air Missile System:
+The Tactical Radio is Depends on which country the SA-6 is operating in..
+
+Here is Missile (Option 1) information for the 2K12 Kub (SA-6 Gainful) Russian Surface-to-Air Missile System of the Armament:
+The Name is Kub-M1.
+The Missiles per TEL is 3 x Kub-M1 Missiles.
+The Guidance System is semi-active radar homing.
+The Engagement Range is 4–23 km.
+The Missile Weight is 630 kg.
+The Engagement Altitude is 80–8,000 m.
+The Missile Speed is Mach 1.75.
+The Maximum Target Speed is Mach 1.75.
+The Response Time is 22–24.
+The Deployment Time is 5.
+
+Here is Missile (Option 2) information for the 2K12 Kub (SA-6 Gainful) Russian Surface-to-Air Missile System of the Armament:
+The Name is Kub-M3.
+The Missiles per TEL is 3 x Kub-M3 Missiles.
+The Guidance System is semi-active radar homing.
+The Engagement Range is 4–25 km.
+The Engagement Altitude is 20–8,000 m.
+The Missile Speed is Mach 2.
+The Maximum Target Speed is Mach 1.75.
+The Response Time is 22–24.
+The Missile Weight is 630 kg.
+The Deployment Time is 5.
+
+Here is Missile (Option 3) information for the 2K12 Kub (SA-6 Gainful) Russian Surface-to-Air Missile System of the Armament:
+The Name is Kub-M4.
+The Missiles per TEL is 3 x Kub-M4 Missiles.
+The Guidance System is semi-active radar homing.
+The Engagement Range is 4–24 km.
+The Engagement Altitude is 30–14,000 m.
+The Missile Speed is Mach 2.
+The Maximum Target Speed is Mach 1.75.
+The Response Time is 24.
+The Deployment Time is 5.
+
+Here is Fire Control information for the 2K12 Kub (SA-6 Gainful) Russian Surface-to-Air Missile System:
+The FCS Name is INA.
+The Computerized FCS is Yes.
+The EO sighting system is TV.
+The Commander and driver is IR.
+The IFF is Pulse-doppler.
+
+Here is Additional Radar Systems Available information for the 2K12 Kub (SA-6 Gainful) Russian Surface-to-Air Missile System of the Radar Vehicle:
+The Note is The 2K12 can also be used at a regimental level, if used as such it can be accompanied by a number of additional radar systems for extended air search at longer range and lower altitude, to supplement the 1S91 "Straight Flush". These systems include the:
+
+P-12 "Spoon Rest", a VHF early warning radar (also used by the SA-2), with a 200 kilometres (120 mi) range.
+
+P-40 "Long Track", an E band early warning radar (also used by the SA-4 and SA-8), with a 370 kilometres (230 mi) range.
+
+P-15 "Flat Face A", a UHF early warning radar (also used by the SA-3, with a 150 kilometres (93 mi) range.
+
+"Thin Skin" or "Side Net" E band height finding radar (also used by the SA-2, SA-4 and SA-5, range 240 km/148 miles)
+
+"Score Board" IFF radar
+
+The "Spoon Rest" and "Thin Skin" are mounted on a truck, "Long Track" on a tracked vehicle (a modified AT-T) and "Flat Face" on a van. It is unknown what kind of mounting the "Score Board" has.
+
+Without the P-40 "Long Track" mobile radar vehicle, the 2K12 is unable to track aircraft at high altitudes..
+
+Here is Protection information for the 2K12 Kub (SA-6 Gainful) Russian Surface-to-Air Missile System:
+The Hull Armor Type is The SA-6 vehicle is based to the ZSU-23-4 self-propelled air defence system and the ASU-85 self-propelled anti-tank gun. The transporter vehicle is made of all-welded steel with the crew compartment at the front, missiles on the turntable immediately behind the crew compartment and the engine at the rear..
+The Turret Armor is INA.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes, collective overpressure and filtration.
+The Smoke Protection is INA.
+

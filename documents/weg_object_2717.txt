@@ -1,0 +1,28 @@
+This document describes the British Battlefield Inoculation Remote Initiation System (BIRIS).
+
+BIRIS is a secure, UHF digital radio-controlled system designed for the remote initiation of explosives and pyrotechnics for conventional demolitions and battle simulation. The system consists of one transmitter and up to 10 receiver units, each receiver capable of initiating 10 lines, allowing a complete system to initiate up to 100 lines. Receivers can be configured to be either individually or collectively addressed. The UHF digital signal provides enhanced flexibility over hard wire systems. Features include a manual on/off key with two-handed key press to transmit firing commands, comprehensive error checking process to ensure integrity of firing commands, programmable firing sequence and firing history.
+
+This equipment has proliferated into the following countries: Australia, Canada, Myanmar, New Zealand, United Kingdom of Great Britain and Northern Ireland, United Nations, United States of America.
+
+Here is System information for the British Battlefield Inoculation Remote Initiation System (BIRIS):
+The Alternate Designation is Battlefield Inoculation Remote Initiation System (BIRIS).
+The Type is Remote Wireless Initiator.
+The Manufacturer is MAS Zengrade / Gryphon.
+The Crew is 1.
+The Operating Range is 3 km in urban areas, 3-5 km in open terrain and 10-25 km line of sight.
+The Firing Output Power is 300 mJ at 50 V.
+The Frequency Range is UHF: 385-390 MHz or 405-410 MHz.
+The Power Source (Transmitter) is AA Batteries (Alkaline or Lithium).
+The Power Source (Receiver) is C Batteries (Alkaline).
+The Environmental Temperature Range is -30 to +55°C.
+
+Here is Dimensions information for the British Battlefield Inoculation Remote Initiation System (BIRIS):
+The Width (Transmitter) is 100 mm.
+The Width (Receiver) is 160 mm.
+The Depth (Transmitter) is 50 mm.
+The Depth (Receiver) is 95 mm.
+The Height (Transmitter) is 300 mm.
+The Height (Receiver) is 300 mm.
+The Weight (Transmitter) is 2.1 kg.
+The Weight (Receiver) is 4.4 kg.
+

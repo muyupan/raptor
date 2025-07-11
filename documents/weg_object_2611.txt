@@ -1,0 +1,83 @@
+This document describes the BTR-MDM Rakushka-M Russian Amphibious/Airborne Armored Personnel Carrier (APC).
+
+The BTR-MDM Rakushka-M (hereafter referred to as Rakushka) is an armored personnel carrier based on the hull of a BMD-4M, designed to be parachuted into combat alongside the BMD-4M and provide protected mobility for a complete infantry section. The Rakushka is likely to form the base vehicle for C2 platforms, ambulances, and other support platforms as the BMD-4 family develops.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation.
+
+Here is Variants information for the BTR-MDM Rakushka-M Russian Amphibious/Airborne Armored Personnel Carrier (APC):
+The BTR-MDM Rakushka-M is The BTR-MDM Rakushka-M (hereafter referred to as Rakushka) is an armoured personnel carrier based on the hull of a BMD-4M, designed to be parachuted into combat alongside the BMD-4M and provide protected mobility for a complete infantry section..
+The BTR-MD Rakushka is Russia’s airborne forces, whose numbers will be doubled by 2020, are set to take possession of two new vehicles: the BMD-4M airborne combat vehicle and the BTR-MD Rakushka (“shell”) universal armored personnel carrier. The vehicles will be ready to enter service with the armed forces by spring 2015, when dozens of them will drive through Red Square for the Victory Day parade on May 9, 2015. In the next 10 years the army will buy 1,500 units of the former and 2,500 units of the latter. The Rakushka will become the workhorse of the Russian Airborne Forces, replacing the BTR-Ds that were acquired 40 years ago..
+The BMD-4M is The BMD-4M is a tracked AFV technically classified as an IFV. It is equipped with sufficient firepower to enable an airborne formation to generate its own fire support on the battlefield without the need for additional supporting units..
+
+Here is System information for the BTR-MDM Rakushka-M Russian Amphibious/Airborne Armored Personnel Carrier (APC):
+The Alternative Designation is BTR-MDM Rakushka-M.
+The Type is Amphibious/Airborne Armored Personnel Carrier (APC).
+The Manufacturer is Volgograd tractor factory.
+The Family is BTR Series.
+The Crew is 2.
+The Passenger Capacity is 13.
+The Payload Capacity is 2,000 kg.
+
+Here is Dimensions information for the BTR-MDM Rakushka-M Russian Amphibious/Airborne Armored Personnel Carrier (APC):
+The Length is 6.085 m.
+The Width is 3.15 m.
+The Height is 2.7 m.
+The Track Length is 2.744 m.
+The Track Width is 480 mm.
+The Weight, Combat is 13,200 kg.
+The Ground Clearance is 0.10 m (3.9 in) to 0.50 m (19.7 in) (normal is 420 mm).
+
+Here is Automotive information for the BTR-MDM Rakushka-M Russian Amphibious/Airborne Armored Personnel Carrier (APC):
+The Engine Name is UTD-29T.
+The Engine Type is in line-4, water-cooled, diesel.
+The Engine Power is 500.
+The Power-to-Weight Ratio is 34hp/t.
+The Fuel Capacity is 450 liters.
+The Gearbox is Manual; Fwd: 4, Rev: 1.
+The Electrical System is 24V.
+The Suspension is hydropneumatic.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Obstacle is 0.80 m.
+The Trench is 1.5 m.
+
+Here is System information for the BTR-MDM Rakushka-M Russian Amphibious/Airborne Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 2 × Bow-Mounted 7.62 mm PKTM Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Manufacturer is Degtyaryov plant.
+The Length is 1098.
+The Width is 195.
+The Height is 170.
+The Weight is 10.5 kg.
+The Rate of Fire is 700-800 Rounds per minute.
+The Muzzle Velocity is 850 ms.
+The Maximum Firing Range is 4,000 m.
+The Effective Firing Range is 1,500 m.
+The Belt Capacity is 250 Rounds.
+The Sights is Tangent iron sights.
+
+Here is Ammunition information for the BTR-MDM Rakushka-M Russian Amphibious/Airborne Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7,62х54R.
+The Basic Load is 4,000 Rounds.
+
+Here is Fire Control information for the BTR-MDM Rakushka-M Russian Amphibious/Airborne Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is No.
+The Thermal Sight Vehicle Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is INA.
+
+Here is Protection information for the BTR-MDM Rakushka-M Russian Amphibious/Airborne Armored Personnel Carrier (APC):
+The Hull Armor is The hull is built from welded aluminum, which is thought to be fitted with additional ceramic plates that are spaced to increase protection against armor-piercing projectiles..
+The Turret Armor is The turret is built from welded aluminium with two steel plates fixed to the front and sides. The first plate is attached directly to the turret and the second is fixed on top of it..
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, The turret is also fitted with 902 toucha smoke-grenade launchers that can be used to obscure the vehicle from view..
+

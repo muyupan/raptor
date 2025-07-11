@@ -1,0 +1,215 @@
+This document describes the T-64BV Ukrainian Main Battle Tank (MBT).
+
+The T-64BV is a T-64B upgraded with ERA added to the hull and turret. The T-64BV can be differentiated from the T-64B by the large quantity of ERA added to the turret and hull. T-64BV may appear similar to a T-72 once up-armored. The two may be separated either by the way that the ERA is added to the turret, which on the T-72 may simply consist of ERA tiles added flat to the turret instead of in an arrowhead shape. Alternatively, T-72s with arrow-shaped ERA on the turret front will often carry much larger ERA tiles that leave gaps between each section of armor.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is Variants information for the T-64BV Ukrainian Main Battle Tank (MBT):
+The T-64A is Production version of base tank. Tank has a history of reliability problems, and lacks the high armor protection, track skirts, a fcs and ATGM launch capability for t-64b..
+The T-64BK is Command tank version, with 10-m whip antenna..
+The T-64B1 is Variant has partial era mounted; the few original t-80s retained were upgraded to this standard.
+The T-64B is T-64B or 447A (1976) – Fitted with redesigned armor, 1A33 fire control system, 9K112-1 "Kobra" ATGM system (NATO code "AT-8 Songster"), TPN-1-49-23 sight, 2A46-2 gun, 2E26M stabilizer and 6ETs40 loader. Later B/BV models have more modern systems 1A33-1, TPN-3-49, 2E42 and a 2A46M-1 gun. From 1985 the T-64B was fitted with stronger glacis armor; older tanks were upgraded with a 16-mm armor plate. Tanks, equipped with the 1,000 hp 6DT engine are known as T-64BM..
+The T-64U/T-64BM2 is Upgrade series marketed by Ukrainian Malyshev in 2001. T-64u prototype featured 2nd gen era, composite armor, and fire suppression equipment. Variant added t-80u fire control (1a42 gunner day sight) and thermal night sight-permits it to replace rf-guided at-8/kobra ATGM with better refleks series (svir/invar) laser-beam rider ATGMs. Ukrainian-developed lbr-guided ATGM Kombat similar to refleks. A later variant changed the fcs to t-80ud/t-90 type, with 1a45 day sight, and AGAT thermal night sight.
+The BM BULAT is This 45 mt upgrade variant is currently being advertised. It includes an 850-hp engine, fcs with 1g46m lrf-based sight and catherine-based thermal night sight. Remote fired 12.7-mm mg and 5,000 m.
+
+Here is System information for the T-64BV Ukrainian Main Battle Tank (MBT):
+The Alternative Designation is T-64BV; Model 2017.
+The Type is Main Battle Tank.
+The Family is T-64 Family.
+The Crew is 3.
+The Maximum Effective Range is 600.
+The Navigation System is SN-4215 networked satellite navigation unit.
+
+Here is Dimensions information for the T-64BV Ukrainian Main Battle Tank (MBT):
+The Length (Gun Forward) is 9.23.
+The Length (Hull) is 6.54.
+The Width is 3.41.
+The Height is 2.17.
+The Weight, Combat is 42.
+The Ground Pressure is INA.
+
+Here is Automotive information for the T-64BV Ukrainian Main Battle Tank (MBT):
+The Engine Name is 5TDF Diesel.
+The Engine Type is Diesel.
+The Power to Weight Ratio is 16.6.
+The Engine Power is 700.
+The Cruising Range is 600.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 50.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.8.
+The Trench is 2.72.
+The Fording Depth (Without Preparation) is 1.4.
+The Fording Depth (With Preparation) is 5.0.
+
+Here is Communication information for the T-64BV Ukrainian Main Battle Tank (MBT):
+The Type is Lybid K-2RB digital radio.
+The Maximum Range is 70.
+
+Here is System information for the T-64BV Ukrainian Main Battle Tank (MBT) of the Main Gun:
+The Name is 1 x D-81T (aka 2A46)125 mm smoothbore gun.
+The Type is 125 mm smoothbore.
+The Max Rate of Fire is 8.
+The Manual Load Time is 1-2.
+The Weight (Barrel) is 1,073.
+The Autoloader is Yes, Carousel-Type Autoloader.
+The Fire on the Move is Yes, Main Gun.
+The Maximum Elevation is +14.
+The Minimum Elevation is -6.
+The Traverse Range is 360.
+The Automatic Loader is Yes.
+The Thermal Sleeve is Yes.
+The Evacuator Type is central bore evacuator.
+The Effective Full Charge (EFC) Life is 600.
+The Breech Type is semi-automatic horizontal sliding breech block.
+The Loading System is Korzina electric and hydraulic automatic loading system.
+The Carousel is The carousel can accommodate 28 two-piece rounds of ammunition, and rotates automatically after each round is fired.
+The Carousel Load Time is 13-15.
+The Basic Load Time is 27.
+The Rate of Fire is 6-8.
+
+Here is Ammunition (Option 1) information for the T-64BV Ukrainian Main Battle Tank (MBT) of the Main Gun:
+The Type is Armor-Piercing Fin-Stabilized Discarding Sabot ((APFSDS)).
+The Caliber is 125.
+The Muzzle Velocity is 2,050.
+The Effective Range is 2,000-3,000.
+The Maximum Range is 4,000.
+The Armor Penetration is 1,000.
+The Muzzle Energy is 15-24.
+The Projectile Dimension is 900.
+The Projectile Weight is 11.
+The Basic Load is 36 Total Rounds any combination of 125mm Projectiles.
+The Note is Entered service in 2005, utilizing a new sabot. Reported to be uranium alloy. For 2A82/2A82-1M cannon on T-80UM-2/T-14s..
+
+Here is Ammunition (Option 2) information for the T-64BV Ukrainian Main Battle Tank (MBT) of the Main Gun:
+The Type is High Explosives (HE).
+The Purpose is High explosive fragmentation fin stabilized. General purpose rounds, for use against infantry, bunkers and light vehicles and other "soft" targets..
+The Caliber is 125.
+The Muzzle Velocity is 850.
+The Max Dispersion is 0.23.
+The Maximum Effective Range is 5,000.
+The Tungsten Rods is 450.
+The Charge is A-IX-2 (73% RDX, 23% aluminium powder, phlegmatized with 4% wax) 3.0 kg.
+The Proectile Weight is 23.
+The Round Weight is 33.
+The Basic Load is 36 Total Rounds any combination of 125mm Projectiles.
+The Variants is 3VOF22/3OF19, 3VOF36/3OF26, 3VOF128/3OF82.
+
+Here is Ammunition (Option 3) information for the T-64BV Ukrainian Main Battle Tank (MBT) of the Main Gun:
+The Type is High-Explosive Anti-Tank (HEAT).
+The Name is 3VBK27/3BK31 "Start".
+The Caliber is 125.
+The Muzzle Velocity is 915.
+The Max Dispersion is INA.
+The Maximum Range is 3,000.
+The Charge is INA.
+The Charge Weight is 1.62.
+The Projectile Weight is 18.4.
+The Armor Penetration is Estimated at 800 mm triple charge HEAT.
+The Basic Load is 36 Total Rounds any combination of 125mm Projectiles.
+The Variants is 3VBK7/3BK12, 3VBK10/3BK14, 3BK12M, 3BK14M, 3VBK16/3BK18, 3BK18M, 3VBK17/3BK21, 3BK21B, 3VBK21/3BK25, 3VBK25/3BK29 "Breyk", 3VBK25M/3BK29M.
+
+Here is System information for the T-64BV Ukrainian Main Battle Tank (MBT) of the Anti-Tank Guided Missile:
+The Name is Kobra (AT-8 Songster).
+The Type is SACLOS Anti-Tank Missile System.
+The Caliber is 125.
+The Manufacturer is KB Tochmash.
+The In Service is 1976-present.
+The Proliferation is Widely Proliferated throughout Armenia, Azerbaijan, Belarus, India Iran, Russia, Ukraine, and Uzbekistan.
+The Weight is 23.2.
+The Warhead Weight is 4.5.
+The Guidance System is SACLOS Radio.
+The Effective Firing Range is 100-4,000.
+The Muzzle Velocity is 125 m/s, which increases to 800m/s at its peak m/s.
+The Flight Time to a 4,000 Meter Targetsec is 9-10.
+The Armor Penetration is 600mm of RHA.
+The Hit Probability is 80.
+The Basic Load is 4-6.
+The Variants is 9M112M, 9M112M2, 9M124.
+The Note is Fired from the T-64 and T-80 Family of Russian Tanks.
+
+Here is System information for the T-64BV Ukrainian Main Battle Tank (MBT) of the Tank Commander’s Weapon System:
+The Name is Type 54 DShK 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Proliferation is over 1 Million.
+The Length (Total) is 1,625.
+The Length (Barrel) is 1,070.
+The Weight (Gun Only) is 34.
+The Weight (on Wheeled Mounting) is 157.
+The Max Rate of Fire is 600.
+The Range Finder Type is Optical.
+The Action is Gas-Operated, Flapper Locking.
+The Sights is Iron/Optical.
+The Feed System is 50 Round Belt.
+The Turret is single seat and placed at the rear of the vehicle roof. It is sharp-pointed at the front..
+The Variants is DK, DShKM, DSHKS, Type 54 HMG.
+The Fire on the Move is Yes.
+
+Here is Ammunition information for the T-64BV Ukrainian Main Battle Tank (MBT) of the Tank Commander’s Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7x108.
+The Muzzle Velocity is 850.
+The Effective Range is 2,500.
+The Armor Penetration is API: 21 at 500 m & 13 at 1000 m (RHA).
+The Basic Load is 300.
+
+Here is System information for the T-64BV Ukrainian Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is 7.62mm PK (Kalashnikov's Machine Gun).
+The Type is 7.62.
+The Function is in use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Max Rate of Fire is 650.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Action is Gas-operated, open bolt.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Tangent iron sights (default); Optical, Night-vision, Thermal and Radar sights.
+
+Here is Ammunition information for the T-64BV Ukrainian Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 825.
+The Effective Range (Iron Sights) is 100- 1,000.
+The Effective Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 3,800.
+The Basic Load is 250.
+
+Here is Fire Control information for the T-64BV Ukrainian Main Battle Tank (MBT):
+The Name is IG43 fire-control.
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is TPN-1-TPV Ukrainian night sight.
+The Thermal Sight Gunner is TPN-1-TPV Ukrainian night sight.
+The Main Gun Stabilization is 2-Plane, 2Eh26M armament stabiliser.
+The Fire on the Move is Yes.
+The Rangefinder is two-axis stabilised IG42 laser rangefinder sight.
+The Ballistic Computer is 1V517 tank ballistic computer.
+The Vision Blocks is 1 x  TPNO-16, 2 x TPNA-65 day vision blocks.
+The PZU-5 monocular periscopic sight is Available.
+The Searchlight is Luna infrared searchlight.
+
+Here is Protection information for the T-64BV Ukrainian Main Battle Tank (MBT):
+The Hull Armor is Cast and welded steel armour.
+The Turret Armor is Cast and welded steel armour with Nizh ERA.
+The Armor Protection (Front) is 370-440 of RHA against KE rounds and 500 mm to 575 mm of RHA against HEAT rounds.
+The Applique Armor is Available.
+The Self-Entrenching Blade is KMT-4 roller or the KMT-6 track width mine plough,.
+The Explosive Reactive Armor is Nizh ERA, capable of defeating HEAT and APFSDS Rounds.
+The Number of ERA Plates is 200-300.
+The Active Protection System is Yes.
+The Mine Clearing is Roller-plow available.
+The NBC Protection is Yes.
+The Smoke Equipment is "Tucha" 81-mm smoke grenade launchers on the left of the turret..
+The IR Signature is INA.
+The Automatic Fire Suppression Systems. is Available, PPO fire detection and suppression system,.
+The ERA Protection (HEAT Warheads) is 450.
+The ERA Protection (Artillery Shells) is 200.
+

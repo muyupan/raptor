@@ -1,0 +1,107 @@
+This document describes the BTR-87 Russian 8x8 Amphibious Armored Personnel Carrier (APC).
+
+BTR-87 is designed by VPK with assemblies and units of BTR-82A APC.
+
+The vehicle was developed in 2015, and for the first time it was publicly demonstrated at the International Military-Technical Forum "Army-2017".
+
+The specifications of the BTR-87 is full analog of the BTR-82A. The difference is in the rear doors or ramp, which simplifies the landing of troops. To enable placement of the rear exit, the vehicle layout has changed - the engine is placed in front of the hull.
+
+Vehicles' ballistic armor protects the crew against small arms and shell splinters. The BTR-87 is additionally equipped with an NBC protection system.
+
+Here is System information for the BTR-87 Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is BTR-87.
+The Type is Amphibious Armored Personnel Carrier (APC).
+The Description is Armored Personnel Carrier with front mounted engine..
+The Manufacturer is Russia`s Military-Industrial Company (VPK).
+The Configuration is 8x8.
+The Crew is 2.
+The Passengers is 8.
+The Note is Troops enter and leave the vehicle via rear entry doors rather than awkward side doors of the BTR-80 series vehicles.
+
+Here is Dimensions information for the BTR-87 Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Length is 7.56.
+The Width is 2.99.
+The Height is 3.02.
+The Weight is 16 - 16.5 tons (depending on the turret).
+
+Here is Automotive information for the BTR-87 Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is YaMZ-53602.
+The Engine Type is Diesel.
+The Engine Mount Location is Front.
+The Engine Power is 312.
+The Fuel Tank Capacity is 300 liters.
+The Range is 600.
+The Speed, Maximum Road is 90.
+The Speed, Maximum Off Road is INA.
+The Speed , Average Cross is INA.
+The Speed, Maximum Swim is 10.
+The Gradient is 60.
+The Side Slope is 30.
+The Trench is 2,000.
+The Vertical Obstacle is 500.
+The Fording Depth is Amphibious.
+
+Here is Radio information for the BTR-87 Russian 8x8 Amphibious Armored Personnel Carrier (APC) of the Communications:
+The Name is R-173.
+
+Here is System information for the BTR-87 Russian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 x Shipunov 2A42.
+The Type is Autocannon.
+The Caliber is 30.
+The Manufacturer is Tulamashzavod.
+The In Service is 1980-Present.
+The Length is 3.027.
+The Barrel Length is 2,416.
+The Diameter is INA.
+The Weight is 115.
+The Action is Gas-operated.
+The Rate of Fire, Low is 200 to 300 rds/min.
+The Rate of Fire, High is 550-800 rds/min.
+The Effective Firing Range is 2,000 metres (2,200 yd) (AP-T).
+The Maximum Firing Range is 4,000 metres (4,400 yd) (HEI).
+The Feed System is Twin Feed.
+
+Here is Ammunition information for the BTR-87 Russian 8x8 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 30.
+The Cartridge is 30 × 165.
+The Muzzle Velocity is 960.
+The Basic Load is 500.
+
+Here is Anti-Tank Guided Missile (ATGM) information for the BTR-87 Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Name is 9M133 Kornet (AT-14 Spriggan).
+The Type is man-portable anti-tank guided missile (ATGM).
+The Manufacturer is Degtyarev plant.
+The In Service is 1994-Present.
+The Proliferation is +35,000.
+The Length is 1,200.
+The Diameter is 152.
+The Wingspan is 460.
+The Weight, with Launch Tube is 27.
+The Weight, with Tripod and Firing Unit is 63.7.
+The Warhead is 1,000–1,200 (9K135), 1,200 (E), 1,300 (D) mm RHA penetration after ERA with Tandem HEAT, Thermobaric.
+The Warhead Type is HEAT.
+The Warhead Weight is 4.6.
+The Detonation Mechanism is Impact Fuze.
+The Propellant is Solid-fuel rocket.
+The Operational Range, Kornet is 100-5,500.
+The Operational Range, Kornet-EM is 8,000 m (anti-tank),
+10,000 m (thermobaric).
+The Guidance System is SACLOS laser beam riding.
+The Steering System is Two control surfaces.
+The Accuracy is <5 m.
+The Basic Load is 4.
+
+Here is Protection information for the BTR-87 Russian 8x8 Amphibious Armored Personnel Carrier (APC):
+The Active Protection System is Hard Kill.
+The Armor, Front Arc is Withstands hits from 23 mm cannon.
+The Armor, Sides is Withstand 12.7 mm rounds.
+The Armor, All Around is Protection is likely to be against 7.62 mm bullets and artillery shell splinters.
+The Applique Armor is Yes.
+The Armor, Explosive Reactive is Yes.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+The Firing Ports is Yes.
+The Self-Recovery Winch is Yes.
+The Central Tire Pressure System is Yes.
+

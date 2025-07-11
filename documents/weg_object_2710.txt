@@ -1,0 +1,67 @@
+This document describes the BREM-1 Russian Armored Recovery Vehicle.
+
+BREM-1 Russian Armored Recovery Vehicle was developed to support a fleet of T-72 main battle tanks and their derivatives. Officially it entered service with the Soviet Army in 1975. Other sources report that production commenced in 1984. Until 1990 a total of 342 BREM-1 armored recovery vehicles have been delivered. The Russian Army had no dedicated recovery vehicle for its T-64 and T-80 series tanks. So the BREM-1 was used to support these tanks as well. So 342 units was not much considering that the Soviets were churning out their tanks in tens of thousands. A lack of recovery vehicles was always felt in the Soviet, and later Russian army. Russian Army is still using the aging BTS-4 armored recovery vehicles. The BREM-1 has been exported to a number of countries alongside the T-72 MBT. In some cases, it is used to support other tanks when the operator has no dedicated recovery vehicle.
+
+This equipment has proliferated into the following countries: Azerbaijan, Belarus, CFE Treaty, India, Iraq, Poland, Russian Federation, Syria, Ukraine, United Arab Emirates, Viet Nam.
+
+Here is Variants information for the BREM-1 Russian Armored Recovery Vehicle:
+The VT-72B is This ARV is based on a T-72 hull was developed in Slovakia. Production of this is undertaken on an as required basis..
+The WZT-3 is This is a Polish ARV based on the T-72 MBT hull..
+The BREM-1M ARRV is The BREM-1M Armored Repair And Recovery Vehicle (ARRV) has been developed to support the T-90S export MBT which is already in service with Algeria, Azerbaijan, India, Libya, Russia, Turkmenistan, and Uganda..
+
+Here is System information for the BREM-1 Russian Armored Recovery Vehicle:
+The Alternative Designation is BREM-1.
+The Type is Armored Recovery Vehicle.
+The Manufacturer is JSC Research and production corporation UralVagonZavod.
+The Chassis is T-72.
+The Crew is 3 (TC, Driver, Mechanic).
+The Load Lift Capability is 3,000 kg.
+The Recovery Preparation Time is 12-20 minutes.
+
+Here is Dimensions information for the BREM-1 Russian Armored Recovery Vehicle:
+The Length is 7.98 m.
+The Width is 3.46 m.
+The Height is 2.425 m.
+The Weight is 41,000k g.
+The Cargo Platform Length is 1.7 m.
+The Cargo Platform Width is 1.4 m.
+The Cargo Platform Weight Capacity is 1,500 kg.
+The Ground Clearance is 0.457m.
+The Ground Pressure is 0.808kg/cm² (est.) (79238Pa est.) (11.49psi est.).
+
+Here is Recovery Equipment information for the BREM-1 Russian Armored Recovery Vehicle:
+The Crane Length is 4.4 m.
+The Crane Capacity at 2 meters is 19 tons.
+The Crane Capacity at 4.4 meters is 3 tons.
+The Dozer Blade is Yes, there is also a 3.1 m wide bulldozer blade. It is used for excavation, rubble clearing operations, covering up ditches. The dozer blade is used as an earth anchor during recovery operations.
+The Main Winch is Yes, The main winch has 25 t capacity, that can be increased to 100 t using snatch blocks. The cable is 200 m long..
+The Auxiliary Winch is Yes, there is also a 530 kg capacity auxiliary winch with 425 m of cable..
+The Load Lift Capability is 3,000 kg.
+The Maximum Tow Capacity is 50 tons.
+The Welding Equipment is Yes.
+
+Here is Automotive information for the BREM-1 Russian Armored Recovery Vehicle:
+The Engine Name is V-84 MS.
+The Engine Type is V-12, diesel.
+The Engine Power is 840 hp at 2,000 rpm.
+The Power-to-Weight Ratio is 20.9hp/t (est.).
+The Fuel Capacity is INA.
+The Maximum Speed is 60 km/h.
+The Range is 700 km.
+The Amphibious is No.
+The Gradient is 60%.
+The Side Slope is 40%.
+The Vertical Obstacle is 0.85 m.
+The Trench is 2.8 m.
+
+Here is Main Weapon System information for the BREM-1 Russian Armored Recovery Vehicle:
+The Note is 1 × Roof mounted 12.7mm NSVT machine gun.
+
+Here is Protection information for the BREM-1 Russian Armored Recovery Vehicle:
+The Hull Armor is It seems that hull of this ARV has the same level of protection as T-72 main battle tank..
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is None.
+The NBC Protection is Yes.
+The Smoke Equipment is VEESS and four smoke grenade launchers.
+

@@ -1,0 +1,80 @@
+This document describes the SQUIRE French Man-Portable Medium-Range Ground Surveillance Radar.
+
+SQUIRE is a man-portable medium-range ground surveillance radar that can detect and classify moving targets on, or close to, the ground at ranges up to 48 km. Deployed worldwide for force protection, reconnaissance and compound protection, it is equally suited for border, coastal and site surveillance, counter-drug, smuggling operations and drone detection.
+ 
+
+It consists of compact components to be carried in two backpacks. Each weighs less than 23 kgs., including batteries, and can therefore be easily carried by two persons.
+
+SQUIRE is light, compact, and has a very low output power thanks to the application of FMCW  technology. SQUIRE is ideally suitable for use by the Army and Marines, e.g. air mobile and amphibious units, but also by United Nations units or Border Guard units.
+
+Squire is an X-Band man-portable medium-range ground surveillance radar that can detect and classify moving targets on, or close to, the ground at ranges up to 48 km. Deployed worldwide for force protection, reconnaissance and compound protection, it is equally suited for border, coastal and site surveillance, counter-drug, smuggling operations and drone detection.
+
+Squire is light, compact, and has a very low output power thanks to the application of FMCW technology. Squire is ideally suitable for use by the Army and Marines, e.g. air mobile and amphibious units, but also by United Nations units or Border Guard units. It consists of compact components to be carried in two backpacks. Each weighs less than 23 kgs, including batteries, and can therefore be easily carried by two persons.
+
+Because of its low maximum power output (1W max) the Squire is a very safe radar concerning the effects of RF radiation energy. There is no radiation danger for persons, even in the direct vicinity of the system.
+
+KEY BENEFITS
+• SQUIRE is a man-portable ground surveillance radar
+for detection/tracking and classification of moving
+ground targets. It can assist artillery and mortar firing
+units by giving feedback on shell impacts.
+• Deployment of troops under all circumstances demands
+a system that is easily transportable, not only by vehicles, but also by man. SQUIRE is a lightweight radar
+being man-portable and easy to install on a vehicle.
+• The FMCW radar techniques applied in SQUIRE allow
+very low transmit power which makes the system virtually undetectable. Even sophisticated devices will not
+detect SQUIRE. This gives a clear tactical advantage.
+• Low level air surveillance for detection of slow moving
+aircraft/UAV (< 300 km/h)
+• Advanced doppler processing
+• The use of reliable components like the solid state
+transceiver, results in an extremely high Mean Time Between Failure [MTBF > 20.000 hr].
+• This, combined with extensive use of "Commercial of
+the Shelf“ components, ensures that the Life Cycle Cost
+of SQUIRE are extremely low.
+
+FEATURES
+• Very Low Probability of Intercept (LPI)
+• Instrumented range selection:
+3 km, 6 km,12 km, 24 km and 48 km
+• Track While Scan (option)
+• Automatic and manual target classification
+• Artillery fire deviation measurement
+• Threat warning via alarm zones
+• Day and night, all weather capability
+• Very safe due to low output power
+• Ease of operation (one man operation) with
+user friendly man-machine interface
+• Extremely low weight (man portable)
+• Fast deployment and march-order
+• Separation of radar unit and operator unit up to
+100 m with cable TCP/IP network operation
+• High operational availability
+• Very low life cycle costs
+• Suitable for mounting on a vehicle or a mast
+• Sea mode (sea clutter filtering)
+
+This equipment has proliferated into the following countries: Australia, France, United States of America.
+
+Here is System information for the SQUIRE French Man-Portable Medium-Range Ground Surveillance Radar:
+The Alternative Designation is SQUIRE.
+The Type is Man-Portable Medium-Range Ground Surveillance Radar.
+The Crew is 2.
+The Band is X-Band.
+The Mobility is The SQUIRE consists of compact components to be carried in two backpacks. Each weighs less than 23 kgs., including batteries, and can therefore be easily carried by two persons..
+The Low Level Air Surveillance is Low level air surveillance for detection of slow moving
+aircraft/UAV (< 300 km/h).
+The Average Power is 1 W max..
+The Instrumented Range is 48 km.
+The Range Resolution is 5 m.
+The Accuracy is ≤ 5 m ; ≤ 5 mils.
+The Maximum Range, Pedestrain is 9.
+The Maximum Range, Vehicles is 19.
+The Maximum Range, Tanks is 23.
+
+Here is Dimensions information for the SQUIRE French Man-Portable Medium-Range Ground Surveillance Radar:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is The SQUIRE consists of compact components to be carried in two backpacks. Each weighs less than 23 kgs., including batteries, and can therefore be easily carried by two persons..
+

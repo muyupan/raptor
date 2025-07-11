@@ -1,0 +1,127 @@
+This document describes the 2A45M (Sprut-B) Russian 125mm Self-Propelled Towed Anti-Tank Gun.
+
+The 2A45M (Sprut-B) Russian 125mm Self-Propelled Towed Gun is based on the carriage of the Russian D-30 (122 mm) howitzer with modified D-81 ordnance, which can engage targets at a maximum range of 2,100 m indirect fire mode and 12,200 m in indirect fire mode.
+
+A feature of the Sprut-B is its integrated engine, which can propel the gun on relatively flat surfaces (up to 15 degrees of slope) and at 14 km/h on roads. This gives the gun a measure of mobility on the battlefield. It takes two minutes to go from the firing position to the traveling position and 90 seconds to go from the traveling position to the firing position. Such guns are known in Russian as "self-moving" (самодвижущиеся) as opposed to self-propelled (самоходные), and outside of battle, it is towed by an MT-LB.
+
+The gun features a crew of seven. An OP4M-48A direct fire sight is used during the day, while a 1PN53-1 night-vision sight is used at night. For indirect fire, 2Ts33 iron sights are used, along with a PG-1m panoramic sight. The gun can reliably engage targets two meters high at a distance of 2,000 meters.
+
+The barrel features a thermal sleeve to prevent temperature changes affecting the accuracy. The gun uses the same semi-fixed ammunition as the T-64, T-72, T-80, and T-90 tanks.
+
+With the addition of the 9S53 laser fire-control system, the gun can fire laser-guided projectiles such as the 9M119 Svir or 9K120 Refleks.
+
+
+The 2A45M is believed to be capable of firing the AT-11 SNIPER (Svir) laser beam riding, antitank guided missile which has a maximum range of 4000 meters.
+
+This equipment has proliferated into the following countries: Mexico, Russian Federation, Ukraine.
+
+Here is Variants information for the 2A45M (Sprut-B) Russian 125mm Self-Propelled Towed Anti-Tank Gun:
+The 2A45 Sprut-A is 125mm towed gun.
+The 2S25 Sprut-SD is a self-propelled gun mounted on the BMD-3 chassis with a turret mounting the stabilized 2A75 125 mm smoothbore gun.
+The Sprut-SDM1 is Self-propelled gun with remote weapon station and fire control system.
+
+Here is System information for the 2A45M (Sprut-B) Russian 125mm Self-Propelled Towed Anti-Tank Gun:
+The Alternative Designation is 2A45M Sprut-B.
+The Type is Self Propelled Towed Gun.
+The Manufacturer is Artillery Plant Number 9.
+The Family is Sprut.
+The Crew is 7.
+The Carriage is Tripod.
+The Displacement Time is 120-160 seconds.
+The Emplacement Time is 90-120 seconds.
+
+Here is Dimensions information for the 2A45M (Sprut-B) Russian 125mm Self-Propelled Towed Anti-Tank Gun:
+The Length, Overall is 6.79 m.
+The Length, Transport Configuration is 7.120 m.
+The Width is 2.66 m.
+The Height, Transport Configuration is 2.09 m.
+The Height, Axis of Fire is 0.925 m.
+The Weight, Standard is 6,800 kg.
+The Weight, Combat is 6,575 kg.
+The Ground Clearance is 0.36 m.
+
+Here is Automotive Requirement information for the 2A45M (Sprut-B) Russian 125mm Self-Propelled Towed Anti-Tank Gun:
+The Self-Propelled Mechanism is Auxiliary Propulsion Unit (APU).
+The Maximum Operational Mode in APU Mode is 50.
+The Speed in APU Mode is 14.
+The Prime Mover is MT-LB Carrier.
+
+Here is System information for the 2A45M (Sprut-B) Russian 125mm Self-Propelled Towed Anti-Tank Gun of the Main Weapon System:
+The Name is 1 x 2A45M 125mm Anti-Tank Gun.
+The Type is Anti-Tank Gun.
+The Caliber is 125 mm.
+The Length, Barrel is Bore: 51 calibres
+Bore axis: 0.925 m.
+The Breech Type is INA.
+The Recoil is Hydro-pneumatic.
+The Loader Type is Manual.
+The Max Rate of Fire is 6-8.
+The Operational Range is 50 km in APU Mode.
+The Max Elevation is +25.
+The Min Elevation is -6.
+The Traverse Range is 360.
+The Traverse Right is 180.
+The Traverse Left is 180.
+
+Here is Ammunition (Option 1) information for the 2A45M (Sprut-B) Russian 125mm Self-Propelled Towed Anti-Tank Gun of the Main Weapon System:
+The Name is 9M119 Svir / 9M119M Refleks (NATO: AT-11 Sniper).
+The Type is Laser Beam Riding, Guided Anti-Tank Missiles.
+The Manufacturer is Degtyarev plant.
+The In Service is 1980s-Present.
+The Caliber is 125.
+The Weight is 9M119 Svir 16.5 kg / 9M119M Refleks 17.2 kg.
+The Warhead Type is Tandem hollow-charge.
+The Warhead Weight is 4.5.
+The Operational Range is 9M119 Svir 4,000 m  /9M119M Refleks 5,000 m.
+The Speed is Subsonic.
+The Guidance System is Laser Beam Riding.
+The Armor Penetration is 700–900 mm of RHA.
+The Time of Flight to 4,000 m is 11.7 seconds.
+The Time of flight to 5,000 m is 17.6 seconds.
+
+Here is Ammunition (Option 2) information for the 2A45M (Sprut-B) Russian 125mm Self-Propelled Towed Anti-Tank Gun of the Main Weapon System:
+The Name is 3VBM3/3BM9/10.
+The Type is Armour-Piercing Fin-Stabilized Discarding Sabot Tracer or APFSDS-T.
+The Caliber is 125.
+The Projectile Dimension is 410.
+The Projectile weight (Including Sabot) is 5.67.
+The Muzzle Velocity is 1,800.
+The Effective Range is 2,000.
+The Armor Penetration is 245 mm at 0° at 2000 m, 70 mm - 150 mm at 60° at 2000 m.
+
+Here is Ammunition (Option 3) information for the 2A45M (Sprut-B) Russian 125mm Self-Propelled Towed Anti-Tank Gun of the Main Weapon System:
+The Name is 3VBK7/3BK12.
+The Type is High-Explosive Anti-Tank Fin Stabilised or HEAT-FS.
+The Caliber is 125.
+The Projectile Dimension is 680.
+The Projectile Weight is 19.
+The Muzzle Velocity is 905.
+The Effective Range is 12,200.
+The Charge is shaped charge, steel liner, A-IX-1 (RDX phlegmatized with 5% wax), I-238 detonator.
+The Armor Penetration is 420 mm RHA at 0 degrees.
+
+Here is Ammunition (Option 4) information for the 2A45M (Sprut-B) Russian 125mm Self-Propelled Towed Anti-Tank Gun of the Main Weapon System:
+The Name is 3VOF22/3OF19.
+The Type is High Explosive fragmentation Fin Stabilised (HE-frag-FS).
+The Caliber is 125.
+The Round Weight is 33.
+The Projectile Weight is 23.
+The Muzzle Velocity is 850.
+The Effective Range is 12,200.
+The Charge Weight is 3.148.
+The Charge is TNT.
+The Armor Penetration is INA.
+The Lethal Zone is The 90% lethal zone for infantry is reported to be 40 m wide and 20 m deep.
+
+Here is Fire Control information for the 2A45M (Sprut-B) Russian 125mm Self-Propelled Towed Anti-Tank Gun:
+The Computerized FCS is Yes, the 9S53 laser fire-control system, which allows the 2A45M Sprut-B to fire laser guided projectiles such as the 9M119 Svir or 9K120 Refleks.
+The Direct Fire is Yes.
+The Direct Fire Sighting Device is 1 x OP4M-48A Fire Sighting Device.
+The Indirect Fire is Yes.
+The Indirect Fire Sight is 1 x 2Ts33 Iron Sights.
+The Night Vision Sight is 1 x 1PN53-1 Night-Vision Sight.
+The Panoramic Sight is 1 x PG-1m Panoramic Sight.
+
+Here is Protection information for the 2A45M (Sprut-B) Russian 125mm Self-Propelled Towed Anti-Tank Gun:
+The Shield is A well-sloped shield provides the crew with limited protection from small arms fire and shell splinters..
+

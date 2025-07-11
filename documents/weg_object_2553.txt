@@ -1,0 +1,130 @@
+This document describes the CV 9030 Swedish Infantry Fighting Vehicle (IFV).
+
+The Combat Vehicle 90 (CV90; Sw. Stridsfordon 90, Strf90) is a family of Swedish tracked combat vehicles designed by Sweden's Defense Materiel Administration (Försvarets Materielverk, FMV), Hägglunds and Bofors during the mid-1980s and early 1990s and entered service in Sweden in the mid-90s. The CV90 platform design has continuously evolved in steps from Mk0 to current MkIV with advances in technology and in response to changing battlefield requirements. The Swedish version of the main infantry fighting vehicle is fitted with a turret from Bofors that is equipped with a 40 mm Bofors autocannon. Export versions are fitted with Hägglunds E-series turrets, armed with either a 30 mm or a 35 mm Bushmaster autocannon.
+
+Developed specifically for the Nordic sub-arctic climate, the vehicle has very good mobility in snow and wetlands while carrying and supporting six to eight fully equipped dismount soldiers. Other variants include Forward Observation, Command and control, anti-aircraft, armored recovery vehicles, electronic warfare, and so forth. The CV90 and Hägglunds E-series turrets have been under continuous development with more than 4 million hours invested and are still produced with modern protection, armament, and network-enabled solutions. Currently, 1,280 vehicles in 15 variants are in service with seven user nations, four of which are NATO members, under BAE Systems Hägglunds AB.
+
+CV9030
+Export version with a 30 mm Bushmaster II autocannon. Adopted by Norway, Switzerland and Finland. Within BAE Systems Hägglunds, the original version of the Norwegian CV9030N is known as the CV90 MK I. The Finnish CV9030FIN and Swiss CV9030CH vehicles are known as the CV90 MK II. The CV90 MK II is also available as CV9030 COM – Command & Control Vehicle. The recently upgraded CV9030N infantry fighting, command & control, and reconnaissance vehicles for Norway are known as CV90 MkIIIb, and this is the most advanced variant currently in service.
+
+This equipment has proliferated into the following countries: Denmark, Finland, Norway, Switzerland.
+
+Here is Variants information for the CV 9030 Swedish Infantry Fighting Vehicle (IFV):
+The CV9030 is Export version with a 30 mm Bushmaster II autocannon. Adopted by Norway, Switzerland and Finland. Within BAE Systems Hägglunds, the original version of the Norwegian CV9030N is known as the CV90 MK I. The Finnish CV9030FIN and Swiss CV9030CH vehicles are known as the CV90 MK II. The CV90 MK II is also available as CV9030 COM – Command & Control Vehicle. The recently upgraded CV9030N infantry fighting, command & control and reconnaissance vehicles for Norway are known as CV90 MkIIIb, and this is the most advanced variant currently in service..
+The CV9035 is Armed with a Bushmaster III 35/50 cannon. Adopted by the Netherlands as CV9035NL and Denmark as CV9035DK. Within BAE Systems Hägglunds, CV9035 is known as the CV90 MK III..
+The CV90105 is Light tank equipped with 105 mm rifled tank gun/turret. Designed by Hägglunds (BAE Systems) and GIAT (Nexter). A newer version features the Cockerill XC-8 turret..
+The CV90120-T is Light tank equipped with a tank turret equipped with a smoothbore 120 mm gun. (RUAG 120 mm Compact Tank Gun).
+The CV90 CZ is Export variant designed in collaboration with VOP CZ marketed to the Czech Republic, manned turret variant.[.
+The CV90 CZr is Export variant designed in collaboration with VOP CZ marketed to the Czech Republic featuring a Kongsberg MCT-30 unmanned, remote controlled turret, a slightly raised hull and periscope system..
+The Armadillo is Armoured personnel carrier version built on a modular CV90 Mk III chassis. The CV90 Armadillo can be modified to become a personnel carrier, an ambulance, a command and control centre, a recovery vehicle and many other non-turreted variants at low cost due up to 80% commonality among variants.[31] Currently, only the APC version has been built, with five delivered to Denmark for trials..
+The CV90 STING is Combat engineering variant built on CV90 Mk I chassis. This vehicle can be outfitted with either a mine plow or a mine roller, and it also has a robotic arm. 16 have been ordered by the Norwegian Army..
+The CV90RWS Multi BK is Mortar carrier variant built on a CV90 Mk I chassis. This vehicle is armed with a VingPos Mortar Weapon System outfitted with an 81mm L16A2 mortar. 16 have been ordered by the Norwegian Army..
+The CV90 MkIV is BAE-developed upgraded variant revealed in January 2018, marketed to the Czech Republic as well as existing customers as an upgrade package. Features include a Scania engine with up to 1000 horsepower, X300 transmission, and an increased payload of 2 tonnes. The system also includes BAE's Fighting computer system, which claims to enhance situational awareness, aid decision making, improve ergonomics, and enable autonomous support and remote operation..
+The CV 9035DK is This is the Danish variant of the CV 9035. It is armed with an ATK 35/50-mm Bushmaster III cannon and a 7.62-mm machine gun.
+The vehicle is equipped with a computerized fire-control system with stabilized day and night sights. The gunner is equipped with a third-generation thermal imager. It carries a crew of three and seven troops.
+
+The Danish vehicles are all in the infantry fighting vehicle configuration, although a small number were fitted with additional communications equipment for service as command vehicles.
+
+A cupola over the rear troop compartment is provided for the squad leader..
+
+Here is System information for the CV 9030 Swedish Infantry Fighting Vehicle (IFV):
+The Alternative Designation is CV 9030.
+The Type is Infantry Fighting Vehicle.
+The Family is Combat Vehicle 90.
+The Crew is 3 (commander, driver, gunner).
+The Passenger Capacity is 8.
+
+Here is Dimensions information for the CV 9030 Swedish Infantry Fighting Vehicle (IFV):
+The Length is 6.55 m.
+The Width is 3.19 m.
+The Height, Hull Top Front is 1.63 m.
+The Height, Axis of FIre is 2.00 m.
+The Height, Overall is 2.78 m.
+The Track Length on the Ground is 3.98 m.
+The Track Width is 0.53 m.
+The Ground Clearance is 0.45 m.
+The Weight is 26,000 kg.
+The Ground Pressure is 0.59 kg/sq cm.
+
+Here is Automotive information for the CV 9030 Swedish Infantry Fighting Vehicle (IFV):
+The Engine Name is Scania DI 16.
+The Engine Type is V8 4-cycle diesel.
+The Engine Power is 680 hp at 2,200 rpm.
+The Fuel Capacity is 840 liters.
+The Transmission is Perkins X-300-0 automatic;  4 forward/2 reverse gears.
+The Speed, Forward is 70 km/h.
+The Speed, Reverse is 43 km/h.
+The Acceleration is 7 sec,  (0-30 km/h).
+The Range is 600 km.
+The Trench is 2.40 m.
+The Vertical is 1.20 m.
+The Gradient is 60 percent.
+The Side Slope is 30 percent.
+
+Here is System information for the CV 9030 Swedish Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Name is 1 x 30-mm ATK Bushmaster II.
+The Type is Chain Gun.
+The Caliber is 30mm.
+The Quantity is 1 x 30-mm ATK Bushmaster II.
+The Length is 2.58 m.
+The Width is 318 mm.
+The Height is 373 mm.
+The Weight is 119 kg.
+The Bore is 25-mm/81-cal, rifled.
+The Maximum Range is 2,000 m.
+The Recoil is 9,000 lb.
+The Muzzle Velocity is 1,345 mps.
+The Rate of Fire is 100, 200, or 500 rpm, cyclic.
+The Elevation is -10 deg to 45 deg.
+The Traverse is 360 deg.
+
+Here is Ammunition information for the CV 9030 Swedish Infantry Fighting Vehicle (IFV) of the Main Weapon System:
+The Type is PGU/20.
+The Name is API-T.
+The Caliber is 30.
+The Length is 223 mm.
+The Weight is 533 g.
+The Basic Load is 160 ready + 240 stowed.
+
+Here is System information for the CV 9030 Swedish Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is MG3.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Quantity is 1 x MG3 General-Purpose Machine Gun.
+The Length is 1,225 mm.
+The Barrel Length is 565 mm.
+The Weight is 27.5 kg (mounted on tripod).
+The Action is Recoil-operated, roller locked.
+The Rate of Fire is 1,000–1,300 rpm.
+The Muzzle Velocity is 820 m/s.
+The Maximum Firing Range is 1,200 m.
+The Effective Firing Range is 200–1,200 m sight adjustments.
+The Feed System is 50-round non-disintegrating DM1 belt (can be combined in a drum); 100-round disintegrating DM6/M13 belt.
+The Sights is Open tangent iron sights.
+
+Here is Ammunition information for the CV 9030 Swedish Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is INA.
+
+Here is Fire Control information for the CV 9030 Swedish Infantry Fighting Vehicle (IFV):
+The Name is CelsiusTech Electronics UTAAS protected by an armored shutter.
+The Computerized FCS is Yes.
+The Thermal Imager is Yes.
+The Laser Range-Finder is Yes.
+The GPS Receiver is Yes.
+The Compass is KVH Compass.
+
+Here is Protection information for the CV 9030 Swedish Infantry Fighting Vehicle (IFV):
+The Hull Armor is Protection against 20- to 30-mm projectiles,may include Kevlar composite materials.
+The Turret Armor is Protection against 20- to 30-mm projectiles,may include Kevlar composite materials.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The Grenades is 2 x Lyran flare grenade launchers on rear turret roof 1 x bank of GALIX grenade launchers on either side of the turret.
+

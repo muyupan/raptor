@@ -1,0 +1,166 @@
+This document describes the Admiral-Gorshkov Class (Project 22350 Class) Russian Frigate.
+
+The Admiral Gorshkov class, Russian designation Project 22350, is the newest class of frigates being built by the Severnaya Verf in Saint Petersburg for the Russian Navy. The class was designed by the Severnoye Design Bureau and incorporates the use of stealth technology. So far, six vessels of the class have been ordered and scheduled for delivery by 2025. The lead ship of the class, Admiral Gorshkov, was commissioned on 28 July 2018.
+
+ The Admiral Gorshkov is a new Russian class of multi-role frigates. It is a successor to the Burevestnik class (Western reporting name Krivak class). The project was approved by the Russian Naval Command in 2003. Construction of the lead ship, Admiral Gorshkov, started in 2006. It was commissioned with the Russian Navy in 2018. By 2018 another 3 frigates of the class were under construction, plus 2 more were ordered and 2 more were planned. The Russian Navy has a requirement for 20-30 of such new frigates to fully replace the surviving Krivak class frigates and Sovremenny class destroyers. It is planned that Admiral Gorshkov class frigates will become the mainstay of the future Russian fleet. An export version of this frigate class is also being proposed for possible customers.
+
+   The Admiral Gorshkov class is a perfect example of a multi-role frigate. Many other frigates are focused on specific tasks, such as anti-air warfare, or anti-submarine warfare. This Russian frigate was designed to perform multiple roles, such as performing long-range attacks against surface targets and ships, conducting anti-submarine warfare, carrying out escort missions, and be deployed in a variety of situations that a general frigate class would not be able to fulfill. In some cases, such multi-role frigates can even substitute the deployment of larger destroyers.
+
+   This new class of Russian frigates incorporates the best weapons and sensors that the Russian industry can produce.
+
+   The Admiral Gorshkov class is equipped with a 16-cell Vertical Launch System (VLS) for a mix of Kalibr-NK land-attack cruise missiles (range 2 500 km), P-800 Oniks anti-ship missiles (range 300-500 km), and 91RTE2 anti-submarine missiles (missile drops torpedo 50 km away).
+
+   There is another 32-cell VLS for medium-range air defense missiles. It uses the same 9M96E and 9M96E2 interceptor missiles as the S-400 land-based air defense system. These missiles are intended to defend against precision attacks and various defense suppression weapons. These missiles are designed for direct impact to have a range of 40 and 120 km respectively. Their claimed kill probability is 90% against aircraft and 70% against Harpoon anti-ship missiles. It has been reported that this vertical launch system can also launch a short-range missile which is likely a variant of the 9M100.
+
+Further anti-submarine/anti-shipping capabilities are provided via two quadruple 330 mm torpedo launchers for unique Paket-NK torpedoes. These can engage both enemy submarines, as well as incoming torpedoes, thus serving a dual role.
+
+   There is a 130 mm A-192M gun. It has a rate of fire of 45 rounds per minute. It can be used to engage surface targets, as well as to bombard land. Last-ditch defense is provided by two Palash Close-In Weapon Systems (CIWS), mounted at the rear. These defense systems are fitted with 30 mm rapid-firing Gatling guns and 8 short-range surface-to-air missiles each. Also, there are two pedestal-mounted 14.5 mm heavy machine guns.
+
+   The Admiral Gorshkov class frigates have a hangar and can accommodate a single Kamov Ka-27, or similar naval helicopter.
+
+   The Admiral Gorshkov class has Combined Diesel and Gas (CODAG) propulsion. Machinery includes two cruise diesel engines, developing a combined output of 10 400 shp, and two boost gas turbines, developing a combined output of 55 000 shp. The power is delivered to 2 shafts. The maximum speed is 29.5 knots (55 km/h).
+
+   However, construction of the third and fourth ships was postponed due to problems with the engine supply. The first two ships of the Admiral Gorshkov class have Ukrainian gas turbine engines. A center of Soviet maritime gas turbine design and production was in Ukraine. After the collapse of the Soviet Union, Russia used to purchase these engines from Ukraine. However, following the 2014 Russian military aggression in Ukraine, the Ukrainians refused to supply Russia with military technology. In 2014 one gas turbine engine of the second ship, Admiral Kasatonov was transferred to the lead ship, Admiral Gorshkov, in order to complete it.
+
+   The Russian NPO Saturn has been commissioned to design new engines for the Admiral Gorshkov class frigates, allowing the third and fourth ships to be commissioned in 2020.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Admiral-Gorshkov Class (Project 22350 Class) Russian Frigate:
+The Admiral Gorshkov is Commissioned: 2018
+Status: Active
+Fleet: Northern Fleet.
+The Admiral Kasatonov is Commissioned: 2020
+Status: Active
+Fleet: Northern Fleet.
+The Admiral Golovko is Commissioned: 2022
+Status: Launched
+Fleet: Northern Fleet.
+The Admiral Isakov is Commissioned: 2022
+Status: Under Construction
+Fleet: Northern Fleet.
+The Admiral Amelko is Commissioned: 2024
+Status: Under Construction
+Fleet: INA.
+The Admiral Chichagov is Commissioned: 2025
+Status: Under Construction
+Fleet: INA.
+The Admiral Yumashev is Commissioned: 2025
+Status: Under Construction
+Fleet: INA.
+The Admiral Spiridonov is Commissioned: 2025
+Status: Under Construction
+Fleet: INA.
+
+Here is System information for the Admiral-Gorshkov Class (Project 22350 Class) Russian Frigate:
+The Alternative designations is Admiral Gorshkov Class; Project 22350 Class.
+The Type is Guided Missile Frigate.
+The Builders is Severnaya Verf, Saint Petersburg.
+The Crew is 210.
+The Vessel Planned is 15.
+
+Here is Dimensions information for the Admiral-Gorshkov Class (Project 22350 Class) Russian Frigate:
+The Length is 130.0 m.
+The Beam is 16.0 m.
+The Draught is 4.5 m.
+The Displacement, Standard is 4,500 tons.
+The Displacement, Fully Loaded is 5,400 tons.
+
+Here is Automotive information for the Admiral-Gorshkov Class (Project 22350 Class) Russian Frigate:
+The Main Propulsion is 2 shaft CODAG;
+2 10D49 cruise diesel engines 5,200 shp (3,900 kW);
+2 M90FR boost gas turbines 27,500 shp (20,500 kW);
+Total: 65,400 shp (48,800 kW).
+The Maximum Speed is 29.5 knots (54.6 km/h; 33.9 mph)..
+The Maximum Range is 4,850 nmi (8,980 km; 5,580 mi) at 14 kn (26 km/h; 16 mph)..
+The Endurance is 30 days.
+
+Here is Weapon Station #1 information for the Admiral-Gorshkov Class (Project 22350 Class) Russian Frigate of the Main Gun System:
+The Name is 1 x A-192 130mm Naval Gun.
+The Type is Naval Gun.
+The Caliber is 130 mm.
+The Length is 1.37.
+The Diameter is 0.13.
+The Weight is 52.
+The Targets is Targets: Aircraft, Helicopter, Missile, Surface Vessel, Land Structure - Soft, Mobile Target - Soft.
+The Maximum Effective Range, Air Targets is 3.3.
+The Maximum Effective Range, Surface Targets is 22.2.
+
+Here is Weapon Station #2 Ammunition information for the Admiral-Gorshkov Class (Project 22350 Class) Russian Frigate of the Main Gun System:
+The Type is FRAG.
+The Caliber is 130 mm.
+The Cartridge is INA.
+The Basic Load is 2,000 Rounds.
+
+Here is Weapon Station #2 information for the Admiral-Gorshkov Class (Project 22350 Class) Russian Frigate of the Main Gun System:
+The Name is 1 x Kashtan Close-in Weapon System (CIWS).
+The Type is Close-in Weapon System (CIWS).
+The Caliber is 30 mm.
+The Quantity is 1 x Kashtan Close-in Weapon System (CIWS).
+The Main Armament is 8 × 9M311K + 32 missiles.
+The Number of Missiles is 32 missiles.
+The Secondary Armament is 2 × AO-18K Autocannon (30mm).
+The Length is INA.
+The Height is 2,250 mm (89 in) (above deck)[.
+The Weight is 15,500 kg.
+The Barrels is 2 × 6 (guns); 2 × 4 launch tubes.
+The Action is Gas-operated rotary cannon.
+The Rate of Fire is 9,000 rounds/min.
+The Muzzle Velocity is 860 m/s.
+The Effective Firing Range, Missiles is 1,500–8,000 m.
+The Feed System is Link-less, helical; 1000 round.
+The Sights is Radar / TV-optical:[N 3]
+2–3/1 m (6.6–9.8/3.3 ft) accuracy,
+tracks 6 targets simultaneously.
+The Warhead is Continuous-rod w/ frag laye.
+The Flight Altitude is 3,500 m.
+The Speed is 910 m/s.
+
+Here is Ammunition Weapon Station #2 information for the Admiral-Gorshkov Class (Project 22350 Class) Russian Frigate of the Main Gun System:
+The Shell is HEI-Frag, Frag-T, APDS-T.
+The Caliber is 30.
+The Shell Weight is 0.39 kg (0.86 lb) (HEIF, FT)[6]
+0.30 kg (0.66 lb) (APDS-T).
+The Basic Load is INA.
+
+Here is Weapon Station #3 information for the Admiral-Gorshkov Class (Project 22350 Class) Russian Frigate of the Main Gun System:
+The Name is 24 x 3S90/M-22 Uragan (SA-N-7 "Gadfly") Surface-to-Air Missile (SAM).
+The Type is Surface-to-Air Missile (SAM).
+The Quantity is 24 x Uragan SAMs.
+The Length is 5.55.
+The Diameter is 0.4 m.
+The Warhead is Frag-HE.
+The Warhead Weight is 70 kg.
+The Detonation Mechanism is Radar proximity fuse.
+The Propellant is Solid propellant rocket.
+The Guidance System is Semi-active radar homing.
+The Operational Range is 30.
+The Flight Altitude is 14,000.
+The Speed is Mach 3.
+The Note is 3S90/M-22 Uragan (SA-N-7 "Gadfly") – Naval version of the 9K37 Buk missile system with 9M38/9M38M1 missile..
+
+Here is Weapon Station #4 information for the Admiral-Gorshkov Class (Project 22350 Class) Russian Frigate of the Main Gun System:
+The Name is Type 53.
+The Type is 53 cm torpedoes.
+The Primary Function is ASUW torpedo.
+The Length is 7.2 m.
+The Diameter is 2,070–2,300 kg.
+The Weight is 2,070–2,300 kg.
+The Warhead is 307.6 kilograms (678 lb) high explosive.
+The Range is 18,000 meters (20,000 yd).
+The Speed is 45 kn (52 mi/h, 83 km/h).
+The Guidance System is Wake homing.
+
+Here is Ka-26 / 27 / 28 / 31 / 32 information for the Admiral-Gorshkov Class (Project 22350 Class) Russian Frigate of the Aircraft:
+The Quantity is 1.
+
+Here is Ka-31 Helix / Ka-27 / Z-8 / Z-9 / Z-18 information for the Admiral-Gorshkov Class (Project 22350 Class) Russian Frigate of the Aircraft:
+The Quantity is Up to 12.
+
+Here is Protection information for the Admiral-Gorshkov Class (Project 22350 Class) Russian Frigate:
+The Hull is INA.
+The Electronic Warfare is 1 x Prosvet-M EW Suite.
+The Countermeasures is 2 × PU KT-308
+8 × PU KT-216
+2 × 5P-42 Filin.
+

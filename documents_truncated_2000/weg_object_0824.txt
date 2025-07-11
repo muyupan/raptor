@@ -1,0 +1,38 @@
+This document describes the ScanEagle American Unmanned Aerial Vehicle (UAV).
+
+ScanEagle provides persistent daytime and nighttime intelligence, surveillance and reconnaissance (ISR) in some of the most extreme environments in the world. Digital full motion video (FMV) provides the highest
+available ground resolution. As the industry-leading UAS that invented the agile ISR category, ScanEagle has redefined ISR services for Group 2, long-endurance UAS. ScanEagle provides superior operational
+capability and reliability, with advanced payload options and rapid payload integration.
+
+This equipment has proliferated into the following countries: Afghanistan, Australia, Brazil, Cameroon, Canada, Colombia, Czech Republic, Indonesia, Iran (Islamic Republic of), Iraq, Japan, Kenya, Lebanon, Lithuania, Malaysia, Netherlands, Pakistan, Philippines, Poland, Singapore, Spain, Tunisia, United Kingdom of Great Britain and Northern Ireland, Viet Nam, Yemen.
+
+Here is System information for the ScanEagle American Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is ScanEagle.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Insitu.
+The Maximum Payload is 5 kg.
+The Communication Security is ScanEagle’s air-to-ground systems deliver
+stable communications up to 55 nm from
+a ground control station. Encrypted digital
+video and command and control data links
+offer increased ISR security..
+The C2 Data Link is C2 data link: encrypted,
+unencrypted.
+The Video Data Link is Video data link: digital-encrypted.
+The Telescope is EO telescope (high zoom day FMV).
+The VIDAR is ViDAR (maritime surface.
+
+Here is Dimensions information for the ScanEagle American Unmanned Aerial Vehicle (UAV):
+The Length is 1.71 m.
+The Wingspan is 3.1 m.
+The Maximum Takeoff Weight is 26.5 kg.
+
+Here is Automotive information for the ScanEagle American Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is 1 × 2-stroke 3W piston engine.
+The Engine Power is 1.5 hp (1.12 kW).
+The Maximum Speed is 148 km/h.
+The Cruising Speed is 111 km/h.
+The Service Ceiling is 5,950 m.
+The Endurance is 18 hours.
+

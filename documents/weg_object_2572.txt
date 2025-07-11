@@ -1,0 +1,135 @@
+This document describes the ZBD-08 (WZ502G) Chinese Infantry Fighting Vehicle (IFV).
+
+The ZBD-08 is a new Chinese infantry fighting vehicle. Its industrial designation is the WZ502G. The ZBD-08 is a ATGM version of the ZBD-04 and is listed as an export of the ZBD-04. It is a revised and improved version of the previous ZBD-04, which is already in service with the PLA. The new improved vehicle appeared in 2007. It seems that the ZBD-08 IFV, together with its numerous variants, is being produced in large numbers for the Chinese army. It replaces the Type 86 IFV, which is a copy of the Soviet BMP-1.
+
+   The new ZBD-08 has a number of improvements. Its hull was slightly redesigned in order to improve armor protection at a cost of reduced amphibious capabilities. The previous ZBD-04 IFV has the great amphibious capability and can operate at Sea State 2-3. However, this feature is not required by typical army units. The overall height of the vehicle was reduced. Also, the new vehicle is heavier due to increased armor.
+
+   The ZBD-08 infantry fighting vehicle has a welded steel armor hull. Baseline armor is thicker and presumably offers better protection. Add-on modular armor can be fitted for a higher level of protection. It is claimed that the front arc withstands 30 mm armor-piercing rounds. Sides withstand 14.5 mm rounds. Turret roof and rear end provide protection from 7.62 mm armor-piercing rounds. Side skirts were added for improved protection. Also, it may be fitted with an indigenous active laser protection system.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the ZBD-08 (WZ502G) Chinese Infantry Fighting Vehicle (IFV):
+The Note is There are several variants. One is fitted with a similar turret to the ZBD-04 with a new external design. An armored personnel carrier fitted with a cupola-mounted 12.7-mm machine gun has also been identified.
+
+Another variant features a turret-mounted 120-mm mortar with direct- and indirect-fire modes. That turret appears to be the same as that fitted to the PLL-05 6 x 6 self-propelled mortar already in Chinese service.
+
+There are said to be command, missile carrier, short-range air defense, artillery radar carrier and cargo vehicle variants. A shortened version with five road wheels has also been reported..
+
+Here is System information for the ZBD-08 (WZ502G) Chinese Infantry Fighting Vehicle (IFV):
+The Alternative Designation is ZBD-08; WZ502G.
+The Type is Infantry Fighting Vehicle.
+The Manufacturer is Norinco.
+The Family is ZBD.
+The Crew is 3.
+The Passenger Capacity is 7.
+The Note is The ZBD-08 is a ATGM version of the ZBD-04 and is listed as a export of the ZBD-04..
+
+Here is Dimensions information for the ZBD-08 (WZ502G) Chinese Infantry Fighting Vehicle (IFV):
+The Length is 7.2.
+The Width is 3.2.
+The Height is 2.5.
+The Weight, Combat is 25 tons.
+The Ground Pressure is INA.
+
+Here is Automotive information for the ZBD-08 (WZ502G) Chinese Infantry Fighting Vehicle (IFV):
+The Engine Name is BF8M1015CP.
+The Engine Type is Diesel.
+The Engine Power is 590.
+The Range is 500.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 7.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.7.
+The Trench is 1.8.
+The Fording Depth is Amphibious.
+The Note is It lacks waterjets, however on water it is propelled by its tracks. It can still ford lakes and inland rivers, but it no longer capable to operate at sea..
+
+Here is System information for the ZBD-08 (WZ502G) Chinese Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is INA.
+The Type is Rifled Gun.
+The Caliber is 100mm.
+The Length is INA.
+The Diameter is INA.
+The Weight is INA.
+The Effective Range is 4.
+The Autoloader is Yes.
+The Rate of Fire is 10 rounds per minute..
+The Note is This gun can fire both ordinary projectiles and anti-tank guided missiles..
+
+Here is Ammunition information for the ZBD-08 (WZ502G) Chinese Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is HE-FRAG.
+The Caliber is 100.
+The Basic Load is 30 Rounds.
+The Note is The ZBD-08 carries 22 ordinary HE-FRAG rounds and 8 anti-tank guided missiles..
+
+Here is System information for the ZBD-08 (WZ502G) Chinese Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 1 x Type 53 (SG43).
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is People's Republic of China.
+The Proliferation is Widely Proliferated.
+The Length is 1,150 mm.
+The Barrel Length is 720 mm.
+The Weight is 13.8 kg.
+The Action is Gas-operated.
+The Rate of Fire is 500–700 rounds/min.
+The Muzzle Velocity is 800 m/s.
+The Effective Firing Range is 1100 m.
+The Maximum Firing Range is 1,500 meters.
+The Feed System is 200 or 250 round belts.
+The Sights is Iron sights.
+
+Here is Ammunition information for the ZBD-08 (WZ502G) Chinese Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Basic Load is 1,000 rds.
+
+Here is System information for the ZBD-08 (WZ502G) Chinese Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System:
+The Name is 1 x Nudelman-Rikhter NR-30.
+The Type is Autocannon.
+The Caliber is 30 mm.
+The Manufacturer is Russia.
+The Length is 2,153 mm.
+The Barrel Length is 1,600 mm.
+The Width is 181 mm.
+The Height is 186 mm.
+The Weight is 66 kg.
+The Barrels is 1.
+The Action is Short recoil.
+The Rate of Fire is 850–1,000 rpm.
+The Muzzle Velocity is 780 m/s.
+
+Here is Ammunition information for the ZBD-08 (WZ502G) Chinese Infantry Fighting Vehicle (IFV) of the Auxiliary Weapon System:
+The Type is Projectile.
+The Caliber is 30.
+The Cartridge is 30x155mm.
+The Projectile Weight is 410 grams (14½ oz), 840 g (1 lb 13½ oz) complete..
+The Launch Charge is 95 g to 99 g of 6/7fl VBP smokeless powder..
+The Types of Ammunition is HEI, AP, TP, Chaff dispensers.
+The Basic Load is 500.
+
+Here is Anti-Tank Guided Missile (ATGM) information for the ZBD-08 (WZ502G) Chinese Infantry Fighting Vehicle (IFV):
+The Note is This gun can fire both ordinary projectiles and anti-tank-guided missiles. It is compatible with Chinese indigenously designed ATGMs, derived from the Soviet AT-10 Stabber, which is capable of penetrating up to 600 mm of armor behind ERA blocks and poses a serious threat to main battle tanks. It is claimed that the hit probability of the missile is at least 80%..
+The Basic Load is 8 Rounds.
+
+Here is Fire Control information for the ZBD-08 (WZ502G) Chinese Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes.
+
+Here is Protection information for the ZBD-08 (WZ502G) Chinese Infantry Fighting Vehicle (IFV):
+The Hull Armor is Welded steel armor hull. It is claimed that front arc withstands 30 mm armor-piercing rounds. Sides withstand 14.5 mm rounds..
+The Turret Armor is Welded steel armor hull. Turret roof and rear end provide protection from 7.62 mm armor-piercing rounds..
+The Applique Armor is Yes, Add-on modular armor can be fitted for a higher level of protection..
+The Explosive Reactive Armor is INA.
+The Active Protection System is Yes.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is 6 x Smoke Grenades.
+

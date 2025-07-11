@@ -1,0 +1,62 @@
+This document describes the M198 American 155mm Towed Howitzer.
+
+The M198 American 155mm Towed Howitzer  was for almost 3 decades the primary towed artillery piece of the US military, and is still in use with several other countries. It is replaced in service with the US armed forces by the M777 howitzer.
+
+This equipment has proliferated into the following countries: Bahrain, Brazil, Ecuador, Honduras, Iraq, Lebanon, Morocco, Pakistan, Saudi Arabia, Somalia, Thailand, Tunisia.
+
+Here is System information for the M198 American 155mm Towed Howitzer:
+The Alternative Designation is M198.
+The Type is Towed Howitzer.
+The Caliber is 155 mm.
+The Carriage is split trail.
+The Crew is 11.
+The Emplacement Time is 6.
+The Displacement Time is 5.
+
+Here is Dimensions information for the M198 American 155mm Towed Howitzer:
+The Length, Overall is 11.0 m.
+The Length, Transport Configuration is 12.34 m.
+The Width, Overall is 8.534 m.
+The Width, Transport Configuration is 2.794 m.
+The Height, Axis of Fire is 1.803 m.
+The Height, Transport Configuration is 2.9 m.
+The Weight, Standard is 7,163 kg.
+The Weight, Combat is 7,163 kg.
+The Ground Clearance is 0.33 m.
+
+Here is System information for the M198 American 155mm Towed Howitzer of the Main Weapon System:
+The Name is INA.
+The Type is Howitzer.
+The Caliber is 155 mm.
+The Elevation is +72° (1280mils)/-5° (-89mils).
+The Traverse is 45° (800mils).
+The Breach Mechanism is interrupted screw.
+The Muzzle Brake is double baffle.
+The Rate of Fire is 4 rpm.
+The Maximum Firing Range is 22-39 km depending on projectile.
+
+Here is Ammunition information for the M198 American 155mm Towed Howitzer of the Main Weapon System:
+The Type is Projectile.
+The Caliber is 155 mm.
+The Projectile Weight is 44 kg.
+The Types of Ammunition is Anti-tank (M718) (containing nine anti-tank mines) with the projectile weighing 46.72 kg, a muzzle velocity of 660 m/s and a maximum range of 17,740 m.
+Anti-tank (M741) (containing nine anti-tank mines) with the projectile weighing 46.72 kg, muzzle velocity of 660 m/s and a maximum range of 17,740 m.
+Copperhead Cannon Launch Guided Projectile (M712) to a range of 16,400 m (as their shelf-life has now been exceeded these laser-guided projectiles are no longer operational).
+HE (M107) with the projectile weighing 42.91 kg, muzzle velocity of 684.3 m/s, and maximum range of 18,100 m.
+HE (M449) (containing 60 anti-personnel grenades) with the projectile weighing 43.09 kg and a maximum range of 18,100 m.
+HE (M483) (containing 88 dual-purpose grenades) with the projectile weighing 46.53 kg, muzzle velocity of 660 m/s and a maximum range of 17,500 m.
+HE (M692) (containing 36 anti-personnel mines) with the projectile weighing 46.5 kg, muzzle velocity of 660 m/s and a maximum range of 17,740 m.
+HE (M731) (containing 36 anti-personnel mines) with the projectile weighing 46.5 kg, muzzle velocity of 660 m/s and a maximum range of 17,740 m.
+HE (M795) registration projectile for M483 and maximum range of 22,400 m.
+HERA (M549 series) (RAP) with the projectile weighing 43.54 kg, maximum muzzle velocity of 826 m/s and a maximum range of 30,000 m.
+Dual-Purpose Improved Conventional Munition (DPICM) M864 (type-classified late in 1987).
+Illuminating (M118 series) with the projectile weighing 46.26 kg, muzzle velocity of 684.3 m/s and a maximum range of 18,100 m.
+Illuminating (M485 series) with the projectile weighing 41.73 kg, muzzle velocity of 684 m/s and a maximum range of 17,500 m.
+Smoke WP (M110 series) with the projectile weighing 44.4 kg, muzzle velocity of 684.3 m/s and a maximum range of 18,100 m.
+Smoke BE (M116 series) with the projectile weighing 42.22 kg, muzzle velocity of 684.3 m/s and a maximum range of 18,100 m.
+Smoke (M825), base ejection, with a muzzle velocity of 797 m/s and a maximum range of 22,600 m
+M982 Excalibur precision guided munition..
+
+Here is Protection information for the M198 American 155mm Towed Howitzer:
+The Shield is No.
+

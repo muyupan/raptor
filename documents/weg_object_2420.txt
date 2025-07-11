@@ -1,0 +1,57 @@
+This document describes the MSS 1.2 Brazilian Anti-Tank Guided Missile (ATGM).
+
+The Mectron MSS-1.2 is an Italian-Brazilian Anti-tank guided missile with laser guidance used for close-range fighting. It is the standard personal missile launch system of the Brazilian army and marine corps. The MSS 1.2 has a range of 500 to 3,000 m and can be used against tanks, armoured vehicles, infantry, bunkers, small buildings, boats, aircraft, and helicopters. Initially, this missile was jointly developed by OTO Melara in Italy and ENGESA in Brazil as the Missile Anticarro della Fanteria (MAF), with the program beginning in 1985. The MAF was later renamed the LEO, in honor of Minister of the Army Leonidas Goncalves, but that name as well gave-way to a later designation, the current MSS 1.2. After ENGESA went bankrupt in 1993, the program was handed over to ORBITA, and later Mectron (also a Brazilian company). OTO Melara eventually ceded the entire program to Mectron, who continued to develop it for an agonizingly long duration --- after 16 more years and at least one major redesign, the MSS 1.2 was formally accepted into service with the Brazilian armed forces in 2009.
+
+The CEO of Mectron, Gustavo Ramos, claimed in December 2012 that the MSS 1.2 was (in his own words) "developed and manufactured by a 100% Brazilian company". Though given articles on the MAF, LEO, and MSS 1.2 by Flight Global and other news outlets since the 1980s, this is somewhat exaggerated; without substantial assistance from OTO Melara, this missile would never have existed.http://www.military-today.com/missiles/mss_1_2.htm
+
+The missile is equipped with a warhead type hollow charge and a two-stage propulsion system. Guidance is performed by a laser beam projected by the fire control system. Similar in performance to the Russian 9M123 Khrizantema, it is meant to compete with other next generation missiles. The MSS-1.2 was designed to deal with current and future armored threats such as Russian T-90, American M-1 Abrams and British Challenger 2 tanks, but can also be used against low-altitude aircraft such as helicopters and unmanned aerial vehicles. It has successfully breached more than six meters of concrete in tests carried out by the Brazilian army.
+
+The anti-tank missile MSS 1.2 is in production, waiting for placement in the Brazilian Army. Although the requirement of EB was for a missile with a 2,000 meter range, during recent tests the missile remained "attitude of target", (i.e., it was guided and impacted on the target at ranges ranging from 3,500 to 4,000 meters) "We put a conservative in the serial range of 3000m. But it goes much further, and accurately, while maintaining full control."
+
+*Flight in controlled canards cruciform configuration
+*Bearing induced by the wings
+*Shaped warhead with HMX explosive
+*Engine two stages, with solid propellant, based on double occupancy.
+*Section of control and guidance system: digital electronics, microprocessor-based
+*Loop control with PID strategy
+*Canards electrically actuated
+
+This equipment has proliferated into the following countries: Brazil.
+
+Here is System information for the MSS 1.2 Brazilian Anti-Tank Guided Missile (ATGM):
+The Alternative Designation is MSS 1.2.
+The Type is Anti-Tank Guided Missile.
+The Crew is 1.
+The Launcher is Unlike most modern ATGMs in its class, the MSS 1.2 is not fired from a disposable launch tube, but rather a reloadable box launcher..
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Prime Mover Required is No.
+The Man Portable is Yes.
+The Note is The MSS 1.2 is a man-portable Anti-Tank Guided Missile (ATGM) manufactured in Brazil by Mectron. It is one of the most powerful missiles in its class, and is intended to give infantry an equalizer against even the most advanced main battle tanks..
+
+Here is Dimensions information for the MSS 1.2 Brazilian Anti-Tank Guided Missile (ATGM):
+The Launch Tube Length is 1.38 m.
+The Launcher Weight (Without Tripod) is 17 kg.
+The Tripod Weight is 11 kg.
+The System Weight is 52.8 kg.
+
+Here is Missile information for the MSS 1.2 Brazilian Anti-Tank Guided Missile (ATGM):
+The Name is .
+The Type is Anti-Tank Guided Missile.
+The Missile Length is 1.38 m.
+The Missile Diameter is 0.13 m.
+The Fin Span is INA.
+The Missile Weight is 15.5 kg.
+The Warhead Type is HEAT.
+The Warhead Weight is 3.2 kg.
+The Guidance System is Semi-active laser.
+The Maximum Range of Fire is 4 km.
+The Effective Range of Effective Fire is 3.2 km.
+The Armor Penetration is 700 mm RHAe.
+
+Here is Fire Control information for the MSS 1.2 Brazilian Anti-Tank Guided Missile (ATGM):
+The Name is INA.
+The Computerized FCS is Yes.
+The Guidance System is Semi-active laser.
+The Direct Fire is Yes.
+

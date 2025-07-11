@@ -1,0 +1,55 @@
+This document describes the Strix Swedish 120mm Mortar.
+
+The Pansarsprängvinggranat, M94, STRIX is a Swedish end phase-guided projectile fired from a 120mm mortar originally manufactured by Saab Bofors Dynamics.
+STRIX is fired like a conventional mortar round.  The round contains an infrared imaging sensor that it uses to guide itself onto any tank or armored fighting vehicle in the vicinity where it lands.  The seeker is designed to ignore targets that are already burning.
+Launched from any 120mm mortar, STRIX has a normal range of up to 4.5km.  With the addition of a special sustainer motor, however, the range can be increased to 7.5km.
+The STRIX mortar round uses twelve midsection lateral thruster rockets to provide terminal course corrections.
+The tail unit is loaded first with the necessary propelling charges (up to eight increments), then the sustainer motor (if required), and finally, the programmed projectile.  A hand-held programming unit is connected to the projectile by cable prior to loading to feed in flight time before seeker activation, and with allowances for terminal phase ballistic conditions.
+As well as being fired by conventional mortars, STRIX can be fired by the Advanced Mortar System, an automatic dual 120mm mortar mounted in a turret for fitting to armored fighting vehicles.
+Feasibility and project definition studies began in 1983, as a joint private venture between FFV Ordnance and Saab Missiles.  The first fully guided flight took place in 1988.
+
+This equipment has proliferated into the following countries: Sweden.
+
+Here is System information for the Strix Swedish 120mm Mortar:
+The Alternative Designations is Strix.
+The Type is Terminal-Homing Mortar.
+The Caliber is 120 mm.
+The Manufacturer is Saab Bofors.
+The Crew is 1 and 1 additional member in mortar crew to load seeker data.
+The Range is 1-4 km with special expulsion charge
+1.7-8 km with charge plus attachment of sustainer motor.
+The Guidance System is IR seeker, 12 thruster rockets
+16-bit micro- processor retains path data and target identification data.
+The Acquisition Radius is 150.
+The Loading Method is Hand-load or auto-load without sustainer motor
+Hand-load only with sustainer motor.
+The Equipment / Modifications Required is A computer (e.g., small 2-lb notebook type) is used to load target description data (from target library) into the round
+Rounds may require less target detail if other hot systems are not in the area.
+The Systems Using This Munition is Any 120mm smoothbore mortar and combination gun can fire the round. The Advanced Mortar System (AMOS) can fit on a variety of vehicle chassis..
+The Employment Time is 1-5 minutes, depending on system.
+The Rate of Fire is Up to 9 rpm , although most point targets will require 1-6 rounds.
+The Counter-Measure Vulnerability is IR absorbing paint, camouflage material, IR suppressing smoke, or tenting can affect the seeker.
+Target can hide under dense tree canopy, building cover, etc.
+Decoy targets such as heated plates may deflect the seeker.
+Any challenge to location accuracy, such as smoke, dust, or target speed, may decrease the possibility that the target is within the seeker footprint.
+If targets disperse when under attack, some may be able to avoid the footprint..
+
+Here is Dimensions information for the Strix Swedish 120mm Mortar:
+The Weight is 17.0.
+The Length is 0.83.
+
+Here is Lethality Mechanism information for the Strix Swedish 120mm Mortar:
+The Type is Shaped-charge (HEAT).
+The Fuze Type is Point Detonating.
+The Penetration is 600.
+The Probability of Kill Given a Hit is 90.
+The Number per kill, Moving Target is 4-6 (P-hit 20% est).
+The Number per kill, Stationary Target is 1-2 (P-hit 75% est).
+
+Here is Target Types information for the Strix Swedish 120mm Mortar:
+The Description is High-value target vehicles include approaching tanks, IFVs, SP artillery, scatterable mine launcher vehicles, ATGM vehicles, etc
+
+Vehicles must be hot (sun or recent move).
+
+Stationary vehicle targets are preferred.
+

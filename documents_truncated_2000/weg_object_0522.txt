@@ -1,0 +1,64 @@
+This document describes the ATMOS 2000 Israeli 155mm Self-Propelled Howitzer.
+
+The ATMOS 2000 Israeli 155mm Self-Propelled Howitzer is fitted with a 155 mm/52 caliber ordnance which conforms to NATO Joint Ballistic Memorandum of Understanding (JBMoU), and is mounted on a 6 × 6 cross-country truck chassis.
+
+This equipment has proliferated into the following countries: Azerbaijan, Botswana, Cameroon, Israel, Philippines, Poland, Romania, Rwanda, Thailand, Uganda, Zambia.
+
+Here is Variants information for the ATMOS 2000 Israeli 155mm Self-Propelled Howitzer:
+The ATROM is Romanian variant of the ATMOS 2000, mounted on a locally developed 6x6 truck chassis. This artillery system received no production orders..
+The Kryl is A Polish truck-mounted howitzer, which is fitted with an ordnance of the ATMOS 2000, mounted on a Jelcz 6x6 truck chassis. It was first unveiled to the public in 2014..
+
+Here is System information for the ATMOS 2000 Israeli 155mm Self-Propelled Howitzer:
+The Alternative Designation is ATMOS 2000.
+The Type is Self-Propelled Howitzer.
+The Caliber is 155 mm.
+The Manufacturer is Soltam Systems (now Elbit Systems).
+The Chassis is Tatra T815 VVN 6x6 truck chassis..
+The Configuration is 6×6.
+The Crew is 6.
+
+Here is Dimensions information for the ATMOS 2000 Israeli 155mm Self-Propelled Howitzer:
+The Length is 9.50 m.
+The Width is 2.50 m.
+The Height is 3.24 m.
+The Weight, Standard is 21,000 kg.
+The Ground Clearance is 0.40 m.
+
+Here is Automotive information for the ATMOS 2000 Israeli 155mm Self-Propelled Howitzer:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Power-to-Weight Ratio is 15 hp/t.
+The Fuel Capacity is INA.
+The Maximum Speed is 80 km/h.
+The Amphibious is No.
+The Maximum Range is 1,000 km.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.6 m.
+The Trench is 0.9 m.
+The Fording is 1.4 m.
+
+Here is System information for the ATMOS 2000 Israeli 155mm Self-Propelled Howitzer of the Main Weapon System:
+The Name is L52 gun-howitzer.
+The Type is Howitzer.
+The Caliber is 155 mm.
+The Elevation is +70° (1,244 mils).
+The Traverse is 50° (889 mils) (25° left/right).
+The Rate of Fire is 4 - 9 rpm.
+The Maximum Firing Range is 41,000 m.
+
+Here is Ammunition information for the ATMOS 2000 Israeli 155mm Self-Propelled Howitzer of the Main Weapon System:
+The Type is Projectile.
+The Caliber is 155 mm.
+The Note is The ATMOS 2000 is compatible with all standard 155 mm NATO ammunition..
+
+Here is Fire Control information for the ATMOS 2000 Israeli 155mm Self-Propelled Howitzer:
+The Note is The system has an onboard advanced fire-control system (AFCS). This includes a main computer, a navigation and aiming device, and enables ATMOS 2000 to rapidly engage the target after receiving the position of the target from the forward observation officer (FOO). The AFCS processes the target information, presents this on a display to the gunner, and then lays the weapon on to the target in traverse and elevation. Manual backup is also provided in case of power failure..
+
+Here is Protection information for the ATMOS 2000 Israeli 155mm Self-Propelled Howitzer:
+The Hull Armor is The cabin is armour-protected and can provide protection from small-arms fire and artillery shell splinters..
+The Applique Armor is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

@@ -1,0 +1,72 @@
+This document describes the Type 89 Japanese Mechanized Infantry Combat Vehicle.
+
+The Type 89 Japanese Mechanized Infantry Combat Vehicle (MICV) replaces the Type 73 APC. The MICV is built by the Mitsubishi Heavy Industries, Tokyo, Japan with Komatsu, Tokyo, Japan as a subcontractor..
+
+The MICV crew consist of 3 (driver, commander, and, gunner). The commander and driver sit side by side in the turret with the gunner on the left and the commander on the right. The MICV also carries 7 passengers.
+
+The turret has a 35-mm Oerlikon cannon that is produced under a license by Japan Steel Works. A KAM-9 laser guided anti-tank missile (produced by Kawasaki Heavy Industries) is located on either side of the turret.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is System information for the Type 89 Japanese Mechanized Infantry Combat Vehicle:
+The Alternative Designations is Type 89 MICV.
+The Description is Tracked MICV with entry and exit through through two doors at the rear for troops to dismount. The doors open outward. There are also two single piece hatches over the troop compartment that open on either side of the hull top..
+The Manufacturer is Mitsubishi Heavy Industries, Tokyo, Japan.
+The Crew is 3 (driver, commander, and gunner).
+The Passengers is 7.
+
+Here is Dimesions information for the Type 89 Japanese Mechanized Infantry Combat Vehicle:
+The Length is 6.70.
+The Width is 3.20.
+The Height to hull top is 2.50.
+The Weight is 26,000.
+The Track Length on ground is INA.
+The Track Width is INA.
+The Ground Clearance is INA.
+
+Here is Automotive information for the Type 89 Japanese Mechanized Infantry Combat Vehicle:
+The Engine Name is INA.
+The Engine Type is Diesel water-cooled.
+The Engine Power is 600.
+The Cruising Range is 400.
+The Speed (Max Road) is 70.
+The Speed (Max Off-Road) is INA.
+The Speed Reverse is 42.
+The Speed (Max Swim) is INA.
+The Ground pressure (kg/cm2) is INA.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is INA.
+The Trench is INA.
+The Fording Depths (m) is INA.
+The Power to Weight Ration is 23.8 hp/metric ton.
+The Transmission is INA.
+The Suspension is Torsion bar, 6 road wheels, front drive, rear idler, 3 return rollers.
+The Fuel Capacity is INA.
+The Fuel Consumption is INA.
+
+Here is System information for the Type 89 Japanese Mechanized Infantry Combat Vehicle of the Main Weapon System:
+The Name is 1 x Oerlikon-Burhle KDE cannon.
+The Type is Cannon.
+The  is 35 mm.
+The Breech Type is Gas operated positive lock.
+The Recoil is Hydromechanical.
+The Rate of Fire is 200 rds/min cyclic.
+The Muzzle Velocity HE is 1,160 m/sec.
+The Muzzle Velocity APDS-T is 1,385 m/sec.
+The On Board Load is INA.
+
+Here is Fire Control information for the Type 89 Japanese Mechanized Infantry Combat Vehicle:
+The FCS Name is INA.
+The Computerized FCS is INA.
+
+Here is Protection information for the Type 89 Japanese Mechanized Infantry Combat Vehicle:
+The Armor is Aluminum Alloy.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Self-entrenching Blade is No.
+The NBC Protection System is Yes.
+The Smoke Equipment is INA.
+The Survivability Equipment is No.
+

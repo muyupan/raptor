@@ -1,0 +1,163 @@
+This document describes the S-300PMU-2 Favourite (SA-20B) Russian Long-Range Air Defense Missile System.
+
+The S-300PMU-2 or Favorit air defense missile system was developed especially for export. It evolved from the S-300PM-2, which was developed for the Russian Armed Forces. The S-300PMU-2 has the highest capabilities in the S-300P family. It was introduced in 1997. As of 2016, this system is 19 years old. The S-300PMU-2 is referred in the West as SA-20B Gargoyle. It uses a 30N6E1 (Tomb Stone) radar. This radar has a range of 300 km, can detect 100 targets, track and engage 36 of them and guide 72 missiles. It is worth noting that earlier radars of the S-300 family could simultaneously engage only 6 targets and guide 12 missiles.
+
+   Unlike the previous S-300PMU-1, the S-300PMU-2 doesn't use the 36D6 (Tin Shield) and 76N6 (Clam Shell) radars. Instead, the system uses 96L6 all-altitude detector and acquisition radar. The 96L6 works in L-band. It has a 300 km range and very high resolution. The system can detect and track 100 targets. It identifies 4 target classes, including aircraft, helicopters, remotely piloted aerial vehicles, and missiles. It is claimed that this radar can also detect stealthy targets.
+
+The S-300PMU2 Favorit system is comprised of:
+
+* 83M6E2 command post (CP)
+* up to six 90Zh6E2 air defense missile complexes
+* 48N6E2 air defense missiles
+* technical support facilities.
+
+  A battery of the S-300PMU-2 also includes the 30N6E2 X-band engagement radar, the 96L6E L-band acquisition radar, eight (maximum of twelve are supported ) 5P58TE/SE or 5T58-2 TELs with missiles a 54K6E2 or 55K6E command post, and a 22T6E2 missile loader. Also, battalions use one or two  64N6E2 S-band radars.
+
+This equipment has proliferated into the following countries: Algeria, Armenia, Belarus, Bulgaria, China, Egypt, India, Iran (Islamic Republic of), Kazakhstan, North Korea (Democratic People's Republic of Korea), Slovakia, Syria, Ukraine, Venezuela (Bolivarian Republic of), Viet Nam.
+
+Here is System information for the S-300PMU-2 Favourite (SA-20B) Russian Long-Range Air Defense Missile System:
+The Alternative Designation is S-300PMU-2 Favourite; SA-20B.
+The Manufacturer is MZiK.
+The Type is Russian Long-Range Air Defense Missile System.
+The Family is S-300 Family.
+The In Service is 1997-Present.
+The Chassis is MAZ-543 Special Wheeled Chassis.
+The Crew is INA.
+The Displacement Time is less than 5 minutes.
+The Emplacement Time is less than 5 minutes.
+The Number of Targets Engaged Simultaneously is 6.
+The Reload Vehicle is 5T58 reload vehicle.
+The Note #1 is Capable of hitting ballistic and aerodynamic targets. Became the first multi-channel anti-aircraft missile system, is able to accompany each system (ADMS) to 6 goals and build them up to 12 missiles..
+The Note #2 is The S-300PMU2 Favorit can engage targets flying from 10 m to 27 km above the surface at a speed of up to 10,000 km/h. It is claimed that it has a kill ratio ranging from 0.8 to 0.93 against aircraft and from 0.8 to 0.98 against Tomahawk-class cruise missiles..
+
+Here is Dimensions (MAZ-543 Special Wheeled Chassis) information for the S-300PMU-2 Favourite (SA-20B) Russian Long-Range Air Defense Missile System:
+The Length is 11.7.
+The Width is 3.07.
+The Height is 2.92.
+The Weight is 15.
+The Ground Pressure is INA.
+
+Here is Automotive (MAZ-543 Special Wheeled Chassis) information for the S-300PMU-2 Favourite (SA-20B) Russian Long-Range Air Defense Missile System:
+The Engine Name is D12A-525 38.9-liter Diesel.
+The Engine Type is Diesel.
+The Engine Power is 525.
+The Cruising Range is 650.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Configuration is 8x8.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 2.0.
+The Fording Depth is 1.3.
+
+Here is Communications information for the S-300PMU-2 Favourite (SA-20B) Russian Long-Range Air Defense Missile System:
+The Note is See Fire Control..
+
+Here is Missile Launcher information for the S-300PMU-2 Favourite (SA-20B) Russian Long-Range Air Defense Missile System of the Missile System:
+The Name is Like the S-300PMU-1, 12 TELs can be controlled, with any mix of 5P85SE2 self-propelled and 5P85TE2 trailer launchers..
+The Type is The missiles use "cold" vertical launch - before starting sue-tainer they launched from a container to height over 30 meters..
+The Anti-Ballistic Missile (ABM) Capability is Yes.
+The Note #1 is The missiles can be fired in a salvo with an interval between 3 and 5 seconds..
+
+Here is Missile (Option 1) information for the S-300PMU-2 Favourite (SA-20B) Russian Long-Range Air Defense Missile System of the Missile System:
+The Name is 4 x 48N6E2 Missiles Surface-to-Air Missile (SAM).
+The Type is Surface-to-Air Missile (SAM).
+The Length is 7.5.
+The Diameter is 0.5.
+The Weight is 1,800.
+The Warhead Weight is 150 kg.
+The Engine is Single-stage, solid-fuel-propelled.
+The Guidance System is Track-via-missile.
+The Maximum Range is 200.
+The Ballistic Missile Engagement is Yes, his missile is optimized to engage ballistic missiles..
+The Maximum Target Speed is Mach 8.
+The Maximum Missile Speed is Mach 6.
+The Maximum Altitude is 10.
+The Minimum Altitude is 28.
+The Basic Load is 4 x 48N6E2 Missiles Surface-to-Air Missile (SAM) per TEL.
+
+Here is Missile (Option 2) information for the S-300PMU-2 Favourite (SA-20B) Russian Long-Range Air Defense Missile System of the Missile System:
+The Name is 4 x 9M96E1 Missile Surface-to-Air Missile (SAM).
+The Type is Surface-to-Air Missile (SAM).
+The Length is 4.75.
+The Diameter is 0.24.
+The Weight is 330.
+The Warhead Weight is 24.
+The Engine is Single-stage, solid-fuel-propelled.
+The Guidance System is Active radar homing.
+The Maximum Range is 40.
+The Maximum Altitude is 20.
+The Maximum Velocity is 900.
+The Maximum Target Speed is 4,800–5,000 m/s.
+The Probability of Kill is 0.7 against a tactical ballistic missile.
+The Basic Load is 4 x 9M96E1 Missile Surface-to-Air Missile (SAM) per TEL..
+
+Here is Missile (Option 3) information for the S-300PMU-2 Favourite (SA-20B) Russian Long-Range Air Defense Missile System of the Missile System:
+The Name is 4 x 9M96E2 Missile Surface-to-Air Missile (SAM).
+The Type is Surface-to-Air Missile (SAM).
+The Length is 5.56.
+The Diameter is 0.24.
+The Weight is 420.
+The Warhead Weight is 24.
+The Engine is Single-stage, solid-fuel-propelled.
+The Guidance System is Active radar homing.
+The Maximum Range is 120.
+The Maximum Altitude is 35.
+The Maximum Velocity is 1,000.
+The Maximum Target Speed is 4,800–5,000 m/s.
+The Probability of Kill is 0.7 against a tactical ballistic missile.
+The Basic Load is 4 x 9M96E2 Missile Surface-to-Air Missile (SAM).
+
+Here is Fire Control Radar System Vehicle information for the S-300PMU-2 Favourite (SA-20B) Russian Long-Range Air Defense Missile System of the Fire Control:
+The Name is 1 x 30N6E2 (Tomb Stone).
+The Type is Fire Control Radar.
+The Computerized FCS is Yes.
+The Direct Fire is Yes, no less than 1km.
+The Indirect Fire is Yes.
+The Fire Control Sensors is Yes.
+The IADS Integration is INA.
+The Maximum Detection Range is 300.
+The Missile Control is up to 72.
+The Time to work is 5.
+The Number of Targets Detection is 100.
+The Number of Targets to Track and Engage is 36.
+The Maximum Elevation is +60.
+The Minimum Elevation is -3.
+The Azimuth Detection is 360.
+The Maximum Target Speed is 30 - 2,800 m/s.
+
+Here is Air Surveillance Radar Vehicle information for the S-300PMU-2 Favourite (SA-20B) Russian Long-Range Air Defense Missile System of the Fire Control:
+The Name is 1 x 64N6E2.
+The Type is Long-range air surveillance radar.
+The Maximum Detection Range is 600.
+The Band is S-Band.
+The Jamming Resistance is Yes, The system has high resistance against jamming..
+The Note is It is the most capable radar of the S-300 missile system and has a key role of defeating ballistic missiles and electronic warfare aircraft..
+
+Here is Command Post Vehicle information for the S-300PMU-2 Favourite (SA-20B) Russian Long-Range Air Defense Missile System of the Fire Control:
+The Name is 1 x 83M6E2 Command Post (CP).
+The Note is The 83M6E2 command post (CP) is intended for operational control of multi­channel SAM system S-300 PMU, S-300 PMU1. S-300 PMU2, S-200DE and S-200VE and cooperation among SAM system groupings and with higher command. The 83M6E2 is a highly mobile automated control aid pro­viding the above SAM systems with designation of targets including modem and future aircraft, cruise missiles, ballistic targets and other air attack means over the entire range of there practical employment, cooperation between SAM sys­tems (also under intensive jamming conditions). To control the SAM systems, the 83M6E2 uses its own radar data and data received from the controlled SAM systems, as well as information derived from higher control aids, elec­tronic reconnaissance troops and neighbouring SAM sys­tems groupings..
+
+Here is All-Altitude Detector and Acquisition Radar Vehicle information for the S-300PMU-2 Favourite (SA-20B) Russian Long-Range Air Defense Missile System of the Fire Control:
+The Name is 1 x 96L6.
+The Type is All-Altitude Detector and Acquisition Radar.
+The Band is L-Band.
+The Maximum Range is 300.
+The Detect and Track Targets is 100.
+The Target Class Identification is It identifies 4 target classes, including aircraft, helicopters, remotely piloted aerial vehicles, and missiles. It is claimed that this radar can also detect stealthy targets..
+
+Here is Protection information for the S-300PMU-2 Favourite (SA-20B) Russian Long-Range Air Defense Missile System:
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The Camouflage Nets is Yes, Standard.
+The Note is Protection. Additional elements of protection are the placement of components of C-300 in the trenches (practiced as placing on the hills for a better view and more rapid care of the horizon, and in the trenches for stealth and protection against fragments of explosions)..
+

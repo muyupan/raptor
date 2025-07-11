@@ -1,0 +1,37 @@
+This document describes the AIM-7C Sparrow III (AAM-N-6) American Medium-Range Air-to-Air Missile.
+
+The AIM-7 Sparrow III is an American, medium-range semi-active radar homing air-to-air missile operated by the United States Air Force, United States Navy, and United States Marine Corps, as well as other various air forces and navies. Sparrow and its derivatives were the West's principal beyond visual range (BVR) air-to-air missile from the late 1950s until the 1990s. It remains in service, although it is being phased out in aviation applications in favor of the more advanced AIM-120 AMRAAM.
+
+This equipment has proliferated into the following countries: Bahrain, Canada, Egypt, Iran (Islamic Republic of), Iraq, Japan, Jordan, Kuwait, Malaysia, Saudi Arabia, Singapore, South Korea (Republic of Korea), Spain, Turkey, United States of America.
+
+Here is Variants information for the AIM-7C Sparrow III (AAM-N-6) American Medium-Range Air-to-Air Missile:
+The AAM-N-2/AIM-7A Sparrow I is This was a beam-riding missile..
+The AAM-N-6/AIM-7B Sparrow II is This was an active radar homing variant produced by Douglas (with Bendix-Pacific and Westinghouse)..
+The AAM-N-6/AIM-7C Sparrow III is This was the first production version of the Sparrow III. It introduced semi-active radar homing on continuous wave radiation, allowing interception beyond visual range (BVR)..
+The AAM-N-6A/AIM-101/AIM-7D is This was the only liquid-fueled variant. It was powered by Mk 6 Mod 3 motor by Thiokol..
+The AAM-N-6B/AIM-7E is This was the main production version with a Rocketdyne Mk 38 (later Mk 52) solid-propellant motor..
+The AIM-7F Sparrow is This was a virtually complete redesign of the original missile. Onboard guidance and control systems use solid-state electronics and a Doppler radar with conical scanning from a flat-plate aerial..
+The AIM-7H is This was a proposed upgrade to 5,000 AIM-7F missiles for more effective operation with newer radars and fire control systems..
+The AIM-7M is This was an improved AIM-7F with an inverse monopulse seeker that improved look-down/shoot-down capability and electronic countermeasures (ECM) resistance..
+The AIM-7N is This was a limited run of an updated AIM-7F used in the F-15 Multi-Stage Improvement Program..
+The AIM-7P is A development contract awarded to Raytheon in 1987 covered the AIM-7P. This was the final new-build Sparrow variant..
+The Missile Homing Improvement Program (MHIP) is This added an improved infrared (IR) seeker to the semi-active radar seeker to permit terminal homing in severe electronic countermeasures (ECM) environments..
+The AIM-7R is This program began in 1988 as the Missile Homing Improvement Program (MHIP). It added an infrared (IR) seeker to the guidance and control section for improved terminal phase operation against jamming targets..
+The Sky Flash and Aspide is These are British and Italian variants of Sparrow built under license..
+The Sea Sparrow RIM-7H/F/M/P is A ship-launched variant of the AIM-7E/F/M/P widely used by U.S. and NATO navies. See separate database entry..
+The Skyguard /Sparrow is This is a land-based AIM-7E/F/M variant combined with Oerlikon-Contraves 35-mm GDF series towed anti-aircraft guns and controlled by Skyguard fire-control system..
+
+Here is AIM-7 Sparrow III  (AAM-N-6) Air-to-Air Missile information for the AIM-7C Sparrow III (AAM-N-6) American Medium-Range Air-to-Air Missile of the System:
+The Name is AIM-7C Sparrow III  (AAM-N-6).
+The Type is Air-to-Air Missile.
+The Manufacturer is Raytheon.
+The Length is 3.66 m.
+The Diameter is 203 mm.
+The Wingspan is 1.02 m.
+The Missile Weight is 0.81 m.
+The Warhead Type is 1 x Mk 71 controlled fragmentation high-explosive.
+The Warhead Weight is 39 kg.
+The Engine is 1 x Hercules Mk 58 or Aerojet General Mk 65 boost-sustained solid-fuel rocket.
+The Maximum Speed is Mach 2.5.
+The Operational Range is 14 km.
+

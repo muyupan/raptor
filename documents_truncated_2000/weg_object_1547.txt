@@ -1,0 +1,95 @@
+This document describes the Go Jun Bong Class South Korean Amphibious Landing Ship.
+
+Go Jun Bong Class LST is an Amphibious Landing Ship class of the Republic of Korea Navy. Go Jun Bong class LST is based on the design of the LST-542 class LST, and thus its exterior is very similar to the Un Bong class LST.
+
+The ship is designed to land multiple personnel, tanks and equipment simultaneously with doors and ramps placed on both the stern and bow of the ship, unlike the Un Bong class LST which only has doors on the bow. It is also equipped with a turn table, saving time when loading or landing vehicles. There is also a ramp for moving trucks up to the deck, and multiple elevators for rapid cargo loading.
+
+This equipment has proliferated into the following countries: South Korea (Republic of Korea).
+
+Here is Variants information for the Go Jun Bong Class South Korean Amphibious Landing Ship:
+The Go Jun Bong is Commissioned: 1994
+Status: Active.
+The Bi Ro Bong is Commissioned: 1998
+Status: Active.
+The Hyang Ro Bong is Commissioned: 1999
+Status: Active.
+The Sung In Bong is Commissioned: 1999
+Status: Active.
+
+Here is System information for the Go Jun Bong Class South Korean Amphibious Landing Ship:
+The Alternative Designation is Go Jun Bong Class.
+The Type is Amphibious Landing Ship.
+The Builder is Hanjin Industrial Shipbuilding, Masan, South Korea.
+The Crew is 169.
+The Troops is 200.
+
+Here is Dimensions information for the Go Jun Bong Class South Korean Amphibious Landing Ship:
+The Length is 112.50 m.
+The Beam is 15.30 m.
+The Draft is 3.00 m.
+The Displacement, Standard is 1,900 tons.
+The Displacement, Full Load is 4,278 tons.
+
+Here is Propulsion System information for the Go Jun Bong Class South Korean Amphibious Landing Ship:
+The Engine Name is 2 x SEMT-Pielstick type 16 PA6 V280.
+The Engine Type is Diesel Engines.
+The Engine Power is 12,800 total bhp.
+The Fuel Capacity is INA.
+The Maximum Range is 4,500 nm at 12 knots.
+The Maximum Speed is 16 knots.
+
+Here is System #1 information for the Go Jun Bong Class South Korean Amphibious Landing Ship of the Main Weapon System:
+The Name is Bofors 40 mm gun.
+The Type is Anti-Aircraft Autocannon.
+The Caliber is 40 mm.
+The Quantity is 4 x Bofors 40 mm Anti-Aircraft Autocannon.
+The Length is 6.5 m.
+The Barrel Length is 2.2 m.
+The Width is 1.8 m.
+The Height is 1.9 m.
+The Weight is 1,981 kg.
+The Barrels is 1 or 2.
+The Traverse is 360°.
+The Rate of Fire is 120 round/min.
+The Muzzle Velocity is 881 m/s.
+The Maximum Firing Range is 7,160 m.
+
+Here is System #1, Ammunition information for the Go Jun Bong Class South Korean Amphibious Landing Ship of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 40mm.
+The Shell is 40×311mmR.
+The Basic Load is INA.
+
+Here is System #2 information for the Go Jun Bong Class South Korean Amphibious Landing Ship of the Main Weapon System:
+The Name is M61 Vulcan.
+The Type is Autocannon.
+The Caliber is 20 mm.
+The Quantity is 2 x M61 Vulcan 20mm Autocannons.
+The Barrels is 6-barrel (progressive RH parabolic twist, 9 grooves).
+The Action is Hydraulically operated, electrically fired, rotary cannon.
+The Rate of Fire is 6,000 rounds per minute.
+The Muzzle Velocity is 1,050 m/s.
+The Feed System is Belt or linkless feed system.
+
+Here is System #2, Ammunition information for the Go Jun Bong Class South Korean Amphibious Landing Ship of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 20 mm.
+The Cartridge is 20×102 mm.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Go Jun Bong Class South Korean Amphibious Landing Ship:
+The Optronic Gun Fire Control System is 1 x  Selenia NA-18 optronic gun fire control.
+The Vulcan Fire Control System is 2 x  Mark 90 Vulcan fire control.
+
+Here is Radar Systems information for the Go Jun Bong Class South Korean Amphibious Landing Ship:
+The Surface Search Radar is 1 x Raytheon AN/SPS-64(V)9 surface search.
+The Navigation Radar is 1 x Raytheon AN/SPS-64(V)6 navigation radar.
+
+Here is Aviation Facilities information for the Go Jun Bong Class South Korean Amphibious Landing Ship:
+The Helicopters is 1 × UH-60 helicopter.
+
+Here is Protection information for the Go Jun Bong Class South Korean Amphibious Landing Ship:
+The Radar Intercept is 1 x radar intercept.
+The NBC Water Washdown System is Yes.
+The Chaff Launcher is 1 x RBOC chaff launcher.
+

@@ -1,0 +1,54 @@
+This document describes the 1V22 / MP-22 Slovakian Amphibious Air Defense Control Vehicle.
+
+The 1V22 / MP-22 Slovakian Air Defense Control Vehicles is an air defense command and control vehicle. Typically, this vehicle is used by the command staff of 9K331 "Tor" (SA-15 air defense units. It carries a telescopic mast that is mounted on the front left of the hull. The vehicle can be recognized by the presence of this mast, and four roof antennas angled towards the rear of the vehicle. Also, the 1V25 / MP-25 vehicle featuring radar data processor subsystems typically works alongside the 1V22.
+
+This equipment has proliferated into the following countries: CFE Treaty, Poland, Russian Federation, Slovakia.
+
+Here is Variants information for the 1V22 / MP-22 Slovakian Amphibious Air Defense Control Vehicle:
+The 1V25 / MP-25 is Features radar  processing subsystem, additional C3 equipment to support SA-15 batteries..
+
+Here is System information for the 1V22 / MP-22 Slovakian Amphibious Air Defense Control Vehicle:
+The Alternative Designation is 1V22;  MP-22; M1974-2B.
+The Type is Air Defense Control Vehicle.
+The Chassis is MT-LBu.
+The Crew is 5.
+
+Here is Dimensions information for the 1V22 / MP-22 Slovakian Amphibious Air Defense Control Vehicle:
+The Height, Overall is 2.72.
+The Length, Chassis Overall is 7.26.
+The Width, Overall is 2.85.
+The Weight is INA.
+
+Here is Automotive information for the 1V22 / MP-22 Slovakian Amphibious Air Defense Control Vehicle:
+The Engine Name is YaMZ-238.
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Speed, Cross is INA.
+The Speed, Maximum Road is 60.
+The Speed, Maximum Swim is 4.5.
+The Fording Depth is Amphibious.
+
+Here is Sensors / Components information for the 1V22 / MP-22 Slovakian Amphibious Air Defense Control Vehicle:
+The Fire Direction (Automated) is 1V520.
+The Fire Direction (Manual) is PUO-7.
+The Navigation is 1T121-M Navigation System.
+The Other Equipment is 1D15 laser rangefinder, DSP-30 rangefinder, 1PN44 day / night sight, PAB-2AM aiming circle, DS-1 stereoscopic rangefinder, VOP vision blocks and driver periscopes..
+The Radar Data Processor is T-235-1L.
+
+Here is System information for the 1V22 / MP-22 Slovakian Amphibious Air Defense Control Vehicle of the Main Weapon System:
+The Name is 1 x PKT 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Range, Direct Fire is 1,500.
+The Range, Maximum Effective, Day is 1,000.
+The Range, Maximum Effective, Night is 1,000.
+The Rate of Fire, Cyclic is 650 rd/min (2-10 round bursts).
+The Fire on Move is Yes.
+The Sights is Iron Sights.
+
+Here is Protection information for the 1V22 / MP-22 Slovakian Amphibious Air Defense Control Vehicle:
+The Armor, Hull is 15.
+The Armor, Turret Front is 20.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

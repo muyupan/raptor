@@ -1,0 +1,89 @@
+This document describes the 1L260 Zoopark-1M Russian Mobile Counter-Battery Radar.
+
+The 1L260 Zoopark-1M is mobile artillery locating radar system designed to detect artillery rocket positions even in heavy electronic countermeasures (ECM) environments. Besides, the 1L260 can detect mortar and howitzer gunfire sources as well as tactical ballistic missiles launch pads. The radar system is mounted on a tracked armored chassis and includes a maintenance vehicle. Besides, the system can provide assistance for friendly artillery systems helping them to adjust their gunfire to effectively hit their designated target. The 1L260 radar system can detect a 155mm artillery shell at a range of 23 kilometers or 27 kilometers for 203mm shells. It can detect artillery rockets at ranges between 32 and 45 kilometers. An ATACMS-sized tactical ballistic missile can be detected at a range of 65 kilometers. The 1L260 can be ready for deployment or evacuation in five minutes while operating for over eight hours tracking up to 12 targets simultaneously. In azimuth, it covers a sector of 2.5 to 90-degree.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the 1L260 Zoopark-1M Russian Mobile Counter-Battery Radar:
+The 1L259 Zoopark-1 is Zoopark-1 is a three-dimensional (3-D) multifunction phased-array artillery location radar for use on the battlefield. The system tracks projectiles, calculates their trajectory, pinpoints the position of enemy artillery and transfers the information to associated fire-control systems for counter-b attery fire..
+
+Here is System information for the 1L260 Zoopark-1M Russian Mobile Counter-Battery Radar:
+The Alternative Designation is 1L260 Zoopark-1M.
+The Type is Mobile Counter-Battery Radar.
+The Crew is INA.
+The Chassis is MTLB.
+The Designed is The 1L260 Zoopark-1M is a mobile artillery locating radar system designed to detect artillery rocket positions even in heavy electronic countermeasures (ECM) environments. Besides, the 1L260 can detect mortar and howitzer gunfire source as well as tactical ballistic missiles launch pads..
+The Band is G-H (4-8 GHz).
+The Range, 155mm Artillery Shell is 23 kilometers.
+The Range, 203mm Artillery Shell is 27 kilometers.
+The Range, Artillery Rockets is between 32 and 45 kilometers.
+The Range, Ballistic Missiles is 65 kilometers.
+The Operating Time is 8 hours.
+The Number of Targets is up to 12 targets simultaneously.
+The Azimuth is In azimuth it covers a sector of 2.5 to 90-degree.
+The Displacement Time is Less than 5 Minutes.
+The Emplacement Time is Less than 5 Minutes.
+
+Here is Dimensions (Chassis: MTLB) information for the 1L260 Zoopark-1M Russian Mobile Counter-Battery Radar:
+The Length is 6.45.
+The Width is 2.86.
+The Height is 1.86.
+The Weight, Combat is 11,000.
+The Ground Pressure is 0.46 standard track / 0.28 wide track.
+The Antenna Length is INA.
+The Antenna Height is INA.
+The Mast Height is INA.
+
+Here is Automotive (Chassis: MTLB) information for the 1L260 Zoopark-1M Russian Mobile Counter-Battery Radar:
+The Engine Name is YaMZ 238 (Newer versions have the KamAZ-740.50 engine / 360 horsepower).
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 30.
+The Speed Maximum Swim is 5.
+The Fording Depth is Amphibious.
+
+Here is System information for the 1L260 Zoopark-1M Russian Mobile Counter-Battery Radar of the Primary Weapon System on Most Variants:
+The Name is PKT.
+The Type is General Purpose Machine Gun.
+The Caliber is 7.62mm.
+The Length is 1,098 mm.
+The Barrel Length is 772 mm.
+The Weight is 9 kg.
+The Action is Gas-operated, open bolt.
+The Rate of Fire is 700–800 rounds/min.
+The Muzzle Velocity is 825 m/s.
+The Maximum Firing Range is 4,000 m.
+The Effective Firing Range is 1,500 m.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the 1L260 Zoopark-1M Russian Mobile Counter-Battery Radar of the Primary Weapon System on Most Variants:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Basic Load is 1,500.
+
+Here is Fire Control information for the 1L260 Zoopark-1M Russian Mobile Counter-Battery Radar:
+The Name is PP-61AM, 2.6x.
+The Computerized FCS is N/A.
+The Thermal Sight Vehicle Commander is N/A.
+The Thermal Sight Gunner is N/A.
+The Main Gun Stabilization is N/A.
+The Range, Day Sight is 1,500.
+The Range, Thermal Sight is N/A.
+The Field of View is 23.
+
+Here is Protection information for the 1L260 Zoopark-1M Russian Mobile Counter-Battery Radar:
+The Hull Armor is 14.
+The Turret Armor is 14.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Optional.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The Night Vision Device Capable is Yes.  Some versions have spot lights..
+

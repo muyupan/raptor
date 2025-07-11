@@ -1,0 +1,60 @@
+This document describes the SNAR-10 (Big Fred) Russian Battlefield Surveillance Radar.
+
+The primary mission of the SNAR 10 "Big Fred" radar is to detect and track both moving ground and water surface targets.  Additionally, the radar can be used to provide friendly fire correction data to artillery units.  The SNAR-10 is not capable of amphibious operations (unlike other members of the MT-LBu family) due to the heavy turret and radar configuration. The vehicles are also equipped with an NBC filtration and overpressure system.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation.
+
+Here is Variants information for the SNAR-10 (Big Fred) Russian Battlefield Surveillance Radar:
+The SNAR-10M is This updated vehicle replaces the BIG FRED radar with a Kredo-1E radar, for a ground vehicle detection range of 40 km. It also has digital display and communications..
+The SNAR-10M1 is Designed for reconnaissance of moving ground, air and surface targets. The radar can detect vehicles, soldiers, and exploding shells at a range of 200m – 40km..
+
+Here is System information for the SNAR-10 (Big Fred) Russian Battlefield Surveillance Radar:
+The Alternative Designations is Big Fred, 1RL232, 1RL232-1, Leopard.
+The Type is Battlefield Surveillance Radar.
+The Crew is 5.
+The Platform is MT-LBu.
+
+Here is Dimensions information for the SNAR-10 (Big Fred) Russian Battlefield Surveillance Radar:
+The Length is 7.62.
+The Width Overall is 2.85.
+The Height is 2.72.
+The Combat Weight is 12.6 tons.
+
+Here is Automotive information for the SNAR-10 (Big Fred) Russian Battlefield Surveillance Radar:
+The Engine Type is YaMZ-238.
+The Engine Type is Diesel.
+The Engine Power is 240 hp.
+The Cruising Range is 500.
+The Max Road Speed is 60.
+The Max Off-Road Speed is 26.
+The Cross-Country Speed is INA.
+The Max Swim Speed is Cannot swim due to the weight of the radar and turret configuration..
+The Fording Depths is INA.
+
+Here is Sensors/Components information for the SNAR-10 (Big Fred) Russian Battlefield Surveillance Radar:
+The Antenna Type is Parabolic.
+The Operating Band is K (34.55 to 35.25 GHz).
+The Detection Range Against Moving Vehicles, Without MTI (km) is 16.0.
+The Detection Range Against Moving Ships, Without MTI (km) is 30.0.
+The Detection Range Against Moving Shell Impact, Without MTI (km) is 10.0.
+The Detection Range Against Moving Vehicles, With MTI (km): is 10.0.
+The Emplacement Time (minutes) is 5.0.
+The Displacement Time (minutes) is 5.0.
+
+Here is System information for the SNAR-10 (Big Fred) Russian Battlefield Surveillance Radar of the Main Weapon System:
+The Caliber/Length is 1 x PKT 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Direct Fire Range is 1300.
+The Max Effective Range Day is 1000 m / 400-500 m on the move.
+The Max Effective Range Night is 800.
+The Fire on Move is Yes.
+The Rate of Fire is 600rpm cyclic in 2-10 round bursts.
+
+Here is Protection information for the SNAR-10 (Big Fred) Russian Battlefield Surveillance Radar:
+The Armor Turret Front is 20 mm.
+The Armor Turret Top is INA.
+The Armor Hull is 15 mm.
+The NBC Protection System is Yes.
+The Smoke Equipment is No.
+

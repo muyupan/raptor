@@ -1,0 +1,142 @@
+This document describes the T-54 Russian Main Battle Tank (MBT).
+
+The T-54 and T-55 tanks are a series of Soviet main battle tanks introduced in the years following the Second World War. The first T-54 prototype was completed at Nizhny Tagil by the end of 1945. Initial production ramp-up settled for 1947 at Nizhny Tagil, and 1948 for Kharkiv were halted and curtailed as many problems were uncovered; the T-34-85 still accounted for 88 percent of production through the 1950s. The T-54 eventually became the main tank for armored units of the Soviet Army, armies of the Warsaw Pact countries, and many others. T-54s and T-55s have been involved in many of the world's armed conflicts since the later part of the 20th century.
+
+The T-54/55 series eventually became the most-produced tank in military history. Estimated production numbers for the series range from 86,000 to 100,000. They were replaced by the T-62, T-64, T-72, T-80, and T-90 tanks in the Soviet and Russian armies, but remain in use by up to 50 other armies worldwide, some having received sophisticated retrofitting.
+
+During the Cold War, Soviet tanks never directly faced their NATO adversaries in combat in Europe. However, the T-54/55's first appearance in the West around the period of the 1950s (then the beginning of the Cold War) spurred the United Kingdom to develop a new tank gun, the Royal Ordnance L7, and the United States to develop the M60 Patton.
+
+Production of the initial series of T-54s began slowly as 1,490 modifications were made. The Red Army received a tank that was superior to World War II designs and theoretically better than the newest tanks of potential opponents. The 100 mm gun fired BR-412 series full-caliber APHE ammunition, which had superior penetration capability when compared to the T-34 that it replaced.
+
+The serial production version, designated T-54-1, differed from the second T-54 prototype. It had thicker hull armor (80 mm on the sides, 30 mm on the roof, and 20 mm on the bottom). As production ramped up, quality problems emerged. Production was stopped and an improved T-54-2 (Ob'yekt 137R) version was designed. Several changes were made and a new turret was fitted. The new dome-shaped turret with flat sides was inspired by the turret from the IS-3 heavy tank; it is similar to the later T-54 turret but with a distinctive overhang at the rear. It also had a shorter bustle. The fender machine guns were removed in favor of a single bow-mounted machine gun. The transmission was modernized and the track was widened to 580 mm. The T-54-2 entered production in 1949, at Stalin Ural Tank Factory No. 183 (Uralvagonzavod). In 1951, a second modernization was made, designated T-54-3 (Ob'yekt 137Sh), which had a new turret without side undercuts, as well as the new TSh-2-22 telescopic gunner's sight instead of the TSh-20. The tank featured the TDA smoke-generating system. A command version was built, the T-54K (komandirskiy), with a second R-113 radio.
+
+This equipment has proliferated into the following countries: Algeria, Angola, Armenia, Azerbaijan, Bosnia and Herzegovina, Cambodia, Congo, Cuba, Egypt, Guinea, India, Iran (Islamic Republic of), Israel, Laos (People's Democratic Republic), Lebanon, Libya, Mali, Mauritania, Mongolia, Namibia, North Korea (Democratic People's Republic of Korea), Pakistan, Rwanda, Somalia, Sudan, Togo, Ukraine, Viet Nam, Yemen, Zambia.
+
+Here is Dimensions information for the T-54 Russian Main Battle Tank (MBT):
+The Length, Gun Forward is 9.0 m.
+The Length, Hull is 6.54 m.
+The Height is 2.4 m.
+The Weight, Combat is 41,000 kg.
+The Ground Clearance is 0.5 m.
+
+Here is Automotive information for the T-54 Russian Main Battle Tank (MBT):
+The Engine Name is Model V-55.
+The Engine Type is V-12 water-cooled. 38.88-l diesel.
+The Engine Power is 500.
+The Power-to-Weight Ratio is 14.6 hp (10.4 kW) / tonne.
+The Transmision is Mechanical [synchromesh], 5 forward, 1 reverse gears.
+The Fuel Capacity is 580 l internal, 320 l external (less on early T54), 400 l jettisonable rear drums.
+The Cruising Range is INA.
+The Speed, Maximum Road is 48.
+The Speed, Average Cross is 25.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is 1.4 m unprep; 5.5 m snorkel.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Trench is 2.85.
+
+Here is System information for the T-54 Russian Main Battle Tank (MBT) of the Main Gun:
+The Name is D-10 Tank Gun.
+The Type is Anti-Tank Gun.
+The Caliber is 100.
+The Length is 5.608 m.
+The Barrel Length is 5.35 m.
+The Weight is 1,438 kg.
+The Loader Type is Manual.
+The Fire on the Move is Yes.
+The Traverse Range is INA.
+The First Round Hit Probability is 60.
+The Bore Activator is Yes, New upgrade.
+The Maximum Elevation is +18.
+The Minimum Elevation is -3.
+The Breech is Horizontal sliding wedge (semi-automatic).
+The Recoil is Hydraulic buffer and hydropneumatic recuperator.
+The Carriage is Vehicle mount.
+The Rate of Fire is 4 rounds/min avg
+5–6 rounds/min max..
+The Muzzle Velocity is 1,000.
+The Maximum Firing Range is 14,600 m (16,000 yds), or
+16,000 m (17,500 yds).
+
+Here is Ammunition information for the T-54 Russian Main Battle Tank (MBT) of the Main Gun:
+The Name is 3UOF17.
+The Type is HE fragmentation projectile.
+The Caliber is 100.
+The Muzzle Velocity is 355.
+The Max Range is 7,000.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Weight, Complete Round is 22.9.
+The Weight, Missile is 19.4.
+The Basic Load is 45 total of any 100 mm Projectile Combination.
+
+Here is Anti-Tank Guided Missile information for the T-54 Russian Main Battle Tank (MBT):
+The Name is 1 x 9M117 Bastion Anti-Tank Missile.
+The Type is Laser beam-riding anti-tank missile..
+The Caliber is 100.
+The Entered Service is 1981.
+The Muzzle Velocity is 400-500.
+The Basic Load is 8.
+The Maximum Effective Range is 4,000.
+The Rocket Burn is 6.
+The Rocket Motor Ignites Time is 1.5.
+The Guidance is Beam-Riding Laser.
+The Prone to Radio or Optical Jamming is No.
+The Missile Flight Time is 4,000.
+The Self Destruct Time is 24-41.
+
+Here is System information for the T-54 Russian Main Battle Tank (MBT) of the Auziliary Weapon System:
+The Name is 1 x QJZ-89 (Type 89) 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Manufacturer is NORINCO.
+The Weight, Gun Only is 17.5.
+The Weight,Tripod is 8.5.
+The Length, Total is 2,119.
+The Length, Barrel is 1,003.
+The Barrels is 1.
+The Action is Gas/Recoil.
+The Rate of Fire is 450-600.
+The Muzzle Velocity is 850.
+The Feed System is Belt.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the T-54 Russian Main Battle Tank (MBT) of the Auziliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7x108mm.
+The Max Range is 1,600.
+The Min Range is INA.
+The Armor Penetration is Yes.
+The Basic Load is INA.
+
+Here is Fire Control information for the T-54 Russian Main Battle Tank (MBT):
+The Name is INA.
+The Computerized FCS is INA.
+The Laser Rangefinder is KTD-1 or KTD-2.
+The Night Sight is TPN-1-22-11 night sight.
+The Commander's Sight is TPK-1.
+The Gunner's Sight is Sh 2-22, 3 1/2-power or 7-power.
+The Rangefinder is on some T-55M.
+
+Here is Protection information for the T-54 Russian Main Battle Tank (MBT):
+The Hull Armor is 120 mm hull front at 60° (100 mm after 1949)
+79 mm hull upper sides;
+20 mm hull lower sides;
+60 mm at 0° hull rear;
+20 mm hull bottom;
+33-16 mm hull roof.
+The Turret Armor is 205 mm turret front;
+130 mm turret sides;
+60 mm turret rear;
+30 mm turret roof.
+The Applique Armor is Available.
+The Explosive Reactive Armor is Available.
+The Active Protection System is T-54 fitted with the ZET-1 vehicle protection system. It has net structure centred on vehicles main armament and flipper-type side plates..
+The Mine Clearing is The KMT-5 mineclearing plow-roller set consists of two plows and two roller sections of three rollers each. This combination is attached to the front of a tank hull. Stretched between the roller sections is a "dogbone" assembly which consists of a light chain and small roller weights. Using a dragging motion, the "dogbone" covers the exposed area between tank tracks, thus exploding tilt-rod mines. The flexibility of the KMT-5 allows the use of plows or rollers depending on the terrain, type of soil and fuse types encountered. The KMT-5 can be used with the T-54/55, T-62, T-64, and T-72 tanks. The system can withstand approximately nine explosions that have a capacity of five to six kg. It is fitted with a quick-release disconnect unit to allow the tank driver to release the set rapidly. One other capability is that the KMT-5 may be used during night operation, using the luminous lane-marking device (PSK equipment) which marks the clear lane at night with a luminous substance..
+The Self-Entrenching Blade is T-54/T-55 fitted with BTU dozer blade for clearing soil, obstacles and snow in combat situations. It was used by the tank units requiring specialized engineer support. The dozer blade itself can mounted in 1 hour and 30 minutes and dismounted in 1 hour. In the west it is known as T-54/T-55 Dozer..
+The NBC Protection is Yes, PAZ (Protivoatomnaya Zashchita) NBC protection system.
+The Smoke Equipment is grenlaunch/eng smk sys.
+The Note is The T-54 focuses most of its armour around the front 60 deg arc..
+

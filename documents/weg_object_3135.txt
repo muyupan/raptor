@@ -1,0 +1,140 @@
+This document describes the K1A1 South Korean Main Battle Tank (MBT).
+
+The K1A1, an upgraded version of the K1 MBT, was accepted into Korean service on 13 October 2001, after the first one was produced on 3 April 1996. The KM68 main gun has been replaced with the KM256 120 mm main gun (a licensed production model of the U.S. M256 which, in turn, is a licensed production model of the Rheinmetall L44) which nearly doubled the penetration power of the original vehicle. In addition, its fire control system, thermal sights, LASER rangefinder, turret and gun stabilization and armor have been improved, giving the vehicle greater survivability and lethality. The improved armor is called 'Korean Special Armour Plate (KSAP)'. The weight of the vehicle has increased along with the upgrade, and has slightly lowered its power-to-weight ratio and speed, the former of which was considered already too low for the rough Korean terrain by some critics.
+
+The K1A1 can easily be distinguished from the K1 by the shape of the gun, location of the co-axial machinegun, shape of the commander's panoramic sight, and overall angular shape of the turret (the K1A1 has more curved surfaces than the K1). The 120 mm smoothbore gun of K1A1 is thicker than the K1's 105 mm rifled gun and has a thicker thermal sleeve a third of the way from the base of the gun. The co-axial machinegun on K1A1 is located at a much higher point compared to the K1. The K1A1 also features a somewhat cone-shaped day/night KGPS compared to day-only sight of the K1, which has a plain, tube-like appearance to it.
+
+The ROK Army intends to standardize its K1 fleet by procuring 700 new-production K1A1 tanks while upgrading some 1,000 older-model K1s to the K1A1 configuration.
+
+This equipment has proliferated into the following countries: South Korea (Republic of Korea).
+
+Here is Variants information for the K1A1 South Korean Main Battle Tank (MBT):
+The XK1 is Experimental model under the ROKIT (Republic of Korea Indigenous Tank) project..
+The K1 is First production variant. 1,027 units built between 1985 and 1998. To be upgraded to K1E1 by 2026..
+The K1M is Proposed export variant for Malaysia. In 1997, Malaysia expressed great interest in obtaining the K1, and the ROK responded by showing them the concept for K1M, which had several features not present in the baseline K1, including a laser warning system and an air conditioning unit. It was to weigh 49.7 tons, while the total ammunition capacity would have been reduced to 41 rounds. The ROK offered a contract for 210 K1M's, but Malaysia responded that it was too many, and chose to go with Polish PT-91M in 2003..
+The K1 PIP is Upgraded K1. PIP includes changes in SAP to KSAP, GPS to GPTTS, and Nd-Yag to CO2 rangefinder..
+The K1E1 is Further upgraded K1. Production began in December 2013, and the first K1E1 rolled out on 7 July 2014. The upgrade will be similar to that of K1A2. All K1 will be upgraded to K1E1 by 2026.[9] The name was inherited from the K1A1 prototype, the K1E1..
+The K1E2 is As of August 2018, the K1E2 type is planned to be improved. It is expected to be upgraded to a large-scale repair (renovation) in 2024. The main improvement point is the replacement of the new armored upgrading of the protection, installation of the positive pressure device, acceleration of 10% upgrade (1200 hp engine to 1320 hp) or change 1500 hp engine, Introduction of RWS, etc..
+The K1A1 is First major enhanced variant. 484 units built between 1999 and 2010. To be upgraded to K1A2 by 2022..
+The K1A2 is Upgraded K1A1. Originally named as K1A1 PIP. Developed from 2008 to 2010, and mass-production started in 2012. First upgraded vehicle was rolled out on 20 December 2013. Technology benefit from K2 Black Panther has been applied to this model. Upgrades include buoyancy tubes, automatic commanding control with identification friend or foe, GPS and INS position recognition, and digital wireless communications and displays. It also has air conditioning and a soft-kill active protection system to defend against missiles and rockets. The K1A2 project provides upgrade kits for South Korean Army and Marines Corps K1 and K1A1 tanks. All K1A1 will be upgraded to K1A2 by 2022..
+The K1 ARV is The K1 Armored Recovery Vehicle is based on the K1 tank. It has a crane, winch and dozer system built on the vehicle. It was developed with assistance from Krupp Maschinenbau Kiel GmbH (now Rheinmetall Landsysteme GmbH) between 1988 and 1992, with first deployment in 1993..
+The K1 AVLB is The K1 Armored Vehicle-Launched Bridge variant uses a scissor-type bridge system mounted on the chassis. It was developed from 1988 to 1992 with help from Vickers Defense Systems.
+The K1 CEV is The K1 Combat Engineer Vehicle is based on the K1A1/A2 chassis, mounting a mine plough, an excavator arm on the right side, and a lane marking system. Development is expected to be completed in June 2018 and begin production in 2019..
+
+Here is System information for the K1A1 South Korean Main Battle Tank (MBT):
+The Alternative Designation is K1A1.
+The Type is Main Battle Tank (MBT).
+The Manufacturer is Hyundai Rotem.
+The Crew is 4 (commander, driver, gunner, loader).
+The Note is It is expected that the K1A1 will be produced by up-gunning already existing tanks..
+
+Here is Dimensions information for the K1A1 South Korean Main Battle Tank (MBT):
+The Hull Length is 7.48 m.
+The Length, Gun Forward is 9.67 m.
+The Width is 3.59 m.
+The Height is 2.25 m.
+The Combat Weight is 53,200 kg.
+The Ground Clearance is 460 mm.
+The Ground Pressure is 0.87 kg/sq cm.
+
+Here is Automotive information for the K1A1 South Korean Main Battle Tank (MBT):
+The Engine Name is 1 x MTU MB871.
+The Engine Type is 1,934-cu in (31.7-liter) liquid-cooled, 8-cyl, multifuel diesel.
+The Engine Power is 1,200 hp at 2,600 rpm.
+The Power-to-Weight Ratio is 22.63 hp/metric ton.
+The Transmission is ZF LSG 3000 automatic transmission w/mechanical lock-up and 4 forward/2 reverse gears.
+The Suspension is Hybrid (torsion bar at wheel stations 3, 4 and 5 and hydro-pneumatic units at wheel stations 1, 2 and 6); 6 road wheels with 19.7-in (500-mm) travel.
+The Maximum Road Speed is 65 kph.
+The Cross-Country Speed is 40 kph.
+The Maximum Range is 500 km.
+The Vertical Obstacle is 1.1 m.
+The Trench is 2.7 m.
+The Fording without Preparation is 1.2 m.
+The Fording with Preparation is 2.2 m.
+The Gradient is 60 percent.
+The Side Slope is 30 percent.
+
+Here is System information for the K1A1 South Korean Main Battle Tank (MBT) of the Main Weapon System:
+The Name is 1 x M256.
+The Type is Rheinmetall Smoothbore Gun.
+The Caliber is 120mm.
+The Length is 5.28 m.
+The Barrel length is 44–55 calibers.
+The Weight is 1,190 kg Gun barrel
+3,317 kg Gun mount.
+The Rate of Fire is 10 rounds per minute (maximum).
+The Effective Firing Range is 4,000 meters with DM63
+8,000 meters with LAHAT.
+The Breech is he breech mechanism is a semi-automatic sliding wedge design. The breechblock contains the electrical contact firing mechanism and circuitry needed to send the electrical signal to the firing mechanism probe, which comes in contact with the ammunition cartridge primer..
+The Fume Extractor is Yes.
+The Thermal Sleeve is Yes.
+The Muzzle Reference System is Yes.
+The Muzzle Velocity is 1,750 m/s.
+The Elevation is -7 deg to 20 deg (when the tank is pitched forward the gun can reportedly be depressed to -10 deg.
+The Traverse is 360 deg.
+
+Here is Ammunition information for the K1A1 South Korean Main Battle Tank (MBT) of the Main Weapon System:
+The Name is K276.
+The Type is APFSDS-T.
+The Caliber is 120.
+The Carriage is INA.
+The Basic Load is 31 Rounds.
+The Armor Penetration is INA.
+The Additional Chemical Energy Projectiles is K277 and K280.
+The Additional APFSDS-T Projectiles is K279.
+The RHA Penetration is 650mm at 2 km.
+
+Here is System information for the K1A1 South Korean Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Name is M60E1.
+The Type is Heavy Machine Gun.
+The Caliber is 7.62.
+The Quantity is 1.
+The Manufacturer is Saco Defense.
+The Length is 1,105 mm.
+The Barrel Length is 560 mm.
+The Weight is 10.5 kg.
+The Action is Gas-operated, short-stroke gas piston, open bolt.
+The Rate of Fire is 550–650 RPM.
+The Muzzle Velocity is 853 m/s.
+The Effective Firing Range is 1,100 m.
+The Feed System is Disintegrating belt with M13 Links.
+The Sights is Iron sights.
+
+Here is Ammunition information for the K1A1 South Korean Main Battle Tank (MBT) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Basic Load is INA.
+
+Here is System information for the K1A1 South Korean Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is K6.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Quantity is 1.
+The Manufacturer is Daewoo.
+The Length is 1,654 mm.
+The Barrel Length is 1,143 mm.
+The Action is Short recoil-operated.
+The Rate of Fire is 1,200–1,300 rounds/min.
+The Muzzle Velocity is 890 m/s.
+The Maximum Firing Range is 7,400 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is Belt-fed.
+
+Here is Ammunition information for the K1A1 South Korean Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Basic Load is INA.
+
+Here is Protection information for the K1A1 South Korean Main Battle Tank (MBT):
+The Hull Armor is The improved armor is called 'Korean Special Armor Plate (KSAP)'.
+The Turret Armor is The improved armor is called 'Korean Special Armor Plate (KSAP)' is fitted over the frontal arc, turret front and sides. This provides protection against both kinetic and chemical energy attacks..
+The Applique Armor is Available.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is collective: M13A1 gas-particulate filter.
+The Smoke Equipment is 2 x 6 smoke grenade launchers on either side of turret.
+

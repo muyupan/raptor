@@ -1,0 +1,67 @@
+This document describes the ERYX French Anti-Tank Guided Missile (ATGM).
+
+ERYX is a short-range portable SACLOS-based wire-guided anti-tank missile (ATGM) produced by European company MBDA. It is used by several countries, including the Canadian Army, French, and Norwegian armies. The weapon can also be used against bunkers and pillboxes. It also has some capability in the anti-aircraft role to bring down low-flying helicopters, due to its wire-guided system. An agreement was reached in 1989 between the French and Canadian governments to co-produce the ERYX missile system. It entered service in 1994.
+
+The Eryx began as a project in the late 1970s by the French Ministry of Defense to replace the short-range Luchaire's LRAC F1 STRIM 89mm rocket launcher in the French Army. The requirement was for a cost-effective antitank weapon that could defeat any known or future main battle tank at a maximum range of 600 meters with considerable accuracy, including on windy days. Aérospatiale, the French defense, and aerospace firm believed it was, from a practical standpoint, impossible to design an unguided antitank rocket that could meet the strict requirements. The weapon system that Aérospatiale offered was basically a mini-short range wire-guided antitank missile, the ACCP (Anti Char Courte Portée) which in French translates to Short Range Anti-tank Weapon System. The first prototype was delivered to the French Ministry of Defense for testing in 1982. The concept firing post (See: ACCP image) used a scaled-down version of the MILAN tracking and guidance system but was found in field condition tests to be impractical both from a technical and cost standpoint.
+
+In 1989, France and Canada signed a joint venture to co-produce the ERYX missile. AlliedSignal Aerospace Canada Inc. developed the Mirabel thermal imager for the ERYX firing post. Canadian industries, including Simtran and Solartron Systems, also produced the Eryx Interactive Gunnery Simulator (EVIGS) and the Eryx Precision Gunnery Simulator (EPGS).
+
+The missile is ejected from its launch tube using a very low-powered short-burn rocket motor located in the tail. The launching motor completes its burn before leaving the container, protecting the gunner from being burned. After the missile coasts, a safe distance the main sustainer motor ignites and burns until impacting the target or reaches its maximum range of 600 meters. The main rocket motor is located at mid-body with two exhausts on the side (e.g. similar to the US BGM-71 TOW antitank missile). Unlike most wire-guided antitank missiles the Eryx is propelled at a relatively low speed of approximately 240 meters per second at its maximum range. The missile is guided in flight by two vanes located at mid-body which act against the main rocket motors thrust. As the missile slowly rotates the launch units send signals commanding the correction by one of the two vanes to move against the missile motors thrust. For example, if the missile has to move to the left, the right thrust vector vane will actuate at the correct time. In addition, the "soft launch" is what enables the Eryx to be fired from confined spaces (e.g. buildings) and not cause a massive launch signature that will reveal the Eryx gunner's position to hostile counterfire. Aérospatiale claims that this "soft launch" feature enables the Eryx antitank team to be used effectively in urban antitank warfare.
+
+The Eryx missile uses a SACLOS guidance system, the launcher tracks a light source on the rear of the missile and compares its position with the center of the launcher's cross-hair, sending corrective signals down a trailing control wire. The missile increases resistance to jamming by having a beacon as the light source on the rear of the missile that pulsates or blinks at a special encoded rate recognized by the Eryx's tracking device located on the launch post. Unlike most wire guides antitank missiles that use SACLOS guidance, which requires a complex optical tracker unit that has to zoom from a wide to narrow view in microseconds after the missile is launched (e.g. the MILAN), the Eryx uses one charge-coupled device (CCD) matrix that operates in the IR spectrum, and two fields of view (one narrow and one large) with an automatic switch during missile flight. Again Aérospatiale also states that this unique and simplified SACLOS tracking system provides for a far more cost-effective solution and enables the Eryx to be highly resistant to decoys or jamming and other enemy countermeasures.
+
+The missile uses a tandem-charge HEAT warhead in order to defeat explosive reactive armor fitted to many armored vehicles today; a much small diameter warhead at the front of the missile body and a larger main warhead at the rear. Locating the main warhead at the rear of the missile body provides the correct stand-off needed for the optimum effectiveness of the Eryx warhead without the need of a complex collapsible nose probe (e.g. the TOW) which is standard on most antitank missiles today. This simple solution keeps the missile's cost extremely low when compared to other antitank missiles but also for a compact missile design that can be produced in mass quantities.
+
+This equipment has proliferated into the following countries: Brazil, Canada, France, Malaysia, Norway, Saudi Arabia, Turkey.
+
+Here is Dimensions information for the ERYX French Anti-Tank Guided Missile (ATGM) of the System:
+The Height, Firing  is 1.0.
+The Length, Firing  is 0.905.
+The Width, Firing  is 0.6.
+The Weight, Total is 26.
+The Weight, Excluding Missile is 13.
+The Weight, Tripod is 4.
+
+Here is Mount information for the ERYX French Anti-Tank Guided Missile (ATGM) of the System:
+The Primary mount is Tripod.
+
+Here is Armament information for the ERYX French Anti-Tank Guided Missile (ATGM):
+The Combat Load, Ready  is 1.0.
+The Combat Load, Stowed  is 0.0.
+The Displacement Time  is less than 0.03 min.
+The Elevation, Maximum  is +75.
+The Depression, Maximum is -30.0.
+The Emplacement Time  is 5.0.
+The Fire on Move is INA.
+
+Here is Launcher information for the ERYX French Anti-Tank Guided Missile (ATGM):
+The Launch Method is Disposable launch canister.
+The Name is Eryn.
+The Rate of Fire  is 2.5.
+
+Here is Survivability/Countermeasures information for the ERYX French Anti-Tank Guided Missile (ATGM) of the Fire Control System:
+The Susceptible Countermeasures is EO Jammers, smoke, counter-fire.
+
+Here is Missile information for the ERYX French Anti-Tank Guided Missile (ATGM) of the Missile:
+The Name is Eryn.
+The Type is Antitank Guided Missile.
+The Designation is ACCP.
+The Diameter  is 136.0.
+The Weight  is 11 kg (in tube).
+The Armor Penetration  is 900.0.
+The Average Velocity  is 162.0.
+The Probability of Hit is 90.0.
+The Range, Maximum  is 600.0.
+The Range, Minimum  is 50.0.
+The Warhead Type is Tandem Shaped Charge (HEAT) CE.
+
+Here is Day Sight information for the ERYX French Anti-Tank Guided Missile (ATGM) of the Sights:
+The Name is Gunner.
+The Acquisition Range  is 600 m.
+The Field of View  is 3.4.
+
+Here is Night Sights information for the ERYX French Anti-Tank Guided Missile (ATGM) of the Sights:
+The Acquisition Range  is 1.2.
+The Field of View  is 8 X 6 deg.
+The Name is Mirable.
+

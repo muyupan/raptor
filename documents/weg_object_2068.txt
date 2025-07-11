@@ -1,0 +1,50 @@
+This document describes the Degtyaryov (DP-28) Russian 7.62mm Light Machine Gun.
+
+The Degtyaryov machine gun (Russian: Пулемёт Дегтярёвa Пехотный Pulemyot Degtyaryova Pekhotny "Degtyaryov's infantry machine gun") or DP-28 is a light machine gun firing the 7.62×54mmR cartridge that was primarily used by the Soviet Union, with service trials starting in 1927 followed by general deployment in 1928. Besides being the standard Soviet infantry light machine gun (LMG) during WWII, with various modifications it was used in aircraft as a flexible defensive weapon, and it equipped almost all Soviet tanks in WWII as either a flexible bow machine gun or a co-axial machine gun controlled by the gunner. It was improved in 1943 producing the DPM, but it was replaced in 1946 with the RP-46 which improved on the basic DP design by converting it to use belt feed. The DP machine gun was supplemented in the 1950s by the more modern RPD machine gun and entirely replaced in Soviet service by the general purpose PK machine gun in the 1960s.
+
+The DP-27 was a light machine gun designed for the Soviet Red Army in the 1920s under the leadership of Vasily Degtyarev (1880-1949), the first test model being the DP-26. Two test guns were manufactured and fired 5,000 rounds each from September 27 -29, 1926, during which weaknesses were discovered in the extractor and firing pin mechanisms. After design improvements, two more guns were made and tested in December of 1926, firing 40,000 rounds under adverse conditions, resulting in only .6% stoppages. However, changes to the bolt carrier and the chamber locking mechanism were still required. After this redesign the improved gun, now called the DP-27, was tested by the Red Army at the Kovrov plant on January 17-21 of 1927, passing all tests and being approved for manufacture. A full year of service testing followed, after which the primary requested change was the addition of the large flash suppressor that is now considered one of the recognition features of the design. With further refinements, the DP was to be the primary light machine gun of the Red Army during WWII.
+
+As with most other light machine guns of WWII, the DP-27 was designed to fire the same 7.62×54mmR (R indicating Rimmed) ammunition as the main Soviet infantry battle rifle, the Mosin-Nagant, much simplifying ammunition logistics for Soviet infantry units. Of typical Russian design philosophy, the DP-27 was a sturdy and simple gun that was easy and cheap to manufacture, and could be relied upon to perform even in the most adverse conditions; it was capable of withstanding being buried in dirt, mud, or sand and still operating consistently. However it had a low rate of fire when compared to its main wartime rival, the German MG 34/MG 42 series, firing at a rate of 550rpm as compared to the 800-1200rpm of the German light machine guns.
+
+The operating mechanism of the DP-27 was gas-operated, using a Kjellmann-Friberg flap locking design to lock the bolt against the chamber until the round had left the barrel, aided by a recoil spring. Ammunition came in the form of a 47-round circular pan magazine that attached to the top of the receiver. It was this disc-shaped, rotating magazine that led Soviet soldiers to call the DP, in typical soldier slang, the "record player".
+
+Its main parts were a removable barrel with an integrated flash suppresor and gas cylinder, a receiver with the rear sight, a perforated barrel shroud/guide with the front sight, the bolt and locking flaps, the bolt carrier and gas piston rod, a recoil spring, stock and trigger mechanism group, a bipod for firing from prone positions, and the previously-mentioned pan magazine. In total, the first versions contained only 80 parts, indicating both the simplicity and ease of manufacture of the design. Early versions had 26 transverse cooling fins machined into the barrel, but it was found that these had little cooling effect and so were deleted in 1938, further easing manufacture.
+
+Its main weaknesses besides the somewhat low rate of fire were that the pan magazines were prone to damage while being carried, the bipod mechanism was known to be weak and likely to fail if not handled with care, the recoil spring's location near the barrel led to overheating of the spring causing it to lose proper spring temper and thereby most of its strength as a spring, and the 47-round magazines made sustained fire impossible. Since the German MG-34/MG-42 were continuous belt-fed, they had both a much higher rate of fire as well as a sustained fire capability that the DP series could not match. Further, the pan magazines were difficult and time-consuming to reload.
+
+This equipment has proliferated into the following countries: Afghanistan, Albania, Algeria, Angola, Benin, Bulgaria, Central African Republic, China, Congo, Cuba, Czech Republic, Egypt, Equatorial Guinea, Ethiopia, Finland, Germany, Hungary, Indonesia, Iraq, Laos (People's Democratic Republic), Libya, Nigeria, North Korea (Democratic People's Republic of Korea), Poland, Romania, Russian Federation, Seychelles, Somalia, Spain, Sudan, Syria, Tanzania, Togo, Viet Nam, Yemen, Zambia.
+
+Here is Variants information for the Degtyaryov (DP-28) Russian 7.62mm Light Machine Gun:
+The DPM is modernized version adopted in 1943–44, with a more robust bipod fastened to the cooling jacket and the recoil spring housed in a tube projecting from the rear of the receiver which necessitated a pistol grip for this model of the weapon (manufactured in China as the Type 53).
+The DA is DA, for mounting and loading in aircraft (Дегтярёва авиационный, Degtyaryova Aviatsionny; ДА). Also used in tandem mounts known as DA-2. Employed in the early versions of the Tupolev TB-3 bomber and in the Polikarpov R-5 and Polikarpov Po-2 army cooperation aircraft. The DA weighted 7.1 kg empty and 11.5 kg with standard ammunition load. Its rate of fire was 600 rounds per minute. It was built between 1928 and March 1930 with 1,200 units delivered.[15] It was soon superseded by the ShKAS, which had a much higher rate of fire..
+The DT and DTM is DT and DTM, for mounting and loading in armoured fighting vehicles (Дегтярёва танковый, Degtyaryova Tankovy; ДТ and ДТМ).
+The DTM-4 is DTM-4, (ДТМ-4) quad mounted variant..
+The RP-46 is RP-46 (Ротный пулемет - company machine gun): metallic-belt fed version adopted in 1946 with a heavier barrel to allow prolonged sustained fire. About 500 rounds could be fired continuously before the barrel had to be swapped or allowed to cool down. Also had a user-adjustable gas system, with three holes of varying diameters provided, to cope with varying environmental conditions and residue buildup. Although the empty weight of the RP-46 exceeded that of DP by 2.5 kg, when considered together with a single ammo box of 250 rounds, the RP-46 weighed 10 kg less than the DP together with the same amount of ammunition in DP pans. The RP-46 remained in Soviet service for 15 years before it was replaced (together with the SGM) by the PK machine gun. The RP-46 was later manufactured in China as the Type 58 and in North Korea as the Type 64. The RP-46 could still fire from DP-style magazines by removing its belt-feeding system..
+
+Here is System information for the Degtyaryov (DP-28) Russian 7.62mm Light Machine Gun of the System:
+The Name is Degtyaryov (DP-28) Machine Gun.
+The Type is 7.62mm Light Machine Gun.
+The Manufacturer is Vasily Degtyaryov.
+The Caliber is 7.62.
+The Length is DP, DPM – 1,270 mm.
+The Barrel Length is DP, DPM – 604 mm (23.8 in)
+RP-46 – 605 mm (23.8 in).
+The Weight is 9.12 kg (20.11 lb) (unloaded)
+11.5 kg (25 lb) (loaded).
+The Action is Gas-Operated, flapper locking.
+The Rate of Fire is 550 rpm.
+The Muzzle Velocity is 840 m/s.
+The Effective Firing Range is 800 m.
+The Feed System is 47-round pan
+63-round pan (DT & DTM)
+belt feed (RP-46)
+30-round overhead box magazine (PD-36 and DTM-4).
+The Sights is Adjustable iron sights, front post and rear notch on a scaled tangent.
+
+Here is Ammunition information for the Degtyaryov (DP-28) Russian 7.62mm Light Machine Gun of the System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Basic Load is 200.
+The Armor Penetration is INA.
+

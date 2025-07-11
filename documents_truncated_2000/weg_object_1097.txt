@@ -1,0 +1,91 @@
+This document describes the MiG-31 (Foxhound) Russian Interceptor/Attack Aircraft.
+
+MiG-31 (Foxhound) Russian Attack Aircraft is a supersonic interceptor aircraft developed for use by the Soviet Air Forces. The aircraft was designed by the Mikoyan design bureau as a replacement for the earlier MiG-25 "Foxbat"; the MiG-31 is based on and shares design elements with the MiG-25. The MiG-31 has the distinction of being one of the fastest combat jets in the world. It continues to be operated by the Russian Air Force and the Kazakhstan Air Force following the end of the Cold War and the collapse of the Soviet Union in 1991. The Russian Defense Ministry expects the MiG-31 to remain in service until 2030 or beyond.
+
+Like the MiG-25, the MiG-31 is a large twin-engine aircraft with side-mounted air intake ramps, a shoulder-mounted wing with an aspect ratio of 2.94, and twin vertical tail fins. Unlike the MiG-25, it has two seats, with the rear occupied by a dedicated weapon systems officer. The MiG-31 is limited to five g when traveling at supersonic speeds. While flying under combat weight, its wing loading is marginal and its thrust-to-weight ratio is favorable. The MiG-31 is not designed for close combat or rapid turning.
+
+The wings and airframe of the MiG-31 are stronger than those of the MiG-25, permitting supersonic flight at low altitudes. Like the MiG-25, its flight surfaces are built primarily of nickel-steel alloy, enabling the aircraft to tolerate kinetic heating at airspeeds approaching Mach 3. The MiG-31 airframe comprises 49% arc-welded nickel steel, 33% light metal alloy, 16% titanium, and 2% composites. Its D30-F6 jet engines, each rated at 152 kN thrust, allow a maximum speed of Mach 1.23 at low altitude. High-altitude speed is temperature-redlined to Mach 2.83 – the thrust-to-drag ratio is sufficient for speeds in excess of Mach 3, but such speeds pose unacceptable hazards to engine and airframe life in routine use.
+
+This equipment has proliferated into the following countries: Kazakhstan, Russian Federation.
+
+Here is System information for the MiG-31 (Foxhound) Russian Interceptor/Attack Aircraft:
+The Alternative Designations is MiG-31; NATO: Foxhound.
+The Type is Attack Aircraft.
+The Manufacturer is Mikoyan-Gurevich/Mikoyan.
+The Crew is 2.
+The Hardpoints is 8 × underwing pylons.
+
+Here is Dimensions information for the MiG-31 (Foxhound) Russian Interceptor/Attack Aircraft:
+The Length is 22.62 m.
+The Wingspan is 13.456 m.
+The Wing Area is 61.6 m2.
+The Height is 6.456 m.
+The Weight, Empty is 21,820 kg.
+The Weight, Gross is 41,000 kg.
+The Maximum Takeoff Weight is 46,200 kg.
+
+Here is Automotive information for the MiG-31 (Foxhound) Russian Interceptor/Attack Aircraft:
+The Engine Name is 2 × Soloviev D-30F6.
+The Engine Type is Afterburning Turbofan.
+The Engine Power is 93 kN (21,000 lbf) thrust each dry, 152 kN (34,000 lbf) with afterburner.
+The Fuel Capacity is 16,130 kg internal, plus optional external fuel tanks.
+The Maximum Speed is 3,000 km/h.
+The Cruise Speed is 2,500 km/h.
+The Range is 3,000 km with 4 x R-33E and 2 drop tanks; 5,400 km with 4 x R-33E and 2 drop tanks with one aerial refueling.
+The Service Ceiling is 25,000 m.
+The G Limits is +5.
+The Rate of CLimb is 288 m/s.
+
+Here is System information for the MiG-31 (Foxhound) Russian Interceptor/Attack Aircraft of the Main Gun System:
+The Name is 1 × 23 mm Gryazev-Shipunov GSh-6-23M.
+The Type is Rotary Cannon.
+The Caliber is 23 mm.
+The Length is 1.4 m.
+The Height is 180 mm.
+The Weight is 6 kg.
+The Action is Gas-operated.
+The Barrels is 6.
+The Rate of Fire is 6,000–8,000 rounds per minute.
+The Muzzle Velocity is 715 m/s.
+The Feed System is Belt or linkless feed system.
+
+Here is Ammunition information for the MiG-31 (Foxhound) Russian Interceptor/Attack Aircraft of the Main Gun System:
+The Type is Rifle.
+The Caliber is 23 mm.
+The Cartridge is 23×115mm AM-23.
+The Basic Load is 800 Rounds.
+
+Here is Missiles information for the MiG-31 (Foxhound) Russian Interceptor/Attack Aircraft:
+The Missile Payloads is The MIG-31 has 8 × underwing pylons with provisions to carry combinations of missiles which vary based on mission and aircraft variant..
+The Air-to-Air is 4 × R-33E;
+4 × R-60MK;
+2 × R-40RD/TD.
+The Air-to-Ground is 4 × Kh-58UShKE anti-radiation missile;
+1 × Kh-47M2 Kinzhal hypersonic air-launched ballistic missile.
+
+Here is Avionics information for the MiG-31 (Foxhound) Russian Interceptor/Attack Aircraft:
+The Radar is The MiG-31 aircraft is equipped with world’s first electronically scanned N007 Zaslon phased array radar. It is also known as SBI-16 Zaslon (Flash Dance) radar and operates from the rear cockpit by WSO. It can receive signals from early warning radar (EWR) and airborne warning and control systems (AWACS).
+
+Zaslon has the capacity to scan 200km distance. The radar can trap ten targets and engage four simultaneously flying in the surrounding radius of the aircraft (behind and below the aircraft).
+
+The antenna of Zaslon is fixed and can be moved electronically. The electronic steering of the radar beam is much faster and accurate than mechanical steering.
+
+The Zaslon radar has the capacity to search and attack various targets in air and ground using continuous and discontinuous fields of control and guidance commands despite target defensive manoeuvres, electronic counter measures (ECM) and adverse weather conditions..
+The Infrared Search and Track (IRST) is 8TK IRST.
+The Cockpit is The MiG-31 cockpit is equipped with digital avionics such as MFDs and liquid crystal displays (LCDs), which provide updated instrument readings and radar information.
+
+Both front and rear sides of the cockpit are equipped with zero / zero ejection seats which allow the pilot to fly at the altitude and airspeed preferred. The pilot sits in the front seat of the cockpit while the weapon system officer (WSO) sits in the rear cockpit seat, controlling the radar operations and weapon deployment thereby decreasing the work load of the pilot and increasing the efficiency..
+The Sensors is MiG-31 is equipped with light duty (LD) / speed and direction (SD) sensor, track while scan (TWS) radar, infrared search and track (IRST) system and radar warning receiver (RWR) system.
+
+The aircraft assigns partial power to track targets and the remaining to scan. The TWS radar system in the aircraft uses two new technologies – phased array radars and computer memory devices.
+
+The IRST sensor detects and tracks jet aircraft and helicopters that emit infrared rays, while the RWR systems detect radar systems emitting radio waves through the ground or in the air. The RWR comprises a visual display unit (VDU) in the cockpit that monitors radars by producing audible sounds..
+
+Here is Protection information for the MiG-31 (Foxhound) Russian Interceptor/Attack Aircraft:
+The Airframe is The MiG-31’s airframe contains various materials including welded nickel steel (49%), titanium (16%), aluminum alloy (33%) and 2% of composites..
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The NBC Protection is INA.
+The EW Countermeasures is Yes.
+The Chaff/Flares is Yes.
+

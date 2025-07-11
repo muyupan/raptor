@@ -1,0 +1,43 @@
+This document describes the Supercam S100 Russian Unmanned Aerial Vehicle (UAV).
+
+The Supercam S100 Russian Unmanned Aerial Vehicle (UAV) has a one-piece body and is designed as a flying wing. These features provide unmanned aircraft with easy transportation and quick launching even under adverse conditions. The UAV allows mounting top-class payloads, while the flight duration is about 80 minutes. The system can be used for high-resolution aerial photography, as well as for online video surveillance at any time of the day and object coordinates determination with a range of up to 25 km.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Supercam S100 Russian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Supercam S100.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Supercam Unmanned Systems Group.
+The Autonomy is Automatic control system (ACS - UAV autopilot) provides the UAV flight at a specified altitude, the specified horizontal and vertical maneuvers performance, as well as the flight mission performance.
+The Crew is Unmanned.
+The Capabilities is GCS voice module (voice announcement of all commands and current changes in flight conditions, wind speed, and the flight mission performance); Possibility of the UAV control transferring from one GCS to another; UAV automatic return to the specified point; GCS operation in motion capability; UAV performs the automatic flight according to the specified course and can hover over the object. The fly-over point can be moved by the operator in real time, taking into account wind corrections or inaccuracies of the electronic map; Connection of GCS to the Internet as a web server with the full-featured remote terminal functions; Semi-automatic control can be performed with the multifunctional gamepad; 4 UAVs simultaneous operation.
+The Radio Link Range is 20 km.
+The Video Transmission Range is 20 km.
+The Payload Options is - 20/24/42 MP photo camera with the ability to be mounted on the azimuth stabilized platform;
+- Gyro-stabilized thermal imaging camera and/or video camera with 10x optical zoom, that can be combined together, and optionally enhanced with a laser target marker;
+- Multispectral camera.
+The Diagnostics is automatic self-diagnostics of the ground and onboard equipment.
+The Deployment Time is 15 min.
+The Launching System is elastic catapult.
+The Recovery System is with a parachute in automatic or semi-automatic mode.
+The Operational Temperature is -40°С to +45°С.
+The Accessories is - Video link for digital broadband transmission within a range of up to 25 km;
+- Radio link of telemetry and control with the ability of FHSS operation.
+
+Here is Dimensions information for the Supercam S100 Russian Unmanned Aerial Vehicle (UAV):
+The Length is INA.
+The Wingspan is 1.0 m.
+The Height is INA.
+The Maximum Takeoff Weight is 3.5 kg.
+
+Here is Automotive information for the Supercam S100 Russian Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Maximum Speed is 120 km/h.
+The Cruising Speed is 85 km/h.
+The Operational Height is 150 - 1000 m.
+The Maximum Distance is 50 km.
+The Maximum Windspeed is 15 m/s.
+The Endurance is 60 min.
+

@@ -1,0 +1,40 @@
+This document describes the HGCS-30 Chinese UAV Portable Ground Control Station.
+
+The HGCS-30 Chinese UAV Portable Ground Control Station adopts alloy material, anti-interference, high integration, lightweight design. The ground station display screen adopts bright sunlight visual screen, double Hall mechanical joystick, integrated image transmission, digital transmission, RTK, and remote control. Equipped with smart black box, smart battery management system, and Intelligent Prewarning Software System.
+Professional ground control station software, intelligent multi-task planning
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the HGCS-30 Chinese UAV Portable Ground Control Station:
+The Alternate Designation is HGCS-30.
+The Type is UAV Portable Ground Control Station.
+The Manufacturer is HARWAR.
+The Mission Planning Function is With mission planning function, it supports the function of modifying waypoints in real time during flight by ground station. That is, the drone can autonomously return to the instant position where the ground station is located; it has one-button take-off and one-key return control keys..
+The Operating System is Android 7.1.2 Operating System.
+The Motherboard is Android Rk3399 Main Chip.
+The Operating Temperature is -20 Degree ~ +85 Degree.
+The Keyboard is Full Touch Screen Virtual Keyboard.
+The Control Settings is Professional control settings, automatic cruise, ground imitation flight, break point continuous flight, one-key take-off and landing, one-key return, one-key hover, and autonomous return of loss of connection and low power..
+The Antenna is High-Gain GPS Antenna.
+The Voltage is 24V.
+The Battery Type is High-Gain GPS Antenna.
+The Storage Card is Standard 128GB Emmc.
+The Memory is 4G; SATA hard disk interface × 1.
+The Interface is HDMI×1, USB3.0×2, USB2.0×1, SD×1,Video transmission USB interface×1,DC-IN /24V, AC-IN/220V, GPS..
+The Display is 1200CD / M², 10.1-Inch High-Definition.
+The Network is Support Wi-Fi Connection or External 4G.
+The HDMI is HDMI output, support for composite display.
+The Mapping Channels is 22.
+The Ground Station Rocker is High-precision joystick sensor, control throttle and direction pusher (flight control), high-precision pulley control pan/tilt zoom and pitch; pan/tilt control button to control different equipment loads.
+The Calling Module is Equipped with an air calling module (with a call intercom), and can transmit a call through a ground station..
+The Editable Waypoints is Any number of editable waypoints for the mission planning function; real-time recording and display functions can be downloaded and displayed on the ground station, such as the operating status of each sub-system, flight track and other information, and can be played back and exported..
+The Image Information and Infrared Image Storage Function is can be stored in the UAV and the ground station at the same time. It can comprehensively process, display and record the flight path and telemetry parameters of the drone..
+The Gyroscope is Yes.
+The Gravity Sensors is Yes.
+The Endurance is Plug and play battery interface, with dual power for 8-10 hours, single battery for 4-5 hours..
+
+Here is Dimensions information for the HGCS-30 Chinese UAV Portable Ground Control Station:
+The Length is INA.
+The Width is INA.
+The Weight is 3.0 kg.
+

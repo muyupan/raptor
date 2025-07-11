@@ -1,0 +1,92 @@
+This document describes the Type 59 Chinese 57mm Towed Anti-Aircraft Gun.
+
+The Type 59 57mm Towed Anti-Aircraft Gun is a Chinese version of the Russian S-60 57mm Towed Anti-Tank Gun.
+
+The S-60 is a towed, road-transportable, short- to medium-range, single-barrel 57-mm antiaircraft gun system. The S-60 recoil-operated weapon replaced the earlier 37mm models in most Warsaw Pact units. It is a powerful weapon, well suited to attack armored vehicles as well as low-flying aircraft. In addition to on-carriage optical fire control, the S-60 also employs off-carriage fire control with the PUAZO-6/60 director and the SON-9 or SON-9A radars. Originally the PUAZO-5 director and SON-4 radar were used. Further improved director/radar combinations became available in subsequent years.
+
+Recognition features of the S-60 are the long, thin tube with a multi-perforated muzzle brake, a distinctive gun shield that folds down, and the horizontal feed tray which holds the four-round clips. The normal Soviet prime mover is the Ural-375 truck. The four-wheel carriage can be leveled and stabilized on jacks to form a point firing base. Loading is accomplished by 4-round horizontally fed clips. The S-60 also has an ammunition-ready rack that can hold 4 four-round clips near the ammunition feed mechanism on the left side of the breech. A twin version, the S-68, is mounted on the self-propelled ZSU-57-2, and twin and quad versions are used by the Soviet Navy. It should be noted that the ammunition for the 57mm antiaircraft guns is not_ interchangeable with that used by the 57mm antitank and assault guns. This is due to the different configurations and dimensions of the cartridge cases. Besides on-carriage optical fire control, the S-60 also employs an off-carriage FLAP WHEEL fire control radar, mounted on a separate van.
+
+The towed S-60 system lacks the mobility of the newer SAM systems with which it is being replaced. A self-propelled version, the ZSU-57-2, with twin 57-mm guns mounted on a modified T-54 tank chassis, was introduced in 1957. The ZSU-57-2 has the same characteristics as the S-60 except that it is not radar-controlled. It is now considered obsolete.
+
+This equipment has proliferated into the following countries: Bangladesh, China, Myanmar.
+
+Here is Variants information for the Type 59 Chinese 57mm Towed Anti-Aircraft Gun:
+The AK-725 is Naval version of the S-60 gun. Introduced in 1958. Mounted in single, double and quadruple mounts (designated ZIF-31) on many early Soviet destroyers..
+The ZIF-72 is Naval version which is enclosed in a metal housing and fully automatic. Also exported to India. Introduced in the mid-1970s..
+The ZSU-57-2: is Self-propelled version with two 57 mm S-60 guns (designated S-68)..
+The Type-80: is Chinese version of the ZSU-57-2..
+The BM-57 is Updated version..
+The AU-220M Baikal is Remote weapon station with fire control system using BM-57..
+
+Here is System information for the Type 59 Chinese 57mm Towed Anti-Aircraft Gun:
+The Alternative Designations is Type 59.
+The Type is Towed Anti-Aircraft Gun.
+The Caliber is 57 mm.
+The Crew is 7.
+The Carriage is Four Wheel.
+The Prime Movers is Ural-375D.
+The Max Towed Speed is 60.
+The Emplacement Time is 1.
+The Displacement Time is 3.
+
+Here is Dimensions information for the Type 59 Chinese 57mm Towed Anti-Aircraft Gun:
+The Length Overall is 8.5.
+The Length of Barrel is 4.4.
+The Width Overall is 2.054.
+The Height is 2.37.
+The Weight is 4,500.
+
+Here is Main Armament information for the Type 59 Chinese 57mm Towed Anti-Aircraft Gun:
+The Type is Automatic Cannon.
+The Caliber is 57.
+The Number of Barrels is 1 each.
+The Service Life of Barrel is INA.
+The Cyclic Rate of Fire is 105-120.
+The Reload Type is 4-8.
+The Practical Rate of Fire is 70.
+The Loader Type is 4 Round Clip, Manual.
+The Reaction time is 4.5.
+The Maximum Elevation is +85.
+The Minimum Elevation is -4.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Muzzle Velocity is 1,000.
+The Maximum Firing Range, Radar Guided is 6,000.
+The Maximum Firing Range, Optical Guided is 4,000.
+
+Here is Ammunition (Option 1) information for the Type 59 Chinese 57mm Towed Anti-Aircraft Gun of the Main Armament Ammunition:
+The Name is UBR-281/281U.
+The Type is APCBC-HE-T.
+The Projectile Weight is 2,820.
+The Bursting Charge is 13.
+The Muzzle Velocity is 1,000.
+The Note is Anti-tank round with sharp penetrator, blunt cap and an aerodynamic cover, with tracer and a delayed-action base fuze.Penetration 96 mm RHA at 1,000 m range or 106 mm at 500 m.UBR-281 and -281U are loaded with the same projectile and differ only by details in case mouth and swage grooves..
+
+Here is Ammunition (Option 2) information for the Type 59 Chinese 57mm Towed Anti-Aircraft Gun of the Main Armament Ammunition:
+The Name is 3UO6.
+The Type is HE.
+The Projectile Weight is INA.
+The Bursting Charge is 154.
+The Muzzle Velocity is 1,000.
+The Notes is Similar to UOR-281U but with proximity fuze AR-51 installed. Fuze operating with RPK-1 system together. Not to be confused with later smart shells which Russia developed..
+
+Here is Ammunition (Option 3) information for the Type 59 Chinese 57mm Towed Anti-Aircraft Gun of the Main Armament Ammunition:
+The Name is UOR-281U.
+The Type is HE-T.
+The Projectile Weight is 2,850.
+The Bursting Charge is 168.
+The Muzzle Velocity is 1,000.
+The Note is Similar to UOR-281; some sources state the shell is the same as in UOR-281 and the round differs from it only in details of the case mouth and swage grooves (as with the UBR round),[8] while others claim a slightly larger HE filling.
+
+Here is Fire Control information for the Type 59 Chinese 57mm Towed Anti-Aircraft Gun:
+The Rangefinder is D-49.
+The Radar Name is Son-9/Son-9A (NATO FIRE CAN).
+The Radar Function is Fire Control.
+The Radar Detection Range is 80.
+The Radar Tracking Range is 35.
+The Radar Frequency is 2.7-2.9 GHz.
+The Radar Frequency Band is E.
+The Radar Peak Power is 300.
+The Alternative Radar RPK- 1/FLAP WHEEL Range (km) is 34.
+

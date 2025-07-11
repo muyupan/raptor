@@ -1,0 +1,59 @@
+This document describes the 1V13 (M1974-1) Russian Artillery Command and Reconnaissance Vehicle.
+
+The set provides the command and control vehicles for the self-propelled cannon battalions.  The eight-vehicle set consists of three 1V13 battery senior officers' vehicles, three 1V14 battery commander's vehicles, one 1V15 battalion commander's vehicle, and one 1V16 battalion FDC/chief of staff's vehicle.  The 1V12M Faltset ACRV set is a modernized version of the system.  The installation of an upgraded electronics package in the vehicles created the requirement for an external-mounted power generator.  In addition to freeing a small amount of space inside the vehicle, the external mounting reduces the internal noise level.  
+The ACRV 1V13 is the battery FDC of the 1V12 ACRV complex.  The battery senior officer, assisted by fire direction and communication personnel, mans the vehicle.  It has direct radio communications with the battery COP, the battalion COP, and the battalion FDC.  The vehicle is equipped with a land navigation system and has a roof-mounted periscopic aiming circle.  The roof-mounted periscopic aiming circle allows the battery senior officer the ability to lay the howitzers for direction from within his vehicle.  There is no battlefield observation equipment present on the 1V13.
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation.
+
+Here is System information for the 1V13 (M1974-1) Russian Artillery Command and Reconnaissance Vehicle:
+The Alternative Designation is 1V13 (M1974-1).
+The Type is Artillery Command and Reconnaissance Vehicle.
+The Manufacturer is Ob'yekt 10.
+The Crew is 6.
+The Chassis is MT-LBu.
+
+Here is Dimensions information for the 1V13 (M1974-1) Russian Artillery Command and Reconnaissance Vehicle:
+The Length is 7.21 m.
+The Width is 2.85 m.
+The Height is 1.905 m.
+The Weight, Combat is 15.7.
+
+Here is Automotive information for the 1V13 (M1974-1) Russian Artillery Command and Reconnaissance Vehicle:
+The Engine Name is YaMZ-238.
+The Engine Type is Diesel.
+The Engine Power is 240 hp.
+The Speed, Maximum Road is 62.
+The Speed, Maximum Off is 26.
+The Speed, Cross is INA.
+The Speed, Maximum Swim is 6.
+The Range is 500.
+The Gradient is 60.
+The Side Slope is 30.
+The Fording Depth is Amphibious.
+
+Here is Radio information for the 1V13 (M1974-1) Russian Artillery Command and Reconnaissance Vehicle of the Communications:
+The Name is R-123M (3 each).
+
+Here is System information for the 1V13 (M1974-1) Russian Artillery Command and Reconnaissance Vehicle of the Main Weapon System:
+The Name is 1 x DShK.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Range, Direct Fire is 1500.
+The Range, Maximum Effective, Day is 1500.
+The Range, Maximum Effective, Night is 1500.
+The Rate of Fire, Cyclic is 80-100.
+The Fire on Move is Yes.
+
+Here is Sensors / Components information for the 1V13 (M1974-1) Russian Artillery Command and Reconnaissance Vehicle:
+The Fire Direction (Automated) is APK automated firing data receiver.
+The Fire Direction (Manual) is PUO-7.
+The Navigation is 1T121-M Navigation System.
+The Other Equipment is DSP-30 rangefinder, K-1 collimator, roof-mounted periscopic aiming circle, VOP-7 vision blocks and driver periscopes..
+
+Here is Protection information for the 1V13 (M1974-1) Russian Artillery Command and Reconnaissance Vehicle:
+The Armor, Hull is 15.
+The Armor, Turret Top is INA.
+The Armor, Turret Front is 20.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

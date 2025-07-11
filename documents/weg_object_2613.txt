@@ -1,0 +1,106 @@
+This document describes the BTR-T Russian Heavy Armored Personnel Carrier (APC).
+
+The BTR-T  ‘Armoured Transporter–Heavy’) is a Russian heavy infantry combat vehicle, designed by the Design Bureau of Transport Machine-Building (Omsk Transmash) state-run production association.
+
+It is based on the hull of the T-55 tank and answers the need for a heavy, well protected and well armed vehicle adapted to urban combat. The need for a heavy IFV appeared after the First Chechen War during which APCs such as the BTR-80 and BMP-2 suffered heavy losses in urban areas at the hands of Chechen rebels using RPG shoulder-launched anti-tank weapons. As a result, the design incorporates thicker armour, with built-in reactive armour. It also has heavier armament with sufficient elevation to engage targets in multi-story buildings.
+
+The choice of the T-55 hull rather than that of a more modern tank was decided as a cost-cutting measure and also probably in order to validate a conversion solution for the many T-55s in use around the world. It was influenced by Israel's IDF Achzarit that created virtually the same modifications in the 1980s. However, no export contracts have been signed.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the BTR-T Russian Heavy Armored Personnel Carrier (APC):
+The Alternative Designation is NA.
+The Type is Heavy Infantry Combat Vehicle,.
+The Family is BTR.
+The Manufacturer is Omsktransmash.
+The Crew is 2.
+The Personnel Capacity is 5.
+
+Here is Dimensions information for the BTR-T Russian Heavy Armored Personnel Carrier (APC):
+The Length is 6.2.
+The Width is 3.27.
+The Height is 2.5.
+The Weight, Combat is 38.5.
+The Ground Pressure is INA.
+
+Here is Automotive information for the BTR-T Russian Heavy Armored Personnel Carrier (APC):
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 520.
+The Cruising Range is 500.
+The Speed, Maximum Road is 50.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.8.
+The Trench is 2.7.
+The Fording Depth is 1.4.
+
+Here is Communications information for the BTR-T Russian Heavy Armored Personnel Carrier (APC):
+The Radio is INA.
+
+Here is System information for the BTR-T Russian Heavy Armored Personnel Carrier (APC) of the Main Gun:
+The Name is Shipunov 2A42.
+The Type is 30mm autocannon..
+The Manufacturer is Tulamashzavod.
+The In Service is 1980-Present.
+The Length is 3.027.
+The Barrel Length is 2,416.
+The Weight is 115.
+The Barrels is 1.
+The Action is Gas-operated.
+The Rate of Fire, Low is 200-300.
+The Rate of Fire, High is 550-800.
+The Effective Firing Range is 2,000 metres (2,200 yd) (AP-T).
+The Maximum Firing Range is 4,000 metres (4,400 yd) (HEI).
+The Feed System is Twin feed.
+
+Here is Ammunition information for the BTR-T Russian Heavy Armored Personnel Carrier (APC) of the Main Gun:
+The Type is Rifle.
+The Caliber is 30.
+The Cartridge is 30 × 165.
+The Muzzle Velocity is 960.
+The Basic Load is 900.
+
+Here is System information for the BTR-T Russian Heavy Armored Personnel Carrier (APC) of the Anti-Tank Guided Missile (ATGM):
+The Name is 9M113 Konkurs (AT-5 Spandrel).
+The Type is Soviet SACLOS wire-guided anti-tank missile..
+The Manufacturer is Tula Machinery Design Bureau (Tula KBP) – Tulsky Oruzheiny Zavod.
+The Proliferation is Widely Proliferated throughout Asia and the Middle East.
+The In Service is 1970-Present.
+The Length, with Gas Generator is 1,150.
+The Length, Without Gas Generator is 875.
+The Diameter is 135.
+The Wingspan is 468.
+The Weight, Missile is 14.6.
+The Weight, 9P135 Launching Post is 22.5.
+The Wahread Type is 9N131 HEAT.
+The Warhead Weight is 2.7.
+The Detonation Mechanism is Contact.
+The Engine is Solid-fuel rocket.
+The Operarational Range is 70 m - 4 km.
+The Speed is 208.
+The Guidance system is Wire-guided SACLOS.
+The Steering System is Two control surfaces.
+
+Here is Fire Control information for the BTR-T Russian Heavy Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is No.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes.
+
+Here is Protection information for the BTR-T Russian Heavy Armored Personnel Carrier (APC):
+The Hull Armor is 600mm.
+The Turret Armor is INA.
+The Applique Armor is Available.
+The Explosive Reactive Armor is Yes.
+The Active Protection System is INA.
+The Mine Clearing is Yes, with additional anti-mine protection plates.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, smoke grenade dischargers placed in the rear part of the hull.
+The IR Signature is INA.
+The Automatic Fire Suppression Equipment is Yes.
+

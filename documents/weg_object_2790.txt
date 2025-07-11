@@ -1,0 +1,72 @@
+This document describes the PNMIRK Danish Armored Mine Clearing Vehicle.
+
+PNMIRK is the Danish abbreviation for Pansret Minerydningskøretøj, Armoured Mine clearing Vehicle – a unique Danish combInation of the Wisent ARV and the Full Width Pearson Mine Clearing Plough. It is used to clear a path of mines or IEDs for all kind of vehicles and personnel. Besides the full width plough the PNMIRK also has MSD Signature Duplicator (this creates a magnetic field in front of the vehicle to set off magnetic mines), and at the back a Lane Marking System (LMS) that by air pressure shoots markers along the cleared path.
+
+This equipment has proliferated into the following countries: Denmark, Germany, Greenland.
+
+Here is System information for the PNMIRK Danish Armored Mine Clearing Vehicle:
+The Alternative Designation is P_NMIRL; Wisent 1; Bergepanzer Wisent.
+The Type is Armored Mine Clearing Vehicle.
+The Manufacturer is German FFG company as a private venture.
+The Crew is 3.
+The Bucket Capacity is 1.3 m³.
+The Dig Depth is 4.4 m.
+The Lifting Capacity is 30 tons.
+The Winch Capacity is 35 tons.
+The Towed Load is 50 tons.
+The Earth Working Capacity (Dozer) is 300 m³/h.
+The Earth Working Capacity (Excavator Arm) is 300 m³/h.
+The Front Mounted Dozer Blade is It can be used to clear obstacles and for earthmowing operations. It is also used as an earth anchor to stabilize the vehicle during craning, winching and excavating operations..
+The ARV is In the ARV role the Wisent 1 can recover damaged, stuck, swamped or overturned combat vehicles on the battlefield. It also tows them to the nearest shelter, or maintenance unit. Vehicle can also provide maintenance service in the field. Crew of the Wisent 1 operate from under armor protection..
+
+Here is The Full Width Mine Plough (FWMP) information for the PNMIRK Danish Armored Mine Clearing Vehicle:
+The Description is This produces a safe and mine free cleared lane for following vehicles.  This product is battle proven and is in service with, amongst others, the British Army, the U.S. Army, the U.S. Marine Corps and the Finnish, Danish, Dutch and Swedish Armed Forces.
+
+The blast resistant system comprises three main parts; two 9-tine track width blades to protect vehicle tracks and a central 5-tine vee blade to provide full width clearance.  Fold out blade extensions to each side of the system ensure that mines are pushed well beyond the width of the cleared lane.
+
+Ploughing depth is controlled by plough skids which remain in contact with the ground at all times.  The system works well in a wide range of soil conditions and ground undulations. The FWMP can be fitted using a common interface kit which allows the task equipment to be quickly and easily interchanged and jettisoned increasing the operational capability of the host vehicle..
+The Key Features is *Rapidly clears mines and IEDs from the full width of the host vehicle
+*Blast resistant and can remain fully operational after a mine detonation
+*Designed to minimize the tractive effort required
+*Capable of operating in a wide range of soil conditions
+*Low maintenance
+*Can be fitted with a MSD to counter magnetic influence fused mines.
+The Operation and Control is *The FWMP(H) has two operating positions; stowed for cross-country travel and deployed for breaching operations.  Two hydraulic lift cylinders stow and deploy the plough blades.
+
+*Hydraulic power is provided by an in-built electrohydraulic power system if the FWMP is directly fitted to the vehicle.  If the FWMP(H) is fitted using a Pearson Engineering common interface kit (HLA), an on-board hydraulic system is supplied.
+
+*The FWMP(H) is controlled from a Multipurpose Control Unit (MCU) mounted within easy reach of the vehicle driver..
+The Modular is *The FWMP(H) can be rapidly attached to, or detached from, the vehicle and interchanged with other Special to Role equipment using a (HLA)
+*An optional Hard Surface Device (HSD) can be fitted to the FWMP(H) to clear mines and munitions laid on the surface of roads and hard flat terrain.
+*An optional Magnetic System Duplicator (MSD) can be fitted to help protect the equipment from the effect of magnetically fused mines.
+*A purpose built Transportation Pallet facilitates both storage and transport and is capable of fitting into either an ISO container or onto a DROPS pallet..
+
+Here is Dimensions information for the PNMIRK Danish Armored Mine Clearing Vehicle:
+The Length is 8.2 m.
+The Width is 3.5 m.
+The Height is 3 m.
+The Weight is 47 tons.
+
+Here is Automotive information for the PNMIRK Danish Armored Mine Clearing Vehicle:
+The Engine Name is MTU MB 838 Ca M500.
+The Engine Type is Diesel.
+The Engine Power is 960.
+The Transmission is INA.
+The Maximum Speed is 65 km/h.
+The Range is 600 km.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.7 m.
+The Trench is 2.5 m.
+The Fording is 1.2 m.
+
+Here is Main Weapon System information for the PNMIRK Danish Armored Mine Clearing Vehicle:
+The Note is 1 x 12.7 mm (optional).
+
+Here is Protection information for the PNMIRK Danish Armored Mine Clearing Vehicle:
+The Hull Armor is This multi-purpose combat vehicle has a level of protection, similar to that of the Leopard 1 main battle tank. Vehicle withstands blasts equivalent to 8 kg of TNT anywhere under the hull or under any track location. Interior is lined with a spall liner..
+The Applique Armor is Available.
+The Mine Clearing is Yes,  The Wisent 1 can be also reconfigured for mine clearing role. It can clear pathways through minefields, allowing assault units to pass, before enemy establishes defenses. For this role it can be fitted with a full-width mine plough and a safe lane marking system..
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

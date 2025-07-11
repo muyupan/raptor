@@ -1,0 +1,35 @@
+This document describes the AF902 Chinese Towed Air Defense and Fire Control Radar System.
+
+The AF902 is an air defense fire-controlled radar used to provide integrated air defense for towed guns, such at the twin 35mm and PL9C Surface-to-Air Missile (SAM) systems.  It is also capable of rapid deployment and has a high mobility rate.  The operator's controls include a digital Plan Position Indicator, digital Multi-Media Indicator, digital Amplified Range Indicator, keyboard with tracker ball and joystick, main operation control panel, weapon control range, and indication and control panel. In addition to tis radar capabilities, it also has a electronic counter counter-measure (ECCM) and a short reaction time.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the AF902 Chinese Towed Air Defense and Fire Control Radar System:
+The Alternative Designation is AF902 Chinese Towed Air Defense and Fire Control Radar System.
+The Type is Fire Control Radar.
+The Crew is 2.
+The Resolution is 0.5 - 5.
+The Note 1: is This radar is usually towed by a three-axle truck..
+
+Here is Dimensions information for the AF902 Chinese Towed Air Defense and Fire Control Radar System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is 6000.
+The Trailer is 4-wheels.
+The Operating Temperatures is -20C to 50+C.
+
+Here is Radar information for the AF902 Chinese Towed Air Defense and Fire Control Radar System:
+The Frequency ranges is 8 GHz to 12.5 GHz (search radar) 
+4 GHz to 8 GHz (search/tracking radar) 
+26.5 GHz to 40 GHz (Ka-band tracking radar).
+The Antenna is Cassegrain.
+The Azimuth is 360.
+The Detection Altitude is 3000.
+The Acccuracy is 10 m (C-band search/tracking radar) 
+5 m (Ka-band tracking radar) 
+5 m (Laser Range-Finder) 
+0.5 m (Infra-red Range-Finder).
+The Note 1: is The controls include a digital Plan Position Indicator, digital Multi-Media Indicator, digital Amplified Range Indicator, keyboard with tracker ball and joystick, main operation control panel, weapon control range, and indication and control panel..
+The Note 2: is This system has three band radars integrated into one system, X-band search radar (range of 22km for Fighter aircraft and 9km for cruise missiles), C-band search and tracking radar (range of 32km for Fighter aircraft and 13km for cruise missiles) and Ka-band tracking radar (range of 15km for Fighter aircraft and 6km for cruise missiles) with TV/IR tracking, IFF and various electro-optical technologies.
+

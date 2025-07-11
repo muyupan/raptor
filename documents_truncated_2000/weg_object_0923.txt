@@ -1,0 +1,110 @@
+This document describes the WZ-19 (Z-19) Chinese Reconnaissance/Attack Helicopter.
+
+WZ-19 (Z-19) Chinese Reconnaissance/Attack Helicopter is a Chinese light scout and observation helicopter. It was locally developed by Harbin. It was China's attempt to develop a modern and capable helicopter. The whole development program was kept in high secrecy. The Z-19 is essentially a tandem-seat version of the Z-9W, which in turn is a license-built version of the Eurocopter AS365 Dauphin. However, this helicopter also shares some resemblance with the Japanese OH-1. The Z-19 made its first flight in 2011 and was publicly revealed in 2012. This helicopter is in service with the Chinese army aviation regiment. It operates alongside the dedicated Z-10 attack helicopter.
+
+The Z-19 is lightly armored. Both pilots are seated on crash-resistant seats. This scout and observation helicopter is equipped with a nose-mounted FLIR, TV, and laser rangefinder.
+
+The Z-19 is an updated modified version of the Harbin Z-9W (similar to the development of the Bell AH-1 Cobra from the UH-1). It is a twin-seat tandem helicopter using mechanical components derived from the Eurocopter AS365 Dauphin series, as the Z-9 series are license-built versions of the Dauphin.
+
+The Z-19 features a fenestron tail, reducing the noise level and therefore allowing it to achieve some level of acoustic stealthiness. The exhausts have also been designed to reduce the infrared signature. The helicopter is equipped with a millimeter-wave fire control radar. Unlike most other attack helicopters, it lacks a nose-mounted machine gun or autocannon.
+
+The Z-19 also features armor plating, crash-resistant seats, and a turret with FLIR, TV, and laser rangefinder. It is also equipped with advanced helmet-mounted sight (HMS), which looks different from that of the CAIC WZ-10.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the WZ-19 (Z-19) Chinese Reconnaissance/Attack Helicopter:
+The Z-19E is Export Model..
+
+Here is System information for the WZ-19 (Z-19) Chinese Reconnaissance/Attack Helicopter:
+The Alternative Designation is WZ-19; Harbin Z-19.
+The Primary Function is Reconnaissance/attack helicopter.
+The Crew is 2.
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 11.
+The Tail Rotor is 13 Z-9A, 11 Z-9B/WZ-9.
+The Day/Night Capable is Yes.
+The Vertical Clime Rate is 9.
+The Takeoff or Landing Limitations is INA.
+The Max Speed is 280.
+The Laser Range Finder is Yes.
+The Under-Nose Low-Light TV is Yes.
+The Infrared Observing and Tracking is Yes.
+The Roof Mounted Optical Sight is Yes.
+
+Here is Dimesions information for the WZ-19 (Z-19) Chinese Reconnaissance/Attack Helicopter:
+The Length is 12.
+The Main Rotor Diameter is 11.9.
+The Height is 4.0.
+The Weight, (Empty) is 2,131.
+The Weight, (Maximum Take Off) is 4,082.
+
+Here is Automotive information for the WZ-19 (Z-19) Chinese Reconnaissance/Attack Helicopter:
+The Engine Type is 2 x WZ-8A turboshafts.
+The Engine Power is 2 x 848.
+The Cruising Range is 700.
+The Speed, Maximum is 280.
+The Speed, Average Cross is 245.
+The Service Ceiling is 4,500.
+The Endurance is 4.
+The Rate of Climb is 9.
+
+Here is TY-90 Air-to-Air Missiles information for the WZ-19 (Z-19) Chinese Reconnaissance/Attack Helicopter of the Aramant:
+The Location is Wing Mounted.
+The Length is 1.8.
+The Diameter is 90.
+The Operational Range is 0.5 - 6.
+The Number of Rounds is INA.
+The Guidance System is ImIR IR.
+The Weight (Total) is 20.
+The Weight (Warhead) is 3.
+The Speed is 2.
+The Max Range is 6.
+The Min Range is 500.
+
+Here is Single Twin Barrel GSh-23L Autocannon information for the WZ-19 (Z-19) Chinese Reconnaissance/Attack Helicopter of the Aramant:
+The Location is Wing Mounted.
+The Caliber/Length is 23x115.
+The Maximum Effective Range is 2.
+The Cyclic Rate of Fire is 3,000.
+The Muzzle Velocity is 690.
+The Armor Penetration is Yes.
+
+Here is HJ-8 Anti-Tank Missiles information for the WZ-19 (Z-19) Chinese Reconnaissance/Attack Helicopter of the Aramant:
+The Location is Wing Mounted.
+The Function is Wire-Guided Anti-Tank Missile System.
+The Length is 1,566.
+The Diameter is 120.
+The Operational Range is 3,000 - 4,000.
+The Number of Rounds is 8.
+The Guidance System is SACLOS Wire Guidance.
+The Power is Solid Fuel.
+The Muzzle Velocity is 200.
+The Armor Penetration is Yes.
+
+Here is Fire Control information for the WZ-19 (Z-19) Chinese Reconnaissance/Attack Helicopter:
+The Fire Control System Type is Millimeter Wave FCS Radar.
+The Fire Control Radar is Yes.
+The Digital Cockpit is Yes.
+The Direct Fire Control is Yes.
+The Laser Designator is Yes.
+The Automated Helmet is Yes.
+The Sensor Suite(s) Available is INA.
+The Position Location System is Yes.
+The Gyro-Stabilised Sensor Turret is Yes.
+The X-Band KLC-1 Search Radar is Yes.
+
+Here is Protection information for the WZ-19 (Z-19) Chinese Reconnaissance/Attack Helicopter:
+The Fuselage is The Z-19 is lightly armored. Both pilots are seated on crash-resistant seats..
+The Anti-Armor is Yes.
+The Cockpit Glass is Yes.
+The Low Acoustic Signature is Yes.
+The Infrared-Suppressing Exhaust System is Yes.
+The Heat Signature Reduction is Yes.
+The Armor Plating is Available.
+The NBC Protection is Yes.
+The EW is Yes.
+The EW Counter Measures/CCM is Yes.
+The Crash-Resistant Seats is Yes.
+The FLIR is Yes.
+The Helmit Mounted Sights (HMS) is Yes.
+

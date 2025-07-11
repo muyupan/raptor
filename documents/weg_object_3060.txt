@@ -1,0 +1,147 @@
+This document describes the Zulfiqar-2 Iranian Main Battle Tank (MBT).
+
+The Zulfiqar 2, or Zolfaqar 2, is a further development of the Zulfiqar 1. This MBT is named after a legendary sword. It was designed during the 1990s. It appears to be only an interim type, which served as a test bed for the Zulfiqar 3. It was never produced in quantity. This is an upgraded variant with a longer hull, seven road wheels and a more powerful engine. A reworked turret is also equipped.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of).
+
+Here is Variants information for the Zulfiqar-2 Iranian Main Battle Tank (MBT):
+The Zulfiqar-1 is The Zulfiqar-1 is based on the M60 Patton model acquired under the pre-revolution era. The Zulfiqar-1 was first revealed in public in 1994. A total of six prototypes were completed and field tested in 1997. The Zulfiqar-1 is protected by a welded steel hull and the turret is reinforced by a composite armour. The Zulfiqar-1 is armed with a 125mm Smoothbore gun taken from a T-72..
+The Zulfiqar-3 is The Zulfiqar-3 is the most advanced variant of the Zulfiqar family. It features considerable upgrades to the fire control system, chassis, engine and main gun. The new variant is equipped with the 2A46 125 mm smoothbore cannon with an autoloader, a laser rangefinder and a new fire control system..
+
+Here is System information for the Zulfiqar-2 Iranian Main Battle Tank (MBT):
+The Alternative Designation is Zulfiqar-2.
+The Manufacturer is Shahid Kolah Dooz Industrial Complex.
+The In Service is 1998-Present.
+The Type is Main Battle Tank.
+The Family is Zulfiqar Class.
+The Crew is 3 (commander, gunner and driver).
+The Passenger Capacity is INA.
+
+Here is Dimensions information for the Zulfiqar-2 Iranian Main Battle Tank (MBT):
+The Length (Gun Forward) is 9.4.
+The Length (Hull) is 7.2.
+The Width is 3.6.
+The Height is 2.5.
+The Weight, Combat is 41.
+The Ground Pressure is INA.
+
+Here is Automotive information for the Zulfiqar-2 Iranian Main Battle Tank (MBT):
+The Engine Name is V-46-6-12.
+The Engine Type is V-12 Diesel.
+The Engine Power is 1,000.
+The Power-to-Weight Ratio is 21.7 hp/metric ton.
+The Cruising Range is 450.
+The Speed, Maximum Road is 70.
+The Speed, Average Cross is 40.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Trench is 2.8.
+The Fording Depth is 1.4.
+The Transmission is SPAT 1200 automatic.
+The Day/Night Driving Lights is Yes, mounted on the glacis plate..
+
+Here is Communications information for the Zulfiqar-2 Iranian Main Battle Tank (MBT):
+The Primary Radio is INA.
+The Secondary Radio is INA.
+
+Here is System information for the Zulfiqar-2 Iranian Main Battle Tank (MBT) of the Main Gun:
+The Name is 2A46M/2A46M-5.
+The Type is 125mm Smoothbore.
+The Max Rate of Fire is 8.
+The Manually Load Time is 1-2.
+The Autoloader is Yes, Carousel-Type Autoloader.
+The Fire on the Move is Yes, Main Gun.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Elevation is +14.
+The Minimum Elevation is -6.
+The Fume Extractor is Yes.
+
+Here is Ammunition (Option 1) information for the Zulfiqar-2 Iranian Main Battle Tank (MBT) of the Main Gun:
+The Name is 3VBM3.
+The Type is Armour-Piercing Fin-Stabilized Discarding Sabot (APFSDS).
+The Caliber is 125.
+The Muzzle Velocity is 2,050.
+The Basic Load is 39 Total Rounds of any 125mm Projectiles.
+The Effective Range is 2,000-3,000.
+The Armor Penetration is 1,000.
+The Projectile Weight is 11.
+The Variants is 1.1 3VBM3/3BM9/10 1.2 3VBM6/3BM12/13 1.3 3VBM7/3BM15/16 1.4 3VBM8/3BM17/18 1.5 3VBM9/3BM22/23 1.6 3VBM10/3BM29/30 1.7 3VBM11/3BM26/27 1.8 3VBM13/3BM32/33 1.9 3VBM17/3BM42 (3BM44 "Mango") 1.10 3VBM19/3BM42M (3BM44M "Lekalo") 1.11 3VBM20/3BM46 (3BM48 "Svinets") 1.12 3VBM22/3BM59 (3BM59 "Svinets-1") 1.13 3VBM23/3BM60 (3BM60 "Svinets-2") 1.14 3VBM?/3BM69 "Vacuum-1" 1.15 3VBM?/3BM70 "Vacuum-2".
+
+Here is Ammunition (Option 2) information for the Zulfiqar-2 Iranian Main Battle Tank (MBT) of the Main Gun:
+The Name is 3VOF22.
+The Type is High Explosives (HE).
+The Purpose is High explosive fragmentation fin stabilised. General purpose rounds, for use against infantry, bunkers and light vehicles and other "soft" targets..
+The Caliber is 125.
+The Muzzle Velocity is 850.
+The Basic Load is 39 Total Rounds of any 125mm Projectiles.
+The Max Dispersion is 0.23 mrad.
+The Maximum Range is 5,000.
+The Charge is A-IX-2 (73% RDX, 23% aluminium powder, phlegmatized with 4% wax) 3.0 kg.
+The Projectile Weight is 23.
+The Round Weight is 33.
+The Variants is 3VOF22/3OF19, 3VOF36/3OF26, 3VOF128/3OF82.
+
+Here is Ammunition (Option 3) information for the Zulfiqar-2 Iranian Main Battle Tank (MBT) of the Main Gun:
+The Name is 3VBK27/3BK31 "Start".
+The Type is High-Explosive Anti-Tank (HEAT).
+The Caliber is 125.
+The Muzzle Velocity is 915.
+The Basic Load is 39 Total Rounds of any 125mm Russian Projectiles.
+The Max Dispersion is INA.
+The Maximum Range is 3,000.
+The Charge Type is HEAT.
+The Charge Weight is 1.62.
+The Projectile Weight is 18.4.
+The Armor Penetration is Estimated at 800 mm triple charge HEAT.
+The Variants is 3VBK7/3BK12, 3VBK10/3BK14, 3BK12M, 3BK14M, 3VBK16/3BK18, 3BK18M, 3VBK17/3BK21, 3BK21B, 3VBK21/3BK25, 3VBK25/3BK29 "Breyk", 3VBK25M/3BK29M.
+
+Here is System information for the Zulfiqar-2 Iranian Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is Type 54 (DShKM).
+The Type is 12.7 mm Type 54 Heavy Machine Gun.
+The Proliferation is +1 Million.
+The Length, Total is 1,625.
+The Barrel length is 1,070.
+The Weight (Gun Only) is 34.
+The Weight (On Wheeled Mounting) is 157.
+The Rate of Fire is 600.
+The Action is Gas-Operated, Flapper Locking.
+The Feed System is 50 Round Belt.
+The Sights is Iron/Optical.
+The Variants is DK, DShKM, DSHKS, Type 54 HMG.
+
+Here is Ammunition information for the Zulfiqar-2 Iranian Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Heavy machine gun and anti-materiel rifle cartridge.
+The Caliber is 12.7.
+The Cartridge is 12.7x108 mm.
+The Muzzle Velocity is 850.
+The Basic Load is 1,200.
+The Maximum Effective Range is 2,500.
+The Armor Penetration is API: 21 at 500 m & 13 at 1000 m (RHA).
+
+Here is Fire Control information for the Zulfiqar-2 Iranian Main Battle Tank (MBT):
+The Name is Slovenian EFCS-3 fire-control system.
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Thermal Sight Driver is Yes, passive periscope for night driving..
+The Main Gun Stabilization is Yes.
+The Domestic System is Yes.
+The Laser Rangefinder is Yes.
+The Fire on the Move is Yes.
+The Driver Periscopes is three day periscopes for driving.
+
+Here is Protection information for the Zulfiqar-2 Iranian Main Battle Tank (MBT):
+The Hull Armor is Reinforced composite armor on the front arc..
+The Turret Armor is Turret mounts a laser-warning pod.
+The Applique Armor is Available.
+The Explosive Reactive Armor is Available.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

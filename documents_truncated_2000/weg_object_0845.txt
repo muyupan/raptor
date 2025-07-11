@@ -1,0 +1,60 @@
+This document describes the EC120 Colibri French Light Utility Helicopter.
+
+The Eurocopter (now Airbus Helicopters) EC120 Colibri (Hummingbird) was a five-seat, single-engine, light utility helicopter. Jointly designed and developed by Eurocopter, China National Aero-Technology Import & Export Corporation (CATIC), Harbin Aviation Industries (Group) Ltd (HAIG), and Singapore Technologies Aerospace Ltd (STAero) at Eurocopter France's Marignane facility, the EC120B was assembled by Eurocopter in France and Australia.
+
+In China, the aircraft is produced by Harbin Aircraft Manufacturing Corporation (HAMC) as the HC120. In 2004, HAMC began local manufacturing of the HC120 at their assembly line in Harbin, in northern China. In the Chinese market, both the People's Liberation Army and multiple local police forces have purchased HC120 helicopters.
+
+The EC120B Colibri is a single-engine multimission helicopter, designed for safe, simple, and cost-effective operations. It incorporates several of Eurocopter's trademarked technologies, those of prominence are the 3-bladed Speriflex main rotor head and the 8-bladed fenestron anti-torque tail rotor; these have been partially credited with contributing to the rotorcraft's noise signature, which is 6.7 decibels below International Civil Aviation Organization (ICAO) limits. Airbus Helicopters has claimed that the EC120 B possesses the lowest operating cost in its class. As of 2014, the EC120 has the distinction of being the only single-engine rotorcraft to be certified to JAR/FAR 27 standards; measures incorporated to meet these standards include an energy-attenuating main structure, energy-absorbent seats for all on board, and a crash-resistant fuel system.
+
+The aircraft features a wide, ergonomic cabin with high levels of external visibility, which can accommodate a single pilot along with four passengers in a typical passenger configuration. The design of the cabin is suitable for a wide variety of civilian and parapublic missions, such as utility transport, offshore transport, training, law enforcement, casualty evacuation, and corporate transport. In the casualty evacuation role, the rotorcraft can carry one pilot and one stretcher patient as well as one or two medical attendants. In a cargo-carrying capacity, the EC120 can carry one pilot plus 2.94 m3 (104 cu ft) of total useful load volume spread between the cabin and the 0.8 m3 (28 cu ft) hold, which is externally accessible from the right-hand side and to the rear, as well as from the cabin in some configurations. To ease cargo operations, the cabin floor is flat and unobstructed; alternatively, a cargo sling can be installed to carry a cargo of up to 700 kg (1,540 lb).
+
+According to Airbus Helicopters, the EC120B integrates a high level of advanced technology to make the rotorcraft easier and safer to fly, as well as to reduce costs. A particular emphasis was placed on allowing end customers to perform as much of the maintenance tasks themselves.[26] The primary instrument panel is the twin-screen vehicle and engine multifunction display (VEMD) which provides control and monitoring of various aspects of the rotorcraft, such as the fenestron tail rotor and key engine parameters; the VEMD decreases the overall pilot workload for greater safety. In a baseline configuration, flight controls are installed only on the right-hand side, dual controls or left-hand only flight controls can be optionally installed. Third parties have offered their own avionics suites for the EC120, adding functionality such as an autopilot.
+
+In addition to various civil roles, the EC120 has also been used by several military operators to conduct training, observation, and light utility missions. Airbus Helicopter has promoted the type in a training capacity due to features such as positive control response, performance computation systems, modern instrumentation for ease of use, overall compact size, and a high level of cabin visibility. A wide range of optional equipment can be installed upon the EC120 B, this includes a wire strike protection system, air conditioning, sand filter, skis, windshield wipers, electrical external mirrors, a cargo sling, emergency flotation gear, forward-looking infrared (FLIR) cameras, and external spotlights. For corporate customers, the EC120 can be equipped with a Style interior, offering a luxurious interior with leather upholstery, in-flight office, and telecommunications facilities, along with reduced noise and vibration levels via additional insulation.
+
+This equipment has proliferated into the following countries: Australia, Brazil, Canada, China, Dominican Republic, France, Germany, Indonesia, Lithuania, Malaysia, Mexico, Myanmar, Singapore, Spain, Sweden, United States of America.
+
+Here is System information for the EC120 Colibri French Light Utility Helicopter:
+The Alternative Designation is EC120 Colibri.
+The Type is Light Utility Helicopter.
+The Crew is 1.
+The Passengers is 4.
+The Blades, Main Rotor is 3.
+The Blades, Tail Rotor is INA.
+The Number of Engines is 1.
+The Number of Hard Points is INA.
+The Payload Capacity is 700 kg max slung load.
+
+Here is Dimensions information for the EC120 Colibri French Light Utility Helicopter:
+The Fuselage Length is 11.52 m.
+The Length with Main Rotors Turning is 9.60 m.
+The Fuselage Width is 1.50 m.
+The Height is 3.40 m.
+The Cabin Length is 2.30 m.
+The Cabin Width is 1.35 m.
+The Cabin Height is 1.25 m.
+The Rotor Diameter is 10.00 m.
+
+Here is Automotive information for the EC120 Colibri French Light Utility Helicopter:
+The Engine Name is 1 x Turbomeca Arrius 2F.
+The Engine Type is Turbine.
+The Engine Power is 376 kW (504 shp).
+The Fuel Capacity is 2 x 406 liter tanks.
+The Maximum Speed is 278 km/h.
+The Cruise Speed is 226 km/h.
+The Climb Rate is 396 m/min.
+The Service Ceiling is 5,190 m.
+The Maximum Range is 710 km.
+The Endurance is 4 hours 10 min.
+
+Here is Fire Control and Avionics information for the EC120 Colibri French Light Utility Helicopter:
+The Note is According to Airbus Helicopters, the EC120B integrates a high level of advanced technology to make the rotorcraft easier and safer to fly, as well as to reduce costs. A particular emphasis was placed on allowing end-customers to perform as much of the maintenance tasks themselves. The primary instrument panel is the twin-screen vehicle and engine multifunction display (VEMD) which provides control and monitoring of various aspects of the rotorcraft, such as the fenestron tail rotor and key engine parameters; the VEMD decreases overall pilot workload for greater safety. In a baseline configuration, flight controls are installed only on the right-hand side, dual controls or left-hand only flight controls can be optionally installed. Third parties have offered their own avionics suites for the EC120, adding functionality such as an autopilot..
+
+Here is Protection information for the EC120 Colibri French Light Utility Helicopter:
+The Add on Armor is No.
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The NBC Protection is INA.
+The EW Counter Measures/CCM is No.
+The Counter Measures (Chaff/Flares) is INA.
+

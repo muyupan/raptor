@@ -1,0 +1,55 @@
+This document describes the Bittium Tough Comnode Finnish Multi-Functional Terminal and IP Communication Device.
+
+Bittium Tough Comnode is a versatile and rugged terminal and IP communication device for tactical networks. The device fulfils the data transfer needs for mobile troops for example as SIP phone, router and SHDSL modem.
+
+Bittium Tough VoIP Service™ can be run on the device to provide telephony and SIP server functionalities to other VoIP devices for accessing the VoIP network. Bittium Tough Comnode also provides wireless access point for mobile clients and enables using legacy Combat Net Radios (CNR) as part of the IP-based tactical communication system (Radio over IP, RoIP).
+
+Bittium Tough Comnode is also compatible with
+
+*Bittium Tactical Wireles IP Network™ (TAC WIN) system
+*Bittium Tough SDR™ products
+*Bittium Tough VoIP™ products
+
+This equipment has proliferated into the following countries: Austria, Finland.
+
+Here is System information for the Bittium Tough Comnode Finnish Multi-Functional Terminal and IP Communication Device:
+The Alternative Designation is Bittium Tough Comnode.
+The Type is Versatile Tactical IP Communication Device.
+The Crew is 1.
+The Interfaces is Audio interface for connecting handset/headset/CNR; incl. two serial ports and push-to-talk signals
+2 x 10BASE-T/100BASE-TX interfaces with PoE 802.3af input;
+USBv2.0 host port and USB power input; 2 x ITU-T G991.2 (G.SHDSL) interfaces, push-and-release connector for field wire; GPS
+WLAN 802.11 bgn;
+BT 3.0 for headset (Hands-Free Profile).
+The Versatile is The same device acts as a terminal, IP router, SHDSL repeater, CNR GW and SIP server..
+The Portable and Easy to Install is Small size and rugged form factor makes it easy to install anywhere and it is portable on the field..
+The Extensive Connectivity is Extensive connectivity with e.g. CNR interface, SHDSL, ETH, USB, WLAN, BT, SERIAL/AUDIO and GPS..
+The Military Grade IP Communications is Together with distributed VoIP service, Bittium Tough VoIP Service, and wide range of codecs..
+The Network Reliability is Dynamic routing capabilities improve network reliability..
+The Standard is MIL-STD-810G, MIL-STD-461G and MIL-STD-1275E standards compliant.
+The Connectivity is Connectivity to 3rd party SIP servers and VoIP clients.
+The IP address configuration is Automatic IP address configuration.
+The Tactical IP Network is Fully independent tactical IP network using SHDSL and Ethernet connections.
+The Operating Temperature is -40°C to +55°C.
+The Display is 3.5" diagonal TFT LCD full colour display (320 x 240 pixels).
+The Keypad is 2 function keys below the display;
+12 number keys.
+The Protocols is Signalling protocol: SIP (RFC 3261), SDP (RFC 4566) and presence event package (RFC 3856); 
+Voice signalling: RTP/RTCP (RFC 3550), telephone events (RFC 2833).
+The Management Coding (Vocoder) is G.711, G.729AB, GSM, Speex, MELPe 2400.
+The Management and Control is Web user interface for device configuration;
+Setup of multiple devices via configuration file;
+Remote SW update;
+Software upgrade through web-based management;
+Remote management support via Bittium Network Manager.
+The Power Supply is 12–32 V DC;
+Alternate power inputs: LAN (PoE) and USB.
+The Power Consumption is 7 W (device);
+Max. 7.5 W (USB power feed).
+
+Here is Dimensions information for the Bittium Tough Comnode Finnish Multi-Functional Terminal and IP Communication Device:
+The Length is 183 mm.
+The Width is 90 mm.
+The Height is 30 mm.
+The Weight, Combat is 0.58 kg.
+

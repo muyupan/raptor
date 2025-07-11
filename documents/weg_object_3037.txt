@@ -1,0 +1,54 @@
+This document describes the Laska 2.0 Ukrainian 4x4 Unmanned Ground Vehicle (UGV).
+
+The Laska 2.0 Ukrainian 4x4 Unmanned Ground Vehicle (UGV) is a mobile multifunctional fire support and reconnaissance company of the company level – a battalion for guarding the perimeter and borders.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is Variants information for the Laska 2.0 Ukrainian 4x4 Unmanned Ground Vehicle (UGV):
+The FP01 is a stationary platform for the protection of important state facilities, borders, military units.
+The MP01 is a mobile combat robotic platform mounted on mobile objects to perform tasks on patrolling the area, special reconnaissance and military operations..
+
+Here is System information for the Laska 2.0 Ukrainian 4x4 Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Laska 2.0.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is Timberland Military Solutions.
+The Configuration is 4x4.
+The Crew is Unmanned.
+The Platform Management System is Autonomous control
+SMART TRACK
+movement behind the driving car / object
+by GPS
+perimeter patrol
+movement from point to point
+return “home” when the control channel disappears
+without GPS
+movement during electronic warfare.
+The Autonomous Control is 2 NVIDIA Jetson on-board computers for:
+road tracking
+processing objects and obstacles by the neural network from all sides
+2 programmable PLC controllers for control:
+movement of the robotic platform
+turret management.
+The Remote Control is locally (line of sight): gestures, voice, leash
+remotely: from an operator station, from a tablet, from a Quadro copter.
+The Communication Channel is WiFi 5 GHz.
+The Operating Temperature is – 25 ° to + 60 ° C.
+
+Here is Dimensions information for the Laska 2.0 Ukrainian 4x4 Unmanned Ground Vehicle (UGV):
+The Length is 2,270 mm.
+The Width is 1,300 mm.
+The Height is 1,500 mm.
+The Weight (without Weapons and Ammunition) is 670 kg.
+The Clearance is 220 mm.
+
+Here is Automotive information for the Laska 2.0 Ukrainian 4x4 Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is 1-cylinder, 4-stroke.
+The Engine Power is 50 hp.
+The Fuel Capacity is 16 liters.
+The Control Range is 2 km.
+The Maximum Speed is INA.
+
+Here is Protection information for the Laska 2.0 Ukrainian 4x4 Unmanned Ground Vehicle (UGV):
+The Armor is 2 mm steel.
+

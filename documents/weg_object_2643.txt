@@ -1,0 +1,111 @@
+This document describes the Pandur I-AM Austrian 6x6 Amphibious Armored Personnel Carrier (APC).
+
+The Pandur I is an APC developed and produced by the Austrian company Steyr-Daimler-Puch Spezialfahrzeuge (SSF). It was developed during the 1980s as a private venture, based on the Pegaso BMR-600 design. In 2003, General Dynamics took over Steyr-Daimler-Puch which is now part of General Dynamics European Land Systems (GD ELS), which is also the parent company of MOWAG, Santa Bárbara Sistemas and GD ELS – Germany.
+
+The baseline vehicle is armed with a 12.7 mm (.50 cal) heavy machine gun. Its modular design allows it to be fitted with a variety of weapon systems, including a 20 mm autocannon and an armored two-man 90 mm gun turret.
+
+The amphibious conversion is available for all other variants. It adds electric bilge pumps, water-to-water cooling and closed air intakes. An integrated waterjet is mounted on either side of the rear hull. The driver pushes a button to activate the amphibious systems, including the deployment of a hydraulic front trim vane. The amphibious Pandur has the same characteristics as the base model, above, except as follows:
+
+This equipment has proliferated into the following countries: Austria, Belgium, Gabon, Kuwait, United States of America.
+
+Here is Variants information for the Pandur I-AM Austrian 6x6 Amphibious Armored Personnel Carrier (APC):
+The Pandur 1 is Basic version as in the description.
+The Belgian Pandur is Belgian SMAS radio, NBC protection, armed with 12.7-mm & 7.62-mm machine guns.
+The Amphibious Pandur is Electric bilge pumps, closed air intakes-capable of 11 km/h in water.
+The Pandur II is Pandur II.
+The Pandur Anti-Aircraft is Twin 20-mm cannon or SANTAL SAM in turret.
+The Pandur ATGM Carrier is HOT AT missile in a Euromissile UTM 800 launcher or a TOW AT missile in a Kvaerner-Eurkea turret; additional missiles stored in the hull.
+The Pandur Armored Recon/Fire Support Vehicle (FSV) is 2-man LCTS turret with a Cockerill 90-mm Mk 8 gun or a Giat TS-90 turret with a 90-mm CN90F4 gun or Cockerill CSE90 turret with an Mk III 90-mm gun.
+The Pandur Mechanized Infantry Combat Vehicle (MICV) is MGTS with a choice of armaments: 12.7-mm M2 & 7.62-mm MGs; 30-mm M230 chain gun & 7.62-mm MG; or 40-mm AGL & 12.7-mm MG.
+The Pandur Mortar Carrier is In the passenger compartment, there is an 81-mm or 120-mm mortar mounted on a turnatable.
+The Command & Control Vehicle is For C2 operations.
+The Armored Recovery/Repair Vehicle is For vehicle recovery operations.
+
+Here is System information for the Pandur I-AM Austrian 6x6 Amphibious Armored Personnel Carrier (APC):
+The Alternative Designations is Pandur I-AM.
+The Description is 8 X 8 wheeled APC with 2 exit doors in the rear & 2 roof hatches; 2 firing ports on both sides with a capacity for 8 dismounted soldiers.
+The Manufacturer is Steyr-Daimler-Puch.
+The Crew is 2 (driver, commander).
+The Passengers is 10.
+The GPS Navigation is Yes.
+The Electric Bilge Pump is Yes.
+
+Here is Dimensions information for the Pandur I-AM Austrian 6x6 Amphibious Armored Personnel Carrier (APC):
+The Length is 6.30.
+The Width is 2.60.
+The Height is 1.82.
+The Ground clearance is 0.43.
+The Wheels, First Axle is 2.25.
+The Wheels, Second Axle is 2.15.
+The Wheels, Third Axle is 2.30.
+The Weight, Unloaded is 10,800.
+The Weight, Combat is 14,000.
+The Weight, Maximum Payload is 3,200.
+
+Here is Automotive information for the Pandur I-AM Austrian 6x6 Amphibious Armored Personnel Carrier (APC):
+The Engine Name is 1 x Steyr WD 612.95.
+The Engine Type is 6-cylinder turbocharged water-cooled diesel with air-intake cooling.
+The Engine Power is 260 hp at 2,400 rpm.
+The Power-to-Weight Ratio is 20.3 hp/metric ton.
+The Transmission is Allison MT-653 DR, five speeds, torque converter, lock-up clutch.
+The Cruising Range is 700.
+The Speed (Max Road) is 100.
+The Speed (Max Off-Road) is INA.
+The Speed (Average cross-country) is INA.
+The Speed (Max Swim) is 11.
+The Grading is 70.
+The Side Slope is 40.
+The Vertical Step is 0.5.
+The Trench is 1.1.
+The Fording is Amphibious.
+The Fuel Capacity is 300 liters.
+The Suspension is 6 x 6 independent.
+The Turning Radius is 8.50.
+The Automatic Drivetrain Management (ADM) System is Yes.
+The Water-to-Water Cooling and Closed Air Intakes is Yes.
+The Waterjet is Yes, Intergrated Waterjet.
+The Trim Vane is Hydraulic Front Trim Vane.
+
+Here is Communications information for the Pandur I-AM Austrian 6x6 Amphibious Armored Personnel Carrier (APC):
+The Radio is Belgian SMAS radios.
+
+Here is System information for the Pandur I-AM Austrian 6x6 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is NSV 12.7mm Heavy Machine Gun.
+The Type is 12.7mm Heavy Machine Gun.
+The Manufacturer is "Metallist", Uralsk, Kazakh SSR, Crvena ZastavaSerbia.
+The In Service is 1971-Present.
+The Proliferation is Widely Proliferated.
+The Length is 1,560.
+The Weight, Gun Only is 25.
+The Weight, Gun and Tripod is 41.
+The Weight, 50 Round Belt is 11.
+The Action is Gas-operated.
+The Rate of Fire is 700–800 rounds/min.
+The Effective Firing Range vs Air Targets is 1,500.
+The Effective Firing Range vs Ground Targets is 2,000.
+The Feed System is 50-round belt.
+The Sights is Iron sights.
+
+Here is Ammunition information for the Pandur I-AM Austrian 6x6 Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is 12.7×108mm.
+The Muzzle Velocity is 845.
+The Basic Load is 1,200.
+
+Here is Fire Control information for the Pandur I-AM Austrian 6x6 Amphibious Armored Personnel Carrier (APC):
+The Fire Control System is No.
+The FCS Name is INA.
+The Night Vision is Optional.
+The Navigation is Optional.
+
+Here is Protection information for the Pandur I-AM Austrian 6x6 Amphibious Armored Personnel Carrier (APC):
+The Armor (turret front) (mm) is Protects against 7.62-mm AP rounds at 30 m.
+The Applique Armor (mm) is INA.
+The Explosive Reactive Armor (mm) is INA.
+The Active Protection System is INA.
+The Self-entrenching Blade is No.
+The NBC Protection System is Available.
+The Smoke Equipment is 6 Smoke grenade launchers.
+The Survivability Equipment is No.
+

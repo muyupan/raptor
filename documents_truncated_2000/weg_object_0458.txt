@@ -1,0 +1,56 @@
+This document describes the BM-21U Grad Ukrainian 122mm Multiple Rocket Launcher.
+
+The BM-21U Grad Ukrainian 122mm Multiple Rocket Launcher is a further development of the previous BM-21K.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is Dimensions information for the BM-21U Grad Ukrainian 122mm Multiple Rocket Launcher of the System:
+The Length is 9.10 m.
+The Width is 2.72 m.
+The Height is 3.09 m.
+The Wheelbase is 4.6 m + 1.4 m.
+The Empty Weight is 14 tons.
+The Combat Weight is 18 tons.
+
+Here is Automotive information for the BM-21U Grad Ukrainian 122mm Multiple Rocket Launcher:
+The Engine Name is YaMZ 238D.
+The Engine Type is 4.86 litre, V-8, turbocharged, direct injection, water cooled, 4 stroke, diesel.
+The Engine Power is 330 hp at 2,100 rpm.
+The Power-to-Weight Ratio is INA.
+The Fuel Capacity is 500 liters.
+The Electrical System is 24V.
+The Steering is mechanical with hydraulic booster; right-hand drive optional.
+The Suspension is (front) semi-elliptic leaf springs and hydraulic shock-absorbers; (rear bogie) inverted semi-elliptic leaf springs.
+The Brakes is dual circuit, air, drums on all axles; supplementary engine exhaust brake.
+The Tires is options including 525/70R 21, 530/70-21, 445/65R 22.5, 1600R 20.
+The Angle of Approach is 38 deg.
+The Angle of Departure is 30 deg.
+The Gradient is 58%.
+The Fording is 1.2 m.
+The Amphibious is No.
+The Turning Radius is 14 m.
+
+Here is System information for the BM-21U Grad Ukrainian 122mm Multiple Rocket Launcher of the Main Weapon System:
+The Name is INA.
+The Type is Multiple Rocket Launcher.
+The Caliber is 122 mm.
+The Tuber of Tubes is 40.
+The Maximum Firing Range is 40 km.
+The Full Salvo Duration is 20 seconds.
+The Reloading Time is 7 minutes.
+The CEP is 90 m.
+
+Here is Ammunition information for the BM-21U Grad Ukrainian 122mm Multiple Rocket Launcher of the Main Weapon System:
+The Type is HE-FRAG.
+The Caliber is 122 mm.
+The Length is INA.
+The Diameter is INA.
+The Rocket Weight is 66.4 kg.
+The Warhead Weight is 18.4 kg.
+
+Here is Protection information for the BM-21U Grad Ukrainian 122mm Multiple Rocket Launcher:
+The Hull Armor is INA.
+The Applique Armor is INA.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

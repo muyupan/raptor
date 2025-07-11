@@ -1,0 +1,123 @@
+This document describes the Raptor-Class (Project 03160 Class) Russian High-Speed Patrol Boat.
+
+Raptor-Class (Project 03160 Class) Russian High-Speed Patrol Boat is designed to patrol coastal areas, carry out search and rescue operations, intercept small targets and defend ports and bases from the small surface and aerial threats. It is armed with a 14.5mm remotely-operated and stabilized optical-electronic module with a detection range of 3,000 meters and precision fire to a distance of 2,000 meters, as well as two Pecheneg 6P41 7.62mm machineguns. 
+
+The boat has armor plates with Class Br4 bullet resistance and portholes with 39mm bullet-proof glass. She has a displacement of 23 tons, a length of 16.9 meters, a width of 4.1 meters, a draft of 0.9 meters, and a speed of 50 knots. The boat’s range is 300 miles and its crew totals two or three. Special personnel is 20 men.
+
+The boat can operate in coastal sea areas, straits, and river outlets during the ice-free navigation period both in the daytime and at night 100 miles away from the home station.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Raptor-Class (Project 03160 Class) Russian High-Speed Patrol Boat:
+The P-274 is Commissioned: 2015
+Status: Active
+Fleet: INA.
+The P-275 is Commissioned: 2015
+Status: Active
+Fleet: INA.
+The P-276 is Commissioned: 2015
+Status: Active
+Fleet: INA.
+The P-281 is Commissioned: 2015
+Status: Active
+Fleet: INA.
+The P-342 is Commissioned: 2015
+Status: Active
+Fleet: INA.
+The P-344 is Commissioned: 2015
+Status: Active
+Fleet: INA.
+The P-345 is Commissioned: 2015
+Status: Active
+Fleet: INA.
+The P-352 is Commissioned: 2015
+Status: Active
+Fleet: INA.
+The P-413 is Commissioned: 2017
+Status: Active
+Fleet: INA.
+The P-415 is Commissioned: 2017
+Status: Active
+Fleet: INA.
+The P-425 is Commissioned: 2017
+Status: Active
+Fleet: INA.
+The P-437 is Commissioned: 2018
+Status: Active
+Fleet: INA.
+The P-434 is Commissioned: 2018
+Status: Active
+Fleet: INA.
+The P-461 is Commissioned: 2020
+Status: Active
+Fleet: INA.
+The P-462 is Commissioned: 2020
+Status: Active
+Fleet: INA.
+The Yunarmeets Moskvy is Commissioned: 2020
+Status: Active
+Fleet: INA.
+
+Here is System information for the Raptor-Class (Project 03160 Class) Russian High-Speed Patrol Boat:
+The Alternative Designation is Raptor-Class; Project 03160 Class.
+The Type is High-Speed Patrol Boat.
+The Builder is Pella Shipyard, Otradny.
+The Crew is 3.
+The Passengers is 20.
+The Cabin is It has special cabins to house anti-terrorist groups, divers, lifeguards, and inspection and rescue, teams..
+
+Here is Dimensions information for the Raptor-Class (Project 03160 Class) Russian High-Speed Patrol Boat:
+The Length is 16.9 m.
+The Beam is 4.1 m.
+The Draft is 0.9 m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 23 tons.
+
+Here is Propulsion System information for the Raptor-Class (Project 03160 Class) Russian High-Speed Patrol Boat:
+The Engine Name is 2 x Caterpillar C18.
+The Engine Type is Diesel.
+The Engine Power is 1,150 hp each.
+The Maximum Range is 300 nm (555.6 km).
+The Maximum Speed is 48 knots (88.9 km/h).
+
+Here is Gun Weapon System #1 information for the Raptor-Class (Project 03160 Class) Russian High-Speed Patrol Boat of the Gun Weapon Systems:
+The Name is INA.
+The Type is Heavy Machine Gun.
+The Caliber is 14.5 mm.
+The Maximum Firing Range is 2,000 m.
+The Note is The boat is fitted with a remotely operated weapon station to hold a 14.5mm machine gun, as well as a gyro-stabilised, electro-optical module. The gun has a firing range of 2,000 m and is used for defence against weapon systems and armoured targets. The electro-optical module provides target detection up to a range of 3,000 m..
+
+Here is Gun Weapon Systems #1 Ammunition information for the Raptor-Class (Project 03160 Class) Russian High-Speed Patrol Boat of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 14.5 mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Raptor-Class (Project 03160 Class) Russian High-Speed Patrol Boat of the Gun Weapon Systems:
+The Name is 2 x PKP Pecheneg 7.62mm Medium Machine Gun.
+The Type is Medium Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,200 mm.
+The Barrel Length is 658 mm.
+The Weight is 8.2 kg.
+The Action is Gas-Operated.
+The Muzzle Velocity is 900 m/s.
+The Rate of Fire is 600–800 rounds/min.
+The Effective Firing Range is 1,500 m.
+The Feed System is Belt feed: 100-, 200-, 250-round, non-disintegrating links.
+The Sights is Iron sights.
+
+Here is Gun Weapon Systems #2 Ammunition information for the Raptor-Class (Project 03160 Class) Russian High-Speed Patrol Boat of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62×54mmR.
+The Basic Load is INA.
+
+Here is Radar Systems information for the Raptor-Class (Project 03160 Class) Russian High-Speed Patrol Boat:
+The Note is The boat is integrated with modern navigation systems, communications, radar, and radios to provide high-navigability..
+
+Here is Protection information for the Raptor-Class (Project 03160 Class) Russian High-Speed Patrol Boat:
+The Hull Armor is Armour panels fitted on the hull provide level 5 and 5A protection against bullets. The 39mm-thick bulletproof glass windows offer ballistic protection for the occupants..
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

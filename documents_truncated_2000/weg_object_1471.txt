@@ -1,0 +1,80 @@
+This document describes the Hayabusa-Class Japanese Guided Missile Patrol Boat.
+
+The Hayabusa is a guided missile patrol boat class of the Japan Maritime Self-Defense Force (JMSDF). Six boats were built between 2002 and 2004. This patrol boat provides the JMSDF a fast response ship-to-ship missile capability and has a full suite of enhanced offensive and defensive systems.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is Variants information for the Hayabusa-Class Japanese Guided Missile Patrol Boat:
+The Wakataka (PG-825) is Commissioned: 2002
+Status: Active.
+The Otaka (PG-826) is Commissioned: 2003
+Status: Active.
+The Kumataka (PG-827) is Commissioned: 2003
+Status: Active.
+The Umitaka (PG-828) is Commissioned: 2004
+Status: Active.
+The Shiritaka (PG-829) is Commissioned: 2004
+Status: Active.
+
+Here is System information for the Hayabusa-Class Japanese Guided Missile Patrol Boat:
+The Alternative Designation is Hayabusa (PG-824).
+The Type is Guided Missile Patrol Boat.
+The Builder is Mitsubishi Heavy Industries, Shimonoseki.
+The Crew is 21.
+
+Here is Dimensions information for the Hayabusa-Class Japanese Guided Missile Patrol Boat:
+The Length is 50.1.
+The Beam is 8.4.
+The Draft is 4.2.
+The Displacement, Standard is INA.
+The Displacement, Full Load is INA.
+
+Here is Propulsion System information for the Hayabusa-Class Japanese Guided Missile Patrol Boat:
+The Engine Name is 3 x General Electric LM500-G07.
+The Engine Type is Gas Turbine.
+The Propulsion is Pump-jet.
+The Engine Power is INA.
+The Maximum Speed is 46.
+The Maximum Range is INA.
+
+Here is Weapons System #1 information for the Hayabusa-Class Japanese Guided Missile Patrol Boat of the Weapons Systems:
+The Name is 2 x Type 90 SSM-1B (Twin Launcher).
+The Type is Ship-to-Ship / Anti-ship Cruise Missile.
+The Mass is 661.
+The Length is 5.08.
+The Diameter is 350.
+The Warhead is High Explosive.
+The Warhead Weight is 260.
+The Engine is TJM2 Turbojet + 1 x Solid Rocket Booster.
+The Operational Range is 150.
+The Guidance System is Inertial Guidance and Terminal Active Radar Homing.
+
+Here is Weapons System #2 information for the Hayabusa-Class Japanese Guided Missile Patrol Boat of the Weapons Systems:
+The Name is Otobreda Cannon (Italian Manufacturer).
+The Type is Naval Gun /  Deck Gun.
+The Caliber is 76.
+The Maximum Firing Range (High Explosive Cartridge) is 16,000.
+
+Here is Weapons System #3 information for the Hayabusa-Class Japanese Guided Missile Patrol Boat of the Weapons Systems:
+The Name is 2 x M2 Browning .50 Caliber Machine Guns.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Feed System is Belt-fed (M2 or M9 links).
+The Maximum Firing Range is .
+
+Here is Fire Control System (FCS) information for the Hayabusa-Class Japanese Guided Missile Patrol Boat:
+The Name is OYQ-8B Tactical Data Processing System.
+The Digital FCS is Yes, includes OAX-2 Optronic Sight.
+The Combat System is FCS-2-31C Gun FCS.
+
+Here is Radar Systems information for the Hayabusa-Class Japanese Guided Missile Patrol Boat:
+The Surface Search Radar is OPS-18-3.
+The Surveillance Radar is INA.
+The Navigation Radar is OPS-20.
+
+Here is Protection information for the Hayabusa-Class Japanese Guided Missile Patrol Boat:
+The Countermeasures is Mark 36 Super Rapid Bloom Offboard Countermeasures Chaff and Decoy Launching System. Can also be fitted with the TORCH infrared "flare" decoy system..
+The NBC Water Washdown System is INA.
+The EW is "Flyrt" Radar-Decoy Drone.
+

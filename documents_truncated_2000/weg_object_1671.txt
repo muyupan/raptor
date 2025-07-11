@@ -1,0 +1,206 @@
+This document describes the Type 052C Class (Luyang II Class) Chinese Destroyer.
+
+Luyang II / Type 052C / Lanzhou Multirole Destroyer
+There are significant difference between the “Lanzhou” guided missile destroyer, also known as the “Chinese Aegis”, and the “Yulin” and “Hengshui” guided missile frigates. These two types of warships are differently graded in tonnage. About 2,000 tons bigger than “Yulin” and “Hengshui” guided missile frigates in tonnage, the “Lanzhou” guided missile destroyer is mounted with more powerful air-defense guided missiles and radar-detection equipment than those in the frigates. Nevertheless, coordination must be formed between these two types of warships. Although frigates are relatively small, they are very agile and can accomplish different tasks respectively under the unified command of the taskforce.
+
+During an air defense operation in an open air, the frigates can perform pre-phase security detection and early warning, and serve as an effective sentinel against the detection of the enemy's air defense areas. Its anti-aircraft guided missiles can also form an effective protection shield. In terms of costs, frigates cost less than destroyers. Therefore, the taskforce composed by guided missile frigates and guided missile destroyers is an effective coordination and bears key importance.
+
+The Type 052C Luyang II is generally similar to 052B, with the notable addition of four fixed phased array antennas in the foreward superstructure. Two antennae cover the forward hemisphere while the other pair covers the rear hemisphere, the arragement adopted on the US Navy's Arleigh Burkes and the Japanese Kongos. Reports indicate this radar may be a co-development program with the Kvant-Radiolokatsiya company of the Ukraine. The band and performance of this radar have not yet been publicly reported. The radar may be a developed version of that first seen on the No. 970 weapons development ship, and could either be S-Band or Russian-style X-Band.
+
+Based on the hull design of the Type 052B (Luyang class) multirole destroyer, the Type 052C features an indigenously developed e four-array multifunction phased array radar (PAR) similar to the Aegis AN/SPY-1 equipped by the U.S. Arleigh Burke class and Japanese Kongo class DDG. The ship is also armed with the indigenous HQ-9 air defence missile system, which is believed to be comparable to the Russian S-300F/Rif in performance, and a newly developed anti-ship cruise missile (ASCM) designated YJ-62 (C-602).
+
+The Type 052C is fitted with four multifunction phased array radar antenna. The radar is reportedly developed by Nanjing Research Institute of Electronic Technology (also known as 14 Institute). There is also a Type 517H-1 (NATO codename: Knife Rest) long-range 2D air search radar; a Russian Band Stand fire-control radar (for anti-ship missile and main gun); and two Type 327G (EFR-1, NATO codename: Rice Lamp) fire control radar for the CIWS.
+
+By adopting a modular approach where two classes of destroyers shared the same hull design and propulsions, Jiangnan was able to save construction time and costs in the programs. However, unlike the Type 052B Luyang class, which was fitted with a mixture of both Russian and Chinese indigenous systems, the Type 052C Luyang-II class was largely based on the indigenous technologies. The bridge is also much taller on the Type 052C, so that four fixed phased array radar antennas can be embedded on its four sides.
+
+Using the same stealthy hull and engine configuration of the No. 168 class, this destroyer is armed with forty-eight new type vertical-launched anti-aircraft missiles of either Russian or Chinese origin. As such they will be the first dedicated long range air defense ships for the PLAN. The forward VLS station (possibly 6 revolver launchers, each with 6 missiles) are between the forward CIWS platform and the main gun, while the aft VLS station (possibly a pair of six-pack revolver launchers) are forward of the helicopter hanger.
+
+A total of 48 indigenous HQ-9 air defence missiles are housed in eight 6-cell vertical launch systems (VLS). Unlike the Russian-style revolver VLS, the Type 052C’s VLS is fixed with each launch cell having its own lid. The missile system utilises the ‘cold launch’ method, in which the missile was first ejected from the launch tube, and then ignites its rocket engine at low altitude. This launch method avoids the complex flame and gas exhausting pipes on the Western-style ‘hot launch’ VLS, and also decreases damage to the ship structure caused by the rocket motor blast.
+
+The naval variant HQ-9 was developed from the land-based HQ-9 surface-to-air missile system developed in the 1990s. The missile may have adopted some Russian S-300 rocket motor and control technologies, with a “Track via Missile” (TVM) guidance system developed from the U.S. Patriot missile technology. The missile is housed inside a cylinder shape container, which is placed inside the VLS. The missile is guided by an unknown type of guidance radar with multi-target engagement capability.
+
+The surface-to-surface weapon of the Type 052C destroyer is the indigenously developed YJ-62 (C-602) ASCM. A pair of quadruple semi-cylindical racks for the new YJ-62 long-range SSM are between the rear mast and the helicopter hanger. The missiles are guided by the Band Stand radar on top of the bridge and a Light Bulb datalink forward of the hanger. The same guidance package was also found onboard 052B. A metric-wave radar with Yagi antenna is midship, for long range detection or ECM. A new EW suite featuring phased array antennas similar to AN/SLQ-32 EW system is on the side of the forward mast. The ship was also expected to have a new generation of Aegis-like C3I system. The ships feature an aft flight deck for the Z-9C ASW helicopter, and a hangar that can support a pair of these helicopters.
+
+Unlike the previous YJ-8 series anti-ship missiles, which were all carried inside a box-shape launcher, the YJ-62 is carried inside a cylinder-shape launcher. A total of eight missiles (two 4-cell launchers) are located at the mid-ship position. The missiles are guided by the Band Stand radar installed on top of the bridge and a Light Bulb datalink forward of the hanger. The YJ-62 missile uses strap-down inertial guidance coupled with GPS, and active radar for the terminal phase. The missile has a stated range of 280km, with the missile flying at an altitude of 30m during the cruise phase of an engagement. In the terminal phase, the missile descends 7~10m. The active radar seeker has an acquisition range of up to 40km.
+
+The ship has a single-barrel 100mm gun developed by 713 Institute on the basis of the French Creusot-Loire T100C design. The gun can be used against surface targets and air targets such as aircraft and low speed missile, with a maximum rate of fire of 90 rounds/min. The gun can be operated in fully automatic mode from the radar control system, from the shipborne optical sighting system, or laid manually. The turret design incorporates strong radar cross-section reduction features.
+
+For short-range air defence, the Type 052C is equipped with two (one front, one rear) Type 730 close-in weapon system (CIWS) for short-range air defence. The two Type 730 CIWS have been relocated to the raised platform in front of bridge and atop the rear helicopter hanger. The two seven-barrel 30mm Type 730 CIWS are located both sides behind the bridge. The weapon system has a maximum rate of fire of 4,600~5,800 rounds/min and a maximum range of 3km.
+
+A destroyer’s overall air defence, surface strike, and antisubmarine warfare (ASW) capabilities largely depend on how well different weapon systems and sensors are integrated together by the combat system. Most Chinese warships use the command and control system derived from the French Thomson-CSF TAVITAC, but the Type 052C might have a newly developed system with improved processing power to engage anti-ship missile threats.
+
+Although the detailed information on the combat system of the Type 052C is unknown, it is likely that the system comprises the multifunction phased array radar system, command and decision system, battlefield display system, and weapon control system. The command and decision system receives data from ship sensors and provides command, control and threat assessment. The weapon control system receives engagement instruction from the command and decision system, selects weapons and interfaces with the weapon fire control systems.
+
+In together with its long-range air defence missile and close-in weapon system (CIWS), the Type 052C is the first Chinese-made surface combatant with a true fleet air defence capability. The combat system will ensure that the ship can engage multiple air targets such as sea-skimming missile and aircraft simultaneously. The ship might also be able to transmit combat information to other ships and aircraft via datalink and satellite communications to form a maritime combat network.
+
+The destroyer’s stern hanger accommodates one Kamov Ka-28 (NATO codename: Helix) antisubmarine warfare (ASW) helicopter. Carrying various weapons including torpedoes and deep charges, the helicopter can operate in all weather conditions up to 200km from the host ship. Alternatively, the destroyer can carry an indigenous Z-9C helicopter.
+
+The Type 052C’s propulsion is in the form of CODOG, consisting of two Ukraine-made DA80/DN80 gas turbines rated at 48,600hp and two Shaanxi diesels (Chinese copy of the MTU 20V956TB92) rated at 8,840hp (6.5 MW).
+
+Two Type 052C (NATO codename: Luyang-II class) air defence guided missile destroyers have been built by Jiangnan Shipyard of Shanghai for the PLA Navy. Following the launch of two Type 052B multirole missile destroyers in 2002, Shanghai-based Jiangnan Shipyard began to build two subsequent hulls based on the same hull design but with different weapon and sensor configuration. The first-of-class 170 Lanzhou was laid down in late 2002 and launched on 29 April 2003. Sea trial began in late 2003 and the destroyer was commissioned in July 2004. The second hull, 171 Haikou was launched on 30 October 2003 and was commissioned in 2005. Both hulls are deployed by the South Sea Fleet based at Zhanjiang in Guangdong Province.
+
+The fourth unit of the Luhai class (probably Type 052C or possibly Type 052BK?) was also constructed at Jiangnan Shipyard, as the two Type 052B DDGs were being fitted out. The Type 052 series has evidently embraced a modular design featuring spiral development, with new variants being introduced after only one or two units of the previous version.
+
+As of early 2004 a pair of 052Cs were under construction (170 & 171) with the first ship launched on 29 April 2003 and the second on 30 October 2003. The building of two 052Bs and two 052Cs in such a short time frame reflects the PLAN's need to replace the obsolete air-defense systems of its surface ships. In June 2005 it was reported that two Luyang II missile destroyers were undergoing sea trials. The fourth Type 052C class destroyer, pennant number 173 went into service with the People's Liberation Army Navy (PLA Navy) in June 2012.
+
+After commissioning no new destroyers in 2008-2010, construction of new destroyers appeared to have resumed with serial production of Luyang II-class ships. Construction of the LUYANG II-class DDG (Type 052C) continued, with one ship entering service in 2012, and an additional three ships under various stages of construction and sea trials, bringing the total number of ships of this class to six by the end of 2013.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Type 052C Class (Luyang II Class) Chinese Destroyer:
+The Lanzhou is Commissioned: 2004
+Fleet: South Sea Fleet.
+The Haikou is Commissioned: 2005
+Fleet: South Sea Fleet.
+The Changchun is Commissioned: 2013
+Fleet: East Sea Fleet.
+The Zhengzhou is Commissioned: 2013
+Fleet: INA.
+The Jinan is Commissioned: Sea Trials 
+Fleet: INA.
+The Xi'an is Commissioned: Sea Trials
+Fleet: INA.
+
+Here is System information for the Type 052C Class (Luyang II Class) Chinese Destroyer:
+The Alternative Designation is Type 052C Class; Luyang II Class.
+The Total Built is 6 Built.
+The Type is Destroyer.
+The Builder is Jiangnan Shipyard.
+The In Service is 2004-Present.
+The Crew is 280.
+
+Here is Dimensions information for the Type 052C Class (Luyang II Class) Chinese Destroyer:
+The Length is 154.0 m.
+The Beam is 17.0 m.
+The Draft is 6.0 m.
+The Draught is 6.0 M.
+The Displacement, Full Load is 6,500 tons.
+
+Here is Propulsion System information for the Type 052C Class (Luyang II Class) Chinese Destroyer:
+The Engine Name is 2 x Ukraine DA80/DN80 gas turbines and 2 x Shaanxi diesels.
+The Engine Power is Ukraine DA80/DN80 gas turbines: 48,600 shp total.
+Shaanxi diesels: 8,840 total bhp.
+The Shafts is 2.
+The Speed is 29 knots.
+The Range is 6,000 nm at 14 kts; 1,600 nm at 30 kts.
+The Endurance is INA.
+
+Here is Missile System #1 information for the Type 052C Class (Luyang II Class) Chinese Destroyer of the Missile Systems:
+The Name is HQ-9 VLS.
+The Type is 48 cell HQ-9 VLS SAM system.
+The Quantity is 1 x 48 cell HQ-9 VLS SAM system.
+The Launcher Type is Vertical Launch System (VLS).
+The Missile Name is HQ-9.
+The Missile Type is medium- to long-range, active radar homing surface-to-air missile..
+The Missile Basic Load is 48.
+The Length is 6.8 m.
+The Weight is 1300 kg.
+The Warhead Type is INA.
+The Warhead Weight is 180 kg.
+The Engine is Two-stage solid propellant rocket.
+The Operational Range is 200 km (FD-2000 version) 250 km (HQ-9A version) 300+ km for HQ-9B version.
+The Flight Ceiling is 27 km.
+The Speed is Mach 4.2.
+The Guidance System is Inertial guidance with mid-course update and terminal active radar homing.
+The Launch Platform is *Taian TA580/TAS5380 8×8 transporter erector launcher (TEL) 
+*Type 052C destroyer
+*Type 052D destroyer
+*Type 055 destroyer.
+
+Here is Missile System #2 information for the Type 052C Class (Luyang II Class) Chinese Destroyer of the Missile Systems:
+The Name is Quad YJ-62 (C-602) SSM launchers.
+The Type is INA.
+The Quantity is 2 x Quad YJ-62 (C-602) SSM launchers.
+The Launcher Type is SSM Launcher.
+The Manufacturer is China Aerospace Science and Industry Corporation.
+The Proliferation is Widely Proliferated.
+The Missile Name is YJ-62.
+The Missile Type is Subsonic Anti-Ship Cruise Missile.
+The Missile Basic Load is INA.
+The Length is INA.
+The Diameter is INA.
+The Weight is INA.
+The Warhead Weight is 210 kg.
+The Detonation Mechanism is Semi-armor-piercing.
+The Operational Range is 400 km.
+The Flight Altitude is 7 – 10 meter terminal.
+The Speed is Mach 0.6-0.8.
+The Guidance System is Inertial/active terminal guidance.
+The Launch Platform is TEL
+Type 052C destroyer.
+
+Here is Gun System #1 information for the Type 052C Class (Luyang II Class) Chinese Destroyer of the Gun Systems:
+The Name is Type 210.
+The Type is Naval Gun.
+The Caliber is 100mm.
+The Quantity is 2 x Type 210 100mm Naval Gun Systems.
+The Rate of Fire is The weapon's maximum rate of fire for a single type of unguided round was 90 rounds per minute..
+The Range is INA.
+The Note is The Type 210 automatic single 100 mm naval gun is the Chinese modification of the Compact model of the French 100 mm naval gun. There are at least two variants, with both sharing similar characteristics with the French weapon.The Type 210 was developed to make the French gun suitable for Chinese deployment. The French gun was incompatible with Soviet and Chinese electronics; it was easier to make the gun compatible with these electronics, and Western electronics, than to alter the electronic suites already aboard warships. Furthermore, the Chinese added the capability to fire laser- and infrared-guided shells; this required significant changes to the magazine..
+
+Here is Ammunition Gun System #1 information for the Type 052C Class (Luyang II Class) Chinese Destroyer of the Gun Systems:
+The Type is Rifle.
+The Caliber is 100mm.
+The Shell is INA.
+The Basic Load is INA.
+
+Here is Gun System #2 information for the Type 052C Class (Luyang II Class) Chinese Destroyer of the Gun Systems:
+The Name is Type 730 CIWS.
+The Type is Close-In Weapon System.
+The Quantity is 2 x 30-mm Type 730 Gatling CIWS.
+The Caliber is 30mm.
+The Main Armament is 1×30 mm H/PJ-12 or H/PJ-11 Gatling gun.
+The Barrels is 7-barrel.
+The Rate of Fire is 1,200-4,200 rounds/minute.
+The Maximum Effective Range is 3 km.
+The Effective Firing Range is 1–1.5 km.
+The Guidance System is TR47C J-band radar
+OFC-3 electro-optical fire control system.
+The Feed System is Type 730: One ammunition boxes, holding 640 rounds.
+
+Here is Ammunition Gun System #2 information for the Type 052C Class (Luyang II Class) Chinese Destroyer of the Gun Systems:
+The Type is Rifle.
+The Caliber is 30mm.
+The Basic Load is 2,000.
+
+Here is Torpedo System information for the Type 052C Class (Luyang II Class) Chinese Destroyer:
+The Torpedo Lunacher is 324mm Torpedo Tubes.
+The Quantity is 2 x 324mm Torpedo Tubes.
+The Torpedo Name is Yu-7 torpedo.
+The Length is 2.7 m.
+The Weight is 235 kg.
+The Warhead Weight is 45 kg (99 lb) shaped charge.
+The Effective Firing Range is 7.6 nmi (14.1 km).
+The Propellant is Otto fuel II.
+The Maximum Depth is 400 m.
+The Speed is 83 km/h.
+The Steering System is CIACIO-S seeker.
+
+Here is ASW System information for the Type 052C Class (Luyang II Class) Chinese Destroyer:
+The Name is INA.
+The Type is 18-barrel multiple rocket launchers.
+The Quantity is 4 x 18-barrel multiple rocket launchers.
+The Rocket Basic Load is INA.
+
+Here is Onboard Aviation Facilities information for the Type 052C Class (Luyang II Class) Chinese Destroyer:
+The Facilities is Stern hangar
+Helicopter landing platform..
+The Helicopters is 1 x Z-9 or Ka-28 ASW helicopters.
+
+Here is Fire Control System information for the Type 052C Class (Luyang II Class) Chinese Destroyer:
+The Type 730 CIWS FCS is 2 x Type 327G (EFR-1) (Rice Lamp**) fire control (for the Type 730 CIWS).
+The SSM Missile and 100mm Gun FCS is 1 x Russian Band Stand** fire control (for SSM missile/100-mm gun).
+
+Here is Radar Systems information for the Type 052C Class (Luyang II Class) Chinese Destroyer:
+The Phased Array Radar is 1 x Type 346 multi-function phased array radar.
+The Air Search Radar is 1 x Type 517H-1 (Knife Rest**) long range 2-D air.
+The Surface Radar is 1 x surface search.
+The Navigation Radar is 1 x navigation.
+The Fire Control Radar is 1 x Type 366 radar (YJ-62 fire control)
+Bow mounted sonar.
+
+Here is Protection information for the Type 052C Class (Luyang II Class) Chinese Destroyer:
+The Active Protection System is INA.
+The Electronic Warfare is NRJ-6A.
+The Decoys is INA.
+

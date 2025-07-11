@@ -1,0 +1,35 @@
+This document describes the Bayraktar DIHA Turkish Unmanned Aerial Vehicle (UAV).
+
+The Bayraktar DIHA Turkish Unmanned Aerial Vehicle (UAV) is a Mini Tactical UAV class aircraft capable of carrying out activities for reconnaissance and intelligence missions.
+
+The vehicle is capable of automatic cruise, autonomous take-off, autonomous landing and semi-autonomous cruise flight. Bayraktar DIHA, after taking off with electric motors, will switch to cruise flight mode and only fuel engine is going to be active in cruise flight mode. There are three options for landing: vertical landing, landing on fuselage and parachute landing. The aircraft has a flight control system that can perform automatic route tracking, target tracking, circling and return-to-home modes.
+
+This equipment has proliferated into the following countries: Turkey.
+
+Here is System information for the Bayraktar DIHA Turkish Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is Bayraktar DIHA.
+The Type is Vertical Take-Off and Landing (VTOL) Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Bayraktar.
+The Autonomy is Fully Autonomous with Sensor Fusion Assisted.
+The Crew is Unmanned.
+The Payload Capacity is 5 kg.
+The Camera is Electro-Optical (EO) Camera Module; Infrared (IR) Camera Module.
+The Launching System is Vertical Take-Off and Landing (VTOL).
+The Recovery System is Vertical Take-Off and Landing (VTOL).
+
+Here is Dimensions information for the Bayraktar DIHA Turkish Unmanned Aerial Vehicle (UAV):
+The Length is 1.5 m.
+The Wingspan is 5.0 m.
+The Height is INA.
+The Maximum Takeoff Weight is 50 kg.
+
+Here is Automotive information for the Bayraktar DIHA Turkish Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Maximum Speed is 80 km/h.
+The Cruising Speed is 92 km/h.
+The Service Ceiling is 4,572 m.
+The Maximum Range is 150 km.
+The Endurance is 12 hours.
+

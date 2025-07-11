@@ -1,0 +1,96 @@
+This document describes the 9K720 Iskander (SS-26 Stone) Russian Short-Range Ballistic Missile.
+
+The Iskander (Western reporting name SS-26 Stone) short-range ballistic missile is a successor to the Oka (SS-23 Spider), which was eliminated under the Intermediate-Range Nuclear Forces (INF) treaty. It was first launched in 1996 and was initially designated by the West as the SS-X-26. At the time of its introduction, it was considered the most advanced missile of its kind. The Iskander-M missile system was officially adopted by the Russian Army in 2006. This system can use different types of missiles.  In 2013 it was reported that 5 types of missiles were already developed for Iskander, and 3 more missiles were still being developed. As of 2017 Russian Army reportedly operates 112 of these missile systems. At least one launcher was deployed in Syria. In 2016 Iskander-E ballistic missiles were delivered to Armenia. Some countries, including China and South Korea, introduced their own clones of the Iskander. Ukraine is currently developing an equivalent system.
+
+This equipment has proliferated into the following countries: Algeria, Armenia, Russian Federation.
+
+Here is Variants information for the 9K720 Iskander (SS-26 Stone) Russian Short-Range Ballistic Missile:
+The Note is Early TEL variant (SPU 9P78) has one missile.  The TELs can launch launch R-500 cruise missiles..
+The Iskander-M is Domestic TEL and missile with 400+km range. Variant for the Russian Armed Forces with two 9M723 quasi ballistic missiles with a published range of 415 km, rumored 500 km. Speed Mach 6–7, flight altitude up to 6–50 km, nuclear-capable stealth missile, controlled at all stages, not ballistic flight path. Immediately after the launch and upon approach to the target, the missile performs intensive maneuvering to evade anti-ballistic missiles. The missile constantly maneuvers during flight as well..
+The Iskander-K is Cruise missile only TEL with launcher assembly adapted to mount 6 each R-500 cruise missiles. "K" for Krylataya ("Winged"). Variant intended to carry various types of cruise missiles. At present, it includes:
+
+9M728 (SSC-X-7) also known as R-500 – flight altitude up to 6 km, published range up to 500 km although it may be higher and automatic adjustment in the way, follow of terrain relief in flight. The missile is evolved from 3M10, 3M54/3M14, and Kh-101/102 missiles and can be launched also by the Iskander-M.
+9M729 (SSC-X-8) – a new long-range missile that is reportedly a land-based version of the 3M14 Caliber-NK missile complex with a range between 300–3,400 miles (480–5,470 km) and may be based even on the air-launched Kh-101 cruise missile with a range over 5,500 kilometers (3,400 mi). According to RF, its range is only 480 km and its specially-developed self-propelled launcher can carry 4 missiles. The 9M729 missile has a higher yield warhead and a new control system for greater accuracy. Most parts and components of the 9M728 and 9M729 missiles are identical.
+Currently, there are 7 different types of ballistic and cruise missiles for both variants of the Iskander missile system..
+The Iskander-E is Export variant TEL with a shorter range (280km).  This missile was developed to comply with the missile technology control regime which is no longer in effect. Iskander-E
+"E" for Eksport. The director of the state corporation Rostec Sergey Chemezov said – the missile complex Iskander is a serious offensive weapon capable of carrying a nuclear warhead. This ballistic missile system is on the military list of products prohibited for export. Iskander missile complexes cannot be exported.
+
+In 2016, Armenia, a Russian ally and a member of the Collective Security Treaty Organization (CSTO) became the first foreign country to operate the system. Iskander-E has a maximum range of up to 280 km, to comply with Missile Technology Control Regime restrictions for export, and is fitted with a simplified inertial guidance system. It flies on a flattened trajectory under 50 km altitude, allowing aerodynamic steering using tail fins, permitting a less predictable flight path and accurate delivery. The system can also use missiles carrying warheads with cluster munitions..
+
+Here is System information for the 9K720 Iskander (SS-26 Stone) Russian Short-Range Ballistic Missile:
+The Alternative Designation is SS-26 Stone, SS-X-26, Stone, Tender, 9M720, 9M723, 9M723-1.
+The Type is Surface to Surface Short Range Ballistic Missile.
+The Manufacturer is Votkinsk Plant State Production Association (Votkinsk) – missiles
+Production Association Barricades (Volgograd) – ground equipment
+KBM (Kolomna) – developer of the system.
+The In Service is 2006-Present.
+The Class is Short-Range Ballistic Missile (SRBM).
+The Chassis is MAZ-7930 (8x8).
+The Primary Components is Transporter-Erector-Launcher (TEL) and command vehicle: rear support includes a transport and loading vehicle (9T250E), maintenance vehicle, mobile test and repair station, data preparation post, and life support vehicle.  The system can also be linked into an integrated fires command (IFC)..
+The Crew is 3.
+The Payload is 480-700.
+The Note is At the time of its introduction it was considered the most advanced missile of its kind..
+
+Here is Dimensions (Launcher) information for the 9K720 Iskander (SS-26 Stone) Russian Short-Range Ballistic Missile:
+The Length is 13.7.
+The Width is 3.51.
+The Height is 3.45.
+The Combat Weight is 40.
+The Number Of Missiles is 2.
+
+Here is Automotive (Transporter Erector Launcher) information for the 9K720 Iskander (SS-26 Stone) Russian Short-Range Ballistic Missile:
+The Engine Name is YaMZ-846.
+The Engine Type is Diesel.
+The Engine Power is 500.
+The Chassis is MAZ-7930 (8x8).
+The Range, Cruising is 1,000.
+The Speed, Maximum Road is 70.
+The Gradient is 45.
+The Side Slope is 30.
+The Speed, Maximum Swim is Not Amphibious.
+The Vertical Step is 0.6.
+The Trench is 2.0.
+The Fording Depth is 1.4.
+
+Here is Communications information for the 9K720 Iskander (SS-26 Stone) Russian Short-Range Ballistic Missile:
+The Primary is Receiver R-174/GRR-5.
+
+Here is Missile Launching System information for the 9K720 Iskander (SS-26 Stone) Russian Short-Range Ballistic Missile of the Main Weapon System:
+The Name is Transporter-erector-launcher vehicle (chassis of 8×8 MZKT-79306 ASTROLOG truck).
+The Type is Ballistic Missile and Cruise Missile Launcher.
+The Maximum Launch Range is 500.
+The Minimum Launch Range is 20.
+The Direct Fire is Yes.
+The Indirect Fire is No.
+The Time to Launch is up to 4 min from highest readiness, up to 16 min from march.
+The Interval Between Launches is less than one minute.
+The Operating Temperature is −50 °C to +50 °C.
+The Service Life is 10.
+The Note is The mobility of the Iskander launch platform makes a launch difficult to prevent..
+
+Here is Missiles information for the 9K720 Iskander (SS-26 Stone) Russian Short-Range Ballistic Missile of the Main Weapon System:
+The Name is 9M723K1.
+The Type is solid-propellant single-stage guided missiles.
+The Engine is Single-stage solid propellant.
+The Target Type is Independently.
+The Warhead Weight is 480–700.
+The Warhead Types is thermonuclear weapon, High explosive fragmentation, submunition, penetration, fuel-air explosive, EMP.
+The Optically Guided Warhead is Yes.
+The Operational Range is 400-500.
+The Speed is 2,000.
+The Burn Out Velocity is Mach 5.9 *Hypersonic).
+The Guidance System is Inertial guidance, optical DSMAC.
+The Accuracy is 5-7.
+The Moving Target Capable is Yes.
+The Boost Phase is Yes, Thrust Vector Control (TVC).
+The Circular Error Probable (CEP) is 5-7.
+The Turning Capability is during flight it can maneuver at different altitudes and trajectories and can turn at up to 20 to 30 G to evade anti-ballistic missiles.
+The Basic Load is 2.
+The Note #1 is The missiles can be re-targeted during flight in the case of engaging mobile targets.
+The Note #2 is in flight, the missile follows a quasi-ballistic path, performing evasive maneuvers in the terminal phase of flight and releasing decoys in order to penetrate missile defense systems..
+
+Here is Protection information for the 9K720 Iskander (SS-26 Stone) Russian Short-Range Ballistic Missile:
+The Armor Protection is None.
+The NBC Protection is Yes.
+The Countermeasures is Off-road mobility to concealed launch point, autonomous and passive operation at launch point. Missile non-ballistic trajectory in ascent conceals vehicle/launch point location. Missile reentry vehicle has decoys, and possible final-phase maneuver. With IR homing, jamming is ineffective. Final phase is most likely non-ballistic pitch-over into a dive..
+

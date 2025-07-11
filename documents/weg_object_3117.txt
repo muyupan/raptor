@@ -1,0 +1,62 @@
+This document describes the AN/TPQ-36(V) American Towed Firefinder Radar.
+
+Hughes AN/TPQ-36 Firefinder weapon locating system is a mobile radar system developed in the mid-late 1970s by Hughes Aircraft Company and manufactured by Northrop Grumman and ThalesRaytheonSystems, achieving initial operational capability in May, 1982. The system is a "weapon-locating radar", designed to detect and track incoming mortar, artillery and rocket fire to determine the point of origin for counter battery fire. It is currently in service at battalion and higher levels in the United States Army, United States Marine Corps and Australian Army. Also Turkish Army , Portugal and Ukrainian Army are among the users.
+
+The radar is typically trailer-mounted and towed by a Humvee.
+
+The AN/TPQ-36 Firefinder Radar is a lightweight, small, highly mobile radar set capable of detecting weapon projectiles launched at any angle within selected 90-degree azimuth sectors over 360 degrees of coverage. The AN/TPQ-36 can locate simultaneous and volley-fire weapons. It can also be used to register and adjust friendly fire. Upon projectile detection, the weapon location is computed and is used to direct counter-battery fires.
+The system consists of an operational control group, OK-398/TPQ-36, and an antenna transceiver group, OY-71/TPQ-36. It is used by the artillery battalions to provide an effective capability to locate hostile weapons, both mortars and short- to medium-range weapons.
+
+The Marine Corps will be receiving a Version 8 configuration, currently involving Toby Hanna Army Depot & Grumman Electronics Programs. This new configuration consists of a new Operations Control Group (OCG) using the Army Lightweight Multipurpose Shelter (LMS) mounted on a M1097 HMMWV. This HMMWV tows the Antenna Transceiver Group (ATG) with the integrated Modular Azimuth Positioning System (MAPS) mounted on the M116A2E1 trailer. The OCG is controlled by an operator either located within the shelter or remotely located. The second M1097 HMMWV will carry the MEP112A generator mounted on an M116A2E1 trailer. An additional reconnaissance vehicle/crew carrier, a fourth HMMWV, will be added to the Marine Corps Table of Equipment.
+
+This equipment has proliferated into the following countries: Australia, Canada, Egypt, Greece, Iraq, Jordan, Kuwait, Netherlands, Norway, Pakistan, Saudi Arabia, Singapore, Spain, Sri Lanka, Thailand, Turkey, Ukraine, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the AN/TPQ-36(V) American Towed Firefinder Radar:
+The AN/TPQ-46 is Alongside the baseline AN/TPQ-36(V), the US Marine Corps (USMC) operates a service specific variant that is designated as the AN/TPQ-46. Here, the US Armyʼs two element configuration is replaced by a four HMMWV/trailer application. Subsequent to its initial fielding, the service has commissioned the AN/TPQ-46A and -46B upgrades. Here, AN/TPQ-46A is understood to have been based on the AN/TPQ-36(V)8 configuration and is believed to have updated the architectureʼs operating shelter and electronics, enhanced its target detection, survivability and interoperability capabilities and reduced its maintenance and logistics requirements. For its part, AN/TPQ-46B mirrors the AN/TPQ-36(V)10 radar and feature that sensorʼs upgraded processor. Here, the update reduced the circuit board count from nine to three and is claimed to have provided ‘unlimited future growth potentialʼ..
+
+Here is System information for the AN/TPQ-36(V) American Towed Firefinder Radar:
+The Alternative Designation is AN/TPQ-36; AN/TPQ-36(V).
+The Type is Towed Firefinder Radar.
+The Manufacturers is Northrop Grumman manufactures the AN/TPQ-36(V)8 Firefinder radar. Before acquisition by Raytheon, the Hughes Aircraft Co. developed the AN/TPQ-36 Firefinder radar at its Fullerton, California facility, and manufactured it at its Forest, Mississippi plant..
+The Crew is INA.
+The Upgarde is Firefinder (V)7 adds a modular azimuth position system (MAPS). MAPS has a north seeking laser gyrocompass and a microprocessor controlled Honeywell H-726 inertial navigation system. Prior Firefinders used a survey team to find site latitude, longitude, and direction to North. With MAPS, reaction time was limited only by site set-up, since system geo-position was pre-loaded before sortie deployment. Crew was reduced from 8 to 6.
+
+Firefinder (V)8 extends system performance, improves operator survivability and lowers life cycle cost. Greater processing power and the addition of a low noise amplifier to the radar antenna improves detection range (by up to 50%) and performance accuracy against certain threats..
+The Frequency is 8 GHz to 12.5 GHz (32 sub-frequencies).
+The Coverage, Range is 8 n miles (14.5 km; 9 miles) (artillery, effective range); 10 n miles (18 km; 11 miles) (mortar, effective range); 13 n miles (24 km; 15 miles) (rockets, effective range).
+The Coverage, Azimuth is 90° (sector)
+
+360°.
+The Coverage, Target Capacity is 10.
+The Coverage, Track Capacity is 99.
+The Displacement Time is 5 min.
+The Power, Volt is 115 V (400 Hz, AC, three phase, supply);120 V (400 Hz, AC, three phase, supply).
+The Emplacement Time is 15 min.
+The Power, Watt is 23 kW (transmit, peak); 
+10 kW (AN/MJQ-25 generator, nominal, supply).
+The Antenna Type is Phased Array.
+The Transmitter is TWT.
+The Note is The AN/TPQ-36(V) consists of the following: 
+*a trailer-mounted antenna-transceiver assembly;
+*a power generator, and ;
+*an operator shelter that houses the necessary processing equipment..
+
+Here is System Dimensions information for the AN/TPQ-36(V) American Towed Firefinder Radar:
+The Length is 4,600 mm.
+The Width is 2,100 mm.
+The Height, in Operation is 3,700 mm.
+The Height, in Transit is 2,100 mm.
+The Weight, Combat is 1,451 kg.
+
+Here is Operations Shelter information for the AN/TPQ-36(V) American Towed Firefinder Radar:
+The Length is 2,692 mm.
+The Width is 2,100 mm.
+The Height is 1,800 mm.
+The Weight is 1,089 kg.
+
+Here is AN/MJQ-25 Generator with Trailer information for the AN/TPQ-36(V) American Towed Firefinder Radar:
+The Length is 4,350 mm.
+The Width is 2,080 mm.
+The Height is 2,490 mm.
+The Weight is INA.
+

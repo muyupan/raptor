@@ -1,0 +1,35 @@
+This document describes the NTC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV).
+
+NTC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV)
+The Skylark I is designed as a man-packed system for tactical surveillance and reconnaissance. The Skylark is launched by hand. The payload consists of a daylight CCD or optional FLIR for night operations. During operation, it sends real-time video to a portable ground station. Recovery involves a deep stall maneuver, landing on a small inflatable cushion. It has a range of 40 km. It has been deployed in Afghanistan and Iraq. The Skylark I has also been selected by France's Special Forces in March 2008. Previous operators, who have now retired the system, include Australia and Canada. In total, it has been selected by more than 20 operators worldwide.
+
+Here is System information for the NTC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is NTC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV).
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is AeroVironment.
+The Mission Type is DZ: Reconnoiter LP/OP positions and initial DZ  movements.
+BZ: Identify composition/disposition, support BTG  attacks, Target Acquisition, and BDA.
+SZ: Identify AAs and supply lines..
+The Range is Max Range: 20 km;
+Max Effective Range: 16 km  Max; AGL: 10,500 ft.;
+Max Effective AGL: 2,000 ft.;.
+The Effects is Max Range: 20 km
+Max Effective Range: 16 km  Max AGL: 10,500 ft.
+Max Effective AGL: 2,000 ft..
+The Targeting is Primarily Movement and Maneuver, but capable of  targeting all WFFs..
+The Vulnerability is ADA Systems and poor weather conditions..
+The CBI is 4x per BTG.
+
+Here is Dimensions information for the NTC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Length is 2.1 m.
+The Wingspan is 4.6 m.
+The Weight is 11.8 kg.
+
+Here is Automotive information for the NTC VISMOD Skylark I Israeli Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Maximum Speed is 46-76 km/h, 25 knots cruise, 41 knots dash.
+The Range is 20 km, up to 60 km with LRTA.
+The Maximum Altitude is 500 ft (152 ml) AGL Max Launch Alt 10,000 (3048 ml).
+

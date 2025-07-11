@@ -1,0 +1,158 @@
+This document describes the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL).
+
+The 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL) was presented to the public in 2007, all processes of the Uragan are automated.  The Uragan can fire the 300mm rockets of the BM-30 Smerch system.  Reloading is simplified by substituting launch tubes; can be fitted with two banks of six 300mm launch tubes or fifteen 220mm launch tubes.  
+Deliveries to the Russian army started in September 2016.  The Uragan-1M is based on an 8x8 military truck chassis, MZKT-7930, developed in Belarus early 1990s.  The forward control cab of the MZKT-7930 accommodates the driver and two passengers.  The Uragan-1M is fitted with two launcher pods, each containing two layers of three rockets ready to fire, giving a total of 12 launch tubes.  The rocket launcher station is mounted on a turntable at the rear of the truck chassis with powered elevation and traverse.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL):
+The 9P140 Uragan is Standard variant on ZIL-135 truck..
+The 9A53 Uragan-U is Successor with 2 × 15 launch tubes; presented in 2009 on 8×8 MZKT-7930. Thanks to its modular assembly the BM-30 Smerch and BM-21 Grad rockets can also be fired..
+The Bastion-03 is Prototype by Ukrainian company AvtoKrAZ, presented in 2010. Installed on a 6×6 truck type KrAZ-63221RA..
+
+Here is System information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL):
+The Alternative Designation is 9K12; Uragan-1M; Hurricane-1M.
+The Type is 220mm/300mm Multiple Launch Rocket System.
+The Chassis/Carriage is MZKT-7930.
+The Manufacturer is Splav State Research and Production Enterprise.
+The In Service is 2007-Present.
+The Crew is 3.
+The Displacement Time is 3.
+The Emplacement Time is 3.
+The Note is Brief redeployment time allows to avoid counter-battery fire. Rockets are launched directly form the cab, or remotely form the vehicle..
+
+Here is Automotive information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL):
+The Engine Name is YaMZ-846.
+The Engine Type is Diesel.
+The Engine Power is 500.
+The Range is 1,000.
+The Speed, Maximum On is 70.
+The Speed, Maximum Cross is 45.
+The Speed, Maximum Off Road is INA.
+The Gradient is 45.
+The Side Slope is 30.
+The Vertical Step is 0.6.
+The Trench is 2.0.
+The Fording is 1.4.
+
+Here is Dimensions information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL):
+The Length is 13.0.
+The Width is 3.0.
+The Height is 3.29.
+The Weight, Combat is 40.
+
+Here is Communications information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL):
+The Primary is R-108M Radio.
+The Amplifier is UM-3 power amplifier.
+
+Here is Launch System information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL) of the 220mm Main Gun Weapon System (Option 1):
+The Name is 9K57 System.
+The Type is Multiple Launch Rocket System.
+The Caliber is 220.
+The Chassis is 9P140 Vehicle.
+The Number of Tubes is 30.
+The Effective Firing Range is 35.
+The Full Salvo Duration is 9-20 seconds.
+The Reloading Time is 15-20.
+The Maximum Elevation is +55.
+The Minimum Elevation is 0.
+The Traverse Range is 60.
+The Traverse Left is 30.
+The Traverse Right is 30.
+The Main Gun Stabilizer is Yes.
+The Launch Mode is Single Fire or Salvo Fire.
+The Single Launch Mode Time to Fire is 8.8.
+The Salvo Launch Mode Time to Fire (16 Rockets) is 20.
+The Note is The Uragan-1M launcher is escorted by an associated reloading vehicle, which is referred as 9T249..
+
+Here is Ammunition (Option 1) information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL) of the 220mm Main Gun Weapon System (Option 1):
+The Name is 9M27F.
+The Type is HE FRAG.
+The Caliber is 220.
+The Rocket Weight is 100.
+The Explosive Weight is 51.9.
+The Maximum Effective Range is 35.
+The Minimum Effective Range is 10.
+The Penetration is 8 meters wide and 3 meters deep.
+
+Here is Ammunition (Option 2) information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL) of the 220mm Main Gun Weapon System (Option 1):
+The Name is 9M27K.
+The Type is Cluster warhead.
+The Caliber is 220.
+The Maximum Effective Range is 35.
+The Minimum Effective Range is 10.
+The Note is The 9M27K contains 30 9N210 dual-purpose fragmentation bomblets. Each submunition generates 370 to 400 2-g preformed fragments..
+
+Here is Ammunition (Option 3) information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL) of the 220mm Main Gun Weapon System (Option 1):
+The Name is 9M27K2.
+The Type is Anti-tank mines.
+The Caliber is 220.
+The Maximum Effective Range is 35.
+The Minimum Effective Range is 10.
+The Warhead Type is 9N218K2.
+The Note is 9N218K2 warhead, which contains 24 PTM-1 or PTM-1G scatterable anti-tank mines. Designed to break tracks..
+
+Here is System information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL) of the 300mm Main Gun Weapon System (Option 2):
+The Name is 9A52, 300mm Launcher.
+The Type is 300.
+The Number of Tubes is 12 (3 rows of 4 tubes).
+The Launch Rate is INA.
+The Full Salvo Time is 12 rounds in 38 seconds.
+The Single Rocket Interval is 3 Seconds per Rocket.
+The Loader Type is Manual.
+The Reload Time is 36 minutes.
+The Launcher Drive is Electric.
+The Maximum Elevation is +55.
+The Minimum Elevation is -0.
+The Traverse Range is 60.
+The Traverse Left is 30.
+The Traverse Right is 30.
+
+Here is Ammunition (Option 1) information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL) of the 300mm Main Gun Weapon System (Option 2):
+The Name is 9M55F.
+The Type is FRAG-HE.
+The Caliber is 300.
+The Maximum Range is 70.
+The Minimum Range is 20.
+The Warhead Weight is 258.
+The Rocket Length is 7.6.
+The Maximum Velocity is INA.
+The Fuze Type is Electronic Timing (ET).
+
+Here is Ammunition (Option 2) information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL) of the 300mm Main Gun Weapon System (Option 2):
+The Name is 9M55K.
+The Type is DPICM.
+The Caliber is 300.
+The Maximum Range is 70.
+The Minimum Range is 20.
+The Warhead Weight is 235.
+The Rocket Length is 7.6.
+The Maximum Velocity is INA.
+The Fuze Type is Electronic Timing (ET).
+
+Here is Ammunition (Option 3) information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL) of the 300mm Main Gun Weapon System (Option 2):
+The Name is 9M55K1.
+The Type is Sensor-fuzed (MOTIV-3M).
+The Caliber is 300.
+The Maximum Range is 70.
+The Minimum Range is 20.
+The Warhead Weight is 233.
+The Rocket Length is 7.6.
+The Maximum Velocity is INA.
+The Fuze Type is Electronic Timing (ET).
+The Note is Additional Ammunition Types include: Smoke, Incendiary, Chemical, Leaflet, Fuel Air Explosive (FAE), R-90 expendable miniature UAV (experi-mental).
+
+Here is Fire Control Systems information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL):
+The FCS Name is Kapustnik-B automated fire-control system (FCS).
+The Collimator is K-1.
+The Indirect Fire is PG-1M PANTEL.
+The Direct Fire Capable is Yes.
+The Sights is D726-45 Sight and the PG-1M Sight.
+The Spotlight is Luch-S71M spotlight.
+
+Here is Protection information for the 9K512 (Uragan-1M) Russian 220mm/300mm Multiple Launch Rocket System (MRL):
+The Armor is Unarmoured.
+The Land Navigation is No.
+The Smoke Equipment is No.
+The NBC Protection is No.
+

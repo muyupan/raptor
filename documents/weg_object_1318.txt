@@ -1,0 +1,128 @@
+This document describes the Oerlikon GDF-007 Swiss 35mm Towed Anti-Aircraft Gun.
+
+GDF-007
+This is a further development of the basic GDF system. Features include:
+*High rate of fire;
+*Ahead capability (programmable air burst munition);
+*High hit probability;
+*High impact efficiency;
+*Rapid response to FCU target data in remote mode;
+*High-performance sighting system and fire control for autonomous target engagement in local mode;
+*Self-defense capability;
+*Two 35-mm positively locked, gas-operated automatic cannons with automatic weapon lubrication;
+*Automatic reloading;
+*Quick firing readiness after emplacement due to independent power supply unit;
+*Automatic muzzle velocity measurement and projectile fuze programming;
+*Built-in test and diagnostics;
+*High mobility with four-wheel trailer mount;
+*Rapid deployment at the firing position by tilting the wheels hydraulically; and
+*Accurate positioning, which is statically determined through automatic leveling of three-point hydraulic support.
+
+Additionally, the GDF-006 is fitted with the Advanced Hit Efficiency and Destruction (AHEAD) ammunition that was developed in the late 1980s for service in the mid-1990s. The GDF muzzle is fitted with the three-coil muzzle-velocity sensor; Sky Guard fire-control software is modified.
+When the AHEAD round is fired, its passage through the rear two coils is timed and its exact muzzle velocity is determined and used to set the time fuze in the projectile through the forward coil. When the timer triggers the fuze, the shell is fractured into a cone of heavy-metal fragments that spray the target.
+
+A 25-round burst is capable of generating a spray of 3,800 fragments. The system is designed to provide quick kills against small targets at long ranges.
+
+
+
+
+The Oerlikon GDF or Oerlikon 35 mm twin cannon is a towed anti-aircraft gun made by Oerlikon Contraves (renamed as Rheinmetall Air Defence AG following the merger with Rheinmetall in 2009). The system was originally designated as 2 ZLA/353 ML but this was later changed to GDF-001. It was developed in the late 1950s and is used by around 30 countries.
+
+The system uses twin autocannons, firing 35×228mm NATO-standard ammunition. It was originally designated 353 MK and is now designated as the KD series. The same KD series 35mm cannons are used in the Leopard 1-based Gepard and Type 74 tank-based Type 87 SPAAG and Marksman self-propelled anti-aircraft guns (SPAAG). The system could be paired with the off-gun (remote) Super Fledermaus fire control radar, which in the late 1970s was upgraded to the Skyguard system. The weapons was aimed either directly, by way of an advanced sighting system, or automatically, by locking onto the target with radar. Early models carried 112 rounds ready to fire, and an additional 126 stored on the chassis as reloads. Later versions with automated reloading carry 280 rounds total. A typical engagement burst is 28 rounds
+
+This equipment has proliferated into the following countries: Chile, Germany, Spain, Thailand.
+
+Here is Variants information for the Oerlikon GDF-007 Swiss 35mm Towed Anti-Aircraft Gun:
+The GDF-001 is XABA sight.
+The GDF-002 is Introduced in 1980. Improved Ferranti sight and digital data bus. The gun has 112 rounds ready and 126 in reserve (238 rounds total).
+The GDF-003 is Minor enhancements including protective covers and automatic weapon lubrication..
+The GDF-005 is Introduced in 1985. Fitted with Gunking 3D computer-controlled sight with a laser range finder and digital fire control system. Integrated power supply and diagnostics. 280 rounds on the gun and an automatic re-loading system..
+The GDF-007 is GDF-005 upgraded with AHEAD system..
+The GDF-009 is Unveiled at IDEF 2015, held in May 2015 in Istanbul. To date, its exterior significantly changed, although the installation has retained the design of the original serial versions of the systems.Unlike other variants, this one relies on an internal power source.The GDF-009 model is based on a four-wheeled carriage, and is raised off the ground by three stabilisers when deployed in the firing position. It also features an automatic levelling system that can compensate for a maximum tilt angle of up to 7°.Mounted on the forward part of the carriage is the integrated battery, which functions as the gun's power supply unit and can be recharged from an external source if required..
+The AHEAD is An upgrade for the GDF series guns built around a special projectile which explodes at a pre-calculated point in front of the target, sending a cone of 152 tungsten sub-projectiles at the target. Used by Canada, Pakistan, Greece, Oman, Spain, Taiwan, and Chile (unconfirmed)..
+
+Here is System information for the Oerlikon GDF-007 Swiss 35mm Towed Anti-Aircraft Gun:
+The Alternative Designations is GDF-007.
+The Type is Towed Anti-Aircraft Gun.
+The Crew is 3.
+The Caliber is 35 mm.
+The Carriage is 4-wheeled/2-axle towed chassis.
+The Emplacement is 1.5 minutes.
+The Displacement is 1.5 minutes.
+The Note is Initial operating capability was achieved in 1985. It is fitted with the Contraves Gun King digital optronic sighting system.
+There is three-dimensional target tracking with laser rangefinder, periscope sight and digital computer. It has an integrated power supply on the mount; the battery power is sufficient for five combat cycles before IPS must be restarted.
+
+It also includes an autonomous gun sighting system..
+
+Here is Dimensions information for the Oerlikon GDF-007 Swiss 35mm Towed Anti-Aircraft Gun:
+The Length, Traveling is 7.80 m.
+The Length, Firing is 8.83 m.
+The Barrel Length is 3.15 m.
+The Width, Traveling is 2.26 m.
+The Width, Firing is 4.49 m.
+The Height, Traveling is 2.60 m.
+The Height, Firing is 1.72 m.
+The Ground Clearance is 330 mm.
+The Weight, Traveling is 6,700 kg.
+The Weight, Without Ammunition is 6,300 kg.
+
+Here is System information for the Oerlikon GDF-007 Swiss 35mm Towed Anti-Aircraft Gun of the Main Weapon System:
+The Name is KDC-002 Gun.
+The Type is Towed Anti-Aircraft Gun.
+The Caliber is 35.
+The Bore is 35-mm/90-cal, rifled.
+The Elevation is -5 deg to 92 deg (-89 mils to 1,634 mils).
+The Elevation Rate is 56 deg (1,000 mils)/sec.
+The Traverse is 360 deg (6,400 mils).
+The Traverse Rate is 112 deg (2,000 mils).
+The Breech Type is gas-operated positive lock.
+The Recoil System is hydromechanical.
+The Maximum Range is 4,000 m.
+The Muzzle Velocity is 1,175 mps.
+The Rate of Fire is 550 rounds/min per barrel.
+
+Here is Ammunition (Option 1) information for the Oerlikon GDF-007 Swiss 35mm Towed Anti-Aircraft Gun of the Main Weapon System:
+The Type is HE-T/HEI-T.
+The Caliber is 35.
+The Projectile Length is 387 mm.
+The Projectile Weight is 535 g.
+The Explosive is 98 g.
+The Propellant is 330 g.
+The Weight of Complete Round is 1,565 g.
+
+Here is Ammunition (Option 2) information for the Oerlikon GDF-007 Swiss 35mm Towed Anti-Aircraft Gun of the Main Weapon System:
+The Type is HE/HEI.
+The Caliber is 35.
+The Projectile Length is 387 mm.
+The Projectile Weight is 550 g.
+The Explosive is 112 g.
+The Propellant is 330 g.
+The Weight of Complete Round is 1,552 g.
+
+Here is Ammunition (Option 3) information for the Oerlikon GDF-007 Swiss 35mm Towed Anti-Aircraft Gun of the Main Weapon System:
+The Type is HEI(BF).
+The Caliber is 35.
+The Projectile Length is 387 mm.
+The Projectile Weight is 550 g.
+The Explosive is 70 g.
+The Propellant is 330 g.
+The Weight of Complete Round is 1,552 g.
+
+Here is Fire Control System information for the Oerlikon GDF-007 Swiss 35mm Towed Anti-Aircraft Gun:
+The FCS Name is INA.
+The Computerized FCS is INA.
+The Sight is Ferranti sight.
+The Laser Rangefinder is Yes.
+The Digital Computer is Yes.
+The Autonomous Gun Sighting System is Yes, Contraves Gun King digital optronic sighting system..
+The Note is Most GDF mounts are integrated with an external fire-control system, usually the Super Fledermaus or Skyguard system..
+
+Here is Radar System information for the Oerlikon GDF-007 Swiss 35mm Towed Anti-Aircraft Gun:
+The Radar Vehicle Name is Skyguard Radar Fire-Control System..
+The Skyguard Radar Details is The Skyguard system is contained within a towed trailer, mounted on the roof of which is a pulse doppler search radar, a pulse doppler tracking radar and a co-axial television camera. The trailer also houses the crew of two and a small petrol generator. Skyguard is an all-weather air defense system for the control of aircraft at low altitude and at low and medium altitude range up to 3,000 m. The maximum effective distance is given as 4,000 m. The system takes the air surveillance, target acquisition, calculation of the derivative-action values and the control of two Oerlikon 35 mm anti-aircraft guns. Skyguard is served by four people.
+
+It was created by Oerlikon-Buehrle. The weapon was introduced in the 1960s in the Swiss Army and got updates in 1975, 1995 and 2010. They are still in use. It had replaced the system Contraves Super Fledermaus in the Swiss Air Force. The Skyguard radar system was used in the German Air Force for surveillance of low-altitude flight zones. The radar unit is readied quickly through the use of hydraulic systems for antenna erection and leveling after deployment. A typical fire unit using the Skyguard consists of two twin 35 mm gun platforms with a single Skyguard fire control radar.
+
+Skyguard systems can also incorporate an optional SAM module based on the GDF's mount and radar system but with the guns replaced by four missile canisters. It can be armed with either Aspide or RIM-7 Sea Sparrow missiles. In Greek service the Skyguard system with RIM-7M is known as the VELOS..
+The Note is Typical battery includes two gun mounts with separate generators, single Skyguard..
+

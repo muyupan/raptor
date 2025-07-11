@@ -1,0 +1,40 @@
+This document describes the Gibka-S Russian Self-Propelled Very Short-Range Air Defense (VSHORAD) System .
+
+The Gibka-S Russian Self-Propelled Very Short-Range Air Defense (VSHORAD) is a new self-propelled mobile air defense system developed by Russian state-owned defense enterprise Machine-Building Design Bureau (KBM).
+
+The VSHORAD system can engage aircraft, helicopters, cruise missiles, unmanned aerial vehicles (UAVs) and precision weapons. The autonomous 4×4 platform can be operated during the night and in difficult weather conditions. 
+
+
+The 9А332 combat can accommodate a crew of four, including two MANPADS anti-aircraft gunners, a commander, and a driver. The combat vehicle also features a missile remote control unit and an electro-optical tracking and targeting system.
+
+The armored vehicle is capable of launching Russian-made Igla-S and Verba MANPADS missiles. It can carry four ready-to-launch missiles loaded on the missile launcher and four ready-to-load missiles.
+
+The Gibka-S VSHORAD system also comprises a commander’s reconnaissance and combat control vehicle (CRCV) for battery commander. The CRCV is intended for automated control of the MANPADS sections mounted on the combat vehicle.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Missile (Option #1) information for the Gibka-S Russian Self-Propelled Very Short-Range Air Defense (VSHORAD) System  of the Main Weapon System :
+The Name  is 9K333 Verba Missile .
+The Length  is 1.64 m.
+The Diameter  is 0.07 m.
+The Weight  is 12 kg.
+The Engine  is Solid Fuel Rocket .
+The Warhead Type  is High Explosive Blast Fragmentation.
+The Warhead Weight  is 1.5 kg.
+The Range of Fire  is 6 km.
+The Flight Ceiling  is 4.5 km.
+The Guidance System  is Three-channel optical seeker (ultraviolet, near-infrared, mid-infrared).
+
+Here is Missile (Option #2) information for the Gibka-S Russian Self-Propelled Very Short-Range Air Defense (VSHORAD) System  of the Main Weapon System :
+The Name  is 9M342 Igla-S missile.
+The Length  is 1.635 m.
+The Diameter  is 72 mm.
+The Weight  is 11.7 kg.
+The Warhead Type  is Directed-energy blast fragmentation.
+The Warhead Weight  is 2.5 kg.
+The Fuze Type  is Delayed impact, magnetic and grazing.
+The Maximum Speed  is 570 m/s.
+The Range of Fire  is 6,000 m.
+The Maximum Altitude  is 3,500 m.
+The Guidance System  is Passive IR homing device and night vision (operating in the medium IR range).
+

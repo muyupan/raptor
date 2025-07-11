@@ -1,0 +1,66 @@
+This document describes the FN-6 (Fei Nu-6) Chinese Man-Portable Air Defense System (MANPADS).
+
+The FN-6 is a man-portable air defense missile system (MANPADS) designed and manufactured in China by the Defense Company Poly Technologies. it is deployed as a two-man team however, a second soldier is not required to put ready the system to fire or fire the system.  It is a third-generation passive infrared (IR) man-portable air defense system. The FN-6 has the capability of all-direction attack and anti-infrared jamming. The FN-6 is a fire-and-forget system that is easy to transport and use. The FN-6 is specially designed to engage low-flying targets flying at or less than 300m/s.
+
+The weapon was specifically designed to be used against targets flying at low and very low altitudes. The FN-6 was developed in parallel with the Qian Wei (QW) missile series. FN-6, or FeiNu-6, is the export name given to the export version derived from this system, and it is known as HongYing-6 (Chinese: 红缨; pinyin: hóng yīng; lit.: 'red tassel') in the PLA. The training simulator of FN-6 is not developed by the contractor of the missile system, but instead, the simulator is developed by PLA itself after the missile was purchased, and the general designer of the training simulator of FN-6 is Mr. Liu Weixing. The training simulator of FN-6 is also used for later versions of MANPADS developed from FN-6.
+
+Export sales of the weapon are the responsibility of China National Precision Machinery Import and Export Corporation, a state-owned trading company responsible for representing the domestic defense production industry in air defense-related products.
+
+According to Janes, the FN-6 is a third-generation, passive infrared, man-portable air-defense system (MANPADS). It is equipped with a digital infrared seeker with a strong resistance to flares, solar heat, and heat from the ground. The pyramid-shaped nose of the missile houses the four-unit infrared seeker. The handle of the launcher houses the batteries and cooling system. An IFF antenna and an optional clip-on optical sight are fitted onto the launcher.
+
+The missile is capable of an all-aspect attack and has a 70% single shot hit probability. It can engage targets maneuvering at up to 4 g. When FN-6 MANPADS can be equipped with night vision equipment, and it can also be equipped with IFF systems, two of which were shown to the public, one of which is similar in appearance to AN/PPX-1 IFF of FIM-92 Stinger, while the other IFF system is a fishbone configuration. When equipped with an IFF system, the name is changed from FN-6 to FY-6, or short for Fei Ying, meaning Flying Eagle.
+
+This equipment has proliferated into the following countries: Bangladesh, Cambodia, Cameroon, China, Malaysia, Namibia, Pakistan, Peru, Qatar, Sudan, Syria.
+
+Here is Variants information for the FN-6 (Fei Nu-6) Chinese Man-Portable Air Defense System (MANPADS):
+The FN-16 is At the 7th Zhuhai Airshow held at the end of 2008, China revealed a new addition to the FN series MANPAD, FN-16. FN-16 is an improvement of earlier FN-6, with better all aspect attack capability and better resistance against electronic countermeasures. Another major improvement is in its seeker, which in addition to the original IR guidance, UV guidance is also incorporated, a practice adopted in the later version of FIM-92 Stinger. Like its predecessor FN-6, FN-16 can also be fitted with both IFF systems used on FN-6, and just like FN-6, FN-16 is re-designated as FY-16 (Fei Ying = 飞鹰, meaning Flying Eagle) when equipped with IFFs..
+The HN-6 is HN-6 is a further development of FN/FY-6/16. The Chinese name for this missile is actually Hong Ying (红樱), meaning Red Tassel. However, HY, the Pinyin abbreviation of Hong Ying was already taken by the name of another Chinese missile family, the Silkworm series anti-shipping missile, whose Chinese name is Hai Ying (海鹰), meaning Sea Eagle. As a result, the designation of this follow-on of FN-6 MANPADS is changed to HN-6 to avoid confusion, following the earlier MANPADS HN-5. HN-6 utilizes fire control systems (FCS) of earlier FN/FY-6/16 MANPADS, but a new FCS sight of unknown designation has also been developed.
+
+In addition to improved performance over the original FN/FY-6/16 MANPADS, HN-6 incorporates a protective cap over the seeker of missile, offering better protection against the environmental elements. Based on the photos and video clips of PLA training, this protective cap does not appear to be automatically ejected when the missile is fired, but instead, it is manually removed before firing the missile. Another improvement of HN-6 over the earlier FN/FY-6/16 MANPADS is that it incorporates a fire station similar to that of RBS 70 and Mistral: a seat is attached to the lightweight tripod firing stand that can be folded for transportation and storage, and the operator is protected by a bulletproof glass shield..
+The FN-6A is FN-6A is the vehicle-mounted version of FN-6 first revealed to the public in 2005. The system is based on a Dongfeng EQ2050, weighing 4.6 tons in total. A one-man turret is sandwiched between two quadruple launchers, and the electro-optical fire control systems (FCS) include IR, laser, and TV. Contrary to the common arrangements on similar systems, the FCS of FN-6A is mounted in an unusual arrangement, namely under the launchers. Due to space limitations, the FCS is distributed among two places, one portion under one launcher and the other portion in the opposite launcher across the turret. A 12.7 mm heavy machine gun is added for additional protection. The vehicle is operated by a two-man crew, one driver, and one weapon system operator. Communication gear and land navigation gear are standard. The modular design of the system enables other subsystems to be incorporated easily, such as IFF. The auxiliary power unit provides enough power for the system to operate continuously for more than 8 hours.
+
+The FCS of the FN-6A can lock on to a target 10 km away, and the reaction time is less than 5 seconds. Each vehicle can fight independently but can be integrated with others to fight as a coherent unit by incorporating a command vehicle that is also based on an HMMWV. The command vehicle provides a light solid-state passive phased array radar to increase situation awareness and can direct up to 8 launching vehicles simultaneously. A command vehicle and 8 launching vehicles form an air defense company when fighting as a coherent unit, and this, in turn, can be integrated into larger air defense networks. Alternatively, the launching vehicle can be directly integrated into larger air defense networks without the need for a command vehicle.
+
+Each launching vehicle needs a support vehicle for resupply, and the support vehicle is also based on an HMMWVs to reduce logistic costs. Each supply vehicle carries 24 missiles and reloading each missile takes less than a minute. Similar to the M1097 Avenger, each launcher is designed so that each missile can also be removed and fired by a soldier manually like a regular MANPAD. Although effective against supersonic aircraft, for UAVs and missiles the maximum target speed is limited to 300 meters per second..
+The FB-6 is FN-6A did not enter mass production and served only in a very limited number in Chinese forces, mainly for trial purposes. In the subsequent Zhuhai Airshows that followed its original debut, FN-6A is replaced by its successor FB-6A, which did see greater numbers in service with Chinese forces. The general designer of the FB-6A system is Mr. Wei Zhigang (卫志刚), rumored also to be the general designer of FN-6A, the predecessor of FB-6A. The main difference between FN-6A and its successor FB-6A is that the SAM system is broken down into two portions in the latter, as opposed to a single unit in the former: FB-6A SAM system consists of two vehicles, one carrying the engagement radar, while the other carrying the missile. The search/engagement radar of FB-6A is a planar array and can be folded down in transit, but the developer has not revealed whether the radar itself is a phased array or not. However, the developer did claim that both the mechanically scanned planar array and the electronically scanned passive phased array are both available upon the customer's request, but it's not clear which one is in service with Chinese forces.
+
+The missile launching platform of FB-6A differs from its predecessor in that both the 12.7 mm heavy machine (HMG) for self-protection and the electro-optical fire control sight on that of FN-6A are deleted, but a backup operator console is incorporated with bulletproof glass added between the launchers, though the FB-6A system can be operated with the vehicle. Although the 12.7 mm HMG is no longer the standard equipment of the FB-6A system, it can be added as an option and is interchangeable with other machine guns. The total numbers of missiles carried by the launching vehicle of FB-6A remain the same as FN-6A, still totaling eight.
+
+An upgraded version of FB-6C was unveiled at the 2016 Zhuhai Airshow..
+The ZBL-09 ADS is At the 9th Zhuhai Airshow held in November 2012, one more variant of the vehicle-mounted FN-6/16 system is revealed to the public. This air defense system (ADS) consists of a 30 mm Gatling gun turret with two missile containers/launchers for FN-16 at each side, totaling four missiles. In comparison to earlier Dongfeng EQ2050-mounted FN-6A and FB-6A ADS, the ZBL-09 ADS is mounted on an 8 x 8 ZBL-09 chassis, thus offering greater protection. A phased array radar on the turret can be folded down in transit, as with earlier FB-6A ADS. However, ZBL-09 did not enter Chinese service en masse, only a very limited number were ordered for trial purposes. It is rumored because the 30 mm Gatling gun is derived from AK-630, and this 6-barreled gun would complicate the logistics and increases the cost because other 30 mm Gatling guns that are already in Chinese service such as LD-2000 are 7-barreled based on Type 730 CIWS. This has led some Chinese military enthusiasts to claim that ZBL-09 would be used mainly for export and to have a significant order from Chinese forces, the 6-barreled gun would have to be replaced by a 7-barreled one, but at the 9th Zhuhai Airshow, there was no news of development yet..
+The FB-6A is This is a Shenyang SFQ2040, a Chinese copy of the U.S. Humvee, fitted with launchers for FN-6 missiles. Each launcher carries eight FN-6 missiles. A separate vehicle carries a planar array target acquisition radar..
+
+Here is System information for the FN-6 (Fei Nu-6) Chinese Man-Portable Air Defense System (MANPADS):
+The Alternative Designation is FN-6; Fei Nu-6.
+The Type is Man-Portable Air Defense System (MANPADS).
+The Manufacturer is China National Precision Machinery Import and Export Corp. (CNPMIEC), Beijing, China.
+The Description is Shoulder fired, IR homing, heat seeking, surface to air missile designed to destroy fixed wing aircraft, rotary wing aircraft, and UAVs.
+The Engine is Booster, sustainer rocket.
+The Propellant is Solid.
+The Warhead Type is High Explosive.
+The Guidance System is Infrared Homing.
+The Crew is 2 (can be fired without second team member).
+The Maximum Velocity is 600.
+The Maximum Range is 5,500.
+The Minimum Range is 500.
+The Maximum Altitude is 3.8.
+The Minimum Altitude is 15.
+The Attack Characteristics is Missile can attack incoming, outgoing, and crossing aircraft.
+The Proximity fuze is Yes.
+The Fire-and-Forget is Yes.
+The EW Capability is This missile is claimed to have good anti-jamming capability against infrared decoys..
+The Hit Probability is Hit probability with a single missile against an unprotected target is at least 70%. This number is reduced if the target uses countermeasures, such as infrared decoys..
+The Note is The FN-6 launcher can be mounted on vehicles, small vessels and helicopters..
+
+Here is Dimensions information for the FN-6 (Fei Nu-6) Chinese Man-Portable Air Defense System (MANPADS):
+The Missile Length is 1.5 m.
+The Missile Diameter is 72 mm.
+The Fin Span is 0.18.
+The Missile Weight is 10.7.
+The System Weight is 17.
+
+Here is Additional Options (Not required for missile to fire) information for the FN-6 (Fei Nu-6) Chinese Man-Portable Air Defense System (MANPADS):
+The IFF is Yes.
+The Enhanced Optical Sight is Yes.
+The Night Sight is Yes.
+

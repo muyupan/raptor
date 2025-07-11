@@ -1,0 +1,97 @@
+This document describes the 2S25 Sprut-SD Russian Light Amphibious Tank.
+
+The  2S25 Sprut-SD Russian Light Amphibious Tank is a self-propelled tank destroyer or light tank developed and manufactured by the Volgograd Tractor Plant to meet the requirements of the VDV. In mid-2001, the Volgograd tractor plant revealed that the development of the 2S25 had lasted several years.  The Sprut-SD is designed to defeat tanks, hard-skinned material, and enemy manpower by airborne and amphibious landing forces, as well as by specially designated units of ground forces. Its main armament, the 2A75, is capable of firing APFSDS, HE-Frag, HEAT, and ATGM ammunition. This allows the 2S25 firepower to be as powerful as the main battle tank and as maneuverable and amphibious as airborne infantry combat vehicles. The 2S25 can be used by units of ground forces and naval infantry as a light amphibious tank.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the 2S25 Sprut-SD Russian Light Amphibious Tank:
+The Sprut-SDM1 is New version with fire-control system and remote weapon station..
+
+Here is System information for the 2S25 Sprut-SD Russian Light Amphibious Tank:
+The Alternative Designation is 2S25 Sprut-SD.
+The Type is Russian Light Amphibious Tank.
+The Manufacturer is Volgograd Tractor Plant.
+The Crew is 3.
+
+Here is Dimensions information for the 2S25 Sprut-SD Russian Light Amphibious Tank:
+The Length, Gun Forward is 9.77 m.
+The Length, Chassis is 7.08 m.
+The Width is 3.15 m.
+The Height is 2.72 m.
+The Weight, Combat is 18 Tons.
+The Ground Pressure is INA.
+
+Here is Automotive information for the 2S25 Sprut-SD Russian Light Amphibious Tank:
+The Engine Name is 2V-06-2S.
+The Engine Type is water cooled diesel engine.
+The Engine Power is 510.
+The Range is 500.
+The Speed, Maximum Road is 70.
+The Speed, Maximum Off-Road is 45.
+The Speed Maximum Swim is 10.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.9 m.
+The Trench is 1.8 m.
+The Fording is Amphibious.
+
+Here is System information for the 2S25 Sprut-SD Russian Light Amphibious Tank of the Main Gun:
+The Name is 1 x 2A75 smoothbore gun.
+The Type is Smoothbore Gun.
+The Caliber is 125 mm.
+The Length is INA.
+The Barrel Length is 0.925 m.
+The Width is INA.
+The Elevation is - 5 to + 15 degrees.
+The Traverse is 360 degrees.
+The Autoloader is Yes.
+The Rate of Fire is The 2s25 Sprut SD has a rate of fire of 7 rounds per minute..
+The Maximum Effective Fire is 5 km.
+The Note is This gun is also used to launch anti-tank guided missies in the same manner as ordinary projectiles. This feature is common to all modern Russian MBTs. Laser-guided anti-tank missiles has a range of effective fire of up to 5 km..
+
+Here is Ammunition information for the 2S25 Sprut-SD Russian Light Amphibious Tank of the Main Gun:
+The Type is Projectile.
+The Caliber is 125.
+The Basic Load is 40 Rounds.
+The Note is The gun uses the same ammunition as the D-81 series of guns used on the T-64, T-72, T-80 and T-90 tanks..
+
+Here is System information for the 2S25 Sprut-SD Russian Light Amphibious Tank of the Coaxial Weapon System:
+The Name is 1 x PKT.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Length is 1,203 mm.
+The Barrel Length is 605 mm.
+The Weight is 9 kg.
+The Maximum Rate of Fire is 650 rds/min.
+The Effective Rate of Fire is 250-300 rds/min.
+The Action is Gas-operated, open bolt.
+The Maximum Firing Range is 4,000 m.
+The Effective Firing Range (with Sight Adjustments) is 100-1,500 m.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights/ Optics (optional).
+
+Here is Ammunition information for the 2S25 Sprut-SD Russian Light Amphibious Tank of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Basic Load is INA.
+
+Here is Fire Control information for the 2S25 Sprut-SD Russian Light Amphibious Tank:
+The Name is INA.
+The Computerized FCS is Yes, a modernized FCS.
+The Thermal Sight Tank Commander is INA.
+The Thermal Sight Gunner is INA.
+The Main Gun Stabilization is Yes.
+
+Here is Protection information for the 2S25 Sprut-SD Russian Light Amphibious Tank:
+The Hull Armor is The hull of the 2S25 self-propelled anti-tank gun is composed of welded aluminum armor with a composite skin to maintain a light weight. Through the frontal arc, 40° left and right of the frontal armor provides protection against attack from 23 mm weapons at 500 m (550 yd) and against small arms fire and shell splinters through the remainder of the vehicle..
+The Turret Armor is Turret – Welded steel.
+The Applique Armor is Available.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Two banks of three smoke-grenade dischargers are mounted towards the rear on each side of the turret as countermeasures to infrared weapons..
+The Automatic Fire Suppression System is Yes.
+

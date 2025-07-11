@@ -1,0 +1,46 @@
+This document describes the RS1A3 Minirex Russian Tracked Unmanned Ground Vehicle (UGV).
+
+The RS1A3 Minirex Russian Tracked Unmanned Ground Vehicle (UGV)  is a Light, mobile (tracked), tactical combat robot, used in search and rescue (SAR) missions in risky environments, counter-terror operations as a mobile front-line unit, fire support for assault teams, and other types of police and military urban operations.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the RS1A3 Minirex Russian Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is RS1A3 Minirex.
+The Type is Tracked Unmanned Ground Vehicle (UGV).
+The Manufacturer is KB integrated systems.
+The Configuration is Track.
+The Mobility is The RS1A3 can overcome stairs and conduct mine clearance. It is fully sealed, and can be used in rain, snow, dusty environments, and travel through water depths of up to 1 m..
+The Crew is Unmanned.
+The Operator is The operator control unit includes a portable communication set, VR set, and a controller..
+The Camera is The Minirex is equipped with six cameras in total. One camera supports aiming and targeting (boresight) with another providing (×24) optical zoom, four others are used for a 360° field of view for greater situational awareness..
+The Laser Pointer is Yes.
+The Operating Temperature is –35 to +45°C.
+
+Here is Dimensions information for the RS1A3 Minirex Russian Tracked Unmanned Ground Vehicle (UGV):
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is 23 kg.
+
+Here is Automotive information for the RS1A3 Minirex Russian Tracked Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Replaceable Battery.
+The Engine Power is INA.
+The Maximum Speed is 8 km/h.
+The Amphibious is Up to 1 m.
+The Endurance is 2-4 hours in driving mode, 15 hours in surveillance mode..
+
+Here is Communications information for the RS1A3 Minirex Russian Tracked Unmanned Ground Vehicle (UGV):
+The Note is Information exchange is via a CAN and Ethernet network and a radio frequency of 412 MHz is used..
+
+Here is Manipulator Arm information for the RS1A3 Minirex Russian Tracked Unmanned Ground Vehicle (UGV):
+The Lifting Capacity is 3 kg.
+The Note is The unmanned ground vehicle (UGV) is fitted with two flippers at the front that assist in traversing difficult obstacles and can also be used to raise the camera higher to peek into windows, parked cars, and so on if required. The platform can climb stairs and lift loads using its manipulator's arm..
+
+Here is Main Weapon System information for the RS1A3 Minirex Russian Tracked Unmanned Ground Vehicle (UGV):
+The Note is The RS1A3 is offered in a selection of calibers that includes 7.62 × 39 mm, 9 × 39 mm, .338 Lapua Magnum (8.58 × 70 mm), or .4 Smith & Western (10 × 22 mm). The RS1A3 has an effective range of between 1 and 400 m in automatic or semi-automatic modes..
+
+Here is Protection information for the RS1A3 Minirex Russian Tracked Unmanned Ground Vehicle (UGV):
+The Armor is The unit has a protection class of IP68.
+The Applique Armor is INA.
+

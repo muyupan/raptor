@@ -1,0 +1,144 @@
+This document describes the Type 87 Japanese Self-Propelled Anti-Aircraft Gun (SPAAG).
+
+The Type 87 Self Propelled Anti-Aircraft Gun (SPAAG) of the Japan Ground Self-Defense Force (JGSDF) is designed and built by Mitsubishi Heavy Industries, Tokyo, Japan as a replacement for the U.S. M42 Duster SPAAG. Japan Steel Works manufactures the KDA twin 35-mm gun system under a license from Contraves Oerlikon. 
+ 
+The Type 87 SPAAG is built on a modified Type 74 chassis. The Type 74 MBT turret is removed and replaced with a two-man power operated turret that is fitted with twin 35-mm Oerlikon Contraves 35-mm KDA Cannons. It is also equipped with a tracking and surveillance radar located on the rear of the turret.
+
+The Type 87 can be aimed and fired by way of an advanced optical sighting system or automatically by locking onto the target with the radar. The Type 87 SPAAG is paired with the 4 wheel trailer mounted Super Fledermaus Fire Control Radar.
+
+The crew consists of 3 (commander, driver, and gunner). The driver's station is located at the front left side of the hull. Both the commander and gunner occupies positions side by side in the turret. The engine compartment is located at the rear of the SPAAG. 
+
+A typical engagement is a 28 round burst.
+
+The Type 87 SPAAG is capable of fording water at a depth of 2.0 meters when equipped with a drum-type extension collar above the commander's hatch and two thin extensions to the exhaust pipes.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is System information for the Type 87 Japanese Self-Propelled Anti-Aircraft Gun (SPAAG):
+The Alternative Designation is Type 87.
+The Type is Self Propelled Anti-Aircraft Gun (SPAAG).
+The Manufacturer is Mitsubishi Heavy Industries.
+The Crew is 3 (commander, driver, gunner).
+
+Here is Dimensions information for the Type 87 Japanese Self-Propelled Anti-Aircraft Gun (SPAAG):
+The Length is 6.70.
+The Barrel Length is 3.15.
+The Width is 3.20.
+The Height (to roof) is 2.48.
+The Height (radar erected) is 4.20.
+The Weight, Combat is 44,000.
+The Weight, Unloaded is INA.
+
+Here is Automotive information for the Type 87 Japanese Self-Propelled Anti-Aircraft Gun (SPAAG):
+The Engine Name is Mitsubishi 10ZF Type 22WT.
+The Engine Type is Air-cooled, 2-stroke, ten-cylinder diesel.
+The Engine Power is 750 hp at 2,200 rpm.
+The Fuel Capacity is 950 liters.
+The Fuel Consumption is 2.5 liters/km at 35 kph.
+The Transmission is 1x Mitsubishi MT75A semi-automatic; 6 forward gears, 1 reverse gear.
+The Suspension is Hydro-pneumatic, 5 road wheels on trailing arms, rear drive (11-tooth sprocket), front idler, no return rollers.
+The Cruising Range is 300.
+The Speed, Maximum Road is 53.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 1.
+The Trench is 2.7.
+The Fording Depth, without Preparation is 1.
+The Fording Depth, with Preparation is 2.
+
+Here is System information for the Type 87 Japanese Self-Propelled Anti-Aircraft Gun (SPAAG) of the Main Weapon System:
+The Name is 1 x Oerlikon 35 mm Twin Autocannon.
+The Type is Twin KDA Autocannon.
+The Caliber is 35 mm.
+The Length is 7.8 m.
+The Length, Barrel is 3.15 m.
+The Width is 2.26 m.
+The Height is 2.6 m.
+The Weight is 6,700 kg.
+The Muzzle Velocity is 1,175.
+The Maximum Rate of Fire is 550 per barrel.
+The Effective Firing Range (Max) is 4,000.
+The Maximum Elevation is +92.
+The Minimum Elevation is -5.
+The Traverse Range is 360.
+The Sights is Optical.
+The Breech Type is Gas operated positive lock.
+The Recoil System is Hydromechanical.
+The Type Feed is Belt Fed.
+
+Here is Ammunition: High Explosive/High Explosive Incendiary -Tracer information for the Type 87 Japanese Self-Propelled Anti-Aircraft Gun (SPAAG) of the Main Weapon System:
+The Type is HE-T/HEI-T.
+The Projectile Weight is 535.
+The Explosive is 98.
+The Propellant is 330.
+The Complete Round is 1,565.
+The Muzzle Velocity is 1,175.
+
+Here is Ammunition: High Explosive/High Explosive Incendiary information for the Type 87 Japanese Self-Propelled Anti-Aircraft Gun (SPAAG) of the Main Weapon System:
+The Type is HE/HEI.
+The Projectile Weight is 550.
+The Explosive is 112.
+The Propellant is 330.
+The Complete Round is 1,580.
+The Muzzle Velocity is 1,175.
+
+Here is Ammunition: High Explosive Incendiary (BF) information for the Type 87 Japanese Self-Propelled Anti-Aircraft Gun (SPAAG) of the Main Weapon System:
+The Type is HEI(BF).
+The Projectile Weight is 550.
+The Explosive is 70.
+The Propellant is 330.
+The Complete Round is 1,580.
+The Muzzle Velocity is 1,175.
+
+Here is Ammunition: Semi-Armor Piercing High Explosive Incendiary/Semi-Armor Piercing High Explosive Incendiary-Tracer information for the Type 87 Japanese Self-Propelled Anti-Aircraft Gun (SPAAG) of the Main Weapon System:
+The Type is SAPHEI/SAPHEI-T.
+The Projectile Weight is 550.
+The Explosive is 22.
+The Propellant is 330.
+The Complete Round is 1,552.
+The Muzzle Velocity is 1,175.
+
+Here is Ammunition: Armor Piercing Discarding Sabot/ Frangible Armor Piercing Discarding Sabot information for the Type 87 Japanese Self-Propelled Anti-Aircraft Gun (SPAAG) of the Main Weapon System:
+The Type is APDS/FAPDS.
+The Projectile Weight is 375.
+The Explosive is N/A.
+The Propellant is 330.
+The Complete Round is 1,440.
+The Muzzle Velocity is 1,440.
+
+Here is Ammunition: Armor Piercing Discarding Sabot/ Frangible Armor Piercing Discarding Sabot information for the Type 87 Japanese Self-Propelled Anti-Aircraft Gun (SPAAG) of the Main Weapon System:
+The Type is APDS/FAPDS.
+The Projectile Weight is 550.
+The Explosive is N/A.
+The Propellant is 330.
+The Complete Round is 1,580.
+The Muzzle Velocity is 1,175.
+
+Here is Ammunition: Anti-missile Rounds that fire 152 heavy tungsten metal sub projectiles (AHEAD) information for the Type 87 Japanese Self-Propelled Anti-Aircraft Gun (SPAAG) of the Main Weapon System:
+The Type is AHEAD.
+The Projectile Weight is 750.
+The Explosive is N/A.
+The Propellant is 330.
+The Complete Round is 1,780.
+The Muzzle Velocity is 1,050.
+
+Here is Fire Control System information for the Type 87 Japanese Self-Propelled Anti-Aircraft Gun (SPAAG):
+The Name is INA.
+The Computerized FCS is No.
+The Main Gun Stabilization is INA.
+The Direct Fire is INA.
+The  is INA.
+
+Here is Protection information for the Type 87 Japanese Self-Propelled Anti-Aircraft Gun (SPAAG):
+The Hull Armor is All-welded steel hull..
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is INA.
+The Active Protection System is No.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is INA.
+The Smoke Equipment is Equipped with 2 x 3 electric smoke dischargers. 1 on each side of the turret..
+

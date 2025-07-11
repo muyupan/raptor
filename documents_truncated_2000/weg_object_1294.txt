@@ -1,0 +1,81 @@
+This document describes the Stormer HVM British Short-Range Air Defense Missile System.
+
+The Stormer HVM (High Velocity Missile) is a short-range air defense system. It was developed primarily to counter the threat of attack helicopters and low-flying aircraft posed to armored formations. This air defense system is in service with the British Army.
+
+This equipment has proliferated into the following countries: Malaysia, United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the Stormer HVM British Short-Range Air Defense Missile System:
+The Stormer (FV4333) is Amphibious Armored Personnel Carrier (APC).
+The Stormer HVM is The British Army use Stormer equipped with HVM (Starstreak & Lightweight Multirole Missile) for short range air defence. Under Army 2020, Stormer HVM was to equip three regular and two reserve artillery batteries. The reserve batteries have since all been converted to HVM LML to reduce the training burden..
+The Stormer HVM is Short-range air defense missile system.
+The Shielder is Mine laying vehicle.
+
+Here is System information for the Stormer HVM British Short-Range Air Defense Missile System:
+The Alternative Designation is Stormer HVM.
+The Type is Short-Range Air Defense Missile System.
+The Manufacturer is Alvis Vehicles (now part of BAE Systems Land and Armaments),
+Coventry, West Midlands, U.K..
+The Configuration is Track.
+The Crew is 3 (commander, driver, section commander).
+The Passenger Capacity is 8.
+
+Here is Dimensions information for the Stormer HVM British Short-Range Air Defense Missile System:
+The Length is 5.6 m.
+The Height is 3.4 m.
+The Width is 2.8 m.
+The Ground Clearance is 0.43 m.
+The Combat Weight is 13.5 tons.
+
+Here is Automotive information for the Stormer HVM British Short-Range Air Defense Missile System:
+The Engine Name is 1 x Perkins T6-3544.
+The Engine Type is liquid-cooled, turbo-charged, in-line
+ 6-cyl diesel.
+The Engine Power is 250 hp at 1,700 rpm.
+The Power-to-Weight Ratio is 19.68 hp/metric ton.
+The Fuel Capacity is 107 gal (405 liters).
+The Transmission is David Brown Gear Systems T300 crossdrive, semi-automatic; 7 forward/
+7 reverse gears.
+The Suspension is torsion bar, 6 dual road wheels, front
+driver, rear idler, 2 return rollers.
+The Road Speed is 80 km/h.
+The Amphibious Track Speed is 7 km/h.
+The Amphibious Propeller Speed is 10 km/h.
+The Range is 650 km.
+The Vertical Obstacle is 0.46 m.
+The Trench is 1.75 m.
+The Fording is 1.00 m.
+The Turning Radius is 2.04 m.
+The Gradient is 60 percent.
+The Side Slope is 35 percent.
+
+Here is Main Weapon System information for the Stormer HVM British Short-Range Air Defense Missile System:
+The Name is Starstreak HVM.
+The Type is High-Velocity Missile (HVM).
+The Manufacturer is Thales Air Defense, Belfast, Northern Ireland, U.K. (formerly Shorts Missile Systems, Belfast).
+The Length is 1.40 m.
+The Diameter Missile is 127 mm.
+The Diameter Launch Tube is 274 mm.
+The Missiles Weight is 16.8 kg.
+The Engine is 1 x two-stage, solid-propellant rocket
+booster fires missile out of launch-tube and is jettisoned; flight motor accelerates.
+The Warhead Type is 3 x high-explosive darts with impact fuses.
+The Maximum Speed is Mach 4.
+The Maximum Range is 7 km.
+The Minimum Range is 300 m.
+The Acceleration Rate is Mach 4 within 300 m.
+The Time into Action is <10 sec.
+The Guidance System is semi-automatic command to line-of-sight (SACLOS).
+The Targeting System is laser-beam designation.
+The Basic Load is The Stormer has eight missiles mounted on the turret and can store an additional 12 inside the vehicle..
+The Note is The system features a roof-mounted air defense alerting device. The system's infrared scanner and processor provide target detection and prioritization. It automatically slews the weapon sight onto the target. Use of the alerting device requires the vehicle to be briefly stationary..
+
+Here is Protection information for the Stormer HVM British Short-Range Air Defense Missile System:
+The Hull Armor is Aluminum Hull. Protection from small arms fire and shell splinters..
+The Turret Armor is INA.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 2 x 4-barrel smoke dischargers.
+

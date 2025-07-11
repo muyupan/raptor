@@ -1,0 +1,167 @@
+This document describes the Bittium Tactical Wireless IP Network (TAC WIN) Finnish High-Data-Rate Wireless IP Network.
+
+With the Software Defined Radio (SDR) based Bittium Tactical Wireless IP Network (TAC WIN) battlegroups can create high-data-rate wireless IP networks as a backbone to support command and control (C2) data transmission during military operations. Compared to existing tactical data link networks, flexibility to use the Bittium solution in different frequency bands and network structures provides cost-effectiveness, ease of use, and efficiency.
+
+Bittium TAC WIN network can be deployed in any location. It enables the formation of an independent IP network and is compatible with existing infrastructure, both wire-line and wireless.
+
+As it is software-defined, the system is versatile, can be easily upgraded, and is easy to adapt. The system enables a mesh network solution with high data rates and automatic network configuration required by battlegroups on the move.
+
+Bittium TAC WIN has excellent performance and form factor as both network node and router functionalities are integrated into a single product.
+
+This equipment has proliferated into the following countries: Estonia, Finland.
+
+Here is System information for the Bittium Tactical Wireless IP Network (TAC WIN) Finnish High-Data-Rate Wireless IP Network:
+The Alternative Designation is Bittium Tactical Wireless IP Network (TAC WIN).
+The Type is High-Data-Rate Wireless IP Network.
+The Manufacturer is Bittium Corporation.
+The Crew is INA.
+The Components is Bittium TAC WIN Tactical Router;
+Bittium TAC WIN Radio Head III;
+Bittium TAC WIN Radio Head IV;
+Bittium TAC WIN Waveform;
+Bittium Network Manager..
+The Configuration is The Bittium TAC WIN can operate in point-to-point (P2P) links, point-to-multipoint (P2MP) connections, and MANETs in one logical network. MANET configuration The TAC WIN MANET configuration is used to build a network between independent nodes that can freely enter and exit the network while on the move or at a quick halt. Communication between the nodes is by direct and multi-hop connections with omnidirectional antennas. The usual number of nodes in one network varies between 5 and 30..
+The Flexibility is Single system for MANET, Point-to-Multipoint and Link use;
+Wireless and wired connections seamlessly integrated to one network using OLSR routing;
+Supporting multiple frequency bands: NATO I, III and IV..
+The Intergration is Standard IP interfaces and protocols supported;
+Built in support for integration of legacy CNR-radios using audio and serial data;
+Time and location information available for 3rd party systems..
+The Associated Systems is M18 C3 system.
+The Security is Bittium TAC WIN Waveform has TRANSEC that encrypts all data using AES-256..
+The Tactical VoIP Service is With built-in Bittium Tough VoIP Service, TAC WIN offers seamless and reliable voice in tactical network;
+Supporting tactical voice features, user and device mobility, integration to 3rd party SIP systems..
+The Range is Up to 45 km range per hop in Link/Point-to-Point use..
+The Management is Simple setup procedure.
+Self-organizing network. No need for user interaction during operation.
+Intuitive and visual Bittium Tactical Network Management system for the networks and nodes..
+
+Here is System information for the Bittium Tactical Wireless IP Network (TAC WIN) Finnish High-Data-Rate Wireless IP Network of the Bittium TAC WIN Tactical Router:
+The Services is Custom OLSR in TACTICAL network;
+Custom multicast in TACTICAL network;
+OSPF / BGP routing for external connections;
+Automatic IP address configuration;
+VLANs and configurable bridges;
+QoS: Traffic classifying and priority queues.
+The Interfaces is 3 x TAC WIN Radio units;
+4 x WAN (2 x RJ45 1000BASE-T / 2 x Fiber 1000BASE-LX);
+4 x LAN (1000BASE-T) with PoE (802.3af);
+8 x ITU-T G991.2 (GSHDSL);
+4 x serial/audio connector;
+2 x USB;
+GPS in/out;
+ERASE -button and ON/OFF -switch.
+The Ingress Protection is IP 67.
+The Other Services is Network configuration with single configuration file;
+SNMP interface;
+IPsec tunneling;
+Netflow;
+Firewall;
+3 different user levels;
+Easy to use local web GUI.
+The Routing Services is Custom OLSR in TACTICAL network;
+Custom multicast in TACTICAL network;
+OSPF / BGP routing for external connections;
+Automatic IP address configuration;
+VLANs and configurable bridges;
+QoS: Traffic classifying and priority queues (8 queues);
+SNMP v3;
+Radius server support;
+AAA;
+802.1X port authentication;
+Call admission control.
+The Tactical VoIP Service is Integrated Bittium Tough VoIP Service.
+The EMC is MIL-STD-461F.
+The Environment is MIL-STD-810G.
+The Power Consumption is <120 W (with PoE 250 W).
+The Operating Voltage is 10 - 60Vdc.
+The Operating Temperature is -40° to +55°C.
+The Storage Temperature is -40° to+ 70°C.
+
+Here is Dimensions information for the Bittium Tactical Wireless IP Network (TAC WIN) Finnish High-Data-Rate Wireless IP Network of the Bittium TAC WIN Tactical Router:
+The Height is 23 mm.
+The Width is 356 mm.
+The Depth is 400 mm.
+The Weight is 19.4 kg.
+
+Here is System information for the Bittium Tactical Wireless IP Network (TAC WIN) Finnish High-Data-Rate Wireless IP Network of the Bittium TAC WIN Radio Head I:
+The Frequency Band is 225-400 MHz.
+The Signal Bandwidth is 5 MHz.
+The Data Throughput with Bittium TAC WIN Waveform is 12 Mbps.
+The MIMO Support is Supports 2x2 MIMO.
+The Channel Raster is 250 kHz.
+The TAC WIN Waveform Tx Power is 2 x 4 W.
+The Operating Voltage is 10-60Vdc.
+The Operating Temperature is -40 - 55 °C.
+The Storage Temperature is -40 - 70 °C.
+The Ingress Protection Class is IP67.
+The Environment is MIL-STD-810G.
+The EMC is MIL-STD-461F.
+The Power Supply is 10–60 V DC.
+
+Here is Dimensions information for the Bittium Tactical Wireless IP Network (TAC WIN) Finnish High-Data-Rate Wireless IP Network of the Bittium TAC WIN Radio Head I:
+The Height is 160 mm.
+The Width is 256 mm.
+The Depth is 454 mm.
+The Weight is 18 kg.
+
+Here is System information for the Bittium Tactical Wireless IP Network (TAC WIN) Finnish High-Data-Rate Wireless IP Network of the Bittium TAC WIN Radio Head III:
+The Frequency Band is 1350-2400 MHz.
+The Signal Bandwidth is 5/10 MHz.
+The Data Throughput with Bittium TAC WIN Waveform is 26 Mbps.
+The Channel Raster is 250 kHz.
+The TAC WIN Waveform Tx Power is 4 W.
+The Operating Voltage is 10-60Vdc.
+The Operating Temperature is -40 - 55 °C.
+The Storage Temperature is -40 - 70 °C.
+The Ingress Protection Class is IP67.
+The Environment is MIL-STD-810G.
+The EMC is MIL-STD-461F.
+The Power Supply is 10–60 V DC.
+
+Here is Dimensions information for the Bittium Tactical Wireless IP Network (TAC WIN) Finnish High-Data-Rate Wireless IP Network of the Bittium TAC WIN Radio Head III:
+The Height is 160 mm.
+The Width is 256 mm.
+The Depth is 454 mm.
+The Weight is 18 kg.
+
+Here is System information for the Bittium Tactical Wireless IP Network (TAC WIN) Finnish High-Data-Rate Wireless IP Network of the Bittium TAC WIN Radio Head IV:
+The RH-IV Variant is Integrated patch antenna with 50° beam steering (gain 19dBi / beamwidth 9° / vertical polarization). Can be used with external antenna..
+The RH-IV High Gain Variant is Integrated fixed beam antenna with 9° beam (gain 23dBI / vertical polarization) and external rotator control interface..
+The Frequency Band is 4400-5000 MHz.
+The Signal Bandwidth is 5/10/20 MHz.
+The Data Throughput with Bittium TAC WIN Waveform is 50Mbps.
+The Channel Raster is 250 kHz.
+The TAC WIN Waveform Tx power is 1250 mW.
+The Operating Voltage is 16-60Vdc.
+The Operating Temperature is -40 - 55 °C.
+The Storage Temperature is -40 - 70 °C.
+The Ingress Protection Class is IP67.
+
+Here is DImensions information for the Bittium Tactical Wireless IP Network (TAC WIN) Finnish High-Data-Rate Wireless IP Network of the Bittium TAC WIN Radio Head IV:
+The Height is 385 mm.
+The Width is 520 mm.
+The Depth is 67 mm.
+The Weight is 10 kg.
+
+Here is System information for the Bittium Tactical Wireless IP Network (TAC WIN) Finnish High-Data-Rate Wireless IP Network of the Bittium TAC WIN Waveform:
+The Supported Bandwiths is 5 / 10 / 20 MHz.
+The Frequency Hopping is Slow and Fast.
+The GNSS is Yes and can operate without GNSS.
+The Radio Resource Management is QoS based network radio resource management.
+The Nodes Support is > 1000 nodes in one network.
+
+Here is System information for the Bittium Tactical Wireless IP Network (TAC WIN) Finnish High-Data-Rate Wireless IP Network of the Bittium Network Manager:
+The Tactical Network Management is Bittium Tactical Network Management system provides intuitive and visual tools for tactical network planning, real-time management of the networks and performance analysis based on big data collected from the network. This enables quick and effective deployment of the networks and successful operations..
+The Tactical Network Planner Tool is Yes.
+The Tactical Network Manager Tool is Yes.
+The Network Analytics Tool is Yes.
+The Supported Networks and Nodes is Bittium TAC WIN;
+Bittium Tough Comnode;
+Bittium Tough SDR Vehicular;
+Bittium Tough SDR Handheld.
+The Supported Services is Bittium Tough VoIP Service.
+The Supported Waveforms is Bittium TAC WIN Waveform;
+Bittium Narrowband Waveform;
+ESSOR High Data Rate Waveform.
+

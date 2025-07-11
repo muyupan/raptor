@@ -1,0 +1,76 @@
+This document describes the PD-2 Ukrainian Fixed-Wing Unmanned Aerial Vehicle (UAV).
+
+The PD-2 Ukrainian Fixed-Wing Unmanned Aerial Vehicle (UAV) is a ready-to-fly versatile modular solution designed for the execution of various missions in a wide geographic range and approved by militaries for militaries. The system is packed with high-end technologies, AES 128/256 encryption, advanced payloads, and anti-jamming technologies. PD-2 UAS is well-suited for military use, border control, surveillance, power line inspections, aerial photography, agriculture, search and rescue, and public safety applications.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the PD-2 Ukrainian Fixed-Wing Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is PD-2.
+The Type is Fixed-Wing Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Ukrspecsystems.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Standard Payload Capacity is 7 kg.
+The Maximum Payload Capacity is 11 kg.
+The Configurations is The PD-2 UAV was designed to change its configuration within 15 minutes with no tools required, depending on the mission factor. Rapidly change airframe configuration on the go wherever you are within 15 minutes. No tools are required.
+You can change take-off and landing methods, wingspan, endurance, MTOW, and payload weight..
+The Configuration 1 is VTOL fixed-wing configuration.
+The Configuration 2 is Conventional fixed-wing configuration
+with chassis.
+The Configuration 3 is Conventional fixed-wing configuration
+without chassis.
+The Launching System is Vertical, using 4 electric motors. No runway needed, able to take-off
+and land on a ship deck. Catapult launch and parachute recovery. No
+runway or chassis is needed..
+The Recovery System is Vertical, using 4 electric motors. No runway needed, able to take-off
+and land on a ship deck. Catapult launch and parachute recovery. No
+runway or chassis is needed..
+The Ground Control Station is GCS has two laptops for easy integration wherever you need (truck, container, etc). If
+the relief is flat and open it’s enough to use quadropod, once mission faces difficult
+terrain motorized mast comes in hand. Ground control station automatically enables
+frequency hopping in case of GNSS or signal loss. Moreover, there’s advanced
+software, that ensures features mentioned above to work perfectly on-the-go with
+no human intervention..
+The Payload Options is LiDAR, SAR, IMSI Cather, Radio Repeater.
+
+Here is Dimensions information for the PD-2 Ukrainian Fixed-Wing Unmanned Aerial Vehicle (UAV):
+The Length is INA.
+The Wingspan is 5 m.
+The Height is INA.
+The Maximum Takeoff Weight is 55 kg.
+
+Here is Automotive information for the PD-2 Ukrainian Fixed-Wing Unmanned Aerial Vehicle (UAV):
+The Engine Name is 4-stroke carburetor.
+The Engine Type is Gasoline Engine.
+The Engine Power is INA.
+The Maximum Speed is 140 km/h.
+The Cruising Speed is 100 km/h.
+The Service Ceiling is 4,500 m.
+The Maximum Climbing Rate is 3 m/2.
+The Maximum Range is 1,100 km.
+The Endurance is 8 hours.
+
+Here is Communications information for the PD-2 Ukrainian Fixed-Wing Unmanned Aerial Vehicle (UAV):
+The Radio Control Maximum Range is Encrypted Radio Communications Distance of 200 km. Standard communication configuration contains line of sight
+ground control station, using radio connection. It has two
+datalinks (the main one, used for video and telemetry exchange
+within 200+ km range, and backup one, for telemetry only), with
+the feature of automatic hopping between them in case of GNSS
+or signal loss and AES-256 encryption..
+The 3G/LTE communication is Data transmission is carried out using secure VPN
+technologies using TLS, IPSec, PPTP, L2TP protocols. This
+option allows you to establish communication with the
+UAV without range restrictions, provided that the cellular
+network coverage is stable. To ensure reliability, the
+modem registers itself simultaneously in the networks
+of two different operators of the cellular network and
+automatically selects the best one..
+The SATCOM is Line of sight type links certainly have their limitations due
+to range and weather interference. Satcom has historically
+been perceived as BLOS communication system, ensuring
+stable connection and data transmission at respective
+ranges. Provides low radio signature due to a narrow
+directional L-band antenna. Compatible with government
+grade encryption and secure communications standards,
+STU-IIIB, STE, TACLANE, KIV-7 and BRENT..
+

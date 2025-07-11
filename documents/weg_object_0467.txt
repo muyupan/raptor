@@ -1,0 +1,123 @@
+This document describes the M270 American Multiple Launch Rocket System (MLRS).
+
+The M270 Multiple Launch Rocket System (M270 MLRS) is an armored, self-propelled, multiple rocket launcher (a type of rocket artillery).
+
+Since the first M270s were delivered to the U.S. Army in 1983, the MLRS has been adopted by several NATO countries. Some 1,300 M270 systems have been manufactured in the United States and in Europe, along with more than 700,000 rockets. The production of the M270 ended in 2003, when a last batch was delivered to the Egyptian Army.
+
+MLRS was developed jointly by the United Kingdom, United States, West Germany, France and Italy, developed from the older General Support Rocket System (GSRS). The M270 MLRS weapons system is collectively known as the M270 MLRS Self-Propelled Loader/Launcher (SPLL). The SPLL is composed of three primary subsystems: the M269 Loader Launcher Module (LLM), which also houses the electronic Fire Control System, is mated to the M993 Carrier Vehicle. The M993 is a derivative of the Bradley Fighting Vehicle chassis.
+
+Cold War doctrine for the M270 was for the vehicles to spread out individually and hide until needed, then move to a firing position and launch their rockets, immediately move away to a reloading point, then move to a completely new hiding position near a different firing point. These shoot-and-scoot tactics were planned to avoid susceptibility to Soviet counterbattery fire. One M270 firing 12 M26 rockets would drop 7,728 bomblets, and one MLRS battery firing 108 rockets had the equivalent firepower of 33 battalions of cannon artillery.
+
+The system can fire rockets or MGM-140 ATACMS missiles, which are contained in interchangeable pods. Each pod contains six standard rockets or one guided ATACMS missile; the two types cannot be mixed. The LLM can hold two pods at a time, which are hand-loaded using an integrated winch system. All twelve rockets or two ATACMS missiles can be fired in under a minute. One launcher firing twelve rockets can completely blanket one square kilometer with submunitions. For this reason, the MLRS is sometimes referred to as the "Grid Square Removal System" (metric maps are usually divided up into 1 km grids). Or informally among artillery personnel as "the finger of God", since a single launcher can sanitize an entire grid square, which is about the size of a fingertip on a typical map. A typical MLRS cluster salvo consisted of three M270 vehicles each firing all 12 rockets. With each rocket containing 644 M77 grenades, the entire salvo would drop 23,184 grenades in the target area. However, with a two percent dud rate, that would leave approximately 400 undetonated bombs scattered over the area, which could endanger friendly troops and civilians.
+
+In 2006, MLRS was upgraded to fire guided rounds. Phase I testing of a guided unitary round (XM31) was completed on an accelerated schedule in March 2006. Due to an Urgent Need Statement, the guided unitary round was quickly fielded and used in action in Iraq. Lockheed Martin also received a contract to convert existing M30 Dual-Purpose Improved Conventional Munition (DPICM) GMLRS rockets to the XM31 unitary variant.
+
+The M31 GMLRS Unitary rocket transformed the M270 into a point target artillery system for the first time. Due to GPS guidance and a single 200 lb (91 kg) high-explosive warhead, the M31 could hit targets accurately with less chance of collateral damage while needing fewer rockets to be fired, reducing logistical requirements. The unitary warhead also made the MLRS able to be used in urban environments. The M31 had a dual-mode fuse with point detonation and delay options to defeat soft targets and lightly fortified bunkers respectively, with the upgraded M31A1 equipped with a multi-mode fuse adding a proximity airburst mode for use against personnel in the open; proximity mode can be set for 3 or 10 meters (9.8 or 32.8 ft) Height Of Burst (HOB). The GMLRS has a minimum engagement range of 15 km (9.3 mi) and can hit a target out to 70 km (43 mi), impacting at a speed of Mach 2.5.
+
+A German developmental artillery system, called the Artillery Gun Module, has used the MLRS chassis on its developmental vehicles.
+
+In 2012, a contract was issued to improve the armor of the M270s and improve the fire control to the standards of the High Mobility Artillery Rocket System (HIMARS). In June 2015, the M270A1 conducted tests of firing rockets after upgrades from the Improved Armored Cab project, which provides the vehicle with an enhanced armored cab and windows.
+
+This equipment has proliferated into the following countries: Bahrain, Egypt, Finland, France, Germany, Greece, Israel, Italy, Japan, Saudi Arabia, Turkey, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the M270 American Multiple Launch Rocket System (MLRS):
+The M270 is is the original version, which carries a weapon load of 12 rockets in two six-pack launch pod containers. This armored, tracked mobile launcher uses a stretched Bradley chassis and has a high cross-country capability..
+The M270 IPDS is was an interim upgrade applied to a select number of launchers to provide the ability to fire the longer-range GPS-aided ATACMS Block IA, quick-reaction unitary and Block II missiles until sufficient M270A1 launchers were fielded..
+The M270A1 is was the result of a 2005 upgrade program for the U.S. Army, and later on for several other states. The launcher appears identical to M270, but incorporates an improved fire control system (IFCS) and an improved launcher mechanical system (ILMS). This allows for significantly faster launch procedures and the firing of new types of munitions, including GPS guided missiles..
+The M270B1 is is a British Army upgrade, similar to the A1, but it also includes an enhanced armor package, which gives the crew better protection against IED attacks..
+The M270C1 is was an upgrade proposal from Lockheed Martin involving HIMARS Universal Fire Control System (UFCS) instead of IFCS.
+The MARS2 / LRU is is a European upgrade of M270 involving Germany, Italy and France. MARS2 is equipped with a new fire control system (EFCS - European Fire Control System) designed par Airbus Defense and Space. EFCS enables firing of M31, M31A1, M32, AT2 and 110 mm rockets, but not of M26, M26A1, and M30, so as to ensure full compliance with the Convention on Cluster Munitions..
+The M270D1 is includes a new fire control system that allows for firing GPS-guided rockets, such as GMLRS and ATACMS. The update package consists of a new computer, locating device, GPS antenna, launch control unit, displays and remote control device. Current operators include United States, United Kingdom, Bahrain, and Finland..
+
+Here is System information for the M270 American Multiple Launch Rocket System (MLRS):
+The Alternative Designation is M270.
+The Type is Multiple Launch Rocket System (MLRS).
+The Composite is The M270 multiple launch rocket system (MLRS), also known as the armored vehicle-mounted rocket launcher (AVMRL), consists of an M269 launcher loader module (LLM) bearing two six-cell rocket launch pods/containers (LP/C) mounted on an M993 carrier vehicle..
+The Crew is 3 (section chief, gunner and driver)
+crew can fire entire load from cab
+and can reload MLRS without other help..
+The Chassis is M993 carrier vehicle. The M993 is a modified M2 Bradley armored personnel carrier..
+The Displacement Time is Less than 5 min.
+The Emplacement Time is Less than 5 min.
+
+Here is Dimensions information for the M270 American Multiple Launch Rocket System (MLRS):
+The Length is 6.97 m.
+The Width is 2.97 m.
+The Height, Elevated is 5.93 m.
+The Height, Traveling is 2.62 m.
+The Track Length on Ground is 4.33 m.
+The Track Width is 0.53 m.
+The Ground Clearance is 0.43 m.
+The Combat Weight is 25,191 kg.
+The Unloaded Weight is 20,189 kg.
+The Launch Pad Weight is 2,270 kg.
+
+Here is Automotive information for the M270 American Multiple Launch Rocket System (MLRS):
+The Engine Name is 1 x Cummins VTA-903.
+The Engine Type is 903-cu in (14.8-liter) liquid-cooled, 4-stroke, turbo-charged, V-8 diesel.
+The Engine Power is 500 hp at 2400 rpm.
+The Power-to-Weight Ratio is 19.85 hp/metric ton.
+The Fuel Capacity is 617 liters.
+The Transmission is General Electric HMPT-500 hydro-mechanical; 3 forward/1 reverse range (variable ratios).
+The Suspension is torsion bar, 6 dual road wheels, front drive, rear idler, 2 shock absorbers, 4 return rollers.
+The Maximum Speed is 64 km/h.
+The Maximum Range is 483 km.
+The Gradient is 60 percent.
+The Vertical Obstacle is 1.00 m.
+The Trench is 2.29 m.
+The Fording is 1.10 m.
+
+Here is System information for the M270 American Multiple Launch Rocket System (MLRS) of the Main Weapon System:
+The Name is M269 launcher loader module (LLM).
+The Type is Launcher Loader Module.
+The Caliber is 227 mm.
+The Number of Cells is 12.
+The Elevation is 60 deg (1,067 mils).
+The Elevation Rate is 0.9 deg (15.5 mils)/sec.
+The Traverse is +/-194 deg (3,449 mils) each side of centerline.
+The Rate of Fire is less than one minute for 12 missiles.
+The Effective Firing Range is See Ammunition Types.
+The Reload Time is 4 min (M270) 3 min (M270A1).
+
+Here is Ammunition (Option 1) information for the M270 American Multiple Launch Rocket System (MLRS) of the Main Weapon System:
+The Name is M26 (Phase I).
+The Length is 3.94 m.
+The Diameter is 227 mm.
+The Weight is 306 kg.
+The Warhead is 156 kg.
+The Maximum Range is 32 km.
+The Basic Load is INA.
+
+Here is Ammunition (Option 2) information for the M270 American Multiple Launch Rocket System (MLRS) of the Main Weapon System:
+The Name is AT2 (Phase II).
+The Length is 3.94 m.
+The Diameter is 227 mm.
+The Weight is 259 kg.
+The Warhead is 107 kg.
+The Maximum Range is 40 km.
+The Basic Load is INA.
+
+Here is Ammunition (Option 3) information for the M270 American Multiple Launch Rocket System (MLRS) of the Main Weapon System:
+The Name is GMLRS.
+The Length is 3.94 m.
+The Diameter is 227 mm.
+The Weight is 302 kg.
+The Maximum Range is 60 km.
+The Basic Load is INA.
+
+Here is Fire Control information for the M270 American Multiple Launch Rocket System (MLRS):
+The Name is Westinghouse Norden FCS.
+The Computerized FCS is Yes.
+The Direct Fire is Yes.
+The Indirect Fire is Yes.
+The SRP/PDS is Bendix stabilization reference package/position determining system (SRP/PDS).
+
+Here is Protection information for the M270 American Multiple Launch Rocket System (MLRS):
+The Hull Armor is The cab is protected against small-arms fire and shell fragments by aluminum armor and louvred windows. Some U.S. M270s are equipped with a Mk 19 40-mm automatic grenade launcher on the roof..
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The NBC Protection is overpressure protection.
+The Smoke Equipment is INA.
+The EMP is Hardened electronics.
+

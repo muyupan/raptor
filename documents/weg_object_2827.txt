@@ -1,0 +1,23 @@
+This document describes the PRS-4 Chinese VHF Radio.
+
+The PRS-4 Chinese VHF Radio is the new generation VHF antijamming radio with digital signal processing (DSP) technology. It is widely used by infantry, artillery, reconnaissance group for tactical communication with small volume, light weight, and convenient for operation. The radio provides reliable voice and data communication with various operation modes.
+
+This equipment has proliferated into the following countries: China, Ukraine.
+
+Here is System information for the PRS-4 Chinese VHF Radio:
+The Alternate Designation is PRS-4.
+The Type is VHF Radio.
+The Manufacturer is INA.
+The Frequency Hopping is Yes.
+The Frequency Range is 30 - 88 MHz.
+The Channel Spacing is 25 KHz.
+The Power Output is 2W/0.35W.
+The Modulation Mode is FM.
+The Operating Temperature is -25 C~+55 C.
+
+Here is Dimensions information for the PRS-4 Chinese VHF Radio:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight is 1.5 kg.
+

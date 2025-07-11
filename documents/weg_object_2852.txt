@@ -1,0 +1,40 @@
+This document describes the Andromeda-D Russian Automated Command and Control (C2) System.
+
+The Andromeda-D ACS is a complex of automatic devices for equipping stationary and mobile troop command posts.
+
+The Andromeda-D is an automatic control system developed by Sozvezdie to meet the Russian Armed Forces requirement for network centric operations in real time. The Andromeda-D will make possible cooperation between ground and airborne forces installed on Armata, Kurganets and Boomerang armored vehicle families. The system provides real time information about the technical and tactical status of a given armored vehicle including speed, route, fuel and ammo reserves. The first stage of development of the new system will be completed by the end of 2017 with it going operational in 2018 or later. Andromeda-D affects the communications hardware supplied to the armored vehicles and above all software which is the key component of the new system. Actually, Andromeda-D was already being used by the Russian Airborne units within 2016.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Andromeda-D Russian Automated Command and Control (C2) System:
+The Alternative Designation is Andromeda-D.
+The Type is Automated Command and Control (C2) System.
+The Purpose is Andromeda-D as a division-to-soldier system, with stationary points for commanders down to battalion, and vehicle-mounted systems for tactical units.
+The Manufacturer is Scientific-Research Institute of Communications and Command and Control Systems.
+The In Service is 2017-Present.
+The Crew is Russian Airborne Troops.
+The Polet-K System Enabled is Yes.
+The GLONASS Receivers is Yes.
+The Software Package is The Andromeda-D Software package includes digital maps for each of the users to be able to update the information about enemy positions, weapons and vehicles online. In most cases, the positions of the friendly forces are downloaded to the computers automatically using the GLONASS/GPS positioning of the switched-on computers.
+
+Here is Dimensions information for the Andromeda-D Russian Automated Command and Control (C2) System:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is INA.
+The Note is Airborne’s Andromeda-D automated C2 system from the Sozvezdiye Corporation is a network of ES-1866 laptop computers enabling their users at all levels - from the branch’s commander down to a squad leader - to swap real-time information.
+
+Here is Automotive information for the Andromeda-D Russian Automated Command and Control (C2) System:
+The Chassis is The Andromeda-D can be mounted on a variety of vehciles ranging from: biaxial Kamaz trucks;  BTR-D Armored Personnel Carriers;  and BMD-2 or BMD-4 Amphibious Infantry Fighting Vehicles.
+The Operate on the Move is Yes.
+The Note is Andromeda-D is developed specifically for airborne troops and is adapted to loading onto a plane, flying and landing.
+
+Here is Communications information for the Andromeda-D Russian Automated Command and Control (C2) System:
+The Facsimile Communications is Yes.
+The Video Conferencing is Yes.
+The Data Transmission is Yes.
+The Special Purpose Telephone Communication is Yes.
+The Radio Channels is Available.
+The Radio Relay Channels is Available.
+The Satellite Communication Channels is Available.
+

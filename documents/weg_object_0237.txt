@@ -1,0 +1,74 @@
+This document describes the Eleron-3 Russian Reconnaissance Unmanned Aerial Vehicle (UAV).
+
+The Eleron-3 is a short-range tactical tail-less delta UAV with a maximum takeoff weight (MTOW) of 5.3kg carrying a 1kg payload. Manufactured by ENICS JSC it has a speed of 56 knots (104 km/h) and operates at a maximum altitude of 13,123 feet (4,000m). The Eleron-3 can perform autonomous, remote-controlled, and patrolling flights, and point observation missions. The UAV returns to the launch site autonomously and uses GPS and GLONASS signals for navigation.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Eleron-3 Russian Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Eleron-B is Export Model.
+
+Here is System information for the Eleron-3 Russian Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Alternative Designation is Elron-3; ZAO ENIX Eleron-3 (Aileron-3).
+The Type of UAV is Short-Ranged Surveillance and Reconnaissance UAV.
+The Manufacturer is ZAO Enix.
+The In Service is 2005-Present.
+The Flight Control Method is INA.
+The Day/Night Capable is Yes.
+The All Weather Capable is INA.
+The Takeoff or Landing Limitations is INA.
+The Ground Crew is No.
+The Ceiling, Maximum is 4,000.
+The Endurance is 2.
+The Range is the system’s range is planned to be extended to 250 km.
+The Date Transmit Distance is INA.
+The Launch System is launched by throwing it and can land by flying close to the ground and shutting its engine off..
+The Recovery System is launched by throwing it and can land by flying close to the ground and shutting its engine off..
+The Number of Hard Points is INA.
+The Manned-Unmanned Teaming (MUM-T) Capable is No.
+The Automatic Landing and Takeoff Capability is Yes.
+The Return to Launch site Autonomously is Yes.
+
+Here is Dimensions information for the Eleron-3 Russian Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Length is 1,470.
+The Width (Wing Span) is 635.
+The Height is INA.
+The Weight, Combat is 5.5.
+
+Here is Automotive information for the Eleron-3 Russian Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Maximum Range is the system’s range is planned to be extended to 250 km.
+The Speed, Maximum Road is 130.
+The Speed, Average is INA.
+The Endurance is INA.
+The Maximum Takeoff Weight is 5.3.
+The Payload Weight is up to 1kg.
+The Maximum Altitude is 4,000.
+
+Here is Communications information for the Eleron-3 Russian Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Radio is INA.
+The Retrans Radio is INA.
+
+Here is Fire Control information for the Eleron-3 Russian Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Radar Type is INA.
+The Radar Designator is INA.
+The Laser Rangefinder is Yes.
+The Laser Designator is INA.
+The GPS is Yes.
+The Navigation is Global Navigation Satellite System (GLONASS).
+The Still Camera is Yes.
+The Thermal Imaging Sensors is Yes.
+The IR Camera is Yes.
+The Low-Light Level TV Camera is YEs.
+
+Here is Protection information for the Eleron-3 Russian Reconnaissance Unmanned Aerial Vehicle (UAV):
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The Add on Armor is No.
+The EW is No.
+The EW Counter Measures / CCM is No.
+The Counter Measures (Chaffs/Flares) is No.
+

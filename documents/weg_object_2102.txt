@@ -1,0 +1,89 @@
+This document describes the Shandong Class (Type 002 Class) Chinese Aircraft Carrier.
+
+Shandong Class (Type 002 Class) Chinese Aircraft Carrier is a first-generation Chinese aircraft carrier that was launched on 26 April 2017 by the People's Liberation Army Navy (PLAN) of the People's Republic of China (PRC). It is the country's second aircraft carrier after the completion of Liaoning, and the first built domestically. Shandong was initially designated as a Type 001A air carrier during development but was finalized as Type 002 at the commissioning
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Shandong Class (Type 002 Class) Chinese Aircraft Carrier:
+The Alternative Designation is Shandong Class; Type 002 Class; Type 001A Class.
+The Type is Aircraft Carrier.
+The Builder is Dalian Shipbuilding Industry.
+The In Service is 2019-Present.
+The Pendent is CV-17.
+The Crew is 2,000.
+The Aircrew is 500.
+The Flag Staff is 126.
+The Endurance is 90 days.
+
+Here is Dimensions information for the Shandong Class (Type 002 Class) Chinese Aircraft Carrier:
+The Length is 315.
+The Beam, Waterline is 38.
+The Beam, Deck is 72.
+The Draught is 11.
+The Flight Deck Length is 304.5.
+The Flight Deck Width is 72.
+The Hanger Deck Length is 153.
+The Displacement, Standard is 48,000 tons.
+The Displacement, Full Load is 64,000 tons.
+
+Here is Propulsion System information for the Shandong Class (Type 002 Class) Chinese Aircraft Carrier:
+The Engine Name is INA.
+The Steam Boilers is 8.
+The Steam Turbines is 4.
+The Engine Power is 200,000 shp.
+The Shafts is 4.
+The Endurance is 90 days.
+
+Here is System information for the Shandong Class (Type 002 Class) Chinese Aircraft Carrier of the Main Gun System:
+The Name is 3 x Type 730 CIWS.
+The Type is Close-In Weapon System (CIWS).
+The Caliber is 30 mm.
+The Main Armament is The 30 mm Gatling gun mount designated as H/PJ-12 is extremely similar to the General Electric GAU-8/A Avenger. Although there are sources claiming that it is the Chinese version of the Russian Gryazev-Shipunov GSh-6-30 Gatling gun, this appears to be unlikely, since the Russian Gatling gun only has six barrels. H/PJ-12 is versatile in that its FCS can be either separately installed at different locations like the Soviet AK-630, or directly integrated on the gun mount. Like the American GAU-8/A Avenger, it is recommended not to fire longer than a single minute at a rate of 4,200 rounds per minute, after which the generated heat would begin melting the rifling of the barrels, shortening its useful life. Rates of fire beyond 4,200 rounds per minute increase wear. There are one （Type 730）or two （Type 730B/C, LD-2000）ammunition drums each contains 640（Type 730）or 500 （Type 730B/C, LD-2000）rounds, and other versions of the ammunition drums have been reportedly developed..
+The Barrels is 7 barrel.
+The Rate of Fire is 1,200-4,200 rounds/minute (Type 730)
+11,000 rounds/minute (Type 1130).
+The Effective Firing Range is 1–1.5 km.
+The Maximum Firing Range is 3 km.
+The Feed System is Type 730: One ammunition boxes, holding 640 rounds..
+The Guidance System is TR47C J-band radar
+OFC-3 electro-optical fire control system.
+
+Here is Ammunition information for the Shandong Class (Type 002 Class) Chinese Aircraft Carrier of the Main Gun System:
+The Type is Rifle.
+The Caliber is 30.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is System information for the Shandong Class (Type 002 Class) Chinese Aircraft Carrier of the Missile Weapon System:
+The Name is 3 x FL-3000N Ship-Defense Missile System.
+The Type is Ship-Defense Missile System.
+The Length is 2.00 m.
+The Diamter is 0.12 m.
+The Missile is HQ-10.
+The Missile Basic Load is INA.
+The Maximum Range Against High-Speed Targets is 6,000 m.
+The Maximum Range Against Low-Speed Targets is 9,000 m.
+The Minimum Range is 500 m.
+The Elevation is INA.
+The Traverse is INA.
+The Basic Load is 3 x FL-3000N Ship-Defense Missile Systems.
+
+Here is Onboard Aviation Facilities information for the Shandong Class (Type 002 Class) Chinese Aircraft Carrier:
+The Aircraft is 28-36 x J-15 naval fighters.
+The Helicopters is 12-16 x helicopters.
+
+Here is Fire Control System (FCS) information for the Shandong Class (Type 002 Class) Chinese Aircraft Carrier:
+The Type 730 CIWS FCS is The OFC-3 system is modular design that comprises a laser range finder, a color TV camera, and an IR camera, and the laser range finder can be replaced by a laser designator (for a laser beam-riding SAM), the TV camera can be replaced by a night vision camera, and the IR camera can be replaced by an ImIR, at higher cost. Development to incorporate the dual band IR, night vision camera, and the color TV camera is reportedly in progress.
+
+Type 730 CIWS is an autonomous closed-loop system and thus offers faster reaction time than the Russian AK-630. Type 730 CIWS is fully compatible with Chinese and European combat data systems such as ZKJ-1, ZKJ-4, ZKJ-4A-3, ZKJ-5, ZKJ-6, ZKJ-7, H/ZBJ-1, and Thomson-CSF TAVITAC, and can be directly integrated with these combat data systems without any modification..
+
+Here is Radar Systems information for the Shandong Class (Type 002 Class) Chinese Aircraft Carrier:
+The FCS Radar is The TR47C radar operates in the same way of AN/APY-1/2 radar on board E-3 Sentry in that the azimuth is scanned mechanically, while the elevation is scanned electronically, incorporating a total of 169 transceivers of phased array technology that enables the radar to pick up the splashes of 30 mm rounds. Like the western CIWS, the information is processed on site, via local computers of the radar and the gun mount, thus providing faster reaction time than the Russian design in which the radar and fire control system are separately located.
+
+The system can track a sea-skimming target with 0.1 square metre radar cross section at 8 km, extended to 15 km if the radar cross section is increased to 2 square metres, and further extended to 20 km if the radar cross section is increased to 10 square metres, though the targets could not be engaged until much closer (3 km) due to the limited range of the gun..
+
+Here is Protection information for the Shandong Class (Type 002 Class) Chinese Aircraft Carrier:
+The Hull is INA.
+The Active Protection System is INA.
+The NBC Protection is Yes.
+

@@ -1,0 +1,48 @@
+This document describes the Kasta 2E2 (Squat Eye E) Russian 6x6 Low-Altitude All-Around 3-D Surveillance Radar System.
+
+The Kasta-2E2 (Squat Eye E) Russian 3D surveillance radar is designed to conduct air surveillance, find range, azimuth, altitude, and track air targets like airplanes, helicopters, unmanned aerial vehicles, and cruise missiles, including low- and extremely low-level and stealthy air targets, in a heavy clutter environment.
+
+The Kasta-2E2 low-altitude 3D all-round surveillance radar is designed to control airspace and to perform automatic detection, range/azimuth/altitude measurements and flight path characteristics of fixed-wing and rotary-wing aircraft, unmanned aerial vehicles and cruise missiles, including low-flying, terrain-hugging, and stealth ones, in conditions of intensive clutter reflections from a background surface, local objects and weather formations.
+
+The Kasta-2E2 mobile automated solid-state low-altitude radar can be integrated into various military and civil-purpose systems used for air defense, coast and border control, air traffic control, and air operations control in aerodrome zones.
+
+The radar features a modular design with a solid-state emitter, digital data processing and automated operation, built-in functional testing system, a 14-m antenna tower to detect very low-flying air targets, high degree of immunity to interference from neighboring electronic assets when operating in close formations (protection rate – up to 50 dB).
+
+The Kasta-2E2 radar comprises a hardware vehicle, an antenna vehicle, a diesel-electric power plant mounted on all-terrain wheeled chassis; two single-axle trailers carrying auxiliary equipment; a remote workstation enabling radar control from a distance of up to 300 m.
+
+The radar can detect small-size targets, including low-speed ones, at great distances. It is a jam-immune, reliable, easy, and safe to operate and maintain asset that can be shipped by various transportation means. At customer request, a containerized radar variant can be supplied to operate with its antenna mounted on an Unzha-type mast. The radar features long detection ranges for small-sized low-level targets, including low-speed ones, and good jamming immunity. It is economic, reliable, operationally safe, and easy to maintenance. It can be carried by various means of transportation.
+Ref: http://defensetechs.com/wp-
+
+This equipment has proliferated into the following countries: Algeria, Iran (Islamic Republic of), Russian Federation, Viet Nam.
+
+Here is Measurement Accuracy information for the Kasta 2E2 (Squat Eye E) Russian 6x6 Low-Altitude All-Around 3-D Surveillance Radar System of the System:
+The Range is 100 m.
+The Azimuth is 40 degree minimum arc.
+The Altitude is 900 m.
+The Speed is 20 m/s.
+
+Here is Resolution information for the Kasta 2E2 (Squat Eye E) Russian 6x6 Low-Altitude All-Around 3-D Surveillance Radar System of the System:
+The Range is 300 m.
+The Azimuth is 5.5 degrees.
+
+Here is Dimensions (Chassis: KAMAZ-4310) information for the Kasta 2E2 (Squat Eye E) Russian 6x6 Low-Altitude All-Around 3-D Surveillance Radar System:
+The Length is 7.85.
+The Width is 2.5.
+The Height is 3.29.
+The Weight, Combat is 9.2.
+The Maximum Load is 6.
+
+Here is Automotive Dimensions (Chassis: KAMAZ-4310) information for the Kasta 2E2 (Squat Eye E) Russian 6x6 Low-Altitude All-Around 3-D Surveillance Radar System:
+The Engine Name is KamAZ-740.13-260.
+The Engine Type is Diesel.
+The Engine Power is 260.
+The Cruising Range is 1,000.
+The Speed, Maximum Road is 100.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.6.
+The Trench is 0.6.
+The Fording Depth is 1.75.
+

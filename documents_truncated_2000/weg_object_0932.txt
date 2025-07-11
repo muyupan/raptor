@@ -1,0 +1,128 @@
+This document describes the J-10S (Firebird) Chinese Combat Trainer Aircraft.
+
+J-10S: Tandem-seated trainer variant of J-10A.
+
+The Chengdu J-10 (NATO reporting name: Firebird, also known as Vigorous Dragon, is a single-engine, lightweight multirole fighter aircraft capable of all-weather operation, configured with a delta wing and canard design, with fly-by-wire flight controls, and produced by the Chengdu Aircraft Corporation (CAC) for the People's Liberation Army Air Force (PLAAF).
+
+J-10 was designed and developed by the Chengdu Aircraft Design Institute (CADI), a subsidiary of Chengdu Aircraft Corporation. The airframe is constructed from metal alloys and composite materials for high strength and low weight, the airframe aerodynamic layout adopts a "tail-less canard delta" wing configuration. A large delta wing is mid-mounted towards the rear of the fuselage, while a pair of canards (or foreplans) are mounted higher up and towards the front of the fuselage, behind and below the cockpit. This configuration provides very high agility, especially at low speeds, and also reduces stall speed, allowing for a lower airspeed during instrument approaches. A large vertical tail is present on top of the fuselage and small ventral fins underneath the fuselage provide further stability. A rectangular air intake ramp and a Splitter plate (only on J-10A) are located underneath the fuselage, providing the air supply to the engine. Newer variants use a diverter less intake that does not require a splitter plate, and may reduce radar cross signature. Also under the fuselage and wings are 11 hardpoints, used for carrying various types of weaponry and drop-tanks containing extra fuel. 
+The retractable undercarriage comprises a steerable pair of nose-wheels underneath the air intake and two main gear wheels towards the rear of the fuselage.
+The cockpit is covered by a two-piece bubble canopy providing 360 degrees of visual coverage for the pilot. The canopy lifts upwards to permit cockpit entry and exit. The Controls take the form of a conventional centre stick and a throttle stick located to the left of the pilot. These also incorporate "hands on throttle and stick" (HOTAS) controls. A zero-zero ejection seat is provided for the pilot, permitting safe ejection in an emergency even at zero altitude and zero speed.
+
+Due to the J-10's aerodynamically unstable design, a digital quadruplex-redundant fly-by-wire (FBW) flight control system (FCS) aids the pilot in flying the aircraft. The FCS typically monitors pilot control inputs, preventing the pilot from accidentally exiting the flight envelope from applying too much control input during high performance flight situations. This is critical in canard wing aircraft, as they are capable of turning in a much tighter radius than conventional aircraft. The massive control surfaces are capable of moving so far that they can completely destroy the aircraft in flight at high airspeeds if not kept in check by the FCS.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the J-10S (Firebird) Chinese Combat Trainer Aircraft:
+The J-10A is Single seat multi-role variant. The export designation is F-10A..
+The J-10S is Tandem-seated trainer variant of J-10A..
+The J-10B is An upgraded J-10, initially identified as "Super-10". It features a lighter and stealthier diverterless supersonic inlet, a longer nose radome possibly housing an active electronically scanned array radar, an electro-optic targeting sensor (IRST, and laser rangefinder,) and a new electronic warning or countermeasures pod atop the vertical stabiliser. The aircraft is powered by the AL-31FN M1; one unit was flown with a WS-10A in July 2011 but that engine was not selected for the initial production batch. The aircraft's first flight occurred no later than December 2008..
+The J-10C is An upgraded version of J-10B, it is equipped with an indigenous Active electronically scanned array (AESA) fire-control radar and is equipped with infrared-homing PL-10 and new long range PL-15 air-to-air missile (AAM)..
+The FC-20 is Single seat multi-role fighter jet, the export version of the J-10..
+The J-10B TVC Demonstrator is A prototype fighter based on J-10B that is equipped with WS-10B thrust-vectoring control engine. The fighter has supermaneuverability, capable of performing Pugachev's Cobra..
+
+Here is System information for the J-10S (Firebird) Chinese Combat Trainer Aircraft:
+The Alternate Designation(s) is Chengdu J-10S; NATO: Firebird.
+The Primary Function / Type is Combat Trainer Aircraft.
+The Manufacturer is Chengdu Aircraft Industry Group.
+The Crew is 2.
+The Number of Engines is 1.
+The Number of Hard Points is 11 in total (6× under-wing, 2× under-intake and 3× under-fuselage) with a capacity of 7,000 kg (15,400 lb) external fuel and ordnance.
+
+Here is Dimensions information for the J-10S (Firebird) Chinese Combat Trainer Aircraft:
+The Length is 16.43 m.
+The Height is 5.43 m.
+The Width (Wing Span) is 11.30 m.
+The Wing Area is 45.5 m sq.
+The Canard Span is 5.30 m.
+The Canard Area is 4.7 m sq.
+The Empty Weight is 9,730 kg.
+The Maximum Takeoff Weight is 24,650 kg.
+The Payload is 9,500 kg.
+
+Here is Automotive information for the J-10S (Firebird) Chinese Combat Trainer Aircraft:
+The Engine Name is 1 x Saturn Lyulka AL-31F.
+The Number of Engines is 1.
+The Engine Power is 27,558 lb (12,500 kg) static thrust.
+The Maximum Range is 1,853 km.
+The Maximum Speed is Mach 1.85-2.0 max.
+The Service Ceiling is 18,000 m.
+The Fuel Capacity, Internal is 4,470 kg.
+The Fuel Capacity, External is 5,650 kg.
+The Radius, Hi-Lo-Hi is 2,540 km.
+The Radius, Lo-Lo-Lo is 1,310 km.
+
+Here is System information for the J-10S (Firebird) Chinese Combat Trainer Aircraft of the Main Gun System:
+The Name is Gryazev-Shipunov GSh-23.
+The Type is Autocannon.
+The Caliber is 23mm.
+The Length is 1,387 mm.
+The Barrel Length is 1,000 mm.
+The Weight is 49.2 kg.
+The Barrels is 2.
+The Action is Gast principle.
+The Rate of Fire is 3,400–3,600 rounds/min.
+The Muzzle Velocity is 715 m/s.
+
+Here is Ammunition information for the J-10S (Firebird) Chinese Combat Trainer Aircraft of the Main Gun System:
+The Type is Autocannon.
+The Caliber is 23mm.
+The Cartridge is 23x115 mm.
+The Basic Load is 1,500 Rounds.
+
+Here is Missile System #1 information for the J-10S (Firebird) Chinese Combat Trainer Aircraft of the Missile Weapon System:
+The Name is PL-10 (ASR).
+The Type is Air-to-Air Missile.
+The Manufacturer is Luoyang Electro-Optics Technology Development Centre (EOTDC).
+The Length is 3.0 m.
+The Weight is 89 kg.
+The Diameter is INA.
+The Warhead is Blast-frag, or expanding rod (RF-fuse).
+The Detonation Mechanism is Laser proximity fuse and impact.
+The Engine is Solid-propellant rocket.
+The Guidance System is Multi-element imaging infrared.
+The Maximum Range is 60 km.
+The Note is The missile is fitted with a multi-element IIR seeker capable of +/-90 degree off boresight angles. The missile seeker can be slaved to a helmet-mounted display (HMD),allowing the pilot to track a target beyond the aircraft's radar scan envelope using the missile's high off-boresight capability, achieved by the pilot turning his head towards the target to lock-on, better known as "look and shoot". Flight is controlled by a thrust-vector controlled solid rocket motor and free-moving type control wings on the missile's tail. The central portion of the missile has long, thin strakes, which help maintain missile maneuverability in the terminal homing stage after the rocket motor stops firing..
+
+Here is Missile System #2 information for the J-10S (Firebird) Chinese Combat Trainer Aircraft of the Missile Weapon System:
+The Name is PL-11.
+The Type is Air-to-Air Missile.
+The Manufacturer is Shanghai Aerospace Bureau.
+The Length is 3.89 m.
+The Diameter is 0.286 m.
+The Wingspan is 0.68 m.
+The Weight is 310 kg (Some sources claim 220 kg).
+The Speed is Mach 4.
+The Maximum Range is 40 – 75 km, depending on the size, speed, and heading of the target.
+The Note is PL-11 did not enter Chinese service in very large numbers because it was only used as a stopgap measure until the more advanced PL-12 became available, and there is no confirmed export either..
+
+Here is Missile System #3 information for the J-10S (Firebird) Chinese Combat Trainer Aircraft of the Missile Weapon System:
+The Name is PL-12.
+The Type is Air-to-Air Missile.
+The Manufacturer is People's Republic of China.
+The Length is INA.
+The Diameter is INA.
+The Wingspan is INA.
+The Weight is 180 kg.
+The Operational Range is 100 km.
+The Guidance System is Active Radar.
+
+Here is Rocket Weapon System information for the J-10S (Firebird) Chinese Combat Trainer Aircraft:
+The Note is 90 mm unguided rocket pods.
+
+Here is Fire Control / Avionics information for the J-10S (Firebird) Chinese Combat Trainer Aircraft:
+The Fire Control Radar is Type 1473H pulse-doppler fire control radar.
+The Laser Desingator is INA.
+The Externally Mounted Avionic Pods is *Type Hongguang-I infra-red search and track pod
+*BM/KG300G self-protection jamming pod
+*KZ900 electronic reconnaissance pod
+*Blue Sky navigation/attack pod
+*FILAT (Forward-looking Infra-red Laser Attack Targeting) pod.
+
+Here is Protection information for the J-10S (Firebird) Chinese Combat Trainer Aircraft:
+The Stealth Properties is INA.
+The Heat Signature Reduction is INA.
+The Add on Armor is No.
+The NBC Protection is Yes.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

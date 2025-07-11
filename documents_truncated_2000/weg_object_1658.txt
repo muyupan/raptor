@@ -1,0 +1,302 @@
+This document describes the Type 054 Class (Jiangkai I Class) Chinese Frigate.
+
+The Type 054 (NATO Codename Jiangkai I) frigate is a Chinese multi-role warship that were commissioned in the People's Liberation Army Navy Surface Force in 2005. They superseded the Type 053H3 frigates. Two ships, 525 Ma'anshan, and 526 Wenzhou, were completed before production switched to the improved Type 054A frigate.
+
+The Type 054 has a stealthy hull design with sloped surfaces, radar absorbent materials, and a reduced superstructure clutter.
+
+The main anti-ship armament were YJ-83 sea-skimming anti-ship cruise missiles in two four-cell launchers. It retained the HQ-7 SAM, an improved version of the French Crotale, from the preceding Type 053H3; the HQ-7 had a ready-to-fire 8-cell launcher, with 16 stored in the automatic reloader. Short range defence was improved with four AK-630 CIWS turrets. A 100 mm main gun, also based on a French design, was mounted.
+
+Both ships were powered by four CODAD Type 16 PA6 STC marine diesel engines designed by SEMT Pielstick, each generating 6,330 hp. Licenses for the engines were sold to China in April 2002, where they were built by the Shaanxi Diesel Engine Factory. Other reports claimed each ship was powered by two (or four) Type 16 PA STC and two MTU 20V 956TB92 diesels.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the Type 054 Class (Jiangkai I Class) Chinese Frigate:
+The MAANSHAN is Commissioned: 2005
+Status: Active.
+The WENZHOU is Commissioned: 2005
+Status: Active.
+
+Here is System information for the Type 054 Class (Jiangkai I Class) Chinese Frigate:
+The Alternative Designation is Type 054 Class; JIANGKAI I class.
+The Date of Introduction is 2005.
+The Type is Frigate.
+The Builder is Hudong-Zhonghua Shipyard
+Huangpu Shipyard.
+The In Service is 2005-Present.
+The Crew is 190.
+
+Here is Dimensions information for the Type 054 Class (Jiangkai I Class) Chinese Frigate:
+The Length is 125 m.
+The Beam is 14 m.
+The Draft is 5 m.
+The Displacement, Standard is 3,400 tons.
+The Displacement, Full Load is 3,800 tons.
+
+Here is Propulsion System information for the Type 054 Class (Jiangkai I Class) Chinese Frigate:
+The Engine Name is 2 x SEMT Pielstick 16-cylinder PA6 STC diesel; 2 x Shaanxi diesel (license-built MTU 20V 956TB82).
+The Engine Type is Combined diesel and diesel (CODAD) system.
+The Engine Power is 25,320 hp (18,880 kW) total at 1,084 rpm; 2 shafts.
+The Maximum Range is 6,500 nm at 33.3 km/h (18 knots).
+The Maximum Speed is 33.6 km/h(30 knots).
+The Endurance is INA.
+
+Here is Gun Weapon System #1: Type 76A Twin, 37mm, AA Gun information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Gun Weapon Systems:
+The Name is Type 76A Twin 37mm AA gun.
+The Type is Naval Anti Aircraft.
+The Caliber is Munition specific (see ammunition section).
+The Quantity is 1.
+The Manufacturer is INA.
+The Length is 2.729 m including flash suppressor and breech.
+The Barrel Length is 2.315 m (62.5 calibers) without flash suppressor.
+The Weight is 126 kg.
+The Crew is INA.
+The Elevation is -10 / +85 degrees.
+The Traverse is INA.
+The Rate of Fire is INA.
+The Muzzle Velocity is Varies with projectile.
+The Effective Firing Range is Ballistic range: 8,400 m, Maximum AA ceiling: 5,000 m, Effective AA
+Ceiling 4,000 m.
+
+Here is Gun Weapon System #1, Type 76A, Ammunition: HE-FRAG/ HE-FRAG Tracer information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is HE FRAG: 4.7 Calibers/ HE FRAG Tracer 4.4 Calibers.
+The Shell is HE-FRAG/ HE- FRAG Tracer.
+The Basic Load is INA.
+The Muzzle Velocity is 880 mps.
+The Shell Weight is 1.496 kg.
+The Bursting Charge Weight is 0.732 kg.
+The Propellant Charge Weight is 0.21 kg.
+
+Here is Gun Weapon System #1, Type 76A, Ammunition: AP/ AP Tracer information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is AP tracer: 4.5 calibers/ AP: 4.2 calibers.
+The Shell is AP tracer/ AP.
+The Basic Load is INA.
+The Muzzle Velocity is 880 mps.
+The Shell Weight is 1.522 kg.
+The Bursting Charge Weight is 0.758 kg.
+The Propellant Charge Weight is 0.21 kg.
+
+Here is Gun Weapon System #2 : 2 × Type 730 7-barrel 30 mm CIWS guns information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Gun Weapon Systems:
+The Name is Type 730 CIWS.
+The Type is Close-In Weapon Station.
+The Caliber is 30mm.
+The Quantity is 2 x Type 730 CIWS Stations.
+The Barrel Length is INA.
+The Weight is INA.
+The Barrels is 7-barrel.
+The Rate of Fire is 1,200-4,200 rounds/minute.
+The Maximum Firing Range is 3 km.
+The Effective Firing Range is 150 m minimum, 1400 m interception, 2500 m effective against missiles (using APDS), 150-3500 meters against aircraft (using HE), 5000 meters against surface targets (using HE)..
+The Feed System is Type 730: One ammunition boxes, holding 640 rounds.
+The Guidance System is TR47C J-band radar
+OFC-3 electro-optical fire control system.
+
+Here is Ammunition Gun Weapon System #2: Type 730 7-barrel 30 mm CIWS guns information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 30mm.
+The Shell is High Explosive (HE), Armor Piercing Discarding Sabot (APDS).
+The Shell Weight is INA.
+The Basic Load is INA.
+The Shell Weight is INA.
+The Bursting Charge Weight is INA.
+The Propellant Charge Weight is INA.
+
+Here is Radar System #1: Type 382 Radar (NATO: Top Plate) information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Radar Systems:
+The Name is Type 382 Radar.
+The Type is Air search radar.
+The Alternate Designation is Top Plate (NATO).
+The Proliferation is China, Russia.
+The Frequency is Bands: S (E/F) and C (G/H) bands.
+The Beam is 2.7 degrees.
+The Pulse Width is INA.
+The Beam Width is INA.
+The PRF is INA.
+The Scan Rate is 30/minute.
+The Resolution is INA.
+The Range is 250 km.
+The Mast is INA.
+The Antenna is Planar array of MR-710.
+The Notes is Radiation Power: 100 kw.
+
+Here is Radar System #2: Type 344 information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Radar Systems:
+The Name is Type 344 Radar.
+The Type is Fire control Radar.
+The Alternate Designation is MR34.
+The Proliferation is China.
+The Frequency is I and J Band.
+The Beam is INA.
+The Pulse Width is INA.
+The Beam Width is INA.
+The PRF is INA.
+The Scan Rate is INA.
+The Resolution is INA.
+The Range is INA.
+The Mast is INA.
+The Antenna is INA.
+The Notes is The Type344 Radar:  
+Uses phase scanning techniques
+•Uses pulse compression, MTI (Moving Target Indicator) and CFAR (Constant False Alarm Rate)
+•Traveling Wave Tube (TWT) amplifier
+•Independent search capability in 10" X 10"
+•Able to track both surface and airborne targets.
+
+Here is Radar System #3: Type 345 Fire Control Radar information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Radar Systems:
+The Name is Type 345.
+The Type is Fire Control Radar.
+The Alternate Designation is INA.
+The Proliferation is INA.
+The Frequency is Ku/J Band.
+The Beam is INA.
+The Pulse Width is INA.
+The Polarization is Horizontal.
+The Beam Width is 1.2 degrees.
+The PRF is 3600 pps or 7200 pps.
+The Scan Rate is INA.
+The Resolution is ININAA.
+The Range is 30 km against 2m2 RCS aircraft; 15 km against sea skimming targets..
+The Mast is INA.
+The Antenna is 21 db gain.
+The Notes is None.
+
+Here is Radar System #4: MR-36A information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Radar Systems:
+The Name is MR-36A Radar.
+The Type is Surface search.
+The Alternate Designation is Type 363.
+The Proliferation is .
+The Frequency is E/F - band.
+The Beam is 1.65 x 8 deg.
+The Pulse Width is 5.5 – 12 microsec.
+The Polarization is Circular / Linear.
+The Beam Width is INA.
+The PRF is 2200/1100pps.
+The Scan Rate is 15 or 24 rpm.
+The Resolution is INA.
+The Range is 130 km.
+The Mast is INA.
+The Antenna is 29.5 db.
+The Notes is China Type 363 - (MR-36) Radar
+
+
+
+Track While Scan (TWS), Pulse-only Radar  Role: Radar, Target Indicator, 2D Surface-to-Air
+Max Range: 129.6 km.
+
+Here is Radar System #5: Racal RM-1290 Radar information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Radar Systems:
+The Name is Racal RM-1290.
+The Type is Navigation.
+The Alternate Designation is Peoples Liberation Army.
+The Proliferation is People's Liberation Army Navy, Pakistan Navy, Bangladesh Navy.
+The Frequency is J Band.
+The Beam is 1.3 degrees.
+The Pulse Width is 0.505 microseconds.
+The Polarization is Horizontal.
+The Beam Width is INA.
+The PFR is 1300 hz.
+The Scan Rate is INA.
+The Resolution is INA.
+The Range is INA.
+The Notes is INA.
+
+Here is VLS Missile System #1: HQ-16 Missiles information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Missile Weapon Systems:
+The Name is HQ-16 Missiles.
+The Type is Surface-to-Air Missile.
+The Quantity is 1 x 32-cell VLS System.
+The Launcher is 1 x 32-cell Vertical Launch System.
+The Length is INA.
+The Diameter is INA.
+The Speed is Mach 3.
+The Range is 40 km.
+The Guidance System is Semi-active radar homing.
+The Note is HQ-16 (Hongqi-16) - Co-developed by China and Russia, believed to be based on either the SA-11 or SA-17. Credited with a range of 40 km. Also known as the HQ-16A..
+
+Here is VLS Rocket System #2: YJ-83 Missile information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Missile Weapon Systems:
+The Name is YJ-83 Missile.
+The Type is Anti-Ship Cruise Missile.
+The Quantity is 2 x quad YJ-83 Launcher Systems.
+The Launcher is 2 x quad YJ-83 Launchers.
+The Length is INA.
+The Diameter is INA.
+The Engine is CTJ-2 turbojet.
+The Warhead is 190 kg high-explosive fragmentation.
+The Operational Range is 180 km.
+The Speed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+The Note is The US military considers the C-802 and C-802A as parts of the YJ-83 family.[4]
+
+The C-802 precedes the closely related YJ-83; strictly speaking, only the C-802A is the export development of the YJ-83.[5] The C-802 is sometimes and erroneously considered the export version of the YJ-82; the two are separate developments.[6]
+
+A prospective "C-803" was erroneously promulgated as the export version of the YJ-83 by enthusiasts in the late-1990s. As yet, no such missile exists..
+
+Here is Type 87 240mm anti-submarine rocket launcher (36 rockets carried) information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Missile Weapon Systems:
+The Name is Type 87.
+The Type is Type 81G ASW  Projectile.
+The Quantity is Three 2 x 12  Rockets.
+The Launcher is Manually reloaded.
+The Length is INA.
+The Diameter is INA.
+The Engine is Rocket.
+The Warhead is 34 kg High Explosive (HE).
+The Operational Range is 5 km.
+The Speed is INA.
+The Guidance System is FCS controlled by sonar.
+The Note is .
+
+Here is Torpedo, YU-7 Anti Submarine Warfare Torpedo information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Torpedo Weapon Systems:
+The Name is YU-7 Torpedo.
+The Type is Anti Submarine Warfare (ASW) Torpedo (2 x 3 laucher).
+The Length is 2.7 m.
+The Diameter is 324 mm.
+The Weight is 235 kg.
+The Warhead is High Explosive (HE).
+The Warhead Weight is 45 kg.
+The Effective Firing Range is 14.1 km.
+The Propellant is Otto fuel II.
+The Maximum Depth is 400 m.
+The Speed is >45 kts (83 km/h).
+The Guidance System is active / passive acoustic homing.
+The Guidance System is CIACIO-S seeker.
+
+Here is Torpedo, Yu-8 Anti Submarine Warfare (ASW), Rocket Propelled Torpedo information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Torpedo Weapon Systems:
+The Name is YU-8 ASW Rocket Propelled Torpedo.
+The Type is Light Torpedo.
+The Length is Approx 1.2 m.
+The Diameter is Approx 0.4 m.
+The Engine is Rocket motor.
+The Weight is Approx 0.6 ton.
+The Warhead is Semi-armor-piercing.
+The Warhead Weight is INA.
+The Effective Firing Range is Approx 20 km.
+The Propellant is Solid Fuel.
+The Maximum Depth is INA.
+The Speed is Supersonic.
+The Guidance System is Inertial in flight, passive / active sonar in water.
+
+Here is Onboard Aviation Facilities information for the Type 054 Class (Jiangkai I Class) Chinese Frigate:
+The Facilities is Helicopter Hanger.
+The Helicopters is 1 x Ka-28 or Harbin Z-9C helicopter.
+
+Here is Fire Control information for the Type 054 Class (Jiangkai I Class) Chinese Frigate:
+The FCS Name is See Weapon Systems.
+The Computerized FCS is Yes.
+The Radar FCS is 3 x Type 347G gun fire-control.
+
+Here is Sonar Systems information for the Type 054 Class (Jiangkai I Class) Chinese Frigate:
+The Search and Attack Sonar 1 is 1 x MGK-335 suite w/ Bull Horn active and Whale Tongue passive hull-mounted, medium-frequency search and attack.
+The Search and Attack Sonar 1 is H/SJG-206 is low frequency towed array sonar, the first towed sonar in China. Developed by ChinaShipbuilding Industry Corporation, it won second place in National Science & Technology Advancement Award in 2003, and it equips many Chinese primary surface combatant.
+
+Here is Protection information for the Type 054 Class (Jiangkai I Class) Chinese Frigate:
+The Active Protection System is Yes, 1 x HZ100 shipborne ECM/ELINT system.
+The Electronic Warfare is 1 x Type 922-1 radar warning intercept.
+The Decoys is 2 x  Type 726-4 18-tube decoy/chaff launcher.
+The NBC Protection is Yes.
+The ASW is 2 x six-tube Type 87 anti-submarine rocket launchers; 36 rockets carried.
+
+Here is Communications information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Communications and Electronic Warfare:
+The Satellite Communications is SNTI-240 SATCOM.
+The Satellite Communications is AKD5000S Ku band SATCOM.
+
+Here is Electronic Warfare information for the Type 054 Class (Jiangkai I Class) Chinese Frigate of the Communications and Electronic Warfare:
+The ECM/ELINT is HZ-100 ECM & ELINT system.
+The Missile Jamming System is Kashtan-3 missile jamming system.
+

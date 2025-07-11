@@ -1,0 +1,74 @@
+This document describes the R-330B Russian VHF Frequency Jamming System.
+
+Hezbollah Proliferation. The upgraded R-330B/R-330T VHF jamming system is designed for detection, direction-finding, and jamming of VHF communication facilities operated at tactical command level at fixed frequencies with conventional waveforms, in programmed and automatic frequency tuning modes, as well as for transmitting short encoded messages. The jamming system provides analysis and selection of emitters’ signal parameters.
+
+The R-330B/R-330T VHF jamming system consists of an equipment vehicle on a wheeled (R-330T) or tracked (R-330B) chassis, a diesel-electric power station mounted on a two-axle trailer (R-330T), or MT-Lbu armored tracked chassis (R-330B), a set of operational documentation, and a single spare part, tools, and accessories set.
+
+This equipment has proliferated into the following countries: Non-State Actors, Russian Federation.
+
+Here is Dimensions information for the R-330B Russian VHF Frequency Jamming System:
+The Length is 6.45.
+The Width is 2.86.
+The Height is 1.86.
+The Weight, Combat is 11,000.
+The Ground Pressure is 0.46 standard track / 0.28 wide track.
+
+Here is Automotive information for the R-330B Russian VHF Frequency Jamming System:
+The Engine Name is YaMZ 238 (Newer versions have the KamAZ-740.50 engine / 360 horsepower).
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 30.
+The Speed Maximum Swim is 5.
+The Fording Depth is Amphibious.
+
+Here is Jamming System information for the R-330B Russian VHF Frequency Jamming System:
+The Operational Frequency Range is 30-99.99999.
+The Azimuth Search Coverage is 360 deg.
+The Frequency Panoramic Scan Rate is Up to 1,900 MHz/s.
+The RMS Direction-Finding Error is Not more than 3 deg.
+The Transmitter Output Power is 1.0 kw.
+The Types of Received SIgnals is AM, FM, CW, SSB, ISB, FSK, PSK, Keying, PFT.
+The Types of Jamming Signals is Noise, Meander Type, with Random Encoding.
+The Jamming SPectrum Width, Narrowband is 2, kHz, 10 kHz, 20 kHz, 100 kHz.
+The Jamming SPectrum Width, Barrage is 1,000 kHz.
+The Number of Simultaneously Jammed RF Links is up to 3.
+The Detection-to-Suppression Time is Not more than 5 ms.
+
+Here is System information for the R-330B Russian VHF Frequency Jamming System of the Primary Weapon System on Most Variants:
+The Name is 1 x PKT.
+The Type is 7.62 mm, machine-gun.
+
+Here is Ammunition information for the R-330B Russian VHF Frequency Jamming System of the Primary Weapon System on Most Variants:
+The Type is API, API-T.
+The Caliber is 7.62.
+The Muzzle Velocity is INA.
+The Basic Load is 1,500.
+The Max Effective Range (Day) is 1,000.
+The Max Effective Range (On the move) is 500.
+The Maximum Aimed Range is 1,500.
+The Min Range is INA.
+The Armor Penetration is 8mm of RHA at 500m.
+The Other Ammunition Types is Light Ball, Ball-T, Heavy Ball, Incendiary.
+
+Here is Fire Control information for the R-330B Russian VHF Frequency Jamming System:
+The Name is INA.
+The Computerized FCS is INA.
+The Main Gun Stabilization is INA.
+The Range, Day Sight is 1,500.
+The Range, Thermal Sight is N/A.
+The Field of View is 23.
+
+Here is Protection information for the R-330B Russian VHF Frequency Jamming System:
+The Hull Armor is 14.
+The Turret Armor is 14.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is Optional.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+The Night Vision Device Capable is Yes.  Some versions have spot lights..
+

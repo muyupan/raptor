@@ -1,0 +1,63 @@
+This document describes the JMRC VISMOD GAZ-3121 Tigr 2 Russian 4x4 All-Terrain Infantry Mobility Vehicle.
+
+JMRC VISMOD GAZ-3121 Tigr 2 Russian 4x4 All-Terrain Infantry Mobility Vehicle
+
+Here is System information for the JMRC VISMOD GAZ-3121 Tigr 2 Russian 4x4 All-Terrain Infantry Mobility Vehicle:
+The Alternative Designation is JMRC VISMOD GAZ-3121 Tigr 2 Russian 4x4.
+The Type is All-Terrain Infantry Mobility Vehicle.
+The Manufacturer is Arzamas Machinery Plant, GAZ, other plants across the country included ARZ plants (e.g. CARZ172) (Russia).
+The Configuration is 4x4.
+The Crew is 1.
+The Passenger Capacity is 4.
+The Payload Capacity is 900 kg.
+The Towed Load is 2,000 kg.
+The Winch is A self-recovery winch can be mounted at the front of the vehicle..
+
+Here is Dimensions information for the JMRC VISMOD GAZ-3121 Tigr 2 Russian 4x4 All-Terrain Infantry Mobility Vehicle:
+The Length is 4.794 m.
+The Width is 2.20 m.
+The Height is 2.05 m.
+The Wheelbase is 3.23 m.
+The Weight, Empty is 6,200 kg.
+The Weight, Combat is 7,100 kg.
+The Ground Clearance, Rear Axle is 0.345 m.
+The Ground Clearance, Front Axle is 0.345 m.
+The Ground Clearance, Overall is 0.473 m.
+The Payload Capacity is 900 kg.
+The Towed Load is 2,000 kg.
+
+Here is Automotive information for the JMRC VISMOD GAZ-3121 Tigr 2 Russian 4x4 All-Terrain Infantry Mobility Vehicle:
+The Engine Name is Iveco F1C, EURO 3, EURO 5.
+The Engine Type is option, in line-4, turbocharged, common rail injection, water cooled, 4 stroke, diesel,.
+The Engine Power is 190 hp at 3,700 rpm.
+The Fuel Capacity is INA.
+The Gearbox is ZF 6HP 26, Automatic. 6 Forward, 1 Reverse.
+The Transfer Box is 2-speed, full-time four-wheel drive.
+The Electrical System is 34 V.
+The Batteries is 2 Ã 12V, 110Ah.
+The Alternator is 24V, 90A.
+The Suspension is independent with coil springs and shock-absorbers at each wheel station.
+The Steering is LS 2 B power-assisted.
+The Brakes is air-over-hydraulic, inboard discs front and rear, disengageable ABS for off-road operations.
+The Tires is 325/85 R 16 Michelin XML (optional 335/80 R 20).
+The Range is 500 km.
+The Maximum Speed is 110 km/h.
+The Amphibious is No.
+The Angle of Approach is 54Â°.
+The Angle of Departure is 44Â°.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Obstacle is 0.45m.
+The Turning Radius is 7.15 m.
+
+Here is Main Weapon System information for the JMRC VISMOD GAZ-3121 Tigr 2 Russian 4x4 All-Terrain Infantry Mobility Vehicle:
+The Note is JMRC VISMOD GAZ-3121 Tigr 2 Russian 4x4 All-Terrain Infantry Mobility Vehicle.
+
+Here is Protection information for the JMRC VISMOD GAZ-3121 Tigr 2 Russian 4x4 All-Terrain Infantry Mobility Vehicle:
+The Armor is STANAG 4569 Level 1 and 2..
+The Applique Armor is Available.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes.
+

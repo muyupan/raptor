@@ -1,0 +1,76 @@
+This document describes the HUGIN Norwegian Autonomous Underwater Vehicle (AUV).
+
+The HUGIN Norwegian Autonomous Underwater Vehicle (AUV) is the most successful commercial AUV available. It is the most capable AUV combining IHO quality positioning with the highest resolution sensors on the market. HUGIN collects data from many different sensors concurrently, providing a complete data product from a single mission. Hugin is available in several configurations and depth ratings. The main depth ratings are 3,000 meters; 4,500 meters; 6,000 meters.
+
+This equipment has proliferated into the following countries: Norway.
+
+Here is Variants information for the HUGIN Norwegian Autonomous Underwater Vehicle (AUV):
+The HUGIN Superior is The HUGIN Superior AUV System is the most capable commercially available AUV. It offers the best data quality and coverage coupled with the most accurate navigation and positioning solution there is. Packaged as a complete system, HUGIN Superior carries more sensors than ever before over greater distances enhancing productivity and cost effectiveness. HUGIN Superior is simply the best AUV you can get..
+The HUGIN Endurance is The HUGIN Endurance can be configured with a range of sensors focused on mission capabilities and situational awareness. This includes the proven hydro-acoustic instruments for mapping and inspection purposes, such as the KONGSBERG HISAS family of synthetic aperture sonars and the EM family of multi beams. Both underwater and surface awareness sensors are used for autonomous decision making..
+
+Here is System information for the HUGIN Norwegian Autonomous Underwater Vehicle (AUV):
+The Alternative Designation is HUGIN.
+The Type is Autonomous Underwater Vehicle (AUV).
+The Builder is Kongsberg.
+The Crew is The HUGIN can operate autonomously or under supervision, meaning operators can monitor its progress and receive real­ time samples of the sensor data for quality control Purposes.
+The Mission is COMMERCIAL APPLICATIONS:
+High-resolution high-speed seabed; mapping and imaging;
+Geophysical site inspection;
+Pipeline and subsea structure inspection;
+Oceanographic surveys;
+Environmental monitoring;
+Marine geological survey;
+Search operations.
+DEFENCE APPLICATIONS:
+Mine countermeasures - MCM;
+Rapid environmental assessment - REA;
+Intelligence, surveillance, and reconnaissance - ISR..
+The Configurations is The HUGIN is available in several configurations and depth ratings. The main depth ratings are 3,000 meters; 4,500 meters; 6,000 meters..
+The Operating Station is The Operator Station includes a monitor and an operator panel with interfaces to payload operator stations and vessel mounted sensors like dGPS, HiPAP, ship attitude sensor, acoustic link and RF link systems..
+The Portable Survey Tool is The complete HUGIN system can be supplied in DnV certified shipping containers. Everything required for day-to-day operations is installed in the containers making HUGIN
+a portable survey tool..
+The Environmental and Geochemical Sensors. is Yes.
+The Navigation System is Aided Inertial Navigation System (AINS).
+The Camera is Sub-bottom profiler Still Image Camera Turbidity.
+The Payload Sensors is Typical payload sensors are synthetic aperture sonar or side-scan sonar, multibeam echo sounder, sub-bottom profiler, camera, CTD and volume search sonar..
+
+Here is Dimensions information for the HUGIN Norwegian Autonomous Underwater Vehicle (AUV):
+The Length is 5.2 - 6.4 m.
+The Outer Diameter is 0.75 m.
+The Draft is Submersible.
+The Weight is 1000 - 1550 kg.
+The Weight in Water is Neutrally Buoyant.
+The Displacement, Full Load is INA.
+The IP Code is IP9064/5920.
+
+Here is Propulsion System information for the HUGIN Norwegian Autonomous Underwater Vehicle (AUV):
+The Engine Name is INA.
+The BatteryType is Pressure tolerant lithium polymer battery.
+The Power Packs is 1 or 2 exchangeable 24 kWh power packs.
+The Charge Time is 5-8 hours.
+The Range is INA.
+The Speed is 2-6 knots.
+The Maximum Depth is The HUGIN is available in several configurations and depth ratings. The main depth ratings are 3,000 meters; 4,500 meters; 6,000 meters..
+The Endurance is 24-74 hours with all sensors operating.
+
+Here is Communications information for the HUGIN Norwegian Autonomous Underwater Vehicle (AUV):
+The cNODE Acoustic Command and Data Link is Yes.
+The Wi-Fi Capable is Yes.
+The Iridium Satellite Communications is Yes.
+The UHF Radio Link is Yes.
+The Note is HUGIN AUVs are equipped with acoustic communication links providing real time status monitoring of the vehicle and payload sensors. The acoustic links also add the capability to receive payload data from the vehicle in real time as a quality measure, ensuring an effective survey..
+
+Here is Sonar Systems information for the HUGIN Norwegian Autonomous Underwater Vehicle (AUV):
+The Forward Looking Sonar is Forward Looking Sonar with advanced terrain following and collision avoidance.
+The Synthetic Aperture Sonar is HISAS interferometric synthetic aperture sonar.
+The Sidescan Sonar is Yes.
+The Echo Sounder is EM2040 high-performance multibeam echo sounder.
+The Doppler Velocity Log is Broadband 300 kHz Doppler velocity log.
+The Depth Sensor is Paroscientific Digiquartz depth sensor.
+The Terrain Referenced Navigation is Terrain referenced navigation (option).
+
+Here is Protection information for the HUGIN Norwegian Autonomous Underwater Vehicle (AUV):
+The Hull is INA.
+The Countermeasures is No.
+The NBC Water Washdown System is No.
+

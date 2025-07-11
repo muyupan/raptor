@@ -1,0 +1,83 @@
+This document describes the VARIANT Danish 2D Surveillance and Target Indication Radar.
+
+Variant is Thales Naval Nederland's latest 2D surveillance and target indication radar. Its principal role is as an automatic, fast reaction time radar sensor supplying targeting data to weapon systems. Targeting data is supplied for both air and surface targets simultaneously. Variant is a dual-band radar, utilising both the I- and G-Bands. Fully coherent, Variant provides pulse doppler operation for optimal clutter suppression and air target detection. Automatic “Hands off” target detection and tracking is provided by Thales Naval Nederland's modular digital processing.
+
+Outstanding ECM facilities are provided by the ability to operate over two frequency bands, an octave apart, and an integral Low Probability of Intercept (LPI) radar sensor. This LPI sensor can be used alone, thus providing Variant the unusual ability to operate in a mode that is almost undetectable to external ESM. Variant's low power consumption, lightweight construction and compact design, make the system well suited for use in fast patrol boats and other small ships.
+
+Variant is based on a double pill-box antenna, having a horizontal beamwidth of 1.8° and a vertical beamwidth of 14°. The transmitter is a Traveling Wave Tube with an average power of 200 W. Processing is based on digital pulse compression, Fast Fourier Transform processing, plot processing and automatic tracking. Detection range against a typical air target is given as about 30 km in G-Band and 28 km in I-Band.
+
+The Variant radar system supplies the following principal functions:
+*Surface target detection
+*Surface target tracking
+*Air target detection
+*Air target tracking
+*Gun-fire targeting support
+
+These functions are supported by the following features:
+*Automatic air target track initiation and maintenance
+*Manual surface track initiation
+*Automatic surface track maintenance
+*Splash-spotting gunfire support for pre-action calibration
+*Extensive ECM facilities including integral LPI radar
+*Integral IFF antenna
+
+This equipment has proliferated into the following countries: Denmark.
+
+Here is System information for the VARIANT Danish 2D Surveillance and Target Indication Radar:
+The Alternative Designation is VARIANT.
+The Type is 2D Surveillance and Target Indication Radar.
+The Manufacturer is Thales Group.
+The Crew is INA.
+The Military Features is VARIANT has typical military features including excellent
+surface gun fire support, hovering helicopter detection and
+protection against jamming. Its tracking is optimised for low
+false alarm rate and high track continuity. Rigorous testing
+to military standards ensures robust operation under the
+most demanding circumstances..
+The Dual Band Operation is Dual band (X-band and C-band) operation is jammer
+resistant. It always offers the best band to achieve robust
+performance under varying environmental conditions such
+as multipath, ducting and weather..
+The Low Probability of Intercept (LPI) is Emissions from the integrated SCOUT antenna are difficult
+to detect. The applied Frequency Modulated Continuous
+Wave (FMCW) technique uses extremely low power. Unlike
+pulse radars with quasi LPI modes, detection performance
+is not sacrificed. This feature is called ‘True LPI‘ (Low
+Probability of Intercept). It allows VARIANT to operate
+covertly in in a hostile environment while providing a very
+high resolution..
+The Features is • Fully automatic detection and tracking of air and surface
+targets
+• Surface Gun Fire support
+• Helicopter detection and classification, based on Spread
+Spectrum Indication (SSI)
+• Extensive ECCM facilities including dual band operation
+• Low Probability of Intercept (LPI) using the integrated
+FMCW radar SCOUT
+• Integral IFF antenna with monopulse capability
+(Mode 5/S)
+• Mechanical two axes stabilisation.
+The Update Rate is 4.4 & 2.2 sec.
+The Elevation Coverage is Up to 35°.
+The Frequency Bands is G-band & I-band.
+The Beamwidth Main Radar is 1.8° (G-band); 1.2° (I-band).
+The Beamwidth FMCW Radar is 1.5°.
+The Peak Power is 2 kW (main radar);
+3W (FMCW radar).
+The IFF Antenna is Integrated.
+The MTBCF & MTBF is >1560 & >1270.
+The Processing (Main Channel) is Digital pulse compression
+and FFT based pulse Doppler
+processing.
+The Air Targets Maximum Range is 120 km instrumented.
+The Surface Targets Maximum Range is 70 km instrumented.
+The Minimum Range is <25m.
+The Tracking Capacity is 200 air tracks
+200 surface tracks.
+
+Here is Dimensions information for the VARIANT Danish 2D Surveillance and Target Indication Radar:
+The Length is 1.16.
+The Width is 2.35.
+The Height is 2.
+The Weight, Combat is 450.
+

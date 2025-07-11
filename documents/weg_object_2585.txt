@@ -1,0 +1,70 @@
+This document describes the Yak Swiss 6x6 Multi-Role Armored Vehicle.
+
+The Yak is an armored multipurpose vehicle designed and manufactured and assembled in Germany and Switzerland. The vehicles are designed to provide a user with one vehicle family that can be used to perform multiple C2 and support functions. The Yak is based on the MOWAG DURO III chassis, which reduces the cost of maintenance and through life logistics support.
+
+This equipment has proliferated into the following countries: Germany, Switzerland.
+
+Here is Variants information for the Yak Swiss 6x6 Multi-Role Armored Vehicle:
+The YAK Ambulance is The emergency ambulance, or Mobile Medical Team Vehicle as it is officially called, is provided with a full range of specialist medical equipment plus four individual seats down the left side of the rear module and a single stretcher position on the right side..
+The Bio-YAK is used for NBC reconnaissance..
+The YAK EOD is used to dispose of mines, IEDs, and unexploded ordnance..
+The YAK Luna is used as a control post for the LUNA UAV..
+The YAK MP is used for military police operations..
+
+Here is System information for the Yak Swiss 6x6 Multi-Role Armored Vehicle:
+The Alternative Designation is Yak.
+The Type is Multi-Role Armored Vehicle.
+The Manufacturer is MOWAG and Rheinmetall.
+The Configuration is 6x6.
+The Crew is 2.
+The Passenger Capacity is 12.
+The Airlift Capability is This transport vehicle can be airlifted by the C-130, C-160 or A400M military transport aircraft..
+
+Here is Dimensions information for the Yak Swiss 6x6 Multi-Role Armored Vehicle:
+The Length is 6.715 m.
+The Width is 2.42 m.
+The Height is 2.92 m.
+The Weight, Standard is 6,500 kg.
+The Weight, Combat is 12,900 kg.
+The Wheelbase is 3.53 m + 1.15 m.
+The Ground Clearance is 0.4 m.
+
+Here is Automotive information for the Yak Swiss 6x6 Multi-Role Armored Vehicle:
+The Engine Name is Cummins ISBe 250.
+The Engine Type is 6 cylinders, turbocharged, diesel.
+The Engine Power is 250 hp at 2,500 rpm.
+The Fuel Capacity is 180 liters.
+The Maximum Speed is 100 km/h.
+The Range is 700 km.
+The Gearbox is Allison S 2000.
+The Transfer Box is MOWAG 2 S 22 synchronised two-level with spin-resistant Torsen longitudinal differential.
+The Steering is ZF Servocom 8095 ball and nut type.
+The Suspension is coil springs, gas pressure shock-absorbers, and Cellasto overload springs.
+The Electrical System is 24V.
+The Brakes is dual-circuit pneumatic/hydraulic disc with ABS.
+The Tires is 335/80 R20 with RFIs.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Angle of Departure is 47°.
+The Angle of Approach is 47°.
+The Fording is 1.2m.
+The Vertical Obstacle is 0.50 m.
+The Turning Radius is 8 m.
+
+Here is Main Weapon System information for the Yak Swiss 6x6 Multi-Role Armored Vehicle:
+The Note is The vehicle can be fitted with a roof-mounted remotely controlled weapon station, armed with 7.62 mm machine gun or 40 mm automatic grenade launcher..
+
+Here is Fire Control information for the Yak Swiss 6x6 Multi-Role Armored Vehicle:
+The Name is INA.
+The Computerized FCS is None.
+The Day Camera is Rheinmetall Vingeye CCD day camera.
+The Thermal Camera is Thales Thermal Imaging Module (TIM) thermal camera.
+
+Here is Protection information for the Yak Swiss 6x6 Multi-Role Armored Vehicle:
+The Hull Armor is Baseline protection is against 7.62 mm rounds and artillery shell splinters. Vehicle can withstand 6 kg anti-tank mine blast under any wheel..
+The Applique Armor is Protection level of cabin and shelter can be adapted using add-on armor to suit specific mission requirements..
+The Explosive Reactive Armor is No.
+The Mine Clearing is No.
+The NBC Protection is The Yak is fitted with NBC protection system..
+The Smoke Equipment is INA.
+

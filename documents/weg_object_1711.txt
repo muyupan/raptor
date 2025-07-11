@@ -1,0 +1,46 @@
+This document describes the Vityaz-D Russian Autonomous Underwater Vehicle (AUV).
+
+The Vityaz-D Russian Autonomous Underwater Vehicle (AUV) is the world’s first fully autonomous unmanned underwater vehicle (UUV) that reached the World Ocean’s deepest point, the Mariana Trench.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Vityaz-D Russian Autonomous Underwater Vehicle (AUV):
+The Alternative Designation is Vityaz-D.
+The Type is Autonomous Underwater Vehicle (AUV).
+The Builder is Central Design Bureau for Marine Engineering (RUBIN).
+The Missions is The underwater vehicle is also capable of conducting search and bathymetric survey of the area, sonar survey of the bottom topography, as well as measuring hydrophysical parameters of the marine environment. The underwater drone can be deployed in search and research (SAR) missions on the seabed layer, as well as on the bottom of oceans at depths up to 12,000m. It is also used to explore AUV production technologies and materials for future AUV systems that can operate in extremely deep waters of the oceans..
+The Crew is Autonomous.
+The Autonomous Uninhabited Apparatus (ANPA-SGP) is Yes.
+The Artificial iItelligence (AI) System is Yes, which enables it to avoid obstacles along its course and discover confined spaces..
+The Deep-Sea Bottom Station is Yes, 1 x GDS-SN System..
+The Environmental Parameters Sensing System is Yes.
+The Doppler Log is Yes.
+The Photo/Video Cameras is The vehicle is equipped with 4 x photo / video cameras..
+The Maximum Depth is 12,000 m.
+
+Here is Dimensions information for the Vityaz-D Russian Autonomous Underwater Vehicle (AUV):
+The Length is 5.7 m.
+The Diameter is 1.3 m.
+The Draft is Submersible.
+The Weight is 5.7 tons.
+
+Here is Propulsion System information for the Vityaz-D Russian Autonomous Underwater Vehicle (AUV):
+The Thrusters is 10 x Electric Thrusters.
+The Main Power is 4 x Power Units.
+The Maximum Range is INA.
+The Submerged Speed is 1m/s.
+The Maximum Depth is 12,000 m.
+The Endurance is 24 hours.
+
+Here is Communications information for the Vityaz-D Russian Autonomous Underwater Vehicle (AUV):
+The Note is Vityaz-D handles communications through different channels, including sonar, satellite and UHF communications, as well as through Wi-Fi channel. The data gathered by deep submersible vehicle is transmitted to the mother vessel and the bottom grab station through a hydro-acoustic channel..
+
+Here is Sonar Systems information for the Vityaz-D Russian Autonomous Underwater Vehicle (AUV):
+The Side-Scan Sonar is Yes, Dual-Frequency Side-Scan Sonar.
+The Echo Sounders is 4.
+
+Here is Protection information for the Vityaz-D Russian Autonomous Underwater Vehicle (AUV):
+The Hull is INA.
+The Countermeasures is No.
+The NBC Water Washdown System is No.
+

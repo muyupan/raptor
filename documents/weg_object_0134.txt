@@ -1,0 +1,47 @@
+This document describes the E-7 Wedgetail American Airborne Early Warning and Control System Aircraft.
+
+The E-7 Wedgetail  AEW&C is a twin-engine airborne early warning and control aircraft based on the Boeing 737 Next Generation design. 
+
+This equipment has proliferated into the following countries: Australia, South Korea (Republic of Korea), Turkey, United Kingdom of Great Britain and Northern Ireland.
+
+Here is Dimensions information for the E-7 Wedgetail American Airborne Early Warning and Control System Aircraft:
+The Length is 33.63 m.
+The Width (Wing Span) is 34.32 m.
+The Wing Area is 124.5 m sq.
+The Height is 12.55 m.
+The Cabin Length is 24.13 m.
+The Cabin Width is 3.53 m.
+The Cabin Height is 2.13 m.
+The Wheel Base is 12.57 m.
+The Wheel Track is 5.69 m.
+The Empty Weight is 46,606 kg.
+The Maximum Takeoff Weight is 77,110 kg.
+
+Here is Automotive information for the E-7 Wedgetail American Airborne Early Warning and Control System Aircraft:
+The Engine Name is 2 x CFM Intl CFM56-7B.
+The Engine Type is Turbofan.
+The Engine Power is 24,000 lbf (106.8 kN).
+The Fuel Capacity is 26,036 liters.
+The Maximum Speed is 931 kph.
+The Cruise Speed is 759 kph.
+The Ceiling is 12,500 m.
+The Range is 7,040 km.
+The Endurance is 10 hours.
+
+Here is Radar information for the E-7 Wedgetail American Airborne Early Warning and Control System Aircraft of the Sensors and Electronics:
+The Name is Northrop Grumman MESA.
+The Band is L.
+The Maximum Range is 370 km.
+The Maximum Targets is 3,000 air and sea tracked simultaneously.
+The Apertures is 3.
+The Coverage is 360 deg; 1.5 million sq mi (4 million sq km).
+The IFF Range is 556 km.
+
+Here is Protection information for the E-7 Wedgetail American Airborne Early Warning and Control System Aircraft:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is No.
+The NBC Protection is INA.
+The EW Counter Measures is Elta Electronics SP/ESM.
+The Chaffs/Flares is Yes.
+

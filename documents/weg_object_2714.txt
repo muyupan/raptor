@@ -1,0 +1,68 @@
+This document describes the BTM-3 Russian Trenching Machine.
+
+The fast trench-digging vehicle BTM-3 is designed to dig defensive and communication trenches in soils of up to IV type. The BTM consists of the basis vehicle and digging equipment. A heavy artillery prime-mover was used as the vehicle basis. When the vehicle is moving in transport mode, the gear box provides five gears for forward movement and one for backward. As soon as the vehicle starts digging trenches speed is decreased.
+
+
+The BTM can dig trenches in curves with a minimum radius of 25 m. The vehicle can switch from transport mode to operating (digging) mode in 10 minutes. When digging at 3rd gear, the BTM can approximately dig an 800 meter long man-sized trench in one hour.
+
+This equipment has proliferated into the following countries: Cambodia, CFE Treaty, Russian Federation.
+
+Here is System information for the BTM-3 Russian Trenching Machine:
+The Alternative Designation is BTM-3.
+The Type is Trenching machine.
+The Family is BTM.
+The Crew is 2.
+The Troop Compartment Capacity is INA.
+The Chassis is Russian T-54 medium tank, however their ends were swapped in order to make an engine compartment at the front. So the AT-T and BTM-3 are essentially driving backwards comparing with the T-54 tank..
+The Bulldozer Blade is Available.
+The Crane is No.
+The Ground Penetrating Radar is No.
+The Mine Clearing is No.
+The Proofing Roller is No.
+The Bucket Loader is No.
+The Back-hoe Excavator is No.
+The Scatterable Mine Dispenser is No.
+The Ditch Trencher is Yes.
+The Note is The BTM-3 could dig straight, zigzag, or curved trenches. The rotor unloads the soil next to the trench, creating front and rear parapet of the trench which is around 0.5 m tall and provides additional protection..
+
+Here is Dimensions information for the BTM-3 Russian Trenching Machine:
+The Length is 7.0.
+The Width is 3.17.
+The Height is 4.32.
+The Weight, Combat is 27.5 - 27.7 tons.
+
+Here is System information for the BTM-3 Russian Trenching Machine of the Trenching System:
+The Type is "High-Speed Trenching Machine".
+The Dig Depth is up to 1.5 m.
+The Earth working capacity (trench depth 0.4 - 0.5 m) is 1 200 - 1 400 m/h.
+The Earth working capacity (trench depth 1.1 m) is 270 - 810 m/h.
+The Earth working capacity (trench depth 1.5 m) is 270 - 560 m/h.
+The Emplacement is 5-7.
+The Displacement is INA.
+The Basic Trench is 1.1 m deep and 0.9 m wide.
+The Full-Size Trench is 0.5 m deep and 1.1 m wide.
+The Note #1 is This machine was used by motorized and mechanized infantry units. Each Soviet motorized or mechanized division (10 000~13 000 soldiers) had 3 of these trenching machines..
+The Note #2 is This trench-digging machine has a large rotor with buckets at the rear. There are a total of 8 buckets, with 160 l capacity each. The rotor is lowered behind the vehicle and digs trenches..
+
+Here is Automotive information for the BTM-3 Russian Trenching Machine:
+The Engine Name is A-401.
+The Engine Type is Diesel.
+The Engine Power is 305.
+The Maximum Range is 450-500.
+The Speed, Maximum Road is 36.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Fording Depth is 1.1.
+The Trench is up to 1.8 m.
+
+Here is Communications information for the BTM-3 Russian Trenching Machine:
+The Tactical Radio is R-113 standard tank radio..
+
+Here is Protection information for the BTM-3 Russian Trenching Machine:
+The Hull Armor is Protection from small arms fire and projectile Splinters..
+The Applique Armor is Available.
+The Mine Clearing is Yes.
+The Self-Entrenching Blade is Yes.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+

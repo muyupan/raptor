@@ -1,0 +1,190 @@
+This document describes the BMM-3 Russian 8x8 Amphibious Armored Mobile Dressing Station.
+
+The BMM-3 operates as the mobile dressing station with the team of doctors and a bandaging set.
+
+The basic design of all modifications comprises a basic sanitary set. Up to four heavy casualties can be carried on stretchers inside the hull, and additional two outside on the stretchers placed under engine compartment roof.
+
+The equipment and medicine set ensures the delivery of first aid at stationary position and on the move. The vehicle has a folding tent to be attached to the vehicle at any side door. Up to 12 casualties can be accommodated in the tent.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the BMM-3 Russian 8x8 Amphibious Armored Mobile Dressing Station:
+The BMM-2 is Battlefield ambulance for use at the battalion level for field treatment.
+The BMM-1 is Battlefield ambulance for first aid & MEDVAC operations.
+The BMM is Medical series; BMM-1 (ambulance), BMM-2 (Bn Aid Stn), & BMM-3 (Bde Aid Stn).
+
+Here is System information for the BMM-3 Russian 8x8 Amphibious Armored Mobile Dressing Station:
+The Alternative Designation is BMM-3.
+The Description is 8 X 8 wheeled Mobile Dressing Station.
+The Chassis is BTR-80.
+The Crew is 3.
+The Note is The equipment and medicine set ensures the delivery of first aid at stationary position and on the move. The vehicle has a folding tent to be attached to the vehicle at any side door. Up to 12 casualties can be accommodated in the tent..
+
+Here is Dimensions information for the BMM-3 Russian 8x8 Amphibious Armored Mobile Dressing Station:
+The Length is 7.7.
+The Width is 2.9.
+The Height is 2.41.
+The Weight, Combat is 13.6.
+
+Here is Automotive information for the BMM-3 Russian 8x8 Amphibious Armored Mobile Dressing Station:
+The Engine Name is KamAZ-7403.
+The Engine Type is Water-cooled, V8 Diesel.
+The Automotive Performance is 260.
+The Range, Cruising is 600.
+The Speed, Maximum Road is 80.
+The Speed, Maximum Off-Road is 60.
+The Speed, Maximum Swim is 10.
+The Gradient is 60.
+The Side Slope is 40.
+The Vertical Step is 0.5.
+The Trench is 2.0.
+The Fording Depth is Amphibious.
+
+Here is Communications information for the BMM-3 Russian 8x8 Amphibious Armored Mobile Dressing Station:
+The Primary is R-173.
+The Secondary is R-163.
+The Intercome is R-174.
+
+Here is System information for the BMM-3 Russian 8x8 Amphibious Armored Mobile Dressing Station of the Main Weapons System:
+The Name is KPVT 14.5mm Heavy Machine Gun (KPV).
+The Type is Heavy Machine Gun (KPV).
+The Caliber is 14.5mm.
+The Manufacturer is V.A. Degtyarev Plant.
+The In Service is 1949-Present.
+The Proliferated is Widely Proliferated 
+ Afghanistan
+ Albania
+ Algeria
+ Angola
+ Armenia
+ Bangladesh
+ Benin
+ Bulgaria: locally produced
+ Cambodia
+ Cameroon
+ Congo
+ China: Type 56 machine gun, produced by Norinco
+ Cuba
+ Czechoslovakia (ex)
+ Egypt
+ Eritrea
+ Estonia
+ Ethiopia
+ Finland (KPVT)
+ Georgia
+ Guinea-Bissau
+ Hungary
+ India - Manufactured at Ordnance Factory Tiruchirappalli
+ Iraq- Iraqi Armed Forces
+Popular Mobilization Forces
+ Iraqi Kurdistan
+ Iran
+ Islamic State
+ Ivory Coast
+Izz ad-Din al-Qassam Brigades
+ Laos
+ Lebanon
+ Libya
+ Malawi
+ Mali - Armed and Security Forces of Mali
+ Malta - North Korea-made KPVs
+ Mongolia
+ Mozambique
+ Myanmar
+ North Korea
+ Nicaragua
+ Pakistan: Used by the Pakistan Army.
+ Panama
+ Poland
+ Romania: KPV and KPVT built under license
+ Russia
+ Sahrawi Arab Democratic Republic
+ São Tomé and Príncipe
+ Serbia (KPVT)
+ Sierra Leone: Chinese QJG56 and Polish KPVT
+ Slovenia (KPVT)
+ Somalia
+ South Africa
+ Sudan
+ Syria
+ Togo
+ Ukraine
+ Yemen
+ Vietnam
+ Tanzania
+ Zimbabwe.
+The Weight is 49.
+The Length, Total is 1.980.
+The Barrel Length is 1,346.
+The Width is 162.
+The Height is 225.
+The Rate of Fire is 600.
+The Maximum Firing Range is 4,000.
+The Effective Firing Range is 3,000.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+The Maximum Elevation is +60.
+The Minimum Elevation is -4.
+The Fire on the Move is Yes.
+
+Here is Ammunition information for the BMM-3 Russian 8x8 Amphibious Armored Mobile Dressing Station of the Main Weapons System:
+The Name is INA.
+The Type is API-T.
+The Caliber is 14.5.
+The Cartridge is 14.5×114 mm.
+The Muzzle Velocity is 1,005.
+The Effective Range (Day) is 2,000.
+The Effective Range (Night) is INA.
+The Tactical Range is 1,500-2,000.
+The Armor Penetration is 20 at 1,000 m/ 30 at 500 m.
+The Basic Load is 500.
+The Note is Additional Ammo includes: API, I-T.
+
+Here is System information for the BMM-3 Russian 8x8 Amphibious Armored Mobile Dressing Station of the Auxiliary Weapon System:
+The Name is 7.62mm PKT (Kalashnikov's Machine Gun) General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Max Rate of Fire is 650.
+The Effective Rate of Fire is 250-300.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Length, Total is 1,203.
+The Length, Barrel is 605.
+The Action is Gas-operated, open bolt.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+The Effective Firing Range (With Sight Adjustments) is 100 - 1,500.
+
+Here is Ammunition information for the BMM-3 Russian 8x8 Amphibious Armored Mobile Dressing Station of the Auxiliary Weapon System:
+The Name is 57-N-323S.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR km.
+The Muzzle Velocity is 855.
+The Accuracy of fire at 300 m is 90.
+The Basic Load is 2,500.
+
+Here is Fire Control information for the BMM-3 Russian 8x8 Amphibious Armored Mobile Dressing Station:
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Vehicle Commander is INA.
+The Thermal Sight Gunner is INA.
+The Gunner Day Sights is 1P3-6, 1.2x/4x.
+The Main Gun Stabilization is No.
+The Infrared Searchlight is OU-3GA2M.
+
+Here is Protection information for the BMM-3 Russian 8x8 Amphibious Armored Mobile Dressing Station:
+The Hull Armor is Front armor of the BMM-3 protects against 12.7 mm rounds. All-round protection is against 7.62 mm rounds and artillery shell splinters..
+The Turret Armor is Protection against 12.7mm and shrapnel.
+The Applique Armor is Available.
+The Explosive Reactive Armor is INA.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes, Collective.
+The Smoke Equipment is 6 x 81-mm smoke grenade launchers.
+

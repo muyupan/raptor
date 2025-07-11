@@ -1,0 +1,33 @@
+This document describes the LTSD-4 Russian Laser Rangefinder/Designator.
+
+The LTSD-4 Laser Rangefinder/Designator is designed for ground target reconnaissance, correction of artillery and air firing in daylight and at night including the use of high-accuracy ammunition fitted with laser homing heads when illuminating the stationary and moving targets, military equipment and offensive fortifications by a laser light from ground observation points. It may be also used in automated fire control systems.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the LTSD-4 Russian Laser Rangefinder/Designator:
+The Alternative Designation is LTSD-4.
+The Type is Laser Rangefinder/Designator.
+The Crew is 2.
+The Tank-sized target in the daytime is 5,000...7,000.
+The Surface Target in the daytime is 5,000...15,000.
+The Tank-Sized Target at Night using Night Vision is 1,000...3,000.
+The Tank-Sized Target at Night using Thermal Imager is 3,000...4,000.
+The Measurement Range at 5m Accuracy is 100...20,000.
+The Boresight magnification is x10.
+The Field of view is 5°.
+The Dioptric adjustment is ±5 diopters.
+The Maximum duration of laser designation, Artillery Mode is 15 sec.
+The Maximum duration of laser designation, Air Mode is 100 sec.
+The Azimuth Range is +30-00...-30-00 deg.
+The Elevation Range is +3-00...-3-00 deg.
+The Angular accuracy, True Azimuth is 0-04 deg.
+The Angular accuracy, Magnetic Azimuth is 0-12 deg.
+The Angular accuracy, Elevation is 0-04 deg.
+
+Here is Dimensions information for the LTSD-4 Russian Laser Rangefinder/Designator:
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is 20.
+The Height of Persciope is 250.
+

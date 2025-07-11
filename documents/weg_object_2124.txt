@@ -1,0 +1,17 @@
+This document describes the LMG Russian Rocket Propelled Mine.
+
+The LMG rocket mine consists of a rocket, a rocket launching base, an initiation and propellant charge, an MUV fuze, and a tripwire. As the target vehicle acts on the tension wire, the retaining pin on the MUV fuze is withdrawn. The fuze, in turn, sets off the ignition and propellant charge and launches the rocket. Upon impact, the warhead is detonated by means of a secondary percussion base detonating fuze. Additionally this mine can be initiated by an observer utilizing a wire connected to the MUV retaining pin.
+
+Here is System information for the LMG Russian Rocket Propelled Mine:
+The Country of Manufacture is FSU.
+The # of User Countries is 13+.
+The Emplacement Method is rocket propelled shaped-charge.
+The Armor Penetration (mm)/ Kill Mechanism is track breaker on contact/blast.
+The Effective Range (meter) is 27.
+The Detectability/ Composition is visual metal.
+The Anti-Handling is No.
+The Fuze Type/Self Neutralize is Tension (1 kg), tripwire
+neutralize: no.
+The Explosive Type & Weight/Total Weight (kg) is TNT: 3.2
+Total: 10.
+

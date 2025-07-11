@@ -1,0 +1,172 @@
+This document describes the ZTS-63A (Type 63A) Chinese Amphibious Light Tank.
+
+The ZTS-63A (Type 63A) Chinese Amphibious Light Tank was specially designed to suit the needs of the marines. Unlike the original Type 63 which was mainly intended for river-crossing operations at inland rivers and lakes, the Type 63A can be launched from amphibious warfare ships 5 – 7 km offshore and travel to the shore with the speed of 28 km/h (which was accomplished thanks to the new engine and redesigned water jet system). It has a new diesel engine developing 581 hp (433 kW) and a computerized fire control system which gives it the capacity to shoot while it is on the move on land and on water. Type 63A has a redesigned welded turret with four smoke grenade dischargers on each side of the turret, a storage bucket in the rear of the turret, and two stowage buckets on the sides of the turret. The turret was armed with a 105 mm rifled gun instead of the original 85 mm Type 62-85TC rifled gun. It is similar to those that are fitted on the Type 59-II, Type 59D, Type 69, and Type 80 main battle tanks but with reduced recoil force for firing while the vehicle is swimming. It is capable of firing all types of modern tank rounds, such as armor-piercing fin-stabilized discarding sabot (APFSDS), HEAT, and HE. It also has two extra floating tanks (one in the front and one in the rear) that provide better stability while in water, and improved snorkel fitting, and three water inlets on either side of the hull. The tank also has side skirts protecting the tracks. To allow the tank to fire accurately while in water the 105 mm was given the ability to shoot laser-beam guided ATGM. The PRC has developed a 105 mm gun-launched ATGM based on the Russian 9M117 Bastion technology. The missile has a maximum firing range of 4,000 m - 5,000 m, with a single hit probability of over 90% against static targets. The ATGM can also be used to engage low-flying helicopters. The new fire control system includes a digital fire-control computer, integrated commander sight with laser rangefinder input, and light spot or image-stabilized gunner sight with passive night vision. The standard night vision is an image intensifier. Alternatively, the gunner sight can be fitted with a thermal imager night vision with a maximum range of 2,100 meters. The tank is also equipped with the satellite positioning (GPS/GLONASS) system so that it can easily locate the correct landing coordinates in all kinds of weather and in day or night conditions. Because of the additional equipment, the weight of the vehicle has increased to 22 tons and because of the two extra floating tanks (one in the front and one in the rear) and the long gun, the overall length of the vehicle has increased to 9.6 meters. Type 63A was designed because of continuing tension with Taiwan and as such it can face Taiwanese M48 and M60 Patton main battle tanks when it has the upper hand. While its thin armor is still a rather big issue the Type 63A has the ability to attack its targets before being directly engaged by using ATGMs. It entered service in 1997. The industrial designator is WZ213. It is also known as Type 63M, Type 99 and ZTS-63A.
+
+This equipment has proliferated into the following countries: Cambodia, China, North Korea (Democratic People's Republic of Korea), Sudan, Tanzania, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the ZTS-63A (Type 63A) Chinese Amphibious Light Tank:
+The Type 63A1 is The Type 63AI is a slightly modified version of the Type 63A, which is designed to increase the protection of the vehicle against cumulative projectiles..
+The Type 63-II is The Type 63-II is an improved version of the Type 63-I, which benefitted from the addition of a laser rangefinder above the main gun..
+The Type 89 is The Type 89 is an SPH based on the hull of the Type 77 APC. It is designed to provide indirect – as well as direct – fire support..
+The GLM 122 is The GLM122 is based on the Chinese Type 77 APC and is modified to carry and deploy a trackway in support of amphibious landings..
+
+Here is System information for the ZTS-63A (Type 63A) Chinese Amphibious Light Tank:
+The Alternative Designation is ZTS-63A; Type 63A.
+The Type is Amphibious Tanks.
+The In Service is 1997-Present.
+The Crew is 4 (Driver, Loader, Commander, Gunner).
+The Status is In service, but no further production..
+The Purpose is Ddesigned to transport a force from ship-to-shore during a contested landing and provide direct, as well as indirect, fire support to those forces once deployed..
+The Maximum Effective Range (Land) is 400.
+The Maximum Effective Range (Sea) is 120.
+The Amphibious is Yes.
+The Propellers is 2, at the rear of the tank.
+The Note is The Type 63A has weak protection compared to other tanks.
+
+Here is Dimensions information for the ZTS-63A (Type 63A) Chinese Amphibious Light Tank:
+The Length, Overall is 10.494 m.
+The Length, Hull is INA.
+The Length, Main Armament Rear is 9.947 m.
+The Width is 3.2 m.
+The Height is 3.2 m.
+The Weight is 22,000 kg.
+The Ground Clearance is INA.
+
+Here is Automotive information for the ZTS-63A (Type 63A) Chinese Amphibious Light Tank:
+The Engine Name is Model 12150-L.
+The Engine Type is Diesel.
+The Engine Power is 581.
+The Power to Weight Ratio is 26.4.
+The Maximum Range, Land is 400.
+The Maximum Range, Sea is 90.
+The Speed, Maximum Road is 75.
+The Speed, Average Cross is 70.
+The Speed Maximum Swim is 14.
+The Suspension is Torsion Bar.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.8.
+The Trench is 2.9.
+The Fording Depth is Amphibious.
+
+Here is TBR-121 information for the ZTS-63A (Type 63A) Chinese Amphibious Light Tank of the Communications:
+The VHF Transceiver is Yes.
+The VHF Range is 1 to 50.
+The Proliferated is Widely.
+The Digital Data is Yes, Full.
+The Control is Self-Adaptive Control (Including Automatic Antenna Tuner).
+The Frequency Agile is Yes.
+The Wireless Network Capabilities is Yes.
+The Note: is Very similar in capabilities to the US SINCGARS ASIP.
+
+Here is System information for the ZTS-63A (Type 63A) Chinese Amphibious Light Tank of the Main Gun:
+The Name is 1 x ZTS63A (Type 83) 105mm Rifle Gun.
+The Type is Rifled Gun.
+The Caliber is 105 mm.
+The Turret Name is BK1970 Turret.
+The Turret Type is Three Man Turret.
+The Max Rate of Fire is INA.
+The Sustain Rate of Fire is INA.
+The Maximum Engagement Range is 2,800 m.
+The Maximum Effective Range is 2,000 m.
+The Armor Penetration is With APFSDS-T ammunition from a range of 2,000 m, the Type 83 can penetrate 150 mm of homogeneous armor set to a 71° angle.
+The Range Finder Type is Laser.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+The Maximum Elevation is +18.
+The Minimum Elevation is -5.
+The Note is The 63A fire APFSDS, HEAT and HEAT FRAG rounds, significantly increasing the tank's firepower.
+
+Here is Ammunition (Option 1) information for the ZTS-63A (Type 63A) Chinese Amphibious Light Tank of the Main Gun:
+The Type is Armor-piercing fin-stabilized discarding sabot (APFSDS) i.
+The Caliber is 44.
+The Muzzle Velocity is 1,530.
+The Armor Penetration is 150.
+The Cartridge Length is 1,000.
+The Penetrator is Tungsten alloy.
+The Propellant NC-NG is 5.8.
+The Accuracy/Dispersion (typical) is 0.2X0.2 mil.
+The Temperature limits (Firing) is -40 to +52ºC.
+The Temperature limits (Storage) is -46 to +63ºC.
+The Basic Load is 38 rounds total any 105mm Combination.
+
+Here is Ammunition (Option 2) information for the ZTS-63A (Type 63A) Chinese Amphibious Light Tank of the Main Gun:
+The Type is HE-MP-T: High-Explosive Multi-Purpose Tracer tank cartridge.
+The Caliber is 44.
+The Muzzle Velocity is 800.
+The Armor Penetration is 180.
+The Cartridge Weight is 23.5.
+The Cartridge Length is 990.
+The Projectile Weight is 13.6.
+The High Explosive CLX663 (IM) is 1.
+The Fuze is Electronic/programmable/
+multifunctional.
+The Propellant NC-NG is 3.
+The Accuracy/Dispersion (typical) is 0.3X0.3 mil.
+The Temperature limits (Firing) is 40 to +52ºC.
+The Temperature limits (Storage) is -40 to +63ºC.
+The Basic Load is 38 rounds total any 105mm Combination.
+
+Here is Ammunition (Option 3) information for the ZTS-63A (Type 63A) Chinese Amphibious Light Tank of the Main Gun:
+The Type is HESH-T (HEP-T): High-Explosive Squash-Head Tracer tank cartridge.
+The Caliber is 44.
+The Muzzle Velocity is 731.
+The Armor Penetration is Yes.
+The Cartridge Weight is 21.2.
+The Cartridge Length is 939.
+The Projectile Weight is INA.
+The High Explosive Comp is 2.2.
+The Propellant M6 is 2.8.
+The Accuracy/Dispersion (typical H+B) is 171.
+The Temperature limits (Firing) is -40 to +52ºC.
+The Temperature limits: (Storage) is -40 to +63ºC.
+The Basic Load is 38 rounds total any 105mm Combination.
+
+Here is System information for the ZTS-63A (Type 63A) Chinese Amphibious Light Tank of the Coaxial Weapon System:
+The Name is 1 x 7.72mm General-Purpose Machine Gun.
+
+Here is System information for the ZTS-63A (Type 63A) Chinese Amphibious Light Tank of the Auxiliary Weapon System:
+The Name is 1 x W-85 (QJC88) 12.7mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7mm.
+The Length is INA.
+The Weight is 18.5 kg (40.79 lb) (gun only)
+17.5 kg (38.58 lb) (tripod).
+The Action is Gas.
+The Rate of FIre is 550-600 rounds/min.
+The Muzzle Velocity is 850 m/s.
+The Feed System is Belt.
+The Sights is Iron/Optical.
+
+Here is Ammunition information for the ZTS-63A (Type 63A) Chinese Amphibious Light Tank of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is 12.7×108 mm.
+The Basic Load is 500 Rounds.
+
+Here is Fire Control information for the ZTS-63A (Type 63A) Chinese Amphibious Light Tank:
+The Name is INA.
+The Computerized FCS is Yes, believed to be the same FCS that is installed on Type 80 tanks.
+The Thermal Sight Tank Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes, stabilized in both axes to improve accuracy.
+The Direct Fire Support is Yes.
+The Indirect Fire Support is Yes.
+The Laser Rangefinder is Yes.
+
+Here is Protection information for the ZTS-63A (Type 63A) Chinese Amphibious Light Tank:
+The Armor Type is All-welded steel.
+The Hull Armor is Steel armor, 25mm thick.
+The Turret Armor is Steel armor, 25mm thick.
+The Applique Armor is Available.
+The Explosive Reactive Armor is Yes.
+The Active Protection System is Yes.
+The Mine Clearing is Yes, Type 762 light mine clearance device.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, Four smoke-grenade launchers are mounted on each side of the turret.
+The IR Signature is INA.
+The Note #1 is It is likely that the vehicle's mine or blast resistance is low and that the protection is sufficient only for large-calibre small arms fire such as 12.7 or 14.5 mm rounds at typical combat ranges..
+The Note #2 is Storage racks provide additional protection against HEAT rounds.
+

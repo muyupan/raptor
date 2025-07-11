@@ -1,0 +1,81 @@
+This document describes the Sohn Won-IL Class South Korean Diesel-Electric Submarine.
+
+This is an expanded version of the Type 212 class. Program development began in 1988. Steel cutting for the first unit of the class was begun in November of 2002. Technical assistance has been provided by the German Submarine Corp., led by Howaldtswerke (HDW).
+
+This equipment has proliferated into the following countries: South Korea (Republic of Korea).
+
+Here is Variants information for the Sohn Won-IL Class South Korean Diesel-Electric Submarine:
+The SOHN WON-IL is Commissioned: 2007
+Status: Active.
+The JEONGJI is Commissioned: 2007
+Status: Active.
+The AHN JUNG-GEUN is Commissioned: 2014
+Status: Active.
+The KIM JWA-JIN is Commissioned: 2014
+Status: Active.
+The YUN BONG-GIL HAM is Commissioned: 2016
+Status: Active.
+The YU GWAN-SUN is Commissioned: 2018
+Status: Active.
+The HONG BEOM-DO is Commissioned: 2018
+Status: Active.
+The LEE BEOM SEOK is Commissioned: 2018
+Status: Building.
+The SIN DOL SEOK is Commissioned: 2019
+Status: Active.
+
+Here is System information for the Sohn Won-IL Class South Korean Diesel-Electric Submarine:
+The Alternative Designation is Sohn Won-IL Class.
+The Type is Diesel-Electric Submarine.
+The Builder is S-072, -073, -075, -077: Hyundai Heavy Industries, Ulsan, South Korea
+ S-076: Daewoo Shipbuilding and Marine Engineering, Goeje Island, South Korea.
+The Crew is 40.
+
+Here is Dimensions information for the Sohn Won-IL Class South Korean Diesel-Electric Submarine:
+The Length is 65.
+The Beam is 6.3.
+The Draft is 6.0.
+The Displacement, Surfaced is 1,700 Tons.
+The Displacement, Submerged is 1,980 tons.
+
+Here is Propulsion System information for the Sohn Won-IL Class South Korean Diesel-Electric Submarine:
+The Engine Name is 2 x MTU 16V 396-series.
+The Engine Type is Diesel.
+The Engine Power is 3,875 total bhp.
+The AIP is 9 x Siemens/PEM fuel cell (AIP) modules; 306 kW sodium sulphide high-energy batteries.
+The Maximum Speed, surfaced is 22 km/h (12 knots).
+The Maximum Speed, submerged is 37 km/h (20 knots).
+The Range, Surface is 7,850 nm at 8 kts.
+The Range, Submerged is 2,400 nm at 4 kts.
+The Range, AIP is 420 nm at 8 kts.
+The Endurance, Submerged is 14 days.
+The Diving Depth is 400 m max.
+
+Here is Torpedo and Mine System information for the Sohn Won-IL Class South Korean Diesel-Electric Submarine:
+The Torpedo Tubes is 8 x 533-mm bow tubes.
+The Torpedo Type is Atlas Elektronik DM2A4 anti-ship torpedoes and UGM-84C Harpoon SSM.
+The Basic Load is 14.
+The Mines is 28 x Total vice torpedoes.
+
+Here is Fire Control Systems information for the Sohn Won-IL Class South Korean Diesel-Electric Submarine:
+The Combat System is 1 x STN Atlas Elektronik ISUS 90.
+
+Here is Radar Systems information for the Sohn Won-IL Class South Korean Diesel-Electric Submarine:
+The Name is ISUS90-20.
+The Type is Surface Search.
+The Frequency is INA.
+The Range is INA.
+
+Here is Sonar Systems information for the Sohn Won-IL Class South Korean Diesel-Electric Submarine:
+The Bow Passive Sonar is 1 x cylindrical medium frequency bow passive array.
+The Passive Flank Array Sonar is 1 x FAS-3 low/medium frequency passive flank array.
+The Towed Linear Array Sonar is 1 x TAS90 low-frequency towed linear array system.
+The Mine Detection Sonar is 1 x Atlas Elektronik MOA 3070 mine detection sonar.
+
+Here is Protection information for the Sohn Won-IL Class South Korean Diesel-Electric Submarine:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+The Electronic Warfare is 1 x FLU1800 suite.
+The Torpedo-Detection System is 1 x Sonartech Atlas torpedo-detection and tracking system.
+

@@ -1,0 +1,66 @@
+This document describes the Stormer (FV4333) British Amphibious Armored Personnel Carrier (APC).
+
+The Alvis Stormer is a modern military armored vehicle manufactured by the British company Alvis Vickers, now BAE Systems Land & Armaments. The Stormer is a development of the CVR(T) family of vehicles (Scorpion, Scimitar, Spartan etc.), essentially a larger, modernized version with an extra road-wheel on each side.
+
+This equipment has proliferated into the following countries: Indonesia, Malaysia, Oman.
+
+Here is Variants information for the Stormer (FV4333) British Amphibious Armored Personnel Carrier (APC):
+The Stormer (FV4333) is Amphibious Armored Personnel Carrier (APC).
+The Stormer HVM is The British Army use Stormer equipped with HVM (Starstreak & Lightweight Multirole Missile) for short range air defence. Under Army 2020, Stormer HVM was to equip three regular and two reserve artillery batteries. The reserve batteries have since all been converted to HVM LML to reduce the training burden..
+The Stormer HVM is Short-range air defense missile system.
+The Shielder is Mine laying vehicle.
+
+Here is System information for the Stormer (FV4333) British Amphibious Armored Personnel Carrier (APC):
+The Alternative Designation is Stormer (FV4333).
+The Type is Amphibious Armored Personnel Carrier (APC).
+The Manufacturer is Alvis Vehicles (now part of BAE Systems Land and Armaments),
+Coventry, West Midlands, U.K..
+The Configuration is Track.
+The Crew is 3 (commander, driver, section commander).
+The Passenger Capacity is 8.
+
+Here is Dimensions information for the Stormer (FV4333) British Amphibious Armored Personnel Carrier (APC):
+The Length is 5.33 m.
+The Height is 1.93 m.
+The Width is 2.69 m.
+The Track Length is 3.11 m.
+The Track Width is 0.43 m.
+The Ground Clearance is 0.43 m.
+The Combat Weight is 12,700 kg.
+The Ground Pressure is 0.47kg/cm sq.
+
+Here is Automotive information for the Stormer (FV4333) British Amphibious Armored Personnel Carrier (APC):
+The Engine Name is 1 x Perkins T6-3544.
+The Engine Type is liquid-cooled, turbo-charged, in-line
+ 6-cyl diesel.
+The Engine Power is 250 hp at 1,700 rpm.
+The Power-to-Weight Ratio is 19.68 hp/metric ton.
+The Fuel Capacity is 107 gal (405 liters).
+The Transmission is David Brown Gear Systems T300 crossdrive, semi-automatic; 7 forward/
+7 reverse gears.
+The Suspension is torsion bar, 6 dual road wheels, front
+driver, rear idler, 2 return rollers.
+The Road Speed is 80 km/h.
+The Amphibious Track Speed is 7 km/h.
+The Amphibious Propeller Speed is 10 km/h.
+The Range is 650 km.
+The Vertical Obstacle is 0.46 m.
+The Trench is 1.75 m.
+The Fording is 1.00 m.
+The Turning Radius is 2.04 m.
+The Gradient is 60 percent.
+The Side Slope is 35 percent.
+
+Here is Main Weapon System information for the Stormer (FV4333) British Amphibious Armored Personnel Carrier (APC):
+The Note is 1 x 7.62 mm General-Purpose Machine Gun.
+
+Here is Protection information for the Stormer (FV4333) British Amphibious Armored Personnel Carrier (APC):
+The Hull Armor is Aluminum Hull. Protection from small arms fire and shell splinters..
+The Turret Armor is INA.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 2 x 4-barrel smoke dischargers.
+

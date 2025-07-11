@@ -1,0 +1,81 @@
+This document describes the Konstyantyn Olshanskyy-Class (Project 775 Class) Ukrainian Landing Ship, Tank (LST).
+
+The Konstyantyn Olshanskyy (U-402) is a Ukrainian LST of the Ropucha-Class LST series. The Ropucha class, Soviet designation Project 775, is a class of landing ships (large landing ships in Soviet classification) built in Poland for the Russian Navy. The ship is larger than the Russian Alligator-class LSTs. The Konstyantyn Olshanskyy was stricken from Russia's Black Sea Fleet on Jan. 10, 1996, and transferred to Ukraine on March 12, 1996.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is Variants information for the Konstyantyn Olshanskyy-Class (Project 775 Class) Ukrainian Landing Ship, Tank (LST):
+The Ropucha-I-Class LST (Project 775) is LSTs built built in Poland in the Stocznia Północna shipyards in Gdańsk. Designed for beach landings, they can carry a 450-ton cargo. The ships have both bow- and stern-doors for loading and unloading vehicles, and the 630 square meters (6,800 sq ft) of vehicle deck stretches the length of the hull. Up to 25 armored personnel carriers can be embarked. In total, 28 ships of this type were commissioned from 1975 to 1991..
+
+Here is System information for the Konstyantyn Olshanskyy-Class (Project 775 Class) Ukrainian Landing Ship, Tank (LST):
+The Alternative Designation is Konstyantyn Olshanskyy (U-402), Project 775, LST.
+The Type is Landing Ship, Tank (LST).
+The Builder is Stocznia Polnocna, Gdansk, Poland.
+The Crew is 87 total (8 off. + 79 enl.).
+The Troop Capacity is 237 total.
+The Cargo Capacity is 450 tons, with a usable deck space of 600 square meters..
+The Bow Ramp is Yes.
+The Stern Ramp is YEs.
+
+Here is Dimensions information for the Konstyantyn Olshanskyy-Class (Project 775 Class) Ukrainian Landing Ship, Tank (LST):
+The Length is 112.50 m.
+The Beam is 15.00 m.
+The Draft is 3.70 m.
+The Vehicle Deck, Length is 95 m.
+The Vehicle Deck, Width is 6.5 m.
+The Vehicle Deck, Height is 4.5 m.
+The Displacement, Standard is 3,450 tons.
+The Displacement, Full Load is 4,080 tons.
+
+Here is Propulsion System information for the Konstyantyn Olshanskyy-Class (Project 775 Class) Ukrainian Landing Ship, Tank (LST):
+The Engine Name is 2 x Type Zgoda-Sulzer type 16ZVB 40/48.
+The Engine Type is Diesel.
+The Engine Power is 19,200 total bhp.
+The Maximum Range is 18 knots.
+The Maximum Speed is 3,500 nm at 16 knots; 6,000 nm at 12 knots.
+
+Here is Gun Weapon System #1 information for the Konstyantyn Olshanskyy-Class (Project 775 Class) Ukrainian Landing Ship, Tank (LST) of the Gun Weapon Systems:
+The Name is 2 x twin 57-mm/70-cal. (AK-725) AA.
+The Type is Naval Gun.
+The Caliber is 57 mm.
+The Barrel Length is 4.275 m.
+The Weight is 14.5 t total system without ammunition.
+The Muzzle Velocity is 1.020 m/s.
+The Rate of FIre is 200 rpm combined.
+The Elevation is -12° to +85°.
+The Elevation Rate is 30°/s.
+The Traverse is -200° to +200°.
+The Traverse Rate is 35°/s.
+The Maximum Firing Range is 12.7 km.
+The Effective Firing Range is 8.4 km.
+The Maximum Altitude is 5 km.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Konstyantyn Olshanskyy-Class (Project 775 Class) Ukrainian Landing Ship, Tank (LST) of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 57 mm.
+The Shell is INA.
+The Basic Load is INA.
+
+Here is Rocket Weapon Systems information for the Konstyantyn Olshanskyy-Class (Project 775 Class) Ukrainian Landing Ship, Tank (LST):
+The Rocket Launcher is 2 x 122-mm (UMS-73) 40-tubed
+Grad-M bombardment rocket launchers.
+The Rocket Types is BDK-67, BDK-58, BDK-100, BDK-46 and BDK-64 plus.
+The Basic Load is 360 Rockets.
+
+Here is Mine System information for the Konstyantyn Olshanskyy-Class (Project 775 Class) Ukrainian Landing Ship, Tank (LST):
+The Note is 92 x mines max. total in lieu of amphibious cargo.
+
+Here is Fire Control Systems information for the Konstyantyn Olshanskyy-Class (Project 775 Class) Ukrainian Landing Ship, Tank (LST):
+The FCS Name is 1 x MR-103 Bars (Muff Cobb) gun fire control.
+The Computerized FCS is Yes.
+
+Here is Radar Systems information for the Konstyantyn Olshanskyy-Class (Project 775 Class) Ukrainian Landing Ship, Tank (LST):
+The Surface/Air Search Radar is 1 x  MR-302 Rubka (Strut Curve) surface/air search.
+The Navigation Radar is 2 x DON-2 or 2 x MR-212/201 Vaygach (Palm Frond navigation radar.
+
+Here is Protection information for the Konstyantyn Olshanskyy-Class (Project 775 Class) Ukrainian Landing Ship, Tank (LST):
+The Hull Armor is The ROPUCHA class has traditional LST (tank landing ship) lines with superstructure aft with bow and stern ramps for unloading vehicles..
+The Countermeasures is No.
+The NBC Water Washdown System is Yes.
+The NBC Warfare Filters is Yes.
+

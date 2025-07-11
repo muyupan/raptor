@@ -1,0 +1,79 @@
+This document describes the Yak-130 (Mitten) Russian Light Combat Aircraft.
+
+Yak-130 (Mitten) Russian Light Combat Aircraft is a subsonic two-seat advanced jet trainer and light combat aircraft originally developed by Yakovlev and Aermacchi as the "Yak/AEM-130". It has also been marketed as a potential light attack aircraft. Development of the aircraft began in 1991 and the maiden flight was conducted on 25 April 1996. In 2002, it won a Russian government tender for training aircraft and in 2009 the aircraft entered service with the Russian Air Force. As an advanced training aircraft, the Yak-130 is able to replicate the characteristics of several 4+ generation fighters as well as the fifth-generation Sukhoi Su-57. It can also perform light-attack and reconnaissance duties, carrying a combat load of 3,000 kg.
+
+This equipment has proliferated into the following countries: Algeria, Bangladesh, Belarus, CFE Treaty, Laos (People's Democratic Republic), Myanmar, Russian Federation, Syria, Viet Nam.
+
+Here is Variants information for the Yak-130 (Mitten) Russian Light Combat Aircraft:
+The Yakovlev Yak-130 is Basic dual seat advanced trainer..
+The Yakovlev Yak-131 is Light attack aircraft as the Su-25 replacement. This version will have cockpit and engine armour, a GSh-30-1 autocannon, and either the Phazotron Kopyo radar with mechanical or electronic beam scanning, or the Tikhomirov NIIP Osa passive phased array radar..
+The Yakovlev Yak-133 is Light Strike Aircraft for LUS. The project was canceled in the early 1990..
+The Yak-133IB is Fighter bomber..
+The Yak-133PP is Electronic countermeasure platform..
+The Yak-133R is Tactical reconnaissance variant..
+The Yakovlev Yak-135 is Four seat VIP transport..
+
+Here is System information for the Yak-130 (Mitten) Russian Light Combat Aircraft:
+The Alternate Designation(s) is Yak-130; NATO: Mitten.
+The Type is Light Combat Aircraft.
+The Manufacturer is Irkut Corporation
+Sokol Aircraft Plant.
+The Crew is 2 (pilot/trainer, co-pilot/trainee).
+The Number of Engines is 2.
+The Number of Hard Points is 9 (1 on each wingtip, 3 under each wing, and 1 under the fuselage) with a capacity of up to 3,000 kg.
+
+Here is Dimensions information for the Yak-130 (Mitten) Russian Light Combat Aircraft:
+The Length is 11.3 m.
+The Wingspan is 10.6 m.
+The Wing Area is 23.5 sq m.
+The Height is 4.8 m.
+The Maximum Takeoff Weight is 5,700 kg.
+The Normal Takeoff Weight is 9,000 kg.
+The Payload Capacity is 3,000 kg.
+
+Here is Automotive information for the Yak-130 (Mitten) Russian Light Combat Aircraft:
+The Engine Name is 2 x AI-222-25.
+The Engine Type is Turbofan.
+The Engine Power is 2,500 kg each.
+The Internal Fuel Capacity is 1,750 kg.
+The External Fuel Capacity is 450 kg tanks.
+The Maximum Speed is 1,000 km/h.
+The Landing Speed is 195 km/h.
+The Operational Range is 1,000 km Radius.
+The Ferry Range is 2,400 km.
+The Service Ceiling is 12,500 m.
+The Takeoff Run is 380 m.
+The Landing Run is 670 m.
+The Service Life is 10,000 hours.
+
+Here is Main Gun System information for the Yak-130 (Mitten) Russian Light Combat Aircraft:
+The Note is The aircraft is fitted with a 30mm GSh-301 cannon or a podded GSh-23 cannon installed under the fuselage..
+
+Here is Main Missile Systems information for the Yak-130 (Mitten) Russian Light Combat Aircraft:
+The Note is An open architecture avionics suite installed on the Yak-130 allows a wide range of western weapon systems and guided missiles to be integrated including the AIM-9L Sidewinder, Magic 2, and the AGM-65 Maverick.
+
+Weapons fit to include the Vikhr laser-guided missile, R-73 infrared-guided air-to-air missiles (Nato designation AA-11 Archer), and the Kh-25 ML (Nato designation AS-10 Karen) air-to-surface laser-guided missile..
+
+Here is Rocket Weapon Systems information for the Yak-130 (Mitten) Russian Light Combat Aircraft:
+The Note is The Aircraft can also deploy unguided B-8M and B-18 rockets..
+
+Here is Bomb Weapon Systems information for the Yak-130 (Mitten) Russian Light Combat Aircraft:
+The Note is A Platan electro-optical guidance pod is installed under the fuselage for the deployment of the KAB-500Kr guided bomb. 250kg and 50kg bombs and cluster bombs can also be installed..
+
+Here is Fire Control / Avionics information for the Yak-130 (Mitten) Russian Light Combat Aircraft:
+The Fire Control System is The Avionica fly-by-wire flight control system is used to adjust the stability and controllability characteristics and flight safety systems to simulate a number of aircraft such as the MiG-29, Su-27, Su-30, F-15, F-16, F-18, Mirage 2000, Rafale, Typhoon and future fighters such as the F-35..
+The Navigation Suite is The open architecture avionics suite includes two computers and a three-channel information exchange multiplexer. The navigation suite includes laser gyroscopes and GLONASS / NAVSTAR global positioning..
+The Navigation Radar is The Yak-130 is fitted with the 8GHz to 12.5GHz Osa or Oca (Wasp) radar developed by NIIP Zhukovsky. The radar has the capacity to track eight airborne targets simultaneously, simultaneously engage four targets at all angles and simultaneously track two ground targets. The detection range against 5m² cross-section targets is 40km in the rear direction and 85km in the forward direction. The lock-on range for operation in automatic tracking mode is 65km.
+
+The radar, which has adaptive waveforms and sidelobes, has a surface mapping mode that includes image freezing and zooming on areas of interest.
+
+An alternative radar fit is the Kopyo (Spear) radar. The aircraft can also be fitted with a podded Platan (Palm Tree) infrared search and track targeting system..
+
+Here is Protection information for the Yak-130 (Mitten) Russian Light Combat Aircraft:
+The Cockpit is The aircraft has an air-conditioned and pressurised two-seat tandem cockpit fitted with NPO Zvezda K-36LT3.5 zero-zero ejection seats. The pilots have all-round view through a blister canopy. The forward pilot has a view over the nose to -16°. The rear pilot has a view to -6°..
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The NBC Protection is INA.
+The EW Counter Measures is The electronic warfare suite includes a chaff and flare dispenser, a radar warning receiver, and active jammers..
+The Chaffs/Flares is Yes.
+

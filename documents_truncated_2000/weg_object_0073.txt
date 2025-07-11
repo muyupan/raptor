@@ -1,0 +1,66 @@
+This document describes the HT-233 Chinese 8x8 Self-Propelled Engagement Radar System.
+
+Designated as HT-233, this radar is the most advanced FCRs HQ-9 could employ, and it has greater similarities to the MIM-104 Patriot's MPQ-53 than the S-300's 30N6 (Flap-Lid) series, working in the NATO G-band (4–6 GHz) also as a search and targeting radar. This could be due to an alleged transfer of a Patriot missile to China from Israel.[12][13] The radar can search a 120 degree arc in azimuth and 0-90 degrees in elevation out to 300 km, with a peak power output on 1MW (average 60 kW). The radar is credited as being able to track 100 targets and guides up to 6 missiles to 6 targets, or alternatively, to 3 targets with a pair of missile for each target.
+
+HT-233 is the FCR used by HQ-9 that is closest to AN/MPQ-53: In comparison to earlier H-200 radar used by early models of KS-1 SAM which uses a simple horn instead of lens arrangement, HT-233 radar adopts lens arrangement of AN/MPQ-53. In comparison to SJ-231 radar used by the latest model of KS-1, HT-233 has a thousand more phase shifter on its antenna array, totaling four thousand, as opposed to the three thousand of SJ-231. In contrast, both AN/MPQ-53 & 30N6E radars have ten thousand phase shifters on their antenna arrays respectively. HT-233 radar is mounted on Tai'an TAS5501 10 x 10 high mobility cross country truck, and operates in C-band at 300 MHz. When deployed as a search radar TH-233 is fielded at brigade level, while FCR radars deployed would be SJ-212, H-200 or SJ-231. HT-233 is credited with a detection range of 120 km, scanning 360 degrees in azimuth and 0-65 degrees in elevation. It can track 100 targets and designate 50 for engagements.
+
+This equipment has proliferated into the following countries: China, Morocco, Myanmar, Turkmenistan, Uzbekistan.
+
+Here is System information for the HT-233 Chinese 8x8 Self-Propelled Engagement Radar System:
+The Alternative Designation is HT-233.
+The Type is Engagement Radar.
+The Manufacturer is INA.
+The Family is INA.
+The In Service is 2008-Present.
+The Crew is INA.
+The Chassis is Taian TAS-5380 series chassis.
+
+Here is Dimensions (Chassis: TAS-5380) information for the HT-233 Chinese 8x8 Self-Propelled Engagement Radar System:
+The Length is 11.
+The Width is 3.
+The Height is 3.
+The Weight, Empty is 18.
+The Payload Capacity is 20.
+
+Here is Automotive (Chassis: TAS-5380) information for the HT-233 Chinese 8x8 Self-Propelled Engagement Radar System:
+The Engine Name is Deutz Diesel.
+The Engine Type is Diesel.
+The Engine Power is 517.
+The Maximum Cruising Range is 800.
+The Speed, Maximum Road is 80.
+The Speed, Average Cross is 45.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 45.
+The Side Slope is 30.
+The Vertical Step is 0.5.
+The Trench is 1.8.
+The Fording Depth is 1.1.
+
+Here is Radar information for the HT-233 Chinese 8x8 Self-Propelled Engagement Radar System:
+The Name is HT-233.
+The Type is Engagement Radar.
+The Phase Shifter Elements is claimed to employ 4,000 phase shifter elements..
+The IFF Antenna is Yes.
+The SSR Antenna is Yes.
+The Bandwidth is 300 MHz instantaneous bandwidth in the lower X-Band or C-Band.
+The Detection Maximum Range is 150.
+The Tracking Maximum Range is 100.
+The Azimuth is 360.
+The Elevation Beamsteering is 0° to 65°.
+The Number of Targets it can Track is More than 50.
+The Active Thermal Homing is Yes.
+The Frequency Hopping is An interesting claim by Sengupta is that the HT-233 employs “randomness in frequency, space and time”; if this claim is correct then the HT-233 would be a frequency hopper, employing pseudo-random angular scan algorithms..
+The Note is The radar provides target acquisition and tracking within its coverage sector, post launch missile capture, midcourse missile tracking and command link guidance..
+
+Here is Communications information for the HT-233 Chinese 8x8 Self-Propelled Engagement Radar System:
+The Tactical Radio is TBR-121.
+
+Here is Protection (Chassis: TAS-5380) information for the HT-233 Chinese 8x8 Self-Propelled Engagement Radar System:
+The Armor is INA.
+The Applique Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is No.
+

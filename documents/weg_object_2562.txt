@@ -1,0 +1,158 @@
+This document describes the Marder 1A5 German Infantry Fighting Vehicle (IFV).
+
+Marder 1A5 has improved mine protection. Additional anti-mine armor was fitted and the interior was completely remodeled in order to improve survivability against mine blasts. A total of 74 Marder 1A3 vehicles were upgraded to the 1A5 standard between 2003 and 2004. The Marder 1A5 can be recognized by the storage box on the glacis plate and two stowage boxes mounted on either side on the roof at the rear. It also has new armored side skirts that protect the upper part of the suspension and these have a straight lower part rather than the wavy rubberized reinforced skirt fitted to the standard Marder 1A3.
+
+This equipment has proliferated into the following countries: Chile, Germany, Indonesia, Jordan.
+
+Here is Variants information for the Marder 1A5 German Infantry Fighting Vehicle (IFV):
+The Marder 1A2 is Since 1983, all the German Marder 1s have been upgraded to the A2 standard. Fitted with thermal imaging sight equipment instead of the image intensifier. New sighting system..
+The Marder 1A3 is new armor kit mounted on the side of the hull. New storage boxes are provided along the sides of the upper part of the hull and a new radio installation is provided..
+The Marder 1 A1(−) (1979–1982) is as A1(+) but without thermal imager. 350 vehicles upgraded to this standard..
+The Marder 1 A1A3 is A Marder A1 with SEM 80/90 cryptographic radios. Marder 1 A1A as 1 A1 but without any passive night vision equipment. 1,112 vehicles upgraded to this standard..
+The Marder 1 A1A4 is A Marder A1A with SEM 80/90 cryptographic radios. Marder 1 A1A2: a converted Marder 1 with A1 turret and A2 chassis.
+The Marder 1 A1A5 is a Marder A1A2 with SEM 80/90 cryptographic radios..
+The Marder 1 A2 (1984–1991) is Between 1984 and 1991, all German Marder 1s were upgraded to A2 standard, this included substantial modification of the suspension, fuel tanks, cooling system, and water-jet cleaning system. Additionally, a new sighting system was installed. The infrared searchlight equipment was removed, and all vehicles were fitted with thermal imagers except for the 674 A1(+) vehicles, which already had them..
+The Marder 1 A2A1 is a Marder 1A2 with SEM 80/90 cryptographic radios..
+The Marder 1 A3 (1988–1998) is INA.
+The Marder 1 A4 is a Marder 1 A3 with SEM 93 cryptographic radio..
+The Marder 1 A5 (2003–2004) is Additional anti-mine armor and completely remodeled interior in order to avoid blast and shock injuries to the crew when hit by a mine. Applied to 74 Marder 1 A3s only..
+The Marder 1 A5A1 (2010–2011 is Equipped with air conditioning system, jammer for IED-protection and multi-spectral camouflage..
+
+Here is System information for the Marder 1A5 German Infantry Fighting Vehicle (IFV):
+The Alternative Designation is Marder 1A5.
+The Type is Infantry Fighting Vehicle (IFV).
+The Manufacturer is Rheinmetall Landsysteme.
+The Family is Marder IFV Family.
+The Crew is 3.
+The Passenger Capacity is 5.
+
+Here is Dimensions information for the Marder 1A5 German Infantry Fighting Vehicle (IFV):
+The Length is 6.79.
+The Width is 3.24.
+The Height is 2.98.
+The Weight, Combat is 37.
+The Ground Pressure is INA.
+The Ground Clearance is 0.44.
+
+Here is Automotive information for the Marder 1A5 German Infantry Fighting Vehicle (IFV):
+The Engine Name is MTU MB 833 Ea-500.
+The Engine Type is Diesel.
+The Engine Power is 591.
+The Fuel Capacity is 652.
+The Fuel Tank Protection is Yes, with Blast Protection.
+The Range is 520.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is 40.
+The Speed Maximum Swim is Not Amphibious.
+The Transmision is RENK HSWL 194.
+The Ground clearance is 0.45.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 1.
+The Trench is 2.5.
+The Fording Depth (with preperation) is 2.
+
+Here is Communications information for the Marder 1A5 German Infantry Fighting Vehicle (IFV):
+The Primary Radio is 1 x SEM 80 Radio.
+The Secondard Radio is 1 x SEM 90 Radio.
+The Range is 30.
+
+Here is System information for the Marder 1A5 German Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Name is 1 x Rheinmetall Mk 20 RH-202, 20mm Autocannon.
+The Type is Autocannon.
+The Caliber is 20.
+The Manufacturer is Rheinmetall.
+The Weight is 83.
+The Length is 2,612.
+The Height is 241.
+The Action is Gas-unlocked sliding breech block, blowback, recoiling base.
+The Rate of Fire is 880-1,300.
+The Effective Firing Range (vs. aircraft) is 1,600.
+The Effective Firing Range (vs. ground targets) is 2,500.
+The Maximum Elevation is +65.
+The Minimum Elevation is -17.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+
+Here is Ammunition information for the Marder 1A5 German Infantry Fighting Vehicle (IFV) of the Main Gun:
+The Type is Rifle.
+The Caliber is 20.
+The Cartridge is NATO standard 20 × 139 mm cartridge with disintegrating belt..
+The Shell is 20 × 139 mm.
+The Muzzle Velocity (With HEI) is 1,044.
+The Muzzle Velocity (With AP) is 1,100.
+The Basic Load is 1,250.
+
+Here is System information for the Marder 1A5 German Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Name is 1 x Rheinmetall MG 3, 7.62mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The In Service is 1960–present.
+The Manufacturer is Rheinmetall.
+The Proliferation is over 1 million.
+The Length (With Stock) is 1,225.
+The Length (With Stock) is 1,097.
+The Barrel Length is 565.
+The Weight (Gun Only) is 11.5.
+The Weight (Mounted on a Tripod) is 27.5.
+The Action is Recoil-operated, roller locked.
+The Max Rate of Fire is 1,000-1,300.
+The Effective Firing Range is 200–1,200 m sight adjustments.
+The Maximum Firing Range (Bipod) is 600.
+The Maximum Firing Range (Tripod) is 1,200.
+The Maximum Firing Range (Gun Carriage) is 3,000.
+The Maximum Firing Range (Terminal ) is 3,750.
+The Feed system is 50-round non-disintegrating DM1 belt (can be combined in a drum); 100-round disintegrating DM6/M13 belt..
+The Sights is Open tangent iron sights.
+
+Here is Ammunition information for the Marder 1A5 German Infantry Fighting Vehicle (IFV) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Muzzle Velocity is 820.
+The Basic Load is 5,000.
+
+Here is MILAN Anti-Tank Guided Missile (ATGM) information for the Marder 1A5 German Infantry Fighting Vehicle (IFV) of the Anti-Tank Guided Missile (ATGM):
+The Name is 5 x MILAN Anti-Tank Guided Missile (ATGM).
+The Type is Anti-Tank Guided Missile (ATGM).
+The Proliferation is thousands deployed by the French, German, Belgian, and Spanish armies, but Italy and soon India were assembling MILANs under license. All in all, the MILAN’s customer list has reached 41 countries and at least several non-state groups..
+The Missile Length is 918.
+The Missile Diameter is 103.
+The Missile Fin Span is 267.
+The Warhead Weight is 2.7.
+The Missile Weight is 6.73.
+The Total Weight with Launcher is 24.
+The Engine is solid-fuel rocket.
+The Guidance System is Wire-Guided.
+The Warhead Type is High Explosive.
+The Range is 2.
+The Armor Penetration is 350.
+The Basic Load is 5 x MILAN Anti-Tank Guided Missile (ATGM).
+The Note is The iconic MILAN is the most successful Western European anti-tank missile ever made and is only surpassed by the BGM-71 TOW when it comes to international customers..
+
+Here is Fire Control information for the Marder 1A5 German Infantry Fighting Vehicle (IFV):
+The Name is INA.
+The Computerized FCS is INA.
+The Thermal Sight Vehicle Commander is PERI-Z 11 and PERI Z 11 A1.
+The Thermal Sight Gunner is PERI-Z 11 and Zeiss thermal imager.
+The Main Gun Stabilization is No.
+The Periscopes (Commander) is 8.
+The Periscopes (Gunner) is 3.
+
+Here is Protection information for the Marder 1A5 German Infantry Fighting Vehicle (IFV):
+The Hull Armor is Welded steel, protection up to 20 mm APDS DM43 from 0 m and 25 mm APDS from 200 m..
+The Turret Armor is Welded steel, protection up to 20 mm APDS DM43 from 0 m and 25 mm APDS from 200 m..
+The Front Hull Armor is Protection from 20 mm APDS projectiles..
+The Applique Armor is Yes, Additional RHA shields are also fitted to the sides of the hull..
+The Passive Armor Package is Yes.
+The Explosive Reactive Armor is No.
+The Active Protection System is Yes.
+The Mine Protection System is Yes, Integrated mine protection system..
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, 76 mm smoke grenade launchers.
+The IR Signature is INA.
+The Safety Belts is Automatic crew safety belts.
+The Blast-Attenuating Seats is Yes.
+

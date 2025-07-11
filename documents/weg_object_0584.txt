@@ -1,0 +1,70 @@
+This document describes the Sholef Israeli 155mm Self-Propelled Howitzer (SPH).
+
+The Slammer (Sholef) is a 155mm self-propelled howitzer variant of the Merkava with automatic loading system. The gun has a range of 40+ km with ERFB-BB. Two prototypes appeared in 1984 and 1986 but didn't entered production.
+
+The Slammer is a heavily armored artillery gun mounted on a modified Merkava Mk 1 chassis. Many of these vehicles are Merkava Mk 1 that were retired after the Merkava Mk 2 and Merkava Mk 3 came into service. The Slammer has a long 52-caliber gun barrel that allows +10% range. Reload speed may be decreased to 1 for one minute every 10 minutes through use of an automatic loader. Ammunition racks are large. The Slammer is ready for autonomous operation (without an FDC) if the target's location is known within 15 seconds of a halt, using GPS, inertial navigation, and an internal fire control computer. The Slammer is also capable of direct fire on the move.
+
+This equipment has proliferated into the following countries: Israel.
+
+Here is System information for the Sholef Israeli 155mm Self-Propelled Howitzer (SPH):
+The Alternative Designation is Sholef.
+The Type is Self-Propelled Howitzer (SPH).
+The Crew is 4.
+The Chassis is Merkava Mk.1.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+
+Here is Dimensions information for the Sholef Israeli 155mm Self-Propelled Howitzer (SPH):
+The Hull Length is 3.49.
+The Width is 3.72.
+The Length (gun forward) is 13.5.
+The Height is 3.49.
+The Weight, Combat is 45 tons.
+
+Here is Automotive information for the Sholef Israeli 155mm Self-Propelled Howitzer (SPH):
+The Engine Name is Continental AVDS 9AR 1790.
+The Engine Type is Diesel.
+The Engine Power is 1 200 hp.
+The Cruising Range is 500.
+The Speed, Maximum Road is 60.
+The Fording Depth With Preparation is 2.4.
+The Fording is 1.38.
+The Gradient is 60%.
+
+Here is System information for the Sholef Israeli 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Name is Sholef.
+The Type is Self Propelled Howitzer (SPH).
+The Caliber is 155 mm.
+The Breech Type is semi-automatic wedge.
+The Length, Barrel is 52 Calibers.
+The Loader Type is Automatic computerised loading system,.
+The Max Rate of Fire is 9.
+The Muzzle Brake Type is Double-baffle.
+The Max Elevation is 70.
+The Min Elevation is -5.
+The Traverse Range is 360.
+The Traverse Left is 180.
+The Traverse Right is 180.
+
+Here is Ammunition information for the Sholef Israeli 155mm Self-Propelled Howitzer (SPH) of the Main Gun:
+The Type is Separate loading  propellant / projectile.
+The Caliber is 155 mm.
+The Muzzle Velocity is Varies by propellant.
+The Basic Load is 75 Projectiles/60 Complete Rounds.
+The Effective Range is 45.
+The Note is Projectile Standard 155mm NATO.
+
+Here is Coaxial Weapon System information for the Sholef Israeli 155mm Self-Propelled Howitzer (SPH):
+The Note is 1 ring mount  7.62mm or 12.7mm  for Anti-Aircraft/Anti-Infantry.
+
+Here is Fire Control information for the Sholef Israeli 155mm Self-Propelled Howitzer (SPH):
+The Name is INA.
+The Computerized FCS is yes.
+The Direct Fire While Moving is the weapon is stabilized and can actually be used for direct-fire while the vehicle is moving.
+
+Here is Protection information for the Sholef Israeli 155mm Self-Propelled Howitzer (SPH):
+The Hull Armor is The hull has the same ballistic protection as the Merkava Mk.1.
+The Turret Armor is The armor on the turret is sufficient to defeat small arms fire, shell splinters, blast overpressure, and most heavy machine gun rounds.
+The NBC Protection is Over Pressure.
+The Note is The armor is augmented by spall liners, and the same overpressure NBC system as the Merkava Mk.1 is fitted.
+

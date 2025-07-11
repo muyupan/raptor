@@ -1,0 +1,40 @@
+This document describes the Crew Task Support Unmanned Mobile Platform (CTSUMP) Chinese 6x6 Unmanned Ground Vehicle (UGV).
+
+The Crew Task Support Unmanned Mobile Platform (CTSUMP) Chinese 6x6 Unmanned Ground Vehicle (UGV) is developed to reduce the load of dismounted troops by transporting their weapons and ammunition, mission critical equipment, as well as food, water, and medical supplies on unpaved roads and cross-country terrain.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Crew Task Support Unmanned Mobile Platform (CTSUMP) Chinese 6x6 Unmanned Ground Vehicle (UGV):
+The Alternative Designation is The Crew Task Support Unmanned Mobile Platform (CTSUMP) Chinese 6x6 Unmanned Ground Vehicle (UGV).
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is NORINCO.
+The Mission is The Crew Task Support Unmanned Mobile Platform (CTSUMP) Chinese 6x6 Unmanned Ground Vehicle (UGV) is developed to reduce the load of dismounted troops by transporting their weapons and ammunition, mission critical equipment, as well as food, water, and medical supplies on unpaved roads and cross-country terrain..
+The Configuration is 6x6.
+The Crew is Unmanned.
+The Control is INA.
+The Software is The CTSUMP is capable of four modes of operation: tele-operation, follower behavior, waypoint navigation, and fully autonomous..
+The Sensors is It is equipped with an integrated sensor suite that comprises a light detection and ranging (LIDAR) system, a high-definition (HD) daylight color camera and IR imager, as well as obstacle sensors..
+The Payload Capacity is 600 kg.
+The Passenger Capacity is The hybrid platform is an ATV that can carry a team of between seven and eight people..
+The Environmental is INA.
+
+Here is Dimensions information for the Crew Task Support Unmanned Mobile Platform (CTSUMP) Chinese 6x6 Unmanned Ground Vehicle (UGV):
+The Length is 3.2 m.
+The Width is 1.7 m.
+The Height is 1.5 m.
+The Weight is INA.
+
+Here is Automotive information for the Crew Task Support Unmanned Mobile Platform (CTSUMP) Chinese 6x6 Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Battery.
+The Engine Power is INA.
+The Range is INA.
+The Maximum Speed is 35 km/h.
+The Fording is less than 700 mm.
+The Endurance is INA.
+The Note is The CTSUMP platform features all-wheel drive (AWD) and all-wheel steering (AWS) capabilities.
+
+Here is Protection information for the Crew Task Support Unmanned Mobile Platform (CTSUMP) Chinese 6x6 Unmanned Ground Vehicle (UGV):
+The Armor is INA.
+The Applique Armor is No.
+

@@ -1,0 +1,47 @@
+This document describes the TY-90 Chinese Air-to-Air Missile.
+
+TY-90 (Chinese: 天燕-90; pinyin: Tiān Yàn-90; literally: 'Sky Swallow-90') is the first air-to-air missile specifically developed for military helicopters in dogfights. Contrary to the erroneous claims, the missile is not developed from MANPAD missiles such as QW-1 Vanguard, but instead, it is designed as an air-to-air missile from the start. It is the world first air to air missile that is specifically designed for helicopters. Later, the surface-to-air version was further developed from the air-to-air version.
+
+Chinese determined that the MANPAD missiles converted for helicopter use in dogfights was not adequate, so a brand new air-to-air missile specifically for helicopter use was sanctioned, and TY-90 was the resulting product. The 3 kg warhead of the missile is specially designed to sever the rotary wing with a single shot, and the missile has all-aspect attack capability. The missile is designed to ensure a single shot would be sufficient to down an attack helicopter, or at least knock it out of action.
+
+At least three additional versions have been developed in addition to the basic version, and two of them being air-to-air versions. The first adopts a dual-band guidance, adding UV to the original IR, while the second adopts an ImIR guidance. During the 5th Zhuhai Airshow held at the end of 2004, a ground-launched air defense version appeared, with designation of DY-90, which was essentially the original TY-90, but with an additional option of incorporating a rocket booster to increase range upon customer's request.
+
+A navalized surface-to-air version is also developed, utilizing the FLS-1 system and the basic version with IR guidance, thus providing a fire-and-forget capability in comparison to the case where QW-3 is used. However, this navalized version has not entered service as of 2008, and the reason is reportedly because that the Chinese military wants to wait until the more advanced dual-band or Imaging IR (ImIR) version to be incorporated into the FLS-1 system, which are currently under development. However, at Zhuhai Airshow, AVIC I, the developer of TY-90 only acknowledged the developing and active marketing such systems, but refused to further confirm whether the Chinese military or any foreign customers had placed any orders, and neither did the developer confirm such developmental works were privately funded by the developer or received any funds from the state or foreign customers.
+
+Despite marketing efforts, as of 2008, there is no known export of TY-90 of any kind.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the TY-90 Chinese Air-to-Air Missile:
+The SG-II ADS is In 2004, a land based air defense variant of TY-90 is revealed to Chinese public after entering Chinese service in small numbers for sometime. Shengong (Deity Bow, 神弓)-II Air Defense System (SG-II ADS) is the upgrade of its predecessor SG ADS, with a quadruple TY-90/DY-90 missile launcher replacing the original Type 80 23mm AAA gun in its predecessor, resulting in the new SG-II ADS. Like its predecessor, SG-II ADS is also a towed system, and utilizes all other subsystems of its predecessor with the exception of the gun. Because TY/DY-90 is a fire and forget weapon, no modification is needed for the fire control system of the original SG ADS..
+The LS ADS is During the 5th Zhuhai Airshow held at the end of 2004, a mobile land based air defense variant of TY-90 was revealed, dubbed as LS ADS, short for Lie-Shou (猎手, meaning Hunter) Air Defense System. Eight TY-90 in two groups of four are mounted in the back of a Dongfeng (东风, East Wind) EQ2050 Iron Armor (Tiejia, 铁甲) High Mobility Multipurpose Wheeled Vehicle (HMMWV), and the fire control system consists of electro-optics including laser, IR & TV, mounted between the two quadruple launchers.
+
+The LS ADS is developed by Norinco, with Dongfeng Motor Corporation as the subcontractor to develop chassis (vehicle). LS ADS is capable of being air transported, included being slung under helicopters. The system is operated by a team of two, one driver and one weaponry system officer. The system can also being integrated into larger air defense network. A small number subsequently entered PLA service for evaluation purposes..
+The YT ADS is In 2005, another mobile land based air defense variant of TY-90 was revealed to the Chinese public, named as YT ADS, short for Yi-Tian (倚天, meaning leaning on the sky) Air Defense System. YT ADS is a development of earlier LS ADS designed to specifically address the shortcomings of the latter, namely, the insufficient armor protection, lack of amphibious capability and radar. Like its predecessor LS ADS, the system is also developed by Norinco.
+
+Weaponry of YT ADS is similar to that of earlier LS ADS, with the missile configuration remains the same as that of LS ADS, but additionally, there is an extra 12.7 mm heavy machine gun and 3 smoke grenade dischargers as secondary armament for added protection. WZ551 is utilized as the chassis of the YT ADS, giving the system amphibious capability and added protection. Additionally, a light solid state 3-D passive phased array radar is added to the fire control system, just above the original electro-optical fire control system, providing the ADS with greater surveillance range. The radar can be folded down for traveling and transportation..
+The FL-3000N is The Flying Leopard 3000 Naval (FL-3000N) was first revealed to the public at the 7th Zhuhai Airshow at the end of 2008. Although using the Flying Leopard designation, the FL-3000N is actually a different missile system than the FL-2000(V) shown earlier. In fact, the only commonality shared by both SAM system is the launcher design, and even the launchers differ in size due to the different diameters of the missiles used in the systems.
+
+Instead of using QW-1 Vanguard MANPADs, the FL-3000N system uses the HHQ-10 (Red Flag 10) naval surface to air missile developed from TY-90 missile.[citation needed] The diameter of the missile is enlarged by a third, but the most important design difference is its guidance system. The FL-3000N missile utilizes a combined guidance system that incorporates both passive radio frequency (RF) guidance and imaging infrared (ImIR) guidance. There are a pair of horn like protrusions mounted on the ImIR seeker at the tip of the missile, and these two protrusions are the passive RF seeker. An optional ImIR only guidance is also available and the missile is a fire and forget weapon..
+
+Here is System information for the TY-90 Chinese Air-to-Air Missile:
+The  is .
+The  is .
+The  is .
+
+Here is Missile information for the TY-90 Chinese Air-to-Air Missile of the TY-90 Air-to-Air Missiles:
+The Name is TY-90.
+The Type is Air-to-Air Missiles.
+The Manufacturer is China Aviation Industry Corporation I.
+The Length is 1.9.
+The Diameter is 90.
+The Weight, Warhead is 3.
+The Aircraft Capible to Carry is 16.
+The Detonation Mechansim is Impact/Proximity.
+The Engine Propllant is Solid Fuel.
+The Operational Range is 0.5-6.
+The Flight Ceiling is 6.
+The Flight Alitude is 0-6.
+The Speed is 2.
+The Guidance System is ImiR IR.
+

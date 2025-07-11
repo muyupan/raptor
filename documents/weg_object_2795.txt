@@ -1,0 +1,59 @@
+This document describes the TMM-3 Russian 6x6 Mobile Bridging System.
+
+The TMM-3 is a heavy mechanized bridge-laying system developed by the former Soviet Union to support its land forces crossing natural obstacles such as rivers and canals as well as ditches. The TMM-3 bridge system supports armored vehicles weighing up to 60 tons at speeds below 15 kilometers per hour (kph) crossing obstacles that are up to 40 meters long and up to three meters deep. Typically a single TMM-3 bridge laying system requires up to four 6x6 KrAZ-255 trucks with each bridge being 10 meters long and can be set up in just 72 minutes.
+
+This equipment has proliferated into the following countries: Belarus, CFE Treaty, China, Kazakhstan, Russian Federation, Ukraine, Viet Nam.
+
+Here is Variants information for the TMM-3 Russian 6x6 Mobile Bridging System:
+The TMM-1 is 50 ton scissor bridge on ZIL-157 chassis. Also known as TMM without suffix..
+The TMM-2 is 50 ton scissor bridge on KrAZ-214 chassis. Also known as TMM without suffix..
+The TMM-3 is 50 ton scissor bridge on KrAZ-255B chassis. Can be identified by steel frame with spare wheel above cab..
+The TMM-4 is 60 ton scissor bridge with stronger jacks on KrAZ-255B or KrAZ-260 chassis. In KrAZ-260 version spare wheel is located behind cab..
+
+Here is System information for the TMM-3 Russian 6x6 Mobile Bridging System:
+The Alternate Designations is TMM-3.
+The Type is Mobile Bridging System.
+The Manufacturer is Company: INA; Country: Russia.
+The Configuration is 6x6.
+The Chassis is Kraz-255B.
+The Crew is 1 + 1 in cab (driver, passenger).
+The Bridge Load Capacity is 60,000 kg.
+
+Here is Dimensions information for the TMM-3 Russian 6x6 Mobile Bridging System:
+The Length is 9.3 m.
+The Width is 3.2 m.
+The Height is 3.15 m.
+The Weight is 19,500 kg.
+The Wheelbase is 4.6 m + 1.4 m.
+The Ground Clearance is 0.36 m.
+The Bridge Length is 10.5 m.
+The Bridge Width is 3.8 m.
+The Bridge Weight is 7,000 kg.
+The Bridge Load Capacity is 60,000 kg.
+
+Here is Automotive information for the TMM-3 Russian 6x6 Mobile Bridging System:
+The Engine Name is YaMZ-238.
+The Engine Type is V8 Diesel.
+The Engine HP is 240 hp at 2.100 rpm.
+The Power-to-Weight Ratio, Empty is 20 hp/t empty.
+The Power-to-Weight Ratio, Full is 12 hp/t max load.
+The Fuel Capacity is 330 liters.
+The Transmission is Manual, 5 forward, 1 reverse.
+The Electrical System is 24V.
+The Suspension is (front) longitudinal semi-elliptic springs; (rear) equaliser type on 2 longitudinal semi-elliptical springs.
+The Steering is screw and nut with roller ball, hydraulic booster.
+The Brakes is air, drums front and rear.
+The Tires is 1300 × 530-533.
+The Range is 825 - 950 km on road.
+The Maximum Speed is 71 km/h on road.
+The Gradient is 58 %.
+The Vertical Obstacle is 0.600m.
+The Trench is 0.680m.
+
+Here is Protection information for the TMM-3 Russian 6x6 Mobile Bridging System:
+The Armor is None, soft skin vehicle.
+The Applique Armor is INA.
+The Active Projection System is No.
+The NBC Protection is No.
+The Smoke Equipment is No.
+

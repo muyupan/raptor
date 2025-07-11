@@ -1,0 +1,93 @@
+This document describes the Chamsuri Class South Korean Patrol Boat.
+
+Chamsuri-class patrol vessels are naval boats that function as patrol boats. These entered service with the Republic of Korea Navy in the 1970s, and have since seen service with three other navies, of which the Philippine Navy is currently the largest import user.
+
+These boats were built by the Hanjin Industrial SB, Chinhae, and Korea SB & Eng. Masan shipyards.
+
+These boats, also referred to as patrol killer medium "PKM", were built in two batches: the 201 series, and the more heavily armed 301 series. Early PKM 201 series boats were initially armed with one 40 mm/60 Bofors Mk.3, one twin 30 mm/75 Emerlec EX-30, and two 20 mm/70 Mk.10 AA. Late PKM 201 boats were armed with one twin 30 mm/75 Emerlec EX-30, one or two turreted single 20 mm Vulcan Gatlings, and two single 12.7 mm machine guns. The PKM 301 boats were armed with one 40 mm/60 Bofors in a fully enclosed mount, two turreted single 20 mm Vulcan Gatlings, and two single 12.7 mm machine guns (before the Second Battle of Yeonpyeong two single 7.62 mm M60 machine guns). 
+
+The Chamsuri-class boats are being retired and replaced by Gumdoksuri-class patrol vessel in the Republic of Korea Navy.
+
+This equipment has proliferated into the following countries: Bangladesh, East Timor (Timor-Leste), Ghana, Kazakhstan, Philippines, South Korea (Republic of Korea).
+
+Here is Variants information for the Chamsuri Class South Korean Patrol Boat:
+The In Bangladeshi service is The Bangladesh Navy operates four PKMs. The first two (P1011 and P1012) were transferred from South Korea in 2000. Another two (P1013 & P1014) entered service in 2004. P1011 Titas; P1012 Kusiyara; P1013 Chitra; P1014 Dhansiri..
+The In Timorese service is One naval and two coast guard units were transferred by South Korea to the Naval Component of East Timor's F-FDTL in September 2011, apparently on the basis of a transfer agreement signed in Seoul the previous month. They have been rechristened Kamenassa, Dili and Hera, respectively. Sub-class and original pennant numbers are currently unknown..
+The In Ghanaian service is One vessel was transferred in 2011. P33.
+
+Here is System information for the Chamsuri Class South Korean Patrol Boat:
+The Alternative Designation is Chamsuri Class.
+The Type is Patrol Boat.
+The Builder is Korea Tacoma
+Hyundai Heavy Industries
+Hanjin Heavy Industries.
+The Crew is 24.
+
+Here is Dimensions information for the Chamsuri Class South Korean Patrol Boat:
+The Length is 37 m.
+The Beam is 7 m.
+The Draft is 1.7 m.
+The Displacement, Standard is 170 tons.
+The Displacement, Full Load is INA.
+
+Here is Propulsion System information for the Chamsuri Class South Korean Patrol Boat:
+The Engine Name is 2 × MTU MD538 TU90.
+The Engine Type is Diesel Engines.
+The Engine Power is INA.
+The Fuel Capacity is INA.
+The Maximum Range is INA.
+The Maximum Speed is 69 km/h (37 knots).
+
+Here is System #1 information for the Chamsuri Class South Korean Patrol Boat of the Main Weapon System:
+The Name is Bofors 40 mm gun.
+The Type is Anti-Aircraft Autocannon.
+The Caliber is 40mm.
+The Quantity is 1 x Bofors 40 mm Anti-Aircraft Autocannon.
+The Length is 6.5 m.
+The Barrel Length is 2.2 m.
+The Width is 1.8 m.
+The Height is 1.9 m.
+The Weight is 1,981 kg.
+The Barrels is 1 or 2[.
+The Traverse is 360°.
+The Rate of Fire is 120 round/min.
+The Muzzle Velocity is 881 m/s.
+The Maximum Firing Range is 7,160 m.
+
+Here is System #1, Ammunition information for the Chamsuri Class South Korean Patrol Boat of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 40mm.
+The Shell is 40×311mmR.
+The Basic Load is INA.
+
+Here is System #2 information for the Chamsuri Class South Korean Patrol Boat of the Main Weapon System:
+The Name is M61 Vulcan.
+The Type is Autocannon.
+The Caliber is 20 mm.
+The Quantity is 2 x M61 Vulcan 20mm Autocannons.
+The Barrels is 6-barrel (progressive RH parabolic twist, 9 grooves).
+The Action is Hydraulically operated, electrically fired, rotary cannon.
+The Rate of Fire is 6,000 rounds per minute.
+The Muzzle Velocity is 1,050 m/s.
+The Feed System is Belt or linkless feed system.
+
+Here is System #2, Ammunition information for the Chamsuri Class South Korean Patrol Boat of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 20 mm.
+The Cartridge is 20×102 mm.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Chamsuri Class South Korean Patrol Boat:
+The FCS Name is INA.
+The Computerized FCS is No.
+The Battle Management System is No.
+
+Here is Radar Systems information for the Chamsuri Class South Korean Patrol Boat:
+The Surface Search Radar is STX RadarSys SPS-100k surface search radar.
+The Navigation Radar is INA.
+
+Here is Protection information for the Chamsuri Class South Korean Patrol Boat:
+The Active Protection System is INA.
+The Countermeasures is Yes, Feeder ( Countermeasures ) Dagie decoy RL.
+The NBC Water Washdown System is Yes.
+

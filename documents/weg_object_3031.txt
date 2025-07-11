@@ -1,0 +1,58 @@
+This document describes the MRH90 Australian Utility Helicopter.
+
+For decades the Australian military relied on the ubiquitous Bell UH-1 "Huey" helicopter line and thought (and funding) was finally given to adopt a more modern product - this became the MRH-90 "Taipan" (MRH = "Multi-Role Helicopter") based on the NHIndustries NH90 series. The NH90 serves in the medium-lift role and can undertake many mission types for military and civilian industries. Nearly 250 have been produced (2015) with service seen through the French, Italian and Finnish armies. The helicopter is an original product from NHIndustries (NHI), the helicopter arm of what was once Eurocopter - now falling under the Airbus Helicopters brand label.
+
+For the Australian military the Taipan fulfills a utility role and will serve both its Army and Navy forces. An early-batch order in 2005 called for twelve helicopters to replace UH-1 models and a 2006 follow-on order totaled 34 systems to succeed outgoing Sikorsky UH-60 "Black Hawk" and Westland "Sea King" helicopters. The Australian military plans to procure no more than 47 MRH-90s in all with four to be produced in Europe and the remainder in Australia by Airbus Helicopters subsidiary Australian Aerospace of Brisbane. Forty units are set aside for Army use and six are to be used by the Navy. While the original order was for 46 total aircraft, a renegotiated contract of 2013 yielded the Australian government one extra airframe which will be set aside for training duty.
+
+The MRH-90 has had a rocky development, forcing revisions as evaluations were being undertaken. Since 2010 the helicopter was repeatedly showing up on the Australian government's "shame list" for its many problems and delayed service entry. While first deliveries came in 2007, final examples will not be on hand until 2016 or 2017 - over ten years since the initial order was placed. For cost reasons, the Army will still be forced to use their Black Hawks until 2018. Initial Operational Capability (IOC) was finally had in 2014 by the Army with the Navy following a year later.
+
+The MRH-90 has experience issues with object ingestion in its turboshaft (Rolls-Royce) engines despite the fact that protective screens were in place (the screens were not suitable for the debris available in the Australian landscape). Additionally, windshield cracking was a constant which resulted in a special film being applied for added strength and a new installation procedure being drawn up. In 2010 a single engine failure occurred to an MRH-90 by Adelaide which caused a fleet grounding during the review process (shaft bowing was blamed). A stronger cabin floor was then ordered when it was found that the original lightweight design suffered under the stress of equipment-laden Australian infantry. Beyond other scheduled additions (rappelling equipment, door guns, etc...) it appears that the darkest days of the MRH-90 program are behind it.
+
+This equipment has proliferated into the following countries: Austria.
+
+Here is System information for the MRH90 Australian Utility Helicopter:
+The Alternative Designation is MRH90.
+The Type is Utility Helicopter.
+The Role is - Anti-Submarine Warfare (ASW)
+- Anti-Ship
+- Transport
+- Medical Evacuation (MEDEVAC)
+- Search and Rescue (SAR)
+- Special Forces.
+The Status is 2016-Present.
+The Crew is 3.
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 4.
+The Number of Engines is 2.
+The Day/Night Capable is Yes.
+The All Weather Capable is Yes.
+
+Here is Dimensions information for the MRH90 Australian Utility Helicopter:
+The Length is 16.15 m.
+The Main Rotor Diameter is 16.3 m.
+The Height is 5.25 m.
+The Weight, Empty is 6,400 kg.
+The Weight, Combat is 10,600 kg.
+
+Here is Automotive information for the MRH90 Australian Utility Helicopter:
+The Engine Name is 2 x Rolls-Royce Turbomeca RTM322-01/9.
+The Engine Type is turboshaft engines.
+The Engine Power is developing 2,230 horsepower each.
+The Cruising Range is 800.
+The Speed, Maximum is 300.
+The Service Ceiling is 6,000 m.
+The Rate-of-Climb is 480 m/min.
+The Fuel Capcity is 1,900 kg.
+
+Here is Main Weapon System information for the MRH90 Australian Utility Helicopter:
+The Note is The MRH90 typically only has a door-mounted machine gun for local defense..
+
+Here is Protection information for the MRH90 Australian Utility Helicopter:
+The Cockpit Glass is INA.
+The Stealth Properties is No.
+The Heat Signature Reduction is INA.
+The Add on Armor is INA.
+The NBC Protection is Yes.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

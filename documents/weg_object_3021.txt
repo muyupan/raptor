@@ -1,0 +1,54 @@
+This document describes the Phantom 1 Ukrainian 6x6 Unmanned Ground Vehicles (UGV).
+
+The Phantom 1 Ukrainian 6x6 Unmanned Ground Vehicles (UGV) is based on the Dozer-B APC with a steel hull.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the Phantom 1 Ukrainian 6x6 Unmanned Ground Vehicles (UGV):
+The Alternative Designation is Phantom 1; Fantom 1.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is SpetsTechnoExport (part of Ukroboronprom).
+The Configuration is 6x6.
+The Crew is Unmanned.
+The Operator is The vehicle is operated from a remote control station..
+The Software is The vehicle can autonomously avoid obstacles, use waypoint navigation as well as returning to base..
+The Cameras is The sensor package includes a visual odometry system using several cameras (with two FoV wide and narrow), thermal camera, and a laser rangefinder..
+The Payload Capacity is 350 kg.
+
+Here is Dimensions information for the Phantom 1 Ukrainian 6x6 Unmanned Ground Vehicles (UGV):
+The Length is 5.60 m.
+The Width is 1.60 m.
+The Height is 0.91 m.
+The Wheelbase is 3.1 m.
+The Weight, Combat is 1,000 kg.
+The Weight, Empty is 650 kg.
+The Ground Clearance is 40 cm.
+
+Here is Automotive information for the Phantom 1 Ukrainian 6x6 Unmanned Ground Vehicles (UGV):
+The Engine Name is Deutz BF 4M 1013 FC.
+The Engine Type is 4 cylinders, turbocharged, diesel.
+The Engine Power is 191 hp at 2,300 rpm.
+The Amphibious is No.
+The Maximum Speed is 38 km/h.
+The Maximum Gradient is 60%.
+The Side Slope is 40%.
+The Suspension is Independent hydraulic.
+The Fording is 50 cm.
+The Endurance is 10 h.
+
+Here is Communications information for the Phantom 1 Ukrainian 6x6 Unmanned Ground Vehicles (UGV):
+The Maximum Radio Operating Range is 10 km.
+The Maximum Tethered Operating Range is 5 km.
+The Maximum Satellite Operating Range is INA.
+
+Here is Main Weapon System information for the Phantom 1 Ukrainian 6x6 Unmanned Ground Vehicles (UGV):
+The Weapon System is The system incorporates a roof-mounted remote weapon station (RWS) with a 12.7 mm heavy MG, which is likely to be a NSV..
+The Turret Angle of Elevation is -3° to +68°.
+The Turret Traverse is 360°.
+The Maximum Firing Range is 1 km.
+The Note is As of February 2017 the Fantom has been integrated with the ‘Barrierʼ (Barʼer) anti-tank missile system, produced by State Kyiv Design Bureau Luch. It is believed that the ‘Stugna-Pʼ ATGM system can also be fitted if required..
+
+Here is Protection information for the Phantom 1 Ukrainian 6x6 Unmanned Ground Vehicles (UGV):
+The Armor is Steel hull.
+The Applique Armor is INA.
+

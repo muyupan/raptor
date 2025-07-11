@@ -1,0 +1,263 @@
+This document describes the Iver Huitfeldt Class Danish Frigate.
+
+The Iver Huitfeldt class is a three-ship class of frigates that entered service with the Royal Danish Navy in 2012 and 2013.
+
+The class is built on the experience gained from the Absalon-class support ships, and by reusing the basic hull design of the Absalon class the Royal Danish Navy have been able to construct the Iver Huitfeldt class considerably cheaper than comparable ships.
+
+Side view of frigate Niels Juel in front of green hills of Harstad port
+F363 Niels Juel in Harstad (Norway), June 2018
+The frigates are compatible with the Danish Navy's StanFlex modular mission payload system used in the Absalons, and are designed with slots for six modules. Each of the four stanflex positions on the missile deck is able to accommodate either the Mark 141 8-cell Harpoon launcher module, or the 12-cell Mark 56 ESSM VLS. The Peter Willemoes passed the British Flag Officer Sea Training test in 2015.
+
+While the Absalon-class ships are primarily designed for command and support roles, with a large ro-ro deck, the three new Iver Huitfeldt-class frigates will be equipped for an air defence role with Standard Missiles, and the potential to use Tomahawk cruise missiles, a first for the Danish Navy.
+
+The ships were constructed in blocks in Estonia and Lithuania. These blocks were then towed to Odense where they were assembled.
+
+This equipment has proliferated into the following countries: Denmark.
+
+Here is Variants information for the Iver Huitfeldt Class Danish Frigate:
+The Iver Huitfeldt is Commissioned:
+Status: Active.
+The Peter Willemoes is Commissioned: 2011
+Status: Active.
+The Niels Juel is Commissioned: 2011
+Status: Active.
+
+Here is System information for the Iver Huitfeldt Class Danish Frigate:
+The Alternative Designation is Iver Huitfeldt Class.
+The Total Built is 3 ships built.
+The Type is Frigate.
+The Builder is Odense Staalskibsværft
+
+Baltija Shipbuilding Yard
+
+Loksa Shipyard.
+The In Service is 2011-Present.
+The Crew is 101 total + air group.
+
+Here is Dimensions information for the Iver Huitfeldt Class Danish Frigate:
+The Length is 138.70 m.
+The Beam is 19.50 m.
+The Draft is 6.30 m.
+The Displacement, Standard is 4,000 tons.
+The Displacement, Full Load is 5,850 tons.
+
+Here is Propulsion System information for the Iver Huitfeldt Class Danish Frigate:
+The Engine Name is 4 x MTU 8000 M-70 diesels.
+The Engine Type is Diesel.
+The Engine Power is 44,600 total bhp.
+The Propeller is 2 variable-pitch propellers.
+The Bow-thruster is Yes.
+The Maximum Range is 15,000 nm at 9 knots.
+The Maximum Speed is 28 knots.
+The Endurance is INA.
+
+Here is Missile Weapon System #1 information for the Iver Huitfeldt Class Danish Frigate of the Missile Weapon System:
+The Name is BGM-109A Tomahawk Land-Attack Missile (TLAM).
+The Type is Long-Range Cruise Missile.
+The Quantity is 1 x 8-tubed Lockheed-Martin Mark 41 VLS system.
+The Manufacturer is General Dynamics (initially)
+McDonnell Douglas
+Hughes Aircraft Corporation
+Raytheon.
+The Proliferation is Widely Proliferated.
+The In Service is 1983-Present.
+The Launcher is 8-tubed Lockheed-Martin Mark 41 VLS system.
+The Missile Basic Load is INA.
+The Length is Without booster: 18 ft 3 in (5.56 m) With booster: 20 ft 6 in (6.25 m).
+The Diameter is 0.52 m.
+The Wingspan is 2.67 m.
+The Weight is 2,900 lb (1,300 kg), 3,500 lb (1,600 kg) with booster.
+The Warhead is Nuclear: W80 warhead (retired)
+Conventional: 1,000 pounds (450 kg) high explosive or submunition dispenser with BLU-97/B Combined Effects Bomb or PBXN.
+The Detonation Mechanism is FMU-148 since TLAM Block III, others for special applications.
+The Engine is Williams International F107-WR-402 turbofan
+using TH-dimer fuel
+and a solid-fuel rocket booster.
+The Operational Range is Block II TLAM-A – 1,350 nmi (1,550 mi; 2,500 km)
+Block III TLAM-C, Block IV TLAM-E – 900 nmi (1,000 mi; 1,700 km)
+
+Block III TLAM-D – 700 nmi (810 mi; 1,300 km).
+The Flight Altitude is 98–164 ft (30–50 m) AGL.
+The Speed is Subsonic; ~Mach 0.74. about 550 mph (480 kn; 890 km/h).
+The Guidance System is GPS, INS, TERCOM, DSMAC, active radar homing (RGM/UGM-109B).
+The Launch Platforms is Vertical Launch System (VLS) and horizontal submarine torpedo tubes (known as TTL (torpedo tube launch)).
+
+Here is Missile Weapon System #2 information for the Iver Huitfeldt Class Danish Frigate of the Missile Weapon System:
+The Name is RIM-7 Sea Sparrow.
+The Type is Anti-Aircraft and Anti-Ship Missile.
+The Quantity is 2 x 12-tubed Raytheon Mk 56 VLS system.
+The Launcher is 12-tubed Raytheon Mk 56 VLS system.
+The Missile Basic Load is 24.
+The Length is 3.7 m.
+The Diameter is 20 cm.
+The Wingspan is 1.02 m.
+The Weight is 230 kg.
+The Warhead is Annular blast fragmentation warhead, 90 lb (41 kg).
+The Detonation Mechanism is Proximity fuzed, expanding rod, with a 27 ft (8.2 m) kill radius.
+The Engine is Hercules MK-58 solid-propellant rocket motor.
+The Operational Range is 19 km.
+The Speed is 4,256 km/h (2,645 mph).
+The Guidance System is Semi-active radar homing.
+The Launch Platform is Ship.
+
+Here is Missile Weapon System #3 information for the Iver Huitfeldt Class Danish Frigate of the Missile Weapon System:
+The Name is RGM-84C Block II Harpoon.
+The Type is Anti-Ship Missile.
+The Quantity is 2 x 8-tubed Harpoon SSM Launchers Systems.
+The Launcher is 8-tubed Harpoon SSM Launchers Systems.
+The Missile Basic Load is 16.
+The Length is Air-launched: 12.6 ft (3.8 m); Surface- and submarine-launched: 15 ft (4.6 m).
+The Diameter is (34 cm.
+The Wingspan is 0.91 m.
+The Weight is 1,523 lb (691 kg) with booster.
+The Warhead is 221 kg.
+The Detonation Mechanism is Impact fuze.
+The Engine is Teledyne CAE J402 Turbojet/solid propellant booster for surface and submarine launch; greater than 600 pounds (greater than 272.2 kg) of thrust.
+The Operational Range is in excess of 150 nmi (280 km) depending on launch platform.
+The Flight Altitude is Sea-skimming.
+The Speed is 537 mph (864 km/h; 240 m/s; Mach 0.71).
+The Guidance System is Sea-skimming cruise monitored by radar altimeter / active radar terminal homing.
+The Launch Platform is multi-platform:
+RGM-84A surface-launched
+AGM-84A air-launched
+UGM-84A submarine-launched.
+
+Here is Missile Weapon System #4 information for the Iver Huitfeldt Class Danish Frigate of the Missile Weapon System:
+The Name is FIM-92 Stinger.
+The Type is Surface-to-Air Missile.
+The Quantity is 6 x Twin Sea Stinger SAM launchers.
+The Launcher is Twin Sea Stinger SAM launchers.
+The Missile Basic Load is 6.
+The Length is 1.52 m.
+The Diameter is 70.1mm.
+The Weight is 15.19 kg.
+The Crew is 1.
+The Warhead is High explosive annular blast fragmentation.
+The Warhead Weight is 3 kg.
+The Engine is Solid-fuel rocket motor.
+The Guidance System is Infrared homing.
+The Launch Platform is MANPADS, M6 Linebacker, Multi-Mission Launcher, Eurocopter Tiger, AN/TWQ-1 Avenger, MQ-1 Predator, AH-64 Apache, T-129 ATAK.
+
+Here is Gun Weapon System #1 information for the Iver Huitfeldt Class Danish Frigate of the Gun Weapon Systems:
+The Name is OTO Melara.
+The Type is Naval Gun.
+The Caliber is 76,,.
+The Quantity is 2 x 76-mm/62-cal Mark 75 Oto Melara Compact DP Weapon Stations.
+The Barrel Length is 62 caliber: 4,724.4 mm (186.00 in).
+The Weight is Empty: 7.5 tonnes (17,000 lb).
+The Crew is Remote Controlled.
+The Elevation is −15°/+85°
+speed: 35°/s (acceleration: 72°/s²).
+The Traverse is 360°
+speed: 60°/s (acceleration: 72°/s²).
+The Rate of Fire is Compact: 85 rounds/min
+Super Rapid: 120 rounds/min.
+The Muzzle Velocity is 915 m/s (3,000 ft/s).
+The Maximum Firing Range is HE-PFF 16,000 m
+SAPOMER 20,000 m
+VULCANO 40,000 m.
+The Feed System is Magazine capacity:
+80 ready rounds on Compact gun mount.
+
+Here is Ammunition Gun Weapon System #1 information for the Iver Huitfeldt Class Danish Frigate of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.
+The Shell is 76×636mmR
+cartridge weight 12.5 kilograms (28 lb)
+shell weight 6.3 kilograms (14 lb)
+propellant weight 2.35 kilograms (5.2 lb).
+The Shell Weight is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Iver Huitfeldt Class Danish Frigate of the Gun Weapon Systems:
+The Name is Rheinmetall Oerlikon Millennium Gun.
+The Type is Close-In Weapon System (CIWS).
+The Caliber is 35mm.
+The Quantity is 2 x 35-mm Oerlikon-Contraves Millennium AA.
+The Length is 5.5 m.
+The Width is 2.39 m.
+The Height is 1.94 m.
+The Weight is Gun: 450 kg
+Installation: 3300 kg.
+The Crew is unmanned.
+The Action is Gas-operated revolver cannon.
+The Elevation is -15 / +85 degrees
+rate: 70 degree/s.
+The Traverse is 360 degrees
+rate: 120 degrees per second.
+The Rate of Fire is Single shot
+Rapid Single Shot: 200 rounds per minute
+Burst (automatic fire): 1000 rounds per minute.
+The Muzzle Velocity is AHEAD: 1,050 m/s (3,445 ft/s)
+HEI: 1,175 m/s (3,854 ft/s)
+APDS/T: 1,440 m/s (4,724 ft/s).
+The Effective Firing Range is 3,500–5,000 m (3,800–5,500 yd).
+The Feed System is 252 linkless rounds in installation.
+
+Here is Ammuntiion Gun Weapon System #2 information for the Iver Huitfeldt Class Danish Frigate of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 35mm.
+The Shell is 35×228mm.
+The Shell Weight is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #3 information for the Iver Huitfeldt Class Danish Frigate of the Gun Weapon Systems:
+The Name is AX50.
+The Type is Anti-Material Rifle.
+The Quantity is 7 x 12.7mm machine guns.
+The Manufacturer is Accuracy International.
+The Proliferation is Bangladesh: Recently started to be used by Bangladesh Army.
+ Denmark: Awarded contract with Danish Defence. Due to be introduced into Service.
+ Turkey: In service with Turkish Police Special Operation Department.
+ United Kingdom: It has replaced the AW50 as the British Army's standard .50 BMG rifle.
+ Malaysia: Used By Malaysian Army.
+ Singapore: Employed by the Special Operations Force.
+ Peru: used by the special forces of the navy and air force of Peru.
+The In Service is 2010-Present.
+The Length is 1,370 mm (53.9 in)
+1,115 mm (43.9 in) folded.
+The Barrel Length is 685.8 mm (27.0 in).
+The Width is 125 mm (4.92 in).
+The Height is 190 mm (7.48 in).
+The Weight is 12.5 kg (27.6 lb) (no scope/no rails, empty mag).
+The Action is Bolt-action.
+The Muzzle Velocity is 900 m/s (2,953 ft/s).
+The Effective Firing Range is 2,500 m (2,734 yd).
+The Feed System is 5-round detachable box magazine.
+The Sights is Standard: S&B 5-25×56 PM II telescopic sight.
+
+Here is Ammunition Gun Weapon System #3 information for the Iver Huitfeldt Class Danish Frigate of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 12.7mm.
+The Cartridge is .50 BMG (12.7×99mm NATO).
+The Basic Load is INA.
+
+Here is Torpedo Weapon System information for the Iver Huitfeldt Class Danish Frigate:
+The Torpedo Tube is 2 x twin 324-mm Mk 32 tubes.
+The Torpedo Name is MU-90 M/04 ASW torpedoes.
+The Torpedo Basic Load is INA.
+
+Here is Onboard Aviation information for the Iver Huitfeldt Class Danish Frigate:
+The Facilities is Aft helicopter deck and hangar.
+The Helicopters is 1 x Agusta-Westland AW101 helicopter; or unknown no. of UAVs.
+
+Here is Fire Control information for the Iver Huitfeldt Class Danish Frigate:
+The FCS Name is See Missile and Gun Weapon Systems..
+The Computerized FCS is Yes.
+
+Here is Radar Systems information for the Iver Huitfeldt Class Danish Frigate:
+The Air and Surface Radar is 1 x Thales SMART-L 3D air/surface search.
+The Phased Array Radar is 1 x Thales APAR phased array air search system.
+The Navigation Radar is 2 x Furuno navigation.
+The FCS Radar is 2 x Saab CEROS 200 fire-control.
+
+Here is Sonar Systems information for the Iver Huitfeldt Class Danish Frigate:
+The Hull-Mounted Sonar System is 1 x Atlas-Elektronik ASQ-94 (Thales DSQS-24C) hull-mounted towed and variable depth.
+
+Here is Protection information for the Iver Huitfeldt Class Danish Frigate:
+The Active Protection System is Yes.
+The Electonic Warfare Intercept is 1 x ES-3701 intercept.
+The Decoy #1 is 2 x Sea Gnat DL-12T decoy/chaff launchers.
+The Decoy #2 is 2 x Sea Gnat DL-6T decoy/chaff launchers.
+The NBC Protection is Yes.
+

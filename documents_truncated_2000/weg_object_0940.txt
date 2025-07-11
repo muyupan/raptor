@@ -1,0 +1,98 @@
+This document describes the T-50 Golden Eagle South Korean Lead-In Fighter Trainer (LIFT) Aircraft.
+
+The KAI T-50 Golden Eagle (골든이글) is a family of South Korean supersonic advanced trainers and light combat aircraft, developed by Korea Aerospace Industries (KAI) with Lockheed Martin. The T-50 is South Korea's first indigenous supersonic aircraft and one of the world's few supersonic trainers. Development began in the late 1990s, and its maiden flight occurred in 2002. The aircraft entered active service with the Republic of Korea Air Force (ROKAF) in 2005.
+
+The T-50 has been further developed into aerobatic and combat variants, namely T-50B, TA-50, and FA-50. The F-50 single-seat multirole fighter variant was considered. The T-50B serves with the South Korean air force's aerobatics team. The TA-50 light attack variant has been ordered by Indonesia. The Philippines ordered 12 units of the FA-50 variant. The T-50A was marketed as a candidate for the United States Air Force's next-generation T-X trainer program but failed to win. Thailand ordered 12 units of the T-50 advanced trainer variant.
+
+The T-50 Golden Eagle design is largely derived from the F-16 Fighting Falcon, and they have some similarities. KAI's previous engineering experience in license-producing the KF-16 was a starting point for T-50 development.
+
+The trainer has seating for two pilots in a tandem arrangement. The high-mounted canopy developed by Hankuk Fiber is applied with stretched acrylic, providing the pilot's good visibility. The trainer has been tested to offer the canopy with ballistic protection against 4-lb objects impacting at 400 knots. The altitude limit is 14,600 meters (48,000 ft), and the airframe is designed to last 8,000 hours of service. There are seven internal fuel tanks with a capacity of 2,655 liters (701 US gal), five in the fuselage and two in the wings. An additional 1,710 liters (452 US gal) of fuel can be carried in the three external fuel tanks. T-50 trainer variants have a paint scheme of white and red, and aerobatic variants are white, black, and yellow.
+
+The T-50 uses a single General Electric F404-102 turbofan engine license-produced by Samsung Techwin, upgraded with a FADEC system jointly developed by General Electric and KAI. The engine consists of three-staged fans, seven axial stage arrangements, and an afterburner. The aircraft has a maximum speed of Mach 1.5. Its engine produces a maximum of 78.7 kN (17,700 lbs) of thrust with an afterburner. The more powerful F414 and EJ200 engines have been suggested as the new engine for the T-50 family
+
+This equipment has proliferated into the following countries: Indonesia, Iraq, Philippines, South Korea (Republic of Korea), Thailand.
+
+Here is Variants information for the T-50 Golden Eagle South Korean Lead-In Fighter Trainer (LIFT) Aircraft:
+The T-50 is Advanced trainer version..
+The T-50i is Version of the T-50 for Indonesian Air Force..
+The T-50TH is Version of the T-50 for Royal Thai Air Force.[.
+The T-50A is Failed candidate for the US Air Force T-X program, based on the FA-50..
+The T-50B is Aerobatic specialized T-50 version for Korea Air Force's aerobatic display team, the Black Eagles..
+The TA-50 is Lead-in fighter trainer and light attack version..
+The FA-50 is Light attack/fighter version, originally named A-50. A prototype from a converted T-50 first flew in 2011..
+The FA-50PH is Version of the FA-50 for the Philippine Air Force..
+The T-50IQ is Version of the FA-50 for Iraqi Air Force..
+The F-50 is A single seat multirole fighter variant that was considered, but was cancelled in favor of the KF-X..
+
+Here is System information for the T-50 Golden Eagle South Korean Lead-In Fighter Trainer (LIFT) Aircraft:
+The Alternate Designation(s) is T-50 Golden Eagle.
+The Type is Lead-In Fighter Trainer (LIFT) Aircraft.
+The Manufacturer is Korea Aerospace Industries / Lockheed Martin.
+The Crew is 2.
+The Number of Engines is 1.
+The Number of Hard Points is Total of 7 with 4 underwing 2 wingtip and one under fuselage; holding up to 3,740 kg of payload..
+
+Here is Dimensions information for the T-50 Golden Eagle South Korean Lead-In Fighter Trainer (LIFT) Aircraft:
+The Length is 12.98 m.
+The Width (Wing Span) is 9.11 m.
+The Height is 4.78 m.
+The Empty Weight is 6,441 kg.
+The Takeoff Weight, Clean is 8,890 kg.
+The Maximum Takeoff Weight is 13,470 kg.
+The Maximum External Stores is 3,100 kg.
+
+Here is Automotive information for the T-50 Golden Eagle South Korean Lead-In Fighter Trainer (LIFT) Aircraft:
+The Engine Name is 1 x General Electric F404-GE-102.
+The Engine Type is Turbofan.
+The Engine Power is 5,409 kg, 53.07 kN static thrust.
+The Fuel Capacity is 2,655 liters.
+The Maximum Speed is Mach 1.4.
+The Range is 1,853 km.
+The Climb Rate is 137 m/sec.
+The Ceiling is 14,630 m.
+The Load is 8 g to -3 g.
+
+Here is System information for the T-50 Golden Eagle South Korean Lead-In Fighter Trainer (LIFT) Aircraft of the Main Gun System:
+The Name is M61 Vulcan.
+The Type is Rotary Cannon.
+The Caliber is 20 mm.
+The Length is 1.827 m.
+The Weight is 112 kg.
+The Barrels is 6-barrel (progressive RH parabolic twist, 9 grooves).
+The Action is Hydraulically operated, electrically fired, rotary cannon.
+The Rate of Fire is 6,000 rounds per minute.
+The Muzzle Velocity is 1,050 m/s.
+The Feed System is Belt or linkless feed system.
+
+Here is Ammunition information for the T-50 Golden Eagle South Korean Lead-In Fighter Trainer (LIFT) Aircraft of the Main Gun System:
+The Type is Rifle.
+The Caliber is 20 mm.
+The Cartridge is 20×102 mm.
+The Basic Load is 205 Rounds.
+
+Here is Missile Systems information for the T-50 Golden Eagle South Korean Lead-In Fighter Trainer (LIFT) Aircraft:
+The Wingtip Pylon is AIM-9 Sidewinder.
+The Undertip/Centerline is Mk 82/83/84 bombs or rocket launchers.
+
+Here is Bomb Weapon Systems information for the T-50 Golden Eagle South Korean Lead-In Fighter Trainer (LIFT) Aircraft:
+The Option 1 is Mk 82.
+The Option 2 is Mk 83.
+The Option 3 is CBU-97/105 Sensor Fuzed Weapon.
+The Option 4 is Spice-equipped bombs.
+The Option 5 is Joint Direct Attack Munition (JDAM) bombs.
+
+Here is Fire Control / Avionics information for the T-50 Golden Eagle South Korean Lead-In Fighter Trainer (LIFT) Aircraft:
+The Navigation Radar is Honeywell H-764G global positioning/inertial navigation system;
+HG9550 radar altimeter; Rockwell Collins VIR-130A integrated
+VOR/instrument landing system; ARN-153V advanced digital tactical aid..
+The Fire Control Radar is 1 x AN/APG-67(V)4.
+The Communications is Raytheon ARC-232 VHF radio.
+
+Here is Protection information for the T-50 Golden Eagle South Korean Lead-In Fighter Trainer (LIFT) Aircraft:
+The Stealth Properties is None.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is Yes.
+

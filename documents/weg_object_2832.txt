@@ -1,0 +1,26 @@
+This document describes the TBR-115 Chinese VHF transceiver.
+
+The TBR-115 Chinese VHF transceiver  is a result of Sino-American technology transfer taken place in early 80s during so-called “Honeymoon” period. It is modeled after Racal 4720 and is designed to equip battalion-company- platoon level commanding personal in infantry, artillery, airborne and marine units, replacing 861(A), 862(A), 823, 7011 transceivers and other similar radios. It also could communicate with 861, 823, 884, 7011 and other transceiver working within its frequency range. With the technology transfer, design work was started in mid 80s and the machine was certified in early 90s, likely in 1992. It is still current PLA equipment as of 2008. However, TBR-115 is starting to phase out of PLA front line units.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the TBR-115 Chinese VHF transceiver:
+The Alternative Designation is TBR-115.
+The Type is VHF Transceiver.
+The Crew is 1.
+The Frequency is It works within 40.000 to 59.975 MHz with 800 possible channels (25KHz between channels)..
+The Preset Channels is It is controlled by a microprocessor with frequency syntheses and 10 programmed channels..
+The Output Power is The radio’s power output has two levels. High output level is no less than 1W, and low output level is about 0.2W..
+The Antenna is it uses a 1.3 meter rod type antenna..
+The Headset is Yes.
+The Speaker is Yes.
+The Communication Distance is INA.
+The Battery is The radio is powered by a 12V NiCad or NiMH rechargeable battery pack. An automatic battery charger is supplied with radio. When the battery power is dropped beyond operational voltage, there is an audio beep and LCD flashes to remind operator to change the battery pack..
+The Note is This radio transceiver is designed to be carried by infantry battalion-company- platoons level commanding personals without need of a radio operator..
+
+Here is Dimensions information for the TBR-115 Chinese VHF transceiver:
+The Length is 240 mm.
+The Width is 78 mm.
+The Height is 32 mm.
+The Weight, Combat is 1.9 kg.
+

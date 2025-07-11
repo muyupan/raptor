@@ -1,0 +1,133 @@
+This document describes the T-64B1M Ukrainian Main Battle Tank (MBT).
+
+The T-64B1M Ukrainian Main Battle Tank (MBT) is a recent Ukrainian upgrade of the T-64B1. It was developed by Morozov Machine Building Design Bureau.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the T-64B1M Ukrainian Main Battle Tank (MBT):
+The Alternative Designation is T-64B1M.
+The Type is Main Battle Tank.
+The Manufacturer is Morozov Machine Building Design Bureau.
+The Family is T-64 Family.
+The Crew is 3.
+The Note is It can prepare a firing position within 12-40 minutes, depending on the soil type..
+The  is .
+
+Here is Dimensions information for the T-64B1M Ukrainian Main Battle Tank (MBT):
+The Length (Gun Forward) is 9.23.
+The Length (Hull) is 6.54.
+The Width is 3.41.
+The Height is 2.17.
+The Weight, Combat is 39.
+The Ground Pressure is INA.
+
+Here is Automotive information for the T-64B1M Ukrainian Main Battle Tank (MBT):
+The Engine Name is 6TD.
+The Engine Type is Diesel.
+The Engine Power is 1,000.
+The Cruising Range is 600.
+The Speed, Maximum Road is 66.
+The Speed, Average Cross is 50.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60 %.
+The Side Slope is 40 %.
+The Vertical Step is 0.8.
+The Trench is 2.72.
+The Fording Depth (Without Preparation) is 1.4.
+The Fording Depth (With Preparation) is 5.0.
+
+Here is System information for the T-64B1M Ukrainian Main Battle Tank (MBT) of the Main Gun:
+The Name is 1 x 125mm Smoothbore Gun.
+The Type is Smoothbore Gun.
+The Caliber is 125 mm.
+The Automatic Loader is Yes.
+The Maximum Range (Day) is 2,500 m.
+The Maximum Range (Night) is 1,500 m.
+
+Here is Ammunition information for the T-64B1M Ukrainian Main Battle Tank (MBT) of the Main Gun:
+The Type is Armor-Piercing Fin-Stabilized Discarding Sabot ((APFSDS)).
+The Caliber is 125.
+The Basic Load is 37 Total Rounds any combination of 125mm Projectiles.
+
+Here is System information for the T-64B1M Ukrainian Main Battle Tank (MBT) of the Tank Commander’s Weapon System:
+The Name is 1 x Type 54 DShK Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Proliferation is over 1 Million.
+The Length (Total) is 1,625.
+The Length (Barrel) is 1,070.
+The Weight (Gun Only) is 34.
+The Weight (on Wheeled Mounting) is 157.
+The Max Rate of Fire is 600.
+The Range Finder Type is Optical.
+The Action is Gas-Operated, Flapper Locking.
+The Sights is Iron/Optical.
+The Feed System is 50 Round Belt.
+The Turret is single seat and placed at the rear of the vehicle roof. It is sharp-pointed at the front..
+The Variants is DK, DShKM, DSHKS, Type 54 HMG.
+The Fire on the Move is Yes.
+
+Here is Ammunition information for the T-64B1M Ukrainian Main Battle Tank (MBT) of the Tank Commander’s Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7x108.
+The Muzzle Velocity is 850.
+The Effective Range is 2,500.
+The Armor Penetration is API: 21 at 500 m & 13 at 1000 m (RHA).
+The Basic Load is 300.
+
+Here is System information for the T-64B1M Ukrainian Main Battle Tank (MBT) of the Coaxial Weapons System:
+The Name is 1 x PKT (Kalashnikov's Machine Gun).
+The  is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Function is in use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Max Rate of Fire is 650.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron SIghts.
+
+Here is Ammunition information for the T-64B1M Ukrainian Main Battle Tank (MBT) of the Coaxial Weapons System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 825.
+The Effective Range (Iron Sights) is 100- 1,000.
+The Effective Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 3,800.
+The Basic Load is 250.
+
+Here is Fire Control information for the T-64B1M Ukrainian Main Battle Tank (MBT):
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is Yes, TKN-3V combination day/night binocular periscopic.
+The Thermal Sight Gunner is Yes, TPN1-49-23 night sigh.
+The Main Gun Stabilization is 2-Plane, 2Eh26M armament stabiliser.
+The Fire on the Move is Yes.
+The Rangefinder is Two-axis stabilised IG42 laser rangefinder sight.
+The Ballistic Computer is 1V517 Tank Ballistic Computer.
+The Vision Blocks is 1 x  TPNO-16, 2 x TPNA-65 day vision blocks.
+The PZU-5 monocular periscopic sight is Available.
+The Searchlight is L-2AgM infra-red searchlight.
+The Sight Type is 1G21 sight with Laser Telemetry.
+The Wind Sensor is 1B11 cross-wind sensor..
+
+Here is Protection information for the T-64B1M Ukrainian Main Battle Tank (MBT):
+The Hull Armor is Cast and welded steel armor. armor provides protection against tandem warheads and reduces penetration of APFSDS rounds by over 90%..
+The Turret Armor is Cast armor welded together.
+The Armor Protection (Front) is 370-440 mm of RHA against KE rounds and 500 mm to 575 mm of RHA against HEAT rounds.
+The Applique Armor is Available.
+The Self-Entrenching Blade is KMT-4 roller or the KMT-6 track width mine plough,.
+The Explosive Reactive Armor is Yes,  Nozh modular explosive reactive armor..
+The Active Protection System is Yes.
+The Mine Clearing is Roller-plow available.
+The NBC Protection is Yes.
+The Smoke Equipment is 902A "Tucha-1" smoke grenade launcher in two groups of four, on each side of the gun.
+The IR Signature is INA.
+The Automatic Fire Suppression Systems. is Yes.
+

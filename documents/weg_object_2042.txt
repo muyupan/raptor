@@ -1,0 +1,45 @@
+This document describes the M1943 (MT-13) Russian 160mm Towed Heavy Mortar.
+
+The Soviet 160 mm Mortar M1943 is a smoothbore breech loading heavy mortar which fired a 160 mm bomb. The M1943 (also called the MT-13) was one of the heaviest mortar used by Soviet troops in World War II. Around 535 of these weapons were fielded with Soviet forces during the war. It was replaced in Soviet service after World War II by the M-160 mortar of the same caliber.
+
+Originally a simple scaling-up of the 120 mm M1938 mortar, it soon became apparent that drop-loading a 40 kg bomb into a 3 meter high tube would be too difficult for any man to do. It was redesigned into a breech loading weapon, and contains a substantial recoil system to soak up the massive shock of firing a 160 mm bomb and prevent the baseplate from burying itself too deeply.
+
+The barrel sits in a cradle which is attached to a baseplate and tripod. To load the weapon, the barrel is hinged forward which exposes the rear end of the tube. The bomb is then loaded, retained in place by a catch, and the barrel is swung back into the cradle, which in effect closes the breech.
+
+Because of the weight of the mortar, it is equipped with wheels and is designed to be towed by a motor-driven vehicle.
+
+This equipment has proliferated into the following countries: Algeria, Egypt, North Korea (Democratic People's Republic of Korea), Viet Nam.
+
+Here is System information for the M1943 (MT-13) Russian 160mm Towed Heavy Mortar:
+The Alternative Designation is M1943; MT-13.
+The Type is Towed Heavy Mortar.
+The Caliber is 160 mm.
+The Crew is INA.
+The Carriage is INA.
+The Elevation is +45° to +80°.
+The Traverse is 25°.
+The Rate of Fire is 25°.
+The Muzzle Velocity is 245 m/s.
+The Effective Firing Range is 5,150 m.
+The Emplacement Time is INA.
+The Displacement Time is INA.
+
+Here is Dimensions information for the M1943 (MT-13) Russian 160mm Towed Heavy Mortar:
+The Length is INA.
+The Barrel Length is 3.03 m.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is 1,170 kg.
+
+Here is Ammunition information for the M1943 (MT-13) Russian 160mm Towed Heavy Mortar:
+The Name is INA.
+The Type is Mortar.
+The Caliber is 160 mm.
+The Shell Weight is 40.8 kg.
+The Basic Load is INA.
+
+Here is Fire Control information for the M1943 (MT-13) Russian 160mm Towed Heavy Mortar:
+The Computerized FCS is No.
+The Direct Fire is No.
+The Indirect Fire is Yes.
+

@@ -1,0 +1,43 @@
+This document describes the Dongfeng EQ2102 Chinese 6x6 Transportation Vehicle for the UAV ASN-207.
+
+The Dongfeng EQ2102 is a Chinese military truck with a 6x6 configuration. It is a Chinese militarized version of the Nissan Diesel Condor commercial vehicle.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Dongfeng EQ2102 Chinese 6x6 Transportation Vehicle for the UAV ASN-207:
+The Alternative Designation is EQ2102.
+The Type is Transportation Vehicle for the UAV ASN-207.
+The Configuration is 6x6.
+The Manufacturer is Dongfeng.
+The Cab Passenger Capacity is 1 + 4.
+The Bed Passenger Capacity is N/A when used as UAV transporter.
+The Payload Capacity is 5,000 kg on hard surface roads and 3,500 kg off-road.
+
+Here is Dimensions information for the Dongfeng EQ2102 Chinese 6x6 Transportation Vehicle for the UAV ASN-207:
+The Length is 7.49.
+The Width is 2.47.
+The Height is 3.24.
+The Weight, Combat is 6.92 - 7.12 tons.
+The Ground clearance is 305.
+
+Here is Automotive information for the Dongfeng EQ2102 Chinese 6x6 Transportation Vehicle for the UAV ASN-207:
+The Engine Name is Dongfeng Diesel.
+The Engine Type is Diesel.
+The Engine Power is 160.
+The Cruising Range is 550.
+The Speed, Maximum Road is 90.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.4.
+The Trench is 0.4.
+The Fording Depth is 1.0.
+
+Here is Main Weapon System information for the Dongfeng EQ2102 Chinese 6x6 Transportation Vehicle for the UAV ASN-207:
+The Note is There are no crew-served weapons mounted on the EQ2102 Chinese 6x6 Transportation Vehicle for the UAV ASN-207.
+
+Here is Protection information for the Dongfeng EQ2102 Chinese 6x6 Transportation Vehicle for the UAV ASN-207:
+The Hull Armor is None.
+The Applique Armor is INA.
+The NBC Equipment is INA.
+The Smoke Equipment is INA.
+

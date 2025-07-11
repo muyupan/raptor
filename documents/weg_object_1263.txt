@@ -1,0 +1,82 @@
+This document describes the Dual Mount Stinger American Man-Portable Air-Defense System (MANPADS).
+
+The Dual Mount Stinger (DMS) is a tripod-mounted launch platform for the Stinger Missile developed by Hughes Missile Systems Company (HMSC) for the SHORAD Project Office. (HMSC was later sold to Raytheon Corporation and is currently operating as Raytheon Missile Systems Corporation [RMSC].) Tripod-mounted missile launch devices are not a new concept. Developed for FMS customers, the DMS Weapon System consists of the DMS launcher with two Stinger tactical missiles (Guided Missile, Intercept Aerial). This system provides air defense capability from a fixed ground position. A self-contained system, the DMS includes its own electrical power system, argon coolant, and sighting units. Easily disassembled into portable components that require minimal set-up time, the DMS can be operated autonomously or in conjunction with an external early warning command and cueing/control system.
+
+The DMS launcher has provisions to receive Forward Area Air Defense Data Link or Ground Based Data Link cueing data, which can be from either two-dimensional (2D) or three-dimensional(3D) sensors. Cueing data from a 2D system give the approach direction (azimuth) and range of the target aircraft, while cueing data from a 3D system give the approach direction (azimuth), range of the target aircraft, and elevation angle.
+
+Since the United States had no requirement for this system in 1997, its development and fielding presented a unique set of challenges. A current FMS customer approached the SHORAD Project Office with the requirement for a tripod launcher, and we immediately started the research necessary to meet the requirement. The sale of this system, even though it technically did not exist at the time, required the same U.S. Department of State approval as any other FMS case.
+
+In August 1998 the Taipei Economic and Cultural Representative Office (TECRO) in the United States requested a possible sale of 61 Dual Mount STINGER Missile Systems consisting of: 61 Dual Mount STINGER (DMS) launchers (includes elevation assembly, tripod assembly, and sights) with coolant units, 61 STINGER RMP (-) captive flight trainers, 728 complete STINGER RMP (-) missile rounds (less battery coolant unit), 132 AN/VRC-91 export version Single Channel Ground/Air Radio System (SINCGARS) radios, spare and repair parts, support equipment, Interrogator Friend or Foe interrogator sets, interrogator programmers, utility carrier trucks, aerial flight handling and launcher trainers, coolant units, gas bottles, publications and documentation data, personnel training and training equipment, U.S. Government and contractor engineering and logistics personnel services, U.S. Government Quality Assurance Teams, Mobile Training Teams, and other related elements of logistics support. The estimated cost was $180 million.
+
+The Short Range Air Defense (SHORAD) Project Office obtained necessary approvals and built the customer a Stinger Missile Launcher that ultimately met their requirements in a timely and cost-effective manner.
+
+This equipment has proliferated into the following countries: Bangladesh, Bosnia and Herzegovina, Chad, Chile, Colombia, Egypt, Finland, Georgia, Germany, Greece, India, Iran (Islamic Republic of), Iraq, Israel, Japan, Lithuania, Morocco, Netherlands, North Korea (Democratic People's Republic of Korea), Norway, Pakistan, Portugal, Slovenia, South Korea (Republic of Korea), Switzerland, Turkey, United Kingdom of Great Britain and Northern Ireland, United States of America.
+
+Here is Variants information for the Dual Mount Stinger American Man-Portable Air-Defense System (MANPADS):
+The The MANPADS has been adapted for launch from APC or IFV chassis. It has also been adapted for light utility vehicles and combat support vehicles, such as the German Wiesel-based Fliegerfaust-2 (FLF-2). A variety of air defense launcher systems can use Stinger, Mistral, or other MANPADS. is .
+The FIM-92A is Stinger Basic: The basic model..
+The FIM-92B is Stinger POST: In this version, the infrared seeker head was replaced by a combined IR/UV seeker that utilized rosette scanning. This resulted in achieving significantly higher resistance to enemy countermeasures (flares) and natural disturbances. Production ran from 1981 to 1987; a total of 600 missiles were produced.[.
+The FIM-92C is Stinger RMP: The resistance to interference was increased again by adding more powerful digital computer components. Moreover, the software of the missile could now be reconfigured in a short time in order to respond quickly and efficiently to new types of countermeasures. Until 1991, some 20,000 units were produced for the U.S. Army alone..
+The FIM-92D is Various modifications were continued with this version in order to increase the resistance to interference..
+The FIM-92E is Stinger—RMP Block I: By adding a new rollover sensor and revised control software, the flight behavior was significantly improved. Additionally, the performance against small targets such as drones, cruise missiles and light reconnaissance helicopters was improved. The first deliveries began in 1995. Almost the entire stock of U.S. Stinger missiles was replaced by this version..
+The FIM-92F is A further improvement of the E version and the current production version..
+The FIM-92G is An unspecified upgrade for the D variant.[.
+The FIM-92H is Indicates a D variant that has been upgraded to the E standard..
+The Stinger—RMP Block II is This variant was a planned developed based on the E version. The improvements included an imaging infrared seeker head from the AIM-9X. With this modification, the detection distance and the resistance to jamming was to be greatly increased. Changes to the airframe would furthermore enable a significant increase in range. Although the missile reached the testing phase, the program was dropped in 2002 for budgetary reasons..
+The FIM-92J is Block 1 missile upgrade to replace aging components to extend service life an additional 10 years. Upgrades include a proximity fuse warhead section, equipped with a target detection device to increase effectiveness against unmanned aerial vehicles..
+The FIM-92K is variant of FIM-92J designed to use a vehicle datalink rather than the missile's own seeker for targeting..
+
+Here is System information for the Dual Mount Stinger American Man-Portable Air-Defense System (MANPADS):
+The Alternative Designation is Dual Mount Stinger (DMS).
+The Type is Man-Portable Air-Defense System (MANPADS).
+The Manufacturer is Prime contractor:
+ Raytheon Missile Systems (formerly Hughes Missile Systems; formerly General Dynamics), Tucson, Ariz.
+
+ Prime contractor (Europe):
+ Daimler-Benz Aerospace (now DaimlerChrysler) (Dasa), Munich, Germany.
+The Crew  is 1, Normally 2 with a loader.
+The In Service is 1997-Present.
+
+Here is Launcher information for the Dual Mount Stinger American Man-Portable Air-Defense System (MANPADS) of the Main Weapon System:
+The Note is Two Stinger fire-and-forget missiles mounted on a tripod with an operator's seat and controls. It can be mounted on a light utility truck or on deck of a small patrol boat..
+The System Weight is 15.2 kg.
+
+Here is Missile information for the Dual Mount Stinger American Man-Portable Air-Defense System (MANPADS) of the Main Weapon System:
+The Name is Stinger.
+The Type is Man-Portable Air-Defense System (MANPADS).
+The Length is 1.52 m.
+The Diameter is 70 mm.
+The Missile Weight is 10.0 kg.
+The Warhead Weight is 3.0 kg.
+The Engine is 1 x Atlantic Research Mk 27 dual-thrust solid-fuel rocket.
+The Maximum Speed is Mach 2.2.
+The Maximum Range is 4.8 km.
+The Maximum Altitude is 3,800 m.
+The Warhead is penetrating high-explosive; impact fuze.
+The Optics is optical sight (some thermal imaging capability) proportional navigation with lead bias and
+Target Adaptive Guidance (TAG).
+The Guidance System is all-aspect passive infrared homing.
+
+Here is Day Sight information for the Dual Mount Stinger American Man-Portable Air-Defense System (MANPADS) of the Fire Control System:
+The Acquisition Range  is 4000+.
+The Field of View  is INA.
+The Field of View  is INA.
+The Type is Ring and bead, most launchers Optical   sight   with   lead bias available..
+
+Here is Night Sight information for the Dual Mount Stinger American Man-Portable Air-Defense System (MANPADS) of the Fire Control System:
+The Type is Optional AN/PAS-18, Wide- Angle Stinger Pointer System (WASP) thermal sight..
+
+Here is Night Sights information for the Dual Mount Stinger American Man-Portable Air-Defense System (MANPADS) of the Fire Control System:
+The Acquisition Range  is 20-30 side or tail aspect, 10 head-on aspect.
+The Field of View  is 20o  x 12 o.
+
+Here is Radar information for the Dual Mount Stinger American Man-Portable Air-Defense System (MANPADS) of the Fire Control System:
+The Radar Equipment is Providing Omni-directional
+Reporting of Targets at Extended Ranges (REPORTER), German/Dutch EW system with I/J band radar and IFF. Range: 40 km.
+Altitude:  15-4000 m.
+
+.
+The Radar Other is Several U.S. and foreign radars are    available    for    use with
+Stinger.
+.
+

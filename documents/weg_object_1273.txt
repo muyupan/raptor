@@ -1,0 +1,57 @@
+This document describes the Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS).
+
+Starstreak is a British short-range man-portable air-defense system (MANPADS) manufactured by Thales Air Defence (formerly Shorts Missile Systems), in Belfast. It is also known as Starstreak HVM (High-Velocity Missile). After launch, the missile accelerates to more than Mach 4, making it the fastest short-range surface-to-air missile in the world. It then launches three laser beam riding submunitions, increasing the likelihood of a successful hit on the target. Starstreak has been in service with the British Army since 1997. In 2012 Thales rebranded the system under the ForceSHIELD banner.
+
+The Starstreak missile is transported in a sealed launch tube. This tube is attached to an aiming unit for firing. The operator tracks the target using the aiming unit's optically stabilized sight. The process of tracking the target allows the aiming unit to compute the right trajectory to bring the missile together with the target. The operator can indicate wind direction to the unit and, in the case of a long-range target, provide superelevation. When the initial tracking is complete, the operator fires the missile by pressing a button.
+
+This equipment has proliferated into the following countries: Indonesia, Malaysia, South Africa, Thailand, United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS):
+The Starburst is Javelin SAM launcher adapted for Starstreak LBR guidance- in production..
+The Lightweight Multiple Launcher (LML) is Pedestal launcher for three missiles (above). The launcher can also mount on a light vehicle, e.g., TUV.  A demonstrator is LML on a Panhard tactical truck..
+The Starstreak II is Improved launcher uses Starstreak or Starstreak II missile. It has an auto-tracker for hands-free guidance.  It was fielded in 2010..
+The Starstreak Lightweight Vehicle (LWV) is Land Rover truck converted into an SP SAM system with a 6-canister launcher, ADAD auto-tracker, and TV/ thermal FCS.  This launcher can be mounted on other vehicles..
+The Armored Starstreak or (SP HVM) is Vehicle is a Stormer tracked APC chassis, with an 8-missile launcher. The passive IR fire control system uses ADAD, an auto-tracker and thermal sight. The launcher can be mounted on other vehicles..
+The Seastreak is Single-stage missile naval variant in a 12-missile launcher, with mm-wave radar FCS..
+The Thor is British Multi-Mission Air Defense System is a RWS, with 4 missile launchers, TV, FLIR, and an auto-tracker. Weighing .5 mt, it mounts on trucks, vans, TUVs, APCs, etc., with a remote operator. Designed for Starstreak, launchers, it can also mount other MANPADS, and ATGMs, such as Ingwe, TOW, HELLFIRE, Mokopa, Spike, etc..
+The Lightweight Multi-Role Missile/LMM is A multi-role missile options with a single 3-kg tandem (HEAT/HE) warhead and proximity fuze. At 13 kg, the lower-cost missile flies 8-km at 1.5 Mach. It was due in 2013 and was successfully launched by a Camcopter S-100 UCAV variant. Other projected upgrades are semi-active laser- homing and/or dual-mode (LBR/SAL-H)..
+The Low-cost air defense/anti-armor (multi-role) system. is Optional use: as a low-cost air defense/anti-armor (multi-role) system, STARSTREAK can be employed against ground targets, such as light armored vehicles, and snipers in bunkers or buildings. The missile and its darts, with a unique combination of penetrator and following frag-he, have been successfully tested against vehicle targets. With a missile cost of 1/2 to 1/3 of competing MANPADS, the system could be used as a fire support asset to complement ATGM launchers and vehicle weapons..
+
+Here is Target information for the Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS) of the System:
+The Type is FW, heli, ground vehicles..
+
+Here is Launcher information for the Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS):
+The Name is Aiming Unit..
+
+Here is Weapon 1 information for the Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS) of the Armament:
+The System Dimensions is See Missile.
+The System Weight is 24.3 kg with missile.
+
+Here is Day Sight information for the Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS) of the Fire Control System:
+The Acquisition Range  is 7,000 m.
+The Field of View  is INA.
+The Name is Avimo stabilized optical sight with lead bias system.
+
+Here is Night Sight information for the Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS) of the Fire Control System:
+The Acquisition Range  is 4 to 5 km.
+The Name is Thales clip-on thermal sight.
+
+Here is Ammunition (Option 1) information for the Starstreak British Short-Range Man-Portable Air-Defense System (MANPADS) of the Ammunition:
+The Name is Starstreak.
+The Type is Three 25mm darts: Tungsten KE tip and case; HE fill.
+The Altitude  is 0-5000.
+The Length  is 1.4.
+The Diameter  is 127.0.
+The Weight  is 14.0.
+The Flight Time  is 5 to 7.
+The Fuze Type is Contact wit time delay.
+The Guidance is Laser beam rider SACLOS.
+The Penetration  is 120+ all LAVs (equal to 3 x 40- mm APFSD-T rds) HE detonates after for frangible effects.
+The Probability of Hit is 60 FW, more than 95 heli (each dart 67% for heli).
+The Propulsion is Canister launch booster, bus missile, and 3 darts (sub-missiles).
+The Range, Maximum  is 7,000 m (guided).
+The Range, Minimum  is 300.
+The Self-Destruct Range is 5.5.
+The Speed  is 1364 m/s, Mach 4.
+The Other is Starstreak II: Improved missile has 8-km range and better precision. Fielded 2010.
+

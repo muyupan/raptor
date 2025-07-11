@@ -1,0 +1,49 @@
+This document describes the PMZ-4 (PMR-3) Russian Towed Mechanical Minelayer.
+
+Originally designated the PMR-3 “Pricepnoi Minnyi Raskladchik” meaning “towed mine layer (surface)”, this apparatus was the first Soviet minelayer capable of burying mines as well as laying them on top of the ground. It consists of a single chute and a plow attachment. The attachment provides the option of burying the mines or depositing them on the surface of the ground. The PMR-3 equipment designation was later changed to PMZ-4 “Pricepnoi Minnyi Zagraditel” meaning “towed mine layer (buried)” as this designation was more accurate in describing the task carried out by this piece of equipment.
+
+The type of mines laid by this apparatus were the Soviet TM-44, TM-46, TM-57 or TM-62 series anti-tank mines. The mines could be spaced 4 to 5,5m apart depending on the control setting. If buried, the mines are placed at a depth between 6-12 cm while the vehicle traveled along at a speed of 5km/h. The trailer on its own weighed 1.8 metric tons. The towing vehicle could carry 120 to 300 mines depending on the capacity and type of vehicle. The SADF captured one of these trailers in Southern Angola during Ops Protea in 1981. The captured PMZ-4 minelayer trailer is seen pictured here while on display to the public at Oshakati.
+
+Prime equipment mover: 6x6 ZIL-131 truck (200 mines) or 4x4 Ural-375D (350 mines) or BTR-152 (120 mines). 
+
+ Max burial depth (cm): 20. PMR-3, (and the similar PMZ-4) consists of a single chute and a plow attachment. Differences: PMZ-4 (pic left) has a cable layer used for laying controlled minefields and does not have a conveyer-belt chain drive on the wheels. PMZ-4 hand loaded only. Towed-minelayers are used in sections of three or four and operate 20 to 40 meters apart with each minelayer laying a straight-line row. Mines in different rows are staggered with the distance between mines depending on whether the mines are pressure-initiated or full-width attack (influenced or tilt-rod fuzed).
+
+This equipment has proliferated into the following countries: Afghanistan, Angola, Bangladesh, Belarus, Bolivia (Plurinational State of), Ethiopia, India, Kazakhstan, Morocco, Nepal, Poland, Russian Federation, Tajikistan.
+
+Here is Dimensions information for the PMZ-4 (PMR-3) Russian Towed Mechanical Minelayer of the System:
+The Height, Overall  is 2.7.
+The Length, Overall  is 5.6.
+The Width  is 3.25.
+The Height, Overall  is 2.7.
+The Length, Overall  is 5.6.
+The Width  is 3.25.
+
+Here is Automotive information for the PMZ-4 (PMR-3) Russian Towed Mechanical Minelayer:
+The Speed, Operating Burying is 2.5.
+The Mine Spacing AP is 3.0.
+The Mine Spacing AT is 4.0.
+The Speed, Operating Surface Laying is 7.0.
+The Operating Speed, Bulldozer  is 2 to 3.
+The Operating Speed, mine spacing  is 3 to 4.
+The Operating Speed, surface laying  is 4 to 10.
+
+Here is Mines information for the PMZ-4 (PMR-3) Russian Towed Mechanical Minelayer:
+The Combat Load  is See notes.
+The Fire on Move is No.
+The Minelaying Pattern is Straight line.
+The Minelaying Rate Burying AT is 10.0.
+The Minelaying Rate Burying AP is 12.0.
+The Type is TM-44, TM-46, TM-57, TM-62 SERIES, TM-72, TMD-B.
+The Weight  is 1300.0.
+The Fire on Move is No.
+The Mine Combat Load is See notes.
+The Mine Weight  is INA.
+The Minelaying Pattern is Straight line.
+The Minelaying Rate  is 10 to 12.
+
+Here is Protection information for the PMZ-4 (PMR-3) Russian Towed Mechanical Minelayer:
+The NBC Protection is No.
+The Smoke Screening System is No.
+The NBC Protection is No.
+The Smoke Screening System is No.
+

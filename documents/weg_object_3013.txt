@@ -1,0 +1,44 @@
+This document describes the Scarab Russian 4x4 Unmanned Ground Vehicle (UGV).
+
+The Scarab Russian 4x4 Unmanned Ground Vehicle (UGV) is designed to enhance the situational awareness of military and security troops operating in challenging urban environments by the rapid collection of audio and video data. Due to its small size, the unit is ideal of use in hard-to-reach places such as tunnels, destroyed buildings, and blockages.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Scarab Russian 4x4 Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Scarab.
+The Type is Unmanned Ground Vehicle (UGV).
+The Manufacturer is SET-1.
+The Mission is The Scarab Russian 4x4 Unmanned Ground Vehicle (UGV) is designed to enhance the situational awareness of military and security troops operating in challenging urban environments by the rapid collection of audio and video data. Due to its small size, the unit is ideal of use in hard-to-reach places such as tunnels, destroyed buildings, and blockages..
+The Configuration is 4x4.
+The Crew is Unmanned.
+The Operator is The platform is controlled by a double-axis joystick from the OCU. The Scarab transmits data by wireless to the video surveillance and operator control unit (OCU). The OCU of the Scarab has an integrated 7-in display and a number of frequency channels can be selected..
+The Sensors is The system is fitted with four high-resolution video cameras mounted in the forward, rear, and sides of the chassis, thermal imager (optional), built-in microphone for audio capture, and built-in audio-video transmitter..
+The Operating Temperature is –20 to +40°C.
+The Frequency Range, Video Image is 1,010–1,230 MHz.
+The Frequency Range, Remote Control is 917 MHz.
+The Lighting is 6 x white LED lights form a semi-circle around the camera at the front of the robot. These flash when in use. Two rectangular white LEDs are fitted either side of the camera in the middle. Two rectangular LED lights are situated at the rear..
+
+Here is Dimensions information for the Scarab Russian 4x4 Unmanned Ground Vehicle (UGV):
+The Length is 0.35 m.
+The Width is 0.35 m.
+The Height is 0.15 m.
+The Weight, Combat is 5.5 kg.
+
+Here is Automotive information for the Scarab Russian 4x4 Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is High-capacity Li-ion rechargeable batteries.
+The Engine Power is INA.
+The Amphibious is No.
+The Maximum Speed is 15 km/h.
+The Operating Range is 300 m.
+The Maximum Gradient Climb is 30°.
+The Curb Clearance is 100 mm.
+The Endurance is 2 hours.
+
+Here is Communications information for the Scarab Russian 4x4 Unmanned Ground Vehicle (UGV):
+The Note is The Scarab also employs the company's proprietary CORDON series receiver and transmitter units, which utilize coded orthogonal frequency division multiplexing-techniques (COFDM-modulation) and 32-bit encryption for reliable control and data streaming over a range of at least 300 m..
+
+Here is Protection information for the Scarab Russian 4x4 Unmanned Ground Vehicle (UGV):
+The Armor is INA.
+The Applique Armor is INA.
+

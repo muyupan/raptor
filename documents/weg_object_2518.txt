@@ -1,0 +1,71 @@
+This document describes the PRP-4A (Argus) Russian Amphibious Artillery Reconnaissance Vehicle.
+
+The PRP-4A Argus mobile reconnaissance post is the latest version of the PRP-4 Nard, which was adopted back in the early 1980s. The PRP-4A Argus has enhanced capabilities over its predecessor. Its main role is to carry out reconnaissance for artillery units, determine target coordinates and act as a general forward observation vehicle. It entered service with the Russian Army in 2009. It is being produced in small numbers for the Russian Army. This reconnaissance vehicle is also being offered for export.
+
+This equipment has proliferated into the following countries: Belarus, CFE Treaty, Russian Federation, Ukraine.
+
+Here is Variants information for the PRP-4A (Argus) Russian Amphibious Artillery Reconnaissance Vehicle:
+The PRP-4MU is The PRP-4MU armored reconnaissance vehicle is intended for reconnaissance of stationary and moving ground targets day and night, under any weather conditions..
+The PRP-4 Nard is Base model.
+
+Here is System information for the PRP-4A (Argus) Russian Amphibious Artillery Reconnaissance Vehicle:
+The Alternative Designation is PRP-4A Argus.
+The Type is Amphibious Artillery Reconnaissance Vehicle.
+The Manufacturer is Rubtsovsk Machine Building Plant, a part of Russian company Uralvagonzavod..
+The Family is PRP Series.
+The Crew is 4.
+The Passenger Capacity is INA.
+The Chassis is The PRP-4A is based on the BMP-1 infantry fighting vehicle chassis..
+The Note is This reconnaissance vehicle has a number of sensors and can operate in day or night conditions..
+
+Here is Dimensions information for the PRP-4A (Argus) Russian Amphibious Artillery Reconnaissance Vehicle:
+The Length is 6.74 m.
+The Width is 2.94 m.
+The Height is 2.15 m.
+The Weight, Combat is 13.8 tons.
+The Ground Pressure is INA.
+
+Here is Automotive information for the PRP-4A (Argus) Russian Amphibious Artillery Reconnaissance Vehicle:
+The Engine Name is UTD-20S1.
+The Engine Type is Diesel.
+The Engine Power is 300.
+The Range is 550.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is 7.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.7 m.
+The Trench is 2.2 m.
+The Fording Depth is Amphibious.
+
+Here is Main Gun information for the PRP-4A (Argus) Russian Amphibious Artillery Reconnaissance Vehicle:
+The Note is The PRP-4A is armed only with a 7.62 mm machine gun for self-defense..
+
+Here is Radar information for the PRP-4A (Argus) Russian Amphibious Artillery Reconnaissance Vehicle:
+The Name is IL120-1 Battlefield Surveillance Radar.
+The Type is The Argus is fitted with a mast-mounted battlefield surveillance radar..
+The Frequency Range is 10 - 20 Ghz (IEEE Ku Band or NATO J Band).
+The Targets is This radar detects mobile and stationary targets..
+The Detection Range, Person is 7km.
+The Detection Range, Vehicles is 12-20 km. Once the hostile tank is stationary and its engine is turned off, detection range is reduced to 2 km..
+The Detection Range, Buildings is 25 km.
+
+Here is Fire Control information for the PRP-4A (Argus) Russian Amphibious Artillery Reconnaissance Vehicle:
+The Name is INA.
+The Computerized FCS is No.
+The Laser Rangefinder is Yes, 1D14-1 periscopic laser rangefinder.
+The Thermal Camera is Yes.
+The Optical Electronic Surveillance System Range is 20-40 meters.
+The Dismounted Observation Post Maximum Distance from the Vehicle is 6 km.
+
+Here is Protection information for the PRP-4A (Argus) Russian Amphibious Artillery Reconnaissance Vehicle:
+The Hull Armor is The vehicle's armor is welded rolled steel varying in thickness between 6 millimetres (0.24 in) thick on the top of the hull.  Armor of this reconnaissance vehicle provides all-round protection against 12.7 mm rounds. Front arc partially withstands 20 mm rounds..
+The Turret Armor is 33 mm.
+The Applique Armor is Available.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is Yes.
+

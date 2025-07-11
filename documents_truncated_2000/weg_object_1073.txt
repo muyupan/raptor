@@ -1,0 +1,59 @@
+This document describes the Y-7H Chinese Military Transport Aircraft.
+
+A reverse-engineered An-26 with rear loading ramp for the PLAAF, entering production in 1992.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the Y-7H Chinese Military Transport Aircraft:
+The Alternate Designation(s) is Y-7H.
+The Primary Function / Type is Military Transport Aircraft.
+The Manufacturer is INA.
+The In Service is 1992-Present.
+The Crew is 5 (pilot, co-pilot, navigator, flight engineer, radio operator).
+The Passengers is 38 to 40 seats in pressurized cargo bay; or 24 litters and attendants.
+The Number of Engines is 3.
+The Day/Night Capable is Yes.
+The All Weather Capable is Yes.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the Y-7H Chinese Military Transport Aircraft:
+The Length is 23.80 m.
+The Width (Wing Span) is 29.20 m.
+The Height is 8.58 m.
+The Wing Area is 74.98 sq m.
+The Cabin Length is 11.50 m.
+The Cabin Width is 2.40 m.
+The Cabin Height is 1.91 m.
+The Weight, Empty is 15,020 kg.
+The Weight, Max Takeoff is 5,500 kg.
+The Payload, Normal is 4,500 kg.
+The Payload, Maximum is 24,000 kg.
+
+Here is Automotive information for the Y-7H Chinese Military Transport Aircraft:
+The Engine Name is INA.
+The Engine Type is 2 x turboprops; and 1 x auxiliary turbojet for takeoff  assist.
+The Number of Engines is 3.
+The Engine Power is INA.
+The Internal Fuel Capacity is 7,050 liters.
+The Maximum Speed is 540 km/h.
+The Cruise Speed is 440 km/h.
+The Takeoff Speed is 200 km/h.
+The Landing Speed is 190 km/h.
+The Maximum Range, with Maximum Payload is 1,100 km.
+The Maximum Range, with Maximum Fuel is 2,550 km.
+The Climb Rate is 480 m/min.
+The Ceiling is 7,500 m.
+The Takeoff Run is 780 m.
+The Landing Run is 730 m.
+
+Here is Communications information for the Y-7H Chinese Military Transport Aircraft:
+The Radio is INA.
+
+Here is Protection information for the Y-7H Chinese Military Transport Aircraft:
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The Add on Armor is No.
+The NBC Protection is Yes.
+The EW Counter Measures is No.
+The Chaffs/Flares is INA.
+

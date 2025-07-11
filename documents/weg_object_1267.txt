@@ -1,0 +1,31 @@
+This document describes the Mistral French Man-Portable Air-Defense System (MANPADS).
+
+Mistral is an infrared homing MANPADS manufactured by the European multinational company MBDA missile systems (formerly by Matra BAe Dynamics). Based on the French SATCP (Sol-Air À Très Courte Portée), the portable missile later to become the Mistral began development in 1974. It was initially deployed in 1988 for the first version (S1), 1997 for the second version (M2), and 2019 for the third version (M3).
+
+The basic Mistral missile is used with a man-portable launch unit. There are also launch units that allow the missile to be fired from armored vehicles, ships, or helicopters (such as the Aérospatiale Gazelle, Denel Rooivalk, or Eurocopter Tiger). To reject the flares ejected from the rear of the targeted aircraft, proportional navigation using a gyro as a reference is adopted for Mistral, instead of the pursuit method in earlier IR-guided MANPADS. To further enhance the ECCM capability, the seeker of Mistral has a very narrow field of view to reject decoys and interference, but the seeker can tilt in the range of +/− 38 degrees. On the launcher, the missile runs up the gyro in 2 seconds, and the total reaction time is 5 seconds. The all-aspect two-color (2–4 and 3–5 µm) cooled IR-seeker of Mistral is developed by SAT, and the missile adopts both laser proximity and impact fuzes.
+
+A close-in weapon system based on Mistral is a six-missile version called Sadral, with a stabilized rapid-reload launcher that is fully automated. A CSEE developed fire control director is integrated into the launcher, consisting of TV camera and FLIR. Image produced by both directors appear on the screen in the operator console below deck, and the missiles are locked onto the target before being launched. A fully loaded Sadral launcher weighs 1080 kg, and the operator console weighs 280 kg. A two-missile unit installed on ships is called Simbad, and a newly launched four-missile version is called Tetra. An evolution of the Simbad is now proposed: Simbad RC. Both Central and Simbad RC are remote-controlled from the ship's deck while the original Simbad is manually operated with a simple optical sight.
+
+This equipment has proliferated into the following countries: Austria, Botswana, Brazil, Brunei Darussalam, Chile, Colombia, Cyprus, Ecuador, Estonia, Finland, France, Georgia, Hungary, India, Indonesia, Iran (Islamic Republic of), Israel, Kenya, Lebanon, Morocco, New Zealand, Norway, Oman, Pakistan, Philippines, Rwanda, Serbia, Singapore, South Korea (Republic of Korea), Spain, Switzerland, Thailand, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the Mistral French Man-Portable Air-Defense System (MANPADS):
+The Submarine Air Defence Weapon is On 26 September 2012 DCNS at the company's Le Mourillon plant announced plans to design and build a submarine canister-based air defence weapon based on the Mistral. The concept is similar to the British Submarine Launched Airflight Missile developed by Vickers in the 1970s and tested on HMS Aeneas and three boats of the Gal-class..
+The SIMBAD-RC is SIMBAD-RC is a naval remote controlled turret using Mistral missiles developed by MBDA..
+
+Here is Mistral MANPADS information for the Mistral French Man-Portable Air-Defense System (MANPADS) of the System:
+The Name is Mistral.
+The Type is Man-Portable Air-Defense System (MANPADS).
+The Manufacturer is MBDA (France).
+The In Service is 1988-Present.
+The Length is 1.86 m.
+The DIameter is 90 mm.
+The Crew is 1.
+The Effective Firing Range is 6 km.
+The Warhead is High Explosive with high density tungsten balls.
+The Warhead Weight is 2.95 kg.
+The Detonation Mechanism is Laser proximity or impact triggered.
+The Engine is Solid Rocket Motor.
+The Speed is 800.
+The Guidance System is Infrared homing.
+The Note is SIMBAD-RC is a naval remote controlled turret using Mistral missiles developed by MBDA.
+

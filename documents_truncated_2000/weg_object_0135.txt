@@ -1,0 +1,69 @@
+This document describes the RASIT French 6x6 Ground-Surveillance Pulse Doppler Radar Vehicle.
+
+RASIT (RAdar de Surveillance des InTervalles) is a ground-surveillance pulse doppler radar developed by Thomson-CSF (now Thales), and fielded by several militaries. The original version of RASIT had a range of 20 kilometers and allowed a skilled operator to distinguish between personnel, vehicles, and aircraft. RASIT operates in the I band and has a peak power of two kilowatts. The system is deployed on vehicles (although it can be removed from its mount and emplaced on the ground) and has been used by at least 32 nations. The latest version of RASIT, the RASIT-E, has a range of 40 kilometers.
+
+RASIT was developed in the mid-1970s and over 700 units had been sold by 1996. The latest RASIT customer is Estonia, where the radar is used for border surveillance.
+
+This equipment has proliferated into the following countries: Estonia, France.
+
+Here is Dimensions information for the RASIT French 6x6 Ground-Surveillance Pulse Doppler Radar Vehicle of the System:
+The Height, Overall  is Varies by vehicle.
+The Length, Chassis Overall  is Varies by vehicle.
+The Width, Overall  is Varies by vehicle.
+The Weight, Combat is 90.
+
+Here is Automotive information for the RASIT French 6x6 Ground-Surveillance Pulse Doppler Radar Vehicle:
+The Engine Name is Varies by vehicle.
+The Engine Type is Varies by vehicle.
+The Fording Depth  is Varies by vehicle.
+The Range, Cruising  is Varies by vehicle.
+The Speed  is Varies by vehicle.
+
+Here is Radio information for the RASIT French 6x6 Ground-Surveillance Pulse Doppler Radar Vehicle of the Communications:
+The Name is INA.
+
+Here is Equipment information for the RASIT French 6x6 Ground-Surveillance Pulse Doppler Radar Vehicle:
+The Antenna Type is Flat array type; slotted waveguide antenna; cable link.
+The Azimuth Coverage  is Operator section: 10 to 240 (200 to 4300 mils).
+The Console is Digitally operated including display.
+The Name is Radar Acquisition de Surveillance Intermediare (RASIT).
+The Radar is Motor-driven for azimuth adjustment with remote control.
+
+Here is Alternate Modes of Operation information for the RASIT French 6x6 Ground-Surveillance Pulse Doppler Radar Vehicle of the Operation:
+The Mode 1 is Magnified mode:.
+The Mode 2 is FDC mode:.
+The Mode 3 is Air Defense (AD) mode:.
+The Mode 4 is Early Warning mode:.
+The Mode 5 is GPS mode:.
+
+Here is Remote information for the RASIT French 6x6 Ground-Surveillance Pulse Doppler Radar Vehicle of the Operation:
+The Display is Plotting table or mapping computer.
+The Remote Operation is Console 300 m from dish.
+The Remote user transmission is Standard interface; RASIT E can be integrated with battle management
+system using TCP/IP interface
+.
+The Target acquisition is Automatically detects, tracks, &
+identifies all targets
+.
+The Tone Signal is Yes.
+The TV Monitor is Polar & Universal Transverse Mercator
+(UTM) coordinates
+.
+
+Here is Performance information for the RASIT French 6x6 Ground-Surveillance Pulse Doppler Radar Vehicle:
+The Countermeasure Resistance is ECCM & LPI capable.
+The Resolution is +/- 10 m range; +/- 0.6 in azimuth.
+The Surveillance Range (Personnel) is 22.0.
+The Surveillance Range (Vehicles) is 35.0.
+The Surveillance Range (Aircraft) is 34.0.
+The Tracking Speed is 103 km/hr.
+
+Here is Transceiver information for the RASIT French 6x6 Ground-Surveillance Pulse Doppler Radar Vehicle:
+The Accuracy is 90% probability of detection.
+The Compatibility is With IFF systems & ECCM capabilities.
+The Name is Transceiver.
+The Polarization is Linear & circular.
+The Power  is 3000 (consumption); 150 (Output).
+The Signal is I-Band (8.00  10.00 GHz).
+The Width of radiation pattern lobe  is -11 to 240.
+

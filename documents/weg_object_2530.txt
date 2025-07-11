@@ -1,0 +1,95 @@
+This document describes the Komatsu LAV Japanese 4x4 Light Armored Vehicle (LAV).
+
+The Komatsu light armored vehicle is a Japanese military vehicle first produced in 2002. Currently used exclusively by the Japan Self-Defense Force (JSDF), it has seen use in the Iraq War. It is built by Komatsu Ltd. Defense Systems Division in Komatsu, Ishikawa, Japan. Komatsu's factory designator for the vehicle is KU50W.
+
+The exterior resembles the Panhard VBL, used by the French army, but the LAV has 4 doors and a large cabin for carrying soldiers. The LAV can also be transported by air using aircraft like the CH-47J and the C-130H.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is System information for the Komatsu LAV Japanese 4x4 Light Armored Vehicle (LAV):
+The Alternative Designation is Komatsu Japanese Light Armored Vehicle (LAV).
+The Type is Infantry Vehicle.
+The Family is Light Armored Vehicle (LAV).
+The Configuration is 4x4.
+The Crew is 4 - 5.
+The Passenger Capacity is 4 - 5 Personnel.
+
+Here is Dimensions information for the Komatsu LAV Japanese 4x4 Light Armored Vehicle (LAV):
+The Length is 4.4.
+The Width is 2.
+The Height is 1.85.
+The Weight, Combat is 4500.
+
+Here is Automotive information for the Komatsu LAV Japanese 4x4 Light Armored Vehicle (LAV):
+The Engine Name is INA.
+The Engine Type is 4-cycle diesel.
+The Engine Power is 160.
+The Cruising Range is 320.
+The Speed, Maximum Road is 100.
+The Fording Depth is 0.7.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.5.
+The Trench is 0.5.
+
+Here is System (Option 1) information for the Komatsu LAV Japanese 4x4 Light Armored Vehicle (LAV) of the Main Weapon System:
+The Name is 1 x Sumitomo M249 LMG.
+The Type is Light Machine Gun.
+The Caliber is 5.56.
+
+Here is Ammunition information for the Komatsu LAV Japanese 4x4 Light Armored Vehicle (LAV) of the Main Weapon System:
+The Type is Automatic Rifle.
+The Caliber is 5.56.
+The Basic Load is 200.
+
+Here is System (Option 2) information for the Komatsu LAV Japanese 4x4 Light Armored Vehicle (LAV) of the Main Weapon System:
+The Name is 1 x Sumitomo M2HB.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7.
+
+Here is Ammunition information for the Komatsu LAV Japanese 4x4 Light Armored Vehicle (LAV) of the Main Weapon System:
+The Type is Linked.
+The Caliber is 12.7.
+The Basic Load is 600.
+
+Here is Anti-Tank Guided Missile (Option 1) information for the Komatsu LAV Japanese 4x4 Light Armored Vehicle (LAV) of the Anti-Tank Guided Missile (ATGM) System:
+The Name is Type 87 Chu-MAT.
+The Type is Laser Guided Anti-Tank Missile.
+The Caliber is 100.
+The Manufacturer is Kawasaki Heavy Industries / Mitsubishi Motors - Japan.
+The Length is 1,000 mm.
+The Weight, Unloaded is 152.00 kg.
+The Action is Laser-Guided; Semi-Active; Single-Shot.
+The Rate of Fire is 3 rounds-per-minute.
+The Effective Range is 1,999 m.
+The Sights is Laser assisted sights.
+The Guidance System is Laser guidance.
+
+Here is Anti-Tank Guided Missile (Option 2) information for the Komatsu LAV Japanese 4x4 Light Armored Vehicle (LAV) of the Anti-Tank Guided Missile (ATGM) System:
+The Name is Type 01 LMAT.
+The Type is Anti-Tank Guided Missile.
+The Caliber is 140.
+The Manufacturer is Kawasaki Heavy Industries[.
+The Length is 860 mm.
+The Missile Weight is 11.4kg.
+The Total Weight is 17.5kg.
+The Engine is Solid Fuel Rocket.
+The Warhead is Tandem-charged HEAT warhead.
+The Effective Firing Range is 4 km.
+The Sights is Thermographic camera (Uncooled infrared detector).
+The Guidance System is Infrared homing, CCD.
+
+Here is Fire Control information for the Komatsu LAV Japanese 4x4 Light Armored Vehicle (LAV):
+The Laser Target Designator is Mounted, Heavy Tripod.
+The Range, Day Sight is 2.
+The Range, Thermal Sight is INA.
+The GSR (Ground Surveillance Radar) is INA.
+
+Here is Protection information for the Komatsu LAV Japanese 4x4 Light Armored Vehicle (LAV):
+The Armor is Steel Armor.
+The Applique Armor is INA.
+The Active Protection System is INA.
+The NBC Protection is INA.
+The Smoke Equipment is Smoke Grenade Launchers.
+The IR Signature is INA.
+

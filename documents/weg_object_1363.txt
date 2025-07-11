@@ -1,0 +1,101 @@
+This document describes the Neon Antonov-Class (Project 1595 Class) Russian Coastal Logistics Ship.
+
+The Neon Antonov-class coastal logistics ship, also known as Project 1595, is a Russian Coast Guard vessel. The vessels were designed to supply Border Guard installations in the Pacific Ocean. They can also assist in other standard Russian Coast Guard missions such as protecting Russian maritime borders, search and rescue, and maritime law enforcement. The ships are small freighters that carry defensive armament to engage surface and air threats. The 30 mm gun is controlled by a Kolonka-1 ring sight fire control director. The ships have a basic suite of sensors and systems for navigation and communicating to other ships or land areas. They can carry small landing craft and one workboat.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Neon Antonov-Class (Project 1595 Class) Russian Coastal Logistics Ship:
+The NEON ANTONOV is Commissioned: 1976
+Status: Stricken 
+Fleet: Pacific Fleet.
+The NIKOLAY SIPYAGIN is Commissioned: 1977
+Status: Active
+Fleet: Pacific Fleet.
+The IVAN LEDNEV is Commissioned: 1977
+Status: Active
+Fleet: Pacific Fleet.
+The NIKOLAY STARSHINOV is Commissioned: 1980
+Status: Active
+Fleet: Pacific Fleet.
+The SERGEY SUDYESKIY is Commissioned: 1982
+Status: Active
+Fleet: Pacific Fleet.
+The VYACHESLAV DENISOV is Commissioned: 1984
+Status: Active
+Fleet: Pacific Fleet.
+The MIKHAIL KONOVALOV is Commissioned: 1981
+Status: Active
+Fleet: Pacific Fleet.
+
+Here is System information for the Neon Antonov-Class (Project 1595 Class) Russian Coastal Logistics Ship:
+The Alternative Designation is Neon Antonov Class; Project 1595 Class.
+The Type is Coastal Logistics Ship.
+The Builder is Nikolayevsk-na-Amur Zavod, Ukraine.
+The Crew is 45.
+The Passengers is 18.
+The Cargo Capacity is 940 tons.
+The Landing Craft is The Neon Antonov Class (Project 1595 Class) Russian Coastal Logistics Ship carries carries a T-4 class mechanized landing craft (LCM) to ferry supplies ashore when a port is not available. In addition, each carries a work boat aft. A 50-ton capacity derrick handles both craft..
+
+Here is Dimensions information for the Neon Antonov-Class (Project 1595 Class) Russian Coastal Logistics Ship:
+The Length is 96.70 m.
+The Beam is 14.50 m.
+The Draft is 5.10 m.
+The Displacement, Standard is 2,420 tons.
+The Displacement, Full Load is 4,040 tons.
+
+Here is Propulsion System information for the Neon Antonov-Class (Project 1595 Class) Russian Coastal Logistics Ship:
+The Engine Name is 2 x Type 67E type 12DRPN 23/2 X 30.
+The Engine Type is Diesel.
+The Engine Power is 7,500 total bhp.
+The Maximum Range is 8,500 nm at 13 knots.
+The Maximum Speed is 18 knots.
+The Endurance is 25 days.
+
+Here is Gun Weapon System #1 information for the Neon Antonov-Class (Project 1595 Class) Russian Coastal Logistics Ship of the Gun Weapon Systems:
+The Name is 1 x AK-306 30mm Automatic Naval Gun.
+The Type is Automatic Naval Gun.
+The Caliber is 30 mm.
+The Barrel Length is INA.
+The Weight is 1,100 kg.
+The Barrels is 6.
+The Elevation is -12 deg to +85 deg.
+The Traverse is -180 deg to +180 deg.
+The Rate of Fire is 1,000 rounds a minute.
+The Maximum Firing Range is 5,000 m.
+The Feed System is continuous, belt loading. 500 Round (in magazine).
+
+Here is Gun Weapon Systems #1 Ammunition information for the Neon Antonov-Class (Project 1595 Class) Russian Coastal Logistics Ship of the Gun Weapon Systems:
+The Type is HEI-Frag, Frag-T.
+The Caliber is 30 mm.
+The Shell Weight is 0.39 kg.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Neon Antonov-Class (Project 1595 Class) Russian Coastal Logistics Ship of the Gun Weapon Systems:
+The Name is INA.
+The Type is 2 x 12.7mm Machine guns.
+The Caliber is 12.7 mm.
+
+Here is Gun Weapon System #2 Ammunition information for the Neon Antonov-Class (Project 1595 Class) Russian Coastal Logistics Ship of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 12.7 mm.
+The Cartridge is INA.
+The Basic Load is INA.
+
+Here is Missile #1 information for the Neon Antonov-Class (Project 1595 Class) Russian Coastal Logistics Ship of the Missile Weapon System:
+The Name is 1 x 9K34 "Strela-3" Surface-to-Air Missile System.
+The Type is Surface-to-Air Missile System.
+The Length is 1.47 m.
+The Weight is 10.3 kg.
+The Operational Range is 4,500 m.
+The Maximum Speed is 470 m/s.
+The Flight Altitude is 1,800 meters vs jets;
+3,000 meters vs slow moving targets..
+
+Here is Radar Systems information for the Neon Antonov-Class (Project 1595 Class) Russian Coastal Logistics Ship:
+The Navigation Radar is 1 x MR-220 Reyd navigation radar and 1 x Volga navigation radar..
+
+Here is Protection information for the Neon Antonov-Class (Project 1595 Class) Russian Coastal Logistics Ship:
+The Hull Armor is INA.
+The Countermeasures is No.
+The NBC Water Washdown System is Yes.
+

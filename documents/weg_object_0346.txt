@@ -1,0 +1,35 @@
+This document describes the RAM II Ukrainian Loitering Unmanned Aerial Vehicle (UAV).
+
+The RAM II Ukrainian Unmanned Aerial Vehicle (UAV) is a high-precision combat loitering unmanned aerial system. It is designed to execute precise effective strikes on enemy forces and to minimize collateral damage when used in the urban area. The drone is equipped with a gyro-stabilized Full HD camera with 10x optical zoom for easy target identification. The main feature is an active visual target tracking system, that allows to lock on the target using real-time video from the onboard video camera and follow the target until the impact. RAM II UAV is powered by a quiet electric engine and has a low noise signature, anti-jamming features an encrypted data link to maximize the security of the mission. Fully loaded combat UAV with 4 kg warhead can operate in a range of 30 km from the launch point and complete both surveillance and combat missions.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the RAM II Ukrainian Loitering Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is RAM II.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is INA.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Payload Capacity is 3 kg.
+The Warhead is Fully loaded combat UAV with 3 kg warhead can operate in a range of 30 km from the launch point and complete. Warhead Types: THERMOBARIC Designed to hit targets inside buildings and small armored vehicles; HIGH-EXPLOSIVE ANTI-TANK High-Explosive Anti-Tank (HEAT) warhead designed to hit heavily protected targets on land or in a sea; HE/FRAGMENTATION High-Explosive Fragmentation warhead is designed to hit open space personnel targets..
+The Flight Controller is RAM UAV equipped with a flight controller that allows automatic missions. GCS computer software allows to plan mission, see real-time video feed from the drone and activate targeting feature..
+The Accuracy is 1 m.
+The Operating Temperature is -20°С — +40°С.
+The Launching System is catapult.
+The Recovery System is On the fuselage.
+
+Here is Dimensions information for the RAM II Ukrainian Loitering Unmanned Aerial Vehicle (UAV):
+The Length is 1.45 m.
+The Wingspan is 2.584 m.
+The Height is 0.349 m.
+The Maximum Takeoff Weight is 9.8 kg.
+
+Here is Automotive information for the RAM II Ukrainian Loitering Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Maximum Speed is 70 km/h.
+The Service Ceiling is 1,000 m.
+The Maximum Distance is 30 km.
+The Endurance is 55 min.
+

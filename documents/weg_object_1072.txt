@@ -1,0 +1,110 @@
+This document describes the Y-7-100 (Yunshuji-7-100) Chinese Cargo Transport Aircraft.
+
+Y-7-100
+This is an improved version developed with the assistance of the Hong Kong Aircraft Engineering Co. (HAECO). This version has greater wing span and winglets, Hamilton Standard environmental control system, three-man flight deck, updated avionics and revised Noordam cabin layout with reclining seats.
+
+The Xian Y-7 (Chinese: 运-7; pinyin: Yùn-qī) is a transport/passenger aircraft built in China. It is based on the Soviet-designed Antonov An-24 series.
+
+China imported the Antonov An-24 from early in its production run and also negotiated licences for production of the aircraft and its engines. In 1966, Xi'an aircraft factory started the project of local production of An-24. The first Chinese-assembled An-24T had its maiden flight on 25 December 1970. Production was launched in 1977 at the Xi'an aircraft factory but progress was slow due to the deleterious effects of the Cultural Revolution, with a pre-production aircraft displayed to the public at Nanyuan air base, near Beijing, on 17 April 1982. The WJ-5A1 turboprop engine was chosen as the Y-7's power source. The first production aircraft was not flown until February 1984, illustrating the slow progress (eighteen years from licence to production).
+
+The Chinese aircraft equated to the An-24RV, having a full complement of windows and the booster jet engine. The majority of early deliveries were to the People's Liberation Army Air Force (PLAAF), mostly as transports, with a few in 52-seat airliner configuration for the Civil Aviation Administration of China (CAAC). After the initial licensed production run, the Y-7 was developed separately from the An-24 with a succession of upgrades culminating in the Xian MA60 (Modern Ark) series.
+
+A tactical transport derivative was copied, unlicensed, from the Antonov An-26 and emerged as the Y-7H, incorporating the cargo ramp door and military equipment of the An-26.
+
+This equipment has proliferated into the following countries: Cambodia, China, Iran (Islamic Republic of), Laos (People's Democratic Republic), Mauritania, Zimbabwe.
+
+Here is Variants information for the Y-7-100 (Yunshuji-7-100) Chinese Cargo Transport Aircraft:
+The Variants is Xian Y-7E
+Speculative designation for a 'Hot and High" version with more powerful engines.
+
+Xian Y-7G
+A military variant of the MA60 produced for the PLAAF.
+
+Xian Y-7H
+(Huo -cargo) A reverse-engineered An-26 with rear loading ramp for the PLAAF, entering production in 1992.
+
+Xian Y7H-500
+Civil variant of the Y-7H certified in 1994.
+
+Xian Y-14
+The original designation for the An-26 copy/Y-7H.
+
+Xian Y-7-100
+Improved version, developed in co-operation with HAECO (Hong Kong Aircraft Engineering Company), with redesigned cockpit and cabin, as well as winglets. This variation has an upgraded passenger cabin interior, with new avionics sourced from western providers. Flight crew reduced to three, it is capable of carrying 52 passengers.
+
+Xian Y-7-100C1
+Five-crew variant with equipment changes.
+
+Xian Y-7-100C2
+Five-crew variant with equipment changes.
+
+Xian Y-7-100C3
+Five-crew variant with equipment changes.
+
+Xian Y-7-200
+Fitted with new avionics; without winglets.
+
+Xian Y-7-200A
+Powered by two Pratt & Whitney PW127C turboprop engines.
+
+Xian Y-7-200B
+Stretched version (74cm (29in)) with WJ5A-1G engines, built for the Chinese domestic market.
+
+Xian HYJ-7
+(Hongzhaji Yunshuji Jiaolianji - Bomber/transport/trainer) A pilot and crew trainer for H-6 heavy bombers fitted with a stabilised HM-1A bombsight, bomb-aiming radar and a TNL-7880 combined navigation system.
+
+Xian MA60
+(Y-7-MA60) (Modern Ark 60 seats) A westernised variant of the Y-7 intended to attract more western customers and meet Joint Airworthiness Requirements.
+Xian JZY-01 experimental aircraft / Y-7 AWACS
+Carrier-based airborne early warning and control (AEW&C) variant. JZY stands for Jian (舰) Zai (载) Yu (预), meaning carrier borne AEW&C, has 4 rudders like E-2 AEW It is being used as a testbed for Xian KJ-600..
+
+Here is System information for the Y-7-100 (Yunshuji-7-100) Chinese Cargo Transport Aircraft:
+The Alternate Designation(s) is Y-7-100; Yunshuji-7-100.
+The Primary Function / Type is Cargo Transport Aircraft.
+The Manufacturer is Xi'an Aircraft Industrial Corporation.
+The Crew is 3 or 5.
+The Passengers is 48-52 passengers.
+The Number of Engines is 2.
+The Number of Hard Points is INA.
+
+Here is Dimensions information for the Y-7-100 (Yunshuji-7-100) Chinese Cargo Transport Aircraft:
+The Length is 23.71 m.
+The Width (Wing Span) is 29.64 m.
+The Height is 8.55 m.
+The Wing Area is 74.98 sq m.
+The Cabin Length is 10.50 m.
+The Cabin Width is 2.80 m.
+The Cabin Height is 1.90 m.
+The Cabin Volume is 56 cu m.
+The Empty Weight is 14,952 kg.
+The Maximum Takeoff Weight is 21,800 kg.
+The Maximum Payload Weight is 5,500 kg.
+
+Here is Automotive information for the Y-7-100 (Yunshuji-7-100) Chinese Cargo Transport Aircraft:
+The Engine Name is 2 x Shanghai WJ-5A-1.
+The Number of Engines is 2.
+The Engine Type is Turboprop.
+The Engine Power is 2,790 shaft hp each.
+The Standard Internal Fuel Capacity is 5,106 liters.
+The Optional Internal Fuel Capacity is 6,192 liters.
+The Maximum Speed is 518 km/h.
+The Cruise Speed at 4,000 m is 487 km/h.
+The Economical Speed is 423 km/h.
+The Range with Maximum Payload is 910 km.
+The Range with Maximum Fuel is 2,420 km.
+The Climb Rate is 458 m/min.
+The Ceiling is 8,750 m.
+
+Here is Fire Control System / Avionics information for the Y-7-100 (Yunshuji-7-100) Chinese Cargo Transport Aircraft:
+The FCS Name is INA.
+The Computerized FCS is No.
+The Navigation Radar is INA.
+
+Here is Protection information for the Y-7-100 (Yunshuji-7-100) Chinese Cargo Transport Aircraft:
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The Add on Armor is INA.
+The NBC Protection is INA.
+The EW Counter Measures is INA.
+The Chaffs/Flares is INA.
+

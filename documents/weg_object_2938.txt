@@ -1,0 +1,50 @@
+This document describes the RESOLVE British Portable Electronic (EW) System.
+
+The RESOLVE EW Manpack is a 100% UK state-of-the-art field-proven Electronic Surveillance and Attack system. It benefits from having both the software and hardware developed in conjunction with Roke’s operational experts. RESOLVE is designed for the intercept, geolocation, exploitation, and denial of tactical communications in the HF to UHF frequency bands, including ‘modern waveforms’. A single RESOLVE EW Manpack can be used in isolation to provide both full-spectrum surveillance and Direction Finding (DF) capabilities. When networked with other RESOLVE systems it is then possible to position fix targets using Angle of Arrival (AOA) techniques. With fully integrated wireless network connectivity, the RESOLVE EW Manpack enables target data fusion across the deployed baseline. This provides rapid target resolution, correlation and
+geolocation, through the use of the dedicated Management Information System (MIS) and Geospatial Information System (GIS) applications.
+
+RESOLVE is a modular system designed for intercept, geolocation, and exploitation of tactical communications signals from 1-3,000 MHz, developed by Roke Manor Research, now Chemring Technical Solutions (TS). The system can exploit a range of signals, including Personal Mobile Radio and Cellular Communications (such as GSM). It consists of a number of nodes that can either operate as stand-alone or as a networked multi-node baseline for collaborative Position Fixing.
+
+This equipment has proliferated into the following countries: United Kingdom of Great Britain and Northern Ireland.
+
+Here is Acquisition and Geolocation Sensor (AGS) information for the RESOLVE British Portable Electronic (EW) System of the System:
+The Receiver Type is two-channel wideband receiver.
+The Frequency Range is 1 MHz to 3 GHz.
+The Bandwith is 40 Mhz instantaneous bandwidth per channel.
+The Burst Transmission Capable is Yes.
+The Frequency Hopping Enabled is Yes.
+The Software Algorithms is Roke's Software Defined Radio (SDR) algorithms.
+The HF/VHF Frequency Range is 1-100.
+The Low Noise Amplifiers is Yes.
+The PMR Intercept Enabled is Yes.
+The Geolocation Enabled is Yes.
+The Low Probability of Intercept (LPl) Transmissions Capable is Yes.
+The Signal Acquisition is Multiple simultaneous signal acquisition and processing.
+The Two Channel DF Algorithms Enabled is Yes.
+The Channels is Five time Multiplexed Channels.
+The Digital Channels is Four Digital Down Converter (DDC) channels.
+The GPS Enabled is Yes.
+The Electronic Compass Enabled is Yes.
+The USB 2.0 Interfacing Capable is Yes.
+The N-Channel AGS Capable is Yes, RESOLVE provides the ability to discriminate nearby tactical HF groundwave transmissions from more distant strategic skywave and NVIS transmission.
+
+Here is Electronic Attack (EA) information for the RESOLVE British Portable Electronic (EW) System of the System:
+The Units is Two manpack units.
+The Frequency Range is 25 MHz to 2.5 GHz.
+The Additional Amplifiers Capable is Yes, to achieve higher power outputs.
+The Electronic Support (ES) Sensor Tasking and Monitoring is Yes.
+The Electronic Attack (EA) System Cueing is Yes.
+The Geolocation Enabled is Yes.
+The Cellular Survey Enaabled is Yes.
+The Wireless Network Manager is Yes.
+The Management Information System (MlS) is Yes.
+The Geospatial Information System (GlS) is Yes.
+The COTS Target Signals Analysis packages is Yes.
+
+Here is Antennas information for the RESOLVE British Portable Electronic (EW) System of the System:
+The QuadTac V/UHF Tactical DF Antenna Frequency is 30 MHz-3 GHz.
+The QuadTac-Mini Tactical DF Antenna Frequency is 30-700.
+The MicroQuad HF/VHF Tactical DF Antenna Frequency is 2-100.
+The TriQuad Tactical DF Antenna Frequency is 2 MHz-3 GHz.
+The MastQuad V/UHF Mast Mounted DF Antenna Frequency is 30 MHz-3 GHz.
+

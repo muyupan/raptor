@@ -1,0 +1,110 @@
+This document describes the M1167 HMMWV American 4x4 Expanded Capacity TOW Armament Carrier.
+
+The M1167 was a TOW missile carrier configuration in the Expanded Capacity HMMWV series. The M1167 was equipped with an M41 Improved Target Acquisition system (ITAS) used to mount and operate the missile launcher system and featured armor ballistic protection for crew, missile stowage, secondary weapons mount for close range, and ammunition. These tactical vehicles were designed for use over all types of roads, as well as cross-country terrain, in all weather conditions. All vehicles were able to stow a minimum of 6 missiles mounted in the cargo area and are equipped with a pintle hook for towing, tiedowns, and lifting eyes for air, rail, or sea shipment. The optional front self-recovery winch permitted recovery operations of similar vehicles.
+
+Fully loaded M1167s could climb road grades as steep as 40 percent (22 degrees) and traverse a side slope of up to 30 percent (13.5 degrees). The vehicle could ford hard bottom water crossings up to 30 inches (76 centimeters) without a deep water fording kit and 60 inches (152 centimeters) with the kit.
+
+The primary difference between the M1167 and the M1115, was that the M1167 featured a slightly lower default armor package based on the Integrated Armor Protection package (or A-Kit) for the M1151A1/M1152A1/M1165A1 type vehicles, but was capable of mounting the supplemental armor (B-Kits). Frag Kits could also be installed. These vehicles reflected the US Army's Long Term Armor Strategy of developing vehicles with adaptable armor packages.
+
+This equipment has proliferated into the following countries: Afghanistan, Argentina, Bahrain, Bosnia and Herzegovina, Chile, Colombia, Djibouti, Ecuador, Greece, Iraq, Israel, Jordan, Kazakhstan, Kenya, Kuwait, Lebanon, Luxembourg, Macedonia, Mexico, Morocco, Philippines, Poland, Saudi Arabia, Slovenia, Sudan, Switzerland, Thailand, Tunisia, Ukraine, United Arab Emirates.
+
+Here is Variants information for the M1167 HMMWV American 4x4 Expanded Capacity TOW Armament Carrier:
+The Major HMMWV A0/A1/A2 versions is *M56/M56A1 Coyote Smoke Generator Carrier (mounted on a HMMWV; not a Type Classified HMMWV)
+*M707 Knight (replaced, originally mounted on a M1025A2 HMMWV; not a Type Classified HMMWV)
+*M966/M966A1 TOW Missile Carrier, basic armor, without winch
+*M996 Mini-ambulance, two-litter, hard top (type classified but not produced)
+*M997/M977A1/M977A2 Maxi-ambulance, four-litter, basic armor
+*M998/M998A1 Cargo/Troop Carrier without winch
+*M998 HMMWV Avenger (mounted on a HMMWV; not a Type Classified HMMWV)
+*M1025/M1025A1 Armament Carrier, basic armor, without winch
+*M1025A2 Armament/TOW Missile Carrier, basic armor
+*M1026/M1026A1 Armament Carrier, basic armor, with winch
+*M1035/M1035A1/M1035A2 Soft top Ambulance, two-litter
+*M1036 TOW Missile Carrier, basic armor, with winch
+*M1037 Shelter Carrier, without winch
+*M1037 Shelter Carrier MSE
+*M1038/M1038A1 Cargo/troop Carrier with winch
+*M1042 Shelter Carrier, with winch
+*M1043/M1043A1 Armament Carrier, supplemental armor, without winch
+*M1043A2 Armament Carrier, supplemental armor
+*M1044/M1044A1 Armament Carrier, supplemental armor, with winch
+*M1045/M1045A1 TOW Missile Carrier, supplemental armor, without winch
+*M1045A2 TOW Missile Carrier, supplemental armor
+*M1046/M1046A1 TOW Missile Carrier, supplemental armor, with winch
+*M1069 Tractor for M119 105-mm Gun
+*M1097/M1097A1 Heavy Hummer Variant (HHV)
+*1097A2 base platform
+*M1097A2 Cargo/Troop Carrier/Prime Mover (replacing the M998A1)
+*M1097A2 Shelter Carrier
+*M1097 Heavy HMMWV Avenger (mounted on a HMMWV; not a Type Classified HMMWV)
+*Packhorse – Attachment to convert an M1097 to tractor version for semi-trailers
+*XM1109 Up-Armored Heavy Hummer Variant (UA-HHV) (replaced by M1114)
+*M1123 Troop/cargo (U.S. Marines specific M1097A2).
+
+Here is System information for the M1167 HMMWV American 4x4 Expanded Capacity TOW Armament Carrier:
+The Alternative Designation is M1167 HMMWV.
+The Type is Expanded Capacity TOW Armament Carrier.
+The Manufacturer is AM General.
+The Configuration is 4x4.
+The Family is HMMWV.
+The In Service is 1987-Present.
+The Crew is 1.
+The Passenger Capacity is 8 maximum (can also carry casualties).
+
+Here is Dimensions information for the M1167 HMMWV American 4x4 Expanded Capacity TOW Armament Carrier:
+The Length is 4.84 m.
+The Width is 2.16 m.
+The TOW Height is 1.88 m.
+The Wheelbase is 3.30 m.
+The Ground Clearance is 0.41 m.
+The Vehicle Weight, (TOW Basic Armor) is 3,075 kg.
+The Payload Weight, (TOW Basic Armor) is 1,597 kg.
+The Gross Weight, (TOW Basic Armor) is 4,672 kg.
+The Vehicle Weight, (TOW Extra Armor) is 3,295 kg.
+The Payload Weight, (TOW Extra Armor) is 1,380 kg.
+The Gross Weight, (TOW Extra Armor) is 4,672 kg.
+
+Here is Automotive information for the M1167 HMMWV American 4x4 Expanded Capacity TOW Armament Carrier:
+The Engine Name is 1 x General Motors V8.
+The Engine Type is 6.5L turbo-charged, diesel fuel injection.
+The Engine Power is 160 hp at 3,400 rpm.
+The Transmission is automatic w/4 forward gears, 1 reverse gear.
+The Fuel Capacity is 94 liters.
+The Range is 483 km.
+The Speed, Maximum Road is 105.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Step is 0.56.
+The Fording Depth is 1.52.
+The Suspension is independent double A-arm with coil spring on all wheels, with front stabilizer bar.
+
+Here is Main Weapon System information for the M1167 HMMWV American 4x4 Expanded Capacity TOW Armament Carrier:
+The Name is BGM-71.
+The Type is TOW Anti-Tank Guided Missile.
+The Length is 1.17 m.
+The Diameter is 152 mm.
+The Wingspan is 0.45 m.
+The Engine is 2 x Hercules solid-fuel rocket motors; first motor has short burn to allow TOW to clear tube; second motor  sustains TOW flight until impact; TOW 2 motor provides 30 percent greater impulse than the basic TOW.
+The Total Weight is 18.9 kg.
+The Warhead Weight is 3.9 kg.
+The Elevation is INA.
+The Traverse is This variant features a TOW missile launcher and a ring mount for various weapon systems with a 360-degree arc of fire..
+The Maximum Speed is 300 m/sec.
+The Range is 3,000 m.
+The Guidance System is semi-automatic command to line-of-sight (SACLOS) wire guidance.
+The Infrared is automatic tracking of xenon or thermal beacon in tail.
+The Basic Load is 6 x BGM-71 TOW Anti-Tank Guided Missiles.
+
+Here is Auxiliary Weapon System information for the M1167 HMMWV American 4x4 Expanded Capacity TOW Armament Carrier:
+The Note is basic vehicle does not have weapons fitted; armament carrier can be fitted with a 7.62-mm or 12.7-mm machine guns or a 40-mm grenade launcher; TOW carrier has launcher.
+
+Here is Protection information for the M1167 HMMWV American 4x4 Expanded Capacity TOW Armament Carrier:
+The Armor is INA.
+The Applique Armor is Available.
+The Active Protection System is No.
+The Mine Clearing is No.
+The NBC Protection is INA.
+The Smoke Equipment is INA.
+

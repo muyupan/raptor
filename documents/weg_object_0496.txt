@@ -1,0 +1,134 @@
+This document describes the SR-5 Chinese 220mm Multiple Rocket Launcher (MRL).
+
+The SR5 is a Guided Multiple Launch Rocket System (GMLRS) designed and manufactured in China by the Company NORINCO (China North Industries Corporation). It is a universal launching platform adopting such technologies as canister launching, automatic loading, and common-frame rocket launching. Featuring intensive and accurate firepower, a high level of automation, rapid reaction, and excellent maneuverability, the weapon can realize common-frame launching of 122mm and 220mm guided/unguided rockets to achieve a highly efficient combination of surface suppression and precision strikes. The SR-5 GMLRS was unveiled for the first time to the public with a scale model shown at the Eurosatory defense exhibition in June 2012. The vehicle is now in service in the Chinese army since 2013. Venezuela has ordered a total of 18 SR5 in 2012 and 6 vehicles were delivered in 2014 to Venezuelan Armed Forces.
+
+This equipment has proliferated into the following countries: China, Laos (People's Democratic Republic), Venezuela (Bolivarian Republic of).
+
+Here is System information for the SR-5 Chinese 220mm Multiple Rocket Launcher (MRL):
+The Alternative Designation is SR-5.
+The Type is Guided Multiple Launch Rocket System (GMLRS).
+The Manufacturer is NORINCO.
+The Family is INA.
+The Crew is 3.
+The Chassis is Similar to TA 5310 (6 × 6) cross-country chassis.
+The Displacement Time is 5.
+The Emplacement Time is 1.
+The Maximum Effective Range Rocket is 70.
+The Add on Parts is Yes.
+The Note is After the SR5 has fired the vehicle will normally redeploy to another position for rapid reloading and to avoid counter-battery fire..
+
+Here is Dimensions information for the SR-5 Chinese 220mm Multiple Rocket Launcher (MRL):
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight, Combat is 25,000.
+The Ground Pressure is INA.
+
+Here is Automotive information for the SR-5 Chinese 220mm Multiple Rocket Launcher (MRL):
+The Engine Name is Deutz Diesel.
+The Engine Type is Diesel.
+The Engine Power is 517.
+The Layout is 6x6.
+The Cruising Range is 600.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is INA.
+The Amphibious is INA.
+The Power Steering is Yes, Front Wheels.
+The Central Tire Pressure Regulation System is Yes.
+The Fording Depth is 1.2.
+The Gradient is 60.
+The Side Slope is 30.
+The Vertical Setp is 0.6.
+The Trench is 0.6.
+
+Here is TBR-142 information for the SR-5 Chinese 220mm Multiple Rocket Launcher (MRL) of the Communications:
+The VHF FM Transceiver is Yes, TBR-142(I).
+The VHF Range is 1 to 50.
+The Megahertz is 40.000 to 59.975.
+The Output Power is 1 to 0.3.
+The Power is 12V Ni-Ca Rechargeable Battery or external 12V DC power source.
+The Dimensions is 217x135x58.
+The Weight is 2.7.
+The Antennas is 3 Total: a 1.3m whip antenna, a 0.3m short antenna, and a 10m  wire antenna.
+The Proliferated is Widely with Artillery/Gun/Missile/Reconnaissance/C2 Units.
+The Control Device is TBR-142(II).
+The Multi-function Field Phone is TBR-142(IIID).
+The Anti-Aircraft Control Unit is TBR-142(IIIG).
+The ZXY88-200 C2 Capable is Yes.
+The Messaging is Limited Capability.
+The Amplifier is Available.
+The Physical Conditions Limitations is Terrain and Weather favorable.
+
+Here is System information for the SR-5 Chinese 220mm Multiple Rocket Launcher (MRL) of the Main Gun:
+The Name is SR5.
+The Type is 220 mm Self-Propelled Rocket Launcher.
+The Breech Type is INA.
+The Length, Barrel is INA.
+The Loader Type is INA.
+The Max Rate of Fire is INA.
+The Sustain Rate of Fire is Two pods can be loaded onto the launcher in 5 minutes.
+The Time the Max Rate of Fire can be Sustained is 10.
+The Muzzle Brake Type is INA.
+The Max Elevation is +60.
+The Min Elevation is 0.
+The Traverse Range is INA.
+The Traverse Left is 70.
+The Traverse Right is 70.
+The Turret Traverse is 140.
+The Range Finder Type is GPS/INS laser.
+The Turntable-Mounted Launching System is Yes.
+The Note is The launcher can be loaded with two pods of surface-to-surface rockets, either six 220mm or 20 122mm Rockets..
+
+Here is Ammunition (Option 1) information for the SR-5 Chinese 220mm Multiple Rocket Launcher (MRL) of the Main Gun:
+The Name is Fire Dragon (BRE7) 40.
+The Type is Hight Explosive Unguided Rockets.
+The Caliber is 122.
+The Guidance System is GPS/INS laser terminal guidance system.
+The Fuse Type is Radio Proximity Fuze.
+The Basic Load is 40 (2x20 Optional).
+The Effective Range is 30 to 50.
+The Armor Penetration is Yes.
+The Circular Error of Probability is 25 m at a minimum range of 20 km and maximum range of 40 km.
+The Length, Total is 3,040.
+The Launch Weight is 74.
+The Warhead Weight is 18.
+The Warhead Type is Steel Ball HE.
+The Leathal Warhead is 60.
+
+Here is Ammunition (Option 2) information for the SR-5 Chinese 220mm Multiple Rocket Launcher (MRL) of the Main Gun:
+The Name is King Dragon 60 (GR1).
+The Type is Laser Terminal Guided Rocket.
+The Caliber is 220.
+The Guidance System is GPS/INS laser terminal guidance system.
+The Muzzle Velocity is INA.
+The Basic Load is 12 (2 x 6 Optional).
+The Max Effective Range is 70.
+The Min Effective Range is 25.
+The Armor Penetration is Yes.
+The GPS Unit is Yes.
+The CEP (At ranges of up to 70 km) is 3.
+The Length, Total is 4,400.
+The Launch Weight is 300.
+
+Here is Fire Control information for the SR-5 Chinese 220mm Multiple Rocket Launcher (MRL):
+The Name is SR5.
+The Computerized FCS is Yes.
+The Thermal Sight Vehicle Commander is Yes.
+The Thermal Sight Gunner is Yes.
+The Main Gun Stabilization is Yes.
+The Range, Day Sight is INA.
+The Range, Thermal Sight is INA.
+The Displacement Time is 1.
+The Emplacement Time is 5.
+
+Here is Protection information for the SR-5 Chinese 220mm Multiple Rocket Launcher (MRL):
+The Hull Armor is INA.
+The Turret Armor is INA.
+The Applique Armor is INA.
+The Explosive Reactive Armor is No.
+The Active Protection System is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The IR Signature is Yes.
+

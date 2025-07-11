@@ -1,0 +1,120 @@
+This document describes the Jebat Class Malaysian Frigate.
+
+The Jebat Class is a Lekiu-class guided missile frigate currently serving in the Royal Malaysian Navy and one of the major naval assets for Malaysia. Jebat serves in the 23rd Frigate Squadron of the Royal Malaysian Navy.
+
+This equipment has proliferated into the following countries: Malaysia.
+
+Here is Variants information for the Jebat Class Malaysian Frigate:
+The JEBAT is Commissioned: 1999
+Status: Active.
+The LEKIU is Commissioned: 1999
+Status: Active.
+
+Here is System information for the Jebat Class Malaysian Frigate:
+The Alternative Designation is Jebat Class.
+The Type is Frigate.
+The Builder is Yarrow Shipbuilders, Scotstoun, Glasgow, Scotland, U.K..
+The Crew is 146 (19 off. + 127 enl.).
+
+Here is Dimensions information for the Jebat Class Malaysian Frigate:
+The Length is 105.50 m.
+The Beam is 12.75 m.
+The Draft is 3.80 m.
+The Displacement, Standard is 1,845 tons.
+The Displacement, Full Load is 2,390 tons.
+
+Here is Propulsion System information for the Jebat Class Malaysian Frigate:
+The Engine Name is 4 x MTU 20V 1163 TB93.
+The Engine Type is Diesel.
+The Engine Power is 33,200 total shp.
+The Fuel Capacity is INA.
+The Maximum Range is 5,000 nm at 14 knots.
+The Maximum Speed is 28.5 knots.
+
+Here is System information for the Jebat Class Malaysian Frigate of the Main Gun System:
+The Name is Bofors 57 mm l/L70 Naval Gun.
+The Type is Naval Gun.
+The Caliber is 57.
+The Quantity is 1 x Bofors 57 mm l/L70 Naval Gun.
+The Barrel Length is 3,990 mm.
+The Weight is 14,000 kg.
+The Barrels is Single barrel (progressive RH parabolic twist, 24 grooves).
+The Action is Electronic firing.
+The Elevation is −10°/+78°.
+The Traverse is Full 360°.
+The Rate of Fire is 200 rounds/min.
+The Muzzle Velocity is 1,035 m/s.
+The Maximum Firing Range is 17,000 m.
+The Effective Firing Range is 8,500 m.
+The Feed System is 40 ready rounds, 128 rounds in ready racks in mount.
+The Sights is Gyro-stabilized in local control..
+
+Here is Ammunition information for the Jebat Class Malaysian Frigate of the Main Gun System:
+The Type is Rifle.
+The Caliber is 57 mm.
+The Shell is INA.
+The Basic Load is INA.
+
+Here is System information for the Jebat Class Malaysian Frigate of the Auxiliary Weapon System:
+The Name is 2 × MSI DS30M.
+The Type is Naval Cannon.
+The Caliber is 30 mm.
+The Length is INA.
+The Barrel Length is 2.4 m.
+The Weight is INA.
+The Muzzle Velocity is 1,080 m/s.
+The Effective Firing Range is 5,100 m.
+
+Here is Ammunition information for the Jebat Class Malaysian Frigate of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 30 mm.
+The Shell is 30×173mm.
+The Basic Load is INA.
+
+Here is Missile System information for the Jebat Class Malaysian Frigate:
+The Launcher is 2 x quad MM40 Exocet Block II SSM launchers.
+The Missile Name is SM 39 Exocet.
+The Type is Anti-Ship Missile.
+The Length is 5.80 m.
+The Diameter is 348 mm.
+The Wingspan is 1.14 m.
+The Engine is 2 x SNPE double-base Nitramite smokeless solid-propellant rockets; 
+1 x Epervier booster with 2.4 sec burn;
+1 x Eole V sustainer with 200-220 sec burn.
+The Warhead is Hexolite blast fragmentation.
+The Maximum Speed is Mach 0.93.
+The Maximum Range is 50 km.
+The Minimum Range is 4 km.
+The Peak Altitude is 50 m.
+The Basic Load is INA.
+
+Here is Launcher information for the Jebat Class Malaysian Frigate of the Torpedo System:
+The Launching Tubes is 2 x triple 324-mm WASS B-515/3 ASW tubes.
+
+Here is Torpedos information for the Jebat Class Malaysian Frigate of the Torpedo System:
+The Name is Whitehead A-244S torpedoes.
+The Basic Load is INA.
+
+Here is Fire Control Systems information for the Jebat Class Malaysian Frigate:
+The FCS Name is 2 x GEC-Marconi Type 1802 Sea Wolf fire control.
+The Computerized FCS is Yes.
+The Battle Management System is No.
+
+Here is Aircraft Facilities information for the Jebat Class Malaysian Frigate:
+The Helicopter is 1 x AS-355MN helicopter.
+
+Here is Radar Systems information for the Jebat Class Malaysian Frigate:
+The Navigation Radar is 1 x Racal-Decca navigation.
+The Air and Surface Radar is 1 x Ericsson Sea Giraffe 150HC air/surface search.
+The Air Search Radar is 1 x Thales DA-08 air search.
+
+Here is Sonar information for the Jebat Class Malaysian Frigate:
+The Name is 1 x Thales Spherion Sonar.
+The Type is Hull Mounted.
+
+Here is Protection information for the Jebat Class Malaysian Frigate:
+The Countermeasures is 2 x 12-round Wallop Super Barricade decoy rocket launchers.
+The NBC Water Washdown System is Yes.
+The EW Jammer is 1 x Thorn-EMI Scimitar jammer.
+The Torpedo Decoy System is 1 x Graseby Sea Siren torpedo decoy system.
+

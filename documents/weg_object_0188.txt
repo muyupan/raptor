@@ -1,0 +1,36 @@
+This document describes the 1L119 Nebo-SVU Russian Early Warning / Target Acquisition Anti-Stealth Radar.
+
+The Nebo-SVU is part of the Nebo family of Very High Frequency (VHF) 2D and 3D mobile surveillance radars which also includes the 55G6-1 Nebo 3D radar and 1L13-3 Nebo-SV 2D radar both deployed in the 1990s. The Nebo-SVU phased array radar is designed to automatically detect, determine the coordinates and track airborne targets such as rotary- and fixed-wing aircraft, ballistic missiles, stealth aircraft, unmanned aerial vehicles, and hypersonic cruise missiles. Besides, the radar system also provides Identification of Friend or Foe (IFF) and detection of active electronic countermeasures (ECM) capabilities. Advanced digital signal techniques allow for suppressing natural clutter and active jammers. The Nebo-SVU is capable of relying on target information and air surveillance data for air defense systems and command centers. It entered service with the Russian Air Force in 2004 and has been exported at least to one undisclosed customer.
+
+The Nebo-SVU radar comprises antennas and electronic equipment, mounted on a semi-trailer; and the autonomous electric power plant, based on the ED-2x30-T400-1RA1M4 diesel-engine power plant, carried by the Kamaz truck. The radar system can operate in various climates with temperatures ranging from +50 Celsius to -50 Celsius, and air humidity of 98%. It can detect a fighter aircraft with a radar cross-section (RCS) of 2.5 square meters at 50 kilometers flying at 500 meters of altitude, at 250 kilometers flying at 10,000 meters, or at 350 kilometers flying at 20,000 meters. It can detect ballistic targets at altitudes of up to 180 kilometers. Overall, the Nebo-SVU radar can track in excess of 100 airborne targets simultaneously.
+
+This equipment has proliferated into the following countries: Iran (Islamic Republic of), Russian Federation.
+
+Here is System information for the 1L119 Nebo-SVU Russian Early Warning / Target Acquisition Anti-Stealth Radar:
+The Alternate Designation is 1L119 Nebo-SVU.
+The Type is Early Warning / Target Acquisition Anti-Stealth Radar.
+The Manufacturer is Nizhny Novgorod Research Institute of Radio Engineering (Russian acronym: NNIIRT).
+The Mission is Detecting and tracking Very Low Observable (VLO) and Low Observable (LO) aircraft designs.
+The Characteristics is Solid state phased array with electronic beam-steering in azimuth and elevation, it is considerably more accurate than its predecessor, it has much better mobility, and incorporates a wide range of improvements. It retains the VHF element design, but uses vertical polarization..
+The Band is VHF.
+The Power Consumption is 30.
+The Crew is 4.
+The Vehicles is 2.
+The Deployment Time is 20.
+The Detection Range is 500.
+The Tracking Range is 200.
+The Tracking accuracy is 0.5 degrees in azimuth, and 1.5 in elevation, making it suitable as an acquisition radar for the S-300PMU1/2 and S-400 systems.
+The Detection range for aircraft and ballistic targets with RCS of 1 m2, km: is At 0.5 km altitude, km 65.
+At 10 km altitude, km 270.
+At 20 km altitude, km 380..
+The Measurement Accuracy: is Range, 200m.
+Azimuth, 30 arc minimum.
+Elevation angle, 1.5 (within 3 to 45 deg elevation angle range)..
+The Maximum number of tracks is 100.
+The Mean Time Between Failure is 500.
+
+Here is Dimensions information for the 1L119 Nebo-SVU Russian Early Warning / Target Acquisition Anti-Stealth Radar:
+The Height of Radar is 6.0.
+The Length of Radar is 60.
+The Weight is INA.
+

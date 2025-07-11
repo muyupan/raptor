@@ -1,0 +1,38 @@
+This document describes the Kh-38 (Kh-38M) Russian Air-to-Surface Missile.
+
+The Kh-38/Kh-38M (Russian: Х-38) is a family of air-to-surface missiles meant to succeed the Kh-25 family of missiles. The basic configuration of the Kh-38M was revealed at the 2007 Moscow Air Show (MAKS). The modular guided air-to-surface missile is meant to succeed the venerable Kh-25 missile family. The missile is designed to be carried by the fifth-generation Sukhoi Su-57 fighter aircraft. The first prototypes of the missile had initially folding wings and tail fins for internal carriage, and would have a variety of seeker heads for different variants. In a successive version, unveiled at MAKS 2017, both control surfaces were replaced by longer and narrower fixed ones, a solution similar to the one used in the Selenia Aspide missile.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Kh-38 (Kh-38M) Russian Air-to-Surface Missile:
+The Kh-38MAE is inertial, active radar homing.
+The Kh-38MKE is inertial, satellite guidance.
+The Kh-38MLE is inertial, laser guidance.
+The Kh-38MTE is inertial, infrared guidance.
+The Kh-36 Grom-1 is AS-23 tactical cruise missile derivative/ AGM Air to Surface with 120km range.
+The Kh-36P Grom-2 is AS-23B / KAB- guided bomb gliding 50-km range version 600 kg, various aim guidance, both created on the base of Kh-38M short-range tactical missile and also have a modular structure, warheads and seekers. First seen at MAKS 2015, intended to equip all types of fighters, including the MiG-35 and Su-57 fighters..
+The Kh-38M2 is improvement of Kh-38M, optoelectronic IR UV (CCD also ?) sensors.
+
+Here is System information for the Kh-38 (Kh-38M) Russian Air-to-Surface Missile:
+The  is .
+The  is .
+The  is .
+
+Here is Missile information for the Kh-38 (Kh-38M) Russian Air-to-Surface Missile of the Kh-38/Kh-38M Missile:
+The Name is Kh-38/Kh-38M Missile.
+The Type is Air-to-Surface Missile.
+The Manufacturer is Tactical Missiles Corporation JSC.
+The Length is 4.2 m.
+The Diameter is 0.31 m.
+The Wingspan is 1.14 m.
+The Weight is 520 kg.
+The Warhead is HE fragmentation, cluster warhead, armor-piercing.
+The Warhead Weight is up to 250 kg.
+The Detonation Mechanism is Contact fuse.
+The Engine is Solid rocket motor.
+The Operational Range is up to 70 km.
+The Flight Ceiling is 12000 m.
+The Flight Altitude is 200-12000 m.
+The Speed is Mach 2.2.
+The Guidance System is Laser, active radar, IR, satellite, depending on variant.
+

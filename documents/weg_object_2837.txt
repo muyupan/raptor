@@ -1,0 +1,31 @@
+This document describes the UM600 Norwegian Vehicle-Mounted UHF IP Broadband Radio.
+
+The UM600 high capacity UHF radio supports tactical operations in mobile platforms. High data throughput is ensures with a transmission range suited for vehicles at the tactical edge of an operation.
+UM600 has full router functionality including multi-hop features ensuring that data is reaching its destination correct and timely.
+
+UM600 can support up to 2.5 Mbit/s. For harsh operational environment the radio is optimized at a data rate of 900 kbit/s. UM600 can be configured to operate in a mixed TDMA mode supporting a number of voice channels as well as guaranteed access for time critical data. This mode is the optimum choice for handling all communication needs within e.g. an 8x8 Company.
+
+This equipment has proliferated into the following countries: Norway.
+
+Here is System information for the UM600 Norwegian Vehicle-Mounted UHF IP Broadband Radio:
+The Type is UHF IP Broadband Radio.
+The Mount is Vehicle.
+The Height is 40.
+The Width is 245.
+The Depth is 138.
+The Weight is 1.55.
+The Input Voltage is 9-32 VDC through PMU.
+The Power Consumption is 35.
+The Frequency Range is 225-400 MHz.
+The RF Bandwidth is up to 5 MHz.
+The Output power is up to 5 W.
+The Military ODU connectors is Yes.
+The Operating temperature is -35oC to +55oC.
+The Environment is MIL-STD 810.
+The EMC is MIL-STD 461.
+The Dual audio channel is Yes.
+The Ad-Hoc is Ad-hoc, fully automatic multi-hop capabilities (MANET).
+The Encryption is mbedded AES256 encryption, no need for external encryption.
+The Software is Through Software Defined Radio (SDR) the waveform can be optimized to fit the application.
+The Note is Fully integrated with Kongsberg CMS management system.
+

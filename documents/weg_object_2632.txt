@@ -1,0 +1,133 @@
+This document describes the LAV III Kodiak Canadian Armored Personnel Carrier (APC).
+
+The LAV III, originally named the Kodiak by the Canadian Army, is the third generation of the Light Armoured Vehicle (LAV) family of infantry fighting vehicles built by General Dynamics Land Systems – Canada (GDLS-C), a London, Ontario, based subsidiary of General Dynamics that first entered service in 1999. It was developed in Canada from the LAV II family and is the primary mechanized infantry vehicle of both the Canadian Army and the New Zealand Army. It also forms the basis of the Stryker vehicle used by the US Army and other operators.
+
+This equipment has proliferated into the following countries: Canada, Colombia, New Zealand, Saudi Arabia, Thailand.
+
+Here is Variants information for the LAV III Kodiak Canadian Armored Personnel Carrier (APC):
+The TOW Under Armour (TUA) is Standard LAV III turret replaced with TOW Under Armour launcher for anti-tank purposes.
+The Infantry Section Carrier (ISC) is Surplus LAV TUA hulls fitted with a Nanuk Remotely Controlled Weapon Station..
+The Observation Post Vehicle (OPV) is Standard LAV III equipped for use by forward observation officer (FOO)..
+The Command Post Vehicle (CPV) is Standard LAV III equipped for command post duties..
+The Engineer LAV (ELAV) is LAV III equipped with a dozer blade and other engineering equipment..
+The Infantry Mobility Vehicle (IMV) is Standard NZLAV vehicle used in cavalry, reconnaissance, and forward observer roles..
+The Light Obstacle Blade (LOB) is An NZLAV IMV fitted with a small blade for minor earth works and clearing of obstacles..
+The Recovery (LAV-R) is NZLAV vehicle fitted with a TR200 winch and earth anchor for recovery operations..
+The Multi-Mission Effects Vehicle (MMEV) is The project was canceled in 2005.
+The LAV UP is or LAV 6.0 is an upgraded version of the LAV III. Since 2011 Canadian Army signed contracts to upgrade 616 of its LAV III vehicles to the new standard. Deliveries reportedly commenced in 2015 and are planned to be completed in 2017. Upgraded vehicles have a double V-shaped hull for improved protection against landmines and improvised explosive devices. Upgraded vehicle has a more powerful engine, developing 450 hp. Other improvements include new turret sights and improved fire control system. It is planned that upgraded Canadian vehicles will remain operational until 2035. The LAV 6.0 is also being proposed for various export customers. Saudi Arabia ordered a large number of these armored vehicles..
+
+Here is System information for the LAV III Kodiak Canadian Armored Personnel Carrier (APC):
+The Alternative Designation is LAV III Kodiak.
+The Type is Armored Personnel Carrier (APC).
+The Manufacturer is General Dynamics Land Systems – Canada (GDLS-C).
+The Family is LAV III Series.
+The Configuration is 8x8.
+The Crew is 3.
+The Passenger Capacity is 8.
+
+Here is Dimensions information for the LAV III Kodiak Canadian Armored Personnel Carrier (APC):
+The Length is 6.98 m.
+The Width is 2.83 m.
+The Height is 1.955 m.
+The Weight, Standard is 18,373 kg.
+The Weight, Combat is 20,459 kg.
+The Ground Clearance is 0.595 m.
+
+Here is Automotive information for the LAV III Kodiak Canadian Armored Personnel Carrier (APC):
+The Engine Name is Caterpillar 3126B.
+The Engine Type is Diesel.
+The Engine Power is 350.
+The Power-to-Weight Ratio is 17.1 hp/t.
+The Fuel Capacity is 300 liters.
+The Electrical System is 24 V.
+The Suspension is independent hydropneumatic with height control.
+The Tires is 12.00 × 20.
+The Brakes is power brakes.
+The Range is 500 km.
+The Speed, Maximum Road is 99.77 km/h.
+The Speed Maximum Swim is Not Amphibious.
+
+Here is System information for the LAV III Kodiak Canadian Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is 1 × turret-mounted 25mm M242 Chain-Driven Autocannon.
+The Type is Chain-Driven Autocannon.
+The Caliber is 25 mm.
+The Length is 2,672 mm.
+The Barrel Length is 2,175 mm.
+The Width is 318 mm.
+The Height is 373 mm.
+The Weight is 119 kg.
+The Barrels is Single barrel (progressive RH parabolic twist).
+The Action is Open bolt.
+The Rate of Fire is Cyclic: 200rpm with 1hp or 500rpm with 8hp.
+The Muzzle Velocity is 1,100 m/s.
+The Maximum Firing Range is 6,800 m.
+The Effective Firing Range is 3,000 m.
+The Sights is The LAV III is equipped with a daytime optical Thermal Imaging System (TIS) and Generation III Image Intensification (II). The LAV III is equipped with a Tactical Navigation System (TacNav) to assist in navigation and target location tasks. The LAV III is equipped with an LCD monitor directly connected to the vehicle's external cameras, providing real-time images of the battlefield for the passengers..
+
+Here is Ammunition information for the LAV III Kodiak Canadian Armored Personnel Carrier (APC) of the Main Weapon System:
+The Type is Rifle.
+The Caliber is 25 mm.
+The Shell is 25×137 mm.
+The Basic Load is 420 Rounds.
+
+Here is System information for the LAV III Kodiak Canadian Armored Personnel Carrier (APC) of the Coaxial Weapon System:
+The Name is 1 × coaxial-mounted 7.62 mm 	
+C6A1 FLEX machine gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62 mm.
+The Manufacturer is INA.
+The Length is 1,260 mm.
+The Barrel Length is 630 mm.
+The Weight, Unloaded is 11.8 kg.
+The Action is Gas-operated long-stroke piston, open bolt.
+The Cyclic Rate of Fire is 750–1,100 rds/min.
+The Maximum Firing Range is 3, 725 m.
+The Effective Firing Range is 1,800 m.
+The Feed System is M13 linked belt.
+The Sights, is Folding leaf sight with aperture and notch, front blade.
+The Note is The C6A1 FLEX is the Canadian manufactured upgrade of the C6 GPMG. It is manufactured under license specifically for the Canadian Armed Forces, and primarily features upgrades to the furniture of the weapon. The weapon was first delivered in 2018..
+
+Here is Ammunition information for the LAV III Kodiak Canadian Armored Personnel Carrier (APC) of the Coaxial Weapon System:
+The Type is Rifle.
+The Caliber is 7.62 mm.
+The Cartridge is 7.62 × 51 mm NATO.
+The Basic Load is 1,740 Rounds.
+
+Here is System information for the LAV III Kodiak Canadian Armored Personnel Carrier (APC) of the Auxiliary Weapon System:
+The Name is 1 × roof-mounted 5.56 mm C9A2 machine gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 5.56 mm.
+The Manufacturer is FN Manufacturing LLC.
+The Length is Long barrel: 1,016 mm; 
+Short Barrel: 916 mm (36 in).
+The Barrel Length is Long barrel: 523 mm; Short barrel:
+424 mm (16.69 in).
+The Width is 143 mm (buttstock and bipod folded).
+The Height is 270 mm.
+The Weight is Long barrel: 7.49 kg; Short barrel:
+7.35 kg.
+The Action is Gas, long-stroke piston.
+The Mode of Fire is Fully-automatic only.
+The Cyclic Rate of Fire is Long barrel: 650-800 rds/min; Short barrel.
+The Maximum Firing Range is 1,000 m.
+The Effective Firing Range is 500 m.
+The Feed System is Dual feed. The C9A2 will accept either a disintegrating link belt, or a STANAG box magazine feed.
+STANAG box magazin.
+The Sights is Rear aperture, front post.
+
+Here is Ammunition information for the LAV III Kodiak Canadian Armored Personnel Carrier (APC) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 5.56 mm.
+The Cartridge is 5.56 × 45 mm NATO.
+The Basic Load is 3,300 Rounds.
+
+Here is Protection information for the LAV III Kodiak Canadian Armored Personnel Carrier (APC):
+The Hull Armor is The Kodiak has improved armor protection, comparing with previous Swiss MOWAG Piranhas. Basic armor provides all-round protection against 7.62 mm rounds..
+The Turret Armor is Basic armor provides all-round protection against 7.62 mm rounds..
+The Applique Armor is A ceramic add-on armor can be installed for a higher level of protection. It protects against 14.5 mm machine guns fire. Some sources claim, that front armor of the Kodiak with add-on armor plates can withstand hits from 30 mm cannons. It makes the LAV III one of the most protected armored personnel carrier in the world. This armored vehicle can be also fitted with a cage armor, which provides protection against anti-tank rockets..
+The Explosive Reactive Armor is No.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is 8 × turret-mounted 76 mm smoke-grenade launcher (2 × 4).
+

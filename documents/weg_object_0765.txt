@@ -1,0 +1,37 @@
+This document describes the PD-1 Ukrainian Unmanned Aerial Vehicle (UAV).
+
+The PD-1 Ukrainian Unmanned Aerial Vehicle (UAV) is a ready-to-fly versatile modular solution with a 5000 m service ceiling, 10 hours average endurance, and up to 19 kg maximum payload weight designed for the execution of various missions in a wide geographic range.
+
+This equipment has proliferated into the following countries: Ukraine.
+
+Here is System information for the PD-1 Ukrainian Unmanned Aerial Vehicle (UAV):
+The Alternate Designation is PD-1.
+The Type is Unmanned Aerial Vehicle (UAV).
+The Manufacturer is Ukrspec.
+The Autonomy is Semi-Autonomous.
+The Crew is Unmanned.
+The Payload Capacity is 10 kg.
+The Flight Route is Programmable.
+The Auto-Returning is In case of GNSS or control signals loss.
+The Communications is Encrypted real-time Full HD video
+100 km and Encrypted datalink
+100 km.
+The Launching System is Automatic.
+The Recovery System is Automatic.
+
+Here is Dimensions information for the PD-1 Ukrainian Unmanned Aerial Vehicle (UAV):
+The Length is INA.
+The Wingspan is 4.0 m.
+The Height is INA.
+The Maximum Takeoff Weight is 40 kg.
+
+Here is Automotive information for the PD-1 Ukrainian Unmanned Aerial Vehicle (UAV):
+The Engine Name is INA.
+The Engine Type is INA.
+The Engine Power is INA.
+The Fuel Tank is 12 liters.
+The Maximum Speed is INA.
+The Service Ceiling is 3,000 m.
+The Maximum Distance is 100 km.
+The Endurance is 7+ hours (with 6 kg payload and 12 l of fuel).
+

@@ -1,0 +1,129 @@
+This document describes the 9K330 Tor (SA-15 Gauntlet) Russian Short-Range Surface-to-Air Missile System.
+
+9K330 Tor (SA-15 Gauntlet) Russian Short-Range Surface-to-Air Missile System is a late Cold War-era self-propelled SAM system of Soviet origin. It was developed from 1975 to 1985 by Antei as a replacement for the older 9K33 Osa (SA-8 Gecko). The Tor is also well known under its NATO reporting name SA-15 Gauntlet. Since its introduction, it is regarded as the most capable short-range self-propelled SAM system and continuous upgrades The Tor is one of the few short-range SAM systems with high effectiveness against cruise missiles and precision-guided munitions. Most Tor systems are based on the GM-355 tracked chassis that allows it to keep up with tanks and other armored vehicles through any terrain. A towed version is available which has the advantage of reduced costs. The latest systems are also available on a large MZKT-6922 6x6 truck chassis that is cheaper, offers more internal space, has even better mobility on roads, and still provides protection to the crew. None of the Tor systems are amphibious. The Tor is based on a tracked chassis that protects the crew from small arms fire. The three crew members are seated in the front, an unmanned turret is installed in the middle and the engine and drivetrain are located at the rear. Two boxes with four missiles are installed vertically in the middle of the turret and extend into the hull of the vehicle. The tracking radar is installed at the front of the turret and the optical system is fitted next to it. The search radar is fitted at the rear and is lowered behind the turret when not in use. The search radar rotates when in use and can be used on the move. The medium-sized missiles use radio command guidance and are fitted with folding fins. Upon launch the vehicle comes to a halt, the missile is propelled upwards by a gas charge, is rotated in the correct direction, and then the rocket ignites. The primary means of engaging targets is by radar guidance. Each Tor system is fitted with a 25 km 360-degree search radar and 15 km 60-degree tracking radar. The Tor has a good ECM resistance but can also engage targets by TV tracking. The TV tracking system has a maximum range of 20 km and is fitted with a laser range finder. The naval version uses a similar two-radar setup but has a more powerful search radar.
+
+This equipment has proliferated into the following countries: Algeria, Armenia, Azerbaijan, Belarus, China, Cyprus, Egypt, Greece, Iran (Islamic Republic of), Morocco, Myanmar, Peru, Russian Federation, Syria, Turkmenistan, Ukraine, Venezuela (Bolivarian Republic of).
+
+Here is Variants information for the 9K330 Tor (SA-15 Gauntlet) Russian Short-Range Surface-to-Air Missile System:
+The 9K330 Tor is The project was given strict design specifications to meet; Tor had to provide extended detection and tracking of fast, low radar cross-section targets and be capable of quickly and efficiently dealing with massed air raids while providing a high degree of automation and integration with other air defense assets. In order to meet these demanding specifications, the designers used a variety of new technologies, including advanced Passive electronically scanned array radar for improved detection and tracking performance, enhanced digital information processing, and vertically launched missiles to improve reaction time and increase the number of readily available munitions. After a period of testing and evaluation between December 1983 and December 1984, the land-based system was accepted into service on 19 March 1986..
+The 9K331 Tor-M1 is The Tor-M1 is the base variant of the Tor family; it superseded the standard Tor from 1991 and has been widely exported. It is designed to provide point defense and short-range air defense (SHORAD) for ground-based assets from rotary- and fixed-wing assets as well as precision-guided munitions. The combat vehicle itself is designated 9A331..
+The Tor-M1TA is The Tor-M1TA is a paved road-mobile system that mates the launch unit of a Tor-M1 with a truck chassis to provide a more economical version of the Tor-M1 that can be moved with greater ease than the larger tracked systems..
+The 9K331M Tor-M2 is The Tor-M2 is a modernized version of the Tor-M1; it is designed to increase the engagement capabilities of the system against complex targets such as unmanned aerial vehicles (UAVs) and cruise missiles, especially in a swarm environment..
+The 9K331M2U Tor-M1-2U is The Tor-M1-2U is a precursor to the Tor-M2; it is thought to have introduced as an interim before the Tor-M2 with its improved missiles was introduced..
+The 9K331M2K Tor-M2K is The Tor-M2K is an export version of the Tor-M2 based on a wheeled chassis..
+The 9K331MDT Tor-M2DT is The Tor-M2DT is designed to provide extreme mobility in the most adverse environments such as the Arctic..
+The 9S737M Ranzhir-M is The Ranzhir-M is the battery level command and control vehicle for Tor-M1 and M2 systems..
+
+Here is System information for the 9K330 Tor (SA-15 Gauntlet) Russian Short-Range Surface-to-Air Missile System:
+The Alternative Designation is 9K330 Tor; NATO: SA-15 Gauntlet.
+The Type is Low to medium altitude, short-range surface-to-air missile.
+The Manufacturer is IEMZ Kupol
+Metrowagonmash (GM chassis designer),
+MZKT (wheeled chassis designer).
+The Family is 9K330 Series.
+The In Service is 1986-Present.
+The Chassis is GM-355 special tracked chassis.
+The Crew is 3.
+The Operating Unit Structure is The 9K330 Tor is a multiplatform ‘system of systems' (referred to as a ‘complex' in Russian), using a range of launchers, sensors, and supporting assets to operate. It should be noted that in the Russian armed forces, air defense systems are typically deployed in a дивизион (transliterated: ‘divizion' (approximately a battalion set)) or a полк (transliterated: ‘polk' (a regiment)) unit size, with the latter sometimes also referred to as a полковой комплект (transliterated: ‘polkovoj komplekt') in Russian.
+
+Tor can be operated as either a battalion set or as a regimental set, depending on which type of formation the Tor formation is subordinate to. A brigade would typically be provided with a battalion set, while a division would typically be provided with a regimental set. For the purposes of understanding the quantities of each involved, in the case of Tor, a ‘divizion' (battalion set) is composed of three batteries, while a regimental set consists of four batteries. It should however be noted in the case of the Tor specifically, that this system does not appear to have been commonly operated as a battalion set, but more frequently as a regimental set. This marks a difference between the Tor and later variants of the Tor family (from Tor-M2E/Tor-M2K export variants or Tor-M1-2U domestic variants onwards), which seem to be more frequently operated as either battalion or regimental sets..
+The Displacement Time is Less than 5 min.
+The Emplacement Time is Less than 3 min.
+The Fire on the Move is No.
+The Reloading Vehicle is Reloading vehicle is based on Ural-4320 6x6 heavy truck.
+The Fully Reload Time is 18 Minutes.
+The Note is This system can engage a variety of modern air targets as well as engage between 2-4 targets simultaneous depending on model (M1 vs. M2). It is used against aircraft, helicopters, UAVs, various missiles and precision guided munitions. It destroys targets that long- and medium-range air defense systems fail to hit..
+
+Here is Dimensions information for the 9K330 Tor (SA-15 Gauntlet) Russian Short-Range Surface-to-Air Missile System:
+The Length is 8.0.
+The Width is 3.2.
+The Height, Combat Configuration is 4.0.
+The Weight, Combat is 32.
+The Ground Pressure is INA.
+
+Here is Automotive information for the 9K330 Tor (SA-15 Gauntlet) Russian Short-Range Surface-to-Air Missile System:
+The Engine Name is V-46-2S1.
+The Engine Type is Diesel.
+The Engine Power is 780.
+The Cruising Range is 580.
+The Speed, Maximum Road is 65.
+The Speed, Average Cross is INA.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60 %.
+The Side Slope is 30 %.
+The Vertical Step is 1.0.
+The Trench is 2.0.
+The Fording Depth is 1.0.
+The Hydropneumatic Suspension is Yes.
+The Adjustable Ground Clearance is Yes.
+
+Here is Communications information for the 9K330 Tor (SA-15 Gauntlet) Russian Short-Range Surface-to-Air Missile System:
+The HF Radio is 1 x R-176 Antey.
+The VHF Radio is 1 x Azart-P (4km), 1 x Azart-N (12km), and 1 x Azart-BM (40km).
+
+Here is Missile Launcher information for the 9K330 Tor (SA-15 Gauntlet) Russian Short-Range Surface-to-Air Missile System of the Main Weapon System:
+The Name is 9A331 Combat Vehicle.
+The Type is Vertical Launch.
+
+Here is Missile information for the 9K330 Tor (SA-15 Gauntlet) Russian Short-Range Surface-to-Air Missile System of the Main Weapon System:
+The Name is 8x 9M330 Surface-to-Air Missile (SAM).
+The Type is Surface-to-Air Missile (SAM).
+The Length is 2.89.
+The Diameter is 0.23.
+The Wingspan is 650.
+The Weight is 165.
+The Engine is thruster jets with 2-stage solid-fuel rockets.
+The Warhead Type is HE-FRAG.
+The Warhead Weight is 14.8.
+The Maximum Range is 12.0.
+The Minimum Range is 1.5.
+The Maximum Altitude is 6.
+The Minimum Altitude is 10.
+The Guidance System is Radio Command Guidance System.
+The Kill Probability against Helicopters is 50-88%.
+The Kill Probability against Aircraft is 26-75%.
+The Kill Probability against UAVs is 85-95%.
+The Maximum Speed is Mach 3.
+The Maximum Target Speed is 3,060.
+The Load Limit is 30 Gs.
+The Fuze Type is RF proximity.
+The Detonation Mechanism is RF Proximity.
+The Propellant is Solid-fuel rocket.
+The Boost time is Cold launch ejection for 20 m.
+The Steering system is Gas dynamic control system, with four control surfaces.
+The Basic Load is 8x 9M330 Surface-to-Air Missile (SAM).
+The Note is The higher the target the higher the probability to hit the target..
+
+Here is Fire Control System information for the 9K330 Tor (SA-15 Gauntlet) Russian Short-Range Surface-to-Air Missile System of the Fire Control:
+The Name is INA.
+The Computerized FCS is Yes.
+The Fire Control Radar is J/K-band.
+The Fire Control Sensors is Yes.
+The IADS Integration is INA.
+The Reaction Time (Target Detection to Launch) is 8-12 seconds.
+
+Here is Target Detection Radar information for the 9K330 Tor (SA-15 Gauntlet) Russian Short-Range Surface-to-Air Missile System of the Fire Control:
+The Name is Scrum Half.
+The Type is 3D Pulse Doppler.
+The Maximum Detection Range against Aircraft is 25-27 km.
+The Maximum Detection Range against Helicopters is 12 km.
+The Maximum Detection Range against UAVs is 9-15 km.
+The Search for Targets on the Move is Yes.
+The Detect and Intercept Anti-Radiation Missiles is Yes.
+The Coverage is up to 48 targets.
+The Surveillance Band is G/H-band.
+The Minimum Detection Altitude is 100.
+
+Here is Protection information for the 9K330 Tor (SA-15 Gauntlet) Russian Short-Range Surface-to-Air Missile System:
+The Hull Armor is All-welded steel.
+The Turret Armor is All-welded steel.
+The Applique Armor is No.
+The Explosive Reactive Armor is No.
+The Active Protection System is INA.
+The Mine Clearing is No.
+The Self-Entrenching Blade is No.
+The NBC Protection is Yes.
+The Smoke Equipment is INA.
+The Air-Transportable is Yes.
+The IFF is Yes.
+

@@ -1,0 +1,119 @@
+This document describes the FV103 Spartan British Amphibious Armored Personnel Carrier (APC).
+
+FV103 Spartan is a tracked armored personnel carrier of the British Army. It was developed as the APC variant of the Combat Vehicle Reconnaissance (Tracked) family. The vehicle can carry up to seven personnel, including three crew members. Armed with a single machine gun, it is almost indistinguishable from the FV102 Striker in external appearance. Rather than a general personnel carrier for infantry, the Spartan has been used for moving specialist teams, such as anti-aircraft missile teams. An anti-tank variant of the Spartan has been produced, named FV120 Spartan MCT; this is armed with MILAN anti-tank missiles. Nearly 500 Spartans have served with the British armed forces since entering service in 1978; they are now being replaced by newer vehicles.
+
+The FV103 Spartan was developed during the 1970s as the Armoured Personnel Carrier (APC) version of the British Army's Combat Vehicle Reconnaissance (Tracked) (CVR(T)) family of armored fighting vehicles, designed by Alvis plc. The vehicle entered service with the British military in 1978. The Spartan is similar in appearance to the FV102 Striker, except for the missile launcher on the Striker.
+
+The Spartan was powered by a 4.2 xk jaguar petrol engine. The vehicle is 5.16 meters (16.9 ft) in length and 2.48 meters (8 ft 2 in) in width. With a ground clearance of 0.33 meters (1 ft 1 in), it has a height of 2.63 meters (8 ft 8 in). As the APC variant of the CVR(T) family, the FV103 has been used by small specialized groups such as mortar fire controller teams, anti-aircraft teams, and also reconnaissance teams. The vehicle can carry seven personnel, in a combination of three crew members and four passengers or two crew members and five passengers.[6] It is armed with one 7.62 mm L37A1 machine gun and can have four smoke dischargers on each side. In addition to the APC role, it has also been used as a resupply vehicle for the FV102 Striker, carrying extra Swingfire missiles. The FV103 has a combat weight of 10,670 kilograms (23,520 lb). It can achieve a maximum speed of 96 kilometers per hour (60 mph) and has a range of 510 kilometers (320 mi). It is capable of negotiating up to 60% of gradients
+
+This equipment has proliferated into the following countries: Botswana, Iraq, Jordan, Latvia, Nigeria, Oman, United Kingdom of Great Britain and Northern Ireland.
+
+Here is Variants information for the FV103 Spartan British Amphibious Armored Personnel Carrier (APC):
+The Scorpion (FV101) is Original variant with 3-man crew.
+The Spartan (FV103) is Artillery & engineer vehicle with 3-man crew & 4 dismountable troops; 80 k/hr; 483 km range; 1 7.62-mm MG.
+The Striker (FV102) is AT vehicle with 5 Swingfire CLOS ATGMS (5 reloads) & 1 7.62-mm L37A1 MG.
+The Scorpion 90 is 3-man crew; 73 k/hr; Cockerill Mk IIIK 90-mm gun & 1 7.62-mm MG.
+The Samaritan (FV104) is Ambulance for 4 litter patients, 5 seated patients, or 2 litter/3 seated patients; 2-man crew; 483 km range.
+The Sultan (FV105) is Command vehicle with at least 2 radios; total 5-6 personnel; 483 km range.
+The Samson (FV106) is 483 km range, ARV with internal main winch, tow bars, & tow cables.
+The Scimitar (FV107) is Scorpion with 1 30-mm Rarden L21 rifled gun (165 rounds) & 1 7.62-mm coax MG; 80 k/hr; 644 km range;.
+The Scorpion 2 is Description of late production Scorpions with Perkins engine & other upgrades with 2-man turret with 30-mm, 76-mm, or 90-mm main armament options.
+The Saber is Reconditioned recon vehicle with 30-mm Rarden cannon & Hughes 7.62-mm coaxial chain gun.
+The Scorpion (Jordan) is Upgraded original Scorpion with Perkins engine & other upgrades.
+The Spartan with MILAN ATGM is 2-round turret must be reloaded from outside the vehicle (11 reloads).
+The Scorpion 90 (Venzeula) is Scorpion 90 with Belgain CMI Defence 90-mm Mk II gun & Perkins engine.
+The Sturgeon is OPFOR vehicle used in Suffield, Canada based on the Spartan.
+The Salamander is OPFOR vehicle used in Suffield, Canada based on the 76-mm Scorpion.
+The Scorpion (Malaysia) is Scorpion 90 with 76-mm AGL & Perkins engine.
+The Omani Scorpion is Increased protection package & some received a Cummins diesel engine.
+The Scorpion vehicle-mounted automatic mortar FCS is Fires Denel’s 60-mm or BAE Systems’ 81-mm L16 mortars.
+The CVR(T) Life-Extension Program (LEP) is LEP with diesel engine, better optics & communication.
+
+Here is System information for the FV103 Spartan British Amphibious Armored Personnel Carrier (APC):
+The Alternative Designations is FV103 Spartan.
+The Type is Armored Personnel Carrier (APC).
+The Manufacturer is Alvis Vehicles, Coventry, England.
+The Family is CVR(T), family.
+The In Service is 1978-1985 (Great Britain)
+1978-Present (see proliferation).
+The Crew is 3.
+The Troops is 4.
+The Note is Since the British Army has reorganized, many Spartans have become available from their former employment so are now widely issued as general purpose liaison and patrol vehicles.
+
+Here is Dimensions information for the FV103 Spartan British Amphibious Armored Personnel Carrier (APC):
+The Length is 5.12.
+The Width is 2.13.
+The Height is 2.26.
+The Weight is 8.17.
+The Ground Pressure is 0.36 kg/cm sq.
+The Ground Clearance is 0.36.
+
+Here is Automotive information for the FV103 Spartan British Amphibious Armored Personnel Carrier (APC):
+The Engine Name is Cummins BTA 5.9-litre (Diesel).
+The Type is Diesel.
+The Engine Power is 195 hp.
+The Fuel Capacity is 423 liters.
+The Transmission is Self Change Gears TN15X.
+The Suspension is torsion bar, 5 road wheels, front drive, rear idler, 2 hydraulic shock absorbers.
+The Range is 483 km.
+The Speed, Average Cross is INA.
+The Speed, Maximum Road is 80.
+The Speed Maximum Swim is 6.4.
+The Gradient is 60.
+The Side Slope is 35.
+The Vertical Step is 0.5.
+The Trench is 2.
+The Fording Depth is 1.
+The Fording with Preperation Depth is Amphibious.
+
+Here is System information for the FV103 Spartan British Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is L43A1 FN MAG, 7.62 mm General-Purpose Machine Gun.
+The Type is General-Purpose Machine Gun.
+The Caliber is 7.62mm.
+The Manufacturer is Fabrique Nationale (FNH / FNH UK) and U.S. Ordnance.
+The Proliferation is + 1 Million.
+The Length, Total is 1,263.
+The Length, Barrel is 630.
+The Width is 118.7.
+The Height is 263.
+The Weight is 11.8 kg.
+The Action is Gas-operated long-stroke piston, open bolt.
+The Max Rate of Fire is 650-1,000.
+The Effective Firing Range (Bipod) is 800 m.
+The Effective Firing Range (Tripod) is 1,800 m.
+The Maximum firing range is 3,500 m.
+The Feed System is Non-disintegrating DM1 or disintegrating M13 linked belt.
+The Sights is Folding leaf sight with aperture and notch, front blade.
+
+Here is Ammunition information for the FV103 Spartan British Amphibious Armored Personnel Carrier (APC) of the Main Weapon System:
+The Name is INA.
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×51mm NATO.
+The Muzzle Velocity is 840.
+The Basic Load is 3,000.
+
+Here is Fire Control information for the FV103 Spartan British Amphibious Armored Personnel Carrier (APC):
+The Name is INA.
+The Computerized FCS is INA.
+The Commander Periscopes is 8 x day periscopes and a monocular sight with a magnification of 1x or 10x.
+The Roof Mounted Day Sight is Yes, with magnifications of 1x and 10x..
+The Gunner Periscopes is 2.
+The Navigation System is Yes.
+The Night Vision is Rank Precision Industries passive night sight.
+The Note is Some vehicles are fitted with the ZB 298 battlefield surveillance radar.
+
+Here is Protection information for the FV103 Spartan British Amphibious Armored Personnel Carrier (APC):
+The Armor (turret front) is Protection gainst 14.5-mm rounds (remainder of the vehicle against 7.62-mm rounds).
+The Applique armor is Available.
+The Explosive reactive armor is INA.
+The Active Protection System is INA.
+The Self-entrenching blade is No.
+The NBC Protection System is Yes.
+The Smoke Equipment is 8 x Smoke dischargers.
+The Survivability Equipment is Enhanced mine protection available.
+The Spall Liners is INA.
+The Counter Explosive Device is counter-improvised explosive device (C-IED) systems.
+The Note #1 is The rear door has an integral vision block.
+The Note #2 is There are no firing ports.
+

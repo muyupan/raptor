@@ -1,0 +1,54 @@
+This document describes the 9M133 Kornet-EM Russian 4x4 Anti-Tank Guided Missile (ATGM) Vehicle.
+
+9M133 Kornet-EM Russian 4x4 Anti-Tank Guided Missile (ATGM) Vehicle is an improved version of the 9M133 Kornet ATGM, with increased range, fire-and-forget capability, and an improved warhead.
+
+Kornet-EM missiles are chiefly used on the Kornet-D system. Kornet-M missiles are also compatible with standard Kornet man-portable tripod launchers.
+
+Introduced in 2012, it is equipped with an automatic target tracker, which essentially turns it into a "fire and forget" missile. The automatic target tracker also makes it jamming-resistant. The “fire and forget” capability allows a vehicle equipped with twin launchers to attack two different targets at once, increasing its rate of fire, decreases the number of vehicles needed for a mission, and can defeat vehicles equipped with an active protection system through salvo fire at one target. The system's use of an auto tracker can make it more effective against low-flying aerial threats like helicopters and unmanned aerial vehicles (UAVs). Like the Kornet, the Kornet-M is designed to defeat vehicles with explosive reactive armor via a tandem-warhead. There are also Kornet-M variants equipped with thermobaric warheads.
+
+This equipment has proliferated into the following countries: Algeria, Bahrain, Kazakhstan, Kurdistan, Kyrgyzstan, Russian Federation, Saudi Arabia.
+
+Here is Variants information for the 9M133 Kornet-EM Russian 4x4 Anti-Tank Guided Missile (ATGM) Vehicle:
+The Kornet-E: is Export version of the Kornet system includes a light-weight launcher tripod, thermal night sight, and Kornet-LR missile. A version is offered for hot climates..
+The 9P163-1: is Portable launcher with Kornet -LR missile. KBP suggests mounting the launcher on TUVs and other vehicles. A remote-operated version is available..
+The Kornet-MR: is Missile for a man-portable version of the launcher. Range is 2 km, with penetration 1,000 mm. It is unknown if the missile is currently fielded.  Kornet-MR is tandem HEAT and HE (thermobaric)..
+The Kornet-LR is ATGM launcher vehicle system on BMP-3 Chassis with twin launchers..
+The Kornet-EM: is New ATGM launcher vehicle is based on a Russian Tigr armored 4x4 tactical utility vehicle. Two 4-missile modules jack up thru the roof. An IR auto-tracker gives simultaneous dual-launch LBR ACLOS guidance. The night sight is 3rd gen thermal, for a range of 5+ km. Kornet-EM (Kornet-d) missiles range 8 km for heat, 10 for thermobaric-HE. The tandem heat defeats 1,300 mm of armor. The HE offers a proximity fuse for multi-role use (e.g., against helicopters)..
+
+Here is System information for the 9M133 Kornet-EM Russian 4x4 Anti-Tank Guided Missile (ATGM) Vehicle:
+The Alternative Designation is 9M133 Kornet-EM.
+The Type is Anti-Tank Guided Missile (ATGM) Vehicle.
+The Crew is 2.
+The Warhead is 1,300 mm RHA after ERA, Thermobaric.
+The Detonation Mechanism is Impact Fuze.
+The Operational Range, Anti-Tank Warhead is 8,000.
+The Operational Range, Thermobaric Warhead is 10,000.
+The Speed is 300.
+The Launch Platform is Kornet-D.
+The Note is Kornet-EM missiles are chiefly used on the Kornet-D system. Kornet-M missiles are also compatible with standard Kornet man-portable tripod launchers..
+
+Here is Dimensions information for the 9M133 Kornet-EM Russian 4x4 Anti-Tank Guided Missile (ATGM) Vehicle:
+The Length is 1,210.
+The Weight is 31.
+The Warhead Weight is Thermobaric: 7-10 kg equivalent of TNT.
+
+Here is Automotive information for the 9M133 Kornet-EM Russian 4x4 Anti-Tank Guided Missile (ATGM) Vehicle:
+The Chassis is Kornet-D.
+The Length is 4.61.
+The Crew is 2.
+The Main Armament is 8 × 9M133 Kornet-EM anti-tank guided missiles.
+The Engine is GAZ-562 or Cummins В180 or Cummins В215
+197–215 hp.
+The Operational Range is 1,000.
+The Maximum Speed, Road is 140.
+The Maximum Speed, Off-Road is 80.
+
+Here is Fire Control information for the 9M133 Kornet-EM Russian 4x4 Anti-Tank Guided Missile (ATGM) Vehicle:
+The FCS Name is INA.
+The Guidance is Laser Beam Rider.
+The Automatic Target Tracker is Yes.
+The FIre and Forget Missile is Yes.
+The Jamming-Resistant is Yes.
+The Number of Targets Simultaneously is 2.
+The Note is The “fire and forget” capability allows a vehicle equipped with twin launchers to attack two different targets at once, increasing its rate of fire, decreases the number of vehicles needed for a mission, and can defeat vehicles equipped with an active protection system through salvo fire at one target..
+

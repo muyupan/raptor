@@ -1,0 +1,84 @@
+This document describes the PHL-16 (AR3) Chinese 370mm Multiple Rocket Launcher System.
+
+The PHL-16 (AR3) Chinese 370mm Multiple Rocket Launcher System can operate in battery, battalion, or autonomously. A typical battery includes launcher vehicles, reloading vehicles, command post vehicles, meteorological survey vehicles, and other associated support vehicles. The mobility platform used in the AR3 is the same as the AR2/AR1A. However, the armament systems can either be an eight-round (4 × 2 pods) that can fire 370 mm rockets or 10-round (5 × 2 pods) that can fire the same 300 mm rockets fired by the AR1, AR1A, and AR2. Both the 300 mm and the 370 mm launcher tubes are arranged in two pods. The rockets in the firing platform are replaced as pods and not individually.
+
+This equipment has proliferated into the following countries: China.
+
+Here is Variants information for the PHL-16 (AR3) Chinese 370mm Multiple Rocket Launcher System:
+The AR1 is The AR1 is lightest among all the MLRS described here and is claimed to have greater strategic mobility and increased mission flexibility..
+The AR1A is Based on the same mobility platform as the AR2, the AR1A has a different armament configuration where it uses two pods of five rounds each, instead of the 12-round multi-barrel configuration in AR2..
+The PHL-03 (AR2) is The AR2 (export designation, locally called PHL-03) is the variant that retains the original BM-30 (9A52) Smerch configuration with 12 launch tubes for 300 mm artillery rockets. The Chinese rockets are, however, not compatible with the Russian Smerch systems..
+
+Here is System information for the PHL-16 (AR3) Chinese 370mm Multiple Rocket Launcher System:
+The Alternative Designation is PHL-16; AR3; PCH-191.
+The Type is Multiple Rocket Launcher System.
+The Caliber is 370 mm.
+The Manufacturer is NORINCO.
+The Chassis is A modified Wanshan WS2400 8 × 8 chassis..
+The Configuration is 8x8.
+The Crew is 3.
+
+Here is Dimensions information for the PHL-16 (AR3) Chinese 370mm Multiple Rocket Launcher System:
+The Length is 11.44 m.
+The Width is 3.05 m.
+The Height is 2.97 m.
+The Weight, Combat is 44 tons.
+
+Here is Automotive information for the PHL-16 (AR3) Chinese 370mm Multiple Rocket Launcher System:
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 517 hp.
+The Maximum Range is 650 km.
+The Maximum Speed is 75 km/h.
+The Amphibious is No.
+The Gradient is 60%.
+The Side Slope is 30%.
+The Vertical Step is 0.5 m.
+The Trench is 2.5 m.
+The Fording is 1.2 m.
+
+Here is Option 1 information for the PHL-16 (AR3) Chinese 370mm Multiple Rocket Launcher System of the Main Weapon System (370 mm Rockets):
+The Name is Fire Dragon 220.
+The Type is Guided Rocket.
+The Caliber is 370 mm.
+The Maximum Range is 220 km.
+
+Here is Option 2 information for the PHL-16 (AR3) Chinese 370mm Multiple Rocket Launcher System of the Main Weapon System (370 mm Rockets):
+The Name is Fire Dragon 280.
+The Type is Guided Rocket.
+The Caliber is 370 mm.
+The Maximum Range is 280 km.
+
+Here is Option 1 information for the PHL-16 (AR3) Chinese 370mm Multiple Rocket Launcher System of the Main Weapon System (300 mm Rockets):
+The Name is BRC3.
+The Type is Cargo Unguided Rocket.
+The Caliber is 300 mm.
+The Maximum Range is 70 km.
+
+Here is Option 2 information for the PHL-16 (AR3) Chinese 370mm Multiple Rocket Launcher System of the Main Weapon System (300 mm Rockets):
+The Name is BRC4.
+The Type is Cargo Unguided Rocket.
+The Caliber is 300 mm.
+The Maximum Range is 130 km.
+
+Here is Option 3 information for the PHL-16 (AR3) Chinese 370mm Multiple Rocket Launcher System of the Main Weapon System (300 mm Rockets):
+The Name is BRE2.
+The Type is HE Unguided Rocket.
+The Caliber is 300 mm.
+The Maximum Range is 130 km.
+
+Here is Option 4 information for the PHL-16 (AR3) Chinese 370mm Multiple Rocket Launcher System of the Main Weapon System (300 mm Rockets):
+The Name is Fire Dragon 140A.
+The Type is Guided Rocket.
+The Caliber is 300 mm.
+The Maximum Range is 130 km.
+
+Here is Fire Control System (FCS) information for the PHL-16 (AR3) Chinese 370mm Multiple Rocket Launcher System:
+The Note is The FCS  can receive inputs from meteorological survey system, firing data unmanned aerial vehicle, and other target acquisition systems..
+
+Here is Protection information for the PHL-16 (AR3) Chinese 370mm Multiple Rocket Launcher System:
+The Armor is The protection levels of the armoured cab are not known. However, it is assessed that the covered cab couldprovide the crew protection from shell splinters and possibly small arms fire..
+The Applique Armor is No.
+The NBC Protection is INA.
+The Smoke Equipment is No.
+

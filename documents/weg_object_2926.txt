@@ -1,0 +1,84 @@
+This document describes the Kvant 1L222 Avtobaza Russian 6x6 Electronic Support (ES) Electronic Intelligence (ELINT) System.
+
+The Kvant 1L222 Avtobaza is an ELINT system designed to detect Side looking airborne radars, air-to-ground fire-control radars and low-altitude flight control radars, as well as to provide intelligence data for the 1L125M APUR. The ELINT system displays on the TV screen acquired targets with data on their direction finding, angular coordinates (azimuth and elevation), radiation signal parameters (carrier frequency, duration, pulse repetition frequency) and radar type classification (sidelooking, fire control, low-altitude flight control radar). The APUR automated jamming control system is fed with target data (frequency band number according to frequency assignment of jamming systems, type of emitting radars and their angular coordinates) via cable at a range of up to 100 meters.
+
+
+There are unconfirmed reports of the system being used in the capture of an RQ-170 UAV by the Iranian forces on 4 December 2011. There are also unconfirmed reports of it being used by the Russian forces during the Crimean Crisis in March 2014 to overtake controls of an American drone.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Kvant 1L222 Avtobaza Russian 6x6 Electronic Support (ES) Electronic Intelligence (ELINT) System:
+The Alternative Designations is Kvant 1L222 Avtobaza.
+The Description is Passive ELINT signals intercept system designed to intercept and locate pulsed airborne radars including fire control radars, terrain following radars and ground mapping radars as well as weapon 
+(missile) data links..
+The Manufactuer is Kvant.
+The In Service is 1980s-Present.
+The Crew is 4.
+The Max ELINT Range is 150.
+The Radar Detection Frequency Range is 8000-17544.
+The Jamming Module Capable is Yes, capable of disrupting airborne radars including fire control radars, terrain following radars and ground mapping radars as well as weapon (missile) data links.
+The Coverage is 360.
+The Number of Targets Simultaneously is 60.
+The Target detection/data transmission-to-APUR delay is 500 Microseconds.
+The Probability of Radar Type Classification is 0.8 (with 1.0 being 100%).
+The Into/out-of-action time in minutes is not more than 25 minutes.
+The Power Consumption is not more than 12 kilowatts.
+
+Here is Dimensions (Chassis: Ural-4320) information for the Kvant 1L222 Avtobaza Russian 6x6 Electronic Support (ES) Electronic Intelligence (ELINT) System:
+The Length is 7.37.
+The Width is 2.5.
+The Height is 4.35.
+The Weight, Empty is 8.
+The Payload capacity (on road) is 6.
+The Payload capacity (off road) is 4.5.
+The Maximum Tow Capacity is 12.
+
+Here is Automotive (Chassis: Ural-4320) information for the Kvant 1L222 Avtobaza Russian 6x6 Electronic Support (ES) Electronic Intelligence (ELINT) System:
+The Engine Name is YaMZ-740.
+The Engine Type is Diesel.
+The Engine Power is 210.
+The Maximum Range is 1,000.
+The Speed, Maximum Road is 85.
+The Speed, Average Cross is 50.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 62.
+The Side Slope is 40.
+The Vertical Step is 0.55.
+The Trench is 1.2.
+The Fording Depth is 1.75.
+
+Here is Receiver information for the Kvant 1L222 Avtobaza Russian 6x6 Electronic Support (ES) Electronic Intelligence (ELINT) System:
+The Designation is INA.
+The Power Supply is 6V or 15V DC.
+The Operational Frequency Range is 8 – 17.5.
+The DF and Intercept is Yes.
+The Receive modes is INA.
+The SLAR is Yes.
+The PGM Targeting Radar is Yes.
+The Nap of the Earth (NOE) Radar is Yes.
+The Early Warning Radar is Yes.
+The SAT Phones is Yes.
+The Fast scan speed Targets Per Second is 15.
+The Frequency identification accuracy is INA.
+The Azimuth is .3 - .5.
+The Elevation is 3.
+
+Here is Antennas information for the Kvant 1L222 Avtobaza Russian 6x6 Electronic Support (ES) Electronic Intelligence (ELINT) System:
+The Rotating Parabolic is Yes.
+The Azimuth is 360 deg.
+The Rotation Orbits per minute is 6 - 12 rotations per minute.
+The Local or remote control is Yes.
+The Range of Remote Operations is 100.
+The LAN copper twisted pair is INA.
+The Serial 300m is INA.
+The Radio Link is INA.
+
+Here is Operation information for the Kvant 1L222 Avtobaza Russian 6x6 Electronic Support (ES) Electronic Intelligence (ELINT) System:
+The Prioritization Targets is Yes.
+The Number of Targets Monitored is 60.
+The Local or remote control is Yes.
+The Set Up Time is 25.
+The Environmental conditions is INA.
+The Operation Temperature is -45 - 40.
+The Humidity is 98.
+

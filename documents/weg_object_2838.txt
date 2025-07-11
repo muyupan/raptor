@@ -1,0 +1,76 @@
+This document describes the UM620 Norwgian Tactical Broadband Wireless Module.
+
+UM620 – TACTICAL BROADBAND WIRELESS MODULE
+
+Robust broadband wireless connec tion for
+mobile combat zone users
+UM620 operates without any Master in the network. UM620 provides ad-hoc
+functionality for fast and easy establishment of networks.
+Voice connection to intercom systems is utilized through digital or analogue
+interface.
+UM620 provides DHCP services and routing for connected LAN subscribers.
+Multi hop capability ensures the user to reach intended destination for both
+voice and data.
+The software defined solution of UM620 and the radio’s flexible software
+facilitates new services to be implemented in support of customer specific
+applications.
+The UM620 is easy to use, and managed using the integrated web-based
+management system or by using the SNMP interface.
+DISMOUNTED CAPABILITY
+The UM620 is fully compatible with the soldier radio SR600, and enables
+integration between vehicles and dismounted troops.
+NETWORK SERVICES
+The UM620 provides an Ethernet interface with DHCP server capability to the
+local LAN of the vehicle.
+Various IP routing services are provided within the radio network as well as
+towards external networks. Multicast and Unicast services are supported.
+
+This equipment has proliferated into the following countries: Australia, United Kingdom of Great Britain and Northern Ireland, United Nations, United States of America.
+
+Here is System information for the UM620 Norwgian Tactical Broadband Wireless Module:
+The Alternative Designation is UM620.
+The Type is Tactical Broadband Wireless Module.
+The Crew is 1.
+The Radio Features is The UM620 operates from 225 to 400 MH z to provide a good balance
+bet ween range in non-LOS terrain, data rate and RF power output.
+The radio has proven multipath capabilities and selec table RF output
+from 100mW to 20W. The radio can provide different net work capacities based on selec ted
+RF bandwidth and coding.
+The radio may operate in a pure data radio mode or in combined
+voice and data modes. Dynamic configuration of wave-form is possible..
+The Software is Depending on chosen net work operation, the radio can handle a
+number of parallel voice net works and IP multi hop data net works in
+one RF network..
+The Mounting is The UM620s small size and weight allows for flexible mounting in the
+Power Mounting Unit (PMU) or in a combined Dual Channel Radio mount..
+The MIL-STD is The UM620 complies with MIL-STD 810G requirements to tac tical
+equipment..
+The Protocols is IP versions IPv4 / IPv6
+LAN protocols Ethernet.
+The Services is Network Service DHCP
+External networks OSPF/RIP/Static routing
+Multi hop capability Voice and data
+Multicast
+Unicast.
+The Mangement is Web (https)
+SNMPv3.
+The RF Characteristics is Frequency Range 225-400 MHz
+Power 100mW to 20 W.
+The Network Capacity is Voice: up to 5 voice nets
+Data rates: up to 2500 kbps
+RF bandwidth: up to 5 MHz.
+The LAN is IEEE 802.3
+ 10/100 Base-T/TX.
+The Audio is Dual channel.
+The GPS is External
+ Internal.
+The Power Supply is Input Voltage
+11-32 V DC.
+The Operating Temperature is -35ºC to +55ºC.
+
+Here is Dimensions information for the UM620 Norwgian Tactical Broadband Wireless Module:
+The Height is 55 mm.
+The Width is 245 mm.
+The Depth is 156 mm.
+The Weight, Combat is 2.2 kg.
+

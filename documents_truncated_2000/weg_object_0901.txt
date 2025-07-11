@@ -1,0 +1,63 @@
+This document describes the AS555 Fennec 2 French Light Utility Helicopter.
+
+The Eurocopter (now Airbus Helicopters) AS550 Fennec (now H125M) and AS555 Fennec 2 are lightweight, multipurpose military helicopters manufactured by Eurocopter Group (now Airbus Helicopters). Based on the AS350 Ecureuil and AS355 Ecureuil 2 series, they are named after the fennec fox. The armed versions of the AS550 and AS555 can be fitted with coaxial weapons, rockets, torpedoes and various other munitions.
+
+This equipment has proliferated into the following countries: Argentina, Brazil, Colombia, Denmark, Ecuador, France, Indonesia, Kenya, Malaysia, Mexico, Pakistan, Qatar, Tanzania, Thailand.
+
+Here is System information for the AS555 Fennec 2 French Light Utility Helicopter:
+The Alternative Designation is AS550 Fennec;
+AS555 Fennec 2.
+The Type is Light Utility Helicopter.
+The Crew is 1.
+The Passenger Capacity is 4.
+The Blades, Main Rotor is 4.
+The Blades, Tail Rotor is 2.
+The Number of Hard Points is INA.
+The Number of Engines is 1.
+
+Here is Dimensions information for the AS555 Fennec 2 French Light Utility Helicopter:
+The Fuselage Length is 10.93 m.
+The Length, Rotors Turning is 12.94 m.
+The Height is 3.34 m over rotor head.
+The Width is 2.53 m.
+The Rotor Diameter is 10.69 m.
+The Disc Area is 89.75 m sq.
+The Cabin Length is 2.42 m.
+The Cabin Height is 1.30 m.
+The Cabin Width is 1.65 m.
+The Cabin Volume is 3.00 m cu.
+The Empty Weight is 1,174 kg.
+The Normal Takeoff Weight is 2,250 kg.
+The Maximum Load is 2,500 kg.
+The Useful Load is 1,076 kg.
+
+Here is Automotive information for the AS555 Fennec 2 French Light Utility Helicopter:
+The Engine Name is 1 x Turbomeca Arriel 2B.
+The Engine Type is Turboshaft.
+The Engine Power is 847 shp (632 kW).
+The Fuel Capacity is 539 liters internal.
+The Never Exceed Speed is 287 km/h.
+The Cruising Speed is 245 km/h.
+The Climb Rate is 558 mpm.
+The Service Ceiling is 4,800 m.
+The Maximum Range is 662 km with no reserve.
+The Endurance is 4 hours at 53 kts.
+The Operating Limits is ISA +35 C to -40 C.
+
+Here is Main Gun System information for the AS555 Fennec 2 French Light Utility Helicopter:
+The Note is 20-mm gun pod, equipped to mount 20-mm
+                              axial cannon, cannon or machine gun in sliding door mount.
+
+Here is Fire Control and Avionics information for the AS555 Fennec 2 French Light Utility Helicopter:
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Navigation Radar is INA.
+
+Here is Protection information for the AS555 Fennec 2 French Light Utility Helicopter:
+The Add on Armor is INA.
+The Stealth Properties is No.
+The Heat Signature Reduction is No.
+The NBC Protection is Yes.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is INA.
+

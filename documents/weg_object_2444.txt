@@ -1,0 +1,49 @@
+This document describes the Uran-6 Russian Demining Unmanned Ground Vehicle (UGV).
+
+The Uran-6 Russian Demining Unmanned Ground Vehicle (UGV) is a Russian version of the Croatian-produced MV-4 DOK-ING mine clearing UGV. The platform has been designed as multifunctional, robotic, mine clearing system to carry out mine clearance operations from anti-personnel (AP) mines and explosive ordnance (to 1 kg of TNT), all by remote control.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is System information for the Uran-6 Russian Demining Unmanned Ground Vehicle (UGV):
+The Alternative Designation is Uran-6; MRTK-R.
+The Type is Demining Unmanned Ground Vehicle (UGV).
+The Manufacturer is JSC “766 UPTK”.
+The Configuration is Track.
+The Crew is Unmanned.
+The Tiller is The tiller is fitted to the front of the vehicle with the shovel mounted to the rear..
+The Mine Clearance is Mine clearance is carried out by a flail or other additional tool attachments, all mounted in front of the prime mover that either activates or shatters AP mines. The flail has 32 chains, each 33 cm in length that hammer through dense vegetation or soil to a depth of 35 cm. The shaft rotates the flails up to 600–700 rpm with the impact destroying or exploding the mines..
+The Path Clearing Width is 1.6 m.
+The Clearing Depth is 35 cm.
+The Sensors is Four cameras are mounted to provide the operator with a 360° view. Two cameras are protected by armour and situated on either side of the chassis with one being able to view behind the platform. The main camera is situated at the top centre of the chassis and can rotate to provide 360° situational awareness. The unit transmits real-time imagery to the remote-control system..
+The Gripper Maximum Lifting Capacity is 1,000 kg.
+The Bulldozer Blade Width is 180 cm.
+The Communications is The operator can remotely control the UGV from an armoured vehicle or from a safe distance from 50 m up to 1 km via radio..
+The Operating Temperature is –50°C to 50°C.
+
+Here is Dimensions information for the Uran-6 Russian Demining Unmanned Ground Vehicle (UGV):
+The Length is 4.56 m (with tool).
+The Width is 2.01 m (with tool).
+The Height is 1.47 m.
+The Weight is 6 tons.
+
+Here is Automotive information for the Uran-6 Russian Demining Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Diesel.
+The Engine Power is 240.
+The Fuel Capacity is 70 liters.
+The Maximum Range is 1,000 m.
+The Maximum Speed is 5 km/h.
+The Working Speed is 0.5 km/h.
+The Vertical Clearance is 1.2 m.
+The Trench is 172.5 cm.
+The Ground Pressure is 58.9 Pa.
+The Side Slope is 20°.
+The Maximum Gradient Climb is 20°.
+The Endurance is 5 hours.
+
+Here is Protection information for the Uran-6 Russian Demining Unmanned Ground Vehicle (UGV):
+The Armor is The Uran-6 can neutralise an explosive object with a potential of 60 kg (132 lbs) of TNT equivalent. The engine and vital components of the machine are protected by steel plates. The self-supporting hull has HARDOX steel plates 8 to 10 mm thick and the clearing tool hammers are made of steel, which are highly resistant to wear and mine detonation. The Uran-6 is resistant to the fragmentation of landmines, and its low profile reduces its susceptibility to shrapnel damage..
+The Applique Armor is INA.
+The NBC Protection is No.
+The Smoke Equipment is No.
+

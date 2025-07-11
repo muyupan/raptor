@@ -1,0 +1,66 @@
+This document describes the R550 Magic 2 French Short-Range Air-to-Air Missile.
+
+The R550 Magic 2 replaced the AD3601 seeking head by the AD3633, allowing frontal fire on the target. The R550 Magic 1 could only be fired from the rear on the target due to the lack of sensitivity of the IR detector. R550 Magic 2 also received improved counter-countermeasures including flare rejection. R550 Magic 2 has many more improvements over R550 Magic 1, but principally has an all-aspect engagement capability and it takes far less time to prepare the missiles for launch. The R550 Magic 2 retains the same general aerodynamic and external characteristics as the Magic 1, with double cruciform canards (the aft set acting as control surfaces) and free rotating rear fins. Magic 2 is 2.75 m long, has a body diameter of 157 mm, a wing span of 0.66 m and a weight of 90 kg. However, it has an increased range of up to 5 km compare to the R550 Magic 1 with 3 km.
+
+In Pakistan Air Force R550 Magic and R550 Magic 2 short-range missiles can be carried by Mirage III/V, F-16A/B, F-7, and A-5.
+
+This equipment has proliferated into the following countries: France, Greece, India, Jordan, Qatar, Romania.
+
+Here is Variants information for the R550 Magic 2 French Short-Range Air-to-Air Missile:
+The R.550 Magic is The R550 Magic is a short-range missile designed in 1968 by French company Matra to compete with the American AIM-9 Sidewinder.The largest single competitor for Sidewinder in Western Europe, the Matra Magic R.550 has better design and performance requirements. It can be fired at any speed (no minimum), meaning that it is a prime candidate for the arming of attack helicopters. Magic is slightly larger in diameter than Sidewinder, but the launch installation components in the carrying aircraft were wisely made interchangeable. The tail fins of the R.550 are free to rotate around the rocket’s nozzle, providing of spin-stabilization. The Magic has 8 fixed fins, and 4 movable fins. It has a solid-fuel engine, and can engage the target independently from the firing aircraft with its passive IR guidance system. The warhead is armed 1.8 seconds after launch, giving a minimum engagement distance of 0.30 km, and a maximum range of around 3 km..
+
+Here is System information for the R550 Magic 2 French Short-Range Air-to-Air Missile:
+The  is .
+The  is .
+The  is .
+
+Here is Missile information for the R550 Magic 2 French Short-Range Air-to-Air Missile of the R550 Magic 2 Short-Range Air-to-Air Missile:
+The Name is R550 Magic 2.
+The Type is Short-Range Air-to-Air Missile.
+The Basic Load is 2-4.
+The Manufacturer is Matra, MBDA.
+The Length is 2.75 m.
+The Diameter is 160 mm.
+The Span, Foreplanes is 0.47 m.
+The Span, Tailplanes is 0.66 m.
+The Weight is 89 kg.
+The Warhead is Pre-fragmented with controlled
+splintering.
+The Warhead Weight is 13 kg.
+The Configuration is Thin cylinder with rounded nose 2 sets of cruciform foreplanes, front
+ "cropped delta" non-steering, rear
+ compound sweep steerable rear
+  cruciform "cropped delta" fins
+ mounted on slip ring and rotating freely.
+The Propulsion is Richard single-stage butylene
+solid-propellant rocket.
+The Speed is Mach 3+.
+The Effective Range is 3.
+The Minimum Distance to Launch is 500.
+The Altitude is 20,000 m.
+The Guidance System is All-aspect, cooled IR seeker
+proximity fuze detonation.
+The Platforms is Attack
+     
+  Attack
+      A-4 Skyhawk
+     Alpha Jet
+     Jaguar
+     Mirage V
+     Mirage F1
+     Sea Harrier
+     Super Etendard
+  Fighters
+     F-5 Tiger
+     MiG-21
+     MiG-23
+     Mirage III
+     Mirage 2000
+     Rafale
+     F-16
+  Trainers
+     Hawk
+ Note: Users may employ the Magic
+ on other aircraft that are capable
+ of firing the AIM-9 Sidewinder.
+

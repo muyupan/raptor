@@ -1,0 +1,70 @@
+This document describes the M79 Yugoslavian 82mm Recoilless Gun.
+
+The 82 mm round with TG81 (HE shell) is intended for annihilation of the enemy live force and armament in bunkers or fortified buildings at distances of up to 1000 m.
+
+Here is Variants information for the M79 Yugoslavian 82mm Recoilless Gun:
+The B-10 is RUSSIAN TOWED SYSTEM FROM WHICH THE M79 WAS DERIVED..
+The TYPE 65 is CHINESE VARIANT WEIGHS 28.2 KG (WITH TRIPOD BUT WITHOUT WHEELS). THE GUN USES THE TYPE 69 COMBINATION SIGHT AND FIRES A MIX OF AMMUNITION INCLUDING THE TYPE 65 HEAT ROUND..
+The TYPE 65-1 is CHINESE VARIANT WITH A TWO-PIECE GUN TUBE FOR LONG DISTANCE DISMOUNTED CARRY. ESTIMATED WEIGHT IS STILL 28.2 KG..
+The BST is CROATIAN VERSION OF M79 USES THE CN-5 OPTICAL DAYSIGHT..
+
+Here is System information for the M79 Yugoslavian 82mm Recoilless Gun:
+The Alternative Designations is INA.
+The Proliferation is 4 countries.
+The Crew is 4.
+The Weight Firing (kg) is 30.
+The Length Travel (m) is 1.79.
+The Rifling is Yes.
+The Feed is Breech load.
+The Breech Mechanism Type is Horizontally Hinged.
+The Emplacement Time (min) is 1.
+The Fire from Inside Building is No.
+
+Here is M79 information for the M79 Yugoslavian 82mm Recoilless Gun of the Ammunition:
+The Caliber(mm) is 82.
+The Type is HEAT.
+The Max Eff Range, Day (m) is 670.
+The Max Eff Range, Night (m) is 670.
+The Penetration (mm) is 350, C.
+The Penetration after ERA (mm) is INA.
+The Penetration Concrete (m) is INA.
+The Penetration Brick (m) is INA.
+The Penetration Earth (m) is INA.
+The Muzzle Velocity (m/s) is 322.
+The Length (mm) is INA.
+The Weight (Kg) is 4.87.
+
+Here is Type 65 information for the M79 Yugoslavian 82mm Recoilless Gun of the Ammunition:
+The Caliber(mm) is 82.
+The Type is HEAT.
+The Max Eff Range, Day (m) is 670.
+The Max Eff Range, Night (m) is 670.
+The Penetration (mm) is 380, C.
+The Penetration after ERA (mm) is INA.
+The Penetration Concrete (m) is INA.
+The Penetration Brick (m) is INA.
+The Penetration Earth (m) is INA.
+The Muzzle Velocity (m/s) is 340.
+The Length (mm) is INA.
+The Weight (Kg) is INA.
+
+Here is M81 information for the M79 Yugoslavian 82mm Recoilless Gun of the Ammunition:
+The Caliber(mm) is 82.
+The Type is Frag HE.
+The Max Eff Range, Day (m) is 1000.
+The Max Eff Range, Night (m) is 2700.
+The Casualty Radius (sq.m) is INA.
+The Muzzle Velocity (m/s) is 320.
+The Length (mm) is INA.
+The Weight (Kg) is INA.
+
+Here is Other Ammunition information for the M79 Yugoslavian 82mm Recoilless Gun of the Ammunition:
+The Description is OTHER AMMUNITION TYPES: O-881 HE, BK-881/BK-881M HEAT..
+
+Here is Sights information for the M79 Yugoslavian 82mm Recoilless Gun:
+The Name is ON M72B.
+The Type is Optical.
+The Sight Range Direct (m) is 1000.
+The Sight Range Indirect (m) is 2700.
+The Night Sights is 2 gen II.
+

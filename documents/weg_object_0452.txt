@@ -1,0 +1,109 @@
+This document describes the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher.
+
+The Astros (Artillery Saturation Rocket System) II is a modular multiple rocket launcher capable of firing three different caliber wrap-around fin rockets (for improved accuracy) using several types of warheads. The universal modules enable the system to accomplish fire missions with ranges from 9 to 90 kilometers. The Astros II system consists of the following vehicles: universal multiple launcher (AV-LMU), ammunition supply vehicle (AV-RMD), command and control vehicle/fire control unit (AVVCC), mobile workshops (for field maintenance), and the optional electronic fire control unit (AV-UCF). All of the Astros II vehicles use the Tectran Enginharia 10 ton, 6x6, wheeled vehicle chassis. A typical firing battery consists of six AV-LMU launchers, six AV-RMD ammunition supply vehicles, and one AV-VCC fire control unit. An AV-VCC command and control unit and two mobile workshops are found at battalion level. The battalion level AV-VCC can coordinate and direct fire missions for three Astros batteries. The AV-RMD ammunition supply vehicle carries two complete loads for each launcher.
+
+This equipment has proliferated into the following countries: Angola, Bahrain, Brazil, Indonesia, Iraq, Kuwait, Libya, Malaysia, Qatar, Saudi Arabia.
+
+Here is System information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher:
+The Alternative Designation is Astros II AV-LMU.
+The Chassis/Carriage is Tectran 10-ton, 6x6 / Astros standard chassis AV-VBA 6×6.
+The Crew is 3.
+The Displacement Time is INA.
+The Emplacement Time is INA.
+The Note #1 is The universal modules enable the system to accomplish fire missions with ranges from 9 to 90 kilometers..
+The Note #2 is The Astros II system consists of the following vehicles: universal multiple launcher (AV-LMU), ammunition supply vehicle (AV-RMD), command and control vehicle/fire control unit (AVVCC), mobile workshops (for field maintenance), and the optional electronic fire control unit (AV-UCF). All of the Astros II vehicles use the Tectran Enginharia 10 ton, 6x6, wheeled vehicle chassis..
+
+Here is Dimensions information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher:
+The Height is 2.6.
+The Length, Chassis Overall is 8.0.
+The Width is 2.4.
+The Weight, Combat is 20.
+
+Here is Automotive (Astros standard chassis AV-VBA 6×6 / Tectran 10-ton, 6x6) information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher:
+The Engine Type is Mercedes, OM422, 8-cylinder, water-cooled, turbo-charged diesel.
+The Engine Type is Diesel.
+The Engine Power is 280.
+The Fording Depth is 1.
+The Range, Cruising is 480.
+The Speed, Maximum On is 90.
+The Speed, Maximum Off is 40.
+The Trench Crossing is 2.3.
+The Vertical Obstacle is 1.
+The Gradient is 60.
+The Side Slope is 30.
+
+Here is Armament information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher:
+The Caliber, Type, Name is 127mm, 180mm, and 300mm Astros.
+The Loader Type is Manual.
+The Number of Tubes is 127mm - 32 each, 180mm - 16 each, 300mm - 4 each.
+The Reload Time is INA.
+The Traverse is INA.
+The Traverse, Left is INA.
+The Traverse, Right is INA.
+The Elevation is INA.
+The Launch Rate (full) is INA.
+The Launch Rate (single) is INA.
+The Launcher Drive is Electric.
+
+Here is 127mm Frag-HE, SS-30 information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher of the Ammunition:
+The Range, Minimum is 9,000.
+The Range, Maximum is 30,000.
+The Warhead Weight is INA.
+The Length, Rocket is 3.9.
+The Other warheads for this rocket is None.
+
+Here is 180mm, Frag-HE, SS-40 information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher of the Ammunition:
+The Range, Minimum is 15,000.
+The Range, Maximum is 35,000.
+The Warhead Weight is INA.
+The Length, Rocket is 4.2.
+The Other warheads for this rocket is DPICM, HE-I, AT/AP Mines, Runway Denial.
+
+Here is 300mm Frag-HE, SS-60 information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher of the Ammunition:
+The Range, Minimum is 20,000.
+The Range, Maximum is 60,000.
+The Warhead Weight is INA.
+The Length, Rocket is 5.6.
+The Other warheads for this rocket is DPICM, HE-I, AT/AP Mines, Runway Denial.
+
+Here is 300mm Frag-HE, SS-80 information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher of the Ammunition:
+The Range, Minimum is 22,000.
+The Range, Maximum is 90,000.
+The Warhead Weight is INA.
+The Rocket Length is 5.6.
+The Other warheads for this rocket is DPICM, HE-I, AT/AP Mines, Runway Denial.
+
+Here is 180 mm SS-AV-40 (under development) information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher of the Ammunition:
+The Range, Minimum is 15,000.
+The Range, Maximum is 40,000.
+The Number of Rockets per Launcher is 40.
+
+Here is 450 mm SS-150 information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher of the Ammunition:
+The Range, Minimum is 29,000.
+The Range, Maximum is 150,000.
+The Number of Rockets per Launcher is 4.
+
+Here is FOG MPM: Anti-tank, anti-fortification and anti-helicopter missile information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher of the Ammunition:
+The Range, Minimum is 5,000.
+The Range, Maximum is 60,000.
+The Number of Rockets per Launcher is INA.
+
+Here is AV-TM 300 information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher of the Ammunition:
+The Range, Minimum is 30,000.
+The Range, Maximum is 300,000.
+The Number of Rockets per Launcher is 2.
+
+Here is Radio information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher of the Communications:
+The Name is INA.
+
+Here is Fire Control System information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher:
+The Fire Control Computer is Field Guard or FILA.
+The Collimator is None.
+The Position Location System is No.
+
+Here is Protection information for the Astros II Brazilian 127mm, 180mm, & 300mm Multiple Rocket Launcher:
+The NBC Protection is Likely.
+The Self-entrenching Blade is No.
+The Smoke Equipment is 6 smoke grenade launchers.
+The Cab is Protected against small arms and artillery splinters.
+

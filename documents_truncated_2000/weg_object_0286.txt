@@ -1,0 +1,42 @@
+This document describes the REX-1 Chinese Tracked Unmanned Ground Vehicle (UGV).
+
+The REX-1 Chinese Tracked Unmanned Ground Vehicle (UGV) is small explosive ordnance disposal (EOD) UGV.
+
+This equipment has proliferated into the following countries: China.
+
+Here is System information for the REX-1 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Alternative Designation is REX-1.
+The Type is Tracked Unmanned Ground Vehicle (UGV).
+The Manufacturer is Poly Technologies.
+The Configuration is Tracked.
+The Crew is Unmanned.
+The Control is The complete system (with a maximum speed of 2 km/h) consists of a single robot and an 8 kg portable control console that has a flat-panel display showing imagery from the onboard cameras..
+
+Here is Dimensions information for the REX-1 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Length is INA.
+The Width is INA.
+The Height is INA.
+The Weight is 50 kg.
+
+Here is Automotive information for the REX-1 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Engine Name is INA.
+The Engine Type is Electric.
+The Engine Power is INA.
+The Range is INA.
+The Maximum Speed is 2 km/h.
+The Endurance is 3-5 hours.
+The Maximum Gradient Climb is 35°.
+The Curb Clearance is 210 mm.
+
+Here is Manipulator Arm information for the REX-1 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Maximum Lift Capacity, with Arm Extended is 3 kg.
+The Maximum Lift Capacity, with Arm Unextended is 8 kg.
+The Maximum Reach is 1.2 m.
+The Maximum Vertical Reach is 1.35 m.
+The Wrist Joint Rotation is 360°.
+The Maximum Grip Opening is 230 mm.
+
+Here is Protection information for the REX-1 Chinese Tracked Unmanned Ground Vehicle (UGV):
+The Armor is INA.
+The Applique Armor is INA.
+

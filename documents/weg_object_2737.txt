@@ -1,0 +1,111 @@
+This document describes the GMZ-3 Russian Tracked Minelaying Vehicle.
+
+The GMZ-3 tracked mine-laying vehicle is designed to lay antitank mines in the progress of action in the soil (snow) with their concealment and on the surface of the soil (snow) without concealment.
+
+Mines are laid by being automatically delivered from the cluster to the dispersing mechanism and then through ports in the rear plate of the vehicle hull to the conveyer, which is provided with a mechanism that arms the moving mines. When mines are laid on the ground (snow) surface, they are dispersed directly from the conveyer. When mines are laid with concealment, they are dispersed through the plow assembly and laid in a furrow made by the plow; after a delay they are finally armed. Mines laid in loose soils (snow) are concealed by back dumps
+
+This equipment has proliferated into the following countries: CFE Treaty, Russian Federation, Ukraine.
+
+Here is System information for the GMZ-3 Russian Tracked Minelaying Vehicle:
+The Alternative Designation is GMZ-3; Gusenichniy Minniy Zagraditel.
+The Type is Minelaying Vehicle.
+The Family is GMZ.
+The Manufacturer is Uraltransmash Federal State Unitary Enterprise.
+The In Service is 1968-Present.
+The Chassis is based on the chassis of the SA-4 Ganef.
+The Crew is 3 (commander, driver/mechanic, laying operator).
+The Passenger Capacity is INA.
+The Note #1 is here are three GMZ-3s in the engineering battalion of a typical tank division or motorized rifle division. It can be fully loaded by a squad of seven engineers in 15 to 20 minutes..
+The Note #2 is The driver is also the mechanic..
+
+Here is Minelayer System information for the GMZ-3 Russian Tracked Minelaying Vehicle:
+The Minelayer Type is Plough-type dual-chute automatic.
+The Mine Capacity is 208.
+The Mine Spacing Interval is 5-10.
+The Minelaying per Minute (Underground) is 4.
+The Minelaying per Minute (Aboveground) is 8.
+The Depth Mine is Burried in Dirt is 120.
+The Depth Mine is Burried in Snow is 500.
+The Modes of Operation is Automatic or Manual.
+The Maximum Weight Capacity (Single Mine) is 12.
+The Land Navigation System is Yes.
+The Reload Time is 15–20 min.
+The Minelaying Rate, Surface Laying is 8 mines/min.
+The Minelaying Rate, Burying is 4 mines/min.
+The Mine Spacing is 5 or 10 m.
+The Mindefield Width, Pressure Mines is 1 km.
+The Minefield Width, Magnetic Influence Mines is 2 km.
+
+Here is Dimensions information for the GMZ-3 Russian Tracked Minelaying Vehicle:
+The Length is 8.62.
+The Width is 3.25.
+The Height is 2.70.
+The Weight, Combat is 28.5.
+The Ground Clearance is 0.43.
+
+Here is Automotive information for the GMZ-3 Russian Tracked Minelaying Vehicle:
+The Engine Name is KaMAZ-7482.
+The Engine Type is Water-cooled Diesel.
+The Engine Power is 525.
+The Power to Weight Ration is 18.42 hp/metric ton.
+The Maximum Range, Road is 500.
+The Maximum Range, Carrying Mines is 300.
+The Speed, Maximum Road is 60.
+The Speed, Cruising is 40.
+The Speed, Off-Road is 25.
+The Speed, Laying Mines is 16.
+The Speed, Burying Mines is 6.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 57.7.
+The Side Slope is 46.7.
+The Vertical Step is 0.70.
+The Trench is 2.5.
+The Fording Depth is 1.0.
+The Suspension is torsion bar; seven road wheels, front
+mounted drive sprocket, rear idler, four return rollers.
+
+Here is Communications information for the GMZ-3 Russian Tracked Minelaying Vehicle:
+The Primary Radio is R-173.
+The Secondary Radio is INA.
+
+Here is System information for the GMZ-3 Russian Tracked Minelaying Vehicle of the Main Weapon System:
+The Name is 1 x 7.62mm PKT (Kalashnikov's ) General Purpose Machine Gun.
+The Type is General Purpose Machine Gun.
+The Caliber is 7.62.
+The Function is In use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-Present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is +1 Million.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Max Rate of Fire is 650.
+The Effective Rate of Fire is 250-300 rds/min.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron Sights.
+
+Here is Ammunition information for the GMZ-3 Russian Tracked Minelaying Vehicle of the Main Weapon System:
+The Type is 57-N-323S.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR km.
+The Muzzle Velocity is 855.
+The Accuracy of fire at 300 meters is 90.
+The Basic Load is 2,500.
+
+Here is Fire Control information for the GMZ-3 Russian Tracked Minelaying Vehicle:
+The Laser Target Desinator is INA.
+The Infrared System is TVNE-4B for driver.
+The Commander Night Vision Device is K-3A Night Vision Device.
+
+Here is Protection information for the GMZ-3 Russian Tracked Minelaying Vehicle:
+The Armor is INA.
+The Applique Armor is Available.
+The Active Protection System is INA.
+The Mine Clearing is INA.
+The Self-Entrenching Blade is INA.
+The NBC Protection is Yes.
+The Smoke Equipment is Yes, grenade launchers and additional system as part of engine design.
+The IR Signature is INA.
+

@@ -1,0 +1,77 @@
+This document describes the OH-1 Japanese Light Scout and Observation Helicopter.
+
+The Kawasaki OH-1 (nickname: "Ninja") is a military scout/observation helicopter developed and manufactured by the Kawasaki Aerospace Company. The primary operator is the Japan Ground Self-Defense Force (JGSDF), who originally procured the OH-1 as a domestically-produced successor to their existing OH-6D Loach fleet. The OH-1 has the distinction of being the first helicopter to be entirely produced in Japan.
+
+In addition to its use an observation helicopter, it can also be armed with various munitions to directly participate in combat; such weapons include a limited quantity of anti-tank missiles or air-to-air missiles for self-defense purposes. Several variants of the OH-1 have been proposed, these have included derivatives of the type to serve as an attack helicopter as well as an aborted project to develop utility helicopter based on OH-1. As of March 2014, a total of 38 OH-1s have entered service with the JGSDF, so far these have complemented the existing OH-6Ds rather than replace them.
+
+This equipment has proliferated into the following countries: Japan.
+
+Here is Variants information for the OH-1 Japanese Light Scout and Observation Helicopter:
+The AH-2 is Proposed attack helicopter derivative that would have featured uprated engines and additional anti-tank armaments; rejected in favour of Boeing AH-64 Apache..
+The UH-X utility helicopter is Technology developed by Kawasaki for the OH-1 is being integrated into a new aircraft design, the UH-X , in order to "reduce technological risks associated with development and appropriately control life cycle costs," according to the company. The new aircraft is expected by 2017, according to a Shephard Media release dated May 29, 2012. 
+
+Kawasaki has proposed a new cabin, transmission, avionics and engines for the utility version, including a new control system, rotor hub and enhanced rotor-blade transmission protection. In fiscal year 2006, Tokyo began funding development of a more powerful engine (with a goal of 1,300 shp). More than 120 helicopters are needed to meet the JGSDF requirement for a utility helicopter.
+
+Fuji Heavy Industries was selected as prime contractor for the UH-X helicopter program in July 2015. The aircraft will be based on the Bell 412 twin-engine utility helicopter..
+
+Here is System information for the OH-1 Japanese Light Scout and Observation Helicopter:
+The Alternative Designation is Kawasaki OH-1 Japanese Light Scout and Observation Helicopter.
+The Type is Attack Helicopter.
+The Primary Function is Reconnaissance missions, Ground attack and Close-Air Support.
+The Manufacturer is Kawasaki.
+The Crew is 2.
+The Blades, Main Rotor is 4.
+The Number of Engines is 2.
+The Main rotor diameter is 11.6.
+The Main rotor area is 1138.
+The Tail Rotor, Name is Fenestron (fantail) tail rotor.
+The Blades, Tail Rotor is 8-18.
+The Number of Hard Points is Hardpoints: 4 × pylons for rockets, gun pods, anti-tank missiles, or Type 91 air-to-air missiles.
+The Note #1: is Each crew member has two LCD colour multi-function displays, and the gunner has a head-up display. The mission avionics include a trainable roof-mounted Kawasaki package (forward of the main rotor) with a Fujitsu thermal imager, NEC colour TV camera and NEC laser rangefinder. Protection is enhanced by the installation of an infra-red jammer on the helicopter's spine to rear of the main gearbox..
+
+Here is Dimensions information for the OH-1 Japanese Light Scout and Observation Helicopter:
+The Length is 12.
+The Width is INA.
+The Main Rotor Diameter is 11.6.
+The Weight, Combat is 3550.
+The Weight, Empty is 2500.
+The Weight, Gross is 4000.
+The Height is 3.8.
+
+Here is Automotive information for the OH-1 Japanese Light Scout and Observation Helicopter:
+The Engine Name is 2 x Mitsubishi TS1-M-10.
+The Engine Type is Turboshaft.
+The Engine Power is 888.
+The Cruising Range is 550.
+The Speed, Maximum is 306.
+The Speed, Average is INA.
+The Maximum Altitude is 5000.
+
+Here is Main Gun System information for the OH-1 Japanese Light Scout and Observation Helicopter:
+The Hardpoints is Hardpoints: 4 × pylons for rockets, gun pods, anti-tank missiles, or Type 91 air-to-air missiles.
+
+Here is Missile System #1 information for the OH-1 Japanese Light Scout and Observation Helicopter of the Missile Weapon Systems:
+The Name is Toshiba Type 91 short-range air-to-air missiles, anti-tank missiles.
+The Type is Air to Air and Anti-tank Missiles.
+The Length is 1.43.
+The Weight is 11.5.
+The Diameter is 80.
+The Engine is Solid Rocket Motor Mach 1.9.
+The Guidance System is Infrared homing.
+
+Here is Fire Control and Avionics information for the OH-1 Japanese Light Scout and Observation Helicopter:
+The Fire Control System Type is INA.
+The Fire Control Radar is INA.
+The Navigation Radar is INA.
+The Digital or Analog Cockpit is Digital Cockpit.
+The Direct Fire Control is INA.
+The Laser Designator is INA.
+
+Here is Protection information for the OH-1 Japanese Light Scout and Observation Helicopter:
+The Add on Armor is Cockpit is fitted with armor protection.
+The Stealth Properties is INA.
+The Heat Signature Reduction is INA.
+The NBC Protection is INA.
+The EW Counter Measures/CCM is INA.
+The Counter Measures (Chaff/Flares) is Infra-red jammer on the helicopter's spine to rear of the main gearbox. Used to jam IR homing missile sensors..
+

@@ -1,0 +1,216 @@
+This document describes the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel.
+
+The Grachonok class, Russian designation Project 21980 Grachonok, is a class of anti-saboteur and large guard boats being built for the Russian Navy. Designed by JSC Vympel Design Bureau, the Project 21980 class counter-sabotage vessels are intended for the protection of naval bases, ports, and aquatic areas of the Russian Federation.
+
+The boats are also used to fight against sabotage and terrorist activities in the sea, as well as render assistance to the Border Service of the Russian Federation in their efforts to safeguard the state borders.
+
+The Russian Navy has commissioned a total of 12 Project 21980 class counter-sabotage vessels as of November.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel:
+The Nakhimovets is Commissioned: 2009
+Status: Active
+Fleet: Baltic Fleet.
+The Kadet is Commissioned: 2011
+Status: Active
+Fleet: Black Sea Fleet.
+The Suvorovets is Commissioned: 2012
+Status: Active
+Fleet: Black Sea Fleet.
+The Kursant-Kirovets is Commissioned: 2013
+Status: Active
+Fleet: Black Sea Fleet.
+The P-377 is Commissioned: 2013
+Status: Active
+Fleet: Pacific Fleet.
+The Yunarmeets Kaspiya is Commissioned: 2013
+Status: Active
+Fleet: Caspian Flotilla.
+The Yunarmeets Primorya is Commissioned: 2014
+Status: Active
+Fleet: Pacific Fleet.
+The Yunarmeets Kryma is Commissioned: 2014
+Status: Active
+Fleet: Black Sea Fleet.
+The Yunarmeets Kamchatki is Commissioned: 2014
+Status: Active
+Fleet: Pacific Fleet.
+The Kinel is Commissioned: 2014
+Status: Active
+Fleet: Black Sea Fleet.
+The Yunarmeets Zapolyarya is Commissioned: 2016
+Status: Active
+Fleet: Northern Fleet.
+The Yunarmeets Belomorya is Commissioned: 2016
+Status: Active
+Fleet: Northern Fleet.
+The Sergey Preminin is Commissioned: 2017
+Status: Active
+Fleet: Northern Fleet.
+The P-433 is Commissioned: 2017
+Status: Active
+Fleet: Black Sea Fleet.
+The Yunarmeets Chukotki is Commissioned: 2017
+Status: Active
+Fleet: Pacific Fleet.
+The Valeriy Fedyanin is Commissioned: 2017
+Status: Active
+Fleet: Northern Fleet.
+The Yunarmeets Tatarstana is Commissioned: 2018
+Status: Active
+Fleet: Caspian Flotilla.
+The P-445 is Commissioned: 2019
+Status: Active
+Fleet: Pacific Fleet.
+The Yunarmeets Dagestana is Commissioned: 2019
+Status: Active
+Fleet: Caspian Flotilla.
+
+Here is System information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel:
+The Alternative Designation is Grachonok Class; Project 21980 Class.
+The Type is Anti-Saboteur Vessel.
+The Builder is Zelenodolsk Plant Gorky;
+Vostochnaya Verf;
+Vympel Shipyard.
+The Crew is 8.
+The Note is The Grachonok class is designed to protect naval bases, ports, and aquatic areas of the Russian Federation. It can be also used to counter terrorist and sabotage operations in the sea..
+
+Here is Dimensions information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel:
+The Length is 31.04 m.
+The Beam is 7.4 m.
+The Draft is 1.85 m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 138 tons.
+
+Here is Propulsion System information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel:
+The Engine Name is 2 × MTU or MWM Deutz TBD620V12.
+The Engine Type is Diesel.
+The Engine Power is INA.
+The Maximum Range is 200 nm.
+The Maximum Speed is 23 knots (43 km/h).
+The Endurance is 5 days.
+
+Here is Gun Weapon System #1 information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel of the Gun Weapon Systems:
+The Name is 1 x KPV 14.5mm Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 14.5 mm.
+The Length is 1,980 mm.
+The Barrel Length is 1,346 mm.
+The Width is 162 mm.
+The Height is 225 mm.
+The Weight is 49 kg.
+The Action is Short recoil operation.
+The Rate of FIre is 600 rpm.
+The Muzzle Velocity is 1,005 m/s.
+The Maximum Firing Range is 4,000 m.
+The Effective Firing Range is 3,000 m.
+The Feed System is 40 Round Belt.
+The Sights is Iron or Optical.
+
+Here is Gun Weapon Systems #1 Ammunition information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 14.5.
+The Cartridge is 14.5×114 mm.
+The Basic Load is INA.
+
+Here is Missile information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel of the Missile Weapon System:
+The Name is 1 × 9k310 Igla-1 (SA-16 Gimlet) Man-Portable Infrared Homing Surface-to-Air Missile System launcher.
+The Type is Man-Portable Infrared Homing Surface-to-Air Missile System.
+The Length is 1.574 m.
+The Diameter is 72 mm.
+The Weight is 17.9 kg.
+The Warhead is 1.17 kg.
+The Engine is Solid fuel rocket motor.
+The Guidance System is Dual waveband infra-red.
+The Operational Range is 5 km.
+The Maximum Speed is 570 m/s.
+The Flight Ceiling is 3.5 km.
+The Basic Load is 4 x 9M313 Missiles.
+
+Here is Grenade Launcher #1 information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel of the Grenade Launcher Systems:
+The Name is 1 × DP-65 Remotely-Controlled Rocket Grenade Launcher System.
+The Type is Remotely-Controlled Rocket Grenade Launcher System.
+The Caliber is 55 mm.
+The Composition is The grenade launcher system comprises the launcher, remote control, power unit, and RG-55 grenades. The DP-65 is made of aluminium alloys. The system incorporates two packs of five launch tubes, while the launcher is fitted with electric drives of the elevating and the traversing gear, allowing the DP-65 to be controlled either remotely (at a range of up to 100 m) with the help of the remote control or manually..
+The Features is The control panel allows the operator to operate up to four DP-65 grenade launchers in turn. When combined with the Anapa-ME underwater anti-saboteur detection sonar, the grenade launcher can automatically detect, acquire, track, and kill the target. Based on sonar data, the launcher fires a salvo, or each launch tube independently. In the manual control mode, grenades are launched with the help of the autonomous power unit..
+The Length is INA.
+The Barrel Length is INA.
+The Grenade Launcher Mount Weight is 77 kg.
+The Launch Tube Weight is 55 kg.
+The Control Panel Weight is 30 kg.
+The Power Unit Weight is 46 kg.
+The Number of Launch Tubes is 10.
+The Loading is The grenade launcher is equipped with locking devices, ensuring loading and unloading safety and blocking fire circuits in fire-free areas. The launcher is loaded manually..
+The Maximum Firing Range is 500 m.
+
+Here is Grenade Launcher #1 Ammunition (Option 1) information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel of the Grenade Launcher Systems:
+The Name is RG-55.
+The Type is Signal Flare.
+The Caliber is 55 mm.
+The Note is The GRS-55 is designed to indicate the location of combat divers detected. It has the same weight, dimensions, and range of fire as the RG-55M. When hitting the water surface, the flare, pushed out of the body by a spring arrangement, surfaces and blazes for at least 50 seconds..
+
+Here is Grenade Launcher #1 Ammunition (Option 2) information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel of the Grenade Launcher Systems:
+The Name is RG-55M.
+The Type is High Explosive.
+The Caliber is 55 mm.
+The Note is The RG-55M are akin to miniature depth charges equipped with jet engine with an annular stabilizer..
+
+Here is Grenade Launcher #2 information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel of the Grenade Launcher Systems:
+The Name is 1 x DP-64 Nepryadva.
+The Type is Double-Barreled Over/Under Grenade Launcher.
+The Caliber is 45 mm.
+The Manufacturer is Degtyarev plant.
+The Length is 820 mm.
+The Width is 110 mm.
+The Height is 275 mm.
+The Weight is 10 kg.
+The Action is Break Open.
+The Detonation Mechanism is Depth.
+The Maximum Firing Range is 400 m.
+The Feed System is 2 Rounds.
+The Sights is Direct & Indirect iron sights.
+
+Here is Grenade Launcher #2 Ammunition (Option 1) information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel of the Grenade Launcher Systems:
+The Name is FG-45.
+The Type is Fragmentation.
+The Caliber is 45 mm.
+The Projectile Length is 248 mm.
+The Cartridge Length is 55 mm.
+The Shell Weight is 0.65 kg.
+The Blast Radius is 14 m.
+The Depth is 40 m.
+
+Here is Grenade Launcher #2 Ammunition (Option 2) information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel of the Grenade Launcher Systems:
+The Name is SG-45.
+The Type is Floating Flare.
+The Caliber is 45 mm.
+The Projectile Length is 248 mm.
+The Cartridge Length is 55 mm.
+The Shell Weight is 0.65 kg.
+The Blast Radius is INA.
+The Depth is INA.
+
+Here is Grenade Launcher #2 Ammunition (Option 3) information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel of the Grenade Launcher Systems:
+The Name is UG-45.
+The Type is HE/Concussion.
+The Caliber is 45 mm.
+The Projectile Length is 248 mm.
+The Cartridge Length is 55 mm.
+The Shell Weight is 0.65 kg.
+The Blast Radius is INA.
+The Depth is INA.
+
+Here is Radar Systems information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel:
+The Navigation Radar is 1 x MR-231 navigation radar..
+The Optoelectronic Sensing System is 1 x MTK-201 M3 short-range optoelectronic sensing system..
+
+Here is Sonar Systems information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel:
+The Sabotage Sonar is 1 x Anapa counter-sabotage sonar..
+The DP-65 Sonar is 1 x Anapa-ME sonar for underwater target detection..
+
+Here is Protection information for the Grachonok-Class (Project 21980 Class) Russian Anti-Saboteur Vessel:
+The Hull is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is Yes.
+

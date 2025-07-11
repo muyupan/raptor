@@ -1,0 +1,155 @@
+This document describes the Type 037II-Class (Houjian Class) Chinese Corvette.
+
+The Type 037II missile boat (NATO: Houjian class) is a missile-equipped corvette built by Huangpu Shipyard of Guangzhou for the People's Liberation Army Navy. A total of six vessels were delivered to the PLA Navy and form the main naval defense force currently protecting Hong Kong.
+
+The original one-off design was by an American company, the H-3 group, the design was for a 245-ton boat, equipped with Harpoon SSMs, OTO Melara 76 mm guns, gas turbine engines, and waterjet propulsion. However, these specifications were too complicated for China, and a major redesign was begun, resulting in a boat with C-801 SSMs, diesel engines, and propellers instead. The OTO Melara 76mm gun was retained in the revised design, called in 1988 the EH-3D (and in 1996 the 520T), but failed to survive the cooling of relations with the West following the Tiananmen Square protests of 1989 and the resulting end of Western participation in Chinese military projects.
+
+The first vessel was built in 1990, as a technology demonstrator and proof-of-concept trials vessel, it fired its first C-801 missile in a 1995 exercise. Three more vessels were built in 1995/96. However, due to technical difficulties (particularly with regards to the license-produced SEMT diesel engines), high price, and over-sophisticated design compared to the PLAN standard, further production was terminated. A fifth vessel, hull number 774, was built in 2001, as another proof of concept vessel for modified SEMT engines with new turbochargers and license-produced Russian AK-176 76 mm gun.
+
+Four vessels were built for rotation, with 2 vessels being deployed to Hong Kong at a time. The fifth vessel has been involved in two navigation incidents. The first time in 2001 whilst on a pre-delivery test it was nearly sunk after a crash with a fast ferry servicing the Hong Kong-Guangzhou route. In June 2006, it crashed again, this time with a Chinese freighter, and sank immediately, 13 servicemen going missing in the accident. The vessel was later refloated and sent to the shipyard for repair.
+
+The Azmat-class vessels in service with the Pakistani Navy are based on this class. In 2012 Bangladesh contracted for two slightly modified ships.
+
+This equipment has proliferated into the following countries: China, Pakistan.
+
+Here is Variants information for the Type 037II-Class (Houjian Class) Chinese Corvette:
+The Yangjiang is Commissioned: 1991
+Status: Active 
+Fleet: PLAN Fleet.
+The Shunde is Commissioned: 1995
+Status: Active 
+Fleet: PLAN Fleet.
+The Nanhai is Commissioned: 1995
+Status: Active 
+Fleet: PLAN Fleet.
+The Panyu is Commissioned: 1996
+Status: Active 
+Fleet: PLAN Fleet.
+The Lianjiang is Commissioned: 2001
+Status: Active 
+Fleet: PLAN Fleet.
+The Xinhui is Commissioned: 2003
+Status: Active 
+Fleet: PLAN Fleet.
+The Azmat is Commissioned: 2009
+Status: Active 
+Fleet:  Pakistan Navy Fleet.
+The Dehshat is Commissioned: 2012
+Status: Active 
+Fleet: Pakistan Navy Fleet.
+The Himmat is Commissioned: 2012
+Status: Active 
+Fleet: Pakistan Navy Fleet.
+
+Here is System information for the Type 037II-Class (Houjian Class) Chinese Corvette:
+The Alternative Designation is Type 037II Class; NATO: Houjian Class.
+The Type is Corvette; Missile Boat.
+The Builder is Qiuxing and Huangpu Shipyard.
+The Crew is 75.
+
+Here is Dimensions information for the Type 037II-Class (Houjian Class) Chinese Corvette:
+The Length is 62.8 m.
+The Beam is 7.2 m.
+The Draft is 2.4 m.
+The Displacement, Standard is INA.
+The Displacement, Full Load is 520 tons.
+
+Here is Propulsion System information for the Type 037II-Class (Houjian Class) Chinese Corvette:
+The Engine Name is 2 x SEMT-Pielstick 12 PA6 280.
+The Engine Type is Diesel.
+The Engine Power is 2 x SEMT-Pielstick 12 PA6 280 diesel engines at 1,584 hp (1,181 kW) with 3 shafts..
+The Maximum Range is 1,800 nmi (3,300 km; 2,100 mi) at 18 knots (33 km/h; 21 mph)..
+The Maximum Speed is 30 knots (56 km/h)..
+
+Here is Gun Weapon System #1 information for the Type 037II-Class (Houjian Class) Chinese Corvette of the Gun Weapon Systems:
+The Name is AK-176.
+The Type is Naval Gun.
+The Caliber is 76.2 mm.
+The Quantity is 1 × AK-176 Naval Gun.
+The Length is 4484 mm.
+The Weight is 16,800 kg.
+The Crew is 2 (4 in manual control mode).
+The Barrels is 1.
+The Recoil is 380 to 500 mm.
+The Elevation is -15° to +85°.
+The Traverse is ±175°.
+The Rate of FIre is 120 rds/min.
+The Muzzle Velocity is 980 m/s.
+The Maximum Firing Range is 15.5 km.
+The Effective Firing Range is 10 km.
+The Feed System is 152 ready to fire rounds.
+The Sights is INA.
+
+Here is Gun Weapon System #1 Ammunition information for the Type 037II-Class (Houjian Class) Chinese Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 76.2 mm.
+The Shell is INA.
+The Basic Load is INA.
+
+Here is Gun Weapon System #2 information for the Type 037II-Class (Houjian Class) Chinese Corvette of the Gun Weapon Systems:
+The Name is Type 69.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Quantity is 4 × Type 69 14.5 mm heavy machine guns (2 × 2).
+The Length is 1,980 mm.
+The Barrel Length is 1,346 mm.
+The Width is 162mm.
+The Height is 225mm.
+The Weight is 49 kg.
+The Action is Short recoil operation.
+The Rate of FIre is 600 rpm.
+The Muzzle Velocity is 1,005 m/s.
+The Maximum Firing Range is 4000m.
+The Effective Firing Range is 3000m.
+The Feed System is 40-round belt.
+The Sights is iron or optical.
+
+Here is Gun Weapon System #2 Ammunition information for the Type 037II-Class (Houjian Class) Chinese Corvette of the Gun Weapon Systems:
+The Type is Rifle.
+The Caliber is 14.5 mm.
+The Cartridge is 14.5×114 mm.
+The Basic Load is INA.
+
+Here is Missile Weapon System #1 information for the Type 037II-Class (Houjian Class) Chinese Corvette of the Missile Weapon System:
+The Name is C-802.
+The Type is Anti-Ship Missile System.
+The Note is The C-802 is the export version of the YJ-83.
+The Length is INA.
+The Weight is INA.
+The Warhead is 190 kg high-explosive fragmentation.
+The Engine is CTJ-2 turbojet.
+The Operational Range is 120 km.
+The Maximum Speed is Mach 0.9.
+The Guidance System is Inertial navigation/active radar homing terminal guidance.
+
+Here is Mines information for the Type 037II-Class (Houjian Class) Chinese Corvette:
+The Launcher is 2 x mine rails fitted.
+The Note is 12 x mines max. mines.
+
+Here is Mortar System information for the Type 037II-Class (Houjian Class) Chinese Corvette:
+The Mortar Launcher is The ships are armed with two 6-tubed anti-submarine mortar launchers..
+The Mortar Type is Type 87 Mortars.
+The Basic Load is INA.
+
+Here is Fire Control System (FCS) information for the Type 037II-Class (Houjian Class) Chinese Corvette:
+The FCS Name is INA.
+The Computerized FCS is Yes, 1 × I-band Type 347 (Rice Lamp) FCS..
+The Battle Management System is No.
+
+Here is Radar Systems information for the Type 037II-Class (Houjian Class) Chinese Corvette:
+The Name is 1 × I-band Type 352 (Square Tie) Surface Search Radar.
+The Type is Surface Search Radar.
+The Frequency is INA.
+The Range is INA.
+
+Here is Sonar Systems information for the Type 037II-Class (Houjian Class) Chinese Corvette:
+The Name is 1 x Tamir-11 HF sonar.
+The Type is Hull-mounted sonar.
+
+Here is Protection information for the Type 037II-Class (Houjian Class) Chinese Corvette:
+The Active Protection System is INA.
+The Countermeasures is INA.
+The NBC Water Washdown System is INA.
+The Depth Charge Racks is 2 x depth charge racks.
+The Depth Chargers is 2 x BMB-2 depth charge mortars.
+

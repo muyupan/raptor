@@ -1,0 +1,102 @@
+This document describes the D-30 (M1963) Russian 122mm Towed Howitzer.
+
+The D-30, also known as the M1963, replaced the older 122mm howitzer M-30 (M1938). The original D-30 was fielded in 1963 and the midlife product improvements occurred in the mid to late 1970s. The original D-30 is in use in at least 50 different countries. The 2A18M, D-30A, and D-30M are midlife product improvements of the D-30 that are currently in production. The D-30 features a unique three-trail carriage, a conspicuous boxy shield for the recuperator above the tube, and a small protective shield between the wheels. The gun has a semiautomatic, vertically sliding, wedge-type breech block. It is towed muzzle-first by a truck or armored tractor, at speeds up to 80 kilometers per hour, with its trails folded under the barrel.
+
+This equipment has proliferated into the following countries: Afghanistan, Albania, Algeria, Armenia, Azerbaijan, Bangladesh, Belarus, Bosnia and Herzegovina, Burundi, Cambodia, CFE Treaty, China, Congo, Croatia, Cuba, Djibouti, Egypt, Eritrea, Estonia, Ethiopia, Finland, Georgia, Ghana, Guinea-Bissau, India, Iran (Islamic Republic of), Iraq, Israel, Kazakhstan, Kyrgyzstan, Laos (People's Democratic Republic), Lebanon, Libya, Madagascar, Mongolia, Montenegro, Mozambique, Nicaragua, Nigeria, North Korea (Democratic People's Republic of Korea), Oman, Pakistan, Peru, Russian Federation, Rwanda, Somalia, South Sudan, Tajikistan, Tanzania, Turkmenistan, Ukraine, Uzbekistan, Viet Nam, Zambia, Zimbabwe.
+
+Here is Variants information for the D-30 (M1963) Russian 122mm Towed Howitzer:
+The 2A18M or D-30M is new double baffle muzzle brake, square central base plate, towing lunette assembly..
+The 2A18M-1 or D-30M-1 is with semi-automatic loader. Prototype..
+The D-30A is modified recoil system, new muzzle brake..
+The 2S1 Gvozdika s is self-propelled version..
+The Type 85 or D-30-2 is Chinese self-propelled version of the D-30..
+The D-30-3 is Chinese upgrade of the Type 56 85 mm field gun with 122 mm weapon..
+The Type 86, variously, Type 83, Type 96 is Chinese licence-production or derivative of the D-30..
+The D30 RH M-94 is Croatian built version, new muzzle brake, redesigned trail, improved hydraulic brake..
+The D 30-M is Egyptian license version of the D-30..
+The SPH 122 is Self-propelled version, mounted on a modified M-109 chassis..
+The T-122 is Self-propelled version, mounted on a modified T-34 chassis..
+The HM 40 is Iranian version..
+The Shafie D-30I or HM-40 is Iranian version..
+The D-30J is Yugoslav version of the D-30 - heavily modified version based on license designed by Military Technical Institute Belgrade.
+The Saddam is Iraqi designation of Yugoslavia D-30J produced on license bought from Yugoslavia..
+The D-30JA1 is Improved Serbian version - further development of D-30J..
+The Sora 122mm is Self-propelled version of D-30J..
+The M-91 "Mona" is Yugoslav variant with the 100 mm ordnance of the MT-12. Prototype only..
+The Khalifa-1 is Sudanese licensed version of the D-30..
+
+Here is System information for the D-30 (M1963) Russian 122mm Towed Howitzer:
+The Alternative Designation is D-30; M1963.
+The Type is Towed Howitzer.
+The Caliber is 122 mm.
+The Manufacturer is Spetstehnika Joint Stock Company followed by PJSC (Plant #9).
+The Crew is 7.
+The Displacement Time is 3.5.
+The Emplacement Time is 1.5.
+
+Here is Dimensions information for the D-30 (M1963) Russian 122mm Towed Howitzer:
+The Length, Chassis Overall Travel is 5.4.
+The Height, Travel is 1.6.
+The Width, Travel is 1.9.
+The Weight, Combat is 3.2 tons.
+
+Here is Automotive information for the D-30 (M1963) Russian 122mm Towed Howitzer:
+The Prime Mover is MT-LB, Ural-4320.
+The Maximum Towing Speed, Road is 60.
+The Maximum Towing Speed, Off-Road is 25.
+The Fording Depth is 0.5.
+
+Here is Main Weapon System information for the D-30 (M1963) Russian 122mm Towed Howitzer:
+The Name is 2A18M.
+The Type is Howitzer.
+The Caliber is 122.
+The Barrel Length is 38.
+The Rate of Fire – Burst is 8.
+The Rate of Fire – Normal is 6.
+The Rate of Fire – Sust is 4.
+The Loader Type is Semi- Automatic.
+The Breech Type is Vertical Sliding Wedge.
+The Muzzle Brake Type is Multi-baffle.
+The Maximum Elevation is +70.
+The Minimum Elevation is -7.
+The Traverse Range is 360.
+The Traverse Left is 360.
+The Traverse Right is 360.
+
+Here is Ammunition (Option 1) information for the D-30 (M1963) Russian 122mm Towed Howitzer of the Ammunition:
+The Name is OF-81.
+The Type is Frag-HE.
+The Caliber is 122.
+The Range, Minimum is 1000.
+The Range, Maximum is 15,300.
+The Projectile Weight is 21.76.
+The Muzzle Velocity is 680.
+The Fuze Type is RGM-2 PD.
+
+Here is Ammunition (Option 2) information for the D-30 (M1963) Russian 122mm Towed Howitzer of the Ammunition:
+The Name is HEAT-FS.
+The Type is HEAT.
+The Caliber is 122.
+The Range, Minimum is INA.
+The Range, Maximum is INA.
+The Projectile Weight is 21.58.
+The Muzzle Velocity is 740.
+The Fuze Type is GPV-2 PIBD.
+
+Here is Ammunition (Option 3) information for the D-30 (M1963) Russian 122mm Towed Howitzer of the Ammunition:
+The Name is Frag-HE Rocket Assisted.
+The Type is Frag-HE.
+The Caliber is 122.
+The Range, Minimum is INA.
+The Range, Maximum is 21,900.
+The Projectile Weight is 21.76.
+The Muzzle Velocity is INA.
+The Fuze Type is PD.
+
+Here is Fire Control System information for the D-30 (M1963) Russian 122mm Towed Howitzer:
+The Indirect Fire is PG-1M Pantel.
+The Direct Fire is OP 4M-45.
+The Collimator is K-1.
+The Fire Control Computer is None.
+The Gun Display Unit is None.
+

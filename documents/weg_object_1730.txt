@@ -1,0 +1,59 @@
+This document describes the KrAZ-255B Russian 6x6 Cargo Truck.
+
+Primarily designed as a cargo truck, the KRAZ-255B is also used as a prime mover for various equipment including a tank transporter trailer and PMP pontoon bridge.
+
+This equipment has proliferated into the following countries: Bulgaria, Georgia, Hungary, India, Kazakhstan, Kurdistan, Kyrgyzstan, Lebanon, Lithuania, North Korea (Democratic People's Republic of Korea), Poland, Romania, Russian Federation, Serbia, Slovakia, Slovenia, Turkmenistan, Ukraine, Uzbekistan, Viet Nam.
+
+Here is Variants information for the KrAZ-255B Russian 6x6 Cargo Truck:
+The KrAZ-255B is Baseline tactical truck model, produced since 1967. Features cargo area with tarpaulin cover..
+The Kraz 255B1 is The KrAZ-255B (B1) was a later model equipped with a new dual-circuit braking system that replaced an earlier single circuit system.
+The KzAZ-255BT /VT is From 1972, production of versions for Tropical (T) climates and temperatures up to +50°С were introduced, such models having a revised KrAZ-255BT or VT (T - Tropical) designation..
+The KrAZ-255 (V1) is The KrAZ-255 (V1) fifth-wheel tractor is based on the KrAZ-255B (B1) and can tow semi-trailers weighing up to 26,000 kg on roads, or 18,000 kg across country..
+The KrAZ-255L (L1) is KrAZ-255L (L1) (6 × 6) timber truck tractor, based on the KrAZ with a load carrying capacity of 8,000 kg. The KrAZ-255L (L1) timber truck tractor forms a road train when used in conjunction with the TMZ-9383 two-axle timber trailer; GVW of the road train is 39,000 kg..
+The KrAZ-256B (B1) is The KrAZ-256B (B1) is a 6 × 4 dump truck with a load carrying capacity of 12,000 kg..
+The KrAZ-258 (B1) is KrAZ-258 (B1) is a 6 × 6 fifth-wheel tractor truck with a load carrying capacity of 12,000 kg and the ability to tow assorted semi-trailers of up to 30,000 kg..
+
+Here is System information for the KrAZ-255B Russian 6x6 Cargo Truck:
+The Alternate Designations is Kraz-255B; Kraz 255.
+The Type is Cargo Truck.
+The Manufacturer is Kraz.
+The Configuration is 6x6.
+The Crew is 1 + 1 in cab (driver, passenger).
+The Cargo Capacity is 7,500 kg.
+The Towed Load, On Road is 30,000 kg.
+The Towed Load, Off Road is 10,000 kg.
+
+Here is Dimensions information for the KrAZ-255B Russian 6x6 Cargo Truck:
+The Length is 8.65 m.
+The Width is 2.94 m.
+The Height is 3.18 m.
+The Weight Empty is 11.9 tons.
+The Weight, Maximum Load is 20 tons.
+The Ground Clearance is 0.63 m.
+
+Here is Automotive information for the KrAZ-255B Russian 6x6 Cargo Truck:
+The Engine Name is YaMZ-238.
+The Engine Type is V8 Diesel.
+The Engine HP is 240 hp at 2.100 rpm.
+The Power-to-Weight Ratio, Empty is 20 hp/t empty.
+The Power-to-Weight Ratio, Full is 12 hp/t max load.
+The Fuel Capacity is 330 liters.
+The Transmission is Manual, 5 forward, 1 reverse.
+The Electrical System is 24V.
+The Suspension is (front) longitudinal semi-elliptic springs; (rear) equaliser type on 2 longitudinal semi-elliptical springs.
+The Steering is screw and nut with roller ball, hydraulic booster.
+The Brakes is air, drums front and rear.
+The Tires is 1300 × 530-533.
+The Range is 825 - 950 km on road.
+The Maximum Speed is 71 km/h on road.
+The Gradient is 58 %.
+The Vertical Obstacle is 0.600m.
+The Trench is 0.680m.
+
+Here is Protection information for the KrAZ-255B Russian 6x6 Cargo Truck:
+The Armor is None, soft skin vehicle.
+The Applique Armor is INA.
+The Active Projection System is No.
+The NBC Protection is No.
+The Smoke Equipment is No.
+

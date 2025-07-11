@@ -1,0 +1,20 @@
+This document describes the 64N6E (Big Bird) Russian Ballistic Missile Intercept Radar.
+
+Used for the detection of aerial targets and ballistic missiles and works in conjunction with the SA-10A Grumble or the SA-20 Gargoyle surface to air missile systems.  30% larger aperture than the U.S. Navy's SPY-1 Aegis radar.
+Unlike Western phased arrays in this class, the 64N6 uses a reflective phased array with a front face horn feed, the horn placed at the end of the long boom which protects the waveguides to the transmitters and receivers in the cabin. The beam steering electronics are embedded inside the antenna array, which has around 2700 phase elements on either face. This Janus faced arrangement permits the Big Bird to concurrently search two 90 degree sectors, in opposite directions, using mechanical rotation to position the antenna and electronic beam steering in azimuth and elevation. This design technique permits incremental growth in output power as the only components of the system which have to handle high microwave power levels are the waveguide and feed horn.
+
+The 64N6E is a frequency hopper, and incorporates additional auxiliary antenna/receiver channels for suppression of sidelobe jammers - NIIP claim the ability to measure accurate bearing to jamming sources. The back end processing is Moving Target Indicator (MTI), and like the Aegis the system software can partition the instantaneous sector being covered into smaller zones for specific searches. To enhance MTI performance the system can make use of stored clutter returns from multiple preceding sweeps. Detection ranges for small fighter targets are of the order of 140 to 150 nautical miles for early variants. Per 12 second sweep 200 targets can be detected, and either six or twelve can be individually tracked for engagements.
+
+While the Big Bird provides an excellent acquisition capability against aerial and ballistic missile targets, the 5V55 missile was inadequate. The S-300PM/PMU1 introduced the 48N6 which has much better kinematics - cited range against aerial targets is 81 nautical miles, ballistic missile targets 21.5 nautical miles, with a minimum engagement range of 1.6 to 2.7 nautical miles. Low altitude engagement capabilities were improved - down to 20 - 30 ft AGL. The missile speed peaks at 2,100 metres/sec or cca Mach 6. The missiles can be fired at 3 second intervals, and Russian sources claim a single shot kill probability of 80% to 93% for aerial targets, 40% to 85% for cruise missiles and 50% to 77% for TBMs.
+
+This equipment has proliferated into the following countries: Algeria, China, Russian Federation.
+
+Here is Radar information for the 64N6E (Big Bird) Russian Ballistic Missile Intercept Radar of the System:
+The Radar Type is S-Band phased array search and acquisition.
+The Target Detecting Capability is Can detect up to 200 targets simultaneously.
+The Target Tracking Ability is Either 6 or 12 targets maximum depending on the number of antennas being used..
+The Band of Operation is 2 GHz.
+The Azimuth of Operation is 360 with both antennas.
+The Detection Range is 140-150 nautical miles.
+The Time required to be ready to track from the march is 5 minutes.
+

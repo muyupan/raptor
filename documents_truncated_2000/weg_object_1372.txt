@@ -1,0 +1,72 @@
+This document describes the Supply Class Australian Replenishment Oiler.
+
+The Supply Class Australian Replenishment Oiler is a class of two new vessels built by the Spanish company Navantia for the Royal Australian Navy (RAN). The vessels can be used to supply dry cargo, fuel, food, water, ammunition, equipment, and spare parts to deployed naval or combat forces during missions on the high seas.
+
+This equipment has proliferated into the following countries: Australia.
+
+Here is Variants information for the Supply Class Australian Replenishment Oiler:
+The Supply is Commissioned: 2021
+Status: Active.
+The Stalwart is Commissioned: 2021
+Status: Active.
+
+Here is System information for the Supply Class Australian Replenishment Oiler:
+The Alternative Designation is Supply Class.
+The Type is Replenishment Oiler.
+The Builder is Navantia, Ferrol.
+The Crew is The vessel can accommodate up to 122 personnel, including the crew. The operators are seated in an enclosed, integrated bridge located in the forward portion of the ship..
+The Cargo Capacity is The Supply Class Australian Replenishment Oiler can supply 470t of provisions and has the ability to hold 1,450m³ of JP-5 jet fuel, 8,200m³ of marine diesel fuel, 140m³ of fresh water and 270t of ammunition..
+
+Here is Dimensions information for the Supply Class Australian Replenishment Oiler:
+The Length is 173.9 m.
+The Height is INA.
+The Beam is 23.0 m.
+The Draft is 8.0 m.
+The Displacement, Standard is 19,500 tons.
+The Displacement, Full Load is 9,800 tones (full load deadweight).
+
+Here is Propulsion System information for the Supply Class Australian Replenishment Oiler:
+The Engine Name is 2 x MAN 18V 32/40 main engines.
+The Engine Type is four-stroke, in-line MAN 18V 32/40 main engines.
+The Engine Power is Each engine develops an output power of 9,000kW at speeds ranging between 720rpm and 750rpm..
+The Generator is 4 x MAN 7L21/31 IMO Tier II marine generating sets..
+The Generator Power is The power generating capacity of each generating set is 1,500kW at 1,000rpm..
+The Maximum Range is 6,000 nmi (11,000 km) at 13 knots (24 km/h).
+The Maximum Speed is 20 knots (37 km/h).
+
+Here is System information for the Supply Class Australian Replenishment Oiler of the Main Weapon System:
+The Name is 1 × Phalanx CIWS.
+The Type is Close-In Weapon System (CIWS).
+The Caliber is 20 mm.
+The Barrel Length is 1,520 mm.
+The Weight is 6,200 kg.
+The Barrels is 6-barrel (progressive RH parabolic twist, 9 grooves).
+The Guidance System is Ku-band radar and FLIR[.
+The Elevation is −20°/+80°.
+The Traverse is 150° from either side of centerline.
+The Rate of Fire is 3,000 rpm.
+The Muzzle Velocity is 1,100 m/s.
+The Maximum Firing Range is 5,500 m.
+The Effective Firing Range is 1,486 m.
+
+Here is Ammunition information for the Supply Class Australian Replenishment Oiler of the Main Weapon System:
+The Type is Projectile.
+The Caliber is 20×102mm.
+The Shell is Naval: Armor-piercing tungsten penetrator rounds with discarding sabots.
+Land: High-explosive incendiary tracer, self-destruct.
+
+Here is System #1 information for the Supply Class Australian Replenishment Oiler of the Auxiliary Weapon System:
+The Note is 2 × 25 mm Typhoon Weapon Stations.
+
+Here is System #2 information for the Supply Class Australian Replenishment Oiler of the Auxiliary Weapon System:
+The Note is 4 × 12.7 mm heavy machine guns.
+
+Here is Aviation Facility information for the Supply Class Australian Replenishment Oiler:
+The Flight Deck is The ship has a flight deck at the stern to support the operation of a single helicopter..
+The Aircraft is 1 x helicopter.
+
+Here is Protection information for the Supply Class Australian Replenishment Oiler:
+The Countermeasures is No.
+The NBC Water Washdown System is Yes.
+The EW Intercept is No.
+

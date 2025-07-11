@@ -1,0 +1,14 @@
+ValueError: Fitting the mixture model failed because some components have ill-defined empirical covariance (for instance caused by singleton or collapsed samples). Try to decrease the number of components, increase reg_covar, or scale the input data. The numerical accuracy can also be improved by passing float64 data instead of float32.
+
+Changed code, raptor code from the paper to the llamaindex code, also changed input dataset to Dr. Zhang's dataset
+
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 152.00 MiB. GPU 0 has a total capacity of 39.49 GiB of which 25.56 MiB is free. Including non-PyTorch memory, this process has 39.46 GiB memory in use. Of the allocated memory 37.98 GiB is allocated by PyTorch, and 752.04 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+sys:1: RuntimeWarning: coroutine 'Dispatcher.span.<locals>.async_wrapper' was never awaited
+
+
+File "/storage/home/mfp5696/vxk_group/conda/env/raptor/lib/python3.10/copy.py", line 229, in _deepcopy_dict
+    memo[id(x)] = y
+RecursionError: maximum recursion depth exceeded while calling a Python object
+2027 sys:1: RuntimeWarning: c oroutine 'Dispatcher.span.<locals>.async_wrapper' was never awaited
+
+Not clear what is the problem happened here, I can only try to increase the python recursion depth limit and use a smaller chunk size 

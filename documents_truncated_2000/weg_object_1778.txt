@@ -1,0 +1,74 @@
+This document describes the ChMZAP-9990 Russian 57-Ton Semi-Trailer.
+
+The CHMZAP-9990 semitrailer is an excellent, rugged tank transporter and general bulk cargo carrier design capable of operations on paved roads, natural roads, trails and selected off-road terrain. The CHMZAP-9990 has three equally spaced axles and 12 tires (wheels). The 12 tires are arranged in pairs on half-axles, with each pair independent of the pair across the vehicle from it. There is no axle across the vehicle. Each half-axle and wheel pair is mounted on a center pivot which allows 15 degrees of roll freedom in each direction. All three axle pairs on each side of the vehicle are connected to a walking beam or rocker arm type. This beam is 8 feet long, tapered towards the ends and a massive weldment in structure. The extreme wheel pairs (axles 1 and 3) are connected at the ends of the beam, while the middle axle is co-located with the walking beam pivot in the center of the beam and connected through an auxiliary walking beam of somewhat unknown design. Loads are transferred from the semitrailer through the walking beam pivot to the walking beam. The first and third axles receive their loads at the ends of the walking beam while load to the center axle is through the auxiliary walking beam.
+The CHMZAP-9990 semitrailer has stakebody sides and a cargo floor bed. When carrying general cargo it provides tremendous capability. The gooseneck section includes two spare tires, landing legs, and a tire-handling boom.
+A very useful feature of this semitrailer is the low-tire-inflation-pressure warning system. The system is designed to warn the operator of a fall in tire pressure below 4.4 kg/cm2 in any of the 12 tires on the trailer (5.5 kg/cm2 is normal). Sensors in each wheel of the trailer make an electrical connection when tire pressure falls below the designated pressure. This activates a horn or buzzer in the operator's cab, warning only that one or more tires is low. The operator must then stop the truck and go to a terminal panel box on the trailer. This panel box contains a series of press-to-test buttons, arranged in a pattern to represent wheel placement. By pressing each button or a series of them, the operator can determine the low tire; the buzzer will stop sounding when the button (or buttons) for the low-pressure wheel (or wheels) is pressed. Components on the trailer are connected by means of a detachable shielded conduit to the buzzer and a 24-v electrical power source in the tractor.
+
+This equipment has proliferated into the following countries: Russian Federation.
+
+Here is Variants information for the ChMZAP-9990 Russian 57-Ton Semi-Trailer:
+The Serdobsk Low Loader Semitrailer Model 9990.052 is Payload on-road: 52mt
+GVW on-road: 67mt
+Tractors: 
+   MZKT-7428 8X8
+   MZKT-74135 8X8
+   MZKT-7401 8X8
+Length: 14.44m
+Width: 2.15m
+Height: 3.3m
+Curb weight: 15mt
+Wheelbase: 1.41m between wheels
+Wheelbase: 3.3m from 1st wheel to tractor rear-wheel
+Cargo bed length: 9.19m
+Cargo bed width: 3.15m
+Cargo bed height: 1.3m
+# of axles: 2
+# of wheels: 8
+Tire size: 14.00XR20.
+The MWTP-99941/2 70 ton semi-trailer is Weight loaded: 95mt
+Weight empty: 25 mt
+Max fifth wheel loading: 30mt
+Max payload: 70mt
+Length overall: 10.02m
+Width overall: 3.65m
+Height overall: 3.62m
+Ground clearance: 0.54m at full load
+Cargo bed length: 13.9m
+Cargo bed height: 1.4m
+Wheelbase between traler axes: 1.6m
+Max towing spedd: 90km/h
+Tires: 525/65R 20 with tibes and CTI system
+Electrical system: 12V
+Primary tractor: MZKT-74135 8X8
+Alternate name: METO-99942.
+
+Here is System information for the ChMZAP-9990 Russian 57-Ton Semi-Trailer:
+The Number of Axles is 3.
+The Number of Tires is 12.
+The Payload is 52.
+The Trailer Type is Semitrailer.
+The Weight, Gross Vehicle is With MAZ-537G tractor: 75.54581.
+The Wheels Central Tire Pressure Regulation System is Yes.
+The Wheels Size is 1025X420-457.
+
+Here is Mobility information for the ChMZAP-9990 Russian 57-Ton Semi-Trailer:
+The Mobility, Towing Vehicle is MAZ-537G.
+The Speed, off-road, 40 ton payload is 10.
+The Speed, off-road, 55 ton payload is 7.5.
+The Speed, off-road, 70 ton payload is 6.
+
+Here is Payload information for the ChMZAP-9990 Russian 57-Ton Semi-Trailer:
+The Cargo Curb Weight is 18.
+The Cargo Payload On is 52.
+The Cargo Bed Height is 3.19.
+The Cargo Bed Length is 14.42.
+The Cargo Bed Width is 3.15.
+The Curb Weight is 18.
+The Cargo Payload Off is 52.
+The Ground Clearance is .279.
+The Angle of Approach is 35.
+The Angle of Departure is 28.
+The Rolling Radius is 9.215.
+The Cargo area is 28.
+The Cargo volume is 55.
+

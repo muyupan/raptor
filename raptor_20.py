@@ -1,4 +1,13 @@
+from datetime import datetime
 
+# Get the current date and time
+now = datetime.now()
+
+# Format the time as a string (e.g., HH:MM:SS)
+current_time = now.strftime("%H:%M:%S")
+
+# Print the formatted time
+print("Current Time =", current_time)
 # get_ipython().run_line_magic('pip', 'install llama-index-llms-huggingface')
 # get_ipython().run_line_magic('pip', 'install llama-index-embeddings-huggingface')
 # get_ipython().system('pip install llama-index ipywidgets')
@@ -18,7 +27,7 @@ nest_asyncio.apply()
 from llama_index.core import SimpleDirectoryReader
 
 reader = SimpleDirectoryReader(
-    input_dir="/storage/home/mfp5696/vxk_group/250630_nlp_hallucination/250630_raptor/250710_documents_20",
+    input_dir="/Users/muyupan/250630_nlp/250710_raptor/250710_documents_5",
     recursive=True,
 )
 
@@ -169,4 +178,4 @@ query_engine = RetrieverQueryEngine.from_args(
 
 response = query_engine.query("What countries have diesel submarines?")
 print(str(response))
-
+print("Current Time =", current_time)

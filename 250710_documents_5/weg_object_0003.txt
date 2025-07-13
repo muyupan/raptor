@@ -1,0 +1,215 @@
+This document describes the T-64 Russian Main Battle Tank (MBT).
+
+The T-64 (T-64B) is a Soviet second-generation main battle tank introduced in the early 1960s. It was a more advanced counterpart to the T-62: the T-64 served tank divisions, while the T-62 supported infantry in motorized rifle divisions. It introduced a number of advanced features including composite armor, a compact engine and transmission, and a smoothbore 125-mm gun equipped with an autoloader to allow the crew to be reduced to three so the tank could be smaller and lighter. In spite of being armed and armored like a heavy tank, the T-64 weighed only 38 tons (42 short tons; 37 long tons).
+
+This equipment has proliferated into the following countries: CFE Treaty, Congo, Russian Federation, Ukraine, Uzbekistan.
+
+Here is Variants information for the T-64 Russian Main Battle Tank (MBT):
+The T-64A is Production version of base tank. Tank has a history of reliability problems, and lacks the high armor protection, track skirts, a fcs and ATGM launch capability for t-64b..
+The T-64B is The T-64B is a redesign of the T-64A, which became the main service version of the vehicle..
+The T-64BK is The T-64BK is a command variant of the T-64B. It is designed for local command of armored vehicles at the tactical level. It is equipped with additional communications equipment for this purpose..
+The T-64BVK is The T-64BVK is an up-armored version of the T-64BK. It includes the same equipment as the T-64BK and includes the additional armor from the T-64BV..
+The T-64U version 1 (v1) is The T-64U is available in two versions. Version 1 is an upgraded T-64A or T-64B, designed to provide the T-64 with enough protection and modern systems to maintain its battlefield efficacy..
+The T-64U Version 2 (v2) is The T-64U v2 is a second upgrade option for the T-64 MBT offered by the Malyshev plant. It is thought to be identical to v1 with the exception of the power pack..
+The BM Bulat is The BM Bulat is the most comprehensive upgrade of the T-64B, it gives the T-64B the technology required to perform on a modern battlefield..
+The T-64, 2017 is The T-64, 2017 is believed to be based on the T-64BV. It is an upgraded vehicle designed to provide modern night-fighting capabilities as a capital vehicle on the battlefield..
+The T-64MV is The T-64MV is an upgrade developed and manufactured in Uzbekistan by the country’s own defense industry to improve the capabilities of its armed forces..
+The BREM-64 is The BREM-64 is an ARV based on the hull of a T-64. This ARV is still used in former Soviet eastern block states, such as Ukraine. For the ARV application, the T-64 turret was removed from the T-64 and replaced by a steel superstructure. A swiveling crane with a folding jib with a capacity of 2,500 kg was added to the left-hand side of the superstructure. The vehicle carries two winches; the main winch had a basic pulling capacity of 25 tons while the secondary winch had a capacity of 2.5 tons. Vehicle stability was provided by a front-mounted hydraulically operated dozer blade, which could also be utilized to clear battlefield obstacles and prepare sites..
+
+Here is System information for the T-64 Russian Main Battle Tank (MBT):
+The Alternative Designation is T-64; T-64B.
+The Type is Main Battle Tank.
+The Family is T-64 Family.
+The Crew is 3.
+The Maximum Effective Range is 600.
+The Note is The T-64 became the primary MBT of Soviet forces until it was replaced by the T-80 and T-72..
+
+Here is Dimensions information for the T-64 Russian Main Battle Tank (MBT):
+The Length (Gun Forward) is 9.23.
+The Length (Hull) is 6.54.
+The Width is 3.41.
+The Height is 2.17.
+The Weight, Combat is 39.
+The Ground Pressure is INA.
+
+Here is Automotive information for the T-64 Russian Main Battle Tank (MBT):
+The Engine Name is 5TDF Diesel.
+The Engine Type is Diesel.
+The Engine Power is 700.
+The Cruising Range is 600.
+The Speed, Maximum Road is 60.
+The Speed, Average Cross is 50.
+The Speed Maximum Swim is Not Amphibious.
+The Gradient is 60 %.
+The Side Slope is 40 %.
+The Vertical Step is 0.8.
+The Trench is 2.72.
+The Fording Depth (Without Preparation) is 1.4.
+The Fording Depth (With Preparation) is 5.0.
+
+Here is System information for the T-64 Russian Main Battle Tank (MBT) of the Main Gun:
+The Name is 1 x D-81T (aka 2A46) 125 mm Smoothbore Gun.
+The Type is Smoothbore Gun.
+The Caliber is 125 mm.
+The Weight (Barrel) is 1,073.
+The Max Rate of Fire is 8.
+The Manual Load Time is 1-2.
+The Autoloader is Yes, Carousel-Type Autoloader.
+The Fire on the Move is Yes, Main Gun.
+The Maximum Elevation is +14.
+The Minimum Elevation is -6.
+The Traverse Range is 360.
+The Evacuator Type is Central bore evacuator.
+The Automatic Loader is Yes.
+The Thermal Sleeve is Yes.
+The Effective Full Charge (EFC) Life is 600.
+The Breech Type is semi-automatic horizontal sliding breech block.
+The Loading System is Korzina electric and hydraulic automatic loading system.
+The Carousel is The carousel can accommodate 28 two-piece rounds of ammunition, and rotates automatically after each round is fired.
+The Carousel Load Time is 13-15.
+The Rate of Fire is 6-8.
+The Basic Load Time is 27.
+The Maximum Effective Range (Day) is 2,000.
+The Maximum Effective Range (Night) is 600.
+
+Here is Ammunition (Option 1) information for the T-64 Russian Main Battle Tank (MBT) of the Main Gun:
+The Type is Armor-Piercing Fin-Stabilized Discarding Sabot ((APFSDS)).
+The Caliber is 125.
+The Muzzle Velocity is 2,050.
+The Projectile Length is 900.
+The Projectile Weight is 11.
+The Effective Range is 2,000 m - 3,000 m.
+The Maximum Range is 4,000.
+The Armor Penetration is 1,000.
+The Muzzle Energy is 15-24.
+The Basic Load is 36 Total Rounds any combination of 125mm Projectiles.
+The Note is Entered service in 2005[5] Utilising a new sabot. Reported to be uranium alloy. For 2A82/2A82-1M cannon on T-80UM-2/T-14s..
+
+Here is Ammunition (Option 2) information for the T-64 Russian Main Battle Tank (MBT) of the Main Gun:
+The Type is High Explosives (HE).
+The Purpose is High explosive fragmentation fin stabilised. General purpose rounds, for use against infantry, bunkers and light vehicles and other "soft" targets..
+The Caliber is 125.
+The Proectile Weight is 23.
+The Round Weight is 33.
+The Muzzle Velocity is 850.
+The Max Dispersion is 0.23.
+The Maximum Effective Range is 5,000.
+The Tungsten Rods is 450.
+The Charge is A-IX-2 (73% RDX, 23% aluminium powder, phlegmatized with 4% wax) 3.0 kg.
+The Variants is 3VOF22/3OF19, 3VOF36/3OF26, 3VOF128/3OF82.
+The Basic Load is 36 Total Rounds any combination of 125mm Projectiles.
+
+Here is Ammunition (Option 3) information for the T-64 Russian Main Battle Tank (MBT) of the Main Gun:
+The Type is High-Explosive Anti-Tank (HEAT).
+The Name is 3VBK27/3BK31 "Start".
+The Caliber is 125.
+The Charge Weight is 1.62.
+The Projectile Weight is 18.4.
+The Muzzle Velocity is 915.
+The Max Dispersion is INA.
+The Maximum Range is 300.
+The Armor Penetration is Estimated at 800 mm triple charge HEAT.
+The Basic Load is 36 Total Rounds any combination of 125mm Projectiles.
+
+Here is System information for the T-64 Russian Main Battle Tank (MBT) of the Anti-Tank Guided Missile:
+The Name is 1 x Kobra (AT-8 Songster).
+The Type is SACLOS Anti-Tank Missile System.
+The Caliber is 125.
+The Manufacturer is KB Tochmash.
+The In Service is 1976-present.
+The Proliferation is Widely Proliferated throughout Armenia, Azerbaijan, Belarus, India Iran, Russia, Ukraine, and Uzbekistan.
+The Basic Load is 4-6.
+The Weight is 23.2.
+The Warhead Weight is 4.5.
+The Guidance System is SACLOS Radio.
+The Effective Firing Range is 100-4,000.
+The Muzzle Velocity is 125 m/s, which increases to 800m/s at its peak m/s.
+The Flight Time to a 4,000 Meter Targetsec is 9-10 seconds.
+The Armor Penetration is 600mm of RHA.
+The Hit Probability is 80.
+The Variants is 9M112M, 9M112M2, 9M124.
+The Note is Fired from the T-64 and T-80 Family of Russian Tanks.
+
+Here is System information for the T-64 Russian Main Battle Tank (MBT) of the Coaxial Weapons System:
+The Name is 1 x PKT (Kalashnikov's Machine Gun).
+The  is General-Purpose Machine Gun.
+The Caliber is 7.62.
+The Function is in use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces..
+The In Service is 1961-present.
+The Manufacturer is Degtyaryov plant.
+The Proliferation is 1 Million +.
+The Length (Overall) is 1,203.
+The Length (Barrel) is 605.
+The Weight (Gun Only) is 9.
+The Weight (Tripod Only) is 7.7.
+The Action is Gas-operated, open bolt.
+The Max Rate of Fire is 650.
+The Feed System is Non-disintegrating metal 50 round belts in 100 and 200/250 round ammunition boxes.
+The Sights is Iron SIghts.
+
+Here is Ammunition information for the T-64 Russian Main Battle Tank (MBT) of the Coaxial Weapons System:
+The Type is Rifle.
+The Caliber is 7.62.
+The Cartridge is 7.62×54mmR.
+The Muzzle Velocity is 825.
+The Effective Range (Iron Sights) is 100- 1,000.
+The Effective Range (With Sight Adjustments) is 100-1,500.
+The Maximum Firing Range is 3,800.
+The Basic Load is 250.
+
+Here is System information for the T-64 Russian Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Name is 1 x Type 54 DShK Heavy Machine Gun.
+The Type is Heavy Machine Gun.
+The Caliber is 12.7 mm.
+The Proliferation is over 1 Million.
+The Length (Total) is 1,625.
+The Length (Barrel) is 1,070.
+The Weight (Gun Only) is 34.
+The Weight (on Wheeled Mounting) is 157.
+The Max Rate of Fire is 600.
+The Range Finder Type is Optical.
+The Action is Gas-Operated, Flapper Locking.
+The Sights is Iron/Optical.
+The Feed System is 50 Round Belt.
+The Turret is single seat and placed at the rear of the vehicle roof. It is sharp-pointed at the front..
+The Variants is DK, DShKM, DSHKS, Type 54 HMG.
+The Fire on the Move is Yes.
+
+Here is Ammunition information for the T-64 Russian Main Battle Tank (MBT) of the Auxiliary Weapon System:
+The Type is Rifle.
+The Caliber is 12.7.
+The Cartridge is 12.7x108.
+The Muzzle Velocity is 850.
+The Effective Range is 2,500.
+The Armor Penetration is API: 21 at 500 m & 13 at 1000 m (RHA).
+The Basic Load is 300.
+
+Here is Fire Control information for the T-64 Russian Main Battle Tank (MBT):
+The Name is 1A33.
+The Computerized FCS is Yes.
+The Thermal Sight Tank Commander is Yes, TKN-3V combination day/night binocular periscopic.
+The Thermal Sight Gunner is Yes, TPN1-49-23 night sigh.
+The Main Gun Stabilization is 2-Plane, 2Eh26M armament stabiliser.
+The Fire on the Move is Yes.
+The Rangefinder is two-axis stabilised IG42 laser rangefinder sight.
+The Ballistic Computer is 1V517 Tank Ballistic Computer.
+The Vision Blocks is 1 x  TPNO-16, 2 x TPNA-65 day vision blocks.
+The PZU-5 monocular periscopic sight is Available.
+The Searchlight is L-2AgM infra-red searchlight.
+The Sight Type is 1G21 sight with Laser Telemetry.
+The Wind Sensor is 1B11 cross-wind sensor..
+
+Here is Protection information for the T-64 Russian Main Battle Tank (MBT):
+The Hull Armor is Cast and welded steel armor..
+The Turret Armor is Cast armor welded together.
+The Armor Protection (Front) is 370-440 mm of RHA against KE rounds and 500 mm to 575 mm of RHA against HEAT rounds.
+The Applique Armor is Available.
+The Self-Entrenching Blade is KMT-4 roller or the KMT-6 track width mine plough,.
+The Explosive Reactive Armor is No Explosive Reactive Armor (ERA).
+The Active Protection System is Yes.
+The Mine Clearing is Roller-plow available.
+The NBC Protection is Yes.
+The Smoke Equipment is 902A "Tucha-1" smoke grenade launcher in two groups of four, on each side of the gun.
+The IR Signature is INA.
+The Automatic Fire Suppression Systems. is Available, PPO fire detection and suppression system,.
+

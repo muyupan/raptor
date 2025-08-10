@@ -1,2 +1,10 @@
 slurm-*
 *.slurm
+*.txt
+test_qdrant.py
+Dockerfile~
+*.json
+*archive
+*documents*
+Dockerfile
+*.csv
